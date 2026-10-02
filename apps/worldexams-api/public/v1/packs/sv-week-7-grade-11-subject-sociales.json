@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando independencia ca.",
+      "statement": "¿Cuál fue el detonante inmediato de la independencia de Guatemala en 1821?",
+      "context": "El Museo de la Alianza dedica una sala a los hechos de septiembre de 1821.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "text": "La entrada de las tropas de Hernan de Aycinena a la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. La llegada de esas tropas el 15 de septiembre de 1821 provoco que las provincias se adhirieran al proyecto independentista."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La aprobación del Acta de Independencia el 15 de septiembre",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "El acta es el resultado juridico del proceso: declara la independencia, pero no explica por que se desato."
+        },
+        {
+          "letter": "C",
+          "text": "La sanción de la Constitución federal de 1824",
+          "is_correct": false,
+          "feedback": "Esa Constitución es tres años posterior, porque organizo un Estado que ya se habia declarado independiente."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El reconocimiento diplomatico de España a las provincias",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "España no reconocio la independencia de esas provincias hasta bastante después de que el movimiento ya estaba consumado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La entrada de las tropas de Hernan de Aycinena a la ciudad de Guatemala el 15 de septiembre de 1821 fue el hecho que dio impulso al movimiento, y dos días despues las provincias firmaron el acta de independencia.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando independencia ca.",
+      "statement": "¿Cuál fue la diferencia central entre el proyecto federal de Francisco Morazan y el proyecto unitario de 1821?",
+      "context": "Una clase compara los dos proyectos politicos que surgieron tras la independencia.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "text": "El federal queria un pais unico y el unitario defendia estados autonomos",
+          "is_correct": false,
+          "feedback": "Esta al reves de lo que ocurrio: el proyecto unitario era el que concentraba el poder en un gobierno central."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "text": "El federal buscaba una federacion de estados y el unitario un Estado centralista",
+          "is_correct": true,
+          "feedback": "Correcto. El federalismo repartia el poder entre estados con personalidad propia y el unitarismo lo concentraba en una sola capital."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Ambos proyectos defendian exactamente la misma estructura politica",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "No hay equivalencia entre ellos, porque la forma de organizar el poder era el punto central del debate de 1821."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El unitario buscaba una colonia administrada desde el puerto",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El proyecto unitario no pretendia una colonia, sino un Estado unico gobernado desde la capital."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "El proyecto federal de Francisco Morazan defendia una federacion de estados autonomos, mientras el proyecto unitario concentraba la autoridad en un gobierno central con sede fija; esa diferencia era el fondo del debate politico de 1821.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -99,81 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
+      "statement": "¿Qué principio se enuncia cuando el documento declara que el pueblo soberano es la fuente de toda autoridad?",
+      "context": "El grupo estudia la legitimidad del nuevo gobierno en los documentos de 1821.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "text": "La monarquia hereditaria",
+          "is_correct": false,
+          "feedback": "La monarquia hereditaria funda el poder en una dinastia, que es justo lo contrario de la soberania popular."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "El sufragio universal femenino",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El sufragio universal femenino llego mucho mas tarde, a mediados del siglo XX, y no era el principio fundante."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
-        },
-        {
-          "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Superávit comercial",
+          "text": "La soberanía popular",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "Correcto. Si el pueblo soberano es la fuente de la autoridad, el poder se legitima en la ciudadania y no en un monarca."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La estructura corporativa del poder",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El modelo corporativo repartia el poder entre privilegios heredados y no colocaba al pueblo soberano en la cima."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Declarar al pueblo soberano como fuente de toda autoridad es la formulacion temprana de la soberania popular, el principio que legitimaba al gobierno representante de la ciudadania y no de una dinastia.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,42 +143,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando independencia ca.",
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál de estos factores es la causa de fondo que hizo posible la independencia, y no el detonante?",
+      "context": "Un grupo de estudiantes distingue la causa inmediata del factor de fondo.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "La entrada de las tropas de Aycinena a la ciudad de Guatemala",
+          "is_correct": false,
+          "feedback": "Ese fue un hecho militar puntual de 1821, es decir el detonante y no la causa de fondo del proceso."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "La declaracion del Acta de Independencia",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El acta es el resultado juridico del proceso y no la causa que lo hizo posible."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La eleccion del primer presidente de la Republica",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Esa eleccion fue una consecuencia de la independencia ya consumada, no un factor que la preparo."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "text": "La crisis de la monarquia espanola tras las guerras de Napoleón",
+          "is_correct": true,
+          "feedback": "Correcto. La invasion napoleonica del 1808 provoco el vacio de poder en Espana que hizo posible el proceso de 1821."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La invasion napoleonica del 1808 provoco el vacio de poder en Espana y ese debilitamiento institucional hizo posible que las provincias obtuvieran su independencia una decada despues.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v5",
+      "statement": "¿Qué documento fundo oficialmente la Republica Federal de Centroamerica en 1824?",
+      "context": "El archivo departamental busca el documento que creo la nueva Republica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Constitucion federal de 1824",
+          "is_correct": true,
+          "feedback": "Correcto. Ese texto organizo los poderes Ejecutivo, Legislativo y Judicial de la Republica Federal de Centroamerica."
+        },
+        {
+          "letter": "B",
+          "text": "El codigo penal de Guatemala",
+          "is_correct": false,
+          "feedback": "El codigo penal regula las conductas individuales y no funda la organizacion del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "El tratado de Guadalupe Hidalgo",
+          "is_correct": false,
+          "feedback": "Ese tratado cerro la guerra con Mexico en 1848, mas de dos decadas despues de la Republica."
+        },
+        {
+          "letter": "D",
+          "text": "La Constitucion de El Salvador de 1889",
+          "is_correct": false,
+          "feedback": "Esa Constitucion es de El Salvador y pertenece a un momento muy posterior del siglo XIX."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitucion federal de 1824 organizo los tres poderes de la Republica Federal de Centroamerica, cuyo gobierno funciono con sede en San Salvador hasta 1839.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando independencia ca.",
+      "statement": "¿Que paises centroamericanos formaron la Republica Federal en 1824?",
+      "context": "La clase compara los paises que formaron la Republica con los que quedaron fuera.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Costa Rica, Panama y Colombia",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "Panama y Colombia nunca formaron parte de la Republica Federal de Centroamerica de 1824."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "text": "Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica",
+          "is_correct": true,
+          "feedback": "Correcto. Estos cinco Estados centroamericanos compusieron la Republica Federal con gobierno en San Salvador."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Mexico, Belice y Honduras",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "Mexico quedo fuera del proyecto unionista y Belice estaba bajo control britanico."
+        },
+        {
+          "letter": "D",
+          "text": "Cuba, Jamaica y Republica Dominicana",
+          "is_correct": false,
+          "feedback": "Las Antillas no participaron en el unionismo centroamericano de principios del siglo XIX."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La Republica Federal de Centroamerica agrupo en 1824 a los Estados de Guatemala, San Salvador, Honduras, Nicaragua y Costa Rica, bajo un gobierno unico con sede en San Salvador.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando independencia ca.",
+      "statement": "¿Cual es el orden correcto de estos hitos del proceso independentista?",
+      "context": "El profesor pide ordenar los tres hitos iniciales del proceso.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
+          "letter": "A",
+          "text": "Actas de independencia, Constitucion federal de 1824, entrada de las tropas a Guatemala",
+          "is_correct": false,
+          "feedback": "Las actas se firmaron despues de la entrada de las tropas, y la Constitucion federal es el ultimo de los tres."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Constitucion federal de 1824, entrada de las tropas a Guatemala, actas de independencia",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "La Constitucion federal de 1824 es el ultimo hito y no el primero, porque se dio cuando ya existia la Republica."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "text": "Entrada de las tropas a Guatemala, actas de independencia, Constitucion federal",
+          "is_correct": true,
+          "feedback": "Correcto. La entrada militar y las actas son de septiembre de 1821, y la Constitucion federal es de 1824."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Entrada de las tropas a Guatemala, Constitucion federal de 1824, actas de independencia",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "Las actas de independencia preceden a la Constitucion federal, que tres anos despues ordeno el Estado ya nacido."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La secuencia es la invasion napoleonica de 1808, la entrada de las tropas y las actas de independencia en septiembre de 1821, y por ultimo la Constitucion federal de 1824.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
+      "statement": "¿En que ciudad se instalo el gobierno de la Republica Federal de Centroamerica en 1824?",
+      "context": "El Museo del Pacifico muestra la sala donde sesiono el gobierno federal.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Guatemala",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "Guatemala fue el escenario del primer grito independentista, pero no la capital de la Republica Federal."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Tegucigalpa",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Tegucigalpa era capital del Estado de Honduras dentro de la federacion y luego del pais unico."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Managua",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Managua fue capital de Nicaragua y no sede del gobierno federal centroamericano."
+        },
+        {
+          "letter": "D",
+          "text": "San Salvador",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno federal centroamericano funciono en esta ciudad desde 1824 hasta su disolucion en 1839."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "explanation": "El gobierno de la Republica Federal de Centroamerica funciono con sede en San Salvador durante quince anos, de 1824 a 1839, hasta que el Estado de Honduras se separo.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
@@ -369,175 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando independencia ca.",
+      "statement": "¿Cuales fueron las causas principales de la desintegracion de la Republica Federal?",
+      "context": "Un seminario analiza las dos razones principales del fracaso de la federacion.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "text": "Las rivalidades entre los Estados y el choque de intereses politicos y economicos",
+          "is_correct": true,
+          "feedback": "Correcto. Los conflictos entre estados y entre sus elites fue lo que provoco la ruptura de la federacion."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Una invasion europea y un cambio climatico",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "No hubo invasion europea en ese periodo y el clima no es un factor de desintegracion politica."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "La adopcion del cafeto y la construccion del ferrocarril",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando independencia ca.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "El cafeto y el ferrocarril llegaron con posterioridad a la ruptura de 1839."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La supresion del comercio exterior y el cierre de los puertos",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Ninguno de esos dos elementos causo la desintegracion de la Republica Federal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La federacion se desintegro por las rivalidades entre los Estados, el conflicto entre los intereses de las capitales regionales y la debilidad militar que permitio que Honduras se separara en 1838.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando independencia ca.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
-        },
-        {
-          "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando independencia ca.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
@@ -548,42 +413,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v10",
+      "statement": "¿Que Estado quedo como unico gobierno unitario tras la desintegracion de 1839?",
+      "context": "La clase compara la posicion de cada region tras los acuerdos de 1838.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El poder judicial, que permanecio con sede en Guatemala",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El poder judicial no sobrevivio como estructura unitaria, se disolvio junto con la federacion."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "text": "El Estado de Honduras, que se separo de la federacion",
+          "is_correct": true,
+          "feedback": "Correcto. Honduras se declaro independiente en 1838 y fue el unico que sobrevivio como Estado unitario."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El poder legislativo regional, con sede en Leon",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "No existio un poder legislativo regional con sede en Leon despues de la ruptura."
+        },
+        {
+          "letter": "D",
+          "text": "La union economica, que se mantuvo con sede en Cartago",
+          "is_correct": false,
+          "feedback": "La union economica no fue una institucion con sede en Cartago, sino una figura contraria a la ruptura."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "En 1838 Honduras se declaro independiente de la Republica Federal y en 1839 el gobierno federal con sede en San Salvador quedo disuelto, dejando a Honduras como el unico Estado unitario que quedo en pie.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -593,38 +458,128 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando independencia ca.",
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v11",
+      "statement": "¿Que interes britanico llevo a Londres a favorecer la separacion de Honduras de la federacion?",
+      "context": "La comunidad internacional recuerda el papel de los diplomaticos britanicos.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "El deseo de imponer una monarquia europea en la region",
+          "is_correct": false,
+          "feedback": "Londres no pretendia coronar a ningun principe europeo, su interes era comercial y geodesico."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El deseo de recuperar el control de Guatemala",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "Britania no recupero Guatemala en ese periodo, porque nunca la administro directamente."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "El deseo de asegurar un canal interoceanico propio",
+          "is_correct": true,
+          "feedback": "Correcto. Londres queria un canal propio entre el Atlantico y el Pacifico y por esourso apoyaba la ruptura."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El deseo de eliminar el comercio del cafe centroamericano",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Britania no queria suprimir el cafe, porque ese producto-era la base de su propio comercio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Gran Bretana apoyó la secesion de Honduras de 1838 porque le convenia la ruptura del Estado regional, ya que buscaba un canal interoceanico propio entre el Atlantico y el Pacifico.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v12",
+      "statement": "¿Qué principio organizativo fijó la Constitución federal de 1824 sobre el poder legislativo?",
+      "context": "El archivo del Estado de El Salvador guarda una copia del texto de 1824.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una asamblea con miembros nombrados exclusivamente por el ejecutivo",
+          "is_correct": false,
+          "feedback": "Si los legisladores los nombraba el gobierno, no habría separación real de poderes."
+        },
+        {
+          "letter": "B",
+          "text": "Una asamblea integrada solo por diputados de Guatemala y El Salvador",
+          "is_correct": false,
+          "feedback": "La asamblea federal incluía representantes de los cinco Estados, no solo de los dos mayores."
+        },
+        {
+          "letter": "C",
+          "text": "Un consejo formado por los jefes militares de cada provincia",
+          "is_correct": false,
+          "feedback": "Los jefes militares organizaban las fuerzas armadas, no el órgano que elaboraba las leyes."
+        },
+        {
+          "letter": "D",
+          "text": "Una asamblea con representantes de los cinco Estados",
+          "is_correct": true,
+          "feedback": "Correcto. El poder legislativo residía en una asamblea con diputados enviados por cada uno de los cinco Estados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Constitución federal de 1824 estableció una asamblea legislativa con representantes de los cinco Estados, de modo que cada región participaba en la elaboración de las leyes de la República.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v13",
+      "statement": "¿Qué derechos reconoció la Constitución federal de 1824 a los ciudadanos?",
+      "context": "Un museo compara los derechos que el texto federal reconoció en 1824.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos civiles y políticos, con exclusión de las mujeres",
+          "is_correct": true,
+          "feedback": "Correcto. El texto reconocía derechos individuales y reglas de participación, aunque privaba a las mujeres del voto."
+        },
+        {
+          "letter": "B",
+          "text": "Ningún derecho, porque el Estado se reservaba toda decisión política",
+          "is_correct": false,
+          "feedback": "La Constitución sí reconocía derechos, por más que los limitara, y no se reservaba toda decisión política."
+        },
+        {
+          "letter": "C",
+          "text": "Solo derechos económicos, sin garantía civil alguna",
+          "is_correct": false,
+          "feedback": "El texto incluía garantías individuales, de modo que no se limitó a lo económico."
+        },
+        {
+          "letter": "D",
+          "text": "Derechos exclusivos de los propietarios de tierras",
+          "is_correct": false,
+          "feedback": "Los derechos no se concedían solo a los terratenientes, aunque la propiedad recibiera protección especial."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "explanation": "La Constitución federal de 1824 reconoció derechos civiles y políticos a los ciudadanos, con la restricción de que las mujeres quedaban excluidas del ejercicio del voto y de la función pública.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -638,42 +593,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando independencia ca.",
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v14",
+      "statement": "¿Qué forma de gobierno nunca existió en Centroamérica durante el periodo de la República Federal?",
+      "context": "Un investigador compara los dos regímenes políticos de Centroamérica.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La federación de estados autónomos",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "La federación de estados autónomos fue el proyecto que la Constitución de 1824 puso en vigor."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La monarquía absoluta",
+          "is_correct": true,
+          "feedback": "Correcto. Los Estados de la región fueron repúblicas o federaciones, nunca monarquías absolutas."
+        },
+        {
+          "letter": "C",
+          "text": "El gobierno unitario con sede en la capital",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "El gobierno unitario existió como proyecto político real y fue el que enfrentaron los federalistas."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La república federal con poderes repartidos",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "La república federal con poderes repartidos fue el régimen que duró de 1824 a 1839."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ninguno de los estados centroamericanos fue monarquía absoluta en ese periodo: la alternativa real fue el proyecto unitario frente al federal, y la República Federal siempre instaló el régimen federal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v15",
+      "statement": "¿Qué grupo social apoyó con mayor fuerza el proyecto independentista en 1821?",
+      "context": "La biblioteca del Estado reúne copias de los periódicos de 1821.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los grandes terratenientes de las haciendas coloniales",
+          "is_correct": false,
+          "feedback": "Los terratenientes coloniales estaban atados al monopolio espanol y por eso le negaron su apoyo."
+        },
+        {
+          "letter": "B",
+          "text": "Los trabajadores de las minas de plata",
+          "is_correct": false,
+          "feedback": "La mineria de plata entraba en declive y sus trabajadores no formaron el motor del independentismo."
+        },
+        {
+          "letter": "C",
+          "text": "Los comerciantes y los sectores urbanos del comercio",
+          "is_correct": true,
+          "feedback": "Correcto. Los comerciantes tenían interés directo en abrir rutas y mercados propios, y por eso apoyaron el proyecto."
+        },
+        {
+          "letter": "D",
+          "text": "El clero bajo la autoridad de la iglesia catolica",
+          "is_correct": false,
+          "feedback": "Buena parte del clero se opuso a la independencia porque temia perder sus privilegios coloniales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "explanation": "El independentismo centroamericano fue impulsado sobre todo por comerciantes y sectores urbanos que buscaban rutas comerciales propias, junto con algunos militares y profesionales liberales.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando independencia ca.",
+      "statement": "¿Qué medida económica tomó el gobierno de El Salvador tras la independencia?",
+      "context": "El museo organiza una muestra sobre las consecuencias económicas de la independencia.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "El monopolio REAL del Estado sobre el comercio exterior",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "El Estado no reimplantó el monopolio REAL espanol, que era justamente lo que había cerrado el comercio colonial."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La prohibición de exportar productos agrícolas",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "El gobierno promovió la exportación agrícola en vez de prohibírsela a los productores."
+        },
+        {
+          "letter": "C",
+          "text": "La adopción del trabajo forzoso colonial",
+          "is_correct": false,
+          "feedback": "El trabajo forzoso colonial había sido abolido antes y no fue restablecido por el gobierno independiente."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "text": "La promoción del cultivo del café como producto de exportación",
+          "is_correct": true,
+          "feedback": "Correcto. El café se volvió el motor de las exportaciones salvadoreñas varias décadas después de la independencia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La independencia abrió la economía al comercio mundial y el café se convirtió, a finales del siglo XIX, en el motor de las exportaciones salvadoreñas.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando independencia ca.",
+      "statement": "¿Qué cambio trajo el gobierno unitario frente al gobierno federal en la Constitución?",
+      "context": "La clase compara dos documentos que organizaron el poder ejecutivo en 1824.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "text": "La concentración del poder en un gobierno central con sede en la capital",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno unitario eliminó los poderes regionales y concentró toda la autoridad en la capital."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El reparto del poder entre Estados con autonomía propia",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "El reparto del poder entre Estados era el principio del federalismo que el unitario combatió."
+        },
+        {
+          "letter": "C",
+          "text": "La creación de una asamblea federal con cinco representantes",
+          "is_correct": false,
+          "feedback": "El gobierno unitario disolvió esa asamblea, porque su origen estaba en el proyecto federal."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La devolución del poder a las provincias",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La devolución a las provincias fue la propuesta federal que el gobierno unitario rechazó."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "El gobierno unitario sustituyó el régimen federal por una administración centralizada, eliminando los poderes autonómicos de los Estados y gobernando desde la capital.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
+      "statement": "¿Qué alcance territorial buscaba el proyecto federal de Morazan?",
+      "context": "Una clase compara el alcance territorial de dos proyectos de 1821.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "text": "La unificacion de toda America Central con el Brasil",
+          "is_correct": false,
+          "feedback": "Brasil nunca formo parte del proyecto de Morazan y no compartia la causa independentista."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "text": "Una unión de los cinco Estados centroamericanos con gobierno propio",
+          "is_correct": true,
+          "feedback": "Correcto. El proyecto federal ambitaba reunir a los cinco Estados en una República con constitucion propia."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Una colonia conjunta administrada por España y las repúblicas",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "El proyecto federal no era una colonia, sino una unión de Estados que ya se habian independizado."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La incorporacion de los estados|AL sur de Mexico",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Los estados del sur de Mexico no formaron parte de la Republica Federal de Centroamerica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "El proyecto federal de Francisco Morazan ambitaba una República Federal con los cinco Estados centroamericanos, cada uno con sus poderes propios dentro de un gobierno conjunto.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando independencia ca.",
+      "statement": "¿Qué ocurririo institucionalmente en 1839 con el gobierno federal de San Salvador?",
+      "context": "El archivo municipal conserva el texto del pacto de 1839.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "Fortalecio su autoridad sobre los cinco Estados",
+          "is_correct": false,
+          "feedback": "El gobierno federal se debilito hasta desaparecer, y no termino reforzando su autoridad."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Trasladó su sede a la ciudad de Guatemala",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "La capital federal permanecio en San Salvador y el gobierno no se traslado a Guatemala."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "Quedo disuelto tras la secesion de Honduras",
+          "is_correct": true,
+          "feedback": "Correcto. La salida de Honduras en 1838 fue seguida de la disolución del gobierno federal en 1839."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Se convirtió en el gobierno unitario de toda la region",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Ningun gobierno unitario regional surgio de esa crisis, que termino con la disolución."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "La secesión de Honduras en 1838 dejó al gobierno federal sin respaldo y en 1839 quedó disuelto, con lo cual terminó la República Federal de Centroamérica.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando independencia ca.",
+      "statement": "¿Qué lección sobre el federalismo centroamericano dejó el fracaso de la República Federal?",
+      "context": "El museo presenta el balance de la experiencia unionista de 1824 a 1839.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Que la independencia centroamericana fue un error desde el principio",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "La independencia fue un proceso legítimo y necesario, lo que fallo fue la forma de organizar el Estado."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Que solo los países muy grandes pueden construir una federación",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "El fracaso no se debio al tamaño de los países, sino a las rivalidades internas entre los Estados."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Que la monarquía habría evitado la desintegración",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Ninguna propuesta monárquica resolvió el problema, porque el punto de fondo eran las rivalidades entre Estados."
+        },
+        {
+          "letter": "D",
+          "text": "Que una federación necesita cohesión entre sus Estados para sostenerse",
+          "is_correct": true,
+          "feedback": "Correcto. La experiencia mostró que sin cohesión y autoridad comunes la unión se rompe por dentro."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "El fracaso de la República Federal dejó como lección que una federación solo se sostiene cuando existe cohesión entre sus Estados y una autoridad común aceptada por todos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle",
       "periodo": 7,
       "protocol_version": "5.2",

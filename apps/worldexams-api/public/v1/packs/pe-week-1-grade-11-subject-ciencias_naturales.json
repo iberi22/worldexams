@@ -459,36 +459,81 @@
     },
     {
       "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v11",
-      "statement": "¿Cuál de las siguientes estructuras está presente exclusivamente en las células eucariotas y contiene el material genético delimitado por una doble membrana con poros?",
-      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "statement": "Los lisosomas mantienen un pH interno cercano a 5 mediante una bomba de protones que consume ATP. ¿Qué función celular depende de ese medio ácido?",
+      "context": "En el laboratorio de citología de un colegio de Huánuco, los estudiantes observan leucocitos de mamífero y explican por qué un orgánulo lleno de enzimas hidrolíticas no digiere la propia célula que lo contiene.",
       "options": [
         {
-          "letter": "B",
-          "text": "Núcleo celular",
-          "is_correct": true,
-          "feedback": "Correcto. El núcleo celular alberga la cromatina/ADN y está delimitado por la carioteca o envoltura nuclear."
+          "letter": "A",
+          "text": "Síntesis de proteínas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La síntesis de proteínas ocurre en los ribosomas del citosol y en los asociados al retículo endoplasmático rugoso, nunca dentro del lisosoma."
         },
         {
-          "letter": "A",
-          "text": "Ribosoma 70S",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los ribosomas 70S son característicos de bacterias (procariotas) y mitocondrias/cloroplastos."
+          "letter": "B",
+          "text": "Degradación de macromoléculas",
+          "is_correct": true,
+          "feedback": "Correcto. Las hidrolasas ácidas del lisosoma digieren proteínas, lípidos y ácidos nucleicos, y por eso requieren un pH cercano a 5 para alcanzar su máxima actividad."
         },
         {
           "letter": "C",
-          "text": "Nucleoide",
+          "text": "Producción de lípidos",
           "is_correct": false,
-          "feedback": "Incorrecto. El nucleoide es la región donde se ubica el ADN circular desnudo en procariotas."
+          "feedback": "Incorrecto. La síntesis de lípidos es competencia del retículo endoplasmático liso, que trabaja sin necesidad de un medio ácido en su interior."
         },
         {
           "letter": "D",
-          "text": "Pared celular de peptidoglucano",
+          "text": "Formación de ATP mitocondrial",
           "is_correct": false,
-          "feedback": "Incorrecto. La pared de peptidoglucano (mureína) es exclusiva de las bacterias."
+          "feedback": "Incorrecto. La síntesis de ATP ocurre en la matriz mitocondrial y en la membrana interna del cloroplasto, no en los lisosomas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El núcleo delimitado por membrana nuclear (carioteca) es el rasgo distintivo fundamental de las células eucariotas.\n\n---",
+      "explanation": "La acidez del interior lisosomal es la condición que activa sus hidrolasas. Gracias a ella el orgánulo digiere lo que fagocita sin lesionar a la célula, y esa separación entre un medio ácido y el citosolo neutro explica por qué la membrana que envuelve la vesícula es imprescindible.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
+      "statement": "Si la proteína marcada es una enzima digestiva que la célula exporta al exterior, ¿cuál es el orden correcto de los compartimentos por los que transita?",
+      "context": "En una planta de jitomate de un colegio de Cajamarca se marca una proteína de secreción con un trazador fluorescente y se sigue su recorrido dentro de la célula con microscopía confocal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Núcleo, citosol, mitocondria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El núcleo almacena el material genético y la mitocondria fabrica ATP; ninguno de los dos participa en la secreción de una proteína."
+        },
+        {
+          "letter": "B",
+          "text": "Retículo rugoso, Golgi, membrana",
+          "is_correct": true,
+          "feedback": "Correcto. La proteína entra al retículo endoplasmático rugoso, llega en vesículas al aparato de Golgi, donde se modifica, y sale en una vesícula secretora que se fusiona con la membrana plasmática."
+        },
+        {
+          "letter": "C",
+          "text": "Cloroplasto, peroxisoma, lisosoma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos orgánulos participa en la ruta de secreción: el cloroplasto realiza fotosíntesis y el lisosoma digiere material fagocitado."
+        },
+        {
+          "letter": "D",
+          "text": "Ribosoma libre, núcleo, matriz mitocondrial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una proteína de secreción se sintetiza en ribosomas asociados al retículo endoplasmático rugoso y no pasa por la matriz mitocondrial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ruta secretora describe el camino de una proteína desde el retículo endoplasmático rugoso hasta el exterior. El aparato de Golgi añade y modifica las cadenas de azúcares y decide el destino de la vesícula, y la fusión final con la membrana plasmática libera el contenido al medio extracelular.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -503,41 +548,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v12",
-      "statement": "En la membrana plasmática, el transporte pasivo de moléculas de agua a favor de su gradiente de concentración a través de aquaporinas se denomina:",
-      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
+      "statement": "Con esos hallazgos, ¿qué afirmación describe correctamente lo recuperado en el pellet?",
+      "context": "En un ELISA casero elaborado en un colegio de Loreto, el equipo disuelve células de sagú en un buffer y centrifuga; en el pellet recuperan estructuras redondas con doble membrana y ADN propio, y en el supernatant queda el citoplasma.",
       "options": [
         {
-          "letter": "C",
-          "text": "Ósmosis",
-          "is_correct": true,
-          "feedback": "Correcto. La ósmosis es el paso de solvente (agua) a través de una membrana semipermeable desde un medio hipotónico hacia uno hipertónico."
-        },
-        {
           "letter": "A",
-          "text": "Transporte activo primario",
-          "is_correct": false,
-          "feedback": "Incorrecto. El transporte activo requiere consumo de energía (ATP) para mover sustancias contra el gradiente."
+          "text": "Mitocondrias",
+          "is_correct": true,
+          "feedback": "Correcto. Las mitocondrias son organelas semiautónomas con ADN circular propio y envoltura de dos membranas, por lo que sedimentan en el pellet de una centrifugación diferencial."
         },
         {
           "letter": "B",
-          "text": "Fagocitosis",
+          "text": "Núcleos",
           "is_correct": false,
-          "feedback": "Incorrecto. La fagocitosis es un tipo de endocitosis mediante el cual la célula engloba partículas sólidas grandes."
+          "feedback": "Incorrecto. El núcleo tiene doble membrana, pero es mucho más voluminoso y con frecuencia se degrada al homogenizar, además de arrastrar otros orgánulos al mismo pellet."
+        },
+        {
+          "letter": "C",
+          "text": "Cloroplastos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los cloroplastos aparecen en células vegetales y en el protista Euglena, no en las células animales de sagú, aunque sí poseen ADN propio."
         },
         {
           "letter": "D",
-          "text": "Difusión facilitada por bombas de sodio-potasio",
+          "text": "Ribosomas",
           "is_correct": false,
-          "feedback": "Incorrecto. La bomba Na+/K+ es un mecanismo de transporte activo que consume ATP."
+          "feedback": "Incorrecto. Los ribosomas son partículas de ARN y proteína formadas por dos subunidades, y no tienen ni membrana ni ADN propio."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La ósmosis es un proceso físico pasivo de difusión de moléculas de agua vital para la homeostasis celular.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La centrifugación diferencial separa orgánelas por su tamaño y su densidad. Una organela con ADN propio y envoltura doble es un endosimbionte, y en una célula animal esa descripción solo la cumplen las mitocondrias, no los cloroplastos ni los ribosomas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.47,
       "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
@@ -548,37 +593,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v13",
-      "statement": "Los organelos citoplasmáticos encargados de la síntesis de ATP mediante la respiración celular aeróbica son las:",
-      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
+      "statement": "Si el agua sale de la célula y el protoplasma se retrae sin romperse, ¿qué nombre recibe ese fenómeno?",
+      "context": "En un experimento sobre tonoplasto con potatoes de un colegio de Tumbes se colocan células del tubérculo en solución hipertónica y se observa que la membrana se separa de la pared celular y el protoplasma se encoge.",
       "options": [
         {
-          "letter": "D",
-          "text": "Mitocondrias",
-          "is_correct": true,
-          "feedback": "Correcto. Las mitocondrias realizan el ciclo de Krebs y la cadena respiratoria con fosforilación oxidativa."
-        },
-        {
           "letter": "A",
-          "text": "Lisosomas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los lisosomas participan en la digestión intracelular conteniendo enzimas hidrolíticas."
+          "text": "Plasmólisis",
+          "is_correct": true,
+          "feedback": "Correcto. La plasmolisis es el desprendimiento de la membrana plasmática respecto de la pared celular cuando la célula pierde agua por ósmosis hacia un medio hipertónico."
         },
         {
           "letter": "B",
-          "text": "Vacuolas",
+          "text": "Citólisis",
           "is_correct": false,
-          "feedback": "Incorrecto. Las vacuolas almacenan agua y sustancias de reserva principalmente en células vegetales."
+          "feedback": "Incorrecto. La citólisis ocurre en un medio hipotónico, donde la célula absorbe agua, se hincha y la membrana termina rompiéndose al no resistir la presión osmótica."
         },
         {
           "letter": "C",
-          "text": "Peroxisomas",
+          "text": "Flacidez",
           "is_correct": false,
-          "feedback": "Incorrecto. Los peroxisomas se encargan de la degradación del peróxido de hidrógeno mediante la catalasa."
+          "feedback": "Incorrecto. La flacidez corresponde a una célula vegetal en equilibrio con su medio, que pierde turgencia sin llegar a desprenderse de la pared celular."
+        },
+        {
+          "letter": "D",
+          "text": "Diéinesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diéinesis es la fase final de la profase I de la meiosis, donde se completa la primera división y se reorganizan los cromosomas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las mitocondrias son consideradas las centrales energéticas de las células eucariotas.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La pérdida de agua por ósmosis reduce el volumen del vacuolo y hace que la membrana se separe de la pared. Ese desprendimiento se llama plasmolisis y es reversible al devolver la célula a un medio isotónico, mientras que la citólisis describe la rotura por entrada masiva de agua.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -593,41 +638,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v14",
-      "statement": "La pared celular de las plantas está compuesta fundamentalmente por el polisacárido estructural denominado:",
-      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
+      "statement": "¿Qué resultado se espera en la muestra con sacarosa al 30 por ciento?",
+      "context": "Un equipo de un colegio de Puno coloca células de raíz de ajo en dos medios: uno con sacarosa al 30 por ciento y otro con sacarosa al 5 por ciento, y observa bajo el microscopio cómo cambia la vacuola en cada montaje.",
       "options": [
         {
-          "letter": "C",
-          "text": "Celulosa",
-          "is_correct": true,
-          "feedback": "Correcto. La celulosa es un polímero de glucosas unidas por enlaces beta-1,4 que otorga rigidez a la célula vegetal."
-        },
-        {
           "letter": "A",
-          "text": "Quitina",
+          "text": "Entrada de agua y citólisis",
           "is_correct": false,
-          "feedback": "Incorrecto. La quitina forma la pared celular de los hongos y el exoesqueleto de artrópodos."
+          "feedback": "Incorrecto. Esa respuesta corresponde al medio con sacarosa al 5 por ciento, que es hipotónico y hace que el agua entre a la célula hasta hinchar el vacuolo."
         },
         {
           "letter": "B",
-          "text": "Peptidoglucano",
+          "text": "Salida de agua y plasmólisis",
+          "is_correct": true,
+          "feedback": "Correcto. Una solución de sacarosa al 30 por ciento es hipertónica respecto al citoplasma, así que el agua sale por ósmosis, el vacuolo se encoge y la membrana se desprende de la pared."
+        },
+        {
+          "letter": "C",
+          "text": "Entrada de agua y turgencia",
           "is_correct": false,
-          "feedback": "Incorrecto. El peptidoglucano constituye la pared celular bacteriana."
+          "feedback": "Incorrecto. El aumento de turgencia ocurre en un medio hipotónico, no en una solución concentrada como la de sacarosa al 30 por ciento."
         },
         {
           "letter": "D",
-          "text": "Glucógeno",
+          "text": "Volumen constante de la vacuola",
           "is_correct": false,
-          "feedback": "Incorrecto. El glucógeno es un polisacárido de reserva energética en animales."
+          "feedback": "Incorrecto. El equilibrio osmótico solo se da cuando la concentración del medio iguala la del citoplasma; con sacarosa al 30 por ciento el agua sale de la célula."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La celulosa proporciona resistencia mecánica y protección frente a la presión osmótica a las células vegetales.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El sentido en que se mueve el agua depende de la concentración del medio respecto al citoplasma. En un medio hipertónico el agua sale y se observa plasmólisis, mientras que en un medio hipotónico entra, la célula se hincha y puede llegar a romperse por citólisis.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.39,
       "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
@@ -638,38 +683,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v15",
-      "statement": "¿Qué organelo del sistema de endomembranas es responsable de la síntesis de lípidos (colesterol, fosfolípidos) y de la detoxificación celular?",
-      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
+      "statement": "¿Qué observación del marcador ilustra mejor la fluidez de la membrana plasmática?",
+      "context": "En un colegio de Piura se marca con fluoresceína una proteína de membrana de células de riñón de ratón y se observa su distribución antes y después de calentar el montaje a 40 grados durante cinco minutos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Reticulo Endoplasmático Liso (REL)",
-          "is_correct": true,
-          "feedback": "Correcto. El REL sintetiza lípidos y metaboliza fármacos y toxinas en el hepatocito."
-        },
-        {
           "letter": "A",
-          "text": "Reticulo Endoplasmático Rugoso (RER)",
+          "text": "Desaparición completa del marcador",
           "is_correct": false,
-          "feedback": "Incorrecto. El RER sintetiza proteínas de exportación debido a sus ribosomas adheridos."
+          "feedback": "Incorrecto. La pérdida total de la señal indicaría destrucción de la membrana o lisis de la célula, no fluidez, porque un calentamiento moderado no borra las proteínas insertadas en la bicapa."
         },
         {
           "letter": "B",
-          "text": "Aparato de Golgi",
+          "text": "Mayor difusión lateral del marcador",
+          "is_correct": true,
+          "feedback": "Correcto. El calor aumenta la energía de los lípidos y las proteínas y permite que el marcador se reparta con más libertad dentro de la bicapa, lo que demuestra que la membrana es un mosaico fluido."
+        },
+        {
+          "letter": "C",
+          "text": "Aparición de un núcleo nuevo",
           "is_correct": false,
-          "feedback": "Incorrecto. El aparato de Golgi empaqueta y distribuye proteínas y lípidos sintetizados."
+          "feedback": "Incorrecto. La fluidez de la membrana no altera la integridad del núcleo, cuya envoltura es una estructura distinta y permanece en su sitio durante el experimento."
         },
         {
           "letter": "D",
-          "text": "Cloroplasto",
+          "text": "Pérdida completa de la pared celular",
           "is_correct": false,
-          "feedback": "Incorrecto. El cloroplasto realiza la fotosíntesis sintetizando glucosa a partir de luz y CO2."
+          "feedback": "Incorrecto. La pared celular es una capa externa de celulosa ajena al modelo del mosaico fluido, y no se pierde por un aumento moderado de la temperatura."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El Retículo Endoplasmático Liso carece de ribosomas y se especializa en el metabolismo lipídico y detoxificación.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El modelo del mosaico fluido describe una bicapa lipídica en la que proteínas y lípidos se desplazan lateralmente. Al subir la temperatura esa difusión se acelera de forma observable, y ese cambio de comportamiento es la prueba experimental más directa de la fluidez.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -683,42 +728,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v16",
-      "statement": "Durante la fase de la mitosis donde los cromosomas dobles se alinean en el plano ecuatorial de la célula se denomina:",
-      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
+      "statement": "¿Qué mecanismo explica que esa resistencia pueda heredarse a la descendencia bacteriana?",
+      "context": "Un grupo de un colegio de Ayacucho cultiva bacterias en un medio con antibiótico y observa que sobreviven solo las que poseen un plásmido con un gen de resistencia.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafase",
-          "is_correct": true,
-          "feedback": "Correcto. En la metafase los cromosomas alcanzan su máxima condensación y se ubican en la placa ecuatorial."
+          "letter": "A",
+          "text": "La replicación semiconservativa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La replicación semiconservativa describe cómo se copia la doble hélice, pero no explica por sí sola la transmisión de un gen de resistencia a las bacterias hijas."
         },
         {
-          "letter": "A",
-          "text": "Profase",
+          "letter": "B",
+          "text": "La estructura colineal de la cromatina",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina se condensa y se desorganiza la envoltura nuclear."
+          "feedback": "Incorrecto. La colinealidad es una propiedad del genoma eucariota con genes y proteínas codificantes, y no interviene en la herencia de plásmidos en bacterias."
         },
         {
           "letter": "C",
-          "text": "Anafase",
-          "is_correct": false,
-          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan hacia los polos opuestos."
+          "text": "La transferencia horizontal de genes",
+          "is_correct": true,
+          "feedback": "Correcto. Los plásmidos pasan de una bacteria a otra por conjugación, transducción o transformación, así que un gen de resistencia puede llegar a células que nunca lo tuvieron, al margen de la división celular."
         },
         {
           "letter": "D",
-          "text": "Telofase",
+          "text": "La duplicación del número de cromosomas",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase se reorganiza la carioteca alrededor de los cromosomas hijos."
+          "feedback": "Incorrecto. Las bacterias conservan un cromosoma circular único y el plásmido se replica aparte, de modo que duplicar cromosomas no explica la herencia del gen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La metafase es la etapa ideal para la observación microscópica de los cromosomas y elaboración de cariotipos.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La conjugación bacteriana es un caso de transferencia horizontal: el plásmido pasa de una célula donadora a una receptora a través del puente del pilo sexual. Por eso un plásmido de resistencia puede diseminarse en una población mucho más rápido que por herencia vertical.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.31,
+      "expected_success": 0.3,
       "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
@@ -728,37 +773,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v17",
-      "statement": "Los cloroplastos contienen en su interior sacos membranosos aplanados apilados llamados granas donde se ubica la clorofila. Estos sacos individuales son los:",
-      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
+      "statement": "¿Qué explica que esa solución sirva para disociar las células de la raíz?",
+      "context": "En un colegio de Chimbote se prepara un frotis de células de raíz de cebolla y, tras tratarlo con una disolución de ácido clorhídrico al 15 por ciento, las células quedan separadas y aisladas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Tilacoides",
-          "is_correct": true,
-          "feedback": "Correcto. En las membranas de los tilacoides ocurren las reacciones de la fase luminosa de la fotosíntesis."
-        },
-        {
           "letter": "A",
-          "text": "Estromas",
-          "is_correct": false,
-          "feedback": "Incorrecto. El estroma es la matriz fluida donde ocurre el ciclo de Calvin o fase oscura."
+          "text": "La hidrólisis de la celulosa",
+          "is_correct": true,
+          "feedback": "Correcto. El ácido clorhídrico rompe los enlaces glucosídicos de la celulosa de la pared y las pectinas que unen las células, de modo que estas quedan sueltas y pueden observarse por separado."
         },
         {
           "letter": "B",
-          "text": "Crestas",
+          "text": "La disolución del núcleo celular",
           "is_correct": false,
-          "feedback": "Incorrecto. Las crestas son pliegues de la membrana interna de las mitocondrias."
+          "feedback": "Incorrecto. El ácido clorhídrico desintegra la pared vegetal, no el núcleo, y el núcleo permanece intacto y visible dentro de cada célula disociada."
         },
         {
           "letter": "C",
-          "text": "Matriz",
+          "text": "La oxidación de la clorofila",
           "is_correct": false,
-          "feedback": "Incorrecto. La matriz es el fluido interno de la mitocondria."
+          "feedback": "Incorrecto. Las células de la raíz de cebolla son incoloras y casi no tienen clorofila, de modo que no hay pigmento que oxidarse en esta preparación."
+        },
+        {
+          "letter": "D",
+          "text": "La fragmentación de los cromosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ácido no rompe los cromosomas, y su papel en este protocolo es solo separar las células entre sí gracias a la pared que las mantiene unidas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Los tilacoides albergan los fotosistemas I y II para la captación fotónica y síntesis de ATP y NADPH.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Las células vegetales están unidas por la pared de celulosa y por las pectinas de la lámina media. El ácido clorhídrico hidroliza esos polisacáridos, y por eso la preparación citológica de raíz de cebolla usa ese tratamiento para obtener células individuales sin destruir el contenido celular.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,37 +818,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v18",
-      "statement": "El mecanismo de transporte celular a través de vesículas mediante el cual la célula secreta sustancias al exterior se conoce como:",
-      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
+      "statement": "¿Qué característica de las células del xilema explica esa ausencia de savia elaborada en la raíz?",
+      "context": "En una planta de uñú, un alumno de un colegio de Moquegua recuerda que la savia elaborada se produce en las hojas, pero un corte de la raíz bajo el microscopio no muestra azúcares en las venas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Exocitosis",
-          "is_correct": true,
-          "feedback": "Correcto. La exocitosis fusiona vesículas secretoras con la membrana plasmática liberando su contenido."
-        },
-        {
           "letter": "A",
-          "text": "Endocitosis",
+          "text": "El transporte pasivo por ósmosis",
           "is_correct": false,
-          "feedback": "Incorrecto. La endocitosis engloba partículas externas hacia el interior celular."
+          "feedback": "Incorrecto. La savia elaborada se mueve por el floema mediante la presión osmótica generada al entrar agua, no por un transporte pasivo de agua a través del xilema."
         },
         {
           "letter": "B",
-          "text": "Pinocitosis",
+          "text": "La absorción de agua y sales minerales",
+          "is_correct": true,
+          "feedback": "Correcto. El xilema conduce agua y sales minerales desde la raíz hasta las hojas, y sus células están muertas y lignificadas, sin transporte activo ni intercambio de azúcares con el floema."
+        },
+        {
+          "letter": "C",
+          "text": "La síntesis de glucosa en los pelos radicales",
           "is_correct": false,
-          "feedback": "Incorrecto. La pinocitosis es la ingestión de fluidos extracelulares en pequeñas vesículas."
+          "feedback": "Incorrecto. Los pelos radicales absorben agua y sales minerales, pero no hacen fotosíntesis, porque carecen de cloroplastos y la raíz no es el lugar de esa síntesis."
         },
         {
           "letter": "D",
-          "text": "Difusión simple",
+          "text": "La respiración de las células xilemáticas",
           "is_correct": false,
-          "feedback": "Incorrecto. La difusión simple es el paso directo de moléculas apolares a través de la bicapa."
+          "feedback": "Incorrecto. Los conductos xilemáticos maduros son células muertas sin mitocondrias, de manera que no respiran ni producen ATP durante el transporte."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La exocitosis es clave para la secreción de hormonas, neurotransmisores y enzimas digestivas.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El xilema y el floema cumplen funciones distintas y complementarias. El xilema lleva agua y sales minerales desde la raíz en sentido ascendente, mientras que el floema distribuye la savia elaborada desde las hojas hacia las zonas de crecimiento o de reserva.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -818,87 +863,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v19",
-      "statement": "¿Cuál de los siguientes componentes moleculares forma la matriz estructural fluida de la membrana plasmática según el modelo del Mosaico Fluido de Singer y Nicolson?",
-      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
+      "statement": "¿Qué estructura de esas bacterias interviene directamente en la formación de las burbujas de oxígeno?",
+      "context": "En un colegio de Huaraz, un equipo analiza agua de un estanque y encuentra bacterias filamentosas que liberan burbujas hacia la superficie en un frasco sellado iluminado.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bicapa de fosfolípidos",
-          "is_correct": true,
-          "feedback": "Correcto. La bicapa fosfolipídica posee cabezas hidrofílicas y colas hidrofóbicas formando la barrera selectiva."
-        },
-        {
           "letter": "A",
-          "text": "Red rígida de celulosa",
+          "text": "El mesosomo",
           "is_correct": false,
-          "feedback": "Incorrecto. La celulosa se ubica fuera de la membrana celular en la pared vegetal."
+          "feedback": "Incorrecto. El mesosomo es una invaginación de la membrana que aparece en bacterias bajo estrés, y no participa en la fotosíntesis ni en la liberación de oxígeno."
         },
         {
           "letter": "B",
-          "text": "Capa continua de glucógeno",
+          "text": "El cloroplasto",
           "is_correct": false,
-          "feedback": "Incorrecto. El glucógeno es un polisacárido citoplasmático no estructural en membranas."
+          "feedback": "Incorrecto. Las bacterias no poseen cloroplastos, porque son organelas propias de las células eucariotas vegetales y de las algas."
+        },
+        {
+          "letter": "C",
+          "text": "La cromatófora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cromatófora es una vesícula de reserva de los procariotas, y no es la estructura donde se realiza la fotosíntesis ni la separación del oxígeno del agua."
         },
         {
           "letter": "D",
-          "text": "Malla de queratina extracelular",
-          "is_correct": false,
-          "feedback": "Incorrecto. La queratina es una proteína del citoesqueleto y tejido epitelial externo."
+          "text": "La membrana fotosintética",
+          "is_correct": true,
+          "feedback": "Correcto. Las cianobacterias realizan fotosíntesis oxígica en las membranas de sus tilacoides internos, y allí el agua se oxida liberando el oxígeno que forma las burbujas del frasco."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La bicapa de fosfolípidos confiere fluidez y semipermeabilidad a la membrana celular de todos los organismos.\n\n---",
+      "correct_answer": "D",
+      "explanation": "Las bacterias fotosintéticas carecen de cloroplastos y realizan la fase luminosa en sus propias membranas internas. La fotosíntesis oxígica rompe la molécula de agua para obtener electrones, y ese proceso libera el oxígeno que se observa como burbujas en el medio de cultivo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.15,
-      "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle-v20",
-      "statement": "Los ribosomas son complejos ribonucleoproteicos cuya función biológica principal en la célula es:",
-      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Biología Celular: La Célula Procariota y Eucariota, Organelos y Membrana Plasmática para la preparación preuniversitaria.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La traducción o síntesis de proteínas",
-          "is_correct": true,
-          "feedback": "Correcto. Los ribosomas leen el ARNm y ensamblan aminoácidos según el código genético."
-        },
-        {
-          "letter": "A",
-          "text": "La replicación semiconservativa del ADN",
-          "is_correct": false,
-          "feedback": "Incorrecto. La replicación del ADN la efectúa el complejo ADN polimerasa."
-        },
-        {
-          "letter": "B",
-          "text": "La degradación de ácidos grasos en acetil-CoA",
-          "is_correct": false,
-          "feedback": "Incorrecto. La beta-oxidación de ácidos grasos ocurre en la matriz mitocondrial y peroxisomas."
-        },
-        {
-          "letter": "C",
-          "text": "El almacenamiento de almidón y aceites",
-          "is_correct": false,
-          "feedback": "Incorrecto. El almacenamiento de reservas ocurre en leucoplastos y amiloplastos."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Los ribosomas convierten la secuencia de nucleótidos del ARNm en cadenas polipeptídicas de proteínas.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.1,
       "bundle_id": "PE-NAT-11-2026-W01-tema-w01-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando democracia sv.",
+      "statement": "¿Qué principio democrático expresa que la ciudadanía pueda elegir a sus gobernantes?",
+      "context": "Un consejo estudiantil de San Miguel compara una decisión del director con una elección de representantes.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "La soberanía popular.",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "Correcto. La soberanía popular sitúa en el pueblo el origen de la legitimidad del poder político."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La transmisión hereditaria del gobierno.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Incorrecto. La herencia asigna poder por parentesco y no por la decisión de la ciudadanía."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La obediencia ilimitada a una autoridad personal.",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Incorrecto. La obediencia ilimitada elimina la posibilidad de controlar y sustituir gobernantes."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La exclusión permanente de quienes discrepan.",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Incorrecto. Excluir el disenso restringe la participación que sustenta el principio democrático."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "En democracia, el poder debe derivar de la ciudadanía y ejercerse con límites; la elección es una expresión de soberanía popular que necesita libertades y garantías para ser efectiva.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando democracia sv.",
+      "statement": "¿Qué función democrática cumple el voto secreto?",
+      "context": "En una jornada cívica de Santa Tecla se explica cómo proteger la decisión de cada votante.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Ocultar para siempre los resultados generales de la elección.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Incorrecto. El secreto protege preferencias individuales, mientras los resultados deben ser públicos y verificables."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "text": "Reducir la posibilidad de coacción o represalias por la preferencia electoral.",
+          "is_correct": true,
+          "feedback": "Correcto. Mantener privada la elección dificulta que terceros castiguen o presionen a quien vota."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Impedir el conteo de las papeletas depositadas.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Incorrecto. La privacidad del voto es compatible con un escrutinio controlado y transparente."
+        },
+        {
+          "letter": "D",
+          "text": "Permitir que el empleador complete la papeleta de sus trabajadores.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sustitución vulnera la libertad personal que el secreto busca proteger."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "El voto secreto protege la autonomía de cada elector; no debe confundirse con ocultar el escrutinio, porque la transparencia de resultados y la privacidad individual se complementan.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "statement": "¿Cuál es la finalidad democrática de separar esas funciones?",
+      "context": "Una clase salvadoreña distribuye funciones entre autoridades que legislan, ejecutan y juzgan.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "text": "Garantizar que ningún órgano deba explicar sus decisiones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separar funciones no elimina la rendición de cuentas de cada institución."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Impedir cualquier cooperación entre instituciones públicas.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Incorrecto. Los órganos pueden cooperar respetando competencias y límites, sin fusionar todo el poder."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "text": "Evitar que una sola autoridad concentre todas las decisiones y controles.",
+          "is_correct": true,
+          "feedback": "Correcto. La distribución de funciones permite controles recíprocos y limita la concentración del poder."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Dar a una autoridad permiso para ignorar a todos los jueces.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Incorrecto. Desconocer controles judiciales contradice el propósito de limitar la arbitrariedad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La separación de funciones busca distribuir competencias y hacer posible el control institucional; no exige aislamiento absoluto, sino cooperación dentro de límites definidos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -144,37 +144,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "statement": "¿Qué práctica expresa pluralismo político?",
+      "context": "Un debate comunitario reúne propuestas de partidos salvadoreños con ideologías diferentes.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "text": "Admitir únicamente las opiniones del partido gobernante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restringir la expresión a un partido elimina la diversidad política."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Obligar a toda asociación a adoptar una ideología idéntica.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Incorrecto. La uniformidad impuesta contradice el reconocimiento democrático de diferencias."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Resolver toda discrepancia mediante amenazas personales.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Incorrecto. Las amenazas sustituyen la discusión libre por coacción y dañan la competencia pacífica."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Permitir que propuestas distintas compitan pacíficamente bajo reglas comunes.",
+          "is_correct": true,
+          "feedback": "Correcto. El pluralismo reconoce diferencias y su participación legítima en la disputa política."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El pluralismo permite organizar y defender proyectos diferentes; compartir reglas de convivencia no requiere que todas las personas tengan la misma ideología o apoyen al mismo partido.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v5",
+      "statement": "¿Qué principio cuestiona ese trato desigual ante una misma infracción?",
+      "context": "Una autoridad municipal de El Salvador quiere aplicar una sanción distinta a sus simpatizantes y críticos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La igualdad ante la ley.",
+          "is_correct": true,
+          "feedback": "Correcto. La afinidad política no justifica aplicar privilegios o castigos diferentes ante hechos equivalentes."
+        },
+        {
+          "letter": "B",
+          "text": "La inmunidad automática de cualquier simpatizante.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Incorrecto. El apoyo político no elimina responsabilidad por una infracción."
+        },
+        {
+          "letter": "C",
+          "text": "La superioridad jurídica de la amistad personal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La amistad con funcionarios no constituye un fundamento legítimo para trato privilegiado."
+        },
+        {
+          "letter": "D",
+          "text": "La facultad de castigar una opinión como si fuera prueba del hecho.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una opinión política no demuestra que una persona cometió la infracción investigada."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "4",
+      "explanation": "La igualdad ante la ley exige criterios pertinentes y procedimientos imparciales; usar simpatías políticas para decidir sanciones convierte el poder público en un mecanismo de favoritismo.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -188,86 +233,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando democracia sv.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
-          "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "statement": "¿Qué respuesta favorece la rendición de cuentas de la autoridad responsable?",
+      "context": "Una asociación vecinal salvadoreña solicita información sobre gastos de reparación de una escuela.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Mostrar únicamente una fotografía del funcionario junto al edificio.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Incorrecto. Una fotografía no permite comprobar costos, contrataciones ni resultados de la obra."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "text": "Publicar costos, contratos y resultados, y responder preguntas sobre su ejecución.",
+          "is_correct": true,
+          "feedback": "Correcto. La información verificable y la explicación pública permiten evaluar cómo se utilizaron los recursos."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Negar toda información porque los fondos pertenecen al funcionario.",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Incorrecto. Los recursos públicos no son propiedad personal de quien los administra."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir apoyo partidario antes de explicar los gastos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rendición de cuentas corresponde a la ciudadanía y no debe condicionarse a lealtad política."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "Rendir cuentas implica informar, justificar decisiones y permitir evaluación; la publicidad de datos útiles ayuda a controlar el uso de fondos y detectar irregularidades.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando democracia sv.",
+      "statement": "¿Qué acción constituye participación ciudadana democrática fuera del voto?",
+      "context": "Jóvenes de Chalatenango desean influir en una decisión sobre abastecimiento de agua entre elecciones.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Comprar favores privados para obtener prioridad sobre otros barrios.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Incorrecto. Comprar favores crea privilegios y sustituye la participación pública por corrupción."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Destruir los registros para impedir cualquier evaluación del proyecto.",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "Incorrecto. Destruir información debilita el control ciudadano y no ayuda a deliberar sobre la decisión."
+        },
+        {
+          "letter": "C",
+          "text": "Presentar una propuesta colectiva y solicitar una reunión pública con las autoridades.",
+          "is_correct": true,
+          "feedback": "Correcto. Organizar demandas y dialogar públicamente permite intervenir en decisiones sin esperar otra elección."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Afirmar que la ciudadanía debe callar hasta la siguiente campaña.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Incorrecto. La participación democrática continúa entre elecciones mediante organización, propuestas y vigilancia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "La ciudadanía no se limita a elegir representantes; también puede organizarse, proponer soluciones y exigir información durante la ejecución de políticas que afectan a su comunidad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando democracia sv.",
+      "statement": "¿Por qué proteger su investigación contribuye a la democracia?",
+      "context": "Una periodista salvadoreña documenta irregularidades en una compra pública y solicita respuestas oficiales.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque cualquier publicación debe aceptarse sin verificar sus pruebas.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Incorrecto. La libertad de prensa no elimina la responsabilidad de contrastar información y corregir errores."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque la periodista puede reemplazar por sí sola a todos los tribunales.",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "Incorrecto. Informar sobre hechos no otorga funciones judiciales ni sustituye procedimientos de justicia."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque toda crítica debe transformarse en una orden obligatoria al Gobierno.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Incorrecto. La crítica alimenta el debate y el control, pero no equivale a ejercer autoridad gubernamental."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permite informar a la ciudadanía y someter decisiones públicas a escrutinio.",
+          "is_correct": true,
+          "feedback": "Correcto. La investigación periodística aporta evidencia que ayuda a evaluar autoridades y detectar abusos."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "La libertad de prensa favorece información y vigilancia del poder; su valor democrático se fortalece mediante evidencia, contraste y posibilidad de respuesta, sin confundir periodismo y justicia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando democracia sv.",
+      "statement": "¿Qué límite democrático debe respetar una decisión mayoritaria en ese caso?",
+      "context": "Una asamblea comunitaria propone negar servicios básicos a vecinos que apoyaron otra candidatura.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "Los derechos de quienes pertenecen a una minoría política.",
           "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "feedback": "Correcto. La mayoría no obtiene permiso para privar de derechos a personas por sus preferencias políticas."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "La obligación de castigar toda discrepancia electoral.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Incorrecto. Castigar preferencias vulnera la libertad política y no constituye una obligación democrática."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El derecho de la mayoría a convertir servicios públicos en premios partidarios.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Incorrecto. Los servicios públicos deben atender criterios de acceso y necesidad, no recompensar lealtades."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La desaparición de derechos de quienes perdieron la votación.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Incorrecto. Perder una elección no elimina los derechos de los ciudadanos ni su pertenencia a la comunidad."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La democracia combina decisiones mayoritarias y protección de derechos; sin límites, una mayoría puede producir exclusión y convertir la competencia política en persecución.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando democracia sv.",
+      "statement": "¿Qué conclusión permite evaluar la calidad democrática de esa elección?",
+      "context": "Observadores examinan una elección salvadoreña con urnas disponibles pero amenazas contra candidatos opositores.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "La existencia de papeletas elimina cualquier efecto de las amenazas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intimidación puede restringir candidaturas y decisiones aunque haya papeletas."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "La presencia de urnas es insuficiente si la competencia ocurre bajo intimidación.",
+          "is_correct": true,
+          "feedback": "Correcto. Una elección libre requiere opciones reales y condiciones que permitan competir y votar sin amenazas."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Una campaña sin oposición garantiza mayor libertad de elección.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "Incorrecto. Excluir alternativas reduce las opciones y no fortalece la libertad electoral."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El número de carteles prueba por sí solo la imparcialidad del proceso.",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Incorrecto. Los carteles no demuestran ausencia de coacción ni igualdad de condiciones."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "Las elecciones necesitan libertades de expresión, asociación y competencia, además de procedimientos de votación; los elementos materiales no bastan cuando existe intimidación política.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -459,81 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando democracia sv.",
+      "statement": "¿Qué problema democrático presenta ese intercambio?",
+      "context": "Durante una campaña local en El Salvador, un funcionario ofrece empleo a cambio de votar por su partido.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "letter": "A",
+          "text": "Deliberación pública basada en comparación de propuestas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intercambio exige lealtad por un favor y no invita a evaluar argumentos sobre políticas."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Distribución imparcial de oportunidades según criterios públicos.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Incorrecto. Seleccionar beneficiarios por su voto sustituye criterios imparciales por afinidad partidaria."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando democracia sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Clientelismo que condiciona beneficios a la lealtad electoral.",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "Correcto. Condicionar un beneficio al voto aprovecha una necesidad para restringir la decisión política autónoma."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Fiscalización independiente de una contratación.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Incorrecto. Ofrecer un empleo por apoyo electoral no constituye una revisión independiente de su legalidad."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "El clientelismo transforma recursos y oportunidades en instrumentos de dependencia política; distinguirlo de una política social exige observar si el acceso depende de derechos y criterios públicos o de votos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,42 +503,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando democracia sv.",
+      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v12",
+      "statement": "¿Qué conducta mejora la deliberación democrática entre quienes discrepan?",
+      "context": "Una discusión en un instituto de Usulután enfrenta dos propuestas sobre transporte público.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Dar la razón exclusivamente a quien grita más fuerte.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Incorrecto. El volumen de la voz no demuestra la calidad ni los efectos de una propuesta."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Prohibir preguntas para evitar que una idea sea cuestionada.",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "Incorrecto. Impedir objeciones elimina una oportunidad de detectar errores y mejorar decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Repetir rumores sobre la familia del adversario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ataques personales no aportan evidencia sobre las alternativas de transporte."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "text": "Comparar evidencia, escuchar objeciones y justificar la propuesta elegida.",
+          "is_correct": true,
+          "feedback": "Correcto. Intercambiar razones permite revisar posiciones y evaluar efectos de las alternativas."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "Deliberar significa valorar razones y consecuencias de decisiones compartidas; escuchar críticas no obliga a abandonar una postura, pero permite sostenerla o modificarla con mejores fundamentos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -593,41 +548,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v13",
+      "statement": "¿Qué acción permite evaluar esa información antes de compartirla?",
+      "context": "Una imagen difundida entre votantes salvadoreños atribuye a un candidato una frase sin fecha ni fuente.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "text": "Localizar el registro original y contrastar su fecha, contexto y contenido.",
+          "is_correct": true,
+          "feedback": "Correcto. Revisar el origen permite detectar recortes, atribuciones falsas y cambios de contexto."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Compartirla si confirma una preferencia política personal.",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Incorrecto. Coincidir con una creencia no demuestra que la información sea auténtica."
+        },
+        {
+          "letter": "C",
+          "text": "Considerarla verdadera por la cantidad de veces que circula.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La repetición de una imagen no constituye evidencia de su veracidad."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Añadir una acusación inventada para hacerla más convincente.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Incorrecto. Inventar datos aumenta la desinformación y dificulta una decisión electoral informada."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La información confiable favorece decisiones autónomas; verificar origen y contexto reduce el riesgo de que una campaña se base en manipulaciones que explotan simpatías o prejuicios.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -638,42 +593,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando democracia sv.",
+      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v14",
+      "statement": "¿Qué medida mejora la inclusión democrática en esa consulta?",
+      "context": "Personas con discapacidad señalan que no pueden entrar al lugar de una consulta comunitaria salvadoreña.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Mantener las barreras y declarar que todos fueron invitados.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "Incorrecto. Una invitación formal no resuelve obstáculos que impiden participar realmente."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "text": "Asegurar accesibilidad física y formatos de información adecuados.",
+          "is_correct": true,
+          "feedback": "Correcto. Eliminar barreras permite que más personas participen y expresen sus decisiones en condiciones efectivas."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Pedir que un funcionario decida por todos los ausentes.",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Incorrecto. Sustituir voces sin autorización no garantiza que se conozcan sus necesidades y preferencias."
+        },
+        {
+          "letter": "D",
+          "text": "Cancelar el acceso de quienes solicitaron adaptaciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluir a quienes señalan barreras agrava la desigualdad de participación."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La inclusión requiere condiciones materiales y comunicativas, además de reconocimiento formal; una consulta democrática debe permitir que personas con distintas necesidades participen de manera efectiva.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v15",
+      "statement": "¿Qué mecanismo ayudaría a prevenir ese conflicto de intereses?",
+      "context": "Una alcaldía salvadoreña asigna un contrato al negocio familiar de un funcionario sin revisar otras ofertas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ocultar el parentesco para conservar la confianza ciudadana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocultar información impide examinar el conflicto y debilita la confianza cuando se descubre."
+        },
+        {
+          "letter": "B",
+          "text": "Aceptar que el cargo autoriza beneficios familiares preferentes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La función pública no otorga derecho a favorecer negocios de familiares."
+        },
+        {
+          "letter": "C",
+          "text": "Declarar el vínculo, apartar al funcionario de la decisión y aplicar criterios verificables.",
+          "is_correct": true,
+          "feedback": "Correcto. La declaración y el apartamiento reducen la influencia del interés privado sobre la contratación pública."
+        },
+        {
+          "letter": "D",
+          "text": "Sustituir los criterios de contratación por elogios al funcionario.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elogios no permiten comparar costos, calidad ni imparcialidad de las ofertas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un conflicto de intereses surge cuando intereses privados pueden influir en deberes públicos; prevenirlo requiere transparencia, decisiones imparciales y mecanismos de control verificables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando democracia sv.",
+      "statement": "¿Qué criterio permite evaluar democráticamente esa restricción?",
+      "context": "Un gobierno hipotético de El Salvador invoca seguridad para prohibir indefinidamente toda crítica pública.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Aceptarla sin examen porque contiene la palabra seguridad.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Incorrecto. Nombrar un objetivo legítimo no demuestra que cualquier medio sea necesario o proporcional."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Suponer que una restricción indefinida nunca puede afectar derechos.",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Incorrecto. La duración ilimitada puede consolidar abusos y eliminar la revisión de la medida."
+        },
+        {
+          "letter": "C",
+          "text": "Medir su legitimidad únicamente por el aplauso de los simpatizantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La aprobación partidaria no sustituye el examen de efectos, límites y garantías."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "text": "Examinar su necesidad, proporcionalidad, duración y posibilidad de control independiente.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos criterios permiten valorar si una medida responde a un riesgo concreto sin eliminar controles y libertades."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "Proteger la seguridad exige evaluar medios y consecuencias; el análisis democrático considera riesgos concretos, proporcionalidad y controles para evitar que una justificación general suprima libertades.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando democracia sv.",
+      "statement": "¿Qué respuesta combina desacuerdo y respeto por las reglas democráticas?",
+      "context": "Un tribunal resuelve una disputa electoral salvadoreña y una parte rechaza el fallo solo porque perdió.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "A",
+          "text": "Examinar los fundamentos y utilizar vías de revisión previstas sin recurrir a violencia.",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "feedback": "Correcto. Las impugnaciones fundamentadas permiten cuestionar decisiones dentro de procedimientos institucionales."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Afirmar que perder demuestra necesariamente fraude.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Incorrecto. Un resultado desfavorable no es por sí mismo evidencia de irregularidad."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Impedir por la fuerza cualquier revisión del expediente.",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "Incorrecto. La coacción bloquea el examen de pruebas y deteriora el procedimiento de resolución."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Exigir que el tribunal favorezca siempre al partido propio.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Incorrecto. Esa exigencia confunde imparcialidad con beneficio partidario y niega reglas comunes."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "Aceptar reglas democráticas no exige renunciar a reclamar; exige apoyar las objeciones en evidencia y tramitar revisiones mediante procedimientos que eviten la imposición violenta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "statement": "¿Qué diferencia debe considerarse entre popularidad y calidad democrática?",
+      "context": "Una encuesta escolar muestra alta aprobación de una autoridad salvadoreña que evita explicar sus decisiones.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Todo apoyo elevado demuestra independencia judicial plena.",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Incorrecto. Una encuesta de aprobación no mide cómo actúan los jueces ni sus condiciones de independencia."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "text": "La aprobación ciudadana no sustituye derechos, controles y rendición de cuentas.",
+          "is_correct": true,
+          "feedback": "Correcto. Una autoridad puede ser popular y aun así debilitar garantías que permiten controlar su poder."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La popularidad autoriza a eliminar cualquier oposición.",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Incorrecto. El apoyo mayoritario no cancela los derechos políticos de quienes discrepan."
+        },
+        {
+          "letter": "D",
+          "text": "Toda autoridad impopular es necesariamente democrática.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La baja aprobación tampoco prueba respeto de derechos o funcionamiento de controles."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "Popularidad y democracia describen dimensiones distintas: la primera mide apoyo, mientras la segunda requiere examinar reglas, libertades, límites al poder y posibilidades reales de participación.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando democracia sv.",
+      "statement": "¿Qué conjunto de indicadores permitiría una evaluación más completa?",
+      "context": "Un observatorio juvenil prepara un informe sobre democracia en El Salvador con datos de elecciones y derechos.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "text": "Únicamente el número de mensajes publicados por el gobernante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad comunicativa no demuestra competencia libre ni protección de derechos."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Solo la asistencia a una ceremonia oficial.",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Incorrecto. La asistencia aislada no informa sobre controles, libertades ni inclusión política."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "text": "Competencia electoral, libertades, independencia institucional e inclusión de la ciudadanía.",
+          "is_correct": true,
+          "feedback": "Correcto. El conjunto examina acceso al poder, límites a su ejercicio y condiciones de participación efectiva."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Exclusivamente la cantidad de edificios administrativos nuevos.",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Incorrecto. La infraestructura no prueba calidad democrática de las reglas o del ejercicio del poder."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "Evaluar democracia requiere evidencia de varias dimensiones y criterios claros; combinar elecciones, derechos e instituciones evita confundir visibilidad gubernamental o inversión material con garantías políticas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando democracia sv.",
+      "statement": "¿Qué procedimiento integra mejor participación, evidencia y responsabilidad pública?",
+      "context": "Dos barrios salvadoreños discrepan sobre el destino de un presupuesto y buscan una decisión legítima.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "Elegir en secreto la propuesta del barrio con más contactos personales.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El favoritismo oculta razones y reemplaza criterios públicos por relaciones privadas."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Escuchar opiniones sin explicar nunca cómo influyeron en el resultado.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "Incorrecto. La consulta sin respuesta dificulta evaluar si la participación tuvo incidencia real."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Aprobar la primera propuesta y prohibir cualquier revisión futura.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "Incorrecto. Cerrar toda revisión impide corregir errores y comprobar resultados del gasto."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "text": "Publicar alternativas y costos, escuchar a ambos barrios y justificar una decisión revisable.",
+          "is_correct": true,
+          "feedback": "Correcto. El procedimiento combina información, voces diversas y razones que pueden someterse a control posterior."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "Una decisión democrática exige más que contar apoyos: necesita información accesible, consideración de afectados y justificación pública, además de mecanismos para revisar resultados y corregir problemas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle",
       "periodo": 14,
       "protocol_version": "5.2",

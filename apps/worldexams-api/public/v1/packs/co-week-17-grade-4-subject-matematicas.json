@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-17-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T07:06:03.576Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fracción de kilogramo representa esa cantidad comprada?",
+      "context": "En el mercado de Bogotá, el tendedor anota en su cuaderno que el kilogramo de cebolla cuesta $2.000 y que doña Rosa compró 0,5 de ese kilogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2 de kilogramo",
+          "is_correct": true,
+          "feedback": "Correcto. 0,5 son cinco décimas, es decir 5/10, y al dividir numerador y denominador entre 5 esa fracción queda 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "5/1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste la coma con una división y leíste 5/1, cuando 0,5 corresponde a cinco décimas, o sea 5/10 de la unidad."
+        },
+        {
+          "letter": "C",
+          "text": "1/5 de kilogramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 5 entre 10 sin simplificar la fracción, cuando 1/5 es la quinta parte del kilogramo y la mitad es 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "5/100 de kilogramo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste cinco centésimas, cuando la cifra que está en el primer lugar después de la coma vale décimas y no centésimas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un decimal y una fracción pueden describir la misma cantidad si se interpreta correctamente el lugar de cada cifra después de la coma. El 5 de 0,5 está en el primer lugar, así que vale cinco décimas, que se escribe 5/10. Simplificando 5/10 dividiendo ambos números entre 5 se obtiene 1/2, que es la mitad.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v2",
+      "statement": "Combien debe pagar doña Rosa?",
+      "context": "En Medellín, una libra de queso cuesta $24.000 y doña Rosa compró 0,25 de libra, que es un cuarto de libra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$96.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 24.000 × 4 = 96.000, cuando el 0,25 significa tomar la cuarta parte del precio y no multiplicarlo por cuatro."
+        },
+        {
+          "letter": "B",
+          "text": "$240",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corriste la coma hacia la izquierda dos veces y pasaste de $24.000 a $240, cuando dividir el precio entre 4 ya da el resultado sin tocar la coma."
+        },
+        {
+          "letter": "C",
+          "text": "$6.000",
+          "is_correct": true,
+          "feedback": "Correcto. 24.000 ÷ 4 = 6.000, y como 0,25 equivale a un cuarto, doña Rosa paga $6.000 por el cuarto de libra de queso."
+        },
+        {
+          "letter": "D",
+          "text": "$2.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 4.000 de 24.000 en lugar de dividir, cuando para tomar una fracción del precio hay que multiplicar o dividir, nunca restar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando el enunciado da la equivalencia entre el decimal y la fracción, conviene razonar con la fracción porque resulta más sencillo. Como 0,25 es 1/4, el precio del cuarto de libra se obtiene dividiendo 24.000 entre 4, y el resultado 6.000 pesos ya viene en pesos enteros, sin necesidad de trabajar la coma.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto dinero le sobra?",
+      "context": "En Villavicencio, doña Rosa recibe $15.000 para el mes y compra una camiseta que cuesta $4.750.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$19.750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 15.000 + 4.750 = 19.750, cuando la pregunta es cuánto le sobra después de pagar, y eso se obtiene restando."
+        },
+        {
+          "letter": "B",
+          "text": "$10.250",
+          "is_correct": true,
+          "feedback": "Correcto. 15.000 − 4.750 = 10.250, porque los céntimos se restan después de alinear la parte entera y el resultado conserva los mismos miles que el minuendo."
+        },
+        {
+          "letter": "C",
+          "text": "$9.250",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 15.000 − 5.750, porque tomaste los 4.750 como si fueran 5.750, y por eso tu resultado se corrió en 1.000 pesos."
+        },
+        {
+          "letter": "D",
+          "text": "$1.025",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corriste la coma un lugar y pasaste de 10.250 a 1.025, cuando el resultado debe quedar con la misma parte entera que el dinero recibido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al restar cantidades con céntimos primero se igualan las unidades: los 15.000 pesos se escriben como 15.000,00 y el precio como 4.750,00. La resta columna por columna da 10.250, y el resultado conserva la misma parte entera que el minuendo. Un error frecuente es correr la coma o cambiarla por los céntimos de uno de los números.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v4",
+      "statement": "Si se venden 6 pandebonos, ¿cuántas libras pesan en total?",
+      "context": "En una panadería de Tunja se venden pandebonos y cada uno pesa 0,5 de libra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 libras",
+          "is_correct": true,
+          "feedback": "Correcto. 6 × 0,5 = 3, porque 0,5 es la mitad de 1 y seis medias partes forman tres unidades completas."
+        },
+        {
+          "letter": "B",
+          "text": "0,3 de libra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 6 entre 10 y obtuviste 0,6, cuando el 0,5 de cada pandebono indica la mitad de una libra y no una décima parte."
+        },
+        {
+          "letter": "C",
+          "text": "6,5 libras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 6 + 0,5 = 6,5, cuando los seis pandebonos ya están contados en el 6 y el 0,5 solo dice el peso de cada uno."
+        },
+        {
+          "letter": "D",
+          "text": "30 libras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 6 × 5 = 30, cuando el 5 es la cifra de las décimas y no un multiplicador de cinco."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un decimal menor que uno indica una parte de la unidad, así que al multiplicar hay que tomarlo como multiplicador pequeño, no como una cantidad de libras. Como 0,5 es la mitad, se puede razonar sin decimales: 6 pandebonos de media libra pesan lo mismo que 3 pandebonos de libra completa. El producto 6 × 0,5 = 3 confirma ese razonamiento.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto pagó en total?",
+      "context": "En el mercado de Cartagena, el pescado cuesta $6.800 el kilogramo y doña Rosa compró 3,5 kilogramos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$20.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste solo la parte entera, 6.800 × 3 = 20.400, y dejaste fuera el medio kilo que también se cobra."
+        },
+        {
+          "letter": "B",
+          "text": "$3.400",
+          "is_correct": false,
+          "feedback": "Incorrecto. Calculaste 6.800 × 0,5 = 3.400, que es lo que vale la mitad del kilo, y faltó sumar los 3 kilos completos."
+        },
+        {
+          "letter": "C",
+          "text": "$6.800",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respondiste con el precio de un solo kilo, cuando el enunciado pide el total de los 3,5 kilos comprados."
+        },
+        {
+          "letter": "D",
+          "text": "$23.800",
+          "is_correct": true,
+          "feedback": "Correcto. 6.800 × 3,5 = 20.400 + 3.400 = 23.800, porque 6.800 × 3 da los tres kilos y 6.800 × 0,5 da la mitad del kilo restante."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Multiplicar por un decimal como 3,5 equivale a multiplicar por la parte entera y por la parte decimal, y luego sumar ambos productos. Aquí 6.800 × 3 = 20.400 y 6.800 × 0,5 = 3.400, de modo que el total es 23.800 pesos. Este método evita el error de olvidar la parte decimal del multiplicador.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué decimal es el que corresponde a esa fracción?",
+      "context": "En un taller de arte de Bogotá, doña Olga escribe en el pizarrón la fracción 1/8 y debajo un decimal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "0,25",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese decimal es 1/4, porque sus dos cifras valen 25 centésimas, cuando 1/8 son 125 milésimas."
+        },
+        {
+          "letter": "B",
+          "text": "0,5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 1 entre 2 en lugar de dividir entre 8, cuando el denominador de la fracción que se escribe es 8 y no 2."
+        },
+        {
+          "letter": "C",
+          "text": "0,125",
+          "is_correct": true,
+          "feedback": "Correcto. 1/8 son ocho partes iguales de 0,125, porque 125 dividido entre 1.000 da exactamente 0,125 y eso equivale a 1/8."
+        },
+        {
+          "letter": "D",
+          "text": "0,8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leíste el decimal como ocho décimas, cuando 0,8 equivale a 4/5 y no a la fracción 1/8 que está en el pizarrón."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para pasar de una fracción a decimal basta con dividir el numerador entre el denominador. Al dividir 1 entre 8 se obtiene 0,125, y se puede comprobar multiplicando: 0,125 × 8 = 1, que es justamente el numerador de la fracción. La equivalencia queda demostrada cuando el decimal multiplicado por el denominador devuelve el numerador.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Razonamiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el precio de cada pastel y cuánto pagan los 8 pasteles?",
+      "context": "En una panadería de Neiva, 3 pasteles cuestan $21.750 y una señora quiere comprar 8 pasteles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada pastel cuesta $7.250 y 8 pasteles cuestan $57.750",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste bien, 21.750 ÷ 3 = 7.250, pero el producto final quedó mal, porque 7.250 × 8 = 58.000."
+        },
+        {
+          "letter": "B",
+          "text": "Cada pastel cuesta $7.250 y 8 pasteles cuestan $58.000",
+          "is_correct": true,
+          "feedback": "Correcto. 21.750 ÷ 3 = 7.250 por pastel, y 7.250 × 8 = 58.000, que es lo que pagan los 8 pasteles."
+        },
+        {
+          "letter": "C",
+          "text": "Cada pastel cuesta $2.900 y 8 pasteles cuestan $23.200",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 21.750 entre 7,5, que es el precio de medio pastel, cuando primero hay que hallar el precio de uno con los 3 pasteles del enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Cada pastel cuesta $87.000 y 8 pasteles cuestan $696.000",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 21.750 × 4 = 87.000, cuando los 3 pasteles que menciona el enunciado piden una división y no una multiplicación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un precio unitario siempre se obtiene dividiendo el total entre la cantidad de unidades, y luego se usa ese precio para calcular lo que cuestan otras cantidades. Primero 21.750 ÷ 3 = 7.250 por pastel, y después 7.250 × 8 = 58.000. Hacer la operación en el orden inverso produce cifras que no corresponden a ningún precio del negocio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre la afirmación de doña Olga?",
+      "context": "En un mercado de Montería, el kilogramo de arroz cuesta $4.200 y doña Olga pagó $3.150. Ella afirma que compró 0,75 del kilogramo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es incorrecta, porque 0,75 de 4.200 darían 4.150 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El producto 4.200 × 0,75 da 3.150 pesos, así que el precio que ella pagó sí corresponde a 0,75 del kilogramo."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es incorrecta, porque para comprar 0,75 kg habría que pagar 4.200 + 3.150",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste el precio del kilo completo con lo pagado, cuando 0,75 indica tomar las tres cuartas partes del precio y no añadirle el kilo entero."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es correcta, porque 4.200 − 3.150 = 1.050 y ese valor es el 0,75",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste para obtener lo que le faltó pagar, cuando lo que se necesita es el producto 4.200 × 0,75 = 3.150."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es correcta, porque 4.200 × 0,75 = 3.150 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Al calcular 4.200 × 0,75 = 3.150 pesos se obtiene exactamente lo que doña Olga pagó, así que su compra sí fue de 0,75 del kilogramo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para verificar si alguien compró una fracción de algo basta con calcular cuánto debería haber pagado y comparar con lo que efectivamente pagó. Como 4.200 × 0,75 = 3.150, y ella entregó $3.150, los datos son consistentes y la afirmación es correcta. Este tipo de comprobación es el que permite revisar cuentas de compra de forma independiente.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Resolucion",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W17-decimales-y-conversion-con-fracciones-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

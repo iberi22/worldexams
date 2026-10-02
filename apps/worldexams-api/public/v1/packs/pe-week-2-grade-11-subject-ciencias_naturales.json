@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "El uracilo sustituye a la timina en la estructura monocatenaria del ARN.\n\n---",
+      "explanation": "El uracilo sustituye a la timina en el ARN, y esa diferencia en la base nitrogenada es la que permite distinguir el ARN del ADN y hace posible la transcripción, porque el uracilo se aparea específicamente con la adenina del molde.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -459,36 +459,81 @@
     },
     {
       "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v11",
-      "statement": "¿Cuál es el polisacárido de reserva energética en las plantas formado por unidades de glucosa unidas por enlaces glucosídicos alpha-1,4 y alpha-1,6?",
-      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "statement": "¿Qué color se espera observar en la fibra tratada con yodo?",
+      "context": "En el laboratorio de bioquímica de un colegio de Tacna, un equipo coloca fibras de outermost sobre una lámina de portaobjetos y las cubre con una disolución de yodo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Almidón",
-          "is_correct": true,
-          "feedback": "Correcto. El almidón (compuesto por amilosa y amilopectina) es la principal reserva de carbohidratos en vegetales."
-        },
-        {
           "letter": "A",
-          "text": "Glucógeno",
-          "is_correct": false,
-          "feedback": "Incorrecto. El glucógeno es la reserva energética de glucosa en animales (hígado y músculo)."
+          "text": "Azul violáceo",
+          "is_correct": true,
+          "feedback": "Correcto. El azul violáceo es la reacción característica del almidón: la molécula de yodo se aloja entre las hélices de amilosa y forma un complejo de color azul intenso."
         },
         {
           "letter": "B",
-          "text": "Celulosa",
+          "text": "Rojo anaranjado",
           "is_correct": false,
-          "feedback": "Incorrecto. La celulosa es un polisacárido estructural vegetal con enlaces beta-1,4."
+          "feedback": "Incorrecto. El yodo no vira a rojo anaranjado con el almidón, y ese color corresponde a otras pruebas que no identifican el polisacárido de reserva vegetal."
+        },
+        {
+          "letter": "C",
+          "text": "Verde amarillento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verde amarillento no es la respuesta del almidón al yodo, que siempre da una coloración azul por la formación del complejo con el polisacárido."
         },
         {
           "letter": "D",
-          "text": "Quitina",
+          "text": "Blanco lechoso",
           "is_correct": false,
-          "feedback": "Incorrecto. La quitina es el polisacárido estructural del exoesqueleto de artrópodos y pared celular de hongos."
+          "feedback": "Incorrecto. El blanco lechoso corresponde a suspensiones sin reacción, y el almidón con yodo produce de manera característica una tinción azul intensa."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El almidón constituye la reserva de carbohidratos sintetizada durante la fotosíntesis y almacenada en tubérculos y semillas.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La tinción con yodo es una prueba de almidón: el yodo se intercala en la hélice de amilosa y forma un complejo cargado que absorbe en la región azul. Por eso las semillas de tubérculo o de cereal se vuelven azul violáceas al contacto con la disolución yodada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
+      "statement": "¿Qué resultado permite distinguir la disolución proteica de la de almidón en esa prueba?",
+      "context": "Un equipo de un colegio de Moquegua tritura semillas de arveja y de garbanzo por separado, las mezcla con agua y filtra; luego somete las dos disoluciones obtenidas a la prueba de Biuret.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambas dan anillo blanquecino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El almidón no reacciona con el reactivo de Biuret, porque es un polisacárido y no contiene enlaces peptídicos entre grupos amino y grupos carboxilo."
+        },
+        {
+          "letter": "B",
+          "text": "Solo una da anillo violáceo",
+          "is_correct": true,
+          "feedback": "Correcto. El reactivo de Biuret reacciona con los enlaces peptídicos de las proteínas y produce un anillo violáceo; por eso la muestra proteica se colorea y la de almidón no."
+        },
+        {
+          "letter": "C",
+          "text": "Solo una precipita en color pardo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precipitado pardo corresponde a reacciones con sales de hierro o con yodo, y no al ensayo de Biuret para proteínas."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna cambia de color",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muestra proteica sí cambia de color con el reactivo de Biuret, y una ausencia total de reacción indicaría que ninguna disolución contiene proteína."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prueba de Biuret es específica de los enlaces peptídicos: el cobre en medio alcalino se complexa con los nitrógenos de la amida y origina una coloración violácea. Los almidones y otros polisacáridos no tienen esos enlaces, de modo que la prueba los distingue de las proteínas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -503,41 +548,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v12",
-      "statement": "Las proteínas están constituidas por cadenas de aminoácidos unidos covalentemente mediante enlaces:",
-      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
+      "statement": "¿Qué dato de la etiqueta permite clasificar ese aceite como una grasa insaturada?",
+      "context": "En un colegio de Huancavelica, un equipo revisa la etiqueta nutricional de una fritura y encuentra 14 gramos de grasa por porción, con aceite de girasol entre los ingredientes.",
       "options": [
         {
-          "letter": "D",
-          "text": "Peptídicos",
-          "is_correct": true,
-          "feedback": "Correcto. El enlace peptídico se forma entre el grupo carboxilo de un aminoácido y el grupo amino del siguiente con liberación de agua."
-        },
-        {
           "letter": "A",
-          "text": "Fosfodiéster",
-          "is_correct": false,
-          "feedback": "Incorrecto. El enlace fosfodiéster une los nucleótidos en las hebras de ácidos nucleicos (ADN y ARN)."
+          "text": "El aceite de girasol de la lista",
+          "is_correct": true,
+          "feedback": "Correcto. El aceite de girasol es rico en ácido oleico, un ácido graso con un doble enlace en su cadena, y eso lo distingue de las grasas saturadas como la manteca."
         },
         {
           "letter": "B",
-          "text": "Glucosídicos",
+          "text": "Los 14 gramos de grasa",
           "is_correct": false,
-          "feedback": "Incorrecto. El enlace glucosídico une los monosacáridos para formar oligosacáridos y polisacáridos."
+          "feedback": "Incorrecto. La cantidad de grasa indica el contenido, pero no dice nada del grado de insaturación, porque la misma cantidad puede ser grasa saturada o insaturada."
         },
         {
           "letter": "C",
-          "text": "Éster",
+          "text": "El colesterol de la fritura",
           "is_correct": false,
-          "feedback": "Incorrecto. El enlace éster une el glicerol con los ácidos grasos en los lípidos (triglicéridos)."
+          "feedback": "Incorrecto. El colesterol es un lípido esteroideo de las membranas celulares y no forma parte de los aceites vegetales como el de girasol."
+        },
+        {
+          "letter": "D",
+          "text": "El tipo de envase del producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El envase no altera la composición química de los ácidos grasos, y una fritura en aceite de girasol sigue siendo insaturada igual que una suelta."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El enlace peptídico es una amida covalente entre el grupo -COOH y -NH2 de aminoácidos contiguos en la estructura primaria.\n\n---",
+      "correct_answer": "A",
+      "explanation": "Un ácido graso se considera insaturado cuando su cadena de carbono tiene al menos un doble enlace. El aceite de girasol contiene sobre todo ácido oleico y ácido linoleico, ambos insaturados, por lo que ayuda a reducir el colesterol en sangre frente a las grasas saturadas de origen animal.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.47,
       "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
       "periodo": 2,
@@ -548,37 +593,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v13",
-      "statement": "Los triglicéridos son lípidos formados por la esterificación de una molécula de glicerol con:",
-      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
+      "statement": "Si el líquido vira a violeta, ¿qué afirma sobre lo ocurrido en el tubo?",
+      "context": "En un colegio de Puno, un equipo mezcla dos aminoácidos en un tubo de ensayo y los somete a calentamiento suave; al terminar prueba el líquido resultante con reactivo de Biuret.",
       "options": [
         {
-          "letter": "C",
-          "text": "Tres ácidos grasos",
-          "is_correct": true,
-          "feedback": "Correcto. Los triacilglicéridos contienen tres cadenas de ácidos grasos unidos al glicerol."
-        },
-        {
           "letter": "A",
-          "text": "Tres moléculas de glucosa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La unión de glucosas forma oligosacáridos o polisacáridos."
+          "text": "Se formaron enlaces peptídicos",
+          "is_correct": true,
+          "feedback": "Correcto. El color violeta con Biuret indica que el producto contiene enlaces peptídicos, es decir, que los aminoácidos se unieron por un proceso de deshidratación con pérdida de agua."
         },
         {
           "letter": "B",
-          "text": "Dos nucleótidos de purina",
+          "text": "Se formaron enlaces glucosídicos",
           "is_correct": false,
-          "feedback": "Incorrecto. Los nucleótidos componen a los ácidos nucleicos."
+          "feedback": "Incorrecto. Los enlaces glucosídicos unen azúcares y no producen reacción con el reactivo de Biuret, que solo reconoce los enlaces peptídicos de las proteínas."
+        },
+        {
+          "letter": "C",
+          "text": "Los aminoácidos se separaron",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reacción es positiva porque los aminoácidos se unieron formando un péptido, y no porque se separaran ni se dividieran en grupos distintos."
         },
         {
           "letter": "D",
-          "text": "Un grupo fosfato y una colina",
+          "text": "Se formaron enlaces de éster",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso caracteriza a los fosfolípidos de membrana."
+          "feedback": "Incorrecto. Los enlaces de éster fosfórico son propios de los nucleótidos y de los fosfolípidos, y no producen la coloración violeta que da el reactivo de Biuret."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Los triglicéridos son la forma principal de almacenamiento calórico de alta densidad en el tejido adiposo.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El reactivo de Biuret se complexa con los enlaces peptídicos y produce una coloración violácea. Por eso un resultado positivo indica que se forman cadenas peptídicas por deshidratación de los aminoácidos, que pierden una molécula de agua en cada enlace formado.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -593,41 +638,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v14",
-      "statement": "¿Cuál de las siguientes bases nitrogenadas es exclusiva de las moléculas de ARN y reemplaza a la timina presente en el ADN?",
-      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
+      "statement": "¿Qué resultado de esa prueba demuestra que la proteína del pescado se conserva al cocinarlo?",
+      "context": "En un colegio de Loreto, un equipo asa un filete de pescado y luego aplica el reactivo de Biuret a una porción del alimento crudo y a otra ya cocinada.",
       "options": [
         {
-          "letter": "C",
-          "text": "Uracilo",
-          "is_correct": true,
-          "feedback": "Correcto. El uracilo es una pirimidina presente en el ARN que se aparea con la adenina."
-        },
-        {
           "letter": "A",
-          "text": "Citosina",
-          "is_correct": false,
-          "feedback": "Incorrecto. La citosina está presente tanto en ADN como en ARN."
+          "text": "El anillo violáceo permanece",
+          "is_correct": true,
+          "feedback": "Correcto. Si la prueba de Biuret sigue dando anillo violáceo tras la cocción, la proteína permanece en el alimento: solo se desnaturalizó por el calor y sus enlaces peptídicos no se rompieron."
         },
         {
           "letter": "B",
-          "text": "Guanina",
+          "text": "El anillo violáceo desaparece",
           "is_correct": false,
-          "feedback": "Incorrecto. La guanina es una purina común al ADN y ARN."
+          "feedback": "Incorrecto. La desaparición del color indicaría hidrólisis completa de los enlaces peptídicos en aminoácidos libres, algo que la cocción por calor no produce."
+        },
+        {
+          "letter": "C",
+          "text": "Aparece un anillo azulado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azul es la respuesta del almidón con yodo, no del reactivo de Biuret, y el pescado es rico en proteína y no en almidón."
         },
         {
           "letter": "D",
-          "text": "Adenina",
+          "text": "El líquido queda incoloro",
           "is_correct": false,
-          "feedback": "Incorrecto. La adenina se encuentra presente en ambos ácidos nucleicos."
+          "feedback": "Incorrecto. Un líquido incoloro con Biuret indicaría ausencia de proteína, y no explica la conservación de la proteína en un alimento que la contiene en abundancia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El uracilo sustituye a la timina en la estructura monocatenaria del ARN.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El calor modifica la conformación tridimensional de la proteína y la desnaturaliza, pero no rompe los enlaces peptídicos de su cadena. Por eso la prueba de Biuret sigue siendo positiva y el valor nutricional de la proteína se conserva tras la cocción.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.39,
       "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
       "periodo": 2,
@@ -638,38 +683,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v15",
-      "statement": "Las enzimas aceleran la velocidad de las reacciones químicas celulares actuando como biocatalizadores debido a que:",
-      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
+      "statement": "¿Qué relación guarda la absorbancia a 260 nanómetros con la concentración de ADN?",
+      "context": "Un equipo de un colegio de Sullana extrae ADN de bacterias con un kit comercial y de células humanas con el método del cloruro de sodio; luego mide la absorbancia de ambas muestras a 260 nanómetros con un espectrofotómetro.",
       "options": [
         {
-          "letter": "D",
-          "text": "Disminuyen la energía de activación de la reacción",
-          "is_correct": true,
-          "feedback": "Correcto. Las enzimas reducen la barrera de energía necesaria para transformar sustratos en productos."
-        },
-        {
           "letter": "A",
-          "text": "Aumentan la temperatura interna de la célula",
+          "text": "Es independiente de la concentración",
           "is_correct": false,
-          "feedback": "Incorrecto. Las enzimas no modifican la temperatura ni el pH del medio celular."
+          "feedback": "Incorrecto. La absorbancia a 260 nanómetros aumenta de forma proporcional con la concentración de ácidos nucleicos, y por eso se usa para cuantificarlos."
         },
         {
           "letter": "B",
-          "text": "Consumen ATP en todas las reacciones catabólicas",
-          "is_correct": false,
-          "feedback": "Incorrecto. Muchas enzimas catalizan reacciones de forma espontánea sin gasto de ATP."
+          "text": "Aumenta con la concentración",
+          "is_correct": true,
+          "feedback": "Correcto. La ley de Beer y Lambert establece que la absorbancia es proporcional a la concentración: una muestra más concentrada absorbe más a 260 nanómetros y permite calcular los microgramos por mililitro."
         },
         {
           "letter": "C",
-          "text": "Alteran el equilibrio químico final desplazándolo a la derecha",
+          "text": "Disminuye al aumentar el ADN",
           "is_correct": false,
-          "feedback": "Incorrecto. Las enzimas aceleran la velocidad pero no modifican la constante de equilibrio Keq."
+          "feedback": "Incorrecto. La relación es directa y no inversa: más ADN significa mayor absorbancia, y una curva decreciente no corresponde a este comportamiento físico."
+        },
+        {
+          "letter": "D",
+          "text": "Solo depende del tubo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La absorbancia sí depende de la longitud de la ruta óptica, pero también y principalmente de la concentración y de la especie química presente en la muestra."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Al disminuir la energía de activación, las enzimas incrementan exponencialmente la velocidad metabólica.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Las bases nitrogenadas absorben luz ultravioleta cerca de los 260 nanómetros por su sistema de dobles enlaces conjugados. Como la absorbancia guarda proporción directa con la cantidad de ácido nucleico presente, una medición a esa longitud permite estimar su concentración en la muestra.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -683,42 +728,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v16",
-      "statement": "El disacárido formado por la unión de una molécula de glucosa y una de fructosa presente en la caña de azúcar es la:",
-      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
+      "statement": "¿Qué transformación de la materia se produce al calentar esa mezcla?",
+      "context": "En un colegio de Piura, un equipo bate huevo con leche hasta obtener una mezcla homogénea y luego la calienta en un recipiente, donde se expande y queda sólida al enfriarse.",
       "options": [
         {
           "letter": "A",
-          "text": "Sacarosa",
-          "is_correct": true,
-          "feedback": "Correcto. La sacarosa es el azúcar común sintetizado por plantas y transportado en el floema."
+          "text": "Cambio físico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio físico no altera la composición de la sustancia, y aquí la mezcla cambia de aspecto y de estructura de manera permanente al enfriarse."
         },
         {
           "letter": "B",
-          "text": "Lactosa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La lactosa (azúcar de la leche) se compone de glucosa y galactosa."
+          "text": "Cambio químico",
+          "is_correct": true,
+          "feedback": "Correcto. Se trata de una reacción química: las proteínas del huevo se desnaturalizan y coagulan formando una red sólida, y ese cambio ya no se revierte al enfriar."
         },
         {
           "letter": "C",
-          "text": "Maltosa",
+          "text": "Sublimación",
           "is_correct": false,
-          "feedback": "Incorrecto. La maltosa se compone de dos moléculas de glucosa unidas por enlace alpha-1,4."
+          "feedback": "Incorrecto. La sublimación es el paso directo de sólido a gas, como el yodo sublimado, y no corresponde a una mezcla que se solidifica por calor."
         },
         {
           "letter": "D",
-          "text": "Celobiosa",
+          "text": "Disolución simple",
           "is_correct": false,
-          "feedback": "Incorrecto. La celobiosa es el disacárido producto de la hidrólisis parcial de la celulosa."
+          "feedback": "Incorrecto. Una disolución simple no forma una red sólida, sino una separación de componentes sin reacción, y aquí la mezcla se transforma de manera irreversible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La sacarosa es el principal disacárido no reductor transportado en el savia elaborada de las plantas.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El calor desnaturaliza las proteínas y les hace desplegar su estructura para formar de nuevo entre sí una red tridimensional. Ese proceso, llamado coagulación, es una reacción química porque las proteínas se transforman de manera permanente y el cambio no se deshace al enfriar.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.31,
+      "expected_success": 0.3,
       "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -728,37 +773,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v17",
-      "statement": "Los ácidos grasos que contienen uno o más dobles enlaces ($C=C$) en su cadena hidrocarbonada se clasifican como:",
-      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
+      "statement": "¿Qué transformación de la materia explica que el medio de cultivo se aclare?",
+      "context": "En un colegio de Huaraz, un equipo mantiene un cultivo de bacterias a 37 grados durante tres horas y observa que el medio se aclara mientras disminuye el número de células viables.",
       "options": [
         {
-          "letter": "B",
-          "text": "Insaturados",
-          "is_correct": true,
-          "feedback": "Correcto. Los ácidos grasos insaturados presentan dobles enlaces que generan acodamientos en la cadena."
+          "letter": "A",
+          "text": "Fusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión es el paso de sólido a líquido, y el medio de cultivo es líquido desde el inicio, así que ese nombre no describe lo observado."
         },
         {
-          "letter": "A",
-          "text": "Saturados",
+          "letter": "B",
+          "text": "Solidificación",
           "is_correct": false,
-          "feedback": "Incorrecto. Los ácidos grasos saturados poseen únicamente enlaces simples C-C y mayor punto de fusión."
+          "feedback": "Incorrecto. La solidificación es el paso de líquido a sólido, y el medio se aclara y se consume en lugar de endurecerse o cristalizar."
         },
         {
           "letter": "C",
-          "text": "Esenciales exclusivamente sintéticos",
+          "text": "Evaporación",
           "is_correct": false,
-          "feedback": "Incorrecto. Muchos ácidos insaturados (omega 3 y 6) son esenciales en la dieta."
+          "feedback": "Incorrecto. En la evaporación el disolvente se va como vapor y deja un residuo seco; aquí el líquido se consume por metabolismo celular sin evaporarse."
         },
         {
           "letter": "D",
-          "text": "Fosfolípidos complejos",
-          "is_correct": false,
-          "feedback": "Incorrecto. Los fosfolípidos son lípidos compuestos que contienen ácido fosfórico."
+          "text": "Combustión",
+          "is_correct": true,
+          "feedback": "Correcto. Las bacterias oxidan la glucosa del medio liberando dióxido de carbono y agua, y por eso el medio se aclara al consumirse ese nutriente en una combustión biológica."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Los ácidos grasos insaturados son líquidos a temperatura ambiente (aceites) y cardiosaludables.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La respiración celular es una combustión lenta: la glucosa se oxida con oxígeno y se liberan dióxido de carbono y agua, además de energía en forma de ATP. Por eso el medio de cultivo se aclara al caer la concentración de glucosa y al subir el pH por el CO2 disuelto.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,37 +818,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v18",
-      "statement": "La estructura secundaria de una proteína caracterizada por un plegamiento en espiral estabilizado por puentes de hidrógeno es la:",
-      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
+      "statement": "¿Qué propiedad química explica esa diferencia de composición entre las vitaminas?",
+      "context": "Un equipo de un colegio de Tumbes lee el análisis de un suplemento y encuentra que cada cápsula aporta el 40 por ciento del valor diario en seis vitaminas del complejo B y niacina, y nada en vitaminas A, D, E y K.",
       "options": [
         {
-          "letter": "B",
-          "text": "Hélice alfa",
+          "letter": "A",
+          "text": "Su grado de hidrofilia",
           "is_correct": true,
-          "feedback": "Correcto. La alfa-hélice es una conformación secundaria periódica estabilizada por enlaces de hidrógeno intracadena."
+          "feedback": "Correcto. Las vitaminas del complejo B y la niacina son solubles en agua y se eliminan por la orina, mientras que A, D, E y K son liposolubles y se almacenan en el hígado, por eso necesitan grasa para absorberse."
         },
         {
-          "letter": "A",
-          "text": "Hoja beta plegada",
+          "letter": "B",
+          "text": "Su cantidad de carbono",
           "is_correct": false,
-          "feedback": "Incorrecto. La hoja beta plegada es una conformación extendida en lámina de la estructura secundaria."
+          "feedback": "Incorrecto. El número de átomos de carbono no determina la solubilidad, y tanto las vitaminas hidro como las liposolubles tienen estructuras carbonadas de tamaño parecido."
         },
         {
           "letter": "C",
-          "text": "Estructura cuaternaria globular",
+          "text": "Su peso molecular",
           "is_correct": false,
-          "feedback": "Incorrecto. La estructura cuaternaria involucra la unión de varias subunidades polipeptídicas."
+          "feedback": "Incorrecto. El peso molecular no explica que unas vitaminas se disuelvan en agua y otras en grasa, porque las cuatro son moléculas orgánicas de tamaño reducido."
         },
         {
           "letter": "D",
-          "text": "Secuencia lineal peptídica",
+          "text": "Su cantidad de oxígeno",
           "is_correct": false,
-          "feedback": "Incorrecto. La secuencia lineal de aminoácidos constituye la estructura primaria."
+          "feedback": "Incorrecto. La proporción de oxígeno no determina el comportamiento en medio acuoso, y las vitaminas liposolubles también contienen oxígeno en su estructura."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las estructuras secundarias (alfa-hélice y lámina beta) son patrones repetitivos causados por puentes de hidrógeno.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La hidrofilia de una molécula depende de la polaridad de sus grupos funcionales. Las del complejo B presentan grupos carboxilo y amino muy polares, por lo que se disuelven en agua, mientras que las liposolubles son casi apolares y viajan dentro de las lipoproteínas del transporte.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -818,87 +863,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v19",
-      "statement": "¿Qué vitamina hidrosoluble es un cofactor esencial en la síntesis de colágeno y su deficiencia severa produce el escorbuto?",
-      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
+      "statement": "¿Qué resultado de esa comparación demuestra que el tejido muscular tiene más agua?",
+      "context": "En un colegio de Lima, un equipo pesa dos muestras de tejido de 250 miligramos cada una, una de músculo y otra de grasa, y las calienta en una llama hasta convertirlas en ceniza.",
       "options": [
         {
-          "letter": "C",
-          "text": "Vitamina C (Ácido ascórbico)",
-          "is_correct": true,
-          "feedback": "Correcto. La vitamina C hidroxila a la prolina y lisina para dar estabilidad a la hélice de colágeno."
-        },
-        {
           "letter": "A",
-          "text": "Vitamina D (Calciferol)",
-          "is_correct": false,
-          "feedback": "Incorrecto. La vitamina D regula el metabolismo del calcio y hueso (su deficiencia causa raquitismo)."
+          "text": "El músculo deja menos ceniza",
+          "is_correct": true,
+          "feedback": "Correcto. El agua del músculo se evapora al calentar y el resto forma la ceniza, así que la muestra más acuosa es la que deja menor residuo, y el músculo contiene cerca del 70 por ciento de agua."
         },
         {
           "letter": "B",
-          "text": "Vitamina K (Naftoquinona)",
+          "text": "La grasa deja menos ceniza",
           "is_correct": false,
-          "feedback": "Incorrecto. La vitamina K interviene en los factores de coagulación sanguínea."
+          "feedback": "Incorrecto. Es el resultado contrario: la grasa apenas contiene agua, así que casi toda su masa permanece como residuo y deja más ceniza que el músculo."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas dejan igual ceniza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si ambas dejaran el mismo residuo tendrían la misma proporción de agua, lo que no corresponde a un músculo mucho más acuoso que la grasa."
         },
         {
           "letter": "D",
-          "text": "Vitamina A (Retinol)",
+          "text": "El músculo desaparece entero",
           "is_correct": false,
-          "feedback": "Incorrecto. La vitamina A participa en el ciclo visual y protección epitelial."
+          "feedback": "Incorrecto. El tejido no desaparece por completo: el agua se evapora como vapor y otra parte se carboniza, y esa fracción carbonizada es la que revela el contenido de solidos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El ácido ascórbico es un potente antioxidante y cofactor de la prolil-hidroxilasa en la biosíntesis del colágeno.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El agua es el componente mayoritario del tejido muscular, cercano al 70 por ciento, mientras que la grasa contiene muy poca. Al calentar, el agua se evapora y queda una ceniza cuyo peso corresponde a los solidos, de modo que la muestra más acuosa es la que deja menor residuo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.15,
-      "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle-v20",
-      "statement": "El nucleótido universal transportador de energía química en el metabolismo celular formado por adenina, ribosa y tres fosfatos es el:",
-      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Bioquímica: Biomoléculas Orgánicas (Carbohidratos, Lípidos, Proteínas y Ácidos Nucleicos) para la preparación preuniversitaria.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "ATP (Adenosín Trifosfato)",
-          "is_correct": true,
-          "feedback": "Correcto. El ATP almacena energía de enlace fosfoanhídrido altamente disponible para las funciones celulares."
-        },
-        {
-          "letter": "A",
-          "text": "NADP+",
-          "is_correct": false,
-          "feedback": "Incorrecto. El NADP+ es un coenzima transportador de electrones y protones en reacciones anabólicas."
-        },
-        {
-          "letter": "C",
-          "text": "AMP cíclico",
-          "is_correct": false,
-          "feedback": "Incorrecto. El AMPc actúa como segundo mensajero en la señalización celular."
-        },
-        {
-          "letter": "D",
-          "text": "ADN polimérico",
-          "is_correct": false,
-          "feedback": "Incorrecto. El ADN es el depósito de información genética hereditaria."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El ATP es la moneda energética de la célula liberando ~7.3 kcal/mol al hidrolizar su grupo fosfato terminal.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.1,
       "bundle_id": "PE-NAT-11-2026-W02-tema-w02-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

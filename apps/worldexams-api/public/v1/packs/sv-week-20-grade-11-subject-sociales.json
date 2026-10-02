@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando grecia roma.",
+      "statement": "Como se organizo politicamente la antigua Grecia?",
+      "context": "Un mapa escolar compara como se organizaron Grecia y Roma en la Antiguedad.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
+          "letter": "A",
+          "text": "En ciudades-estado independientes llamadas poleis",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "feedback": "Correcto: cada polis tenia su propia asamblea, sus leyes y su territorio, sin un poder comun sobre toda Grecia."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "En un imperio unificado con un solo emperador",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "El imperio unificado con un emperador es el modelo de Roma, no el de las ciudades griegas independientes."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "En un unico reino dirigido por un rey eterno",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "Grecia se organizo en poleis y no en un reino unico gobernado por un monarca permanente."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "En una delegacion unica dirigida por un consejo WatchingWatching Watchingfunnel Watching WatchingWatchingWatching",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "feedback": "Esa descripcion no corresponde a la organizacion de las poleis griegas, que eran autonomas entre si."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La Grecia antigua se dividio en poleis o ciudades-estado soberanas, y esa fragmentacion explica buena parte de sus conflictos internos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando grecia roma.",
+      "statement": "Que instrumento uso Roma para integrar y controlar sus provincias?",
+      "context": "Una lamina escolar muestra como Roma mantuvo unido un territorio muy extenso.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El aislamiento comercial de los pueblos conquistados",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "Roma integro a los pueblos conquistados en su economia y su administracion, y no los aislo comercialmente."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La prohibicion de fundar ciudades nuevas",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "Roma fundo muchas ciudades y colonias, de modo que fundar nuevas ciudades fue parte de su estrategia de integracion."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Una red de caminos y la fundacion de colonias",
+          "is_correct": true,
+          "feedback": "Correcto: los caminos conectaban las provincias y las colonias consolidaban el control romano sobre ellas."
+        },
+        {
+          "letter": "D",
+          "text": "La adopcion de las religiones locales",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "La tolerancia religiosa existio, pero no fue el instrumento central de integracion territorial empleado por Roma."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "La red de caminos y las colonias fueron las herramientas de que Roma se sirvio para coordinar y mantener unido un imperio tan extenso.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando grecia roma.",
+      "statement": "Que institucion permitia a los ciudadanos atenienses decidir directamente?",
+      "context": "Un profesor explica como funcionaba la democracia de la ciudad de Atenas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El Senado",
           "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "feedback": "El Senado es una institucion de Roma y no el organo de participacion popular de la ciudad de Atenas."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "text": "La asamblea de los ciudadanos",
+          "is_correct": true,
+          "feedback": "Correcto: la asamblea reunia a los ciudadanos y les permitia discutir y votar en primera persona las decisiones de la polis."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El tribunal supremo romano",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "El tribunal supremo pertenece a la organizacion romana y no es el mecanismo democratico propio de Atenas."
+        },
+        {
+          "letter": "D",
+          "text": "Un consejo aristocratico",
+          "is_correct": false,
+          "feedback": "Ese organo no es el mecanismo de participacion popular que caracteriza a la democracia ateniense."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "La democracia ateniense se basaba en la participacion directa de los ciudadanos en la asamblea, sin representantes que intervinieran entre ellos y las decisiones.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando grecia roma.",
+      "statement": "Que lengua fue la oficial en el Imperio romano de Occidente?",
+      "context": "Una estela romana esta grabada y permite reconocer la lengua de la administracion imperial.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "text": "El griego",
+          "is_correct": false,
+          "feedback": "El griego se uso mucho en el Mediterraneo, pero la lengua oficial de la administracion romana de Occidente era el latin."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El hebreo",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El hebreo se uso en ciertas comunidades del imperio y no fue la lengua oficial del gobierno romano."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "El latin",
+          "is_correct": true,
+          "feedback": "Correcto: el latin fue la lengua oficial del imperio de Occidente, y de el descienden las lenguas romances."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El arabe",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El arabe se asocio despues a la expansion islamica del Mediterraneo y no al gobierno romano de Occidente."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "El latin fue la lengua de la administracion y de los documentos del imperio de Occidente, y se conserva en gran numero de inscripciones.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando grecia roma.",
+      "statement": "Quien es el dios supremo del panteon griego?",
+      "context": "Un cuaderno compara los dioses de dos panteones antiguos.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Zeus",
           "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "feedback": "Correcto: Zeus es el dios del cielo y el trueno, y ocupa el lugar mas alto del panteon griego."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Jupiter",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "Jupiter es el dios supremo del panteon romano y el equivalente de Zeus en su religion."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Ares",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Ares era el dios de la guerra en Grecia y no ocupaba el lugar mas alto del panteon griego."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Poseidon",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Poseidon era el dios del mar en Grecia y no era considerado el dios supremo del panteon."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "explanation": "Cada cultura antigua tuvo su propia religion politeista: Zeus en Grecia, Jupiter en Roma, Osiris en Egipto y Odin entre los pueblos del norte.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando grecia roma.",
+      "statement": "Que cambio politico permitio que Roma superara a las ciudades griegas?",
+      "context": "Un grupo de estudiantes compara dos sistemas politicos opuestos en la Antiguedad.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
+          "letter": "A",
+          "text": "La adopcion de una constitucion democratica",
+          "is_correct": false,
+          "feedback": "Roma no supero a las poleis por democratizacion alguna, y su evolucion fue justamente hacia un modelo mas centralizado."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La adopcion de un gobierno descentralizado",
           "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
+          "feedback": "La centralizacion del poder fue lo que hizo Roma poderosa, y no la adopcion de un gobierno descentralizado."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La adopcion de un estilo de gobierno ateniense",
           "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "La inspiracion ateniense no explica la victoria romana, que se baso en la unidad interna y no en copiar el modelo griego."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
+          "text": "La concentracion del poder en un gobierno unico",
+          "is_correct": true,
+          "feedback": "Correcto: la unidad interna permitio a Roma movilizar un ejercito y una administracion comunes frente a ciudades divididas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "Roma vencio a las poleis por su unidad interna: un gobierno y un ejercito comunes actuaron con la fuerza de todo un territorio al mismo tiempo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando grecia roma.",
+      "statement": "Como se llamo el imperio romano que sobrevivio a la caida de Occidente?",
+      "context": "Un profesor distingue las etapas de la historia de Roma con una linea de tiempo.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La Republica",
           "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
+          "feedback": "La Republica fue la etapa anterior del Estado romano, gobernada por el Senado y no por un emperador."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La Monarquia absoluta",
           "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "La monarquia absoluta no es el nombre de ninguna etapa del imperio romano y pertenece a otro contexto."
+        },
+        {
+          "letter": "C",
+          "text": "El Imperio de Oriente o Imperio Bizantino",
+          "is_correct": true,
+          "feedback": "Correcto: el Imperio de Oriente, con capital en Constantinopla, sobrevivio a la caida de Occidente y perduro hasta 1453."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El Reino de Macedonia",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El reino de Macedonia es anterior al imperio romano y se fundo con las conquistas de Alejandro Magno."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "6",
+      "explanation": "El Imperio de Oriente mantuvo la tradicion romana y cristiana durante mil años despues de que el Imperio de Occidente se desintegrara.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando grecia roma.",
+      "statement": "Que rasgos definen la arquitectura clasica de la Grecia antigua?",
+      "context": "Uncurso de arquitectura compara los estilos que definen el clasicismo antiguo.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "text": "La proporcionalidad, las columnas y los frontones",
+          "is_correct": true,
+          "feedback": "Correcto: el clasicismo griego se apoya en la proporcionalidad, el uso de columnas y los frontones triangulares."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Los arcos apuntados y las vidrieras altas",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Los arcos apuntados y las vidrieras altas pertenecen a la arquitectura gotica medieval, muy posterior en el tiempo."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Las curvas amplitudes y la ornamentacion escapescopia",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Las curvas amplitudes y la ornamentacion escapista son rasgos del barroco europeo del siglo XVII."
+        },
+        {
+          "letter": "D",
+          "text": "Los muros de adobe sin ningun elemento de piedra",
+          "is_correct": false,
+          "feedback": "El muro de adobe sin piedra trabajada no es el rasgo distintivo de la arquitectura de la Grecia antigua."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La arquitectura clasica griega, con sus proporciones y columnas, fue un modelo que Roma copio y difundo por todo el imperio.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -369,172 +369,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando grecia roma.",
+      "statement": "Por que los arqueologos fechan los restos por las capas de sedimento superpuestas?",
+      "context": "Una obra de construccion expone capas de tierra de distintas épocas.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "letter": "A",
+          "text": "Porque cada capa corresponde a un gobierno distinto",
+          "is_correct": false,
+          "feedback": "Las capas son depositos sucesivos del suelo y no se corresponden con los gobiernos que hubo en ese lugar."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Porque el sedimento conserva escritura legible",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El sedimento arqueologico no conserva escritura legible, y esa limitacion obliga a usar el metodo de las capas."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "text": "Porque lo que esta debajo se coloco antes que lo de encima",
+          "is_correct": true,
+          "feedback": "Correcto: ese principio, llamado superposicion, permite ordenar la secuencia de los restos en el tiempo."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Porque las capas siguen el calendario solar",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "El calendario solar regula el ciclo anual, pero no la antiguedad de los estratos que aparecen en una excavacion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El principio de superposicion es la base del metodo estratigrafico: el estrato inferior es mas antiguo que el que lo cubre.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
-        },
-        {
-          "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
-        },
-        {
-          "letter": "C",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -548,42 +413,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando grecia roma.",
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v10",
+      "statement": "Que pueblo construyo su reputation sobre la disciplina militar de sus guerreros?",
+      "context": "Un linea de tiempo coloca las guerras griegas en el siglo V antes de Cristo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
+          "letter": "A",
+          "text": "Los persas",
+          "is_correct": false,
+          "feedback": "Los persas tuvieron un ejercito muy numeroso, y su fama no se basaba en la disciplina de una linea de hoplitas."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
+          "letter": "B",
+          "text": "Los espartanos",
+          "is_correct": true,
+          "feedback": "Correcto: Esparta organizo su sociedad entera para la guerra y fue famosa por la disciplina de sus hoplitas."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Los celtas de Galia",
           "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
+          "feedback": "Los celtas de Galia combatian con mayor movilidad y sin la formacion cerrada y disciplinada de los hoplitas espartanos."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Los fenicios",
           "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
+          "feedback": "Los fenicios fueron conocidos sobre todo como navegantes y comerciantes, y no por ese estilo de combate."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "explanation": "Esparta dedico su sociedad entera a la guerra y formo hoplitas, que combatian, que combatian en una formacion muy organizada.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v11",
+      "statement": "Que efecto cultural tuvo la expansion del imperio de Alejandro Magno?",
+      "context": "Una clase analiza las consecuencias culturales de las conquistas de Alejandro Magno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La destruccion definitiva de la cultura griega",
+          "is_correct": false,
+          "feedback": "Las conquistas difundieron la cultura griega por un enorme territorio, y no la destruyeron como sugiere este enunciado."
+        },
+        {
+          "letter": "B",
+          "text": "La fundacion de un Estado unico permanente",
+          "is_correct": false,
+          "feedback": "El imperio de Alejandro fue temporal y se desintegro tras su muerte, sin quedar como un Estado unico duradero."
+        },
+        {
+          "letter": "C",
+          "text": "La difusion de la cultura helenica por tres continentes",
+          "is_correct": true,
+          "feedback": "Correcto: el helenismo se extencio desde Grecia hasta el Oriente y el norte de Africa, y multiplico los intercambios culturales."
+        },
+        {
+          "letter": "D",
+          "text": "Larupcion total del comercio mediterraneo",
+          "is_correct": false,
+          "feedback": "Las conquistas de Alejandronio HouseholdCommercialNetworkStimulo el comercio y la circulacion de ideas en lugar dehacerlos desaparecer."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Alejandro no fundo un Estado unico duradero, pero su conquista extendio el helenismo por un espacio enorme y abrio un intenso intercambio cultural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v12",
+      "statement": "Como se distingue la ceramica CAMPANA de la antigua Roma?",
+      "context": "Un museo exhibe una vasija decorada hallada en una tumba del sur de Italia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por su decoracion pintada con figuras rojas sobre fondo negro",
+          "is_correct": true,
+          "feedback": "Correcto: la ceramica CAMPANA se caracteriza por sus figuras rojas pintadas sobre un fondo negro."
+        },
+        {
+          "letter": "B",
+          "text": "Por llevar su decoracion escrita en jeroglificos",
+          "is_correct": false,
+          "feedback": "Los jeroglificos son de la escritura egipcia y no aparecen como rasgo propio de esta ceramica romana."
+        },
+        {
+          "letter": "C",
+          "text": "Por estar hecha de arcilla gris sin decoracion",
+          "is_correct": false,
+          "feedback": "La ceramica CAMPANA es precisamente decorada y pintada, de modo que la ausencia de decoracion no la caracteriza."
+        },
+        {
+          "letter": "D",
+          "text": "Por llevar una decoracion grabada en relieve",
+          "is_correct": false,
+          "feedback": "Su rasgo distintivo es la pintura de figuras, y no el grabado en relieve como ocurre en otras ceramicas antiguas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nombre CAMPANA viene de la region de Campania, donde se hallaron grandes cantidades de estas piezas de decoracion pintada.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v13",
+      "statement": "Que combinacion explica la mayor extension territorial de Roma?",
+      "context": "Un Comparacion directo examina por que Roma alcanzo un territorio mucho mayor que el de las poleis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un gobierno unico junto con una red de caminos",
+          "is_correct": true,
+          "feedback": "Correcto: la unidad interna y la infraestructura de caminos permitieron a Roma coordinar y controlar un territorio muy vasto."
+        },
+        {
+          "letter": "B",
+          "text": "El aislamiento comercial de los pueblos conquistados",
+          "is_correct": false,
+          "feedback": "El aislamiento comercial contradice la estrategia de integracion que aplico Roma en sus provincias conquistadas."
+        },
+        {
+          "letter": "C",
+          "text": "La adopcion de una cultura ajena",
+          "is_correct": false,
+          "feedback": "La adopcion de una cultura ajena no explica por si sola la extension territorial de Roma, que fue una cuestion militar y administrativa."
+        },
+        {
+          "letter": "D",
+          "text": "La adopcion de un gobierno descentralizado",
+          "is_correct": false,
+          "feedback": "El gobierno descentralizado debilito a las ciudades griegas, mientras que Romaziel grew mas fuerte al concentrar el poder."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Roma fue mas extensa porque combinó unidad politica, que permitia una decision comun, con una infraestructura que hacía practicable gobernarla.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando grecia roma.",
+      "statement": "Que parte de un templo griego antiguo sostenia el toldo sobre la entrada?",
+      "context": "Una clase proyecta una reconstruccion de un templo antiguo y compara su estructura con un edificio moderno.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
+          "text": "El fronton",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto: el fronton es el elemento triangular que corona los edificios griegos y sostenia el toldo sobre las columnas."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El claustro",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "El claustro es un patio porticado propio de edificios monacicos medievales y no de los templos griegos antiguos."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La bóveda de cañon",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "La boveda de canon pertenece a la arquitectura romana y se construyo centuries despues de los primeros templos griegos."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La boveda gotica",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "La boveda gotica es un elemento medieval muy posterior y no forma parte de la arquitectura del templo griego antiguo."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "explanation": "El fronton triangular es el elemento que remata los templos griegos y distingue su silueta en la arquitectura clsica.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
@@ -639,127 +639,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando grecia roma.",
+      "statement": "Por que el comercio fue tan importante en las civilizaciones del Mediterraneo antiguo?",
+      "context": "Un estudio compara los sistemas economicos de las dos civilizaciones.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
+          "text": "Porque sustituyo por completo a la agricultura",
+          "is_correct": false,
+          "feedback": "El comercio complementaba a la agricultura y a la ganaderia, y no las sustituyo ni las hizo innecesarias."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La Constitución",
+          "text": "Porque conectaba regiones con recursos muy distintos",
           "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma fundamental que estructura los poderes del Estado y fija sus límites."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria se limita a desarrollar una regla ya existente, no organiza los poderes del Estado entero."
-        },
-        {
-          "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto presidencial es una decisión del ejecutivo sobre un asunto concreto, de rango menor que la Constitución."
+          "feedback": "Correcto: las zonas costeras no tenían los mismos recursos que el interior, de modo que el intercambio permitia obtener lo que cada region no producia."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Porque solo lo practicaban los Estados enemigos",
           "is_correct": false,
-          "feedback": "Un tratado internacional obliga entre Estados firmantes, no es la norma que organiza el gobierno de un país."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. La industrialización concentró a los trabajadores en las ciudades y ensanchó la burguesía y el proletariado como clases nuevas."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La revolución industrial desplazó el trabajo del campo a la fábrica y a la ciudad, no de vuelta a la vida agrícola."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "La producción industrial exigía materias primas y mercados, de modo que el comercio internacional creció en vez de disminuir."
+          "feedback": "El comercio lo practicaban incluso los estados que competian entre si, y no era una actividad exclusiva de los enemigos entre si."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Porque sustituyo a la escritura",
           "is_correct": false,
-          "feedback": "El trabajo manual se intensificó en las fábricas y la máquina solo transformó su forma, no lo eliminó."
+          "feedback": "El comercio dio lugar a nuevas formas de contabilidad y escritura, y no las sustituyo como podria sugerir este enunciado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "La Mediterranea es un mar que rodea regiones muy distintas entre si, y el comercio permitia obtener lo que cada region no producia.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,86 +683,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando grecia roma.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución de un país democrático reconoce los derechos humanos fundamentales como límite al poder del Estado."
-        },
-        {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "El derecho de propiedad es uno más entre los reconocidos, y limitar la Constitución a la propiedad dejaría fuera los demás."
-        },
-        {
-          "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación política son una parte del catálogo, no la totalidad de los derechos de una Constitución democrática."
-        },
-        {
-          "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Son los ciudadanos los titulares de los derechos, y además esos derechos limitan al gobierno en lugar de pertenecerle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando grecia roma.",
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v16",
+      "statement": "Que institucion del mundo romano dejo una huella duradera en el mundo juridico actual?",
+      "context": "Un manual compara el legado politico de las dos civilizaciones del Mediterraneo antiguo.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
+          "text": "El derecho y la codificacion de las leyes",
           "is_correct": true,
-          "feedback": "Correcto. Si las exportaciones superan a las importaciones, la balanza comercial registra un superávit."
+          "feedback": "Correcto: el derecho romano dio origen a sistemas juridicos de muchos paises de Europa y America."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "La asamblea de los ciudadanos",
           "is_correct": false,
-          "feedback": "El déficit aparece cuando se importa más de lo que se exporta, exactamente al revés de lo que dice el enunciado."
+          "feedback": "La asamblea de ciudadanos es propia de Atenas y no es la institucion juridica que el mundo romano transmitio."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La politeia espartana",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportaciones e importaciones iguales, y aquí las exportaciones son mayores."
+          "feedback": "La politeia espartana es una forma particular de gobierno de Esparta, y no el legado juridico mas.drawable del mundo romano."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La confederacion Watching WatchingWatching WatchingWatchingWatching Watching de las poleis",
           "is_correct": false,
-          "feedback": "Una crisis económica es un malestar general del país, no el nombre del saldo de la balanza comercial."
+          "feedback": "Las poleis no formaron una confederacion unica, y ese supuesto no describe ningun legado juridico romano."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "explanation": "El derecho romano fue una de las herencias mas duraderas de la civilizacion, y de el descienden los sistemas juridicos de muchos paises actuales.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
@@ -863,42 +728,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando grecia roma.",
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v17",
+      "statement": "Por que se conservan tantos edificios antiguos en el Mediterraneo?",
+      "context": "Un guia turistico explica por que hay tantos edificios antiguos con ruinas de columnas en el Mediterraneo.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El asesinato del archiduque Francisco Fernando en Sarajevo en 1914 fue el detonante inmediato de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Porque el clima del Mediterraneo es seco y calido",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa."
+          "feedback": "El clima soleado favorece la conservacion de algunos restos, pero el clima mediterraneo no es calido todo el año."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque las culturas antiguas eran muyulae conservadoras",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, ya en plena guerra, y fue ajena al estallido de 1914."
+          "feedback": "Las culturas antiguas no buscaban conservar sus edificios, que normalmente se demolian y se reutilizaan los materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los materiales y las tecnicas de construccion eran muy resistentes",
+          "is_correct": true,
+          "feedback": "Correcto: el uso de la piedra y la ingenieria de arqued||NAN ahogada han permitido que muchas estructuras resistan durante milenios."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque las guerras nadie destruyo nada",
           "is_correct": false,
-          "feedback": "El avión fue inventado en 1903 y es un hecho técnico, no un detonante diplomático."
+          "feedback": "Las guerras y los earthquakes destruyeron buena parte de esas ciudades, y la conservacion se explica por la calidad de la obra, no por la ausencia de destruccion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "explanation": "La permanencia de ruinas greclas y romanas se explica sobre todo por el uso de materiales resistentes como la piedra y el marmol.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v18",
+      "statement": "Que consecuencia tuvo la concentracion del poder en Roma para las ciudades conquistadas?",
+      "context": "Un Simultaneo ejercicio compara la Extension territorial de Roma con la fragmentacion de las poleis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perdieron su autonomia politica definitiva",
+          "is_correct": false,
+          "feedback": "Es cierto que las ciudades conquistadas perdieron autonomia politica, pero esa no es la consecuencia que describe el enunciado como diferencia clave con las poleis griegas."
+        },
+        {
+          "letter": "B",
+          "text": "Fueron integradas en una unidad politica mayor",
+          "is_correct": true,
+          "feedback": "Correcto: al caer bajo Roma, las ciudades dejaron de ser soberanas y pasaron a formar parte de una unidad politica mucho mayor."
+        },
+        {
+          "letter": "C",
+          "text": "Mantuvieron intactas sus fronteras y sus leyes locales",
+          "is_correct": false,
+          "feedback": "Las ciudades conquistadas conservaron parte de sus costumbres, pero quedaron sometidas a la unidad politica y al ordenamiento romano."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron obligadas a abandonar su lengua y su cultura",
+          "is_correct": false,
+          "feedback": "Roma convivio con las culturas locales y no elimino sus lenguas ni sus costumbres, aunque las sometio a un mismo poder."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La concentracion del poder romano hizo que las ciudades dejaran de ser soberanas y quedaran integradas en un conjunto politico mucho mas amplio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v19",
+      "statement": "Que tipo de fuentes permite conocer mejor a Roma que a la Grecia antigua?",
+      "context": "Un estudio compara las fuentes disponibles para conocer las dos civilizaciones antiguas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las pinturas rupestres, que solo existen en el paleolitico",
+          "is_correct": false,
+          "feedback": "Las pinturas rupestres son anteriores a estas civilizaciones y no constituyen una fuente especifica del mundo romano."
+        },
+        {
+          "letter": "B",
+          "text": "Los mitos, que son la unica fuente disponible",
+          "is_correct": false,
+          "feedback": "Los mitos no son la unica fuente de que se dispone, y alongside ellos se conservan textos, ruinas y objetos de la epoca."
+        },
+        {
+          "letter": "C",
+          "text": "Los textos legales y las inscripciones conservadas",
+          "is_correct": true,
+          "feedback": "Correcto: Roma produjo un volumen enorme de leyes, edictos e inscripciones, lo que permite reconstruir su vida juridica con mucho detalle."
+        },
+        {
+          "letter": "D",
+          "text": "Los registros administrative que solo existen en la era moderna",
+          "is_correct": false,
+          "feedback": "Los registros administrativos conservados de la epoca son precisamente los que hacen posible conocer Roma con tanto detalle, y no son un producto moderno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La abundancia de textos juridicos e inscripciones es lo que explica que conozca Roma con mucho mas detalle que lamayoria de las ciudades griegas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle-v20",
+      "statement": "Que pueblo antiguo uso la escritura silabica mas conocida?",
+      "context": "Una clase compara dos sistemas de escritura surgidos en el Mediterraneo antiguo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los griegos",
+          "is_correct": false,
+          "feedback": "Los griegos usaron un alfabeto de origen fenicio, pero el pueblo destacado por su escritura silabica fue Chipre y sus vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "Los fenicios",
+          "is_correct": true,
+          "feedback": "Correcto: los fenicios difundieron el alfabeto por el Mediterraneo, y el lineal chipriota es un ejemplo de escritura silabica."
+        },
+        {
+          "letter": "C",
+          "text": "Los persas",
+          "is_correct": false,
+          "feedback": "Los persas Eddy usaron otros sistemas de escritura, y no son el pueblo asociado a la escritura silabica del Mediterraneo."
+        },
+        {
+          "letter": "D",
+          "text": "Los egipcios",
+          "is_correct": false,
+          "feedback": "Los egipcios usaron los jeroglificos, que son signos con significado y no signos silabicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los fenicios difundieron spreading una/Judgment consonantal que llego hasta los griegos, y el lineal chipriota es el mejor ejemplo de escritura silabica antigua.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W20-grecia-roma-001-MASTERY-bundle",
       "periodo": 20,
       "protocol_version": "5.2",

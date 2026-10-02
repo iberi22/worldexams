@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando constitucion sv.",
+      "statement": "Cual es la norma suprema a la que deben ajustarse todas las demas normas del ordenamiento juridico salvadoreño?",
+      "context": "Estudiantes de undecimo grado en San Salvador consultan la norma suprema del pais para un taller de civicidad.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "text": "La Constitucion",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitucion es la norma maxima y todas las leyes, decretos y reglamentos deben ser compatibles con ella."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "El Codigo Civil",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El Codigo Civil regula las relaciones entre particulares, asi que se aplica dentro de la Constitucion y nunca por encima de ella."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "La Ley de Hacienda",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "La Ley de Hacienda trata sobre impuestos y gasto publico, por lo que ocupa un lugar jerarquicamente inferior a la Constitucion."
+        },
+        {
+          "letter": "D",
+          "text": "El Reglamento interno",
+          "is_correct": false,
+          "feedback": "El reglamento interno dicta normas de funcionamiento de un mismo organo y no puede contradecir jamas la Constitucion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La Constitucion es la norma suprema del ordenamiento juridico; el principio de supremacia obliga a que ninguna otra norma la contradiga.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -54,81 +54,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando constitucion sv.",
+      "statement": "Que principio obliga a que ninguna ley pueda contradecir la Constitucion?",
+      "context": "El profesor de seres sociales explica por que una ley aprobada ayer no puede ser valida si contradice el texto constitucional.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "text": "La jerarquia administrativa",
+          "is_correct": false,
+          "feedback": "La jerarquia administrativa ordena los actos de un mismo poder segun su rango interno, no el lugar de una ley frente a la Constitucion."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
+          "text": "La supremacia constitucional",
           "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Correcto: la supremacia constitucional impone que la Constitucion rija sobre toda norma, de modo que una ley contraria carece de validez."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "La continuidad administrativa",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La continuidad administrativa obliga a mantener las politicas publicas en el tiempo y no regula el conflicto entre una ley y la Constitucion."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La inmutabilidad",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "La inmutabilidad se refiere a la dificultad para modificar la propia Constitucion, no a la prioridad que tiene sobre las leyes."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "El principio de supremacia constitucional coloca a la Constitucion por encima de leyes, decretos y reglamentos, y anula toda norma que se le oponga.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -143,41 +98,86 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando constitucion sv.",
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v3",
+      "statement": "En que parte de la Constitucion salvadoreña se reconocen los derechos y deberes fundamentales de las personas?",
+      "context": "Un grupo de estudiantes reviso el indice de la Constitucion salvadoreña para ubicar el catalogo de derechos.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "El Titulo II",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "El Titulo II trata sobre el territorio y el gobierno del Estado, y no sobre el catalogo de derechos individuales."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El Titulo III",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "El Titulo III regula el regimen electoral y la funcion publica dentro de la estructura del Estado."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "El Titulo I",
+          "is_correct": true,
+          "feedback": "Correcto: el Titulo I de la Constitucion reconoce los derechos y deberes fundamentales de toda persona."
+        },
+        {
+          "letter": "D",
+          "text": "El Titulo IV",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "El Titulo IV corresponde a la Hacienda Publica y no enumera los derechos individuales de los ciudadanos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El Titulo I abre la Constitucion salvadoreña con los derechos y deberes fundamentales; es la seccion que un estudiante debe consultar para localizar ese catalogo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v4",
+      "statement": "A que edad una persona adquiere la calidad de mayor de edad en El Salvador?",
+      "context": "Una adolescente de catorce años pregunta a su docente a partir de que edad se considera mayor de edad en El Salvador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los 18 años",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitucion salvadoreña fija en los dieciocho años el umbral de la mayoria de edad para el ejercicio pleno de la ciudadania."
+        },
+        {
+          "letter": "B",
+          "text": "A los 16 años",
+          "is_correct": false,
+          "feedback": "Los dieciseis años no son la edad de mayoria de edad constitucional, porque ese limite pertenece a otras legislaciones y no a la salvageña."
+        },
+        {
+          "letter": "C",
+          "text": "A los 21 años",
+          "is_correct": false,
+          "feedback": "Los veintiun años no figuran en la Constitucion como umbral de mayoria de edad, y ese dato se confunde con otras legislaciones."
+        },
+        {
+          "letter": "D",
+          "text": "A los 25 años",
+          "is_correct": false,
+          "feedback": "Veinticinco años no es la edad fijada por el ordenamiento salvadoreño para la mayoria de edad de una persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitucion establece que la mayoria de edad se alcanza a los dieciocho años, edad a partir de la cual la persona responde plenamente por sus actos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
@@ -189,37 +189,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando constitucion sv.",
+      "statement": "Que derecho garantiza el acceso de cualquier persona a la informacion publica en El Salvador?",
+      "context": "En la preparacion de un oficio legal, una adulta pide conocer la informacion publica de la entidad que la atiende.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "El derecho de peticion",
+          "is_correct": false,
+          "feedback": "El derecho de peticion permite reclamar ante la autoridad, y no sustituye el acceso documental a los datos de la entidad."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "El derecho de asociacion",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La asociacion consiste en unirse con otras personas para un fin comun, y nada tiene que ver con consultar datos de un organismo publico."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "El derecho a la huelga",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "El derecho a huelga consiste en suspender el trabajo, y es un mecanismo de protesta completamente distinto al acceso a documentos oficiales."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El acceso a la informacion publica",
+          "is_correct": true,
+          "feedback": "Correcto: el acceso a la informacion publica permite solicitar y conocer los datos que el Estado posee, salvo reserva legal expresa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El derecho de acceso a la informacion publica reconoce a toda persona la posibilidad de consultar datos y documentos en poder del Estado, con las exclusiones que fija la ley.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v6",
+      "statement": "Que poder del Estado tiene la facultad de formar, reformar y derogar las leyes?",
+      "context": "La clase observa un diagrama con los tres poderes del Estado salvadoreño y pide identificar el que aprueba las normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poder Ejecutivo",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El Poder Ejecutivo ejecuta las leyes y administra la hacienda publica, pero no tiene competencia para aprobar normas del Congreso."
+        },
+        {
+          "letter": "B",
+          "text": "Poder Legislativo",
+          "is_correct": true,
+          "feedback": "Correcto: la Asamblea Legislativa es el poder encargado de dictar, reformar y derogar las leyes del pais."
+        },
+        {
+          "letter": "C",
+          "text": "Poder Judicial",
+          "is_correct": false,
+          "feedback": "El Poder Judicial aplica las leyes y administra justicia, por lo que no ejerce la funcion de aprobar normas del Congreso."
+        },
+        {
+          "letter": "D",
+          "text": "Corte de Cuentas",
+          "is_correct": false,
+          "feedback": "La Corte de Cuentas fiscaliza el uso de los fondos publicos y revisa la marcha de su gestion, pero no legisla."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "explanation": "El Poder Legislativo, representado por la Asamblea Legislativa, es el organo que dicta, reforma y deroga las leyes; los otros poderes tienen funciones distintas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -233,87 +278,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando constitucion sv.",
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v7",
+      "statement": "Que poder del Estado se encarga de ejecutar las politicas y administrar los servicios publicos?",
+      "context": "Durante una visita escolar al Palacio Nacional, el guia explica quien aplica las politicas publicas aprobadas por la Asamblea.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Poder Judicial",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "El Poder Judicial resuelve controversias y aplica normas vigentes, pero no administra ni ejecuta el presupuesto nacional."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Poder Legislativo",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "La Asamblea Legislativa aprueba las normas y no tiene a su cargo la ejecucion administrativa de las politicas del Estado."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Fiscalia General de la Republica",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "La Fiscalia investiga delitos y ejerce la accion penal, mientras que la ejecucion administrativa corresponde al Ejecutivo."
+        },
+        {
+          "letter": "D",
+          "text": "Poder Ejecutivo",
+          "is_correct": true,
+          "feedback": "Correcto: el Poder Ejecutivo, dirigido por el presidente de la Republica, hace cumplir las leyes y gestiona la administracion publica."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "explanation": "El Poder Ejecutivo es el que hace cumplir las leyes y administra los servicios publicos, bajo la direccion del presidente de la Republica como jefe de Estado.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "B",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando constitucion sv.",
+      "statement": "Que poder del Estado administra justicia e interpreta la ley en el momento de aplicarla?",
+      "context": "Un proceso judicial en Sonsonate sirve para preguntar a los alumnos que poder interviene cuando un juez dicta sentencia.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "text": "Poder Judicial",
+          "is_correct": true,
+          "feedback": "Correcto: los jueces del Poder Judicial resuelven los conflictos y aplican la Constitucion y la ley a los casos concretos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Poder Legislativo",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La Asamblea Legislativa escribe las normas y no emite sentencias sobre las controversias que ocurren entre partes."
+        },
+        {
+          "letter": "C",
+          "text": "Poder Ejecutivo",
+          "is_correct": false,
+          "feedback": "El Poder Ejecutivo dirige la administracion del Estado y no dicta las sentencias que resuelven un juicio."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Corte de Cuentas",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "La Corte de Cuentas revisa la contabilidad publica y no administra justicia propiamente dicha en los tribunales."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "El Poder Judicial aplica la ley a los casos concretos que llegan a los tribunales, y de ahi la separacion entre quien legisla, quien ejecuta y quien juzga.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando constitucion sv.",
+      "statement": "Cual es la funcion principal de la Asamblea Legislativa salvadoreña?",
+      "context": "Los estudiantes comparan una resolucion de la Asamblea con un decreto presidencial para entender quien hace cada cosa.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Administrar la justicia",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Administrar justicia es tarea del Poder Judicial, mediante los tribunales que resuelven los conflictos entre partes."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Ejecutar el presupuesto",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La ejecucion del presupuesto corresponde al Poder Ejecutivo a traves de la administracion publica del Estado."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Producir y reformar leyes",
+          "is_correct": true,
+          "feedback": "Correcto: la Asamblea Legislativa es el organo que crea, modifica y deroga las leyes del Estado salvadoreño."
+        },
+        {
+          "letter": "D",
+          "text": "Dirigir la politica exterior",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "La politica exterior corresponde al Poder Ejecutivo, que negocia y suscribe tratados en nombre del pais."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La funcion esencial de la Asamblea Legislativa es la potestad normativa: crear, reformar y derogar las leyes dentro del Estado de derecho.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando constitucion sv.",
+      "statement": "Que forma de Estado corresponde a El Salvador?",
+      "context": "Tras estudiar las formas de gobierno, los alumnos de undecimo grado comparan tres modelos de organizacion del poder.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "A",
+          "text": "Republica representativa",
           "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "feedback": "Correcto: El Salvador es una republica representativa, en la que los ciudadanos eligen representantes mediante el voto."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Monarquia constitucional",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Una monarquia se caracteriza por un monarca hereditario, y ese modelo pertenece a otras historias y no al Estado salvadoreño."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Republica popular",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La republica popular se define por un partido unico en el poder, mientras que El Salvador es una republica representativa con pluralidad partidista."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Dictadura militar",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Una dictadura militar se apoya en la fuerza de las armas y no en representantes elegidos, de modo que no describe al Estado salvadoreño."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "El Salvador es una republica representativa y democratica: el poder opera mediante representantes elegidos por voto, con separacion de poderes.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando constitucion sv.",
+      "statement": "Que autoridad elige al Fiscal General de la Republica en El Salvador?",
+      "context": "Un ejercicio sobre control institucional pide identificar quien elige al responsable de la investigacion de la corrupcion.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "letter": "A",
+          "text": "El presidente de la Republica",
+          "is_correct": false,
+          "feedback": "La eleccion del Fiscal General es competencia de la Asamblea Legislativa y no una designacion que el presidente haga por si solo."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "La Corte Suprema de Justicia",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "La Corte Suprema administra justicia y no es la asamblea que designa al Fiscal General de la Republica."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El cuerpo electoral",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El electorado elige representantes en las elecciones generales, pero la eleccion del Fiscal General se concentra en la Asamblea Legislativa."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "text": "La Asamblea Legislativa",
+          "is_correct": true,
+          "feedback": "Correcto: la Asamblea Legislativa elige al Fiscal General de la Republica mediante el procedimiento que establece la Constitucion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La Constitucion establece que el Fiscal General de la Republica es elegido por la Asamblea Legislativa, lo que concentra en un solo poder una decision de enorme importancia.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando constitucion sv.",
+      "statement": "Que principio impide que una misma persona acumule las facultades de varios poderes del Estado?",
+      "context": "Una reforma propuesta para que una sola persona ocupe dos cargos del Estado sirve para ilustrar un principio de limites al poder.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "text": "La soberanía popular",
+          "is_correct": false,
+          "feedback": "La soberanía popular situa la fuente del poder en el pueblo, pero no es el mecanismo que impide la concentracion de cargos."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "text": "La separacion de poderes",
+          "is_correct": true,
+          "feedback": "Correcto: la separacion de poderes reparte las funciones en organos distintos para evitar que una sola persona las acumule."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "El federalismo",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "El federalismo distribuye competencias entre el Estado central y las entidades federadas, y no se ocupa del reparto de poderes internos."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La funcionalidad administrativa",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "La funcionalidad administrativa es un criterio de eficiencia y no el principio que limita la concentracion de poderes del Estado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La separacion de poderes reparte la funcion publica en poderes distintos e independientes, de modo que nadie reune en un cargo la facultad de varios poderes.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando constitucion sv.",
+      "statement": "Que derecho fundamental protege frente a una detencion arbitraria?",
+      "context": "En una audiencia preliminar, un detenido afirma que fue privado de su libertad sin orden escrita de autoridad.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "text": "La libertad personal",
+          "is_correct": true,
+          "feedback": "Correcto: la libertad personal impide que alguien sea privado de su libertad sin orden escrita de autoridad competente."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El derecho a la educacion",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La educacion es un derecho social y no protege contra la detencion arbitraria, que afecta la libertad fisica de la persona."
+        },
+        {
+          "letter": "C",
+          "text": "La inviolabilidad del domicilio",
+          "is_correct": false,
+          "feedback": "La inviolabilidad del domicilio protege el espacio privado de la vivienda y no la libertad fisica de la persona."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El derecho de reunion",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Reunirse libremente con otras personas no se relaciona con que a alguien lo priven de su libertad sin mandamiento escrito."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La libertad personal es un derecho de rango constitucional que nadie puede vulnerar; su vulneracion se convierte en delito cuando carece de orden escrita de autoridad.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",
@@ -594,172 +594,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando constitucion sv.",
+      "statement": "Que principio prohibe aplicar una pena a una conducta que no era delito en el momento en que se cometio?",
+      "context": "Una reforma propone sancionar con pena maxima una conducta que no estaba prevista como delito cuando se cometio.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "text": "La oralidad",
+          "is_correct": false,
+          "feedback": "La oralidad exige que el juicio se tramite de forma verbal, y regula la forma del proceso y no la falta de antecedente penal."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
-        },
-        {
-          "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
-        },
-        {
-          "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "La irretroactividad penal",
           "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Correcto: la irretroactividad penal impide que una ley mas severa se aplique a hechos anteriores a su entrada en vigencia."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La presuncion de inocencia",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La presuncion de inocencia obliga a tratar como inocente a quien aun no ha sido condenado, y es un principio distinto al de la irretroactividad."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El debido proceso",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El debido proceso senala la forma en que debe juzgarse a una persona y no prohibe aplicar una pena retroactiva a un hecho antiguo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
-        },
-        {
-          "letter": "C",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "explanation": "La irretroactividad penal es el principio que protege a la persona: una conducta solo puede sancionarse si estaba prevista como delito cuando ocurrio.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,83 +638,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando constitucion sv.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
-        },
-        {
-          "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
-        },
-        {
-          "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
-      "periodo": 15,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando constitucion sv.",
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v15",
+      "statement": "Que debe ocurrir con una ley que contradice directamente un articulo constitucional?",
+      "context": "El tribunal debe resolver el caso de una ley que contradice un articulo de la Constitucion vigente.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "text": "Prevalece sobre la Constitucion",
+          "is_correct": false,
+          "feedback": "Ninguna ley puede prevalecer sobre la Constitucion, porque esta es la norma suprema del ordenamiento juridico."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Se aplica con caracter excepcional",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Una ley contraria a la Constitucion no puede aplicarse de forma excepcional, porque la excepcion solo opera para normas que no chocan con ella."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Se somete a consulta popular",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La consulta popular se emplea para aprobar reformas y no para convalidar una ley que vulnera la norma suprema del pais."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "text": "Pierde su validez",
+          "is_correct": true,
+          "feedback": "Correcto: por el principio de supremacia constitucional, la ley que contradice la Constitucion no puede conservar su validez."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El principio de supremacia constitucional invalida toda norma contraria a la Constitucion, y ese es el mecanismo que da coherencia interna al ordenamiento juridico.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -863,42 +683,222 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando constitucion sv.",
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v16",
+      "statement": "Que caracteriza a una constitucion rigida?",
+      "context": "Al estudiar por que cambiar la Constitucion es mas dificil que aprobar una ley ordinaria, el docente explica el concepto de constitucion rigida.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "A",
+          "text": "Su reforma exige un procedimiento especial",
           "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "feedback": "Correcto: una constitucion rigida solo puede modificarse mediante un procedimiento mas exigente que el de una ley ordinaria."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "No puede reformarse nunca",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La rigidez no significa inmovilidad absoluta, porque la constitucion rigida se reforma aunque con un procedimiento reforzado."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Se aprueba por decreto presidencial",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "Un decreto presidencial es una norma inferior y no es el instrumento con el que se adopta una constitucion."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Rige solo para los ciudadanos que votan",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "La constitucion rige para todas las personas dentro del territorio del Estado, y no solo para quienes participan en las elecciones."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La rigidez constitucional expresa la mayor dificultad para modificar la norma suprema, y por eso su reforma exige un procedimiento reforzado respecto de la ley ordinaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v17",
+      "statement": "Que derecho reconoce la Constitucion salvadoreña a las personas para acceder a la enseñanza?",
+      "context": "Un tutor de una comunidad rural debate el acceso de los niños a la escuela publica del municipio donde viven.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la propiedad privada",
+          "is_correct": false,
+          "feedback": "La propiedad privada se protege como un derecho patrimonial, y es distinto del acceso a la enseñanza que garantiza el Estado."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la huelga",
+          "is_correct": false,
+          "feedback": "El derecho a huelga es una forma de protesta laboral y no tiene relacion con el acceso de los menores a la escuela."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la educacion",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitucion reconoce el derecho a la educacion y obliga al Estado a garantizar la enseñanza basica de la poblacion."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho de expropiacion",
+          "is_correct": false,
+          "feedback": "La expropiacion limita una propiedad privada en interes publico, y no genera el acceso a la enseñanza de los menores."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El derecho a la educacion es un derecho social de rango constitucional: el Estado garantiza la enseñanza basica y asume el deber de promoverla.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v18",
+      "statement": "Que entidad posee la facultad de emitir ordenanzas que regulan la vida local del municipio?",
+      "context": "Una sesion de simulacros locales prepara para el caso en que el concejo municipal ajusta puestos en una calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La municipalidad",
+          "is_correct": true,
+          "feedback": "Correcto: la municipalidad emite ordenanzas sobre asuntos de su competencia local, como el transito, el trazado urbano y los servicios."
+        },
+        {
+          "letter": "B",
+          "text": "La Asamblea Legislativa",
+          "is_correct": false,
+          "feedback": "La Asamblea Legislativa dicta leyes de alcance nacional y no ordenanzas sobre un municipio concreto del pais."
+        },
+        {
+          "letter": "C",
+          "text": "El ministerio respectivo",
+          "is_correct": false,
+          "feedback": "Los ministerios dictan reglamentos de alcance general y no disposiciones que regulen de forma particular un municipio."
+        },
+        {
+          "letter": "D",
+          "text": "La Corte de Apelaciones",
+          "is_correct": false,
+          "feedback": "El Poder Judicial resuelve controversias y aplica las normas, sin crear ordenanzas de administracion local."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La autonomia municipal permite que la municipalidad dicte ordenanzas sobre los asuntos de su competencia, sin contradecir la Constitucion ni las leyes del pais.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v19",
+      "statement": "Que vias procesales permiten impugnar ante un juez la vulneracion de derechos fundamentales?",
+      "context": "En una clinica juridica gratuita, una desconocida afirma que una publicacion oficial vulnera sus derechos fundamentales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El recurso de proteccion",
+          "is_correct": false,
+          "feedback": "El recurso de proteccion pertenece a otro ordenamiento y no es la via procesal que corresponde al ordenamiento salvadoreño."
+        },
+        {
+          "letter": "B",
+          "text": "El amparo y el habeas corpus",
+          "is_correct": true,
+          "feedback": "Correcto: el amparo protege los derechos vulnerados por el Estado y el habeas corpus protege la libertad fisica de las personas."
+        },
+        {
+          "letter": "C",
+          "text": "El juicio civil ordinario",
+          "is_correct": false,
+          "feedback": "Un juicio ordinario exige una controversia entre partes y no es la via directa para tutelar de inmediato un derecho fundamental."
+        },
+        {
+          "letter": "D",
+          "text": "La consulta popular",
+          "is_correct": false,
+          "feedback": "La consulta popular somete una decision al cuerpo electoral del Estado y no resuelve la vulneracion de un derecho individual."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "explanation": "Las acciones de amparo y de habeas corpus son mecanismos de proteccion constitucional que permiten impugnar ante un juez los derechos vulnerados.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle-v20",
+      "statement": "De donde surge, segun el enfoque constitucional salvadoreño, el poder del Estado?",
+      "context": "En el estudio del Estado, un alumno atribuye el poder a un gobierno provisional y no a los ciudadanos del pais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del Poder Ejecutivo",
+          "is_correct": false,
+          "feedback": "El Poder Ejecutivo es una expresion del poder estatal y no su fuente originaria dentro del ordenamiento juridico."
+        },
+        {
+          "letter": "B",
+          "text": "De la Constitucion",
+          "is_correct": false,
+          "feedback": "La Constitucion recoge el poder y lo ordena, pero el fundamento de legitimidad de ese poder reside en el pueblo soberano."
+        },
+        {
+          "letter": "C",
+          "text": "De las instituciones religiosas",
+          "is_correct": false,
+          "feedback": "Las instituciones religiosas no son la fuente de legitimidad del poder estatal reconocida por la Constitucion salvadoreña."
+        },
+        {
+          "letter": "D",
+          "text": "Del pueblo",
+          "is_correct": true,
+          "feedback": "Correcto: la soberanía popular afirma que el poder reside en el pueblo y se ejerce a traves de sus representantes elegidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La soberanía popular sostiene que el poder del Estado procede del pueblo, que lo delega en representantes mediante el voto y conserva en todo momento el derecho a controlar a sus representantes.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W15-constitucion-sv-001-MASTERY-bundle",
       "periodo": 15,
       "protocol_version": "5.2",

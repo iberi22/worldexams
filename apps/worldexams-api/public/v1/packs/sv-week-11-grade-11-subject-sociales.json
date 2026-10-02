@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
+      "statement": "¿Qué característica permite reconocer una dictadura en el ejercicio del poder de Martínez?",
+      "context": "Un archivo escolar de Santa Ana ordena documentos del gobierno de Hernández Martínez.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "text": "La concentración del poder acompañada de represión de la oposición.",
+          "is_correct": true,
+          "feedback": "Correcto. La concentración y la represión impiden que la oposición controle o dispute libremente el poder."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "La alternancia garantizada mediante elecciones competitivas.",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Incorrecto. La alternancia competitiva permite sustituir gobernantes y corresponde a una práctica democrática."
+        },
+        {
+          "letter": "C",
+          "text": "La independencia plena de los jueces frente al gobernante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia judicial limita al Ejecutivo, mientras la dictadura debilita esos controles."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La protección efectiva de toda protesta contra el gobierno.",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Incorrecto. Proteger la protesta permite cuestionar al poder y contradice la represión característica del régimen."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "Una dictadura se identifica por la concentración del poder y la restricción de libertades, no solamente por la profesión militar del gobernante.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Qué proceso político explica el ascenso de Hernández Martínez al gobierno?",
+      "context": "Una cronología salvadoreña sitúa un golpe de Estado en diciembre de 1931 antes de la represión de 1932.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "La firma de un tratado de paz en Chapultepec.",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Incorrecto. Chapultepec corresponde al proceso de paz de 1992, varias décadas después."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "text": "La ruptura del gobierno de Arturo Araujo mediante un golpe militar.",
+          "is_correct": true,
+          "feedback": "Correcto. El golpe contra Araujo rompió el orden político y precedió al ascenso de Martínez."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "La victoria de una guerrilla en la guerra civil de los años ochenta.",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Incorrecto. Esa guerra ocurrió mucho después de 1931 y no explica el ascenso de Martínez."
+        },
+        {
+          "letter": "D",
+          "text": "La creación de una presidencia por decisión de las Naciones Unidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las Naciones Unidas nacieron en 1945 y no establecieron aquel gobierno."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "Distinguir el golpe de 1931 de los acontecimientos de 1932 evita confundir el origen del gobierno con la represión que ejerció posteriormente.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando dictadura martinez.",
+      "statement": "¿Por qué una caída del precio internacional del café podía agravar el descontento rural?",
+      "context": "En Sonsonate se estudia la dependencia del café durante la crisis económica mundial iniciada en 1929.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque aseguraba salarios más altos para todos los jornaleros.",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Incorrecto. La reducción de ingresos no garantizaba aumentos salariales y podía producir el efecto contrario."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque eliminaba automáticamente la concentración de la tierra.",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Incorrecto. Un cambio de precios no redistribuye por sí mismo la propiedad de las fincas."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque reducía ingresos de exportación y presionaba el empleo y los salarios agrícolas.",
+          "is_correct": true,
+          "feedback": "Correcto. Menores ingresos del café podían traducirse en menos trabajo y peores remuneraciones para las familias rurales."
+        },
+        {
+          "letter": "D",
+          "text": "Porque volvía innecesaria toda actividad agrícola.",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Incorrecto. La población seguía necesitando alimentos y trabajo aunque el café perdiera valor."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La dependencia de un producto de exportación transmite crisis externas a la economía local; sus efectos sociales dependen también de la distribución de tierra e ingresos.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -144,37 +144,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Cómo se denomina habitualmente la represión masiva que siguió al levantamiento de 1932?",
+      "context": "Una exposición en Izalco distingue el levantamiento de enero de 1932 de la respuesta estatal.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "La Reforma Liberal de 1871.",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Incorrecto. Esa expresión remite a un proceso del siglo XIX, no a la represión de 1932."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "La firma de los Acuerdos de México de 1991.",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Incorrecto. Ese acuerdo pertenece a las negociaciones de paz y no al gobierno de Martínez."
+        },
+        {
+          "letter": "C",
+          "text": "La independencia centroamericana de 1821.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia ocurrió más de un siglo antes y tuvo otro contexto político."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "text": "La Matanza.",
+          "is_correct": true,
+          "feedback": "Correcto. La Matanza designa la represión y las matanzas masivas posteriores al levantamiento de enero de 1932."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "Nombrar La Matanza permite identificar un episodio de violencia estatal y distinguirlo tanto de la insurrección previa como de otros procesos históricos salvadoreños.",
       "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v5",
+      "statement": "¿Qué consecuencia social ayuda a explicar ese ocultamiento?",
+      "context": "Una familia de Nahuizalco relata que sus mayores ocultaron rasgos de su identidad después de 1932.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El temor a ser perseguida por su identificación indígena.",
+          "is_correct": true,
+          "feedback": "Correcto. La persecución y la asociación entre identidad indígena y sospecha política pudieron generar estrategias de ocultamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Una prohibición natural de transmitir recuerdos familiares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Transmitir recuerdos no está impedido por una ley natural; el miedo tiene causas históricas."
+        },
+        {
+          "letter": "C",
+          "text": "La desaparición instantánea de toda comunidad rural.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocultar una identidad no equivale a que todas las comunidades hayan dejado de existir."
+        },
+        {
+          "letter": "D",
+          "text": "La adopción voluntaria y universal de una misma tradición extranjera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato presenta temor y persecución, no una elección cultural compartida por toda la población."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La violencia puede afectar la transmisión de lenguas, vestimenta y memorias; reconocer ese efecto no significa suponer que la identidad indígena desapareció por completo.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -188,86 +233,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
-          "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Qué procedimiento permite estudiar esas fuentes sin aceptar automáticamente una sola versión?",
+      "context": "Un taller de historia compara titulares oficiales y testimonios sobre las víctimas de 1932.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Suponer que todo documento oficial es necesariamente completo.",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "Incorrecto. Un documento estatal puede omitir hechos o justificar decisiones de quienes lo produjeron."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Contrastar su autoría, propósito y contenido con otras evidencias.",
+          "is_correct": true,
+          "feedback": "Correcto. El contraste permite reconocer intereses, coincidencias y contradicciones entre fuentes de distinto origen."
+        },
+        {
+          "letter": "C",
+          "text": "Descartar cualquier testimonio porque no fue escrito por el gobierno.",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Incorrecto. Los testimonios aportan experiencias que deben evaluarse, no excluirse por su origen no estatal."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Elegir la versión más breve sin examinar su procedencia.",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Incorrecto. La brevedad no demuestra veracidad ni permite identificar el contexto de producción."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La crítica histórica examina quién produjo una fuente, en qué circunstancias y con qué finalidad; contrastar materiales ayuda a reconstruir hechos sin ocultar incertidumbres.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Qué pregunta ayudaría mejor a examinar la diversidad de quienes participaron en el levantamiento?",
+      "context": "En una discusión sobre Martínez, un alumno afirma que toda oposición campesina era idéntica.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Qué color de portada tiene el libro utilizado en clase.",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Incorrecto. El diseño del libro no aporta evidencia sobre los participantes del levantamiento."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Cuál era la temperatura de una ciudad europea ese día.",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Incorrecto. Ese dato no identifica motivos ni organizaciones de los actores salvadoreños."
+        },
+        {
+          "letter": "C",
+          "text": "Qué demandas, vínculos organizativos y experiencias tenían los distintos grupos.",
+          "is_correct": true,
+          "feedback": "Correcto. Examinar demandas y vínculos permite distinguir actores sin reducirlos a una etiqueta única."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Qué versión resulta más cómoda para evitar investigar.",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Incorrecto. La comodidad del investigador no es un criterio para reconocer la diversidad social."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Un levantamiento puede reunir actores con intereses diferentes; estudiar sus demandas evita convertir una clasificación política del régimen en una descripción histórica indiscutible.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Qué efecto político podía tener esa representación de los opositores?",
+      "context": "Un periódico del período de Martínez presenta las críticas al gobierno como amenazas al orden.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Garantizar que cualquier oposición recibiera acceso igualitario a la prensa.",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Incorrecto. Deslegitimar a los críticos no garantiza espacios iguales para expresar sus propuestas."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Demostrar que todas las acusaciones del periódico eran verdaderas.",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Incorrecto. Una representación propagandística necesita contraste y no prueba por sí sola los hechos."
+        },
+        {
+          "letter": "C",
+          "text": "Convertir automáticamente cada editorial en una sentencia judicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un editorial expresa una posición pública y no sustituye un proceso judicial."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "text": "Justificar restricciones a la crítica mediante la identificación del disenso con el peligro.",
+          "is_correct": true,
+          "feedback": "Correcto. Equiparar oposición y amenaza facilita presentar la represión como una medida necesaria de seguridad."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "La propaganda puede construir enemigos y legitimar el autoritarismo; analizar su lenguaje exige separar las acusaciones políticas de las pruebas sobre conductas concretas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando dictadura martinez.",
+      "statement": "¿Qué garantía permite diferenciar una investigación judicial de un castigo colectivo?",
+      "context": "Un grupo analiza ejecuciones de personas acusadas de rebelión sin una audiencia individual.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
+          "text": "Examinar pruebas y permitir la defensa de cada persona acusada.",
           "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "feedback": "Correcto. La responsabilidad individual requiere pruebas y defensa, en lugar de atribuir culpa a toda una comunidad."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Asignar culpabilidad según la ropa que usa una comunidad.",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Incorrecto. La vestimenta no demuestra participación individual en un delito."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Considerar suficiente que un vecino comparta origen étnico con un insurgente.",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Incorrecto. Compartir origen étnico no prueba que alguien haya realizado una conducta delictiva."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Impedir que el acusado conozca cualquier cargo.",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Incorrecto. Ocultar los cargos impide preparar una defensa y debilita las garantías judiciales."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Analizar la represión de 1932 exige distinguir participación comprobada y estigmatización colectiva; la responsabilidad no puede deducirse del origen étnico o la residencia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "statement": "¿Cómo debería presentar esas cifras en un informe responsable?",
+      "context": "Una estudiante encuentra estimaciones diferentes del número de víctimas de La Matanza.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "text": "Promediarlas y declarar que el resultado es un registro exacto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El promedio de estimaciones no se convierte por ello en un conteo documentado."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "text": "Indicar las fuentes, el intervalo de estimaciones y las limitaciones documentales.",
+          "is_correct": true,
+          "feedback": "Correcto. Explicitar fuentes y límites permite reconocer la magnitud del hecho sin inventar una precisión inexistente."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Elegir la cifra más pequeña para concluir que no hubo violencia.",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "Incorrecto. Una cifra menor no elimina la evidencia de represión y matanzas."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Aumentar cualquier número para que el informe resulte impactante.",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Incorrecto. Alterar cifras por efecto emocional falsifica la evidencia histórica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La incertidumbre cuantitativa debe exponerse con claridad; reconocer límites del registro no niega la violencia ni autoriza a inventar un número exacto de víctimas.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -459,81 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando dictadura martinez.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
-      "periodo": 11,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando dictadura martinez.",
+      "statement": "¿Qué distingue principalmente a la huelga de brazos caídos de aquel intento armado?",
+      "context": "Un museo compara la insurrección militar de abril de 1944 con la huelga posterior contra Martínez.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "text": "El desembarco de una fuerza naval extranjera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La huelga no se define por una invasión naval, sino por la paralización de actividades civiles."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "La aprobación de un pacto con el FMLN.",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Incorrecto. El FMLN corresponde a un período posterior y no fue parte de aquella huelga."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "text": "La suspensión civil de actividades como forma de presión política.",
+          "is_correct": true,
+          "feedback": "Correcto. La huelga utilizó la retirada de cooperación laboral y social para presionar al régimen."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La realización de combates como único medio de protesta.",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Incorrecto. El rasgo distintivo de la huelga fue la presión mediante suspensión de actividades."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Diferenciar formas de acción permite entender que la oposición a Martínez recurrió tanto a intentos armados como a una movilización civil basada en la no cooperación.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,42 +503,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando dictadura martinez.",
+      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué la incorporación de sectores diversos podía fortalecer la presión sobre Martínez?",
+      "context": "Un esquema muestra estudiantes, comerciantes y trabajadores participando en la movilización de 1944.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "text": "Porque convertía a todos los participantes en integrantes del Ejército.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Participar en una huelga civil no otorga pertenencia militar."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque eliminaba cualquier diferencia de intereses entre los participantes.",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Incorrecto. Una demanda compartida puede unir sectores que conservan intereses distintos."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque hacía innecesaria toda coordinación entre quienes protestaban.",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Incorrecto. La acción conjunta requiere coordinación para sostener una presión amplia y coherente."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "text": "Porque ampliaba la paralización y dificultaba aislar la protesta en un solo grupo.",
+          "is_correct": true,
+          "feedback": "Correcto. Una coalición diversa extiende la no cooperación y aumenta los costos de mantener el gobierno."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "Las coaliciones sociales pueden acordar un objetivo político común sin compartir todas sus demandas; su amplitud permite extender la presión más allá de un sector aislado.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -593,41 +548,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
+      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v13",
+      "statement": "¿Qué acontecimiento marca la salida de Martínez del poder en ese año?",
+      "context": "Una línea del tiempo termina el gobierno de Martínez después de la movilización de mayo de 1944.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "text": "Su renuncia ante la presión de la oposición y la huelga.",
+          "is_correct": true,
+          "feedback": "Correcto. La presión política y social de 1944 desembocó en la renuncia de Martínez."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Su fallecimiento durante el levantamiento de enero de 1932.",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Incorrecto. Martínez continuó gobernando después de 1932, por lo que ese hecho no explica su salida."
+        },
+        {
+          "letter": "C",
+          "text": "La abolición de El Salvador como Estado independiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El país mantuvo su existencia estatal después de la caída del gobernante."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Su elección como secretario general de la ONU en 1944.",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Incorrecto. La ONU aún no existía en 1944 y ese cargo no motivó su renuncia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La salida de Martínez fue resultado de una crisis política y movilización opositora; ubicarla en 1944 permite cerrar el período sin confundirlo con episodios posteriores.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -638,42 +593,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
+      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v14",
+      "statement": "¿Qué objeción distingue una obra pública de la calidad democrática de un gobierno?",
+      "context": "En un debate se presenta una carretera construida durante el régimen como prueba de democracia.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Toda carretera demuestra por definición elecciones libres.",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Incorrecto. Una carretera puede construirse bajo sistemas políticos muy distintos."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "text": "Una obra no demuestra que existieran libertades políticas y controles efectivos al poder.",
+          "is_correct": true,
+          "feedback": "Correcto. La infraestructura informa sobre una política pública, pero no acredita competencia política ni garantías de derechos."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Un gobierno que realiza obras nunca puede ejercer represión.",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Incorrecto. La ejecución de obras y la violencia estatal pueden coexistir en un mismo régimen."
+        },
+        {
+          "letter": "D",
+          "text": "La calidad del asfalto determina la independencia judicial.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La independencia de los jueces depende de instituciones y prácticas, no del material de una carretera."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "Evaluar el régimen de Martínez exige considerar por separado sus políticas materiales y el ejercicio autoritario del poder; un resultado económico no sustituye las garantías políticas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v15",
+      "statement": "¿Qué interpretación explica mejor la ausencia de esos relatos en actos públicos?",
+      "context": "Un investigador observa que una comunidad conservó en privado relatos de 1932 durante décadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La falta de actos públicos demuestra que ningún habitante recordaba.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La memoria privada puede persistir aunque no aparezca en ceremonias públicas."
+        },
+        {
+          "letter": "B",
+          "text": "Todo relato privado es necesariamente una invención posterior.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carácter privado no demuestra falsedad; su contenido debe contrastarse con otras fuentes."
+        },
+        {
+          "letter": "C",
+          "text": "El silencio público pudo responder al miedo sin significar ausencia de memoria.",
+          "is_correct": true,
+          "feedback": "Correcto. Una comunidad puede recordar en el ámbito familiar y evitar expresarlo públicamente por temor a represalias."
+        },
+        {
+          "letter": "D",
+          "text": "Recordar en familia equivale a dirigir una insurrección armada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transmisión de recuerdos y la organización de acciones armadas son prácticas distintas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los espacios de memoria dependen de condiciones políticas; en contextos represivos, el silencio público puede coexistir con relatos familiares y estrategias de preservación cultural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
+      "statement": "¿Qué mejora convertiría esa explicación en un análisis histórico más sólido?",
+      "context": "Un equipo atribuye el levantamiento de 1932 exclusivamente a la personalidad de un dirigente.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "letter": "A",
+          "text": "Reemplazar al dirigente por otro nombre sin añadir evidencia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar un nombre mantiene la explicación individual y no examina las condiciones del levantamiento."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Eliminar toda referencia a la distribución de la tierra.",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "Incorrecto. Excluir la estructura agraria puede ocultar una dimensión relevante del descontento campesino."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Suponer que todas las rebeliones tienen una causa idéntica.",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Incorrecto. Cada proceso requiere estudiar su contexto y no aplicar una causa universal sin pruebas."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "text": "Relacionar liderazgo, desigualdad agraria, crisis económica y organización política.",
+          "is_correct": true,
+          "feedback": "Correcto. Integrar factores sociales, económicos y políticos permite explicar condiciones y decisiones de los actores."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "La explicación multicausal relaciona estructuras y acciones; permite comprender el levantamiento sin reducir a los participantes a seguidores pasivos de una sola persona.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando dictadura martinez.",
+      "statement": "¿Qué distinción ayuda a interpretar esa continuidad?",
+      "context": "Una clase observa que la caída de Martínez no terminó inmediatamente el predominio militar en la política.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "text": "La salida de una persona no implica por sí sola la transformación del sistema político.",
+          "is_correct": true,
+          "feedback": "Correcto. Cambiar al gobernante puede dejar intactas instituciones, relaciones de poder y prácticas autoritarias."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Toda renuncia modifica automáticamente todas las instituciones.",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Incorrecto. Las instituciones requieren cambios específicos que no se producen únicamente por una renuncia."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "La permanencia de militares prueba que Martínez nunca renunció.",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Incorrecto. Otros militares pudieron conservar poder después de la salida de Martínez."
+        },
+        {
+          "letter": "D",
+          "text": "Un nuevo mandatario borra necesariamente la memoria de la población.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recuerdos sociales no desaparecen automáticamente cuando cambia el titular del gobierno."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "El cambio de liderazgo y el cambio de régimen son procesos diferentes; analizar 1944 exige reconocer la caída de Martínez junto con las continuidades políticas posteriores.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando dictadura martinez.",
+      "statement": "¿Qué falla contiene ese argumento al evaluar la violencia estatal?",
+      "context": "Un ensayo afirma que la represión de 1932 fue legítima simplemente porque la ordenó el gobierno.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "letter": "A",
+          "text": "Exige demasiada información sobre las víctimas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer a las víctimas ayuda a evaluar los hechos y no constituye el error lógico del argumento."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "letter": "B",
+          "text": "Confunde la autoridad que dicta una orden con la justificación de sus medios y consecuencias.",
+          "is_correct": true,
+          "feedback": "Correcto. La procedencia estatal de una orden no demuestra que respete derechos ni que su ejecución sea justificable."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Distingue correctamente entre obediencia y legitimidad.",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Incorrecto. El argumento las equipara al dar por justificada cualquier orden gubernamental."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Reconoce expresamente límites al uso de la fuerza.",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Incorrecto. La afirmación no examina límites y acepta la violencia solo por su origen estatal."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "La evaluación de la acción estatal requiere examinar pruebas, responsabilidad y derechos; una orden de autoridad no convierte automáticamente sus efectos en legítimos.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando dictadura martinez.",
+      "statement": "¿Qué diseño de investigación combina rigor histórico y respeto por las personas entrevistadas?",
+      "context": "Un archivo local desea recoger testimonios de descendientes de víctimas de La Matanza.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Publicar nombres y detalles familiares sin consultar a los entrevistados.",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Incorrecto. Exponer información sin consentimiento puede dañar a las personas y vulnera su decisión sobre el testimonio."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Pedir que todos repitan una versión previamente redactada.",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Incorrecto. Imponer un relato elimina diferencias y contamina la evidencia que se busca recoger."
+        },
+        {
+          "letter": "C",
+          "text": "Obtener consentimiento, registrar la procedencia y contrastar los relatos sin exponer datos sensibles.",
+          "is_correct": true,
+          "feedback": "Correcto. El consentimiento protege a las personas y el contraste permite evaluar el alcance histórico de sus relatos."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Desechar los relatos que contradigan la hipótesis inicial.",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Incorrecto. Excluir evidencia discrepante impide revisar la hipótesis y produce una reconstrucción sesgada."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Investigar memorias de violencia exige proteger a quienes testimonian y conservar la diversidad de sus relatos; el rigor incluye documentar contradicciones y revisar interpretaciones.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando dictadura martinez.",
+      "statement": "¿Qué criterio permite escoger la exposición históricamente más completa?",
+      "context": "Un jurado escolar compara dos exposiciones sobre Martínez: una enumera obras y otra incorpora represión y resistencia.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La cantidad de elogios dirigidos al gobernante.",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Incorrecto. Los elogios no prueban cobertura histórica ni calidad de la evidencia presentada."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La exclusión de cualquier experiencia campesina.",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "Incorrecto. Omitir a los campesinos elimina actores centrales para entender 1932 y sus consecuencias."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación de que toda resistencia fue idéntica durante trece años.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa generalización borra diferencias entre levantamiento, oposición y huelga en distintos momentos."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "text": "Su capacidad para integrar políticas, víctimas, oposición y evidencias sin justificar abusos con obras.",
+          "is_correct": true,
+          "feedback": "Correcto. Una evaluación completa incorpora dimensiones distintas y evita usar logros materiales para borrar la violencia."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "Un balance histórico sólido incluye políticas y relaciones de poder, reconoce a las víctimas y distingue formas de resistencia; valorar una obra no cancela la responsabilidad por la represión.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle",
       "periodo": 11,
       "protocol_version": "5.2",

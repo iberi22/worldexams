@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando participacion ciudadana.",
+      "statement": "Que forma de participacion ciudadana permite a los vecinos decidir juntos un asunto que los afecta a todos?",
+      "context": "Una comunidad prepara una asamblea vecinal para discutir el plan de obra de su calle.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La consulta popular",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "La consulta popular somete una decision al cuerpo electoral mediante el voto, y no es la reunion de vecinos para tratar un asunto local."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "text": "La asamblea vecinal",
+          "is_correct": true,
+          "feedback": "Correcto: la asamblea vecinal reúne a los habitantes de un barrio para acordar medidas sobre los asuntos que les afectan."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "La sentencia judicial",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "La sentencia es la forma en que un juez resuelve una controversia y no una forma de participacion de los vecinos."
+        },
+        {
+          "letter": "D",
+          "text": "El decreto presidencial",
+          "is_correct": false,
+          "feedback": "El decreto presidencial es la orden del Poder Ejecutivo y no recoge la voluntad organizada de una comunidad."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La participacion vecinal es la forma mas directa de ejercer ciudadania: permite a los habitantes de un territorio acordar sobre los problemas que comparten.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando participacion ciudadana.",
+      "statement": "Que instrumento permite a un ciudadano presentar por escrito un reclamo formal ante una autoridad?",
+      "context": "Un vecino denuncia en la municipalidad que la calle frente a su casa nunca se ha reparado.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "letter": "A",
+          "text": "El reglamento interno",
+          "is_correct": false,
+          "feedback": "El reglamento interno regula el funcionamiento de un organo, y no es el instrumento con el que un ciudadano reclama por escrito."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "La sentencia",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "La sentencia la dicta un juez para resolver un conflicto, y no es el documento con el que se presenta un reclamo administrativo."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "text": "El derecho de peticion",
+          "is_correct": true,
+          "feedback": "Correcto: el derecho de peticion permite dirigir por escrito una solicitud o reclamo a la autoridad y obtener una respuesta fundada."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El unemployado presupuesto",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "El presupuesto es el documento que autoriza el gasto publico y no un canal de participacion para los particulares."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "El derecho de peticion es la via por la que cualquier persona se dirige a la autoridad para solicitar algo y exige una respuesta fundada, no el silencio.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -99,36 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "statement": "Por que la participacion ciudadana es la participacion es una aplicacion del principio de soberania popular?",
+      "context": "Una asociacionjuvenil quiere modificar una norma municipal que afecta el uso del espacio publico.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
+          "letter": "A",
+          "text": "Porque el poder reside en el pueblo y se ejerce tambien directamente",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "Correcto: la soberania popular reconoce al pueblo como fuente del poder, y la participacion es una forma directa de ejercerlo."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "letter": "B",
+          "text": "Porque el Estado cede su autoridad a los vecinos",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La participacion no elimina la autoridad estatal, y las decisiones se adoptan dentro del marco legal vigente del pais."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque toda decision popular es valida por si sola",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La voluntad popular se expresa dentro de la ley y del procedimiento democratico, y no invalida las normas comunes del Estado."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque los vecinos eligen a los funcionarios del Estado",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Los ciudadanos eligen representantes en las elecciones generales, y la participacion en un asunto local no equivale a designar funcionarios."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "La soberania popular tiene dos manifestaciones: la eleccion de representantes y la participacion directa en los asuntos de la comunidad.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando participacion ciudadana.",
+      "statement": "Que ventaja tiene una consulta popular frente a una decision tomada solo por la autoridad?",
+      "context": "Un municipio consulta a la poblacion sobre el destino de un terreno municipal que puede usarse como parque o escuela.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "letter": "A",
+          "text": "Reduce el costo de la decision",
+          "is_correct": false,
+          "feedback": "La consulta puede costar tiempo y recursos, de modo que su ventaja no esta en el gasto que ahorra al municipio."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Elimina la necesidad de una ley",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "La consulta popular se extiende dentro del marco legal vigente, y no exime de cumplir las normas del pais."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "text": "Otorga legitimidad y ajusta la decision a las necesidades reales",
+          "is_correct": true,
+          "feedback": "Correcto: consultar a la poblacion hace que la decision sea mas legitima y refleje mejor lo que la comunidad necesita."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Obliga al Opposition a aceptar el resultado",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "La consulta vincula a la autoridad que la realizo, pero no obliga a los grupos de la opposition a compartir el resultado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "La consulta popular refuerza la legitimidad de la decision y permite corregir el rumbo antes de ejecutarla, cuando todavia es posible.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando participacion ciudadana.",
+      "statement": "Que principio sustenta que los ciudadanos eligen a sus representantes mediante el voto?",
+      "context": "En clase se explica por que el voto es la base de la democracia representativa.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "letter": "A",
+          "text": "El principio de la revolucion",
+          "is_correct": false,
+          "feedback": "Una revolucion es un cambio profundo del ordenamiento y no es el principio que sustenta la eleccion por voto."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "letter": "B",
+          "text": "El sufragio universal",
+          "is_correct": true,
+          "feedback": "Correcto: el sufragio universal reconoce el derecho de todas las personas en edad de votar, y es la base del mandato representativo."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La centralizacion del poder",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La centralizacion concentra el poder y se opone a la idea de que el pueblo elige a quien lo gobierna mediante el voto."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El secretismo de las decisiones",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "El secretismo de las decisiones se opone a la transparencia, y no sustenta la eleccion popular de representantes."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "explanation": "El sufragio universal convierte el voto en el mecanismo legitimo de conferir autoridad a los representantes del pueblo.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando participacion ciudadana.",
+      "statement": "Que remedio tiene una asociacion comunitaria si una autoridad no responde a sus solicitudes?",
+      "context": "Un(un funcionario responde delegado municipal responde con evasivas a una asociacion que pide cuentas de un programa social.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "text": "Acudir a la Fiscalia o a un juez competente",
+          "is_correct": true,
+          "feedback": "Correcto: ante el silencio o la negativa de la autoridad, la comunidad puede acudir a los mecanismos de control institucional y judicial."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Fundar una sociedad anonima",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Crear una empresa es una medida de caracter mercantil y no un mecanismo para exigir cuentas a una autoridad publica."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Solicitar una expropiacion",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "La expropiacion es una medida patrimonial del Estado sobre un bien, y no sirve para exigir la rendicion de cuentas de un programa social."
+        },
+        {
+          "letter": "D",
+          "text": "Declarar un Estado de emergencia",
+          "is_correct": false,
+          "feedback": "Declarar un estado de emergencia es una potestad del Estado y no un derecho ni un recurso a favor de una asociacion vecinal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "El silencio administrativo de la autoridad puede impugnarse ante los Organos de control y ante la justicia, de modo que la participacion mecanismos de fiscalizacion.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando participacion ciudadana.",
+      "statement": "Que principio se vulneraria si el gobierno publicara los datos del proyecto solo a la asociacion dominante y no a toda la ciudadania?",
+      "context": "Un grupo de vecinos quiere que se publique un informe completo sobre una obra municipal en su barrio.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "text": "La soberania popular",
+          "is_correct": false,
+          "feedback": "La soberania popular no se vulnera por la diffusion desigual de un informe, y su problema esta en el acceso a la informacion."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "El principio de reemplazo normativo",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "El reemplazo normativo se refiere al orden entre normas, y no guarda relacion con el acceso de los ciudadanos a un informe."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "text": "La transparencia y la igualdad en el acceso a la informacion",
+          "is_correct": true,
+          "feedback": "Correcto: la transparencia exige que la informacion publica sea accesible a cualquier persona, no solo a un grupo privilegiado."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La eficacia administrativa",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "La eficacia se mide por los resultados de la gestion y no se vulnera por publicar o dejar de publicar un informe al publico."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "La transparencia exige que cualquier persona pueda consultar la informacion publica, y CEDERla a un solo grupo rompe la igualdad de trato entre los ciudadanos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando participacion ciudadana.",
+      "statement": "Que derecho permite a un grupo de estudiantes expresar su opinion sobre un asunto publico?",
+      "context": "Una escuela secundaria organiza un debate sobre la revision del curriculum nacional con estudiantes de varios distritos.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El derecho a la propiedad privada",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La propiedad privada protege bienes y patrimonio, y no permite expresar opiniones sobre los asuntos del pais."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El derecho a la expropiacion",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La expropiacion es una medida del Estado sobre un bien, y no es un derecho de expresion de los ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la propiedad industrial",
+          "is_correct": false,
+          "feedback": "La propiedad industrial protege invenciones y marcas, y no se relaciona con la libertad de opinar sobre lo publico."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "text": "La libertad de expresion",
+          "is_correct": true,
+          "feedback": "Correcto: la libertad de expresion reconoce a toda persona el derecho de manifestar su pensamiento por cualquier medio pacífico."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La libertad de expresion protege el derecho a manifestar opiniones, y es la base del debate democratico y de la prensa libre del pais.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando participacion ciudadana.",
+      "statement": "Que consecuencia tiene para la democracia municipal que ciertos sectores no participan en las decisiones?",
+      "context": "Un observador nota que en la.sesion legitima de su comunidad las decisiones se toman siempre sin escuchar a los jovenes.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "text": "La decision toma es automaticamente invalida",
+          "is_correct": false,
+          "feedback": "La falta de participacion no invalida de forma automatica la decision, aunque si reduce su legitimidad y la calidad de la propuesta."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "text": "La legitimidad de la decision disminuye",
+          "is_correct": true,
+          "feedback": "Correcto: cuando ladecision se adopta sin considerar a todos los sectores afectados, pierde legitimidad y puede no responder a sus necesidades."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El gobierno local pierde su competencia",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "La falta de participacion ciudadanano no elimina las competencias del gobierno local, que emanan de la Constitucion y de la ley."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Se elimina la necesidad de consultar en adelante",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "La Exclusion de un sector no elimina el deber de consultar a la poblacion en los asuntos que le afectan, sino que lo debilita."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La calidad de una decision publica depende de que incluya a todos los sectores afectados; excluir a una parte reduce su legitimidad y la likelihood de que funcione.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando participacion ciudadana.",
+      "statement": "Que forma de participacion permite influir en un proyecto publico antes de su ejecucion?",
+      "context": "Un ciudadano quiere influir en una decision municipal antes de que se ejecute, sin esperar a que exista una medida concreta.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El ordinaria GeneralQueryResponse",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "Un expediente administrativo se abre contra un acto ya realizado, y no es la via para influir en una decision aun no ejecutada."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "La denuncia penal",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La denuncia penal procede ante un delito y no es un mecanismo de participacion en la elaboracion de una decision administrativa."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "La consulta publica previa al proyecto",
+          "is_correct": true,
+          "feedback": "Correcto: la consulta publica previa permite a la poblacion expresar su opinion sobre un proyecto antes de que se apruebe y se ejecute."
+        },
+        {
+          "letter": "D",
+          "text": "La promulgacion de la ley",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "La promulgacion es el acto formal de dar publicidad a una ley ya aprobada, y no es una forma de participacion ciudadana."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "La consulta publica previa es el instrumento que abre la participacion antes de la decision final, de modo que las contribuciones ciudadanas pueden modificar el proyecto.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando participacion ciudadana.",
+      "statement": "Que actividad economica consiste en transformar residuos en nuevas materias primas?",
+      "context": "UnRecycler describe las actividades que las empresas de carton cumplen para devolver residuos al ciclo de produccion.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "La pesca industrial",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "La pesca industrial es una actividad extractiva que obtiene productos del mar, y no convierte residuos en nuevas materias primas."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "El reciclaje",
+          "is_correct": true,
+          "feedback": "Correcto: el reciclaje recupera materiales de los residuos para reinscribirlos en la produccion, reduciendo el volumen de basura."
+        },
+        {
+          "letter": "C",
+          "text": "La silvicultura",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La silvicultura se ocupa del cultivo y manejo de bosques, y no del tratamiento de residuos solidos o industriales."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La acuicultura",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "La acuicultura es la cria de organismos acuaticos con fines comerciales, y no guarda relacion con el aprovechamiento de residuos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "El reciclaje es una forma de economia circular: los materiales descartados se recuperan y vuelven a entrar en el ciclo productivo del pais.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -504,37 +504,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "statement": "Que mecanismo de participacion y fiscalizacion propone la comunidad?",
+      "context": "Una comunidad quiere que su escuela publique cada mes el gasto ejecutado y los resultados obtenidos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "letter": "A",
+          "text": "La rendicion de cuentas publica",
           "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "feedback": "Correcto: la rendicion de cuentas obliga a informar sobre el uso del dinero y los resultados de las politicas publicas de forma verificable."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "La expropiacion de la escuela",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "La expropiacion es una medida sobre un bien, y no es un mecanismo de fiscalizacion del gasto de una institucion educativa."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "La sentencia penal definitiva",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "La sentencia definitiva confirma una decision de un juez, y no sirve para pedir cuentas de forma permanente y ordenada."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La declaratoria de inexistencia del presupuesto",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "La declaratoria de inexistencia de un presupuesto es un acto administrativo y no un mecanismo wrongs de participacion ciudadana."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "La rendicion de cuentas publica convierte la gestion del dinero y los resultados de las acciones en informacion que cualquier ciudadano puede verificar.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v13",
+      "statement": "Que problema democratico presenta un registro de voters limitado a quienes se inscribieron con antelacion?",
+      "context": "Un MovingBarProtection obslega que en las elecciones locales solo pudieron votar quienes estaban inscritos con tiempo en un registro particular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Estado pierde su soberania",
+          "is_correct": false,
+          "feedback": "La perdida de soberania nacional es ajena a este caso, y el problema se limita a la configuracion del derecho de votar."
+        },
+        {
+          "letter": "B",
+          "text": "La constitucion deja de ser norma suprema",
+          "is_correct": false,
+          "feedback": "La Constitucion sigue siendo la norma suprema del ordenamiento, y el problema esta en una norma electoral mal disenada."
+        },
+        {
+          "letter": "C",
+          "text": "Se limita el sufragio y se vulnera la igualdad politica",
+          "is_correct": true,
+          "feedback": "Correcto: un filtro previo al archivo limita quien vota sin fundamento valido y rompe la igualdad de derechos politicos entre ciudadanos."
+        },
+        {
+          "letter": "D",
+          "text": "El municipio pierde su autonomia",
+          "is_correct": false,
+          "feedback": "La autonomia municipal emana de la Constitucion y de la ley, y no depende del registro electoral del pais."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sufragio universal exige que toda persona en edad de votar pueda ejercerlo sin requisitos que la dejen fuera; un registro previo con plazo lo vulnera.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -548,86 +593,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v14",
+      "statement": "Que caracteristica tiene un presupuesto participativo?",
+      "context": "UnPlanificador explica a estudiantes por que se cria un presupuesto participativo en un municipio.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "letter": "A",
+          "text": "Reduce el presupuesto total asignado al municipio",
+          "is_correct": false,
+          "feedback": "El presupuesto participativo no reduce necesariamente el monto global, y se caracteriza por permitir a la poblacion decidir su reparto."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "letter": "B",
+          "text": "La poblacion interviene en el reparto de una parte del presupuesto",
+          "is_correct": true,
+          "feedback": "Correcto: en el presupuesto participativo los vecinos proponen y votan proyectos concretos con una parte de los recursos del municipio."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Impide que el municipio ejecute obras",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "El presupuesto participativo no impide ejecutar obras, y por el contrario permite realizar las que la comunidad considera prioritarias."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Sustituye al presupuesto aprobado por la Asamblea",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "El presupuesto participativo es un mecanismo de apoyo, y no reemplaza el presupuesto general de la Republica aprobado por la Asamblea Legislativa."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "explanation": "El presupuesto participativo acerca las decisiones de inversion al vecino y garantiza que al menos una parte del gasto se destine a lo que la comunidad pide.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando participacion ciudadana.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
-        },
-        {
-          "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -639,85 +639,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "statement": "Que institución se ocupa que recibe la vigilancia de los recursos y la gestion del Estado?",
+      "context": "Un ayudante presenta el caso de un municipio que informo de las obras realizadas en un periodico local.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "El Tribunal Supremo Electoral",
+          "is_correct": false,
+          "feedback": "El Tribunal Supremo Electoral organiza los procesos comiciales, y no vigila el uso del presupuesto del Estado."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "La Asamblea Legislativa como un todo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "La Asamblea Legislativa aprueba el presupuesto, y ademas del ejercicio de esa potestad ejerce funciones de vigilancia institucional propias."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "text": "La Corte de Cuentas",
+          "is_correct": true,
+          "feedback": "Correcto: la Corte de Cuentas es el organismo encargado de fiscalizar la ejecucion del presupuesto y la gestion de los recursos publicos."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El Ministerio de Educacion",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "El Ministerio de Educacion gestiona la educacion del pais, y no es el organo de vigilancia de todo el presupuesto nacional."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La Corte de Cuentas revisa el gasto publico y puede pedir cuentas a las instituciones, y esa funcion complementa la aprobacion que hace el organo legislativo.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -728,38 +683,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando participacion ciudadana.",
+      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v16",
+      "statement": "Que riesgo tiene una participacion ciudadanano captured en un solo sector de la comunidad?",
+      "context": "Una red local observa que las.asambleas de su barrio siempre cuentan con la misma gente y los mismos temas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "text": "Las decisiones no reflejan al conjunto de la poblacion",
+          "is_correct": true,
+          "feedback": "Correcto: si solo participa un sector, la decision refleja sus intereses y deja fuera a quienes no ocupan las reuniones."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La institucion deja de ser legal",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "La institucion sigue siendo valida, y lo que se cuestiona es laamplitude de la representatividad de sus decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Se elimina el derecho de reunion",
+          "is_correct": false,
+          "feedback": "El derecho de reunion se mantiene vigente, y el problema es la baja diversidad de quienes participan en el espacio de dialogo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El municipio pierde su poblacion",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "La participacion restringida no provoca la despoblacion del municipio, y es un fenomeno distinto del que se observa en el caso descrito."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Una participacion limitada a un sector produce decisiones poco representativas, porque las necesidades de la comunidad entera no estan presentes en la mesa.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,42 +728,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando participacion ciudadana.",
+      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v17",
+      "statement": "Como se manifiesta la democracia en el respeto a la decision de la mayoria?",
+      "context": "Una visitante del pais explica como se respeta la voluntad de la poblacion en un gobierno democratico.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Solo cuando todas las partes estan de acuerdo",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La democracia no exige la unanimidad para decidir, y el principio de mayoria legitima precisamente las decisiones con desacuerdo."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Cuando la mayoria impone su criterio sin limites",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "La voluntad mayoritaria esta sometida a limites, y las minorias conservan sus derechos y pueden impugnar un exceso."
+        },
+        {
+          "letter": "C",
+          "text": "Cuando quien manda tiene la razon",
+          "is_correct": false,
+          "feedback": "El hecho de que una persona mande no convierte su opinion en verdadera, y la decision colectiva se legitima por el procedimiento seguido."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "text": "Cuando la decision se adopta por el procedimiento previsto y se respeta a las minorias",
+          "is_correct": true,
+          "feedback": "Correcto: el respeto democratico exige seguir el procedimiento establecido y garantizar que las minorias puedan expresar su desacuerdo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El principio de mayoria legitima las decisiones, y su democraticidad depende de que se cumpla el procedimiento y de que las minorias conserven sus derechos.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v18",
+      "statement": "Que instrumento permite a la comunidad recoger firmas para exigir un cambio legal?",
+      "context": "UnRemoteSellerorten inicia la primera sesion de una mafia organizada que reune a todos losores candidatos de una comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El silencio administrativo",
+          "is_correct": false,
+          "feedback": "El silencio de una autoridad es una actitud suya, y no un instrumento de la ciudadania para plantear una demanda concreta."
+        },
+        {
+          "letter": "B",
+          "text": "La iniciativa popular de ley",
+          "is_correct": true,
+          "feedback": "Correcto: la iniciativa popular permite a la poblacion proponer una ley ante el organo legislativo cuando se cumple el numero de firmas exigido."
+        },
+        {
+          "letter": "C",
+          "text": "La medida cautelar",
+          "is_correct": false,
+          "feedback": "La medida cautelar es una providencia que adopta un juez durante un proceso, y no una figura de participacion popular."
+        },
+        {
+          "letter": "D",
+          "text": "El fallo arbitral",
+          "is_correct": false,
+          "feedback": "El fallo arbitral resuelve una controversia por arbitraje, y no sirve para exigir la creacion de una ley ante el Congreso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La iniciativa popular de ley traslada a la ciudadania la facultad de proponer una norma ante el organo legislativo, y se convierte en ley si alcanza el numero de firmas exigido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "statement": "Que derechos se ejercen principalmente en el ambito politico?",
+      "context": "Un ciudadano explica que los derechos politicos son aquellos que se ejercen mediante el voto y el mandato.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "letter": "A",
+          "text": "Los derechos economicos y sociales",
+          "is_correct": false,
+          "feedback": "Los derechos economicos y sociales se_relationan con el trabajo, la salud y la educacion, y no con el ejercicio del voto."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Los derechos civiles",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Los derechos civiles protegen la libertad, la igualdad y la integridad, y no se ejercen mediante la participacion electoral."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "text": "Los derechos politicos",
+          "is_correct": true,
+          "feedback": "Correcto: los derechos politicos incluyen el voto, la eleccion de representantes y el acceso a cargos publicos dentro del Estado de derecho."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Los derechos culturales",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Los derechos culturales protegen la creacion artistica y el acceso a la cultura, y no se ejercen a traves del mandato electoral."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Los derechos politicos son los que permiten participar en el poder publico: votar, elegir representantes, ser elegido y ejercer cargos de gobierno.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando participacion ciudadana.",
+      "statement": "Por que las decisiones de la autoridad publica pueden ser objeto de recurso ante un juez?",
+      "context": "Una visitante del pais pregunta por que una decision municipal puede impugnarse en un tribunal administrativo.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "Porque el Estado tambien esta sometido a la ley",
+          "is_correct": true,
+          "feedback": "Correcto: sujetar al poder publico al control judicial es esencial para que el Estado de derecho tenga sentido y no un simples regimen de discretion."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque los ciudadanos tienen siempre razon",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La posibilidad de recurso no presume que el ciudadano tenga razon, y el juez examina el caso con independencia para decidir sobre el fondo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el juez puede hacer leyes",
+          "is_correct": false,
+          "feedback": "El juez aplica las normas existentes y no tiene competencia para crear leyes, aunque pueda anular una decision administrativa ilegal."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque la autoridad no tiene appeals",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "La capacidad de impugnar es precisamente lo que impide que la autoridad actue de forma arbitraria e inconmutable en el pais."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "El control judicial de la administracion publica asegura que las autoridades respeten la ley y los derechos de los ciudadanos al=dictar sus decisiones.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W18-participacion-ciudadana-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
