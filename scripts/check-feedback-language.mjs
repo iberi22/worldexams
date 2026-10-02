@@ -54,8 +54,12 @@ const BLACKLIST_RE = new RegExp(
   'i'
 );
 
-const STOP_ES = /\b(el|la|los|las|un|una|debe|deben|porque|viene|despues|antes|esta|estan|son|es|mas|se|con|para|cuando|aqui|segun|no|si)\b/gi;
-const STOP_EN = /\b(the|a|an|is|are|was|were|has|have|does|do|not|must|should|which|that|this|these|those|because|means|comes|after|before|instead|would|will|can|cannot)\b/gi;
+// Unambiguous Spanish stop words and vocabulary markers.
+// Excludes ambiguous words like "no" (valid in English) and suffix references like "es".
+const STOP_ES = /\b(el|la|los|las|una|unos|unas|del|al|porque|despues|antes|esta|estan|son|mas|con|para|cuando|aqui|segun|como|donde|pero|sino|tambien|ademas|entonces|este|esto|estos|estas|opcion|opciones|pregunta|respuesta|incorrecta|correcta|significa|requiere|sirve|refiere|corresponde|muestra|indica|expresa|usa|utiliza|que|por|su|sus|otro|otra|otros|otras|ese|esa|eso|esos|esas|clausula|verbo|sustantivo|adjetivo|tiempo|pasado|presente|futuro|sujeto|predicado|oracion|texto|mismo|misma|mismos|mismas|sobre|entre|desde|hasta|cada|cual|cuales|quien|quienes|dentro|fuera|algo|nada|todo|todos|toda|todas|pide|da|tiene|tienen|tenia|tenian|hace|hacen|hacia|hacian|puede|pueden|debe|deben|va|van|iba|iban|ir|es)\b/gi;
+
+// Standard English stop words and function/explanation vocabulary.
+const STOP_EN = /\b(the|a|an|is|are|was|were|has|have|had|does|do|did|not|must|should|which|that|this|these|those|because|means|comes|after|before|instead|would|will|can|cannot|could|in|of|to|for|on|with|by|from|at|or|and|it|you|we|they|he|she|if|than|as|any|all|no|so|but|correct|incorrect|option|question|sentence|word|meaning|verb|noun|adjective|tense|use|used|uses|shows|indicates|expresses|refers|appears|passage|text|statement|choice|answer|gives|provides|creates|makes)\b/gi;
 
 function words(text, re) {
   return (String(text).match(re) || []).length;
@@ -65,10 +69,13 @@ function words(text, re) {
  * Decide whether a piece of feedback is in Spanish.
  */
 function looksSpanish(text) {
-  const es = words(text, STOP_ES);
-  const en = words(text, STOP_EN);
-  if (es === 0 && en === 0) return null; // a formula or a label, no verdict
-  return es > en * 1.5;
+  // Strip English suffix references like -es, 'es', "es" so grammar rules don't count towards Spanish "es"
+  const sanitized = String(text).replace(/[-'"]es['"]?/gi, '');
+  const es = words(sanitized, STOP_ES);
+  const en = words(sanitized, STOP_EN);
+  if (es === 0) return false;
+  if (en === 0) return es >= 1;
+  return es > en * 1.0;
 }
 
 function collectFiles(targets) {
@@ -99,6 +106,7 @@ function walk(dir, out = []) {
 
 const files = collectFiles(targetArgs);
 const offenders = [];
+const warnings = [];
 let checkedFiles = 0;
 let checkedFeedbacks = 0;
 
@@ -113,14 +121,25 @@ for (const abs of files) {
     checkedFiles += 1;
     checkedFeedbacks += feedbacks.length;
     const spanish = feedbacks.filter(looksSpanish);
-    if (spanish.length > feedbacks.length * 0.5) {
-      offenders.push({
-        type: 'spanish-feedback',
-        file: rel,
-        total: feedbacks.length,
-        spanish: spanish.length,
-        example: spanish[0].slice(0, 100),
-      });
+    if (spanish.length > 0) {
+      const ratio = spanish.length / feedbacks.length;
+      if (ratio >= 0.05) {
+        offenders.push({
+          type: 'spanish-feedback',
+          file: rel,
+          total: feedbacks.length,
+          spanish: spanish.length,
+          example: spanish[0].slice(0, 100),
+        });
+      } else {
+        warnings.push({
+          type: 'spanish-feedback-warning',
+          file: rel,
+          total: feedbacks.length,
+          spanish: spanish.length,
+          example: spanish[0].slice(0, 100),
+        });
+      }
     }
   } else {
     checkedFiles += 1;
@@ -142,18 +161,27 @@ for (const abs of files) {
 }
 
 if (asJson) {
-  console.log(JSON.stringify({ checkedFiles, checkedFeedbacks, offenders }, null, 2));
-} else if (!offenders.length) {
-  console.log(`OK  ${checkedFiles} bundle(s) checked, zero language violations found.`);
+  console.log(JSON.stringify({ checkedFiles, checkedFeedbacks, offenders, warnings }, null, 2));
 } else {
-  console.log(`ERROR: ${offenders.length} language violation(s) found:\n`);
-  for (const o of offenders) {
-    if (o.type === 'spanish-feedback') {
-      console.log(`  [spanish-feedback] ${o.file} (${o.spanish}/${o.total} feedbacks in spanish)`);
-      console.log(`      "${o.example}"`);
-    } else if (o.type === 'english-leakage') {
-      console.log(`  [english-leakage] ${o.file}:${o.line} found English word "${o.word}"`);
-      console.log(`      "${o.snippet}"`);
+  if (warnings.length > 0) {
+    console.log(`WARNING: ${warnings.length} warning(s) found:\n`);
+    for (const w of warnings) {
+      console.log(`  [spanish-feedback-warning] ${w.file} (${w.spanish}/${w.total} feedbacks in spanish)`);
+      console.log(`      "${w.example}"`);
+    }
+  }
+  if (!offenders.length) {
+    console.log(`OK  ${checkedFiles} bundle(s) checked, zero language violations found.`);
+  } else {
+    console.log(`ERROR: ${offenders.length} language violation(s) found:\n`);
+    for (const o of offenders) {
+      if (o.type === 'spanish-feedback') {
+        console.log(`  [spanish-feedback] ${o.file} (${o.spanish}/${o.total} feedbacks in spanish)`);
+        console.log(`      "${o.example}"`);
+      } else if (o.type === 'english-leakage') {
+        console.log(`  [english-leakage] ${o.file}:${o.line} found English word "${o.word}"`);
+        console.log(`      "${o.snippet}"`);
+      }
     }
   }
 }
