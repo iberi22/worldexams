@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-32-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T16:32:29.491Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la fórmula del teorema de Pitágoras?",
+      "context": "En Tunja, una profesora escribe en el tablero la fórmula del teorema de Pitágoras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a + b = c",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula no es una suma simple. El teorema de Pitágoras relaciona los cuadrados de los catetos con el cuadrado de la hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "a² + b² = c²",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema de Pitágoras establece que la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "a × b = c",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fórmula no es una multiplicación. El teorema de Pitágoras usa cuadrados de los lados."
+        },
+        {
+          "letter": "D",
+          "text": "a² - b² = c²",
+          "is_correct": false,
+          "feedback": "Incorrecto. La operación es suma, no resta. La fórmula correcta es a² + b² = c²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema de Pitágoras establece que en todo triángulo rectángulo, la suma de los cuadrados de los catetos es igual al cuadrado de la hipotenusa. La fórmula se escribe como a² + b² = c², donde a y b son los catetos y c es la hipotenusa. Este teorema es fundamental para calcular distancias en geometría y tiene muchas aplicaciones prácticas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v2",
+      "statement": "En un triángulo rectángulo, ¿cómo se llama el lado más largo?",
+      "context": "En Barrancabermeja, un estudiante identifica los lados de un triángulo rectángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cateto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los catetos son los lados más cortos que forman el ángulo recto. El lado más largo es la hipotenusa."
+        },
+        {
+          "letter": "B",
+          "text": "Base",
+          "is_correct": false,
+          "feedback": "Incorrecto. La base es un lado cualquiera del triángulo, pero el lado más largo de un triángulo rectángulo se llama hipotenusa."
+        },
+        {
+          "letter": "C",
+          "text": "Hipotenusa",
+          "is_correct": true,
+          "feedback": "Correcto. La hipotenusa es el lado más largo del triángulo rectángulo, siempre opuesto al ángulo recto."
+        },
+        {
+          "letter": "D",
+          "text": "Altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La altura es la distancia perpendicular desde un vértice al lado opuesto, no el lado más largo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo rectángulo, la hipotenusa es el lado más largo y siempre está opuesta al ángulo recto (90 grados). Los otros dos lados, que forman el ángulo recto, se llaman catetos. La hipotenusa es el lado que se calcula con el teorema de Pitágoras cuando se conocen los catetos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide la hipotenusa de un triángulo rectángulo con catetos de 3 cm y 4 cm?",
+      "context": "En Girardot, un niño tiene un triángulo rectángulo con catetos de 3 cm y 4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": false,
+          "feedback": "Correcto. Usando el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25, y la raíz cuadrada de 25 es 5 cm."
+        },
+        {
+          "letter": "B",
+          "text": "6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 36. La hipotenusa correcta es 5 cm."
+        },
+        {
+          "letter": "C",
+          "text": "7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7 cm no satisface el teorema de Pitágoras porque 3² + 4² = 25, no 49. La hipotenusa correcta es 5 cm."
+        },
+        {
+          "letter": "D",
+          "text": "5 cm (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La hipotenusa es √(3² + 4²) = 5 cm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para calcular la hipotenusa se aplica el teorema de Pitágoras: c² = a² + b². Con catetos de 3 cm y 4 cm, tenemos c² = 3² + 4² = 9 + 16 = 25. La hipotenusa es la raíz cuadrada de 25, que es 5 cm. Este es el famoso triángulo 3-4-5, uno de los casos más comunes en problemas de geometría.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto mide el otro cateto de un triángulo rectángulo con hipotenusa de 13 cm y un cateto de 5 cm?",
+      "context": "En Zipaquirá, una estudiante tiene un triángulo rectángulo con hipotenusa de 13 cm y un cateto de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el teorema de Pitágoras: b² = 13² - 5² = 169 - 25 = 144, y la raíz cuadrada de 144 es 12 cm."
+        },
+        {
+          "letter": "B",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 cm no satisface el teorema de Pitágoras porque 5² + 8² = 25 + 64 = 89, no 169. El cateto correcto es 12 cm."
+        },
+        {
+          "letter": "C",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 cm no satisface el teorema de Pitágoras porque 5² + 10² = 25 + 100 = 125, no 169. El cateto correcto es 12 cm."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm (ver explicación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El cateto es √(13² - 5²) = 12 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando se conoce la hipotenusa y un cateto, se despeja el otro cateto del teorema de Pitágoras: b² = c² - a². Con hipotenusa de 13 cm y cateto de 5 cm, tenemos b² = 13² - 5² = 169 - 25 = 144. El cateto es la raíz cuadrada de 144, que es 12 cm. Este es otro caso común: el triángulo 5-12-13.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto mide la hipotenusa de un triángulo rectángulo con catetos de 6 cm y 8 cm?",
+      "context": "En Fusagasugá, un maestro muestra un triángulo rectángulo con catetos de 6 cm y 8 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Usando el teorema de Pitágoras: 6² + 8² = 36 + 64 = 100, y la raíz cuadrada de 100 es 10 cm."
+        },
+        {
+          "letter": "B",
+          "text": "12 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 cm no satisface el teorema de Pitágoras porque 6² + 8² = 100, no 144. La hipotenusa correcta es 10 cm."
+        },
+        {
+          "letter": "C",
+          "text": "14 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 cm no satisface el teorema de Pitágoras porque 6² + 8² = 100, no 196. La hipotenusa correcta es 10 cm."
+        },
+        {
+          "letter": "D",
+          "text": "10 cm (ver explicación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La hipotenusa es √(6² + 8²) = 10 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para calcular la hipotenusa se aplica el teorema de Pitágoras: c² = a² + b². Con catetos de 6 cm y 8 cm, tenemos c² = 6² + 8² = 36 + 64 = 100. La hipotenusa es la raíz cuadrada de 100, que es 10 cm. Este es el triángulo 6-8-10, que es el doble del triángulo 3-4-5.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v6",
+      "statement": "¿Cuánto mide la diagonal de un cuadrado con lado de 5 cm?",
+      "context": "En Chía, un estudiante tiene un cuadrado con lado de 5 cm y quiere calcular su diagonal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5√2 cm",
+          "is_correct": true,
+          "feedback": "Correcto. La diagonal de un cuadrado forma un triángulo rectángulo con dos lados. Usando Pitágoras: d² = 5² + 5² = 50, entonces d = √50 = 5√2 cm."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 cm sería el doble del lado, pero la diagonal no es el doble. Usando Pitágoras: d² = 5² + 5² = 50, entonces d = 5√2 cm."
+        },
+        {
+          "letter": "C",
+          "text": "7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 7 cm no satisface el teorema de Pitágoras porque 5² + 5² = 50, no 49. La diagonal correcta es 5√2 cm."
+        },
+        {
+          "letter": "D",
+          "text": "5√2 cm (ver explicación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La diagonal es √(5² + 5²) = 5√2 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diagonal de un cuadrado divide al cuadrado en dos triángulos rectángulos congruentes. Cada triángulo tiene catetos de 5 cm (los lados del cuadrado) e hipotenusa igual a la diagonal. Usando el teorema de Pitágoras: d² = 5² + 5² = 25 + 25 = 50. La diagonal es la raíz cuadrada de 50, que se simplifica como 5√2 cm (aproximadamente 7.07 cm).",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v7",
+      "statement": "Un triángulo rectángulo tiene catetos de 9 cm y 12 cm. Otro tiene catetos de 8 cm y 15 cm. ¿Cuál tiene la hipotenusa más larga?",
+      "context": "En Mosquera, un maestro pide comparar las hipotenusas de dos triángulos rectángulos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero, con 15 cm",
+          "is_correct": true,
+          "feedback": "Correcto. El primer triángulo tiene hipotenusa √(9² + 12²) = √225 = 15 cm. El segundo tiene hipotenusa √(8² + 15²) = √289 = 17 cm. El segundo es más largo."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo, con 17 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El segundo triángulo tiene hipotenusa 17 cm."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos tienen la misma hipotenusa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hipotenusas son diferentes: el primero tiene 15 cm y el segundo tiene 17 cm."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se pueden comparar calculando ambas hipotenusas con el teorema de Pitágoras. El segundo es más largo con 17 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar las hipotenusas se calcula cada una con el teorema de Pitágoras. El primer triángulo tiene hipotenusa √(9² + 12²) = √(81 + 144) = √225 = 15 cm. El segundo tiene hipotenusa √(8² + 15²) = √(64 + 225) = √289 = 17 cm. Como 17 > 15, el segundo triángulo tiene la hipotenusa más larga. Estos son los triángulos 9-12-15 y 8-15-17.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la afirmación de que el teorema de Pitágoras se puede aplicar a cualquier triángulo?",
+      "context": "En Facatativá, un estudiante afirma que el teorema de Pitágoras se puede aplicar a cualquier triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque todos los triángulos tienen tres lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema de Pitágoras solo se aplica a triángulos rectángulos, no a cualquier triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque solo se aplica a triángulos rectángulos",
+          "is_correct": true,
+          "feedback": "Correcto. El teorema de Pitágoras requiere un ángulo recto (90 grados) para que la relación a² + b² = c² sea válida."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque todos los triángulos tienen un ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos los triángulos tienen un ángulo recto. Solo los triángulos rectángulos lo tienen."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque solo se aplica a triángulos equiláteros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El teorema no se aplica a triángulos equiláteros porque no tienen ángulo recto. Se aplica a triángulos rectángulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El teorema de Pitágoras solo es válido para triángulos rectángulos, es decir, triángulos que tienen un ángulo de exactamente 90 grados. En triángulos acutángulos (todos los ángulos menores de 90 grados) u obtusángulos (un ángulo mayor de 90 grados), la relación a² + b² = c² no se cumple. Por eso es fundamental verificar que el triángulo tenga un ángulo recto antes de aplicar el teorema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-4-2026-W32-teorema-de-pitagoras-001-MASTERY-bundle",
+      "periodo": 32,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

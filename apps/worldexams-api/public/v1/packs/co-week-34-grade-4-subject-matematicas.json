@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-34-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T16:32:29.492Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una circunferencia?",
+      "context": "En Villa de Leyva, una profesora dibuja una circunferencia en el tablero con un compás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de puntos equidistantes de un punto central",
+          "is_correct": true,
+          "feedback": "Correcto. La circunferencia es el conjunto de todos los puntos que están a la misma distancia (radio) de un punto central."
+        },
+        {
+          "letter": "B",
+          "text": "El área encerrada por una curva cerrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe el círculo, no la circunferencia. La circunferencia es solo la línea curva, no el área interior."
+        },
+        {
+          "letter": "C",
+          "text": "Un segmento que une dos puntos de la curva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una cuerda, no la circunferencia. La circunferencia es toda la línea curva."
+        },
+        {
+          "letter": "D",
+          "text": "Un segmento que pasa por el centro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe el diámetro, no la circunferencia. La circunferencia es la línea curva completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una circunferencia es el conjunto de todos los puntos de un plano que están a la misma distancia de un punto fijo llamado centro. Esa distancia constante se llama radio. La circunferencia es solo la línea curva que delimita al círculo, no el área interior. Es importante no confundir la circunferencia (la línea) con el círculo (la región).",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuánto mide el diámetro de una circunferencia con radio de 7 cm?",
+      "context": "En Monguí, un estudiante mide el radio de una circunferencia que mide 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diámetro es el doble del radio, no igual. Si el radio es 7 cm, el diámetro es 14 cm."
+        },
+        {
+          "letter": "B",
+          "text": "14 cm",
+          "is_correct": true,
+          "feedback": "Correcto. El diámetro es el doble del radio: d = 2 × r = 2 × 7 = 14 cm."
+        },
+        {
+          "letter": "C",
+          "text": "3.5 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3.5 cm sería la mitad del radio, pero el diámetro es el doble del radio, no la mitad."
+        },
+        {
+          "letter": "D",
+          "text": "21 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 21 cm sería el triple del radio, pero el diámetro es exactamente el doble: 2 × 7 = 14 cm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El diámetro de una circunferencia es el doble del radio. Si el radio mide 7 cm, el diámetro mide 2 × 7 = 14 cm. El diámetro es el segmento más largo que se puede trazar en una circunferencia, siempre pasa por el centro y sus extremos están en la circunferencia. La relación d = 2r es fundamental para calcular circunferencias y áreas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide la circunferencia de un círculo con diámetro de 10 cm? (Usa π ≈ 3.14)",
+      "context": "En Boyacá, un niño tiene una circunferencia con diámetro de 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "31.4 cm",
+          "is_correct": false,
+          "feedback": "Correcto. La circunferencia se calcula con C = π × d = 3.14 × 10 = 31.4 cm."
+        },
+        {
+          "letter": "B",
+          "text": "62.8 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 62.8 cm sería el resultado de usar el radio en lugar del diámetro: 3.14 × 20 = 62.8. La fórmula correcta usa el diámetro."
+        },
+        {
+          "letter": "C",
+          "text": "15.7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15.7 cm sería la mitad del resultado correcto. La fórmula es C = π × d, no C = π × d ÷ 2."
+        },
+        {
+          "letter": "D",
+          "text": "31.4 cm (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La circunferencia es 3.14 × 10 = 31.4 cm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La longitud de una circunferencia se calcula con la fórmula C = π × d, donde d es el diámetro. Con un diámetro de 10 cm y π ≈ 3.14, la circunferencia es 3.14 × 10 = 31.4 cm. Es importante no confundir esta fórmula con la del área, que usa el radio al cuadrado: A = π × r².",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área de un círculo con radio de 5 cm? (Usa π ≈ 3.14)",
+      "context": "En Raquira, una estudiante tiene un círculo con radio de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "78.5 cm²",
+          "is_correct": false,
+          "feedback": "Correcto. El área se calcula con A = π × r² = 3.14 × 5² = 3.14 × 25 = 78.5 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "31.4 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 31.4 cm² sería la circunferencia (π × d = 3.14 × 10), no el área. El área usa el radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "15.7 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15.7 cm² sería la mitad del resultado correcto. La fórmula es A = π × r², no A = π × r² ÷ 2."
+        },
+        {
+          "letter": "D",
+          "text": "78.5 cm² (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 3.14 × 25 = 78.5 cm²."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área de un círculo se calcula con la fórmula A = π × r², donde r es el radio. Con un radio de 5 cm y π ≈ 3.14, el área es 3.14 × 5² = 3.14 × 25 = 78.5 cm². Es fundamental elevar el radio al cuadrado antes de multiplicar por π. Un error común es usar el diámetro en lugar del radio, lo que daría un resultado incorrecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el radio de un círculo con circunferencia de 31.4 cm? (Usa π ≈ 3.14)",
+      "context": "En Tota, un maestro muestra un círculo con circunferencia de 31.4 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 cm",
+          "is_correct": true,
+          "feedback": "Correcto. Usando C = π × d, despejamos d = C ÷ π = 31.4 ÷ 3.14 = 10 cm. El radio es la mitad: r = 10 ÷ 2 = 5 cm."
+        },
+        {
+          "letter": "B",
+          "text": "10 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10 cm sería el diámetro, no el radio. El radio es la mitad del diámetro: 10 ÷ 2 = 5 cm."
+        },
+        {
+          "letter": "C",
+          "text": "15 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15 cm no satisface la fórmula C = π × d porque 3.14 × 30 = 94.2, no 31.4. El radio correcto es 5 cm."
+        },
+        {
+          "letter": "D",
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 cm no satisface la fórmula C = π × d porque 3.14 × 40 = 125.6, no 31.4. El radio correcto es 5 cm."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para encontrar el radio a partir de la circunferencia, primero se despeja el diámetro: d = C ÷ π = 31.4 ÷ 3.14 = 10 cm. Luego se divide entre 2 para obtener el radio: r = 10 ÷ 2 = 5 cm. Es importante recordar que el diámetro es el doble del radio, así que no se puede usar directamente el diámetro como radio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v6",
+      "statement": "Un círculo tiene radio de 4 cm y otro tiene radio de 8 cm. ¿Cuántas veces es mayor el área del segundo círculo respecto al primero?",
+      "context": "En Aquitania, un estudiante compara las áreas de dos círculos con radios diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el radio es el doble, el área no es el doble. El área del primero es π × 16 y del segundo es π × 64, así que es 4 veces mayor."
+        },
+        {
+          "letter": "B",
+          "text": "4 veces",
+          "is_correct": true,
+          "feedback": "Correcto. El área del primer círculo es π × 4² = 16π, y del segundo es π × 8² = 64π. 64π ÷ 16π = 4 veces mayor."
+        },
+        {
+          "letter": "C",
+          "text": "8 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 veces sería 128π, pero el área del segundo círculo es 64π. La razón correcta es 4 veces."
+        },
+        {
+          "letter": "D",
+          "text": "16 veces",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16 veces sería 256π, pero el área del segundo círculo es 64π. La razón correcta es 4 veces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando se duplica el radio de un círculo, el área se cuadruplica. El primer círculo tiene área π × 4² = 16π cm², y el segundo tiene área π × 8² = 64π cm². La razón es 64π ÷ 16π = 4, así que el área del segundo círculo es 4 veces mayor. Esto ocurre porque el área depende del cuadrado del radio, no del radio directamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el diámetro de un círculo con área de 50.24 cm²? (Usa π ≈ 3.14)",
+      "context": "En Páez, un maestro muestra un círculo con área de 50.24 cm².",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cm",
+          "is_correct": false,
+          "feedback": "Correcto. Usando A = π × r², despejamos r² = 50.24 ÷ 3.14 = 16, entonces r = 4 cm. El diámetro es el doble: d = 2 × 4 = 8 cm."
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 cm sería el radio, no el diámetro. El diámetro es el doble del radio: 2 × 4 = 8 cm."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16 cm no satisface la fórmula A = π × r² porque 3.14 × 64 = 200.96, no 50.24. El diámetro correcto es 8 cm."
+        },
+        {
+          "letter": "D",
+          "text": "8 cm (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El diámetro es 2 × 4 = 8 cm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el diámetro a partir del área, primero se despeja el radio: r² = A ÷ π = 50.24 ÷ 3.14 = 16. Luego se calcula el radio: r = √16 = 4 cm. Finalmente, el diámetro es el doble del radio: d = 2 × 4 = 8 cm. Es importante no confundir el radio con el diámetro en el resultado final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la afirmación de que la circunferencia de un círculo es siempre el doble de su área?",
+      "context": "En Betéitiva, un estudiante afirma que la circunferencia de un círculo es siempre el doble de su área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque ambas dependen del radio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La circunferencia y el área tienen fórmulas diferentes: C = 2πr y A = πr². No existe una relación constante de doble entre ellas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la circunferencia y el área son medidas diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. La circunferencia es una longitud (cm) y el área es una superficie (cm²). Son medidas diferentes que no se pueden comparar directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque el área siempre es mayor que la circunferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No siempre es mayor. Por ejemplo, un círculo con radio 1 cm tiene circunferencia 6.28 cm y área 3.14 cm², pero con radio 10 cm tiene circunferencia 62.8 cm y área 314 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la circunferencia siempre es mayor que el área",
+          "is_correct": false,
+          "feedback": "Incorrecto. No siempre es mayor. Un círculo con radio 10 cm tiene área 314 cm² y circunferencia 62.8 cm, así que el área es mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La circunferencia y el área de un círculo son medidas fundamentalmente diferentes. La circunferencia es una longitud (se mide en cm) y el área es una superficie (se mide en cm²). No se pueden comparar directamente porque tienen unidades diferentes. Además, no existe una relación constante entre ellas: para radios pequeños la circunferencia puede ser mayor, pero para radios grandes el área crece más rápido porque depende del cuadrado del radio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-4-2026-W34-circunferencia-y-el-circulo-001-MASTERY-bundle",
+      "periodo": 34,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

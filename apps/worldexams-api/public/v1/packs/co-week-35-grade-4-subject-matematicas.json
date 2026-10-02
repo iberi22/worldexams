@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-35-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T16:32:29.492Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el perímetro de un rectángulo con base de 8 cm y altura de 5 cm?",
+      "context": "En El Espinal, una profesora dibuja un rectángulo en el tablero con base de 8 cm y altura de 5 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 13 cm sería la suma de la base y la altura (8 + 5), pero el perímetro es la suma de todos los lados: 2 × (8 + 5) = 26 cm."
+        },
+        {
+          "letter": "B",
+          "text": "26 cm",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro de un rectángulo es 2 × (base + altura) = 2 × (8 + 5) = 2 × 13 = 26 cm."
+        },
+        {
+          "letter": "C",
+          "text": "40 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 40 cm sería el área (8 × 5), no el perímetro. El perímetro es 2 × (8 + 5) = 26 cm."
+        },
+        {
+          "letter": "D",
+          "text": "20 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 cm no corresponde a ninguna operación correcta con base 8 y altura 5. El perímetro es 26 cm."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El perímetro de un rectángulo es la suma de todos sus lados. Como tiene dos lados de la base y dos lados de la altura, la fórmula es P = 2 × (base + altura). Con base de 8 cm y altura de 5 cm, el perímetro es 2 × (8 + 5) = 2 × 13 = 26 cm. Es importante no confundir el perímetro con el área.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el área de un cuadrado con lado de 9 cm?",
+      "context": "En Acacías, un estudiante calcula el área de un cuadrado con lado de 9 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 cm² sería el doble del lado (9 × 2), pero el área de un cuadrado es lado × lado = 9 × 9 = 81 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "36 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 36 cm² sería el perímetro (9 × 4), no el área. El área es 9 × 9 = 81 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "81 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. El área de un cuadrado es lado × lado = 9 × 9 = 81 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "27 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 27 cm² sería el triple del lado (9 × 3), pero el área es 9 × 9 = 81 cm²."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área de un cuadrado se calcula multiplicando el lado por sí mismo: A = lado × lado. Con un lado de 9 cm, el área es 9 × 9 = 81 cm². Es fundamental no confundir el área con el perímetro, que sería la suma de los cuatro lados: 9 + 9 + 9 + 9 = 36 cm.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el área de un rectángulo con base de 12 cm y altura de 7 cm?",
+      "context": "En Yopal, un niño tiene un rectángulo con base de 12 cm y altura de 7 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "84 cm²",
+          "is_correct": false,
+          "feedback": "Correcto. El área de un rectángulo es base × altura = 12 × 7 = 84 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "38 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 38 cm² sería el perímetro (2 × (12 + 7) = 38), no el área. El área es 12 × 7 = 84 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "19 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 19 cm² sería la mitad de la base más la altura (12 + 7), pero el área es 12 × 7 = 84 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "84 cm² (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 12 × 7 = 84 cm²."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área de un rectángulo se calcula multiplicando la base por la altura: A = base × altura. Con base de 12 cm y altura de 7 cm, el área es 12 × 7 = 84 cm². Es importante recordar que el área mide la superficie encerrada por la figura, mientras que el perímetro mide el contorno.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el área de un triángulo con base de 10 cm y altura de 6 cm?",
+      "context": "En Puerto López, una estudiante tiene un triángulo con base de 10 cm y altura de 6 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 60 cm² sería el resultado de multiplicar base × altura sin dividir entre 2. La fórmula correcta es (base × altura) ÷ 2 = 30 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "30 cm²",
+          "is_correct": true,
+          "feedback": "Correcto. El área de un triángulo es (base × altura) ÷ 2 = (10 × 6) ÷ 2 = 30 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16 cm² sería la suma de base y altura (10 + 6), pero el área es (10 × 6) ÷ 2 = 30 cm²."
+        },
+        {
+          "letter": "D",
+          "text": "32 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 32 cm² no corresponde a ninguna operación correcta con base 10 y altura 6. El área es 30 cm²."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El área de un triángulo se calcula con la fórmula A = (base × altura) ÷ 2. Con base de 10 cm y altura de 6 cm, el área es (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm². La división entre 2 es necesaria porque un triángulo es la mitad de un rectángulo con la misma base y altura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el área de un cuadrado con perímetro de 20 cm?",
+      "context": "En San Martín, un maestro muestra un cuadrado con perímetro de 20 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 cm²",
+          "is_correct": false,
+          "feedback": "Correcto. Si el perímetro es 20 cm, cada lado mide 20 ÷ 4 = 5 cm. El área es 5 × 5 = 25 cm²."
+        },
+        {
+          "letter": "B",
+          "text": "100 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 100 cm² sería el resultado de elevar el perímetro al cuadrado (20 × 20), pero primero hay que encontrar el lado: 20 ÷ 4 = 5 cm."
+        },
+        {
+          "letter": "C",
+          "text": "16 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 16 cm² sería el área de un cuadrado con lado de 4 cm, pero el lado correcto es 5 cm (20 ÷ 4)."
+        },
+        {
+          "letter": "D",
+          "text": "25 cm² (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 5 × 5 = 25 cm²."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para encontrar el área de un cuadrado a partir del perímetro, primero se divide el perímetro entre 4 para obtener la longitud del lado: 20 ÷ 4 = 5 cm. Luego se calcula el área: A = lado × lado = 5 × 5 = 25 cm². Es importante no confundir el perímetro con el lado directamente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v6",
+      "statement": "Un rectángulo tiene base de 6 cm y altura de 4 cm. Otro tiene base de 8 cm y altura de 3 cm. ¿Cuál tiene mayor área?",
+      "context": "En Granada, Meta, un estudiante compara las áreas de dos rectángulos con diferentes dimensiones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El primero, con 24 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer rectángulo sí tiene 24 cm² (6 × 4), pero el segundo también (8 × 3), entonces ninguno es mayor: las dos áreas son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "El segundo, con 24 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el segundo rectángulo tiene área 24 cm², el primero también tiene 24 cm² (6 × 4). Ambos son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "El primero, con 20 cm²",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 cm² no es el área correcta de ningún rectángulo. El primero tiene 24 cm² (6 × 4) y el segundo también 24 cm² (8 × 3)."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos tienen la misma área",
+          "is_correct": true,
+          "feedback": "Correcto. El primer rectángulo tiene área 6 × 4 = 24 cm², y el segundo tiene área 8 × 3 = 24 cm². Son iguales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El área de un rectángulo se calcula multiplicando la base por la altura. El primer rectángulo tiene área 6 × 4 = 24 cm², y el segundo tiene área 8 × 3 = 24 cm². Aunque las dimensiones son diferentes, ambas figuras tienen la misma área. Esto muestra que rectángulos con diferentes formas pueden tener igual superficie.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es el perímetro de un triángulo con lados de 5 cm, 7 cm y 9 cm?",
+      "context": "En Aguazul, un maestro pide calcular el perímetro de un triángulo con lados de 5 cm, 7 cm y 9 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21 cm",
+          "is_correct": false,
+          "feedback": "Correcto. El perímetro de un triángulo es la suma de sus tres lados: 5 + 7 + 9 = 21 cm."
+        },
+        {
+          "letter": "B",
+          "text": "315 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 315 cm sería el resultado de multiplicar los lados (5 × 7 × 9), pero el perímetro es la suma: 5 + 7 + 9 = 21 cm."
+        },
+        {
+          "letter": "C",
+          "text": "18 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 cm sería la suma de solo dos lados (5 + 7 + 6), pero el perímetro incluye los tres lados: 5 + 7 + 9 = 21 cm."
+        },
+        {
+          "letter": "D",
+          "text": "21 cm (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El perímetro es 5 + 7 + 9 = 21 cm."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El perímetro de un triángulo es la suma de las longitudes de sus tres lados. Con lados de 5 cm, 7 cm y 9 cm, el perímetro es 5 + 7 + 9 = 21 cm. Es importante no confundir el perímetro con el área, que requeriría conocer la altura del triángulo y usar la fórmula A = (base × altura) ÷ 2.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la afirmación de que dos figuras con el mismo perímetro siempre tienen la misma área?",
+      "context": "En Tauramena, un estudiante afirma que dos figuras con el mismo perímetro siempre tienen la misma área.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el perímetro determina el área",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perímetro no determina el área. Figuras con el mismo perímetro pueden tener áreas muy diferentes. Por ejemplo, un rectángulo 2 × 8 y un cuadrado 5 × 5 tienen perímetro 20, pero áreas 16 y 25."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque figuras con el mismo perímetro pueden tener áreas diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. Un rectángulo de 2 cm × 8 cm tiene perímetro 20 cm y área 16 cm², mientras que un cuadrado de 5 cm × 5 cm tiene perímetro 20 cm y área 25 cm²."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque ambas dependen de las mismas dimensiones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambas dependen de las dimensiones, la relación no es directa. Un rectángulo 1 × 9 tiene perímetro 20 y área 9, mientras que un cuadrado 5 × 5 tiene perímetro 20 y área 25."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque el área siempre es mayor que el perímetro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área no siempre es mayor que el perímetro. Un rectángulo 1 × 9 tiene área 9 cm² y perímetro 20 cm, así que el perímetro es mayor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos figuras con el mismo perímetro pueden tener áreas muy diferentes. Por ejemplo, un rectángulo de 2 cm × 8 cm tiene perímetro 2 × (2 + 8) = 20 cm y área 2 × 8 = 16 cm². Un cuadrado de 5 cm × 5 cm tiene perímetro 4 × 5 = 20 cm y área 5 × 5 = 25 cm². Aunque ambos tienen el mismo perímetro, el área del cuadrado es mayor. Esto demuestra que el perímetro y el área son medidas independientes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
