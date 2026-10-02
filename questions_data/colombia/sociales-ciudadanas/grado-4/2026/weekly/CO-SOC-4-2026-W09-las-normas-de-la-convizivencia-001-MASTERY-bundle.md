@@ -44,7 +44,7 @@ Estas ocho preguntas del área de Sociales y Ciudadanas evalúan para qué sirve
   <!-- feedback: Incorrecto. El trabajo del vigilante no es el motivo de la norma: la regla existe por el bien común, y no para darle trabajo a una persona. -->
 
 ### Explicacion Pedagogica
-Las normas existen para que un espacio compartido funcione bien. El parque es de todos, y una regla sencilla sobre el césped evita que un uso daeñe a los demás. La norma conviene a la mayoría, y por eso se acuerda y se respeta.
+Las normas existen para que un espacio compartido funcione bien. El parque es de todos, y una regla sencilla sobre el césped evita que un uso dañe a los demás. La norma conviene a la mayoría, y por eso se acuerda y se respeta.
 
 ## Question 2 [D3-D4]
 **ID:** CO-SOC-4-2026-W09-las-normas-de-la-convizivencia-001-MASTERY-bundle-v2
