@@ -34,13 +34,13 @@ Which sentence uses the future continuous correctly?
 
 ### Opciones
 - [x] A) This time tomorrow I will be flying to Madrid.
-  <!-- feedback: Correcto. 'Will be' mas gerundio expresa una accion que estara en curso en un momento futuro concreto. -->
+  <!-- feedback: Correct. 'Will be' plus the gerund expresses an action that will be in progress at a specific future moment. -->
 - [ ] B) This time tomorrow I will be fly to Madrid.
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'flying' y no en la forma base 'fly'. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'flying', not the base form 'fly'. -->
 - [ ] C) This time tomorrow I will flying to Madrid.
-  <!-- feedback: Incorrecto. Falta el 'be', y sin el auxiliar la forma 'will flying' no es valida en ingles. -->
+  <!-- feedback: Incorrect. 'Be' is missing, and without that auxiliary the form 'will flying' is not valid English. -->
 - [ ] D) This time tomorrow I am flying to Madrid.
-  <!-- feedback: Incorrecto. El presente continuo no puede situar la accion en el futuro con 'this time tomorrow'. -->
+  <!-- feedback: Incorrect. The present continuous cannot place the action in the future with 'this time tomorrow'. -->
 
 ### Explicacion Pedagogica
 El futuro continuo se forma con 'will be' mas el gerundio y expresa una accion en curso en un momento futuro. Se usa con expresiones como 'this time tomorrow', 'at nine tonight' o 'at that moment', que localizan el instante en que la accion estara ocurriendo.
@@ -59,13 +59,13 @@ Complete the sentence: 'By next June I ____ (live) in San Juan for ten years.'
 
 ### Opciones
 - [ ] A) will be living
-  <!-- feedback: Incorrecto. 'Will be living' es futuro continuo y enfoca en la accion en curso, no en la duracion completada. -->
+  <!-- feedback: Incorrect. 'Will be living' is future continuous and focuses on the ongoing action, not on the completed duration. -->
 - [ ] B) will have live
-  <!-- feedback: Incorrecto. Detras de 'will have' el verbo va en participio 'lived' y no en la forma base 'live'. -->
+  <!-- feedback: Incorrect. After 'will have', the verb takes the participle 'lived', not the base form 'live'. -->
 - [x] C) will have lived
-  <!-- feedback: Correcto. 'Will have' mas participio expresa que la duracion estara completa en un momento futuro. -->
+  <!-- feedback: Correct. 'Will have' plus the participle expresses that the duration will be complete at a future moment. -->
 - [ ] D) will lived
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo sin el auxiliar 'have' no forma ninguna estructura del futuro. -->
+  <!-- feedback: Incorrect. Adding -ed to a verb without the auxiliary 'have' does not form any future structure. -->
 
 ### Explicacion Pedagogica
 El futuro perfecto se forma con 'will have' mas el participio pasado y se refiere a una accion que estara terminada antes de un momento futuro. La expresion 'by' mas fecha futura es su senal mas clara, igual que 'by the time' lo es del pasado perfecto.
@@ -84,13 +84,13 @@ Complete the sentence: 'At this time tomorrow I ____ (study) for the final exam.
 
 ### Opciones
 - [ ] A) will study
-  <!-- feedback: Incorrecto. 'Will study' es futuro simple y no sugiere una accion en curso en ese momento concreto. -->
+  <!-- feedback: Incorrect. 'Will study' is future simple and does not suggest an action in progress at that specific moment. -->
 - [x] B) will be studying
-  <!-- feedback: Correcto. 'Will be studying' describe lo que estara ocurriendo a la misma hora del dia siguiente. -->
+  <!-- feedback: Correct. 'Will be studying' describes what will be happening at the same time the next day. -->
 - [ ] C) will be study
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'studying' y no en la forma base. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'studying', not the base form. -->
 - [ ] D) am studying at this time tomorrow
-  <!-- feedback: Incorrecto. El presente continuo no puede describir una accion futura con esa localizacion temporal. -->
+  <!-- feedback: Incorrect. The present continuous cannot describe a future action with that time reference. -->
 
 ### Explicacion Pedagogica
 El futuro continuo y el futuro simple se distinguen por el enfasis. 'Will study' presenta el hecho como una accion puntual futura, mientras que 'will be studying' la situa dentro de un momento concreto como si el hablante lo viviera desde ese instante.
@@ -109,13 +109,13 @@ What does 'By 2030 she will have worked here for twenty years' express?
 
 ### Opciones
 - [ ] A) An action that will be in progress at that date.
-  <!-- feedback: Incorrecto. Para describir una accion en curso en un instante futuro se usaria el futuro continuo, no el futuro perfecto con 'by'. -->
+  <!-- feedback: Incorrect. To describe an action in progress at a future moment, you use the future continuous, not the future perfect with 'by'. -->
 - [ ] B) An action that already happened before today.
-  <!-- feedback: Incorrecto. El futuro no habla de un pasado ya cerrado, sino de un momento por venir. -->
+  <!-- feedback: Incorrect. The future does not talk about a past that is already over, but about a moment still to come. -->
 - [ ] C) A habit that she has every day without exception.
-  <!-- feedback: Incorrecto. Los habitos se expresan con presente simple y no con futuro perfecto. -->
+  <!-- feedback: Incorrect. Habits are expressed with the present simple, not the future perfect. -->
 - [x] D) A period that will be complete at a future date.
-  <!-- feedback: Correcto. El futuro perfecto con 'by' mas fecha expresa una duracion que estara cerrada en ese momento. -->
+  <!-- feedback: Correct. The future perfect with 'by' plus a date expresses a duration that will be complete at that moment. -->
 
 ### Explicacion Pedagogica
 El futuro perfecto y el futuro continuo se combinan con frecuencia porque los dos hablan del futuro. El perfecto se detiene en el resultado y el continuo se detiene en el proceso. La preposicion 'by' orienta al futuro perfecto y un instante concreto al futuro continuo.
@@ -134,13 +134,13 @@ Which is the correct gerund form of the verb 'to run'?
 
 ### Opciones
 - [ ] A) runing
-  <!-- feedback: Incorrecto. Sin duplicar la consonante la palabra se silabea mal y no es una forma aceptada del ingles. -->
+  <!-- feedback: Incorrect. If the consonant isn't doubled, the word splits into syllables wrongly, and the result is not an accepted English form. -->
 - [ ] B) runnning
-  <!-- feedback: Incorrecto. 'Run' ya termina en -n, de modo que duplicarla dos veces no corresponde a ninguna regla. -->
+  <!-- feedback: Incorrect. 'Run' already ends in -n, so doubling it twice does not follow any rule. -->
 - [ ] C) raning
-  <!-- feedback: Incorrecto. 'Ran' es el pasado simple y no es la base a la que se le anade el gerundio. -->
+  <!-- feedback: Incorrect. 'Ran' is the past simple, not the base form that -ing is added to. -->
 - [x] D) running
-  <!-- feedback: Correcto. La vocal breve tensa de 'run' obliga a duplicar la -n antes de anadir -ing, igual que en los demas tiempos. -->
+  <!-- feedback: Correct. The short stressed vowel in 'run' requires doubling the -n before adding -ing, just as in the other tenses. -->
 
 ### Explicacion Pedagogica
 Las reglas de formacion del gerundio son las mismas en todos los tiempos: se duplica la consonante tras vocal breve tensa y se elimina la -e final. El futuro continuo y el presente continuo comparten exactamente las mismas reglas ortograficas.
@@ -159,13 +159,13 @@ Complete the sentence: 'By December I ____ (finish) all the courses of the degre
 
 ### Opciones
 - [ ] A) will have finish
-  <!-- feedback: Incorrecto. Detras de 'will have' el verbo va en participio pasado y no en la forma base 'finish'. -->
+  <!-- feedback: Incorrect. After 'will have', the verb takes the past participle, not the base form 'finish'. -->
 - [x] B) will have finished
-  <!-- feedback: Correcto. El participio de 'to finish' es 'finished' y 'will have' forma el futuro perfecto. -->
+  <!-- feedback: Correct. The past participle of 'to finish' is 'finished', and 'will have' forms the future perfect. -->
 - [ ] C) will be finishing
-  <!-- feedback: Incorrecto. 'Will be finishing' es futuro continuo y no expresa que la accion estara terminada. -->
+  <!-- feedback: Incorrect. 'Will be finishing' is future continuous and does not express that the action will be completed. -->
 - [ ] D) will finish
-  <!-- feedback: Incorrecto. El futuro simple no lleva el enfasis de resultado completo que pide 'by December'. -->
+  <!-- feedback: Incorrect. The future simple lacks the emphasis on a completed result that 'by December' requires. -->
 
 ### Explicacion Pedagogica
 La diferencia entre el futuro perfecto y el futuro simple es el punto de vista. El futuro simple mira al futuro desde ahora, mientras que el futuro perfecto mira al futuro desde un instante posterior y por eso necesita el auxiliar 'will have'.
@@ -184,13 +184,13 @@ Complete the sentence: 'Don't call me at eight; I ____ (write) an essay then.'
 
 ### Opciones
 - [x] A) will be writing
-  <!-- feedback: Correcto. 'Will be writing' explica lo que estara haciendo el hablante a esa hora, con el enfasis en la actividad en curso. -->
+  <!-- feedback: Correct. 'Will be writing' explains what the speaker will be doing at that time, with the emphasis on the ongoing activity. -->
 - [ ] B) will write
-  <!-- feedback: Incorrecto. 'Will write' es futuro simple y no justifica la interrupcion de la llamada de forma tan natural como el futuro continuo. -->
+  <!-- feedback: Incorrect. 'Will write' is future simple and does not explain the interrupted call as naturally as the future continuous does. -->
 - [ ] C) will be write
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'writing' y no en la forma base 'write'. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'writing', not the base form 'write'. -->
 - [ ] D) am writing an essay then
-  <!-- feedback: Incorrecto. El presente continuo no puede proyectar la accion hacia una hora futura concreta. -->
+  <!-- feedback: Incorrect. The present continuous cannot project the action to a specific future time. -->
 
 ### Explicacion Pedagogica
 El futuro continuo es muy util para explicar por que no se puede hacer algo en un momento futuro. La estructura 'I will be doing something then' comunica al oyente que esa hora estara ocupada, y por eso aparece con tanta frecuencia en conversaciones reales.
@@ -209,13 +209,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) What do you be doing this weekend?
-  <!-- feedback: Incorrecto. 'Do' no combina con 'to be' en gerundio, y la estructura pedida es 'will be doing'. -->
+  <!-- feedback: Incorrect. 'Do' does not combine with 'to be' in the gerund, and the required structure is 'will be doing'. -->
 - [ ] B) What will you do this weekend be?
-  <!-- feedback: Incorrecto. El gerundio va detras de 'will be' y no al final de la oracion interrogativa. -->
+  <!-- feedback: Incorrect. The gerund goes after 'will be', not at the end of the question. -->
 - [x] C) What will you be doing this weekend?
-  <!-- feedback: Correcto. El futuro continuo abre con 'will' mas 'be' mas gerundio, y 'this weekend' es un periodo futuro. -->
+  <!-- feedback: Correct. The future continuous begins with 'will' plus 'be' plus the gerund, and 'this weekend' is a future period. -->
 - [ ] D) What you will be doing this weekend?
-  <!-- feedback: Incorrecto. El orden interrogativo mantiene el auxiliar 'will' delante del sujeto, y no despues. -->
+  <!-- feedback: Incorrect. In question word order, the auxiliary 'will' goes before the subject, not after it. -->
 
 ### Explicacion Pedagogica
 En las preguntas de futuro continuo el auxiliar 'will' abre la frase y 'be' le sigue inmediatamente. El gerundio se coloca al final del grupo verbal, nunca al final de la oracion, porque forma parte del verbo y no es un elementomovible.
@@ -234,13 +234,13 @@ Complete the sentence: 'By the time you arrive, I ____ (cook) dinner.'
 
 ### Opciones
 - [ ] A) will cook
-  <!-- feedback: Incorrecto. 'Will cook' no marca la accion como previa a la llegada, que es lo que pide la expresion 'by the time'. -->
+  <!-- feedback: Incorrect. 'Will cook' does not show that the action happens before the arrival, which is what 'by the time' requires. -->
 - [ ] B) have cooked
-  <!-- feedback: Incorrecto. 'Have' es presente perfecto y no corresponde a una proyeccion desde un futuro. -->
+  <!-- feedback: Incorrect. 'Have' is present perfect and does not fit a projection from a future point. -->
 - [x] C) will have cooked
-  <!-- feedback: Correcto. 'By the time' con un futuro introduce el futuro perfecto, que situa la accion antes de la llegada. -->
+  <!-- feedback: Correct. 'By the time' with a future reference introduces the future perfect, which places the action before the arrival. -->
 - [ ] D) will be cooking
-  <!-- feedback: Incorrecto. 'Will be cooking' es futuro continuo y enfoca en la accion en curso, no en el resultado anterior. -->
+  <!-- feedback: Incorrect. 'Will be cooking' is future continuous and focuses on the action in progress, not on the earlier result. -->
 
 ### Explicacion Pedagogica
 El futuro perfecto se usa con 'by the time' mas presente o futuro. Cuando las dos acciones son futuras, la segunda va en futuro continuo o futuro simple y la primera en futuro perfecto, que marca claramente la antecedencia.
@@ -259,13 +259,13 @@ Complete the sentence: 'We ____ (drive) through Caguas at six, so we will not ma
 
 ### Opciones
 - [x] A) will be driving
-  <!-- feedback: Correcto. 'Will be driving' situa la accion en curso a las seis del dia siguiente o de ese dia, segun el contexto. -->
+  <!-- feedback: Correct. 'Will be driving' shows the action in progress at six o'clock, either the next day or that same day depending on the context. -->
 - [ ] B) will drive
-  <!-- feedback: Incorrecto. 'Will drive' es futuro simple y no sugiere que el trayecto estara-developed en curso a esa hora. -->
+  <!-- feedback: Incorrect. 'Will drive' is future simple and does not suggest that the journey will be in progress at that time. -->
 - [ ] C) will be drive
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'driving' y no en la forma base 'drive'. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'driving', not the base form 'drive'. -->
 - [ ] D) have been driving
-  <!-- feedback: Incorrecto. El presente perfecto continuo no se usa para proyectar una accion hacia una hora futura concreta. -->
+  <!-- feedback: Incorrect. The present perfect continuous is not used to project an action to a specific future time. -->
 
 ### Explicacion Pedagogica
 El futuro continuo combina muy bien con los planes de viaje. Al decir 'we will be driving at six' el hablante presenta el trayecto como un hecho ya organizado en un momento concreto, no como una posibilidad abierta.
@@ -284,13 +284,13 @@ Complete the sentence: 'By the end of the trip I ____ (see) most of the island.'
 
 ### Opciones
 - [ ] A) will be seeing
-  <!-- feedback: Incorrecto. 'Will be seeing' es futuro continuo y no expresa que la accion estara completada. -->
+  <!-- feedback: Incorrect. 'Will be seeing' is future continuous and does not express that the action will be completed. -->
 - [ ] B) will have see
-  <!-- feedback: Incorrecto. Detras de 'will have' el verbo va en participio 'seen' y no en la forma base 'see'. -->
+  <!-- feedback: Incorrect. After 'will have', the verb takes the past participle 'seen', not the base form 'see'. -->
 - [ ] C) will see
-  <!-- feedback: Incorrecto. El futuro simple no lleva el enfasis de resultado que da la expresion 'by the end of'. -->
+  <!-- feedback: Incorrect. The future simple lacks the emphasis on the result that the expression 'by the end of' gives. -->
 - [x] D) will have seen
-  <!-- feedback: Correcto. 'Will have seen' es futuro perfecto y 'by the end of' marca un limite temporal que la accion completa. -->
+  <!-- feedback: Correct. 'Will have seen' is future perfect, and 'by the end of' sets a time limit by which the action is complete. -->
 
 ### Explicacion Pedagogica
 Las expresiones con 'by' mas un punto de tiempo futuro, como 'by the end of the trip' o 'by next week', indican que la accion quedara terminada antes de ese limite. Esa es exactamente la funcion del futuro perfecto.
@@ -309,13 +309,13 @@ Complete the sentence: 'At nine o'clock tonight I ____ (teach) a literature clas
 
 ### Opciones
 - [ ] A) will teach
-  <!-- feedback: Incorrecto. 'Will teach' es futuro simple y no sitúa la accion dentro de un momento futuro preciso. -->
+  <!-- feedback: Incorrect. 'Will teach' is future simple and does not place the action at a precise future moment. -->
 - [x] B) will be teaching
-  <!-- feedback: Correcto. 'Will be teaching' describe la clase que estara dando el hablante a esa hora futura concreta. -->
+  <!-- feedback: Correct. 'Will be teaching' describes the class the speaker will be giving at that specific future time. -->
 - [ ] C) will be teach
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'teaching' y no en la forma base. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'teaching', not the base form. -->
 - [ ] D) am teaching at nine o'clock tonight
-  <!-- feedback: Incorrecto. El presente continuo no puede describir lo que ocurrira a una hora futura ya mencionada. -->
+  <!-- feedback: Incorrect. The present continuous cannot describe what will happen at a future time that has already been mentioned. -->
 
 ### Explicacion Pedagogica
 El gerundio de 'to teach' pierde la -e final antes de -ing y no duplica la -t, porque la vocal anterior es larga. Esa regla se aplica igual en presente continuo, futuro continuo y cualquier otro tiempo que use el gerundio.
@@ -334,13 +334,13 @@ Choose the correct negative: 'By August she ____ (not / graduate) yet.'
 
 ### Opciones
 - [ ] A) will not graduated
-  <!-- feedback: Incorrecto. Detras del auxiliar hace falta 'have' y el participio 'graduated', no solo la forma pasada. -->
+  <!-- feedback: Incorrect. The auxiliary must be followed by 'have' plus the past participle 'graduated', not just the past form. -->
 - [x] B) won't have graduated
-  <!-- feedback: Correcto. El futuro perfecto negativo se forma con 'will not' o 'won't' mas 'have' mas participio. -->
+  <!-- feedback: Correct. The negative future perfect is formed with 'will not' or 'won't' plus 'have' plus the past participle. -->
 - [ ] C) will not be graduating
-  <!-- feedback: Incorrecto. 'Will not be' forma el futuro continuo negativo, no el futuro perfecto. -->
+  <!-- feedback: Incorrect. 'Will not be' forms the negative future continuous, not the future perfect. -->
 - [ ] D) has not graduated
-  <!-- feedback: Incorrecto. 'Has not' es presente perfecto y no corresponde a una proyeccion hacia agosto. -->
+  <!-- feedback: Incorrect. 'Has not' is present perfect and does not fit a projection toward August. -->
 
 ### Explicacion Pedagogica
 El futuro perfecto negativo mantiene las tres piezas del tiempo verbal: 'will not' mas 'have' mas participio. El adverbio 'yet' se coloca al final y confirma que la accion no se ha completado en el momento de referencia.
@@ -359,13 +359,13 @@ Complete the sentence: 'We ____ (have) dinner at my grandmother's house at eight
 
 ### Opciones
 - [ ] A) will have
-  <!-- feedback: Incorrecto. 'Will have dinner' es futuro simple y ademas suena como tener posesion, no como cenar. -->
+  <!-- feedback: Incorrect. 'Will have dinner' is future simple, and it also sounds like possession rather than eating dinner. -->
 - [ ] B) will be have
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'having' y no en la forma base 'have'. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'having', not the base form 'have'. -->
 - [ ] C) are having dinner at eight
-  <!-- feedback: Incorrecto. El presente continuo no puede proyectar la accion hacia una hora futura ya mencionada. -->
+  <!-- feedback: Incorrect. The present continuous cannot project the action to a future time that has already been mentioned. -->
 - [x] D) will be having
-  <!-- feedback: Correcto. 'Will be having' describe la cena que estaran compartiendo a esa hora futura concreta. -->
+  <!-- feedback: Correct. 'Will be having' describes the dinner they will be sharing at that specific future time. -->
 
 ### Explicacion Pedagogica
 En-inglés 'will have' significa tener o poseer, mientras que 'will be having' significa estar teniendo una comida o una reunion. La confusion entre ambas estructuras cambia por completo el significado de la frase.
@@ -384,13 +384,13 @@ Question: 'Will you have finished the project by Friday?' Answer: '____'
 
 ### Opciones
 - [ ] A) Yes, I will be.
-  <!-- feedback: Incorrecto. 'Will be' pertenece al futuro continuo y no responde a una pregunta de futuro perfecto. -->
+  <!-- feedback: Incorrect. 'Will be' belongs to the future continuous and does not answer a future perfect question. -->
 - [ ] B) Yes, I have finished.
-  <!-- feedback: Incorrecto. 'Have' es presente perfecto y mezcla dos tiempos verbales distintos. -->
+  <!-- feedback: Incorrect. 'Have' is present perfect, so it mixes two different tenses. -->
 - [x] C) Yes, I will.
-  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'will' de la pregunta, que es la forma esperada. -->
+  <!-- feedback: Correct. The short answer repeats the auxiliary 'will' from the question, which is the expected form. -->
 - [ ] D) Yes, I have finished already.
-  <!-- feedback: Incorrecto. 'Have' es presente perfecto y mezcla dos tiempos verbales en una respuesta sobre el futuro. -->
+  <!-- feedback: Incorrect. 'Have' is present perfect, so it mixes two tenses in an answer about the future. -->
 
 ### Explicacion Pedagogica
 Las respuestas cortas al futuro perfecto usan 'will', igual que las del futuro simple. La frase completa con el participio tambien es aceptable, pero la respuesta corta omite el verbo principal y conserva solo el auxiliar.
@@ -409,13 +409,13 @@ Complete the sentence: 'Call me later; I ____ (sleep) at that time.'
 
 ### Opciones
 - [x] A) will be sleeping
-  <!-- feedback: Correcto. 'Will be sleeping' indica que a esa hora el hablante estará descansando, y por eso no conviene llamar. -->
+  <!-- feedback: Correct. 'Will be sleeping' shows the speaker will be resting at that time, so calling is not a good idea. -->
 - [ ] B) will sleep
-  <!-- feedback: Incorrecto. 'Will sleep' es futuro simple y no comunica con la misma claridad que la persona estara ocupada esa noche. -->
+  <!-- feedback: Incorrect. 'Will sleep' is future simple and does not show as clearly that the person will be busy that night. -->
 - [ ] C) will be sleep
-  <!-- feedback: Incorrecto. Detras de 'will be' el verbo va en gerundio 'sleeping' y no en la forma base 'sleep'. -->
+  <!-- feedback: Incorrect. After 'will be', the verb takes the gerund 'sleeping', not the base form 'sleep'. -->
 - [ ] D) have been sleeping
-  <!-- feedback: Incorrecto. El presente perfecto continuo no se utiliza para proyectar la accion hacia un momento futuro. -->
+  <!-- feedback: Incorrect. The present perfect continuous is not used to project an action to a future moment. -->
 
 ### Explicacion Pedagogica
 El futuro continuo es el tiempo del uso de la palabra 'probably' y de las preguntas sobre lo que alguien estará haciendo. Su valor principal es proyectar una escena completa en un instante futuro concreto.
@@ -434,13 +434,13 @@ Complete the sentence: 'By next month I ____ (know) the results already.'
 
 ### Opciones
 - [x] A) will have known
-  <!-- feedback: Correcto. 'By next month' marca un limite futuro y el participio 'known' completa el futuro perfecto. -->
+  <!-- feedback: Correct. 'By next month' sets a future deadline, and the past participle 'known' completes the future perfect. -->
 - [ ] B) will be knowing
-  <!-- feedback: Incorrecto. 'To know' es un verbo de estado y no admite normalmente el tiempo continuo. -->
+  <!-- feedback: Incorrect. 'To know' is a stative verb and does not normally take a continuous tense. -->
 - [ ] C) will have know
-  <!-- feedback: Incorrecto. Detras de 'will have' el verbo va en participio 'known' y no en la forma base 'know'. -->
+  <!-- feedback: Incorrect. After 'will have', the verb takes the past participle 'known', not the base form 'know'. -->
 - [ ] D) will know
-  <!-- feedback: Incorrecto. El futuro simple no expresa el resultado completado que la preposicion 'by' hace inevitable aqui. -->
+  <!-- feedback: Incorrect. The future simple does not express the completed result that the preposition 'by' requires here. -->
 
 ### Explicacion Pedagogica
 Los verbos de estado como 'to know', 'to love' y 'to own' no se usan en tiempo continuo. Cuando aparecen con 'will', debe ser el futuro simple, y con 'will have' el futuro perfecto, nunca el continuo.
@@ -459,13 +459,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) I'll be flying to San Juan at six tomorrow morning ago.
-  <!-- feedback: Incorrecto. 'Ago' pertenece al pasado y contradice completamente la proyeccion futura de la frase. -->
+  <!-- feedback: Incorrect. 'Ago' refers to the past and completely contradicts the sentence's projection into the future. -->
 - [ ] B) I will flying to San Juan at six tomorrow morning.
-  <!-- feedback: Incorrecto. Falta el 'be' entre 'will' y el gerundio, de modo que la estructura es incompleta. -->
+  <!-- feedback: Incorrect. 'be' is missing between 'will' and the gerund, so the structure is incomplete. -->
 - [ ] C) I am flying to San Juan at six tomorrow morning.
-  <!-- feedback: Incorrecto. El presente continuo no describe una escena futura en un instante concreto como el enunciado. -->
+  <!-- feedback: Incorrect. The present continuous cannot describe a future scene at a specific moment like the one in the question. -->
 - [x] D) I'll be flying to San Juan at six tomorrow morning.
-  <!-- feedback: Correcto. La expresion 'at six tomorrow morning' localiza el instante y pide futuro continuo. -->
+  <!-- feedback: Correct. The expression 'at six tomorrow morning' pinpoints the moment and calls for the future continuous. -->
 
 ### Explicacion Pedagogica
 El futuro continuo necesita un instante futuro de referencia, y las expresiones que lo acompanan tienen que squarely esa proyeccion. 'Ago', 'yesterday' o 'last year' son marcas de pasado y convierten la frase en incorrecta.
@@ -484,13 +484,13 @@ Which sentence correctly uses a future time expression with the future continuou
 
 ### Opciones
 - [ ] A) By 2028 she will be teaching here since twenty years.
-  <!-- feedback: Incorrecto. 'Since' no acepta una cantidad de tiempo, ademas el futuro continuo no encaja con la preposicion 'by'. -->
+  <!-- feedback: Incorrect. 'Since' cannot be followed by a length of time, and the future continuous does not fit with the preposition 'by'. -->
 - [x] B) By 2028 she will have been teaching here for twenty years.
-  <!-- feedback: Correcto. 'By' mas fecha futura y futuro perfecto expresan una duracion que estara completa en ese momento. -->
+  <!-- feedback: Correct. 'By' plus a future date, used with the future perfect, expresses a duration that will be complete at that point. -->
 - [ ] C) By 2028 she will have been teaching here for twenty years ago.
-  <!-- feedback: Incorrecto. 'Ago' cierra el pasado y es incompatible con la proyeccion futura de 'by 2028'. -->
+  <!-- feedback: Incorrect. 'Ago' refers to a finished past and cannot go with the future projection of 'by 2028'. -->
 - [ ] D) By 2028 she will teaching here for twenty years.
-  <!-- feedback: Incorrecto. Falta el 'have' y el gerundio, de modo que la estructura del futuro perfecto esta incompleta. -->
+  <!-- feedback: Incorrect. 'have' and the gerund are missing, so the future perfect structure is incomplete. -->
 
 ### Explicacion Pedagogica
 La preposicion 'by' mas fecha futura es la senal inequivoca del futuro perfecto. Las demas piezas de la frase deben respetar esa proyeccion: 'since' con cantidades y 'ago' con expresiones futuras son incompatibles con esta unidad.
@@ -509,13 +509,13 @@ What does 'By the time we get there, the storm will have passed and we will be w
 
 ### Opciones
 - [ ] A) Two actions that will happen simultaneously in the past.
-  <!-- feedback: Incorrecto. Las dos acciones son futuras y se situan en una secuencia posterior al momento de referencia. -->
+  <!-- feedback: Incorrect. Both actions are in the future and happen in sequence after the reference point. -->
 - [ ] B) An action that already finished before the speakers left.
-  <!-- feedback: Incorrecto. Todo el pasaje esta proyectado hacia el futuro, no hacia un pasado ya cerrado. -->
+  <!-- feedback: Incorrect. The whole passage is projected into the future, not into a finished past. -->
 - [x] C) One future event will be complete before another future event begins.
-  <!-- feedback: Correcto. El futuro perfecto marca el resultado ya cerrado y el futuro continuo describe la escena posterior. -->
+  <!-- feedback: Correct. The future perfect marks the result as already complete, and the future continuous describes the scene that follows. -->
 - [ ] D) A prediction that the storm will last the whole night.
-  <!-- feedback: Incorrecto. 'Will have passed' indica que la tormenta ya habra terminado, no que continuara toda la noche. -->
+  <!-- feedback: Incorrect. 'Will have passed' means the storm will already be over, not that it will continue all night. -->
 
 ### Explicacion Pedagogica
 El futuro perfecto y el futuro continuo pueden convivir en la misma oracion porque hablan de dos momentos distintos del futuro. El primero se apoya en un resultado completado y el segundo en una escena en curso, y esa combinacion se ve a menudo en los pronosticos del tiempo.
