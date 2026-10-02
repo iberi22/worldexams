@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-20-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.280Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántas caras tiene el dado?",
+      "context": "En un aula de Bogotá, la profesora muestra un dado de madera que tiene forma de cubo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 caras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo las caras laterales del cubo, cuando también existen la cara de arriba y la de abajo."
+        },
+        {
+          "letter": "B",
+          "text": "6 caras",
+          "is_correct": true,
+          "feedback": "Correcto. El cubo tiene 6 caras cuadradas iguales: la de arriba, la de abajo y las cuatro laterales."
+        },
+        {
+          "letter": "C",
+          "text": "8 caras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las caras con los vértices, que son los 8 puntos donde se encuentran tres aristas."
+        },
+        {
+          "letter": "D",
+          "text": "12 caras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las caras con las aristas, que son los 12 bordes donde se unen dos caras."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cubo es un cuerpo geométrico formado por 6 caras, y cada cara es un cuadrado del mismo tamaño. Se cuentan la cara superior, la inferior y las cuatro laterales. No hay que confundir las caras con las aristas, que son los bordes, ni con los vértices, que son las esquinas donde se juntan tres aristas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de estos cuerpos puede rodar en cualquier dirección por toda su superficie?",
+      "context": "En una tienda de juguetes de Medellín, Camila compara un balón, una caja y un cono.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La caja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La caja tiene caras planas y aristas, así que se desliza o se voltea, pero no rueda."
+        },
+        {
+          "letter": "B",
+          "text": "El cono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cono solo gira alrededor de su base plana y no rueda libremente en cualquier dirección."
+        },
+        {
+          "letter": "C",
+          "text": "El balón",
+          "is_correct": true,
+          "feedback": "Correcto. La esfera del balón no tiene caras planas ni aristas, por eso rueda en cualquier dirección."
+        },
+        {
+          "letter": "D",
+          "text": "El balón y el cono ruedan igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cono se apoya en una base plana y no rueda como el balón, que no tiene ninguna cara plana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los cuerpos con superficies curvas y sin caras planas, como la esfera, ruedan libremente en cualquier dirección. El cono tiene una superficie curva, pero también una base plana que lo detiene, así que solo gira sobre esa base. La caja, formada por caras planas y aristas, no rueda porque cada posición de apoyo es estable.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v3",
+      "statement": "Si el prisma tiene 6 caras, ¿cuántos vértices y cuántas aristas tiene en total?",
+      "context": "En un taller de Cartagena, un estudiante arma una caja de zapatos con forma de prisma rectangular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 vértices y 12 aristas",
+          "is_correct": true,
+          "feedback": "Correcto. El prisma rectangular tiene 8 esquinas y 12 bordes, igual que el cubo, porque ambos tienen 6 caras."
+        },
+        {
+          "letter": "B",
+          "text": "6 vértices y 12 aristas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiaste el número de caras, que son 6, en el lugar de los vértices, que son 8."
+        },
+        {
+          "letter": "C",
+          "text": "12 vértices y 8 aristas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Intercambiaste los valores: los vértices son 8 y las aristas son 12."
+        },
+        {
+          "letter": "D",
+          "text": "8 vértices y 6 aristas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los vértices son 8, pero las aristas son 12 y no 6, porque ese 6 cuenta las caras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un prisma rectangular se pueden contar las partes así: 8 vértices, que son las esquinas; 12 aristas, que son los bordes; y 6 caras, que son los rectángulos. El número de aristas es mayor que el de caras porque cada cara está rodeada por cuatro bordes, y varios bordes se comparten entre dos caras.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v4",
+      "statement": "Un cuerpo tiene 2 caras circulares iguales y una superficie curva que las une. ¿Qué cuerpo es?",
+      "context": "En el salón de Pereira, los niños clasifican cuerpos según la forma de sus caras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cono tiene una sola cara circular y termina en un vértice, no en dos caras iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Esfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esfera no tiene caras planas, mientras que el cuerpo descrito sí tiene dos círculos."
+        },
+        {
+          "letter": "C",
+          "text": "Pirámide",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pirámide tiene caras triangulares que se unen en un vértice, no dos caras circulares."
+        },
+        {
+          "letter": "D",
+          "text": "Cilindro",
+          "is_correct": true,
+          "feedback": "Correcto. El cilindro tiene dos bases circulares iguales y paralelas unidas por una superficie curva."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El cilindro se reconoce por sus dos bases circulares iguales, una arriba y otra abajo, unidas por una superficie curva llamada cara lateral. El cono también tiene una cara curva, pero solo una base circular y un vértice. La esfera no tiene ninguna cara plana. Comparar las caras permite distinguir con claridad estos tres cuerpos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos cuadrados forman la plantilla, es decir el molde, con la que se armó la caja cúbica?",
+      "context": "En Ibagué, Ana desarma una caja cúbica de cartón y extiende el cartón sobre la mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una plantilla de 4 cuadrados no alcanza para cerrar el cubo, porque le faltarían la tapa y la base."
+        },
+        {
+          "letter": "B",
+          "text": "6 cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. La plantilla de un cubo tiene 6 cuadrados, uno por cada una de sus caras."
+        },
+        {
+          "letter": "C",
+          "text": "8 cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las caras del cubo con sus vértices, que son 8 puntos."
+        },
+        {
+          "letter": "D",
+          "text": "12 cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste las caras con las aristas del cubo, que son 12 bordes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La plantilla o molde de un cuerpo es la figura plana que, al doblarse, forma ese cuerpo. Como el cubo tiene 6 caras cuadradas, su plantilla necesita exactamente 6 cuadrados unidos por las aristas. Si se dobla por las líneas correctas, cada cuadrado se convierte en una cara y el cubo queda cerrado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia hay entre el cubo y el prisma rectangular?",
+      "context": "En Santa Marta, dos amigos comparan un cubo y un prisma rectangular que tienen 6 caras cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El cubo tiene más caras que el prisma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen 6 caras, así que la cantidad no es lo que los diferencia."
+        },
+        {
+          "letter": "B",
+          "text": "El prisma no tiene vértices",
+          "is_correct": false,
+          "feedback": "Incorrecto. El prisma rectangular tiene 8 vértices, igual que el cubo."
+        },
+        {
+          "letter": "C",
+          "text": "En el cubo las 6 caras son cuadrados iguales y en el prisma hay rectángulos",
+          "is_correct": true,
+          "feedback": "Correcto. La diferencia está en la forma de las caras: en el cubo todas son cuadrados iguales y en el prisma son rectángulos que pueden ser distintos."
+        },
+        {
+          "letter": "D",
+          "text": "El cubo rueda y el prisma no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de los dos rueda, porque ambos tienen únicamente caras planas y aristas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Dos cuerpos pueden tener el mismo número de caras y aun así ser distintos. El cubo es un caso especial de prisma rectangular en el que las 6 caras son cuadrados iguales y todas las aristas miden lo mismo. En un prisma rectangular general las caras son rectángulos y no todas las aristas tienen la misma longitud. La forma de las caras, no su cantidad, es la clave de la diferencia.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué cuerpo se obtiene después del corte?",
+      "context": "En Villavicencio, un estudiante observa una pirámide de base cuadrada y le corta la punta con un corte paralelo a la base.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un prisma con dos bases cuadradas",
+          "is_correct": true,
+          "feedback": "Correcto. Al quitar la punta queda una cara cuadrada nueva paralela a la base, y el cuerpo resultante tiene dos bases cuadradas, es decir es un prisma."
+        },
+        {
+          "letter": "B",
+          "text": "Un cono",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cono tiene base circular, mientras que la base de esta figura es un cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "Una esfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La esfera no tiene caras planas ni aristas, así que no puede salir de cortar una pirámide."
+        },
+        {
+          "letter": "D",
+          "text": "Otra pirámide más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un corte paralelo a la base reduce la altura y crea una cara plana arriba, por lo que no queda una pirámide completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando a una pirámide se le hace un corte paralelo a su base, la parte de arriba conserva la forma de la punta y la parte de abajo queda con dos caras cuadradas paralelas unidas por caras laterales. Ese cuerpo de dos bases paralelas es un prisma. Si el corte no fuera paralelo, la forma cambiaría y ya no se obtendría un prisma regular.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle-v8",
+      "statement": "¿Qué afirmación es correcta sobre lo que dice Juan?",
+      "context": "En Manizales, Juan afirma que una lata de atún y un balón son iguales porque los dos son redondos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan tiene razón, porque los dos ruedan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los dos rueden no los hace iguales, porque la lata tiene caras planas y el balón no."
+        },
+        {
+          "letter": "B",
+          "text": "Juan tiene razón, porque los dos son cuerpos geométricos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser cuerpos geométricos no los hace iguales, ya que sus caras y superficies son diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Juan se equivoca, porque la lata es una esfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lata es un cilindro y no una esfera, así que el nombre que le diste a la lata es incorrecto."
+        },
+        {
+          "letter": "D",
+          "text": "Juan se equivoca, porque la lata es un cilindro con bases planas y el balón es una esfera sin caras planas",
+          "is_correct": true,
+          "feedback": "Correcto. La lata tiene dos bases circulares planas y el balón no tiene ninguna cara plana, por eso no son iguales aunque ambos rueden."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aunque los dos objetos rueden, sus características no son las mismas. El balón es una esfera: no tiene caras planas ni aristas y rueda en cualquier dirección. La lata es un cilindro: tiene dos bases circulares planas y una superficie curva, por lo que se apoya y no rueda libremente. Para comparar cuerpos hay que revisar sus caras y superficies, no solo el hecho de que giren.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W20-solidos-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

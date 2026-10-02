@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-25-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.283Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fracción de la pizza comió Ana?",
+      "context": "En Armenia, una pizza se partió en 8 porciones iguales y Ana comió 3 de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción; el total de porciones va en el denominador, así que es 3/8."
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "is_correct": true,
+          "feedback": "Correcto. Ana comió 3 de las 8 porciones iguales, por eso la fracción es 3/8."
+        },
+        {
+          "letter": "C",
+          "text": "5/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 5 es lo que quedó de la pizza, y la pregunta pide la parte que comió Ana."
+        },
+        {
+          "letter": "D",
+          "text": "1/8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo una porción, cuando Ana comió 3 porciones de las 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una fracción representa partes de un todo dividido en partes iguales. El número de abajo, llamado denominador, indica en cuántas partes se dividió el todo; el de arriba, llamado numerador, indica cuántas de esas partes se tomaron. Como la pizza tiene 8 porciones y Ana comió 3, la fracción es 3/8.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué fracción del círculo está sombreada?",
+      "context": "En Manizales, un círculo se dividió en 4 partes iguales y se sombreó 1 de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. El círculo se dividió en 4 partes, así que el denominador es 4 y no 3."
+        },
+        {
+          "letter": "B",
+          "text": "4/1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción; se sombreó 1 parte de 4, es decir 1/4."
+        },
+        {
+          "letter": "C",
+          "text": "2/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se sombreó solo 1 parte, y 2/4 representaría la mitad del círculo."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "is_correct": true,
+          "feedback": "Correcto. Se sombreó 1 de las 4 partes iguales, por eso la fracción es 1/4."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para escribir una fracción se cuenta primero en cuántas partes iguales se dividió el todo, que será el denominador, y luego cuántas partes se tomaron, que será el numerador. Con 4 partes iguales y 1 sombreada, la fracción es 1/4. Si se sombrearan 2 partes, la fracción sería 2/4.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué fracción del chocolate se comió la familia?",
+      "context": "En Cali, una barra de chocolate se dividió en 6 partes iguales y la familia se comió 4.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/6",
+          "is_correct": true,
+          "feedback": "Correcto. Se comieron 4 de las 6 partes iguales, así que la fracción es 4/6."
+        },
+        {
+          "letter": "B",
+          "text": "6/4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción; el total de partes, 6, va en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "2/6",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese 2 corresponde a las partes que sobraron, y la pregunta pide las que se comieron."
+        },
+        {
+          "letter": "D",
+          "text": "4/10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 4 + 6 en el denominador, cuando el total de partes es 6."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La fracción que representa una parte del todo se escribe con las partes tomadas sobre el total de partes iguales. Si el chocolate tenía 6 partes y se comieron 4, la fracción es 4/6. Las 2 partes que quedan se representan como 2/6, y juntas 4/6 + 2/6 completan las 6 partes del chocolate.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué fracción de la torta quedó sin comer?",
+      "context": "En Pereira, una torta se dividió en 12 porciones iguales y la familia comió 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/12",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fracción que se comió; lo que queda es el total menos lo comido."
+        },
+        {
+          "letter": "B",
+          "text": "12/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invertiste la fracción; el total de porciones, 12, va en el denominador."
+        },
+        {
+          "letter": "C",
+          "text": "7/12",
+          "is_correct": true,
+          "feedback": "Correcto. Si se comieron 5 de 12, quedan 12 − 5 = 7 porciones, que son 7/12 de la torta."
+        },
+        {
+          "letter": "D",
+          "text": "5/7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste las porciones comidas sobre las que quedan, cuando el denominador es el total de 12."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para hallar la fracción que queda se resta lo comido al total de partes. Con 12 porciones y 5 comidas, quedan 12 − 5 = 7, es decir 7/12. Las dos fracciones, 5/12 y 7/12, tienen el mismo denominador y suman 12/12, que representa la torta completa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos estudiantes usan gafas?",
+      "context": "En Bogotá, en un salón de 20 estudiantes, 1/4 de ellos usan gafas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el denominador, que indica en cuántas partes se divide el grupo, no cuántos estudiantes usan gafas."
+        },
+        {
+          "letter": "B",
+          "text": "5 estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. Un cuarto de 20 se calcula dividiendo 20 ÷ 4 = 5 estudiantes."
+        },
+        {
+          "letter": "C",
+          "text": "16 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 20 − 4, pero la fracción 1/4 se calcula dividiendo el total entre 4."
+        },
+        {
+          "letter": "D",
+          "text": "80 estudiantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 20 × 4, cuando un cuarto es una parte de las cuatro en que se divide el total."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para calcular una fracción de una cantidad se divide la cantidad entre el denominador. Un cuarto de 20 se obtiene con 20 ÷ 4 = 5. Si se pidieran 3/4 del grupo, se multiplicaría el resultado de 1/4 por 3, es decir 5 × 3 = 15 estudiantes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v6",
+      "statement": "¿Cuántos dulces le quedan a María al final?",
+      "context": "En Barranquilla, María tiene 24 dulces. Primero regala la mitad y después regala la mitad de lo que le quedaba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el resultado después del primer regalo, pero todavía falta el segundo."
+        },
+        {
+          "letter": "B",
+          "text": "18 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. No corresponde a ninguna mitad del proceso; hay que dividir dos veces entre 2."
+        },
+        {
+          "letter": "C",
+          "text": "8 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dividiste 24 entre 3, cuando el problema pide tomar la mitad dos veces."
+        },
+        {
+          "letter": "D",
+          "text": "6 dulces",
+          "is_correct": true,
+          "feedback": "Correcto. La primera mitad de 24 es 12, y la mitad de 12 es 6, así que le quedan 6 dulces."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando se toma una fracción de lo que queda, el cálculo se hace paso a paso. María empieza con 24, regala la mitad y le quedan 12; luego regala la mitad de esos 12 y le quedan 6. Tomar la mitad dos veces equivale a multiplicar por 1/2 y otra vez por 1/2, es decir 24 × 1/4 = 6.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué fracción de toda la hoja representa la parte que coloreó en la segunda vez?",
+      "context": "En Cartagena, Andrés colorea 1/2 de una hoja y luego colorea 1/3 de la parte que ya había coloreado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda parte es 1/3 de 1/2, y 1/3 × 1/2 = 1/6 de la hoja."
+        },
+        {
+          "letter": "B",
+          "text": "1/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste los denominadores 3 + 2, pero una fracción de otra se obtiene multiplicando."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el tamaño de la segunda parte respecto de la mitad, no respecto de toda la hoja."
+        },
+        {
+          "letter": "D",
+          "text": "2/5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste las fracciones en lugar de multiplicarlas, cuando se toma una parte de otra parte."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Hallar una fracción de otra fracción se resuelve multiplicándolas. La mitad de la hoja se representa con 1/2, y de esa mitad se colorea 1/3, así que la parte nueva es 1/3 × 1/2 = 1/6 de la hoja. En total, Andrés coloreó 1/2 + 1/6, que equivale a 4/6 de la hoja.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre lo que dice Pedro?",
+      "context": "En Medellín, Pedro afirma que 1/2 de una torta es más grande que 1/4 de la misma torta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es falso, porque 1/4 es mayor que 1/2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al partir la torta en 4 partes, cada una es más pequeña que una de las 2 mitades."
+        },
+        {
+          "letter": "B",
+          "text": "Es falso, porque las dos fracciones son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1/2 y 1/4 no son iguales, porque la torta se divide en distinta cantidad de partes."
+        },
+        {
+          "letter": "C",
+          "text": "Es verdadero, porque al dividir en menos partes iguales cada parte es más grande",
+          "is_correct": true,
+          "feedback": "Correcto. Si la torta se parte en 2, cada mitad es mayor que si se parte en 4, por eso 1/2 es mayor que 1/4."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin conocer el tamaño de la torta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comparación no depende del tamaño de la torta, porque ambas fracciones se refieren al mismo todo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos fracciones se refieren al mismo todo, la mayor es la que divide el todo en menos partes iguales. Media torta es más grande que un cuarto de la misma torta, porque al partirla en 2 cada pedazo es mayor que al partirla en 4. Comparar fracciones con el mismo numerador exige mirar el denominador: a mayor denominador, menor es cada parte.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W25-fracciones-y-fracciones-de-una-fraccion-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

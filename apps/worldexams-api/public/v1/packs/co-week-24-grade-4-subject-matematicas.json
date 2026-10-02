@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-24-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.283Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos dulces recibe cada niño?",
+      "context": "En Pasto, la profesora reparte 24 dulces en partes iguales entre 6 niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 dulces",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide 24 ÷ 6 = 4, así que cada niño recibe 4 dulces."
+        },
+        {
+          "letter": "B",
+          "text": "6 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el número de niños con la cantidad que recibe cada uno; hay que dividir 24 entre 6."
+        },
+        {
+          "letter": "C",
+          "text": "18 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 24 − 6, pero repartir en partes iguales se resuelve con una división."
+        },
+        {
+          "letter": "D",
+          "text": "30 dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 24 + 6, cuando el total de dulces se reparte y no aumenta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Dividir es repartir una cantidad en partes iguales. Aquí se reparten 24 dulces entre 6 niños, así que cada uno recibe 24 ÷ 6 = 4. La comprobación es multiplicar lo recibido por el número de niños: 4 × 6 = 24, el total inicial.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v2",
+      "statement": "¿Cuántos lápices van en cada caja?",
+      "context": "En Montería, se empacan 30 lápices en 5 cajas iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 lápices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 30 − 5, cuando la división reparte los 30 lápices entre las 5 cajas."
+        },
+        {
+          "letter": "B",
+          "text": "35 lápices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 30 + 5, pero la cantidad total no aumenta al repartirla."
+        },
+        {
+          "letter": "C",
+          "text": "6 lápices",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide 30 ÷ 5 = 6, así que cada caja lleva 6 lápices."
+        },
+        {
+          "letter": "D",
+          "text": "5 lápices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiaste el número de cajas en lugar del cociente; el resultado es 6 lápices por caja."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La división permite saber cuántos elementos van en cada grupo cuando el reparto es igual. Con 30 lápices y 5 cajas, cada caja recibe 30 ÷ 5 = 6. Se verifica multiplicando 6 × 5 = 30. Cuando el reparto es exacto, el residuo es cero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Numerico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántas cajas se llenan completas y cuántos huevos sobran?",
+      "context": "En Neiva, una granja empaca 47 huevos en cajas de 6 unidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 cajas y sobra 1 huevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se llenaran 8 cajas se necesitarían 48 huevos, uno más de los que hay."
+        },
+        {
+          "letter": "B",
+          "text": "7 cajas y sobran 5 huevos",
+          "is_correct": true,
+          "feedback": "Correcto. Como 6 × 7 = 42 y 47 − 42 = 5, se llenan 7 cajas y sobran 5 huevos."
+        },
+        {
+          "letter": "C",
+          "text": "7 cajas y sobra 1 huevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo no es 1; al restar 47 − 42 quedan 5 huevos."
+        },
+        {
+          "letter": "D",
+          "text": "6 cajas y sobran 5 huevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 6 cajas solo se empacan 36 huevos y sobrarían 11, no 5."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una división con residuo, el cociente indica cuántos grupos completos se forman y el residuo lo que sobra. Aquí 47 ÷ 6 da cociente 7 y residuo 5, porque 6 × 7 = 42 y 47 − 42 = 5. El residuo siempre debe ser menor que el divisor, y en este caso 5 es menor que 6.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v4",
+      "statement": "¿Cuántas sillas quedan en cada fila?",
+      "context": "En Valledupar, se organizan 85 sillas en 5 filas con la misma cantidad cada una.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 5 × 3 por error; al dividir 85 ÷ 5 el cociente es 17."
+        },
+        {
+          "letter": "B",
+          "text": "80 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 85 − 5, cuando la división reparte las 85 sillas entre las 5 filas."
+        },
+        {
+          "letter": "C",
+          "text": "90 sillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 85 + 5, pero el total de sillas no cambia al organizarlas."
+        },
+        {
+          "letter": "D",
+          "text": "17 sillas",
+          "is_correct": true,
+          "feedback": "Correcto. Se divide 85 ÷ 5 = 17, así que cada fila queda con 17 sillas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para repartir una cantidad en grupos iguales se divide. En 85 ÷ 5, como 5 × 17 = 85, el cociente es 17 y no hay residuo. La comprobación multiplicando el cociente por el divisor devuelve el dividendo, lo que confirma que el reparto es exacto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos colores quedan en cada mesa y cuántos sobran?",
+      "context": "En Popayán, se reparten 92 colores entre 8 mesas iguales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "11 colores por mesa y sobran 4",
+          "is_correct": true,
+          "feedback": "Correcto. Como 8 × 11 = 88 y 92 − 88 = 4, cada mesa recibe 11 colores y sobran 4."
+        },
+        {
+          "letter": "B",
+          "text": "11 colores por mesa y sobran 6",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo es 4, porque 92 − 88 = 4 y no 6."
+        },
+        {
+          "letter": "C",
+          "text": "12 colores por mesa y sobran 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 12 por mesa se necesitarían 96 colores, más de los 92 disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "10 colores por mesa y sobran 12",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo 12 es mayor que el divisor 8, lo que indica que aún se podía repartir una vez más."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una división con residuo, el residuo nunca puede ser mayor o igual que el divisor; si lo fuera, todavía se podría repartir una unidad más en cada grupo. En 92 ÷ 8, el cociente es 11 y el residuo 4, porque 8 × 11 = 88 y 92 − 88 = 4. Comprobar que 4 es menor que 8 confirma que el reparto está bien hecho.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Numerico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede afirmar sobre ese residuo?",
+      "context": "En Tunja, al dividir un número entre 7 el residuo que se obtiene es 6.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es mayor que el divisor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo 6 es menor que el divisor 7, no mayor."
+        },
+        {
+          "letter": "B",
+          "text": "Es igual al divisor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo 6 no es igual a 7; si lo fuera, se podría repartir una vez más."
+        },
+        {
+          "letter": "C",
+          "text": "Es menor que el divisor, porque 6 es menor que 7",
+          "is_correct": true,
+          "feedback": "Correcto. El residuo siempre es menor que el divisor, y en este caso 6 < 7."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede saber sin conocer el dividendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación entre residuo y divisor no depende del dividendo, solo de que el residuo sea menor."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una regla fundamental de la división es que el residuo siempre es menor que el divisor. Si el residuo fuera igual o mayor, significaría que todavía cabe otra unidad en cada grupo. En este caso, con divisor 7, el residuo más grande posible es 6, y por eso un residuo de 6 es válido.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál afirmación es correcta sobre el reparto?",
+      "context": "En Ibagué, se reparten 50 caramelos entre 8 niños y varios estudiantes calculan 50 ÷ 8.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada niño recibe 6 y sobran 4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cada niño recibe 6, se reparten 48 caramelos y sobrarían 2, no 4."
+        },
+        {
+          "letter": "B",
+          "text": "Cada niño recibe 6 y sobran 2",
+          "is_correct": true,
+          "feedback": "Correcto. Como 8 × 6 = 48 y 50 − 48 = 2, cada niño recibe 6 caramelos y sobran 2."
+        },
+        {
+          "letter": "C",
+          "text": "Cada niño recibe 7 y no sobra ninguno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 7 por niño se necesitarían 56 caramelos, más de los 50 disponibles."
+        },
+        {
+          "letter": "D",
+          "text": "Cada niño recibe 5 y sobran 10",
+          "is_correct": false,
+          "feedback": "Incorrecto. El residuo 10 es mayor que el divisor 8, lo que muestra que aún se podía repartir más."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para repartir con residuo se busca el mayor múltiplo del divisor que no supere al dividendo. Con 50 y divisor 8, el mayor múltiplo es 48 = 8 × 6, así que el cociente es 6 y el residuo es 50 − 48 = 2. El residuo 2 es menor que 8, lo que confirma que el reparto es correcto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Numerico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué afirmación corrige mejor ese error?",
+      "context": "En Cúcuta, un estudiante afirma que en una división el residuo puede ser igual al divisor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es cierto, el residuo puede ser igual al divisor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repites la idea equivocada, porque un residuo igual al divisor indicaría que aún se puede repartir."
+        },
+        {
+          "letter": "B",
+          "text": "Es cierto cuando el dividendo es grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño del dividendo no cambia la regla: el residuo siempre es menor que el divisor."
+        },
+        {
+          "letter": "C",
+          "text": "El residuo siempre es cero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchas divisiones tienen residuo distinto de cero; lo que siempre se cumple es que el residuo es menor que el divisor."
+        },
+        {
+          "letter": "D",
+          "text": "Es falso, porque si el residuo alcanza al divisor se puede repartir una vez más",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el residuo llega a valer el divisor, todavía cabe una unidad más en cada grupo, así que el residuo debe ser menor que el divisor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El residuo representa lo que sobra después de repartir todo lo posible. Si el residuo fuera igual al divisor, quedaría una cantidad suficiente para dar una unidad más a cada grupo, lo que contradice que el reparto ya esté completo. Por eso la regla exige que el residuo sea siempre menor que el divisor.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Numerico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W24-division-y-residuo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
