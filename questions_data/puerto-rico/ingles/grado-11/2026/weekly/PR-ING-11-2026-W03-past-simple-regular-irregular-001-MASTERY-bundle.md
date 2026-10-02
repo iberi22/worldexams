@@ -34,13 +34,13 @@ Which sentence uses the past simple correctly?
 
 ### Opciones
 - [x] A) They walked to the beach yesterday.
-  <!-- feedback: Correcto. 'Walked' es el pasado simple regular, con el sufijo -ed detras de una consonante. -->
+  <!-- feedback: Correct. 'Walked' is the regular past simple, with the -ed suffix after a consonant. -->
 - [ ] B) They walk to the beach yesterday.
-  <!-- feedback: Incorrecto. 'Walk' es la forma base; la marca 'yesterday' obliga al pasado simple con terminacion -ed. -->
+  <!-- feedback: Incorrect. 'Walk' is the base form; the marker 'yesterday' requires the past simple with the -ed ending. -->
 - [ ] C) They are walked to the beach yesterday.
-  <!-- feedback: Incorrecto. 'Are walked' mezcla el presente continuo con el pasado simple, y no corresponde a ninguna forma valida. -->
+  <!-- feedback: Incorrect. 'Are walked' mixes the present continuous with the past simple and is not a valid form. -->
 - [ ] D) They walking to the beach yesterday.
-  <!-- feedback: Incorrecto. 'Walking' es el gerundio del presente continuo y no puede ocupar el lugar del verbo principal en pasado. -->
+  <!-- feedback: Incorrect. 'Walking' is the -ing form of the present continuous and can't take the place of the main verb in the past. -->
 
 ### Explicacion Pedagogica
 Los verbos regulares forman el pasado simple anadiendo -ed al verbo base. Es el unico tiempo verbal que se construye solo con la raiz del verbo, sin ningun auxiliar, por eso el orden sujeto mas verbo se mantiene intacto.
@@ -59,13 +59,13 @@ Complete the sentence: 'We ____ (study) for the exam all last week.'
 
 ### Opciones
 - [ ] A) studyed
-  <!-- feedback: Incorrecto. La -y consonantal se convierte en -i, de modo que escribir 'studyed' no corresponde a ninguna regla. -->
+  <!-- feedback: Incorrect. The consonant -y changes to -i, so writing 'studyed' doesn't follow any rule. -->
 - [ ] B) study
-  <!-- feedback: Incorrecto. 'Study' es la forma base presente y no lleva la terminacion -ed que exige el pasado simple. -->
+  <!-- feedback: Incorrect. 'Study' is the present base form and lacks the -ed ending that the past simple requires. -->
 - [x] C) studied
-  <!-- feedback: Correcto. Un verbo terminado en consonante mas -y cambia la -y por -i antes de añadir -ed. -->
+  <!-- feedback: Correct. A verb ending in a consonant plus -y changes the -y to -i before adding -ed. -->
 - [ ] D) studys
-  <!-- feedback: Incorrecto. Falta la -e del sufijo: el pasado simple regular termina siempre en -ed o -d. -->
+  <!-- feedback: Incorrect. The -e of the suffix is missing: the regular past simple always ends in -ed or -d. -->
 
 ### Explicacion Pedagogica
 La ortografia del pasado simple tiene una regla util para los verbos terminados en consonante y -y. En ese caso la -y se cambia por -i y despues se anade -ed, como en 'study' que da 'studied'. Si la vocal anterior es una a, se conserva la -y.
@@ -84,13 +84,13 @@ Complete the sentence: 'He ____ (go) to Ponce last Saturday.'
 
 ### Opciones
 - [ ] A) goed
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce una forma del ingles; 'go' debe aprenderse aparte. -->
+  <!-- feedback: Incorrect. Adding -ed to an irregular verb doesn't produce an English form; 'go' must be learned separately. -->
 - [x] B) went
-  <!-- feedback: Correcto. 'To go' es irregular y su pasado simple es 'went', sin terminacion -ed. -->
+  <!-- feedback: Correct. 'To go' is irregular and its past simple is 'went', without an -ed ending. -->
 - [ ] C) gone
-  <!-- feedback: Incorrecto. 'Gone' es el participio pasado, que se usa con 'have' o en pasiva, no como verbo principal en pasado simple. -->
+  <!-- feedback: Incorrect. 'Gone' is the past participle, used with 'have' or in the passive, not as a main verb in the past simple. -->
 - [ ] D) going
-  <!-- feedback: Incorrecto. 'Going' pertenece al presente continuo y ademas necesita el auxiliar 'was' para ser valido. -->
+  <!-- feedback: Incorrect. 'Going' belongs to the present continuous and also needs the auxiliary 'was' to be valid. -->
 
 ### Explicacion Pedagogica
 Los verbos irregulares no siguen la regla de anadir -ed y deben aprenderse de memoria. Los mas frecuentes son 'to go', 'to see' y 'to take'. Una forma como 'goed' demuestra que el verbo es irregular y no se puede derivar.
@@ -109,13 +109,13 @@ Choose the correct negative: 'I ____ (not / see) the doctor yesterday.'
 
 ### Opciones
 - [ ] A) didn't saw
-  <!-- feedback: Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base, de modo que corresponde 'see' y no 'saw'. -->
+  <!-- feedback: Incorrect. After 'didn't' the verb goes back to the base form, so it should be 'see', not 'saw'. -->
 - [ ] B) don't see
-  <!-- feedback: Incorrecto. 'Don't' es el negativo del presente simple, y el enunciado ya situa la accion en el pasado. -->
+  <!-- feedback: Incorrect. 'Don't' is the present simple negative, and the sentence already places the action in the past. -->
 - [ ] C) not saw
-  <!-- feedback: Incorrecto. Falta el auxiliar 'did', que es obligatorio en toda frase negativa de pasado simple. -->
+  <!-- feedback: Incorrect. The auxiliary 'did' is missing, and it is required in every negative past simple sentence. -->
 - [x] D) didn't see
-  <!-- feedback: Correcto. El pasado simple negativo usa 'did not' o 'didn't' delante del verbo en forma base. -->
+  <!-- feedback: Correct. The negative past simple uses 'did not' or 'didn't' before the verb in its base form. -->
 
 ### Explicacion Pedagogica
 En pasado simple el negativo se forma siempre con 'did not' o 'didn't', y el verbo principal vuelve a su forma base. Esa es la trampa principal de la unidad: el auxiliar ya marca el pasado, asi que anadir la terminacion del pasado seria incorrecto.
@@ -134,13 +134,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) Do you finished the project last week?
-  <!-- feedback: Incorrecto. 'Do' es el auxiliar del presente simple y ademas el verbo lleva la terminacion incorrecta. -->
+  <!-- feedback: Incorrect. 'Do' is the present simple auxiliary, and the verb also has the wrong ending. -->
 - [ ] B) Did you finished the project last week?
-  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base, de modo que la terminacion -ed sobra y produce una frase invalida. -->
+  <!-- feedback: Incorrect. After 'did' the verb goes back to the base form, so the -ed ending is unnecessary and makes the sentence invalid. -->
 - [ ] C) Was you finish the project last week?
-  <!-- feedback: Incorrecto. 'Was' corresponde al verbo 'to be' y no admite el verbo principal en forma base detras. -->
+  <!-- feedback: Incorrect. 'Was' belongs to the verb 'to be' and can't be followed by the main verb in its base form. -->
 - [x] D) Did you finish the project last week?
-  <!-- feedback: Correcto. La pregunta en pasado simple abre con 'Did' y el verbo principal queda en forma base. -->
+  <!-- feedback: Correct. A past simple question opens with 'Did', and the main verb stays in the base form. -->
 
 ### Explicacion Pedagogica
 Las preguntas de pasado simple se forman con 'did' al principio y el verbo principal en forma base. Igual que en el negativo, el auxiliar ya aporta la marca de pasado y el verbo no la repite. Este patron se repite en todas las preguntas de la unidad.
@@ -159,13 +159,13 @@ Complete the sentence: 'They ____ (be) at the party last night.'
 
 ### Opciones
 - [ ] A) was
-  <!-- feedback: Incorrecto. 'Was' corresponde a la primera y tercera persona del singular, no al sujeto plural 'they'. -->
+  <!-- feedback: Incorrect. 'Was' goes with the first and third person singular, not with the plural subject 'they'. -->
 - [x] B) were
-  <!-- feedback: Correcto. Con el sujeto 'they' el pasado de 'to be' es 'were', y 'last night' confirma el tiempo verbal. -->
+  <!-- feedback: Correct. With the subject 'they' the past of 'to be' is 'were', and 'last night' confirms the tense. -->
 - [ ] C) are
-  <!-- feedback: Incorrecto. 'Are' es presente, y por lo tanto no concuerda con la marca temporal 'last night'. -->
+  <!-- feedback: Incorrect. 'Are' is present, so it doesn't agree with the time marker 'last night'. -->
 - [ ] D) be
-  <!-- feedback: Incorrecto. 'Be' es la forma base del verbo y necesita una forma conjugada para funcionar como verbo principal. -->
+  <!-- feedback: Incorrect. 'Be' is the base form of the verb and needs a conjugated form to work as the main verb. -->
 
 ### Explicacion Pedagogica
 El pasado simple de 'to be' tiene solo dos formas: 'was' para I, he, she e it, y 'were' para you, we, they. Es el verbo irregular mas frecuente del idioma y aparece en casi todos los ejercicios de pasado.
@@ -184,13 +184,13 @@ Which is the correct past simple form of the verb 'to stop'?
 
 ### Opciones
 - [x] A) stopped
-  <!-- feedback: Correcto. Cuando el verbo termina en vocal breve tensa y consonante se duplica la consonante y despues se anade -ed. -->
+  <!-- feedback: Correct. When the verb ends in a short stressed vowel plus a consonant, the consonant is doubled and then -ed is added. -->
 - [ ] B) stoped
-  <!-- feedback: Incorrecto. Sin duplicar la -p la palabra perderia la vocal breve y sonaria distinta; la regla exige la doble consonante. -->
+  <!-- feedback: Incorrect. Without doubling the -p, the word would lose its short vowel and sound different; the rule requires the double consonant. -->
 - [ ] C) stoppes
-  <!-- feedback: Incorrecto. 'Stoppes' duplica la -p y anade una -e final, y ninguna regla del pasado simple produce esa forma. -->
+  <!-- feedback: Incorrect. 'Stoppes' doubles the -p and adds a final -e, and no past simple rule produces that form. -->
 - [ ] D) stopt
-  <!-- feedback: Incorrecto. 'Stopt' no existe; el pasado simple regular siempre termina en -ed o -d. -->
+  <!-- feedback: Incorrect. 'Stopt' doesn't exist; the regular past simple always ends in -ed or -d. -->
 
 ### Explicacion Pedagogica
 La duplicacion de consonante en pasado simple ocurre tras vocal breve tensa, como en 'stop' que da 'stopped' o 'plan' que da 'planned'. Si la vocal es larga no se duplica, como en 'look' que da 'looked' o 'call' que da 'called'.
@@ -209,13 +209,13 @@ Complete the sentence: 'She ____ (write) three emails last night.'
 
 ### Opciones
 - [ ] A) writed
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no forma parte del ingles, y 'wrote' es la unica forma aceptada. -->
+  <!-- feedback: Incorrect. Adding -ed to an irregular verb isn't correct English, and 'wrote' is the only accepted form. -->
 - [ ] B) written
-  <!-- feedback: Incorrecto. 'Written' es el participio pasado, que se usa con 'have written' y nunca solo como verbo principal en pasado. -->
+  <!-- feedback: Incorrect. 'Written' is the past participle, used in 'have written' and never on its own as a main verb in the past. -->
 - [x] C) wrote
-  <!-- feedback: Correcto. El pasado simple de 'to write' es 'wrote', que se confunde con 'to ride' pero se escribe con -o-. -->
+  <!-- feedback: Correct. The past simple of 'to write' is 'wrote', which is often confused with 'to ride' but is spelled with -o-. -->
 - [ ] D) write
-  <!-- feedback: Incorrecto. 'Write' es la forma base y no lleva ninguna marca de pasado; falta el verbo conjugado o el auxiliar 'did'. -->
+  <!-- feedback: Incorrect. 'Write' is the base form and carries no past marker; the conjugated verb or the auxiliary 'did' is missing. -->
 
 ### Explicacion Pedagogica
 El pasado simple irregulares suele terminar en vocal y comparte terminacion con otros verbos. 'To write' y 'to ride' dan 'wrote' y 'rode', mientras que 'to speak' y 'to break' dan 'spoke' y 'broke'. Memorizar las familias completas es mas eficiente que aprenderlas sueltas.
@@ -234,13 +234,13 @@ Choose the correct tag: 'He finished the exam, ____?'
 
 ### Opciones
 - [ ] A) doesn't he
-  <!-- feedback: Incorrecto. 'Doesn't' es el auxiliar del presente simple, y la frase principal esta en pasado. -->
+  <!-- feedback: Incorrect. 'Doesn't' is the present simple auxiliary, and the main clause is in the past. -->
 - [ ] B) wasn't he
-  <!-- feedback: Incorrecto. 'Wasn't' pertenece al verbo 'to be', y aqui el verbo principal es 'finished'. -->
+  <!-- feedback: Incorrect. 'Wasn't' belongs to the verb 'to be', and here the main verb is 'finished'. -->
 - [x] C) didn't he
-  <!-- feedback: Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar 'did' es el que corresponde al pasado simple. -->
+  <!-- feedback: Correct. A positive statement takes a negative tag, and 'did' is the auxiliary that goes with the past simple. -->
 - [ ] D) did he not
-  <!-- feedback: Incorrecto. El tag debe invertir la polaridad placing el auxiliar antes del pronombre, no despues. -->
+  <!-- feedback: Incorrect. The tag must reverse the polarity by placing the auxiliary before the pronoun, not after it. -->
 
 ### Explicacion Pedagogica
 El question tag del pasado simple se construye con 'did' seguido del pronombre y de la forma contracta 'not'. En afirmativo el tag es 'did he' y en negativo es 'didn't he'. El orden siempre es auxiliar, pronombre y negacion.
@@ -259,13 +259,13 @@ Complete the sentence: 'They ____ (eat) at the restaurant before the concert.'
 
 ### Opciones
 - [x] A) ate
-  <!-- feedback: Correcto. El pasado simple de 'to eat' es 'ate', una forma totalmente irregular que hay que memorizar. -->
+  <!-- feedback: Correct. The past simple of 'to eat' is 'ate', a completely irregular form that has to be memorized. -->
 - [ ] B) eated
-  <!-- feedback: Incorrecto. Ningun verbo del ingles forma su pasado anadiendo -ed a 'eat', porque es irregular. -->
+  <!-- feedback: Incorrect. English never forms the past of 'eat' by adding -ed, because it is irregular. -->
 - [ ] C) eaten
-  <!-- feedback: Incorrecto. 'Eaten' es el participio pasado, que necesita 'have' delante para formar el pasado perfecto. -->
+  <!-- feedback: Incorrect. 'Eaten' is the past participle, which needs 'have' in front of it to form the present perfect. -->
 - [ ] D) eat
-  <!-- feedback: Incorrecto. Es la forma base; sin 'did' ni forma conjugada la frase no expresa una accion pasada concreta. -->
+  <!-- feedback: Incorrect. This is the base form; without 'did' or a conjugated form, the sentence does not express a specific past action. -->
 
 ### Explicacion Pedagogica
 Los verbos irregulares del pasado tienen tres familias principales. Los terminados en -t como 'eat' dan 'ate', los terminados en -o como 'go' dan 'went' y los terminados en -d como 'build' dan 'built'. Reconocer la familia acelera la memorizacion.
@@ -284,13 +284,13 @@ Complete the sentence: 'We ____ (have) a good time at the carnival.'
 
 ### Opciones
 - [ ] A) haved
-  <!-- feedback: Incorrecto. 'Haved' no existe en ingles; 'to have' es irregular y su pasado es 'had'. -->
+  <!-- feedback: Incorrect. 'Haved' does not exist in English; 'to have' is irregular and its past is 'had'. -->
 - [ ] B) haveed
-  <!-- feedback: Incorrecto. Anadir -ed a 'have' no produce una forma valida, aunque 'have' funcione como auxiliar en otros tiempos. -->
+  <!-- feedback: Incorrect. Adding -ed to 'have' does not produce a valid form, even though 'have' works as an auxiliary in other tenses. -->
 - [ ] C) hade
-  <!-- feedback: Incorrecto. 'Hade' no es una forma verbal del pasado simple; el pasado de 'to have' es siempre 'had'. -->
+  <!-- feedback: Incorrect. 'Hade' is not a past simple verb form; the past of 'to have' is always 'had'. -->
 - [x] D) had
-  <!-- feedback: Correcto. El pasado simple de 'to have' es 'had', la misma forma que sirve para todas las personas del singular y del plural. -->
+  <!-- feedback: Correct. The past simple of 'to have' is 'had', the same form for all persons, singular and plural. -->
 
 ### Explicacion Pedagogica
 El pasado simple de 'to have' es 'had', y a diferencia de 'to be' no distingue entre singular y plural. Esa misma forma 'had' aparece tambien como auxiliar del pasado perfecto, por lo que conviene reconocer el contexto para no confundirlas.
@@ -309,13 +309,13 @@ Complete the sentence: 'It ____ (not / be) cloudy yesterday afternoon.'
 
 ### Opciones
 - [ ] A) weren't
-  <!-- feedback: Incorrecto. 'Weren't' corresponde a un sujeto plural, y el sujeto de la oracion es 'it' en singular. -->
+  <!-- feedback: Incorrect. 'Weren't' goes with a plural subject, and the subject of the sentence is singular 'it'. -->
 - [x] B) wasn't
-  <!-- feedback: Correcto. El negativo del pasado de 'to be' con el sujeto 'it' se forma con 'was not' o 'wasn't'. -->
+  <!-- feedback: Correct. The past negative of 'to be' with the subject 'it' is formed with 'was not' or 'wasn't'. -->
 - [ ] C) didn't
-  <!-- feedback: Incorrecto. 'Didn't' solo se usa con verbos de accion en forma base, nunca con 'to be'. -->
+  <!-- feedback: Incorrect. 'Didn't' is only used with action verbs in the base form, never with 'to be'. -->
 - [ ] D) isn't
-  <!-- feedback: Incorrecto. 'Isn't' es presente; la marca 'yesterday afternoon' exige la forma del pasado. -->
+  <!-- feedback: Incorrect. 'Isn't' is present; the time marker 'yesterday afternoon' requires the past form. -->
 
 ### Explicacion Pedagogica
 El pasado de 'to be' se niega con 'not' detras de la forma 'was' o 'were'. Los auxiliares 'did' no participan nunca con 'to be', porque ese verbo ya es irregular por completo y forma el pasado por sí mismo.
@@ -334,13 +334,13 @@ Complete the sentence: 'He ____ (carry) the boxes to the truck.'
 
 ### Opciones
 - [ ] A) caried
-  <!-- feedback: Incorrecto. La vocal larga 'a' mantiene la -y en el pasado, y escribir 'caried' corresponde a un hablante no nativo. -->
+  <!-- feedback: Incorrect. The long vowel 'a' keeps the -y in the past, and spelling it 'caried' is a non-native speaker's mistake. -->
 - [x] B) carried
-  <!-- feedback: Correcto. Con vocal larga antes de la -y se conserva la -y y solo se anade -ed, como en 'carried'. -->
+  <!-- feedback: Correct. When a long vowel comes before the -y, the -y is kept and only -ed is added, as in 'carried'. -->
 - [ ] C) caryed
-  <!-- feedback: Incorrecto. No se cambia la -y por -i cuando la vocal anterior es una a, y 'caryed' no es una forma del ingles. -->
+  <!-- feedback: Incorrect. The -y is not changed to -i when the preceding vowel is an a, and 'caryed' is not an English form. -->
 - [ ] D) carryed
-  <!-- feedback: Incorrecto. Un verbo terminado en -y nunca anade -ed de forma directa cuando la y es consonantal o va precedida de vocal larga. -->
+  <!-- feedback: Incorrect. A verb ending in -y never adds -ed directly when the y is consonantal or preceded by a long vowel. -->
 
 ### Explicacion Pedagogica
 La -y del pasado simple se convierte en -i solo cuando la consonante o vocal anterior no es una 'a'. Si la -y va precedida de vocal larga se conserva, como en 'play' que da 'played' o 'enjoy' que da 'enjoyed'.
@@ -359,13 +359,13 @@ Complete the sentence: 'The committee ____ (decide) the date last Tuesday.'
 
 ### Opciones
 - [ ] A) decidded
-  <!-- feedback: Incorrecto. La vocal de 'decide' es larga, de modo que no se duplica la -d al anadir -ed. -->
+  <!-- feedback: Incorrect. The vowel in 'decide' is long, so the -d is not doubled when adding -ed. -->
 - [ ] B) decied
-  <!-- feedback: Incorrecto. Falta la -d final, y el pasado simple regular siempre termina en -ed o -d. -->
+  <!-- feedback: Incorrect. The final -d is missing, and the regular past simple always ends in -ed or -d. -->
 - [ ] C) decidedd
-  <!-- feedback: Incorrecto. Doble -d no corresponde a ninguna regla; el termino correcto es 'decided' con una sola -d final. -->
+  <!-- feedback: Incorrect. A double -d does not follow any rule; the correct form is 'decided' with a single final -d. -->
 - [x] D) decided
-  <!-- feedback: Correcto. 'Decided' es un pasado regular y termina en -ed, por lo que el sufijo no altera la pronunciacion de la -d. -->
+  <!-- feedback: Correct. 'Decided' is a regular past form ending in -ed, so the suffix does not change the pronunciation of the -d. -->
 
 ### Explicacion Pedagogica
 Cuando el verbo ya termina en -e o en -d, el pasado simple solo necesita la -d del sufijo. Asi 'decide' da 'decided', 'like' da 'liked' y 'need' da 'needed'. No hay que duplicar nada en estos casos.
@@ -384,13 +384,13 @@ Complete the sentence: 'I ____ (do) my homework before dinner yesterday.'
 
 ### Opciones
 - [ ] A) doed
-  <!-- feedback: Incorrecto. Ninguna forma del ingles contiene 'doed'; el pasado de 'to do' es 'did'. -->
+  <!-- feedback: Incorrect. 'Doed' is not an English form; the past of 'to do' is 'did'. -->
 - [ ] B) done
-  <!-- feedback: Incorrecto. 'Done' es el participio pasado y necesita 'have' delante, como en 'I have done it'. -->
+  <!-- feedback: Incorrect. 'Done' is the past participle and needs 'have' in front of it, as in 'I have done it'. -->
 - [x] C) did
-  <!-- feedback: Correcto. El pasado simple de 'to do' es 'did', y no lleva terminacion -ed ni ningun auxiliar delante. -->
+  <!-- feedback: Correct. The past simple of 'to do' is 'did', with no -ed ending and no auxiliary in front. -->
 - [ ] D) do
-  <!-- feedback: Incorrecto. Es la forma base del verbo y no expresa el pasado, ademas la frase ya lleva 'yesterday'. -->
+  <!-- feedback: Incorrect. This is the base form of the verb and does not express the past, and the sentence already contains 'yesterday'. -->
 
 ### Explicacion Pedagogica
 'To do' es uno de los verbos irregulares mas usados y su pasado simple es 'did'. Conviene no confundirlo con 'done', que es el participio pasado. La diferencia se ve en el auxiliar: solo el pasado usa 'did' como verbo principal.
@@ -409,13 +409,13 @@ Question: 'Did you call the doctor?' Answer: '____'
 
 ### Opciones
 - [x] A) Yes, I did.
-  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'did' de la pregunta, que es la forma esperada en pasado simple. -->
+  <!-- feedback: Correct. The short answer repeats the auxiliary 'did' from the question, which is the expected form in the past simple. -->
 - [ ] B) Yes, I was.
-  <!-- feedback: Incorrecto. 'Was' responde a preguntas con 'to be' y no concuerda con el auxiliar 'did' de la pregunta. -->
+  <!-- feedback: Incorrect. 'Was' answers questions with 'to be' and does not match the auxiliary 'did' in the question. -->
 - [ ] C) Yes, I called.
-  <!-- feedback: Incorrecto. Es una respuesta valida pero no es corta; la forma esperada repite el auxiliar, no el verbo principal. -->
+  <!-- feedback: Incorrect. It is a valid answer but not a short one; the expected form repeats the auxiliary, not the main verb. -->
 - [ ] D) Yes, I do.
-  <!-- feedback: Incorrecto. 'Do' es la respuesta corta del presente simple y no corresponde a una pregunta con 'did'. -->
+  <!-- feedback: Incorrect. 'Do' is the present simple short answer and does not match a question with 'did'. -->
 
 ### Explicacion Pedagogica
 Las respuestas cortas en pasado simple usan el mismo auxiliar que la pregunta. Como la pregunta abre con 'did', la respuesta abre con 'did' y el verbo principal se omite. Ese es el criterio para elegir entre 'did', 'was' y 'do'.
@@ -434,13 +434,13 @@ Complete the sentence: 'They ____ (break) the window when the ball hit it.'
 
 ### Opciones
 - [x] A) broke
-  <!-- feedback: Correcto. El pasado simple de 'to break' es 'broke', que comparte terminacion con 'to speak', 'to drive' y 'to rise'. -->
+  <!-- feedback: Correct. The past simple of 'to break' is 'broke', which shares its ending with 'to speak', 'to drive' and 'to rise'. -->
 - [ ] B) breaked
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce una forma valida del ingles. -->
+  <!-- feedback: Incorrect. Adding -ed to an irregular verb does not produce a valid English form. -->
 - [ ] C) broken
-  <!-- feedback: Incorrecto. 'Broken' es el participio pasado, que se emplea con 'have broken' y no como verbo principal solo. -->
+  <!-- feedback: Incorrect. 'Broken' is the past participle, used in 'have broken', not on its own as a main verb. -->
 - [ ] D) break
-  <!-- feedback: Incorrecto. Es la forma base y la frase no lleva 'did', de modo que no hay marca alguna de pasado. -->
+  <!-- feedback: Incorrect. This is the base form, and the sentence has no 'did', so there is no past marker at all. -->
 
 ### Explicacion Pedagogica
 La terminacion -oke del pasado irregular es muy productiva. La comparten 'to break', 'to speak', 'to drive', 'to wake' y 'to choose'. Identificar la familia evita tener que memorizar cada verbo por separado.
@@ -459,13 +459,13 @@ Complete the sentence: 'The students ____ (take) the exam on Monday morning.'
 
 ### Opciones
 - [ ] A) takeed
-  <!-- feedback: Incorrecto. El verbo 'to take' es irregular y no admite la terminacion -ed del pasado regular. -->
+  <!-- feedback: Incorrect. The verb 'to take' is irregular and does not take the regular past -ed ending. -->
 - [ ] B) taken
-  <!-- feedback: Incorrecto. 'Taken' es el participio pasado y requiere el auxiliar 'have' para construir el pasado perfecto. -->
+  <!-- feedback: Incorrect. 'Taken' is the past participle and requires the auxiliary 'have' to form the present perfect. -->
 - [ ] C) taked
-  <!-- feedback: Incorrecto. 'Taked' no existe en ingles; la forma correcta del pasado simple es 'took'. -->
+  <!-- feedback: Incorrect. 'Taked' does not exist in English; the correct past simple form is 'took'. -->
 - [x] D) took
-  <!-- feedback: Correcto. El pasado simple de 'to take' es 'took', una forma irregular que se parece al presente pero con vocal larga. -->
+  <!-- feedback: Correct. The past simple of 'to take' is 'took', an irregular form that looks like the present but has a long vowel. -->
 
 ### Explicacion Pedagogica
 Varios verbos irregulares forman su pasado con una vocal larga en lugar de terminacion. 'To take' da 'took', 'to speak' da 'spoke' y 'to break' da 'broke'. Son las formas que mas errores producen por parecerse a las del presente.
@@ -484,13 +484,13 @@ Which sentence uses the past simple of the verb 'to be' correctly?
 
 ### Opciones
 - [ ] A) She didn't ready for the test.
-  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base, y 'ready' es un adjetivo, no un verbo. -->
+  <!-- feedback: Incorrect. After 'did' the verb goes back to the base form, and 'ready' is an adjective, not a verb. -->
 - [x] B) She wasn't ready for the test.
-  <!-- feedback: Correcto. 'Wasn't' es la forma contracta de 'was not' y corresponde al pasado con sujeto singular. -->
+  <!-- feedback: Correct. 'Wasn't' is the contracted form of 'was not' and is the past form for a singular subject. -->
 - [ ] C) She wasn't be ready for the test.
-  <!-- feedback: Incorrecto. El pasado de 'to be' ya es una forma completa, de modo que sobra la forma base 'be' detras. -->
+  <!-- feedback: Incorrect. The past of 'to be' is already a complete form, so the base form 'be' after it is unnecessary. -->
 - [ ] D) She isn't ready for the test yesterday.
-  <!-- feedback: Incorrecto. 'Isn't' es presente y contradice la marca temporal 'yesterday' de la oracion. -->
+  <!-- feedback: Incorrect. 'Isn't' is present and contradicts the time marker 'yesterday' in the sentence. -->
 
 ### Explicacion Pedagogica
 Con 'to be' el pasado simple es 'was' o 'were' y no lleva auxiliar 'did' delante. El verbo 'to be' tiene su propio sistema de pasado, por eso un adjetivo como 'ready' se coloca directamente despues sin ninguna forma verbal adicional.
@@ -509,13 +509,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) She moves to Mayaguez two years ago.
-  <!-- feedback: Incorrecto. 'Moves' es presente simple y no concuerda con una expresion que situa la accion en el pasado. -->
+  <!-- feedback: Incorrect. 'Moves' is present simple and does not agree with an expression that places the action in the past. -->
 - [ ] B) She is moving to Mayaguez two years ago.
-  <!-- feedback: Incorrecto. El presente continuo con 'ago' es incorrecto, porque la accion ya ocurrio y no esta en curso. -->
+  <!-- feedback: Incorrect. The present continuous cannot be used with 'ago', because the action has already happened and is not in progress. -->
 - [x] C) She moved to Mayaguez two years ago.
-  <!-- feedback: Correcto. 'Two years ago' es una expresion de pasado y el verbo 'moved' responde a esa marca temporal. -->
+  <!-- feedback: Correct. 'Two years ago' is a past time expression, and the verb 'moved' matches that time marker. -->
 - [ ] D) She moved to Mayaguez two years ago tomorrow.
-  <!-- feedback: Incorrecto. 'Ago' y 'tomorrow' se contradicen; las dos expresiones de tiempo no pueden coexistir. -->
+  <!-- feedback: Incorrect. 'Ago' and 'tomorrow' contradict each other; the two time expressions cannot appear together. -->
 
 ### Explicacion Pedagogica
 Las expresiones de tiempo guian la eleccion del tiempo verbal. 'Ago', 'yesterday' y 'last' exigen pasado simple, mientras que 'tomorrow' y 'next week' piden futuro. Reconocer la marca antes de conjugar evita la mayoria de los errores de esta unidad.
