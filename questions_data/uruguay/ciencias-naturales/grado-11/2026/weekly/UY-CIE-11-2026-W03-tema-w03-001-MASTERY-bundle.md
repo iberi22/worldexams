@@ -191,20 +191,20 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 **Expected_Success:** 0.60
 **Contexto:** Para el proyecto final de ciencias en el Liceo Piloto de Tacuarembó, Nicolás investiga acerca de los lisosomas y digestión celular.
 ### Enunciado
-¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
+Una célula termina de digerir una bacteria dentro de una vesícula y esa vesícula se fusiona con la membrana del núcleo. ¿Qué consecuencia tiene para la célula?
 
 ### Opciones
-- [x] C) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
-  <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
-  <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
-  <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
-- [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
-  <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->
+- [ ] A) El material digerido se vierte en el núcleo y pasa a formar parte del ADN.
+  <!-- feedback: Los productos de la digestión intracelular llegan al citoplasma y alimentan las rutas metabólicas; no se incorporan al núcleo ni al ADN. -->
+- [x] B) El material digerido se libera en el citoplasma, donde sus productos pueden aprovecharse.
+  <!-- feedback: Al fusionarse la vesícula con la membrana nuclear, el contenido queda en el citoplasma, que es el compartimento donde se usan los componentes recuperados. -->
+- [ ] C) La vesícula se destruye y con ella la membrana nuclear de la célula.
+  <!-- feedback: La fusión de vesículas es un proceso regulado que no destruye la membrana que participa; en este caso la membrana nuclear permanece intacta. -->
+- [ ] D) El contenido digerido se expulsa al exterior mediante exocitosis.
+  <!-- feedback: La exocitosis expulsa material al exterior. Aquí el material queda dentro de la célula, liberado de la vesícula al citoplasma. -->
 
 ### Explicación Pedagógica
-El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Nicolás de Tacuarembó determinó correctamente la respuesta correcta.
+La fagocitosis coloca la bacteria dentro de una vesícula, y la digestión ocurre allí; al fusionarse esa vesícula con la membrana nuclear, sus productos pasan al citoplasma. Nicolás de Tacuarembó entendió que el orden fagocitosis, digestión y fusión es lo que hace posible aprovechar el material.
 
 ---
 ## Question 9 [D5-D6]
@@ -237,20 +237,20 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 **Expected_Success:** 0.58
 **Contexto:** En el taller de Ciencias Naturales en Melo, Felipe observa un modelo experimental de el cloroplasto y la fotosíntesis.
 ### Enunciado
-¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
+En una planta iluminada, la oxigenación del agua ocurre en un compartimento distinto de aquel donde se libera el oxígeno durante las reacciones luminosas. ¿Qué relación existe entre ambos procesos?
 
 ### Opciones
-- [x] C) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
-  <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
-  <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
-- [ ] B) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
-  <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
-- [ ] D) Delimitar el paso de lípidos sintetizados en el retículo liso.
-  <!-- feedback: Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo. -->
+- [ ] A) Son el mismo proceso, porque en ambos casos el agua se oxida y libera oxígeno molecular.
+  <!-- feedback: Si fueran el mismo proceso, el enunciado no podría afirmar que ocurren en compartimentos distintos; la diferencia de ubicación es justamente lo que se pregunta. -->
+- [x] B) Son procesos distintos, y el oxígeno liberado en las reacciones luminosas proviene de la fotólisis del agua.
+  <!-- feedback: La fotólisis del agua ocurre en la membrana de los tilacoides y es la fuente del oxígeno que la fotosíntesis libera; el resto del agua se usa en la síntesis de azúcares. -->
+- [ ] C) Son procesos distintos, y el oxígeno liberado procede de la respiración de la mitocondria.
+  <!-- feedback: La mitocondria consume oxígeno en vez de liberarlo, y la planta no necesita ella para la fotosíntesis, que ocurre en el cloroplasto. -->
+- [ ] D) Son el mismo proceso, y ambos ocurren en la matriz del cloroplasto.
+  <!-- feedback: La matriz cloroplástico es donde ocurre el ciclo de Calvin; la fotólisis del agua corresponde a la membrana de los tilacoides. -->
 
 ### Explicación Pedagógica
-La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Felipe de Melo determinó correctamente la respuesta correcta.
+El oxígeno que la planta libera procede de la fotólisis del agua en la membrana de los tilacoides, distinta de la matriz donde se fija el dióxido de carbono. Felipe de Melo entendió que separar ambos procesos por compartimento explica por qué el agua sirve como fuente de electrones y de oxígeno.
 
 ---
 ## Question 11 [D7-D8]
@@ -306,20 +306,20 @@ El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe,
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 5 de Maldonado, Paula investiga acerca de la respiración celular mitocondrial.
 ### Enunciado
-¿En qué zona de la mitocondria ocurre el ciclo de Krebs durante la respiración celular?
+Una sustancia liposoluble entra en la célula y se acumula en una organela que interviene en la síntesis de lípidos y en la detoxificación de fármacos. ¿De qué organela se trata?
 
 ### Opciones
-- [x] B) En la matriz mitocondrial interna.
-  <!-- feedback: Correcto. El ciclo de Krebs ocurre en la matriz mitocondrial gracias a enzimas solubles específicas. -->
-- [ ] A) En el espacio intermembrana que separa ambas bicapas.
-  <!-- feedback: Incorrecto. En esta zona se acumulan protones transitoriamente para generar el gradiente quimiosmótico. -->
-- [ ] C) En las crestas formadas por la membrana mitocondrial interna.
-  <!-- feedback: Incorrecto. En las crestas se localizan las proteínas de la cadena transportadora de electrones y la ATP sintasa. -->
-- [ ] D) En la membrana mitocondrial externa permeable a iones libres.
-  <!-- feedback: Incorrecto. La membrana externa es una barrera semipermeable de paso de metabolitos primarios. -->
+- [ ] A) Del aparato de Golgi, que empaqueta y ordena las proteínas de secreción.
+  <!-- feedback: El aparato de Golgi organiza y empaca proteínas y lípidos que llegan ya sintetizados; no es la organela que los fabrica ni la que detoxifica fármacos. -->
+- [ ] B) Del retículo endoplasmático rugoso, que presenta los ribosomas a su superficie.
+  <!-- feedback: El retículo rugoso participa en la síntesis de proteínas porque lleva ribosomas; la síntesis de lípidos ocurre en el retículo liso. -->
+- [x] C) Del retículo endoplasmático liso, que carece de ribosomas asociados.
+  <!-- feedback: El retículo endoplasmático liso es una red de túbulos sin ribosomas, y en ella se sintetizan lípidos y se detoxifican sustancias extrañas. -->
+- [ ] D) Del lisosoma, que digiere material con enzimas hidrolíticas ácidas.
+  <!-- feedback: Los lisosomas degradan macromoléculas dentro de un medio ácido; no sintetizan lípidos ni eliminan fármacos del citoplasma. -->
 
 ### Explicación Pedagógica
-La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en sus crestas, optimizando la síntesis de ATP. En este contexto, Paula de Maldonado determinó correctamente la respuesta correcta.
+El retículo endoplasmático liso carece de ribosomas y es la sede de la síntesis lipídica y de la detoxificación de fármacos. Paula de Maldonado identificó la organela por sus dos funciones, que la distinguen del retículo rugoso y del aparato de Golgi.
 
 ---
 ## Question 14 [D7-D8]
@@ -329,20 +329,20 @@ La mitocondria aloja el ciclo de Krebs en la matriz y la cadena respiratoria en 
 **Expected_Success:** 0.38
 **Contexto:** Mientras repasa para el examen parcial en Tacuarembó, Diego estudia detenidamente el cloroplasto y la fotosíntesis.
 ### Enunciado
-¿Cuál es la función del tilacoide en la ultraestructura del cloroplasto?
+Una célula fagocita una bacteria y esa bacteria queda encerrada en una vesícula con un medio interno muy ácido. ¿Qué propiedad de ese medio permite la digestión?
 
 ### Opciones
-- [x] B) Contener los fotosistemas y la cadena de transporte de electrones para la fase luminosa.
-  <!-- feedback: Correcto. La membrana del tilacoide alberga la clorofila y proteínas necesarias para convertir energía solar en química. -->
-- [ ] A) Sintetizar la enzima Rubisco para iniciar el ciclo de Calvin fijador.
-  <!-- feedback: Incorrecto. El ciclo de Calvin y la síntesis de la enzima Rubisco ocurren en el estroma soluble. -->
-- [ ] C) Almacenar el almidón de reserva resultante del metabolismo celular nocturno.
-  <!-- feedback: Incorrecto. Los granos de almidón se acumulan transitoriamente en el estroma, fuera de los tilacoides. -->
-- [ ] D) Delimitar el paso de lípidos sintetizados en el retículo liso.
-  <!-- feedback: Incorrecto. El cloroplasto no se encarga de regular la distribución de grasas del retículo. -->
+- [ ] A) Su elevada concentración de sodio, que activa las enzimas digestivas.
+  <!-- feedback: El medio de los lisosomas es ácido por los protones, no salado: la acidez es la condición que activa sus enzimas hidrolíticas. -->
+- [x] B) Su acidez, que activa las enzimas hidrolíticas que degradan el material.
+  <!-- feedback: Las hidrolasas ácidas funcionan de manera óptima con un pH bajo, y las bombas de protones mantienen esa acidez dentro de la vesícula. -->
+- [ ] C) Su alcalinidad, que impide que las enzimas desnaturalicen con el calor.
+  <!-- feedback: Un medio alcalino no es lo que mantiene la digestión: los lisosomas son ácidos, y esa acidez es precisamente la que permite la degradación del material. -->
+- [ ] D) La ausencia de agua, que evita la hidratación de los sustratos.
+  <!-- feedback: Los lisosomas contienen un medio acuoso: la reacción de sus enzimas hidrolíticas requiere agua para hidrolizar los enlaces del material ingerido. -->
 
 ### Explicación Pedagógica
-La fase luminosa de la fotosíntesis ocurre en las membranas de los tilacoides, liberando oxígeno y generando NADPH y ATP. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.
+El interior de los lisosomas mantiene un pH muy bajo mediante bombas de protones, y esa acidez es la condición que permite que sus enzimas hidrolíticas degraden el material fagocitado. Diego de Tacuarembó entendió que la actividad enzimática depende del medio ácido y no de su salinidad o sequedad.
 
 ---
 ## Question 15 [D7-D8]
@@ -467,26 +467,17 @@ El retículo endoplasmático liso detoxifica xenobióticos mediante enzimas de l
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Tacuarembó, Florencia observa un modelo experimental de los lisosomas y digestión celular.
 ### Enunciado
-¿Qué tipo de ambiente químico interno caracteriza a los lisosomas para permitir su correcto funcionamiento digestivo?
+En una célula, una vesícula que contiene material digerido se acerca a la membrana y libera su contenido fuera de la célula. ¿Cómo se llama ese proceso?
 
 ### Opciones
-- [x] C) Un ambiente ácido mantenido por bombas de protones activas que introducen iones H+.
-  <!-- feedback: Correcto. Las hidrolasas ácidas de los lisosomas requieren un pH óptimo cercano a 5.0 mantenido por bombas de protones. -->
-- [ ] A) Un medio alcalino concentrado con alta saturación de cationes de sodio.
-  <!-- feedback: Incorrecto. Un medio básico desnaturaliza y desactiva las enzimas hidrolíticas lisosomales. -->
-- [ ] B) Una solución neutra isotónica con nula actividad enzimática hidrolítica.
-  <!-- feedback: Incorrecto. A pH neutro celular (~7.2) las enzimas lisosomales pierden eficacia catalítica. -->
-- [ ] D) Un fluido anhidro sin presencia de moléculas de agua reactivas.
-  <!-- feedback: Incorrecto. Las hidrolasas requieren agua para romper enlaces químicos covalentes mediante hidrólisis. -->
+- [x] A) Exocitosis, porque la vesícula se fusiona con la membrana y libera su contenido al exterior.
+  <!-- feedback: En la exocitosis la vesícula se acopla a la membrana plasmática y se abre, de modo que su contenido pasa al medio externo. -->
+- [ ] B) Fagocitosis, porque la célula incorpora material sólido en una vesícula interna.
+  <!-- feedback: La fagocitosis va en sentido contrario: la célula rodea material exterior y lo encierra dentro de una vesícula. -->
+- [ ] C) Ósmosis, porque el agua atraviesa la membrana hacia el medio con más solutos.
+  <!-- feedback: La ósmosis es el paso de agua entre soluciones de distinta concentración de solutos, sin intervención de vesículas. -->
+- [ ] D) Difusión facilitada, porque el material atraviesa proteínas de la membrana.
+  <!-- feedback: La difusión facilitada mueve solutos pequeños a través de proteínas, pero no sacar material en cantidad desde una vesícula interna. -->
 
 ### Explicación Pedagógica
-El bajo pH del lisosoma actúa como sistema de protección celular: si se rompe, las hidrolasas no dañan el citosol neutro. En este contexto, Florencia de Tacuarembó determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La exocitosis es el proceso por el cual una vesícula se une a la membrana plasmática y libera su contenido al exterior, el camino inverso a la fagocitosis. Florencia de Tacuarembó entendió que ambos procesos usan vesículas y se distinguen por su dirección.

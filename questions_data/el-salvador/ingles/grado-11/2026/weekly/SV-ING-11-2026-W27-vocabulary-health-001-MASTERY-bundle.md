@@ -25,460 +25,460 @@ creador: "Jules-Agent"
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v1
-**Bloom:** Apply
+**Bloom:** Remember
 **EJE:** vocabulary health
 **Expected_Success:** 0.80
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+What is 'immunity' in a health context?
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] A) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] C) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [x] B) Protection against a disease
+  <!-- feedback: Immunity is the body's resistance to an infection, which is why it is discussed in terms of protection. -->
+- [ ] A) A medicine taken after an illness
+  <!-- feedback: Treatment given after an illness is therapy, whereas immunity exists before infection. -->
+- [ ] C) The process of recovering naturally
+  <!-- feedback: Natural recovery is part of healing, and it is distinct from the resistance that immunity denotes. -->
+- [ ] D) A check-up at a clinic
+  <!-- feedback: A check-up is an examination, not a physiological resistance to disease. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Health vocabulary separates resistance from response: 'immunity' is the capacity to resist infection, while 'treatment' and 'recovery' describe what happens once illness occurs.
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 3 [D3-D4]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in Soyapango, SV.
-
-### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
-
-### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
-
-### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 4 [D3-D4]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
+**Expected_Success:** 0.80
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+If a symptom is described as 'acute', what does that mean?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [x] A) It appears suddenly and lasts a short time
+  <!-- feedback: 'Acute' contrasts with chronic and describes a condition of rapid onset and brief duration. -->
+- [ ] B) It has persisted for many years
+  <!-- feedback: A long-lasting condition is 'chronic', the direct opposite of 'acute'. -->
+- [ ] C) It is extremely painful
+  <!-- feedback: Pain intensity is a separate dimension; 'acute' concerns duration and speed of onset. -->
+- [ ] D) It cannot be diagnosed
+  <!-- feedback: Diagnosability is unrelated to the term, and most acute conditions are readily identified. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Clinical vocabulary contrasts 'acute' with 'chronic': acute conditions arrive suddenly and resolve quickly, while chronic ones develop slowly and persist.
+
+## Question 3 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v3
+**Bloom:** Understand
+**EJE:** vocabulary health
+**Expected_Success:** 0.75
+**Contexto:** English class in Soyapango, SV.
+
+### Enunciado
+Which sentence is NOT correct in health vocabulary?
+
+### Opciones
+- [x] A) The doctor gave me two informations about the test results.
+  <!-- feedback: 'Information' is uncountable and has no plural form, so 'two informations' is incorrect. -->
+- [ ] B) The doctor gave me some information about the test results.
+  <!-- feedback: 'Some information' is correct because an uncountable noun takes a quantity expression. -->
+- [ ] C) She asked for information about the vaccine.
+  <!-- feedback: 'Information' without an article is the correct form in this request. -->
+- [ ] D) The nurse provided a piece of information about the dosage.
+  <!-- feedback: 'A piece of information' is the standard way of making the uncountable noun countable. -->
+
+### Explicacion Pedagogica
+Uncountable nouns such as 'information', 'advice' and 'research' never take a plural, so counting them requires a phrase such as 'a piece of'.
+
+## Question 4 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** vocabulary health
+**Expected_Success:** 0.80
+**Contexto:** English class in San Salvador, SV.
+
+### Enunciado
+Choose the correct word: 'A balanced diet and exercise are essential to good __________.'
+
+### Opciones
+- [x] A) health
+  <!-- feedback: 'Health' is the noun for the state of the body, and the sentence describes what maintains it. -->
+- [ ] B) healthy
+  <!-- feedback: 'Healthy' is the adjective, and the blank after 'good' requires a noun. -->
+- [ ] C) heal
+  <!-- feedback: 'Heal' is a verb meaning to recover, not a noun that fits this phrase. -->
+- [ ] D) healthiness
+  <!-- feedback: 'Healthiness' is not a standard English word in this context. -->
+
+### Explicacion Pedagogica
+'Health' is the noun and 'healthy' the adjective, and the determiner 'good' in front of the blank signals that a noun is required.
 
 ## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Expected_Success:** 0.75
+**Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What does it mean to 'diagnose' a condition?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [x] B) To identify the disease a patient is suffering from
+  <!-- feedback: A diagnosis is the identification of the illness, and to diagnose is to determine it from symptoms and tests. -->
+- [ ] A) To cure a disease completely
+  <!-- feedback: Curing is treatment, which is a different step that may follow the diagnosis. -->
+- [ ] C) To prevent a disease from occurring
+  <!-- feedback: Prevention happens before illness begins, whereas a diagnosis applies once symptoms are present. -->
+- [ ] D) To prescribe the correct medicine
+  <!-- feedback: Prescribing follows a diagnosis, but the two actions are distinct medical stages. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Medical English names each stage precisely: a diagnosis identifies the condition, treatment acts on it, and prophylaxis prevents it from arising.
 
 ## Question 6 [D5-D6]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
-
-### Opciones
-- [x] A) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] B) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
-
-### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** vocabulary health
-**Expected_Success:** 0.70
+**Expected_Success:** 0.75
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+How do 'symptoms' and 'signs' differ in medical English?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [x] D) Symptoms are felt by the patient, while signs are observed by others
+  <!-- feedback: A symptom is subjective and reported by the patient, whereas a sign is objective and measurable by a clinician. -->
+- [ ] A) Both terms mean exactly the same thing
+  <!-- feedback: The distinction between subjective report and objective observation is standard in medical English. -->
+- [ ] B) Symptoms appear only in children
+  <!-- feedback: The difference is not about age but about who perceives the evidence. -->
+- [ ] C) Signs are always more serious than symptoms
+  <!-- feedback: Severity is independent of the term, since a mild sign and a severe symptom both exist. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Clinical observation separates what the patient reports from what an examiner measures, which is the classical difference between a symptom and a sign.
+
+## Question 7 [D5-D6]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v7
+**Bloom:** Remember
+**EJE:** vocabulary health
+**Expected_Success:** 0.70
+**Contexto:** English class in Santa Ana, SV.
+
+### Enunciado
+What does 'chronic' describe in a medical context?
+
+### Opciones
+- [x] C) A condition that persists over a long period
+  <!-- feedback: 'Chronic' is the standard term for a long-lasting condition, in contrast with 'acute'. -->
+- [ ] A) A condition that begins suddenly
+  <!-- feedback: Sudden onset is the definition of 'acute', the opposite of chronic. -->
+- [ ] B) A condition that is contagious
+  <!-- feedback: Contagion is described as 'infectious' and has no relation to duration. -->
+- [ ] D) A condition that requires surgery
+  <!-- feedback: Surgical need depends on the condition itself, not on how long it has lasted. -->
+
+### Explicacion Pedagogica
+'Chronic' and 'acute' form the standard duration pair in medical English, and a chronic condition is one that persists and requires long-term management.
+
+## Question 8 [D5-D6]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**EJE:** vocabulary health
+**Expected_Success:** 0.70
+**Contexto:** English class in Soyapango, SV.
+
+### Enunciado
+Choose the correct word: 'The clinic specialises in the __________ treatment of allergies.'
+
+### Opciones
+- [x] A) preventive
+  <!-- feedback: 'Preventive' means aimed at stopping disease before it develops, which matches the treatment of allergies. -->
+- [ ] B) prevented
+  <!-- feedback: 'Prevented' is a past participle, and the blank needs an adjective before 'treatment'. -->
+- [ ] C) prevention
+  <!-- feedback: 'Prevention' is a noun and cannot modify 'treatment' directly. -->
+- [ ] D) prevent
+  <!-- feedback: 'Prevent' is the bare verb and does not serve as an adjective before a noun. -->
+
+### Explicacion Pedagogica
+Medical adjectives derive from nouns with the suffix '-ive', and 'preventive treatment' is the fixed collocation describing care that stops a condition before it starts.
 
 ## Question 9 [D5-D6]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v9
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
+**Expected_Success:** 0.70
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+What does a 'vaccination' do?
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] A) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] C) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [x] D) It stimulates the immune system to protect against a disease
+  <!-- feedback: Vaccination exposes the body to antigens so that antibodies develop, which is preventive immunisation. -->
+- [ ] A) It cures an illness that has already developed
+  <!-- feedback: A cure is treatment after onset, whereas a vaccine acts before the disease appears. -->
+- [ ] B) It measures the patient's blood pressure
+  <!-- feedback: Measuring pressure is a diagnostic procedure, not an immunisation. -->
+- [ ] C) It replaces the need for sleep and rest
+  <!-- feedback: Rest and sleep remain necessary, and no vaccine removes that requirement. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Vaccination is a preventive act that prepares the immune system, so it protects against future infection rather than treating an illness already present.
+
+## Question 10 [D5-D6]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v10
+**Bloom:** Apply
+**EJE:** vocabulary health
+**Expected_Success:** 0.70
+**Contexto:** English class in San Miguel, SV.
+
+### Enunciado
+Choose the correct word: 'She is allergic to peanuts, so the doctor advised her to avoid them __________.'
+
+### Opciones
+- [x] A) entirely
+  <!-- feedback: 'Entirely' is an adverb of manner and degree, and the sentence needs one after the verb 'avoid'. -->
+- [ ] B) entire
+  <!-- feedback: 'Entire' is an adjective and cannot modify the verb 'avoid' in this position. -->
+- [ ] C) whole
+  <!-- feedback: 'Whole' is used before a noun, as in 'the whole day', not as an adverb of degree. -->
+- [ ] D) completely avoid
+  <!-- feedback: That would insert a second verb, leaving the sentence with a duplicate and no grammatical slot for it. -->
+
+### Explicacion Pedagogica
+An adverb of degree answers 'how much' and follows the verb it modifies, which is why 'avoid them entirely' is correct and 'avoid them entire' is not.
+
+## Question 11 [D7-D8]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v11
+**Bloom:** Understand
+**EJE:** vocabulary health
+**Expected_Success:** 0.65
+**Contexto:** English class in San Miguel, SV.
+
+### Enunciado
+Read: 'The patient was discharged on Friday, meaning the hospital released him.' What does 'discharged' mean?
+
+### Opciones
+- [x] C) Allowed to leave the hospital
+  <!-- feedback: A discharge ends an admission, so the patient is free to go home or to another setting. -->
+- [ ] A) Sent to a specialist
+  <!-- feedback: A referral sends the patient elsewhere for care, but the patient may still remain admitted. -->
+- [ ] B) Admitted for further tests
+  <!-- feedback: Admission is the opposite of discharge, since it begins a hospital stay. -->
+- [ ] D) Diagnosed with a new condition
+  <!-- feedback: A diagnosis identifies a disease, whereas discharge concerns leaving the institution. -->
+
+### Explicacion Pedagogica
+Institutional healthcare has precise vocabulary, and 'discharge' marks the end of a stay, the counterpart to 'admission' at the start.
 
 ## Question 12 [D7-D8]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v12
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Expected_Success:** 0.65
+**Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+A nurse writes: 'The patient complained of severe headaches.' Why is 'complained of' used?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
+- [x] B) 'Complain of' is the collocation used to report a symptom a patient experiences
+  <!-- feedback: English fixes 'complain of' plus a symptom, and the preposition 'of' is part of that collocation. -->
+- [ ] A) 'Complained of' means the patient recovered
+  <!-- feedback: Recovery is described as 'recovered', which is the opposite of complaining. -->
+- [ ] C) The preposition should be 'about' rather than 'of'
+  <!-- feedback: While 'complain about' exists, reporting a clinical symptom standardly takes 'complain of'. -->
+- [ ] D) 'Complained' should be in the present tense
+  <!-- feedback: 'Complained' is the correct past form, and the tense is not what 'of' is expressing. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Medical reporting depends on set prepositional collocations, and a symptom reported by a patient takes 'complain of' rather than a free choice of preposition.
 
 ## Question 13 [D7-D8]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v13
-**Bloom:** Analyze
+**Bloom:** Apply
 **EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**Expected_Success:** 0.65
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct word: 'The doctor said the treatment had a strong __________ on the infection.'
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [x] A) effect
+  <!-- feedback: 'Have an effect on' is the standard collocation, and the sentence describes the treatment's impact on the infection. -->
+- [ ] B) affect
+  <!-- feedback: 'Affect' is the verb, while the blank requires the noun after 'a strong'. -->
+- [ ] C) effective
+  <!-- feedback: 'Effective' is an adjective and does not follow the noun 'a strong' in this pattern. -->
+- [ ] D) effects
+  <!-- feedback: The plural is wrong because a single influence is being described. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+The noun 'effect' and the verb 'affect' are easily confused, and the phrase 'have an effect on' is the fixed expression clinical English uses to describe an impact.
 
 ## Question 14 [D7-D8]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v14
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
+**Expected_Success:** 0.65
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which sentence uses health vocabulary correctly?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [x] B) She suffers from chronic asthma and takes her inhaler daily.
+  <!-- feedback: 'Suffer from' is the correct collocation for an illness, and 'chronic' properly qualifies a long-term condition. -->
+- [ ] A) She suffers of chronic asthma and takes her inhaler daily.
+  <!-- feedback: 'Suffer' takes 'from', never 'of', when a disease is named. -->
+- [ ] C) She suffers from a chronical asthma and takes her inhaler daily.
+  <!-- feedback: 'Asthma' cannot take the suffix '-al', so the adjective must be 'chronic' without it. -->
+- [ ] D) She is suffering from chronic asthma and takes daily her inhaler.
+  <!-- feedback: The final noun phrase has the wrong word order, since 'daily' normally precedes the object. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Medical collocations are fixed units, so 'suffer from' keeps its preposition and 'chronic' is used without any suffix, since it does not derive from a noun.
 
 ## Question 15 [D7-D8]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Expected_Success:** 0.65
+**Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which sentence uses health vocabulary correctly?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [x] A) You should see a doctor if the pain persists for more than a week.
+  <!-- feedback: 'See a doctor' and 'persists for' are both standard collocations in medical advice. -->
+- [ ] B) You should see a doctor if the pain is persist for more than a week.
+  <!-- feedback: After 'is' the verb must be the -ing form 'persisting', never the base form 'persist'. -->
+- [ ] C) You should see doctor if the pain persists for more than a week.
+  <!-- feedback: The countable noun 'doctor' needs the article 'a' in this first mention. -->
+- [ ] D) You should seeing a doctor if the pain persists for more than a week.
+  <!-- feedback: After a modal such as 'should' the base form is required, so 'see' and not 'seeing'. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Medical advice in English combines the modal 'should' with the base form, keeps the article before a countable noun, and uses 'persist for' with a duration.
 
 ## Question 16 [D7-D8]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Expected_Success:** 0.65
+**Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: 'The nurse measured the patient's __________ before giving the vaccine.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] B) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [x] D) blood pressure
+  <!-- feedback: Blood pressure is routinely measured before an injection, which is exactly the procedure described. -->
+- [ ] A) illness
+  <!-- feedback: An illness cannot be measured with an instrument, so the noun does not fit the verb 'measured'. -->
+- [ ] B) symptom
+  <!-- feedback: Symptoms are observed or reported rather than measured with a device. -->
+- [ ] C) recovery
+  <!-- feedback: Recovery is a process, not a measurable physical quantity. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Selecting vocabulary means matching the noun to the action: only physiological quantities such as blood pressure or temperature are measured in a clinic.
 
 ## Question 17 [D9-D10]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v17
 **Bloom:** Understand
 **EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Expected_Success:** 0.60
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read: 'The drug has a high incidence of side effects in elderly patients.' What does 'incidence' mean here?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] B) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
+- [x] C) How frequently the side effects occur
+  <!-- feedback: 'Incidence' is a rate of occurrence, so the sentence is warning that the effects are common. -->
+- [ ] A) The severity of each side effect
+  <!-- feedback: Severity would be described as 'degree' or 'intensity', not as incidence. -->
+- [ ] B) The price of the medication
+  <!-- feedback: Cost is a financial matter and has no connection to the phrase 'a high incidence of'. -->
+- [ ] D) The number of drugs available
+  <!-- feedback: Availability is a supply question, and nothing in the sentence refers to other medications. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+In medical English 'incidence' is the frequency with which something occurs in a population, which is what a statement about a high rate of side effects reports.
 
 ## Question 18 [D9-D10]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**Expected_Success:** 0.60
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+A student writes: 'My grandfather has a chronical disease and takes many medications.' What is the error?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [x] B) 'Chronic' should not take the suffix '-al', so 'chronical' is incorrect
+  <!-- feedback: 'Chronic' is used as it is in medical English, and adding '-al' produces a non-existent adjective. -->
+- [ ] A) 'Disease' should be plural because 'many' follows
+  <!-- feedback: 'Many' modifies 'medications', not 'disease', and the singular noun is correct. -->
+- [ ] C) 'Medications' should be singular
+  <!-- feedback: The plural is correct here, since 'many' requires a countable plural noun. -->
+- [ ] D) 'Takes' should be 'take' because 'medications' is plural
+  <!-- feedback: The subject is the singular 'grandfather', so the third-person 'takes' is correct. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Medical adjectives are irregular in form: 'chronic' and 'acute' are complete words, so the derivational suffix '-al' cannot be added to them.
 
 ## Question 19 [D9-D10]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v19
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Expected_Success:** 0.60
+**Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which question is formed correctly with health vocabulary?
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] C) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [x] D) How long have you been taking this medication?
+  <!-- feedback: The present perfect continuous is correct for an action that began in the past and still continues. -->
+- [ ] A) How long you have been taking this medication?
+  <!-- feedback: The subject and auxiliary are not inverted, so the direct question is not formed. -->
+- [ ] B) How long do you take this medication?
+  <!-- feedback: 'How long' with 'do' would ask about a habit, not about the duration of a treatment already under way. -->
+- [ ] C) How long are you taken this medication?
+  <!-- feedback: After 'are' the verb must be the -ing form 'taking', and never a past participle in this active sense. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Asking about a duration that runs from the past to the present requires the present perfect continuous, and the question inverts the auxiliary before the subject.
 
 ## Question 20 [D9-D10]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v20
 **Bloom:** Remember
 **EJE:** vocabulary health
-**Expected_Success:** 0.85
+**Expected_Success:** 0.60
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which sentence uses health vocabulary correctly?
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [x] A) The vaccine is effective against most strains of the virus.
+  <!-- feedback: 'Effective against' is the standard collocation, and 'strains' names the variants the protection covers. -->
+- [ ] B) The vaccine is effective for most strains of the virus.
+  <!-- feedback: 'Effective against' is the collocation for resisting something, whereas 'effective for' concerns usefulness. -->
+- [ ] C) The vaccine is effective to most strains of the virus.
+  <!-- feedback: 'To' cannot follow 'effective' in this meaning, since 'against' marks what is resisted. -->
+- [ ] D) The vaccine is effectives against most strains of the virus.
+  <!-- feedback: 'Effectives' is not an English word; the correct forms are the adjective 'effective' and the noun 'effect'. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Medical collocations are fixed, and 'effective against' names the resistance a treatment provides, so the preposition and the adjective form must both be correct.

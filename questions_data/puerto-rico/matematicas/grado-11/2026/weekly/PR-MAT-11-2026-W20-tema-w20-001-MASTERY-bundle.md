@@ -91,16 +91,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** Durante un taller de preparación académica en la Escuela Superior Ana Roque de Duprey de Carolina, Yaritza resuelve un ejercicio propuesto.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(2, -3)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [ ] A) $(2, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] B) $(5, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
-- [x] C) $(6, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] D) $(6, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
+- [x] A) $(4, -6)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=2$ multiplica cada coordenada por $2$: $B' = (2 \times 2, 2 \times -3) = (4, -6)$. -->
+- [ ] B) $(-4, -6)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=2>0$ conserva el signo de cada coordenada. -->
+- [ ] C) $(4, -5)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=2$, con lo que resulta $-6$ y no $-5$. -->
+- [ ] D) $(2, -3)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=2$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \times 3, -2 \times 3) = (6, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 2 \times 2 = 4$ e $y' = 2 \times -3 = -6$, de modo que la imagen es $B' = (4, -6)$ y conserva los signos originales.
 
 ---
 
@@ -135,16 +135,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Yaritza.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(1, -4)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [ ] A) $(2, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] B) $(5, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
-- [x] C) $(6, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] D) $(6, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
+- [ ] A) $(-4, -16)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=4>0$ conserva el signo de cada coordenada. -->
+- [x] B) $(4, -16)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=4$ multiplica cada coordenada por $4$: $B' = (4 \times 1, 4 \times -4) = (4, -16)$. -->
+- [ ] C) $(4, -15)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=4$, con lo que resulta $-16$ y no $-15$. -->
+- [ ] D) $(1, -4)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=4$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \times 3, -2 \times 3) = (6, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 4 \times 1 = 4$ e $y' = 4 \times -4 = -16$, de modo que la imagen es $B' = (4, -16)$ y conserva los signos originales.
 
 ---
 
@@ -242,16 +242,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** En Bayamón, Carlos diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Dra. Concepción Aponte.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 5$ al punto $B(2, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [ ] A) $(2, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] B) $(5, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
-- [x] C) $(6, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] D) $(6, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
+- [ ] A) $(-10, -10)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=5>0$ conserva el signo de cada coordenada. -->
+- [ ] B) $(10, -9)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=5$, con lo que resulta $-10$ y no $-9$. -->
+- [x] C) $(10, -10)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=5$ multiplica cada coordenada por $5$: $B' = (5 \times 2, 5 \times -2) = (10, -10)$. -->
+- [ ] D) $(2, -2)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=5$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(2, -2)$ con $k = 3$, obtenemos $B'(2 \times 3, -2 \times 3) = (6, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 5 \times 2 = 10$ e $y' = 5 \times -2 = -10$, de modo que la imagen es $B' = (10, -10)$ y conserva los signos originales.
 
 ---
 
@@ -284,16 +284,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** Como parte de las olimpiades científicas en Caguas, José aplica conceptos algebraicos en la Escuela Superior José Gautier Benítez.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(3, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 2$ al punto $B(-3, 6)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [ ] A) $(3, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] B) $(6, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
-- [x] C) $(9, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] D) $(9, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
+- [ ] A) $(6, 12)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=2>0$ conserva el signo de cada coordenada. -->
+- [ ] B) $(-6, 13)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=2$, con lo que resulta $12$ y no $13$. -->
+- [ ] C) $(-3, 6)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=2$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
+- [x] D) $(-6, 12)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=2$ multiplica cada coordenada por $2$: $B' = (2 \times -3, 2 \times 6) = (-6, 12)$. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(3, -2)$ con $k = 3$, obtenemos $B'(3 \times 3, -2 \times 3) = (9, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 2 \times -3 = -6$ e $y' = 2 \times 6 = 12$, de modo que la imagen es $B' = (-6, 12)$ y conserva los signos originales.
 
 ---
 
@@ -326,16 +326,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** En Trujillo Alto, Luis estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -1)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [x] A) $(12, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] B) $(12, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
-- [ ] C) $(4, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] D) $(7, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
+- [x] A) $(12, -3)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=3$ multiplica cada coordenada por $3$: $B' = (3 \times 4, 3 \times -1) = (12, -3)$. -->
+- [ ] B) $(-12, -3)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=3>0$ conserva el signo de cada coordenada. -->
+- [ ] C) $(12, -2)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=3$, con lo que resulta $-3$ y no $-2$. -->
+- [ ] D) $(4, -1)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=3$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(4, -2)$ con $k = 3$, obtenemos $B'(4 \times 3, -2 \times 3) = (12, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 3 \times 4 = 12$ e $y' = 3 \times -1 = -3$, de modo que la imagen es $B' = (12, -3)$ y conserva los signos originales.
 
 ---
 
@@ -412,16 +412,16 @@ La regla para una dilatación o homotecia con centro en el origen y factor de es
 **Contexto:** Como parte de las olimpiades científicas en Guaynabo, Luis aplica conceptos algebraicos en la Escuela Superior Margarita Janer Palacios.
 
 ### Enunciado
-Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 3$ al punto $B(4, -2)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
+Si aplicamos una homotecia (dilatación) con centro en el origen y factor de escala $k = 4$ al punto $B(-2, 5)$, ¿cuáles son las coordenadas del punto de la imagen $B'$?
 
 ### Opciones
-- [x] A) $(12, -6)$ <!-- feedback: Correcto. Multiplicando ambas coordenadas por el factor de escala 3. -->
-- [ ] B) $(12, 6)$ <!-- feedback: Incorrecto. Se cambió el signo de la segunda coordenada de forma errónea. -->
-- [ ] C) $(4, -2)$ <!-- feedback: Incorrecto. No se aplicó el factor de escala. -->
-- [ ] D) $(7, -5)$ <!-- feedback: Incorrecto. Se sumó el factor en lugar de multiplicar. -->
+- [ ] A) $(8, 20)$ <!-- feedback: Incorrecto. El signo de la abscisa se invirtió, pero una homotecia con $k=4>0$ conserva el signo de cada coordenada. -->
+- [x] B) $(-8, 20)$ <!-- feedback: Correcto. Una homotecia de centro en el origen y factor $k=4$ multiplica cada coordenada por $4$: $B' = (4 \times -2, 4 \times 5) = (-8, 20)$. -->
+- [ ] C) $(-8, 21)$ <!-- feedback: Incorrecto. Se alteró la ordenada, que también debe multiplicarse por $k=4$, con lo que resulta $20$ y no $21$. -->
+- [ ] D) $(-2, 5)$ <!-- feedback: Incorrecto. Esas son las coordenadas originales: una homotecia con $k=4$ distinto de $1$ desplaza el punto y no lo deja fijo. -->
 
 ### Explicacion Pedagogica
-La regla para una dilatación o homotecia con centro en el origen y factor de escala $k$ es $(x, y) \to (kx, ky)$. Para el punto $B(4, -2)$ con $k = 3$, obtenemos $B'(4 \times 3, -2 \times 3) = (12, -6)$.
+Con el centro en el origen, la homotecia de factor $k$ se aplica coordenada a coordenada: $x' = kx$ e $y' = ky$. Así, $x' = 4 \times -2 = -8$ e $y' = 4 \times 5 = 20$, de modo que la imagen es $B' = (-8, 20)$ y conserva los signos originales.
 
 ---
 

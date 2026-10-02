@@ -306,20 +306,20 @@ La variabilidad se analiza con herramientas de estadística descriptiva como la 
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 3 de San José de Mayo, Juana investiga acerca de la formulación de hipótesis.
 ### Enunciado
-¿Cuál es la característica principal de una hipótesis científica bien planteada?
+Durante un ensayo los resultados medidos contradicen de forma sistemática la hipótesis que el equipo había formulado. ¿Qué corresponde hacer según el método científico?
 
 ### Opciones
-- [x] D) Debe ser falsable y permitir la formulación de predicciones empíricas testeables.
-  <!-- feedback: Correcto. Una hipótesis científica debe poder someterse a prueba mediante experimentación u observación, siendo susceptible de ser falsa. -->
-- [ ] A) Debe ser una verdad absoluta que no requiera verificación posterior.
-  <!-- feedback: Incorrecto. Una hipótesis nunca se asume como verdad absoluta, siempre se contrasta. -->
-- [ ] B) Debe basarse únicamente en la opinión personal u opiniones de expertos.
-  <!-- feedback: Incorrecto. Las opiniones personales no constituyen una base científica válida si no hay evidencia empírica. -->
-- [ ] C) Debe formularse de manera ambigua para evitar que pueda ser refutada.
-  <!-- feedback: Incorrecto. La ambigüedad impide la contrastación empírica directa. -->
+- [ ] A) Reemplazar la hipótesis por otra que coincida con los datos, sin justificar el cambio.
+  <!-- feedback: Cambiar la hipótesis para que cuadre con el resultado invierte el razonamiento: los datos son los que contrastan la hipótesis, y un cambio sin fundamento deja la prueba sin valor. -->
+- [x] B) Revisar las posibles fuentes de error y, si los datos se sostienen en las réplicas, reformular la hipótesis.
+  <!-- feedback: Un resultado que contradice la hipótesis es información legítima: obliga a revisar el montaje y las variables controladas, y solo con datos repetidos se justifica reformularla. -->
+- [ ] C) Repetir el ensayo hasta obtener valores que confirmen lo esperado.
+  <!-- feedback: Descartar los datos que incomodan y repetir hasta alcanzar la cifra deseada es sesgo de confirmación, y anula la fiabilidad del resultado. -->
+- [ ] D) Declarar inválido el experimento y no registrar ningún dato.
+  <!-- feedback: Descartar la experimentación completa sin publicar los datos oculta información útil para otros equipos y contradice el carácter público y verificable de la ciencia. -->
 
 ### Explicación Pedagógica
-El diseño metodológico exige hipótesis claras, operacionales y falsables para permitir el avance del conocimiento. En este contexto, Juana de San José de Mayo determinó correctamente la respuesta correcta.
+El método científico trata la contradicción como un resultado legítimo: se revisan el montaje, las variables controladas y las réplicas, y solo cuando los datos se sostienen se reformula la hipótesis. En este caso, Juana de San José de Mayo reconoció que ajustar la conclusión a los datos destruye la prueba.
 
 ---
 ## Question 14 [D7-D8]
@@ -375,20 +375,20 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 **Expected_Success:** 0.36
 **Contexto:** Durante una actividad de laboratorio en el Liceo Piloto de Florida, Diego analiza análisis de resultados.
 ### Enunciado
-Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
+Un mismo ensayo se repite cinco veces y en cada repetición el resultado central resulta prácticamente idéntico, aunque los valores individuales varíen un poco. ¿Qué propiedad del diseño demuestra ese patrón?
 
 ### Opciones
-- [x] C) La desviación estándar de las muestras analizadas.
-  <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] A) La suma total de todas las mediciones realizadas.
-  <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] B) El promedio simple o media aritmética de los ensayos.
-  <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
-- [ ] D) El valor mínimo absoluto registrado en la serie de datos.
-  <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
+- [ ] A) La independencia de las variables, porque ninguna medición altera a las demás.
+  <!-- feedback: La independencia entre mediciones no se deduce de que el resultado central se repita: es una condición que hay que garantizar en el diseño, y se comprueba en los valores individuales. -->
+- [x] B) La reproducibilidad, porque las réplicas llegan a un resultado consistente bajo las mismas condiciones.
+  <!-- feedback: La reproducibilidad es la capacidad del diseño de generar el mismo resultado al repetirse, y lo que se observa aquí es exactamente eso: cinco ensayos con un valor central estable. -->
+- [ ] C) La precisión absoluta, porque ninguna medida difiere de la anterior.
+  <!-- feedback: La precisión es el grado de aproximación de cada medición; aquí los valores individuales sí varían, y lo que se repite es el resultado central del conjunto. -->
+- [ ] D) La validez interna, porque la conclusión no depende del instrumento empleado.
+  <!-- feedback: La validez interna se refiere a que la conclusión se sostiene para el caso estudiado, y no se deduce de la repetición de un mismo resultado entre réplicas. -->
 
 ### Explicación Pedagógica
-La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.
+La reproducibilidad es la propiedad que se evalúa repitiendo el ensayo: si las réplicas convergen a un mismo resultado central, el diseño es confiable. Ignorar de Florida distinguió esta propiedad de la precisión, que se evalúa en cada medición por separado.
 
 ---
 ## Question 17 [D9-D10]
@@ -467,26 +467,17 @@ El grupo de control se mantiene en idénticas condiciones que el grupo experimen
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Colonia del Sacramento, Valentina observa un modelo experimental de análisis de resultados.
 ### Enunciado
-Al registrar una gran dispersión en los datos obtenidos, ¿qué medida estadística es más adecuada para reportar la variabilidad en el informe?
+En un informe, dos equipos presentan datos muy distintos sobre el efecto de la luz en la germinación de semillas. ¿Qué debería exigirse para decidir cuál resultado es confiable?
 
 ### Opciones
-- [x] D) La desviación estándar de las muestras analizadas.
-  <!-- feedback: Correcto. La desviación estándar cuantifica el grado de dispersión de los datos alrededor de la media aritmética. -->
-- [ ] A) La suma total de todas las mediciones realizadas.
-  <!-- feedback: Incorrecto. La suma total no describe cómo varían o se dispersan los datos individuales. -->
-- [ ] B) El promedio simple o media aritmética de los ensayos.
-  <!-- feedback: Incorrecto. El promedio da una tendencia central pero no informa sobre la variabilidad. -->
-- [ ] C) El valor mínimo absoluto registrado en la serie de datos.
-  <!-- feedback: Incorrecto. Un solo valor extremo no representa la dispersión global del set de datos. -->
+- [x] A) Que cada equipo documente las réplicas, el control y las variables medidas, para que el diseño pueda evaluarse.
+  <!-- feedback: La confiabilidad de un dato científico se juzga por la documentación del diseño: réplicas, control y variables permiten que un tercero repita el ensayo y llegue al mismo resultado. -->
+- [ ] B) Que se acepte el resultado del equipo que realizó más ensayos, sin importar su diseño.
+  <!-- feedback: La cantidad de ensayos sin un diseño controlado no garantiza nada: sin control ni variables registradas, repetir la medición no vuelve más confiable al dato. -->
+- [ ] C) Que se promedien ambos resultados y se publique el promedio como conclusión única.
+  <!-- feedback: Promediar resultados de diseños distintos combina datos que no son comparables y produce una cifra que no corresponde a ningún experimento real realizado. -->
+- [ ] D) Que se repita el trabajo en un clima diferente, para comprobar si el dato se altera.
+  <!-- feedback: Un ambiente distinto no mide la calidad del trabajo: sin revisar el diseño, cambiar de lugar solo agrega una variable no controlada al problema original. -->
 
 ### Explicación Pedagógica
-La variabilidad se analiza con herramientas de estadística descriptiva como la desviación estándar para determinar la confiabilidad de los datos. En este contexto, Valentina de Colonia del Sacramento determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+Dos resultados divergentes se resuelven examinando el diseño de cada uno, no promediando ni descartando por cantidad de ensayos. Valentina de Colonia del Sacramento entendió que un dato es confiable cuando su método está documentado y puede ser repetido por terceros.

@@ -31,20 +31,20 @@ creador: "Jules-Agent"
 **Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Which opening sentence best launches a story instead of describing a setting?
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] C) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) "The village stood at the foot of the mountain, where the river turned east."
+  <!-- feedback: The sentence paints a landscape and nothing happens in it, so it delays the action a story needs to move forward. -->
+- [x] B) "The bridge collapsed three seconds after Ana reached the middle of it."
+  <!-- feedback: It places the character in motion and puts an event in the first line, so the reader immediately has a question to follow. -->
+- [ ] C) "There were many old houses in that town, some of them very large."
+  <!-- feedback: The sentence is a list of surroundings with no action and no tension, which is scene-setting rather than story. -->
+- [ ] D) "In the nineteenth century, people travelled mostly by horse."
+  <!-- feedback: It opens a general piece of information about an era, and no character or event enters the narrative at all. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+A story opens with change: a character doing something that the reader wants explained.
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v2
@@ -54,68 +54,68 @@ Present continuous: I am + verb-ing.
 **Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What is the "exposition" of a story?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) The moment of greatest danger for the main character
+  <!-- feedback: That is the climax, the peak of the conflict; the exposition comes before anything is at stake. -->
+- [ ] B) The final line, which tells the reader what changed
+  <!-- feedback: The resolution closes the conflict; the exposition is the opening material that makes the conflict legible. -->
+- [x] C) The opening section that introduces characters, setting and situation
+  <!-- feedback: It gives the reader the names, the place and the circumstance a story needs before its conflict can develop. -->
+- [ ] D) The list of every minor character in the narrative
+  <!-- feedback: A cast list is not the exposition; the exposition is the part that establishes the situation in a few sentences. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Exposition answers the questions a reader must have before the plot makes sense: who, where and what situation.
 
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v3
 **Bloom:** Analyze
 **EJE:** writing stories
 **Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which outline has a real conflict at its centre?
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) A girl lives in a coastal town. She walks to school. She comes home.
+  <!-- feedback: The outline only repeats ordinary routine, and nothing opposes the character or puts her goal at risk. -->
+- [ ] B) A miner finds a sealed door in the mine and is told not to open it.
+  <!-- feedback: A discovery plus a prohibition creates a choice the character must make, which is where the tension of a plot lives. -->
+- [x] C) A boy wants to win the school's race, but an injury puts his training in doubt
+  <!-- feedback: The desire and the obstacle are stated together, so the reader is placed between what he wants and what stands in the way. -->
+- [ ] D) A family moves house, unpacks boxes and has dinner together on the first night.
+  <!-- feedback: The events are ordinary and nothing resists them, so the outline records a week without generating dramatic tension. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+A conflict is a desire that something opposes; without an obstacle there is nothing for a character to confront.
 
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What is the "climax" of a story?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] B) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) The first scene, in which the characters are introduced
+  <!-- feedback: That is the opening of the exposition, where the situation is set up and nothing is yet at stake. -->
+- [x] B) The moment of highest tension, where the conflict reaches its turning point
+  <!-- feedback: It is the point where the outcome is decided in one direction or the other, and everything after it moves towards resolution. -->
+- [ ] C) The passage in which the writer describes the weather
+  <!-- feedback: Weather description is part of the setting; the climax is defined by tension, not by anything the sky is doing. -->
+- [ ] D) The final paragraph that explains what the characters learned
+  <!-- feedback: The lesson belongs to the resolution; the climax is the peak of pressure that comes before the story settles. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+The climax is the peak of the conflict: the instant when the reader knows how the problem will be settled.
 
-## Question 5 [D5-D6]
+## Question 5 [D3-D4]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v5
 **Bloom:** Remember
 **EJE:** writing stories
@@ -123,158 +123,158 @@ Which is the correct past form of 'go'?
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What is the "resolution" of a story?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [x] A) The part where the conflict is settled and the story reaches its end
+  <!-- feedback: After the turning point the narrative unwinds and shows the outcome, which is what closes the action. -->
+- [ ] B) The part where the main character is introduced for the first time
+  <!-- feedback: Introducing the character is the exposition; the resolution comes at the opposite end of the narrative. -->
+- [ ] C) The part where the writer explains the moral of the story
+  <!-- feedback: A stated moral is optional and may even spoil a story; the resolution is what happens, not a lesson written underneath it. -->
+- [ ] D) The part where the writer lists the settings used in the narrative
+  <!-- feedback: A summary of places belongs neither to the ending nor to the development; the resolution shows what became of the conflict. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Resolution is the unwinding after the climax: it shows what the characters end up with, which is the last thing the reader learns.
 
 ## Question 6 [D5-D6]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** writing stories
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+A writer keeps killing side characters with no warning. What is the most likely fault?
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) The narrative voice changes from one paragraph to the next
+  <!-- feedback: Nothing here concerns narrative voice; the fault lies in how the deaths are prepared, not in how the story is told. -->
+- [ ] B) The setting is described too briefly
+  <!-- feedback: Setting length is a matter of taste; what matters for survival is whether the reader had any reason to expect it. -->
+- [x] D) The deaths are not foreshadowed, so they strike without warning
+  <!-- feedback: A surprising death is fine when the story has planted it; here the events arrive with no preparation and no reader can anticipate them. -->
+- [ ] C) The story contains too many secondary characters
+  <!-- feedback: The number of characters is unrelated to the issue; what weakens the plot is the absence of preparation before each death. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Foreshadowing plants a sign of what is coming, so that the turn of the plot feels earned rather than arbitrary.
 
 ## Question 7 [D5-D6]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v7
 **Bloom:** Understand
 **EJE:** writing stories
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Why does a writer describe a character's feelings?
 
 ### Opciones
-- [x] D) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] C) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) To make the page look longer
+  <!-- feedback: Length is never the purpose of description; the content of the description is what the reader needs to follow the story. -->
+- [ ] B) To replace the events that actually happen
+  <!-- feedback: A story still needs action, and internal description explains the response to it rather than taking its place. -->
+- [x] C) To let the reader understand why the character acts as they do
+  <!-- feedback: The motive behind an action is what makes a choice readable, and feelings supply that motive from the inside. -->
+- [ ] D) To list everything the character is thinking without any selection
+  <!-- feedback: Unfiltered thought would be unreadable; a writer selects a few telling feelings and shapes them into prose. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Internal description gives the action its reason: the reader understands the decision because the mind behind it was shown.
 
 ## Question 8 [D5-D6]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **EJE:** writing stories
 **Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which rewrite creates real dialogue?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) "Maria said quietly that she had already sent the letter."
+  <!-- feedback: The speech is reported instead of spoken, so the reader never hears the exchange as it happened between the characters. -->
+- [ ] B) "Maria told Sara that the letter had gone out the previous day."
+  <!-- feedback: It is another summary of the conversation, and a summary removes the very thing that makes dialogue vivid. -->
+- [x] D) "I sent it yesterday," Maria said, and Sara opened her mouth but said nothing.
+  <!-- feedback: The characters speak and one of them reacts without speaking, so the tension lives in what is said and in what is withheld. -->
+- [ ] C) "There was a conversation between the two women about the state of the letter."
+  <!-- feedback: The exchange is only reported as having occurred, so nothing of the voices or the tension between them reaches the page. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Dialogue needs spoken words and the reactions around them; reported speech strips away the exchange the reader wants to hear.
 
 ## Question 9 [D5-D6]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v9
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which verb tense dominates a story's narration?
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] C) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) Past simple
+  <!-- feedback: The past simple carries the narration itself, but a telling story uses other tenses too where the summary needs them. -->
+- [ ] B) Future simple
+  <!-- feedback: The future appears in predictions or in plans the character forms, but it does not carry the narration of a finished account. -->
+- [x] C) Past simple, with the past continuous and the past perfect where needed
+  <!-- feedback: The past simple advances the events, the past continuous gives the background of each scene and the past perfect shows what happened earlier. -->
+- [ ] D) Present continuous
+  <!-- feedback: The present continuous describes what is happening right now and belongs mainly to dialogue, not to the narration. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Storytelling runs on the past: the simple past for events, the continuous for the scene around them, the perfect for the earlier past.
 
 ## Question 10 [D5-D6]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v10
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What is a "flat" character?
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [ ] A) A character with no physical description at all
+  <!-- feedback: A story may give a character no appearance, but that is a choice about detail, not what makes a character flat. -->
+- [x] B) A character who behaves predictably and changes nothing across the story
+  <!-- feedback: A flat character keeps the same traits from first to last, so nothing in the plot is changed by who the character is. -->
+- [ ] C) A character who speaks more often than anybody else
+  <!-- feedback: The amount of speech does not decide depth; a talkative character can still be complex and a quiet one can still be flat. -->
+- [ ] D) A character introduced in the first paragraph
+  <!-- feedback: Where a character is introduced says nothing about whether that character develops across the narrative. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Flatness is about development: a character whose behaviour and motives never shift adds nothing the plot turns on.
 
 ## Question 11 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** writing stories
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Your story jumps from the discovery of the letter to the trial two years later, and the reader is confused. What is missing?
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) A longer description of the courtroom
+  <!-- feedback: Setting detail cannot repair a broken order; what is missing is the account of what happened between the two points. -->
+- [ ] B) A title that explains the story in advance
+  <!-- feedback: A title sets expectations but cannot supply the events the narrator skipped over. -->
+- [x] D) The events that connect the two moments
+  <!-- feedback: The reader cannot infer the two years that were left out; a narrative has to account for the path it claims the character walked. -->
+- [ ] C) A second character with the same name
+  <!-- feedback: A naming problem is a different fault; here the difficulty comes from a gap in the sequence of events. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+A jump is only acceptable when the writer marks it clearly, and even then a brief note of what happened in between keeps the reader oriented.
 
 ## Question 12 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v12
@@ -284,158 +284,158 @@ Present continuous: I am + verb-ing.
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What does "show, do not tell" mean as writing advice?
 
 ### Opciones
-- [x] D) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] C) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) Write long sentences so that more detail fits in each one
+  <!-- feedback: Length hides as much as it shows; the advice concerns the choice between dramatising an event and announcing it. -->
+- [x] B) Present events through action and detail instead of naming them abstractly
+  <!-- feedback: "He was afraid" announces an emotion, while showing it through what he does lets the reader experience it. -->
+- [ ] C) Use the third person only, never the first person narration
+  <!-- feedback: The advice concerns content rather than grammatical person; either narrative voice can show as well as tell. -->
+- [ ] D) Leave out every description of how a character feels
+  <!-- feedback: Showing a feeling means rendering it through behaviour or image, not deleting the feeling from the story. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Telling states a conclusion, such as "she was terrified"; showing lets the same conclusion emerge from concrete action.
 
 ## Question 13 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** writing stories
 **Expected_Success:** 0.70
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which opening line sets up a mystery that pays off later?
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) "It was a bright Tuesday and nothing unusual happened all day."
+  <!-- feedback: The sentence closes off expectation by announcing that nothing happens, so it leaves no question for the story to answer. -->
+- [x] D) "Nobody in the village admitted to having opened the door that was locked from inside."
+  <!-- feedback: It plants an unexplained detail that demands an answer, and a story that later resolves it rewards the reader for noticing. -->
+- [ ] B) "The old house had been empty for thirty years."
+  <!-- feedback: The detail is atmospheric but not contradictory, so there is no puzzle in it for the narrative to solve. -->
+- [ ] C) "Everyone enjoyed the festival very much."
+  <!-- feedback: The line settles the atmosphere into complete calm and introduces no irregularity that could be explained later. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+A mystery is a detail that should not be possible or that has no explanation yet; the reader keeps it in mind while reading on.
 
 ## Question 14 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v14
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What is "point of view" in a narrative?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] B) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) The number of pages devoted to each character
+  <!-- feedback: Distribution of pages is not the perspective; point of view is whose eyes the reader looks through. -->
+- [ ] B) The historical period in which the events are set
+  <!-- feedback: The period is part of the setting; the point of view concerns who narrates, not when the narration happens. -->
+- [x] C) The position and perspective from which the narrator tells the events
+  <!-- feedback: A first person narrator and an outside narrator give the reader different access to what the characters know and feel. -->
+- [ ] D) The order in which the chapters were written
+  <!-- feedback: Writing order is invisible to the reader; what the reader meets is the order of events as the narrator presents them. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Point of view decides what a narrator can know and comment on, which shapes what the story is able to reveal.
 
 ## Question 15 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v15
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which sentence shows emotion instead of merely naming it?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [x] A) "He gripped the edge of the table until his knuckles went white."
+  <!-- feedback: The reader sees a physical sign of fear without the word appearing, so the emotion is rendered rather than stated. -->
+- [ ] B) "He was very frightened of what he had seen."
+  <!-- feedback: The sentence labels the feeling outright, which tells the reader the emotion but does not let him experience it. -->
+- [ ] C) "He felt a very strong emotion that he could not control."
+  <!-- feedback: It reports a feeling in general terms without any action or image that would let the reader picture the moment. -->
+- [ ] D) "The reader should feel that he was afraid."
+  <!-- feedback: The sentence addresses the reader instead of the character and prescribes an emotion rather than producing one. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Showing replaces the label with an observable sign: the grip, the tremor or the silence carries what the name would only state.
 
 ## Question 16 [D7-D8]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v16
 **Bloom:** Apply
 **EJE:** writing stories
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+A first person narrator says "the house was empty". Why can that narrator not be sure what happened inside it?
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) Because narrators have no memory in stories
+  <!-- feedback: A first person narrator can recall what they experienced; the limit is access, not the absence of memory. -->
+- [x] B) Because the narrator only knows what was directly experienced or witnessed
+  <!-- feedback: A first person narrator is restricted to that inner perspective, so events in a room they never entered remain unknown to them. -->
+- [ ] C) Because empty houses are always destroyed in stories
+  <!-- feedback: Nothing in the convention of narration destroys houses; the sentence about emptiness has no bearing on the narrator's knowledge. -->
+- [ ] D) Because the word "empty" describes the future, not the past
+  <!-- feedback: The verb is correctly in the past simple, and tense has nothing to do with the limits of what the narrator can know. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+First person narration carries a hard limit: the narrator can only report what "I" saw, heard or did, never what happened out of sight.
 
 ## Question 17 [D9-D10]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v17
 **Bloom:** Understand
 **EJE:** writing stories
 **Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+A story uses an unreliable narrator who lies to the reader. What effect does this produce?
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) It removes all tension, because the reader already knows the outcome
+  <!-- feedback: The reader suspects rather than knows, so the gap between the account given and the truth is exactly where suspense comes from. -->
+- [x] C) It creates suspense, because the reader doubts the account and waits for the truth
+  <!-- feedback: A discrepancy between the narrator's version and the evidence is what keeps the reader alert and attentive to details. -->
+- [ ] B) It proves that the author is careless about facts
+  <!-- feedback: Deliberate unreliability is a technique with an effect on the reader; it is not evidence of an author who lost control of the facts. -->
+- [ ] D) It ends the plot, since the real story has already been told
+  <!-- feedback: The hidden truth is still waiting to be told, and the discovery of it usually forms the resolution of the story. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+An unreliable narrator sets a version against the facts, so the reader reads the text twice: once for the plot and once for the discrepancies.
 
 ## Question 18 [D9-D10]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** writing stories
 **Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which outline uses a subplot properly?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) Two stories about two different families, with no character or event in common
+  <!-- feedback: Two separate tales run side by side without touching, so neither one affects the other. -->
+- [ ] B) A main plot about a stolen bicycle, and one scene in which the owner recalls an earlier friendship
+  <!-- feedback: The memory explains why the theft matters to the owner, so the second thread gives the main event its meaning. -->
+- [x] C) A main plot about a rivalry, and a secondary thread in which each rival is helped by a neighbour
+  <!-- feedback: The neighbours change how the rivals behave and therefore alter how the central confrontation resolves. -->
+- [ ] D) A main plot told first, followed by an unrelated story about a different character
+  <!-- feedback: The second thread starts after the main story is over and leaves the first one untouched, so it adds nothing to it. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+A subplot is a second thread that connects with the first, so resolving it changes the meaning or the outcome of the main plot.
 
 ## Question 19 [D9-D10]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v19
@@ -445,40 +445,40 @@ The main idea summarizes the key points about bees: pollination and honey.
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Why do writers vary the length of their sentences?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) To keep the reader's attention, since a constant rhythm becomes hard to follow
+  <!-- feedback: A steady beat can become hypnotic; variation in length breaks that monotony and marks changes of pressure. -->
+- [ ] B) To use up all the words allowed for the assignment
+  <!-- feedback: The amount of space is set by the task, and padding to fill it is a fault rather than a technique. -->
+- [x] C) To control the pace, letting a short sentence strike and a long one build
+  <!-- feedback: A short sentence lands with emphasis and a long one accumulates detail, so the two shapes do different narrative work. -->
+- [ ] D) To make sure that every paragraph has the same number of sentences
+  <!-- feedback: Uniform paragraph length is not a goal; pacing depends on how much each moment has to say. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Sentence length is rhythm: brief sentences stop the reader dead, longer ones draw them into a scene.
 
 ## Question 20 [D9-D10]
 **ID:** SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle-v20
 **Bloom:** Remember
 **EJE:** writing stories
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+How should a writer end a short story?
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [ ] A) By explaining, in the last paragraph, every moral the story could teach
+  <!-- feedback: A stated moral closes the reader's interpretation for him and tends to weaken what the story already showed. -->
+- [ ] B) By summarizing all the events in order from the beginning
+  <!-- feedback: Recounting the plot repeats what has been read; an ending does not need to be a second account of the story. -->
+- [ ] C) By announcing how popular the story was with readers
+  <!-- feedback: The reception of the story is outside the narrative, and mentioning it pulls the reader out of the world of the story itself. -->
+- [x] D) By resolving the tension in a way that follows from what came before
+  <!-- feedback: The final image answers the question the plot opened and stays consistent with the events, which is what makes it feel earned. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+An ending settles the story's central question and grows out of what the narrative established, rather than announcing a lesson after the fact.

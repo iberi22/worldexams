@@ -31,20 +31,20 @@ creador: "Jules-Agent"
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Someone stole my bicycle on Saturday night. Rewrite the sentence in the passive voice: 'My bicycle ___ last night.'
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [x] B) was stolen
+  <!-- feedback: In the past simple passive the subject receives the action, so the structure is 'was/were' plus the past participle 'stolen'; the thief is no longer named. -->
+- [ ] A) is stealing
+  <!-- feedback: That is the present continuous and it is still active, because the subject would have to be the person doing the stealing. -->
+- [ ] C) has stole
+  <!-- feedback: 'Stole' is the past simple form, not the participle; after 'has' English needs the past participle 'stolen'. -->
+- [ ] D) were stolen
+  <!-- feedback: 'Were' matches plural or second person subjects, and 'my bicycle' is singular, so the passive auxiliary must be 'was'. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Past simple passive: subject + was/were + past participle. 'My bicycle was stolen.'
 
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v2
@@ -54,20 +54,20 @@ Present continuous: I am + verb-ing.
 **Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Read the sentence: 'The old bridge is being repaired.' What is being repaired?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [x] C) The old bridge
+  <!-- feedback: In a passive sentence the subject is the thing that receives the action, and here the subject of 'is being repaired' is 'the old bridge'. -->
+- [ ] A) The repair workers
+  <!-- feedback: The workers would be the agents, the ones doing the repair; in the passive they are left out unless a by-phrase names them. -->
+- [ ] B) The road that crosses the bridge
+  <!-- feedback: The road is never mentioned in the sentence, so it cannot be the subject receiving the action of repairing. -->
+- [ ] D) Nothing, because the sentence has no object
+  <!-- feedback: A passive clause does not need an object; the object of the active verb has become the subject of the passive verb. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+In the passive voice the old object of the active verb becomes the subject, so 'the bridge' is what receives the repair.
 
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v3
@@ -77,181 +77,181 @@ What does 'benevolent' mean?
 **Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which one of these four sentences is written in the passive voice?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [x] A) The proposal was approved by the committee on Friday.
+  <!-- feedback: The subject 'the proposal' receives the action, and the verb is 'was' plus the participle 'approved', which is the passive structure. -->
+- [ ] B) The committee approved the proposal on Friday.
+  <!-- feedback: Here the subject 'the committee' performs the action of approving, so the subject and the verb are in the active voice. -->
+- [ ] C) The committee is approving the proposal right now.
+  <!-- feedback: The subject is still the one doing the action and the verb is 'is approving', an active present continuous. -->
+- [ ] D) The proposal approves the committee on Friday.
+  <!-- feedback: This reverses the real roles, and it is active: an approval form cannot approve a committee, so the sentence is not correct English. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Passive voice = subject receives the action + auxiliary (be or get) + past participle.
 
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v4
 **Bloom:** Remember
 **EJE:** passive voice
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+In the sentence 'The cake was baked by Lucia for the school party,' who baked the cake?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [x] D) Lucia
+  <!-- feedback: The by-phrase names the agent of a passive verb, so 'by Lucia' tells us who performed the action of baking. -->
+- [ ] A) The school party
+  <!-- feedback: The party is only the occasion mentioned in a prepositional phrase; it is neither the agent nor the thing that was baked. -->
+- [ ] B) The cake itself
+  <!-- feedback: The cake is the subject and the thing that receives the action, so it cannot also be the one doing the baking. -->
+- [ ] C) The students who were waiting for the cake
+  <!-- feedback: Those students are not mentioned anywhere in the sentence, so they cannot be identified as the agent. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+The by-phrase of a passive sentence identifies the agent, so 'was baked by Lucia' means Lucia did the baking.
 
 ## Question 5 [D5-D6]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** passive voice
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v6
 **Bloom:** Apply
 **EJE:** passive voice
 **Expected_Success:** 0.80
 **Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+They are building a new library near the park. Write the sentence in the passive voice: 'A new library ___ right now.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [x] A) is being built
+  <!-- feedback: The present continuous passive is 'am/is/are' plus 'being' plus the present participle, which gives 'is being built'. -->
+- [ ] B) is built
+  <!-- feedback: That is the present simple passive, so it describes a general fact; 'right now' requires the continuous form 'is being built'. -->
+- [ ] C) was building
+  <!-- feedback: 'Was building' is an active past continuous, and a library cannot build anything, so the roles have been confused. -->
+- [ ] D) builds
+  <!-- feedback: 'Builds' is an active verb in the third person singular; in the passive a library would never be the agent that builds. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Present continuous passive: am/is/are + being + present participle ('is being built').
 
-## Question 7 [D5-D6]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v7
+## Question 6 [D5-D6]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** passive voice
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** English class in Mejicanos, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+While they were repairing the road, it started to rain. Passive: 'The road ___ when the rain started.'
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [x] C) was being repaired
+  <!-- feedback: A passive action in progress in the past needs 'was/were' plus 'being' plus the participle, exactly like 'was being repaired'. -->
+- [ ] A) was repaired
+  <!-- feedback: That form reports a completed past event, and it loses the idea that the repair was still happening when the rain began. -->
+- [ ] B) is repairing
+  <!-- feedback: 'Is repairing' is present and active; the repair happened in the past and the road is not doing the repairing. -->
+- [ ] D) had repairing
+  <!-- feedback: After 'had' English needs the past participle 'repaired', and 'had repairing' is not a form the language allows. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Past continuous passive: was/were + being + past participle ('was being repaired').
 
-## Question 8 [D5-D6]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v8
+## Question 7 [D5-D6]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **EJE:** passive voice
 **Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
-
-### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
-
-### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 9 [D5-D6]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** passive voice
-**Expected_Success:** 0.85
 **Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+The doctor has to examine every patient. Passive: 'Every patient ___ by the doctor.'
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] B) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [x] B) must be examined
+  <!-- feedback: Modals that lack a past participle of their own combine with 'be' plus the participle, so 'must be examined' is the correct passive modal. -->
+- [ ] A) must examining
+  <!-- feedback: A modal is never followed directly by an -ing form; 'examining' cannot complete 'must' in any construction. -->
+- [ ] C) must examined
+  <!-- feedback: The participle is missing the required 'be', so 'must examined' leaves the modal without a complete verb phrase. -->
+- [ ] D) must being examined
+  <!-- feedback: 'Being' belongs to continuous passive forms with a form of 'be' already in place; after 'must' it produces an incomplete sentence. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Modal + passive: modal + be + past participle ('must be examined', 'can be finished').
 
-## Question 10 [D5-D6]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v10
+## Question 8 [D5-D6]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v8
 **Bloom:** Remember
 **EJE:** passive voice
 **Expected_Success:** 0.85
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+They can finish the work tomorrow. Passive: 'The work ___ tomorrow.'
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [x] D) can be finished
+  <!-- feedback: 'Can' passes straight into the passive with 'be' and the participle, giving 'can be finished' with the subject 'the work'. -->
+- [ ] A) can finished
+  <!-- feedback: The passive needs 'be' before the participle, so 'can finished' is an incomplete verb phrase in English. -->
+- [ ] B) can finishing
+  <!-- feedback: 'Finishing' is the -ing form, which only works after a form of 'be'; after 'can' it is grammatically impossible. -->
+- [ ] C) is finish
+  <!-- feedback: The present simple passive would be 'is finished', but the modal 'can' has been lost, so the possibility disappears from the sentence. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Passive with 'can' keeps the modal and adds 'be' plus the participle: 'The work can be finished'.
+
+## Question 9 [D5-D6]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**EJE:** passive voice
+**Expected_Success:** 0.80
+**Contexto:** English class in Santa Ana, SV.
+
+### Enunciado
+A student wrote the sentence 'The letter was wrote by Ana.' What is the correct passive form of that idea?
+
+### Opciones
+- [x] A) The letter was written by Ana.
+  <!-- feedback: The irregular verb 'write' has the past participle 'written', so the passive must be 'was written', not 'was wrote'. -->
+- [ ] B) The letter was wrote by Ana.
+  <!-- feedback: This is the mistake being corrected: 'wrote' is the past simple active form and can never follow 'was' in a passive. -->
+- [ ] C) The letter is wrote by Ana.
+  <!-- feedback: Even with 'is', the participle would be needed; 'is wrote' mixes a present auxiliary with a past simple verb. -->
+- [ ] D) The letter has wrote by Ana.
+  <!-- feedback: A present perfect passive would be 'has been written'; mixing 'has' directly with 'wrote' is not a form English produces. -->
+
+### Explicacion Pedagogica
+Typical student error: using the past simple after the auxiliary instead of the past participle.
+
+## Question 10 [D5-D6]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v10
+**Bloom:** Remember
+**EJE:** passive voice
+**Expected_Success:** 0.85
+**Contexto:** English class in Mejicanos, SV.
+
+### Enunciado
+The kitchen needs a deep clean. Passive: 'The kitchen needs ___.'
+
+### Opciones
+- [x] C) to be cleaned
+  <!-- feedback: After 'needs' the passive appears as 'to be' plus the past participle, which is the fixed pattern of the need + passive construction. -->
+- [ ] A) clean
+  <!-- feedback: That form makes the kitchen the agent of cleaning; the sentence would mean the kitchen cleans, which is not the intended idea. -->
+- [ ] B) cleaned
+  <!-- feedback: A bare participle only follows a modal or an auxiliary, so 'needs cleaned' is not a complete passive expression in English. -->
+- [ ] D) being cleaned
+  <!-- feedback: 'Being' marks a continuous action, and the pattern with 'needs' is 'needs to be cleaned', not 'needs being cleaned'. -->
+
+### Explicacion Pedagogica
+Need/ought + passive: need + to be + past participle ('The kitchen needs to be cleaned').
 
 ## Question 11 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v11
@@ -261,89 +261,89 @@ Present simple: subject + verb(-s for he/she/it).
 **Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+The technicians had finished the repairs before the clients arrived. Passive: 'The repairs ___ before the clients arrived.'
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] C) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [x] B) had been completed
+  <!-- feedback: The past perfect passive is 'had' plus 'been' plus the past participle, which keeps the idea that the repairs were done earlier. -->
+- [ ] A) had completed
+  <!-- feedback: 'The repairs completed' would be active and would make the repairs perform the action; nothing would have been done to them. -->
+- [ ] C) were completing
+  <!-- feedback: 'Were completing' is a past continuous, so it describes an unfinished action in progress rather than a completed one. -->
+- [ ] D) have completed
+  <!-- feedback: 'Have completed' is present perfect and points to the present, while the original event clearly finished before the clients arrived. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+Past perfect passive: had + been + past participle ('had been completed'). The second 'been' is what marks the action as received rather than performed.
 
 ## Question 12 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v12
 **Bloom:** Understand
 **EJE:** passive voice
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+The government will announce the results on Friday. Passive: 'The results ___ on Friday.'
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [x] D) will be announced
+  <!-- feedback: The future passive is 'will' plus 'be' plus the past participle, so 'will be announced' keeps the same future time reference. -->
+- [ ] A) will announcing
+  <!-- feedback: 'Will' is followed by a bare infinitive, never by an -ing form, so 'will announcing' cannot be a complete verb phrase. -->
+- [ ] B) are announced
+  <!-- feedback: That is the present simple passive, which would claim the results are announced now instead of on Friday. -->
+- [ ] C) will announce
+  <!-- feedback: 'The results will announce' is active and logically backwards, because results do not make announcements. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Future passive: will + be + past participle ('will be announced'). The past participle is used even though the action lies in the future.
 
 ## Question 13 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** passive voice
 **Expected_Success:** 0.70
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which sentence CANNOT be rewritten in the passive voice without changing its meaning?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [x] C) My sister lives in San Salvador.
+  <!-- feedback: 'Lives' is intransitive and has no direct object, so there is nothing to move in front of the verb and no passive is possible. -->
+- [ ] A) The students cleaned the classroom.
+  <!-- feedback: 'The classroom' is the object of 'cleaned', so it can become the subject: 'The classroom was cleaned by the students'. -->
+- [ ] B) Someone stole my wallet.
+  <!-- feedback: 'My wallet' is the object of 'stole', so the passive 'My wallet was stolen' preserves the meaning perfectly well. -->
+- [ ] D) The committee approved the plan.
+  <!-- feedback: 'The plan' is the object of 'approved', which allows the passive 'The plan was approved by the committee'. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Only transitive verbs can be made passive; intransitive verbs such as 'live' have no object to promote.
 
 ## Question 14 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v14
-**Bloom:** Remember
+**Bloom:** Apply
 **EJE:** passive voice
-**Expected_Success:** 0.85
+**Expected_Success:** 0.80
 **Contexto:** English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+People say the company is profitable. Passive: 'The company is said ___.'
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [x] A) to be
+  <!-- feedback: Reporting verbs take a to-infinitive in the passive, so the structure is 'is said' plus 'to be' plus 'profitable'. -->
+- [ ] B) being
+  <!-- feedback: 'Being' would begin a continuous form, but a reporting passive needs the full infinitive 'to be', not the -ing form. -->
+- [ ] C) that it is
+  <!-- feedback: 'It is said that...' is a different, that-clause passive structure; the gap after 'is said' must be filled by an infinitive. -->
+- [ ] D) is
+  <!-- feedback: 'The company is said is profitable' repeats the auxiliary and leaves no verb to carry the meaning, so the sentence is broken. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+Reporting verbs in the passive follow the pattern: subject + is said + to-infinitive.
 
 ## Question 15 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v15
@@ -353,20 +353,20 @@ Which is the correct past form of 'go'?
 **Contexto:** English class in Soyapango, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Read: 'The children were taken to the hospital after the accident.' Which verb pair produced the word 'taken'?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [x] B) take - taken
+  <!-- feedback: 'Take' is irregular and its past participle is 'taken', which is the form that follows 'were' in a past passive sentence. -->
+- [ ] A) take - taked
+  <!-- feedback: English does not form the participle of 'take' by adding -ed; 'taked' is not a word in the language. -->
+- [ ] C) take - took
+  <!-- feedback: 'Took' is the past simple, used in active sentences such as 'they took the children'; a passive needs the participle. -->
+- [ ] D) take - taking
+  <!-- feedback: 'Taking' is the -ing form used after 'is' or 'are', so it never appears between 'were' and a past reference. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+Irregular verbs need their past participle in the passive: take - took - taken, so 'were taken'.
 
 ## Question 16 [D7-D8]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v16
@@ -376,109 +376,109 @@ Present simple: subject + verb(-s for he/she/it).
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+The judges gave the finalists a prize. Passive: 'The finalists ___ a prize.'
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] C) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [x] D) were given
+  <!-- feedback: In a double-object verb only the first object is promoted, so the plural 'finalists' take 'were' plus the participle 'given'. -->
+- [ ] A) are given
+  <!-- feedback: 'Are given' is present, and it would mean the prize is handed over every day instead of on the single judging occasion. -->
+- [ ] B) was given
+  <!-- feedback: 'Was' agrees with a singular subject, and here the promoted subject 'the finalists' is plural, so 'were' is required. -->
+- [ ] C) give
+  <!-- feedback: That keeps the sentence active, and 'the finalists give a prize' would mean the finalists are the ones handing out prizes. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
+With two objects the passive promotes only the first one, so 'The finalists were given a prize'.
 
 ## Question 17 [D9-D10]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v17
-**Bloom:** Understand
+**Bloom:** Evaluate
 **EJE:** passive voice
-**Expected_Success:** 0.80
+**Expected_Success:** 0.75
 **Contexto:** English class in Santa Ana, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Why would a news report prefer 'Mistakes were made' instead of 'We made mistakes'?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [x] A) To keep the focus on the problem and avoid naming who is responsible
+  <!-- feedback: The passive removes the agent from the subject position, which centres attention on what happened instead of on who did it. -->
+- [ ] B) To make it clear which company was at fault
+  <!-- feedback: The passive does the opposite: deleting the agent hides the responsible party instead of identifying it. -->
+- [ ] C) To show that the mistakes happened in the past simple
+  <!-- feedback: The past reference comes from 'were made', not from the passive voice itself, which can appear in any tense. -->
+- [ ] D) To claim that somebody else carried out the mistakes
+  <!-- feedback: The passive never assigns the action to a new subject; it simply leaves the agent unmentioned in the sentence. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
+Choosing the passive shifts attention from the agent to the action or the patient, which changes the emphasis.
 
 ## Question 18 [D9-D10]
 **ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v18
+**Bloom:** Understand
+**EJE:** passive voice
+**Expected_Success:** 0.75
+**Contexto:** English class in Mejicanos, SV.
+
+### Enunciado
+You must not touch the exhibits in the museum. Passive: 'The exhibits ___.'
+
+### Opciones
+- [x] C) must not be touched
+  <!-- feedback: Negation stays with the modal, and the passive is 'must' plus 'be' plus the participle, so 'must not be touched' is correct. -->
+- [ ] A) must not touch
+  <!-- feedback: That is active, and it would mean the exhibits are the ones forbidden to touch something, which reverses the meaning. -->
+- [ ] B) must not touched
+  <!-- feedback: The participle has no 'be' to support it, so the modal is left without a complete passive verb phrase. -->
+- [ ] D) must not being touched
+  <!-- feedback: 'Being' introduces a continuous passive that needs its own form of 'be'; after 'must' it does not form a valid expression. -->
+
+### Explicacion Pedagogica
+Negated modal + passive: must not + be + past participle ('must not be touched').
+
+## Question 19 [D9-D10]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v19
 **Bloom:** Analyze
+**EJE:** passive voice
+**Expected_Success:** 0.70
+**Contexto:** English class in Soyapango, SV.
+
+### Enunciado
+Rewrite this sentence in the passive voice: 'It is said that the temple was built in 1600.'
+
+### Opciones
+- [x] B) The temple is said to have been built in 1600.
+  <!-- feedback: After a reporting passive, an earlier event needs the perfect infinitive 'to have been' plus the participle 'built'. -->
+- [ ] A) The temple is said to build in 1600.
+  <!-- feedback: 'To build' is the active infinitive, which would make the temple the builder instead of the thing that was built. -->
+- [ ] C) The temple is said being built in 1600.
+  <!-- feedback: A reporting passive never takes a bare -ing form after 'is said'; the gap requires a full infinitive. -->
+- [ ] D) The temple is said to be building in 1600.
+  <!-- feedback: That is the present continuous infinitive, so it would suggest construction is still going on in the year 1600. -->
+
+### Explicacion Pedagogica
+Reporting passives use 'to be' for a current fact and 'to have been' plus participle for an earlier event.
+
+## Question 20 [D9-D10]
+**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
 **EJE:** passive voice
 **Expected_Success:** 0.70
 **Contexto:** English class in San Miguel, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read the sentence: 'After the ballots were counted, the committee announced the winner.' Which part is in the passive voice?
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [x] D) 'the ballots were counted', because the ballots receive the action
+  <!-- feedback: 'Were counted' is a passive verb and 'the ballots' is its subject, so the ballots are the ones being counted. -->
+- [ ] A) 'the committee announced', because announcing is a complete action
+  <!-- feedback: Completing an action does not make a clause passive; 'the committee' is the subject doing the announcing, so it is active. -->
+- [ ] B) 'the winner', because it is the object of 'announced'
+  <!-- feedback: 'The winner' is only the direct object of an active verb, and objects of active verbs are not themselves clauses. -->
+- [ ] C) Neither clause, because both of them name a subject
+  <!-- feedback: Having a subject is normal in both voices; what makes a clause passive is 'be' plus a past participle. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 19 [D9-D10]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** passive voice
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] C) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 20 [D9-D10]
-**ID:** SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** passive voice
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+A passive clause is recognised by an auxiliary form of 'be' plus a past participle, as in 'were counted'.

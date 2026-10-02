@@ -122,20 +122,20 @@ La deriva génica reduce la diversidad genética de las poblaciones pequeñas, p
 **Expected_Success:** 0.69
 **Contexto:** En el taller de Ciencias Naturales en Minas, Ignacio observa un modelo experimental de teoría de la selección natural.
 ### Enunciado
-Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?
+En una población, el 90% de los individuos sobrevive y se reproduce, mientras el 10% restante no alcanza a dejar descendencia. ¿Qué proceso describe este resultado?
 
 ### Opciones
-- [x] A) La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.
-  <!-- feedback: Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural. -->
-- [ ] B) El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.
-  <!-- feedback: Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles. -->
-- [ ] C) Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.
-  <!-- feedback: Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico. -->
-- [ ] D) Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.
-  <!-- feedback: Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori. -->
+- [x] A) La selección natural, porque sobreviven los individuos mejor adaptados al ambiente.
+  <!-- feedback: La selección natural actúa sobre la variación heredable: quienes mejor se adaptan dejan más descendencia y transmiten sus rasgos con mayor frecuencia. -->
+- [ ] B) La deriva génica, que cambia las frecuencias por eventos de azar.
+  <!-- feedback: La deriva génica depende del azar y pesa más en poblaciones pequeñas; un 90% de supervivencia sistemático apunta a una causa adaptativa. -->
+- [ ] C) Una mutación dirigida, que produce el rasgo que el ambiente necesita.
+  <!-- feedback: Las mutaciones no se producen dirigidas por el ambiente: aparecen al azar y la selección favorece las que resultan ventajosas. -->
+- [ ] D) El flujo génico, que introduce alelos nuevos desde otra población.
+  <!-- feedback: El flujo génico requiere la entrada de individuos de otra población, algo que no ocurre en el escenario descrito. -->
 
 ### Explicación Pedagógica
-La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Ignacio de Minas determinó correctamente la respuesta correcta.
+Una diferencia reproductiva constante y favoring a ciertos individuos es la huella de la selección natural, que actúa sobre la variación heredable existente. Ignacio de Minas entendió que la mutación aporta la variación, pero que es la selección la que decide qué se hereda con más frecuencia.
 
 ---
 ## Question 6 [D5-D6]
@@ -214,20 +214,20 @@ La deriva génica reduce la diversidad genética de las poblaciones pequeñas, p
 **Expected_Success:** 0.59
 **Contexto:** Mientras repasa para el examen parcial en Montevideo, Agustín estudia detenidamente teoría de la selección natural.
 ### Enunciado
-Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?
+Un carácter aparece en dos especies que viven en ambientes distintos y cumple la misma función, pero tiene estructuras internas diferentes. ¿Cómo se clasifica ese carácter?
 
 ### Opciones
-- [x] B) La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.
-  <!-- feedback: Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural. -->
-- [ ] A) El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.
-  <!-- feedback: Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles. -->
-- [ ] C) Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.
-  <!-- feedback: Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico. -->
-- [ ] D) Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.
-  <!-- feedback: Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori. -->
+- [ ] A) Homólogo, porque cumple la misma función en ambas especies.
+  <!-- feedback: La homología se define por el origen evolutivo común, no por la función: un carácter puede ser homólogo y cumplir funciones muy distintas. -->
+- [x] B) Análogo, porque cumple la misma función sin un origen evolutivo común.
+  <!-- feedback: Los caracteres análogos se desarrollan de forma independiente en linajes distintos y coinciden en su función, no en su estructura interna. -->
+- [ ] C) Homólogo, porque ambas especies descienden de un ancestro común.
+  <!-- feedback: Todas las especies comparten un ancestro común, de modo que ese dato no distingue un carácter homólogo de uno análogo. -->
+- [ ] D) Análogo, porque las dos especies se originaron en el mismo período geológico.
+  <!-- feedback: La coincidencia temporal de origen no establece un parentesco evolutivo ni explica la semejanza estructural del carácter. -->
 
 ### Explicación Pedagógica
-La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.
+Un carácter análogo es el que presenta la misma función en organismos de linajes distintos, sin un origen evolutivo común, y su semejanza se debe a la evolución independiente. Agustín de Montevideo entendió que la homología se reconoce por la estructura y la ascendencia, no por la utilidad.
 
 ---
 ## Question 10 [D5-D6]
@@ -306,20 +306,20 @@ La deriva génica reduce la diversidad genética de las poblaciones pequeñas, p
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo Piloto de Paysandú, Florencia investiga acerca de teoría de la selección natural.
 ### Enunciado
-Según la teoría de la evolución por selección natural de Darwin y Wallace, ¿cómo se genera el cambio adaptativo en las poblaciones a lo largo de las generaciones?
+Una población presenta una frecuencia de alelos que cambia de una generación a otra, pero ninguna mutación nueva se ha detectado. ¿Qué puede explicar ese cambio?
 
 ### Opciones
-- [x] B) La variabilidad genética preexistente determina que los individuos con rasgos más aptos sobrevivan y dejen mayor descendencia.
-  <!-- feedback: Correcto. El éxito reproductivo diferencial basado en rasgos heredables es el motor de la selección natural. -->
-- [ ] A) El esfuerzo voluntario e individual de cada organismo modifica sus genes para adaptarse al entorno.
-  <!-- feedback: Incorrecto. Los esfuerzos o hábitos de vida individuales no modifican el genoma de las células germinales transmisibles. -->
-- [ ] C) Las especies cambian debido a mutaciones programadas de antemano para predecir catástrofes climáticas.
-  <!-- feedback: Incorrecto. Las mutaciones son eventos azarosos y no están orientadas teleológicamente a predecir el futuro ecológico. -->
-- [ ] D) Los organismos más débiles mutan de forma intencionada para asemejarse a los depredadores.
-  <!-- feedback: Incorrecto. Las mutaciones no ocurren por intención adaptativa del individuo; la variación ocurre al azar y la selección actúa a posteriori. -->
+- [ ] A) La selección natural que actúa sobre alelos que ya existían en la población.
+  <!-- feedback: La selección natural puede cambiar las frecuencias alélicas sin producir mutaciones nuevas, porque actúa sobre la variación heredable ya presente. -->
+- [ ] B) El aumento del tamaño de la población, que reduce la variación alélica.
+  <!-- feedback: Una población mayor diluye el efecto del azar, pero no cambia por sí sola la proporción de alelos sin selección, mutación o migración. -->
+- [x] C) El flujo génico, que puede traer alelos de otra población sin generar mutaciones.
+  <!-- feedback: Los individuos que llegan de otra población aportan alelos nuevos a la población receptora, y ese intercambio modifica las frecuencias sin necesidad de mutación. -->
+- [ ] D) La deriva génica, que requiere que aparezcan alelos nuevos por mutación.
+  <!-- feedback: La deriva génica cambia frecuencias al azar en poblaciones pequeñas, y no necesita mutaciones: por eso no puede ser la explicación que el enunciado descarta. -->
 
 ### Explicación Pedagógica
-La selección natural actúa sobre la variación fenotípica existente en una población, filtrando los rasgos menos favorables ante presiones selectivas. En este contexto, Florencia de Paysandú determinó correctamente la respuesta correcta.
+El flujo génico modifica las frecuencias alélicas por la entrada de alelos desde otra población, sin que ocurra ninguna mutación nueva. Florencia de Paysandú entendió que la selección y la deriva también pueden cambiar esas frecuencias partiendo de la variación ya existente.
 
 ---
 ## Question 14 [D7-D8]
@@ -467,26 +467,17 @@ La mutación genera variación al azar, y son las presiones ecológicas y la sel
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Colonia del Sacramento, Gastón observa un modelo experimental de deriva génica.
 ### Enunciado
-¿En qué condiciones poblacionales se manifiesta con mayor fuerza la deriva génica, alterando de manera drástica las frecuencias alélicas?
+Una población aislada de apenas doce individuos atraviesa una peste, y al cabo de unas generaciones solo quedan dos de sus alelos originales. ¿Qué fenómeno explica la pérdida?
 
 ### Opciones
-- [x] C) En poblaciones de tamaño reducido sometidas a eventos azarosos como cuellos de botella o efecto fundador.
-  <!-- feedback: Correcto. La deriva génica es un cambio aleatorio en las frecuencias alélicas que afecta drásticamente a poblaciones pequeñas. -->
-- [ ] A) En comunidades infinitas con flujo génico constante y ausencia de catástrofes.
-  <!-- feedback: Incorrecto. En poblaciones grandes los efectos azarosos se diluyen y predomina la selección natural o equilibrio Hardy-Weinberg. -->
-- [ ] B) En cultivos bacterianos estables criados en biorreactores controlados de alta densidad.
-  <!-- feedback: Incorrecto. Las altas densidades bacterianas minimizan las desviaciones de muestreo estadísticas azarosas. -->
-- [ ] D) En poblaciones agrícolas de polinización artificial intensiva libre de insectos.
-  <!-- feedback: Incorrecto. La selección artificial controlada dirige las frecuencias, no el azar característico de la deriva. -->
+- [ ] A) La selección natural, que favorece sistemáticamente los alelos menos frecuentes.
+  <!-- feedback: La selección natural no tiene una preferencia sistemática por los alelos raros: su efecto depende del ventaja adaptativa de cada variante en ese ambiente. -->
+- [ ] B) El flujo génico, que introduce alelos nuevos desde poblaciones vecinas.
+  <!-- feedback: No hubo entrada de individuos de otras poblaciones, porque el enunciado describe una población aislada, de modo que no hay flujo génico posible. -->
+- [ ] C) La mutación, que genera alelos diferentes en cada generación.
+  <!-- feedback: Una pérdida de alelos por azar no requiere la aparición de alelos nuevos: aquí se pierden los existentes, que es lo contrario de mutar. -->
+- [x] D) La deriva génica, que en poblaciones pequeñas produce cambios grandes por azar.
+  <!-- feedback: En una población muy pequeña, el azar en la transmisión puede eliminar alelos enteros; eso es un cuello de botella y la manifestación típica de la deriva génica. -->
 
 ### Explicación Pedagógica
-La deriva génica reduce la diversidad genética de las poblaciones pequeñas, pudiendo fijar alelos deletéreos por puro azar. En este contexto, Gastón de Colonia del Sacramento determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La deriva génica produce cambios grandes y aleatorios en las frecuencias alélicas cuando la población es pequeña, y un cuello de botella como el descrito puede hacer desaparecer alelos completos. Gastón de Colonia del Sacramento entendió que el azar, y no la adaptación, explica esa pérdida.

@@ -122,20 +122,20 @@ La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada 
 **Expected_Success:** 0.69
 **Contexto:** En el taller de Ciencias Naturales en Colonia del Sacramento, Lucía observa un modelo experimental de el modelo de mosaico fluido.
 ### Enunciado
-Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
+Una sustancia se desplaza a través de la membrana celular desde el citoplasma, donde su concentración es baja, hacia el exterior, donde es más elevada. ¿Qué tipo de transporte describe ese movimiento?
 
 ### Opciones
-- [x] C) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
-  <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] A) Actuar como receptores altamente específicos para hormonas peptídicas.
-  <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] B) Proveer rigidez absoluta e indeformable a la periferia de la célula.
-  <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
-- [ ] D) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
-  <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
+- [x] A) Transporte activo, porque la sustancia se mueve en contra de su gradiente de concentración.
+  <!-- feedback: El transporte activo emplea energía para trasladar solutos desde el medio donde son menos concentrados hacia el medio donde son más concentrados, en contra de su gradiente. -->
+- [ ] B) Difusión simple, porque atraviesa directamente la bicapa lipídica sin ningún gasto de energía.
+  <!-- feedback: La difusión simple sigue el gradiente de concentración, va de lo más concentrado a lo menos concentrado y no requiere energía de la célula. -->
+- [ ] C) Ósmose, porque el agua es la molécula que atraviesa la membrana hacia el medio hipertónico.
+  <!-- feedback: La ósmosis es el paso de agua entre dos soluciones con distinta concentración de solutos, no el traslado de una sustancia disuelta en contra de su gradiente. -->
+- [ ] D) Difusión facilitada, porque la sustancia recorre un canal o transportador proteico sin consumo de ATP.
+  <!-- feedback: La difusión facilitada depende de proteínas de membrana, pero sigue siendo pasiva: si el movimiento fuera en contra del gradiente, la proteína tendría que consumir energía. -->
 
 ### Explicación Pedagógica
-El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Lucía de Colonia del Sacramento determinó correctamente la respuesta correcta.
+El dato que define el movimiento es la dirección respecto del gradiente: ir del medio menos concentrado al más concentrado significa que la célula gasta energía, y eso es transporte activo. Lucía de Colonia del Sacramento reconoció la diferencia entre ambos modos de transporte.
 
 ---
 ## Question 6 [D5-D6]
@@ -214,20 +214,20 @@ La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada 
 **Expected_Success:** 0.59
 **Contexto:** Mientras repasa para el examen parcial en Montevideo, Felipe estudia detenidamente el modelo de mosaico fluido.
 ### Enunciado
-Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
+Se coloca una célula animal en una solución cuya concentración de sales es mayor que la de su citoplasma. ¿Qué cambio de volumen le ocurre a la célula?
 
 ### Opciones
-- [x] D) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
-  <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] A) Actuar como receptores altamente específicos para hormonas peptídicas.
-  <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] B) Proveer rigidez absoluta e indeformable a la periferia de la célula.
-  <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
-- [ ] C) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
-  <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
+- [ ] A) Aumenta de volumen, porque el agua entra en la célula desde el medio hipertónico.
+  <!-- feedback: En un medio hipertónico el agua sale de la célula hacia el exterior, de modo que el volumen celular disminuye en lugar de aumentar. -->
+- [ ] B) No cambia, porque la membrana es impermeable al agua y al sodio durante todo el proceso.
+  <!-- feedback: La bicapa lipídica es permeable al agua y a pequeño solutos iónicos, precisamente por eso la célula responde a la diferencia de concentración del medio. -->
+- [x] C) Disminuye de volumen, porque pierde agua hacia el medio más concentrado en sales.
+  <!-- feedback: Al estar el exterior más concentrado en solutos, el agua sale de la célula por ósmosis y esta se encoge, manteniendo su membrana y su forma. -->
+- [ ] D) Estalla, porque la pared celular impide que se expanda al entrar agua.
+  <!-- feedback: La célula animal carece de pared rígida y resiste bien la entrada de agua; la situación que provoca su rotura es colocarla en un medio hipotónico, no hipertónico. -->
 
 ### Explicación Pedagógica
-El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Felipe de Montevideo determinó correctamente la respuesta correcta.
+La pérdida de agua ocurre cuando el medio exterior tiene más solutos que el citoplasma: el agua sale por ósmosis y la célula disminuye de volumen. Felipe de Montevideo entendió que la pared celular falta en estas células, así que la crenación no aparece en ellas.
 
 ---
 ## Question 10 [D5-D6]
@@ -306,20 +306,20 @@ La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada 
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo Piloto de Florida, Diego investiga acerca de el modelo de mosaico fluido.
 ### Enunciado
-Según el modelo de mosaico fluido de Singer y Nicolson, ¿cuál es la función de los fosfolípidos en la membrana celular?
+Una célula mantiene en su interior una concentración de sodio mayor que la del exterior, y esa diferencia se consume en cada ciclo celular. ¿Qué membrana y qué proteína explican ese hallazgo?
 
 ### Opciones
-- [x] A) Formar una bicapa semipermeable fluida que restringe el paso de solutos hidrofílicos cargados.
-  <!-- feedback: Correcto. Los fosfolípidos forman una barrera hidrofóbica que permite la compartimentalización celular. -->
-- [ ] B) Actuar como receptores altamente específicos para hormonas peptídicas.
-  <!-- feedback: Incorrecto. Los receptores específicos son proteínas de membrana o glicoproteínas, no fosfolípidos. -->
-- [ ] C) Proveer rigidez absoluta e indeformable a la periferia de la célula.
-  <!-- feedback: Incorrecto. La membrana es una estructura fluida y dinámica; la rigidez absoluta rompería la célula. -->
-- [ ] D) Sintetizar el ATP celular mediante un gradiente electroquímico pasivo.
-  <!-- feedback: Incorrecto. El ATP se genera en organelos como mitocondrias o cloroplastos, no de forma directa en fosfolípidos. -->
+- [ ] A) Una membrana porosa y un canal pasivo que deja entrar sodio a favor de su gradiente.
+  <!-- feedback: Un canal pasivo no puede acumular sodio en el interior de la célula: sigue el gradiente, de modo que la diferencia de concentración se perdería en lugar de mantenerse. -->
+- [ ] B) Una membrana impermeable y una bomba que solo permite la salida del sodio del citoplasma.
+  <!-- feedback: Si el sodio no pudiera entrar de ningún modo, la célula perdería sus reservas internas hasta agotarlas, sin posibilidad de recuperar la diferencia que declara el enunciado. -->
+- [x] C) La membrana plasmática, mediante una bomba proteica que gasta ATP para devolver sodio al exterior.
+  <!-- feedback: La bomba de sodio y potasio mantiene el gradiente invirtiendo el movimiento natural del sodio con energía del ATP, y por eso el interior conserva más sodio que el exterior. -->
+- [ ] D) La pared celular, mediante un transportador que hidroliza glucosa para bombear sodio.
+  <!-- feedback: La pared celular no contiene proteínas transportadoras y no bombea iones; el transporte activo es una función de proteínas insertadas en la membrana plasmática. -->
 
 ### Explicación Pedagógica
-El carácter anfipático de los fosfolípidos origina la autoasociación en bicapa, clave para la permeabilidad selectiva. En este contexto, Diego de Florida determinó correctamente la respuesta correcta.
+Un gradiente mantenido en contra de la dirección natural del ion se llama transporte activo: la bomba de sodio y potasio, en la membrana plasmática, lo sostiene con ATP en cada ciclo. Diego de Florida identificó que la acumulación de sodio en el interior no puede explicarse por un canal pasivo.
 
 ---
 ## Question 14 [D7-D8]
@@ -467,26 +467,17 @@ La bomba de sodio-potasio consume aproximadamente el 30% del ATP celular, siendo
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Fray Bentos, Joaquín observa un modelo experimental de transporte de macromoléculas.
 ### Enunciado
-¿Por qué vía de transporte celular se incorporan partículas sólidas de gran tamaño o microorganismos enteros al citoplasma eucariota?
+Una célula del sistema inmunitario rodea una bacteria completa con su membrana y la ingiere en una vesícula. ¿Qué nombre recibe ese fenómeno?
 
 ### Opciones
-- [x] D) Endocitosis de tipo fagocitosis mediada por vesículas membranosas.
-  <!-- feedback: Correcto. La fagocitosis es una endocitosis especializada que envuelve partículas grandes con pseudópodos de membrana. -->
-- [ ] A) Difusión simple a través de canales hidrofílicos de acuaporinas estables.
-  <!-- feedback: Incorrecto. Las acuaporinas transportan exclusivamente agua por ósmosis, no sólidos grandes. -->
-- [ ] B) Difusión facilitada acoplada a transportadores de tipo simporte catiónico.
-  <!-- feedback: Incorrecto. Los simportes transportan iones y solutos moleculares pequeños disueltos, no macromoléculas o células enteras. -->
-- [ ] C) Exocitosis constitutiva que libera vesículas de secreción hacia el exterior.
-  <!-- feedback: Incorrecto. La exocitosis expulsa material de la célula hacia el medio extracelular, no lo incorpora. -->
+- [ ] A) Exocitosis, porque la bacteria se libera al exterior tras formar la vesícula.
+  <!-- feedback: La exocitosis va en sentido contrario: la célula expulsa material al exterior. Aquí la bacteria queda dentro de la célula, en una vesícula. -->
+- [ ] B) Difusión facilitada, porque la bacteria atraviesa canales proteicos de la membrana.
+  <!-- feedback: Ninguna bacteria atravesaría un canal proteico: son partículas de gran tamaño que requieren quedar encerradas dentro de una vesícula. -->
+- [x] C) Fagocitosis, porque la célula incorpora la partícula sólida en una vesícula interna.
+  <!-- feedback: La fagocitosis es la endocitosis de partículas grandes, como bacterias o restos celulares, que quedan dentro de vesículas rodeadas por membrana. -->
+- [ ] D) Endocitosis de fluidos, porque la vesícula arrastra líquido extracelular sin material sólido.
+  <!-- feedback: La endocitosis de fluidos o pinocitosis incorpora gotículas de líquido con lo que disuelto haya en ellas; una bacteria entera no puede entrar por esa vía. -->
 
 ### Explicación Pedagógica
-La transporte en masa engloba la fagocitosis, pinocitosis y endocitosis mediada por receptor, requiriendo reordenamiento del citoesqueleto. En este contexto, Joaquín de Fray Bentos determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La fagocitosis permite que una célula incorpore partículas grandes, como una bacteria, encerrándolas en una vesícula formada a partir de la membrana plasmática. Joaquín de Fray Bentos ordenó los dos grandes mecanismos de transporte vesicular y sus sentidos opuestos.

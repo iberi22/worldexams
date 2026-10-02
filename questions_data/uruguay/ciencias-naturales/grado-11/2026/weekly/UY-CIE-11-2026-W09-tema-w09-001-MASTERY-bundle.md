@@ -191,20 +191,20 @@ En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido 
 **Expected_Success:** 0.60
 **Contexto:** Para el proyecto final de ciencias en el Liceo Piloto de Montevideo, Diego investiga acerca de organismos transgénicos.
 ### Enunciado
-¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?
+Un laboratorio introduce un gen de una bacteria en una planta para que produzca una enzima humana, y la nueva proteína aparece en la flor de varias generaciones sucesivas. ¿Qué propiedad tiene ese gen en la planta?
 
 ### Opciones
-- [x] A) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
-  <!-- feedback: Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal. -->
-- [ ] B) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
-  <!-- feedback: Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies. -->
-- [ ] C) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
-  <!-- feedback: Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes. -->
-- [ ] D) Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.
-  <!-- feedback: Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas. -->
+- [ ] A) Es un gen temporal, que solo se expresa mientras está presente el ARN mensajero externo.
+  <!-- feedback: La aparición del rasgo en varias generaciones muestra que la información se copió al genoma y se hereda, en lugar de provenir de un ARN que se degrada pronto. -->
+- [x] B) Es un gen estable, integrado en el ADN de la planta y transmitido a la descendencia.
+  <!-- feedback: Un rasgo que reaparece en varias generaciones indica que la información quedó incorporada al genoma y se transmite por la herencia. -->
+- [ ] C) Es un gen que altera el metabolismo sin modificar el ADN de la planta.
+  <!-- feedback: Si el ADN de la planta no hubiera cambiado, el rasgo no podría heredarse de forma constante, como exige el enunciado. -->
+- [ ] D) Es un gen que sustituye los genes naturales de la flor por los de la bacteria.
+  <!-- feedback: La inserción no exige el reemplazo de los genes propios: la planta puede conservar su genoma y añadir el gen foráneo sin perder sus funciones. -->
 
 ### Explicación Pedagógica
-La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Diego de Montevideo determinó correctamente la respuesta correcta.
+La expresión de un rasgo a lo largo de varias generaciones indica que el gen se integró de forma estable en el ADN de la planta y pasó a formar parte de su herencia. Diego de Montevideo entendió que esa persistencia distingue a un organismo empleador de una infección pasajera.
 
 ---
 ## Question 9 [D5-D6]
@@ -237,20 +237,20 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 **Expected_Success:** 0.58
 **Contexto:** En el taller de Ciencias Naturales en Montevideo, Agustín observa un modelo experimental de la reacción en cadena de la polimerasa (pcr).
 ### Enunciado
-¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
+En un termociclador, la mezcla se calienta a 95 grados, se enfría y se repite el ciclo. ¿Para qué sirve exactamente el paso de calentamiento?
 
 ### Opciones
-- [x] C) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
-  <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
-  <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
-- [ ] B) La acción catalítica de enzimas helicasas termoestables sintéticas.
-  <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
-- [ ] D) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
-  <!-- feedback: Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación. -->
+- [ ] A) Para desnaturalizar las proteínas del enzima, de modo que libere el ADN que atrapa.
+  <!-- feedback: El enzima no atrapa ADN entre sí: su función es copiar fragmentos. El calentamiento actúa sobre el ADN de la muestra, no sobre la enzima. -->
+- [x] B) Para separar las dos hebras del ADN, de modo que los cebadores puedan acoplarse.
+  <!-- feedback: El calor rompe los puentes de hidrógeno entre las hebras sin romper los enlaces del esqueleto, y así los cebadores encuentran su secuencia complementaria. -->
+- [ ] C) Para que los nucleótidos de la mezcla se unan entre sí y formen nuevas hebras.
+  <!-- feedback: La síntesis de nuevas hebras la realiza la enzima ADN polimerasa a partir de los cebadores, no el calor, que solo prepara el molde. -->
+- [ ] D) Para eliminar los fragmentos de ADN que interfieren con la reacción.
+  <!-- feedback: El calentamiento no descarta ningún fragmento: la separación de hebras es reversible y todas las moléculas participan en la reacción. -->
 
 ### Explicación Pedagógica
-La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Agustín de Montevideo determinó correctamente la respuesta correcta.
+El calentamiento a 95 grados separa las hebras del ADN de forma reversible y prepara el molde para que los cebadores se acoplen y la enzima pueda copiar. Agustín de Montevideo entendió que el calor no sintetiza ni descarta material, solo despliega la doble hélice.
 
 ---
 ## Question 11 [D7-D8]
@@ -306,20 +306,20 @@ La biotecnología genera transgénicos mediante vectores de clonación como plá
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 5 de Mercedes, Santiago investiga acerca de enzimas de restricción.
 ### Enunciado
-¿Cuál es la función de las enzimas de restricción (endonucleasas) en la tecnología del ADN recombinante?
+Una enzima de uso frecuente en el laboratorio corta el ADN en secuencias de cuatro o seis bases que se leen igual en las dos direcciones. ¿Qué propiedad describe esa característica de la secuencia?
 
 ### Opciones
-- [x] C) Cortar el ADN en secuencias de nucleótidos específicas y palindrómicas de manera precisa.
-  <!-- feedback: Correcto. Las enzimas de restricción cortan el ADN reconociendo secuencias diana de 4 a 8 pares de bases. -->
-- [ ] A) Unir de forma covalente azúcares desoxirribosas de diferentes plásmidos.
-  <!-- feedback: Incorrecto. La unión covalente de fragmentos de ADN es catalizada por la enzima ligasa. -->
-- [ ] B) Duplicar de manera exponencial cadenas de ARN dentro de un termociclador.
-  <!-- feedback: Incorrecto. La duplicación in vitro es realizada por la polimerasa Taq en la PCR, no por endonucleasas. -->
-- [ ] D) Degradar las proteínas de la envoltura celular bacteriana antes de la inserción.
-  <!-- feedback: Incorrecto. Las membranas o paredes se disuelven mediante detergentes, lisozimas o electroporación. -->
+- [x] A) Es una secuencia palindrómica, porque se lee igual en los dos sentidos de la hebra.
+  <!-- feedback: Una secuencia palindrómica coincide con su complemento, de modo que la enzima reconoce el mismo sitio en cualquiera de las dos hebras. -->
+- [ ] B) Es una secuencia repetitiva, presente en muchas copias dentro del genoma.
+  <!-- feedback: La repetición en el genoma es otra característica: lo que se define aquí es la simetría de la secuencia, no su cantidad de copias. -->
+- [ ] C) Es una secuencia codificante, que aporta información para una proteína.
+  <!-- feedback: Una secuencia puede ser palindrómica y a la vez codificante; el enunciado describe la simetría del reconocimiento, no su función. -->
+- [ ] D) Es una secuencia no codificante, sin información para proteínas.
+  <!-- feedback: La condición de codificante o no codificante es independiente de la simetría, y por eso no define el reconocimiento de la enzima. -->
 
 ### Explicación Pedagógica
-Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa viral, generan extremos cohesivos o romos útiles para clonación. En este contexto, Santiago de Mercedes determinó correctamente la respuesta correcta.
+Una secuencia palindrómica se lee igual en las dos direcciones de la hebra, y por eso la enzima reconoce el mismo sitio tanto en el ADN como en su complemento. Santiago de Mercedes entendió que esta propiedad permite preparar fragmentos con extremos definidos.
 
 ---
 ## Question 14 [D7-D8]
@@ -329,20 +329,20 @@ Las enzimas de restricción, descubiertas en bacterias como mecanismo de defensa
 **Expected_Success:** 0.38
 **Contexto:** Mientras repasa para el examen parcial en Montevideo, Florencia estudia detenidamente la reacción en cadena de la polimerasa (pcr).
 ### Enunciado
-¿Qué propiedad física de las macromoléculas permite separar las dos hebras de la doble hélice de ADN durante el paso de desnaturalización en un ensayo de PCR?
+Tras la reacción de amplificación, el gel muestra una banda en la posición correspondiente a un fragmento pequeño, mientras otros fragmentos quedaron más arriba. ¿Qué nos dice esa distancia recorrida?
 
 ### Opciones
-- [x] D) El calor: el incremento de temperatura a ~95 °C rompe los puentes de hidrógeno sin dañar los enlaces fosfodiéster covalentes.
-  <!-- feedback: Correcto. La desnaturalización térmica separa las hebras de manera reversible en cada ciclo de la PCR. -->
-- [ ] A) La fuerza centrífuga a altas velocidades de rotación mecánica de sobremesa.
-  <!-- feedback: Incorrecto. La centrifugación separa componentes por densidad o masa molecular pero no desnaturaliza la doble hélice de ADN. -->
-- [ ] B) La acción catalítica de enzimas helicasas termoestables sintéticas.
-  <!-- feedback: Incorrecto. La PCR convencional prescinde de helicasas; la separación se logra mediante calor controlado. -->
-- [ ] C) El cambio brusco de pH alcalino por adición de hidróxido de sodio concentrado.
-  <!-- feedback: Incorrecto. El pH químico dañaría irreversiblemente las enzimas Taq polimerasa necesarias para la elongación. -->
+- [ ] A) Que el fragmento tiene una carga muy negativa por sus grupos fosfato.
+  <!-- feedback: Todos los fragmentos de ADN tienen carga negativa por el fosfato, y esa propiedad los hace migrar hacia el ánodo sin distinguir su longitud. -->
+- [ ] B) Que el fragmento se encuentra en el polo negativo, cerca del origen.
+  <!-- feedback: El ADN migra hacia el polo positivo, y en esa dirección es donde las bandas se ordenan de mayor a menor longitud. -->
+- [x] C) Que el fragmento es más corto que los demás, porque los pequeños atraviesan el gel con más facilidad.
+  <!-- feedback: Los fragmentos pequeños se mueven con mayor libertad por los poros del gel y recorren más distancia que los grandes en el mismo tiempo. -->
+- [ ] D) Que el fragmento tiene una longitud fija determinada por el cebador.
+  <!-- feedback: El cebador fija dónde empieza la copia, no cuánto mide el producto, que depende de la región comprendida entre los dos cebadores. -->
 
 ### Explicación Pedagógica
-La PCR utiliza una ADN polimerasa termoestable (Taq) para resistir ciclos repetidos de altas temperaturas de desnaturalización. En este contexto, Florencia de Montevideo determinó correctamente la respuesta correcta.
+En la electroforesis los fragmentos más pequeños migran más lejos, de modo que la distancia recorrida informa sobre el tamaño relativo de cada uno. Florencia de Montevideo entendió que la migración se dirige al ánodo y que el orden de las bandas refleja el de sus longitudes.
 
 ---
 ## Question 15 [D7-D8]
@@ -467,26 +467,17 @@ En la electroforesis, los fragmentos pequeños de ADN se desplazan más rápido 
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Montevideo, Lucía observa un modelo experimental de organismos transgénicos.
 ### Enunciado
-¿Cuál es la definición correcta de un organismo transgénico en biotecnología moderna?
+Un organismo produce una sustancia que ayuda a su supervivencia y esa característica se hereda a su descendencia. ¿Qué define a ese organismo como transgénico?
 
 ### Opciones
-- [x] A) Un organismo vivo que posee un gen exógeno de otra especie incorporado de forma estable en su genoma.
-  <!-- feedback: Correcto. El transgén es integrado de manera artificial para conferir una característica fenotípica de interés comercial o medicinal. -->
-- [ ] B) Un espécimen sometido a radiación ionizante para eliminar selectivamente genes perjudiciales.
-  <!-- feedback: Incorrecto. La mutagénesis aleatoria por radiación no constituye transgenia, ya que no introduce genes de otras especies. -->
-- [ ] C) Un clon idéntico obtenido por transferencia nuclear de células germinales del mismo individuo.
-  <!-- feedback: Incorrecto. La clonación copia el genoma preexistente; no involucra recombinación interespecífica de genes. -->
-- [ ] D) Un híbrido resultante de la fecundación tradicional de dos variedades del mismo cultivo.
-  <!-- feedback: Incorrecto. El mejoramiento clásico por cruce sexual es un proceso natural que opera dentro de barreras biológicas. -->
+- [ ] A) El haber recibido radiación para eliminar genes perjudiciales.
+  <!-- feedback: La irradiación selectiva modifica el genoma sin introducir material genético de otra especie, y eso se llama mutagénesis, no transgenosis. -->
+- [ ] B) El ser un clon obtenido de células del mismo individuo.
+  <!-- feedback: La clonación por transferencia nuclear reproduce el genoma de un individuo; no implica la incorporación de un gen procedente de otra especie. -->
+- [ ] C) El ser un híbrido de dos variedades de la misma especie.
+  <!-- feedback: El cruzamiento entre variedades es una forma de mejora genética tradicional que no introduce ningún gen externo en la planta resultante. -->
+- [x] D) La incorporación de un gen de otra especie dentro de su propio genoma.
+  <!-- feedback: Un organismo transgénico se caracteriza por tener un gen ajeno incorporado de forma estable a su genoma, lo que le confiere una capacidad nueva. -->
 
 ### Explicación Pedagógica
-La biotecnología genera transgénicos mediante vectores de clonación como plásmidos o virus, planteando debates bioéticos rigurosos. En este contexto, Lucía de Montevideo determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La definición de organismo transgénico es la incorporación estable de un gen procedente de otra especie en su genoma, lo que le otorga una capacidad nueva. Lucía de Montevideo entendió que ninguna de las otras técnicas descritas introduce material genético ajeno.
