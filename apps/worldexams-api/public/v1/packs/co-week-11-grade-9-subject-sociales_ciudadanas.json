@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T16:32:29.611Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué tipo de gobierno tiene Colombia según la Constitución de 1991?",
+      "context": "En Bogotá, una profesora de sociales explica el sistema político colombiano a sus estudiantes de grado 9.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "República democrática, representativa y participativa",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1991 establece que Colombia es una República democrática, representativa y participativa, donde el poder emana del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Monarquía absoluta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no es una monarquía. La Constitución de 1991 establece una república democrática donde los gobernantes son elegidos por el pueblo."
+        },
+        {
+          "letter": "C",
+          "text": "Dictadura militar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no es una dictadura militar. Es una república democrática con elecciones libres y separación de poderes."
+        },
+        {
+          "letter": "D",
+          "text": "Teocracia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia no es una teocracia. Es un Estado laico donde el gobierno no depende de una religión específica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución Política de Colombia de 1991 establece en su artículo 1 que Colombia es un Estado social de derecho organizado en forma de República unitaria, descentralizada, con autonomía de sus entidades territoriales, democrática, participativa y pluralista. Esto significa que el poder emana del pueblo, quien elige a sus representantes y participa en las decisiones públicas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es el mecanismo de participación ciudadana mediante el cual los colombianos pueden elegir a sus gobernantes?",
+      "context": "En Medellín, un estudiante de grado 9 estudia los mecanismos de participación ciudadana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El referendo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo es un mecanismo para aprobar o rechazar una ley o norma, no para elegir gobernantes. Para elegir gobernantes se usa el voto."
+        },
+        {
+          "letter": "B",
+          "text": "El voto",
+          "is_correct": true,
+          "feedback": "Correcto. El voto es el mecanismo mediante el cual los ciudadanos eligen a sus gobernantes en elecciones populares. Es un derecho y un deber ciudadano."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de tutela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela es un mecanismo para proteger derechos fundamentales, no para elegir gobernantes."
+        },
+        {
+          "letter": "D",
+          "text": "La acción popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción popular es un mecanismo para proteger derechos e intereses colectivos, no para elegir gobernantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El voto es el principal mecanismo de participación ciudadana en una democracia representativa. A través del voto, los ciudadanos eligen a sus gobernantes (presidente, congresistas, alcaldes, concejales, etc.) en elecciones populares periódicas. El voto es tanto un derecho como un deber ciudadano según la Constitución colombiana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v3",
+      "statement": "¿Cuántos poderes públicos tiene Colombia según la Constitución de 1991?",
+      "context": "En Cali, una estudiante investiga sobre la separación de poderes en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene tres poderes públicos, no dos: ejecutivo, legislativo y judicial."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene tres poderes públicos, no cuatro. El cuarto poder (poder electoral) no existe como poder independiente en Colombia."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Colombia tiene tres poderes públicos: ejecutivo (presidente), legislativo (Congreso) y judicial (cortes y tribunales)."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. Colombia tiene tres poderes públicos, no cinco. La separación de poderes se limita a ejecutivo, legislativo y judicial."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 establece la separación de poderes en Colombia en tres ramas: el poder ejecutivo (ejercido por el presidente y su gabinete), el poder legislativo (ejercido por el Congreso de la República, compuesto por Senado y Cámara de Representantes) y el poder judicial (ejercido por las cortes y tribunales). Esta separación evita la concentración del poder y garantiza los controles mutuos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.86,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué mecanismo de participación ciudadana pueden usar los ciudadanos para proponer una nueva ley?",
+      "context": "En Barranquilla, un grupo de estudiantes quiere proponer una nueva ley para su ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción de tutela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales, no propone leyes. Para proponer leyes existe la iniciativa legislativa popular."
+        },
+        {
+          "letter": "B",
+          "text": "La iniciativa legislativa popular",
+          "is_correct": true,
+          "feedback": "Correcto. La iniciativa legislativa popular permite a los ciudadanos proponer proyectos de ley ante el Congreso o los concejos municipales."
+        },
+        {
+          "letter": "C",
+          "text": "El voto programático",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto programático es una forma de elegir representantes, no de proponer leyes directamente."
+        },
+        {
+          "letter": "D",
+          "text": "La consulta popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta popular es para que los ciudadanos se pronuncien sobre un tema específico, no para proponer leyes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La iniciativa legislativa popular es un mecanismo de participación ciudadana que permite a los ciudadanos proponer proyectos de ley ante el Congreso de la República o ante los concejos municipales y distritales. Para que esta iniciativa sea válida, se requiere el apoyo de un porcentaje de ciudadanos inscritos en el registro electoral.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué mecanismo puede usar un ciudadano para solicitar la revisión de una ley que considera inconstitucional?",
+      "context": "En Cartagena, un ciudadano no está de acuerdo con una ley aprobada por el Congreso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción de cumplimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de cumplimiento se usa para exigir el cumplimiento de una ley o acto administrativo, no para revisar su constitucionalidad."
+        },
+        {
+          "letter": "B",
+          "text": "La acción popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción popular protege derechos colectivos, no revisa la constitucionalidad de las leyes."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de inconstitucionalidad",
+          "is_correct": true,
+          "feedback": "Correcto. La acción de inconstitucionalidad permite a cualquier ciudadano demandar ante la Corte Constitucional una ley que considere contraria a la Constitución."
+        },
+        {
+          "letter": "D",
+          "text": "El referendo derogatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo derogatorio es para derogar una ley mediante votación popular, no para que un juez revise su constitucionalidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La acción de inconstitucionalidad es un mecanismo de control de constitucionalidad que permite a cualquier ciudadano demandar ante la Corte Constitucional una norma que considere contraria a la Constitución. La Corte Constitucional es el máximo órgano de control de constitucionalidad en Colombia y sus decisiones son de obligatorio cumplimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué acción pueden interponer los vecinos para proteger el parque como espacio público?",
+      "context": "En Bucaramanga, un grupo de vecinos quiere proteger un parque de la construcción de un centro comercial.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La acción popular",
+          "is_correct": true,
+          "feedback": "Correcto. La acción popular protege derechos e intereses colectivos, como el derecho a un ambiente sano y el uso de los espacios públicos."
+        },
+        {
+          "letter": "B",
+          "text": "La acción de tutela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales individuales, no derechos colectivos como el uso de espacios públicos."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de cumplimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de cumplimiento exige el cumplimiento de una ley, no protege directamente los espacios públicos."
+        },
+        {
+          "letter": "D",
+          "text": "La acción de grupo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de grupo repara daños causados a un grupo de personas, no protege espacios públicos directamente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La acción popular es un mecanismo de protección de derechos e intereses colectivos, como el derecho a un ambiente sano, el espacio público, la moralidad administrativa, entre otros. Los vecinos pueden usar esta acción para proteger un parque de la construcción de un centro comercial, ya que el parque es un espacio público de uso colectivo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la principal diferencia entre democracia representativa y democracia participativa?",
+      "context": "En Pereira, un estudiante analiza la diferencia entre democracia representativa y participativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la representativa el pueblo gobierna directamente, en la participativa elige representantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: en la democracia representativa el pueblo elige representantes, y en la participativa el pueblo interviene directamente en las decisiones."
+        },
+        {
+          "letter": "B",
+          "text": "En la representativa el pueblo elige representantes, en la participativa el pueblo interviene directamente en las decisiones",
+          "is_correct": true,
+          "feedback": "Correcto. En la democracia representativa los ciudadanos eligen representantes que toman decisiones por ellos. En la participativa los ciudadanos intervienen directamente en la toma de decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "En la representativa no hay elecciones, en la participativa sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambas democracias hay elecciones. La diferencia está en la participación directa del pueblo en las decisiones."
+        },
+        {
+          "letter": "D",
+          "text": "En la representativa solo participan los partidos políticos, en la participativa todos los ciudadanos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambas democracias participan los ciudadanos. La diferencia es que en la participativa hay mecanismos de participación directa además de las elecciones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La democracia representativa se caracteriza porque los ciudadanos eligen a sus representantes (presidente, congresistas, alcaldes, concejales) para que tomen decisiones en su nombre. La democracia participativa, además de las elecciones, incluye mecanismos de participación directa como el plebiscito, el referendo, la consulta popular, el cabildo abierto y la iniciativa legislativa. Colombia combina ambos modelos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la función principal de los partidos políticos en una democracia?",
+      "context": "En Armenia, un maestro explica el papel de los partidos políticos en la democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gobernar directamente sin elecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos políticos no gobiernan directamente sin elecciones. Deben competir en elecciones para obtener el poder."
+        },
+        {
+          "letter": "B",
+          "text": "Controlar el poder judicial",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos políticos no controlan el poder judicial. El poder judicial es independiente según la Constitución."
+        },
+        {
+          "letter": "C",
+          "text": "Representar intereses y opiniones ciudadanas ante el Estado",
+          "is_correct": true,
+          "feedback": "Correcto. Los partidos políticos representan diferentes intereses, ideas y sectores de la sociedad, y buscan acceder al poder para implementar sus propuestas."
+        },
+        {
+          "letter": "D",
+          "text": "Administrar los recursos públicos sin control",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los partidos políticos no administran recursos públicos sin control. Cuando gobiernan, están sujetos a control fiscal y político."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los partidos políticos son organizaciones que representan diferentes intereses, ideas y sectores de la sociedad. Su función principal es articular las demandas ciudadanas y presentar candidatos a las elecciones para acceder al poder y gobernar según su programa. En una democracia pluralista, los partidos permiten la competencia pacífica por el poder y la representación de la diversidad de opiniones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.76,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v9",
+      "statement": "¿Qué mecanismo permite a los ciudadanos controlar la gestión de los funcionarios públicos?",
+      "context": "En Manizales, un estudiante investiga sobre el control político en Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La revocatoria del mandato",
+          "is_correct": false,
+          "feedback": "Correcto. La revocatoria del mandato permite a los ciudadanos destituir a un funcionario elegido antes de que termine su período si no cumple con su programa de gobierno."
+        },
+        {
+          "letter": "B",
+          "text": "La acción de tutela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción de tutela protege derechos fundamentales, no controla directamente la gestión de los funcionarios públicos."
+        },
+        {
+          "letter": "C",
+          "text": "La acción popular",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción popular protege derechos colectivos, no controla la gestión de funcionarios específicos."
+        },
+        {
+          "letter": "D",
+          "text": "La revocatoria del mandato (ver explicación)",
+          "is_correct": true,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La revocatoria del mandato es el mecanismo de control político."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La revocatoria del mandato es un mecanismo de participación ciudadana y control político que permite a los ciudadanos destituir a un funcionario elegido (como alcaldes o gobernadores) antes de que termine su período, si consideran que no está cumpliendo con su programa de gobierno. Para activarla se requiere un número significativo de firmas y una votación popular.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.74,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v10",
+      "statement": "¿Por qué es importante la participación ciudadana en una democracia?",
+      "context": "En Pasto, un estudiante analiza la importancia de la participación ciudadana en la democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque fortalece la legitimidad del sistema político y garantiza que el gobierno responda a las necesidades del pueblo",
+          "is_correct": true,
+          "feedback": "Correcto. La participación ciudadana legitima al gobierno porque los ciudadanos son parte activa de las decisiones públicas, y permite que el gobierno responda a sus necesidades."
+        },
+        {
+          "letter": "B",
+          "text": "Porque permite que los partidos políticos tengan más poder",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana no busca dar más poder a los partidos, sino fortalecer el poder del pueblo en la toma de decisiones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque elimina la necesidad de elecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana no elimina las elecciones, sino que las complementa con otros mecanismos de participación directa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque reduce la responsabilidad de los funcionarios públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana aumenta la responsabilidad de los funcionarios, no la reduce, porque los ciudadanos pueden exigirles cuentas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La participación ciudadana es fundamental en una democracia porque fortalece la legitimidad del sistema político. Cuando los ciudadanos participan activamente en las decisiones públicas (a través del voto, consultas, cabildos abiertos, etc.), el gobierno tiene mayor legitimidad y está obligado a responder a las necesidades e intereses del pueblo. Además, la participación permite controlar la gestión pública y prevenir la corrupción.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál de los siguientes es un desafío para la democracia colombiana?",
+      "context": "En Cúcuta, un grupo de estudiantes debate sobre los desafíos de la democracia colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La existencia de múltiples partidos políticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La existencia de múltiples partidos políticos es una fortaleza de la democracia, no un desafío, porque permite la pluralidad de ideas."
+        },
+        {
+          "letter": "B",
+          "text": "La baja participación ciudadana en las elecciones",
+          "is_correct": true,
+          "feedback": "Correcto. La baja participación ciudadana debilita la democracia porque reduce la legitimidad de los elegidos y permite que unos pocos decidan por todos."
+        },
+        {
+          "letter": "C",
+          "text": "La separación de poderes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La separación de poderes es una garantía democrática, no un desafío, porque evita la concentración del poder."
+        },
+        {
+          "letter": "D",
+          "text": "La existencia de mecanismos de participación ciudadana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mecanismos de participación ciudadana fortalecen la democracia, no la debilitan, porque permiten al pueblo intervenir en las decisiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La baja participación ciudadana en las elecciones es un desafío para la democracia colombiana porque reduce la legitimidad de los gobernantes elegidos. Cuando pocos ciudadanos votan, los elegidos representan a una minoría y no a la mayoría. Esto puede generar desconfianza en las instituciones y debilitar el sistema democrático. Fomentar la participación activa es esencial para fortalecer la democracia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle-v12",
+      "statement": "¿Qué pueden hacer los jóvenes para fortalecer la democracia en Colombia?",
+      "context": "En Ibagué, un estudiante reflexiona sobre el papel de los jóvenes en la democracia colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No participar en política para evitar problemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. No participar en política debilita la democracia. Los jóvenes deben participar activamente para fortalecer el sistema democrático."
+        },
+        {
+          "letter": "B",
+          "text": "Solo votar en elecciones presidenciales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Votar solo en elecciones presidenciales es insuficiente. Los jóvenes deben participar en todo tipo de elecciones y mecanismos de participación ciudadana."
+        },
+        {
+          "letter": "C",
+          "text": "Participar activamente en elecciones, organizaciones sociales y mecanismos de participación ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. Los jóvenes pueden fortalecer la democracia participando en elecciones, organizaciones sociales, veedurías ciudadanas, cabildos abiertos y otros mecanismos de participación."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a ser mayores de edad para involucrarse en política",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los jóvenes no necesitan esperar a ser mayores de edad para involucrarse en política. Pueden participar en organizaciones estudiantiles, juveniles y comunitarias desde ahora."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los jóvenes pueden fortalecer la democracia colombiana participando activamente en diferentes espacios: votando en todas las elecciones (no solo las presidenciales), uniéndose a organizaciones sociales y juveniles, participando en veedurías ciudadanas, asistiendo a cabildos abiertos, y usando mecanismos como la iniciativa legislativa y el referendo. La participación juvenil es esencial para renovar la política y garantizar que las decisiones públicas reflejen las necesidades de todas las generaciones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-9-2026-W11-la-democracia-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
