@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-33-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.781Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v1",
+      "statement": "¿Para qué sirven principalmente los impuestos y otras)tribuciones pagados por los ciudadanos de Bogotá?",
+      "context": "En Bogotá, los ciudadanos pagan impuestos y otras)tribuciones para financiar servicios necesarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financiar servicios públicos, como el agua potable, el drenaje y el alumbrado.",
+          "is_correct": true,
+          "feedback": "Correcto. La tributación permite financiar los servicios públicos que necesita la ciudad."
+        },
+        {
+          "letter": "B",
+          "text": "Sostener únicamente empresas privadas que comercializan bienes y servicios en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tributación financia necesidades públicas y no sostiene únicamente empresas privadas."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuir el presupuesto municipal al eliminar los impuestos destinados a mejorar la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos hacen parte de los ingresos públicos necesarios para prestar servicios."
+        },
+        {
+          "letter": "D",
+          "text": "Reemplazar la participación ciudadana porque solo el gobierno decide dónde se recauda dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tributación no reemplaza la participación ciudadana en el control de los recursos públicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tributación es el conjunto de aportes Económicas que hacen los ciudadanos para financiar la actividad del Estado. Estos recursos respaldan servicios públicos como el agua potable, el drenaje, la educación y el alumbrado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la función de la tributación en esta situación?",
+      "context": "En Bogotá, una familia paga el impuesto predial y recibe servicios públicos como el acueducto y el saneamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Financiar únicamente gastos privados que producen ganancia para una familia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tributación financia políticas, obras y servicios de interés general, no solo gastos privados familiares."
+        },
+        {
+          "letter": "B",
+          "text": "Financiar servicios y obras públicos que generan beneficio para toda la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La tributación permite financiar servicios e infraestructura pública, como el acueducto y el saneamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituir las tarifas que las familias pagan por los servicios básicos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos y las tarifas tienen funciones diferentes dentro de la financiación pública."
+        },
+        {
+          "letter": "D",
+          "text": "Entregar todo el dinero recogido exclusivamente a empresas privadas de servicios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos no se entregan exclusivamente a empresas privadas; también financian acciones de interés general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tributación es el aporte económico que hacen personas y empresas para financiar al Estado. Ese dinero puedeier'sarse en servicios públicos, infraestructura y otras políticas que benefician a la comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v3",
+      "statement": "En Pereira, una familia con ingresos gravables debe pagar el impuesto de renta y también la factura mensual del acueducto. ¿Cuál explicación representa correctamente la diferencia entre esos pagos?",
+      "context": "Pereira, Colombia. Una familia con ingresos gravables recibe agua del acueducto municipal; todos los valores se expresan en pesos colombianos (COP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos pagos son tarifas porque el municipio de Pereira los cobra directamente por concepto del servicio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impuesto de renta es un tributo nacional y una tarifa es el cobro por un servicio; el municipio no cobra ambos por el mismo servicio."
+        },
+        {
+          "letter": "B",
+          "text": "El impuesto de renta paga el agua consumida, y la tarifa del acueducto es un impuesto nacional.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La relación está invertida: la tarifa del acueducto paga el servicio consumido y el impuesto de renta aporta a las finanzas públicas."
+        },
+        {
+          "letter": "C",
+          "text": "El impuesto de renta aporta a las finanzas públicas, y la tarifa del acueducto paga directamente el servicio de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. El impuesto de renta es un tributo exigido por la ley, mientras que la tarifa es el precio que se paga por utilizar un servicio público."
+        },
+        {
+          "letter": "D",
+          "text": "El impuesto de renta se paga por usar agua, y la tarifa del acueducto se cobra solo para construir obras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impuesto de renta surge por ingresos gravables, no por el consumo de agua; la tarifa se paga por recibir el servicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una tarifa es el precio que se paga por utilizar un servicio público, como el acueducto. El impuesto de renta es un tributo exigido por la ley para formar ingresos públicos que, junto con otros recursos, financian el gasto y la infraestructura del Estado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v4",
+      "statement": "En Bogotá, la dueña de un apartamento paga anualmente el impuesto predial. Parte de ese impuesto se destina a financiar las necesidades del municipio. ¿Cuál es la relación entre el impuesto predial y los servicios públicos?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El impuesto obliga a la dueña a contratar agua y luz para su apartamento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El impuesto predial es un tributo municipal obligatorio; no obliga a contratar agua o luz."
+        },
+        {
+          "letter": "B",
+          "text": "El impuesto garantiza que el apartamento solo pueda comprar agua en Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago del predial no concede exclusividad para comprar agua ni restringe la competencia."
+        },
+        {
+          "letter": "C",
+          "text": "El impuesto reemplaza todos los demás ingresos que recibe el municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presupuesto municipal combina varias fuentes de ingresos; el predial no reemplaza a todas las demás."
+        },
+        {
+          "letter": "D",
+          "text": "El impuesto contribuye a financiar servicios públicos del municipio.",
+          "is_correct": true,
+          "feedback": "Correcto. Mediante el presupuesto, el impuesto predial contribuye a financiar servicios públicos como el acueducto y el alumbrado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los impuestos son pagos obligatorios cuyos recursos hacen parte del presupuesto público. Los servicios públicos, como el acueducto y el alumbrado, se financian y administran desde el presupuesto para responder a las necesidades de la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál actuación demuestra una ciudadanía responsable frente a la tributación y los servicios públicos en Bogotá?",
+      "context": "En Bogotá, el municipio recibe ingresos tributarios, como el impuesto predial, para financiar obras y servicios públicos. Una familia debe pagar sus impuestos y hacer uso responsable de los bienes y servicios que recibe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pagar a tiempo el predial y hacer uso responsable de los servicios públicos.",
+          "is_correct": true,
+          "feedback": "Correcto. El predial es un impuesto que ayuda a financiar el presupuesto municipal, y el uso responsable de los servicios contribuye al bienestar común."
+        },
+        {
+          "letter": "B",
+          "text": "Pagar el predial solo cuando resulte conveniente, sin conocer su destino fiscal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos son una obligación tributaria y sus recursos pueden financiar obras y servicios públicos; pagarlos solo por conveniencia no cumple esa responsabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Creer que el agua es gratuita porque la ciudad administra y coordina su prestación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La administración municipal no implica que el agua sea gratuita; su prestación tiene costos y requiere una financiación adecuada."
+        },
+        {
+          "letter": "D",
+          "text": "Evadir el predial y esperar que otras familias financien las obras públicas de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evasión tributaria reduce los recursos públicos y traslada injustamente el costo de las obras a otras familias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tributación permite que las entidades públicas reciban ingresos para financiar servicios, obras y atención ciudadana. Pagar los impuestos y usar responsablemente lo público son formas de asumir una ciudadanía responsable y de procurar el bienestar común.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v6",
+      "statement": "Algunos propietarios de inmuebles afirman que no deberían pagar el ajuste del impuesto predial porque no utilizan los buses. ¿Qué análisis respeta mejor la relación entre la tributación y los servicios públicos?",
+      "context": "En Bogotá, el Consejo Distrital estudia dedicar 20.000 millones de pesos colombianos (COP) del impuesto predial a la modernización del transporte público.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No deben pagar, porque el pago de un impuesto debe corresponder exactamente al uso personal del transporte público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esto confunde la tributación con el precio individual de un servicio; el uso personal no elimina el deber de contribuir a la financiación pública."
+        },
+        {
+          "letter": "B",
+          "text": "Sí deben hacerlo mientras la ley establezca la obligación, porque ese impuesto financia un servicio público para toda la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución, artículo 95, numeral 9, establece el deber de contribuir a la financiación pública; el beneficio es colectivo, no solo para quienes usan el transporte."
+        },
+        {
+          "letter": "C",
+          "text": "Solo deben pagar si todos los propietarios de inmuebles de Bogotá aceptan individualmente el ajuste del impuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impuestos no dependen del consentimiento individual de cada contribuyente; la autoridad pública debe establecerlos o modificarlos mediante el procedimiento legal aplicable."
+        },
+        {
+          "letter": "D",
+          "text": "No deben pagar, porque una donación privada podría reemplazar el impuesto predial en la financiación del transporte público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una donación privada es voluntaria y no sustituye la tributación obligatoria, que permite reunir recursos de manera más segura y equitativa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los impuestos son contribuciones obligatorias destinadas a financiar gastos y servicios públicos; por eso, no funcionan como un pago individual por cada servicio utilizado. La Constitución colombiana reconoce el deber de contribuir a la financiación pública. Así, el impuesto predial puede sostener una red de transporte que beneficia a toda la ciudad, aunque algunos propietarios no la utilization directamente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v7",
+      "statement": "Bogotá recauda impuestos, como el de propiedad, y los incluye en su presupuesto municipal para financiar educación, salud y otros servicios públicos. ¿Por qué una persona que paga impuestos puede beneficiarse de servicios que no utiliza directamente, como la educación en colegios donde no tiene hijos?",
+      "context": "Bogotá, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la ley dispone que cada impuesto debe usarse solo en servicios públicos cercanos al domicilio de quien paga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El destino de un impuesto se define por la ley y el presupuesto, no por una exigencia de cercanía al domicilio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el municipio devuelve a cada ciudadano, en dinero, el mismo valor total de los impuestos que este paga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagar un impuesto no genera una devolución de dinero ni una compensación individual equivalente al valor pagado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los impuestos financian servicios públicos que corresponden a toda la comunidad, según lo dispuesto en el presupuesto.",
+          "is_correct": true,
+          "feedback": "Correcto. La tributación reúne recursos para financiar servicios y necesidades colectivas definidos en el presupuesto público."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo están obligados a pagar impuestos las personas que utilizan personalmente algún servicio público del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La obligación de pagar impuestos depende de los supuestos legales, no de usar personalmente un servicio público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tributación es la manera en que la ciudadanía aporta recursos al Estado para financiar necesidades y servicios de interés colectivo. El presupuesto público define cómo se distribuyen esos recursos, por lo que pagar un impuesto no significa recibir un servicio individual ni recibir dinero de retorno.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v8",
+      "statement": "En Bogotá, quienes tienen inmuebles pagan el predial y muchas personas y empresas aportan otros impuestos. El Distrito utiliza estos recursos, junto con otros ingresos, para financiar servicios públicos. ¿Cuál análisis explica correctamente la relación entre tributación y servicios públicos?",
+      "context": "En Bogotá, el predial y otros impuestos ingresan al presupuesto del Distrito para financiar servicios públicos y atender necesidades colectivas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tributación es una donación voluntaria que se usa únicamente para construir viviendas en los barrios de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tributación es un pago obligatorio y no una donación voluntaria; sus recursos atienden necesidades generales del Distrito."
+        },
+        {
+          "letter": "B",
+          "text": "El pago de impuestos garantiza que toda persona reciba todos los servicios públicos, sin considerar el presupuesto del Distrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tributación no garantiza servicios idénticos para cada persona; la prestación depende del presupuesto, la planeación y las prioridades del Distrito."
+        },
+        {
+          "letter": "C",
+          "text": "El predial financia solo empresas privadas y, por eso, no hace parte de los ingresos del presupuesto público de Bogotá.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El predial es un impuesto del Distrito de Bogotá cuyos recursos ingresan al presupuesto público y no se destinan exclusivamente a empresas privadas."
+        },
+        {
+          "letter": "D",
+          "text": "La tributación recauda recursos para necesidades colectivas, y el presupuesto los distribuye según la ley y las prioridades del Distrito.",
+          "is_correct": true,
+          "feedback": "Correcto. La tributación permite obtener recursos públicos para financiar servicios y necesidades colectivas dentro del presupuesto y laplaneación distrital."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tributación es el conjunto de pagos obligatorios que hacen las personas y empresas para financiar las necesidades del Estado. El presupuesto público organiza esos recursos y los asigna, según la ley y las prioridades, a servicios como educación, salud, transporte y agua potable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál opción interpreta correctamente la relación entre esos pagos, el distrito y los servicios públicos?",
+      "context": "En el barrio La Candelaria de Bogotá, una familia paga el impuesto predial y la factura del acueducto. El distrito administra el predial, mientras que una empresa de servicios opera la red de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El predial es un impuesto distrital que financia obras públicas, y el acueducto es un servicio público prestado por una empresa.",
+          "is_correct": true,
+          "feedback": "Correcto. El predial es un impuesto sobre la propiedad inmobiliaria administrado por el distrito, mientras que el acueducto es un servicio público domiciliario."
+        },
+        {
+          "letter": "B",
+          "text": "El predial es una tarifa de la empresa de acueducto, y este es un impuesto distrital destinado a reparar vías.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Invierte los conceptos: el predial es un impuesto distrital y el acueducto es un servicio público."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos pagos son impuestos del distrito, porque el predial y el acueducto se utilizan para financiar servicios del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acueducto no es un impuesto, sino un servicio público cuyo cobro corresponde a una tarifa."
+        },
+        {
+          "letter": "D",
+          "text": "Ambos pagos son servicios públicos del barrio, porque la familia los utiliza directamente sin cancelar ningún impuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El predial no es un servicio público, sino un impuesto sobre la propiedad inmobiliaria."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El predial es un Tributo distrital que contribuye a financiar obras y necesidades públicas. Por su parte, el acueducto es un servicio público cuyo pago corresponde a una tarifa y permite operar la red de suministro de agua.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál opción explica mejor por qué la tienda paga el ICA y cómo se relaciona ese pago con los servicios públicos de Medellín?",
+      "context": "En Medellín, una tienda paga el impuesto de industria y comercio (ICA), y sus aportes forman parte de los ingresos públicos del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El ICA es un pago opcional que solo beneficia a la tienda que lo paga.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ICA es obligatorio para quienes cumplen las condiciones tributarias, y los ingresos públicos-benefician a toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "El ICA es un tributo obligatorio que ayuda a financiar servicios e inversión pública.",
+          "is_correct": true,
+          "feedback": "Correcto. El ICA es un tributo municipal cuyos ingresosourasican parte del presupuesto necesario para prestar servicios e inversión pública."
+        },
+        {
+          "letter": "C",
+          "text": "El ICA es un gasto privado que reemplaza los ingresos y las decisiones del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ICA no reemplaza el presupuesto público, pues su recaudación se administra para cumplir funciones municipales."
+        },
+        {
+          "letter": "D",
+          "text": "El ICA es un ahorro personal que se utiliza solo para conservar los bienes de la tienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ICA no es un ahorro personal, sino un tributo destinado a fondos públicos y no a gastos privados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los tributos son pagos obligatorios que permiten financiar las funciones del Estado y los municipios. Por eso, el ICA de una tienda contribuye a atender necesidades colectivas, como educación, salud, infraestructura y servicios públicos. La Constitución exige que los fondos públicos se utilicen para los fines establecidos en ella y en la ley.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
