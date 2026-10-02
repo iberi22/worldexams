@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Prepositions Place (W26)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 1 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct preposition: 'The keys are ___ the table where I left them.'
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) on
+  <!-- feedback: Correct! 'On' is used for a surface, and keys lying on a table sit on that surface. -->
+- [ ] B) at
+  <!-- feedback: No. 'At' marks a point in space, such as a meeting place, and would not describe a position on a surface. -->
+- [ ] C) in
+  <!-- feedback: No. 'In' is used for the interior of something, and a table is not a container here. -->
+- [ ] D) to
+  <!-- feedback: No. 'To' shows movement towards a place and cannot describe a static position. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'On' is used for a surface, and keys lying on a table sit on that surface. In this item the choice that works is 'on', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 2 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence uses 'in' correctly for something inside a container?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [x] B) She put the letters in the drawer under the desk.
+  <!-- feedback: Correct! 'In' is used for the interior of a container, and a drawer is exactly that. -->
+- [ ] A) She put the letters on the drawer under the desk.
+  <!-- feedback: No. 'On' would mean the letters were resting on the surface of the drawer rather than inside it. -->
+- [ ] C) She put the letters at the drawer under the desk.
+  <!-- feedback: No. 'At' marks a general point in space and does not describe the inside of a container. -->
+- [ ] D) She put the letters to the drawer under the desk.
+  <!-- feedback: No. 'To' shows a destination and would change the meaning of the verb 'put'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'In' is used for the interior of a container, and a drawer is exactly that. In this item the choice that works is 'She put the letters in the drawer under the desk.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 3 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'She has lived ___ Ponce since she was a child.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] C) in
+  <!-- feedback: Correct! Cities and towns are treated as places where people live, and English uses 'in' before them. -->
+- [ ] A) at
+  <!-- feedback: No. 'At' is used for a precise point or for a building treated as a location, not for a city name. -->
+- [ ] B) on
+  <!-- feedback: No. 'On' is used for surfaces and for islands, but a city is not a surface. -->
+- [ ] D) from
+  <!-- feedback: No. 'From' marks the starting point of a movement and not a place where someone lives. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Cities and towns are treated as places where people live, and English uses 'in' before them. In this item the choice that works is 'in', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 4 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses 'at' correctly for a specific point?
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [x] D) We met at the entrance of the museum at noon.
+  <!-- feedback: Correct! 'At' marks the particular point where two people agreed to meet, which is the entrance. -->
+- [ ] A) We met on the entrance of the museum at noon.
+  <!-- feedback: No. 'On' is for surfaces, and an entrance is a point rather than a surface. -->
+- [ ] B) We met in the entrance of the museum at noon.
+  <!-- feedback: No. 'In' is for interiors, and a person waiting at an entrance is not inside it. -->
+- [ ] C) We met to the entrance of the museum at noon.
+  <!-- feedback: No. 'To' shows movement towards a place and does not describe where a meeting took place. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'At' marks the particular point where two people agreed to meet, which is the entrance. In this item the choice that works is 'We met at the entrance of the museum at noon.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 5 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence uses 'on' correctly for an island or a surface?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) They built a small house on the hill above the town.
+  <!-- feedback: Correct! A hill is treated as a surface, so English uses 'on' with it. -->
+- [ ] B) They built a small house in the hill above the town.
+  <!-- feedback: No. 'In' is for the interior of a closed space, and the surface of a hill is not an interior. -->
+- [ ] C) They built a small house at the hill above the town.
+  <!-- feedback: No. 'At' would name a point, and the house stands across the whole upper surface. -->
+- [ ] D) They built a small house to the hill above the town.
+  <!-- feedback: No. 'To' shows movement towards a place and does not describe where a building stands. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A hill is treated as a surface, so English uses 'on' with it. In this item the choice that works is 'They built a small house on the hill above the town.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 6 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that correctly uses 'beside' with a preposition of place.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [x] B) She sat beside her brother on the couch.
+  <!-- feedback: Correct! 'Beside' is followed directly by the noun phrase naming the person sitting next to her. -->
+- [ ] A) She sat beside of her brother on the couch.
+  <!-- feedback: No. 'Beside of' adds a preposition that does not follow 'beside' before a noun. -->
+- [ ] C) She sat beside her of brother on the couch.
+  <!-- feedback: No. 'Her of brother' breaks the possessive noun phrase, which has to stay together. -->
+- [ ] D) She sat beside during her brother on the couch.
+  <!-- feedback: No. 'Beside during' mixes a preposition of place with one of time, which cannot be combined. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Beside' is followed directly by the noun phrase naming the person sitting next to her. In this item the choice that works is 'She sat beside her brother on the couch.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 7 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence uses 'between' correctly?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] C) The bakery sits between the pharmacy and the post office.
+  <!-- feedback: Correct! 'Between' is followed directly by the two items that are being separated, with 'and' joining them. -->
+- [ ] A) The bakery sits between the pharmacy or the post office.
+  <!-- feedback: No. 'Or' would suggest a choice, but the sentence names two distinct neighbouring places. -->
+- [ ] B) The bakery sits between of the pharmacy and the post office.
+  <!-- feedback: No. 'Between of' adds a preposition that does not belong after 'between'. -->
+- [ ] D) The bakery sits among the pharmacy and the post office.
+  <!-- feedback: No. 'Among' is used for a larger group of more than two items, not for exactly two. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Between' is followed directly by the two items that are being separated, with 'and' joining them. In this item the choice that works is 'The bakery sits between the pharmacy and the post office.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 8 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'The cat is hiding ___ the bed.'
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] D) under
+  <!-- feedback: Correct! 'Under' describes a position lower than the bed, which is where a hiding cat would be. -->
+- [ ] A) during
+  <!-- feedback: No. 'During' is a preposition of time and cannot describe a position in space. -->
+- [ ] B) between the legs
+  <!-- feedback: No. 'Between the legs' would name a different place entirely and would not fit the gap under the bed. -->
+- [ ] C) since
+  <!-- feedback: No. 'Since' marks a starting point in time and has no spatial meaning. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Under' describes a position lower than the bed, which is where a hiding cat would be. In this item the choice that works is 'under', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 9 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence uses 'next to' correctly?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] B) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] C) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) The pharmacy is next to the school, right across the street.
+  <!-- feedback: Correct! 'Next to' is a two word preposition meaning immediately beside, and both halves are needed. -->
+- [ ] B) The pharmacy is next of the school, right across the street.
+  <!-- feedback: No. 'Next of' is not a preposition; the second half must be 'to'. -->
+- [ ] C) The pharmacy is next the to school, right across the street.
+  <!-- feedback: No. 'Next the to school' puts the noun in the wrong position, between the two halves of the preposition. -->
+- [ ] D) The pharmacy is next in to the school, right across the street.
+  <!-- feedback: No. 'Next in to' mixes 'into', which shows movement, with 'next', which describes a static position. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Next to' is a two word preposition meaning immediately beside, and both halves are needed. In this item the choice that works is 'The pharmacy is next to the school, right across the street.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 10 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence correctly contrasts 'in front of' and 'behind'?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] B) A tall tree stands in front of the house and a shed sits behind it.
+  <!-- feedback: Correct! 'In front of' marks the side facing the observer and 'behind' marks the far side, so both positions are correct. -->
+- [ ] A) A tall tree stands in the front of the house and a shed sits behind it.
+  <!-- feedback: No. 'In the front of' would place the tree inside the house itself. -->
+- [ ] C) A tall tree stands before of the house and a shed sits behind it.
+  <!-- feedback: No. 'Before of' splits the preposition, which cannot happen in English. -->
+- [ ] D) A tall tree stands in front of house and a shed sits behind it.
+  <!-- feedback: No. 'Front of house' drops the definite article, and a singular countable noun needs it here. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'In front of' marks the side facing the observer and 'behind' marks the far side, so both positions are correct. In this item the choice that works is 'A tall tree stands in front of the house and a shed sits behind it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 11 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that correctly uses 'on' for a transport connection.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [x] C) They live on Calle Aldea, right next to the plaza.
+  <!-- feedback: Correct! 'On' is the preposition used with streets and avenues in English. -->
+- [ ] A) They live on Calle Aldea, right next in the plaza.
+  <!-- feedback: No. 'Next in' would require the word 'inside', so the preposition here is wrong. -->
+- [ ] B) They live at Calle Aldea, right next to the plaza.
+  <!-- feedback: No. 'At' is used for a precise point or a building, not for the name of a street. -->
+- [ ] D) They live in Calle Aldea, right next to the plaza.
+  <!-- feedback: No. 'In' is used for towns and countries, not for the name of a street. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'On' is the preposition used with streets and avenues in English. In this item the choice that works is 'They live on Calle Aldea, right next to the plaza.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 12 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence uses 'inside' correctly?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [x] D) The keys were inside the bag, not outside it.
+  <!-- feedback: Correct! 'Inside' is used without 'of' before a noun when it describes the interior of something. -->
+- [ ] A) The keys were inside of bag, not outside it.
+  <!-- feedback: No. 'Inside of' would be wrong here; 'inside of' is only used when 'inside' ends the sentence by itself. -->
+- [ ] B) The keys were inside the bag, not in side it.
+  <!-- feedback: No. 'In side' would split the word and read as two separate words. -->
+- [ ] C) The keys were inside from the bag, not outside it.
+  <!-- feedback: No. 'From' marks a starting point of movement and cannot describe a static position. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Inside' is used without 'of' before a noun when it describes the interior of something. In this item the choice that works is 'The keys were inside the bag, not outside it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 13 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'The village is located ___ the mountains, about ten kilometres away.'
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) in
+  <!-- feedback: Correct! 'In' is used with mountains as a region in which the village sits. -->
+- [ ] B) during
+  <!-- feedback: No. 'During' is a preposition of time and cannot describe a location. -->
+- [ ] C) since
+  <!-- feedback: No. 'Since' marks a starting point in time and has no spatial meaning. -->
+- [ ] D) for
+  <!-- feedback: No. 'For' expresses duration or distance to a destination, not a position inside a region. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'In' is used with mountains as a region in which the village sits. In this item the choice that works is 'in', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 14 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence correctly uses 'opposite'?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [x] B) The bakery is opposite the school, on the other side of the road.
+  <!-- feedback: Correct! 'Opposite' is followed directly by the noun phrase, and here it means facing it across the road. -->
+- [ ] A) The bakery is opposite of the school, on the other side of the road.
+  <!-- feedback: No. 'Opposite of' is only used when 'opposite' ends the sentence, not before a noun phrase. -->
+- [ ] C) The bakery is opposite the of school, on the other side of the road.
+  <!-- feedback: No. 'The of school' breaks the required order of the noun phrase after the preposition. -->
+- [ ] D) The bakery is opposite at school, on the other side of the road.
+  <!-- feedback: No. 'Opposite at' would need a point in space, not a building named by a noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Opposite' is followed directly by the noun phrase, and here it means facing it across the road. In this item the choice that works is 'The bakery is opposite the school, on the other side of the road.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 15 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence uses 'by' correctly for a position next to something?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [x] C) She waited by the door until her friend arrived.
+  <!-- feedback: Correct! 'By' means next to and is followed directly by the noun naming the thing waited beside. -->
+- [ ] A) She waited by of the door until her friend arrived.
+  <!-- feedback: No. 'By of' inserts a preposition that does not belong after 'by'. -->
+- [ ] B) She waited by the door of until her friend arrived.
+  <!-- feedback: No. 'The door of until' breaks the noun phrase, which must stay together after the preposition. -->
+- [ ] D) She waited by during the door until her friend arrived.
+  <!-- feedback: No. 'By during' mixes a preposition of place with one of time, which cannot be combined. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'By' means next to and is followed directly by the noun naming the thing waited beside. In this item the choice that works is 'She waited by the door until her friend arrived.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 16 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence with the correct preposition for something attached to a wall.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] D) A large map hangs on the wall of the classroom.
+  <!-- feedback: Correct! 'On' is used for something placed against a vertical surface such as a wall. -->
+- [ ] A) A large map hangs in the wall of the classroom.
+  <!-- feedback: No. 'In' would place the map inside the wall itself, which is not what hanging means. -->
+- [ ] B) A large map hangs at the wall of the classroom.
+  <!-- feedback: No. 'At' marks a general point and does not describe contact with a surface. -->
+- [ ] C) A large map hangs from during the wall of the classroom.
+  <!-- feedback: No. 'From during' combines two prepositions that cannot govern the same noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'On' is used for something placed against a vertical surface such as a wall. In this item the choice that works is 'A large map hangs on the wall of the classroom.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 17 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence uses 'near' correctly?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) We rent a house near the beach in Vega Baja.
+  <!-- feedback: Correct! 'Near' is followed directly by the noun phrase naming the place that is close by. -->
+- [ ] B) We rent a house near of the beach in Vega Baja.
+  <!-- feedback: No. 'Near of' adds a preposition that does not follow 'near' before a noun. -->
+- [ ] C) We rent a house near the of beach in Vega Baja.
+  <!-- feedback: No. 'The of beach' breaks the noun phrase, which must follow the preposition as a unit. -->
+- [ ] D) We rent a house near during the beach in Vega Baja.
+  <!-- feedback: No. 'Near during' mixes a preposition of place with one of time. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Near' is followed directly by the noun phrase naming the place that is close by. In this item the choice that works is 'We rent a house near the beach in Vega Baja.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 18 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'The library is on the corner ___ Main Street and Third Avenue.'
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [x] B) of
+  <!-- feedback: Correct! 'Corner of' is a fixed expression naming the junction of two streets. -->
+- [ ] A) between of
+  <!-- feedback: No. 'Between of' would double the preposition and break the expression. -->
+- [ ] C) at of
+  <!-- feedback: No. 'At of' combines two position words that cannot be joined in this way. -->
+- [ ] D) since
+  <!-- feedback: No. 'Since' marks a starting point in time and has no spatial use here. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Corner of' is a fixed expression naming the junction of two streets. In this item the choice that works is 'of', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 19 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence correctly distinguishes 'at' for a building from 'in' for a city?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] C) She is studying at the university in Mayaguez this semester.
+  <!-- feedback: Correct! 'At' is used with the institution and 'in' with the city it is located in. -->
+- [ ] A) She is studying in the university on Mayaguez this semester.
+  <!-- feedback: No. 'In the university' would place her inside the building rather than at the institution, and 'on' is not used for a city. -->
+- [ ] B) She is studying at the university at Mayaguez this semester.
+  <!-- feedback: No. 'At Mayaguez' is not the form used for a city; English uses 'in' with city names. -->
+- [ ] D) She is studying at the university for Mayaguez this semester.
+  <!-- feedback: No. 'For Mayaguez' would state a duration or a purpose, neither of which is meant. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'At' is used with the institution and 'in' with the city it is located in. In this item the choice that works is 'She is studying at the university in Mayaguez this semester.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W26 de ingles, grado 11: ejercicio 20 de 20 sobre prepositions of place.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is correct when something is partly hidden behind another thing?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] D) Only part of the sign was visible behind the wall.
+  <!-- feedback: Correct! 'Behind' describes a position hidden from view by something else in front. -->
+- [ ] A) Only part of the sign was visible in the wall.
+  <!-- feedback: No. 'In the wall' would place the sign inside the wall itself. -->
+- [ ] B) Only part of the sign was visible opposite the wall.
+  <!-- feedback: No. 'Opposite' means facing something across a distance, not hidden by it. -->
+- [ ] C) Only part of the sign was visible near during the wall.
+  <!-- feedback: No. 'Near during' mixes a preposition of place with one of time. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Behind' describes a position hidden from view by something else in front. In this item the choice that works is 'Only part of the sign was visible behind the wall.', because it is the option that matches what the sentence and the task require.

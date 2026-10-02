@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia learns to open a narrative essay with a hook that grabs the reader instantly.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the best hook for a narrative essay about a first solo trip.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [ ] A) My story is about an interesting trip.
+  <!-- feedback: The flat announcement that my story is about a trip fails because telling the topic announces without creating suspense or vivid interest. -->
+- [x] B) My hands shook as the night train pulled away.
+  <!-- feedback: Correct! Starting with shaking hands on a dark platform drops readers into action, so this hook grabs attention for a narrative essay. -->
+- [ ] C) Travelling is very nice for all people.
+  <!-- feedback: The broad claim that travelling is very nice fails because general truths lack a personal moment and do not start any story. -->
+- [ ] D) Travel is defined as movement from place to place.
+  <!-- feedback: The dictionary style definition of travel fails because defining terms belongs to expository writing, not to lively narrative openings. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+A narrative hook opens with action, dialogue, or a surprising image. It pulls readers into the moment instead of announcing the story in flat general words.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Diego studies the parts of a narrative essay during a writing workshop in class.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which option shows the correct structural order of a narrative essay?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) Orientation, rising action, climax, falling action, reflection.
+  <!-- feedback: Correct! Orientation, rising action, climax, falling action, and reflection names the true narrative arc in its logical storytelling order. -->
+- [ ] B) Introduction, methods, results, discussion section.
+  <!-- feedback: The list of introduction, methods, results, discussion fails because that is a science report structure, not a personal story shape. -->
+- [ ] C) Thesis, three arguments, final conclusion paragraph.
+  <!-- feedback: The list of thesis, three arguments, conclusion fails because that is an opinion essay plan, lacking climax and narrative tension. -->
+- [x] D) Title page, index, and long bibliography list.
+  <!-- feedback: The list of title, index, bibliography fails because those are book parts, not stages of a developing personal story. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
+Narrative essays follow orientation, rising action, climax, falling action, and reflection. Knowing this order keeps events clear and builds tension correctly.
+
+## Question 3 [D4]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara practises writing orientation paragraphs that set time, place, and characters.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the best orientation sentence for a narrative essay about a summer storm.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] C) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] A) One day I did something with someone somewhere.
+  <!-- feedback: The vague line about doing something one day fails because no time, place, or person appears, leaving readers completely unoriented. -->
+- [ ] B) Stories need characters to be interesting essays.
+  <!-- feedback: The general claim that stories need characters fails because stating rules explains writing but does not actually orient this particular story. -->
+- [ ] C) Last July I stayed with uncle Tomas in a small fishing village.
+  <!-- feedback: Correct! Last July in a small fishing village with uncle Tomas gives time, place, and character, so orientation is complete and vivid. -->
+- [ ] D) Run! he shouted as the bridge collapsed loudly.
+  <!-- feedback: The sudden climax line about shouting run fails because action without context confuses readers who still lack basic orientation. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
+Orientation grounds readers quickly with concrete when, where, and who. Specific summer village details orient far better than vague general statements.
+
+## Question 4 [D5]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo writes a story paragraph and must keep all verbs in past narrative tenses.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the sentence with correct narrative past tenses for a storm memory.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) I go to the lake where the sun was shining and heard thunder.
+  <!-- feedback: The version mixing go, was shining, and heard fails because go in present breaks the past frame set by the other verbs. -->
+- [ ] B) I goes to the lake where the sun shines and hears thunder.
+  <!-- feedback: The version with goes, shines, and hears fails because full present tense turns a past memory into a general fact sheet. -->
+- [x] C) I went to the lake where the sun was shining and heard thunder.
+  <!-- feedback: Correct! Went, was shining, and heard keeps main events in past simple with background in past continuous, perfect for narration. -->
+- [ ] D) I will go to the lake where the sun will shine loudly.
+  <!-- feedback: The version with will go and will shine fails because future tense promises action instead of retelling a completed memory. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
+Narrative essays normally use past simple for main events and past continuous for background. Present tense breaks the story frame and confuses timing.
+
 ## Question 5 [D5]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Carmen practises sequencing connectors to order events clearly in her essay.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Fill the gap with the best sequenced version. ___ we packed, ___ we climbed, ___ fog closed in.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] C) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) We packed and we walked and we saw and we returned.
+  <!-- feedback: The option with and and and only fails because repetition without time markers leaves order vague and the paragraph flat. -->
+- [ ] B) Finally we packed, first we walked, then we returned.
+  <!-- feedback: The option starting with finally at the beginning fails because finally belongs at the end, so opening with it breaks logical order. -->
+- [ ] C) First we packed, then we climbed, suddenly fog closed in, finally we found shelter.
+  <!-- feedback: Correct! First, then, suddenly, and finally maps preparation, action, twist, and ending, giving the paragraph clear chronological shape. -->
+- [ ] D) We packed however we walked moreover we returned home.
+  <!-- feedback: The option with however and moreover only fails because those add contrast and information, not the time sequence a story needs. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+Sequencers like first, then, suddenly, and finally guide readers through time. They mark order and turning points so the plot never feels jumbled.
+
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Hugo learns to show feelings through actions instead of only naming them.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that best shows nervousness rather than only telling it.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) I was very nervous before the race.
+  <!-- feedback: The flat line I was nervous fails because naming the feeling tells without any image, leaving readers with no sensory proof. -->
+- [ ] B) My hands trembled and my breath came shallow before the race.
+  <!-- feedback: Correct! Trembling hands and shallow breath show anxiety through body detail, letting readers infer nervousness without being told directly. -->
+- [x] C) Mathematics has many difficult equations to solve.
+  <!-- feedback: The unrelated line about mathematics fails because equations distract from emotion and add no bodily image of nervousness at all. -->
+- [ ] D) School trips are educational for all young students.
+  <!-- feedback: The summary line that trips are educational fails because general reflection explains value but shows no moment of felt emotion. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Show not tell replaces I was nervous with trembling hands and shallow breath. Concrete body and sense details let readers infer emotion vividly.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena reviews three climax sentences to find the one with real tension and turning point.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Identify the true climax sentence for a mountain hike narrative.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) We ate toast calmly before leaving home.
+  <!-- feedback: The calm breakfast description fails because routine eating carries no risk or turning point, so it cannot function as a story climax. -->
+- [ ] B) The village had three shops and a small square.
+  <!-- feedback: The background line about the village having three shops fails because static description pauses plot instead of raising decisive tension. -->
+- [ ] C) The rope slipped and I had to choose between shouting or holding on.
+  <!-- feedback: Correct! The rope slipping with a choice between shouting or holding on creates risk and decision, the true marks of climax. -->
+- [x] D) Thus I learned that friendship is very important.
+  <!-- feedback: The closing moral about friendship fails because reflection belongs after resolution, not at the peak moment of danger. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+The climax is the highest tension moment where the outcome turns. It needs risk, urgency, and a decision, not calm routine or background description.
+
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Marco checks dialogue punctuation before submitting his narrative essay draft.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+A writer marks a rescue scene for dialogue punctuation. Which version uses the punctuation of direct speech correctly?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) "Run fast now!" he pulled my arm and dragged her towards the rope.
+  <!-- feedback: A comma after the closing quotation mark splits one sentence into two unrelated ones, and the new sentence then repeats the subject, so the two actions read as separate events instead of one continuous rescue. -->
+- [x] B) "Run fast now," he pulled my arm, and he dragged her towards the rope.
+  <!-- feedback: Correct! A full stop closes the quoted speech, the new sentence repeats the subject, and the comma before the last item keeps the list of actions flowing as one sequence. -->
+- [ ] C) RUN FAST NOW! HE PULLED MY ARM AND HE DRAGGED HER TOWARDS THE ROPE.
+  <!-- feedback: Writing the whole line in capitals is not a standard way to show shouting in narrative text; English marks intensity with an exclamation mark, and the repeated subject makes the prose heavy. -->
+- [ ] D) he said to run fast now and then he pulled my arm and he dragged her.
+  <!-- feedback: Reporting the speech indirectly with "he said to run" removes the direct quotation entirely, and repeating "and he" three times produces a clumsy rhythm that the punctuation cannot repair. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
+Direct speech needs three marks in a narrative: quotation marks around what is said, a full stop or question mark inside them, and capital letters on the speaker and on the first word of each new sentence. When a new sentence after the quotation continues the same action, the subject is repeated rather than replaced by a pronoun, and commas join the rest of the coordinated series.
+
+## Question 9 [D6]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia practises sensory description for a market scene in her narrative essay.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the most vivid sensory description for a morning market memory.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) The air smelled of cinnamon, vendors shouted prices, and mango juice stuck to my hands.
+  <!-- feedback: Correct! Cinnamon air, shouting vendors, and sticky mango hands blend smell, sound, and touch, creating full sensory immersion. -->
+- [ ] B) The market was very nice and good.
+  <!-- feedback: The bare line that the market was nice fails because nice judges without any sense image, leaving readers unable to picture anything. -->
+- [x] C) The market had exactly five hundred stalls in total.
+  <!-- feedback: The statistic about five hundred stalls fails because numbers inform but do not let readers hear, smell, or feel the market. -->
+- [ ] D) A market is a place where people buy things.
+  <!-- feedback: The definition of markets in general fails because abstract explanation replaces lived sensation with textbook style information. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
+Sensory description blends sight, sound, smell, and touch. Cinnamon air plus shouting vendors plus sticky hands immerses readers in the market fully.
+
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Andres compares two reflective endings and must choose the one that shows growth.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the better reflective ending for an essay about getting lost in a forest.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] A) And that was the end of my story.
+  <!-- feedback: The ending that only says the end fails because stopping the story offers no insight about change or learned meaning. -->
+- [ ] B) The bus left at six fifteen that day.
+  <!-- feedback: The ending repeating the bus time fails because factual detail looks backward without extracting any personal growth lesson. -->
+- [ ] C) I realised fear shrinks when you share it with a friend.
+  <!-- feedback: Correct! Realising fear shrinks when shared shows changed understanding, turning an adventure into a clear personal growth reflection. -->
+- [ ] D) Then a dragon appeared behind the school gym.
+  <!-- feedback: The ending introducing a new dragon fails because new plot at the close confuses resolution and adds no thoughtful reflection. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
+A strong reflection connects the past event to present change. It names what was learned and how behaviour or thinking differs now.
+
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Noa learns to avoid moralising conclusions that preach instead of reflecting.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the reflective rather than preachy ending for a kayak mishap story.
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) Everyone must always obey their parents in life.
+  <!-- feedback: The preachy command that everyone must obey parents fails because lecturing general readers breaks the personal reflective narrative tone. -->
+- [ ] B) Proverbs are wise and people should follow them.
+  <!-- feedback: The proverb list without story link fails because disconnected sayings preach wisdom but ignore the narrated experience itself. -->
+- [ ] C) Since that day I always pack water and check tide times myself.
+  <!-- feedback: Correct! Sharing that I now pack and check tides shows personal change from the mishap, a reflective rather than preaching close. -->
+- [x] D) Nothing more happened and there is nothing to say.
+  <!-- feedback: The abrupt stop saying nothing more fails because silence offers no meaning, leaving the story unfinished and unreflected. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+Preachy endings lecture readers with must and should. Reflective endings share personal change with I language, inviting readers without commanding them.
+
+## Question 12 [D7]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Irene orders four jumbled sentences into a coherent narrative paragraph.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the correctly ordered paragraph for a farewell at the station.
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) Tears filled my eyes before the train story began.
+  <!-- feedback: Starting with tears before arrival fails because emotion precedes its cause, breaking cause and effect in narrative logic. -->
+- [x] B) The whistle blew before we reached the station.
+  <!-- feedback: Starting with the whistle before the train arrives fails because hearing departure before arrival reverses realistic event order. -->
+- [ ] C) I learned courage before anything happened that day.
+  <!-- feedback: Starting with reflection before the scene fails because meaning should follow experience, not open a paragraph without context. -->
+- [ ] D) We reached the platform, noticed empty seats, heard the final whistle, and tears filled my eyes.
+  <!-- feedback: Correct! Arriving, noticing empty seats, hearing the whistle, and feeling tears follows real time and emotional cause correctly. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+Coherent order moves from arrival to detail to crisis to feeling. Jumbled time markers must be rearranged so cause precedes emotional effect logically.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Tomas spots a tense shift error inside an otherwise good narrative paragraph.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Identify the sentence without a tense shift error in a night hike story.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) We walked to the hut and suddenly arrive at midnight.
+  <!-- feedback: The version with arrive in present fails because arrive breaks the past chain of walked and saw, creating a tense shift error. -->
+- [ ] B) We arrives at the hut and sees strange lights there.
+  <!-- feedback: The version with arrives and sees fails because double present verbs abandon past narration entirely, turning memory into live report. -->
+- [ ] C) We walked to the hut and saw strange lights flicker inside.
+  <!-- feedback: Correct! Walked, saw, and offered all stay in past simple, so this version fixes the shift and keeps narration consistent. -->
+- [x] D) We will walk to the hut and will see lights.
+  <!-- feedback: The version with will walk and will see fails because future tense predicts rather than retells, abandoning narrative past completely. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+Tense consistency keeps the story world stable. A sudden present verb inside past narration jars readers and must be corrected to past form.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Julia evaluates two titles for a narrative essay about losing and finding a dog.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the most effective narrative title for an essay about a missing dog.
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) My Essay Number One for Class.
+  <!-- feedback: The flat label My Essay Number One fails because it names schoolwork without hinting at story, emotion, or change. -->
+- [ ] B) How I Lost the Dog Then Found the Dog at Five.
+  <!-- feedback: The spoiler title telling the full ending fails because revealing every plot point removes curiosity before reading starts. -->
+- [x] C) A Scientific Study of Animal Behaviour Patterns.
+  <!-- feedback: The academic title on animal behaviour fails because scientific tone promises analysis, not a personal narrative about loss. -->
+- [ ] D) The Bark I Heard at Midnight.
+  <!-- feedback: Correct! The Bark at Midnight hints at mystery and emotion while withholding the ending, ideal for a narrative title. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
+Good narrative titles hint at emotion and change without giving away the ending. They use image or voice, not flat labels like My Essay.
+
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Alba revises a flat paragraph by adding a time clause that builds suspense.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the revision that best builds suspense before a discovery.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] C) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) It happened quickly and then it ended.
+  <!-- feedback: The flat summary that it happened quickly fails because speed without stretching gives readers no breathless waiting moment. -->
+- [x] B) The events occurred between nine and ten.
+  <!-- feedback: The timetable list of hours fails because clock facts inform but do not create emotional pressure before the key event. -->
+- [ ] C) Just as I reached the gate, my torch flickered and died.
+  <!-- feedback: Correct! Just as I reached combined with failing torch stretches time and raises fear, a classic suspense building revision. -->
+- [ ] D) Nights in winter are usually very dark outside.
+  <!-- feedback: The general claim that nights are dark fails because obvious truth adds no pressure or specific story tension at all. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
+Suspense grows with time pressure clauses like just as or before I could. They stretch the moment before the outcome lands.
+
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Bruno practises linking a flashback clearly without confusing the reader.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence that correctly signals a flashback in a narrative essay.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] A) I am a child now running in that same yard.
+  <!-- feedback: The unmarked jump to childhood fails because sudden present childhood beside adult action confuses time levels completely. -->
+- [ ] B) Years earlier I had hidden the key under that loose stone.
+  <!-- feedback: Correct! Years earlier with had hidden signals the memory and uses past perfect, making the flashback boundary crystal clear. -->
+- [ ] C) Next year I will hide something in the yard.
+  <!-- feedback: The future jump to next year fails because forward leap is not a flashback and breaks the requested backward memory task. -->
+- [ ] D) Time passes and many things happen in life.
+  <!-- feedback: The vague line about time passing fails because general passing marks no entry or exit for the remembered scene. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
+Flashbacks need a clear signal like years earlier plus past perfect. Without markers, readers cannot tell memory from current action.
+
+## Question 17 [D8]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Vega checks a classmate draft where the resolution solves the conflict too easily.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the most believable resolution for a story about a ruined harvest.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) A magic wallet full of cash appeared suddenly.
+  <!-- feedback: The magic wallet appearing from nowhere fails because unearned luck ignores prior plot and teaches no believable cause and effect. -->
+- [ ] B) A stranger gifted a new house for free.
+  <!-- feedback: The stranger gifting everything free fails because instant charity without connection resolves conflict without earned narrative logic. -->
+- [x] C) He said sorry but changed nothing at all.
+  <!-- feedback: The apology that changes nothing fails because words without changed action leave the original conflict fully unresolved. -->
+- [ ] D) Neighbours who she had once helped shared their harvest.
+  <!-- feedback: Correct! Neighbours helping because she once shared harvest uses planted kindness, making the resolution earned and believable. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+Believable resolutions grow from earlier effort and clues. Magic fixes that ignore setup feel cheap, while earned help rewards established kindness.
+
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Dario must correct a false statement about narrative point of view for the exam.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Correct the false statement. Which option validly describes narrative point of view?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) First person I narration knows only what that speaker experiences.
+  <!-- feedback: Correct! First person I narration limited to personal knowledge correctly defines the viewpoint, making this the valid statement. -->
+- [ ] B) First person narrators know every hidden thought of all people.
+  <!-- feedback: The claim that first person knows all minds fails because I narrators cannot read others thoughts, only observe outward signs. -->
+- [ ] C) Point of view never changes a story effect.
+  <!-- feedback: The claim that point of view never matters fails because voice shapes sympathy and information, central to narrative effect. -->
+- [x] D) Third person narration must always use the pronoun I.
+  <!-- feedback: The claim that third person must use I fails because third person uses he or she, while I belongs to first person. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
+First person uses I and knows only personal thoughts, while third limited stays close to one character. Confusing them mislabels the narrative voice.
+
 ## Question 19 [D9]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Nora plans a full essay about a storm that taught her to respect the sea.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the coherent whole essay plan for a narrative about respecting the sea.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) Hook on foods, body on recipes, ending on lunch.
+  <!-- feedback: The plan about favourite foods fails because menu details ignore the storm theme and teach nothing about respecting the sea. -->
+- [ ] B) Introduction with tide tables, body with statistics, ending with numbers.
+  <!-- feedback: The plan listing tide tables only fails because data without story lacks character, tension, and personal change completely. -->
+- [ ] C) Opening kickoff, rising match tension, final goal victory.
+  <!-- feedback: The plan about a football final fails because sport victory contradicts the sea respect theme and wastes every narrative stage. -->
+- [ ] D) Calm dawn fishing, rising waves, rescue choice, humble respect ending.
+  <!-- feedback: Correct! Dawn calm, rising waves, rescue choice, and humble reflection all build the sea respect theme through complete arc. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+Whole essay planning aligns hook, rising seas, rescue choice, and humble reflection. Every stage must serve the theme of respect for nature power.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Iker writes the final line of a narrative essay about his grandfather old watch.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Order the logic and choose the most resonant final line for the watch story.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) Exams start on Monday at eight sharp.
+  <!-- feedback: The timetable note about exams fails because school dates abandon the watch symbol and close with irrelevant information. -->
+- [x] B) Young people must always value every minute.
+  <!-- feedback: The moral lecture that youth must value time fails because preaching replaces image resonance with flat instruction at the close. -->
+- [ ] C) Suddenly a loud noise came from the dark.
+  <!-- feedback: The cliffhanger about a sudden noise fails because new suspense at the end denies resolution and breaks reflective closure. -->
+- [ ] D) Its stopped hands now mark the walks we still take in memory.
+  <!-- feedback: Correct! The stopped hands now marking remembered walks echoes the opening watch with transformed meaning, a resonant narrative close. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Final lines resonate by echoing the opening image with new meaning. The stopped watch now measures memory, closing the story with quiet symbolic depth.

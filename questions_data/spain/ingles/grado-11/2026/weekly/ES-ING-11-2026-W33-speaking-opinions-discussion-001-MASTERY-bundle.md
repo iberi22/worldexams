@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia wants to start her turn in a class debate about school uniforms.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence correctly gives an opinion to start a discussion turn?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [ ] A) In my view, uniforms save time.
+  <!-- feedback: Correct! In my view correctly opens a personal opinion politely, so it perfectly starts Lucia turn about school uniforms in a class debate. -->
+- [x] B) Close the door, please.
+  <!-- feedback: The option Close the door is wrong because Close the door is an instruction about the classroom, which expresses no opinion and cannot open a debate turn. -->
+- [ ] C) What time is it now?
+  <!-- feedback: The option What time is it is wrong because What time is it asks for information about time, which contributes no viewpoint to the uniform discussion. -->
+- [ ] D) I have a pen here.
+  <!-- feedback: The option I have a pen is wrong because I have a pen states possession of an object, which is irrelevant and offers no stance on uniforms. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Giving opinions in discussion uses clear frames like In my view or From my perspective. These signals mark a personal stance politely and invite response. Memorizing two or three frames gives B2 speakers confident openings.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Diego wants to ask his classmates what they think about homework.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which question best asks others for their opinions in a discussion?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) Do your homework now.
+  <!-- feedback: The option Do your homework now is wrong because Do your homework now is a command to act, which asks for no viewpoint and closes discussion. -->
+- [ ] B) Give me your pen, please.
+  <!-- feedback: The option Give me your pen is wrong because Give me your pen requests an object, which is unrelated to inviting classmates to share views. -->
+- [ ] C) What do you think about homework?
+  <!-- feedback: Correct! What do you think about homework correctly asks for viewpoints openly, so it perfectly invites classmates to share varied opinions in discussion. -->
+- [x] D) The homework is long today.
+  <!-- feedback: The option The homework is long is wrong as an invitation because although it states one view, it does not ask others for their thoughts at all. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Asking for opinions uses What do you think or How do you feel about. These open questions invite others to speak and keep discussion moving. Closed yes or no questions without opinion verbs are weaker for discussion.
+
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Carmen agrees strongly with her friend about banning plastic bottles.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Carmen wants to agree strongly. Which response fits best?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] A) I totally disagree with you.
+  <!-- feedback: The option I totally disagree is wrong because I totally disagree expresses strong opposition, which contradicts Carmen wish to support the plastic bottle ban. -->
+- [ ] B) I totally agree with you.
+  <!-- feedback: Correct! I totally agree with you correctly shows strong agreement, so it perfectly supports her friend proposal to ban plastic bottles at school. -->
+- [ ] C) I have no idea about it.
+  <!-- feedback: The option I have no idea is wrong because I have no idea admits lack of knowledge, which avoids taking any supportive stance in the discussion. -->
+- [ ] D) Change the topic right now.
+  <!-- feedback: The option Change the topic now is wrong because Change the topic now refuses to engage, which blocks agreement and stops the discussion from progressing. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
+Strong agreement uses I totally agree or You are absolutely right. These emphatic frames show full support and strengthen group consensus. Adding a reason after agreement makes the turn more persuasive and natural.
+
+## Question 4 [D5]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Pablo must disagree politely with a classmate about late school start.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which reply disagrees politely and keeps the discussion respectful?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) You are completely wrong.
+  <!-- feedback: The option You are completely wrong is wrong because You are completely wrong attacks the speaker directly, which sounds rude and breaks polite discussion norms. -->
+- [ ] B) Shut up right now.
+  <!-- feedback: The option Shut up right now is wrong because Shut up right now is aggressive and silences the partner, which destroys respectful turn taking completely. -->
+- [x] C) I see your point, but I disagree.
+  <!-- feedback: Correct! I see your point, but I disagree correctly softens opposition, so it politely contrasts views about late school start while respecting the classmate. -->
+- [ ] D) That is stupid nonsense.
+  <!-- feedback: The option That is stupid nonsense is wrong because That is stupid nonsense insults the idea harshly, which offends the speaker and violates polite disagreement rules. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
+Polite disagreement softens with I see your point, but or I am afraid I disagree because. Direct You are wrong sounds rude and breaks discussion flow. Softeners keep debate respectful while still showing contrast.
+
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Sara wants to interrupt kindly because she has an urgent point.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence interrupts a discussion politely and appropriately?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) Stop talking at once.
+  <!-- feedback: The option Stop talking at once is wrong because Stop talking at once orders the speaker to be silent, which is abrupt and violates polite interruption norms. -->
+- [ ] B) Sorry to interrupt, but may I add something?
+  <!-- feedback: Correct! Sorry to interrupt, but may I add something correctly apologizes and requests entry, so it kindly introduces an urgent point without offending. -->
+- [ ] C) You never let me speak.
+  <!-- feedback: The option You never let me speak is wrong because You never let me speak accuses the partner of selfishness, which creates conflict rather than polite entry. -->
+- [ ] D) I am leaving right now.
+  <!-- feedback: The option I am leaving right now is wrong because I am leaving right now abandons the discussion entirely, which fails to introduce any point at all. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+Polite interruption uses Sorry to interrupt, but or May I add something here. Apology plus request protects the current speaker face. Bare interruptions like Listen to me sound abrupt and damage cooperation.
+
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Jorge is hedging his claim so he does not sound too absolute.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence hedges an opinion correctly and sounds cautious?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) Everyone knows it is true.
+  <!-- feedback: The option Everyone knows it is true is wrong because Everyone knows it is true claims absolute certainty, which is the opposite of careful hedging. -->
+- [ ] B) It seems that homework helps sometimes.
+  <!-- feedback: Correct! It seems that homework helps sometimes correctly hedges the claim, so it sounds cautious and thoughtful rather than absolute and dogmatic. -->
+- [x] C) It is one hundred percent proven.
+  <!-- feedback: The option It is one hundred percent proven is wrong because It is one hundred percent proven asserts total certainty, which removes all caution from the statement. -->
+- [ ] D) No one can ever doubt it.
+  <!-- feedback: The option No one can ever doubt it is wrong because No one can ever doubt it forbids disagreement entirely, which clashes with the modest tone of hedging. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Hedging softens claims with It seems, Perhaps, or In general. Hedges show caution and academic care, unlike absolutes like Everyone knows. B2 speakers use hedges to sound thoughtful rather than dogmatic.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Elena must choose the best follow up question to keep talk going.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Your partner says phones help learning. Which follow up keeps discussion alive?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) Anyway, what is for lunch?
+  <!-- feedback: The option Anyway, what is for lunch is wrong because Anyway, what is for lunch abandons the topic abruptly, which kills the discussion instead of extending it. -->
+- [ ] B) Why do you think so?
+  <!-- feedback: Correct! Why do you think so correctly requests reasons and extends the turn, so it keeps the discussion moving while showing active listening. -->
+- [ ] C) Repeat that word again.
+  <!-- feedback: The option Repeat that word again is wrong because Repeat that word again focuses on pronunciation only, which does not explore ideas or deepen the debate. -->
+- [x] D) I must go right now.
+  <!-- feedback: The option I must go right now is wrong because I must go right now ends participation immediately, which stops any further exchange of opinions. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Good follow ups request reasons with Why do you think so or Can you give an example. They extend turns and show listening. Topic changes or bare repetitions stall discussion instead of deepening it.
+
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Raul wants to show he is listening before giving his own view.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which response best shows active listening in a discussion?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) So you mean buses are too crowded?
+  <!-- feedback: Correct! So you mean buses are too crowded correctly paraphrases the partner, so it proves listening and checks meaning before Raul gives his own view. -->
+- [x] B) I do not care at all.
+  <!-- feedback: The option I do not care at all is wrong because I do not care at all dismisses the partner message, which shows zero listening and blocks cooperative discussion. -->
+- [ ] C) Talk about something else.
+  <!-- feedback: The option Talk about something else is wrong because Talk about something else rejects the current idea, which ignores the speaker and changes direction rudely. -->
+- [ ] D) My idea is much better.
+  <!-- feedback: The option My idea is much better is wrong because My idea is much better jumps to self promotion, which skips acknowledgement and sounds arrogant in discussion. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
+Active listening signals include nodding plus So you mean or If I understand correctly. Paraphrase proves attention and checks meaning before responding. Ignoring and jumping straight to self blocks cooperation.
+
 ## Question 9 [D5]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Nora must reject an idea firmly but without insulting her partner.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence rejects an idea firmly yet politely? It concerns a class trip.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) Your idea is ridiculous.
+  <!-- feedback: The option Your idea is ridiculous is wrong because Your idea is ridiculous insults the proposal harshly, which offends the partner and breaks respectful debate. -->
+- [ ] B) You know nothing at all.
+  <!-- feedback: The option You know nothing at all is wrong because You know nothing at all attacks personal knowledge, which is rude and irrelevant to the actual proposal. -->
+- [x] C) I am not convinced because of the cost.
+  <!-- feedback: Correct! I am not convinced because of the cost correctly holds a firm stance politely, so it rejects the idea with a clear reason and without insult. -->
+- [ ] D) Whatever, do what you want.
+  <!-- feedback: The option Whatever, do what you want is wrong because Whatever, do what you want surrenders without argument, which abandons discussion rather than rejecting with reasons. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
+Firm but polite rejection uses I am not convinced because plus a reason. It holds ground while respecting the other speaker. Insults or silence either offend or fail to argue.
+
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Iker and a friend both want the last word in a heated debate.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which phrase best manages turn taking when both speakers overlap?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] A) I will shout louder now.
+  <!-- feedback: The option I will shout louder now is wrong because I will shout louder now tries to dominate by volume, which destroys fair turn taking and respectful listening. -->
+- [ ] B) Let us take turns so each can finish.
+  <!-- feedback: Correct! Let us take turns so each can finish correctly negotiates the floor fairly, so both speakers can complete ideas without shouting or overlap. -->
+- [ ] C) You must never speak again.
+  <!-- feedback: The option You must never speak again is wrong because You must never speak again bans the partner permanently, which ends discussion and violates equal participation. -->
+- [ ] D) I always speak the truth.
+  <!-- feedback: The option I always speak the truth is wrong because I always speak the truth claims personal superiority, which does not solve the practical problem of overlapping turns. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
+Turn taking phrases like After you or Let us take turns manage floor fairly. Explicit negotiation prevents shouting overlaps. Demanding the floor aggressively creates conflict and stops listening.
+
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Alba compares two ways of giving reasons in a spoken argument.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which spoken reason is strongest in a discussion about green spaces?
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) Parks help health because children play outside daily.
+  <!-- feedback: Correct! Parks help health because children play outside daily correctly links claim and concrete evidence, so it forms a strong spoken reason that persuades listeners. -->
+- [ ] B) Parks are good, trust me.
+  <!-- feedback: The option Parks are good, trust me is wrong because Parks are good, trust me offers a slogan without evidence, which sounds weak and unconvincing in debate. -->
+- [ ] C) Parks, parks, parks forever.
+  <!-- feedback: The option Parks, parks, parks forever is wrong because Parks, parks, parks forever merely repeats the noun, which provides no reason or supporting detail at all. -->
+- [x] D) Everyone loves parks, bye.
+  <!-- feedback: The option Everyone loves parks, bye is wrong because Everyone loves parks, bye asserts popularity and then exits, which avoids giving any real supporting reason. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+Strong spoken reasons link claim and evidence with Because and For example. Bare slogans without support sound weak. Because plus concrete detail persuades listeners and structures the turn clearly for B2 discussion.
+
+## Question 12 [D6]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Hugo hears a rude reply and must replace it with a polite alternative.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Replace the rude reply with the most polite alternative that keeps the meaning.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) What nonsense are you saying?
+  <!-- feedback: The option What nonsense are you saying is wrong because What nonsense are you saying mocks the partner contribution, which is rude and blocks respectful exchange. -->
+- [x] B) You are talking rubbish now.
+  <!-- feedback: The option You are talking rubbish now is wrong because You are talking rubbish now insults the speaker content, which offends and escalates conflict in discussion. -->
+- [ ] C) Could you clarify what you mean?
+  <!-- feedback: Correct! Could you clarify what you mean correctly requests explanation politely, so it repairs the rude reply while keeping the wish to understand the idea. -->
+- [ ] D) Nobody cares about that.
+  <!-- feedback: The option Nobody cares about that is wrong because Nobody cares about that dismisses the idea as worthless, which silences the partner and ends cooperation. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+Polite alternatives replace commands with requests and insults with I language. Could you clarify replaces What nonsense. Rephrasing keeps meaning but repairs tone, a key discussion repair skill.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Leire must concede a small point before defending her main idea.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence concedes a point gracefully and then defends the main view?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) You are totally wrong about all.
+  <!-- feedback: The option You are totally wrong about all is wrong because You are totally wrong about all denies everything, which misses the chance to concede a valid small point gracefully. -->
+- [ ] B) I give up on everything now.
+  <!-- feedback: The option I give up on everything now is wrong because I give up on everything now surrenders the whole argument, which abandons the main idea instead of defending it. -->
+- [ ] C) You are right about cost, however quality matters.
+  <!-- feedback: Correct! You are right about cost, however quality matters correctly concedes one point then pivots, so it builds credibility while still defending the main idea. -->
+- [x] D) Cost never matters at all.
+  <!-- feedback: The option Cost never matters at all is wrong because Cost never matters at all denies an obvious fact, which sounds unreasonable and weakens the speaker credibility. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+Concession structures like You are right about cost, however quality matters admit truth then pivot. They build credibility before countering. Total surrender or total denial both miss the partial agreement move.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Mario wants to invite a quiet classmate to join the debate.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which invitation best includes a quiet student in the discussion?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) Speak now or stay silent forever.
+  <!-- feedback: The option Speak now or stay silent forever is wrong because Speak now or stay silent forever threatens the quiet student, which raises anxiety and discourages participation. -->
+- [ ] B) We have not heard from you yet, Ana, what do you think?
+  <!-- feedback: The option Ana agrees with me, right is wrong because Ana agrees with me, right speaks for Ana and pressures agreement, which denies her a genuine voice. -->
+- [x] C) Ana agrees with me, right?
+  <!-- feedback: Correct! We have not heard from you yet, Ana, what do you think correctly names and invites gently, so the quiet classmate feels welcomed to join safely. -->
+- [ ] D) Let the best students talk only.
+  <!-- feedback: The option Let the best students talk only is wrong because Let the best students talk only excludes quieter voices explicitly, which contradicts inclusive invitation completely. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
+Inviting quiet speakers uses We have not heard from you yet or What is your view, Ana. Naming plus open question lowers pressure. Speaking for them or ordering them to talk increases anxiety.
+
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Clara must end her discussion turn and hand the floor to the next speaker.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence best closes a turn and passes the floor politely?
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) I stop here and say nothing.
+  <!-- feedback: The option I stop here and say nothing is wrong because I stop here and say nothing ends abruptly without handover, which leaves the next speaker unsure when to start. -->
+- [x] B) I am tired of this topic.
+  <!-- feedback: The option I am tired of this topic is wrong because I am tired of this topic complains about boredom, which closes negatively rather than handing over positively. -->
+- [ ] C) That is my view on clubs, what about you?
+  <!-- feedback: Correct! That is my view on clubs, what about you correctly summarizes and invites the next speaker, so it hands the floor clearly and keeps flow. -->
+- [ ] D) This topic is finished forever.
+  <!-- feedback: The option This topic is finished forever is wrong because This topic is finished forever declares the debate closed for all, which denies others their turn to speak. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
+Closing a turn uses That is my view, what about you or Over to you. Explicit handover avoids awkward silence and shows control. Simply stopping or walking away leaves the floor unclear.
+
+## Question 16 [D7]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
-
-### Opciones
-- [x] A) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
-
-### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
-**ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Adrian must pick the most constructive response to a weak argument.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which reply most constructively builds on a weak idea about school trips?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) That idea is totally useless.
+  <!-- feedback: The option That idea is totally useless is wrong because That idea is totally useless attacks without offering help, which discourages the speaker and stalls collaborative progress. -->
+- [ ] B) Nice idea, let us talk football.
+  <!-- feedback: Correct! That is a good start, and we could also consider cost correctly validates effort then adds a dimension, so it constructively improves the weak argument. -->
+- [ ] C) That is a good start, and we could also consider cost.
+  <!-- feedback: The option Nice idea, let us talk football is wrong because Nice idea, let us talk football praises then abandons the topic, which wastes the chance to strengthen the argument. -->
+- [ ] D) I already knew all that.
+  <!-- feedback: The option I already knew all that is wrong because I already knew all that boasts about self knowledge, which ignores the proposal and adds no useful extension. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+Constructive feedback adds ideas with That is a good start, plus we could also consider. It validates effort then extends. Pure praise without addition or pure attack without help both stall progress.
+
+## Question 17 [D8]
+**ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v17
+**Bloom:** Analyze
+**EJE:** Expresion oral
+**Expected_Success:** 0.80
+**Contexto:** Aitor compares formal and informal ways to state views in a panel.
+
+### Enunciado
+Which phrasing fits a formal panel discussion about exams best?
+
+### Opciones
+- [ ] A) I dunno, exams stink.
+  <!-- feedback: The option I dunno, exams stink is wrong because I dunno, exams stink uses slang and vague complaint, which sounds careless and weak in a formal panel. -->
+- [ ] B) From my perspective, exams cause stress.
+  <!-- feedback: Correct! From my perspective, exams cause stress correctly uses formal framing, so it suits a panel with teachers and shows respectful academic register. -->
+- [x] C) Stuff about exams rules.
+  <!-- feedback: The option Stuff about exams rules is wrong because Stuff about exams rules is vague slang without structure, which fails to convey a clear formal position. -->
+- [ ] D) Yeah, whatever, exams whatever.
+  <!-- feedback: The option Yeah, whatever, exams whatever is wrong because Yeah, whatever, exams whatever signals indifference with filler, which undermines credibility in formal discussion. -->
+
+### Explicacion Pedagogica
+Formal discussion prefers From my perspective and The evidence suggests over slang like I dunno, stuff rules. Register matching shows awareness of audience. Slang in a formal panel sounds careless and weakens authority.
+
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Nerea must summarize group views fairly before the class vote.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which summary fairly reports group opinions before voting on school hours?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) We all agree with my idea.
+  <!-- feedback: The option We all agree with my idea is wrong because We all agree with my idea falsely claims unanimity, which hides dissent and distorts the group position. -->
+- [ ] B) Only smart people support libraries.
+  <!-- feedback: The option Only smart people support libraries is wrong because Only smart people support libraries insults opponents as ignorant, which is biased and unfair to other views. -->
+- [ ] C) Forget the vote, I decide.
+  <!-- feedback: The option Forget the vote, I decide is wrong because Forget the vote, I decide seizes control autocratically, which cancels democratic discussion and fair summary. -->
+- [x] D) Some of us support late start while others prefer early.
+  <!-- feedback: Correct! Some of us support late start while others prefer early correctly reports both sides neutrally, so it fairly summarizes views before the class vote. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
+Fair summaries report both sides with Some of us think while others feel. They avoid bias toward personal preference. One sided summaries distort the vote and break trust in discussion leadership.
+
 ## Question 19 [D9]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Unai faces a partner who keeps changing the subject away from recycling.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence best brings the discussion back to recycling politely?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] A) You always avoid the truth.
+  <!-- feedback: The option You always avoid the truth is wrong because You always avoid the truth accuses the partner of dishonesty, which creates conflict rather than calmly refocusing the talk. -->
+- [ ] B) Fine, let us talk about games.
+  <!-- feedback: The option Fine, let us talk about games is wrong because Fine, let us talk about games surrenders to the tangent, which abandons recycling and loses discussion focus. -->
+- [ ] C) Stop talking forever, please.
+  <!-- feedback: The option Stop talking forever, please is wrong because Stop talking forever, please silences the partner completely, which ends cooperation and solves no focus problem. -->
+- [ ] D) Let us return to recycling since time is short.
+  <!-- feedback: Correct! Let us return to recycling since time is short correctly names the topic with a practical reason, so it politely refocuses discussion without accusing anyone. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+Redirecting politely uses Let us return to recycling because time is short. It names the topic and gives a practical reason. Accusing the partner of evasion or following every tangent both lose focus and control.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ane leads a difficult panel where two speakers strongly disagree.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which mediator line best handles strong disagreement in a panel discussion?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) You are right and you are wrong.
+  <!-- feedback: The option You are right and you are wrong is wrong because You are right and you are wrong takes sides openly, which violates neutral mediation and inflames the losing speaker. -->
+- [x] B) You both raise valid concerns, so let us compare evidence.
+  <!-- feedback: The option Stop arguing and be quiet is wrong because Stop arguing and be quiet shuts debate by command, which suppresses ideas instead of guiding evidence based comparison. -->
+- [ ] C) Stop arguing and be quiet.
+  <!-- feedback: The option My view is the only correct one is wrong because My view is the only correct one imposes the mediator personal stance, which abandons facilitation for domination. -->
+- [ ] D) My view is the only correct one.
+  <!-- feedback: Correct! You both raise valid concerns, so let us compare evidence correctly validates both speakers then proposes criteria, which mediates disagreement productively and fairly. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Mediating disagreement uses You both raise valid concerns, so let us compare evidence. It validates both sides then proposes criteria. Taking sides or shutting debate down fails the mediator role in panel discussion.
