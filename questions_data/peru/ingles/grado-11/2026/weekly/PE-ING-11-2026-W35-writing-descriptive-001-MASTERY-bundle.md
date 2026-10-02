@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is asked to describe a place they know well.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which opening sentence is most appropriate for a descriptive paragraph about a familiar market?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) Every Saturday morning the market on Calle Unión fills with the noise of sellers and the smell of bread.
+  <!-- feedback: Correct. This sentence introduces the setting with time, place and vivid sensory detail, which is what a descriptive paragraph needs. -->
+- [ ] B) There are many people in the market and the market is in the city.
+  <!-- feedback: Wrong. The sentence is generic, gives no concrete detail and repeats the noun twice. -->
+- [ ] C) I think the market is nice and it sells things.
+  <!-- feedback: Wrong. The judgement is unsupported and the repetition of 'the market' adds no description. -->
+- [ ] D) The market is a market and it is very busy on Saturdays.
+  <!-- feedback: Wrong. The sentence repeats the noun and states nothing about the market itself. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A descriptive opening establishes place and atmosphere through concrete detail rather than through bare claims.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is asked to describe a place they know well.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence adds the most vivid sensory detail to a description?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] C) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) The bread is available for purchase at the bakery.
+  <!-- feedback: Wrong. The sentence reports only the fact of sale, with no sensory information. -->
+- [x] B) The bread arrives still warm, and the counter is dusted with flour.
+  <!-- feedback: Correct. Warmth and flour on a surface describe the scene through touch and sight, which is what vivid description means. -->
+- [ ] C) There are several kinds of bread sold in the bakery.
+  <!-- feedback: Wrong. The sentence is a plain enumeration with no sensory detail. -->
+- [ ] D) The bakery sells bread to customers who visit it.
+  <!-- feedback: Wrong. The sentence describes the transaction rather than what the place looks or feels like. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Sensory description depends on concrete impressions of sight, sound, smell, touch and taste, not on stating what a place sells.
+
 ---
-## Question 3 [D3-D4]
+
+## Question 3 [D3-D5]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student is writing a descriptive paragraph about a landscape.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the sentence that correctly compares two things in a description.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) The road is narrow than it appears from the ridge above.
+  <!-- feedback: Wrong. 'Narrow than' omits the comparative element, since than cannot stand on its own. -->
+- [ ] B) The road is more narrow than it appears from the ridge above.
+  <!-- feedback: Wrong. 'More narrow' misuses the more pattern with a short adjective that takes -er. -->
+- [x] C) The road is far narrower than it appears from the ridge above.
+  <!-- feedback: Correct. 'Far narrower than' is the correct comparative, with an intensifier before the comparative form. -->
+- [ ] D) The road is the narrowest than it appears from the ridge above.
+  <!-- feedback: Wrong. 'The narrowest' is a superlative and cannot be followed by than. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Description frequently uses comparison, and the comparative form must be the correct one for the adjective.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is writing a descriptive paragraph about a person.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the sentence that describes a person's appearance without giving a value judgement.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) Her grey hair is tied back, which is the mark of a real teacher.
+  <!-- feedback: Wrong. The clause makes an unsupported claim about what the appearance signifies. -->
+- [ ] B) Her grey hair is tied back, and that proves she is intelligent.
+  <!-- feedback: Wrong. Drawing a character conclusion from grey hair is an inference, not a description. -->
+- [ ] C) Her grey hair is tied back, and she is a stubborn old woman.
+  <!-- feedback: Wrong. 'Stubborn' and 'old woman' are judgements and go beyond what can be seen. -->
+- [x] D) Her grey hair is tied back, and she wears thick-rimmed glasses.
+  <!-- feedback: Correct. This sentence reports only observable features, which is what neutral description requires. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Pure description confines itself to observable features; evaluation and inference belong to a different part of the writing.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student is organising a descriptive paragraph.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which plan gives the best structure for a description of a room?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) Begin with the overall impression, move to the main pieces of furniture, and finish with the light in the room.
+  <!-- feedback: Correct. This moves from general to particular and ends with an atmospheric detail, which is a coherent descriptive structure. -->
+- [ ] B) Begin with three judgements about the room, then give the measurements of the door.
+  <!-- feedback: Wrong. The judgements come before any description, so the reader has nothing concrete to attach them to. -->
+- [ ] C) Begin with a story about the previous owner of the room, then describe the floor.
+  <!-- feedback: Wrong. The history of the room is narrative material and does not belong in a description of the space. -->
+- [ ] D) Begin with the light, then list every object alphabetically, then repeat the overall impression.
+  <!-- feedback: Wrong. Alphabetical order is a list, not a description, and the closing repetition adds nothing. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Descriptive writing typically moves from a general impression through particular details to a concluding detail that restores the mood.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student is choosing vocabulary for a description.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the adjective that belongs in a literary description rather than a technical one.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) The stones are calibrated to within two millimetres of tolerance.
+  <!-- feedback: Wrong. A tolerance figure is technical measurement rather than description. -->
+- [x] B) The stones are worn smooth by centuries of footsteps.
+  <!-- feedback: Correct. 'Worn smooth by footsteps' describes appearance and history together, which is the register of literary description. -->
+- [ ] C) The stones are located at an altitude of three thousand metres.
+  <!-- feedback: Wrong. An altitude figure is a specification rather than an impression. -->
+- [ ] D) The stones are covered in a layer of siliceous deposit.
+  <!-- feedback: Wrong. Naming a deposit describes material composition, which is a scientific register. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Literary description works through visible appearance and accumulated human history, not through measurements or material composition.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D4-D6]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is asked to improve a descriptive paragraph.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+The sentence 'The garden was beautiful.' needs to be developed. Which revision turns it into a description?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) The garden was beautiful because the garden had flowers.
+  <!-- feedback: Wrong. The revision explains that flowers cause beauty but still names no specific flower or feature. -->
+- [ ] B) The garden was very beautiful and it was a very nice garden.
+  <!-- feedback: Wrong. The revision repeats 'garden' and 'beautiful' without adding any concrete detail. -->
+- [x] C) Late roses had spilled over the low wall, and the path was thick with fallen petals.
+  <!-- feedback: Correct. The revision replaces the bare judgement with concrete visual detail that lets the reader see the garden. -->
+- [ ] D) The garden, being beautiful, was beautiful as well as green.
+  <!-- feedback: Wrong. The revision repeats the adjective and adds only an unsupported colour claim. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A bare evaluative adjective contributes nothing on its own; description replaces it with particulars the reader can picture.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is checking the register of a description.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which set of words is consistent in register throughout a paragraph describing a village?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) utilisation, remedial, apportionment, contingency
+  <!-- feedback: Wrong. These are formal administrative abstractions that clash with the subject described. -->
+- [ ] B) super, amazing, brilliant, definitely good
+  <!-- feedback: Wrong. The register shifts from positive to emphatic and finally to a blunt general judgement. -->
+- [ ] C) granular, infrastructure, habitational units, equanimity
+  <!-- feedback: Wrong. These are technical and clinical terms that do not describe a village accessibly. -->
+- [x] D) cobbles, lanterns, doorways, quiet
+  <!-- feedback: Correct. These are plain, concrete nouns with a consistent descriptive register suitable for the subject. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A consistent register means every word belongs to the same register, whether plain, literary or technical.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student is writing a description of a person for a character sketch.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence that characterises a person through action rather than appearance.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) She always checked the labels before returning a book to its shelf.
+  <!-- feedback: Correct. The sentence shows a habit through behaviour, which reveals character without labelling it. -->
+- [ ] B) She was the kind of person who was always helping other people.
+  <!-- feedback: Wrong. The sentence labels the person directly instead of letting action show the quality. -->
+- [ ] C) She looked like her grandmother, who had lived in the same street.
+  <!-- feedback: Wrong. The sentence records a resemblance and adds no behaviour or judgement of character. -->
+- [ ] D) She had straight dark hair and a long narrow face.
+  <!-- feedback: Wrong. The sentence describes physical features only and characterises nobody. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Characterisation through action is more effective than labelling because the reader draws the conclusion from the behaviour itself.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is writing about weather for a descriptive piece.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the sentence that describes the weather without naming it.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [ ] A) The weather was very bad and it rained all day.
+  <!-- feedback: Wrong. The sentence names the weather directly and adds no description. -->
+- [x] B) Rain arrived sideways and turned the street into a moving mirror.
+  <!-- feedback: Correct. The sentence shows the rain through its effect and movement rather than naming a condition. -->
+- [ ] C) Rain was falling, which was the weather condition of the day.
+  <!-- feedback: Wrong. The phrase 'weather condition' is technical wording rather than description. -->
+- [ ] D) The climate of the region is wet and the rain was heavy.
+  <!-- feedback: Wrong. The sentence gives a general classification instead of describing the particular day. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The most effective description shows the condition through its consequences rather than naming the condition itself.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D5-D7]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is asked to describe a landscape in about eighty words.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which set of sentences is most suitable for a landscape description?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) The valley contains farms, and the farms are on the side, and the farms are many.
+  <!-- feedback: Wrong. The sentence repeats 'farms' three times without describing anything about them. -->
+- [ ] B) The area has an altitude of four thousand metres; the average temperature is twelve degrees; the terrain is described as flat.
+  <!-- feedback: Wrong. The sentences give statistics rather than a picture of the landscape. -->
+- [x] C) The valley floor lies flat and brown; terraced fields step up the far side; a single track climbs between them.
+  <!-- feedback: Correct. The three sentences move across the landscape and use concrete nouns, giving the reader a clear picture in few words. -->
+- [ ] D) There is a valley, and there are fields, and there are tracks in it.
+  <!-- feedback: Wrong. The sentences begin with 'there' repeatedly, which reads as an unfocused list. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Effective description in a tight word limit depends on varied concrete vocabulary arranged in a deliberate order.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D5-D7]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is deciding whether a description is too subjective.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence is least appropriate in a description that is meant to be objective?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) The path narrows where the cliff edge approaches.
+  <!-- feedback: Wrong. The sentence describes a measurable change in the terrain without any evaluation. -->
+- [ ] B) The path is lined with low stone walls.
+  <!-- feedback: Wrong. The sentence reports an observable physical feature without evaluation. -->
+- [ ] C) The narrowest path continues for a further two kilometres along the cliff.
+  <!-- feedback: Wrong. 'The narrowest' is a measurable superlative and is objective. -->
+- [x] D) The most beautiful stretch of the coast lies just north of the town.
+  <!-- feedback: Correct. 'The most beautiful' is a subjective ranking and does not belong in a passage aiming at objectivity. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Objectivity depends on whether the wording reports a measurable fact or expresses a personal preference.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D5-D7]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is ending a descriptive paragraph.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which closing sentence best completes a paragraph describing a market that opened with early light?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) By seven the stalls were up, and the first customers were arguing cheerfully over the price of tomatoes.
+  <!-- feedback: Correct. This returns to the atmosphere established at the beginning and adds a concrete detail, which closes a description effectively. -->
+- [ ] B) The market is a market that sells fruit and vegetables.
+  <!-- feedback: Wrong. The closing is tautological and describes nothing. -->
+- [ ] C) There are many stalls and many customers in the market.
+  <!-- feedback: Wrong. The closing reverts to a generic enumeration and repeats the noun. -->
+- [ ] D) The market closed at six in the evening.
+  <!-- feedback: Wrong. The closing gives a logistical fact and ends the atmosphere established earlier. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A strong description closes by returning to the mood of the opening rather than by adding unrelated information.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is comparing two descriptive styles.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which statement best explains why listing measurements is weaker than describing appearance?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) Measurements are always numerically inaccurate in student writing.
+  <!-- feedback: Wrong. The weakness is not inaccuracy; a correct measurement still fails to describe anything. -->
+- [x] B) Measurements state facts about a thing without conveying how it looks or feels to the reader.
+  <!-- feedback: Correct. This identifies the communicative difference, since a figure reports a property without creating an impression. -->
+- [ ] C) Listing measurements takes more space, so it cannot be used in a short text.
+  <!-- feedback: Wrong. Measurements are compact, so they save rather than consume space. -->
+- [ ] D) Describing appearance requires more vocabulary than any other type of writing.
+  <!-- feedback: Wrong. Describing appearance does not require more vocabulary than other kinds of writing. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Comparing two styles is best done on communicative grounds, since the question is what each style gives to the reader.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is revising a description of a house.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that uses figurative language appropriately within a factual description.
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) The veranda boards are twelve centimetres wide and badly weathered.
+  <!-- feedback: Wrong. The sentence gives a measurement and a general condition, which is specification rather than depiction. -->
+- [ ] B) The veranda boards have oxidised and lost their protective coating.
+  <!-- feedback: Wrong. The sentence is a technical observation about oxidation rather than a description of appearance. -->
+- [x] C) The veranda boards had silvered with age until they shone like old mirrors.
+  <!-- feedback: Correct. The comparison to old mirrors describes appearance vividly while staying consistent with the description. -->
+- [ ] D) The veranda is the veranda and the boards are boards.
+  <!-- feedback: Wrong. The sentence is tautological and describes nothing at all. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A figure of speech earns its place in description when it clarifies how something looks rather than when it merely decorates the sentence.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A teacher asks a student to justify a writing choice.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which justification best explains the use of a single long sentence to describe a busy market?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) Short sentences cannot be used in a description because they describe nothing.
+  <!-- feedback: Wrong. Short sentences can describe effectively and are frequently used to great effect. -->
+- [ ] B) A single sentence uses fewer words, so it leaves room for more detail elsewhere.
+  <!-- feedback: Wrong. A single long sentence usually uses more words rather than fewer. -->
+- [ ] C) Long sentences are always easier to read and are therefore the better choice for all audiences.
+  <!-- feedback: Wrong. Long sentences are harder to read, so the claim is inaccurate in general. -->
+- [x] D) The length mimics the uninterrupted movement and noise of a crowded market, which a series of short sentences would not convey.
+  <!-- feedback: Correct. This ties the structural choice to the effect the writer wants, which is the reasoning a justification requires. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A justified writing choice explains the intended effect on the reader rather than appealing to a general rule about length.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is asked to distinguish description from narration in a single paragraph.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence belongs in a description rather than in a narration?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) The clinic smelled of chlorine, and the clock above the door had stopped at four.
+  <!-- feedback: Correct. The sentence fixes a static impression of a place through smell and a visible detail, which is description. -->
+- [ ] B) The waiting had gone on for hours, and she had counted every minute.
+  <!-- feedback: Wrong. The sentence narrates the experience of an event over a period. -->
+- [ ] C) At that moment she remembered that she had left her bag in the car.
+  <!-- feedback: Wrong. The sentence narrates an act of remembering set in time. -->
+- [ ] D) She opened the door and went in to see whether anyone was still waiting.
+  <!-- feedback: Wrong. The sentence narrates a sequence of actions by a character. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Description presents a scene while it is happening; narration reports what characters do, think or remember over time.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is checking a description for repetition.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which revision best removes repetition while keeping the description intact?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) The hall had wooden benches and the benches were filling up when we reached the top of the stairs.
+  <!-- feedback: Wrong. 'Benches' and 'up' are both repeated where a pronoun or a relative clause would serve. -->
+- [x] B) The hall's wooden benches were already filling up when we reached the top of the stairs.
+  <!-- feedback: Correct. The revision names the benches once and adds a specific time reference, so no word is repeated without cause. -->
+- [ ] C) There were wooden benches in the hall and they were filling up when we arrived.
+  <!-- feedback: Wrong. The revision is grammatical but remains vague, adding 'there were' and losing the movement implied by 'filling up'. -->
+- [ ] D) The hall had wooden benches which were filling up and the hall was full of people.
+  <!-- feedback: Wrong. 'Hall' and 'people' repeat information already given, and 'full' contradicts the benches still filling. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Removing repetition means replacing a repeated noun with a pronoun or a relative clause while keeping every detail.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D5-D7]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is describing a sound to make a description more complete.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence that uses sound in the description of a workshop.
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) There was a sound in the workshop when the cutting stopped.
+  <!-- feedback: Wrong. 'A sound' is a bare label that says nothing about what was heard. -->
+- [ ] B) The plane was in the workshop and it was quiet in there.
+  <!-- feedback: Wrong. The sentence mentions the plane and the quiet but gives no sense of an interrupted noise. -->
+- [x] C) The plane finished its cut and the workshop went quiet for a second.
+  <!-- feedback: Correct. The sentence shows the sound through its absence, which is a more precise effect than naming the noise. -->
+- [ ] D) The workshop was a place where sounds happened during the day.
+  <!-- feedback: Wrong. The sentence generalises about the place instead of describing anything in it. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Sound is described best through its quality, its source or its interruption, rather than by labelling it as sound.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is checking whether a description stays within what can be seen.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence stays closest to observable description rather than moving into interpretation?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) The fence had been repaired so often that it seemed to say something about its owners.
+  <!-- feedback: Wrong. Reading a character into the fence is interpretation at several removes from what is visible. -->
+- [ ] B) The fence had been repaired so often that it looked as though it had given up.
+  <!-- feedback: Wrong. The clause about giving up is a personification that interprets the fence's condition. -->
+- [ ] C) The fence had been repaired so often that it was clearly neglected.
+  <!-- feedback: Wrong. 'Neglected' is a judgement about the owners rather than a description of the fence. -->
+- [x] D) The fence had been repaired so often that every post leaned slightly to the left.
+  <!-- feedback: Correct. Every post leaning to the left is a visible fact, and no judgement is added. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Description stays with observation until it explicitly adds a judgement, and the exam must judge that boundary.

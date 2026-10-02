@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple third person, San Juan, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the third person singular of the verb 'to work' correctly?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) She works in a clinic in Carolina.
+  <!-- feedback: Correcto. 'She works' carries the -s of the third person singular, and every other subject in the bundle would drop that ending. -->
+- [ ] B) She work in a clinic in Carolina.
+  <!-- feedback: Incorrecto. The sentence has a singular subject and a plural-looking verb; this -s is the single most tested point of the unit. -->
+- [ ] C) She working in a clinic in Carolina.
+  <!-- feedback: Incorrecto. 'Working' is a present participle and it needs the auxiliary 'is' in a progressive form, which this unit does not use. -->
+- [ ] D) She are working in a clinic in Carolina.
+  <!-- feedback: Incorrecto. 'Are working' is the progressive, and 'are' also disagrees with the singular subject 'she', so two rules fail at once. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+En presente simple la tercera persona singular añade -s al verbo, salvo cuando ya termina en -s, -sh, -ch, -x, -z o -o. Las otras personas no añaden nada. Revisar el sujeto antes que el verbo es el método más seguro para no equivocarse.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple third person, Caguas, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'My brother ____ (go) to the plaza every Sunday.'
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) go
+  <!-- feedback: Incorrecto. Sin terminación la frase queda en plural; el sujeto 'my brother' es singular y exige la forma en -es. -->
+- [ ] B) going
+  <!-- feedback: Incorrecto. 'Going' es la forma -ing, que solo aparece con el auxiliar 'is' en el presente continuo. -->
+- [x] C) goes
+  <!-- feedback: Correcto. 'Go' termina en -o, así que la -s de la tercera persona se convierte en -es para evitar que suene 'goose'. -->
+- [ ] D) gone
+  <!-- feedback: Incorrecto. 'Gone' es el participio pasado, que se usa con 'have' y no describe una rutina semanal. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+La tercera persona singular tiene su propia terminación. Con los verbos terminados en -o el inglés añade -es para que la palabra no termine en -s a secas, igual que ocurre con 'go' y 'does'. El resto de personas no cambia.
+
 ---
+
 ## Question 3 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple third person, Ponce, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which question is formed correctly?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) Do your sister live in Ponce?
+  <!-- feedback: Incorrecto. El auxiliar 'do' no lleva la -s y por eso no puede acompañar a un sujeto singular en una pregunta con verbo léxico. -->
+- [x] B) Does your sister live in Ponce?
+  <!-- feedback: Correcto. En preguntas con 'to be' y con el verbo 'to live' se usa el auxiliar 'does', que ya lleva la -s de la tercera persona. -->
+- [ ] C) Is your sister live in Ponce?
+  <!-- feedback: Incorrecto. Después de 'is' hace falta el participio, no el verbo en su forma base como aparece en el enunciado. -->
+- [ ] D) Your sister does lives in Ponce?
+  <!-- feedback: Incorrecto. El orden no es de pregunta: el auxiliar 'does' debe abrir la frase antes del sujeto. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+En presente simple la pregunta con verbos de acción se forma con 'do' o 'does'. Cuando se usa 'does', el verbo principal vuelve a su forma base, porque la -s ya está en el auxiliar. Ese es el error típico: 'does she lives' en lugar de 'does she live'.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple third person, Bayamon, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct negative form: 'He ____ (not / drink) coffee after dinner.'
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) don't drink
+  <!-- feedback: Incorrecto. 'Don't' se reserva para I, you, we y they; con 'he' el auxiliar debe ser 'does'. -->
+- [ ] B) isn't drink
+  <!-- feedback: Incorrecto. 'Isn't' forma el negativo del verbo 'to be', y el participio tampoco corresponde aquí. -->
+- [ ] C) not drink
+  <!-- feedback: Incorrecto. Falta por completo el auxiliar, y en presente simple el negativo nunca se construye solo con 'not'. -->
+- [x] D) doesn't drink
+  <!-- feedback: Correcto. El negativo con 'not' y verbo de acción se forma con 'does not' o 'doesn't' en tercera persona singular. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+El negativo del presente simple tiene dos formas: 'do not / don't' para I, you, we y they, y 'does not / doesn't' para he, she y it. El verbo principal se queda en su forma base detrás del auxiliar, con o sin negación.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple spelling rules, Arecibo, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which is the correct third person singular form of the verb 'to pass'?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [ ] A) passs
+  <!-- feedback: Incorrecto. 'Passs' tiene tres eses y no corresponde a ninguna regla; el inglés nunca dobla la -s en esta posición. -->
+- [ ] B) pass
+  <!-- feedback: Incorrecto. Esta es la forma base y la tercera persona singular necesita una terminación nueva, aunque el sonido final sea similar. -->
+- [ ] C) passing
+  <!-- feedback: Incorrecto. La forma -ing pertenece al presente continuo y no se usa para la rutina en presente simple. -->
+- [x] D) passes
+  <!-- feedback: Correcto. Cuando el verbo base termina en -ss la tercera persona añade solo -es, de modo que la -s final se oye correctamente. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+La ortografía de la -s de la tercera persona tiene reglas fijas. Si la base ya acaba en -s, -sh, -ch, -x o -z se añade solo -es. Si acaba en consonante más -o se añade -es. Si termina en -y precedida de consonante, la -y pasa a -ies.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple spelling rules, Humacao, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: 'The committee ____ (try) to finish the project on time.'
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] B) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) trys
+  <!-- feedback: Incorrecto. Añadir una -s detrás de una -y consonantal produce una forma que ningún hablante usa en inglés. -->
+- [x] B) tries
+  <!-- feedback: Correcto. 'Try' termina en -y con consonante antes, así que la -y se convierte en -ies para la tercera persona singular. -->
+- [ ] C) tryes
+  <!-- feedback: Incorrecto. La -y no se convierte en vocal: se cambia por -ies, y el verbo no añade además una -e. -->
+- [ ] D) trying
+  <!-- feedback: Incorrecto. 'Trying' es la forma del gerundio y pertenece al presente continuo, no a una rutina en presente simple. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Cuando el verbo termina en -y y la consonante anterior no es una vocal, la -y se cambia por -ies: try, tries. Si la -y está precedida de vocal, el verbo es monosilábico y solo añade -s: play, plays. Reconocer la vocal precedente evita el error más común de esta unidad.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with to have, Carolina, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence uses the verb 'to have' correctly in the third person singular?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] A) She has a car in Carolina.
+  <!-- feedback: Correcto. 'To have' es irregular en la tercera persona: la forma correcta es 'has' y no 'haves' ni 'have'. -->
+- [ ] B) She haves a car in Carolina.
+  <!-- feedback: Incorrecto. 'Haves' no existe en inglés; la -s irregular de 'to have' sustituye a la forma base completa. -->
+- [ ] C) She have a car in Carolina.
+  <!-- feedback: Incorrecto. 'Have' es la forma base y solo se emplea con I, you, we y they en presente simple. -->
+- [ ] D) She having a car in Carolina.
+  <!-- feedback: Incorrecto. La forma -ing necesita el auxiliar 'is', y además 'having' describe una acción en curso y no una posesión habitual. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+El presente simple tiene un puñado de verbos irregulares que no siguen la regla de añadir -s. Los más frecuentes son 'to have', que da 'has', y 'to do', que da 'does'. Estos dos aparecen en casi todos los exámenes de la unidad.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with plural subjects, Aguadilla, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'My parents ____ (live) in Aguadilla.'
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) lives
+  <!-- feedback: Incorrecto. La -s corresponde a la tercera persona singular, y aquí el sujeto es plural, por lo que sobra la terminación. -->
+- [ ] B) live's
+  <!-- feedback: Incorrecto. Un apóstrofo marca posesión y no se usa nunca para formar el presente simple de un verbo. -->
+- [x] C) live
+  <!-- feedback: Correcto. 'My parents' es un sujeto plural, así que el verbo queda en su forma base sin terminación de tercera persona. -->
+- [ ] D) lived
+  <!-- feedback: Incorrecto. 'Lived' es el pasado simple; la frase describe un lugar de residencia habitual y pide presente. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La -s de la tercera persona depende del sujeto, no del significado de la frase. Un sujeto plural o plural conceptual como 'my parents', 'people' o 'the team' exige la forma base. El error más común es poner la -s por costumbre y no por análisis del sujeto.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple negative questions, Guayanilla, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which negative question is correct?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) Don't he like mango?
+  <!-- feedback: Incorrecto. 'Don't' solo acompaña a I, you, we y they; con 'he' el auxiliar tiene que ser 'does'. -->
+- [ ] B) Isn't he likes mango?
+  <!-- feedback: Incorrecto. 'Isn't' pertenece al verbo 'to be' y además el verbo principal quedaría con la -s incorrecta. -->
+- [x] C) Doesn't he like mango?
+  <!-- feedback: Correcto. El auxiliar 'doesn't' abre la pregunta y deja el verbo principal en su forma base, que es 'like'. -->
+- [ ] D) Does he not likes mango?
+  <!-- feedback: Incorrecto. Detras de 'does' el verbo principal vuelve a la forma base, de modo que 'does he not likes' duplicaria la terminacion y ademas invierte el orden del tag, que debe ser auxiliar y luego pronombre. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+En las preguntas negativas el orden es siempre el mismo: auxiliar, sujeto y verbo en forma base. Con 'does' el auxiliar ya aporta la -s, asi que escribir el verbo con terminacion duplicaria la marca de tercera persona.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple questions, Trujillo Alto, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the correct auxiliary: '____ your teacher speak Spanish during class?'
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] A) Does
+  <!-- feedback: Correcto. El auxiliar de la tercera persona singular en presente simple es 'does', y el verbo principal queda en forma base. -->
+- [ ] B) Do
+  <!-- feedback: Incorrecto. 'Do' se usa con I, you, we y they; como el sujeto es 'your teacher', falta la -s. -->
+- [ ] C) Is
+  <!-- feedback: Incorrecto. 'Is' forma preguntas del verbo 'to be', pero aquí el verbo principal es 'speak'. -->
+- [ ] D) Are
+  <!-- feedback: Incorrecto. 'Are' corresponde al plural o a 'you', y no acompaña a un verbo léxico como 'speak'. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Paraforming preguntas en presente simple hay que mirar primero el sujeto. Si es I, you, we o they se usa 'do'; si es he, she o it se usa 'does'. Solo con el verbo 'to be' aparecen 'am', 'is' y 'are'.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with time expressions, Barceloneta, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'The train ____ (leave) from San Juan at seven every morning.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) leave
+  <!-- feedback: Incorrecto. 'The train' es singular, de modo que la forma base sin terminación no corresponde al sujeto. -->
+- [ ] B) leaving
+  <!-- feedback: Incorrecto. El gerundio pertenece al presente continuo y aquí la rutina pide un verbo en presente simple. -->
+- [ ] C) is leave
+  <!-- feedback: Incorrecto. 'Leave' no es un participio, y además un verbo de acción no se combina con 'is' en presente simple. -->
+- [x] D) leaves
+  <!-- feedback: Correcto. 'The train' es tercera persona singular y además 'leave' ya termina en -e, así que solo añade -s. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Cuando el verbo base termina en -e, la tercera persona singular anade unicamente -s, sin -(e)s. Las expresiones de tiempo como 'every morning' o 'always' suelen acompanarse de presente simple, y conviene reconocerlas antes de elegir la forma verbal.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with have got, Maunabo, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Complete the sentence: 'She ____ (have got) two brothers and one sister.'
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) have got
+  <!-- feedback: Incorrecto. 'Have got' corresponde a I, you, we y they; con 'she' hace falta la forma 'has got'. -->
+- [x] B) has got
+  <!-- feedback: Correcto. En presente simple la forma contracted de 'have got' con tercera persona singular es 'has got'. -->
+- [ ] C) hav got
+  <!-- feedback: Incorrecto. 'Hav' no es una forma del verbo 'to have' en inglés; el participio de ese verbo es 'had'. -->
+- [ ] D) having got
+  <!-- feedback: Incorrecto. La forma -ing describe una acción en curso y no una posesión que se mantiene siempre. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+British English usa con frecuencia 'have got' para hablar de posesión, y ese verbo también es irregular en la tercera persona singular. La estructura es 'have got' en el resto de personas y 'has got' con he, she o it.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple spelling rules, Yauco, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'He ____ (do) his homework after dinner every day.'
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) dos
+  <!-- feedback: Incorrecto. 'Dos' es el número dos y no una forma verbal, así que la frase no tiene sentido gramatical. -->
+- [x] B) does
+  <!-- feedback: Correcto. 'To do' es irregular en tercera persona: da 'does', y al ser irregular no añade una terminación normal. -->
+- [ ] C) do
+  <!-- feedback: Incorrecto. 'Do' es la forma base y solo encaja con un sujeto distinto de he, she o it. -->
+- [ ] D) doing
+  <!-- feedback: Incorrecto. 'Doing' pertenece al presente continuo y además la rutina se expresa en presente simple. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Los verbos irregulares en presente simple se memorizan, no se derivan. 'To do' da 'does', 'to have' da 'has' y 'to go' da 'goes'. Reconocerlos rápido evita construir formas como 'doos' o 'haves'.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple spelling rules, Cayey, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'Maria ____ (watch) the news at nine every night.'
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) watchs
+  <!-- feedback: Incorrecto. Una -s a secas detrás de -ch produce un sonido improbable y no es una forma válida del inglés. -->
+- [ ] B) watch
+  <!-- feedback: Incorrecto. Es la forma base y el sujeto 'Maria' es tercera persona singular, así que exige terminación. -->
+- [ ] C) watching
+  <!-- feedback: Incorrecto. 'Watching' es la forma del gerundio y pertenece al presente continuo, no a una rutina diaria. -->
+- [x] D) watches
+  <!-- feedback: Correcto. Como 'watch' termina en -ch, la tercera persona singular añade -es para que la -s suene como una s normal. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe sonar como una s normal, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple negatives with first person, San Sebastian, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the correct negative: 'I ____ (not / like) the rain in San Sebastian.'
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) doesn't like
+  <!-- feedback: Incorrecto. 'Doesn't' es la tercera persona singular, y aquí el sujeto es 'I' en primera persona. -->
+- [ ] B) am not like
+  <!-- feedback: Incorrecto. 'Am' pertenece al verbo 'to be' y el gerundio no corresponde a una opinión sobre el clima. -->
+- [x] C) don't like
+  <!-- feedback: Correcto. Con 'I' el auxiliar del negativo es 'do not' o 'don't', y el verbo queda en forma base. -->
+- [ ] D) not like
+  <!-- feedback: Incorrecto. Falta el auxiliar: en presente simple el negativo se forma con 'do not' o 'does not'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+La elección entre 'don't' y 'doesn't' depende únicamente del sujeto. Con I, you, we y they se usa 'don't'; con he, she o it se usa 'doesn't'. En ambos casos el verbo principal permanece en su forma base detrás del auxiliar.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D2]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with be in third person, Camuy, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence: 'He ____ (not / be) ready for the exam yet.'
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] A) isn't
+  <!-- feedback: Correcto. El negativo de 'to be' en tercera persona singular se forma con 'is' más 'not', o contraído como 'isn't'. -->
+- [ ] B) aren't
+  <!-- feedback: Incorrecto. 'Aren't' corresponde a 'you' o a un sujeto plural, y el sujeto de la frase es 'he'. -->
+- [ ] C) doesn't
+  <!-- feedback: Incorrecto. 'Doesn't' es el auxiliar de los verbos de acción, pero aquí el verbo principal es 'to be'. -->
+- [ ] D) don't
+  <!-- feedback: Incorrecto. 'Don't' no combina con 'to be', porque el verbo 'to be' ya tiene su propio sistema de formas. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+El presente simple de 'to be' es un sistema aparte: I am, you are, he, she e it is, y nosotros, ustedes y ellos son 'are'. El negativo se forma con 'not' detrás del verbo. Los auxiliares 'do' y 'does' nunca participan con 'to be'.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple question tags, Luquillo, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the correct question tag: 'Your cousin lives in Caguas, ____?'
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) doesn't she
+  <!-- feedback: Correcto. Una afirmación en positivo pide un tag negativo, y como el sujeto es tercera persona el tag usa 'doesn't' más el pronombre. -->
+- [ ] B) isn't she
+  <!-- feedback: Incorrecto. 'Isn't' pertenece al verbo 'to be', y la afirmación no contiene ninguna forma de 'to be'. -->
+- [ ] C) don't she
+  <!-- feedback: Incorrecto. 'Don't' no acompaña a un sujeto de tercera persona singular, así que el tag es gramaticalmente imposible. -->
+- [ ] D) she doesn't
+  <!-- feedback: Incorrecto. El tag repite la estructura de la afirmación, pero el orden correcto es auxiliar y luego pronombre. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe pronunciarse de manera clara, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with quantifiers, Toa Baja, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'Every student ____ (need) a notebook for the course.'
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) need
+  <!-- feedback: Incorrecto. En inglés el sujeto 'every' exige un verbo singular, aunque el sustantivo que lo acompaña sea plural. -->
+- [ ] B) needing
+  <!-- feedback: Incorrecto. 'Needing' es un gerundio y pertenece al presente continuo, no a un hecho general del curso. -->
+- [ ] C) are need
+  <!-- feedback: Incorrecto. El verbo 'to need' no acepta 'are' delante, y además el sujeto de la frase es singular. -->
+- [x] D) needs
+  <!-- feedback: Correcto. 'Every student' es singular en inglés, de modo que el verbo vuelve a la forma de tercera persona singular. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+En ingles los cuantificadores como 'every', 'each' y 'either' governs el verbo en singular. La concordancia se hace con el cuantificador y no con el sustantivo, por lo que 'every student needs' es la estructura correcta.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple with collective nouns, Naguabo, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: 'The committee ____ (meet) on Mondays to plan the fair.'
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) meet
+  <!-- feedback: Incorrecto. Si el comité se tratara como varios miembros, la forma sería 'meet', pero el grupo actúa aquí como una sola entidad. -->
+- [x] B) meets
+  <!-- feedback: Correcto. Un grupo con una sola función se trata como unidad singular en inglés, de modo que el verbo va en 'meets'. -->
+- [ ] C) meeting
+  <!-- feedback: Incorrecto. 'Meeting' es la forma -ing y además un sustantivo, así que no puede ocupar el hueco del verbo. -->
+- [ ] D) meet's
+  <!-- feedback: Incorrecto. El apóstrofo no se usa para formar el presente simple, y la frase pide una forma verbal presente. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Los sustantivos colectivos como 'committee', 'team' o 'family' pueden concordar en singular o en plural segun el contexto. Cuando el grupo actua como una unidad con una sola funcion, el verbo va en singular; cuando se habla de cada miembro por separado, va en plural.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D3]
 **ID:** PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present simple tag questions, Hatillo, grado 11, W01.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the tag that completes the question: 'He ____ he forget the keys?'
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) don't
+  <!-- feedback: Incorrecto. 'Don't' pertenece a I, you, we y they, y el sujeto de la frase principal es 'he'. -->
+- [ ] B) isn't
+  <!-- feedback: Incorrecto. 'Isn't' es el auxiliar del verbo 'to be', y la pregunta se construye con 'forget'. -->
+- [x] C) doesn't
+  <!-- feedback: Correcto. Una pregunta negativa pide un tag positivo, y con 'he' ese auxiliar es 'does' en forma contracted 'doesn't'. -->
+- [ ] D) hasn't
+  <!-- feedback: Incorrecto. 'Hasn't' pertenece al presente perfecto con 'have', no a la pregunta en presente simple. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+El tag confirma o matiza lo que dice la frase principal. Si la frase es negativa el tag es positivo, y si es positiva el tag es negativo. En presente simple el auxiliar disponible para 'he' es 'does', y el verbo principal queda en forma base.
+
+---
