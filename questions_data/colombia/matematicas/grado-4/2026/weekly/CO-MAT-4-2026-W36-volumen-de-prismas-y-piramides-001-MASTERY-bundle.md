@@ -36,13 +36,12 @@ En esta semana los estudiantes de grado 4 van a aprender a calcular el volumen d
 ### Opciones
 - [ ] A) Una figura con una base circular y un vértice
   <!-- feedback: Incorrecto. Eso describe un cono, no un prisma. Un prisma tiene dos bases poligonales iguales y paralelas. -->
-- [x] B) Una figura con dos bases poligonales iguales y paralelas
-  <!-- feedback: Correcto. Un prisma tiene dos bases poligonales congruentes y paralelas, conectadas por caras rectangulares. -->
-- [ ] C) Una figura con una base poligonal y un vértice
+- [ ] B) Una figura con una base poligonal y un vértice
   <!-- feedback: Incorrecto. Eso describe una pirámide, no un prisma. Un prisma tiene dos bases, no un vértice. -->
-- [ ] D) Una figura con todas las caras triangulares
+- [ ] C) Una figura con todas las caras triangulares
   <!-- feedback: Incorrecto. Eso describe un tetraedro o pirámide triangular. Un prisma tiene caras rectangulares y dos bases poligonales. -->
-
+- [x] D) Una figura con dos bases poligonales iguales y paralelas
+  <!-- feedback: Correcto. Un prisma tiene dos bases poligonales congruentes y paralelas, conectadas por caras rectangulares. -->
 ### Explicacion Pedagogica
 Un prisma es una figura tridimensional que tiene dos bases poligonales congruentes (iguales) y paralelas, conectadas por caras rectangulares. Las bases pueden ser triángulos, cuadrados, pentágonos u otros polígonos. El prisma se nombra según la forma de su base: prisma triangular, prisma rectangular (cuboide), prisma pentagonal, etc.
 
@@ -57,14 +56,14 @@ Un prisma es una figura tridimensional que tiene dos bases poligonales congruent
 ¿Cuál es la fórmula para calcular el volumen de un prisma?
 
 ### Opciones
-- [ ] A) V = área de la base × altura
+- [x] A) V = área de la base × altura
   <!-- feedback: Correcto. El volumen de un prisma es el área de la base multiplicada por la altura: V = A_base × h. -->
 - [ ] B) V = (área de la base × altura) ÷ 2
-  <!-- feedback: Incorrecto. Esa fórmula no corresponde a ninguna figura estándar. El volumen de un prisma es A_base × h, sin dividir. -->
+  <!-- feedback: Incorrecto. El prisma no divide entre 2; esa operación corresponde a un triángulo, no a un sólido de base constante. -->
 - [ ] C) V = (área de la base × altura) ÷ 3
   <!-- feedback: Incorrecto. Esa es la fórmula del volumen de una pirámide, no de un prisma. El prisma no divide entre 3. -->
-- [x] D) V = área de la base × altura (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El volumen es A_base × h. -->
+- [ ] D) V = perímetro de la base × altura
+  <!-- feedback: Incorrecto. El volumen se calcula con el ÁREA de la base, no con su perímetro: multiplicar el perímetro por la altura mezcla dos magnitudes distintas. -->
 ### Explicacion Pedagogica
 El volumen de un prisma se calcula multiplicando el área de la base por la altura: V = A_base × h. Esta fórmula funciona para cualquier prisma, sin importar la forma de la base (triángulo, cuadrado, pentágono, etc.). La altura es la distancia perpendicular entre las dos bases.
 
@@ -79,17 +78,16 @@ El volumen de un prisma se calcula multiplicando el área de la base por la altu
 ¿Cuál es el volumen de un prisma rectangular con base de 6 cm × 4 cm y altura de 10 cm?
 
 ### Opciones
-- [ ] A) 240 cm³
-  <!-- feedback: Correcto. El área de la base es 6 × 4 = 24 cm². El volumen es 24 × 10 = 240 cm³. -->
-- [ ] B) 120 cm³
+- [ ] A) 120 cm³
   <!-- feedback: Incorrecto. 120 cm³ sería la mitad del resultado correcto. El volumen es área de la base × altura = 24 × 10 = 240 cm³. -->
-- [ ] C) 60 cm³
+- [ ] B) 60 cm³
   <!-- feedback: Incorrecto. 60 cm³ sería el resultado de multiplicar solo un lado de la base por la altura (6 × 10), pero el área de la base es 6 × 4 = 24 cm². -->
-- [x] D) 240 cm³ (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El volumen es 24 × 10 = 240 cm³. -->
+- [x] C) 240 cm³
+  <!-- feedback: Correcto. El área de la base es 6 × 4 = 24 cm². El volumen es 24 × 10 = 240 cm³. -->
+- [ ] D) 480 cm³
+  <!-- feedback: Incorrecto. 480 cm³ no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de la base es 6 × 4 = 24 cm². El volumen es 24 × 10 = 240 cm³. -->
 ### Explicacion Pedagogica
 Para calcular el volumen de un prisma rectangular, primero se encuentra el área de la base: A = 6 × 4 = 24 cm². Luego se multiplica por la altura: V = 24 × 10 = 240 cm³. Es importante calcular correctamente el área de la base antes de multiplicar por la altura.
-
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-4-2026-W36-volumen-de-prismas-y-piramides-001-MASTERY-bundle-v4
 **Bloom:** Apply
@@ -101,17 +99,16 @@ Para calcular el volumen de un prisma rectangular, primero se encuentra el área
 ¿Cuál es el volumen de una pirámide con base cuadrada de 5 cm de lado y altura de 9 cm?
 
 ### Opciones
-- [ ] A) 75 cm³
-  <!-- feedback: Correcto. El área de la base es 5 × 5 = 25 cm². El volumen es (25 × 9) ÷ 3 = 75 cm³. -->
-- [ ] B) 225 cm³
+- [ ] A) 225 cm³
   <!-- feedback: Incorrecto. 225 cm³ sería el resultado de multiplicar área de la base × altura sin dividir entre 3. La fórmula de la pirámide divide entre 3. -->
-- [ ] C) 45 cm³
+- [ ] B) 45 cm³
   <!-- feedback: Incorrecto. 45 cm³ sería el resultado de multiplicar solo un lado de la base por la altura (5 × 9), pero el área de la base es 5 × 5 = 25 cm². -->
-- [x] D) 75 cm³ (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El volumen es (25 × 9) ÷ 3 = 75 cm³. -->
+- [ ] C) 150 cm³
+  <!-- feedback: Incorrecto. 150 cm³ no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de la base es 5 × 5 = 25 cm². El volumen es (25 × 9) ÷ 3 = 75 cm³. -->
+- [x] D) 75 cm³
+  <!-- feedback: Correcto. El área de la base es 5 × 5 = 25 cm². El volumen es (25 × 9) ÷ 3 = 75 cm³. -->
 ### Explicacion Pedagogica
 El volumen de una pirámide se calcula con la fórmula V = (A_base × h) ÷ 3. Con base cuadrada de 5 cm de lado, el área de la base es 5 × 5 = 25 cm². El volumen es (25 × 9) ÷ 3 = 225 ÷ 3 = 75 cm³. La división entre 3 es lo que distingue a la pirámide del prisma.
-
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-4-2026-W36-volumen-de-prismas-y-piramides-001-MASTERY-bundle-v5
 **Bloom:** Apply
@@ -169,17 +166,16 @@ Cuando un prisma y una pirámide tienen la misma base y la misma altura, el volu
 ¿Cuál es el área de la base de un prisma rectangular con volumen de 180 cm³ y altura de 9 cm?
 
 ### Opciones
-- [ ] A) 20 cm²
+- [x] A) 20 cm²
   <!-- feedback: Correcto. Usando V = A_base × h, despejamos A_base = V ÷ h = 180 ÷ 9 = 20 cm². -->
 - [ ] B) 18 cm²
   <!-- feedback: Incorrecto. 18 cm² no satisface la fórmula V = A_base × h porque 18 × 9 = 162, no 180. El área correcta es 20 cm². -->
 - [ ] C) 22 cm²
   <!-- feedback: Incorrecto. 22 cm² no satisface la fórmula V = A_base × h porque 22 × 9 = 198, no 180. El área correcta es 20 cm². -->
-- [x] D) 20 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 180 ÷ 9 = 20 cm². -->
+- [ ] D) 40 cm²
+  <!-- feedback: Incorrecto. 40 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Usando V = A_base × h, despejamos A_base = V ÷ h = 180 ÷ 9 = 20 cm². -->
 ### Explicacion Pedagogica
 Para encontrar el área de la base a partir del volumen y la altura, se despeja de la fórmula V = A_base × h: A_base = V ÷ h = 180 ÷ 9 = 20 cm². Es importante recordar que el volumen de un prisma siempre es área de la base multiplicada por la altura, así que para encontrar el área se divide el volumen entre la altura.
-
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-4-2026-W36-volumen-de-prismas-y-piramides-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
