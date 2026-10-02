@@ -152,7 +152,7 @@ Un texto que indica "primero mezcle los ingredientes, luego caliente el sartén 
 - [x] A) A la tipología instructiva, porque indica una secuencia de pasos que el lector debe seguir para lograr un resultado.
   <!-- feedback: Es correcta: la presencia de un procedimiento ordenado en etapas y la intención de que alguien lo ejecute definen la tipología instructiva. -->
 - [ ] B) A la tipología narrativa, porque el texto cuenta el paso a paso de una experiencia.
-  <!-- feedback: No hay personaje, ni trama, ni secuencia de hechos vividos. La secuencia es de accionesUBE ordenadas, que es propio de lo instructivo. -->
+  <!-- feedback: No hay personaje, ni trama, ni secuencia de hechos vividos. La secuencia es de acciones ordenadas, que es propio de lo instructivo. -->
 - [ ] C) A la tipología descriptiva, porque enumera los pasos con detalle.
   <!-- feedback: La descripción presenta características de un objeto o lugar. Enumerar pasos para ejecutar una tarea no es describir. -->
 - [ ] D) A la tipología argumentativa, porque intenta convencer al lector de que la receta funciona.

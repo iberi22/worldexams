@@ -58,8 +58,8 @@ En el mensaje anterior, ¿que efecto produce el uso de palabras en ingles dentro
 
 ### Opciones
 - [x] A) Refuerza la ironia, porque el desajuste del tono contrasta con el elogio y hace visible la critica. <!-- feedback: Ese choque entre el tono informal y la acusacion es justamente lo que produce la ironia. -->
-- [ ] B) Elimina la critica, porque quien escribe en otro idioma no puede senalar una desaprobacion. <!-- feedback: El idioma no cancela el contenido; aqui el termino extranjero intensifica la critica. -->
-- [ ] C) Convierte el mensaje en una noticia, porque el ingles es el idioma de los medios internacionales. <!-- feedback: El idioma no determina el genero; aqui sigue siendo un texto breve de humor critico. -->
+- [ ] B) Elimina la critica, porque quien escribe en otro idioma no puede senalar una desaprobacion. <!-- feedback: El idioma no cancela el contenido; aquí el termino extranjero intensifica la critica. -->
+- [ ] C) Convierte el mensaje en una noticia, porque el ingles es el idioma de los medios internacionales. <!-- feedback: El idioma no determina el genero; aquí sigue siendo un texto breve de humor critico. -->
 - [ ] D) Reduce el mensaje a una opinion sin sustento, porque mezcla dos lenguas. <!-- feedback: La mezcla de idiomas no elimina el fundamento critico: forma parte del recurso humoristico. -->
 
 ### Explicacion Pedagogica
@@ -79,8 +79,8 @@ La ironia aparece cuando lo que se dice y lo que se quiere decir no coinciden. E
 
 ### Opciones
 - [x] A) Que la duracion de la fila se exagera a proposito para provocar la risa. <!-- feedback: La hiperbole agranda el dato hasta lo absurdo, y esa desproporcion produce el efecto comico. -->
-- [ ] B) Que el autor quiere informar cuantos minutos dura realmente la fila. <!-- feedback: Un dato exacto pertenece al genero informativo; aqui el tiempo no es verificable. -->
-- [ ] C) Que la frase busca alertar a los lectores sobre el sistema bancario. <!-- feedback: La alerta bancaria pertenece a la noticia o al editorial; aqui el efecto buscado es humoristico. -->
+- [ ] B) Que el autor quiere informar cuantos minutos dura realmente la fila. <!-- feedback: Un dato exacto pertenece al genero informativo; aquí el tiempo no es verificable. -->
+- [ ] C) Que la frase busca alertar a los lectores sobre el sistema bancario. <!-- feedback: La alerta bancaria pertenece a la noticia o al editorial; aquí el efecto buscado es humoristico. -->
 - [ ] D) Que el autor escribe en verso para ocultar su opinion. <!-- feedback: No hay verso en la frase: el recurso es la comparacion exagerada, no la forma poetica. -->
 
 ### Explicacion Pedagogica
@@ -120,7 +120,7 @@ La incongruencia produce la risa cuando el texto dice una cosa y el dibujo o la 
 Si el medio quiere comunicar ese hecho sin deformarlo, ¿que genero periodistico debe escribir?
 
 ### Opciones
-- [ ] A) Una caricatura que exagere el numero de vagones del bus. <!-- feedback: La caricatura deforma la realidad; un aviso de servicio exige un relato verificable. -->
+- [ ] A) Una caricatura que exagere el número de vagones del bus. <!-- feedback: La caricatura deforma la realidad; un aviso de servicio exige un relato verificable. -->
 - [ ] B) Un editorial que defienda la inversion en transporte publico. <!-- feedback: El editorial toma partido; un aviso de servicio es informacion, no opinion argumentada. -->
 - [ ] C) Una satira que ridiculice a los encargados de las suspensiones. <!-- feedback: La satira ridiculiza con fines criticos; no sirve para comunicar que el servicio se restablecio. -->
 - [x] D) Una noticia que relate el hecho, la fecha y el lugar sin deformarlos. <!-- feedback: Solo la noticia informa: recoge el hecho verificable y lo relata sin humor ni deformacion. -->
@@ -247,7 +247,7 @@ Distinguir la caricatura critica de la propaganda exige mirar el tratamiento de 
 
 ### Opciones
 - [ ] A) Ninguno, porque el humor no puede aportar a la critica de una realidad local. <!-- feedback: El humor critico si puede denunciar realidades, precisamente de eso se vale el genero. -->
-- [x] B) Permite senalar una situacion absurda con un lenguaje sencillo y cercano que llega a lectores diversos. <!-- feedback: El chiste cifra la critica en pocas palabras y la hace accesible, una de sus mayoresCCR utilidades. --> 
+- [x] B) Permite senalar una situacion absurda con un lenguaje sencillo y cercano que llega a lectores diversos. <!-- feedback: El chiste cifra la critica en pocas palabras y la hace accesible, una de sus mayores utilidades. --> 
 - [ ] C) Es util unicamente como distraccion, sin relacion con la vida de la comunidad. <!-- feedback: Reducir el chiste a distraccion vacia ignora su capacidad de senalar lo absurdo en lo cotidiano. -->
 - [ ] D) Sustituye a la informacion periodistica verificada sobre el asunto tratado. <!-- feedback: El chiste no reemplaza la noticia: complementa y ordena la mirada critica sobre la realidad. -->
 
@@ -260,7 +260,7 @@ Valorar el humor critico en un diario regional implica reconocer su capacidad de
 **ID:** CO-LC-8-2026-W26-la-satira-y-el-humor-en-la-prensa-001-MASTERY-bundle-v12
 **Bloom:** Evaluate
 **ICFES:** Pragmático
-**Contexto:** En un grupo de estudiantes de grado 8 en Popayan aparece un meme que ridiculiza a un companero por su forma de hablar, con el pie "clase de matematicas". Nadie del grupo lo publico: lo envio un estudiante de otro grado.
+**Contexto:** En un grupo de estudiantes de grado 8 en Popayan aparece un meme que ridiculiza a un companero por su forma de hablar, con el pie "clase de matemáticas". Nadie del grupo lo publico: lo envio un estudiante de otro grado.
 **Expected_Success:** 0.85
 
 ### Enunciado

@@ -57,20 +57,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing innovation & startups in Bogotá.
 
 ### Enunciado
-In the context of innovation & startups, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of innovation & startups, which word best completes the following sentence: 'The founders knew the market was saturated, yet they decided to __________ the product anyway and learn from the result'?
 
 ### Opciones
-- [x] B) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] C) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] B) launch
+  <!-- feedback: 'Launch' means to put a product on the market, which is what the founders decided to do despite the risk. -->
+- [ ] A) license
+  <!-- feedback: 'License' means to grant permission to use intellectual property, and no rights or patents are mentioned. -->
+- [ ] C) outsource
+  <!-- feedback: 'Outsource' means to hire an outside company to do a task, whereas the sentence is about releasing their own product. -->
+- [ ] D) archive
+  <!-- feedback: 'Archive' means to store something for future reference, which is the opposite of putting a product into use. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+Start-up vocabulary is precise: 'launch' is the verb for releasing a product to the market, whereas 'license', 'outsource' and 'archive' describe rights, delegation and storage.
 
 ---
 
@@ -82,20 +82,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing innovation & startups in Bucaramanga.
 
 ### Enunciado
-In the context of innovation & startups, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of innovation & startups, which word best completes the following sentence: 'Their first round of funding fell through, so the team had to __________ a smaller budget and cut the hiring plan'?
 
 ### Opciones
-- [x] D) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] C) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] D) absorb
+  <!-- feedback: 'Absorb' means to take on a cost or impact oneself, which is what happens when a smaller budget is adopted. -->
+- [ ] A) negotiate
+  <!-- feedback: 'Negotiate' means to discuss in order to reach agreement, and no bargaining is described in the sentence. -->
+- [ ] B) anticipate
+  <!-- feedback: 'Anticipate' means to expect something, whereas the sentence describes a shortfall they had to cope with. -->
+- [ ] C) allocate
+  <!-- feedback: 'Allocate' means to distribute for a purpose, and no distribution of money is described as the reaction. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+Business vocabulary distinguishes coping with a loss from arranging or expecting one, so 'absorb' fits a company that takes a reduced budget on itself rather than negotiating for more.
 
 ---
 
@@ -107,20 +107,20 @@ This question tests advanced vocabulary (verbs of change and impact) suitable fo
 **Contexto:** Discussing innovation & startups in Bucaramanga.
 
 ### Enunciado
-In the context of innovation & startups, which word best completes the following sentence: 'The government's failure to address the issue has only served to __________ the social divide'?
+In the context of innovation & startups, which word best completes the sentence: 'The startup could not scale because it failed to secure __________ funding'?
 
 ### Opciones
-- [x] C) exacerbate
-  <!-- feedback: Correct. 'Exacerbate' means to make a problem or bad situation worse, which fits perfectly here. -->
-- [ ] A) alleviate
-  <!-- feedback: Incorrect. 'Alleviate' means to make something less severe, which is the opposite of what's needed. -->
-- [ ] B) mitigate
-  <!-- feedback: Incorrect. 'Mitigate' means to make something less severe, which doesn't fit the negative consequence implied. -->
-- [ ] D) facilitate
-  <!-- feedback: Incorrect. 'Facilitate' means to make an action or process easy or easier, which is not appropriate for a social divide. -->
+- [x] C) seed
+  <!-- feedback: 'Seed funding' is the term for the early capital a new company raises to get started, and without it the startup cannot grow. -->
+- [ ] A) outstanding
+  <!-- feedback: 'Outstanding' means still unpaid or unresolved, so 'outstanding funding' would describe money owed, not capital obtained. -->
+- [ ] B) residual
+  <!-- feedback: 'Residual' means what remains after something is taken, which does not describe the kind of capital a startup needs. -->
+- [ ] D) surplus
+  <!-- feedback: 'Surplus' means an excess of resources over what is needed, the opposite of the shortage of capital described. -->
 
 ### Explicacion Pedagogica
-This question tests advanced vocabulary (verbs of change and impact) suitable for C1+ level.
+'Seed funding' is the fixed collocation for a company's earliest investment round; the distractors all describe a quantity or condition of money rather than a stage of financing.
 
 ---
 
@@ -182,20 +182,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing innovation & startups in Bogotá.
 
 ### Enunciado
-According to a recent report on innovation & startups in Bogotá, what is implied about the role of Verb-Noun Collocations in shaping public opinion?
+The same report says founders 'launch a product' and 'drive growth'. What is a verb-noun collocation?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] B) A fixed phrase where a verb and a noun keep a specific meaning together
+  <!-- feedback: 'Launch a product' and 'drive growth' are learned combinations whose meaning is fixed and not the sum of the two parts. -->
+- [ ] A) Any verb followed immediately by a noun
+  <!-- feedback: Most verb-noun pairs are ordinary word order, as in 'eat lunch', and carry no special combined sense. -->
+- [ ] C) A noun phrase modified by an adjective
+  <!-- feedback: An adjective modifying a noun forms no collocation here, since a collocation needs a verb as one of its elements. -->
+- [ ] D) A phrasal verb made of a verb and a particle
+  <!-- feedback: A phrasal verb joins a verb to an adverb or preposition, as in 'give up', not to the object noun that collocations use. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+A verb-noun collocation is a frequent pairing kept in the language, such as 'drive growth' or 'raise capital', where the combination means something more specific than the words alone.
 
 ---
 
@@ -232,20 +232,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing innovation & startups in Bogotá.
 
 ### Enunciado
-According to a recent report on innovation & startups in Bogotá, what is implied about the role of Verb-Noun Collocations in shaping public opinion?
+The same report warns that founders say 'drive growth' but not 'drive the growth of the market'. What does this show about collocations?
 
 ### Opciones
-- [x] C) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] B) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] C) The language is fixed, so changing the pattern sounds wrong
+  <!-- feedback: Because 'drive growth' is the established pairing, replacing it with a longer structure produces something native speakers would judge as incorrect. -->
+- [ ] A) The verb can be swapped for any synonym
+  <!-- feedback: If any synonym fitted, the phrase would not be a collocation, since the point of the pattern is that the pairing is conventional. -->
+- [ ] B) The noun can be replaced by a pronoun freely
+  <!-- feedback: Pronoun substitution is a normal transformation of any noun phrase and says nothing about whether the pairing is fixed. -->
+- [ ] D) The phrase means the same in every register
+  <!-- feedback: The report is describing convention, not sameness across registers, and a fixed pairing can still be avoided in informal writing. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+Collocations are stable pairings: a speaker can use 'drive growth' naturally but feels 'drive the growth of the market' to be overblown, which is exactly what fixedness predicts.
 
 ---
 
@@ -257,20 +257,20 @@ This question requires inferential reading skills to understand how complex stru
 **Contexto:** Discussing innovation & startups in Bogotá.
 
 ### Enunciado
-According to a recent report on innovation & startups in Bogotá, what is implied about the role of Verb-Noun Collocations in shaping public opinion?
+The same report lists 'raise capital', 'cut costs' and 'tap a market'. What unites these three phrases?
 
 ### Opciones
-- [x] B) It serves as a critical tool for nuanced communication.
-  <!-- feedback: Correct. C1+ level reading requires identifying subtle implications about language use. -->
-- [ ] A) It is largely irrelevant to the general public.
-  <!-- feedback: Incorrect. The text suggests the opposite regarding the importance of linguistic precision. -->
-- [ ] C) It simplifies complex socio-political messages.
-  <!-- feedback: Incorrect. Verb-Noun Collocations give a text its nuance and precision, so they does not make the message simpler to grasp. -->
-- [ ] D) It is only used by academic elites in {city}.
-  <!-- feedback: Incorrect. The report discusses its broader application in media and discourse. -->
+- [x] B) Each is a verb-noun collocation of the kind used in business English
+  <!-- feedback: All three pair a verb with its object in the conventional way business English uses them, so they belong to the same collocational class. -->
+- [ ] A) Each contains a phrasal verb with an adverbial particle
+  <!-- feedback: None of the three has a verb plus particle, as in 'cut down', so the shared feature is not a phrasal verb. -->
+- [ ] C) Each is an idiom that cannot be modified in any way
+  <!-- feedback: A business phrase like 'raise capital' accepts a size or quantity, so these are not closed idioms. -->
+- [ ] D) Each uses a passive verb with no agent
+  <!-- feedback: All three are active clauses with named subjects performing the action, not passives in which the agent is hidden. -->
 
 ### Explicacion Pedagogica
-This question requires inferential reading skills to understand how complex structures convey deeper meaning.
+The three phrases share one structure: a verb bound by convention to a particular noun, the pattern that makes collocations a defining feature of business and academic English.
 
 ---
 
@@ -307,20 +307,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing innovation & startups in Cali.
 
 ### Enunciado
-Complete the following sentence about innovation & startups: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Verb-Noun Collocations)
+Complete the following sentence about innovation & startups: 'Rarely __________ a start-up survive its first year without revising the business model.'
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
-- [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+- [x] D) does
+  <!-- feedback: 'Rarely' is a negative-frequency adverb and it takes an affirmative auxiliary, so 'does a start-up survive' is correct. -->
+- [ ] A) a start-up does
+  <!-- feedback: In formal English the auxiliary precedes the subject after 'rarely', so the order must be 'does a start-up survive'. -->
+- [ ] B) does survive a start-up
+  <!-- feedback: This places the subject after the verb phrase, which is not the order English uses in inversion. -->
+- [ ] C) survives a start-up
+  <!-- feedback: 'Survives' is not inverted, and 'a start-up' is the subject here, not the object of the verb. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+Negative-frequency adverbs such as 'rarely' and 'seldom' trigger subject-auxiliary inversion in formal registers, so the correct order is 'rarely does a start-up survive'.
 
 ---
 
@@ -332,20 +332,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing innovation & startups in Cali.
 
 ### Enunciado
-Complete the following sentence about innovation & startups: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Verb-Noun Collocations)
+Complete the following sentence about innovation & startups: 'Not until the patent was approved __________ the company license its product.'
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] C) did
+  <!-- feedback: Fronting the negative phrase 'Not until' forces inversion, so the auxiliary 'did' moves ahead of the subject 'the company'. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not create the inversion that fronted 'Not until' requires, so the emphasis on the late timing is lost. -->
 - [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this clause and does not mark the licensing as the later of two events. -->
+- [ ] D) did not
+  <!-- feedback: 'Did not' would say the company never licensed the product, but the sentence describes a real licensing that came after approval. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Not until' is a fronted negative expression, and in English that inversion puts the auxiliary before the subject: 'not until the patent was approved did the company license it'.
 
 ---
 
@@ -357,20 +357,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing innovation & startups in Medellín.
 
 ### Enunciado
-Complete the following sentence about innovation & startups: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Verb-Noun Collocations)
+Complete the following sentence about innovation & startups: 'Not until the second prototype passed the stress test __________ the engineers announce a launch date.'
 
 ### Opciones
-- [x] B) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] B) did
+  <!-- feedback: Fronting 'Not until' triggers inversion, so the auxiliary 'did' comes before the subject 'the engineers'. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not create the inversion that 'Not until' requires, so the delay before the announcement is lost. -->
 - [ ] C) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this clause and does not place the announcement after the stress test. -->
+- [ ] D) did not
+  <!-- feedback: 'Did not' would say the engineers never announced a date, whereas the sentence only rules out an earlier one. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+'Not until' is a fronted negative phrase, and English puts the auxiliary before the subject after it: 'not until the prototype passed the test did the engineers announce a launch date'.
 
 ---
 
@@ -382,20 +382,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing innovation & startups in Cali.
 
 ### Enunciado
-Complete the following sentence about innovation & startups: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Verb-Noun Collocations)
+Complete the following sentence about innovation & startups: 'Rarely __________ a first-time founder manage to attract an investor on the first pitch.'
 
 ### Opciones
-- [x] D) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] D) does
+  <!-- feedback: 'Rarely does' is the inversion that follows a fronted negative adverb, so 'does a founder manage' is the required pattern. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
+  <!-- feedback: 'Has' would not trigger the inversion that 'Rarely' requires, leaving the clause without its negative emphasis. -->
 - [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] C) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Was' cannot be inverted to open this construction and does not express how rare the success was. -->
+- [ ] C) does not
+  <!-- feedback: 'Does not' would claim that no founder ever succeeded, whereas 'rarely' says it almost never happened. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+With a fronted negative adverb such as 'rarely', 'seldom' or 'never', English inverts the auxiliary ahead of the subject, so the sentence reads 'rarely does a first-time founder manage'.
 
 ---
 
@@ -407,20 +407,20 @@ This evaluates mastery of advanced inversion structures, a key component of C1+ 
 **Contexto:** Discussing innovation & startups in Pereira.
 
 ### Enunciado
-Complete the following sentence about innovation & startups: 'Hardly __________ the new policy been implemented when the first results started to show.' (Topic: Verb-Noun Collocations)
+Complete the following sentence about innovation & startups: 'So uncertain __________ the demand for the device that the company delayed mass production by a full year.'
 
 ### Opciones
-- [x] C) had
-  <!-- feedback: Correct. 'Hardly had...' is a classic C1 inversion structure used for sequential events. -->
+- [x] C) was
+  <!-- feedback: 'So uncertain' is an intensifier in the formal register and it takes an affirmative auxiliary, so 'was' follows it correctly. -->
 - [ ] A) has
-  <!-- feedback: Incorrect. The sentence refers to a past sequence, requiring the past perfect in inversion. -->
-- [ ] B) was
-  <!-- feedback: Incorrect. 'Was' does not fit the past perfect structure required by 'Hardly'. -->
-- [ ] D) did
-  <!-- feedback: Incorrect. 'Did' would require the base form of the verb, not the past participle 'been'. -->
+  <!-- feedback: 'Has' would need a perfect construction, and the sentence describes a single decision rather than an ongoing state. -->
+- [ ] B) had
+  <!-- feedback: 'Had' would place the uncertainty entirely in the past without the inversion the fronted intensifier requires. -->
+- [ ] D) were
+  <!-- feedback: 'Were' cannot agree with the singular subject 'demand', so the auxiliary must be 'was'. -->
 
 ### Explicacion Pedagogica
-This evaluates mastery of advanced inversion structures, a key component of C1+ proficiency.
+In formal written English the intensifier 'so' takes an affirmative verb placed before the subject, so 'so uncertain was the demand' replaces the everyday 'so uncertain the demand was'.
 
 ---
 

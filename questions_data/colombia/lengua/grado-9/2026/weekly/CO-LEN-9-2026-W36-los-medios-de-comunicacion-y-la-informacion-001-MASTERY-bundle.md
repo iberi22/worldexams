@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 # Bundle MASTERY: Los medios de comunicación y la información - Grado 9 (W36)
 ## Semana W36
 
-Esta semana los estudiantes de noveno estudian los medios de comunicación y su relación con la información. Se diferencian los medios informativos, los de opinión y los publicitarios, y se analiza cómo cada uno construye su mensaje y a qué público busca llegar. Se practica la verificación de fuentes, la detección de rumores y el contraste entre el titular y el contenido de una noticia. Se discute además el papel de las redes sociales en la circulación de información. El objetivo es formar un lector capaz de distinguir el hecho verificado de la interpretación y del sesgo.
+Esta semana los estudiantes de noveno estudian los medios de comunicación y su relación con la información. Se diferencian los medios informativos, los de opinión y los publicitarios, y se analiza cómo cada uno construye su mensaje y a qué público busca llegar. Se práctica la verificación de fuentes, la detección de rumores y el contraste entre el titular y el contenido de una noticia. Se discute además el papel de las redes sociales en la circulación de información. El objetivo es formar un lector capaz de distinguir el hecho verificado de la interpretación y del sesgo.
 
 ## Question 1 [D3-D4]
 **ID:** CO-LEN-9-2026-W36-los-medios-de-comunicacion-y-la-informacion-001-MASTERY-bundle-v1
@@ -269,7 +269,7 @@ Un estudiante sostiene que "el derecho a la información significa que todos deb
 - [ ] B) El argumento es correcto, porque la gratuidad es el único contenido de ese derecho
   <!-- feedback: La gratuidad no agota el derecho a la información, que también comprende el acceso a documentos y datos públicos. -->
 - [ ] C) El argumento es correcto, porque sin conexión no existe ningún derecho informativo
-  <!-- feedback: Existen múltiples formas de acceder a información pública, y ninguna de ellas se agota en la conexiónFFC gratuito. -->
+  <!-- feedback: Existen múltiples formas de acceder a información pública, y ninguna de ellas se agota en la conexión gratuita. -->
 - [ ] D) El argumento es incorrecto, porque el derecho a la información no es un derecho en el ordenamiento colombiano
   <!-- feedback: La Constitución colombiana reconoce y protege el derecho a la información, de modo que ese extremo del juicio falla. -->
 
