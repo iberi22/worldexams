@@ -34,13 +34,13 @@ Which sentence uses the passive voice correctly?
 
 ### Opciones
 - [x] A) The library was built in 1975.
-  <!-- feedback: Correcto. 'Was built' es pasiva de pasado: 'to be' en pasado mas el participio del verbo principal. -->
+  <!-- feedback: Correct. 'Was built' is the past passive: 'to be' in the past plus the participle of the main verb. -->
 - [ ] B) The library was build in 1975.
-  <!-- feedback: Incorrecto. La pasiva exige el participio 'built' y no la forma base 'build' detras del auxiliar. -->
+  <!-- feedback: Incorrect. The passive requires the participle 'built', not the base form 'build', after the auxiliary. -->
 - [ ] C) The library is built in 1975.
-  <!-- feedback: Incorrecto. 'Is built' es pasiva de presente y no concuerda con la fecha '1975', que exige pasado. -->
+  <!-- feedback: Incorrect. 'Is built' is the present passive and does not match the date '1975', which requires the past. -->
 - [ ] D) The library built in 1975.
-  <!-- feedback: Incorrecto. Sin 'to be' no hay pasiva, porque el verbo principal queda como activo y sin objeto. -->
+  <!-- feedback: Incorrect. Without 'to be' there is no passive, because the main verb stays active and has no object. -->
 
 ### Explicacion Pedagogica
 La voz pasiva se construye con el verbo 'to be' en el tiempo correspondiente mas el participio pasado del verbo principal. El agente puede omitirse cuando no es relevante o cuando ya se conoce por el contexto.
@@ -59,13 +59,13 @@ Complete the sentence: 'English ____ (speak) in many countries around the world.
 
 ### Opciones
 - [ ] A) speaks
-  <!-- feedback: Incorrecto. 'Speaks' es voz activa y ademas no concuerda con el sujeto 'English', que es singular. -->
+  <!-- feedback: Incorrect. 'Speaks' is active voice and also does not agree with the subject 'English', which is singular. -->
 - [ ] B) is speak
-  <!-- feedback: Incorrecto. Detras de 'is' el verbo va en participio 'spoken' y no en la forma base 'speak'. -->
+  <!-- feedback: Incorrect. After 'is', the verb takes the participle 'spoken', not the base form 'speak'. -->
 - [x] C) is spoken
-  <!-- feedback: Correcto. 'Is spoken' es pasiva de presente y describe una costumbre general sin nombrar a quien la realiza. -->
+  <!-- feedback: Correct. 'Is spoken' is the present passive and describes a general practice without naming who performs it. -->
 - [ ] D) are spoken
-  <!-- feedback: Incorrecto. 'Are' corresponde a un sujeto plural y 'English' es singular en esta frase. -->
+  <!-- feedback: Incorrect. 'Are' goes with a plural subject, and 'English' is singular in this sentence. -->
 
 ### Explicacion Pedagogica
 En la pasiva de presente el auxiliar es 'is' o 'are' segun el sujeto, y el participio no cambia de forma. Los participios irregulares como 'spoken', 'written' o 'built' deben aprenderse aparte, igual que en los tiempos verbales activos.
@@ -84,13 +84,13 @@ Complete the sentence: 'The bridge ____ (build) in 1998 by the municipal governm
 
 ### Opciones
 - [ ] A) is built
-  <!-- feedback: Incorrecto. 'Is built' es pasiva de presente y contradice la fecha '1998' de la frase. -->
+  <!-- feedback: Incorrect. 'Is built' is the present passive and contradicts the date '1998' in the sentence. -->
 - [x] B) was built
-  <!-- feedback: Correcto. 'Was built' es pasiva de pasado y el agente se menciona al final con 'by'. -->
+  <!-- feedback: Correct. 'Was built' is the past passive, and the agent is mentioned at the end with 'by'. -->
 - [ ] C) was build
-  <!-- feedback: Incorrecto. La pasiva de pasado requiere el participio 'built' y no la forma base del verbo. -->
+  <!-- feedback: Incorrect. The past passive requires the participle 'built', not the base form of the verb. -->
 - [ ] D) built
-  <!-- feedback: Incorrecto. Sin el auxiliar 'to be' la frase no tiene voz pasiva y el verbo queda sin objeto. -->
+  <!-- feedback: Incorrect. Without the auxiliary 'to be', the sentence is not in the passive voice and the verb is left without an object. -->
 
 ### Explicacion Pedagogica
 El agente de una pasiva se introduce con la preposicion 'by'. Puede colocarse al final de la oracion o intercalarse entre el auxiliar y el participio, y en ambos casos la construccion es correcta.
@@ -109,13 +109,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) The work must finished before Friday.
-  <!-- feedback: Incorrecto. En la pasiva con modal siempre aparece el 'be' entre el modal y el participio. -->
+  <!-- feedback: Incorrect. In the passive with a modal, 'be' always appears between the modal and the participle. -->
 - [ ] B) The work must be finish before Friday.
-  <!-- feedback: Incorrecto. Detras de 'be' el verbo va en participio 'finished' y no en la forma base. -->
+  <!-- feedback: Incorrect. After 'be', the verb takes the participle 'finished', not the base form. -->
 - [ ] C) The work is must be finished before Friday.
-  <!-- feedback: Incorrecto. Un modal no se combina con el auxiliar 'to be' en presente de esa manera. -->
+  <!-- feedback: Incorrect. A modal cannot be combined with the present form of the auxiliary 'to be' in that way. -->
 - [x] D) The work must be finished before Friday.
-  <!-- feedback: Correcto. Los modales forman la pasiva con 'modal' mas 'be' mas participio. -->
+  <!-- feedback: Correct. Modals form the passive with 'modal' plus 'be' plus participle. -->
 
 ### Explicacion Pedagogica
 La pasiva con verbos modales tiene una estructura fija: modal mas 'be' mas participio. Se aplica con 'can', 'must', 'should', 'may' y 'could', y es una de las construcciones mas frecuentes en instrucciones y normas de seguridad.
@@ -134,13 +134,13 @@ Why is the passive voice often used?
 
 ### Opciones
 - [ ] A) To make the sentence shorter in every case.
-  <!-- feedback: Incorrecto. La pasiva suele ser mas larga que la activa, porque anade el auxiliar 'to be'. -->
+  <!-- feedback: Incorrect. The passive is usually longer than the active, because it adds the auxiliary 'to be'. -->
 - [ ] B) To avoid using the past tense.
-  <!-- feedback: Incorrecto. La pasiva funciona en todos los tiempos; por eso existe con 'was' y con 'is'. -->
+  <!-- feedback: Incorrect. The passive works in all tenses, which is why it exists with both 'was' and 'is'. -->
 - [ ] C) To show who performed the action more clearly.
-  <!-- feedback: Incorrecto. Justamente al contrario: la pasiva oculta o relega al agente, y la activa lo emphasise. -->
+  <!-- feedback: Incorrect. Quite the opposite: the passive hides or downplays the agent, while the active emphasises it. -->
 - [x] D) To focus on the action or the result rather than the agent.
-  <!-- feedback: Correcto. La pasiva destaca el resultado y permite omitir al agente cuando no es importante o ya se conoce. -->
+  <!-- feedback: Correct. The passive highlights the result and lets you omit the agent when it is unimportant or already known. -->
 
 ### Explicacion Pedagogica
 La eleccion entre activa y pasiva depende de la prioridad del mensaje. Cuando el agente es desconocido, irrelevante o ya conocido, la pasiva evita repetirlo y mantiene el foco en el resultado de la accion.
@@ -159,13 +159,13 @@ Complete the sentence: 'These books ____ (write) by a famous Puerto Rican author
 
 ### Opciones
 - [ ] A) was written
-  <!-- feedback: Incorrecto. 'Was' corresponde a un sujeto singular y 'these books' es plural en esta oracion. -->
+  <!-- feedback: Incorrect. 'Was' goes with a singular subject, and 'these books' is plural in this sentence. -->
 - [x] B) were written
-  <!-- feedback: Correcto. 'Were written' es pasiva de pasado y concuerda con el sujeto plural 'these books'. -->
+  <!-- feedback: Correct. 'Were written' is the past passive and agrees with the plural subject 'these books'. -->
 - [ ] C) are write
-  <!-- feedback: Incorrecto. Detras del auxiliar el verbo va en participio 'written' y no en la forma base 'write'. -->
+  <!-- feedback: Incorrect. After the auxiliary, the verb takes the participle 'written', not the base form 'write'. -->
 - [ ] D) have written
-  <!-- feedback: Incorrecto. 'Have written' es presente perfecto activo, no pasiva, porque conserva un sujeto como agente. -->
+  <!-- feedback: Incorrect. 'Have written' is the active present perfect, not a passive, because it keeps a subject as the agent. -->
 
 ### Explicacion Pedagogica
 El auxiliar de la pasiva concuerda con el sujeto, no con el agente. Un sujeto plural exige 'were' o 'are', y uno singular 'was' o 'is', independientemente de quien haya realizado la accion.
@@ -184,13 +184,13 @@ Complete the sentence: 'The decision ____ (take) yesterday afternoon by the comm
 
 ### Opciones
 - [x] A) was taken
-  <!-- feedback: Correcto. El participio de 'to take' es 'taken' y 'was taken' forma la pasiva de pasado. -->
+  <!-- feedback: Correct. The participle of 'to take' is 'taken', and 'was taken' forms the past passive. -->
 - [ ] B) was taked
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no forma parte del ingles, de modo que 'taked' no existe. -->
+  <!-- feedback: Incorrect. Adding -ed to an irregular verb is not correct English, so 'taked' does not exist. -->
 - [ ] C) is taken
-  <!-- feedback: Incorrecto. 'Is taken' es pasiva de presente y contradice la expresion temporal 'yesterday afternoon'. -->
+  <!-- feedback: Incorrect. 'Is taken' is the present passive and contradicts the time expression 'yesterday afternoon'. -->
 - [ ] D) has taken
-  <!-- feedback: Incorrecto. 'Has taken' es activo, porque el sujeto de la pasiva debe ser el objeto de la accion. -->
+  <!-- feedback: Incorrect. 'Has taken' is active, but in the passive the subject must be the object of the action. -->
 
 ### Explicacion Pedagogica
 En la pasiva el sujeto recibe la accion, mientras que en la activa lo realiza. Por eso el verbo 'to take' con el objeto como sujeto produce 'was taken' y no 'has taken', que conserva el sentido activo.
@@ -209,13 +209,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) When did the museum opened?
-  <!-- feedback: Incorrecto. 'Did' exige la forma base 'open' detras del auxiliar y no un participio. -->
+  <!-- feedback: Incorrect. 'Did' requires the base form 'open' after the auxiliary, not a participle. -->
 - [ ] B) When was the museum open?
-  <!-- feedback: Incorrecto. Detras de 'was' el verbo va en participio 'opened' y no en la forma base 'open'. -->
+  <!-- feedback: Incorrect. After 'was', the verb takes the participle 'opened', not the base form 'open'. -->
 - [x] C) When was the museum opened?
-  <!-- feedback: Correcto. En una pregunta pasiva de pasado el auxiliar 'was' va delante del sujeto y el participio despues. -->
+  <!-- feedback: Correct. In a past passive question, the auxiliary 'was' goes before the subject and the participle comes after it. -->
 - [ ] D) When the museum was opened?
-  <!-- feedback: Incorrecto. El orden interrogativo exige que 'when' abra la frase y que el auxiliar 'was' siga al sujeto. -->
+  <!-- feedback: Incorrect. Question word order requires 'when' to open the sentence and the auxiliary 'was' to follow the subject. -->
 
 ### Explicacion Pedagogica
 En una pregunta pasiva se conserva la estructura auxiliar, sujeto y participio, y lo que se hace es colocar el elemento interrogativo delante. La pasiva no cambia el orden de palabras dentro del grupo verbal.
@@ -234,13 +234,13 @@ Which verbs are NOT normally used in the passive voice?
 
 ### Opciones
 - [ ] A) Verbs that describe a process, such as 'to build'.
-  <!-- feedback: Incorrecto. Los verbos transitivos de proceso forman pasiva con normalidad, como en 'the house was built'. -->
+  <!-- feedback: Incorrect. Transitive process verbs form the passive normally, as in 'the house was built'. -->
 - [ ] B) Verbs whose past participle is irregular, such as 'to take'.
-  <!-- feedback: Incorrecto. Un participio irregular no impide la pasiva, y 'was taken' es una construccion totalmente estandar. -->
+  <!-- feedback: Incorrect. An irregular participle does not prevent the passive, and 'was taken' is a completely standard construction. -->
 - [x] C) Verbs of movement such as 'to go' and 'to arrive'.
-  <!-- feedback: Correcto. Los verbos intransitivos no tienen objeto que pueda pasar a sujeto, y por eso no forman pasiva. -->
+  <!-- feedback: Correct. Intransitive verbs have no object that can become the subject, so they do not form the passive. -->
 - [ ] D) Verbs that take the auxiliary 'to be'.
-  <!-- feedback: Incorrecto. Los verbos de estado como 'to be' o 'to seem' no forman pasiva, pero no es por su participado irregular. -->
+  <!-- feedback: Incorrect. Stative verbs like 'to be' or 'to seem' do not form the passive, but not because of an irregular participle. -->
 
 ### Explicacion Pedagogica
 La pasiva solo es posible con verbos transitivos, porque necesita un objeto que se convierta en sujeto. Los verbos intransitivos como 'to go', 'to arrive', 'to fall' o 'to sleep' carecen de ese objeto y no admiten construccion pasiva.
@@ -259,13 +259,13 @@ Complete the sentence: 'The results ____ (announce) next Friday at the school.'
 
 ### Opciones
 - [x] A) will be announced
-  <!-- feedback: Correcto. 'Will be announced' es pasiva de futuro y encaja con la fecha futura 'next Friday'. -->
+  <!-- feedback: Correct. 'Will be announced' is the future passive and fits the future date 'next Friday'. -->
 - [ ] B) will announce
-  <!-- feedback: Incorrecto. Sin 'be' la frase es activa, y ademas el sujeto 'the results' no realiza la accion. -->
+  <!-- feedback: Incorrect. Without 'be' the sentence is active, and the subject 'the results' does not perform the action. -->
 - [ ] C) are announce
-  <!-- feedback: Incorrecto. Detras de 'are' el verbo va en participio 'announced' y no en la forma base 'announce'. -->
+  <!-- feedback: Incorrect. After 'are', the verb takes the participle 'announced', not the base form 'announce'. -->
 - [ ] D) will be announce
-  <!-- feedback: Incorrecto. La pasiva exige el participio 'announced' y no la forma infinita del verbo base. -->
+  <!-- feedback: Incorrect. The passive requires the participle 'announced', not the infinitive form of the verb. -->
 
 ### Explicacion Pedagogica
 La pasiva funciona en todos los tiempos: 'is built', 'was built', 'will be built', 'has been built'. Lo unico que cambia es la forma del auxiliar 'to be', que conserva la concordancia con el sujeto.
@@ -284,13 +284,13 @@ Choose the correct negative: 'The pool ____ (not / open) on Mondays.'
 
 ### Opciones
 - [ ] A) doesn't opened
-  <!-- feedback: Incorrecto. 'Doesn't' exige la forma base 'open' detras del auxiliar y no un participio. -->
+  <!-- feedback: Incorrect. 'Doesn't' requires the base form 'open' after the auxiliary, not a participle. -->
 - [ ] B) isn't open
-  <!-- feedback: Incorrecto. 'Open' es un adjetivo o la forma base del verbo, pero la pasiva necesita el participio 'opened'. -->
+  <!-- feedback: Incorrect. 'Open' is an adjective or the base form of the verb, but the passive needs the participle 'opened'. -->
 - [ ] C) wasn't opened
-  <!-- feedback: Incorrecto. 'Wasn't' es pasado y la frase describe una rutina presente que no cambia de tense. -->
+  <!-- feedback: Incorrect. 'Wasn't' is past, but the sentence describes a present routine, so the tense should not change. -->
 - [x] D) isn't opened
-  <!-- feedback: Correcto. 'Isn't opened' es pasiva de presente negativa y describe una rutina de apertura del centro. -->
+  <!-- feedback: Correct. 'Isn't opened' is the negative present passive and describes the center's opening routine. -->
 
 ### Explicacion Pedagogica
 La negacion de la pasiva se hace con 'not' detras del auxiliar 'to be'. El participio se mantiene igual que en las formas afirmativas, porque la negacion afecta al auxiliar y no al verbo principal.
@@ -309,13 +309,13 @@ Which sentence places the agent correctly?
 
 ### Opciones
 - [ ] A) was painted with a group of students
-  <!-- feedback: Incorrecto. 'With' indica la herramienta o el material usado, no la persona que realizo la pintura. -->
+  <!-- feedback: Incorrect. 'With' indicates the tool or material used, not the person who did the painting. -->
 - [x] B) The mural was painted by a group of students.
-  <!-- feedback: Correcto. El agente aparece tras la preposicion 'by', que es la marca propia de la pasiva. -->
+  <!-- feedback: Correct. The agent appears after the preposition 'by', which is the standard marker of the passive. -->
 - [ ] C) The mural was painted of a group of students.
-  <!-- feedback: Incorrecto. 'Of' no introduce al agente pasivo; la preposicion correcta es 'by'. -->
+  <!-- feedback: Incorrect. 'Of' does not introduce the passive agent; the correct preposition is 'by'. -->
 - [ ] D) The mural was painted by the group students.
-  <!-- feedback: Incorrecto. Falta el articulo o el posesivo detras de 'group', que debe ser 'by a group' o 'by the group of students'. -->
+  <!-- feedback: Incorrect. An article or possessive is missing with 'group'; it should be 'by a group' or 'by the group of students'. -->
 
 ### Explicacion Pedagogica
 La preposicion 'by' introduce al agente de la pasiva y es la forma estandar en ingles escrito. Otras preposiciones como 'from' o 'with' pueden indicar el medio o la herramienta, pero no-who realiza la accion.
@@ -334,13 +334,13 @@ Why do instructions often use the passive voice?
 
 ### Opciones
 - [ ] A) To make the instructions shorter and easier to follow.
-  <!-- feedback: Incorrecto. La pasiva no es necesariamente mas corta y anade el auxiliar 'to be' a cada frase. -->
+  <!-- feedback: Incorrect. The passive is not necessarily shorter, and it adds the auxiliary 'to be' to each sentence. -->
 - [x] B) To describe the action without emphasizing the person performing it.
-  <!-- feedback: Correcto. En una receta el foco esta en el proceso y no en quien lo ejecuta, y la pasiva lo refleja. -->
+  <!-- feedback: Correct. In a recipe, the focus is on the process rather than on who carries it out, and the passive reflects that. -->
 - [ ] C) To hide important information from the reader.
-  <!-- feedback: Incorrecto. El uso de la pasiva es una cuestion de foco, no de ocultar datos de manera deliberada. -->
+  <!-- feedback: Incorrect. Using the passive is a matter of focus, not of deliberately hiding information. -->
 - [ ] D) To use fewer different verb forms in the text.
-  <!-- feedback: Incorrecto. La pasiva mantiene el mismo numero de formas verbales que la activa, solo cambia el auxiliar. -->
+  <!-- feedback: Incorrect. The passive keeps the same number of verb forms as the active; only the auxiliary changes. -->
 
 ### Explicacion Pedagogica
 En recetas, instrucciones de montaje y normas de seguridad, la pasiva es natural porque el proceso importa mas que la persona. El resultado es un texto en el que el foco permanece en cada etapa de la accion.
@@ -359,13 +359,13 @@ Complete the sentence: 'The roof ____ (repair) several times since the hurricane
 
 ### Opciones
 - [ ] A) has repaired
-  <!-- feedback: Incorrecto. Sin 'been' la frase es activa, y el sujeto 'the roof' no realiza la reparacion. -->
+  <!-- feedback: Incorrect. Without 'been' the sentence is active, and the subject 'the roof' does not do the repairing. -->
 - [ ] B) was repaired
-  <!-- feedback: Incorrecto. 'Was repaired' es pasiva de pasado simple y no admite la expresion 'since the hurricane'. -->
+  <!-- feedback: Incorrect. 'Was repaired' is the past simple passive and cannot be used with the expression 'since the hurricane'. -->
 - [ ] C) has been repair
-  <!-- feedback: Incorrecto. Detras de 'been' el verbo va en participio 'repaired' y no en la forma base 'repair'. -->
+  <!-- feedback: Incorrect. After 'been', the verb takes the participle 'repaired', not the base form 'repair'. -->
 - [x] D) has been repaired
-  <!-- feedback: Correcto. 'Has been' mas participio forma la pasiva del presente perfecto, con 'since' como marca temporal. -->
+  <!-- feedback: Correct. 'Has been' plus the participle forms the present perfect passive, with 'since' as the time marker. -->
 
 ### Explicacion Pedagogica
 La pasiva del presente perfecto tiene tres piezas: 'have been' o 'has been' mas el participio. Es la construccion adecuada cuando la accion se repite desde un punto de partida pasado y el agente no se menciona.
@@ -384,13 +384,13 @@ Complete the sentence: 'The problem ____ (not / see) by anyone in the meeting.'
 
 ### Opciones
 - [ ] A) didn't see
-  <!-- feedback: Incorrecto. 'Didn't see' es activa y ademas el sujeto 'the problem' no puede ver a nadie. -->
+  <!-- feedback: Incorrect. 'Didn't see' is active, and the subject 'the problem' cannot see anyone. -->
 - [ ] B) wasn't saw
-  <!-- feedback: Incorrecto. Detras de 'was' el verbo va en participio 'seen' y no en el pasado irregular 'saw'. -->
+  <!-- feedback: Incorrect. After 'was', the verb takes the participle 'seen', not the irregular past form 'saw'. -->
 - [x] C) wasn't seen
-  <!-- feedback: Correcto. 'Wasn't seen' es pasiva de pasado negativa y 'anyone' aparece dentro de la clausula del agente. -->
+  <!-- feedback: Correct. 'Wasn't seen' is the negative past passive, and 'anyone' appears in the agent clause. -->
 - [ ] D) isn't seen
-  <!-- feedback: Incorrecto. 'Isn't seen' es presente y la frase describe un hecho que ya ocurrio en una reunion pasada. -->
+  <!-- feedback: Incorrect. 'Isn't seen' is present, but the sentence describes something that already happened at a past meeting. -->
 
 ### Explicacion Pedagogica
 En la pasiva, el sujeto de la oracion es siempre el objeto de la accion. Esa es la razon por la que 'the problem wasn't seen' tiene sentido y 'the problem didn't see' no lo tiene.
@@ -409,13 +409,13 @@ Complete the sentence: 'A new sports centre ____ (build) in our town next year.'
 
 ### Opciones
 - [x] A) will be built
-  <!-- feedback: Correcto. 'Will be built' es pasiva de futuro y el agente se omite porque no es relevante todavia. -->
+  <!-- feedback: Correct. 'Will be built' is the future passive, and the agent is omitted because it is not yet relevant. -->
 - [ ] B) will build
-  <!-- feedback: Incorrecto. Sin 'be' la frase es activa y el sujeto no lleva a cabo la construccion. -->
+  <!-- feedback: Incorrect. Without 'be' the sentence is active, and the subject does not carry out the construction. -->
 - [ ] C) will be build
-  <!-- feedback: Incorrecto. La pasiva de futuro exige el participio 'built' y no la forma base del verbo. -->
+  <!-- feedback: Incorrect. The future passive requires the participle 'built', not the base form of the verb. -->
 - [ ] D) is going to build
-  <!-- feedback: Incorrecto. Esa estructura es activa y ademas corresponde a un plan, no a una pasiva. -->
+  <!-- feedback: Incorrect. That structure is active and expresses a plan, not a passive. -->
 
 ### Explicacion Pedagogica
 El futuro pasivo combina 'will' con 'be' y el participio. Se emplea mucho en noticias y comunicados, donde el proyecto importa mas que la empresa que lo ejecuta y esa informacion todavia no se conoce.
@@ -434,13 +434,13 @@ Choose the correct question: '____ the documents signed before the meeting?'
 
 ### Opciones
 - [x] A) Were
-  <!-- feedback: Correcto. El auxiliar 'were' abre la pregunta pasiva de pasado y el verbo principal queda en participio. -->
+  <!-- feedback: Correct. The auxiliary 'were' opens the past passive question, and the main verb stays in the participle form. -->
 - [ ] B) Did
-  <!-- feedback: Incorrecto. 'Did' es un auxiliar activo y exige la forma base 'sign' detras, no un participio. -->
+  <!-- feedback: Incorrect. 'Did' is an active auxiliary and requires the base form 'sign' after it, not a participle. -->
 - [ ] C) Have
-  <!-- feedback: Incorrecto. 'Have' corresponde al presente perfecto y la frase necesita la pasiva de pasado. -->
+  <!-- feedback: Incorrect. 'Have' belongs to the present perfect, but the sentence needs the past passive. -->
 - [ ] D) Was
-  <!-- feedback: Incorrecto. 'Was' es singular y el sujeto 'the documents' es plural, de modo que 'were' es la forma correcta. -->
+  <!-- feedback: Incorrect. 'Was' is singular and the subject 'the documents' is plural, so 'were' is the correct form. -->
 
 ### Explicacion Pedagogica
 En las preguntas pasivas el auxiliar 'to be' abre la oracion y respeta la concordancia con el sujeto. El participio se mantiene al final del grupo verbal, igual que en las afirmaciones.
@@ -459,13 +459,13 @@ Which active sentence is equivalent to 'The song was written by my cousin'?
 
 ### Opciones
 - [ ] A) My cousin was written the song.
-  <!-- feedback: Incorrecto. La frase mezcla pasiva y activa: el sujeto realizaria la escritura y ademas recibiria el objeto. -->
+  <!-- feedback: Incorrect. The sentence mixes passive and active: the subject would both do the writing and receive the object. -->
 - [ ] B) The song wrote my cousin.
-  <!-- feedback: Incorrecto. Es la forma activa correcta, pero con los papeles de sujeto y objeto intercambiados. -->
+  <!-- feedback: Incorrect. It is the correct active form, but with the subject and object roles swapped. -->
 - [ ] C) My cousin is writing the song.
-  <!-- feedback: Incorrecto. Es presente continuo y no equivale a un hecho pasado ya completado. -->
+  <!-- feedback: Incorrect. It is present continuous and does not express a completed past event. -->
 - [x] D) My cousin wrote the song.
-  <!-- feedback: Correcto. Al devolver el agente al sujeto y el objeto al final se recupera la forma activa de la oracion. -->
+  <!-- feedback: Correct. Moving the agent back into subject position and the object to the end restores the active form of the sentence. -->
 
 ### Explicacion Pedagogica
 Pasar de la pasiva a la activa consiste en devolver el agente de la clausula 'by' al sujeto y devolver el objeto pasivo al lugar del objeto directo. El tiempo verbal se conserva durante todo el proceso.
@@ -484,13 +484,13 @@ Complete the sentence: 'The theft ____ (report) to the police yesterday evening.
 
 ### Opciones
 - [ ] A) was report
-  <!-- feedback: Incorrecto. La pasiva exige el participio 'reported' y no la forma base 'report' detras del auxiliar. -->
+  <!-- feedback: Incorrect. The passive requires the participle 'reported' after the auxiliary, not the base form 'report'. -->
 - [x] B) was reported
-  <!-- feedback: Correcto. 'Was reported' es pasiva de pasado y describe el hecho sin darle importancia a quien lo denuncio. -->
+  <!-- feedback: Correct. 'Was reported' is the past passive and describes the event without emphasizing who reported it. -->
 - [ ] C) is reported
-  <!-- feedback: Incorrecto. 'Is reported' es presente y contradice la expresion 'yesterday evening'. -->
+  <!-- feedback: Incorrect. 'Is reported' is present and contradicts the expression 'yesterday evening'. -->
 - [ ] D) has reported
-  <!-- feedback: Incorrecto. 'Has reported' es activa, porque el sujeto 'the theft' no puede realizar la denuncia. -->
+  <!-- feedback: Incorrect. 'Has reported' is active, and the subject 'the theft' cannot do the reporting. -->
 
 ### Explicacion Pedagogica
 La pasiva es habitual con verbos de comunicacion como 'to report', 'to announce' o 'to declare', porque el contenido de la informacion importa mas que quien la transmite.
@@ -509,13 +509,13 @@ Complete the sentence: 'The chairs ____ (make) of wood in small factories.'
 
 ### Opciones
 - [ ] A) are make
-  <!-- feedback: Incorrecto. Detras de 'are' el verbo va en participio 'made' y no en la forma base 'make'. -->
+  <!-- feedback: Incorrect. After 'are', the verb takes the participle 'made', not the base form 'make'. -->
 - [ ] B) was made
-  <!-- feedback: Incorrecto. 'Was made' es pasado y la oracion describe un proceso general que sigue vigente. -->
+  <!-- feedback: Incorrect. 'Was made' is past, but the sentence describes a general process that still holds true. -->
 - [x] C) are made
-  <!-- feedback: Correcto. 'Are made' es pasiva de presente y 'of wood' indica el material en lugar del agente. -->
+  <!-- feedback: Correct. 'Are made' is the present passive, and 'of wood' indicates the material rather than the agent. -->
 - [ ] D) make
-  <!-- feedback: Incorrecto. Sin el auxiliar 'to be' la frase es activa, y 'the chairs' no realiza la fabricacion. -->
+  <!-- feedback: Incorrect. Without the auxiliary 'to be' the sentence is active, and 'the chairs' do not do the manufacturing. -->
 
 ### Explicacion Pedagogica
 El participio de 'to make' es 'made', una forma irregular que hay que conocer aparte. En pasiva de presente se combina con 'are' o 'is' segun el sujeto, y con 'of' se indica el material.
