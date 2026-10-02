@@ -197,8 +197,8 @@ El manejo comunitario de recursos naturales se basa en prácticas tradicionales 
 ### Opciones
 - [ ] A) El principio de gratuidad de los servicios públicos
   <!-- feedback: Incorrecto. La gratuidad de servicios públicos se refiere a que algunos servicios básicos no tienen costo para los usuarios; no está relacionada con impuestos ambientales. -->
-- [ ] B) El principio de quien contamina paga
-  <!-- feedback: Incorrecto. El principio de quien contamina paga se refiere a la reparación del daño causado, no a la tributación preventiva; el impuesto ambiental es un instrumento económico distinto a la sanción por contaminación. -->
+- [ ] B) El principio de externalización de costos ambientales
+  <!-- feedback: Incorrecto. Externalizar es lo contrario de internalizar: trasladar el daño a terceros en lugar de asumirlo. Si las empresas siguen trasladando el costo de sus emisiones al río y a la comunidad, el impuesto deja de ser necesario. -->
 - [ ] C) El principio de libre competencia
   <!-- feedback: Incorrecto. La libre competencia se refiere a la ausencia de monopolios en el mercado; no está directamente relacionada con la tributación ambiental. -->
 - [x] D) El principio de quien contamina paga
@@ -266,8 +266,8 @@ Este caso ilustra el conflicto entre el desarrollo económico y la conservación
 ### Opciones
 - [ ] A) Aumentar la extracción de petróleo para compensar la caída de precios
   <!-- feedback: Incorrecto. Aumentar la extracción no resuelve el problema de la dependencia; al contrario, profundiza la vulnerabilidad ante las fluctuaciones del mercado internacional. -->
-- [ ] B) Diversificar la economía hacia sectores como agricultura, turismo y servicios
-  <!-- feedback: Incorrecto. La diversificación es una estrategia válida, pero no es la más inmediata; primero se debe fortalecer la gobernanza de los recursos petroleros existentes. -->
+- [ ] B) Concentrar la inversión en el sector petrolero abriendo nuevas concesiones
+  <!-- feedback: Incorrecto. Abrir más campos petroleros aumenta la dependencia en vez de reducirla: si el precio internacional del crudo baja, el departamento pierde más ingresos. La diversificación es justamente la alternativa a esa concentración. -->
 - [ ] C) Eliminar todas las regalías que recibe del Gobierno nacional
   <!-- feedback: Incorrecto. Eliminar las regalías reduciría los ingresos del departamento sin resolver el problema de fondo; la solución es diversificar, no eliminar los recursos existentes. -->
 - [x] D) Diversificar la economía hacia sectores como agricultura, turismo y servicios
