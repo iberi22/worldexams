@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'She ___ her homework right now.'",
+      "context": "Evening study session at a school in Santa Tecla, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "text": "is doing",
+          "is_correct": true,
+          "feedback": "'She' is third person singular, so it takes 'is' plus the -ing form of 'do', which gives 'is doing'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Do' is the plain form of the verb; it needs an auxiliary such as 'does' or the -ing ending to make the present continuous."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "doing",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "The -ing form cannot stand alone in this tense; it requires the verb 'to be' in front of it."
+        },
+        {
+          "letter": "D",
+          "text": "does",
+          "is_correct": false,
+          "feedback": "'Does' belongs to the present simple in questions and negatives, not to the present continuous."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The present continuous is made with the verb 'to be' in the present form plus the -ing form of the main verb, so the sentence needs 'is doing'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which sentence is in the present continuous?",
+      "context": "Comparing tense forms on the classroom board in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "The children played in the yard yesterday.",
+          "is_correct": false,
+          "feedback": "'Played' is the past simple, so this sentence sits in the past, not the present continuous."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "The children are playing in the yard.",
+          "is_correct": true,
+          "feedback": "It joins 'are' with the -ing form 'playing', which is exactly the present continuous pattern."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "The children play in the yard every day.",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Play' has no auxiliary and no -ing ending, so this is the present simple for habits."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The children will play in the yard tomorrow.",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Will' marks the future simple, so this sentence is not in the present continuous."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "Only the sentence built with 'am/is/are' plus an -ing form sits in the present continuous; the other three use other tenses.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -99,172 +99,37 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct option: 'I ___ understand this exercise.'",
+      "context": "A classmate asks for help during a math class in Soyapango, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "not am",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "In English the auxiliary comes before 'not'; 'not am' is the wrong order and no one would say it."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "do not",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Do not' builds the negative of the present simple, not of the present continuous."
+        },
+        {
+          "letter": "C",
+          "text": "am not",
+          "is_correct": true,
+          "feedback": "'Not' goes after 'am' and before the -ing form: 'am not understanding' completes the negative."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "am no",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "English builds the negative of 'be' with the word 'not', which is why we say 'am not' and never 'am no'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "To make a negative in the present continuous, place 'not' between the auxiliary 'am/is/are' and the -ing form.",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
-          "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
-        },
-        {
-          "letter": "B",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -278,41 +143,176 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v4",
+      "statement": "Complete the question: 'What ___ you doing after class?'",
+      "context": "A teacher in Ahuachapan asks the class about their plans.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "'Is' goes with he, she and it; with 'you' the auxiliary must be 'are'."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "do",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'Do' forms the present simple in questions, so 'What do you do after class' is a different question about habits."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "will",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Will' signals the future, so the question would ask about later plans rather than what is happening now."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "'You' pairs with 'are', so the question becomes 'What are you doing', which is correct."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The question word 'what' comes first and the subject 'you' requires the auxiliary 'are' before the -ing form.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v5",
+      "statement": "Choose the correct form of the verb in the present continuous: 'They ___ (watch) a documentary.'",
+      "context": "A film screening for a grade 11 class in San Miguel, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "watcheing",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "English never adds an extra 'e' before -ing; 'watcheing' is not a form of any verb."
+        },
+        {
+          "letter": "B",
+          "text": "watchying",
+          "is_correct": false,
+          "feedback": "The letter 'y' is not used with -ing; the correct spelling is 'watching'."
+        },
+        {
+          "letter": "C",
+          "text": "watched",
+          "is_correct": false,
+          "feedback": "'Watched' is the past simple, and past forms do not appear in the present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "watching",
+          "is_correct": true,
+          "feedback": "'Watch' keeps its full spelling and simply takes -ing, which gives 'watching'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "To build the -ing form of 'watch' from the base verb, remove the final -ch sound and add -ing, so it becomes 'watching'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v6",
+      "statement": "Choose the correct option: 'The baby ___ (sit) on the floor.'",
+      "context": "A photo description task in a language lab in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is siting",
+          "is_correct": false,
+          "feedback": "English doubles the final consonant of 'sit' before -ing, so the single 't' spelling is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "sits",
+          "is_correct": false,
+          "feedback": "'Sits' is the present simple in third person and carries no -ing ending at all."
+        },
+        {
+          "letter": "C",
+          "text": "is sitting",
+          "is_correct": true,
+          "feedback": "The final 't' doubles before -ing, and the subject 'the baby' takes 'is', giving 'is sitting'."
+        },
+        {
+          "letter": "D",
+          "text": "are sitting",
+          "is_correct": false,
+          "feedback": "'The baby' is singular, so the auxiliary must be 'is' and not 'are'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "When a verb ends in a single consonant after a short vowel, the final consonant doubles before -ing, so 'sit' becomes 'sitting'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v7",
+      "statement": "Choose the correct contraction: 'She is not ___ the answer.'",
+      "context": "An oral exercise in a secondary school in Usulutan, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "isnt",
+          "is_correct": false,
+          "feedback": "Writing 'isnt' without an apostrophe loses the missing letter and is misspelled."
+        },
+        {
+          "letter": "B",
+          "text": "isn't",
+          "is_correct": true,
+          "feedback": "'Is not' shortens to \"isn't\" with an apostrophe replacing the missing 'o'."
+        },
+        {
+          "letter": "C",
+          "text": "aren't",
+          "is_correct": false,
+          "feedback": "\"Aren't\" contracts 'are not', which cannot be used with the singular subject 'she'."
+        },
+        {
+          "letter": "D",
+          "text": "doesn't",
+          "is_correct": false,
+          "feedback": "\"Doesn't\" contracts 'does not' and belongs to the present simple, not to the verb 'be'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "explanation": "'Is not' contracts to 'isn't' in English, so the negative sentence reads \"She isn't the answer\".",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -324,85 +324,40 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which time expression usually goes with the present continuous?",
+      "context": "A grammar summary written on the board in Apopa, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "at the moment",
+          "is_correct": true,
+          "feedback": "'At the moment' points to an action happening now, which is exactly the use of the present continuous."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "every day",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Every day' describes a repeated habit, so it goes with the present simple instead."
         },
         {
           "letter": "C",
-          "text": "going",
+          "text": "yesterday",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Yesterday' places the action in the past, which belongs to a past tense."
+        },
+        {
+          "letter": "D",
+          "text": "last week",
+          "is_correct": false,
+          "feedback": "'Last week' is a finished past period, so the present continuous cannot be used with it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Words such as 'now', 'at the moment' and 'look' describe an action in progress, which is the meaning of the present continuous.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -413,41 +368,86 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v9",
+      "statement": "Choose the correct option: 'Look! It ___ (rain) again.'",
+      "context": "Students looking out of the window during a class in Chalatenango, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "rains",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Rains' is the present simple; the progress sign 'Look!' calls for the present continuous."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "text": "is raining",
+          "is_correct": true,
+          "feedback": "'Look!' signals an action in progress at this moment, so 'is raining' is the correct form."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "rained",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Rained' is the past simple and cannot follow 'Look!' in the present continuous."
+        },
+        {
+          "letter": "D",
+          "text": "will rain",
+          "is_correct": false,
+          "feedback": "'Will rain' is the future simple, and nothing in the sentence points to a future moment."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Look!' introduces an action you can see happening right now, so the verb takes 'is' plus the -ing form 'raining'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v10",
+      "statement": "Choose the correct option: 'I ___ (listen) to a podcast while I run.'",
+      "context": "A student describes his routine in a first-week interview in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "am listen to",
+          "is_correct": false,
+          "feedback": "The bare verb 'listen' cannot follow 'am'; the present continuous needs the -ing form."
+        },
+        {
+          "letter": "B",
+          "text": "am listening",
+          "is_correct": false,
+          "feedback": "'Listen' must be followed by 'to' before its object, so 'listening' alone is incomplete."
+        },
+        {
+          "letter": "C",
+          "text": "listens to",
+          "is_correct": false,
+          "feedback": "'Listens' is the present simple in third person, which does not match the subject 'I'."
+        },
+        {
+          "letter": "D",
+          "text": "am listening to",
+          "is_correct": true,
+          "feedback": "'Listen to' keeps the preposition 'to' after the -ing form, so the answer is 'am listening to'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "The verb 'listen' is followed by 'to' plus its object, and in the present continuous the -ing form keeps that pattern: 'listening to'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -459,37 +459,127 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which pair of verbs both need the -ing form?",
+      "context": "A spelling drill in a school in Santa Tecla, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "need and prefer",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Need' gives 'needing' and 'prefer' gives 'preferring', and the second one doubles the final r."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "begin and open",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Begin' and 'open' both take -ing unchanged, so this pair is also regular."
+        },
+        {
+          "letter": "C",
+          "text": "write and dance",
+          "is_correct": true,
+          "feedback": "'Write' gives 'writing' and 'dance' gives 'dancing'; neither verb doubles a letter before -ing."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "listen and visit",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Listen' gives 'listening' and 'visit' gives 'visiting', both without any change."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "Both 'write' and 'dance' form the present continuous with -ing, and both keep their spelling with no extra consonant to double.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v12",
+      "statement": "Choose the correct option: 'Where ___ your parents living now?'",
+      "context": "A visitor asks a host family in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are",
+          "is_correct": true,
+          "feedback": "'Are' agrees with the plural 'parents' and builds the present continuous with 'living'."
+        },
+        {
+          "letter": "B",
+          "text": "is",
+          "is_correct": false,
+          "feedback": "'Is' goes with singular subjects such as 'he', 'she' or 'the parent'."
+        },
+        {
+          "letter": "C",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "'Do' builds the present simple, which would give a question about a permanent address."
+        },
+        {
+          "letter": "D",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "'Were' is the past auxiliary and cannot describe a situation that holds right now."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Now' requires the present continuous, and the plural subject 'your parents' takes the auxiliary 'are' before the -ing form.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v13",
+      "statement": "Choose the correct option: 'We ___ (not / use) the gym because it is closed.'",
+      "context": "A message left on the school notice board in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not are using",
+          "is_correct": false,
+          "feedback": "The auxiliary comes before 'not' in English, so 'not are' is the wrong word order."
+        },
+        {
+          "letter": "B",
+          "text": "do not use",
+          "is_correct": false,
+          "feedback": "'Do not use' is the negative of the present simple and lacks the -ing form."
+        },
+        {
+          "letter": "C",
+          "text": "are not use",
+          "is_correct": false,
+          "feedback": "After 'are not' the verb must take its -ing form, so the bare 'use' cannot follow."
+        },
+        {
+          "letter": "D",
+          "text": "are not using",
+          "is_correct": true,
+          "feedback": "'Are not using' is the present continuous negative: 'are' for 'we' and 'not' before 'using'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The subject 'we' takes 'are' in the present continuous, and the negative places 'not' between the auxiliary and the -ing form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,41 +593,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v14",
+      "statement": "Choose the correct -ing form: 'She enjoys ___ (swim) in the ocean.'",
+      "context": "A conversation about hobbies in a summer school in La Libertad, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "letter": "A",
+          "text": "swiming",
+          "is_correct": false,
+          "feedback": "'Swiming' keeps the final e, which English drops before -ing, so the spelling is wrong."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "letter": "B",
+          "text": "swimming",
+          "is_correct": true,
+          "feedback": "'Enjoy' is followed by a gerund, and 'swim' becomes 'swimming' when it adds -ing."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "to swim",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Enjoy' does not take an infinitive; it requires the -ing form of the following verb."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "swam",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Swam' is the past simple of 'swim' and cannot follow 'enjoys'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "explanation": "After the verb 'enjoy' the -ing form of the next verb is required, and 'swim' drops its silent e before taking -ing.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -548,131 +638,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
-        },
-        {
-          "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v15",
+      "statement": "Choose the correct option: 'The teacher ___ (explain) the grammar now.'",
+      "context": "A live lesson at a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
+          "text": "is explaining",
           "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "feedback": "'The teacher' is third person singular, so 'is' plus 'explaining' is correct."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "are explaining",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Are' goes with plural or second person subjects, not with 'the teacher'."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "explain",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Explain' has no auxiliary and no -ing ending, so it is the present simple."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "was explaining",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Was explaining' is the past continuous and cannot describe a lesson happening now."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "explanation": "With the third person singular subject 'the teacher' the auxiliary is 'is', so the present continuous is 'is explaining'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
-        },
-        {
-          "letter": "B",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -684,37 +684,82 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which sentence describes an action that is finished?",
+      "context": "A question about the tense of a sentence in a grammar test in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "I am finishing my homework right now.",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Am finishing' describes an action still in progress at this moment."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "I am finishing my homework at the moment.",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'At the moment' places the action in progress, which is the present continuous."
+        },
+        {
+          "letter": "C",
+          "text": "I finish my homework every afternoon.",
+          "is_correct": true,
+          "feedback": "'Finish' with the frequency expression 'every afternoon' describes a repeated habit."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "I am finishing my homework tonight.",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Tonight' with the present continuous places the action around now, so it is not finished."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "The present continuous describes an action in progress, so the sentence describing a finished action must use the present simple.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v17",
+      "statement": "Choose the correct option: 'They ___ (play) chess right now.'",
+      "context": "A break-time scene in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is playing",
+          "is_correct": false,
+          "feedback": "'Is' goes with singular subjects, so it does not agree with the plural 'they'."
+        },
+        {
+          "letter": "B",
+          "text": "are playing",
+          "is_correct": true,
+          "feedback": "'They' takes 'are' and 'play' simply takes -ing, so 'are playing' is correct."
+        },
+        {
+          "letter": "C",
+          "text": "plays",
+          "is_correct": false,
+          "feedback": "'Plays' is the present simple in third person and has no -ing ending."
+        },
+        {
+          "letter": "D",
+          "text": "are play",
+          "is_correct": false,
+          "feedback": "After 'are' the verb must take its -ing form, so the bare 'play' cannot follow."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'Play' keeps its spelling and adds -ing, and the plural subject 'they' requires 'are', giving 'are playing'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -728,41 +773,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v18",
+      "statement": "Choose the correct question: '___ your sister studying for the exam?'",
+      "context": "An evening phone call recorded for a listening activity in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "Is",
+          "is_correct": true,
+          "feedback": "'Is' opens the question and agrees with the singular subject 'your sister'."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Are",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Are' would require a plural subject, but 'your sister' is singular."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "Does",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Does' forms the present simple question and would need the base verb 'study'."
+        },
+        {
+          "letter": "D",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "'Did' is the past auxiliary and would describe an action that has already finished."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "In a present continuous question the auxiliary 'is' comes first, before the subject 'your sister' and the -ing form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
@@ -773,87 +818,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
-      "periodo": 2,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'The baby ___ (cry) because she is hungry.'",
+      "context": "A picture description in a language class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "cries",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Cries' is the present simple, which presents the crying as a repeated habit."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "was crying",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Was crying' is the past continuous and would need a past reference point in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "is crying",
+          "is_correct": true,
+          "feedback": "The situation is happening at the moment of speaking, so 'is crying' is the natural choice."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "will cry",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Will cry' is the future simple and does not match a situation described as already underway."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "'Because' introduces a reason for an action happening right now, so 'is crying' fits the situation described.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'It ___ (snow) in the mountains this morning.'",
+      "context": "A weather report read aloud in a language class in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "letter": "A",
+          "text": "are snowing",
+          "is_correct": false,
+          "feedback": "'It' is singular, so the auxiliary must be 'is' and never 'are'."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "snow",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "'Snow' alone has no auxiliary, which would make the sentence the present simple."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "is snow",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "After the auxiliary 'is' the verb must take its -ing form, so the bare 'snow' cannot follow."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "is snowing",
+          "is_correct": true,
+          "feedback": "'It' takes 'is' and 'snow' keeps its spelling before -ing, giving 'is snowing'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'It' is the third person singular subject used with the weather, so the auxiliary is 'is' and the verb 'snow' simply takes -ing.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle",
       "periodo": 2,
       "protocol_version": "5.2",

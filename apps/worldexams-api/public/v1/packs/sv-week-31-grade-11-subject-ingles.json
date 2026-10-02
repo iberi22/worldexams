@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read the text and choose the best meaning of the word 'exhausted' in 'the soil was exhausted after years of heavy chemical use'.",
+      "context": "A reading vocabulary lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "Worn out, no longer able to support growth",
           "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "feedback": "The soil has lost its nutrients, which is exactly what 'exhausted' means for land."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "Very tired after physical work",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "That sense applies to people and animals, not to soil, which is what the sentence describes."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "Full of water and ready for planting",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "That is the opposite of the situation the sentence reports."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Covered with small stones",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Stony' would describe that condition, and nothing in the sentence suggests stones."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "In this context 'exhausted' describes soil that has lost the nutrients it needs, so the word means used up or worn out.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best meaning of 'decline' in 'sales began to decline after the new shop opened'.",
+      "context": "A reading vocabulary exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "To refuse politely",
+          "is_correct": false,
+          "feedback": "'Refuse' is the word for turning down an offer, not for a fall in numbers."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "letter": "B",
+          "text": "To fall in amount",
+          "is_correct": true,
+          "feedback": "'Decline' describes a downward movement in quantity, which is what sales did."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "To remain at the same level",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Remaining constant is described as 'stay level', the opposite of a decline."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To increase sharply",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "That is a 'rise' or a 'surge', the opposite of a decline."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "'Decline' means to fall in amount or quality, so sales decreased after the new shop appeared.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Read the text and choose the best meaning of 'nevertheless' in 'The task was hard; nevertheless, she finished it on time'.",
+      "context": "A reading vocabulary lesson in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "text": "Because of that",
+          "is_correct": false,
+          "feedback": "'Because' would show a cause, which reverses the relation the word marks."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "At the same time as that",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "'Meanwhile' would introduce a parallel event, not a contrast."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "text": "In spite of that",
+          "is_correct": true,
+          "feedback": "'Nevertheless' contrasts with the difficulty, meaning 'in spite of that'."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "For that reason",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "'For that reason' connects a result to a cause, the opposite of the contrast here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "'Nevertheless' introduces a contrast, so it marks something surprising given what came before: she finished on time despite the difficulty.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What does the word 'reluctant' mean in 'He was reluctant to speak in front of the class'?",
+      "context": "A reading comprehension task in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Very eager to do something",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "Eagerness is the opposite of reluctance and does not match the context."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Able to do something easily",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "That is 'able' or 'capable', which says nothing about willingness."
+        },
+        {
+          "letter": "C",
+          "text": "Certain that something will happen",
+          "is_correct": false,
+          "feedback": "That is 'confident' about an outcome, a different idea altogether."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "text": "Unwilling and hesitant to do something",
+          "is_correct": true,
+          "feedback": "'Reluctant' expresses hesitation or unwillingness to act, which fits the sentence."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "'Reluctant' means unwilling and hesitant to do something, which describes his hesitation to speak.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the best meaning of 'scarce' in 'clean water became scarce during the dry season'.",
+      "context": "A reading vocabulary exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "letter": "A",
+          "text": "Of very high quality",
+          "is_correct": false,
+          "feedback": "That is the sense of 'superior' or 'excellent', the opposite of a shortage."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "Very expensive to buy",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "A price is a separate matter; 'scarce' speaks about how much exists."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "Contaminated and unfit for use",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "That describes polluted water, which the sentence does not say."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "Available in small quantities",
+          "is_correct": true,
+          "feedback": "'Scarce' means there is not much of something, which is what happened to the water."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "'Scarce' means available in small quantities, so the sentence says clean water was hard to find during the dry months.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read the text and choose the best meaning of 'shelter' in 'The hut provided shelter from the heavy rain'.",
+      "context": "A reading vocabulary lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Food and drink for the travellers",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "That would be 'supplies' or 'provisions', not shelter."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "A place to buy food",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "That is a shop or a market, which offers goods rather than protection."
+        },
+        {
+          "letter": "C",
+          "text": "Protection from the weather",
+          "is_correct": true,
+          "feedback": "'Shelter' is a place that protects people from rain, wind or heat."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "A path used for travelling",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "A route for travellers is a 'track' or a 'trail', unrelated to protection."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "explanation": "'Shelter' means protection from weather, so the hut kept the people dry during the storm.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
@@ -279,37 +279,37 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best meaning of 'outcome' in 'The outcome of the experiment surprised the whole team'.",
+      "context": "A reading comprehension exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The reason a process was started",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "A reason would be a 'cause' or a 'purpose', the opposite end of the story."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The final result of a process",
+          "is_correct": true,
+          "feedback": "'Outcome' names the result reached at the end, which is what surprised the team."
+        },
+        {
+          "letter": "C",
+          "text": "The first stage of a process",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "A beginning is the 'start' or the 'first step', not the outcome."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The cost of running a process",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Cost' measures the money involved, which is a different aspect entirely."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Outcome' means the final result of a process, so it refers to the result the experiment produced.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does 'sustainable' mean in 'the town adopted a sustainable way of farming'?",
+      "context": "A reading vocabulary lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "text": "Able to continue over time without exhausting resources",
+          "is_correct": true,
+          "feedback": "Sustainability means keeping the system running in the long term, which is what is meant."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Producing a very large amount each year",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "A high output is not what makes a practice sustainable; it is its durability."
+        },
+        {
+          "letter": "C",
+          "text": "Available at a low price",
+          "is_correct": false,
+          "feedback": "Cheapness and sustainability are different qualities, and the sentence is about the latter."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Producing exactly the same results each year",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Uniformity is not the meaning of 'sustainable'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "'Sustainable' describes a practice that can continue over time without damaging the resources it depends on.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Read the text and choose the best meaning of 'reluctant' as used in 'Residents were reluctant to accept the change to the bus route'.",
+      "context": "A reading vocabulary exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "letter": "A",
+          "text": "Unable to understand something",
+          "is_correct": false,
+          "feedback": "'Unable' describes a lack of capacity, not a lack of willingness."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "letter": "B",
+          "text": "Unwilling to accept something",
+          "is_correct": true,
+          "feedback": "Hesitation and unwillingness are precisely what 'reluctant' expresses here."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "Happy to accept a change",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "Being glad to accept is the opposite of being reluctant."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Slow in counting numbers",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "That sense belongs to 'poor at arithmetic' and has nothing to do with willingness."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "explanation": "'Reluctant' describes unwillingness, so the residents hesitated to accept the new route.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the word that best completes the sentence: 'The evidence was so ___ that even the sceptics changed their minds.'",
+      "context": "A vocabulary exercise in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "confusing",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Confusing' describes something hard to understand, which is the opposite of the effect described."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "ordinary",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Ordinary' suggests nothing remarkable, which could not change anybody's mind."
+        },
+        {
+          "letter": "C",
+          "text": "doubtful",
+          "is_correct": false,
+          "feedback": "'Doubtful' describes the evidence itself as uncertain, which is the opposite of the intended meaning."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "compelling",
+          "is_correct": true,
+          "feedback": "'Compelling' describes evidence so convincing that people accept it despite their doubts."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The result was strong enough to convince people who had doubted it, so 'compelling' means difficult to refuse or ignore.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the best meaning of 'abundant' in 'The valley has abundant rainfall throughout the year'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "letter": "A",
+          "text": "Existing in very small quantity",
+          "is_correct": false,
+          "feedback": "A small amount would be described as 'scarce', the opposite sense."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "Falling steadily through the year",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "That describes a decreasing amount rather than a plentiful one."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "text": "Existing in large quantity",
+          "is_correct": true,
+          "feedback": "'Abundant' describes a plentiful supply, which is what the rainfall is."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Present only in the summer months",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "The sentence says the rain lasts all year, so 'only' would contradict it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Abundant' means existing in large quantity, so the valley receives a great deal of rain in every season.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
@@ -504,37 +504,37 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best meaning of 'reluctant' in 'Reluctant readers may need smaller texts to build confidence'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "text": "Unwilling or hesitant to do something",
+          "is_correct": true,
+          "feedback": "Hesitation and unwillingness are exactly what the adjective expresses."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Extremely eager to start immediately",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "Eagerness is the opposite of reluctance and does not fit the advice given."
+        },
+        {
+          "letter": "C",
+          "text": "Able to read at a very high speed",
+          "is_correct": false,
+          "feedback": "Reading speed is a separate quality from willingness to read."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Unwilling to teach others to read",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "The sentence concerns readers themselves, not their willingness to teach."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'Reluctant' means unwilling or hesitant, so the sentence is describing readers who are not eager to read.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read the text and choose the best meaning of 'hinder' in 'The thick mud hindered the rescue team's progress'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "text": "To help along quickly",
+          "is_correct": false,
+          "feedback": "Helping is the opposite sense, and the mud clearly caused delay."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "To describe in detail",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "Describing is what the team did in its report, not what the mud did."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "To measure the distance covered",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Measurement is a separate activity and does not match the verb used."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "text": "To make slower or more difficult",
+          "is_correct": true,
+          "feedback": "'Hindered' describes an obstacle that held up the team's progress."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Hinder' means to make something slower or more difficult, which is what the mud did to the team's advance.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best meaning of 'vivid' in 'She gave a vivid account of the festival'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "Dull and difficult to follow",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "That is the opposite sense; a vivid account is striking and clear."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "Producing a strong and clear impression",
+          "is_correct": true,
+          "feedback": "'Vivid' is used for descriptions that stay firmly in the memory."
+        },
+        {
+          "letter": "C",
+          "text": "Written down in black and white",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "The sense concerns the quality of the impression, not the medium used."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Short and without detail",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "Vivid accounts are usually rich in detail rather than brief."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Vivid' describes something that produces a strong, clear impression, which is what the account did on the listener.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Read and choose the best meaning of 'feasible' in 'Building the bridge is technically feasible but very expensive'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "text": "Possible to do or achieve",
+          "is_correct": true,
+          "feedback": "'Technically feasible' states that nothing prevents the project."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Impossible under any circumstances",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "That is the sense of 'infeasible', which the sentence contradicts."
+        },
+        {
+          "letter": "C",
+          "text": "Very cheap to carry out",
+          "is_correct": false,
+          "feedback": "The sentence says the opposite, that it is very expensive."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "Already completed in the past",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "Nothing in the sentence says the work has been done."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "'Feasible' means possible to do, so the sentence says the project could be built although it would cost a great deal.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best meaning of 'decline' in 'The council declined to comment on the report until it was published'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "Fell in amount or level",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "That sense applies to figures, while the sentence is about refusing to speak."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Became weaker gradually",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "The sentence describes what the council did, not a process of weakening."
+        },
+        {
+          "letter": "C",
+          "text": "Refused politely to do or say something",
+          "is_correct": true,
+          "feedback": "'Declined to comment' is a polite refusal to give an answer."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Agreed to the request after some discussion",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "Agreeing is the opposite of what the verb describes here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "explanation": "In this context 'declined' means refused politely, so the council said nothing until the report appeared.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
@@ -729,37 +729,37 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Read and choose the best meaning of 'consequence' in 'One of the consequences of the drought was a fall in the harvest'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "A cause that leads to an event",
+          "is_correct": false,
+          "feedback": "A cause is what produced the drought, not what the fall is described as."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "letter": "B",
+          "text": "A result that follows from an action or event",
+          "is_correct": true,
+          "feedback": "The sentence presents the fall in the harvest as the result of the drought."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "An agreement reached by two sides",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "A negotiated agreement is a 'settlement' or an 'accord'."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "A serious crime against the law",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "That is an 'offence' or a 'crime', unrelated to the sentence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "'Consequence' means a result that follows from something, so the harvest fell as a result of the drought.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best meaning of 'striking' in 'There was a striking difference between the two drawings'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
+          "text": "Immediately noticeable or unusual",
           "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "feedback": "A striking feature stands out, which is what the sentence reports."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "Hitting something with force",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "That sense describes the verb 'strike' rather than this adjective."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Very small in size",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Smallness would not draw attention in the way the sentence suggests."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Painted with a striking colour",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "Colour is not mentioned in the sentence at all."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "explanation": "'Striking' describes something that attracts attention because it is unusual, which fits the comparison of the drawings.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Read the text and choose the best meaning of 'mitigate' in 'Planting trees helps mitigate the effects of the flood'.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "text": "To make considerably worse",
+          "is_correct": false,
+          "feedback": "That is the sense of 'aggravate', the opposite of what the sentence states."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "To study carefully before deciding",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "Careful study is what research does, not what mitigate means."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "text": "To make less severe",
+          "is_correct": true,
+          "feedback": "'Mitigate' is used for reducing the effect of a problem such as a flood."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "To avoid mentioning in any report",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "The verb 'omit' or 'ignore' carries that sense, not 'mitigate'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "'Mitigate' means to make something less severe, so the trees reduce the damage caused by flooding.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the sentence in which 'sharp' describes a sudden and noticeable increase.",
+      "context": "A reading vocabulary lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "text": "The knife on the table was very sharp indeed.",
+          "is_correct": false,
+          "feedback": "Here the adjective describes the edge of a blade, not a change."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "She gave a sharp reply that ended the discussion.",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "Here it describes the tone of the voice, not an increase."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "He turned at the sharp corner at the end of the street.",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "Here the adjective describes a turn, not a change in numbers."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "There was a sharp rise in the number of applications this year.",
+          "is_correct": true,
+          "feedback": "'A sharp rise' describes a sudden and steep increase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Sharp' before a noun describing a change means sudden and steep, which is the sense in the correct sentence.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
