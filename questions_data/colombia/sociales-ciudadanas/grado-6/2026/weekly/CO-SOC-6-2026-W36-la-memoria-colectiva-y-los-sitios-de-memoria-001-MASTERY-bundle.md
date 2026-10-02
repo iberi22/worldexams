@@ -66,7 +66,7 @@ El Parque de los Deseos, en la Comuna 13 de Medellín, honra a las víctimas de 
   <!-- feedback: Incorrecto. Las normas de tránsito organizan la movilidad, pero no explican el carácter histórico y simbólico de un sitio de memoria. -->
 
 ### Explicacion Pedagogica
-La memoria colectiva reúne los recuerdos y las interpretaciones que una comunidad construye sobre su pasado. Un sitio de memoria materializa esas experiencias yrating? ayuda a transmitirlas, como ocurre con el Parque de los Deseos en Medellín.
+La memoria colectiva reúne los recuerdos y las interpretaciones que una comunidad construye sobre su pasado. Un sitio de memoria materializa esas experiencias y ayuda a transmitirlas, como ocurre con el Parque de los Deseos en Medellín.
 
 ## Question 3 [D5-D6]
 **ID:** CO-SOC-6-2026-W36-la-memoria-colectiva-y-los-sitios-de-memoria-001-MASTERY-bundle-v3
@@ -176,7 +176,7 @@ Durante una visita guiada por la Plaza de Bolívar, los estudiantes observan un 
 - [ ] B) Afirmar que el espacio solo recuerda a líderes famosos y deja fuera las experiencias de otros grupos.
   <!-- feedback: Incorrecto. La memoria colectiva incluye experiencias y relatos de distintos grupos, no solamente de líderes famosos. -->
 - [x] C) Entender que los monumentos y relatos compartidos ayudan a recordar la historia de una comunidad.
-  <!-- feedback: Correcto. Los sitios de memoriaSon espacios donde símbolos, monumentos y narrativas permiten conservar y reflexionar sobre el pasado de una comunidad. -->
+  <!-- feedback: Correcto. Los sitios de memoria son espacios donde símbolos, monumentos y narrativas permiten conservar y reflexionar sobre el pasado de una comunidad. -->
 - [ ] D) Suponer que cualquier construcción antigua es un sitio de memoria, aunque no tenga símbolos ni relatos.
   <!-- feedback: Incorrecto. La antigüedad no basta; un sitio de memoria necesita elementos y prácticas que possédan significado colectivo. -->
 
@@ -199,7 +199,7 @@ La memoria colectiva son los recuerdos y relatos que una comunidad conserva y co
 - [ ] B) La presenta como un recuerdo individual, pues cada comerciante solo conserva por separado sus experiencias de trabajo.
   <!-- feedback: Incorrecto. La memoria colectiva se construye socialmente mediante recuerdos y experiencias compartidos, no únicamente individuales. -->
 - [ ] C) La presenta como un archivo individual, pues un solo documento basta para representar toda la historia de la comunidad.
-  <!-- feedback: Incorrecto. Un sitio de memoria puede contenerDocuments? Need Spanish. "documentos, monumentos, relatos y tradiciones" no English. -->
+  <!-- feedback: Incorrecto. Un archivo individual no reemplaza a la comunidad: un sitio de memoria puede contener documentos, monumentos, relatos y tradiciones que solo se reconstruyen de manera colectiva. -->
 - [x] D) La presenta como un sitio de memoria colectiva, pues relatos y símbolos ayudan a reconstruir la historia compartida.
   <!-- feedback: Correcto. Los relatos y símbolos de la plaza permiten que la comunidad conserve, reconstruya y transmita su memoria colectiva. -->
 

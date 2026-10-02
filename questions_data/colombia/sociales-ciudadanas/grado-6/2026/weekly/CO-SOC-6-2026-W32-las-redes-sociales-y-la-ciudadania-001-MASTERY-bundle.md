@@ -218,10 +218,10 @@ En un mapa de una red social, varios estudiantes de Bogotá marcan un cruce peat
 
 ### Opciones
 - [x] A) Reportar el cruce con fotos verificadas, consultar a los vecinos y solicitar a la autoridad local una solución.
-  <!-- feedback: Correcto. La participación ciudadana permite identificar un problema del territorio, reunir evidencias y boil dialogAR con las autoridades. -->
+  <!-- feedback: Correcto. La participación ciudadana permite identificar un problema del territorio, reunir evidencias y dialogar con las autoridades. -->
 - [ ] B) Publicar rumores sobre el cruce para generar clics, sin comprobar los hechos ni participar en la solución.
   <!-- feedback: Incorrecto. Compartir rumores impide contar con información verificada y debilita la participación ciudadana responsable. -->
-- [ ] C) Observar el mapa en privado y continuar usando la vía, aunque los vecinos pidan ayuda y_propuestas.
+- [ ] C) Observar el mapa en privado y continuar usando la vía, aunque los vecinos pidan ayuda y presenten propuestas.
   <!-- feedback: Incorrecto. La observación privada es una participación pasiva; la ciudadanía también implica colaborar con la comunidad. -->
 - [ ] D) Compartir datos personales de menores que pasan por el cruce, sin explicar el problema a la autoridad.
   <!-- feedback: Incorrecto. Exponer los datos de menores vulnera su privacidad; una acción ciudadana debe proteger su integridad. -->

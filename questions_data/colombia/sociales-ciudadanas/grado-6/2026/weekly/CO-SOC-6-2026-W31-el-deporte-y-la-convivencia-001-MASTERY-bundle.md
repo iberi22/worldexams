@@ -82,7 +82,7 @@ La convivencia deportiva se basa en el respeto por las reglas, la igualdad y los
 - [ ] A) Excluir de los equipos a estudiantes con discapacidad para evitar que pierdan.
   <!-- feedback: Incorrecto. Excluir a personas con discapacidad vulnera la igualdad y la inclusión al decidir que sus cuerpos no pueden participar efectivamente. -->
 - [ ] B) Separar los equipos por barrio y convertir todos los partidos en endogenous competencias.
-  <!-- feedback: Incorrecto. Separar grupos por barrio y priorizar la rivalidad debilita la convivencia; el pluralismo exige respetar las diferencias y construyeMinorityRulesExporter norms compartidas. -->
+  <!-- feedback: Incorrecto. Separar grupos por barrio y priorizar la rivalidad debilita la convivencia; el pluralismo exige respetar las diferencias y construye normas compartidas. -->
 - [x] C) Formar equipos incluyentes, adaptar las reglas y acordar el fair play con los estudiantes.
   <!-- feedback: Correcto. La inclusión, la participación y el acuerdo sobre las reglas permiten jugar con respeto, reconocer la dignidad de todos y fortalecer la convivencia. -->
 - [ ] D) Permitir que solo participen estudiantes que puedan comprar el uniforme del equipo.
