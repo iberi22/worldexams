@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando historia prehispanica.",
+      "statement": "¿Qué región geográfica fue el escenario de las civilizaciones prehispánicas de Mesoamérica?",
+      "context": "En una clase de segundo grado en Chalchuapa se estudia la historia de Mesoamérica.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "text": "La región andina, entre Bolivia y Perú",
+          "is_correct": false,
+          "feedback": "La región andina corresponde al área andina, donde se desarrollaron civilizaciones como la inca, no la zona mesoamericana."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "text": "La región que va desde el centro de México hasta Nicaragua",
+          "is_correct": true,
+          "feedback": "Mesoamérica comprendió el territorio desde el centro de México hasta la frontera con Nicaragua, y ahí se desarrollaron pueblos como el maya y el náhuat-pipil."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La región de las selvas del Amazonas",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "La Amazonía fue el escenario de otras culturas, pero no el de las civilizaciones mesoamericanas que habitaron el territorio salvadoreño."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La región de las islands del Caribe",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "El Caribe tiene su propio conjunto de pueblos, pero no forma parte de la región mesoamericana."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "Mesoamérica fue la región que va desde el centro de México hasta Nicaragua, donde se desarrollaron el maya y el náhuat-pipil.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando historia prehispanica.",
+      "statement": "¿Por qué se llama prehispánica a la historia de esta región?",
+      "context": "Un museo de Sonsonate prepara una muestra sobre las olds culturas mesoamericanas.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "text": "Porque ocurre antes de la llegada de los españoles a América",
+          "is_correct": true,
+          "feedback": "El prefijo prehispánico señala que Those hechos son anteriores a la presencia española en América."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Porque ocurre antes de la independencia de las colonias",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "La independencia de las colonias es un hecho del siglo XIX, muy posterior, y no da nombre a este período."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Porque se escribe con letras del alfabeto español",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "feedback": "Qué la historia se escriba en español no es lo que hace un período prehispánico, sino cuándo ocurrieron los hechos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque termina con la incorporación de los territorios al virreinato",
+          "is_correct": false,
+          "feedback": "Un período prehispánico es justamente el anterior al dominio español, no el que termina con el virreinato."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "La historia prehispánica es la de los pueblos de Mesoamérica anterior a la llegada de los españoles.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
+      "statement": "¿Cuál de estos hallazgos es evidencia arqueológica directa de un asentamiento prehispánico?",
+      "context": "Un arqueólogo compara dos tipos de evidencia en un sitio de la zona occidental del país.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Una carta que un explorador escribió en el siglo XVII",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Una carta del siglo XVII es un documento escrito, no un hallazgo arqueológico del período prehispánico."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Un registro de la población elaborado en 1890",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "Un registro de población de 1890 es un dato estadístico posterior y no evidencia material del pasado antiguo."
+        },
+        {
+          "letter": "C",
+          "text": "Cerámica, entierros y restos de alimentos hallados en el sitio",
+          "is_correct": true,
+          "feedback": "La cerámica, los entierros y los restos de alimentos son restos materiales del pasado y constituyen evidencia directa."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Una fotografía del lugar tomada hace cincuenta años",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Una fotografía reciente documenta el lugar actual y no da información sobre la vida prehispánica."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Los restos materiales como cerámica, entierros y restos de alimentos son la evidencia arqueológica directa del pasado.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando historia prehispanica.",
+      "statement": "¿Qué explica mejor que las civilizaciones mesoamericanas tuvieran ciudades más pequeñas que las de Europa o Asia?",
+      "context": "Dos grupos de estudiantes discuten por qué las civilizaciones mesoamericanas no construyeron ciudades tan grandes como las del viejo mundo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "letter": "A",
+          "text": "Qué los mesoamericanos no sabían construir edificios de piedra",
+          "is_correct": false,
+          "feedback": "Los mesoamericanos construyeron pirámides, templos y palacios que requerían enorme trabajo en piedra, así que sabían edificar."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Qué las ciudades fueron construidas sólo para el comercio y no para vivir",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Las ciudades mesoamericanas no eran sólo centros de comercio: eran también centros políticos, religiosos y de residencia."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Qué la población de Mesoamérica era muy pequeña y aislada",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Mesoamérica tuvo poblaciones y networks comerciales amplias, conectadas por rutas de intercambio regional."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "text": "Qué la agricultura y los recursos del trópico limitaron el crecimiento de las ciudades",
+          "is_correct": true,
+          "feedback": "La agricultura de la milpa y la disponibilidad de recursos del tropico limitaron el crecimiento de las ciudades mesoamericanas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "El tamaño de las ciudades mesoamericanas estuvo condicionado por la agricultura y los recursos disponibles en la región.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
@@ -189,82 +189,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
+      "statement": "¿Por qué la milpa era importante para las sociedades mesoamericanas?",
+      "context": "En clase se estudia la relación entre la milpa y la sociedad mesoamericana.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Porque proporcionaba el maíz, base de la alimentación y de la vida social",
           "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "feedback": "El maíz sembrado en milpa sostenía la alimentación y fundaba la vida ritual y social de estas sociedades."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Porque era la única forma de pagar el tribute a los españoles",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "La milpa es anterior a los españoles, así que no podía ser un pago de tributo colonial."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Porque se plantaba en las ciudades de piedra",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "La milpa se sembraba en el campo abierto y no dentro de las ciudades de piedra."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque sustituia a las armas en los conflictos",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "La milpa era un recurso agrícola y no tenía ninguna función militar."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
-        },
-        {
-          "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "explanation": "La milpa proporcionaba el maíz, que era la base alimenticia y social de las sociedades mesoamericanas.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -278,128 +233,83 @@
       "country": "sv"
     },
     {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la interpretación más adecuada de la llegada de los pueblos de habla náhuat-pipil a esta zona?",
+      "context": "Un museo debate cómo presentar la expansión de los pueblos mesoamericanos hacia la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fueron conquistados por pueblos del sur andino",
+          "is_correct": false,
+          "feedback": "Los pueblos náhuat-pipil no fueron conquistados por pueblos andinos: su Migración fue desde Mesoamérica central hacia el sureste."
+        },
+        {
+          "letter": "B",
+          "text": "Migraron desde el norte por rutas comerciales y se asentaron en la zona occidental",
+          "is_correct": false,
+          "feedback": "La expansión se explica por migraciones desde la zona central de Mesoamérica, accompanydas de redes comerciales y de asentamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Aparecieron de la nada porque no tenían origen en ninguna otra región",
+          "is_correct": true,
+          "feedback": "Todo pueblo tiene un origen y una historia de expansión, y negarla contradice lo que muestran las fuentes."
+        },
+        {
+          "letter": "D",
+          "text": "Fueron traídos por los españoles como mano de obra en el siglo XVI",
+          "is_correct": false,
+          "feedback": "Los pueblos náhuat-pipil llegaron antes de los españoles, como lo muestra su cultura de origen mesoamericano."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La llegada de los pueblos náhuat-pipil se explica por migraciones desde el centro de Mesoamérica hacia el sureste.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
-        },
-        {
-          "letter": "C",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
-        },
-        {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
-        },
-        {
-          "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
-        },
-        {
-          "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
+      "statement": "¿Qué medida protege mejor un edificio mesoamericano?",
+      "context": "Un gobierno local quiere preservar un edificio de estilo mesoamericano en su municipio.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "text": "Ampliar sus dimensiones para generar más turismo",
+          "is_correct": false,
+          "feedback": "Ampliar el edificio alteraría su forma original, y la ampliación destruye el bien que se quiere proteger."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "text": "Restaurarlo con técnicas que respeten los materiales originales",
+          "is_correct": true,
+          "feedback": "Una restauración que respeta los materiales y técnicas originales conserva la autenticidad del edificio prehispánico."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Pintarlo con colores modernos para hacerlo más atractivo",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "Pintar el edificio con colores modernos modifica su apariencia original y borra las evidencias de su época."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Construir una réplica en otro país y-demo'tr el original",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Construir una réplica en otro país no protege el original, que seguiría expuesto al desgaste en el lugar."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Proteger un edificio mesoamericano significa restaurarlo respetando sus materiales y técnicas originales.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -413,83 +323,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando historia prehispanica.",
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v8",
+      "statement": "¿Que tienen en común las mitologias mesoamericanas y las de otros pueblos antiguos?",
+      "context": "Un investigador compara la mitología de dos pueblos mesoamericanos.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "Explican el origen del mundo mediante dioses y relatos",
           "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
+          "feedback": "Las mitologías mesoamericanas explican el origen del mundo y de los seres con dioses y relatos, como en otras culturas antigas."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Exigen que se abandone el cultivo del maíz",
           "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
+          "feedback": "Las mitologías no prohíben la agricultura, y el maíz aparece precisamente en muchos relatos sobre el origen del hombre."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Prohíben la construcción de templos",
           "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
+          "feedback": "Los templos tienen un papel central en las mitologías mesoamericanas, no están prohibidos."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Fueron escritas íntegramente en alfabeto español",
           "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
+          "feedback": "Las mitologías son tradiciones orales transmitidas, no textos escritos en alfabeto español."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "explanation": "Las mitologías mesoamericanas explican el origen del mundo y de los seres mediante dioses y relatos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -503,42 +368,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v9",
+      "statement": "¿Qué característica compartían los pueblos mesoamericanos con otras civilizaciones antiguas?",
+      "context": "Dos estudiantes comparan la forma de gobierno de los pueblos mesoamericanos con la de otros pueblos antiguos.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
+          "text": "Usaban por completo la democracia representativa",
+          "is_correct": false,
+          "feedback": "La democracia representativa moderna no existió en las sociedades mesoamericanas, y su gobierno era jerárquico."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "No tenían ninguna forma de organización política",
           "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
+          "feedback": "Los pueblos mesoamericanos sí tenían forma de organización política, con caciques y autoridades comunitarias."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Elegían a suscatenateächst líderes exclusivamente por election popular",
           "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
+          "feedback": "El liderazgo no se elegía por sufragio universal, sino por reconocimiento dentro de la comunidad."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
+          "text": "Organizaban su sociedad en torno a un poder político y un poder religioso",
+          "is_correct": true,
+          "feedback": "En estas sociedades el poder político y el poder religioso iban juntos, como en otras civilizaciones antiguas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Los pueblos mesoamericanos organizaban su sociedad en torno a un poder político y un poder religioso.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de estas fuentes es la más adecuada para estudiar la economía de la milpa?",
+      "context": "Un proyecto educativo compara dos Mutual guerra fuentes para reconstruir el pasado mesoamericano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una novela de aventuras ambientada en el siglo XIX",
+          "is_correct": false,
+          "feedback": "Una novela es ficción y no sirve como fuente para reconstruir hechos del pasado."
+        },
+        {
+          "letter": "B",
+          "text": "Un decreto colonial del siglo XVII",
+          "is_correct": false,
+          "feedback": "Un decreto colonial es un documento del período español y no informa sobre la milpa prehispánica."
+        },
+        {
+          "letter": "C",
+          "text": "Restos de maíz, frijol y ají hallados en un sitio arqueológico",
+          "is_correct": true,
+          "feedback": "Los restos de maíz, frijol y ají son evidencia material directa del cultivo que sostuvo a estas sociedades."
+        },
+        {
+          "letter": "D",
+          "text": "Una crónica escrita por un visitante del siglo XX",
+          "is_correct": false,
+          "feedback": "Una crónica de un visitante del siglo XX describe otra época y no la economía de la milpa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los restos de cultivos hallados en sitios arqueológicos son la fuente más directa para estudiar la economía de la milpa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v11",
+      "statement": "¿Cuál debe ser el enfoque principal al enseñar la historia prehispánica?",
+      "context": "Un profesor debate qué enseñar en el módulo de historia prehispánica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar unicamente las versiones de los colonizadores españoles",
+          "is_correct": false,
+          "feedback": "Contar sólo la versión de los colonizadores deja a los pueblos mesoamericanos fuera de su propia historia."
+        },
+        {
+          "letter": "B",
+          "text": "Presentar a los pueblos mesoamericanos como protagonistas con su propia cultura",
+          "is_correct": true,
+          "feedback": "Reconocer a los pueblos mesoamericanos como protagonistas de su historia respeta su cultura y susqjego lo que fueron."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar continuamente a estos pueblos con los europeos para medir su grandeza",
+          "is_correct": false,
+          "feedback": "Comparar continuamente con los europeos introduce un criterio externo que desprecia las logros mesoamericanos."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar el período como un estado selvático sin organización política",
+          "is_correct": false,
+          "feedback": "Los pueblos mesoamericanos tenían organización política, ciudades y templos, así que no eran un estado selvático."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El enfoque adecuado presenta a los pueblos mesoamericanos como protagonistas de su propia historia y cultura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v12",
+      "statement": "¿Por qué el obsidiana era tan importante en Mesoamérica?",
+      "context": "En clase se revisa el papel del obsidiana en la vida mesoamericana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque era una piedra dura con la que se fabricaban herramientas y armas",
+          "is_correct": true,
+          "feedback": "El obsidiana es un vidrio volcanic natural muy duro, y con él se fabricaban cuchillos, lanzas y otras herramientas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque era el grano principal de la milpa",
+          "is_correct": false,
+          "feedback": "El grano de la milpa era el maíz, y el obsidiana es una piedra, no un cultivo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque servía para construir los templos de piedra",
+          "is_correct": false,
+          "feedback": "El obsidiana no se usaba para construir templos, sino sobre todo para fabricar herramientas por su dureza."
+        },
+        {
+          "letter": "D",
+          "text": "Porque era la moneda oficial del comercio mesoamericano",
+          "is_correct": false,
+          "feedback": "El obsidiana se intercambiaba como parte de las redes comerciales, pero no era una moneda oficial."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El obsidiana era muy codiciada por su dureza y servía para fabricar herramientas y armas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando historia prehispanica.",
+      "statement": "¿Qué relación tuvo el clima con el desarrollo de las sociedades mesoamericanas?",
+      "context": "Un grupo analiza cómo el clima influyó en el desarrollo de las sociedades mesoamericanas.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "text": "El clima frío y seco impidió el cultivo de maíz",
+          "is_correct": false,
+          "feedback": "El clima cálido, no frío, fue el que permitió el desarrollo del cultivo en estas regiones."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "La lluvia abundante sustituyó por completo a la agricultura",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "La lluviaelia apoyaba los cultivos, pero no sustituía la agricultura, que era la base de la alimentación."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "text": "El clima cálido con lluvias permitió el cultivo del maíz",
+          "is_correct": true,
+          "feedback": "El clima cálido con lluvias-creó las condiciones necesarias para cultivar el maíz y otros alimentos."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El clima no tuvo ninguna relación con la agricultura mesoamericana",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "El clima tuvo una relación directa: las lluvias y el calor eran lo que hacia posible el cultivo de la milpa."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "El clima cálido y las lluvias de la región hicieron posible el cultivo del maíz, base de la economía mesoamericana.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -594,37 +594,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando historia prehispanica.",
+      "statement": "¿Qué evidencia demuestra que hubo intercambio comercial entre los pueblos mesoamericanos?",
+      "context": "Un student's trabajo compara dospository casos el intercambio regional en Mesoamérica.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
+          "text": "La existencia de una moneda única entre ellos",
+          "is_correct": false,
+          "feedback": "No existía una moneda única en Mesoamérica, así que no sirve como prueba de intercambio."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "text": "La presencia en un sitio de objetos que no son típicos de la zona",
+          "is_correct": true,
+          "feedback": "Hallar en un sitio objetos típicos de otra región muestra que llegaron desde otro lugar, lo que evidencia intercambio."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La traducción simultánea de varios nombres propios",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "La traducción de nombres propios no es un indicio material de intercambio comercial."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La firma de tratados de paz entre caciques",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Tratados de paz entre caciques habla de acuerdos políticos, no de la circulación de objetos entre regiones."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Objetos típicos de otra región hallados en un sitio son evidencia material del intercambio entre pueblos mesoamericanos.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -639,82 +639,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando historia prehispanica.",
+      "statement": "¿Qué sistema de medición usaban muchas sociedades mesoamericanas?",
+      "context": "Un profesor compara dos sistemas de medición usados en Mesoamérica.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Un sistema basado únicamente en unidades del sistema inglés",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "feedback": "No usaban unidades inglesas, porque el sistema inglés es posterior a las civilizaciones mesoamericanas."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Un sistema sin ninguna forma de medir longitudes ni superficies",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "Sí tenían forma de medir: usaban unidades de longitud y superficie definidas por ellos."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Un sistema que sólo medía el tiempo mediante las estrellas",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "Sí medían el tiempo, pero también tenían unidades para medir longitudes y superficies."
+        },
+        {
+          "letter": "D",
+          "text": "Un sistema con unidades propias, como el codal, derivado de medidas del cuerpo humano",
+          "is_correct": true,
+          "feedback": "Usaban unidades propias como el codal, que se basaba en medidas del cuerpo humano y en la longitud de un brazo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "La Constitución es la norma máxima y es la que fija la organización del Estado y los derechos de la ciudadanía."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria es inferior a la Constitución y no puede contradecirla, así que no organiza el Estado por encima de ella."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto es un acto del Ejecutivo que aplica una ley; no es el documento que funda la organización del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula el acuerdo entre dos o más países, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "explanation": "Las sociedades mesoamericanas usaban unidades propias, como el codal, derivado de medidas del cuerpo humano.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -728,87 +683,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando historia prehispanica.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Las fábricas concentraron el trabajo en las ciudades: la población rural emigró y surgieron la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial diminishó el peso de la agricultura en la economía, en vez de devolver la sociedad al campo."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "El comercio creció con los ferrocarriles y las fábricas, de modo que no disminuyó."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció, se concentró en las fábricas y las minas."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando historia prehispanica.",
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v16",
+      "statement": "¿Cuál es la forma correcta de presentar las religiones mesoamericanas?",
+      "context": "Una iglesia local debate como presentar las religiones mesoamericanas a sus visitantes.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
+          "text": "Explicando que eran religiones con prácticas yriba símbolos propios",
           "is_correct": true,
-          "feedback": "La Constitución de un país democrático reconoce los derechos esenciales de toda persona, como la vida, la libertad y la igualdad."
+          "feedback": "Reconocer que eran religiones con sus propios dioses, templos y prácticas es la forma respetuosa y correcta de presentarlas."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Diciendo que eranhma un error porque sólo podía haber una religión",
           "is_correct": false,
-          "feedback": "La propiedad es uno de los derechos, pero la Constitución reconoce muchos más, como la igualdad ante la ley y el debido proceso."
+          "feedback": "Considerarlas un error por negarle valor a otras feas es un criterio que no pertenece a un análisis histórico."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Afirmando que eran exactamente las mismas que las de los europeos",
           "is_correct": false,
-          "feedback": "El voto y la participación son parte de los derechos, pero la Constitución protege también derechos civiles y sociales."
+          "feedback": "No eran las mismas que las europeas, porque tenían dioses, rituales y downstairs conceptos propios distintos."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Considerandolas una simple supersticion sin valor cultural",
           "is_correct": false,
-          "feedback": "La Constitución limita al gobierno y protege a los ciudadanos; lo que el Estado tiene frente a ellos son deberes, no derechos."
+          "feedback": "Para las comunidades que las practicaban eran más que superstición: organizaban la vida social, política y ritual."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "explanation": "Las religiones mesoamericanas deben presentarse como religiones con prácticas y símbolos propios, con respeto a su valor cultural.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -818,38 +728,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando historia prehispanica.",
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál de estos elementos sería el más adecuado para esa zona?",
+      "context": "Un parque temático quiere construir una zona que represente un pueblo mesoamericano.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Exportar por encima de las importaciones significa que entra más dinero del que sale, y eso es superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Una reconstrucción de un palacio renacentista europeo",
           "is_correct": false,
-          "feedback": "El déficit es el caso contrario: exportar menos de lo que se importa."
+          "feedback": "Un palacio renacentista europeo pertenece a otra época y otra cultura, y no representa a un pueblo mesoamericano."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Una fuente con el estilo artístico de la edad media europea",
           "is_correct": false,
-          "feedback": "Una balanza equilibrada exige exportar e importar la misma cantidad, y aquí las exportaciones son mayores."
+          "feedback": "La fuente medieval europea tampoco corresponde al estilo ni a la época de los pueblos mesoamericanos."
+        },
+        {
+          "letter": "C",
+          "text": "Una reconstrucción de una vivienda construida con materials locales de la época",
+          "is_correct": true,
+          "feedback": "Reconstruir una vivienda con materiales locales representa con fidelidad la forma de vida de la época mesoamericana."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Una \\[copia de un templo del siglo XIX edificops con hormigón",
           "is_correct": false,
-          "feedback": "Un superávit comercial indica un saldo favorable, no una crisis."
+          "feedback": "Un templo del siglo XIX en hormigón pertenece a una época muy posterior, con técnicas que no existían en la época prehispánica."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
+      "explanation": "Para representar a un pueblo mesoamericano conviene reconstruir una vivienda con materiales y técnicas de la época.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -863,42 +773,132 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando historia prehispanica.",
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v18",
+      "statement": "¿Qué cambió con la conquista en la organización de los pueblos originarios?",
+      "context": "Un|Division electoral grupo analiza qué cambio trajo la conquista a la estructura de los pueblos mesoamericanos.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "El asesinato del Archiduque Francisco Fernando en Sarajevo en junio de 1914 fue el detonante directo de la guerra."
+          "text": "Nada, porque los pueblos ya no existían cuando llegaron los españoles",
+          "is_correct": false,
+          "feedback": "Los pueblos originarios seguían habitando el territorio cuando llegaron los españoles, por eso el período prehispánico termina con la conquista."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, ya terminada la guerra, para imponer las condiciones de paz a Alemania."
+          "text": "La autoridad pública pasó de los caciques indígenas a las autoridades coloniales españolas",
+          "is_correct": true,
+          "feedback": "Con la conquista la autoridad pública quedó en manos de las autoridades españolas, y los caciques perdieron poder real."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Los pueblos pasaron a elegir sus líderes por sufragio universal",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, durante la guerra, y pertenece a otro conflicto posterior."
+          "feedback": "No hubo sufragio universal tras la conquista, sino un sistema colonial jerárquico con encomenderos."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "La administración cambió a un sistema de-electedemocratico rappresentativo",
           "is_correct": false,
-          "feedback": "El avión no fue la causa de la guerra; el detonante fue un conflicto entre potencias europeas, y la aviación se usó en los combates."
+          "feedback": "La administración colonial no era democrática representativa, sino un sistema jerárquico de encomiendas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Con la conquista, la autoridad pública pasó de los caciques indígenas a las autoridades coloniales españolas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v19",
+      "statement": "¿Qué afirmación describe mejor las ciudades mesoamericanas?",
+      "context": "Dos estudiantes discuten sí los pueblos mesoamericanos tenían grandes ciudades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eran centros de población, comercio y culto con templos y estructuras propias",
+          "is_correct": true,
+          "feedback": "Las ciudades mesoamericanas eran centros de población, comercio y culto, con templos y observaciones astronómicas propias."
+        },
+        {
+          "letter": "B",
+          "text": "Eran simples aldeas sin ningún tipo de construcción monumental",
+          "is_correct": false,
+          "feedback": "Tenían construcción monumental, como las pirámides y los templos, así que no eran simples aldeas."
+        },
+        {
+          "letter": "C",
+          "text": "Eran ciudades modernas con infraestructura y servicios como los actuales",
+          "is_correct": false,
+          "feedback": "No eran ciudades modernas ni tenían infraestructura tecnológica como la actual, sino construcciones de piedra y cal."
+        },
+        {
+          "letter": "D",
+          "text": "Eran metrópolis con millones de habitantes comparables a las actuales",
+          "is_correct": false,
+          "feedback": "Sus habitantes eran mucho menos numerosos que los de las ciudades actuales, así que no eran metrópolis comparables."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "explanation": "Las ciudades mesoamericanas eran centros de población, comercio y culto, con templos y estructuras propias.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la conclusión más adecuada sobre las sociedades mesoamericanas?",
+      "context": "Un centro de investigación prepara una conclusión sobre Lassociedades mesoamericanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Qué fueron sociedades sin agricultura ni organización política",
+          "is_correct": false,
+          "feedback": "Tuvieron agricultura, con el maíz como base, y también organización política, así que esta afirmación es falsa."
+        },
+        {
+          "letter": "B",
+          "text": "Qué fueron sociedades technologicamente developed que rideron el utah",
+          "is_correct": false,
+          "feedback": "No eran sociedades tecnológicamente desarrolladas como las actuales, y su caracter principal era el desarrollo agrícola y urbano."
+        },
+        {
+          "letter": "C",
+          "text": "Qué fueron sociedades aisladas que nunca intercambiaron objetos con otras regiones",
+          "is_correct": false,
+          "feedback": "No estaban aisladas: mantenían redes de intercambio regional de objetos como el obsidiana."
+        },
+        {
+          "letter": "D",
+          "text": "Qué fueron sociedades organizadas, con agricultura, comercio, ciudad y culto",
+          "is_correct": true,
+          "feedback": "Reúnen agricultura, comercio, ciudad y culto, que son los rasgos que definen a estas sociedades."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las sociedades mesoamericanas combinaron agricultura, comercio, organización urbana y culto, con lo que su desarrollo fue notable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W04-historia-prehispanica-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

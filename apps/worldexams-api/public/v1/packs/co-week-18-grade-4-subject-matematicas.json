@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-18-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T07:06:03.576Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué nombre recibe ese ángulo?",
+      "context": "En el piso del salón de clases de Bucaramanga hay una marca de 90° dibujada junto a una de las esquinas de la pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulo recto",
+          "is_correct": true,
+          "feedback": "Correcto. 90° es la medida exacta de un ángulo recto, la misma que forman las esquinas de una hoja de papel."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulo agudo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clasificaste 90° como agudo, cuando un ángulo agudo es el que mide menos de 90° y por eso nunca llega a esa medida."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulo obtuso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clasificaste 90° como obtuso, cuando el ángulo obtuso está entre 90° y 180°, sin incluir los 90° exactos."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulo llano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Clasificaste 90° como llano, cuando el ángulo llano mide 180°, que es el doble de la medida de esta marca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los ángulos se clasifican según cuánto abren: el agudo mide menos de 90°, el recto mide exactamente 90°, el obtuso mide más de 90° y menos de 180°, y el llano mide 180°. Conocer esos límites permite ubicar cualquier medida en su categoría sin aproximación, y por eso una marca de 90° corresponde siempre a un ángulo recto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v2",
+      "statement": "¿Qué tipo de ángulo forma la hoja del ventanal con el marco?",
+      "context": "En una casa de Tunja, un ventanal está abierto 135° respecto al marco de la ventana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo llamaste recto porque 135° está cerca de 90°, cuando la clasificación depende de comparar la medida completa y no de cuánto se parece."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulo agudo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo clasificaste como agudo pensando en que es menor que 180°, cuando un ángulo agudo es el que no alcanza los 90°."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulo llano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo llamaste llano porque está cerca de 180°, cuando el llano mide exactamente 180° y 135° está por debajo de esa medida."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulo obtuso",
+          "is_correct": true,
+          "feedback": "Correcto. 135° es mayor que 90° y menor que 180°, que es exactamente lo que define a un ángulo obtuso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un ángulo obtuso ocupa la parte de la clasificación que va desde 90° hasta 180°, sin incluir ninguno de los dos extremos. La medida de 135° cumple las dos condiciones: supera el ángulo recto y todavía no llega al ángulo llano. Por eso se ubica en la categoría de los obtusos y no en la de los agudos ni en la de los rectos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de ángulo es el que midió el estudiante?",
+      "context": "En Pereira, un estudiante coloca el transportador sobre un ángulo dibujado en el pizarrón y la lectura que obtiene es de 75°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ángulo obtuso de 165°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 90 + 75 = 165°, cuando el transportador muestra directamente los 75° del ángulo y no hay que sumarle nada."
+        },
+        {
+          "letter": "B",
+          "text": "Ángulo agudo de 75°",
+          "is_correct": true,
+          "feedback": "Correcto. Como 75° es menor que 90°, el ángulo medido es agudo y su medida es exactamente la que leyó el transportador."
+        },
+        {
+          "letter": "C",
+          "text": "Ángulo agudo de 15°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 90 − 75 = 15°, cuando el transportador marca los 75° del ángulo y no la diferencia con el ángulo recto."
+        },
+        {
+          "letter": "D",
+          "text": "Ángulo obtuso de 105°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 75 + 30 usando un margen que no aparece en la medida, cuando el ángulo mide exactamente 75°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El transportador sirve justamente para leer la medida real del ángulo, de modo que el dato de 75° no necesita ajustes. Una vez leída esa medida, la clasificación es directa: como 75° es menor que 90°, se trata de un ángulo agudo. Los errores más comunes en este ejercicio son sumar o restar los 90° del transportador a la lectura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la medida del ángulo que queda al lado de ese ángulo de 65°?",
+      "context": "En un parque de Bogotá, dos senderos se cruzan y forman entre ellos un ángulo de 65°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "245°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 180 + 65 = 245°, cuando el ángulo vecino es el que completa los 180° de la línea recta y no uno que pase de la vuelta."
+        },
+        {
+          "letter": "B",
+          "text": "25°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste 90 − 65 = 25°, usando como referencia el ángulo recto, cuando en el cruce de dos caminos la referencia es la línea recta de 180°."
+        },
+        {
+          "letter": "C",
+          "text": "115°",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos ángulos del cruce suman 180°, y 180 − 65 = 115°, que es la medida del ángulo vecino."
+        },
+        {
+          "letter": "D",
+          "text": "130°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste 65 × 2 = 130°, cuando los dos ángulos de un cruce no son iguales y por eso no se obtiene uno multiplicando el otro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando dos caminos se cruzan, los ángulos que quedan a un lado y al otro forman entre sí un ángulo llano, es decir 180°. Por esa razón la medida del ángulo vecino es el complemento hasta 180: 180 − 65 = 115°. La suma de los dos ángulos, 65 + 115 = 180°, sirve como comprobación de que el resultado es correcto.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué medida tiene el otro ángulo del rincón?",
+      "context": "En el patio de un colegio de Bogotá hay un rincón que forma un ángulo recto y una diagonal lo divide en dos ángulos, uno de 38°.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "52°",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos ángulos del rincón suman el ángulo recto completo, y 90 − 38 = 52°, así que el otro ángulo mide 52°."
+        },
+        {
+          "letter": "B",
+          "text": "128°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 90 + 38 = 128°, cuando los dos ángulos están uno junto al otro dentro del mismo ángulo recto y por eso se restan."
+        },
+        {
+          "letter": "C",
+          "text": "38°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repitiste la medida del primer ángulo, cuando al dividir el rincón de 90° las dos partes no son iguales porque 38° no es la mitad de 90°."
+        },
+        {
+          "letter": "D",
+          "text": "2°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Restaste cifras como si fueran ángulos y obtuviste 2, cuando la operación correcta es restar medidas de grados: 90 − 38 = 52."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La diagonal que cruza un rincón recto lo parte en dos ángulos que, juntos, reconstruyen el ángulo original. Esa relación permite hallar la parte desconocida con una resta: 90 − 38 = 52°. La comprobación consiste en sumar las dos partes, 38 + 52 = 90°, que devuelve la medida del rincón entero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué se puede afirmar que el ángulo formado por la hoja y el marco es recto?",
+      "context": "En una casa de Medellín, una puerta está completamente abierta contra su marco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las puertas siempre tienen las esquinas redondeadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Explicaste el acabado de la puerta y no la medida, cuando lo que define un ángulo recto es que valga exactamente 90°."
+        },
+        {
+          "letter": "B",
+          "text": "Porque una puerta completamente abierta forma 90°, que es la medida exacta del ángulo recto",
+          "is_correct": true,
+          "feedback": "Correcto. La hoja abierta a tope queda perpendicular al marco, y esa separación de 90° es precisamente la definición de ángulo recto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la hoja se mueve describiendo un círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Describiste el movimiento de la puerta en lugar de la medida, cuando un ángulo se caracteriza por cuántos grados abre, no por su trayectoria."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la hoja y el marco son piezas rectangulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Te basaste en la forma de las piezas y no en el ángulo que forman entre sí, cuando lo que se mide es la separación entre la hoja y el marco, que es de 90°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un ángulo no se define por la forma de los objetos que lo forman sino por la medida que abre entre sus dos lados. En este caso la hoja abierta a tope queda perpendicular al marco, y por eso el ángulo mide 90°. Reconocer situaciones cotidianas que forman ángulos rectos ayuda a fijar el significado de esa medida.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ángulo gira la manecilla de las horas cuando va de las 12 a las 6 en punto?",
+      "context": "En un negocio de Manizales hay un reloj de manecillas redondas cuyo centro está marcado en la pizarra de la clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contaste solo un cuadrante del reloj, cuando entre las 12 y las 6 hay seis cuadrantes de 30° cada uno."
+        },
+        {
+          "letter": "B",
+          "text": "270°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mediste el recorrido que falta para volver a las 12, cuando la pregunta es el avance desde las 12 hasta las 6, que son 6 de los 12 cuadrantes."
+        },
+        {
+          "letter": "C",
+          "text": "0°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dijiste que no hay ángulo porque las dos posiciones están alineadas hacia arriba y hacia abajo, cuando esa alineación forma justamente una línea recta de 180°."
+        },
+        {
+          "letter": "D",
+          "text": "180°, un ángulo llano",
+          "is_correct": true,
+          "feedback": "Correcto. De las 12 a las 6 hay media vuelta completa de 30° por cada hora, y 6 × 30 = 180°, que es un ángulo llano."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El reloj funciona como un instrumento de medición angular: cada hora corresponde a un giro de 30° porque las doce horas completan los 360° de una vuelta. De las 12 a las 6 se recorren seis de esos tramos, 6 × 30 = 180°, media vuelta que corresponde a un ángulo llano. Saber leer el reloj permite verificar medidas de ángulos de forma inmediata.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre lo que dijo el estudiante?",
+      "context": "En una exposición de arte en Bogotá, un estudiante pintó un mural con un ángulo de 85° y dijo en voz alta: \"Este ángulo es recto porque casi llega a 90°\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene razón, porque 85° y 90° redondeados dan el mismo número",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aceptaste un redondeo como prueba de igualdad, cuando los ángulos se comparan con su medida exacta y no con aproximaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Se equivoca, porque un ángulo recto mide exactamente 90° y 85° es un ángulo agudo",
+          "is_correct": true,
+          "feedback": "Correcto. La medida exacta del ángulo recto es 90°, y como 85° es menor que 90°, el ángulo pintado es agudo y no recto."
+        },
+        {
+          "letter": "C",
+          "text": "Se equivoca, porque un ángulo recto puede medir 80°",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le asignaste otra medida al ángulo recto, cuando los 90° son fijos y por eso 80° tampoco sería un ángulo recto."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene razón, porque la diferencia entre 85° y 90° es de solo 5° y no cuenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decidiste que una diferencia pequeña no importa, cuando la clasificación de un ángulo depende de si supera o no el valor exacto de 90°."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar un ángulo exige comparar su medida con los valores exactos que separan las categorías: 90° y 180°. En este caso 85° queda por debajo de 90°, así que pertenece a los ángulos agudos, aunque se acerque mucho a la medida del ángulo recto. La cercanía entre dos medidas nunca convierte un ángulo en la categoría vecina.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W18-angulos-y-su-medicion-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

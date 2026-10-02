@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una constitucion democratica reconoce la dignidad de todas las personas y garantiza derechos civiles, politicos, sociales y culturales, no solo una facultad economica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando un pais exporta mas de lo que importa, obtiene un superavit comercial, porque los ingresos por ventas al exterior superan a los gastos por compras.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando edad media.",
+      "statement": "Que sostenia el poder de un senor feudal en la Europa medieval",
+      "context": "Taller de historia medieval en el Colegio Nacional de Chalchuapa, donde los grupos comparan el feudo con el estado centralizado.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Un pacto en el que el vasallo daba servicio a cambio de tierra y proteccion",
+          "is_correct": true,
+          "feedback": "El senor entregaba tierra y proteccion, y el vasallo ofrecia servicio militar o trabajo agricola; ese contrato personal sostenia el feudo."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "El trabajo comunitario de los aldeanos, sin relacion con el senor",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Los aldeanos libres cultivaban sus propias parcelas y debian tributos al senor, de modo que el poder de este no se apoyaba en esa actividad."
+        },
+        {
+          "letter": "C",
+          "text": "Una administracion centralizada igual a la de la Roma antigua",
+          "is_correct": false,
+          "feedback": "El reino feudal estaba fragmentado en multiples dominios sin una administracion unificada, por lo que no se resemble a la organizacion romana."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El comercio maritimo que le permitia controlar otras regiones",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "El poder feudal se apoyaba en la tierra y el vasallaje, no en rutas maritimas, que eran la base de riqueza de las ciudades mercantiles."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "El senorio feudal se sostenia en un pacto personal entre senor y vasallo, tierra y proteccion a cambio de servicio, y no en una administracion central unificada.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando edad media.",
+      "statement": "Por que prosperaron las ciudades mercantiles de Genova y Venecia en la Edad Media",
+      "context": "Estudiantes de Ahuachapan analizan las razones por las que ciertas ciudades comerciales italianas crecieron durante la Edad Media.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
+          "text": "Porque fueron las unicas ciudades con escritura en Europa",
+          "is_correct": false,
+          "feedback": "La escritura se uso en toda la Europa medieval, asi que su mencion no explica la riqueza especifica de estas dos ciudades maritimas."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "text": "Porque controlaban rutas y puertos de comercio del Mediterraneo",
+          "is_correct": true,
+          "feedback": "Al situarse en puntos intermedios entre Oriente y Occidente cobraban aranceles a las mercancias, y con esas ganancias acumulaban capital para el comercio."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Porque estaban exentas de pagar tributos a su senor feudal",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Ninguna ciudad escapaba a los tributos de su senor, de modo que la exencion fiscal no explica por que estas ciudades crecian."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Porque cerraron sus puertos y prohibieron el comercio con el norte de Europa",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Cerrar los puertos habria destruido la fuente de su riqueza, que era justamente el trafico de mercancias por el Mediterraneo."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "Las ciudades maritimas italianas prosperaron porque controlaban rutas y puertos Mediterraneos, de donde obtenian ingresos constantes por el paso de mercancias.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando edad media.",
+      "statement": "Que rasgo distingue a una catedral gotica frente a una romanica",
+      "context": "Un museo comunitario de Sonsonate exhibe maquetas que los estudiantes comparan con el edificio original.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
+          "letter": "A",
+          "text": "Muros macizos y muy pocos ventanales",
+          "is_correct": false,
+          "feedback": "Eso describe la arquitectura romanica, de muros gruesos y ventanas estrechas; la gotica hizo lo contrario y abrio grandes superficies vidriadas."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "letter": "B",
+          "text": "Torres de madera sin ningun tipo de decoracion",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Las catedrales goticas combinaban caliz, vidrio y decoracion escultorica, por lo que una torre desnuda no las caracteriza."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "text": "Arcos apuntados y grandes vitrales que iluminan el interior",
+          "is_correct": true,
+          "feedback": "La gotica empleo arcos apuntados y enormes vitrales, de modo que el interior recibia mucha mas luz y podia alcanzar alturas mayores."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Planta circular como la de un templo antiguo",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La planta circular era propia de algunos templos antiguos, mientras que las catedrales goticas usaban una planta longitudinal con cabecera y naves."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La arquitectura gotica se reconocio por sus arcos apuntados y sus grandes vitrales, que introducian luz en interiores altos y luminosos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando edad media.",
+      "statement": "Que consecuencia demografica tuvo la peste negra en la Europa medieval",
+      "context": "El profesor de Santa Tecla explica las consecuencias demograficas de una epidemia que llego a Europa en el siglo XIV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Un aumento sostenido de la poblacion urbana",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La muerte masiva no produjo crecimiento de la poblacion, al contrario, las ciudades quedaron diezmadas durante generaciones."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El fortalecimiento del poder de los senores feudales",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "El poder senorial se debilito cuando faltaron trabajadores y se abandono el campo, y no se consolido por causa de la epidemia."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "El cierre definitivo de las rutas comerciales mediterraneas",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Las rutas comerciales no desaparecieron con la peste, la circulacion de bienes continuo aunque la vida urbana quedo muy diezmada."
+        },
+        {
+          "letter": "D",
+          "text": "Una fuerte despoblacion y una crisis del feudalismo",
+          "is_correct": true,
+          "feedback": "La muerte de una parte enorme de la poblacion dejo campos sin cultivar y mano de obra escasa, lo que desestabilizo el equilibrio feudal."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "La peste negra del siglo XIV provoco una fuerte despoblacion, y la falta de trabajadores y de recursos agriculturales hizo entrar en crisis al sistema feudal.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -414,82 +414,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando edad media.",
+      "statement": "Que actores impulsaron las cruzadas entre los siglos XI y XIII",
+      "context": "En un taller del Colegio Nacional de Sonsonate los estudiantes distinguen los actores de las cruzadas.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "La Iglesia catolica junto con monarcas y nobles",
           "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "feedback": "Las cruzadas fueron promovidas por la Iglesia, que predicaba la guerra santa, y apoyadas por reyes y nobles, que buscaban tierras y prestigio."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Los mercaderes que querian controlar el Mediterraneo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Los mercaderes se beneficiaron del comercio, pero no organizaron las expediciones, la iniciativa estuvo en la Iglesia y en los monarcas."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Los estadistas que querian abolir el feudalismo",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Los problemas del feudalismo no se resolvieron con las cruzadas, que fueron una empresa militar y religiosa dirigida a otro lugar."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Los agricultores que querian recuperar las tierras de sus familias",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Las cruzadas se dirigieron contra el territorio del Este bajo control musulman, y no contra otras familias de terratenientes europeos."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "Las cruzadas fueron impulsadas por la Iglesia catolica, que predicaba la guerra santa, y apoyadas por monarcas y nobles que buscaban tierras y prestigio.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando edad media.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -503,37 +458,127 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando edad media.",
+      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v11",
+      "statement": "Que mecanismo financiaba a la Iglesia medieval de forma principal",
+      "context": "Estudiantes de La Union auditan con fuentes documentales como se financiaba una institucion medieval.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El monopolio de la acunacion de moneda",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "La acunacion era competencia de los reyes, no de la Iglesia, y el monopolio monetario no explica los ingresos de la institucion eclesiastica."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El diezmo, una decima parte de la cosecha o la renta",
+          "is_correct": true,
+          "feedback": "La Iglesia cobraba el diezmo, es decir una parte de las cosechas y las rentas, y con ese recurso sostenia sus propiedades y sus obras."
+        },
+        {
+          "letter": "C",
+          "text": "El impuesto que pagaban las ciudades por entrar en su muralla",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Ese impuesto era un ingreso municipal, no de la Iglesia, cuya economia dependia sobre todo de los ingresos rurales del diezmo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El tributo que los emperadores cobraban al papas",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "La relacion era al reves, la Iglesia recibia tributos en lugar de pagarlos, y el emperador no reconocia su autoridad temporal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Iglesia medieval se financiaba sobre todo con el diezmo, una parte de las cosechas y rentas de los fieles que sostenia sus propiedades y obras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v12",
+      "statement": "Que documento fijaba por escrito las obligaciones del vasallo con su senor",
+      "context": "En el archivo historico de Metapan un grupo lee un documento que fija por escrito las obligaciones de un vasallo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bula del papa, dirigida a toda la cristiandad",
+          "is_correct": false,
+          "feedback": "La bula era un documento pontificio sobre normas de fe, y no un acuerdo particular entre un senor y su vasallo."
+        },
+        {
+          "letter": "B",
+          "text": "El capitular de una congregacion religiosa",
+          "is_correct": false,
+          "feedback": "El capitular reunia a los frailes de una orden y organizaba su vida interna, sin relacion con los acuerdos entre senores y vasallos."
+        },
+        {
+          "letter": "C",
+          "text": "El fuero o carta senorial",
+          "is_correct": true,
+          "feedback": "El fuero o carta senorial recogia por escrito los derechos del senor y los deberes del vasallo, y se entregaba como garantia de ambos."
+        },
+        {
+          "letter": "D",
+          "text": "La sentencia de un tribunal de comercio sobre un naufragio",
+          "is_correct": false,
+          "feedback": "Las sentencias de ese tipo resolvian conflictos maritimos o comerciales, ajenas a la relacion juridica entre un senor y su vasallo."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "El fuero o carta senorial era el documento que recogia por escrito los derechos del senor y las obligaciones del vasallo en la relacion feudal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v13",
+      "statement": "En que se diferenciaba la autoridad del Papa frente a la de un emperador",
+      "context": "Un foro escolar en Usulutan compara las autoridades de la Iglesia y del Imperio durante la Edad Media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El Papa gobernaba un territorio tan extenso como el del emperador",
+          "is_correct": false,
+          "feedback": "El Papa no era un soberano territorial, su poder era de indole religiosa, mientras que el emperador ejercía el mando politico y militar."
+        },
+        {
+          "letter": "B",
+          "text": "El Papa era elegido por los nobles y dependia del emperador",
+          "is_correct": false,
+          "feedback": "El Papa era elegido por el clero, y en la practica su autoridad religiosa estaba por encima de la de los monarcas."
+        },
+        {
+          "letter": "C",
+          "text": "El Papa dirigia exclusivamente al ejercito del Imperio",
+          "is_correct": false,
+          "feedback": "El Papa carecia de mando militar propio, y las expediciones se organizaron con fuerzas aportadas por los monarcas europeos."
+        },
+        {
+          "letter": "D",
+          "text": "El Papa ejercia autoridad religiosa sobre los monarcas de toda Europa",
+          "is_correct": true,
+          "feedback": "El Papa era la maxima autoridad espiritual de la Iglesia catolica en Europa y arbitro entre monarcas, sin dirigir un territorio propio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La autoridad del Papa era religiosa y se extendia por la Europa cristiana, mientras que el emperador exercia el poder politico y militar sobre un territorio.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,87 +593,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando edad media.",
+      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v14",
+      "statement": "Que grupo social eran los villanos en la sociedad feudal europea",
+      "context": "En San Miguel los estudiantes distinguen los grupos sociales del mundo rural medieval.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "text": "Campesinos libres que poseian tierras y pagaban tributos",
+          "is_correct": true,
+          "feedback": "Los villanos eran campesinos libres con sus propias parcelas, que tributaban al senor sin estar atados a la tierra como los siervos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Siervos atados a la tierra y obligados a trabajar para el senor",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Los siervos, a diferencia de los villanos, estaban atados a la tierra del senor y no podian moverse libremente."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Artesanos urbanos que trabajaban en los talleres de las ciudades",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Los artesanos y mercaderes vivian en las ciudades y formaban parte de la burguesia, no de la poblacion rural feudal."
+        },
+        {
+          "letter": "D",
+          "text": "Clerigos con jerarquia dentro de la Iglesia",
+          "is_correct": false,
+          "feedback": "El clero formaba un grupo con privilegios propios dentro de la sociedad medieval, pero no cultivaba ni pagaba el diezmo al senor."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "Los villanos eran campesinos libres que poseian sus propias tierras y tributaban al senor, a diferencia de los siervos, que estaban atados a esas tierras.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando edad media.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
-          "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
-        },
-        {
-          "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
-        },
-        {
-          "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando edad media.",
+      "statement": "Que factores debilitaron el feudalismo en la Baja Edad Media",
+      "context": "Un equipo del Colegio Nacional de Santa Ana debate por que se vino abajo el feudalismo en la Baja Edad Media.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Un fuerte aumento de la poblacion rural libre",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Un aumento de los campesinos libres no explica la crisis feudal, porque su relacion con el campo se consolidaba con sus propias tierras."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "text": "El auge del comercio urbano y la crisis de las capas nobiliarias",
+          "is_correct": true,
+          "feedback": "El comercio y el crecimiento urbano generaron una burguesia rica, mientras el poder nobiliario, que dependia del campo, entra en crisis."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "El regreso masivo de las ciudades a la agricultura",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Lo contrario ocurrio, las ciudades se orientaron al comercio, y el campo perdio peso relativo en la economia."
+        },
+        {
+          "letter": "D",
+          "text": "La supresion completa del comercio por la nobleza",
+          "is_correct": false,
+          "feedback": "El comercio crecio durante la Baja Edad Media, y fue una causa del declive y no de la destruccion de la economia feudal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "El feudalismo se debilito por el auge del comercio urbano y por la crisis economica de las capas nobiliarias, que dependian del campo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando edad media.",
+      "statement": "Que temas corresponden a la literatura cortesana de la Edad Media",
+      "context": "El departamento de espanol lee el inicio de una obra medieval en el aula de Usulutan.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "Los registros notariales de compraventa de tierras",
+          "is_correct": false,
+          "feedback": "Los registros notariales documentaban transacciones economicas y no formaban parte del genero poetico cortesano."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "Los tratados de doctrina impresos en las primeras imprentas",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "La imprenta es posterior a la mayor parte de la literatura cortesana, y sus textos tenian un caracter doctrinal y no narrativo."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "text": "El amor cortes, la dama y las hazanas del caballero",
+          "is_correct": true,
+          "feedback": "La literatura cortesana centro las historias de amor entre el caballero y la dama, con una fuerte idealizacion de la caballeria."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Las actas de los concejos de las ciudades",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Las actas concejiles eran documentos administrativos para el gobierno urbano, ajenas al genero poetico de la corte."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "C",
+      "explanation": "La literatura cortesana medieval se centro en el amor cortes, la figura de la dama y las hazanas del caballero, con una fuerte idealizacion de la caballeria.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando edad media.",
+      "statement": "Como se organizaban las primeras universidades de la Europa medieval",
+      "context": "Un grupo visitante del Colegio Nacional de Soyapango observa las salas de una universidad antigua.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Como academias privadas sin entrega de grados academicos",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "Las universidades medievales si otorgaban grados y tenian una organizacion formal, por lo que no eran academias privadas sin reconocimiento."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Como mercados regionales dedicados solo al comercio",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Los mercados eran espacios economicos, no centros de enseñanza, y no entregaban titulos ni formaban a docentes."
+        },
+        {
+          "letter": "C",
+          "text": "Como comunidades rurales al servicio de los monasterios",
+          "is_correct": false,
+          "feedback": "Los monasterios ofrecian educacion y copia de textos, pero las universidades eran asociaciones de maestros y estudiantes con personalidad propia."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "text": "Como asociaciones de maestros y estudiantes que otorgaban grados",
+          "is_correct": true,
+          "feedback": "Nacieron como grupos de maestrantes con permisos concedidos por el Papa o por el Emperador, y evolucionaron hasta conceder titulos academicos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Las primeras universidades medievales se formaron como asociaciones de maestros y estudiantes que se reconocieron entre si y otorgaron grados academicos.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando edad media.",
+      "statement": "Que impacto tuvo la imprenta en la Europa de la Edad Media tardia",
+      "context": "El profesor de La Libertad explica a sus estudiantes de que modo la imprenta transformo el saber en la Edad Media tardia.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "text": "La mayor difusion de las ideas humanistas y del conocimiento",
+          "is_correct": true,
+          "feedback": "La imprenta permitio reproducir libros a menor costo, lo que difundo el humanismo y dio nuevo acceso al conocimiento escrito."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El fin de la cultura escrita y el retorno a la transmision oral",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "La imprenta multiplico los libros y difundo la escritura mas alla de los monasterios, muy al contrario de cerrar la cultura escrita."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La concentracion del comercio en manos de un solo puerto",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La imprenta no reorganizo las rutas comerciales, su efecto fue sobre la difusion del conocimiento y de las ideas."
+        },
+        {
+          "letter": "D",
+          "text": "La extincion de las universidades medievales",
+          "is_correct": false,
+          "feedback": "Las universidades medievales continuaron su labor y el saber escrito ocupó nuevos espacios que los libros ocuparon."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "A",
+      "explanation": "La imprenta reducio el costo de los libros y multiplico su tirada, lo que difundo las ideas humanistas y amplia el acceso al conocimiento escrito.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando edad media.",
+      "statement": "Que poder reunia el obispo medieval dentro de la sociedad de su territorio",
+      "context": "Estudiantes analizan en clase como se combinaban los poderes en una misma figura eclesiastica.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "text": "El mando del ejercito que conquistaba territorios al Este",
+          "is_correct": false,
+          "feedback": "El mando militar de las expediciones correspondia a los reyes, y el obispo dirigia la predicacion religiosa del movimiento."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "text": "El cobro del diezmo y la proteccion de sus feligreses",
+          "is_correct": true,
+          "feedback": "El obispo cobraba el diezmo y ofrecia proteccion a sus feligreses, por lo que reunia autoridad religiosa y poder economico."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La facultad de acunar moneda con sello propio",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "La acunacion era un derecho de los monarcas, y el obispo no tenia facultad de emitir moneda aunque tuviera ingresos del diezmo."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La potestad de modificar las leyes del Imperio",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Modificar leyes generales era facultad de los soberanos y de susvirreyes, no del obispo, que actuaba dentro de limites eclesiasticos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "El obispo medieval reunia autoridad religiosa y poder economico, porque cobraba el diezmo y ofrecia proteccion a sus feligreses.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando edad media.",
+      "statement": "Cual de estas situaciones se parece a una relacion feudal",
+      "context": "En un debate de clase del Colegio Nacional de Acajutla se pide un ejemplo de relacion feudal.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Un empleado que cobra un sueldo fijo cada mes",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "El sueldo fijo es una relacion laboral moderna, sin la proteccion personal ni la entrega de tierras que definian el feudo."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Un acreedor que exige el pago mensual del interes de una deuda",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "El cobro de un interes es una relacion economica entre prestamista y deudor, no un pacto de proteccion y servicio como el feudal."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Un vasallo que da servicio militar a cambio de la proteccion de su senor",
+          "is_correct": true,
+          "feedback": "El vasallo entregaba servicio y recibia proteccion del senor, exactamente el intercambio personal que definia el pacto feudal."
+        },
+        {
+          "letter": "D",
+          "text": "Un arrendatario que paga una renta anual al dueno de la tierra",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "El arrendatario paga renta por el uso de un recurso, pero no ofrece servicio personal a cambio de proteccion, que es lo esencial del feudo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "El pacto feudal se basaba en un intercambio de servicio por proteccion entre vasallo y senor, y no en el pago de una renta o un sueldo.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W21-edad-media-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

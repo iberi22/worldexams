@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
+      "statement": "¿Qué describe mejor el movimiento rectilíneo uniforme?",
+      "context": "Karla anota la posición de un carrito en una mesa de experiments en la clase de física de Santa Tecla.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
+          "letter": "A",
+          "text": "Que recorre una línea recta con velocidad constante",
           "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
+          "feedback": "Correcto. En un movimiento rectilíneo uniforme la trayectoria es una recta y la rapidez no cambia. La aceleración es cero en todo el recorrido, y por eso la distancia por tiempo se mantiene igual."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "Que recorre una recta acelerando de forma constante",
           "is_correct": false,
-          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
+          "feedback": "Accelerar de forma constante describe un movimiento rectilíneo uniformemente acelerado, no uniforme. En ese caso la rapidez aumenta a ritmo constante, y la distancia por tiempo no se mantiene."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "Que describe una circunferencia con rapidez constante",
           "is_correct": false,
-          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
+          "feedback": "Una trayectoria circular es curvilinea, y no rectilinea. Aunque la rapidez sea constante, la direccion del vector velocidad cambia en cada instante, y eso ya es una aceleracion."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Que cae verticalmente bajo la accion de la gravedad",
           "is_correct": false,
-          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
+          "feedback": "La caida libre es un caso de movimiento uniformemente acelerado, con aceleracion constante cercana a 10 metros por segundo cuadrado. No es un movimiento uniforme, porque la rapidez va en aumento."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "A",
+      "explanation": "En el movimiento rectilíneo uniforme la aceleración es cero: la rapidez y el sentido del movimiento permanecen constantes. Por eso el espacio recorrido es directamente proporcional al tiempo transcurrido.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 6 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
+      "statement": "Si un corredor recorre 100 metros en 10 segundos, ¿cuál es su rapidez media?",
+      "context": "Mateo cronometra a un corredor en la pista del estadio de San Miguel.",
       "options": [
         {
           "letter": "B",
-          "text": "30 N",
+          "text": "10 metros por segundo",
           "is_correct": true,
-          "feedback": "Correcto. $F = ma = 6 \\times 5 = 30$ N."
+          "feedback": "Correcto. La rapidez media es la distancia dividida entre el tiempo: 100 metros entre 10 segundos dan 10 metros por segundo. Es el promedio de todo el recorrido, y no su valor maximo."
         },
         {
           "letter": "A",
-          "text": "24 N",
+          "text": "1000 metros por segundo",
           "is_correct": false,
-          "feedback": "24 N corresponde a $6 \\times 4$ y la aceleración del enunciado es de 5 m/s²."
+          "feedback": "Esa cifra sale de multiplicar en lugar de dividir. Multiplicar distancia por tiempo no tiene significado fisico, y por eso no puede ser la rapidez de nadie."
         },
         {
           "letter": "C",
-          "text": "35 N",
+          "text": "0,10 metros por segundo",
           "is_correct": false,
-          "feedback": "35 N sería $6 \\times 6$, pero el 6 es la masa y no un valor de la aceleración."
+          "feedback": "Dividir al reves, tomando el tiempo sobre la distancia, da 0,1. La rapidez se obtiene al revés: primero la distancia y despues el tiempo en el denominador."
         },
         {
           "letter": "D",
-          "text": "6 N",
+          "text": "10 segundos por metro",
           "is_correct": false,
-          "feedback": "6 N es la masa: la fuerza se obtiene al multiplicarla por los 5 m/s²."
+          "feedback": "Esa unidad mide tiempo por distancia, es decir, ritmo, y no rapidez. La rapidez se expresa en metros por segundo, que es distancia dividida entre tiempo."
         }
       ],
       "correct_answer": "B",
-      "explanation": "F = ma = 6×5 = 30 N.",
+      "explanation": "La rapidez media se calcula dividiendo la distancia recorrida entre el tiempo empleado. Aqui, 100 metros en 10 segundos, equivalen a 10 metros por segundo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Salvador estudiando cinematica.",
+      "statement": "Si se deja caer una pelota desde el reposo, ¿cómo cambia su rapidez durante la caída?",
+      "context": "Lucía suelta una pelota desde el borde de una mesa en la clase de física de Soyapango.",
       "options": [
         {
-          "letter": "A",
-          "text": "La piel",
+          "letter": "C",
+          "text": "Aumenta de manera uniforme, unos 10 metros por segundo cada segundo",
           "is_correct": true,
-          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
+          "feedback": "Correcto. La gravedad imprime una aceleracion constante cercana a 10 metros por segundo cuadrado. Por eso la rapidez crece a ritmo constante, y no de forma proporcional al tiempo ya transcurrido."
+        },
+        {
+          "letter": "A",
+          "text": "Se mantiene constante, porque la pelota cae a la misma altura",
+          "is_correct": false,
+          "feedback": "Caer desde una misma altura no implica caer a rapideces iguales. La altura fija el punto de llegada, mientras la rapidez va en aumento por la aceleracion de la gravedad."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "Disminuye, porque el aire frena cada vez más a la pelota",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
-        },
-        {
-          "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
+          "feedback": "El aire ofrece una resistencia pequeña, pero no frena hasta el punto de reducir la rapidez. La pelota acelera hacia abajo porque la fuerza de gravedad supera a esa resistencia."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Aumenta cada vez más rápido, porque la aceleración se duplica con el tiempo",
           "is_correct": false,
-          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
+          "feedback": "La aceleracion gravitatoria es constante y no se duplica. Lo que crece es la rapidez, de forma lineal con el tiempo, mientras la distancia recorrida aumenta de forma cuadrada."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "C",
+      "explanation": "La caida libre es un movimiento uniformemente acelerado. La gravedad aporta una aceleracion constante, de modo que cada segundo la rapidez aumenta aproximadamente en 10 metros por segundo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando cinematica.",
+      "statement": "Un objeto recorre 20 metros en 4 segundos desde el reposo con aceleración constante. ¿Qué aceleración tiene?",
+      "context": "Andrés coloca dos vehiculos de juguete en una rampa de la clase de San Salvador.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
+          "text": "2,5 metros por segundo cuadrado",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
+          "feedback": "Correcto. Con salida desde el reposo se cumple d = a t al cuadrado, y al despejar la aceleracion queda 20 entre 16, es decir 2,5 metros por segundo cuadrado."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "text": "5 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
+          "feedback": "Cinco sale de dividir 20 entre 4, que es la relacion distancia por tiempo. Ese calculo da una rapidez media, y no una aceleracion, que exige considerar el cuadrado del tiempo."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "80 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
+          "feedback": "Ese valor sale de multiplicar 20 por 4, en lugar de dividir. La aceleracion se obtiene de una division, y el producto de distancia por tiempo no significa nada en fisica."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "16 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
+          "feedback": "Dieciseis es el cuadrado del tiempo, que aparece en la formula. Como ese valor va en el denominador, al despejar la aceleracion la distancia se divide entre el, y no se multiplica."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "explanation": "Para un objeto que parte del reposo, la distancia recorrida cumple d igual a a por t al cuadrado. Al despejar la aceleracion, 20 metros entre 16 segundos al cuadrado, se obtiene 2,5 metros por segundo cuadrado.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Mejicanos estudiando cinematica.",
+      "statement": "Si el autobús va y viene por la misma calle, ¿qué diferencia hay entre su velocidad y su rapidez?",
+      "context": "Sofía ve desde la ventana un autobús que pasa por la avenida principal de Ahuachapán.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
+          "letter": "B",
+          "text": "Que la rapidez es un escalar y la velocidad es un vector con dirección",
           "is_correct": true,
-          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
+          "feedback": "Correcto. La rapidez indica solo cuánto se mueve un cuerpo por segundo, mientras la velocidad indica también hacia dónde. En ir y venir por la misma calle, la rapidez puede ser alta y la velocidad cambiar de signo."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Que son la misma magnitud y siempre dan valores iguales",
           "is_correct": false,
-          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
+          "feedback": "No son la misma magnitud. Cuando un objeto va en una dirección y luego vuelve, su rapidez es la misma en los dos tramos, pero su velocidad cambia de signo al hacerlo."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Que la velocidad no existe para los objetos que cambian de dirección",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
+          "feedback": "La velocidad existe siempre, y queda definida por sus dos componentes. Lo que cambia es su valor, y también su dirección, cuando el objeto gira o se detiene."
+        },
+        {
+          "letter": "D",
+          "text": "Que la rapidez solo se puede medir en los movimientos rectilíneos",
+          "is_correct": false,
+          "feedback": "La rapidez se puede calcular en cualquier trayectoria, porque solo depende de la distancia y del tiempo. Lo que necesita una direccion para definirse por completo es la velocidad, y no la rapidez."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "B",
+      "explanation": "La rapidez es una magnitud escalar que mide cuanto recorre un cuerpo por unidad de tiempo. La velocidad es vectorial: incluye además la dirección, de modo que un trayecto de ida y vuelta conserva la rapidez pero invierte la velocidad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Mejicanos estudiando cinematica.",
+      "statement": "Si una pelota es golpeada hacia arriba y vuelve a la mano del jugador, ¿cuántas veces su velocidad cambia de signo?",
+      "context": "Carlos consulta el manual de la experimentacion de la clase de física de San Francisco Gotera.",
       "options": [
         {
           "letter": "C",
-          "text": "Fotosíntesis",
+          "text": "Una vez, en el punto más alto de la trayectoria",
           "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
+          "feedback": "Correcto. Al subir, la velocidad apunta hacia arriba; en el punto más alto vale cero; al bajar, apunta hacia abajo. Ese unico instante es donde la velocidad pasa de positiva a negativa."
         },
         {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Ninguna, porque la rapidez se mantiene durante toda la vuelta",
           "is_correct": false,
-          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
+          "feedback": "La rapidez si cambia: es maxima al salir y nula en el punto alto. Ademas, aunque la rapidez se conservase, la dirección seguiria invirtiendo el signo de la velocidad."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "Dos veces, una al subir y otra al bajar",
           "is_correct": false,
-          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
+          "feedback": "El cambio de signo ocurre una sola vez. Al inicio y al final del recorrido la velocidad tiene el mismo signo, y el punto unico de inversion esta en el maxima altura."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Tres veces, contando el punto deCaída en el suelo",
           "is_correct": false,
-          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
+          "feedback": "Caer de vuelta al suelo completa el trayecto, pero no introduce un nuevo cambio de signo. El unico punto en que la vertical se invierte es el punto mas alto de la parabola."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "explanation": "En el tiro vertical, la velocidad vertical cambia de signo en un solo instante, cuando alcanza su maximo valor absoluto, que es cero. Ese punto es el vertice de la parabola descrita por la trayectoria.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 2 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
+      "statement": "Si el tren recorre 110 kilómetros en hora y media, ¿cuál es su rapidez media?",
+      "context": "Wendy observa el tablero de un tren que va desde San Salvador hasta Santa Ana.",
       "options": [
         {
-          "letter": "B",
-          "text": "10 N",
+          "letter": "A",
+          "text": "Algo menos de 75 kilómetros por hora",
           "is_correct": true,
-          "feedback": "Correcto. $F = ma = 2 \\times 5 = 10$ N."
+          "feedback": "Correcto. Hora y media son 1,5 horas, y al dividir 110 entre 1,5 se obtienen unos 73,3 kilómetros por hora. Esa es la rapidez media durante todo el trayecto, paradas incluidas."
         },
         {
-          "letter": "A",
-          "text": "8 N",
+          "letter": "B",
+          "text": "165 kilómetros por hora",
           "is_correct": false,
-          "feedback": "8 N sale de $2 \\times 4$, pero la aceleración es de 5 m/s² y no de 4."
+          "feedback": "Esa cifra sale de multiplicar 110 por 1,5. La rapidez se obtiene dividiendo la distancia entre el tiempo, y un producto entre esas dos unidades no significa nada."
         },
         {
           "letter": "C",
-          "text": "15 N",
+          "text": "Exactamente 75 kilómetros por hora",
           "is_correct": false,
-          "feedback": "15 N sería $2 \\times 7.5$ o $3 \\times 5$, y los datos del enunciado son 2 kg y 5 m/s²."
+          "feedback": "Setenta y cinco seria el resultado de dividir entre 110 por 1,5 mal colocadas. Como el tiempo es 1,5 horas, el cociente queda ligeramente por debajo de 75."
         },
         {
           "letter": "D",
-          "text": "2 N",
+          "text": "1,5 kilómetros por hora",
           "is_correct": false,
-          "feedback": "2 N es solo la masa, y falta multiplicarla por la aceleración."
+          "feedback": "Ese valor confunde el tiempo total con la rapidez. Un viaje de hora y media con 110 kilómetros recorridos no puede dar una rapidez tan baja, y por eso el calculo esta mal planteado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "F = ma = 2×5 = 10 N.",
+      "correct_answer": "A",
+      "explanation": "Rapidez media es distancia entre tiempo. Con 110 kilómetros en 1,5 horas, el resultado es 73,3 kilómetros por hora, que es el promedio del viaje completo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando cinematica.",
+      "statement": "En un grafico de posición contra tiempo, ¿qué pendiente corresponde a la rapidez del movimiento?",
+      "context": "Ivan represento en una hoja el grafico de posicion y tiempo de una persona que camina por la calle en Metapán.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
+          "letter": "C",
+          "text": "La pendiente de la recta, porque relaciona el cambio de posición con el tiempo",
           "is_correct": true,
-          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
+          "feedback": "Correcto. En ese grafico, la pendiente de la recta es la relacion entre distancia recorrida y tiempo empleado. Por eso una linea muy inclinada representa un movimiento mas rapido que una suave."
         },
         {
           "letter": "A",
-          "text": "El hígado",
+          "text": "La altura máxima de la recta, porque marca la distancia total",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
+          "feedback": "La altura indica la posicion final alcanzada, y no la rapidez. Para saber lo rapido que se movio hay que mirar la inclinacion de la recta, y no su punto mas alto."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "La longitud del eje horizontal, porque es el tiempo medido",
           "is_correct": false,
-          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
+          "feedback": "La longitud del eje es un dato del dibujo y no una caracteristica del movimiento. La rapidez depende de la relacion entre las dos variables, y esa relacion es precisamente la pendiente."
         },
         {
-          "letter": "C",
-          "text": "Los pulmones",
+          "letter": "D",
+          "text": "El angulo que forma la recta con el eje de tiempo",
           "is_correct": false,
-          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
+          "feedback": "El angulo depende de la escala elegida en cada eje, de modo que varia al cambiar las unidades. La pendiente, en cambio, conserva su valor porque relaciona las dos magnitudes medidas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "En un grafico de posicion contra tiempo, la pendiente de la recta es la rapidez. Si la recta es horizontal la rapidez es cero, y si es muy inclinada el movimiento es rapido, porque mucha distancia se recorre en poco tiempo.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando cinematica.",
+      "statement": "Un móvil pasa de 5 a 15 metros por segundo en 4 segundos. ¿Cuál es su aceleración?",
+      "context": "Fernando mide la rapidez de uniproducto en una cinta transportadora de la clase de física de Chaltenango.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
+          "text": "2,5 metros por segundo cuadrado",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
+          "feedback": "Correcto. La aceleracion es el cambio de velocidad dividido entre el tiempo: 15 menos 5 da 10 metros por segundo, y 10 entre 4 deja 2,5 metros por segundo cuadrado."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "text": "10 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
+          "feedback": "Diez es el cambio total de velocidad, en metros por segundo, y no la aceleracion. Para obtenerla hay que dividir ademas entre el tiempo empleado en ese cambio."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "3,75 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
+          "feedback": "Ese valor sale de dividir los 15 metros por segundo entre 4 segundos, tomando la velocidad final. La aceleracion exige tomar la diferencia entre velocidad final y velocidad inicial."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "20 metros por segundo cuadrado",
           "is_correct": false,
-          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
+          "feedback": "Veinte seria el resultado de sumar las dos velocidades antes de dividir entre el tiempo. La aceleracion se calcula con la diferencia y no con la suma de las velocidades."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
+      "explanation": "La aceleracion media se obtiene restando la velocidad inicial a la velocidad final y dividiendo entre el tiempo. En este caso, 10 metros por segundo entre 4 segundos, da 2,5 metros por segundo cuadrado.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando cinematica.",
+      "statement": "Si un péndulo oscila, ¿qué se puede afirmar sobre su trayectoria?",
+      "context": "Elena observa un péndulo en el laboratorio de la clase de San Vicente.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
+          "letter": "B",
+          "text": "Que es curvilínea, porque el péndulo describe un arco",
           "is_correct": true,
-          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
+          "feedback": "Correcto. La cuerda gira alrededor del punto de suspension y la esfera recorre un arco de circunferencia. Esa forma describe una trayectoria curvilinea, aunque siga siendo periodica."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Que es recta, porque el péndulo siempre cae hacia abajo",
           "is_correct": false,
-          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
+          "feedback": "El péndulo vuelve al punto de partida y no cae en linea recta. Su trajetória es un arco, y por eso se clasifica como movimiento curvilíneo y no rectilíneo."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Que es circular, porque la cuerda da vueltas completas cada vez",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
+          "feedback": "La cuerda oscila entre dos extremos y no describe una circunferencia completa. El recorrido es un arco de un solo sector, y por eso la trayectoria no es circular."
+        },
+        {
+          "letter": "D",
+          "text": "Que no tiene trayectoria, porque el péndulo se queda quieto",
+          "is_correct": false,
+          "feedback": "El péndulo se mueve de un lado a otro de forma repetida y regular. Ese movimiento describe un arco definido, que es la trayectoria que ocupa en cada instante."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La trayectoria es la linea que describe un cuerpo en su movimiento. En el péndulo esa linea es un arco, de modo que el movimiento se clasifica como curvilíneo y periódico a la vez.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -459,40 +459,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
+      "statement": "Si un jugador lanza una pelota con un ángulo de 45 grados, ¿qué forma describe su trayectoria en el aire?",
+      "context": "Rosa María dibuja la trayectoria de una pelota en el campo de juego de San Miguel.",
       "options": [
         {
-          "letter": "A",
-          "text": "Fotosíntesis",
+          "letter": "C",
+          "text": "Una parábola, por la combinación del movimiento horizontal y el vertical",
           "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
+          "feedback": "Correcto. La pelota avanza a velocidad constante en horizontal mientras cae con aceleración en vertical. Esa combinación de dos movimientos independientes produce una curva llamada parabola."
+        },
+        {
+          "letter": "A",
+          "text": "Una recta, porque la velocidad no cambia durante el vuelo",
+          "is_correct": false,
+          "feedback": "La velocidad cambia de dirección en todo momento del vuelo, y por eso la trayectoria no puede ser una recta. El tiro oblicuo es un caso claro de movimiento curvilíneo."
         },
         {
           "letter": "B",
-          "text": "Respiración celular",
+          "text": "Una circunferencia, porque gira alrededor del punto de lanzamiento",
           "is_correct": false,
-          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
+          "feedback": "La pelota no gira alrededor de un centro, sino que avanza y cae a la vez. El resultado de esa combinacion no es un arco, sino una curva abierta, que es la parábola."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Una espiral, porque el viento la desvía de forma continua",
           "is_correct": false,
-          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
+          "feedback": "En el modelo ideal no interviene el viento, y la trayectoria sigue una parabola. La forma de la curva se explica solo por los dos movimientos superpuestos, sin que ningún agente externo la desvíe."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "C",
+      "explanation": "En el tiro oblicuo el movimiento horizontal es uniforme y el vertical es uniformemente acelerado. La superposicion de ambos produce una parabola, con su punto mas alto a mitad de camino si el lanzamiento y la caida son simetricos.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando cinematica.",
+      "statement": "Si un móvil parte del reposo y acelera a 2 metros por segundo cuadrado, ¿cuánto tarda en alcanzar 10 metros por segundo?",
+      "context": "Priscilla y Josué calculan el tiempo que tarda un móvil en alcanzar una rapidez dada en la clase de física de San Juan Bautista.",
       "options": [
         {
-          "letter": "D",
-          "text": "15 N",
-          "is_correct": true,
-          "feedback": "Correcto. $F = ma = 3 \\times 5 = 15$ N."
-        },
-        {
           "letter": "A",
-          "text": "12 N",
-          "is_correct": false,
-          "feedback": "12 N sería $3 \\times 4$, pero la aceleración indicada es de 5 m/s²."
+          "text": "5 segundos, porque el tiempo es la velocidad dividida entre la aceleración",
+          "is_correct": true,
+          "feedback": "Correcto. Con la relacion v igual a a por t, al despejar el tiempo se obtiene 10 entre 2, que da 5 segundos. Es el tiempo necesario para pasar de cero a esa rapidez."
         },
         {
           "letter": "B",
-          "text": "20 N",
+          "text": "20 segundos, porque el tiempo es el producto de ambas magnitudes",
           "is_correct": false,
-          "feedback": "20 N corresponde a $4 \\times 5$, y la masa del objeto es 3 kg y no 4."
+          "feedback": "El producto de velocidad y aceleracion no tiene unidades de tiempo. El tiempo se obtiene con una division, y por eso 20 no puede ser la respuesta a esta pregunta."
         },
         {
           "letter": "C",
-          "text": "3 N",
+          "text": "0,2 segundos, porque el tiempo es la aceleración dividida entre la velocidad",
           "is_correct": false,
-          "feedback": "3 N es la masa, no el producto con la aceleración de 5 m/s²."
+          "feedback": "Al invertir la division se obtiene 0,2, que no corresponde al tiempo esperado. La rapidez dividida entre la aceleracion es justamente el tiempo, y no su reciproco."
+        },
+        {
+          "letter": "D",
+          "text": "12 segundos, porque hay que sumar la velocidad y la aceleración",
+          "is_correct": false,
+          "feedback": "La suma de 10 y 2 da 12, pero sumar magnitudes de unidades distintas no tiene significado. El tiempo se calcula con la division, y no se obtiene sumando la rapidez con la aceleracion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 3×5 = 15 N.",
+      "correct_answer": "A",
+      "explanation": "Cuando un móvil parte del reposo con aceleracion constante, la rapidez cumple v igual a a por t. De esa relacion, el tiempo resulta de dividir la rapidez entre la aceleracion.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,175 +549,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando cinematica.",
+      "statement": "Si se sueltan a la vez una piedra y una hoja, ¿por qué la piedra llega antes al suelo en un día sin viento?",
+      "context": "Guadalupe compara el movimiento de una hoja que cae con el de una piedra en la clase de física de Sonsonate.",
       "options": [
-        {
-          "letter": "A",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
-        },
         {
           "letter": "B",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
-        },
-        {
-          "letter": "C",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
-        },
-        {
-          "letter": "D",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando cinematica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La exposición a la luz",
+          "text": "Porque la resistencia del aire frena más a la hoja, que tiene mucha superficie y poco peso",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
+          "feedback": "Correcto. Ambas cosas caen con la misma aceleracion gravitatoria, pero la hoja experimenta una fuerza de arrastre mucho mayor. Esa fuerza es la que la retrasa respecto de la piedra."
         },
         {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "Porque la piedra pesa más y por eso la gravedad la atrae con más fuerza",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
-        },
-        {
-          "letter": "B",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
+          "feedback": "La gravitacion es la misma para todos los cuerpos, con independencia de su masa. Si el peso hiciera caer mas rapido a lo pesado, no existiria la caida libre con igual aceleracion."
         },
         {
           "letter": "C",
-          "text": "El tipo de planta",
+          "text": "Porque la hoja es más ligera y la gravedad solo actúa sobre lo pesado",
           "is_correct": false,
-          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando cinematica.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
-        },
-        {
-          "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
+          "feedback": "La gravedad actua por igual, y la hoja no esta exenta de ella. La diferencia la marca el aire, que frena mucho mas a la hoja por su gran superficie en relacion con su peso."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Porque la piedra es más densa y por eso ocupa menos espacio",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
+          "feedback": "La densidad explica algo de la diferencia, pero no la explica por si sola. La causa directa es la fuerza de arrastre, que depende de la forma y del area que se opone al movimiento del aire."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Todos los cuerpos caen con la misma aceleracion gravitatoria si no hayrozamiento. En el aire, la diferencia aparece por el arrastre, que es proporcional a la superficie y mucho mas intenso en objetos ligeros y extendidos como una hoja.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
-      "periodo": 25,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa."
-        },
-        {
-          "letter": "B",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso."
-        },
-        {
-          "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
@@ -728,37 +593,37 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 5 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Santa Ana estudiando cinematica.",
+      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v14",
+      "statement": "En un gráfico de posición contra tiempo, ¿qué forma corresponde a un móvil en reposo?",
+      "context": "Christian revisa las gráficas de posición de varios móviles en la clase de física de Chalchuapa.",
       "options": [
         {
-          "letter": "A",
-          "text": "20 N",
+          "letter": "C",
+          "text": "Una recta horizontal, porque la posición no cambia con el tiempo",
           "is_correct": true,
-          "feedback": "Correcto. $F = ma = 5 \\times 4 = 20$ N."
+          "feedback": "Correcto. Si el móvil permanece en el mismo punto, su posición es constante y la recta queda horizontal. Como la pendiente es cero, la rapidez deducida del grafico tambien es cero."
+        },
+        {
+          "letter": "A",
+          "text": "Una recta muy inclinada, porque se mueve muy rápido",
+          "is_correct": false,
+          "feedback": "Una recta inclinada indica una rapidez alta, y no un reposo. Cuanto mayor es la inclinacion, mas distancia recorre el movil en cada intervalo de tiempo, hasta el punto de no moverse."
         },
         {
           "letter": "B",
-          "text": "15 N",
+          "text": "Una curva que sube y baja, porque oscila como un pendulo",
           "is_correct": false,
-          "feedback": "15 N sería $5 \\times 3$, y el enunciado da una aceleración de 4 m/s²."
-        },
-        {
-          "letter": "C",
-          "text": "24 N",
-          "is_correct": false,
-          "feedback": "24 N corresponde a $6 \\times 4$, y la masa del objeto es 5 kg y no 6."
+          "feedback": "Esa forma describe un movimiento periodico, como el de un pendulo. Un movil en reposo no oscila: mantiene la misma posicion, y su grafico es una simple recta horizontal."
         },
         {
           "letter": "D",
-          "text": "5 N",
+          "text": "Una recta que pasa por el origen y se inclina poco",
           "is_correct": false,
-          "feedback": "5 N es la masa: la fuerza exige multiplicarla por los 4 m/s²."
+          "feedback": "Toda recta inclinada representa desplazamiento, por pequeño que sea. Lo unico que da una posicion constante es una pendiente exactamente igual a cero, es decir, una recta horizontal."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 5×4 = 20 N.",
+      "correct_answer": "C",
+      "explanation": "La pendiente de un grafico de posicion contra tiempo es la rapidez. Un movil en reposo no cambia de posicion, asi que su grafico es una recta horizontal, de pendiente nula y rapidez cero.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,42 +638,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Salvador estudiando cinematica.",
+      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v15",
+      "statement": "Si un móvil recorre 60 metros en el primer segundo y 120 en el segundo, ¿qué movimiento describe?",
+      "context": "Sandra y Fernando discuten el concepto de rapidez en la clase de física de Ayutuxte.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
+          "text": "Uniformemente acelerado, porque duplica la distancia en cada segundo igual",
           "is_correct": true,
-          "feedback": "Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total."
+          "feedback": "Correcto. Recorrer el doble de distancia en cada segundo igual es la firma clasica de la aceleracion constante. En un movimiento uniforme, cada segundo se recorreria la misma distancia."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "Uniforme, porque avanza sin cambiar de dirección",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel."
+          "feedback": "La falta de cambios en la direccion no basta para que el movimiento sea uniforme. Aqui la distancia por segundo aumenta, de modo que la rapidez si esta cambiando de manera constante."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "Curvilíneo, porque la trayectoria describe una curva",
           "is_correct": false,
-          "feedback": "El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal."
+          "feedback": "No se menciona ninguna curva en el enunciado. Lo que se observa es un cambio en la rapidez a ritmo constante, que es la caracteristica de un movimiento uniformemente acelerado."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Periodico, porque repite el mismo patrón cada segundo",
           "is_correct": false,
-          "feedback": "Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel."
+          "feedback": "Para que un movimiento sea periodico debe repetirse el ciclo completo, y no solo aumentar la distancia recorrida. El enunciado no habla de repeticiones, sino de una aceleración sostenida."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "explanation": "En un movimiento uniformemente acelerado, la distancia recorrida en cada segundo sucesivo aumenta en cantidades iguales. En este caso, de 60 a 120 metros, la distancia se duplica en cada intervalo, lo que revela una aceleración constante.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v16",
+      "statement": "¿Qué información necesita un móvil para quedar completamente descrito en un instante dado?",
+      "context": "Karla prepara un informe de la practica de fisica sobre cinematica en la clase de la zona sur del país.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Su posición y su velocidad, con la dirección incluida",
+          "is_correct": true,
+          "feedback": "Correcto. La posición indica donde esta y la velocidad indica hacia donde se mueve y a que rapidez. Con esos dos datos, las ecuaciones del movimiento permiten saber su estado un instante después."
+        },
+        {
+          "letter": "A",
+          "text": "Solo su posición, porque el lugar ya lo define todo",
+          "is_correct": false,
+          "feedback": "La posicion no basta, porque un movil puede estar en el mismo punto moviendose en direcciones distintas. Para describir el movimiento hace falta tambien el vector velocidad, con su sentido y magnitud."
+        },
+        {
+          "letter": "C",
+          "text": "Solo su rapidez, porque la posición se deduce de la distancia",
+          "is_correct": false,
+          "feedback": "La rapidez no indica donde esta el cuerpo, y si, ademas, no dice hacia donde se dirige. La rapidez sola no alcanza para predecir el movimiento, y por eso se necesita tambien la posicion."
+        },
+        {
+          "letter": "D",
+          "text": "Su masa y su peso, porque determinan cómo se mueve",
+          "is_correct": false,
+          "feedback": "La masa y el peso influyen en las fuerzas, pero no definen el estado de movimiento de un movil. Para describir como se mueve en un instante hacen falta la posicion y la velocidad vectorial."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El estado de un movil queda descrito por su posicion y su velocidad, que es un vector con magnitud y direccion. Con esos dos datos se pueden calcular las posiciones y velocidades en instantes posteriores.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v17",
+      "statement": "Si un vehículo mantiene su rapidez pero cambia de dirección, ¿qué afirmación es correcta?",
+      "context": "Wendy observa en la clase de física de Metapán cómo un vehículo frena antes de una curva cerrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tiene aceleración, porque la dirección de la velocidad sí cambia",
+          "is_correct": true,
+          "feedback": "Correcto. La aceleracion no es solo un cambio de rapidez: tambien aparece cuando la rapidez se mantiene y lo que cambia es la dirección. Por eso girar en una curva es acelerar."
+        },
+        {
+          "letter": "B",
+          "text": "Que no tiene aceleración, porque la rapidez se conserva",
+          "is_correct": false,
+          "feedback": "Mantener la rapidez no elimina la aceleracion. Al cambiar la direccion del vector velocidad, este sigue cambiando aunque su magnitud no cambie, y por eso hay aceleracion."
+        },
+        {
+          "letter": "C",
+          "text": "Que su velocidad es cero, porque está girando",
+          "is_correct": false,
+          "feedback": "Girar no pone el velocidad a cero. El vehiculo sigue avanzando, de modo que su rapidez es la misma, y lo unico que se modifica es hacia donde apunta el vector velocidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que frena, porque toda curva implica una disminución de la rapidez",
+          "is_correct": false,
+          "feedback": "Una curva puede recorrerse a la misma rapidez que un tramo recto. El frenado es un caso aparte, y no es necesario para que la direccion del movimiento cambie."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La aceleracion es el cambio de la velocidad, y esta es un vector. Si cambia su dirección, aunque no cambie su magnitud, sigue habiendo aceleración, que en una curva se llama aceleración centripeta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v18",
+      "statement": "Si dos bolas de distinto tamaño caen en un tubo con mucho vacio, ¿qué se espera que ocurra?",
+      "context": "Iván prepara una demostración con dos bolas en el laboratorio de la clase de Ayutuxte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ambas caigan con la misma aceleración, cerca de 10 metros por segundo cuadrado",
+          "is_correct": true,
+          "feedback": "Correcto. Al extraer el aire no queda casi ninguna resistencia que las frene. En el vacio todos los cuerpos caen con igual aceleracion, sin importar su masa, forma ni tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "Que la bola grande caiga más rápido por tener más masa",
+          "is_correct": false,
+          "feedback": "En el vacio la masa no altera la caida. Si el aire no frena a ninguna de las dos, ambas descienden con igual aceleracion, y esa fue justamente la conclusion de Galileo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la bola pequena tarde mas por su menor peso",
+          "is_correct": false,
+          "feedback": "El peso no determina la rapidez de caida en ausencia de rozamiento. La conclusion de Galileo es que todos los cuerpos caen igual en el vacio, y la pequena no es la excepcion."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos bolas caigan en tiempos distintos por su forma",
+          "is_correct": false,
+          "feedback": "La forma solo importa cuando hay un medio que frena. En el vacio no hay aire que las retrase, asi que su forma deja de influir y ambas caen con igual aceleracion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El experimento de Galileo en la torre de Pisa y su version en el vacio demostraron que la caida de los cuerpos no depende de su peso cuando se elimina la resistencia del aire. Todos los cuerpos caen con igual aceleracion gravitatoria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando cinematica.",
+      "statement": "Si el móvil recorre 30 metros en 5 segundos partiendo del reposo con aceleración constante, ¿qué rapidez alcanza al final?",
+      "context": "Rosa María mide cuánto tarda un móvil en recorrer 30 metros arrancando desde el reposo en la clase de física de San Vicente.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
+          "letter": "A",
+          "text": "12 metros por segundo, porque duplica la rapidez media de 6",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas."
+          "feedback": "Correcto. En un movimiento uniformemente acelerado desde el reposo, la rapidez media es la mitad de la final. Si la media es 30 entre 5, es decir 6 metros por segundo, la final vale el doble."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "letter": "B",
+          "text": "6 metros por segundo, que es simplemente la distancia dividida entre el tiempo",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz."
+          "feedback": "Esa division da la rapidez media, y no la final. Como el movil acelera durante todo el recorrido, su rapidez al final es el doble de ese promedio, y por eso la respuesta no basta."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "3 metros por segundo, que sería la mitad de la rapidez media",
           "is_correct": false,
-          "feedback": "La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente."
+          "feedback": "Dividir otra vez el promedio entre dos no describe ningún caso del problema. La relacion correcta entre rapidez media y final es un factor de dos, y no una division sucesiva."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "30 metros por segundo, que es la suma de la distancia y el tiempo",
           "is_correct": false,
-          "feedback": "El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar."
+          "feedback": "Sumar distancia con tiempo mezcla dos magnitudes de unidades distintas, y eso no tiene significado. La rapidez final sale de la relacion entre distancia y tiempo, y no de esa suma."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "correct_answer": "A",
+      "explanation": "En un movimiento uniformemente acelerado desde el reposo, la rapidez media es la mitad de la final. Por eso, si la media es 6 metros por segundo, la rapidez alcanzada al cabo de 5 segundos es unos 12.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Soyapango estudiando cinematica.",
+      "statement": "Si un móvil cae libremente y duplica su rapidez en 2 segundos, ¿cuál es su aceleración?",
+      "context": "Fernando y su equipo de la clase de física de La Libertad analizan los datos de una caída libre registrada con un sensor.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto. La célula es la unidad estructural y funcional de todos los seres vivos."
+          "letter": "A",
+          "text": "10 metros por segundo al cuadrado, que es el doble de la rapidez alcanzada",
+          "is_correct": false,
+          "feedback": "La aceleracion y la rapidez son magnitudes distintas, aunque compartan el 10 como numero. Duplicar la rapidez no significa duplicar la aceleracion, y por eso esa respuesta confunde las dos."
         },
         {
-          "letter": "A",
-          "text": "El átomo",
+          "letter": "B",
+          "text": "2,5 metros por segundo cuadrado, que es la mitad de la aceleración esperada",
           "is_correct": false,
-          "feedback": "El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo."
+          "feedback": "La caida libre no tiene una aceleracion de 2,5, sino cercana a 10 metros por segundo cuadrado. Esa cifra correspondria a un cuerpo en un planeta con una gravedad mucho mas debil que el nuestro."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "20 metros por segundo cuadrado, porque hay que duplicar la aceleración con el tiempo",
           "is_correct": false,
-          "feedback": "La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida."
+          "feedback": "La aceleracion gravitatoria no se duplica con el tiempo: es constante en toda la caida. El tiempo solo determina cuanto aumenta la rapidez, y no modifica la aceleración que la produce."
         },
         {
           "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo."
+          "text": "5 metros por segundo cuadrado, porque la rapidez aumenta unos 10 metros por segundo cada segundo",
+          "is_correct": true,
+          "feedback": "Correcto. La caida libre tiene una aceleracion constante cercana a 10 metros por segundo cuadrado. En 2 segundos la rapidez se habria duplicado desde unos 5 hasta unos 10 metros por segundo, lo que coincide con esa misma aceleracion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "D",
+      "explanation": "La gravedad imprime una aceleración constante de unos 10 metros por segundo cuadrado. Por eso la rapidez en la caida libre aumenta de forma uniforme con el tiempo, sin que esa aceleración cambie en ningún instante.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle",
       "periodo": 25,
       "protocol_version": "5.2",

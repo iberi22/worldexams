@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una constitucion democratica reconoce la dignidad de todas las personas y garantiza derechos civiles, politicos, sociales y culturales, no solo una facultad economica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando un pais exporta mas de lo que importa, obtiene un superavit comercial, porque los ingresos por ventas al exterior superan a los gastos por compras.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando revolucion francesa.",
+      "statement": "Que medida del rey Luis XVI provoco la rebelion de los estados en 1789",
+      "context": "El profesor de San Salvador explica a los estudiantes la situacion economica de Francia antes de 1789.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
+          "text": "Un nuevo impuesto a la nobleza y al clero para llenar el deficit del Estado",
           "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "feedback": "La monarquia estaba en deficit por las guerras, asi que el rey quiso gravar a los dos primeros estados, y eso provoco su oposicion."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La nacionalizacion de todas las tierras de la Iglesia",
           "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "feedback": "La nacionalizacion de bienes eclesiasticos fue una medida posterior, de 1789, y no la causa inmediata de la rebelion previa."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La prohibicion de exportar trigo hacia Espana",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "Ninguna medida sobre el trigo provo la rebelion, y el problema central del Estado era el deficit que arrastraba la monarquia."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El aumento del impuesto a la nobleza sin consultar a la Asamblea",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "El punto en disputa era precisamente ese aumento, porque la nobleza se opuso a pagarlo y por eso la Asamblea Nacional se reunio de inmediato."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "El rey quiso gravar a la nobleza y al clero para cubrir el deficit fiscal, y esa decision provoco la oposicion que desat o la rebelion de 1789.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando revolucion francesa.",
+      "statement": "Que grupos formaban los tres estados de la Francia de 1789",
+      "context": "Un Comparacion en el Colegio Nacional de San Miguel presenta a los tres estados que formaban Francia en 1789.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "letter": "A",
+          "text": "Los militares, los Comerciantes y los sacerdotes",
+          "is_correct": false,
+          "feedback": "La sociedad se dividia por privilegio y estamento, no por la profesion, de modo que esa agrupacion no corresponde a los estados."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "letter": "B",
+          "text": "La nobleza, el clero y el tercer estado",
+          "is_correct": true,
+          "feedback": "El primer estado era la nobleza, el segundo el clero y el tercero el pueblo, que reunia a todos los que no pertenecían a los dos primeros."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Los campesinos, los burgueses y los nobles",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "La distincion basica era entre los que tenian privilegios heredados y los que no, y no entre grupos economicos como los campesinos o los burgueses."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Un cuarto estado, un quinto estado y un sexto estado",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Existian tres estados y no seis, de modo que esa division no corresponde a la organizacion del Antiguo Regimen."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Los tres estados eran la nobleza, el clero y el tercer estado formado por el pueblo, y cada uno tenia privilegios diferentes.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando revolucion francesa.",
+      "statement": "Que documento de 1789 fijo los derechos de los ciudadanos franceses",
+      "context": "El museo de la ciudad de Chalchuapa conserva objetos de 1789 y los estudiantes los examinan en clase.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El Codigo Napoleonico de 1804",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "El Codigo Napoleonico organizo el derecho civil y penal en el siglo XIX, y no es la declaracion de derechos de 1789."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El Edicto de Tolerancia firmado por Luis XV en 1778",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Ese edicto mejoro la situacion de los protestantes, pero no fue el texto que enumero los derechos de los ciudadanos."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La Carta de los Derechos del Hombre y del Ciudadano",
+          "is_correct": true,
+          "feedback": "Ese documento proclama la libertad, la igualdad ante la ley y la propiedad como derechos naturales, y limita el poder de la monarquia."
+        },
+        {
+          "letter": "D",
+          "text": "La Paz de Westfalia firmada en 1648",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "La paz dio fin a la guerra de los Treinta Anos entre monarquias, no fue una declaracion de derechos ciudadanos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La Carta de los Derechos del Hombre y del Ciudadano de 1789 proclama la libertad, la igualdad y la propiedad como derechos naturales.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando revolucion francesa.",
+      "statement": "Un noble es acusado de un delito en la Francia revolucionaria. Que principio se le aplica",
+      "context": "Estudiantes de la escuela de La Libertad ensayan como se aplicaba la igualdad ante la ley.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "text": "La exencion de juicio porque pertenece a un estamento privilegiado",
+          "is_correct": false,
+          "feedback": "En el regimen revolucionario ningun estamento quedaba libre de juicio, y esa exencion era precisamente una muestra del Antiguo Regimen."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "La aplicacion de la ley solo a los ciudadanos de las ciudades",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Los derechos de 1789 alcanzaban a todos los ciudadanos, y no solo a los que vivian en las ciudades o tenian recursos."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La exencion de impuestos para los nobles por costumbre",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La igualdad ante la ley no significaba quedar libre de impuestos, sino que todos respondian ante el mismo procedimiento."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "text": "La igualdad ante la ley, sin excepciones por su rango",
+          "is_correct": true,
+          "feedback": "La Carta de los Derechos establecio que todos los ciudadanos son iguales ante la ley, de modo que el rango del acusado no lo protege."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "La Carta de los Derechos establecio que todos los ciudadanos son iguales ante la ley, por lo que un noble acusado respondia como cualquier otro.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando revolucion francesa.",
+      "statement": "Por que la toma de la Bastilla se considero un simbolo de la Revolucion Francesa",
+      "context": "En un foro del Colegio Nacional de San Vicente se discute el significado de la toma de la Bastilla.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "text": "Porque era una fortaleza que representaba el poder absoluto del Antiguo Regimen",
+          "is_correct": true,
+          "feedback": "La Bastilla era una prision que simbolizaba el dominio del rey, y su caida mostro ante la poblacion que ese poder podia ser derrotado."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque en ella se reunia el parlamento de Paris",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "El parlamento se reunia en otro edificio de la ciudad y la Bastilla era una prision por lo que su fama viene de lo que representaba y no de sus reuniones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque alli se firmo la Carta de los Derechos",
+          "is_correct": false,
+          "feedback": "La Carta se firmo por la Asamblea Nacional en otro lugar, y en la Bastilla lo que ocurrio fue la toma de una fortaleza."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque era el palacio real donde vivia la familia del rey",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Luis XVI vivia en el palacio del Louvre, de modo que la Bastilla no era la residencia real y su papel no viene de ahi."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "La toma de la Bastilla se considero simbolica porque esa fortaleza representaba el poder absoluto del Antiguo Regimen y su caida mostro la fuerza del pueblo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando revolucion francesa.",
+      "statement": "Que cambio politico concreto trajo la Revolucion Francesa en Francia",
+      "context": "Estudiantes de Ahuachapan analizan por que la Revolucion Francesa cambio la historia de Europa.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "letter": "A",
+          "text": "El regreso de la monarquia al gobierno absoluto",
+          "is_correct": false,
+          "feedback": "La tendencia fue la contraria, la monarquia absoluta fue sustituida por un gobierno que derivaba su autoridad de la voluntad popular."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "letter": "B",
+          "text": "La extincion de la monarquia absoluta y un gobierno basado en la soberania popular",
+          "is_correct": true,
+          "feedback": "La Revolucion elimino el poder absoluto del rey y establecio un orden en el que la legitimidad venia del pueblo y no de la sangre real."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "La adopcion definitiva del feudalismo como base del Estado",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El feudalismo estaba en declive desde la Edad Media, y la Revolucion elimino los privilegios del Antiguo Regimen en lugar de restaurar ese sistema."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "La union permanente de Francia con un imperio vecino",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Francia mantuvo su propia situacion interna y su revolucion no dependio de ninguna union con un imperio vecino sino de sus propios conflictos internos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "explanation": "La Revolucion Francesa sustituyo la monarquia absoluta por un gobierno cuya legitimidad residia en el pueblo y no en la sangre real.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando revolucion francesa.",
+      "statement": "Que buscaban los revolutions que aplicaron el Terror en Francia",
+      "context": "El profesor de San Miguel explica el uso del Terror durante la etapa revolutionary.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Aumentar la riqueza de los terratenientes sin cambiar el regimen",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "El Terror afectaba a terratenientes y opposites por igual, y su justificacion era politica y no economica."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Restablecer los privilegios de la nobleza que la Revolucion habia eliminado",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Restaurar privilegios nobiliarios era lo contrario de los principios revolutionarios, y no era el objetivo del Terror."
+        },
+        {
+          "letter": "C",
+          "text": "Defender la Republica frente a quienes conspiraban contra ella",
+          "is_correct": true,
+          "feedback": "El Terror se empleo contra los opposites de la Republica, y sus autores lo justificaban como una medida extrema de defensa."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Sustituir toda ley por un gobierno sin judiciary",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "Existieron tribunales especiales que juzgaron a los opuestos del régimen pero el Terror no elamino la ley la aplico con una severidad extrema."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Los revolutions justificaron el Terror como un medio de defender la Republica frente a quienes conspiraban contra el nuevo regimen.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando revolucion francesa.",
+      "statement": "Que gobierno establecio Napoleon Bonaparte en Francia",
+      "context": "Un grupo del Colegio Nacional de San Salvador compara el gobierno de Napoleon con el de los revolutions anteriores.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
+          "text": "Una democracia directa ejercida por una asamblea de ciudadanos",
+          "is_correct": false,
+          "feedback": "El gobierno napoleonico no fue una democracia directa, sino una monarquia imperial con un gobierno centralizado y un sobriety cran."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Una república federal dividida en estados autonomos",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "La forma napoleonica fue imperial y centralizada, y no una republica federal ni atomizada."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "El regreso al gobierno feudal de los terratenientes",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "El gobierno feudal estaba superado desde la Edad Media, y Napoleon construyo un Estado centralizado y no una sociedad de senores."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "text": "El Imperio, con Napoleon como emperador",
+          "is_correct": true,
+          "feedback": "Napoleon se coro emperador en 1804 y gobierno como monarca absoluto, aunque conservo algunos logros de la epoca revolutionary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "Napoleon Bonaparte establecio el Imperio y se coro emperador en 1804, gobernando de forma centralizada y autoritaria.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -594,175 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando revolucion francesa.",
+      "statement": "Que idea de la Revolucion Francesa se difundo por Europa y America",
+      "context": "En un ejercicio de San Vicente los estudiantes identifican como la idea francesa salio de sus fronteras.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "La idea de los derechos del ciudadano y la igualdad ante la ley",
           "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "feedback": "Los derechos del hombre y la igualdad ante la ley viajaron con las ideas y con losificios reformistas, y movieron reformas en muchos paises."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "El regreso de los privilegios hereditarios del Antiguo Regimen",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "La idea que se difundo fue justamente la contraria de los privilegios hereditarios, la igualdad de derechos ante la ley."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "La creacion de monarquias absolutas en todos los paises",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La Revolution no promovio monarquias absolutas, sino constituciones y derechos, como se vio en las reformas posteriores."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La prohibicion de toda ley escrita en las nuevas nacions",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Los paises que adoptaron esas ideas redactaron constituciones, lo que prueba que la expansion fue hacia el derecho codificado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La idea que se difundo por Europa y America fue la de los derechos del ciudadano y la igualdad de todos ante la ley.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando revolucion francesa.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
-        },
-        {
-          "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando revolucion francesa.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando revolucion francesa.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
@@ -773,42 +638,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando revolucion francesa.",
+      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v15",
+      "statement": "Que limitacion social tuvo la Revolucion Francesa",
+      "context": "Un foro del Colegio Nacional de Izalco compara el alcance social de la Revolucion Francesa.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Los ciudadanos se quedaron privados de cualquier derecho por decreto",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Los ciudadanos obtuvieron derechos reconocidos en la Carta de 1789 y no fueron privados de ellos por un decreto general que anulara sus garantias basicas."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "text": "Las mujeres quedaron fuera de los derechos politicos hasta mas tarde",
+          "is_correct": true,
+          "feedback": "Aunque se proclama la igualdad, las mujeres quedaron excluidas del derecho a votar y de los altos cargos, por lo que la igualdad quedo limitada."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La derogacion completa del derecho a la propiedad",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "La Carta de los Derechos reconocio la propiedad como derecho natural, de modo que no hubo una derogacion completa de ese derecho."
+        },
+        {
+          "letter": "D",
+          "text": "La supresion de la libertad de imprenta",
+          "is_correct": false,
+          "feedback": "La libertad de imprenta se respeto en los primeros tiempos de la Republica, y no fue suprimida por la Revolucion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "La Revolucion proclamo la igualdad pero dejo a las mujeres fuera de los derechos politicos, por lo que el principio quedo limitado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v16",
+      "statement": "Que factor cultural hizo posible la Revolucion Francesa",
+      "context": "Un seminario del Colegio Nacional de San Miguel analiza las causas culturales de la Revolucion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La difusion de la cultura medieval feudal",
+          "is_correct": false,
+          "feedback": "La cultura medieval no fue el factor cultural de la Revolucion, y las ideas que circularon fueron las de la Ilustracion."
+        },
+        {
+          "letter": "B",
+          "text": "La Expansion mayor presencia de la Iglesia en la vida diaria",
+          "is_correct": false,
+          "feedback": "La presencia de la Iglesia fue un rasgo del Antiguo Regimen, y no explica la caida de una monarquia que ella misma sostenia."
+        },
+        {
+          "letter": "C",
+          "text": "La Ilustracion y sus ideas sobre la razon y los derechos naturales",
+          "is_correct": true,
+          "feedback": "La Ilustracion defendia la razon y afirmaba que los derechos son naturales, y esas ideas debilitaron la autoridad del Antiguo Regimen."
+        },
+        {
+          "letter": "D",
+          "text": "El predominio del comercio medieval en las ciudades",
+          "is_correct": false,
+          "feedback": "El comercio medieval es un rasgo de la Edad Media, y la Revolucion se produjo en una sociedad ya comercial en sus ideas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Ilustracion fue el factor cultural clave, porque su defensa de la razon y de los derechos naturales mino la autoridad del Antiguo Regimen.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v17",
+      "statement": "Como se evalua hoy el legado de la Revolucion Francesa",
+      "context": "La clase de Santa Ana debate si la obra de la Revolucion Francesa fue positiva para la sociedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se considera un fracaso total porque nada de lo cambiado fue duradero",
+          "is_correct": false,
+          "feedback": "La Carta de los Derechos y las reformas juridicas perduran, de modo que no puede llamarse a la obra un fracaso total."
+        },
+        {
+          "letter": "B",
+          "text": "Se valora solo como un proceso politico sin consecuencias sociales",
+          "is_correct": false,
+          "feedback": "Sus efectos fueron tambien sociales y culturales, porque modificaron la concebir de los derechos y de la igualdad."
+        },
+        {
+          "letter": "C",
+          "text": "Se valora unicamente porque Napoleon consolido las conquistas",
+          "is_correct": false,
+          "feedback": "Napoleon impuso despues su propio regimen, y el legado revolutionary se evalua por sus aportes a la igualdad y los derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Se valoran sus logros en derechos, pero se critican su violencia y las desigualdades que persistieron",
+          "is_correct": true,
+          "feedback": "El legado es doble, porque se aprueban las conquistas democraticas y a la vez se critican el Terror y la persistencia de desigualdades."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El legado de la Revolución se evalúa con una mirada crítica reconociendo sus logros en derechos y sus defectos de violencia y desigualdad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v18",
+      "statement": "Como se organizo el periodo revolutionary en Francia entre 1789 y 1799",
+      "context": "Un museo de Ahuachapan muestra objetos del periodo revolutionary y los estudiantes distinguen sus etapas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una secuencia que comprende la Asamblea Constituyente, la Republica y el Directorio",
+          "is_correct": true,
+          "feedback": "El periodo comprende etapas distintas, desde la Asamblea que redacto la Constitucion hasta el Directorio anterior a Napoleon."
+        },
+        {
+          "letter": "B",
+          "text": "Una sola etapa continua sin cambios en el regimen de gobierno",
+          "is_correct": false,
+          "feedback": "El regimen cambio varias veces, con la Constitucion de 1791, la Republica y el golpe de 1799 que dio paso a Napoleon."
+        },
+        {
+          "letter": "C",
+          "text": "Un unico gobierno militar desde el primer dia",
+          "is_correct": false,
+          "feedback": "El gobierno militar llego con Napoleon en 1799, y los primeros años fueron de Asamblea y Republica."
+        },
+        {
+          "letter": "D",
+          "text": "Un periodo anterior a la propia Revolucion, sin relacion con ella",
+          "is_correct": false,
+          "feedback": "El periodo va de 1789 a 1799, es decir, forma parte central de la propia Revolucion y no de etapas anteriores."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El periodo revolutionary comprende varias etapas: la Asamblea Constituyente, la Republica y el Directorio, antes del gobierno de Napoleon.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando revolucion francesa.",
+      "statement": "Por que muchas revolutions europeas del siglo XIX no fueron tan durables como la francesa",
+      "context": "Un grupo de La Libertad compara el destino de la Revolucion Francesa con el de otras revolutions europeas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Porque carecian por completo de ideas economicas y sociales",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "Las revoluciones europeas compartieron ideas economicas y sociales, de modo que su ausencia no explica su fracaso."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Porque las estructuras del Antiguo Regimen eran demasiado fuertes para caer",
+          "is_correct": true,
+          "feedback": "Las revoluciones fracasaron en parte porque las estructuras del Antiguo Regimen estaban muy consolidadas, y los cambios quedaron a medias."
+        },
+        {
+          "letter": "C",
+          "text": "Porque toda su poblacion era analfabeta",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La instruccion estaba muy desigual, pero existia, y no fue la causa de que sus cambios no se consolidaran."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Porque no tenian ninguna via politica posible",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Muchas revoluciones tenian un proyecto politico posible, y fallaron porque las fuerzas del Antiguo Regimen las reprimieron."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "Las revoluciones europeas del siglo XIX fueron menos durables porque las estructuras del Antiguo Regimen resultaban muy fuertes para ser derribadas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando revolucion francesa.",
+      "statement": "Cual de estos derechos fue reconocido por la Carta de los Derechos de 1789",
+      "context": "En un ejercicio del Colegio Nacional de Chalatenango se pide citar un derecho ganado en 1789.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "El derecho a no guardar relacion con ningun senor feudal",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "Ese derecho feudal no existia en ese sentido en 1789, y la servitud personal ya se habia abolido en la Francia de entonces."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El derecho a elegir a los candidatos al trono",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La Carta no restablecio ningun derecho sucesorio, y ademas la monarquia fue sustituida por la Republica."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "La libertad de manifestar las propias opiniones",
+          "is_correct": true,
+          "feedback": "La Carta reconocio la libertad de manifestar opiniones, siempre que no se perturbara el orden publico, y por eso es un derecho ganado."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a cobrar impuestos sin limite alguno",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "La imposicion de tributos estaba limitada por la ley y por la soberania popular, y la Carta no facultaba a cargar sin limite."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "La Carta de los Derechos reconocio la libertad de manifestar opiniones, que es uno de los derechos politicos ganados en 1789.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W23-revolucion-francesa-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
