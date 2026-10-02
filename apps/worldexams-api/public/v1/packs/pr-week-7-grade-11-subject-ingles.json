@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "When I arrived, the bus had already left.",
           "is_correct": true,
-          "feedback": "Correcto. 'Had left' situa la salida del bus antes de la llegada, que es lo que expresa 'when'."
+          "feedback": "Correct. 'Had left' places the bus's departure before the arrival, which is what 'when' expresses."
         },
         {
           "letter": "B",
           "text": "When I arrived, the bus already left.",
           "is_correct": false,
-          "feedback": "Incorrecto. Sin 'had' la frase no expresa la diferencia de orden entre los dos hechos pasados."
+          "feedback": "Incorrect. Without 'had', the sentence does not show which of the two past events happened first."
         },
         {
           "letter": "C",
           "text": "When I had arrive, the bus left.",
           "is_correct": false,
-          "feedback": "Incorrecto. El participio de 'to arrive' es 'arrived', y el pasado perfecto nunca lleva forma base."
+          "feedback": "Incorrect. The participle of 'to arrive' is 'arrived', and the past perfect never uses the base form."
         },
         {
           "letter": "D",
           "text": "When I arrived, the bus has left.",
           "is_correct": false,
-          "feedback": "Incorrecto. El presente perfecto no se usa con 'when' en pasado, porque 'has' pertenece a otra unidad temporal."
+          "feedback": "Incorrect. The present perfect is not used with a past-tense 'when' clause, because 'has' belongs to a different time frame."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "had already sit",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Sit' no es un participio; el participio de 'to set' es 'set' y no lleva terminacion -ed."
+          "feedback": "Incorrect. 'Sit' is not a participle; the participle of 'to set' is 'set' and has no -ed ending."
         },
         {
           "letter": "B",
           "text": "has already set",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no puede expresar una accion anterior a otra pasada."
+          "feedback": "Incorrect. 'Has' is present perfect and cannot express an action that happened before another past action."
         },
         {
           "letter": "C",
           "text": "had already set",
           "is_correct": true,
-          "feedback": "Correcto. 'Had' mas el participio 'set' con 'already' forma el pasado perfecto y marca la accion anterior."
+          "feedback": "Correct. 'Had' plus the participle 'set' with 'already' forms the past perfect and marks the earlier action."
         },
         {
           "letter": "D",
           "text": "already had setting",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto exige el participio pasado y no el gerundio 'setting'."
+          "feedback": "Incorrect. The past perfect requires the past participle, not the gerund 'setting'."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "has lost",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' pertenece al presente perfecto y no puede colocarse dentro de una secuencia pasada."
+          "feedback": "Incorrect. 'Has' belongs to the present perfect and cannot be placed within a past sequence."
         },
         {
           "letter": "B",
           "text": "had lost",
           "is_correct": true,
-          "feedback": "Correcto. 'Had lost' situa la perdida de las llaves antes del intento de entrar, que es la secuencia que explica la frase."
+          "feedback": "Correct. 'Had lost' places the loss of the keys before the attempt to get in, which is the sequence the sentence explains."
         },
         {
           "letter": "C",
           "text": "had lose",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio pasado 'lost' y no en la forma base 'lose'."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'lost', not the base form 'lose'."
         },
         {
           "letter": "D",
           "text": "had losing",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto no admite el gerundio 'losing' detras de 'had'."
+          "feedback": "Incorrect. The past perfect does not allow the gerund 'losing' after 'had'."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "had wrote",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Wrote' es el pasado simple y no puede funcionar como participio detras de 'had'."
+          "feedback": "Incorrect. 'Wrote' is the past simple and cannot function as a participle after 'had'."
         },
         {
           "letter": "B",
           "text": "had writed",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir -ed a un verbo irregular no produce ninguna forma del ingles."
+          "feedback": "Incorrect. Adding -ed to an irregular verb does not produce any valid English form."
         },
         {
           "letter": "C",
           "text": "has written",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a una secuencia de dos acciones pasadas."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a sequence of two past actions."
         },
         {
           "letter": "D",
           "text": "had written",
           "is_correct": true,
-          "feedback": "Correcto. 'Had written' es el pasado perfecto y 'written' es el participio irregular de 'to write'."
+          "feedback": "Correct. 'Had written' is the past perfect, and 'written' is the irregular participle of 'to write'."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "After he had left, the lights had gone out.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Had gone out' situa el apagado antes de la salida, pero 'after' exige lo contrario."
+          "feedback": "Incorrect. 'Had gone out' places the switching off before the leaving, but 'after' requires the opposite."
         },
         {
           "letter": "B",
           "text": "After he left, the lights had gone out.",
           "is_correct": false,
-          "feedback": "Incorrecto. Aqui las dos acciones van en pasado simple y no se marca la diferencia de orden que pide el nexo."
+          "feedback": "Incorrect. Here both actions are in the past simple, so the order the connector calls for is not marked."
         },
         {
           "letter": "C",
           "text": "After he would left, the lights went out.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Would' no expresa accion pasada anterior y la estructura no corresponde al pasado perfecto."
+          "feedback": "Incorrect. 'Would' does not express an earlier past action, and the structure does not match the past perfect."
         },
         {
           "letter": "D",
           "text": "After he had left, the lights went out.",
           "is_correct": true,
-          "feedback": "Correcto. 'Had left' es la accion mas antigua y 'went out' ocurre despues, como indica 'after'."
+          "feedback": "Correct. 'Had left' is the earlier action and 'went out' happens afterward, as 'after' indicates."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "have finished",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have' es presente perfecto y no puede aparecer dentro de una secuencia pasada."
+          "feedback": "Incorrect. 'Have' is present perfect and cannot appear within a past sequence."
         },
         {
           "letter": "B",
           "text": "had finished",
           "is_correct": true,
-          "feedback": "Correcto. 'By the time' introduce el segundo evento, de modo que lo anterior va en pasado perfecto."
+          "feedback": "Correct. 'By the time' introduces the second event, so the earlier one goes in the past perfect."
         },
         {
           "letter": "C",
           "text": "had finish",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'finished', not the base form."
         },
         {
           "letter": "D",
           "text": "were finishing",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Were finishing' es un condicional imposible y no expresa la accion previa que pide la frase."
+          "feedback": "Incorrect. 'Were finishing' is an impossible conditional and does not express the earlier action the sentence calls for."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "had cancelled",
           "is_correct": true,
-          "feedback": "Correcto. 'Had cancelled' expresa que la cancelacion ocurrio antes y por esogyzno llegamos al concierto."
+          "feedback": "Correct. 'Had cancelled' shows that the cancellation happened first, which is why we didn't make it to the concert."
         },
         {
           "letter": "B",
           "text": "had cancel",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'cancelled' y no en la forma base 'cancel'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'cancelled', not the base form 'cancel'."
         },
         {
           "letter": "C",
           "text": "has cancelled",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a una causa que ya actuo en el pasado."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a cause that already took effect in the past."
         },
         {
           "letter": "D",
           "text": "had cancelling",
           "is_correct": false,
-          "feedback": "Incorrecto. El gerundio no aparece en pasado perfecto, que siempre exige un participio pasado."
+          "feedback": "Incorrect. The gerund is not used in the past perfect, which always requires a past participle."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "Did you finished the report before the meeting?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'did' el verbo va en forma base, de modo que sobra la terminacion -ed."
+          "feedback": "Incorrect. After 'did', the verb takes the base form, so the -ed ending is wrong."
         },
         {
           "letter": "B",
           "text": "Have you finished the report before the meeting?",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Have' es presente perfecto y no corresponde a una pregunta sobre el pasado."
+          "feedback": "Incorrect. 'Have' is present perfect and does not fit a question about the past."
         },
         {
           "letter": "C",
           "text": "Had you finished the report before the meeting?",
           "is_correct": true,
-          "feedback": "Correcto. El pasado perfecto abre con 'Had' y el verbo queda en participio 'finished'."
+          "feedback": "Correct. The past perfect begins with 'Had', and the verb stays in the participle form 'finished'."
         },
         {
           "letter": "D",
           "text": "Had you finish the report before the meeting?",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base."
+          "feedback": "Incorrect. After 'had', the verb takes the past participle 'finished', not the base form."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Never. Every sequence of past events requires the past perfect.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto es necesario solo cuando el orden debe marcarse explicitamente con el participio."
+          "feedback": "Incorrect. The past perfect is needed only when the order must be marked explicitly with the participle."
         },
         {
           "letter": "B",
           "text": "Only when the events happen every day.",
           "is_correct": false,
-          "feedback": "Incorrecto. La frecuencia pertenece al presente simple, no a la eleccion entre pasado simple y pasado perfecto."
+          "feedback": "Incorrect. Frequency belongs to the present simple, not to the choice between past simple and past perfect."
         },
         {
           "letter": "C",
           "text": "When the order of two past events is already clear from the verb forms.",
           "is_correct": true,
-          "feedback": "Correcto. Si el pasado simple ya expresa el orden por la posicion de las acciones, no hace falta el pasado perfecto."
+          "feedback": "Correct. If the past simple already shows the order through the position of the actions, the past perfect is not needed."
         },
         {
           "letter": "D",
           "text": "Only when the events take place in the future.",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto describe siempre el pasado y no se usa con hechos futuros."
+          "feedback": "Incorrect. The past perfect always describes the past and is not used with future events."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "had arrived",
           "is_correct": true,
-          "feedback": "Correcto. 'Had arrived' indica que las llegadas tardias ya habian ocurrido cuando se evalua la fiesta."
+          "feedback": "Correct. 'Had arrived' indicates that the late arrivals had already happened by the time the party is being judged."
         },
         {
           "letter": "B",
           "text": "has arrived",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a una situacion evaluada en el pasado."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit a situation judged in the past."
         },
         {
           "letter": "C",
           "text": "had arrive",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'arrived' y no en la forma base 'arrive'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'arrived', not the base form 'arrive'."
         },
         {
           "letter": "D",
           "text": "was arrive",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' es el pasado simple de 'to be' y no admite un verbo de accion detras sin 'had'."
+          "feedback": "Incorrect. 'Was' is the past simple of 'to be' and cannot be followed by an action verb without 'had'."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "hadn't drink",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'drunk' y no en la forma base 'drink'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'drunk', not the base form 'drink'."
         },
         {
           "letter": "B",
           "text": "didn't drunk",
           "is_correct": false,
-          "feedback": "Incorrecto. Se mezclan el pasado simple y el participio, de modo que la frase no es valida."
+          "feedback": "Incorrect. The option mixes the past simple and the participle, so the sentence is not valid."
         },
         {
           "letter": "C",
           "text": "hasn't drunk",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Hasn't' es presente perfecto y no corresponde a la causa de una situacion pasada."
+          "feedback": "Incorrect. 'Hasn't' is present perfect and does not fit the cause of a past situation."
         },
         {
           "letter": "D",
           "text": "hadn't drunk",
           "is_correct": true,
-          "feedback": "Correcto. 'Hadn't drunk' es el negativo del pasado perfecto y expresa una accion anterior y completa."
+          "feedback": "Correct. 'Hadn't drunk' is the negative past perfect and expresses an earlier, completed action."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "Although she studied hard, she had failed the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. Asi se invierte el orden y ademas un examen fallado no puede ser anterior al esfuerzo de estudiar."
+          "feedback": "Incorrect. This reverses the order, and a failed exam cannot come before the effort of studying for it."
         },
         {
           "letter": "B",
           "text": "Although she had studied hard, she failed the test.",
           "is_correct": true,
-          "feedback": "Correcto. 'Had studied' situa el esfuerzo antes del examen, y 'although' introduce la contraste entre las dos acciones."
+          "feedback": "Correct. 'Had studied' places the effort before the exam, and 'although' introduces the contrast between the two actions."
         },
         {
           "letter": "C",
           "text": "Although she had studied hard, she had failed the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. Con dos pasado perfectos seguidos la frase resulta ambigua y no expresa el orden que pide 'although'."
+          "feedback": "Incorrect. With two past perfects in a row, the sentence becomes ambiguous and does not express the order 'although' requires."
         },
         {
           "letter": "D",
           "text": "Although she studied had hard, she failed the test.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Studied had' no es una estructura valida, porque el auxiliar no se coloca despues del participio."
+          "feedback": "Incorrect. 'Studied had' is not a valid structure, because the auxiliary never comes after the participle."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "haven't understood",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa ya cerrada en el pasado."
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a cause that was already over in the past."
         },
         {
           "letter": "B",
           "text": "hadn't understood",
           "is_correct": true,
-          "feedback": "Correcto. 'Hadn't understood' marca la incomprension anterior que explica la confusion posterior."
+          "feedback": "Correct. 'Hadn't understood' marks the earlier lack of understanding that explains the later confusion."
         },
         {
           "letter": "C",
           "text": "hadn't understand",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'understood' y no en la forma base 'understand'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'understood', not the base form 'understand'."
         },
         {
           "letter": "D",
           "text": "wasn't understand",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Was' pertenece al pasado de 'to be' y no combina con un verbo de accion detras."
+          "feedback": "Incorrect. 'Was' is a past form of 'to be' and cannot be followed by an action verb."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "hadn't buyed",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Buyed' no existe en ingles, porque el participio de 'to buy' es 'bought'."
+          "feedback": "Incorrect. 'Buyed' does not exist in English, because the participle of 'to buy' is 'bought'."
         },
         {
           "letter": "B",
           "text": "haven't bought",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa dentro de una narracion en pasado."
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a cause within a past narrative."
         },
         {
           "letter": "C",
           "text": "hadn't buy",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'bought' y no en la forma base 'buy'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'bought', not the base form 'buy'."
         },
         {
           "letter": "D",
           "text": "hadn't bought",
           "is_correct": true,
-          "feedback": "Correcto. 'Hadn't bought' es pasado perfecto negativo y explica la situacion posterior del concierto."
+          "feedback": "Correct. 'Hadn't bought' is the negative past perfect and explains the later situation at the concert."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "No, I didn't.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Didn't' corresponde a una pregunta de pasado simple, no a una construida con 'had'."
+          "feedback": "Incorrect. 'Didn't' belongs to a past simple question, not to one built with 'had'."
         },
         {
           "letter": "B",
           "text": "No, I hadn't eaten before.",
           "is_correct": false,
-          "feedback": "Incorrecto. Es una respuesta valida pero no es corta, y la forma esperada omite el participio."
+          "feedback": "Incorrect. It is a valid answer but not a short one, and the expected form leaves out the participle."
         },
         {
           "letter": "C",
           "text": "No, I hadn't.",
           "is_correct": true,
-          "feedback": "Correcto. La respuesta corta repite el auxiliar 'had' de la pregunta, con la negacion antes del pronombre."
+          "feedback": "Correct. The short answer repeats the auxiliary 'had' from the question, with the negation before the pronoun."
         },
         {
           "letter": "D",
           "text": "No, I never.",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Never' es un adverbio y necesita un auxiliar 'hadn't' detras para construir la negacion."
+          "feedback": "Incorrect. 'Never' is an adverb and needs the auxiliary 'hadn't' after it to form the negative."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "had changed",
           "is_correct": true,
-          "feedback": "Correcto. 'Had changed' situa el cambio de aspecto antes del encuentro, que es lo que explica la falta de reconocimiento."
+          "feedback": "Correct. 'Had changed' places the change in appearance before the meeting, which explains why there was no recognition."
         },
         {
           "letter": "B",
           "text": "has changed",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no puede aparecer dentro de una secuencia de dos acciones pasadas."
+          "feedback": "Incorrect. 'Has' is present perfect and cannot appear within a sequence of two past actions."
         },
         {
           "letter": "C",
           "text": "had change",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'changed' y no en la forma base 'change'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'changed', not the base form 'change'."
         },
         {
           "letter": "D",
           "text": "had changed her hair completely yesterday",
           "is_correct": false,
-          "feedback": "Incorrecto. Anadir 'yesterday' fija una fecha concreta que contradice el caracter cerrado del pasado perfecto."
+          "feedback": "Incorrect. Adding 'yesterday' sets a specific date, which contradicts the completed nature of the past perfect."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "didn't know",
           "is_correct": true,
-          "feedback": "Correcto. 'Didn't know' es pasado simple y basta, porque no hay ninguna accion anterior que exigiria el pasado perfecto."
+          "feedback": "Correct. 'Didn't know' is past simple and is enough, because no earlier action requires the past perfect."
         },
         {
           "letter": "B",
           "text": "didn't knew",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'did' el verbo vuelve a la forma base 'know' y no al pasado irregular 'knew'."
+          "feedback": "Incorrect. After 'did', the verb goes back to the base form 'know', not the irregular past 'knew'."
         },
         {
           "letter": "C",
           "text": "had known",
           "is_correct": false,
-          "feedback": "Incorrecto. El pasado perfecto solo se usa si hay una accion anterior que marcar, y en esta frase no hay ningun segundo evento previo."
+          "feedback": "Incorrect. The past perfect is used only when there is an earlier action to mark, and this sentence has no second, earlier event."
         },
         {
           "letter": "D",
           "text": "hasn't known",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Hasn't' es presente perfecto y no corresponde a una escena ocurrida en el pasado."
+          "feedback": "Incorrect. 'Hasn't' is present perfect and does not fit a scene that took place in the past."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "had give",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'given' y no en la forma base irregular 'give'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'given', not the irregular base form 'give'."
         },
         {
           "letter": "B",
           "text": "has given",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a la causa de un examen ya realizado."
+          "feedback": "Incorrect. 'Has' is present perfect and does not fit the cause of an exam that was already taken."
         },
         {
           "letter": "C",
           "text": "had given us a study guide before the term",
           "is_correct": false,
-          "feedback": "Incorrecto. La expresion 'before the term' es aceptable, pero el enunciado ya no necesita ese añadido temporal."
+          "feedback": "Incorrect. The expression 'before the term' is acceptable, but the sentence does not need that extra time reference."
         },
         {
           "letter": "D",
           "text": "had given",
           "is_correct": true,
-          "feedback": "Correcto. 'Had given' marca la entrega previa de la guia, que explica la facilidad del examen posterior."
+          "feedback": "Correct. 'Had given' marks the earlier handing out of the guide, which explains why the later exam was easy."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "hadn't reservate",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Reservate' no es una forma del pasado de 'to reserve', que es un verbo regular y da 'reserved'."
+          "feedback": "Incorrect. 'Reservate' is not a past form of 'to reserve', which is a regular verb and becomes 'reserved'."
         },
         {
           "letter": "B",
           "text": "hadn't reserved",
           "is_correct": true,
-          "feedback": "Correcto. 'Hadn't reserved' explica la decision de comer en otro sitio: la reserva previa no se pudo completar a tiempo."
+          "feedback": "Correct. 'Hadn't reserved' explains the decision to eat elsewhere: the earlier reservation was not made in time."
         },
         {
           "letter": "C",
           "text": "haven't reserved",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Haven't' es presente perfecto y no corresponde a una cadena de hechos ya cerrados."
+          "feedback": "Incorrect. 'Haven't' is present perfect and does not fit a chain of events that are already over."
         },
         {
           "letter": "D",
           "text": "hadn't reserve",
           "is_correct": false,
-          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'reserved' y no en la forma base 'reserve'."
+          "feedback": "Incorrect. After 'had', the verb takes the participle 'reserved', not the base form 'reserve'."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "Every day after breakfast",
           "is_correct": false,
-          "feedback": "Incorrecto. Esa expresion describe un habito presente y no marca un punto de referencia del pasado, que es lo que exige el pasado perfecto."
+          "feedback": "Incorrect. That expression describes a present habit and does not mark a past reference point, which is what the past perfect requires."
         },
         {
           "letter": "B",
           "text": "Nowadays people call an ambulance quickly",
           "is_correct": false,
-          "feedback": "Incorrecto. La expresion 'nowadays' pertenece al presente habitual y no encaja con el pasado perfecto."
+          "feedback": "Incorrect. The expression 'nowadays' belongs to the habitual present and does not fit the past perfect."
         },
         {
           "letter": "C",
           "text": "By the time the ambulance arrived",
           "is_correct": true,
-          "feedback": "Correcto. 'By the time' marca un punto de referencia y todo lo anterior va en pasado perfecto."
+          "feedback": "Correct. 'By the time' marks a reference point, and everything before it goes in the past perfect."
         },
         {
           "letter": "D",
           "text": "Since 2020 people have used that number",
           "is_correct": false,
-          "feedback": "Incorrecto. 'Since 2020' con presente perfecto describe un periodo que llega hasta hoy, no hasta un pasado concreto."
+          "feedback": "Incorrect. 'Since 2020' with the present perfect describes a period that lasts until today, not until a specific point in the past."
         }
       ],
       "correct_answer": "C",
