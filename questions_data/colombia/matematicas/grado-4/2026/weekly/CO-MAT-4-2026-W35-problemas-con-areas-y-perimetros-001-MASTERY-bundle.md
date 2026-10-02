@@ -80,17 +80,16 @@ El área de un cuadrado se calcula multiplicando el lado por sí mismo: A = lado
 ¿Cuál es el área de un rectángulo con base de 12 cm y altura de 7 cm?
 
 ### Opciones
-- [ ] A) 84 cm²
+- [x] A) 84 cm²
   <!-- feedback: Correcto. El área de un rectángulo es base × altura = 12 × 7 = 84 cm². -->
 - [ ] B) 38 cm²
   <!-- feedback: Incorrecto. 38 cm² sería el perímetro (2 × (12 + 7) = 38), no el área. El área es 12 × 7 = 84 cm². -->
 - [ ] C) 19 cm²
   <!-- feedback: Incorrecto. 19 cm² sería la mitad de la base más la altura (12 + 7), pero el área es 12 × 7 = 84 cm². -->
-- [x] D) 84 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 12 × 7 = 84 cm². -->
+- [ ] D) 168 cm²
+  <!-- feedback: Incorrecto. 168 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de un rectángulo es base × altura = 12 × 7 = 84 cm². -->
 ### Explicacion Pedagogica
 El área de un rectángulo se calcula multiplicando la base por la altura: A = base × altura. Con base de 12 cm y altura de 7 cm, el área es 12 × 7 = 84 cm². Es importante recordar que el área mide la superficie encerrada por la figura, mientras que el perímetro mide el contorno.
-
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v4
 **Bloom:** Apply
@@ -125,17 +124,16 @@ El área de un triángulo se calcula con la fórmula A = (base × altura) ÷ 2. 
 ¿Cuál es el área de un cuadrado con perímetro de 20 cm?
 
 ### Opciones
-- [ ] A) 25 cm²
+- [x] A) 25 cm²
   <!-- feedback: Correcto. Si el perímetro es 20 cm, cada lado mide 20 ÷ 4 = 5 cm. El área es 5 × 5 = 25 cm². -->
 - [ ] B) 100 cm²
   <!-- feedback: Incorrecto. 100 cm² sería el resultado de elevar el perímetro al cuadrado (20 × 20), pero primero hay que encontrar el lado: 20 ÷ 4 = 5 cm. -->
 - [ ] C) 16 cm²
   <!-- feedback: Incorrecto. 16 cm² sería el área de un cuadrado con lado de 4 cm, pero el lado correcto es 5 cm (20 ÷ 4). -->
-- [x] D) 25 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es 5 × 5 = 25 cm². -->
+- [ ] D) 50 cm²
+  <!-- feedback: Incorrecto. 50 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: Si el perímetro es 20 cm, cada lado mide 20 ÷ 4 = 5 cm. El área es 5 × 5 = 25 cm². -->
 ### Explicacion Pedagogica
 Para encontrar el área de un cuadrado a partir del perímetro, primero se divide el perímetro entre 4 para obtener la longitud del lado: 20 ÷ 4 = 5 cm. Luego se calcula el área: A = lado × lado = 5 × 5 = 25 cm². Es importante no confundir el perímetro con el lado directamente.
-
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v6
 **Bloom:** Analyze
@@ -170,17 +168,16 @@ El área de un rectángulo se calcula multiplicando la base por la altura. El pr
 ¿Cuál es el perímetro de un triángulo con lados de 5 cm, 7 cm y 9 cm?
 
 ### Opciones
-- [ ] A) 21 cm
+- [x] A) 21 cm
   <!-- feedback: Correcto. El perímetro de un triángulo es la suma de sus tres lados: 5 + 7 + 9 = 21 cm. -->
 - [ ] B) 315 cm
   <!-- feedback: Incorrecto. 315 cm sería el resultado de multiplicar los lados (5 × 7 × 9), pero el perímetro es la suma: 5 + 7 + 9 = 21 cm. -->
 - [ ] C) 18 cm
   <!-- feedback: Incorrecto. 18 cm sería la suma de solo dos lados (5 + 7 + 6), pero el perímetro incluye los tres lados: 5 + 7 + 9 = 21 cm. -->
-- [x] D) 21 cm (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El perímetro es 5 + 7 + 9 = 21 cm. -->
+- [ ] D) 42 cm
+  <!-- feedback: Incorrecto. 42 cm no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro de un triángulo es la suma de sus tres lados: 5 + 7 + 9 = 21 cm. -->
 ### Explicacion Pedagogica
 El perímetro de un triángulo es la suma de las longitudes de sus tres lados. Con lados de 5 cm, 7 cm y 9 cm, el perímetro es 5 + 7 + 9 = 21 cm. Es importante no confundir el perímetro con el área, que requeriría conocer la altura del triángulo y usar la fórmula A = (base × altura) ÷ 2.
-
 ## Question 8 [D9-D10]
 **ID:** CO-MAT-4-2026-W35-problemas-con-areas-y-perimetros-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
