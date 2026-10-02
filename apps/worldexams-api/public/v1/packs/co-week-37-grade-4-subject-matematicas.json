@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T16:32:29.492Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la media aritmética?",
+      "context": "En San Onofre, una profesora pregunta a sus estudiantes cuántas hermanos tienen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El valor que más se repite en un conjunto de datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la moda, no la media. La media es el promedio: la suma de todos los valores dividida entre el número de datos."
+        },
+        {
+          "letter": "B",
+          "text": "El promedio de un conjunto de datos",
+          "is_correct": true,
+          "feedback": "Correcto. La media aritmética es la suma de todos los valores dividida entre el número de datos. Representa el promedio."
+        },
+        {
+          "letter": "C",
+          "text": "El valor que está en el centro de los datos ordenados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe la mediana, no la media. La media es el promedio, no el valor central."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia entre el valor mayor y el menor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe el rango, no la media. La media es el promedio de todos los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media aritmética, también llamada promedio, se calcula sumando todos los valores de un conjunto de datos y dividiendo el resultado entre el número total de datos. Por ejemplo, si los datos son 2, 4, 6, la media es (2 + 4 + 6) ÷ 3 = 4. La media representa el valor típico o central de los datos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la mediana de los datos: 3, 5, 7, 9, 11?",
+      "context": "En Talaigua Nuevo, un estudiante tiene los datos: 3, 5, 7, 9, 11.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 es el segundo valor, pero la mediana es el valor central cuando los datos están ordenados. En este caso, el valor central es 7."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "is_correct": false,
+          "feedback": "Incorrecto. 6 no aparece en los datos. La mediana es uno de los valores del conjunto, no un promedio. El valor central es 7."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana es el valor central cuando los datos están ordenados. En 3, 5, 7, 9, 11, el valor central es 7."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "is_correct": false,
+          "feedback": "Incorrecto. 9 es el cuarto valor, no el central. La mediana es 7, que está exactamente en el centro de los datos ordenados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La mediana es el valor que se encuentra en el centro de un conjunto de datos ordenados de menor a mayor. Si los datos son 3, 5, 7, 9, 11, el valor central es 7 porque hay dos valores menores (3, 5) y dos valores mayores (9, 11). La mediana no se ve afectada por valores extremos, a diferencia de la media.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es la moda de las edades: 8, 10, 10, 12, 14?",
+      "context": "En El Carmen de Bolívar, una estudiante registra las edades de su familia: 8, 10, 10, 12, 14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. 8 aparece solo una vez, así que no es la moda. La moda es el valor que más se repite, que en este caso es 10."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 aparece solo una vez, así que no es la moda. La moda es 10, que aparece dos veces."
+        },
+        {
+          "letter": "C",
+          "text": "14",
+          "is_correct": false,
+          "feedback": "Incorrecto. 14 aparece solo una vez, así que no es la moda. La moda es 10, que aparece dos veces."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. La moda es el valor que más se repite. En los datos 8, 10, 10, 12, 14, el valor 10 aparece dos veces, más que cualquier otro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La moda es el valor que aparece con mayor frecuencia en un conjunto de datos. En las edades 8, 10, 10, 12, 14, el valor 10 aparece dos veces, mientras que los demás aparecen solo una vez. Por lo tanto, la moda es 10. Un conjunto de datos puede tener una moda, varias modas o ninguna moda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el rango de los datos: 15, 20, 25, 30, 35?",
+      "context": "En San Juan Nepomuceno, un niño tiene los datos: 15, 20, 25, 30, 35.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15 es el valor menor, no el rango. El rango es la diferencia entre el valor mayor y el menor: 35 - 15 = 20."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. El rango es la diferencia entre el valor mayor y el menor: 35 - 15 = 20."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "is_correct": false,
+          "feedback": "Incorrecto. 25 es el valor central, no el rango. El rango es 35 - 15 = 20."
+        },
+        {
+          "letter": "D",
+          "text": "35",
+          "is_correct": false,
+          "feedback": "Incorrecto. 35 es el valor mayor, no el rango. El rango es la diferencia: 35 - 15 = 20."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El rango es la diferencia entre el valor mayor y el valor menor de un conjunto de datos. En los datos 15, 20, 25, 30, 35, el valor mayor es 35 y el menor es 15. El rango es 35 - 15 = 20. El rango indica la dispersión o amplitud de los datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la media aritmética de las calificaciones: 3, 4, 4, 5, 5, 5?",
+      "context": "En María La Baja, un maestro registra las calificaciones: 3, 4, 4, 5, 5, 5.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.33",
+          "is_correct": true,
+          "feedback": "Correcto. La media es la suma de todos los valores dividida entre el número de datos: (3 + 4 + 4 + 5 + 5 + 5) ÷ 6 = 26 ÷ 6 = 4.33."
+        },
+        {
+          "letter": "B",
+          "text": "4.5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4.5 sería el resultado de sumar 27 entre 6, pero la suma correcta es 26. La media es 26 ÷ 6 = 4.33."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5 es la moda (el valor que más se repite), no la media. La media es 26 ÷ 6 = 4.33."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. 4 no es la media correcta. La suma es 26 y hay 6 datos, así que la media es 26 ÷ 6 = 4.33."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La media aritmética se calcula sumando todos los valores y dividiendo entre el número de datos. Con calificaciones 3, 4, 4, 5, 5, 5, la suma es 3 + 4 + 4 + 5 + 5 + 5 = 26. Como hay 6 datos, la media es 26 ÷ 6 = 4.33. Es importante no confundir la media con la moda (5) o la mediana (4.5).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v6",
+      "statement": "Un conjunto de datos tiene media 10, mediana 8 y moda 6. Otro tiene media 10, mediana 10 y moda 10. ¿Qué se puede concluir?",
+      "context": "En Los Palmitos, un estudiante compara las medidas de tendencia central de dos conjuntos de datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos conjuntos son idénticos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque ambos tienen la misma media, las medianas y modas son diferentes, lo que indica que los datos tienen distribuciones distintas."
+        },
+        {
+          "letter": "B",
+          "text": "El primer conjunto tiene valores más altos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ambos tienen la misma media (10), así que no se puede concluir que uno tenga valores más altos que el otro."
+        },
+        {
+          "letter": "C",
+          "text": "El segundo conjunto es más homogéneo que el primero",
+          "is_correct": true,
+          "feedback": "Correcto. En el segundo conjunto, la media, mediana y moda son iguales (10), lo que sugiere que los datos son más uniformes. En el primero, son diferentes (10, 8, 6)."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar los conjuntos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se pueden comparar usando las medidas de tendencia central. El segundo conjunto es más homogéneo porque sus medidas coinciden."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando la media, mediana y moda de un conjunto de datos son iguales, esto sugiere que los datos son más homogéneos o simétricos. En el primer conjunto, las medidas son diferentes (media 10, mediana 8, moda 6), lo que indica asimetría. En el segundo, todas son 10, lo que sugiere una distribución más uniforme. Esto es útil para comparar la variabilidad de los datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v7",
+      "statement": "Si el gráfico de barras muestra que el lunes se vendieron 10 unidades, el martes 15, el miércoles 20, el jueves 15 y el viernes 10, ¿cuál es la media de ventas diarias?",
+      "context": "En San Marcos, Antioquia, un maestro muestra un gráfico de barras con las ventas de una tienda durante la semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20 es el día de mayor venta (miércoles), no la media. La media divide la suma total entre los 5 días: (10 + 15 + 20 + 15 + 10) ÷ 5 = 70 ÷ 5 = 14."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. 15 sería el resultado de sumar 75 entre 5, pero la suma correcta es 70. La media es 70 ÷ 5 = 14."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "is_correct": false,
+          "feedback": "Incorrecto. 12 no es la media correcta. La suma es 70 y hay 5 días, así que la media es 70 ÷ 5 = 14."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "is_correct": true,
+          "feedback": "Correcto. La media es la suma de ventas dividida entre el número de días: (10 + 15 + 20 + 15 + 10) ÷ 5 = 70 ÷ 5 = 14."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para calcular la media de ventas diarias, se suman todas las ventas y se divide entre el número de días. Las ventas son 10 + 15 + 20 + 15 + 10 = 70 unidades. Como hay 5 días, la media es 70 ÷ 5 = 14 unidades por día. Esta medida ayuda a entender el rendimiento típico de la tienda.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la afirmación de que la media siempre es la mejor medida para representar un conjunto de datos?",
+      "context": "En San Jacinto, un estudiante afirma que la media siempre es la mejor medida para representar un conjunto de datos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque la media usa todos los datos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la media usa todos los datos, puede ser afectada por valores extremos. Por ejemplo, en 1, 2, 3, 100, la media es 26.5, que no representa bien los datos."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque la media puede ser afectada por valores extremos",
+          "is_correct": true,
+          "feedback": "Correcto. En datos como 1, 2, 3, 100, la media es 26.5, pero la mayoría de los datos son menores de 4. La mediana (2.5) representaría mejor el valor típico."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, porque la media es siempre el valor central",
+          "is_correct": false,
+          "feedback": "Incorrecto. La media no siempre es el valor central. En datos asimétricos, la media puede estar lejos del centro. Por ejemplo, en 1, 2, 3, 100, la media es 26.5."
+        },
+        {
+          "letter": "D",
+          "text": "No, porque la mediana siempre es mejor que la media",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana no siempre es mejor. En datos simétricos como 2, 4, 6, 8, 10, la media (6) y la mediana (6) son iguales y ambas representan bien los datos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La media no siempre es la mejor medida de tendencia central porque puede ser afectada por valores extremos (outliers). Por ejemplo, en los datos 1, 2, 3, 100, la media es 26.5, pero la mayoría de los datos son menores de 4. En este caso, la mediana (2.5) representaría mejor el valor típico. Sin embargo, en datos simétricos sin valores extremos, la media es una excelente medida. La elección depende de la distribución de los datos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Aleatorio",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-4-2026-W37-estadistica-en-la-comunidad-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T16:32:29.491Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una mediana de un triángulo?",
+      "context": "En el colegio de Bogotá, la profesora dibuja un triángulo en el tablero para enseñar las medianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un segmento que une dos vértices del triángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un lado del triángulo, no una mediana. La mediana une un vértice con el punto medio del lado opuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Un segmento que une un vértice con el punto medio del lado opuesto",
+          "is_correct": true,
+          "feedback": "Correcto. La mediana conecta un vértice con el punto medio del lado opuesto, por eso divide ese lado en dos partes iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Un segmento que une los puntos medios de dos lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe un segmento medio o base media, no una mediana. La mediana siempre parte de un vértice."
+        },
+        {
+          "letter": "D",
+          "text": "Un segmento perpendicular a un lado del triángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe una altura, no una mediana. La mediana no tiene por qué ser perpendicular al lado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una mediana de un triángulo es un segmento que une uno de los vértices con el punto medio del lado opuesto. Todo triángulo tiene exactamente tres medianas, una desde cada vértice. La mediana divide el lado opuesto en dos segmentos de igual longitud. Es importante no confundirla con la altura, que sí es perpendicular al lado, ni con el segmento medio, que une los puntos medios de dos lados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v2",
+      "statement": "Si un triángulo tiene tres lados, ¿cuántas medianas tiene en total?",
+      "context": "En Medellín, un estudiante mide los lados de un triángulo dibujado en su cuaderno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un triángulo tiene tres vértices, y desde cada vértice se traza una mediana, así que no puede tener solo una."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Como el triángulo tiene tres vértices, se pueden trazar tres medianas, no dos."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Cada vértice del triángulo genera una mediana hacia el punto medio del lado opuesto, por lo tanto hay 3 medianas en total."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "is_correct": false,
+          "feedback": "Incorrecto. El triángulo solo tiene tres vértices, así que no puede tener cuatro medianas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todo triángulo tiene exactamente tres medianas porque tiene tres vértices. Desde cada vértice se traza un segmento hacia el punto medio del lado opuesto. Las tres medianas siempre se intersectan en un mismo punto llamado baricentro. Esta propiedad es fundamental para entender la estructura interna del triángulo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v3",
+      "statement": "Si la mediana desde el vértice C llega al punto medio del lado AB, ¿en cuánto mide cada parte del lado AB?",
+      "context": "En Cali, un niño dibuja un triángulo con vértices A, B y C. El lado AB mide 10 cm.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 cm y 7 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mediana divide el lado en dos partes iguales, así que no pueden medir diferente. 3 + 7 = 10 pero no son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "5 cm y 5 cm",
+          "is_correct": true,
+          "feedback": "Correcto. El punto medio divide el lado AB en dos segmentos iguales: 10 ÷ 2 = 5 cm cada uno."
+        },
+        {
+          "letter": "C",
+          "text": "4 cm y 6 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque 4 + 6 = 10, el punto medio divide el lado en partes iguales, así que deben medir lo mismo."
+        },
+        {
+          "letter": "D",
+          "text": "2 cm y 8 cm",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto medio siempre divide el lado en dos mitades iguales, no en partes desiguales como 2 y 8."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El punto medio de un segmento lo divide en dos partes iguales. Si el lado AB mide 10 cm, el punto medio lo divide en dos segmentos de 5 cm cada uno. La mediana desde el vértice C conecta con ese punto medio, creando dos segmentos de igual longitud sobre el lado AB. Esta propiedad es esencial para calcular distancias en triángulos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se llama el punto donde se cruzan las tres medianas de un triángulo?",
+      "context": "En Barranquilla, una estudiante traza las tres medianas de un triángulo y observa que se cruzan en un punto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ortocentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ortocentro es el punto donde se cruzan las alturas, no las medianas."
+        },
+        {
+          "letter": "B",
+          "text": "Circuncentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El circuncentro es el punto donde se cruzan las mediatrices de los lados, no las medianas."
+        },
+        {
+          "letter": "C",
+          "text": "Baricentro",
+          "is_correct": true,
+          "feedback": "Correcto. El baricentro es el punto de intersección de las tres medianas del triángulo. También se llama centroide."
+        },
+        {
+          "letter": "D",
+          "text": "Incentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El incentro es el punto donde se cruzan las bisectrices de los ángulos, no las medianas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El baricentro es el punto donde se intersectan las tres medianas de un triángulo. También se conoce como centroide y representa el centro de masa del triángulo. Es importante distinguirlo de otros puntos notables: el ortocentro (intersección de alturas), el circuncentro (intersección de mediatrices) y el incentro (intersección de bisectrices).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v5",
+      "statement": "En un triángulo equilátero, ¿dónde se encuentra el baricentro?",
+      "context": "En Cartagena, un maestro muestra un triángulo equilátero y explica que el baricentro está en el centro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En uno de los vértices",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro es un punto interior del triángulo, nunca está en un vértice."
+        },
+        {
+          "letter": "B",
+          "text": "Fuera del triángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro siempre está dentro del triángulo, sin importar su forma."
+        },
+        {
+          "letter": "C",
+          "text": "En el centro del triángulo",
+          "is_correct": true,
+          "feedback": "Correcto. En un triángulo equilátero, el baricentro coincide con el centro geométrico porque todas las medianas son iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Sobre uno de los lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro es un punto interior, no está sobre los lados del triángulo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un triángulo equilátero, el baricentro se encuentra exactamente en el centro geométrico del triángulo. Esto ocurre porque todas las medianas tienen la misma longitud y se intersectan en un punto equidistante de los tres vértices. En triángulos no equiláteros, el baricentro sigue siendo interior pero no necesariamente en el centro geométrico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v6",
+      "statement": "Si el baricentro de un triángulo divide a una mediana en dos partes, ¿cuál es la relación entre la parte más larga y la parte más corta?",
+      "context": "En Bucaramanga, un estudiante mide las distancias desde el baricentro a cada vértice de un triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parte más larga es el doble de la más corta",
+          "is_correct": true,
+          "feedback": "Correcto. El baricentro divide cada mediana en una proporción 2:1, donde la parte hacia el vértice es el doble de la parte hacia el lado."
+        },
+        {
+          "letter": "B",
+          "text": "La parte más larga es el triple de la más corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La proporción es 2:1, no 3:1. El baricentro divide la mediana en dos tercios y un tercio."
+        },
+        {
+          "letter": "C",
+          "text": "Ambas partes son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fueran iguales, el punto sería el punto medio de la mediana, pero el baricentro no está en el punto medio."
+        },
+        {
+          "letter": "D",
+          "text": "La parte más larga es el doble de la más corta (ver explicación)",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La proporción 2:1 es la propiedad del baricentro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El baricentro divide cada mediana en una proporción 2:1. La parte que va del vértice al baricentro mide el doble que la parte que va del baricentro al punto medio del lado. Esto significa que si una mediana mide 9 cm, la parte hacia el vértice mide 6 cm y la parte hacia el lado mide 3 cm. Esta propiedad es útil para calcular distancias en problemas geométricos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v7",
+      "statement": "Un triángulo tiene lados de 6 cm, 8 cm y 10 cm. Otro triángulo tiene lados de 3 cm, 4 cm y 5 cm. ¿Qué se puede decir sobre sus medianas?",
+      "context": "En Pereira, un maestro pide a sus estudiantes que comparen las medianas de dos triángulos diferentes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las medianas del primer triángulo son el doble de las del segundo",
+          "is_correct": true,
+          "feedback": "Correcto. Como los lados del primer triángulo son el doble que los del segundo, sus medianas también son el doble porque los triángulos son semejantes."
+        },
+        {
+          "letter": "B",
+          "text": "Las medianas del primer triángulo son el triple de las del segundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La razón de semejanza es 2:1, no 3:1, porque 6÷3 = 2, 8÷4 = 2 y 10÷5 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "Las medianas son iguales en ambos triángulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los triángulos tienen tamaños diferentes, así que sus medianas no pueden ser iguales."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede comparar las medianas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se pueden comparar porque los triángulos son semejantes con razón 2:1, así que las medianas del primero son el doble."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dos triángulos son semejantes porque sus lados son proporcionales: 6÷3 = 2, 8÷4 = 2 y 10÷5 = 2. En triángulos semejantes, todas las medidas correspondientes (alturas, medianas, bisectrices) tienen la misma razón de semejanza. Por lo tanto, las medianas del primer triángulo miden exactamente el doble que las del segundo. Esta propiedad permite resolver problemas de escala en geometría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.72,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle-v8",
+      "statement": "¿Es correcta la afirmación de que el baricentro siempre está más cerca del vértice más grande del triángulo?",
+      "context": "En Pasto, un estudiante afirma que el baricentro siempre está más cerca del vértice más grande del triángulo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí, porque el vértice más grande tiene más peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro no depende del tamaño de los ángulos, sino de la posición de los vértices. La distancia del baricentro a cada vértice depende de la longitud de las medianas."
+        },
+        {
+          "letter": "B",
+          "text": "No, porque el baricentro siempre está a la misma distancia de los tres vértices",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro no está a la misma distancia de los vértices, excepto en el triángulo equilátero. En general, las distancias son diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "No, porque la posición del baricentro depende de la forma del triángulo, no del tamaño de los ángulos",
+          "is_correct": true,
+          "feedback": "Correcto. El baricentro se determina por la intersección de las medianas, que depende de la posición de los vértices, no de la medida de los ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "Sí, porque el baricentro es el centro de masa y los vértices más grandes pesan más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baricentro es el centro de masa, pero la masa se distribuye uniformemente en el área del triángulo, no en los vértices."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La posición del baricentro depende exclusivamente de la posición de los vértices del triángulo, no del tamaño de sus ángulos. El baricentro es el punto de intersección de las medianas, y su ubicación relativa a los vértices depende de la longitud de las medianas. En un triángulo equilátero, el baricentro está a la misma distancia de los tres vértices, pero en triángulos escalenos, las distancias son diferentes. La afirmación del estudiante es incorrecta porque confunde el tamaño angular con la posición geométrica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-MAT-4-2026-W30-emedianas-y-baricentro-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
