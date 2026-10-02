@@ -53,15 +53,14 @@ La diplomacia es el medio principal por el cual los Estados resuelven sus difere
 ¿Cuál es la función principal de la Organización de las Naciones Unidas (ONU)?
 
 ### Opciones
-- [x] A) Promover la paz, la seguridad internacional y la cooperación entre los países del mundo.
-  <!-- feedback: Correcto. La ONU fue creada en 1945 para mantener la paz y fomentar la cooperación entre las naciones. -->
-- [ ] B) Regular el precio de las exportaciones de café a nivel mundial.
+- [ ] A) Regular el precio de las exportaciones de café a nivel mundial.
   <!-- feedback: Incorrecto. El precio del café lo determina el mercado internacional, no la ONU, que no controla precios de productos. -->
+- [x] B) Promover la paz, la seguridad internacional y la cooperación entre los países del mundo.
+  <!-- feedback: Correcto. La ONU fue creada en 1945 para mantener la paz y fomentar la cooperación entre las naciones. -->
 - [ ] C) Financiar exclusivamente proyectos de infraestructura en países desarrollados.
   <!-- feedback: Incorrecto. La ONU apoya a países en desarrollo, no exclusivamente a los desarrollados, y su agenda va más allá de la infraestructura. -->
 - [ ] D) Imponer sanciones militares unilaterales a todos los países en conflicto.
   <!-- feedback: Incorrecto. La ONU no impone sanciones militares unilaterales; sus decisiones de paz las toma el Consejo de Seguridad de forma multilateral. -->
-
 ### Explicacion Pedagogica
 La ONU es el organismo internacional más importante del mundo. Su función central es mantener la paz y la seguridad internacional, proteger los derechos humanos y promover el desarrollo. Colombia es miembro fundador de la ONU y participa activamente en sus asambleas y misiones de paz.
 
@@ -76,15 +75,14 @@ La ONU es el organismo internacional más importante del mundo. Su función cent
 ¿Qué es un tratado internacional?
 
 ### Opciones
-- [x] A) Un acuerdo formal entre dos o más Estados, regido por el derecho internacional, que establece derechos y obligaciones para las partes.
-  <!-- feedback: Correcto. Un tratado internacional es un pacto escrito entre países que genera obligaciones jurídicas bajo el derecho internacional. -->
+- [ ] A) Una reunión informal de empresarios para negociar precios de productos.
+  <!-- feedback: Incorrecto. Esa reunión es una rueda de negocios privada, no un tratado, que es un acuerdo formal entre Estados. -->
 - [ ] B) Una ley que el Congreso de un país aprueba para regular su comercio interno.
   <!-- feedback: Incorrecto. Esa es una ley nacional, que solo rige dentro del país; un tratado internacional involucra a dos o más Estados. -->
-- [ ] C) Una reunión informal de empresarios para negociar precios de productos.
-  <!-- feedback: Incorrecto. Esa reunión es una rueda de negocios privada, no un tratado, que es un acuerdo formal entre Estados. -->
+- [x] C) Un acuerdo formal entre dos o más Estados, regido por el derecho internacional, que establece derechos y obligaciones para las partes.
+  <!-- feedback: Correcto. Un tratado internacional es un pacto escrito entre países que genera obligaciones jurídicas bajo el derecho internacional. -->
 - [ ] D) Una sentencia que emite un juez nacional en un caso de derecho civil.
   <!-- feedback: Incorrecto. Una sentencia judicial resuelve conflictos dentro de un país, mientras un tratado internacional regula relaciones entre países. -->
-
 ### Explicacion Pedagogica
 Los tratados internacionales son acuerdos escritos entre Estados que establecen reglas y obligaciones mutuas. Están regidos por el derecho internacional público y deben ser ratificados por cada país según sus procedimientos internos. Ejemplos para Colombia son los tratados de libre comercio y los acuerdos ambientales como el Acuerdo de París.
 
@@ -99,15 +97,14 @@ Los tratados internacionales son acuerdos escritos entre Estados que establecen 
 ¿Qué es la Organización Mundial del Comercio (OMC)?
 
 ### Opciones
-- [x] A) El organismo internacional que establece las reglas del comercio entre países y resuelve las disputas comerciales.
-  <!-- feedback: Correcto. La OMC, creada en 1995, es la única organización que regula el comercio internacional y media en conflictos entre países. -->
+- [ ] A) Un grupo militar que protege las rutas marítimas de comercio.
+  <!-- feedback: Incorrecto. La OMC no tiene funciones militares; su trabajo es normativo y de solución de controversias comerciales. -->
 - [ ] B) Un banco que otorga préstamos a los países para financiar su deuda externa.
   <!-- feedback: Incorrecto. Esa función corresponde al Fondo Monetario Internacional y al Banco Mundial, no a la OMC, que se enfoca en reglas comerciales. -->
 - [ ] C) Una organización que controla el precio del petróleo a nivel mundial.
   <!-- feedback: Incorrecto. El precio del petróleo lo controla la OPEP, no la OMC, que no interviene en los precios de las materias primas. -->
-- [ ] D) Un grupo militar que protege las rutas marítimas de comercio.
-  <!-- feedback: Incorrecto. La OMC no tiene funciones militares; su trabajo es normativo y de solución de controversias comerciales. -->
-
+- [x] D) El organismo internacional que establece las reglas del comercio entre países y resuelve las disputas comerciales.
+  <!-- feedback: Correcto. La OMC, creada en 1995, es la única organización que regula el comercio internacional y media en conflictos entre países. -->
 ### Explicacion Pedagogica
 La OMC es el pilar del sistema comercial multilateral. Establece reglas sobre aranceles, subsidios y barreras no arancelarias, y ofrece un mecanismo de solución de disputas cuando un país considera que otro incumple las reglas. Colombia es miembro desde 1995 y ha usado este mecanismo para defender sus exportaciones.
 
@@ -168,15 +165,14 @@ El embajador es el representante diplomático de más alto rango de un país en 
 Si Colombia exporta 500 millones USD en café e importa 300 millones USD en maquinaria, ¿cuál es la balanza comercial en ese rubro?
 
 ### Opciones
-- [x] A) Superávit de 200 millones USD
-  <!-- feedback: Correcto. La balanza comercial se calcula como exportaciones menos importaciones: 500 - 300 = 200 millones USD de superávit. -->
-- [ ] B) Déficit de 200 millones USD
+- [ ] A) Déficit de 200 millones USD
   <!-- feedback: Incorrecto. Invierte el signo de la resta; el déficit ocurriría si las importaciones superaran a las exportaciones, lo cual no es el caso. -->
+- [x] B) Superávit de 200 millones USD
+  <!-- feedback: Correcto. La balanza comercial se calcula como exportaciones menos importaciones: 500 - 300 = 200 millones USD de superávit. -->
 - [ ] C) Superávit de 800 millones USD
   <!-- feedback: Incorrecto. Suma exportaciones e importaciones en lugar de restarlas; la balanza comercial es exportaciones menos importaciones. -->
 - [ ] D) Déficit de 800 millones USD
   <!-- feedback: Incorrecto. Suma ambos valores y además invierte el signo; el cálculo correcto es 500 - 300 = 200 millones USD de superávit. -->
-
 ### Explicacion Pedagogica
 La balanza comercial es la diferencia entre las exportaciones y las importaciones de un país. Si las exportaciones superan a las importaciones, hay superávit; si ocurre lo contrario, hay déficit. En este caso, Colombia vendió más de lo que compró, lo que genera un superávit de 200 millones USD, señal de que el sector cafetero es competitivo internacionalmente.
 
@@ -191,15 +187,14 @@ La balanza comercial es la diferencia entre las exportaciones y las importacione
 ¿Qué organismo internacional tiene como función principal proteger los derechos humanos en el continente americano?
 
 ### Opciones
-- [x] A) La Comisión Interamericana de Derechos Humanos (CIDH).
-  <!-- feedback: Correcto. La CIDH es el órgano de la OEA encargado de promover y proteger los derechos humanos en los países de América. -->
+- [ ] A) El Fondo Monetario Internacional (FMI).
+  <!-- feedback: Incorrecto. El FMI se ocupa de la estabilidad financiera y los préstamos a países, no de la protección de derechos humanos. -->
 - [ ] B) La Organización Mundial del Comercio (OMC).
   <!-- feedback: Incorrecto. La OMC regula el comercio internacional, no los derechos humanos; su función es comercial, no de protección de derechos. -->
-- [ ] C) El Fondo Monetario Internacional (FMI).
-  <!-- feedback: Incorrecto. El FMI se ocupa de la estabilidad financiera y los préstamos a países, no de la protección de derechos humanos. -->
+- [x] C) La Comisión Interamericana de Derechos Humanos (CIDH).
+  <!-- feedback: Correcto. La CIDH es el órgano de la OEA encargado de promover y proteger los derechos humanos en los países de América. -->
 - [ ] D) La Organización del Tratado del Atlántico Norte (OTAN).
   <!-- feedback: Incorrecto. La OTAN es una alianza militar de países del Atlántico Norte, no un organismo de derechos humanos en América. -->
-
 ### Explicacion Pedagogica
 La CIDH es un órgano de la Organización de los Estados Americanos (OEA) que recibe denuncias de violaciones a los derechos humanos, emite informes y puede llevar casos ante la Corte Interamericana de Derechos Humanos. Colombia ha sido tanto denunciada como beneficiaria de sus medidas cautelares.
 
@@ -214,15 +209,14 @@ La CIDH es un órgano de la Organización de los Estados Americanos (OEA) que re
 Un tratado de libre comercio entre Colombia y otro país elimina los aranceles a la mayoría de los productos. ¿Cuál es una consecuencia probable para un sector productivo colombiano que es poco competitivo frente a las importaciones?
 
 ### Opciones
-- [x] A) Puede verse afectado porque compite con productos extranjeros que entran al país sin pagar aranceles.
-  <!-- feedback: Correcto. Al eliminarse los aranceles, los productos extranjeros entran más baratos, lo que presiona a los productores nacionales menos competitivos. -->
-- [ ] B) Se beneficia automáticamente porque todos los sectores ganan por igual con el tratado.
+- [ ] A) Se beneficia automáticamente porque todos los sectores ganan por igual con el tratado.
   <!-- feedback: Incorrecto. Un tratado no beneficia por igual a todos los sectores; los menos competitivos pueden perder frente a la importación. -->
+- [x] B) Puede verse afectado porque compite con productos extranjeros que entran al país sin pagar aranceles.
+  <!-- feedback: Correcto. Al eliminarse los aranceles, los productos extranjeros entran más baratos, lo que presiona a los productores nacionales menos competitivos. -->
 - [ ] C) Deja de producir porque el tratado prohíbe la producción nacional.
   <!-- feedback: Incorrecto. Un tratado de libre comercio no prohíbe la producción nacional; solo elimina barreras arancelarias, no la capacidad de producir. -->
 - [ ] D) Recibe subsidios automáticos del gobierno del país socio del tratado.
   <!-- feedback: Incorrecto. Un tratado no otorga subsidios automáticos; los subsidios son decisiones de política interna de cada gobierno. -->
-
 ### Explicacion Pedagogica
 Los tratados de libre comercio eliminan barreras arancelarias, lo que beneficia a los sectores competitivos pero puede perjudicar a los que no lo son. Por eso los gobiernos suelen acompañar estos acuerdos de políticas de ajuste, como créditos, capacitación y reconversión productiva, para ayudar a los sectores vulnerables a competir en igualdad de condiciones.
 
@@ -260,15 +254,14 @@ La soberanía es el derecho de un Estado a gobernar su territorio sin interferen
 Colombia tiene una disputa fronteriza con un país vecino. ¿Cuál es la estrategia diplomática más adecuada para resolver esta situación?
 
 ### Opciones
-- [x] A) Acudir a la negociación bilateral y, si es necesario, a organismos internacionales como la Corte Internacional de Justicia.
-  <!-- feedback: Correcto. La negociación bilateral y el recurso a organismos internacionales son vías pacíficas y jurídicas reconocidas por el derecho internacional para resolver disputas. -->
+- [ ] A) Ignorar la disputa y esperar que desaparezca por sí sola.
+  <!-- feedback: Incorrecto. Ignorar un conflicto no lo resuelve; las disputas territoriales requieren gestión activa diplomática para no escalar. -->
 - [ ] B) Declarar la guerra inmediatamente para imponer la posición colombiana.
   <!-- feedback: Incorrecto. La guerra no es una estrategia diplomática; el derecho internacional prohíbe el uso de la fuerza para resolver disputas territoriales. -->
 - [ ] C) Romper todas las relaciones comerciales sin previa negociación.
   <!-- feedback: Incorrecto. Romper el comercio no resuelve la disputa territorial y además perjudica a ambos países; la diplomacia requiere diálogo, no ruptura. -->
-- [ ] D) Ignorar la disputa y esperar que desaparezca por sí sola.
-  <!-- feedback: Incorrecto. Ignorar un conflicto no lo resuelve; las disputas territoriales requieren gestión activa diplomática para no escalar. -->
-
+- [x] D) Acudir a la negociación bilateral y, si es necesario, a organismos internacionales como la Corte Internacional de Justicia.
+  <!-- feedback: Correcto. La negociación bilateral y el recurso a organismos internacionales son vías pacíficas y jurídicas reconocidas por el derecho internacional para resolver disputas. -->
 ### Explicacion Pedagogica
 El derecho internacional ofrece vías pacíficas para resolver disputas entre Estados: la negociación directa, la mediación, el arbitraje y la jurisdicción internacional. La Corte Internacional de Justicia, con sede en La Haya, ha resuelto casos de límites territoriales entre países. La diplomacia es preferible al uso de la fuerza porque preserva la estabilidad y evita costos humanos y económicos.
 
@@ -283,14 +276,13 @@ El derecho internacional ofrece vías pacíficas para resolver disputas entre Es
 Un artesano de Boyacá vende sus productos en una plataforma digital a clientes de España y México. ¿Qué efecto de la globalización se evidencia en este caso?
 
 ### Opciones
-- [x] A) La ampliación de mercados más allá de las fronteras nacionales gracias a la tecnología.
-  <!-- feedback: Correcto. La globalización permite que un artesano llegue a clientes de otros países mediante plataformas digitales, ampliando su mercado sin necesidad de exportar físicamente. -->
+- [ ] A) La desaparición de la producción artesanal tradicional.
+  <!-- feedback: Incorrecto. El caso muestra lo contrario: la artesanía tradicional se mantiene y se expande gracias a la tecnología, no desaparece. -->
 - [ ] B) La eliminación de todas las barreras culturales entre los países.
   <!-- feedback: Incorrecto. La globalización no elimina las barreras culturales; los clientes de España y México siguen teniendo idiomas y costumbres distintas. -->
-- [ ] C) La desaparición de la producción artesanal tradicional.
-  <!-- feedback: Incorrecto. El caso muestra lo contrario: la artesanía tradicional se mantiene y se expande gracias a la tecnología, no desaparece. -->
+- [x] C) La ampliación de mercados más allá de las fronteras nacionales gracias a la tecnología.
+  <!-- feedback: Correcto. La globalización permite que un artesano llegue a clientes de otros países mediante plataformas digitales, ampliando su mercado sin necesidad de exportar físicamente. -->
 - [ ] D) El aumento automático de los precios de todos los productos colombianos.
   <!-- feedback: Incorrecto. Vender en el exterior no aumenta automáticamente los precios internos; los precios dependen de la oferta y la demanda en cada mercado. -->
-
 ### Explicacion Pedagogica
 La globalización es el proceso de integración económica, cultural y tecnológica entre países. Las plataformas digitales permiten a pequeños productores acceder a mercados internacionales, lo que es una oportunidad de crecimiento. Sin embargo, también implica competir con productos de todo el mundo, por lo que la calidad, el diseño y la diferenciación son clave para aprovechar estas oportunidades.
