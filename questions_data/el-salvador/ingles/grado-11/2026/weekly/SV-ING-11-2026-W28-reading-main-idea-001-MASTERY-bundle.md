@@ -25,460 +25,441 @@ creador: "Jules-Agent"
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v1
-**Bloom:** Apply
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.70
+**Contexto:** A reading comprehension exercise in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read the text and identify its main idea: 'Volunteers planted forty trees along the river this spring. Local schools collected plastic and glass, and the river bank now looks completely different.'
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [x] A) A volunteer project changed the river bank
+  <!-- feedback: Both sentences describe the same project and the change it produced, which is the central idea. -->
+- [ ] B) Plastic and glass are dangerous for rivers
+  <!-- feedback: That is a general claim the text never makes; it only mentions the collection of waste. -->
+- [ ] C) Local schools dislike planting trees
+  <!-- feedback: The text shows the opposite: the schools took part in the planting effort. -->
+- [ ] D) Spring is the best season for planting
+  <!-- feedback: The season is mentioned once and is not the point the text develops. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
+The whole text describes one project and its visible result, so the main idea is what the tree planting achieved along the river.
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.70
+**Contexto:** A reading strategy lesson in a school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which sentence best expresses the main idea of a text about a library that lends books and also runs reading clubs on Saturdays?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) Reading clubs are more useful than borrowing books
+  <!-- feedback: The text describes both without ranking them, so this adds a judgement it does not make. -->
+- [x] B) The library lends books and organises reading clubs
+  <!-- feedback: This names both activities the text describes, which is what a main idea must do. -->
+- [ ] C) Saturdays are busy at the library
+  <!-- feedback: That is a single detail about one day rather than the idea the whole text supports. -->
+- [ ] D) Libraries should not lend books on Saturdays
+  <!-- feedback: The text gives no recommendation of that kind, so this contradicts the information. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
+The main idea covers both functions described, so the best statement names the library and its two activities together.
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v3
 **Bloom:** Analyze
-**EJE:** reading main idea
+**EJE:** reading-main-idea
 **Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A reading comprehension task in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read the passage and choose the main idea: 'Every morning before school, Ana walks her dog in the park. She has done this for three years and knows every regular there by name.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) The park is empty in the early morning
+  <!-- feedback: The text says she knows the regulars, which implies the opposite of an empty park. -->
+- [ ] B) Ana dislikes walking in the park
+  <!-- feedback: Knowing the regulars by name suggests she enjoys the routine, which is the opposite. -->
+- [x] C) Ana keeps a daily morning routine with her dog
+  <!-- feedback: The habit of three years is the point of the passage, and both sentences support it. -->
+- [ ] D) Dogs should not be walked before school
+  <!-- feedback: The text makes no comment on whether the habit is appropriate. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
+Both sentences describe Ana's long-standing morning routine with her dog and the familiarity it has brought.
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Understand
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading comprehension lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What is the main idea of a text that explains how a school reduced its water use?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) Water is a natural resource
+  <!-- feedback: That is a general fact stated anywhere, not the specific point the text develops. -->
+- [ ] B) Students should wash less often
+  <!-- feedback: No such recommendation appears; the text reports measures the school took itself. -->
+- [ ] C) Schools in the region use a lot of water
+  <!-- feedback: That would be a generalisation about many schools rather than this one's achievement. -->
+- [x] D) The school managed to use less water
+  <!-- feedback: The purpose of such a text is to report a change achieved, which is the central idea. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 5 [D5-D6]
+A text about reducing water use centres on the measures taken and the results they produced, so the main idea must include the change.
+## Question 5 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A lesson on main idea and detail in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which detail is a main idea rather than a supporting detail?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [ ] A) 'The panels were installed in April by a local company'
+  <!-- feedback: The date and the company support the main point but do not constitute it themselves. -->
+- [ ] B) 'The roof of the building was rebuilt'
+  <!-- feedback: This is a background fact about the building that does not express the point of the text. -->
+- [ ] C) 'The school has about six hundred students'
+  <!-- feedback: The number of students is context, not the central message about the panels. -->
+- [x] D) 'Solar panels now supply the school's electricity'
+  <!-- feedback: This statement carries the purpose of the whole text and is not limited to one part of it. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
+A main idea is the point the whole text serves, while a detail is one fact used to support it.
+## Question 6 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.70
+**Contexto:** A reading comprehension exercise in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read and choose the main idea: 'The city closed several roads near the stadium so that thousands of fans could arrive safely on foot instead of driving.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) Thousands of fans came to the stadium that day
+  <!-- feedback: That is a fact mentioned in passing, not the point the sentence is serving. -->
+- [ ] B) Cars are dangerous in city centres
+  <!-- feedback: The text does not generalise about cars; it reports one specific measure on one occasion. -->
+- [x] C) Roads were closed to keep fans safe on the way to the stadium
+  <!-- feedback: The action and its purpose are stated in one sentence, which makes it the central point. -->
+- [ ] D) The stadium should be moved out of the city
+  <!-- feedback: No such proposal appears anywhere in the text. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
+The text gives a measure taken and the reason for it, so the main idea is about protecting fans around the stadium.
+## Question 7 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading strategy explanation in an English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What is the difference between a main idea and a topic?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) They are two words for exactly the same thing.
+  <!-- feedback: The topic is narrower than the claim the text makes, so they are not identical. -->
+- [x] B) The topic names the subject; the main idea states what is said about it
+  <!-- feedback: A topic is broad and a main idea is a complete claim about that subject. -->
+- [ ] C) The main idea is always the title of the text.
+  <!-- feedback: A title often hints at the topic, but the main idea is a statement, not a title. -->
+- [ ] D) A text has a main idea but never a topic.
+  <!-- feedback: Every text has a topic; the main idea is the extra step of stating a claim. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
+The topic names the subject area of a text, while the main idea states what the text actually says about that subject.
+## Question 8 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**EJE:** reading main idea
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**EJE:** reading-main-idea
+**Expected_Success:** 0.65
+**Contexto:** A reading comprehension exercise in a school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read the text and choose the main idea: 'Many small farmers stopped using chemical fertilisers after learning that overuse had left the soil exhausted, and their harvests became cheaper and healthier.'
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [x] A) Small farmers changed their methods for better results
+  <!-- feedback: The cause and its two effects together form the central point of the passage. -->
+- [ ] B) Chemical fertilisers should be banned everywhere
+  <!-- feedback: The text reports a change of practice, not a general prohibition it advocates. -->
+- [ ] C) Farming is the most important activity in a country
+  <!-- feedback: That broad claim is not made anywhere in the passage. -->
+- [ ] D) Soil exhaustion is impossible to repair
+  <!-- feedback: The passage shows the opposite, since the harvests improved after the change. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 9 [D5-D6]
+The text links a change in farming practice to two results, and that link is what the whole passage is about.
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.70
+**Contexto:** A summarizing exercise in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which sentence states a main idea that covers the whole of a short text?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) The roof of the theatre leaked for years
+  <!-- feedback: This covers only one part of the text and would leave the rest unexplained. -->
+- [x] B) The text explains how the old theatre was restored
+  <!-- feedback: Every part of the text would contribute to that explanation, which is the test of a main idea. -->
+- [ ] C) The city restored several old buildings
+  <!-- feedback: This is broader than the text and would not identify what this particular text is about. -->
+- [ ] D) Restoration work can be very expensive
+  <!-- feedback: That is a general comment the text does not necessarily make at all. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
+A good main idea must be true of the entire text, not only of the first or last sentence, and must state a complete claim.
+## Question 10 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.70
+**Contexto:** A reading comprehension task in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Read and choose the main idea: 'A small library that had only printed books began lending tablets as well, and soon elderly visitors who rarely read print were visiting every week.'
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [ ] A) Printed books are no longer worth reading
+  <!-- feedback: The library kept its printed books, so the text does not argue for abandoning them. -->
+- [ ] B) Tablets are cheaper than printed books
+  <!-- feedback: No comparison of cost appears anywhere in the passage. -->
+- [ ] C) Elderly people cannot learn to use new technology
+  <!-- feedback: The text shows them using the tablets with ease, which contradicts the claim. -->
+- [x] D) Adding tablets brought older readers to the library
+  <!-- feedback: The change and its effect on visitors form the connected central point. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
+The passage reports a change and its effect on a specific group, and that is the claim the whole text supports.
+## Question 11 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read the text and choose its main idea: 'The council planted trees along the avenue, and during the following summer the temperature at midday was noticeably lower than before.'
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) Avenues are usually wider than side streets
+  <!-- feedback: The sentence compares widths, which the text never discusses. -->
+- [ ] B) Summer is hotter than every other season
+  <!-- feedback: The text mentions only one summer and makes no such comparison. -->
+- [x] C) Planting trees lowered the temperature along the avenue
+  <!-- feedback: The action and its measured effect together form the central claim. -->
+- [ ] D) The council ignored the views of residents
+  <!-- feedback: Nothing in the passage suggests any disagreement with the public. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 12 [D7-D8]
+The passage connects an action taken with a measured result, and that link is the point the whole text serves.
+## Question 12 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which sentence would make the best topic sentence for a paragraph about the value of a school library?
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] B) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [x] A) A school library gives students access to resources they cannot easily find elsewhere.
+  <!-- feedback: It names the subject and opens a claim that several sentences can develop. -->
+- [ ] B) I went to the library on Tuesday afternoon at about four.
+  <!-- feedback: It reports one personal visit, which is too narrow to govern a paragraph. -->
+- [ ] C) The word library comes from the Latin word for books.
+  <!-- feedback: The etymology introduces a different subject from the paragraph's point. -->
+- [ ] D) Books are made of paper that comes from trees.
+  <!-- feedback: The sentence changes the subject to the raw material of books. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 13 [D7-D8]
+A topic sentence must be general enough to be developed and must name the subject the paragraph will explain.
+## Question 13 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** reading main idea
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read and identify the main idea: 'Fewer students chose the optional computing course this year, and the teachers decided to review how it was advertised to beginners.'
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [ ] A) Computing is not useful for most students
+  <!-- feedback: The text never evaluates the subject, only its uptake. -->
+- [ ] B) Teachers should stop offering optional courses
+  <!-- feedback: No such recommendation appears in the passage. -->
+- [ ] C) Advertising for courses is always ineffective
+  <!-- feedback: The text describes one case and draws no general conclusion. -->
+- [x] D) Falling enrolment led to a review of how the course was advertised
+  <!-- feedback: The decline and the resulting decision form the connected central point. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 14 [D7-D8]
+The text reports a decline and the response taken, and that combination is what the passage is about.
+## Question 14 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which detail is NOT part of the main idea of a text about a town that introduced a recycling scheme?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] B) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) That most households now separate their waste
+  <!-- feedback: This shows how the scheme worked, which supports the main point. -->
+- [x] B) The colour of the bins placed on the street
+  <!-- feedback: This is incidental information that the argument does not need. -->
+- [ ] C) That the amount collected each week has risen
+  <!-- feedback: The result confirms the scheme's success and belongs with the main idea. -->
+- [ ] D) That the council spent money on new vehicles
+  <!-- feedback: This explains how the scheme was carried out and supports the claim. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 15 [D7-D8]
+A supporting detail explains or illustrates the main point, so it can be removed without destroying the central message.
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+How would you summarise the main idea of a text that describes three different methods for reducing food waste?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [x] A) It presents several practical ways of cutting food waste
+  <!-- feedback: The summary captures what all three methods have in common. -->
+- [ ] B) The first method involves storing bread in the freezer
+  <!-- feedback: That is one detail of one method, which a summary must generalise. -->
+- [ ] C) The third method was suggested by a shop nearby
+  <!-- feedback: The source of one suggestion is a detail, not the shared point. -->
+- [ ] D) Food waste has increased in the last ten years
+  <!-- feedback: That is a background claim the text does not necessarily make. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
+A summary must cover the shared purpose of the methods described and leave out the detail of each individual one.
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v16
-**Bloom:** Apply
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Read and choose the main idea: 'Some students in the orchestra had never played an instrument, so the conductor ran two introductory sessions before the first rehearsal.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: 'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' is used with 'you', 'we' and 'they', never with the singular 'I'. -->
-- [ ] D) be
-  <!-- feedback: After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit. -->
+- [ ] A) The orchestra performed better than other orchestras
+  <!-- feedback: No comparison with other orchestras appears anywhere in the text. -->
+- [ ] B) Learning music is easier than learning a language
+  <!-- feedback: The text draws no comparison between music and language learning. -->
+- [x] C) Introductory sessions were added to prepare new players
+  <!-- feedback: The problem and the measure taken together make the point of the passage. -->
+- [ ] D) The conductor did not enjoy working with beginners
+  <!-- feedback: Nothing in the passage expresses the conductor's feelings about beginners. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 17 [D9-D10]
+The passage explains a difficulty and the practical step taken to overcome it, which is the central matter.
+## Question 17 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** reading main idea
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What is the best test of whether a sentence is the main idea of a text?
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: 'Benevolent' describes a person who is kind and ready to give help to others. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: That is the opposite of benevolent, whose root means well-wishing. -->
-- [ ] C) Quick and fast
-  <!-- feedback: Those describe speed; benevolent refers to character and generosity. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: Those describe laziness, the opposite of a generous attitude towards others. -->
+- [ ] A) Whether it appears more than twice in the passage
+  <!-- feedback: Repetition of a word or phrase is not the test of a main idea. -->
+- [x] B) Whether the rest of the text is needed to explain it
+  <!-- feedback: If the sentence needs all the others to make sense, it is the main idea. -->
+- [ ] C) Whether it is longer than the other sentences
+  <!-- feedback: Length has no bearing on whether a sentence states the central point. -->
+- [ ] D) Whether it contains the word used in the title
+  <!-- feedback: A text can name its topic in the title without repeating it word for word. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
+A main idea must account for the whole text, and deleting the rest of the passage should leave the sense intact.
+## Question 18 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** reading main idea
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Read and choose the main idea: 'The old cinema had been closed for years, and after a local group raised the money, its roof was repaired and it reopened with a small stage inside.'
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: The text names exactly two things bees do: pollinating flowers and making honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: Nothing in the text says bees are dangerous; it describes useful work they do. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text gives pollination as another thing bees do, so honey is not the only product. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: The text says bees help pollinate flowers, so flowers do rely on them. -->
+- [x] A) A closed cinema was repaired and reopened by local effort
+  <!-- feedback: The transformation and the people behind it form the central narrative. -->
+- [ ] B) Small theatres are more popular than large ones
+  <!-- feedback: The passage draws no general conclusion about the size of venues. -->
+- [ ] C) Cinemas in the region have all closed
+  <!-- feedback: Only one building is discussed, so no regional claim is made. -->
+- [ ] D) Roof repairs are always expensive
+  <!-- feedback: The cost of repairs is not mentioned in the text at all. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 19 [D9-D10]
+The passage traces a change in one building from closure to reopening, which is what the whole text is about.
+## Question 19 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which sentence is a supporting detail for a paragraph whose topic sentence is 'Public libraries give free access to knowledge'?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: 'Went' is the irregular past simple of 'go'. -->
-- [ ] A) goed
-  <!-- feedback: English does not add -ed to spell the past of 'go'; the past form is irregular. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle used after 'have', not the past simple. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'is' or 'are', not the past simple. -->
+- [ ] A) Knowledge is one of the most discussed ideas in education.
+  <!-- feedback: The general claim would sit better as a topic sentence than as support for one. -->
+- [ ] B) Libraries usually have more books than bookshops.
+  <!-- feedback: The comparison of stock levels does not illustrate free access to knowledge. -->
+- [x] C) Members can borrow up to eight books at a time without paying anything.
+  <!-- feedback: The sentence shows how the free access described actually works in practice. -->
+- [ ] D) Some libraries close during the afternoon.
+  <!-- feedback: This describes opening hours and does not support the claim about free access. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 20 [D9-D10]
+A supporting detail illustrates or proves the general claim made in the topic sentence.
+## Question 20 [D3-D4]
 **ID:** SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** reading main idea
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** reading-main-idea
+**Expected_Success:** 0.75
+**Contexto:** A reading skills lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Read the paragraph and identify its main idea: 'The committee rejected the first design because the roof leaked. It approved the second design, which included new drainage and a steeper pitch, and construction began in March.'
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: The third person singular of 'go' takes -s, and 'every day' asks for the present simple. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject. -->
+- [ ] A) Building committees should always meet in public
+  <!-- feedback: The text says nothing about how the committee conducts its meetings. -->
+- [ ] B) Steep roofs are more expensive to build
+  <!-- feedback: That detail about cost is never mentioned in the passage. -->
+- [ ] C) The first design was better than the second one
+  <!-- feedback: The text reports the opposite, since the second design was approved. -->
+- [x] D) A second design was approved after fixing the leaking roof
+  <!-- feedback: The rejection, the change and the approval form the connected central point. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+The paragraph follows a design through rejection to approval, and the reason for the change is the point it develops.

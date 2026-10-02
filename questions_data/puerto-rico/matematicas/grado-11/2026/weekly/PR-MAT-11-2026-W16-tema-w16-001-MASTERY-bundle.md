@@ -73,13 +73,13 @@ El Teorema de Tales de Mileto postula fundamentalmente la proporcionalidad entre
 Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] D) 14 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 28 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 4 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] C) 56 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] D) 14 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{4}{8} = \frac{h}{28}$ implica $h = 14$ metros. -->
+- [ ] A) 28 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 4 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] C) 18 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{4}{8} = \frac{h}{28} \implies \frac{1}{2} = \frac{h}{28} \implies h = 14$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{4}{8} = \frac{h}{28} \implies \frac{4}{8} = \frac{h}{28} \implies h = 14$ metros.
 
 ---
 
@@ -94,17 +94,15 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 Un poste de 3 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [ ] B) 18 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 3 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 36 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [x] A) 9 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
+- [x] C) 9 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{3}{6} = \frac{h}{18}$ implica $h = 9$ metros. -->
+- [ ] A) 18 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 3 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 12 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{3}{6} = \frac{h}{18} \implies \frac{1}{2} = \frac{h}{18} \implies h = 9$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{3}{6} = \frac{h}{18} \implies \frac{3}{6} = \frac{h}{18} \implies h = 9$ metros.
 
 ---
-
-## Bloque B — Nivel D5–D6: Desarrollo y Conceptos de Geometría: Semejanza y Teorema de Tales
 
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v5
@@ -117,13 +115,13 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 20 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] A) 10 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] B) 20 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 40 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
+- [x] B) 10 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{5}{10} = \frac{h}{20}$ implica $h = 10$ metros. -->
+- [ ] A) 20 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 5 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 15 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{20} \implies \frac{1}{2} = \frac{h}{20} \implies h = 10$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{5}{10} = \frac{h}{20} \implies \frac{5}{10} = \frac{h}{20} \implies h = 10$ metros.
 
 ---
 
@@ -135,16 +133,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Trujillo Alto, María estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.
 
 ### Enunciado
-Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
+Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] B) 11 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 22 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 4 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 44 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] A) 11 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{6}{12} = \frac{h}{22}$ implica $h = 11$ metros. -->
+- [ ] B) 22 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 6 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 17 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{4}{8} = \frac{h}{22} \implies \frac{1}{2} = \frac{h}{22} \implies h = 11$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{6}{12} = \frac{h}{22} \implies \frac{6}{12} = \frac{h}{22} \implies h = 11$ metros.
 
 ---
 
@@ -156,16 +154,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Utuado, Sofía analiza un problema de modelación matemática para un proyecto de la Escuela Superior Luis Muñoz Rivera.
 
 ### Enunciado
-Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
+Un poste de 2 metros de altura proyecta una sombra de 4 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] B) 11 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 22 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 44 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 6 metros <!-- feedback: Incorrecto. Altura del poste. -->
+- [x] D) 12 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{2}{4} = \frac{h}{24}$ implica $h = 12$ metros. -->
+- [ ] A) 24 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 2 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] C) 14 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{6}{12} = \frac{h}{22} \implies \frac{1}{2} = \frac{h}{22} \implies h = 11$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{2}{4} = \frac{h}{24} \implies \frac{2}{4} = \frac{h}{24} \implies h = 12$ metros.
 
 ---
 
@@ -177,16 +175,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Isabela, María diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Francisco Mendoza.
 
 ### Enunciado
-Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
+Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] B) 11 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 22 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 44 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 6 metros <!-- feedback: Incorrecto. Altura del poste. -->
+- [x] C) 9 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{5}{10} = \frac{h}{18}$ implica $h = 9$ metros. -->
+- [ ] A) 18 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 5 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 14 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{6}{12} = \frac{h}{22} \implies \frac{1}{2} = \frac{h}{22} \implies h = 11$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{5}{10} = \frac{h}{18} \implies \frac{5}{10} = \frac{h}{18} \implies h = 9$ metros.
 
 ---
 
@@ -198,16 +196,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Río Piedras, Sebastián estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Ramón Power y Giralt.
 
 ### Enunciado
-Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
+Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [ ] A) 18 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 36 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] C) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [x] D) 9 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
+- [x] B) 15 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{5}{10} = \frac{h}{30}$ implica $h = 15$ metros. -->
+- [ ] A) 30 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 5 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 20 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{18} \implies \frac{1}{2} = \frac{h}{18} \implies h = 9$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{5}{10} = \frac{h}{30} \implies \frac{5}{10} = \frac{h}{30} \implies h = 15$ metros.
 
 ---
 
@@ -219,20 +217,18 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Cidra, Diego estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Luis Muñoz Iglesias.
 
 ### Enunciado
-Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
+Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] C) 15 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 30 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 60 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] A) 12 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{6}{12} = \frac{h}{24}$ implica $h = 12$ metros. -->
+- [ ] B) 24 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 6 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 18 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{30} \implies \frac{1}{2} = \frac{h}{30} \implies h = 15$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{6}{12} = \frac{h}{24} \implies \frac{6}{12} = \frac{h}{24} \implies h = 12$ metros.
 
 ---
-
-## Bloque C — Nivel D7–D8: Aplicaciones y Ejercicios Prácticos de Geometría: Semejanza y Teorema de Tales
 
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v11
@@ -242,16 +238,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Como parte de las olimpiades científicas en Aguadilla, Sofía aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.
 
 ### Enunciado
-Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
+Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] A) 11 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] B) 22 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 44 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
+- [x] D) 15 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{4}{8} = \frac{h}{30}$ implica $h = 15$ metros. -->
+- [ ] A) 30 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 4 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] C) 19 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{22} \implies \frac{1}{2} = \frac{h}{22} \implies h = 11$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{4}{8} = \frac{h}{30} \implies \frac{4}{8} = \frac{h}{30} \implies h = 15$ metros.
 
 ---
 
@@ -263,16 +259,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Francisco.
 
 ### Enunciado
-Un poste de 2 metros de altura proyecta una sombra de 4 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?
+Un poste de 3 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] C) 12 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 2 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] B) 24 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] D) 48 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] C) 11 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{3}{6} = \frac{h}{22}$ implica $h = 11$ metros. -->
+- [ ] A) 22 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 3 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 14 metros <!-- feedback: Incorrecto. Es la suma de la altura del poste con la altura correcta, una operación que el enunciado no pide. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{2}{4} = \frac{h}{24} \implies \frac{1}{2} = \frac{h}{24} \implies h = 12$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{3}{6} = \frac{h}{22} \implies \frac{3}{6} = \frac{h}{22} \implies h = 11$ metros.
 
 ---
 
@@ -284,16 +280,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Cayey, Sebastián diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Miguel Meléndez Muñoz.
 
 ### Enunciado
-Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?
+Un poste de 3 metros de altura proyecta una sombra de 5 metros. Al mismo tiempo, un edificio proyecta una sombra de 25 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] D) 14 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 28 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 4 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] C) 56 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] B) 15 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{3}{5} = \frac{h}{25}$ implica $h = 15$ metros. -->
+- [ ] A) 25 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 3 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 30 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{4}{8} = \frac{h}{28} \implies \frac{1}{2} = \frac{h}{28} \implies h = 14$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{3}{5} = \frac{h}{25} \implies \frac{3}{5} = \frac{h}{25} \implies h = 15$ metros.
 
 ---
 
@@ -305,16 +301,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Guaynabo, Mateo estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Margarita Janer Palacios.
 
 ### Enunciado
-Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 28 metros. ¿Cuál es la altura del edificio?
+Un poste de 4 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] B) 14 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 28 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 4 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 56 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] A) 12 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{4}{6} = \frac{h}{18}$ implica $h = 12$ metros. -->
+- [ ] B) 18 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 4 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 24 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{4}{8} = \frac{h}{28} \implies \frac{1}{2} = \frac{h}{28} \implies h = 14$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{4}{6} = \frac{h}{18} \implies \frac{4}{6} = \frac{h}{18} \implies h = 12$ metros.
 
 ---
 
@@ -326,16 +322,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Como parte de las olimpiades científicas en Aguadilla, Sebastián aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.
 
 ### Enunciado
-Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
+Un poste de 6 metros de altura proyecta una sombra de 9 metros. Al mismo tiempo, un edificio proyecta una sombra de 27 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] B) 15 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 30 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 60 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] D) 18 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{6}{9} = \frac{h}{27}$ implica $h = 18$ metros. -->
+- [ ] A) 27 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 6 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] C) 36 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{30} \implies \frac{1}{2} = \frac{h}{30} \implies h = 15$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{6}{9} = \frac{h}{27} \implies \frac{6}{9} = \frac{h}{27} \implies h = 18$ metros.
 
 ---
 
@@ -347,20 +343,18 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, Mariana resuelve un ejercicio propuesto.
 
 ### Enunciado
-Un poste de 6 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?
+Un poste de 8 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 21 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] A) 12 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] B) 24 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 48 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 6 metros <!-- feedback: Incorrecto. Altura del poste. -->
+- [x] C) 14 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{8}{12} = \frac{h}{21}$ implica $h = 14$ metros. -->
+- [ ] A) 21 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 8 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 28 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{6}{12} = \frac{h}{24} \implies \frac{1}{2} = \frac{h}{24} \implies h = 12$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{8}{12} = \frac{h}{21} \implies \frac{8}{12} = \frac{h}{21} \implies h = 14$ metros.
 
 ---
-
-## Bloque D — Nivel D9–D10: Álgebra Avanzada y Modelos Complejos de Geometría: Semejanza y Teorema de Tales
 
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W16-tema-w16-001-MASTERY-bundle-v17
@@ -370,16 +364,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Carolina, Mariana analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ana Roque de Duprey.
 
 ### Enunciado
-Un poste de 2 metros de altura proyecta una sombra de 4 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
+Un poste de 5 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 24 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [ ] A) 18 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 2 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] D) 36 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [x] C) 9 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
+- [x] B) 15 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{5}{8} = \frac{h}{24}$ implica $h = 15$ metros. -->
+- [ ] A) 24 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 5 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 30 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{2}{4} = \frac{h}{18} \implies \frac{1}{2} = \frac{h}{18} \implies h = 9$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{5}{8} = \frac{h}{24} \implies \frac{5}{8} = \frac{h}{24} \implies h = 15$ metros.
 
 ---
 
@@ -391,16 +385,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Margarita Janer Palacios en Guaynabo realiza una investigación guiada por Valentina.
 
 ### Enunciado
-Un poste de 4 metros de altura proyecta una sombra de 8 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
+Un poste de 9 metros de altura proyecta una sombra de 12 metros. Al mismo tiempo, un edificio proyecta una sombra de 20 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] D) 15 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 30 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 4 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] C) 60 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] A) 15 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{9}{12} = \frac{h}{20}$ implica $h = 15$ metros. -->
+- [ ] B) 20 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] C) 9 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 30 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{4}{8} = \frac{h}{30} \implies \frac{1}{2} = \frac{h}{30} \implies h = 15$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{9}{12} = \frac{h}{20} \implies \frac{9}{12} = \frac{h}{20} \implies h = 15$ metros.
 
 ---
 
@@ -412,16 +406,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** En Arecibo, Sofía diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Marín.
 
 ### Enunciado
-Un poste de 3 metros de altura proyecta una sombra de 6 metros. Al mismo tiempo, un edificio proyecta una sombra de 22 metros. ¿Cuál es la altura del edificio?
+Un poste de 7 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 30 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [x] D) 11 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
-- [ ] A) 22 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] B) 3 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [ ] C) 44 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
+- [x] D) 21 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{7}{10} = \frac{h}{30}$ implica $h = 21$ metros. -->
+- [ ] A) 30 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 7 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] C) 42 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{3}{6} = \frac{h}{22} \implies \frac{1}{2} = \frac{h}{22} \implies h = 11$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{7}{10} = \frac{h}{30} \implies \frac{7}{10} = \frac{h}{30} \implies h = 21$ metros.
 
 ---
 
@@ -433,15 +427,16 @@ Por la semejanza de los triángulos formados por la luz del sol, la razón entre
 **Contexto:** Como parte de las olimpiades científicas en Aguadilla, Carlos aplica conceptos algebraicos en la Escuela Superior Juan Suárez Pelegrina.
 
 ### Enunciado
-Un poste de 5 metros de altura proyecta una sombra de 10 metros. Al mismo tiempo, un edificio proyecta una sombra de 18 metros. ¿Cuál es la altura del edificio?
+Un poste de 10 metros de altura proyecta una sombra de 15 metros. Al mismo tiempo, un edificio proyecta una sombra de 27 metros. ¿Cuál es la altura del edificio?
 
 ### Opciones
-- [ ] A) 18 metros <!-- feedback: Incorrecto. Esta es la sombra, no la altura. -->
-- [ ] C) 36 metros <!-- feedback: Incorrecto. Altura sobredimensionada. -->
-- [ ] D) 5 metros <!-- feedback: Incorrecto. Altura del poste. -->
-- [x] B) 9 metros <!-- feedback: Correcto. Por semejanza de triángulos, la relación es constante. -->
+- [x] C) 18 metros <!-- feedback: Correcto. La razón entre la altura y la sombra se conserva: $\frac{10}{15} = \frac{h}{27}$ implica $h = 18$ metros. -->
+- [ ] A) 27 metros <!-- feedback: Incorrecto. Ese es el largo de la sombra del edificio, no su altura. -->
+- [ ] B) 10 metros <!-- feedback: Incorrecto. Esa es la altura del poste; la razón debe aplicarse a la sombra del edificio. -->
+- [ ] D) 36 metros <!-- feedback: Incorrecto. Es el doble de la altura correcta; se obtiene al invertir el sentido de la razón. -->
 
 ### Explicacion Pedagogica
-Por la semejanza de los triángulos formados por la luz del sol, la razón entre la altura y la sombra es constante: $\frac{\text{altura poste}}{\text{sombra poste}} = \frac{\text{altura edificio}}{\text{sombra edificio}} \implies \frac{5}{10} = \frac{h}{18} \implies \frac{1}{2} = \frac{h}{18} \implies h = 9$ metros.
+La luz del sol forma triángulos semejantes con el poste y con el edificio, así que la razón entre la altura y su sombra es la misma en ambos: $\frac{10}{15} = \frac{h}{27} \implies \frac{10}{15} = \frac{h}{27} \implies h = 18$ metros.
 
 ---
+

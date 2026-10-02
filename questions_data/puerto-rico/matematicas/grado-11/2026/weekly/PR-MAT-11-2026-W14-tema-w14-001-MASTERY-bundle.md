@@ -73,13 +73,13 @@ El punto medio es $M = \left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}, \frac{z_1+z_2
 Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(5, 3, 15)$.
 
 ### Opciones
-- [ ] B) $x = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] A) $z = 15$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] B) $z = 15$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(5, 3, 15)$ esa constante vale $15$. -->
+- [ ] A) $x = 5$ <!-- feedback: Incorrecto. La ecuación $x = 5$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] C) $y = 3$ <!-- feedback: Incorrecto. La ecuación $y = 3$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] D) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(5, 3, 15)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(5, 3, 15)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 15$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(5, 3, 15)$, la constante es $C = 15$ y la ecuación resulta $z = 15$.
 
 ---
 
@@ -91,20 +91,18 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Arecibo, Ana aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Marín.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(3, 4, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(4, 6, 20)$.
 
 ### Opciones
-- [ ] B) $x = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] A) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] A) $x = 4$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(4, 6, 20)$ esa constante vale $4$. -->
+- [ ] B) $y = 6$ <!-- feedback: Incorrecto. La ecuación $y = 6$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] C) $z = 20$ <!-- feedback: Incorrecto. La ecuación $z = 20$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(4, 6, 20)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(3, 4, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(4, 6, 20)$, la constante es $C = 4$ y la ecuación resulta $x = 4$.
 
 ---
-
-## Bloque B — Nivel D5–D6: Desarrollo y Conceptos de Geometría: Puntos, Rectas y Planos
 
 ## Question 5 [D5]
 **ID:** PR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v5
@@ -114,16 +112,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Cidra, Carlos aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Iglesias.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(5, 2, 10)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(2, 7, 9)$.
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] B) $z = 10$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] D) $y = 7$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(2, 7, 9)$ esa constante vale $7$. -->
+- [ ] A) $x = 2$ <!-- feedback: Incorrecto. La ecuación $x = 2$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] B) $z = 9$ <!-- feedback: Incorrecto. La ecuación $z = 9$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] C) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(2, 7, 9)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(5, 2, 10)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 10$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(2, 7, 9)$, la constante es $C = 7$ y la ecuación resulta $y = 7$.
 
 ---
 
@@ -135,16 +133,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Humacao, Francisco diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(3, 4, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(6, 2, 12)$.
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] B) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] C) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(6, 2, 12)$ esa constante vale $12$. -->
+- [ ] A) $x = 6$ <!-- feedback: Incorrecto. La ecuación $x = 6$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] B) $y = 2$ <!-- feedback: Incorrecto. La ecuación $y = 2$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] D) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(6, 2, 12)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(3, 4, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(6, 2, 12)$, la constante es $C = 12$ y la ecuación resulta $z = 12$.
 
 ---
 
@@ -156,16 +154,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Trujillo Alto, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Medardo Carazo.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(4, 5, 20)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(3, 5, 25)$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 20$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] B) $x = 3$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(3, 5, 25)$ esa constante vale $3$. -->
+- [ ] A) $y = 5$ <!-- feedback: Incorrecto. La ecuación $y = 5$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] C) $z = 25$ <!-- feedback: Incorrecto. La ecuación $z = 25$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(3, 5, 25)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(4, 5, 20)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 20$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(3, 5, 25)$, la constante es $C = 3$ y la ecuación resulta $x = 3$.
 
 ---
 
@@ -177,16 +175,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Mayagüez, José aplica conceptos algebraicos en la Escuela Superior de Mayagüez (SILA).
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(3, 2, 6)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(7, 3, 11)$.
 
 ### Opciones
-- [ ] A) $x = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 6$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] A) $y = 3$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(7, 3, 11)$ esa constante vale $3$. -->
+- [ ] B) $x = 7$ <!-- feedback: Incorrecto. La ecuación $x = 7$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] C) $z = 11$ <!-- feedback: Incorrecto. La ecuación $z = 11$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(7, 3, 11)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(3, 2, 6)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 6$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(7, 3, 11)$, la constante es $C = 3$ y la ecuación resulta $y = 3$.
 
 ---
 
@@ -201,13 +199,13 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(4, 2, 8)$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 8$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] D) $z = 8$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(4, 2, 8)$ esa constante vale $8$. -->
+- [ ] A) $x = 4$ <!-- feedback: Incorrecto. La ecuación $x = 4$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] B) $y = 2$ <!-- feedback: Incorrecto. La ecuación $y = 2$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] C) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(4, 2, 8)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(4, 2, 8)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 8$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(4, 2, 8)$, la constante es $C = 8$ y la ecuación resulta $z = 8$.
 
 ---
 
@@ -219,20 +217,18 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Río Piedras, Luis analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ramón Power y Giralt.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(5, 2, 10)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(6, 5, 14)$.
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] C) $z = 10$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] C) $x = 6$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(6, 5, 14)$ esa constante vale $6$. -->
+- [ ] A) $y = 5$ <!-- feedback: Incorrecto. La ecuación $y = 5$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] B) $z = 14$ <!-- feedback: Incorrecto. La ecuación $z = 14$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(6, 5, 14)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(5, 2, 10)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 10$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(6, 5, 14)$, la constante es $C = 6$ y la ecuación resulta $x = 6$.
 
 ---
-
-## Bloque C — Nivel D7–D8: Aplicaciones y Ejercicios Prácticos de Geometría: Puntos, Rectas y Planos
 
 ## Question 11 [D7]
 **ID:** PR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v11
@@ -242,16 +238,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Un grupo de estudiantes de la Escuela Superior Juan Suárez Pelegrina en Aguadilla realiza una investigación guiada por Diego.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(5, 5, 25)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(3, 4, 13)$.
 
 ### Opciones
-- [ ] A) $x = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 25$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] B) $y = 4$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(3, 4, 13)$ esa constante vale $4$. -->
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. La ecuación $x = 3$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] C) $z = 13$ <!-- feedback: Incorrecto. La ecuación $z = 13$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(3, 4, 13)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(5, 5, 25)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 25$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(3, 4, 13)$, la constante es $C = 4$ y la ecuación resulta $y = 4$.
 
 ---
 
@@ -263,16 +259,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Yauco, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Loaiza Cordero.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(6, 2, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(8, 3, 17)$.
 
 ### Opciones
-- [ ] A) $x = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] A) $z = 17$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(8, 3, 17)$ esa constante vale $17$. -->
+- [ ] B) $x = 8$ <!-- feedback: Incorrecto. La ecuación $x = 8$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] C) $y = 3$ <!-- feedback: Incorrecto. La ecuación $y = 3$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] D) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(8, 3, 17)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(6, 2, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(8, 3, 17)$, la constante es $C = 17$ y la ecuación resulta $z = 17$.
 
 ---
 
@@ -284,16 +280,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Utuado, Isabella aplica conceptos algebraicos en la Escuela Superior Luis Muñoz Rivera.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(6, 6, 36)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(5, 6, 19)$.
 
 ### Opciones
-- [ ] A) $x = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] C) $z = 36$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] D) $x = 5$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(5, 6, 19)$ esa constante vale $5$. -->
+- [ ] A) $y = 6$ <!-- feedback: Incorrecto. La ecuación $y = 6$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] B) $z = 19$ <!-- feedback: Incorrecto. La ecuación $z = 19$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] C) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(5, 6, 19)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(6, 6, 36)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 36$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(5, 6, 19)$, la constante es $C = 5$ y la ecuación resulta $x = 5$.
 
 ---
 
@@ -305,16 +301,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Humacao, Sofía diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(3, 3, 9)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(4, 7, 23)$.
 
 ### Opciones
-- [ ] B) $x = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] A) $z = 9$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] C) $y = 7$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(4, 7, 23)$ esa constante vale $7$. -->
+- [ ] A) $x = 4$ <!-- feedback: Incorrecto. La ecuación $x = 4$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] B) $z = 23$ <!-- feedback: Incorrecto. La ecuación $z = 23$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(4, 7, 23)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(3, 3, 9)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 9$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(4, 7, 23)$, la constante es $C = 7$ y la ecuación resulta $y = 7$.
 
 ---
 
@@ -326,16 +322,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Cayey, Carmen aplica conceptos algebraicos en la Escuela Superior Miguel Meléndez Muñoz.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(4, 3, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(2, 5, 22)$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] B) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] B) $z = 22$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(2, 5, 22)$ esa constante vale $22$. -->
+- [ ] A) $x = 2$ <!-- feedback: Incorrecto. La ecuación $x = 2$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] C) $y = 5$ <!-- feedback: Incorrecto. La ecuación $y = 5$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] D) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(2, 5, 22)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(4, 3, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(2, 5, 22)$, la constante es $C = 22$ y la ecuación resulta $z = 22$.
 
 ---
 
@@ -347,20 +343,18 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Cayey, Gabriel aplica conceptos algebraicos en la Escuela Superior Miguel Meléndez Muñoz.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(4, 6, 24)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(7, 2, 16)$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 24$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] A) $x = 7$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(7, 2, 16)$ esa constante vale $7$. -->
+- [ ] B) $y = 2$ <!-- feedback: Incorrecto. La ecuación $y = 2$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] C) $z = 16$ <!-- feedback: Incorrecto. La ecuación $z = 16$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(7, 2, 16)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(4, 6, 24)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 24$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(7, 2, 16)$, la constante es $C = 7$ y la ecuación resulta $x = 7$.
 
 ---
-
-## Bloque D — Nivel D9–D10: Álgebra Avanzada y Modelos Complejos de Geometría: Puntos, Rectas y Planos
 
 ## Question 17 [D9]
 **ID:** PR-MAT-11-2026-W14-tema-w14-001-MASTERY-bundle-v17
@@ -370,16 +364,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Carolina, Sebastián diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Ana Roque de Duprey.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(2, 6, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(6, 4, 26)$.
 
 ### Opciones
-- [ ] A) $x = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] D) $y = 4$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(6, 4, 26)$ esa constante vale $4$. -->
+- [ ] A) $x = 6$ <!-- feedback: Incorrecto. La ecuación $x = 6$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] B) $z = 26$ <!-- feedback: Incorrecto. La ecuación $z = 26$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] C) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(6, 4, 26)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(2, 6, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(6, 4, 26)$, la constante es $C = 4$ y la ecuación resulta $y = 4$.
 
 ---
 
@@ -391,16 +385,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Como parte de las olimpiades científicas en Bayamón, Isabella aplica conceptos algebraicos en la Escuela Superior Dra. Concepción Aponte.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(2, 6, 12)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(3, 6, 21)$.
 
 ### Opciones
-- [ ] A) $x = 2$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] B) $y = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] C) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] D) $z = 12$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] C) $z = 21$ <!-- feedback: Correcto. Un plano paralelo al plano $xy$ mantiene constante la coordenada $z$, y como pasa por $R(3, 6, 21)$ esa constante vale $21$. -->
+- [ ] A) $x = 3$ <!-- feedback: Incorrecto. La ecuación $x = 3$ describe un plano paralelo al plano $x$, no al plano $xy$. -->
+- [ ] B) $y = 6$ <!-- feedback: Incorrecto. La ecuación $y = 6$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $y$. -->
+- [ ] D) $z = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xy$, que no contiene el punto $R(3, 6, 21)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(2, 6, 12)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 12$.
+El plano de coordenadas $xy$ está definido por la ecuación $z = 0$, de modo que todo plano paralelo a él tiene la forma $z = C$, con $C$ constante. Como el plano buscado pasa por $R(3, 6, 21)$, la constante es $C = 21$ y la ecuación resulta $z = 21$.
 
 ---
 
@@ -412,16 +406,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** Durante un taller de preparación académica en la Escuela Superior Margarita Janer Palacios de Guaynabo, Mateo resuelve un ejercicio propuesto.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(4, 5, 20)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $yz$ y pasa por el punto $R(8, 5, 18)$.
 
 ### Opciones
-- [ ] A) $x = 4$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 5$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] B) $z = 20$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] B) $x = 8$ <!-- feedback: Correcto. Un plano paralelo al plano $yz$ mantiene constante la coordenada $x$, y como pasa por $R(8, 5, 18)$ esa constante vale $8$. -->
+- [ ] A) $y = 5$ <!-- feedback: Incorrecto. La ecuación $y = 5$ describe un plano paralelo al plano $y$, no al plano $yz$. -->
+- [ ] C) $z = 18$ <!-- feedback: Incorrecto. La ecuación $z = 18$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $x = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $yz$, que no contiene el punto $R(8, 5, 18)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(4, 5, 20)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 20$.
+El plano de coordenadas $yz$ está definido por la ecuación $x = 0$, de modo que todo plano paralelo a él tiene la forma $x = C$, con $C$ constante. Como el plano buscado pasa por $R(8, 5, 18)$, la constante es $C = 8$ y la ecuación resulta $x = 8$.
 
 ---
 
@@ -433,15 +427,16 @@ El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo 
 **Contexto:** En Utuado, Alondra diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Luis Muñoz Rivera.
 
 ### Enunciado
-Determina la ecuación del plano que es paralelo al plano de coordenadas $xy$ y pasa por el punto $R(6, 3, 18)$.
+Determina la ecuación del plano que es paralelo al plano de coordenadas $xz$ y pasa por el punto $R(5, 7, 24)$.
 
 ### Opciones
-- [ ] A) $x = 6$ <!-- feedback: Incorrecto. Este es paralelo al plano yz. -->
-- [ ] C) $y = 3$ <!-- feedback: Incorrecto. Este es paralelo al plano xz. -->
-- [ ] D) $z = 0$ <!-- feedback: Incorrecto. Ecuación del propio plano de coordenadas xy. -->
-- [x] B) $z = 18$ <!-- feedback: Correcto. Un plano paralelo al plano xy tiene ecuación constante z. -->
+- [x] A) $y = 7$ <!-- feedback: Correcto. Un plano paralelo al plano $xz$ mantiene constante la coordenada $y$, y como pasa por $R(5, 7, 24)$ esa constante vale $7$. -->
+- [ ] B) $x = 5$ <!-- feedback: Incorrecto. La ecuación $x = 5$ describe un plano paralelo al plano $x$, no al plano $xz$. -->
+- [ ] C) $z = 24$ <!-- feedback: Incorrecto. La ecuación $z = 24$ corresponde a otra coordenada de $R$, pero ese plano es paralelo al plano $z$. -->
+- [ ] D) $y = 0$ <!-- feedback: Incorrecto. El valor $0$ identifica al propio plano de coordenadas $xz$, que no contiene el punto $R(5, 7, 24)$. -->
 
 ### Explicacion Pedagogica
-El plano $xy$ está definido por la ecuación $z = 0$. Cualquier plano paralelo a este tiene la forma $z = C$, donde $C$ es una constante. Dado que el plano debe pasar por el punto $R(6, 3, 18)$, la constante es igual a la coordenada $z$ del punto, es decir, $z = 18$.
+El plano de coordenadas $xz$ está definido por la ecuación $y = 0$, de modo que todo plano paralelo a él tiene la forma $y = C$, con $C$ constante. Como el plano buscado pasa por $R(5, 7, 24)$, la constante es $C = 7$ y la ecuación resulta $y = 7$.
 
 ---
+

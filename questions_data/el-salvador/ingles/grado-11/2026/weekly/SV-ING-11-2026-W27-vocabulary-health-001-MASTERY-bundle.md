@@ -25,460 +25,441 @@ creador: "Jules-Agent"
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v1
-**Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-health
+**Expected_Success:** 0.90
+**Contexto:** A geography lesson in an English class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: a piece of equipment that gives information about the weather.
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] A) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] C) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [x] A) forecast
+  <!-- feedback: 'Forecast' means a prediction of what is going to happen, in this case the weather. -->
+- [ ] B) recipe
+  <!-- feedback: 'Recipe' is a list of ingredients and instructions for cooking a dish. -->
+- [ ] C) rule
+  <!-- feedback: 'Rule' is a statement of what must be done, not a prediction about the weather. -->
+- [ ] D) diagram
+  <!-- feedback: 'Diagram' is a drawing that explains how something works. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
+A 'weather forecast' is the report that predicts what the weather will be like in a given area and period.
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A health vocabulary lesson in a school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What does 'symptom' mean?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
+- [ ] A) The name of the disease itself
+  <!-- feedback: That is the 'illness' or 'disease', not the sign that reveals it. -->
+- [x] B) A change in the body that shows an illness is present
+  <!-- feedback: 'Symptom' is the sign a patient feels or notices when unwell. -->
+- [ ] C) The medicine used to treat an illness
+  <!-- feedback: That is the 'treatment' or the 'drug' prescribed by a doctor. -->
+- [ ] D) The doctor who examines the patient
+  <!-- feedback: That is the 'physician' or 'specialist', not the change in the body. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
+A 'symptom' is a change in the body that signals an illness, such as a fever or a cough, and it is what a patient reports.
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-health
+**Expected_Success:** 0.90
+**Contexto:** A biology lesson in an English class in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct word: the part of the body that pumps blood around it.
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [ ] A) lung
+  <!-- feedback: 'Lungs' are the organs used for breathing, not for pumping blood. -->
+- [ ] B) liver
+  <!-- feedback: 'Liver' processes substances in the body but does not pump the blood. -->
+- [x] C) heart
+  <!-- feedback: 'Heart' is the organ that pumps blood around the body. -->
+- [ ] D) kidney
+  <!-- feedback: 'Kidney' filters the blood, but the organ that pumps it is the heart. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
+The 'heart' is the organ that pumps blood through the body, which is what the question describes.
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** vocabulary health
+**Bloom:** Apply
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A health advice conversation in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Complete the sentence: 'If you feel ill, you should go to the doctor to get some ___.'
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [ ] A) medias
+  <!-- feedback: 'Medias' is not an English word; the correct noun for a remedy is 'medicine'. -->
+- [ ] B) medial
+  <!-- feedback: 'Medial' is an adjective meaning in the middle, not a substance that treats illness. -->
+- [ ] C) message
+  <!-- feedback: 'Message' carries information between people and has no medical meaning here. -->
+- [x] D) medicine
+  <!-- feedback: 'Medicine' is what a doctor prescribes to treat an illness, and we 'take' it. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 5 [D5-D6]
+The word for the substance a doctor prescribes to treat an illness is 'medicine', taken with the verb 'take'.
+## Question 5 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**EJE:** vocabulary health
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A vocabulary exercise on opposites in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which word means the opposite of 'healthy'?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [ ] A) healthful
+  <!-- feedback: 'Healthful' is another word for healthy, so it is the same meaning rather than the opposite. -->
+- [ ] B) health
+  <!-- feedback: 'Health' is the noun naming the state of being well, not its opposite. -->
+- [ ] C) healthiness
+  <!-- feedback: 'Healthiness' is not a standard English word; the correct form is 'unhealthy'. -->
+- [x] D) unhealthy
+  <!-- feedback: 'Unhealthy' means not healthy, and the prefix 'un' reverses the meaning. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
+The opposite of 'healthy' is 'unhealthy', which is built from the prefix 'un' plus the adjective 'healthy'.
+## Question 6 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A routine description in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: the action of washing to keep the body clean.
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] B) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [ ] A) hygeine
+  <!-- feedback: 'Hygeine' drops the letter g, which is missing from the correct spelling. -->
+- [ ] B) hygien
+  <!-- feedback: 'Hygien' omits the final e, so the word is incomplete. -->
+- [x] C) hygiene
+  <!-- feedback: 'Hygiene' names the practice of maintaining cleanliness and health. -->
+- [ ] D) higiene
+  <!-- feedback: 'Higiene' replaces the y with an i, which is not how the word is spelled. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
+'Hygiene' is the practice of keeping the body and the living space clean in order to stay healthy.
+## Question 7 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v7
 **Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A reading comprehension task in a school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What does the word 'recovery' mean in 'his recovery after surgery was quick'?
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
+- [ ] A) The process of falling ill for the first time
+  <!-- feedback: That is the 'onset' of the illness, the opposite stage. -->
+- [x] B) The process of becoming well again after an illness
+  <!-- feedback: 'Recovery' names the return to health, which happened quickly in the example. -->
+- [ ] C) The medical study of a particular disease
+  <!-- feedback: That is 'research' or a 'field of medicine', not the patient's return to health. -->
+- [ ] D) The decision to perform an operation
+  <!-- feedback: That is 'surgery' as a decision or the operation itself. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
+'Recovery' is the process of returning to health and strength after an illness, injury or operation.
+## Question 8 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v8
-**Bloom:** Analyze
-**EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A conversation about prevention in an English class in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct word: the regular check a doctor does to see if a patient is well.
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [x] A) check-up
+  <!-- feedback: 'Check-up' is a routine examination done to confirm a patient's health. -->
+- [ ] B) breakdown
+  <!-- feedback: 'Breakdown' means a sudden failure of health or of a machine. -->
+- [ ] C) check-in
+  <!-- feedback: 'Check-in' belongs to travel, when a passenger registers at an airport. -->
+- [ ] D) checkout
+  <!-- feedback: 'Checkout' is the process of paying for goods in a shop. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 9 [D5-D6]
+A 'check-up' is a routine medical examination carried out before or in place of an illness to confirm that everything is fine.
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v9
 **Bloom:** Remember
-**EJE:** vocabulary health
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A vocabulary lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which word means to give medicine to someone who is ill?
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [ ] A) cure
+  <!-- feedback: 'Cure' names the result of eliminating the illness, while 'treat' names the action of giving care. -->
+- [x] B) treat
+  <!-- feedback: 'Treat' means to give medical care to a patient so that the illness is cured. -->
+- [ ] C) diagnose
+  <!-- feedback: 'Diagnose' means to identify what illness a patient has. -->
+- [ ] D) prevent
+  <!-- feedback: 'Prevent' means to stop an illness from happening, which happens before the patient is ill. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
+To 'treat' an illness is to give the patient the care and the medicine that the condition requires.
+## Question 10 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** vocabulary health
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
-
-### Opciones
-- [x] D) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] A) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] B) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] C) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
-
-### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 12 [D7-D8]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] C) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 13 [D7-D8]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
-
-### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
-
-### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
-
-### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 14 [D7-D8]
-**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** vocabulary health
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A conversation about exercise in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Complete the sentence: 'He goes to the gym three times a week to stay ___.'
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] C) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] D) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [ ] A) fat
+  <!-- feedback: 'Fat' describes excess body weight, the opposite of what regular exercise achieves. -->
+- [ ] B) ill
+  <!-- feedback: 'Ill' describes being unwell, which exercise aims to prevent rather than maintain. -->
+- [ ] C) tired
+  <!-- feedback: 'Tired' describes a temporary lack of energy, not the ongoing condition exercise builds. -->
+- [x] D) fit
+  <!-- feedback: 'Fit' describes a healthy physical condition maintained through exercise. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+The adjective 'fit' describes someone whose body is in good condition because of exercise.
+## Question 11 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v11
+**Bloom:** Understand
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A health reading text in an English class in San Salvador, SV.
 
-## Question 15 [D7-D8]
+### Enunciado
+What does 'immune' mean in the sentence 'sleep well helps you stay immune to colds'?
+
+### Opciones
+- [ ] A) Certain to catch the disease
+  <!-- feedback: Immunity is the opposite of being vulnerable to the disease. -->
+- [ ] B) Unaware of the disease's name
+  <!-- feedback: Immunity has to do with the body's resistance, not with knowledge of the illness. -->
+- [x] C) Protected against a disease taking hold
+  <!-- feedback: 'Immune' describes resistance to an illness, which good sleep helps to build. -->
+- [ ] D) Mildly affected by the disease
+  <!-- feedback: A mild case describes some symptoms, whereas immunity means the disease does not take hold. -->
+
+### Explicacion Pedagogica
+To be 'immune' means to be protected so that a disease cannot take hold, because the body resists it.
+## Question 12 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v12
+**Bloom:** Analyze
+**EJE:** vocabulary-health
+**Expected_Success:** 0.80
+**Contexto:** A reading comprehension exercise in a secondary school in San Salvador, SV.
+
+### Enunciado
+Choose the correct sentence about a healthy routine.
+
+### Opciones
+- [x] A) Eating vegetables keeps your heart healthy.
+  <!-- feedback: 'Keep' plus an adjective describes maintaining a state, which fits the sentence. -->
+- [ ] B) Eating vegetables keeps your health healthy.
+  <!-- feedback: 'Health' is a noun and cannot take the adjective 'healthy' after it in this construction. -->
+- [ ] C) Eating vegetables makes your heart health.
+  <!-- feedback: 'Health' is a noun, and 'make' would need a noun such as 'a habit', not a condition. -->
+- [ ] D) Eating vegetables keeps your heart more healthy.
+  <!-- feedback: A comparative with 'more' would compare the heart with something else, which is absent here. -->
+
+### Explicacion Pedagogica
+Only one sentence uses the health vocabulary in a way that fits its meaning and the natural verb collocation.
+## Question 13 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v13
+**Bloom:** Remember
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A discussion of habits in an English class in San Salvador, SV.
+
+### Enunciado
+Choose the correct word: the regular use of a substance such as tobacco.
+
+### Opciones
+- [ ] A) hobby
+  <!-- feedback: 'Hobby' is an activity done for pleasure, usually in free time. -->
+- [ ] B) custom
+  <!-- feedback: 'Custom' is a traditional practice shared by a whole community. -->
+- [ ] C) ritual
+  <!-- feedback: 'Ritual' is a set of ceremonies performed in a fixed order. -->
+- [x] D) habit
+  <!-- feedback: 'Habit' is a regularly repeated behaviour, which is what regular tobacco use is. -->
+
+### Explicacion Pedagogica
+A 'habit' is a behaviour done regularly and often automatically, whether or not it is good for the person.
+## Question 14 [D3-D4]
+**ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v14
+**Bloom:** Analyze
+**EJE:** vocabulary-health
+**Expected_Success:** 0.80
+**Contexto:** A question about health vocabulary in a school in San Salvador, SV.
+
+### Enunciado
+What is the difference between 'disease' and 'illness'?
+
+### Opciones
+- [ ] A) They are exactly the same word with no difference at all.
+  <!-- feedback: They overlap in use but differ in specificity and in medical register. -->
+- [x] B) 'Illness' is the general term; 'disease' is a specific condition with a cause.
+  <!-- feedback: The two words overlap, but 'disease' points to a particular pathological condition. -->
+- [ ] C) 'Disease' is a verb and 'illness' is a noun.
+  <!-- feedback: Both are nouns; 'disease' does not function as a verb in this usage. -->
+- [ ] D) 'Illness' is positive and 'disease' is negative.
+  <!-- feedback: Both words describe unwelcome conditions; neither carries a positive meaning. -->
+
+### Explicacion Pedagogica
+'Illness' is the general word for a state of being unwell, while 'disease' refers more specifically to a condition with a known medical cause.
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v15
 **Bloom:** Remember
-**EJE:** vocabulary health
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A careers talk in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct word: a person who helps a doctor in treating patients.
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [x] A) nurse
+  <!-- feedback: 'Nurse' is the healthcare worker who looks after patients in a hospital or clinic. -->
+- [ ] B) patient
+  <!-- feedback: 'Patient' is the person receiving the treatment, the other side of the relationship. -->
+- [ ] C) surgeon
+  <!-- feedback: 'Surgeon' is a doctor specialised in operating, not the person who gives general care. -->
+- [ ] D) pharmacy
+  <!-- feedback: 'Pharmacy' is the place where medicines are prepared, not a person. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
+A 'nurse' is a healthcare professional who cares for patients and supports the work of the doctor.
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A conversation about health problems in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct preposition: 'He suffers ___ a bad back.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! With 'I' the present continuous needs the auxiliary 'am', and 'reading' is the -ing form: I am reading. -->
-- [ ] B) is
-  <!-- feedback: 'Is' goes with he, she, it and singular nouns, not with 'I'. The subject here is 'I', so the auxiliary must be 'am'. -->
-- [ ] C) are
-  <!-- feedback: 'Are' goes with you, we, they and plural nouns. With 'I' the only correct auxiliary in this tense is 'am'. -->
-- [ ] D) be
-  <!-- feedback: 'Be' on its own is the bare infinitive; the present continuous is formed with a conjugated auxiliary plus the -ing form, and 'I' takes 'am'. -->
+- [ ] A) of
+  <!-- feedback: 'Suffer of' is not an expression; the preposition that follows 'suffer' is 'from'. -->
+- [ ] B) with
+  <!-- feedback: 'Suffer with' is not used for illness; 'from' carries that meaning. -->
+- [x] C) from
+  <!-- feedback: 'Suffer from' is the standard expression for experiencing an illness. -->
+- [ ] D) for
+  <!-- feedback: 'Suffer for' would not express the experience of a medical condition. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 17 [D9-D10]
+'Suffer from' is the fixed collocation for experiencing an illness or a persistent problem.
+## Question 17 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v17
 **Bloom:** Understand
-**EJE:** vocabulary health
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**EJE:** vocabulary-health
+**Expected_Success:** 0.85
+**Contexto:** A definition exercise in an English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Choose the correct word: the state of being able to deal with ordinary life without illness.
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means showing kindness and generosity towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: That is the opposite of 'benevolent', which describes someone who is kind and generous, not unkind. -->
-- [ ] B) Quick and fast
-  <!-- feedback: 'Benevolent' does not describe speed; it describes character. Words like 'quick' or 'fast' belong to how fast somebody acts, not to how kind they are. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: 'Benevolent' describes kindness, not speed or effort. It has nothing to do with being slow or lazy. -->
+- [ ] A) wellful
+  <!-- feedback: 'Wellful' is not an English word; the correct noun is 'wellness'. -->
+- [x] B) wellness
+  <!-- feedback: 'Wellness' names the overall state of being healthy in body and mind. -->
+- [ ] C) wellfare
+  <!-- feedback: 'Wellfare' is a misspelling of 'welfare', which refers to support from the state. -->
+- [ ] D) wellbeing
+  <!-- feedback: 'Wellbeing' is related but emphasises how a person feels, while 'wellness' names the state of health. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
+'Wellness' is a broad word covering physical, mental and emotional health, not merely the absence of illness.
+## Question 18 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** vocabulary health
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** vocabulary-health
+**Expected_Success:** 0.80
+**Contexto:** A final health vocabulary check in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct sentence.
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text covers both jobs of bees: they carry pollen from flower to flower and they make honey. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: The text says nothing about bees being dangerous; it presents them as useful, because of pollination and honey production. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: The text names two things bees do, pollination and honey, so honey is not the only product mentioned. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: That contradicts the text: pollination by bees is exactly what the passage describes as one of their contributions. -->
+- [x] A) The doctor prescribed medicine for the infection.
+  <!-- feedback: 'Prescribe' is what a doctor does when instructing the patient to take a medicine. -->
+- [ ] B) The doctor prescribed a surgery for the infection.
+  <!-- feedback: 'Surgery' is an operation, which a doctor performs or schedules rather than prescribes. -->
+- [ ] C) The doctor prescribed the patient for the infection.
+  <!-- feedback: 'Prescribe' takes the medicine, not the patient, as its direct object. -->
+- [ ] D) The doctor prescribed medicine to the infection.
+  <!-- feedback: 'Prescribe' is used for medicine given to a patient, not medicine given to an illness. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 19 [D9-D10]
+Only one sentence uses the health vocabulary with the correct verb and in a meaningful way.
+## Question 19 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v19
 **Bloom:** Remember
-**EJE:** vocabulary health
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A science lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the correct word: the study of food and its effect on the body.
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Go' is irregular, so its past simple is 'went' and it does not take the -ed ending. -->
-- [ ] A) goed
-  <!-- feedback: 'Goed' is not an English word. The verb 'go' is irregular, so its past simple is 'went'. -->
-- [ ] B) gone
-  <!-- feedback: 'Gone' is the past participle, used with 'have' (I have gone), not the past simple form the question asks for. -->
-- [ ] C) going
-  <!-- feedback: 'Going' is the -ing form, used with 'am/is/are' (I am going), not the past simple. -->
+- [ ] A) nutritione
+  <!-- feedback: 'Nutritione' adds a final e, which is not part of the standard spelling. -->
+- [ ] B) nutritions
+  <!-- feedback: 'Nutritions' is a plural form that does not fit before a singular subject. -->
+- [x] C) nutrition
+  <!-- feedback: 'Nutrition' is the science of how food affects growth and health. -->
+- [ ] D) nutritive
+  <!-- feedback: 'Nutritive' is an adjective meaning nourishing, not the name of the field of study. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 20 [D9-D10]
+'Nutrition' is the study of how food nutrients are used by the body for energy, growth and health.
+## Question 20 [D3-D4]
 **ID:** SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** vocabulary health
+**Bloom:** Understand
+**EJE:** vocabulary-health
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A reading task in an English class in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What does 'diet' mean in the sentence 'She has a balanced diet of fruit and vegetables'?
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple, 'she' takes the verb with -s: she goes. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: The third person singular in the present simple adds -s, so it must be 'she goes', not 'she go'. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: This is missing the auxiliary. With 'going' you need 'is': she is going to school every day. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'Gone' is a past participle and needs 'has' (she has gone); the present simple is 'she goes'. -->
+- [ ] A) A plan for losing weight only
+  <!-- feedback: A diet can be any pattern of eating, not only one aimed at losing weight. -->
+- [ ] B) The number of calories burnt daily
+  <!-- feedback: That is an energy figure, not the set of foods a person eats. -->
+- [ ] C) A medical operation on the stomach
+  <!-- feedback: That is bariatric surgery, unrelated to the meaning of 'diet'. -->
+- [x] D) The kinds of food a person regularly eats
+  <!-- feedback: 'Diet' names the usual food intake of a person, which is what the sentence lists. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+A 'diet' is the set of foods a person habitually eats, and 'balanced' means it contains the right variety of nutrients.

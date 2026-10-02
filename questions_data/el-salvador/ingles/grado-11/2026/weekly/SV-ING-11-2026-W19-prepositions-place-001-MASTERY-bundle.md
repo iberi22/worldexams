@@ -26,459 +26,440 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A description of a kitchen in a language class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct preposition: 'The keys are ___ the drawer.'
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [x] A) in
+  <!-- feedback: 'In the drawer' places the keys inside the container named by 'drawer'. -->
+- [ ] B) on
+  <!-- feedback: 'On' describes a surface: the keys would be on top of the drawer, not inside it. -->
+- [ ] C) at
+  <!-- feedback: 'At' names a point or a place such as 'at the door', not the interior of a container. -->
+- [ ] D) under
+  <!-- feedback: 'Under' describes a position below something, which the sentence does not suggest. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
+'In' describes something inside a container that is part of a larger space, such as keys inside a drawer.
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A morning scene described in an English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Choose the correct preposition: 'She is waiting ___ the bus stop.'
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] B) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [ ] A) in
+  <!-- feedback: 'In' describes the interior of a container or a bounded area, which a bus stop is not. -->
+- [x] B) at
+  <!-- feedback: 'At the bus stop' names the exact point where she waits. -->
+- [ ] C) under
+  <!-- feedback: 'Under' would place her below the bus stop, which the sentence does not say. -->
+- [ ] D) between
+  <!-- feedback: 'Between' requires two things being separated, and only one location is named. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
+'At' is used with a specific point or location where someone waits, and a bus stop is such a point.
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** prepositions place
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A description of a pet in a school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Complete the sentence: 'The cat is hiding ___ the bed.'
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) between
+  <!-- feedback: 'Between' needs two objects with the cat in the middle, and only the bed is named. -->
+- [ ] B) beside
+  <!-- feedback: 'Beside' means at the side of the bed, not below it, so the meaning would change. -->
+- [x] C) under
+  <!-- feedback: 'Under the bed' puts the cat below the bed, matching the idea of hiding. -->
+- [ ] D) above
+  <!-- feedback: 'Above' would place the cat on top of the bed, which is the opposite position. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
+Hiding under a piece of furniture places the cat below the bed, which is exactly what 'under' expresses.
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] A) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] B) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 5 [D5-D6]
-**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
-**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
-
-### Opciones
-- [x] A) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
-
-### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
-**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
-**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v8
 **Bloom:** Analyze
-**EJE:** prepositions place
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** An exercise on prepositions of place in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct sentence.
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) The library is between the school and the park and the museum.
+  <!-- feedback: 'Between' joins two items, so adding a third one breaks the structure. -->
+- [ ] B) The library is in the school and the park.
+  <!-- feedback: 'In' does not express a middle position between two separate places. -->
+- [ ] C) The library is between in the school and the park.
+  <!-- feedback: 'Between' is followed directly by the first noun and then by 'and', not by 'in'. -->
+- [x] D) The library is between the school and the park.
+  <!-- feedback: 'Between' places the library in the middle of two named places, which is the correct use. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Each preposition of place matches a different spatial relation, so only one sentence describes the position correctly.
+## Question 5 [D3-D4]
+**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A description of a shop in a story read in a school in San Salvador, SV.
 
-## Question 9 [D5-D6]
+### Enunciado
+Choose the correct option: 'The money is ___ the safe.'
+
+### Opciones
+- [ ] A) on
+  <!-- feedback: 'On' describes a surface, so 'on the safe' would mean resting on top of it. -->
+- [ ] B) at
+  <!-- feedback: 'At' names a point such as 'at the bank', not the interior of a container. -->
+- [ ] C) into
+  <!-- feedback: 'Into' shows movement from outside to inside, and the sentence describes a position. -->
+- [x] D) in
+  <!-- feedback: 'In the safe' places the money inside that secure container. -->
+
+### Explicacion Pedagogica
+'A safe is a strong container built to keep valuables inside, so anything stored in it is described with the preposition 'in', and the other options would all change that meaning.
+## Question 6 [D3-D4]
+**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**EJE:** prepositions-place
+**Expected_Success:** 0.75
+**Contexto:** A question about prepositions in an English class in San Salvador, SV.
+
+### Enunciado
+What is the difference between 'in' and 'on' for a surface?
+
+### Opciones
+- [ ] A) They are exactly the same preposition.
+  <!-- feedback: They express different spatial relations and cannot be interchanged freely. -->
+- [ ] B) 'On' is used with verbs and 'in' with nouns.
+  <!-- feedback: Both are prepositions of place; the choice depends on the space, not on the word class. -->
+- [x] C) 'On' touches a surface; 'in' places something inside a space.
+  <!-- feedback: 'On the table' is surface contact, while 'in the box' is interior position. -->
+- [ ] D) 'In' only works with countries and cities.
+  <!-- feedback: 'In' is also used with rooms, boxes and other enclosed spaces. -->
+
+### Explicacion Pedagogica
+'On' describes contact with a surface, while 'in' describes something within a bounded space such as a room or a box.
+## Question 7 [D3-D4]
+**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A description of a landscape in an English class in San Salvador, SV.
+
+### Enunciado
+Choose the correct preposition: 'There is a bridge ___ the river.'
+
+### Opciones
+- [ ] A) under
+  <!-- feedback: 'Under the river' would place the bridge below the water, which is not the case. -->
+- [x] B) over
+  <!-- feedback: 'Over the river' places the bridge above the water, which matches the description. -->
+- [ ] C) between
+  <!-- feedback: 'Between' needs two objects on either side, and only the river is named. -->
+- [ ] D) inside
+  <!-- feedback: 'Inside the river' would mean submerged, which is not what a bridge does. -->
+
+### Explicacion Pedagogica
+'Over' describes a position above and crossing something, which is the position of a bridge above a river.
+## Question 8 [D3-D4]
+**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v8
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.75
+**Contexto:** A description of a hike in a school in San Salvador, SV.
+
+### Enunciado
+Choose the correct option: 'We are ___ the mountain.'
+
+### Opciones
+- [x] A) on
+  <!-- feedback: 'On the mountain' places the hikers in contact with the summit surface. -->
+- [ ] B) in
+  <!-- feedback: 'In the mountain' would suggest being inside the rock, not on top of it. -->
+- [ ] C) under
+  <!-- feedback: 'Under the mountain' would place the hikers below the summit. -->
+- [ ] D) into
+  <!-- feedback: 'Into' shows movement towards the interior and does not describe a static position. -->
+
+### Explicacion Pedagogica
+'On' describes a position in contact with a surface, and a hiker is on top of the mountain.
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** prepositions place
+**Bloom:** Apply
+**EJE:** prepositions-place
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A description of a bedroom in an English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the correct preposition: 'The gloves are ___ the bed and the wardrobe.'
 
 ### Opciones
-- [x] C) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) among
+  <!-- feedback: 'Among' is used for more than two items in a group, not for two named objects. -->
+- [x] B) between
+  <!-- feedback: 'Between the bed and the wardrobe' places the gloves in the middle of two items. -->
+- [ ] C) behind
+  <!-- feedback: 'Behind' would place the gloves at the back of the bed only, not in the middle. -->
+- [ ] D) across
+  <!-- feedback: 'Across' describes movement from one side to another, not a static middle position. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
+'Between' is the preposition that places one item in the middle of two others, and the sentence names exactly two: the bed and the wardrobe.
+## Question 10 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Analyze
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A test on prepositions of place in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct sentence about position.
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) The pencil is between the notebook.
+  <!-- feedback: 'Between' requires two objects, and only the notebook is named. -->
+- [ ] B) The pencil is among the notebook.
+  <!-- feedback: 'Among' works with a group of more than two items, not with a single object. -->
+- [ ] C) The pencil is over in the notebook.
+  <!-- feedback: 'Over' followed by 'in' produces two prepositions that do not work together here. -->
+- [x] D) The pencil is behind the notebook.
+  <!-- feedback: 'Behind' describes a position at the back of another object, which is what the sentence states. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
+The preposition must match the spatial relation that the sentence actually describes.
+## Question 11 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** prepositions place
+**EJE:** prepositions-place
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A description of a living space in an English class in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Complete the sentence: 'The lamp is ___ the corner of the room.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) on
+  <!-- feedback: 'On the corner' would describe contact with a surface, such as a table corner. -->
+- [ ] B) at
+  <!-- feedback: 'At the corner' is possible, but 'in the corner of the room' is the standard expression. -->
+- [x] C) in
+  <!-- feedback: 'In the corner of the room' places the lamp inside the room at the meeting of two walls. -->
+- [ ] D) into
+  <!-- feedback: 'Into' shows movement towards a space and does not describe a static position. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 12 [D7-D8]
+'In the corner' describes a position inside the room where two walls meet, which is what a corner is.
+## Question 12 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A description of the city in an English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Choose the correct preposition: 'The bookshop is opposite ___ the park.'
 
 ### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [x] A) to
+  <!-- feedback: 'Opposite to' is the standard collocation for facing something across from it. -->
+- [ ] B) from
+  <!-- feedback: 'Opposite from' is also heard, but 'opposite to' is the form used in written English. -->
+- [ ] C) between
+  <!-- feedback: 'Between' needs two objects with the subject in the middle, which is not the case. -->
+- [ ] D) among
+  <!-- feedback: 'Among' describes a member of a group of more than two, not a facing relation. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 13 [D7-D8]
+'Opposite to' describes facing something across from it, which is the relation between the bookshop and the park.
+## Question 13 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** prepositions place
-**Expected_Success:** 0.70
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.85
+**Contexto:** A description of an action in a kitchen in an English class in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct preposition: 'She put the milk ___ the fridge.'
 
 ### Opciones
-- [x] A) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] B) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) on
+  <!-- feedback: 'On the fridge' would place the milk on top of the appliance, not inside it. -->
+- [ ] B) under
+  <!-- feedback: 'Under the fridge' would give a position below the appliance. -->
+- [ ] C) beside
+  <!-- feedback: 'Beside the fridge' would place the milk next to it rather than inside. -->
+- [x] D) in
+  <!-- feedback: 'Put the milk in the fridge' gives the final position inside the container. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 14 [D7-D8]
+The verb 'put' shows movement from outside to a final position inside a container, so 'in' is the correct preposition of destination.
+## Question 14 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Analyze
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A test on prepositions of place in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Identify the only sentence whose preposition matches the relation it describes.
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] C) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) The children are playing nearest the river.
+  <!-- feedback: 'Nearest' is a superlative form and cannot be used as a preposition. -->
+- [x] B) The children are playing near the river.
+  <!-- feedback: 'Near' describes a position close to a named place without saying exactly where. -->
+- [ ] C) The children are playing at the river.
+  <!-- feedback: 'At' names a specific point, which changes the meaning from 'close by' to 'at that spot'. -->
+- [ ] D) The children are playing in the river.
+  <!-- feedback: 'In the river' would place them inside the water, which the sentence does not state. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 15 [D7-D8]
+Only one sentence uses the preposition that matches the spatial relation it describes.
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A scene observed during a lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct preposition: 'The teacher wrote my name ___ the board.'
 
 ### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [x] A) on
+  <!-- feedback: 'On the board' describes contact with the board's surface, which is correct. -->
+- [ ] B) in
+  <!-- feedback: 'In the board' would place the name inside a solid object, which is not how a board works. -->
+- [ ] C) at
+  <!-- feedback: 'At the board' names a point but does not describe the surface contact the sentence implies. -->
+- [ ] D) into
+  <!-- feedback: 'Into' shows movement towards the interior, which does not apply to a flat surface. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
+'On' describes a surface, and a board is a flat surface that a name can be written on.
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**EJE:** prepositions place
+**EJE:** prepositions-place
 **Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A description of where a family lives in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct preposition: 'We live ___ the hill, near the river.'
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) in
+  <!-- feedback: 'In the hill' would place the house inside the mound of earth. -->
+- [ ] B) at
+  <!-- feedback: 'At the hill' names a point but does not describe living on its surface. -->
+- [x] C) on
+  <!-- feedback: 'On the hill' places the house on the slope, which matches the description. -->
+- [ ] D) under
+  <!-- feedback: 'Under the hill' would place the house below the slope. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 17 [D9-D10]
+'On' describes a surface, and living on a hill means the house stands on that slope.
+## Question 17 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** prepositions place
-**Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
-**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** prepositions place
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A question about prepositions in an English class in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+What is the difference between 'above' and 'over'?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) They are always interchangeable with no difference.
+  <!-- feedback: They are similar but not identical, and context decides which is natural. -->
+- [x] B) 'Over' suggests crossing or covering; 'above' only marks a higher position.
+  <!-- feedback: A bridge is over a river because it crosses it; a lamp is above a table without crossing it. -->
+- [ ] C) 'Above' is a preposition of time and 'over' is a preposition of place.
+  <!-- feedback: Both can be used of place; 'over' also has a time use meaning 'during'. -->
+- [ ] D) 'Above' marks a lower position and 'over' a higher one.
+  <!-- feedback: Both indicate a higher position; the difference is the crossing nuance. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+'Over' usually marks a crossing or a covering relation, while 'above' marks a position higher than something without crossing it.
+## Question 18 [D3-D4]
+**ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A description of a room in an English class in San Salvador, SV.
 
-## Question 19 [D9-D10]
+### Enunciado
+Choose the correct preposition: 'The keys are ___ the table and the chair.'
+
+### Opciones
+- [x] A) between
+  <!-- feedback: 'Between the table and the chair' places the keys in the middle of two items. -->
+- [ ] B) among
+  <!-- feedback: 'Among' is used with a group of more than two items rather than with two named objects. -->
+- [ ] C) across
+  <!-- feedback: 'Across' describes movement from one side to the other, not a middle position. -->
+- [ ] D) beneath
+  <!-- feedback: 'Beneath' would place the keys below both items. -->
+
+### Explicacion Pedagogica
+With two named objects and one item placed among them, 'between' marks the middle position.
+## Question 19 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** prepositions place
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Analyze
+**EJE:** prepositions-place
+**Expected_Success:** 0.80
+**Contexto:** A description of movement in an English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the correct sentence describing movement.
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] C) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) The child ran across the road for an hour.
+  <!-- feedback: The time expression with 'for' does not fit, and the sentence needs no such phrase. -->
+- [ ] B) The child ran over of the road.
+  <!-- feedback: 'Over of' is not a valid prepositional phrase in English. -->
+- [x] C) The child ran across the road.
+  <!-- feedback: 'Across' describes movement from one side of the road to the other. -->
+- [ ] D) The child ran at across the road.
+  <!-- feedback: 'At' before 'across' duplicates the preposition and breaks the structure. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 20 [D9-D10]
+Prepositions of movement describe where something is going, while prepositions of position describe where it is.
+## Question 20 [D3-D4]
 **ID:** SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**EJE:** prepositions place
+**EJE:** prepositions-place
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A placement task in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct preposition with 'next to'.
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) next from
+  <!-- feedback: 'Next from' is not a standard expression; 'next to' is the correct form. -->
+- [ ] B) nearest to
+  <!-- feedback: 'Nearest' is a superlative form and cannot serve as a preposition. -->
+- [ ] C) closer of
+  <!-- feedback: 'Of' after 'closer' would form a superlative comparison, not a location phrase. -->
+- [x] D) next to
+  <!-- feedback: 'Next to' is the fixed expression meaning immediately beside, used as one unit. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+'Next to' is a two-word preposition meaning immediately beside something, and it is used as a single unit.
