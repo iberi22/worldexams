@@ -18,11 +18,22 @@ import { fileURLToPath } from 'node:url';
 // Resolved from this file's location so the test runs in any checkout and the
 // repository path never has to be hardcoded (the public-repo leak gate rejects
 // personal filesystem paths).
+// The validator requires every bundle it reads to live under questions_data/,
+// so the fixture has to be written there. It used to hardcode a real production
+// path: CO-MAT-6-2026-W01-potenciacion-numeros-001-MASTERY-bundle.md. That made
+// the suite overwrite a real bundle, and every unrelated agent editing that file
+// turned 34 cases red. A test must not depend on production content.
+//
+// The path is now a per-run temporary name under the same directory, so the
+// validator still accepts it and nothing that ships is ever touched. It is
+// removed in the finally block.
 const REPO = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const VALIDATOR = path.join(REPO, 'scripts/validate-bundles-v52.mjs');
 const DIR = path.join(REPO, 'questions_data/colombia/matematicas/grado-6/2026/weekly');
-const ID = 'CO-MAT-6-2026-W01-potenciacion-numeros-001-MASTERY-bundle';
+const RUN_ID = `zz-feedback-gate-fixture-${process.pid}-${Date.now()}`;
+const ID = `${RUN_ID}-001-MASTERY-bundle`;
 const FILE = path.join(DIR, `${ID}.md`);
+
 
 const GOOD_CORRECT = 'Correcto. "accommodation" matches the definition of a place where you stay.';
 const GOOD_WRONG = 'Incorrect. "transportation" refers to means of moving people or goods, not a place to stay.';
