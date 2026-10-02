@@ -267,7 +267,7 @@ Evaluar un razonamiento exige identificar la propiedad que se está usando como 
 - [ ] A) La propuesta es válida, porque el filtro de arena elimina los microorganismos y el paño termina de pulir el agua.
   <!-- feedback: Incorrecto. El filtro de arena retiene materia en suspensión, pero los microorganismos son demasiado pequeños para quedar atrapados en él. -->
 - [ ] B) La propuesta es válida, porque el filtrado y el colado reducen la turbidez, y eso basta para que el agua sea potable.
-  <!-- feedback: Incorrecto. Un agua clara no es necesariamente potable: puede estar libre de partículas y seguirNI having microorganismos que causan enfermedades. -->
+  <!-- feedback: Incorrecto. Un agua clara no es necesariamente potable: puede estar libre de partículas y siguiendo having microorganismos que causan enfermedades. -->
 - [x] C) La propuesta no se sostiene: filtrar y colar retiran partículas suspendidas, pero no eliminan los microorganismos, por lo que se requiere además un tratamiento como la cloración, la ebulición o la pasteurización.
   <!-- feedback: Correcto. La eliminación de microorganismos exige un tratamiento distinto al de la clarificación, por eso la práctica de hervir el agua sigue siendo necesaria en ese contexto. -->
 - [ ] D) La propuesta es parcialmente válida, porque el filtro sí elimina los microorganismos y lo único que falta es volver a filtrar el agua hervida.

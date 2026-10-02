@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 # Bundle MASTERY: La revisión y la corrección de textos - Grado 9 (W39)
 ## Semana W39
 
-Esta semana los estudiantes de noveno estudian la revisión y la corrección como etapas formales de la escritura. Se distinguen los niveles de corrección (contenido, estructura, estilo y ortografía) y se analiza por qué la relectura exige una distancia distinta de la escritura. Se practica la detección de repeticiones, de ideas poco claras y de errores de concordancia, y se trabaja la diferencia entre corregir y reescribir. Se discute además la utilidad de las herramientas de escritura asistida por computadora y sus límites. El objetivo es comprender que un texto terminado no es un texto terminado, y que revisar es una habilidad que se entrena.
+Esta semana los estudiantes de noveno estudian la revisión y la corrección como etapas formales de la escritura. Se distinguen los niveles de corrección (contenido, estructura, estilo y ortografía) y se analiza por qué la relectura exige una distancia distinta de la escritura. Se práctica la detección de repeticiones, de ideas poco claras y de errores de concordancia, y se trabaja la diferencia entre corregir y reescribir. Se discute además la utilidad de las herramientas de escritura asistida por computadora y sus límites. El objetivo es comprender que un texto terminado no es un texto terminado, y que revisar es una habilidad que se entrena.
 
 ## Question 1 [D3-D4]
 **ID:** CO-LEN-9-2026-W39-la-revision-y-la-correccion-de-textos-001-MASTERY-bundle-v1
@@ -75,7 +75,7 @@ La corrección opera por niveles, y cada uno atiende a un tipo de problema disti
 **Bloom:** Understand
 **ICFES:** Semantico
 **Expected_Success:** 0.85
-**Contexto:** En Cali, un grupo de noveno practica la relectura de un texto propio.
+**Contexto:** En Cali, un grupo de noveno práctica la relectura de un texto propio.
 
 ### Enunciado
 Un texto repite seis veces la expresión "en ese momento". ¿Qué problema tiene y en qué nivel se corrige?
@@ -189,7 +189,7 @@ Las fórmulas de enlace dicen mucho sobre cómo se presenta el conocimiento: si 
 **Bloom:** Analyze
 **ICFES:** Semantico
 **Expected_Success:** 0.7
-**Contexto:** In Florencia, Caquetá, un grupo de noveno studyTWO Paragraphs y su relación.
+**Contexto:** In Florencia, Caquetá, un grupo de noveno Study Two Paragraphs y su relación.
 
 ### Enunciado
 El primer párrafo dice: "La contaminación del río es un problema grave. El río está contaminado. Nadie.action sobre esta situación". ¿Qué problema tiene el texto?

@@ -458,7 +458,7 @@ La propuesta 1 dice: "Durante décadas la plaza fue mercado los lunes y plaza de
   <!-- feedback: Correcto: la propuesta 1 presenta el pasado del lugar en escenas y en voces que el lector puede vincular con su propia experiencia. -->
 
 ### Explicacion Pedagogica
-Un especial de memoria barrial busca que el lector se reconozca en el texto, y eso se consigue con escenas concretas, con lugares nombrados y con voces de quienes los habitaron. Los datos de infraestructura cumplen otra función: informAN sobre una decisión administrativa y su ejecución. Evaluar cuál de los dos textos sirve para un especial de memoria exige considerar la intención de la publicación, no solo la calidad de la escritura. Reconocer la diferencia entre memoria local e información local evita usar en un texto histórico un informe de obras, y usar en un informe de obras un relato depliedas voces.
+Un especial de memoria barrial busca que el lector se reconozca en el texto, y eso se consigue con escenas concretas, con lugares nombrados y con voces de quienes los habitaron. Los datos de infraestructura cumplen otra función: informa sobre una decisión administrativa y su ejecución. Evaluar cuál de los dos textos sirve para un especial de memoria exige considerar la intención de la publicación, no solo la calidad de la escritura. Reconocer la diferencia entre memoria local e información local evita usar en un texto histórico un informe de obras, y usar en un informe de obras un relato de voces.
 
 ## Question 20 [D9-D10]
 **ID:** CO-LEN-11-2026-W11-el-texto-narrativo-y-sus-marcas-001-MASTERY-bundle-v20
