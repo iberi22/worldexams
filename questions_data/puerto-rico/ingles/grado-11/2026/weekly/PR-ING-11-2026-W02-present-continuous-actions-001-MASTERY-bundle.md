@@ -34,13 +34,13 @@ Which sentence uses the present continuous correctly?
 
 ### Opciones
 - [x] A) She is studying for the biology test right now.
-  <!-- feedback: Correct. 'Am, is' or 'are' followed by the -ing form makes the present continuous, and 'right now' confirms that the action is in progress. -->
+  <!-- feedback: Correct! The present continuous is the auxiliary 'is' plus the participle 'studying', and 'right now' marks the action as happening at this moment. -->
 - [ ] B) She study for the biology test right now.
-  <!-- feedback: Incorrect. Without the auxiliary 'is' the sentence stays in the present simple, and 'right now' requires the progressive. -->
+  <!-- feedback: Incorrect! The bare verb 'study' is the simple present, which describes a repeated habit instead of an action in progress. -->
 - [ ] C) She is study for the biology test right now.
-  <!-- feedback: Incorrect. After 'is' you need the -ing form 'studying', not the base form of the verb. -->
+  <!-- feedback: Incorrect! After the auxiliary 'is' the verb must be the participle 'studying', never the base form 'study'. -->
 - [ ] D) She studying for the biology test right now.
-  <!-- feedback: Incorrect. The auxiliary is missing entirely, and the -ing form never replaces the auxiliary verb in this unit. -->
+  <!-- feedback: Incorrect! The participle 'studying' can never stand on its own here, because it requires the auxiliary 'is' in front of it. -->
 
 ### Explicacion Pedagogica
 El presente continuo se forma con el verbo 'to be' en presente mas el gerundio. Sirve para acciones que estan ocurriendo ahora mismo o que estan de forma temporal. Reconocer los marcadores 'now', 'currently' o 'at the moment' es la via rapida para identificar el tiempo verbal.
@@ -59,13 +59,13 @@ Complete the sentence: 'They ____ (wait) for the bus in Caguas.'
 
 ### Opciones
 - [ ] A) is waiting
-  <!-- feedback: Incorrect. 'Is' agrees with he, she or it, not with 'they', which is plural in this sentence. -->
+  <!-- feedback: Incorrect! The auxiliary 'is' is singular, and the subject of this sentence is the plural 'they'. -->
 - [ ] B) waits
-  <!-- feedback: Incorrect. 'Waits' is present simple and describes a routine, while waiting for the bus is a one-off situation. -->
+  <!-- feedback: Incorrect! 'Waits' carries the -s of the singular third person, and a simple present cannot describe an action still in progress. -->
 - [x] C) are waiting
-  <!-- feedback: Correct. With the plural subject 'they' the verb 'to be' is 'are', and the -ing form 'waiting' completes the progressive. -->
+  <!-- feedback: Correct! 'They' is plural, so the auxiliary of the present continuous is 'are' in front of the participle 'waiting'. -->
 - [ ] D) wait
-  <!-- feedback: Incorrect. This is the base form with no -ing and no auxiliary, so the sentence does not express an action in progress. -->
+  <!-- feedback: Incorrect! 'Wait' is the bare form, and the progressive would need 'are waiting' with a plural subject. -->
 
 ### Explicacion Pedagogica
 En el presente continuo el auxiliar y el gerundio deben concordar con el sujeto. Es el error mas comun de la unidad: escribir 'is waiting' con 'they' o 'are waiting' con 'he'. Revisar siempre el sujeto antes de conjugar.
@@ -84,13 +84,13 @@ Choose the correct negative form: 'He ____ (not / read) the newspaper at the mom
 
 ### Opciones
 - [ ] A) don't read
-  <!-- feedback: Incorrect. 'Don't' belongs to the present simple, not the progressive, and 'at the moment' also calls for the continuous. -->
+  <!-- feedback: Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it never carries the third person ending. -->
 - [x] B) isn't reading
-  <!-- feedback: Correct. The negative of the present continuous is formed with the auxiliary 'is' plus 'not', and the -ing form does not change. -->
+  <!-- feedback: Correct! The negative present continuous is 'is not' plus the participle, which contracts to 'isn't reading'. -->
 - [ ] C) isn't read
-  <!-- feedback: Incorrect. After 'is' the verb takes the -ing form, never its base form as it appears here. -->
+  <!-- feedback: Incorrect! After 'isn't' the verb must be the participle 'reading', and the base form 'read' is impossible there. -->
 - [ ] D) not reads
-  <!-- feedback: Incorrect. The auxiliary 'to be' is missing and the verb keeps its present simple ending, mixing two tenses in a single sentence. -->
+  <!-- feedback: Incorrect! The negative needs the auxiliary 'does not', so the -s in 'not reads' sits in the wrong place. -->
 
 ### Explicacion Pedagogica
 El negativo del presente continuo sigue el mismo esquema que el afirmativo: auxiliar 'to be' mas 'not' mas gerundio. La forma contracta mas frecuente es "isn't, aren't" y "am not" aunque tambien se admite la forma completa.
@@ -109,13 +109,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) Do you use the library room now?
-  <!-- feedback: Incorrect. 'Do' forms present simple questions, and 'now' calls for an action in progress. -->
+  <!-- feedback: Incorrect! 'Do you use' is a question in the simple present, while the marker 'now' asks for the present continuous. -->
 - [ ] B) Are you use the library room now?
-  <!-- feedback: Incorrect. The main verb stays in its base form after 'are', which is wrong in the progressive. -->
+  <!-- feedback: Incorrect! After the auxiliary 'Are' the verb must be the participle 'using', and the base form 'use' is impossible. -->
 - [ ] C) You are using the library room now?
-  <!-- feedback: Incorrect. This is not question word order: the auxiliary must open the sentence before the subject. -->
+  <!-- feedback: Incorrect! 'You are using ...?' keeps the order of a statement, and a question puts the auxiliary in front of the subject. -->
 - [x] D) Are you using the library room now?
-  <!-- feedback: Correct. A progressive question inverts the order to auxiliary, subject and -ing form, with 'are' for the subject 'you'. -->
+  <!-- feedback: Correct! 'Are you using' has the auxiliary before the subject and the participle 'using' after it, which is question form in the continuous. -->
 
 ### Explicacion Pedagogica
 Para preguntar por lo que esta pasando se invierte el orden del presente continuo: el auxiliar 'to be' abre la frase, luego va el sujeto y despues el gerundio. El gerundio nunca lleva auxiliar al final.
@@ -134,13 +134,13 @@ Which is the correct gerund form of the verb 'to run'?
 
 ### Opciones
 - [ ] A) runing
-  <!-- feedback: Incorrect. Dropping the final -e produces a misspelled form, and that is the typical mistake when forming the -ing form. -->
+  <!-- feedback: Incorrect! 'Runing' drops the doubled consonant that the spelling requires when the stem ends in one consonant after a short vowel. -->
 - [ ] B) runnning
-  <!-- feedback: Incorrect. 'Run' already ends in -n and the consonant is not doubled, because it is only doubled after a short stressed vowel. -->
+  <!-- feedback: Incorrect! 'Runnning' triples the n, and English never writes three of the same consonant in a stem like this. -->
 - [ ] C) runeing
-  <!-- feedback: Incorrect. The -e doesn't change into another vowel or move: it is simply dropped before adding -ing. -->
+  <!-- feedback: Incorrect! 'Runeing' is not a spelling of any English form; the participle keeps the spelling of the base verb. -->
 - [x] D) running
-  <!-- feedback: Correct. When the verb ends in a vowel plus -e, the -e is dropped and -ing is added, except in cases like 'to be'. -->
+  <!-- feedback: Correct! 'To run' doubles the n before -ing, so the participle is written 'running'. -->
 
 ### Explicacion Pedagogica
 Hay tres reglas para formar el gerundio. Si el verbo termina en -e se quita la -e, si termina en vocal breve tensa se duplica la consonante final, y en los demas casos se añade -ing directamente. 'To be' da 'being' y es la excepcion a la primera regla.
@@ -159,13 +159,13 @@ Which is the correct gerund form of the verb 'to swim'?
 
 ### Opciones
 - [ ] A) swiming
-  <!-- feedback: Incorrect. With a short stressed vowel, the final -m must be doubled, because a single one produces an incorrect syllable. -->
+  <!-- feedback: Incorrect! 'Swiming' drops the doubled m, and the spelling of the participle never changes the base form. -->
 - [x] B) swimming
-  <!-- feedback: Correct. 'Swim' ends in a short stressed vowel plus -m, and in that case the final consonant is doubled before -ing. -->
+  <!-- feedback: Correct! 'To swim' doubles the final m before -ing, and that is exactly how the participle 'swimming' is written. -->
 - [ ] C) swimm ing
-  <!-- feedback: Incorrect. The consonant can't be separated with a space: the word is a single syllabic unit. -->
+  <!-- feedback: Incorrect! 'Swimm ing' splits one word in two, and a participle is always written as a single word. -->
 - [ ] D) swuming
-  <!-- feedback: Incorrect. 'Swum' is a past simple form, not the base to which the -ing ending is added. -->
+  <!-- feedback: Incorrect! 'Swuming' changes the vowel of the base verb, which no English spelling rule allows. -->
 
 ### Explicacion Pedagogica
 La duplicacion de la consonante ocurre tras vocal breve tensa, como en 'swim', 'run', 'sit' o 'begin'. El objetivo es que la palabra conserve dos sílabas en el gerundio. Si el sonido ya es largo, no se duplica, como en 'open' o 'travel'.
@@ -184,13 +184,13 @@ Complete the sentence: 'My sister ____ (make) a cake for the party right now.'
 
 ### Opciones
 - [x] A) is making
-  <!-- feedback: Correct. The subject is third person singular, so the auxiliary is 'is' followed by the -ing form 'making'. -->
+  <!-- feedback: Correct! 'My sister' is a singular subject, so the auxiliary of the present continuous is 'is' before 'making'. -->
 - [ ] B) are making
-  <!-- feedback: Incorrect. 'Are' goes with a plural subject, and 'my sister' is singular in this sentence. -->
+  <!-- feedback: Incorrect! 'Are' is the plural auxiliary, and it disagrees with the singular subject 'my sister'. -->
 - [ ] C) is make
-  <!-- feedback: Incorrect. The main verb must be in the -ing form after the auxiliary, not in its base form. -->
+  <!-- feedback: Incorrect! After 'is' the verb must be the participle 'making', and the base form is impossible in that slot. -->
 - [ ] D) makes
-  <!-- feedback: Incorrect. 'Makes' is present simple, and the time marker 'right now' calls for the progressive. -->
+  <!-- feedback: Incorrect! 'Makes' is the simple present of a singular subject, which describes a habit rather than an action in progress. -->
 
 ### Explicacion Pedagogica
 El presente continuo tiene el mismo auxiliar que el presente simple: 'am', 'is' o 'are' segun el sujeto. Lo que cambia es el verbo principal, que siempre pasa a gerundio. Revisar la concordancia del auxiliar es la mitad del trabajo.
@@ -209,13 +209,13 @@ Complete the sentence: 'I ____ (study) for the test at the moment.'
 
 ### Opciones
 - [ ] A) is studying
-  <!-- feedback: Incorrect. 'Is' is used with he, she or it, and the subject of this sentence is first person singular. -->
+  <!-- feedback: Incorrect! The auxiliary 'is' belongs to the second and third persons, and the subject of this sentence is the pronoun 'I'. -->
 - [ ] B) am study
-  <!-- feedback: Incorrect. After 'am' the verb takes the -ing form, not the base form 'study'. -->
+  <!-- feedback: Incorrect! After 'am' the verb must be the participle 'studying', so the base form is impossible. -->
 - [x] C) am studying
-  <!-- feedback: Correct. With the subject 'I' the auxiliary is 'am', and the -ing form 'studying' completes the progressive structure. -->
+  <!-- feedback: Correct! The pronoun 'I' always takes the auxiliary 'am', which is followed by the participle 'studying'. -->
 - [ ] D) study
-  <!-- feedback: Incorrect. The base form alone describes a routine and doesn't fit the expression 'at the moment'. -->
+  <!-- feedback: Incorrect! 'Study' is the simple present, and the marker 'at the moment' asks for an action happening now. -->
 
 ### Explicacion Pedagogica
 La conjugacion de 'to be' en presente es I am, you are, he, she e it is, y nosotros, ustedes y ellos son are. Solo el auxiliar cambia de forma; el gerundio del verbo principal se mantiene igual en todas las personas.
@@ -234,13 +234,13 @@ Complete the sentence: 'The children ____ (play) in the park every afternoon.'
 
 ### Opciones
 - [ ] A) is playing
-  <!-- feedback: Incorrect. 'Is' doesn't agree with the plural subject 'the children', and that mismatch makes the sentence incorrect. -->
+  <!-- feedback: Incorrect! 'Is' is the singular auxiliary, and the subject 'the children' is plural. -->
 - [ ] B) plays
-  <!-- feedback: Incorrect. 'Plays' is present simple and doesn't fit the idea of an action in progress implied by the progressive. -->
+  <!-- feedback: Incorrect! 'Plays' is the simple present of a singular subject, and 'every afternoon' describes a habit rather than an action in progress. -->
 - [x] C) are playing
-  <!-- feedback: Correct. The construction is grammatically possible, although 'every afternoon' normally calls for the present simple for a habitual routine. -->
+  <!-- feedback: Correct! 'The children' is plural, so the auxiliary of the present continuous is 'are' in front of 'playing'. -->
 - [ ] D) play
-  <!-- feedback: Incorrect. The -ing form and the auxiliary are missing, so the sentence doesn't express the progressive action. -->
+  <!-- feedback: Incorrect! 'Play' is the bare form, and the progressive with 'the children' would need 'are playing'. -->
 
 ### Explicacion Pedagogica
 Hay que distinguir el uso habitual del uso actual. El presente continuo con 'every afternoon' suena poco natural porque esa expresion marca repeticion; aun asi la frase no es incorrecta si el hablante quiere decir que estan jugando en este momento. El contexto decide cual es la opcion mas natural.
@@ -259,13 +259,13 @@ Choose the correct tag: 'They are coming tonight, ____?'
 
 ### Opciones
 - [x] A) aren't they
-  <!-- feedback: Correct. A positive statement takes a negative tag, and the tag's auxiliary is the same 'are' as in the main clause. -->
+  <!-- feedback: Correct! A tag built on a positive present continuous clause takes the negative of the same auxiliary, which gives 'aren't they'. -->
 - [ ] B) isn't they
-  <!-- feedback: Incorrect. 'Isn't' is third person singular and the main clause uses 'are', so the tag must repeat that auxiliary. -->
+  <!-- feedback: Incorrect! 'Isn't' is singular, and the subject of the main clause is the plural 'they'. -->
 - [ ] C) don't they
-  <!-- feedback: Incorrect. 'Don't' belongs to the present simple, not to the present continuous used in the main clause. -->
+  <!-- feedback: Incorrect! 'Don't' cannot negate the auxiliary 'are', because a tag repeats the auxiliary of the clause it closes. -->
 - [ ] D) they are not
-  <!-- feedback: Incorrect. The tag reverses the polarity but keeps the auxiliary-plus-pronoun order, not subject plus verb. -->
+  <!-- feedback: Incorrect! 'They are not' is a statement of its own, and a question tag must be a short contracted question. -->
 
 ### Explicacion Pedagogica
 El question tag reutiliza el auxiliar de la frase principal e invierte la polaridad. En presente continuo el tag se construye con el mismo 'to be' del enunciado: 'isn't he', 'aren't they', 'am not I' en las formas contractas mas usadas.
@@ -284,13 +284,13 @@ Complete the sentence: 'They ____ (lie) on the beach this afternoon.'
 
 ### Opciones
 - [ ] A) are lieing
-  <!-- feedback: Incorrect. The correct -ing form is 'lying', and it doesn't take the -e that has been inserted here. -->
+  <!-- feedback: Incorrect! 'Lieing' adds an extra e before -ing, and the spelling of 'to lie' stays unchanged in the participle. -->
 - [ ] B) are lain
-  <!-- feedback: Incorrect. 'lain' is the past participle, and the present continuous requires the -ing form. -->
+  <!-- feedback: Incorrect! 'Lain' is the past participle, which needs 'have' and describes a finished action rather than one in progress. -->
 - [ ] C) is lying
-  <!-- feedback: Incorrect. The subject is plural, so the auxiliary must be 'are', not 'is'. -->
+  <!-- feedback: Incorrect! 'Is lying' uses the singular auxiliary, and the subject of this sentence is the plural 'they'. -->
 - [x] D) are lying
-  <!-- feedback: Correct. The -ing form of 'to lie' is 'lying', keeping the -y, with the preceding vowel short and stressed. -->
+  <!-- feedback: Correct! 'They' takes the plural auxiliary 'are', and 'lie' keeps its spelling in front of the participle -ing. -->
 
 ### Explicacion Pedagogica
 Algunos verbos cambian de forma al pasar al gerundio. 'To lie' da 'lying', 'to die' da 'dying' e 'to tie' da 'tying'. En estos casos la vocal breve tensa se convierte en una vocal larga y la -y se mantiene sin duplicar la consonante.
@@ -309,13 +309,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) He never is late for class.
-  <!-- feedback: Incorrect. In English the negative adverb goes after the auxiliary verb, not before it. -->
+  <!-- feedback: Incorrect! English never splits the present continuous around the adverb, so 'never is late' is not a natural order. -->
 - [x] B) He is never late for class.
-  <!-- feedback: Correct. 'Never' works with the present continuous, and the sentence describes a present situation, not a past routine. -->
+  <!-- feedback: Correct! The adverb 'never' sits between the auxiliary 'is' and the adjective, which is the natural order in English. -->
 - [ ] C) He is late never for class.
-  <!-- feedback: Incorrect. The adverb 'never' goes immediately after 'is', and never at the end of the sentence. -->
+  <!-- feedback: Incorrect! 'Late never' pushes the adverb to the end of the clause, and no English clause allows that position here. -->
 - [ ] D) He never late for class.
-  <!-- feedback: Incorrect. A second verb form is missing, because the negative construction needs 'not' or the adverb 'never' with the auxiliary 'is'. -->
+  <!-- feedback: Incorrect! 'Never' without any auxiliary leaves the verb with no tense at all, and English always needs one. -->
 
 ### Explicacion Pedagogica
 La negacion del presente continuo se puede hacer de dos maneras equivalentes: con el auxiliar 'not' o con adverbios como 'never', 'always' o 'often'. En ambos casos el orden es auxiliar, adverbio y gerundio, con el adverbio pegado al auxiliar.
@@ -334,13 +334,13 @@ Complete the sentence: 'She ____ (teach) biology at the high school.'
 
 ### Opciones
 - [ ] A) is teach ing
-  <!-- feedback: Incorrect. The -ing form has no space and doesn't keep the final -e of the base verb. -->
+  <!-- feedback: Incorrect! 'Teach ing' splits one word into two, and a participle is always written as a single word. -->
 - [x] B) is teaching
-  <!-- feedback: Correct. The -ing form of 'to teach' is 'teaching', with the final -e dropped before adding -ing. -->
+  <!-- feedback: Correct! 'Is teaching' is the auxiliary 'is' plus the participle 'teaching', which is exactly the present continuous. -->
 - [ ] C) teaches
-  <!-- feedback: Incorrect. 'Teaches' is present simple; the sentence has no time marker that forces the progressive. -->
+  <!-- feedback: Incorrect! 'Teaches' is the simple present, and the question asks for the progressive form. -->
 - [ ] D) is teatching
-  <!-- feedback: Incorrect. The -t is not doubled after a long vowel like 'ea', so the correct form is 'teaching'. -->
+  <!-- feedback: Incorrect! 'Teatching' mis-spells the base verb, and a participle can never change the spelling of the stem. -->
 
 ### Explicacion Pedagogica
 Cuando el verbo termina en vocal mas -e la -e desaparece antes de -ing, como en 'teach' que da 'teaching' o 'dance' que da 'dancing'. La duplicacion de consonante se reserva para vocal breve tensa, por lo que 'teaching' lleva una sola -t.
@@ -359,13 +359,13 @@ Complete the sentence: 'He ____ (write) an email to his teacher right now.'
 
 ### Opciones
 - [ ] A) is writeing
-  <!-- feedback: Incorrect. A verb ending in -w doesn't lose the -e before -ing, and the correct form doubles the consonant. -->
+  <!-- feedback: Incorrect! 'Writeing' keeps the silent e before -ing, and a verb ending in -e simply drops it. -->
 - [ ] B) is writting
-  <!-- feedback: Incorrect. No extra -t is added: 'write' doesn't end in -t, so the -ing form doesn't have a double -t. -->
+  <!-- feedback: Incorrect! 'Writting' doubles a consonant that this verb never doubles, so the participle keeps a single t. -->
 - [ ] C) writes
-  <!-- feedback: Incorrect. 'Writes' is present simple, whereas 'right now' describes an action that is happening. -->
+  <!-- feedback: Incorrect! 'Writes' is the simple present of a singular subject, while the marker 'right now' asks for the progressive. -->
 - [x] D) is writing
-  <!-- feedback: Correct. 'Write' ends in -e and the vowel 'i' is short and stressed, so the final -w is doubled before -ing. -->
+  <!-- feedback: Correct! 'Is writing' is the auxiliary 'is' followed by the participle 'writing', with no extra letter anywhere. -->
 
 ### Explicacion Pedagogica
 Los verbos terminados en -w con vocal breve tensa forman el gerundio duplicando la consonante: 'write' da 'writing'. En cambio los terminados en -e como 'dance' o 'smile' solo pierden la -e y no duplican nada. Reconocer la vocal evita confundir ambos grupos.
@@ -384,13 +384,13 @@ Choose the correct form: '____ you waiting for the results?'
 
 ### Opciones
 - [ ] A) Do
-  <!-- feedback: Incorrect. 'Do' belongs to the present simple and can't be followed by the -ing form 'waiting'. -->
+  <!-- feedback: Incorrect! 'Do' builds questions with action verbs in the simple present, but 'waiting' is a participle. -->
 - [ ] B) Is
-  <!-- feedback: Incorrect. 'Is' goes with he, she or it and doesn't agree with the subject 'you'. -->
+  <!-- feedback: Incorrect! 'Is' is the singular auxiliary, and the subject 'you' always takes the plural one. -->
 - [x] C) Are
-  <!-- feedback: Correct. With the subject 'you' the auxiliary is 'are', and the negation is already expressed by the main verb 'waiting' in the question. -->
+  <!-- feedback: Correct! 'You' takes the plural auxiliary 'Are', which is followed by the participle 'waiting' in this question. -->
 - [ ] D) Am
-  <!-- feedback: Incorrect. 'Am' is used with 'I' in the first person singular, never with 'you'. -->
+  <!-- feedback: Incorrect! 'Am' belongs to the pronoun 'I', and the subject of this question is 'you'. -->
 
 ### Explicacion Pedagogica
 En una pregunta el auxiliar 'to be' abre la frase y decide la concordancia con el sujeto. El gerundio no lleva auxiliar propio y simplemente sigue al verbo 'to be'. Cualquier otra forma de auxiliar rompe la estructura del presente continuo.
@@ -409,13 +409,13 @@ What does this sentence express? 'We are meeting the teacher tomorrow at ten.'
 
 ### Opciones
 - [x] A) An arrangement for a future time.
-  <!-- feedback: Correct. The present continuous with future reference expresses a plan or arrangement that has already been made. -->
+  <!-- feedback: Correct! An arrangement such as 'We are meeting the teacher tomorrow at ten' uses 'be' plus the participle, which signals a fixed plan rather than a guess. -->
 - [ ] B) An action that is happening right now.
-  <!-- feedback: Incorrect. The marker 'tomorrow at ten' places the action in the future, so reading it as something happening right now doesn't fit the sentence. -->
+  <!-- feedback: Incorrect! 'An action that is happening right now' would need 'tomorrow at ten' to point at this moment, and it does not. -->
 - [ ] C) A habit from the past.
-  <!-- feedback: Incorrect. Past habits are expressed with the past simple or the past continuous, not with this structure. -->
+  <!-- feedback: Incorrect! 'A habit from the past' describes a repeated action that stopped, which the present continuous can never express. -->
 - [ ] D) A prediction about the future.
-  <!-- feedback: Incorrect. Predictions use 'will' or 'going to', whereas the present continuous announces plans that have already been decided. -->
+  <!-- feedback: Incorrect! 'A prediction about the future' is made with 'will' plus a base verb, and this sentence contains no modal. -->
 
 ### Explicacion Pedagogica
 El presente continuo tiene un uso especial con el futuro: un acuerdo o plan definido. Cuando hay una hora exacta y un compromiso asumido, como 'we are meeting tomorrow at ten', la frase describe algo futuro pero seguro y ya organizado.
@@ -434,13 +434,13 @@ Question: 'Are you eating lunch now?' Answer: '____'
 
 ### Opciones
 - [x] A) Yes, I am.
-  <!-- feedback: Correct. The short answer repeats the auxiliary 'to be' and the subject, and it is the expected form in the present continuous. -->
+  <!-- feedback: Correct! 'Yes, I am' repeats the auxiliary of the question and adds nothing else, which is the standard short answer. -->
 - [ ] B) Yes, I eat.
-  <!-- feedback: Incorrect. 'I eat' is present simple and doesn't repeat the auxiliary that opens the question. -->
+  <!-- feedback: Incorrect! 'Yes, I eat' repeats the simple present instead of the auxiliary, so it does not answer a continuous question. -->
 - [ ] C) Yes, I am eating.
-  <!-- feedback: Incorrect. It's a valid answer but not a short answer: the question calls for just 'Yes, I am'. -->
+  <!-- feedback: Incorrect! 'Yes, I am eating' adds a new piece of information, and a short answer only agrees with the question. -->
 - [ ] D) Yes, I do.
-  <!-- feedback: Incorrect. 'Do' answers present simple questions, not a question built with 'are'. -->
+  <!-- feedback: Incorrect! 'Yes, I do' uses the auxiliary of an action verb, but the question was built with 'are'. -->
 
 ### Explicacion Pedagogica
 Las respuestas cortas siguen el mismo auxiliar que la pregunta. Si la pregunta abre con 'are', la respuesta abre con 'am' para 'I'; si abre con 'do', la respuesta abre con 'do'. Ignorar el auxiliar cambia el tiempo verbal de la respuesta.
@@ -459,13 +459,13 @@ Which sentence is not natural in English?
 
 ### Opciones
 - [ ] A) An action that is happening right now.
-  <!-- feedback: Incorrect. The marker 'tomorrow at ten' places the sentence in the future, not at this moment, so the "right now" reading is incorrect. -->
+  <!-- feedback: Incorrect! 'An action that is happening right now' is a perfectly natural use of the present continuous, so this reading does not make the sentence unnatural. -->
 - [ ] B) A habit from the past.
-  <!-- feedback: Incorrect. Past habits are expressed with the past simple or the past continuous, never with 'are meeting'. -->
+  <!-- feedback: Incorrect! 'A habit from the past' could never be what this sentence means, so this reading is not the reason to reject it. -->
 - [ ] C) A prediction about the future.
-  <!-- feedback: Incorrect. Predictions use 'will' or 'going to'; the present continuous announces an arrangement, not a prediction. -->
+  <!-- feedback: Incorrect! 'A prediction about the future' is not what this sentence says either, because it contains no modal at all. -->
 - [x] D) An arrangement for a future time.
-  <!-- feedback: Correct. With a specific date and time, the present continuous announces a plan that has already been arranged, which is its most typical future use. -->
+  <!-- feedback: Correct! 'An arrangement for a future time' is the odd reading here, because the present continuous marks actions in progress or habits rather than a fixed future plan. -->
 
 ### Explicacion Pedagogica
 Ciertos verbos de estado, como 'to know', 'to love', 'to want' o 'to believe', no se usan normalmente en presente continuo. Se expresan con presente simple, porque describen una situacion permanente y no una actividad en curso.
@@ -484,13 +484,13 @@ Complete the sentence: 'Look! The bus ____ (come) around the corner.'
 
 ### Opciones
 - [ ] A) comes
-  <!-- feedback: Incorrect. 'Comes' is present simple, and the exclamation 'Look' points to something happening at this very moment. -->
+  <!-- feedback: Incorrect! 'Comes' is the simple present, and the marker 'Look!' signals an action in progress at this moment. -->
 - [x] B) is coming
-  <!-- feedback: Correct. 'Look' is the classic marker of the present continuous and signals something happening at this moment. -->
+  <!-- feedback: Correct! The marker 'Look!' always introduces the present continuous, which here is 'is' plus 'coming'. -->
 - [ ] C) is come
-  <!-- feedback: Incorrect. The auxiliary 'to be' is missing and the verb keeps the present simple ending, mixing two tenses. -->
+  <!-- feedback: Incorrect! After 'is' the verb must be the participle 'coming', and the base form is impossible there. -->
 - [ ] D) is comming
-  <!-- feedback: Incorrect. 'Come' already ends in -e, so the -e is dropped and the final -m is not doubled. -->
+  <!-- feedback: Incorrect! 'Comming' doubles the m, and English never writes two of the same consonant in a stem like this. -->
 
 ### Explicacion Pedagogica
 Verbos como 'look', 'listen' y 'now' indican que algo esta pasando en el momento en que se habla. En esos casos el presente continuo es obligatorio, y el gerundio se forma quitando la -e final del verbo cuando existe.
@@ -509,13 +509,13 @@ Choose the correct tag: 'I am not tired yet, ____?'
 
 ### Opciones
 - [ ] A) aren't I
-  <!-- feedback: Incorrect. 'Aren't' goes with 'you' or a plural subject, and the subject of the sentence is 'I'. -->
+  <!-- feedback: Incorrect! 'Aren't I' is not a possible contraction, because 'am' never shortens to 'aren't' anywhere in English. -->
 - [ ] B) do I not
-  <!-- feedback: Incorrect. 'Do' belongs to the present simple, not to the present continuous used in the main clause. -->
+  <!-- feedback: Incorrect! 'Do I not' negates an action verb, and the verb of this clause is the one of 'to be'. -->
 - [x] C) am I not
-  <!-- feedback: Correct. A negative sentence takes a positive tag, and the auxiliary 'am' is kept with 'I' as the subject. -->
+  <!-- feedback: Correct! A tag on a negative clause keeps the same auxiliary in its full form, which gives 'am I not'. -->
 - [ ] D) isn't I
-  <!-- feedback: Incorrect. 'Isn't' is third person singular and doesn't agree with the subject 'I' of the sentence. -->
+  <!-- feedback: Incorrect! 'Isn't I' mixes two different auxiliaries, and 'am' is the only one that agrees with the pronoun 'I'. -->
 
 ### Explicacion Pedagogica
 En presente continuo el tag se construye con el mismo auxiliar de la frase principal. Con 'I' ese auxiliar es 'am', de modo que la forma contracta mas usual es "aren't I" en la afirmacion y "am I" en la negacion, que es la unica combinacion posible.
