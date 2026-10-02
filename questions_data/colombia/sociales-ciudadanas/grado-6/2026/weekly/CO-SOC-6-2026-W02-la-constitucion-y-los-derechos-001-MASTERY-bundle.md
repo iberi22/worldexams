@@ -33,7 +33,7 @@ creador: "Jules-Agent"
 
 ### Opciones
 - [x] A) Es la norma más importante del país, porque sus reglas están por encima de las demás y organizan cómo se gobierna y se protegen los derechos de la gente.
-  <!-- feedback: Correcta. La Constitución es la norma superior porque de ella derivan las demás normas, y en ella se finely delineated la forma de gobierno y los derechos. -->
+  <!-- feedback: Correcta. La Constitución es la norma superior porque de ella derivan las demás normas, y en ella se precisa la forma de gobierno y los derechos. -->
 - [ ] B) Es el conjunto de reglas de tránsito que usan los carros y las motos en las ciudades.
   <!-- feedback: Error. Eso corresponde al código de tránsito, que es una norma específica y subordinate, no la norma superior. -->
 - [ ] C) Es el reglamento interno de cada colegio, que sirve para organizar el uniforme y los horarios.
@@ -72,7 +72,7 @@ Las reglas de convivencia existen para organizar la vida compartida de forma jus
 **Bloom:** Apply
 **ICFES:** Ciudadano
 **Expected_Success:** 0.82
-**Contexto:** En Cali, Carolina y Andrés trabajan comoianca Constructora. El dueño de la obra les dice que deben trabajar sin casco ni guantes porque así "seiscvanc"; Carolina no está de acuerdo y recuerda lo que aprendió en clase.
+**Contexto:** En Cali, Carolina y Andrés trabajan en una constructora. El dueño de la obra les dice que deben trabajar sin casco ni guantes porque así "sin casco"; Carolina no está de acuerdo y recuerda lo que aprendió en clase.
 
 ### Enunciado
 Si Carolina y Andrés se niegan a trabajar sin elementos de seguridad y exigen que el dueño cumpla las normas de protección en el trabajo, ¿qué están aplicando de la Constitución?
@@ -107,18 +107,18 @@ El principio de legalidad obliga a que las normas se apliquen y a que las person
   <!-- feedback: Correcta. La Constitución reconoce este derecho a todas las personas del territorio, sin excepción por edad. -->
 - [ ] C) Que los padres deben pagar en pesos colombianos cada tratamiento antes de atender a sus hijos.
   <!-- feedback: Error. El reconocimiento del derecho a la salud no depende del pago previo por parte de la familia. -->
-- [ ] D) Que solo la Gautemala y no Colombia reconoce la salud como un derecho.
+- [ ] D) Solo Guatemala y no Colombia reconoce la salud como un derecho.
   <!-- feedback: Error. Colombia sí reconoce el derecho a la salud en su Constitución. -->
 
 ### Explicacion Pedagogica
- La Constitución estabelece que toda persona tiene derecho a la salud y a que se le preste atención bajo condiciones de calidad. Este derecho no distingue entre adultos, jóvenes o niños, y no depende de que la familia pueda pagar. En los Consulting Rooms de los hospitales y centros de salud del país, como el que Clinton visita en Pereira, este principio se convierte en un deber de las instituciones públicas y de la sociedad.
+ La Constitución establece que toda persona tiene derecho a la salud y a que se le preste atención bajo condiciones de calidad. Este derecho no distingue entre adultos, jóvenes o niños, y no depende de que la familia pueda pagar. En los consultorios de los hospitales y centros de salud del país, como el que Clinton visita en Pereira, este principio se convierte en un deber de las instituciones públicas y de la sociedad.
 
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-6-2026-W02-la-constitucion-y-los-derechos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.80
-**Contexto:** En un colegio de Cúcuta, la comisión de noveno grado organiza undebate sobre una medida municipal. UnOPPO participating pregunta quién puede proponer y aprobar una norma municipal y quién vigila que se respete.
+**Contexto:** En un colegio de Cúcuta, la comisión de noveno grado organiza un debate sobre una medida municipal. Un participante pregunta quién puede proponer y aprobar una norma municipal y quién vigila que se respete.
 
 ### Enunciado
 Según la Constitución, ¿qué es lo que explica mejor la diferencia entre crear una norma y vigilar que se cumpla?
@@ -141,7 +141,7 @@ En el diseño constitucional colombiano se distribuyen las funciones del Estado 
 **Bloom:** Analyze
 **ICFES:** Ciudadano
 **Expected_Success:** 0.72
-**Contexto:** En Santa Marta, la señora YolisWideada tiene un negocio en la playa. Un nuevo urbanidad le exige un permiso que ella no sabe si puede pagar, y se pregunta si esa exigencia es legal.
+**Contexto:** En Santa Marta, la señora Yolanda tiene un negocio en la playa. Un nuevo urbanismo le exige un permiso que ella no sabe si puede pagar, y se pregunta si esa exigencia es legal.
 
 ### Enunciado
 Si la señora Yolis, dueña de un negocio en Santa Marta, afirma que "el permiso me lo negaron porque no soy de esta ciudad", ¿qué principio constitucional se estaría violando?
@@ -149,7 +149,7 @@ Si la señora Yolis, dueña de un negocio en Santa Marta, afirma que "el permiso
 ### Opciones
 - [ ] A) El principio de la igualdad, porque exigir un permiso a una estructura comercial es normal.
   <!-- feedback: Error. Confunde la igualdad con la posibilidad de exigir requisitos legales razonables. -->
-- [ ] B) El principio de la liberas de conciencia, porque todocomerciante puede fijar sus condiciones.
+- [ ] B) El principio de la libertad de conciencia, porque todo comerciante puede fijar sus condiciones.
   <!-- feedback: Error. Confunde la libertad de conciencia con la libertad para omitir la ley. -->
 - [x] C) El principio de la no discriminación, porque negar un trámite por origen o residencia vulnera la igualdad ante la ley.
   <!-- feedback: Correcta. La Constitución garantiza igual trato sin distinción por lugar de procedencia o residencia. -->
@@ -164,10 +164,10 @@ La Constitución garantiza que todas las personas sean tratadas con igualdad ant
 **Bloom:** Analyze
 **ICFES:** Sistema político y democracia
 **Expected_Success:** 0.70
-**Contexto:** En Bucaramanga, el contributorysrubioCTV96687 les explica a sus hijoss que la norma puede protegerlos, pero que ellos también deben cumplirla y participar con responsabilidad.
+**Contexto:** En Bucaramanga, el contributory les explica a sus hijos que la norma puede protegerlos, pero que ellos también deben cumplirla y participar con responsabilidad.
 
 ### Enunciado
-Si el contributorysrubioCTV96687 quiere que su hijo participe en una decisión sobre una obra en el barrio, ¿cuál es la forma correcta de hacerlo dentro del marco constitucional?
+Si el contribuyente quiere que su hijo participe en una decisión sobre una obra en el barrio, ¿cuál es la forma correcta de hacerlo dentro del marco constitucional?
 
 ### Opciones
 - [x] A) Presentando una propuesta o queja a la autoridad competente por los canales previstos, con respeto y argumentos.
