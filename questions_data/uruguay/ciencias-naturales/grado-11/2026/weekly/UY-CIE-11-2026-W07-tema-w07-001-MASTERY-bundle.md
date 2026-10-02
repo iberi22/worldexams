@@ -306,20 +306,20 @@ La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sel
 **Expected_Success:** 0.45
 **Contexto:** Para el proyecto final de ciencias en el Liceo N° 3 de Salto, Sebastián investiga acerca de la estructura de la doble hélice.
 ### Enunciado
-¿Qué tipos de interacciones químicas estabilizan la unión específica entre las bases nitrogenadas complementarias de ambas hebras de ADN?
+Una muestra de ADN se calienta hasta separar sus dos hebras y luego se enfría en una solución salina. ¿Qué ocurre al volver a la temperatura ambiente?
 
 ### Opciones
-- [x] D) Puentes de hidrógeno específicos entre los grupos amino y carbonilo de las bases nitrogenadas.
-  <!-- feedback: Correcto. Se forman 2 puentes de hidrógeno entre Adenina y Timina, y 3 puentes de hidrógeno entre Citosina y Guanina. -->
-- [ ] A) Enlaces fosfodiéster covalentes de alta energía libre.
-  <!-- feedback: Incorrecto. Los enlaces fosfodiéster unen covalentemente los nucleótidos a lo largo de una misma hebra de azúcar-fosfato. -->
-- [ ] B) Interacciones iónicas dependientes de iones de magnesio libres.
-  <!-- feedback: Incorrecto. Los iones metálicos estabilizan cargas pero no son responsables de la complementariedad de bases. -->
-- [ ] C) Fuerzas electrostáticas repulsivas entre los extremos de fosfato polar.
-  <!-- feedback: Incorrecto. Las cargas negativas de los grupos fosfato se repelen, requiriendo solvente para mantener la estructura celular. -->
+- [x] A) Las hebras se acoplan otra vez por complementaridad, y las secuencias repetidas se acoplan más rápido.
+  <!-- feedback: El enfriamiento permite que las bases complementarias se reconozcan de nuevo: el ADN con secuencias repetidas encuentra su pareja antes que el muy complejo. -->
+- [ ] B) Las hebras quedan unidas de forma aleatoria, porque el calor rompió los enlaces del esqueleto.
+  <!-- feedback: El calor separa las hebras sin romper los enlaces covalentes del ADN, por lo que el proceso puede revertirse al enfriar la muestra. -->
+- [ ] C) Las hebras permanecen separadas, porque la sal impide todo contacto entre bases.
+  <!-- feedback: La sal modula la estabilidad del acoplamiento sin impedirlo: sin ella el acoplamiento sería menos estable, pero no nulo. -->
+- [ ] D) Cada hebra se une a otra igual, formando ADN de una sola cadena.
+  <!-- feedback: Las bases se acoplan por complemento y no por identidad: adenina con timina y citosina con guanina. -->
 
 ### Explicación Pedagógica
-La especificidad de los puentes de hidrógeno es el fundamento molecular de la replicación del ADN y transcripción genética. En este contexto, Sebastián de Salto determinó correctamente la respuesta correcta.
+El acoplamiento de las hebras al enfriar muestra que la relación entre bases es complementaria y reversible, y permite estimar la complejidad de una secuencia por su velocidad de acoplamiento. Sebastián de Salto entendió que el calor separa las hebras sin destruir el esqueleto covalente.
 
 ---
 ## Question 14 [D7-D8]
@@ -375,20 +375,20 @@ La separación de las hebras por la helicasa genera tensión torsional que es al
 **Expected_Success:** 0.36
 **Contexto:** Durante una actividad de laboratorio en el Liceo Piloto de Paysandú, Florencia analiza la hebra discontinua.
 ### Enunciado
-¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?
+Durante la transcripción, la ARN polimerasa recorre una hebra de ADN de 3' a 5' y construye el ARN de 5' a 3'. ¿Cómo se llama esa hebra leída?
 
 ### Opciones
-- [x] A) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
-  <!-- feedback: Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre. -->
-- [ ] B) La hebra molde rezagada carece de bases púricas de adenina indispensables.
-  <!-- feedback: Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales. -->
-- [ ] C) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
-  <!-- feedback: Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos. -->
-- [ ] D) El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.
-  <!-- feedback: Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa. -->
+- [ ] A) ARN cebador, porque aporta el inicio de la síntesis.
+  <!-- feedback: El cebador aporta el extremo libre desde el que la polimerasa alarga, pero es ARN breve y no la hebra que determina la secuencia del ARN nuevo. -->
+- [ ] B) ARN mensajero, porque lleva la información hasta el citoplasma.
+  <!-- feedback: El ARN mensajero interviene en la traducción; en la transcripción la hebra leída es ADN y se denomina plantilla. -->
+- [x] C) Plantilla, porque aporta la secuencia que se copia.
+  <!-- feedback: La plantilla es la hebra de ADN leída de 3' a 5', y su lectura en ese sentido obliga a construir el ARN de 5' a 3'. -->
+- [ ] D) Genoma, porque contiene toda la información genética.
+  <!-- feedback: El genoma es el conjunto completo del material genético de la célula; la hebra que se copia tiene nombre propio: plantilla. -->
 
 ### Explicación Pedagógica
-La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Florencia de Paysandú determinó correctamente la respuesta correcta.
+La hebra leída de 3' a 5' se denomina plantilla, y esa dirección obliga a construir el ARN de 5' a 3'. Florencia de Paysandú distinguió la plantilla del cebador, que solo aporta el inicio de la síntesis.
 
 ---
 ## Question 17 [D9-D10]
@@ -467,26 +467,17 @@ La separación de las hebras por la helicasa genera tensión torsional que es al
 **Expected_Success:** 0.30
 **Contexto:** En el taller de Ciencias Naturales en Minas, Sofía observa un modelo experimental de la hebra discontinua.
 ### Enunciado
-¿Por qué la síntesis de la hebra rezagada (discontinua) ocurre mediante fragmentos de Okazaki?
+En una célula, la maquinaria de replicación incorpora siempre el nucleótido que se acopla a la base del molde y nunca una base igual a ella. ¿Qué principio sostiene esa fidelidad?
 
 ### Opciones
-- [x] C) La ADN polimerasa solo puede sintetizar en dirección 5' a 3', requiriendo múltiples cebadores a medida que avanza la horquilla.
-  <!-- feedback: Correcto. Debido a que las hebras son antiparalelas y la polimerasa agrega nucleótidos solo al extremo 3'-OH libre. -->
-- [ ] A) La hebra molde rezagada carece de bases púricas de adenina indispensables.
-  <!-- feedback: Incorrecto. Ambas hebras molde contienen las mismas proporciones de nucleótidos complementarios normales. -->
-- [ ] B) Las enzimas nucleasas destruyen continuamente las uniones de la hebra de origen paterno.
-  <!-- feedback: Incorrecto. Las nucleasas actúan en reparación de ADN dañado o degradación de ácidos nucleicos foráneos. -->
-- [ ] D) El núcleo celular impide el transporte de azúcares ribosa en dirección retrógrada.
-  <!-- feedback: Incorrecto. La replicación ocurre in situ dentro de la matriz nuclear de forma de forma directa. -->
+- [ ] A) La lista de pares posibles, porque adenina se une a timina y citosina a guanina.
+  <!-- feedback: La lista de pares describe un resultado correcto, pero el enunciado pregunta por el principio que lo hace inevitable. -->
+- [ ] B) La semiconservación, que reserva una hebra original para cada célula hija.
+  <!-- feedback: La semiconservación explica cómo se reparten las hebras entre las células hijas, no por qué se elige cada nucleótido durante la síntesis. -->
+- [x] C) La especificidad del acoplamiento entre bases nitrogenadas.
+  <!-- feedback: Cada base tiene una pareja preferencial y esa correspondencia determina el nucleótido que la enzima incorpora frente al molde. -->
+- [ ] D) La actividad de la telomerasa, que alarga los extremos de los cromosomas.
+  <!-- feedback: La telomerasa resuelve el acortamiento de los extremos de los cromosomas lineales, no la elección de los nucleótidos. -->
 
 ### Explicación Pedagógica
-La síntesis discontinua produce fragmentos de Okazaki que posteriormente se sellan mediante ligasas tras remover los cebadores de ARN. En este contexto, Sofía de Minas determinó correctamente la respuesta correcta.
-
-### Revision de Calidad
-| Dimension | Puntaje |
-|-----------|---------|
-| Tecnico | 30/30 |
-| Curricular | 40/40 |
-| Contexto | 20/20 |
-| Redaccion | 10/10 |
-| **Total** | **100/100** |
+La fidelidad de la copia descansa en que cada base tiene una pareja preferencial, y esa correspondencia es la que determina el nucleótido incorporado. Sofía de Minas entendió que la semiconservación responde a otra pregunta, la del reparto de las hebras.

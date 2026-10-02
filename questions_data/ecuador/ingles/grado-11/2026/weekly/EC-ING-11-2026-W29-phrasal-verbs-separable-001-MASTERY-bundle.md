@@ -22,461 +22,481 @@ bundle_index: 1
 
 ---
 ## Question 1 [D3]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v1
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v1
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The mechanic turned off the engine before he began the inspection.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+The mechanic turned ___ the engine before the inspection.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] B) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [ ] A) off
+  <!-- feedback: Correct! 'Turn off' is a separable phrasal verb, and with a specific object such as the engine the particle can stand between the verb and the noun. -->
+- [ ] B) over
+  <!-- feedback: No. 'Turn over' means to rotate an object or to hand it to someone else, which does not stop an engine. -->
+- [x] C) out
+  <!-- feedback: No. 'Turn out' means to produce a result or to discover something, and it has nothing to do with stopping a machine from running. -->
+- [ ] D) down
+  <!-- feedback: No. 'Turn down' means to reduce a volume or to reject an offer, and neither sense applies to the engine in this sentence. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A separable phrasal verb keeps its two meanings together when the object is a pronoun or an indefinite reference, as in turn it off, but allows the particle to sit inside the phrase when the object is a specific noun.
 ---
-## Question 2 [D4]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 2 [D3]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v2
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** Please take your notebook out of your bag before the test begins.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Please take ___ your notebook before the test begins.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) off
+  <!-- feedback: No. 'Take off' describes leaving the ground or removing a garment, and neither sense fits removing a notebook from a bag. -->
+- [ ] B) up
+  <!-- feedback: No. 'Take up' means to begin a hobby or a task, which has no connection to the object being removed. -->
+- [ ] C) over
+  <!-- feedback: No. 'Take over' means to assume control of something, and the sentence is about a physical removal instead. -->
+- [x] D) out
+  <!-- feedback: Correct! 'Take out' is separable, and with the specific noun phrase 'your notebook' the particle may be placed between the verb and the object. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The separability of a phrasal verb depends on the object. A pronoun forces the particle to follow, as in take it out, while a full noun phrase allows either order, and both are accepted in careful written English.
 ---
+
 ## Question 3 [D3]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v3
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The students put their books away when the teacher entered the room.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+The students put ___ their books when the teacher entered.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) on
+  <!-- feedback: No. 'Put on' means to place a garment on the body, and the sentence is about storing books away. -->
+- [ ] B) out
+  <!-- feedback: No. 'Put out' means to extinguish a fire or to extinguish something, and it does not describe tidying books. -->
+- [x] C) away
+  <!-- feedback: Correct! 'Put away' is separable, and the particle can stand between the verb and the specific noun phrase 'their books'. -->
+- [ ] D) off
+  <!-- feedback: No. 'Put off' means to postpone something, and the sentence describes storing objects in their place. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Particles that express displacement, such as away and out, belong to many separable phrasal verbs. The choice of the particle and the separability of the verb are independent decisions that both have to be right.
 ---
+
 ## Question 4 [D4]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
-
-### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
-
-### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
-## Question 8 [D6]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
-
-### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] B) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
-
-### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
-## Question 9 [D5]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] B) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v13
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v4
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The supervisor filled in the form before the applicant signed the bottom line.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+The supervisor filled ___ the form before the applicant signed it.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) off
+  <!-- feedback: No. 'Fill off' is not an expression used for completing forms in standard English. -->
+- [ ] B) out
+  <!-- feedback: No. 'Fill out' means to complete a written document by writing in it, which is a different act from filling the shape of the paper in. -->
+- [ ] C) up
+  <!-- feedback: No. 'Fill up' means to make a container full, and the sentence is about completing a document rather than filling a space. -->
+- [ ] D) in
+  <!-- feedback: Correct! 'Fill in' is a separable phrasal verb used for completing a form, and the particle may stand before the specific noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Fill in and fill out both describe completing a form, and both are separable. The choice between them is largely a matter of regional variety and of the noun that follows, not of the grammar of the phrase.
 ---
-## Question 14 [D8]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v14
+
+## Question 5 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v5
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The neighbours called off the meeting because of the heavy rain.
+
+### Enunciado
+The neighbours called ___ the meeting because of the heavy rain.
+
+### Opciones
+- [ ] A) on
+  <!-- feedback: No. 'Call on' means to visit someone briefly or to ask someone to contribute, and neither sense cancels a meeting. -->
+- [ ] B) up
+  <!-- feedback: No. 'Call up' is a military term for mobilising someone, and it has no use in cancelling a community meeting. -->
+- [x] C) off
+  <!-- feedback: Correct! 'Call off' is separable, and with the specific noun phrase 'the meeting' the particle can be placed between the verb and its object. -->
+- [ ] D) out
+  <!-- feedback: No. 'Call out' means to shout or to send for a professional, and the sentence states the opposite of summoning anyone. -->
+
+### Explicacion Pedagogica
+Call off, put off and bring off are all separable phrasal verbs that share the idea of cancelling or postponing. In each case the particle can be inserted before a specific object and must follow a pronoun.
+---
+
+## Question 6 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The government cut the price of fuel by half at the beginning of the year.
+
+### Enunciado
+The government cut ___ the price of fuel by half.
+
+### Opciones
+- [ ] A) out
+  <!-- feedback: No. 'Cut out' means to remove a section of a text or to stop using something, and the sentence reduces a price instead. -->
+- [ ] B) off
+  <!-- feedback: No. 'Cut off' means to interrupt a supply or to separate something, and it does not describe reducing a price. -->
+- [ ] C) over
+  <!-- feedback: No. 'Cut over' is not a standard expression for reducing a price, and the particle belongs to other senses such as switching a channel. -->
+- [x] D) down
+  <!-- feedback: Correct! 'Cut down' is separable and is the standard expression for reducing a price, a cost or a quantity. -->
+
+### Explicacion Pedagogica
+Reduce has two separable phrasal verbs, cut down and cut, both of which take a specific noun before or after the particle. The choice between them depends on register, and both are fully accepted in English.
+---
+
+## Question 7 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v7
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The company turned down the offer because the conditions were unacceptable.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+The company turned ___ the offer because the conditions were unacceptable.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] A) down
+  <!-- feedback: Correct! 'Turn down' is separable and is the standard expression for refusing an offer or a request. -->
+- [ ] B) up
+  <!-- feedback: No. 'Turn up' means to increase a volume or to arrive, and neither sense refuses a proposal. -->
+- [ ] C) in
+  <!-- feedback: No. 'Turn in' means to submit a document or to surrender, and it would suggest accepting rather than refusing. -->
+- [ ] D) off
+  <!-- feedback: No. 'Turn off' means to stop a machine or a supply, and the sentence is about a negotiation rather than an engine. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Turn down and turn up form a pair expressing refusal and acceptance, and each of them is separable. The particle carries the direction of the decision in the same way that up and down carry height in other contexts.
 ---
-## Question 15 [D7]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v15
+
+## Question 8 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The teacher wrote down every word that the student said during the interview.
+
+### Enunciado
+The teacher wrote ___ every word that the student said.
+
+### Opciones
+- [ ] A) out
+  <!-- feedback: No. 'Write out' means to write something in full or to copy a text, and the sentence is about recording speech as it happens. -->
+- [x] B) down
+  <!-- feedback: Correct! 'Write down' is separable, and with the specific phrase 'every word' the particle can stand between the verb and its object. -->
+- [ ] C) off
+  <!-- feedback: No. 'Write off' means to cancel a debt or to treat something as a loss, and neither sense applies to a record of an interview. -->
+- [ ] D) over
+  <!-- feedback: No. 'Write over' is not a standard expression in this sense, and 'write over' usually refers to writing across an existing text. -->
+
+### Explicacion Pedagogica
+Write down, note down and jot down are all separable and all mean to record something. What they share is the idea of transferring speech or a thought onto paper, and the particle marks the direction of that transfer.
+---
+
+## Question 9 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v9
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The committee has put off the final decision until the next meeting.
+
+### Enunciado
+The committee has put ___ the final decision until the next meeting.
+
+### Opciones
+- [x] A) off
+  <!-- feedback: Correct! 'Put off' is separable, and with the specific noun phrase 'the final decision' the particle may be placed between the verb and the object. -->
+- [ ] B) on
+  <!-- feedback: No. 'Put on' means to place a garment on the body or to start a machine, and neither sense postpones anything. -->
+- [ ] C) up
+  <!-- feedback: No. 'Put up' means to raise something or to display a notice, and it never means to postpone a decision. -->
+- [ ] D) away
+  <!-- feedback: No. 'Put away' means to store something in its place, and the committee has not hidden the decision anywhere. -->
+
+### Explicacion Pedagogica
+Put off, put on, put up and put away are four separable verbs built on the same simple verb. Their particles carry completely different meanings, so the phrase has to be learned as a whole rather than assembled from its parts.
+---
+
+## Question 10 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v10
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The new manager took over the department in March and reorganised the team.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+The new manager took ___ the department in March.
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) off
+  <!-- feedback: No. 'Take off' describes a departure or the removal of a garment, and the sentence is about assuming responsibility. -->
+- [ ] B) up
+  <!-- feedback: No. 'Take up' means to begin a task or a hobby, and the manager was already appointed rather than starting the role. -->
+- [x] C) over
+  <!-- feedback: Correct! 'Take over' is separable and is the standard expression for assuming control of something that someone else had. -->
+- [ ] D) out
+  <!-- feedback: No. 'Take out' means to remove something or to arrange a loan, and neither sense transfers responsibility. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Take over expresses a transfer of responsibility, and it is separable with a specific object. When the object is a pronoun the particle must follow, as in took it over, and that constraint is what defines the phrase as separable rather than inseparable.
 ---
-## Question 16 [D8]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v16
+
+## Question 11 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v11
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The organisers had to call the event off because of the storm.
+
+### Enunciado
+The organisers had to call ___ because of the storm.
+
+### Opciones
+- [ ] A) in
+  <!-- feedback: No. 'Call in' means to telephone the place where one works or to report a defect, and neither sense cancels an event. -->
+- [ ] B) back
+  <!-- feedback: No. 'Call back' means to telephone someone again, and the sentence is about cancelling rather than returning a call. -->
+- [ ] C) through
+  <!-- feedback: No. 'Call through' means to telephone an extension internally, and it has no connection with cancelling a public event. -->
+- [x] D) it off
+  <!-- feedback: Correct! With a pronoun as the object the particle must follow, so 'call it off' is the only correct order for this separable verb. -->
+
+### Explicacion Pedagogica
+A pronoun object forces the particle to come after it, which is the practical test for separability. With a general reference the same verb is written call it off or simply call off, and the phrase remains fully idiomatic in both forms.
+---
+
+## Question 12 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v12
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** Please switch off the lights when you leave the laboratory.
+
+### Enunciado
+Please switch ___ the lights when you leave the laboratory.
+
+### Opciones
+- [ ] A) up
+  <!-- feedback: No. 'Switch up' is not a standard expression for stopping a light, and the particle 'up' belongs to other verbs such as turn up. -->
+- [x] B) off
+  <!-- feedback: Correct! 'Switch off' is a separable phrasal verb, and with the specific noun phrase 'the lights' the particle can sit between the verb and the object. -->
+- [ ] C) over
+  <!-- feedback: No. 'Switch over' means to change from one option or channel to another, and the sentence is about turning something off. -->
+- [ ] D) down
+  <!-- feedback: No. 'Switch down' is not an established expression, and 'switch off' is the collocation that English uses for lights and machines. -->
+
+### Explicacion Pedagogica
+Switch off, turn off and put off all end in off but belong to different semantic families. Particles do not migrate between verbs in English, so each collocation has to be learned as an independent item.
+---
+
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The school is setting up a new laboratory for the science students.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+The school is setting ___ a new laboratory for the science students.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) off
+  <!-- feedback: No. 'Set off' means to start a journey or to cause something to happen, and the sentence describes establishing a facility. -->
+- [x] B) up
+  <!-- feedback: Correct! 'Set up' is separable and is the standard expression for establishing an institution or a piece of equipment. -->
+- [ ] C) out
+  <!-- feedback: No. 'Set out' means to begin a task or to arrange a plan, and the laboratory is already being established in the sentence. -->
+- [ ] D) down
+  <!-- feedback: No. 'Set down' means to put something down gently or to write a sum, and it does not describe founding a laboratory. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Set up and set down form a pair with opposite meanings, and both are separable. They belong to a long family of verbs built on set, each of which has its own particle and its own independent meaning.
 ---
-## Question 17 [D9]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v17
+
+## Question 14 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The coach encouraged the runners and kept them going until the last lap.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+The coach kept ___ the runners until the last lap.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) on
+  <!-- feedback: No. 'Kept on' means to continue doing something oneself, and the coach was not the one running. -->
+- [x] B) them going
+  <!-- feedback: Correct! 'Keep someone going' is separable, and with a pronoun object the rest of the phrase must follow it in that order. -->
+- [ ] C) out them
+  <!-- feedback: No. 'Them' is a pronoun and cannot stand between the verb and its particle in this phrase, so the order is impossible. -->
+- [ ] D) up them
+  <!-- feedback: No. 'Keep them up' refers to staying awake, and it says nothing about the encouragement the coach gave. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Keep, leave, get and put are four verbs that build separable phrases with a wide variety of particles. In each of them a pronoun object has to sit directly after the verb, which is the feature that makes them separable in the first place.
 ---
-## Question 18 [D10]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 15 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v15
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The technician threw away the damaged cable and ordered a new one.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+The technician threw ___ the damaged cable and ordered a new one.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) in
+  <!-- feedback: No. 'Throw in' is used in informal English to mean to contribute or to join, and it does not describe discarding an object. -->
+- [ ] B) over
+  <!-- feedback: No. 'Throw over' is not a standard expression for discarding, and 'throw over' usually means to abandon or to defeat. -->
+- [x] C) away
+  <!-- feedback: Correct! 'Throw away' is separable and is the standard expression for getting rid of something that is no longer useful. -->
+- [ ] D) off
+  <!-- feedback: No. 'Throw off' means to discard lightly or to mislead someone, and the cable was deliberately scrapped. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Throw away, throw out and throw off are three separable phrasal verbs built on the same simple verb. The particle decides whether the object is discarded, ejected or released, and the grammatical pattern is identical in all three.
 ---
-## Question 19 [D9]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+
+## Question 16 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v16
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The two teams played off the final match on the last day of the tournament.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+The two teams played ___ the final match on the last day of the tournament.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) out
+  <!-- feedback: No. 'Play out' means to complete a game or to perform something in full, and it does not express the idea of a decider. -->
+- [ ] B) up
+  <!-- feedback: No. 'Play up' is a British expression meaning to behave badly or to complain, and it has no relevance here. -->
+- [ ] C) over
+  <!-- feedback: No. 'Play over' means to replay a game that was stopped, and the sentence describes a match played as a decider. -->
+- [x] D) off
+  <!-- feedback: Correct! 'Play off' is separable and is the standard expression for a match played to settle a tie or to decide a championship. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Play off and play up are separable phrasal verbs of the tournament kind, and their meanings are quite specialised. Phrasal verbs often develop senses that are far from the literal reading of their two parts, which is why they have to be learned as whole items.
 ---
-## Question 20 [D10]
-**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v20
+
+## Question 17 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The plane turned back and landed at the nearest airport.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+The plane turned ___ because the weather had closed the airport.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] C) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] A) back
+  <!-- feedback: Correct! 'Turn back' is separable and is the standard expression for reversing the direction of a journey. -->
+- [ ] B) up
+  <!-- feedback: No. 'Turn up' means to increase a volume or to arrive, and neither sense describes a change of flight direction. -->
+- [ ] C) off
+  <!-- feedback: No. 'Turn off' means to stop a machine, and the plane was not stopped but redirected. -->
+- [ ] D) out
+  <!-- feedback: No. 'Turn out' means to produce a result or to discover something, and it has no use for a change of route. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Turn back, turn down, turn up and turn off are four separable verbs built on turn, each with its own particle and its own meaning. Direction of travel, refusal, arrival and stopping are all expressed by the choice of particle.
+---
+
+## Question 18 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v18
+**Bloom:** Analyze
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** Please look over the report before the committee meets on Friday.
+
+### Enunciado
+Please look ___ the report before the committee meets on Friday.
+
+### Opciones
+- [ ] A) into
+  <!-- feedback: No. 'Look into' means to investigate a matter in depth, and it would suggest a research task rather than a revision. -->
+- [x] B) over
+  <!-- feedback: Correct! 'Look over' is separable and means to examine something carefully, which is what the sentence asks the reader to do. -->
+- [ ] C) after
+  <!-- feedback: No. 'Look after' means to take care of someone or something, and no responsibility is mentioned in the sentence. -->
+- [ ] D) up
+  <!-- feedback: No. 'Look up' means to consult a reference or to improve, and it does not mean to examine a document. -->
+
+### Explicacion Pedagogica
+Look over, look into and look after are separable phrasal verbs of the same family, and their particles mark different kinds of attention: a surface review, a deep investigation and a responsibility. Each one is learned as a complete unit.
+---
+
+## Question 19 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v19
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The students worked out the solution together after class.
+
+### Enunciado
+The students worked ___ the solution together after class.
+
+### Opciones
+- [ ] A) in
+  <!-- feedback: No. 'Worked in' means to have an influence on something, and it does not describe the process of finding an answer. -->
+- [ ] B) at
+  <!-- feedback: No. 'Worked at' means to make an effort to improve something or to study, and the sentence reports a completed result. -->
+- [ ] C) up
+  <!-- feedback: No. 'Worked up' means to become agitated or to build something gradually, and neither sense applies to a solution found by a group. -->
+- [x] D) out
+  <!-- feedback: Correct! 'Work out' is separable and is the standard expression for solving a problem or reaching a conclusion. -->
+
+### Explicacion Pedagogica
+Work out, work in and work up are separable phrasal verbs with unrelated meanings despite the shared verb. Their prepositional meanings are so fixed that the phrase is normally treated as a single lexical unit in a learner's dictionary.
+---
+
+## Question 20 [D4]
+**ID:** EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v20
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.85
+**Contexto:** The clerk filled in the missing details and stamped the form twice.
+
+### Enunciado
+The clerk filled ___ the missing details and stamped the form twice.
+
+### Opciones
+- [x] A) in
+  <!-- feedback: Correct! 'Fill in' is separable and is the standard expression for writing the entries that are missing from a form. -->
+- [ ] B) out
+  <!-- feedback: No. 'Fill out' means to complete a document as a whole, whereas 'fill in' names the writing of the individual missing entries. -->
+- [ ] C) over
+  <!-- feedback: No. 'Fill over' is not a standard expression, and 'fill' with 'over' belongs to other senses such as filling a form in a different colour. -->
+- [ ] D) up
+  <!-- feedback: No. 'Fill up' means to make a container full or to write in a form completely, and the sentence is about individual details. -->
+
+### Explicacion Pedagogica
+Fill in and fill out are so close in meaning that speakers choose between them by region and by habit. Grammatically they behave identically as separable verbs, and both accept a noun phrase before or after the particle.
+---
