@@ -218,14 +218,14 @@ Los partidos políticos son organizaciones que representan diferentes intereses,
 ¿Qué mecanismo permite a los ciudadanos controlar la gestión de los funcionarios públicos?
 
 ### Opciones
-- [ ] A) La revocatoria del mandato
+- [x] A) La revocatoria del mandato
   <!-- feedback: Correcto. La revocatoria del mandato permite a los ciudadanos destituir a un funcionario elegido antes de que termine su período si no cumple con su programa de gobierno. -->
 - [ ] B) La acción de tutela
-  <!-- feedback: Incorrecto. La acción de tutela protege derechos fundamentales, no controla directamente la gestión de los funcionarios públicos. -->
+  <!-- feedback: Incorrecto. La acción de tutela protege derechos fundamentales frente a la vulneración de un derecho, no controla la gestión de un funcionario. -->
 - [ ] C) La acción popular
-  <!-- feedback: Incorrecto. La acción popular protege derechos colectivos, no controla la gestión de funcionarios específicos. -->
-- [x] D) La revocatoria del mandato (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. La revocatoria del mandato es el mecanismo de control político. -->
+  <!-- feedback: Incorrecto. La acción popular protege derechos colectivos como el ambiente o la salud pública, no el control directo de la gestión de un funcionario. -->
+- [ ] D) El referendo revocatorio
+  <!-- feedback: Incorrecto. El referendo consulta la opinión de los ciudadanos sobre una decisión general; para destituir directamente a un funcionario existe la revocatoria del mandato. -->
 ### Explicacion Pedagogica
 La revocatoria del mandato es un mecanismo de participación ciudadana y control político que permite a los ciudadanos destituir a un funcionario elegido (como alcaldes o gobernadores) antes de que termine su período, si consideran que no está cumpliendo con su programa de gobierno. Para activarla se requiere un número significativo de firmas y una votación popular.
 
@@ -265,13 +265,12 @@ La participación ciudadana es fundamental en una democracia porque fortalece la
 ### Opciones
 - [ ] A) La existencia de múltiples partidos políticos
   <!-- feedback: Incorrecto. La existencia de múltiples partidos políticos es una fortaleza de la democracia, no un desafío, porque permite la pluralidad de ideas. -->
-- [x] B) La baja participación ciudadana en las elecciones
-  <!-- feedback: Correcto. La baja participación ciudadana debilita la democracia porque reduce la legitimidad de los elegidos y permite que unos pocos decidan por todos. -->
-- [ ] C) La separación de poderes
+- [ ] B) La separación de poderes
   <!-- feedback: Incorrecto. La separación de poderes es una garantía democrática, no un desafío, porque evita la concentración del poder. -->
-- [ ] D) La existencia de mecanismos de participación ciudadana
+- [ ] C) La existencia de mecanismos de participación ciudadana
   <!-- feedback: Incorrecto. Los mecanismos de participación ciudadana fortalecen la democracia, no la debilitan, porque permiten al pueblo intervenir en las decisiones. -->
-
+- [x] D) La baja participación ciudadana en las elecciones
+  <!-- feedback: Correcto. La baja participación ciudadana debilita la democracia porque reduce la legitimidad de los elegidos y permite que unos pocos decidan por todos. -->
 ### Explicacion Pedagogica
 La baja participación ciudadana en las elecciones es un desafío para la democracia colombiana porque reduce la legitimidad de los gobernantes elegidos. Cuando pocos ciudadanos votan, los elegidos representan a una minoría y no a la mayoría. Esto puede generar desconfianza en las instituciones y debilitar el sistema democrático. Fomentar la participación activa es esencial para fortalecer la democracia.
 
@@ -290,10 +289,9 @@ La baja participación ciudadana en las elecciones es un desafío para la democr
   <!-- feedback: Incorrecto. No participar en política debilita la democracia. Los jóvenes deben participar activamente para fortalecer el sistema democrático. -->
 - [ ] B) Solo votar en elecciones presidenciales
   <!-- feedback: Incorrecto. Votar solo en elecciones presidenciales es insuficiente. Los jóvenes deben participar en todo tipo de elecciones y mecanismos de participación ciudadana. -->
-- [x] C) Participar activamente en elecciones, organizaciones sociales y mecanismos de participación ciudadana
-  <!-- feedback: Correcto. Los jóvenes pueden fortalecer la democracia participando en elecciones, organizaciones sociales, veedurías ciudadanas, cabildos abiertos y otros mecanismos de participación. -->
-- [ ] D) Esperar a ser mayores de edad para involucrarse en política
+- [ ] C) Esperar a ser mayores de edad para involucrarse en política
   <!-- feedback: Incorrecto. Los jóvenes no necesitan esperar a ser mayores de edad para involucrarse en política. Pueden participar en organizaciones estudiantiles, juveniles y comunitarias desde ahora. -->
-
+- [x] D) Participar activamente en elecciones, organizaciones sociales y mecanismos de participación ciudadana
+  <!-- feedback: Correcto. Los jóvenes pueden fortalecer la democracia participando en elecciones, organizaciones sociales, veedurías ciudadanas, cabildos abiertos y otros mecanismos de participación. -->
 ### Explicacion Pedagogica
 Los jóvenes pueden fortalecer la democracia colombiana participando activamente en diferentes espacios: votando en todas las elecciones (no solo las presidenciales), uniéndose a organizaciones sociales y juveniles, participando en veedurías ciudadanas, asistiendo a cabildos abiertos, y usando mecanismos como la iniciativa legislativa y el referendo. La participación juvenil es esencial para renovar la política y garantizar que las decisiones públicas reflejen las necesidades de todas las generaciones.
