@@ -80,15 +80,14 @@ Cruzar donde hay semáforo registrado reduce el riesgo de accidentes, porque el 
 Si Camila debe elegir el camino más seguro para llegar al colegio, ¿cuál debe tomar?
 
 ### Opciones
-- [ ] A) La avenida, porque tiene más luz y se ve mejor desde lejos
-  <!-- feedback: Incorrecto. Más luz no compensa el riesgo: en esa avenida los carros entran y salen del parqueadero y ella camina al borde de la calzada, sin semáforo que la proteja. -->
-- [x] B) La calle angosta, porque tiene aceras y un puente peatonal con semáforo
+- [x] A) La calle angosta, porque tiene aceras y un puente peatonal con semáforo
   <!-- feedback: Correcto. El puente peatonal con semáforo obliga a los carros a detenerse y las aceras la separan de la calzada: por eso ese camino tiene menos riesgo para ella. -->
-- [ ] C) Cualquiera de los dos, porque los dos caminos llevan al mismo colegio
+- [ ] B) Cualquiera de los dos, porque los dos caminos llevan al mismo colegio
   <!-- feedback: Incorrecto. Que el destino sea el mismo no significa que el riesgo sea el mismo: la vía con semáforo y aceras es la que protege mejor a quien camina. -->
-- [ ] D) La avenida, porque es más rápida y así llega menos tarde al colegio
+- [ ] C) El paso de la avenida, porque los carros circulan más rápido por la vía principal
   <!-- feedback: Incorrecto. La rapidez no es el criterio aquí: ahorra unos minutos, pero expone a una niña de cuarto grado a un accidente en la calzada. -->
-
+- [ ] D) La avenida, porque tiene más luz y se ve mejor desde lejos
+  <!-- feedback: Incorrecto. Más luz no compensa el riesgo: en esa avenida los carros entran y salen del parqueadero y ella camina al borde de la calzada, sin semáforo que la proteja. -->
 ### Explicacion Pedagogica
 Para escoger una ruta segura hay que mirar las condiciones del camino: aceras, semáforos, puentes peatonales y la cercanía de carros que entran y salen. Camila no busca la vía más corta, sino la que la protege mejor. Ese mismo razonamiento sirve para decidir cómo cruzar, dónde caminar y por dónde moverse en cualquier ciudad.
 
@@ -149,19 +148,18 @@ Un acuerdo de convivencia también se puede medir. Repartir las papeleras de la 
 ¿Por qué esta situación es un problema de convivencia y no un reclamo aislado de una sola persona?
 
 ### Opciones
-- [ ] A) Porque la persona en silla de ruedas no prestó atención a la señal que pedía amabilidad
-  <!-- feedback: Incorrecto. El problema no es la falta de atención de quien usa la rampa, sino el lugar ocupado: quitarle el paso accesible afecta a toda persona que necesite esa rampa. -->
-- [x] B) Porque al ocupar la rampa se le niega el paso a quien la necesita, y eso muestra una desigualdad real en el uso de la calle
+- [x] A) Porque al ocupar la rampa se le niega el paso a quien la necesita, y eso muestra una desigualdad real en el uso de la calle
   <!-- feedback: Correcto. La rampa es un derecho y no un favor: bloquearla revela que el espacio público se organizó pensando en algunos y dejó fuera a otros, y eso es desigualdad. -->
-- [ ] C) Porque las mesas y las sillas sirven para más gente que la rampa, y por eso el local tiene razón
+- [ ] B) Porque las mesas y las sillas sirven para más gente que la rampa, y por eso el local tiene razón
   <!-- feedback: Incorrecto. Contar cuántos se benefician no decide el asunto: la rampa garantiza un acceso que la mesa no reemplaza, y el local puede reubicar las mesas un metro más allá. -->
-- [ ] D) Porque en las calles no se puede poner ningún objeto, aunque quede espacio libre al lado
+- [ ] C) Porque en las calles no se puede poner ningún objeto, aunque quede espacio libre al lado
   <!-- feedback: Incorrecto. No es que las calles no admitan objetos: lo que se discute es ocupar el paso accesible, y eso sí tiene solución moviendo las mesas. -->
-
+- [ ] D) Porque la persona en silla de ruedas no prestó atención a la señal que pedía amabilidad
+  <!-- feedback: Incorrecto. El problema no es la falta de atención de quien usa la rampa, sino el lugar ocupado: quitarle el paso accesible afecta a toda persona que necesite esa rampa. -->
 ### Explicacion Pedagogica
 Analizar un conflicto en la calle exige mirar la estructura y no solo a la persona afectada. Cuando el espacio común se organiza pensando únicamente en quienes caminan rápido, quienes usan silla de ruedas, bastón o carrito de bebé quedan por fuera. Esa es una desigualdad concreta, y por eso la convivencia incluye cuidar el acceso de todas las personas.
 
-## Question 7 [D7-D8]
+## Question 7 [D9-D10]
 **ID:** CO-SOC-4-2026-W10-la-convivencia-en-la-calle-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política
@@ -184,7 +182,7 @@ Analizar un conflicto en la calle exige mirar la estructura y no solo a la perso
 ### Explicacion Pedagogica
 Evaluar una propuesta para la convivencia exige preguntarse si construye acuerdos o solo vigila. Las cámaras registran, pero no acuerdan; la limpieza y el diálogo reparten responsabilidad y confianza. Cuando los vecinos se organizan en una tarea y en un espacio de conversación, la cuadra deja de ser un lugar de paso y se vuelve una comunidad.
 
-## Question 8 [D7-D8]
+## Question 8 [D9-D10]
 **ID:** CO-SOC-4-2026-W10-la-convivencia-en-la-calle-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Sistema político y democracia

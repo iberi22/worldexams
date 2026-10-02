@@ -161,7 +161,7 @@ Cuando un dinero se reparte en varias partes, el sobrante se calcula restando ca
 ### Explicacion Pedagogica
 Cuando se trata del dinero o de las decisiones que afectan a todos, decidir solo no funciona. Un acuerdo familiar se construye escuchando, y eso incluye a las personas que tal vez no están de acuerdo. Ayudar a quien lo necesita está bien hacerse, pero se acuerda, no se impone.
 
-## Question 7 [D7-D8]
+## Question 7 [D9-D10]
 **ID:** CO-SOC-4-2026-W06-las-familias-de-colombia-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Ciudadano
@@ -184,7 +184,7 @@ Los abuelos no viven en la misma casa que Mateo. ¿Qué le dice ese ejemplo sobr
 ### Explicacion Pedagogica
 El cuidado se puede organizar de muchas maneras: en una casa, entre dos casas, por turnos, por semanas. Todas son formas válidas de sostener un lazo. Lo que une a esas personas es la relación que tienen entre sí, no el número de dormitorios o la dirección donde viven.
 
-## Question 8 [D7-D8]
+## Question 8 [D9-D10]
 **ID:** CO-SOC-4-2026-W06-las-familias-de-colombia-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Reflexión ética y política
