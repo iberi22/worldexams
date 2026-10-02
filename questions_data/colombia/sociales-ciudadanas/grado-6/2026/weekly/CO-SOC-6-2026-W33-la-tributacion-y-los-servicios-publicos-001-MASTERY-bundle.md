@@ -135,7 +135,7 @@ Los impuestos son pagos obligatorios cuyos recursos hacen parte del presupuesto 
   <!-- feedback: Incorrecto. La evasión tributaria reduce los recursos públicos y traslada injustamente el costo de las obras a otras familias. -->
 
 ### Explicacion Pedagogica
-La tributación permite que las entidades públicas्सreceban ingresos para financiar servicios, obras y atención ciudadana. Pagar los impuestos y usar responsablemente lo público son formas de asumir una ciudadanía responsable yThrivingir el bienestar común.
+La tributación permite que las entidades públicas reciban ingresos para financiar servicios, obras y atención ciudadana. Pagar los impuestos y usar responsablemente lo público son formas de asumir una ciudadanía responsable y de procurar el bienestar común.
 
 ## Question 6 [D7-D8]
 **ID:** CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle-v6
