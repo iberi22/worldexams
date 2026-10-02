@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses an It-cleft to put the focus on the time?",
+      "context": "A news report in Cartago described when the main road reopened after the floods.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "It was after the floods that the road to Cartago reopened.",
+          "is_correct": true,
+          "feedback": "This works: It was ... that isolates the time phrase, so the sentence stresses when the road reopened."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "The road to Cartago reopened after the floods, as everyone knows.",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "This is a plain declarative with an added comment, so no element is singled out for emphasis here."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "After the floods, the road to Cartago reopened last Saturday.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "This is normal word order with the cause in front, so the sentence stresses the floods, not the time."
+        },
+        {
+          "letter": "D",
+          "text": "The floods made the road to Cartago reopen a little later.",
+          "is_correct": false,
+          "feedback": "This presents the floods as the cause in an ordinary causal sentence, not in an emphasis structure."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "An It-cleft splits a clause into It was plus a focus plus that plus the rest, so one element becomes the topic.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing is the correct one for that formal email?",
+      "context": "Daniela is writing a formal email to the principal of her school in Heredia.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "Love, Dani",
+          "is_correct": false,
+          "feedback": "Love is a friendly sign-off used between close peers, so it does not fit a formal email to a principal."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "Catch you later, Daniela",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "This is an informal goodbye between friends, so it sounds far too casual for official school business."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "text": "Yours sincerely, Daniela Vargas",
+          "is_correct": true,
+          "feedback": "This works: Yours sincerely is a standard formal valediction and it is followed by the writer's full name."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Thanks for everything, Dani",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "This thanks the reader but it is not a closing formula, so the email would end with no proper sign-off."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Formal letters and emails close with a valediction such as Yours sincerely, followed by the writer's full name and surname.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which version correctly inverts the subject and the auxiliary verb?",
+      "context": "A teacher in San Jose explained why the students stayed after the last bell.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "letter": "A",
+          "text": "Only after the last bell the students did leave the building.",
+          "is_correct": false,
+          "feedback": "Here the auxiliary did stays after the subject, but a fronted phrase at the start forces inversion."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "letter": "B",
+          "text": "Only after the last bell did the students leave the building.",
+          "is_correct": true,
+          "feedback": "This works: the fronted phrase comes first, so the auxiliary did moves in front of the subject."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "After the last bell only did the students leave the building.",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Only is misplaced inside the time phrase, so the fronted element is not the one that triggers inversion."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Only after the last bell did leave the students the building.",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "The verb is cut off from its subject by the object here, so this is not the inverted clause at all."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "When a phrase such as only after the last bell opens the sentence, the auxiliary comes before the subject.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence shows results improving as practice increases?",
+      "context": "Daniela trains at the track in Cartago and wants to show how practice changes her times.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "She trains more, so she runs faster every single morning.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "So links two separate facts, so it gives a result without showing how the two amounts depend on each other."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The more she trains, faster she runs on the track.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "The first half is right, but the correlative needs a second the before the comparative in the other clause."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "She trains the most, so she runs the fastest every morning.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "The superlative compares her with everyone, while the context describes how her own effort changes her speed."
+        },
+        {
+          "letter": "D",
+          "text": "The more she trains, the faster she runs on the track.",
+          "is_correct": true,
+          "feedback": "This works: the pair the more and the faster links two clauses whose quantities grow together."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "The correlative pair the more and the is used when one quantity rises and another rises or falls with it.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best gives the main idea of that radio piece?",
+      "context": "A short radio piece said that Alajuela recycled thirty percent more glass this year.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "Glass recycling in Alajuela went up this year.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "This works: it keeps the topic, the place and the general trend, which is exactly what a main idea needs."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "A radio station in Alajuela got new equipment this year.",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "The station and its equipment are only background in the report, so this moves away from the main topic."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Alajuela residents must separate glass before Friday.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "No deadline is heard on the air, so this adds a rule and turns a reported fact into invented advice."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Alajuela will open a new recycling plant next year.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "A future plant is never announced, so this invents a development the report does not support at all."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A main idea keeps the central topic and general trend, while names, figures and side remarks belong to the details.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which detail did the guest give about that recycling drive?",
+      "context": "In a podcast from Alajuela the guest named the school that joined a recycling drive.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "text": "The drive collected paper from every household in the country.",
+          "is_correct": false,
+          "feedback": "This names every household in the country, but the guest only mentioned one school taking part."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "text": "The Liceo de Alajuela joined the recycling drive.",
+          "is_correct": true,
+          "feedback": "This works: it repeats the specific detail given on air, the name of the school that joined the drive."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The drive started after the mayor visited a school.",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "A visit by the mayor never appears in the podcast, so this adds a cause that was not stated."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The drive ended last March with no results at all.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "The guest described a drive that was still going on, so this adds an ending date and a negative result."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Listening for details means catching the exact names, figures and times that support the general point of a report.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence works best as the thesis of an opinion essay?",
+      "context": "Andres must write an opinion essay about public transport for his school in Alajuela.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
+          "letter": "A",
+          "text": "In this essay I am going to talk about several things.",
+          "is_correct": false,
+          "feedback": "This only announces the topic, so it makes no claim and gives no reason a reader could argue with."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "Public transport is nice and everybody knows that.",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "The vague adjective and everybody knows weaken the claim, so it is not a thesis a reader can test."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "I walked to school yesterday and it took twenty minutes.",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "This is a personal anecdote about one morning, so it supports no general position on transport."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "text": "In my opinion, buses should run more often, because many students arrive late.",
+          "is_correct": true,
+          "feedback": "This works: it states a clear opinion and because introduces the reason the essay will develop."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "A thesis is one clear argument plus the reason for it; an introduction should not only announce a topic or tell a story.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses inversion correctly after a negative adverb?",
+      "context": "A coach in Heredia was describing what her athletes achieved last spring.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "text": "Rarely have our athletes trained as hard as they did last spring.",
+          "is_correct": true,
+          "feedback": "This works: rarely is a negative adverb, so the auxiliary have moves in front of the subject our athletes."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Rarely our athletes have trained as hard as they did last spring.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "The subject sits between rarely and the auxiliary, so the inversion that rarely requires never happens."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "Rarely have trained our athletes as hard as they did last spring.",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "The verb appears before its subject here, so the clause is not the subject-auxiliary order that rarely needs."
+        },
+        {
+          "letter": "D",
+          "text": "Rarely did trained our athletes as hard as they did last spring.",
+          "is_correct": false,
+          "feedback": "Did with the past participle leaves no place for the subject, so the auxiliary form is wrong as well."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Negative adverbs at the start of a sentence, such as rarely or not only, invert the subject and the auxiliary.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence makes the best topic sentence for that paragraph?",
+      "context": "In an essay about coffee in Turrialba, Sofia is writing the second body paragraph.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
+          "letter": "A",
+          "text": "To conclude, coffee farming in Turrialba has a bright future.",
+          "is_correct": false,
+          "feedback": "To conclude only fits the last paragraph, so this sentence cannot introduce the ideas of a body paragraph."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "For example, one farmer near the volcano earns half his income from sales.",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "For example opens a supporting detail, so it belongs after the main point of the paragraph has been stated."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "text": "A second serious problem for small growers is the low price they receive.",
+          "is_correct": true,
+          "feedback": "This works: it names the second main idea of the essay and announces the reasons that will follow."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "On the other hand, my cousin prefers tea to coffee in the morning.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "This switches to a personal preference the essay never argues about, so it breaks the paragraph's topic."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Each body paragraph states one main idea first, then supports it with examples, data or reasons.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence makes that request politely in a formal email?",
+      "context": "Kevin needs to ask the coordinator in Cartago for a change of class hour.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "You must change my class hour to the afternoon, right now.",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "You must plus the bare command is an order, so it sounds demanding in a request to a coordinator."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "I would like to request a change of my class hour, if possible.",
+          "is_correct": true,
+          "feedback": "This works: would like to request is a polite formula, and if possible softens the demand even further."
+        },
+        {
+          "letter": "C",
+          "text": "Change my class hour to the afternoon, no problem?",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "An imperative plus a tag question demands action here, so the tone is rude rather than courteous."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "I need you to change my hour, so do it soon, please.",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "So do it soon gives a direct command, so adding please cannot cancel that forceful order."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Formal requests use hedged forms such as would like to request or could you possibly, never bare imperatives.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Rewrite it so that the focus falls on the volunteer brigade?",
+      "context": "In Escazu the volunteer brigade fixed the broken water pipes last week.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "letter": "A",
+          "text": "It was last week when the volunteer brigade fixed the broken pipes.",
+          "is_correct": false,
+          "feedback": "This is a time cleft, so it emphasises last week and leaves the doer in the background clause."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "What the volunteer brigade fixed were the broken pipes in Escazu.",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "A what cleft here puts the pipes in the focus slot, so the brigade is not the stressed element."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "text": "It was the volunteer brigade that fixed the broken pipes in Escazu.",
+          "is_correct": true,
+          "feedback": "This works: It was plus the agent plus that lifts the doer into the focus, as the question asks."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The broken pipes were fixed in Escazu by the volunteer brigade.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "This is the passive voice, which moves the doer away from the focus instead of stressing it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Cleft sentences divide one clause into two so a chosen element becomes the focus, as in It was the brigade that fixed them.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What can you reasonably infer from what the guide said?",
+      "context": "In an interview a Heredia guide said tours are booked out three weeks ahead every July.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
+          "letter": "A",
+          "text": "July is the busiest month for tours to Heredia.",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "feedback": "This works: if July tours fill three weeks ahead, demand in that month must be high, so it is the peak."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "Heredia has closed its tourism office for good.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "Nothing about a permanent closure appears in the interview, so this goes far beyond what was said."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Fewer than ten tourists visited Heredia last July.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "Advance bookings signal many visitors rather than fewer than ten, so this contradicts the evidence."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Tours to Heredia in July are free of charge.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "The guide never mentions prices at all, so no conclusion about free entry can be drawn from bookings."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A safe inference stays inside the evidence: from booking three weeks ahead we may conclude high demand, never prices.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence about those trails is completely correct?",
+      "context": "A travel brochure compares the three longest trails around Monteverde for visitors.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "letter": "A",
+          "text": "This is the more long trail of the three, so it also takes the most time.",
+          "is_correct": false,
+          "feedback": "Double comparatives collide here, since more long and the most describe the same item in one sentence."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "The Chompipe trail is the most steep of those three routes.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "A superlative takes the most plus an adjective, not most plus an adverb, so this form is wrong."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The Chompipe trail takes more hours than any other trail there.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Any other already means most of all, so it wrongly replaces the comparative form more hours."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "text": "The Chompipe trail is by far the steepest of the three trails.",
+          "is_correct": true,
+          "feedback": "This works: by far strengthens the superlative and steepest already carries the final -est ending."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Superlatives take the most or the least plus a short adjective, or add -est, and modifiers such as by far raise the degree.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which rewrite keeps the request but fixes the register problem?",
+      "context": "A draft email to the principal of a Limon school reads: Hey, send me the report, thanks.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "Hey, send me that report now, thanks a lot, bye.",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "The informal tone stays and the command grows stronger, so the message still fails school protocol."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "Dear Principal, could you please send me the report at your convenience?",
+          "is_correct": true,
+          "feedback": "This works: the formal greeting plus could you please turns the demand into a courteous hedged request."
+        },
+        {
+          "letter": "C",
+          "text": "Hey, just send the report, ok? I need it.",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Just and ok keep the message casual and demanding, so the register is informal in a formal email."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Hello teacher, send me the report quick, thanks.",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Quick is informal and demands a fast order, so it clashes with the polite tone a school email requires."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Formal email keeps a respectful greeting and hedged verbs such as could or would; slang and bare imperatives do not.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence presents a counterargument fairly in an opinion essay?",
+      "context": "In Cartago, Mariela must present the opposite view before defending her position on uniforms.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "School uniforms are the worst idea anyone has ever had.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "This is an insult with no argument, so it dismisses the other side instead of presenting it for the reader."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "Critics say uniforms hide identity, although most students still prefer them.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "The connector although sets up a contrast, so the writer's own preference replaces the claim being explained."
+        },
+        {
+          "letter": "C",
+          "text": "Some people argue that uniforms limit self-expression, yet they also save time.",
+          "is_correct": true,
+          "feedback": "This works: some people argue states the opposing view and yet adds the writer's reply in one sentence."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Those who dislike uniforms simply have no taste at all.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "This attacks the people instead of their idea, so it is personal and never answers the argument."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A counterargument is stated fairly with hedges like some people argue, then answered with a contrast such as yet.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which order makes that paragraph clearest for the reader?",
+      "context": "A Puntarenas paragraph mixes four sentences: A the dry season lasts, B farmers plant, C rains came late, D harvests shrank.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "letter": "A",
+          "text": "B, A, C, D",
+          "is_correct": false,
+          "feedback": "Starting with the planting detail leaves the reader without the seasonal frame the rest of the text explains."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "C, D, A, B",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "The result comes before the background that explains it, so the reader meets the consequence before its reason."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "D, C, B, A",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "This puts the effect before its cause and ends on the driest fact, so the logic runs backwards."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "A, C, D, B",
+          "is_correct": true,
+          "feedback": "This works: general season, then the problem, then its result, then the human response, a clean chain."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A well-linked paragraph moves from general background to the specific problem, then to its result and the consequences.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which rewrite really stresses that the team won the final?",
+      "context": "The volleyball team in Alajuela won the final last Saturday at the school gym.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
+          "text": "It was last Saturday that the team in Alajuela won the final.",
+          "is_correct": false,
+          "feedback": "This is a time cleft, so it stresses last Saturday and leaves the winning itself in the background."
         },
         {
           "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "What the team in Alajuela did was win the final last Saturday.",
+          "is_correct": true,
+          "feedback": "This works: a what cleft with did was puts the action win in the focus slot, so the victory is stressed."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The team in Alajuela won the final last Saturday at the gym.",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "This is plain word order with the time first, so it stresses the date rather than the victory."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "It was the final that the team in Alajuela won last Saturday.",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "This is an object cleft, so it stresses the final itself instead of the act of winning it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "To stress the action itself use a what cleft, as in What they did was win; time and object clefts move the focus elsewhere.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reply disagrees politely and still gives a clear reason?",
+      "context": "At a debate in Cartago, Gabriel must disagree with a classmate who praised group work.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "No, group work is useless and you clearly did not understand it.",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "No plus useless attacks the other speaker, so the disagreement is rude and it offers no usable reason."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "You are completely wrong about group work, sorry, but that is all.",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "The insult cancels the apology and the reason given is empty, so the reply fails on tone and on content."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "I see your point, but in our group the work was divided badly, so I prefer working alone.",
+          "is_correct": true,
+          "feedback": "This works: the concession I see your point softens the refusal, and but plus so carries the reason."
+        },
+        {
+          "letter": "D",
+          "text": "Group work is better, obviously, so stop complaining about it.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "This agrees with the classmate instead of disagreeing, so it does not do what the speaker was asked to do."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Polite disagreement needs a concession, a contrast such as but and a reason; attacking the person breaks the discussion.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which conclusion does that comparison support, and no more?",
+      "context": "A report said forty percent of the Heredia buses were late in May, against twenty-five in April.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
+          "letter": "A",
+          "text": "Bus delays in Heredia were worse in May than they were in April.",
           "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "feedback": "This works: forty percent is above twenty-five, so the report supports exactly this claim about those two months."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "Most buses in Heredia run late in every month of the year.",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "Two months of figures cannot prove a pattern for the whole year, so this generalises far beyond the data."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "The buses in Heredia need to be replaced immediately.",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "A rise in delays never proves that vehicles must be replaced, so this recommendation goes beyond the evidence."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "April was the worst month of the year for transport.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "The report compares April and May only, so it cannot rank April against every other month of the year."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "A justified conclusion stays inside the data: comparing two months supports a claim about those months only, not the year.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which version is fully correct in register, structure and verb forms?",
+      "context": "A student wrote this draft email to the director of a college in Puntarenas.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "letter": "A",
+          "text": "Hey you, the new timetable is not more better than the last one, ok?",
+          "is_correct": false,
+          "feedback": "The informal greeting and not more better both fail: a double comparative cannot stand and the tone is wrong too."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "Dear Director, the new timetable is better and it fits better, students will like it.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Two complete clauses are joined with only a comma here, so the sentence fuses and the email loses its finish."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Dear Director, which starts at seven, the new timetable suits working students best.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "The relative clause which starts at seven has no subject to attach to, so it dangles before the main clause."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "Dear Director, I am writing to explain why the new timetable suits students better than the old one.",
+          "is_correct": true,
+          "feedback": "This works: a formal greeting, a clear purpose and one comparative clause make the email correct and polite."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "A formal email needs a respectful greeting, one clear purpose and one idea per sentence; comma splices and dangling relatives break it.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",

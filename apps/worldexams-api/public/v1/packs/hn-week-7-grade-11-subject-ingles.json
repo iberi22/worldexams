@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If I had studied harder, I ___ my exams.",
+      "context": "An unreal situation in the past with a past result.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "would have passed",
+          "is_correct": true,
+          "feedback": "Correct! The third conditional pairs a past perfect condition with would have plus participle."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "would pass",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "A would without have belongs to the second conditional, which imagines the present rather than the past."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "will pass",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "A future form cannot appear in a conditional that looks back at an unreal past."
+        },
+        {
+          "letter": "D",
+          "text": "had passed",
+          "is_correct": false,
+          "feedback": "A past perfect in the result would reverse the two events, putting the passing before the studying."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The third conditional describes a past situation that did not happen. If plus had plus participle, and would have plus participle in the result.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you ___ me, I would have helped you.",
+      "context": "The negative form of an unreal past condition.",
       "options": [
         {
           "letter": "B",
-          "text": "itinerary",
+          "text": "had told",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "feedback": "Correct! A negative third conditional takes if plus had not plus participle."
         },
         {
           "letter": "A",
-          "text": "baggage",
+          "text": "told",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "The past simple after if would build a second conditional, which is set in the present."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "would have told",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "The conditional belongs in the main clause, where the speaker puts would have helped."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "have told",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "The present perfect cannot combine with would have in the result clause of a third conditional."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Negation in a third conditional is simply had plus not in the if clause. The result clause keeps would have plus participle unchanged.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If he had left home earlier, he ___ at the university now.",
+      "context": "The mixed conditional with a past cause and a present result.",
       "options": [
         {
           "letter": "C",
-          "text": "destination",
+          "text": "would be studying",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "feedback": "Correct! A past perfect condition with a present continuous result is the standard mixed conditional."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "will be studying",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "A future continuous would project from a future point, but the result is explicitly now."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "would have studied",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The extra have would place the studying in the past, which the adverb now denies."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "had studied",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "A past perfect in the main clause would put the result before the condition."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Each clause of a mixed conditional takes the tense of its own time. The cause is past and unreal, and the consequence is a present situation.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If the government had acted earlier, the situation ___ better by now.",
+      "context": "The mixed conditional with a past cause and a future result.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "D",
+          "text": "would be",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
+          "feedback": "Correct! A would plus adjective in the present with a by now time reference completes the mixed pattern."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "would have been",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "The extra have would place the state in the past, but by now points at the present."
+        },
+        {
+          "letter": "B",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "A future form cannot belong to a conditional whose condition is in the past."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "A past perfect in the result would reverse the causal order of the two events."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Would plus an adjective, verb or modal in the base form describes a present or future consequence. By now tells us which of the two it is.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If only I ___ harder, everything would be different.",
+      "context": "Regretting something not said in the past.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "text": "had studied",
+          "is_correct": true,
+          "feedback": "Correct! If only plus a past perfect expresses regret about a past action."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "had studied harder yesterday",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "The adverb yesterday is unnecessary and weakens the unreal sense the structure depends on."
+        },
+        {
+          "letter": "C",
+          "text": "studied",
+          "is_correct": false,
+          "feedback": "A bare past simple would suggest the study actually happened, and if only contradicts that."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "would study",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "The conditional belongs in the second clause, which already carries would be."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "If only plus had plus participle is the strongest expression of regret about a past action. It is the emotional core of the third conditional.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you have told me, I would have prepared everything.",
+      "context": "A third conditional in a question form.",
       "options": [
         {
           "letter": "B",
-          "text": "customs",
+          "text": "Had",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "feedback": "Correct! In an inverted third conditional, if is omitted and the auxiliary had leads the clause."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "Have",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "Have is the auxiliary of the present perfect and cannot open an inverted third conditional."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Would",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "Would belongs in the result clause, and the result already carries would have prepared."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "Did is the auxiliary of the past simple and cannot invert a third conditional clause."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Formal English allows the auxiliary to move to the front and drops if: had you told me, would you have told me. The tense of the verb stays exactly the same.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The students worked hard. ___ they had not worked hard, they would have failed.",
+      "context": "The present result of a real past action.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "If",
           "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
+          "feedback": "Correct! The third conditional keeps if at the start of its clause in this more common style."
+        },
+        {
+          "letter": "A",
+          "text": "Unless",
+          "is_correct": false,
+          "feedback": "Unless here would need a positive form, and the sentence is already negative inside the clause."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Had",
           "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "Had would invert the clause and drop if, and that inversion is not what this sentence is doing."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Although",
           "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "feedback": "Although introduces a concession, not a condition, and cannot govern a counterfactual result."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Both styles exist: the inverted formal one and the if at the front everyday one. The tense pattern is identical in each, and only the placement of the auxiliary differs.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,40 +324,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If I ___ taller, I would have played for the national team.",
+      "context": "The difference between an unreal past and an unreal present.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "were",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "feedback": "Correct! 'Were' is the second conditional form for an unreal present situation that explains a past result."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "Had been would make the height a past fact, but being tall is a present and permanent condition."
+        },
+        {
+          "letter": "B",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "A present form after if would build a zero conditional about a rule, which is not the sense here."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "A future form cannot describe the person's actual height, which is already fixed."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The mixed conditional is very common with static personal qualities such as height, age or nationality. Because these do not change, the unreal condition sits in the present while the result is past.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If we had booked earlier, we ___ any problem at all.",
+      "context": "An unreal past situation with a negative result.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "would not have had",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
+          "feedback": "Correct! A negative third conditional result takes would not have plus participle."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "would not have",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "The have is required in a third conditional result, and leaving it out would build a different structure."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "did not have",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "Did plus not is the negative past simple, which cannot appear in a counterfactual result clause."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "had not had",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "A past perfect in the result would reverse the order of the two past events."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "The third conditional result always has three parts: would, have, participle. Negating the result simply inserts not between would and have.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If I were you, I ___ apologise to the teacher.",
+      "context": "A second conditional used for advice and polite warnings.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
+          "letter": "B",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
+          "feedback": "Correct! The second conditional in this fixed expression gives advice with would plus base verb."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "will",
           "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "A future form would turn the advice into a prediction, which is not what If I were you expresses."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "Had would make it a third conditional and shift the whole situation into the past."
+        },
+        {
+          "letter": "D",
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Must is too strong, because the expression offers advice rather than imposing a rule."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "If I were you is a set phrase for advice, and it always uses the second conditional. Substituting was with were is the formal and standard choice.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If the doctor had arrived ten minutes earlier, she ___ have saved his life.",
+      "context": "The third conditional with an action by a named person.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
+          "letter": "C",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
+          "feedback": "Correct! A third conditional result takes would have plus participle regardless of the subject."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "would save",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "A would without have belongs to the second conditional and would place the saving in the present."
         },
         {
-          "letter": "C",
-          "text": "booking",
+          "letter": "B",
+          "text": "will have saved",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "A future perfect would look forward from a future point, and the ten minutes refers to the past."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "had saved",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "A past perfect in the result would put the saving before the doctor's arrival, which is impossible."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The subject of the result clause never changes the tense. Only the presence of have marks a third conditional result, and it is always present.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you had worn a helmet, you ___ much less pain.",
+      "context": "A past situation that did happen, with a past consequence.",
       "options": [
         {
           "letter": "D",
-          "text": "layover",
+          "text": "would have had",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
+          "feedback": "Correct! The third conditional result with the noun pain takes would have had."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "would have felt",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "Felt would also be possible in a third conditional result, but the sentence uses the noun pain and needs the verb have."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "had had",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "feedback": "A past perfect in the result would reverse the order of the two events."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "would have",
           "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "The participle is missing, and the structure would be incomplete without it."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "When a third conditional result uses a noun instead of a verb, the verb have appears. I would have had a headache is the standard pattern.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If I ___ afraid of flying, I would visit more countries.",
+      "context": "An unreal situation in the present expressed in the negative.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
+          "letter": "A",
+          "text": "weren't",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Correct! A negative second conditional condition takes if plus were not plus base verb."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "wasn't",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "Was is possible in informal English, but were is the standard form in a second conditional."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "hadn't been",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "Had not been would place the fear in the past and build a third conditional."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "am not",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "A present negative after if would build a zero conditional about a rule, not an unreal personal situation."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "The second conditional always uses were for the unreal condition, including in the negative and in the question form. Were is the fixed form of this structure.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We arrived late. If we had set out earlier, we ___ on time.",
+      "context": "A real past action, with the counterfactual introduced afterwards.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "would have arrived",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "feedback": "Correct! The if clause imagines the earlier departure that did not happen, and the result is would have arrived."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "would arrive",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "A would without have would place the arrival in the present, contradicting the past that follows."
         },
         {
-          "letter": "B",
-          "text": "dictionary",
+          "letter": "C",
+          "text": "had arrived",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "A past perfect in the result would put the arrival before the departure, which reverses the sequence."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "will have arrived",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "A future perfect cannot be used in a conditional about the past."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A first sentence stating what happened is often followed by a third conditional saying what would have happened otherwise. The contrast between the two makes the regret clear.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She studied abroad. Otherwise, she ___ the same degree in her own country.",
+      "context": "The word that introduces an alternative in the past.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
+          "letter": "C",
+          "text": "would have finished",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "feedback": "Correct! Otherwise plus a third conditional result states what would otherwise have happened."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "would finish",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "A would without have would place the finishing in the present, and the degree is already in the past."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "has finished",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "The present perfect cannot combine with would in a counterfactual result clause."
         },
         {
-          "letter": "C",
-          "text": "handbag",
+          "letter": "D",
+          "text": "had finished",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "A past perfect alone would state a plain past fact, and the sentence is about a possibility that did not happen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Otherwise works like a negative conditional. The sentence it introduces carries the same counterfactual meaning and needs would have plus participle.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If they had not emigrated, they ___ in their home town today.",
+      "context": "A third conditional whose result is a permanent state.",
       "options": [
         {
           "letter": "D",
-          "text": "overseas",
+          "text": "would still be living",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "feedback": "Correct! A would plus continuous in the present gives the present consequence of an unreal past action."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "would have been living",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "The extra have would place the living in the past, and today points to the present."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "will still be living",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "A future form cannot be the result of a conditional whose condition belongs to the past."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "had been living",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "A past perfect in the result would reverse the order and place the living before the decision to emigrate."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The mixed conditional often ends in a present continuous, because the consequence of an old decision is a current situation. The adverb today confirms the present time.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you revise every evening, you ___ much better in the next exam.",
+      "context": "A real first conditional used to check someone's understanding.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "will do",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
+          "feedback": "Correct! A real condition in the present with a probable future result takes will plus base verb."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "would do",
           "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "feedback": "'Would' would make the result hypothetical, and the revision is a real plan."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "Did belongs to the past simple and cannot carry a future result."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "A bare present in both clauses would read as a zero conditional about a rule."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Whenever a condition is real and open, the first conditional is the right choice. The advice in the question depends on that first conditional reading.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you had taken the medicine, you ___ better by morning.",
+      "context": "A third conditional with a modal in the result.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
+          "letter": "B",
+          "text": "would have felt",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "feedback": "Correct! A third conditional result takes would have plus the base form of the modal and the participle."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "would have feel",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "Feel must be the base form after the modal would, not the participle feel."
         },
         {
-          "letter": "B",
-          "text": "guarantee",
+          "letter": "C",
+          "text": "would feel",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "A would without have belongs to the second conditional and would place the recovery in the present."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "will have felt",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "A future perfect cannot serve as the result of a conditional about the past."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "In a third conditional result, a modal keeps its base form after the have: would have felt, would have been able to, would have had to. The have does not take the modal's participle.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you in my place, what would you do?",
+      "context": "A second conditional question with inversion.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "Were",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "feedback": "Correct! In an inverted second conditional the auxiliary were leads the clause and if is dropped."
         },
         {
           "letter": "A",
-          "text": "medication",
+          "text": "If",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "If at the front of the clause is the ordinary style; this sentence uses the inverted form, which begins with were."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "Would",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "Would cannot begin a second conditional condition, and the result clause already carries would do."
         },
         {
-          "letter": "C",
-          "text": "infection",
+          "letter": "D",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "Did is the auxiliary of the past simple and cannot invert a second conditional clause."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Were you in my place is a common formal inversion of the second conditional. The tense of the main clause is untouched, and only the auxiliary moves to the front.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "If you ___ have taken the earlier bus, you would have arrived on time.",
+      "context": "A third conditional introduced by a past modal that expresses regret.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "had",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "feedback": "Correct! A third conditional condition built on a modal takes had plus the base form of the modal."
         },
         {
           "letter": "A",
-          "text": "fatigue",
+          "text": "would",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "Would would place the taking in a hypothetical present, and the earlier bus is already past."
+        },
+        {
+          "letter": "B",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "A present perfect cannot invert a third conditional condition, and no had would carry the past."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "Did cannot invert a modal condition, and it leaves the modal without the support it needs."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A modal in a third conditional condition appears in the base form after had: if you had taken, if he had been able to. The have of the result clause is separate and stays with the participle.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle",
       "periodo": 7,

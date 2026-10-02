@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct past simple form of 'to go'.",
+      "context": "A review of the second term covers irregular verbs, modals, phrasal verbs and the passive voice.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "They went to the coast last Saturday.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correct! 'Went' is the past simple of the irregular verb 'go'."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "They goed to the coast last Saturday.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "'Goed' does not exist in English; irregular verbs have a fixed past form."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "They gone to the coast last Saturday.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "'Gone' is the past participle, which needs 'have' or 'be' before it."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "They going to the coast last Saturday.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'Going' is the present participle, which needs 'be' before it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Irregular verbs must be learned in three forms. 'Went' is the past simple, used alone with a finished time expression.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence with the present perfect continuous.",
+      "context": "A review of the second term covers the verb tenses used for actions in progress.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "letter": "A",
+          "text": "She is wait for the bus for twenty minutes.",
+          "is_correct": false,
+          "feedback": "'Is wait' mixes the auxiliary 'is' with the base form, which is not a possible combination."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "letter": "B",
+          "text": "She has been waiting for the bus for twenty minutes.",
+          "is_correct": true,
+          "feedback": "Correct! 'Has been waiting' is the present perfect continuous and the verb 'wait' takes no object here."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "She has waited the bus for twenty minutes.",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Waited' cannot be used with 'for' plus a duration in this structure, and a bus cannot be waited as an object here."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "She have been waiting the bus since twenty minutes.",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "'Have' does not agree with the third person subject 'she'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "The present perfect continuous is 'have been' plus a gerund, and it is used with 'for' plus a period or 'since' plus a point of time.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct passive sentence.",
+      "context": "A review of the second term includes the formation of the passive voice in the past simple.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "The new library was build in 1998.",
+          "is_correct": false,
+          "feedback": "'Was build' uses the base form after the auxiliary, which is wrong in the passive."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "The new library is built in 1998.",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "'Is built' is the present passive, and the text refers to a completed event in the past."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "The new library was built in 1998.",
+          "is_correct": true,
+          "feedback": "Correct! 'Was built' is the past simple passive, formed with 'was' plus the past participle."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The new library has build in 1998.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "'Has build' needs the past participle 'built' after 'has'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "The passive is formed with a form of 'be' followed by the past participle of the main verb. The two elements must agree in tense.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct modal of deduction.",
+      "context": "A review of the second term includes modal verbs in their function of drawing conclusions.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "The wet floor means somebody must spilled water.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Must spilled' combines a modal with a past participle directly, which is not a possible form."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "The wet floor means somebody has must spill water.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'Has must' places two auxiliaries in the wrong order and in the wrong tense."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "The wet floor means somebody must to spill water.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'Must to' adds an infinitive marker after a modal, which is not allowed."
+        },
+        {
+          "letter": "D",
+          "text": "The wet floor means somebody must have spilled water.",
+          "is_correct": true,
+          "feedback": "Correct! A deduction about the past takes the modal 'must' plus 'have' plus the past participle."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "The form 'must have' plus a participle is a single structure. A modal never takes 'to' and never takes a participle on its own.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct first conditional.",
+      "context": "A review of the second term includes the conditionals.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "If it rains, we will cancel the match.",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct! The first conditional uses 'if' plus the present simple and 'will' plus the base form."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "If it will rain, we cancel the match.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "'If it will rain' is not a possible clause; the present simple is required after 'if'."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "If it rains, we cancel the match tomorrow.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "'We cancel' in the main clause would express a habit rather than a future result."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "If it rained, we will cancel the match.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "'If it rained' is the second conditional, and the main clause with 'will' does not match it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "In the first conditional the two halves carry different tenses: present simple for the condition and 'will' for the result.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question tag.",
+      "context": "A review of the second term includes question tags used in conversation.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "The film was long, wasn't it being?",
+          "is_correct": false,
+          "feedback": "'Wasn't it being' would add a progressive that the statement does not contain."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "letter": "B",
+          "text": "The film was long, wasn't it?",
+          "is_correct": true,
+          "feedback": "Correct! A positive statement takes a negative tag with the auxiliary of the main clause."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The film was long, wasn't it has?",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "'Wasn't it has' mixes two auxiliaries, which is not a possible tag."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The film was long, wasn't it did?",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "'Wasn't it did' places a past auxiliary after the subject, which no tag does."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "The tag reuses the auxiliary and the subject of the statement, and its polarity is the opposite of the statement.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct relative pronoun.",
+      "context": "A review of the second term includes defining relative clauses.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "The teacher what helped me is leaving the school.",
+          "is_correct": false,
+          "feedback": "'What' introduces a clause that acts as the subject, and it cannot refer to a person here."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "The teacher which helped me is leaving the school.",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "'Which' is used for things in this structure, and the teacher is a person."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "text": "The teacher who helped me is leaving the school.",
+          "is_correct": true,
+          "feedback": "Correct! 'Who' is the relative pronoun used for people when the clause has its own subject and verb."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The teacher where helped me is leaving the school.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "'Where' introduces a clause about a place and would require no verb of its own."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The choice among 'who', 'which', 'what' and 'where' depends on what the pronoun refers to and on whether the clause carries a verb.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct phrasal verb.",
+      "context": "A review of the second term includes phrasal verbs and their particles.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "letter": "A",
+          "text": "Please turn of the light before you leave.",
+          "is_correct": false,
+          "feedback": "'Turn of' is a misspelling, and a phrasal verb particle is a word, not a suffix."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "Please turn off light before you leave.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "'Turn off light' without the article is not acceptable before a single countable noun."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Please turn the light off of before you leave.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "'Turn the light off of' adds a preposition that does not belong to this phrasal verb."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "Please turn off the light before you leave.",
+          "is_correct": true,
+          "feedback": "Correct! 'Turn off' is the phrasal verb that means to switch a device off."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A phrasal verb is a fixed unit: the particle cannot be replaced by a similar word and does not take an extra preposition.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct reported question.",
+      "context": "A review of the second term includes reported speech and the backshift of tenses.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "text": "She asked where the library was.",
+          "is_correct": true,
+          "feedback": "Correct! An embedded question restores the declarative order, so the subject comes before the verb."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "She asked where was the library.",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "'Where was the library' keeps the order of a direct question, which does not belong after 'asked'."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "She asked where the library is.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'The library is' would not apply the backshift required by the past reporting verb."
+        },
+        {
+          "letter": "D",
+          "text": "She asked the library where was.",
+          "is_correct": false,
+          "feedback": "'The library where was' places the subject before the question word, which no English structure allows."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Two changes happen when a question becomes reported: the order is inverted back, and the tense moves one step back.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct comparative structure.",
+      "context": "A review of the second term includes comparatives and superlatives.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "This road is more wide than the one through the mountain.",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "'More wide' mixes the two systems of comparison, which is not correct for this adjective."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "text": "This road is wider than the one through the mountain.",
+          "is_correct": true,
+          "feedback": "Correct! 'Wider' is the comparative of a short adjective and 'than' introduces the second term of the comparison."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "This road is the widest than the one through the mountain.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'The widest' is the superlative and would need 'of' plus a group, not 'than'."
+        },
+        {
+          "letter": "D",
+          "text": "This road is wider as the one through the mountain.",
+          "is_correct": false,
+          "feedback": "'Wider as' is not a comparison of equality; that structure is 'as ... as'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The length of the adjective decides the system: short adjectives take '-er' and 'most', long ones take 'more' and 'most'.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct linking verb.",
+      "context": "A review of the second term includes the verbs that link a subject to a description.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "The result of the experiment was surprising to the researchers.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "'Were' would not agree with the singular subject 'the result'."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "The result of the experiment were surprising.",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "The verb 'were' here also fails, because the subject 'the result' is singular."
+        },
+        {
+          "letter": "C",
+          "text": "The result of the experiment was surprising.",
+          "is_correct": true,
+          "feedback": "Correct! 'Was' links a singular subject to an adjective, which is the form this sentence needs."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The result of the experiment has surprising.",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "'Has' cannot be followed directly by an adjective, so 'has surprising' is not a possible structure."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Be' agrees with its subject and is followed by an adjective, never by another verb form.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses 'used to' correctly.",
+      "context": "A review of the second term includes expressions for past habits and states.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "He used living in the countryside.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "'Used living' needs the infinitive after 'to', which is missing."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "He use to live in the countryside.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "'Use to' without the -d is not the past form of the verb."
+        },
+        {
+          "letter": "C",
+          "text": "He is used to live in the countryside.",
+          "is_correct": false,
+          "feedback": "'Is used to' is followed by a gerund or a noun, not by an infinitive, and it means something else."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "text": "He used to live in the countryside.",
+          "is_correct": true,
+          "feedback": "Correct! 'Used to' plus the base form describes a habit or a state that existed in the past and no longer does."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Used to' plus an infinitive describes the past. 'Be used to' plus a gerund describes what a person is accustomed to, which is a different meaning.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v13",
+      "statement": "Choose the correct word order in a question with a prepositional phrase.",
+      "context": "A review of the second term includes the formation of questions with question words.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Where did you put the keys?",
+          "is_correct": true,
+          "feedback": "Correct! A wh-question places the question word first, then the auxiliary, then the subject, then the verb and the object."
+        },
+        {
+          "letter": "B",
+          "text": "Where you did put the keys?",
+          "is_correct": false,
+          "feedback": "'Where you did put' inverts the subject and the auxiliary wrongly for a question."
+        },
+        {
+          "letter": "C",
+          "text": "Where put you the keys?",
+          "is_correct": false,
+          "feedback": "'Put you' places the main verb before the subject, which no English question does."
+        },
+        {
+          "letter": "D",
+          "text": "Where did the keys you put?",
+          "is_correct": false,
+          "feedback": "'Where did the keys you put' leaves the direct object before the verb, which is not English word order."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The fixed order of a wh-question is question word, auxiliary, subject, verb, complement. The rule applies to every element that follows.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct infinitive after a verb of purpose.",
+      "context": "A review of the second term includes infinitives of purpose.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "letter": "A",
+          "text": "She called the clinic for make an appointment.",
+          "is_correct": false,
+          "feedback": "'For make' mixes a preposition with a base form, which is not a possible combination."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "letter": "B",
+          "text": "She called the clinic to make an appointment.",
+          "is_correct": true,
+          "feedback": "Correct! 'To make' is the infinitive of purpose and it explains why the call was made."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "She called the clinic making an appointment.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "'Making' is a gerund, and a gerund cannot serve as the purpose complement in this structure."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "She called the clinic made an appointment.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'Made' is a past form and cannot follow the verb of calling in that slot."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The infinitive of purpose answers the question 'why'. It is placed after the main clause, not after a preposition.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct negative form.",
+      "context": "A review of the second term includes negative forms of the simple present and the simple past.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "He don't have any brothers.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'Don't' does not agree with the third person subject 'he'."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "He doesn't has any brothers.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "'Doesn't has' would place a base form after the auxiliary, which is wrong in the negative."
+        },
+        {
+          "letter": "C",
+          "text": "He doesn't have any brothers.",
+          "is_correct": true,
+          "feedback": "Correct! The auxiliary 'does' takes the negative particle 'not', and the main verb keeps its base form."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "He not have any brothers.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'Not' cannot be used on its own as the negative of a simple present clause."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "In the negative, the auxiliary carries the negation and the main verb returns to its base form. The two elements work together.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -684,37 +684,127 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence with a future form.",
+      "context": "A review of the second term includes the future forms.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "I will meeting the guide at six.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Will meeting' combines a modal with a gerund, which is not a possible form."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "I meeting the guide at six.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'I meeting' has no auxiliary, so the clause is not finite."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "I am meet the guide at six.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'Am meet' places a base form after the auxiliary, which is not allowed."
+        },
+        {
+          "letter": "D",
+          "text": "I am meeting the guide at six.",
+          "is_correct": true,
+          "feedback": "Correct! The present continuous can express a fixed arrangement in the near future."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The present continuous with 'be' plus a gerund describes a plan already arranged, which is one of its uses in the future meaning.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v17",
+      "statement": "Choose the correct sentence with a gerund after a preposition.",
+      "context": "A review of the second term includes verbs followed by a gerund and by an infinitive.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She is good at solving problems.",
+          "is_correct": true,
+          "feedback": "Correct! 'At' is followed by a gerund, so 'solving' is the correct form."
+        },
+        {
+          "letter": "B",
+          "text": "She is good at solve problems.",
+          "is_correct": false,
+          "feedback": "'At solve' places a base form after a preposition, which is not allowed in English."
+        },
+        {
+          "letter": "C",
+          "text": "She is good for solving problems.",
+          "is_correct": false,
+          "feedback": "'Good for' expresses suitability for a purpose, which is not what the sentence means."
+        },
+        {
+          "letter": "D",
+          "text": "She is good solving problems.",
+          "is_correct": false,
+          "feedback": "The gerund is required after 'good at', and here it is missing."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A preposition is always followed by a gerund, never by an infinitive. Verbs differ, and the preposition does not.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v18",
+      "statement": "Choose the sentence that reports a past action in the past perfect.",
+      "context": "A review of the second term includes the sequence of past tenses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By the time we arrived, the film has already started.",
+          "is_correct": false,
+          "feedback": "'Has started' is the present perfect, and it cannot describe a moment before a past arrival."
+        },
+        {
+          "letter": "B",
+          "text": "By the time we arrived, the film had already started.",
+          "is_correct": true,
+          "feedback": "Correct! 'Had started' is the past perfect, which places an action before another past action."
+        },
+        {
+          "letter": "C",
+          "text": "By the time we arrived, the film was already start.",
+          "is_correct": false,
+          "feedback": "'Was already start' places a base form after a form of 'be', which is not allowed."
+        },
+        {
+          "letter": "D",
+          "text": "By the time we arrived, the film had already start.",
+          "is_correct": false,
+          "feedback": "'Had already start' needs the past participle 'started' after the auxiliary 'had'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The past perfect expresses the earlier of two past events. Its form is 'had' plus the past participle.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct use of the article.",
+      "context": "A review of the second term includes the use of articles with geographical names.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "letter": "A",
+          "text": "Sun rose over mountains at six.",
+          "is_correct": false,
+          "feedback": "Omitting both articles leaves the sentence without the determiners the nouns require."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "The sun rose over mountains at six.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "The first article is correct but the range of mountains also needs a definite article in this use."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "The sun rose over the mountains at six.",
+          "is_correct": true,
+          "feedback": "Correct! Definite articles are used for the sun and for a mountain range treated as a single whole."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "A sun rose over the mountains at six.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "'A sun' would introduce one sun among several, which is not the meaning here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Some nouns in English always take 'the', among them the sun, the sea and names of mountain ranges, whatever their length.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with a correct modal of obligation.",
+      "context": "A review of the second term includes the modals of obligation, advice and permission.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "letter": "A",
+          "text": "All applicants must to submit a copy of the document.",
+          "is_correct": false,
+          "feedback": "'Must to submit' adds an infinitive marker after a modal, which is not allowed."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "All applicants must submits a copy of the document.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'Must submits' adds an -s ending to a verb that must stay in the base form after a modal."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "All applicants are must submit a copy of the document.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'Are must' places two auxiliaries in one clause, which is not a possible structure."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "All applicants must submit a copy of the document.",
+          "is_correct": true,
+          "feedback": "Correct! A modal of obligation is followed by the base form of the main verb."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A modal never changes form and never takes an infinitive marker, so the verb that follows it must be a bare infinitive.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle",
       "periodo": 35,

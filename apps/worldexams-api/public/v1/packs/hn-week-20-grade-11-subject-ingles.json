@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The deadline is next Friday, so we need to ____ the project this week.",
+      "context": "A workgroup is planning the last days before a project deadline.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "get",
+          "is_correct": true,
+          "feedback": "Correct! 'Get something done' means to finish a task that someone has to complete."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "give",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "'Give the project' needs a second verb to name what is handed over, so the meaning would be incomplete."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "take",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "'Take the project' is not a standard collocation with a work task as its object."
+        },
+        {
+          "letter": "D",
+          "text": "put",
+          "is_correct": false,
+          "feedback": "'Put the project' only describes its physical location and says nothing about finishing it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The particle 'done' changes the meaning completely: 'get' alone is incomplete, but 'get something done' is a fixed expression for completing work.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "My little brother refuses to ____ his toys before he goes to sleep.",
+      "context": "A family describes the daily routine of a child before going to bed.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "put off",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "'Put off' means to postpone, and a bedtime routine is a habit, not a delayed task."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "text": "put away",
+          "is_correct": true,
+          "feedback": "Correct! 'Put away' means to store something in its proper place, which is what a child does with his toys."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "put up",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "'Put up' means to hang something on a wall or to build a tent."
+        },
+        {
+          "letter": "D",
+          "text": "put out",
+          "is_correct": false,
+          "feedback": "'Put out' means to extinguish a fire or to place something outside."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Particles carry their own lexical meaning. 'Away' signals movement to a storage place, which distinguishes 'put away' from the other three.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Rain is unusual in this dry season, so when the storm started everyone ____.",
+      "context": "Residents react to a rare storm during a normally dry month.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "letter": "A",
+          "text": "looked after",
+          "is_correct": false,
+          "feedback": "'Look after' means to take care of someone or something."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "looked up",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "'Look up' means to search for information, usually in a dictionary."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "text": "looked out",
+          "is_correct": true,
+          "feedback": "Correct! 'Look out' means to pay attention to a possible danger, which is the natural reaction to an unexpected storm."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "looked into",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "'Look into' means to investigate a matter in depth."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "'Look out for' is a warning expression. The unexpected weather is exactly the situation in which the particle 'out' signals caution.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher asked us to ____ our dictionaries after the vocabulary quiz.",
+      "context": "A class ends a short written activity and the teacher collects the material.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "hand out",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "'Hand out' means to distribute something to several people."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "hand over",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "'Hand over' means to give something to someone who takes charge of it."
+        },
+        {
+          "letter": "C",
+          "text": "hand back",
+          "is_correct": false,
+          "feedback": "'Hand back' means to return something that belongs to the person asking for it."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "hand in",
+          "is_correct": true,
+          "feedback": "Correct! 'Hand in' means to submit work to the person who will correct or collect it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Hand in' is the standard term in British and Honduran schools for submitting a paper. The other three particles describe different directions of giving.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -189,37 +189,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The battery of my phone is low; I need to ____ it before the trip.",
+      "context": "A traveller checks the state of a mobile phone the night before flying.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "charge up",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
+          "feedback": "Correct! 'Charge up' means to give a device the electricity it needs to work."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "clean up",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "'Clean up' means to remove dirt or to tidy a place."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "sign up",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "'Sign up' means to register for an activity or a course."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "set up",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "'Set up' means to arrange equipment or to establish something."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "The verb 'charge' selects 'up' in the sense of completing the supply of energy. The other three verbs belong to cleaning, registration and arrangement.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I cannot meet you at noon, but I can ____ in the afternoon.",
+      "context": "A student rearranges the hour of a meeting with a classmate.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "take off",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "feedback": "'Take off' means to leave the ground or to remove a piece of clothing."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "text": "put off",
+          "is_correct": true,
+          "feedback": "Correct! 'Put off' means to move an arrangement to a later moment."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "get over",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "'Get over' means to recover from an illness or an unpleasant experience."
+        },
+        {
+          "letter": "D",
+          "text": "come across",
+          "is_correct": false,
+          "feedback": "'Come across' means to meet somebody by chance or to find something."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Put off' is the postponing verb. The afternoon is a later slot, so the appointment has been delayed rather than cancelled.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Our class will ____ a short English presentation on the environment.",
+      "context": "A high school English class prepares an activity for the school week.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "put off",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "'Put off' would delay it, and the intention is to hold it, not to delay it."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "put out",
           "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "'Put out' means to extinguish something or to publish a short notice."
+        },
+        {
+          "letter": "C",
+          "text": "put on",
+          "is_correct": true,
+          "feedback": "Correct! 'Put on' means to organise and perform a show, a play or a presentation."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "put up",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "'Put up' means to erect something or to display a poster."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "'Put on' is the verb used for a performance of any length. The particle marks the event as something staged in public.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The children ____ the TV every evening and nobody talks at dinner.",
+      "context": "A family describes an evening in which a television is switched off during dinner.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "turn up",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "'Turn up' means to increase the volume, so the set would still be on."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "turn off",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "'Turn on' would start the set, the opposite of the described situation."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "turn in",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "'Turn in' means to hand in work or to go to bed."
+        },
+        {
+          "letter": "D",
+          "text": "turn on",
+          "is_correct": true,
+          "feedback": "Correct! 'Turn off' means to stop a machine from working, which is what a television set is doing."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Each particle of 'turn' fixes the direction of the change: 'on' starts the device, 'off' stops it, 'up' raises the volume and 'down' lowers it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It took me two hours to ____ that error in my essay.",
+      "context": "A student checks a written text before submitting an assignment.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "text": "find out",
+          "is_correct": true,
+          "feedback": "Correct! 'Find out' means to discover a fact that was hidden, which is what happened with the mistake."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "look for",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "'Look for' means to search for something that is missing, and the error was not lost."
+        },
+        {
+          "letter": "C",
+          "text": "figure out",
+          "is_correct": false,
+          "feedback": "'Figure out' is close in meaning, but 'find out' is the standard expression for discovering news or a hidden detail."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "carry out",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "'Carry out' means to perform a task or a plan."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "'Find out' and 'look for' differ: 'look for' starts an active search, while 'find out' emphasises the result of getting the information.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Please stop ____ the radio; the baby is trying to sleep.",
+      "context": "A family member gives an instruction in a quiet house at night.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "turning off",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "feedback": "'Turn on' would make the noise worse, so it contradicts the request."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "turning on",
+          "is_correct": true,
+          "feedback": "Correct! 'Turn off' means to switch a device off, and it is what the radio needs here."
+        },
+        {
+          "letter": "C",
+          "text": "turning into",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "'Turn into' means to transform one thing into another and cannot be used with a radio."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "turning over",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "'Turn over' means to rotate something or to give it to another person."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The gerund after 'stop' names the action the speaker wants to interrupt. The particle decides whether the action starts or stops the noise.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,40 +459,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We ran out of milk this morning, so Dad went to ____ some.",
+      "context": "A household runs out of a basic item in the morning and someone goes out to solve it.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
+          "text": "pick out",
+          "is_correct": false,
+          "feedback": "'Pick out' means to choose something from a group or to remove an object from a pile."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "take over",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "'Take over' means to assume control of a job or a responsibility."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "text": "pick up",
+          "is_correct": true,
+          "feedback": "Correct! 'Pick up' means to obtain or collect something while passing somewhere, as a shop does."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "set aside",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "'Set aside' means to save something for a later purpose."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'Pick up' implies an incidental acquisition on the way. 'Pick out' would mean a deliberate selection from several products.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -504,40 +504,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The new manager ____ the responsibility of training new employees.",
+      "context": "A company describes the duties assigned to a recently hired employee.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
+          "text": "took over",
+          "is_correct": false,
+          "feedback": "'Take over' means to take control of something from a previous holder, which is not stated here."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "took up",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "'Take up' means to start a hobby or a new activity."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "took in",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "'Take in' means to understand an idea or to absorb someone."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "text": "took on",
+          "is_correct": true,
+          "feedback": "Correct! 'Take on' means to accept a duty or a commitment in addition to one's own work."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Take on' adds a new obligation. 'Take over' would require a predecessor and a transfer of authority, which the sentence does not mention.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -549,37 +549,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The meeting was so boring that Luis ____ yawning.",
+      "context": "Colleagues describe a colleague's behaviour during a long staff meeting.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "text": "kept on",
+          "is_correct": true,
+          "feedback": "Correct! 'Keep on' with a gerund means to continue doing something repeatedly, which matches repeated yawning."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "took after",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "'Take after' means to resemble a relative in character or in appearance."
+        },
+        {
+          "letter": "C",
+          "text": "got away",
+          "is_correct": false,
+          "feedback": "'Get away' means to escape or to obtain something by a trick."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "put up with",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "'Put up with' means to tolerate something unpleasant, and it needs a noun."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'Keep on' plus a gerund expresses duration. The other three particles belong to resemblance, escape and tolerance.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Do not ____ on me; I already explained the assignment twice.",
+      "context": "A student responds defensively to a classmate who has not followed the instructions.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "cure",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "'Cure' is used for an illness, and no health problem is involved here."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "blame",
+          "is_correct": true,
+          "feedback": "Correct! 'Blame someone for something' means to say that person is responsible for it."
+        },
+        {
+          "letter": "C",
+          "text": "save",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "'Save' means to rescue or to keep money, and neither sense applies."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "count",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "'Count on' means to rely on somebody, which is the opposite of what the speaker wants."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The verb 'blame' carries the sense of attributing fault, so the objection is coherent. The other verbs do not fit the argument.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -639,37 +639,37 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The volunteers worked ____ the night to finish the school repairs.",
+      "context": "A community group describes a night of volunteer work in a school building.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "letter": "A",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "'Across' means from one side to the other of a physical space."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "along",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "'Along' means following the length of a line or a route."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "text": "through",
+          "is_correct": true,
+          "feedback": "Correct! 'Through' means from the beginning to the end of a period, and the whole night was spent working."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "about",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "'About' means approximately, and it cannot be followed by an article plus a noun in this structure."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'Through' expresses duration from beginning to end. The other three prepositions describe a direction, a route or an approximation.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,127 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ____ the invitation on the table and left the house quickly.",
+      "context": "A short narrative describes what a character does before leaving a room.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "letter": "A",
+          "text": "laid off",
+          "is_correct": false,
+          "feedback": "'Lay off' means to dismiss workers or to stop doing something temporarily."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "laid out",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "'Lay out' means to arrange something carefully over a wide area."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "laid up",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "'Lay up' means to store something for future use."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "laid down",
+          "is_correct": true,
+          "feedback": "Correct! 'Lay down' means to place something flat on a surface."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Lay down' is the particle combination that means to put something flat. The three others belong to employment, arrangement and storage.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v17",
+      "statement": "The scheme will ____ next month if no one signs the form.",
+      "context": "An administrator warns about a registration that has not been completed.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fall through",
+          "is_correct": true,
+          "feedback": "Correct! 'Fall through' means that a plan fails to be completed, which is what a missing signature causes."
+        },
+        {
+          "letter": "B",
+          "text": "fall behind",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "'Fall behind' means to lag behind others in work or in a class."
+        },
+        {
+          "letter": "C",
+          "text": "fall back",
+          "is_correct": false,
+          "feedback": "'Fall back' means to retreat or to use an alternative plan."
+        },
+        {
+          "letter": "D",
+          "text": "fall over",
+          "is_correct": false,
+          "feedback": "'Fall over' means to lose balance or to stop a machine by turning it off."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Fall through' describes a failure in the process itself. The other three particles describe falling behind, retreating and losing balance.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v18",
+      "statement": "He always ____ jokes when he is nervous before an oral exam.",
+      "context": "A teacher describes the nervous behaviour of a student before a spoken test.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "breaks",
+          "is_correct": false,
+          "feedback": "'Break jokes' is not a standard combination; 'break' would pair with 'a habit' or 'a promise'."
+        },
+        {
+          "letter": "B",
+          "text": "cracks",
+          "is_correct": true,
+          "feedback": "Correct! 'Crack jokes' is a fixed expression meaning to tell jokes, and it is the verb that takes this particle."
+        },
+        {
+          "letter": "C",
+          "text": "crashes",
+          "is_correct": false,
+          "feedback": "'Crash' refers to a collision or to a sudden failure of a system."
+        },
+        {
+          "letter": "D",
+          "text": "bursts",
+          "is_correct": false,
+          "feedback": "'Burst' describes something that suddenly expands, such as a balloon or into tears."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The idiom 'crack jokes' is a lexical unit. Knowing the verb alone is not enough: the particle is fixed by the expression.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v19",
+      "statement": "Our team worked together to ____ the deadline of May 30th.",
+      "context": "A project team lists the dates it must respect during the year.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "beat",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "'Beat' a record or an opponent means to do better than them, and a date is neither a record nor an opponent."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "read",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "'Read' is not used with a date and means to look at the characters on a page."
         },
         {
           "letter": "C",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
+          "text": "meet",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "Correct! 'Meet a deadline' means to finish the work in time, which is the standard collocation."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "feed",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "'Feed' means to give food to an animal or a person, and it never takes a date."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "The noun 'deadline' collocates with 'meet'. Substituting a different verb breaks the collocation even if the sentence still has a subject and a verb.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
-      "periodo": 20,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The engine ____ halfway up the hill and the driver had to walk to the next town.",
+      "context": "Travellers describe a mechanical failure on a mountain road with no workshop nearby.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "text": "broke out",
+          "is_correct": false,
+          "feedback": "'Break out' means to start suddenly, as a fire or an argument does."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "broke up",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "'Break up' means to separate something into parts or to end a relationship."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "broke in",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "'Break in' means to enter a building by force."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "broke down",
+          "is_correct": true,
+          "feedback": "Correct! 'Break down' means that a machine stops working unexpectedly."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Break down' is the expression for a technical failure. The particle 'down' marks the total and sudden stop of the machine.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle",
       "periodo": 20,

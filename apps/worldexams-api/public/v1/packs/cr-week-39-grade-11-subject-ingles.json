@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You hear: \"The workshop is on Friday at 3:15 p.m.\" What time do you note?",
+      "context": "A phone message for grade 11 students at a high school in Heredia gives workshop details.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "3:15 p.m.",
+          "is_correct": true,
+          "feedback": "The speaker says fifteen and stresses the minutes, so 3:15 is the time the listening part wants you to write."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "3:50 p.m.",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "This reads fifty, not fifteen. In the message the stress falls on fifteen, so the fifty version is a listening slip."
+        },
+        {
+          "letter": "C",
+          "text": "5:15 p.m.",
+          "is_correct": false,
+          "feedback": "The hour is three, not five. Only the minutes are fifteen, so changing the hour misreports the announcement."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "3:45 p.m.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "This reads forty-five. The message says fifteen, and changing the tens digit would move the workshop in the day."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Numbers ending in fifteen and fifty are the classic trap in the listening part: repeat the recording before you write the time.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You hear: \"Remind Kevin to bring his permission slip on Monday.\" What is it?",
+      "context": "At a school in Alajuela a secretary leaves a short message for the parent of a student.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "text": "an invitation to a school meeting",
+          "is_correct": false,
+          "feedback": "An invitation would name an event, a day and a place, such as coming to the school fair. None of that is said here."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "an order to buy new supplies",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "An order to buy supplies would list objects and prices. This message only reminds about one paper to bring."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "text": "a reminder about a document",
+          "is_correct": true,
+          "feedback": "This works because the message tells someone to act before a deadline about one item, which is a reminder."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "a complaint about a missing class",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "A complaint would report a problem such as a cancelled class. This message reports nothing wrong with the school."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "In the listening part, remind plus an item and a deadline signals a reminder, while an invitation names an event and an order names goods.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening suits a formal email to a scholarship coordinator?",
+      "context": "Ana writes to the scholarship coordinator of a high school in Alajuela.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Hi, I really need the money for my fees, please.",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "Hi and the phrase I really need are informal and demanding. A formal request opens with Dear plus a title and a surname."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Dear Ms. Alvarado, I am writing to ask about the scholarship.",
+          "is_correct": true,
+          "feedback": "This works because Dear plus a title and surname opens formally, and I am writing to ask about gives the purpose at once."
+        },
+        {
+          "letter": "C",
+          "text": "Hey lady, send me the forms as soon as possible.",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Hey lady is slang for an unknown receiver, and send me sounds like an order rather than a request to a school office."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Dear team, what is up with the scholarship thing?",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Dear team is not used for one named coordinator, and the question is vague, so the office cannot tell what she needs."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "A formal request email opens with Dear plus the reader's title and surname, then states the reason for writing in the first sentence.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You hear: \"Bring your own calculator on Friday.\" Which reply is correct?",
+      "context": "A recorded announcement at a school in Cartago gives instructions for Friday.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "I will bring your calculator on Friday.",
+          "is_correct": false,
+          "feedback": "Your calculator would point to the calculator of the person speaking, but students were told to bring their own."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "I brought my calculator on Friday.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Past simple suggests a finished action, yet the announcement was about a future Friday. Use will or the present simple."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "My calculator is bring on Friday.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "Is bring mixes the passive with an active verb and adds an extra ending, so this is not a possible English sentence."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "I will bring my calculator on Friday, as announced.",
+          "is_correct": true,
+          "feedback": "This works because it answers the instruction, keeps the first person pronoun and uses will for the planned action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "To answer an announcement, echo the key noun with the right possessive and keep the future tense that the instruction implies.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing suits a formal email that asks the office for help?",
+      "context": "Ana is closing a formal email that asks the school office about a lost student card.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "Thank you for your time and consideration. Yours sincerely, Ana",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "This works because the sentence thanks the reader politely and Yours sincerely is the formal close used with a named reader."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "Write me soon. Bye, Ana",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "Write me soon is an order and Bye is a casual goodbye. Neither of them fits a formal email to a school office."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "I do not care what you think, thanks. Ana",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "The first sentence is rude and attacks the reader, so the thanks that follows it cannot repair the tone of the email."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Let us meet at the corner at five. See you, Ana",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Let us meet proposes an arrangement and See you is for friends, so this ending ignores the formal request that was made."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A formal letter closes with a polite sentence of thanks, then the closing phrase, then the signature written below them.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence makes the most polite request in a formal email?",
+      "context": "A student emails the admissions office of the University of Costa Rica.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "letter": "A",
+          "text": "Send me the enrollment form right now.",
+          "is_correct": false,
+          "feedback": "Send me at the start of a sentence is the imperative, which sounds like an order and is too direct for a first email."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "letter": "B",
+          "text": "Could you send me the enrollment form by Friday, please?",
+          "is_correct": true,
+          "feedback": "This works because Could plus you softens the demand, and placing please at the end keeps the tone formal."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "You must send me the enrollment form by Friday.",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "You must is an obligation modal used from the speaker's side, so it imposes a demand instead of asking a favour."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "I would like that you send me the enrollment form.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Would like is followed by a to-infinitive and not by that plus a clause, so this structure is ungrammatical."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "In formal requests Could you or Would it be possible to softens the demand, while must and the bare imperative sound like orders.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase must NOT appear in the formal email of the mock exam?",
+      "context": "A formal email to a school coordinator has to stay respectful, clear and polite.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Thank you for your attention.",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "Thank you for your attention is a standard formal courtesy that shows respect to a teacher or a school office."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Looking forward to hearing from you.",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "This is a standard formal close. It shows the writer expects an answer and keeps a polite distance from the reader."
+        },
+        {
+          "letter": "C",
+          "text": "I would appreciate your help.",
+          "is_correct": false,
+          "feedback": "Would is more formal than want in this context, and the phrase asks for help without sounding demanding at all."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "text": "Hey, thanks a lot, that would be awesome.",
+          "is_correct": true,
+          "feedback": "Hey, thanks a lot and awesome are informal and chatty, so they break the formal register the writing paper requires."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Register is the level of formality kept from the first line to the last, so slang such as awesome or hey must stay out of a formal email.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Who is the recorded message intended for?",
+      "context": "In the listening section a janitor leaves a message on the answerphone of a school in Escazu.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
+          "text": "The student who lost a locker key",
           "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
+          "feedback": "This works because the message names the locker and the key, so the only person concerned is the student who lost it."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "The driver of the school bus",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "No bus, route or stop is mentioned anywhere, so the driver is not the person the caller is trying to reach."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The librarian who orders the books",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "An order of books would appear in the message if the librarian were the target, but no book or order is named."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "The cook of the school cafeteria",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "The cafeteria is never mentioned, and a lost locker key has nothing to do with meals or with kitchen work."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Identify the audience by scanning for the object named in the message: a locker key points to the student, not to the school staff.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which order of parts suits a formal complaint email?",
+      "context": "Marcos lost his lab coat at the technical school in Escazu and writes to the coordinator.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "Problem, greeting, closing, request",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "The greeting must open the email and the closing must end it. This version hides the greeting and stops without a proper ending."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "Greeting, request, problem, closing",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Asking for something before explaining the loss confuses the reader, who does not yet know what happened to the coat."
+        },
+        {
+          "letter": "C",
+          "text": "Greeting, problem, request, closing",
+          "is_correct": true,
+          "feedback": "This works because the email opens formally, describes the problem, states what she wants and only then closes politely."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Closing, greeting, problem, request",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Starting with the closing makes the text unreadable, since the reader gets no greeting and no idea of the complaint."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "A formal complaint follows a fixed order: greeting, useful context, description of the problem, request, thanks and closing.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She says: \"I have called twice and nobody answered.\" How does she sound?",
+      "context": "A mother phones the school in Tibas after calling twice and nobody has answered.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "calm and completely relaxed",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "Repeating the number of calls signals annoyance. A relaxed speaker would not stress that she has phoned twice already."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "text": "irritated but still polite",
+          "is_correct": true,
+          "feedback": "This works because the flat tone plus the repeated detail I have called twice show controlled irritation and no insults."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "excited about the new school term",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Nothing in the sentence expresses excitement about a term, and the complaint clearly shows the opposite feeling."
+        },
+        {
+          "letter": "D",
+          "text": "confused about which class to attend",
+          "is_correct": false,
+          "feedback": "Confusion about a class would ask which class or when it starts. She is complaining about not getting an answer at all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Speakers show irritation with repeated details, overlong flat sentences and emphatic stress rather than with rude language.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence rewrites the informal note in formal English?",
+      "context": "A short note to a friend asks for the bus timetable in very casual language.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "text": "Can you send me the bus timetable, huh?",
+          "is_correct": false,
+          "feedback": "huh is informal filler and Can is less polite than Could, so the tone does not change enough for a formal email."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "Send me the bus timetable, ok?",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "ok at the end is casual, and the bare imperative between friends sounds like an order in a letter to a school."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "text": "Could you send me the bus timetable, please?",
+          "is_correct": true,
+          "feedback": "This works because Could plus you and please soften the demand, and timetable is the formal word for a bus schedule."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "You will send me the bus timetable now.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "You will and now form a command stated as a fact, so the sentence demands the action instead of requesting it politely."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "To raise the register, replace the bare imperative with Could you, drop fillers such as huh or ok and choose formal nouns.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Who offers to pay for part of the class trip?",
+      "context": "Two speakers discuss a class trip: a teacher and a parent talking on the phone.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
+          "letter": "A",
+          "text": "The teacher, who works at the school",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "feedback": "This works because the offer comes from inside the school, so the teacher is the speaker who proposes paying a share."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "The parent, who calls during the message",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "The parent asks about the cost, so she is the listener collecting information and not the one offering money."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The student, who answers the door",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "No student speaks in this message. The proposal is made between the school and the family, so she cannot be the speaker."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The driver, who waits in the van",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "The driver is never heard, and the conversation is only about payment, so he cannot be the one who makes the offer."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "To track the speakers, note the vocabulary each one uses: offering a payment signals the speaker inside the school, asking signals the caller.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence has the wrong tense for a formal complaint?",
+      "context": "A student complains to the coordinator about a scholarship answer sent in June.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "letter": "A",
+          "text": "I wrote to the office last Monday.",
+          "is_correct": false,
+          "feedback": "Past simple is correct here because last Monday fixes a finished moment in the past before the complaint was written."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "They have not answered me yet.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "Present perfect with not yet is correct, since the answering started in the past and still has not happened."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "I am writing to ask about the scholarship.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Present simple is standard in the opening line of a formal email, because the act of writing takes place now."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "text": "I received your email yesterday and I still wait for an answer.",
+          "is_correct": true,
+          "feedback": "This is the wrong one: still wait describes an unfinished situation now, so it needs the present continuous form."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "An unfinished state takes the present continuous (I am still waiting); the present simple wrongly suggests a completed action.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You hear: \"The mock exam is on the 16th of April.\" Which date do you write?",
+      "context": "A school secretary reads the exam dates aloud in a noisy corridor in Cartago.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "letter": "A",
+          "text": "April 6",
+          "is_correct": false,
+          "feedback": "Sixteen keeps the silent ending that the speaker pronounces. Dropping it turns the date into a completely different day."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "letter": "B",
+          "text": "April 16",
+          "is_correct": true,
+          "feedback": "This works because sixteen ends in -teen and the speaker adds the month, so the note is April 16."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "April 26",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Twenty-six begins with twenty, which sounds nothing like sixteen, so the day of the exam has been misheard."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "April 10",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Ten is one stressed syllable like six, but sixteen has two syllables and a silent t that the speaker keeps."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Listen for the -teen and -ty endings: sixteen, seventeen and eighteen all keep a silent t that the speaker never releases.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening states the purpose of the email in the clearest way?",
+      "context": "Luis applies for an exchange semester at a school in Madrid, Spain.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
+          "letter": "A",
+          "text": "Hello, my name is Luis and I am sixteen years old.",
+          "is_correct": false,
+          "feedback": "Giving your name and age adds background. A formal email should state the reason for writing in its very first line."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "It is very hot here and we have no snow at all.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Talking about heat and snow describes Costa Rica instead of the request, so the office learns nothing about the purpose."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "text": "I am writing to apply for the exchange semester in Spain.",
+          "is_correct": true,
+          "feedback": "This works because I am writing to apply for plus the programme name gives the aim and the subject in one line."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Everybody says your programme is the best in Central America.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "This is only an opinion about the programme. It is not a request and it asks the reader for no action at all."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Put the goal first with a purpose phrase such as I am writing to apply for, and only then add the supporting details.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which note records every detail the listening part asks for?",
+      "context": "The listening part of the mock exam asks for the date, the time and the item to bring.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "text": "Sat 8 June, bring ID card and receipt",
+          "is_correct": false,
+          "feedback": "The time is missing, so the student would lose the mark for that detail even though the day and the items are correct."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "10 a.m., bring ID card and receipt",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "Only the time and the items were noted down. The date is the first detail the exam asks the listener to write."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "Sat 8 June, 10 a.m., meet at the office",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "The day and the time are right, but meet at the office changes the item, because nobody said to meet there."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "Sat 8 June, 10 a.m., bring ID card and receipt",
+          "is_correct": true,
+          "feedback": "This works because it holds the date, the time and both items, which are exactly the details the question requires."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Note-taking tasks score one point per detail, so write the date, the time and each item separately instead of guessing them.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question asks the school office about the mock exam results?",
+      "context": "In the writing part a student must ask the school office about the mock exam results.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
+          "text": "How much was the exam?",
+          "is_correct": false,
+          "feedback": "How much asks about a price or a quantity, and the exam results are information to be given, not money to be paid."
         },
         {
           "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "When are we going to know the exam results?",
+          "is_correct": true,
+          "feedback": "This works because When plus are plus the subject builds a complete question, and to know keeps the future meaning."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "How long the exam was?",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "How long needs a subject and a verb after it, as in How long the exam was. A real question requires the auxiliary."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "How many the exam results are?",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "How many expects a countable noun, but results goes with know here, so both the preposition and the word order fail."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "A question word comes first, then the auxiliary or the verb be, then the subject: When are we going to know the results?\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which ending is correct for a formal request email?",
+      "context": "Ana closes an email to the school after asking for a replacement student card.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "Yours sincerely, thank you for your help, Ana",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "Yours sincerely belongs on the last line, and a closing phrase cannot be joined by commas into a single sentence."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "Thank you for your help. See you soon, Ana",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "See you soon is for friends, so it breaks the formal register required after a request to a school office."
+        },
+        {
+          "letter": "C",
+          "text": "Thank you for your help. I look forward to your reply. Yours sincerely, Ana",
+          "is_correct": true,
+          "feedback": "This works because it gives the thanks, then the sentence about the reply, then the closing and the name, in that order."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Hello Ana, thank you, bye",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Hello and bye belong to a chat between friends, and no formal closing phrase appears for a named reader such as a coordinator."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
+      "explanation": "End in this order: a sentence of thanks, a sentence about the expected reply, the closing phrase, then your full name below.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence should the email use after that message?",
+      "context": "You hear the school coordinator move the field trip from Tuesday to Friday, 14 November.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "Thank you for the new date, Friday 14 November.",
           "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "feedback": "This works because it thanks the coordinator, repeats the new date she gave and keeps the formal you in the right order."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "Thank you for the new date, Friday 4 November.",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "The message said the fourteenth and not the fourth, so writing 4 November reports a date that nobody announced."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "I moved the trip to Friday 4 November myself.",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "I moved says the writer did it, but the coordinator changed it, so the agent in the message has been swapped."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "You moved our trip to Friday, so thanks a lot.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "You moved names the wrong agent for the change, and thanks a lot is far too informal for an email to a member of staff."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "After a phone message, confirm the exact detail you heard, keep the person who made the change as the subject and stay formal.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which email is complete and correct for the mock exam task?",
+      "context": "A grade 11 student in Monteverde must write one complete formal email for the mock exam.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "text": "Hey! Send me the syllabus now or I will fail. Bye",
+          "is_correct": false,
+          "feedback": "It has no formal greeting and no closing, and it threatens the teacher, so it would lose marks on register and on tone."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Dear Ms. Rojas, I am writing to ask about the trip. Ana",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "The greeting and the purpose are fine, but the email never says what she wants, so the request itself is missing."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Dear Ms. Rojas, could you send me the syllabus, please? Ana",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "The polite request is good, but the email stops after Ana with no closing phrase and no line thanking the reader."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "Dear Ms. Rojas, I am writing to ask about the trip to Monteverde. Could you send me the syllabus? Thank you. Yours sincerely, Ana Perez",
+          "is_correct": true,
+          "feedback": "This works because it has the greeting, the purpose, a polite request, a thank you, the closing and the full name."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "Marks are given for the four parts together: formal greeting, clear purpose, polite request and a proper closing with the signature.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

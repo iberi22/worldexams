@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence gives the main idea of the radio report?",
+      "context": "A radio station in Alajuela broadcasts a short report about a new bike lane.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "The city is building a protected bike lane downtown.",
+          "is_correct": true,
+          "feedback": "Correct: the opening sentence states the topic itself, and the rest of the report only adds detail to it."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "The report lasts two minutes.",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "The length of the report is a detail about the broadcast, not about what the report is saying."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "Rush hour traffic downtown has grown.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "Growing traffic is only one supporting fact, so it narrows the report down to a single point."
+        },
+        {
+          "letter": "D",
+          "text": "The lane will need repairs in five years.",
+          "is_correct": false,
+          "feedback": "Future repairs are a detail that fits inside the bigger news about the new lane."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The main idea is the one general message that the whole piece supports; numbers, times and examples only illustrate it.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase tells you the speaker is stating the main point?",
+      "context": "A host in Heredia interviews a coffee grower from Tarrazu on the radio.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "Interestingly enough",
+          "is_correct": false,
+          "feedback": "Interestingly adds colour to an aside; it introduces something extra, not the central message."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "On the other hand",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "On the other hand marks a contrast with an earlier point, so it signals a second idea instead."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "text": "The main reason is that",
+          "is_correct": true,
+          "feedback": "Correct: this phrase is an explicit signpost that tells the listener the core of the talk begins here."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "By the way",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "By the way marks an aside or a change of subject, so it moves away from the main point."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Speakers mark structure with phrases: mainly, the point is or to sum up announce the central idea, while however and by the way introduce side points.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is the topic sentence of her lecture?",
+      "context": "A professor in San Jose lectures her class about traffic in the capital.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "letter": "A",
+          "text": "The lecture lasts fifty minutes, so take notes carefully.",
+          "is_correct": false,
+          "feedback": "This is an instruction about the class, so it belongs to the situation, not to the subject."
         },
         {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "letter": "B",
+          "text": "Traffic in San Jose grows because more people drive instead of taking the bus.",
+          "is_correct": true,
+          "feedback": "Correct: it names the general subject and its reason, so every later detail in the talk supports it."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Some drivers leave the car at home on Tuesdays.",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "One group habit on one weekday is a single example, so it supports the topic without stating it."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The blue chart on the screen shows data from 2019.",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Saying which chart appears describes the visuals, not the message the lecture delivers."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "The topic sentence states the subject in general terms; the sentences after it offer facts, figures and examples that only explain it.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the main purpose of that radio spot?",
+      "context": "A station in Alajuela airs a thirty second spot for a play at the Teatro Nacional.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "letter": "A",
+          "text": "Explain the full plot of the play for its audience.",
+          "is_correct": false,
+          "feedback": "A plot summary belongs to a review; this short spot gives no details about the story."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "Report how many people attended last night.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Attendance figures report the past, while a promotion is about what listeners can still do."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Compare ticket prices with another theatre in San Jose.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "No rival theatre appears in the spot, so no comparison of prices is ever made."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "Tell listeners where and when to get their tickets.",
+          "is_correct": true,
+          "feedback": "Correct: the mention of the door and the show times are the facts a listener needs in order to act."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Short spots have one clear aim. Ask what the listener is meant to do or learn, and that question reveals the main purpose.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which summary keeps the main idea of her notes?",
+      "context": "A student in Guanacaste took notes on a talk about turtle protection in Playa Grande.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "Playa Grande protects sea turtles by limiting lights and nesting zones.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
+          "feedback": "Correct: it keeps the topic and its one purpose, dropping the numbers and logistics that only supported it."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "The talk was on Thursday in room four with about sixty students.",
           "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "feedback": "The day, the room and the head count are details about the talk, not about its message."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "One ranger counted forty nests in July and thirty in August.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Nest counts are the evidence inside the talk, so they support the summary instead of being it."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Students asked two questions about plastic waste at the end.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Audience questions and one example of waste are side moments, not the central claim."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "A summary keeps the general message and drops narrow facts such as numbers, rooms and small events, so it ends shorter than the text.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is wrong with Sofia's summary of the bus talk?",
+      "context": "Sofia in Heredia wrote a summary of a talk about public transport that is too narrow.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "letter": "A",
+          "text": "It uses the past tense instead of the present simple.",
+          "is_correct": false,
+          "feedback": "Tense is not the problem; the sentence is grammatically fine and the fault lies in the content."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "letter": "B",
+          "text": "It gives one timetable detail, not the main argument of the talk.",
+          "is_correct": true,
+          "feedback": "Correct: a summary must carry the central claim, and a single timetable fact cannot stand for the talk."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "It repeats the name of the bus company too many times.",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "The company name appears only once, so repetition is not what weakens this summary."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "It is too long for the space allowed on the exam form.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "The summary is short, so length is not the problem here; choosing the right idea is."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A summary fails when it keeps only a detail that stood out. Ask whether your sentence could describe the whole piece or just one moment.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which order of sections does this talk most likely follow?",
+      "context": "A radio talk in Puntarenas about the new port is given as problem, cause and solution.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Problem, solution, cause",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "This reaches the answer before giving the reason, so the listener meets the solution too early."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Cause, solution, problem",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "A cause cannot be explained before the problem that produced it, so this order runs backwards."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "Solution, problem, cause",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Starting with the solution and ending with the problem inverts the natural build of a talk."
+        },
+        {
+          "letter": "D",
+          "text": "Problem, cause, solution",
+          "is_correct": true,
+          "feedback": "Correct: expository talks usually state the problem, then its cause, and only then the solution."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Expository talks follow a predictable order: problem, then cause, then solution. Tracking it helps you recall the main ideas.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The coach says, \"We lose matches in the last minutes.\" What is the implied idea?",
+      "context": "A coach in Desamparados talks to his players before a tournament in Quepos.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "text": "The team must improve its fitness and focus at the end of games.",
+          "is_correct": true,
+          "feedback": "Correct: the complaint points to late match weakness, so the implied message is what must change."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "The team lost every match in the tournament.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "The remark never claims that every match was lost, so this summary overstates what was said."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "The coach wants a larger field for the final match.",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "The size of the field is never mentioned, so that conclusion is invented rather than implied."
+        },
+        {
+          "letter": "D",
+          "text": "Training starts earlier than the team expected.",
+          "is_correct": false,
+          "feedback": "No training schedule comes up in the remark, so this idea has no support in what was said."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Speakers often imply the main idea instead of stating it; the complaint about the last minutes points to what must improve.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She says, \"Well, I suppose the law might possibly help.\" What is her attitude?",
+      "context": "A reporter in San Jose asks a farmer in Grecia about a new law on water use.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "She fully supports the law and expects large results.",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "Hedges like might possibly rule out the full confidence and the big results this option claims."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "She is angry and ready to ignore the law.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Nothing in the hedging shows anger, which would need sharper and more loaded wording."
+        },
+        {
+          "letter": "C",
+          "text": "She is politely doubtful and not fully convinced.",
+          "is_correct": true,
+          "feedback": "Correct: well and I suppose are hedges that signal polite doubt rather than open support."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "She has not understood the reporter's question.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Her answer is clearly on the topic, so the hesitation comes from her opinion, not confusion."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Hedges such as I suppose, maybe and a little soften a claim, so heavy hedging signals doubt while flat wording signals confidence.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which summary best represents the whole interview?",
+      "context": "A university station in Alajuela interviews two people about bicycles in the city.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "letter": "A",
+          "text": "Both guests asked for more bike lanes in San Jose.",
+          "is_correct": false,
+          "feedback": "This keeps only the shared request and drops the disagreement, which is a main part of the interview."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "letter": "B",
+          "text": "The guests explain why bicycles matter, then disagree on who should pay for new lanes.",
+          "is_correct": true,
+          "feedback": "Correct: it gives the shared topic and the central clash, so it covers what the interview is about."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The host asked about the price of bicycle helmets downtown.",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "A single question about helmets is a minor moment and says nothing about the overall content."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The interview was recorded on a windy afternoon downtown.",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Recording conditions sit outside the content of the interview and cannot be its main idea."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A summary of an interview must cover the shared topic and any disagreement that shapes it; omitting the clash hides half of the idea.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The speaker says the problem is not cost. What was the main idea?",
+      "context": "During a listening test, a student in Cartago writes down a wrong summary.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "letter": "A",
+          "text": "Cost is the real problem of the project.",
+          "is_correct": false,
+          "feedback": "The opening denies exactly that link, so this summary reverses the speaker's contrast."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "Nothing in the talk is connected with cost.",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Cost is mentioned and then set aside, so a summary that drops it loses the point of the contrast."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "text": "The real problem of the project is something other than cost.",
+          "is_correct": true,
+          "feedback": "Correct: not cost tells the listener the speaker is replacing one idea with a different one."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Cost is the only problem the project has.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "This contradicts the claim that the problem is not cost, which rules cost out instead of confirming it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Contrastive openings flag the main idea: despite, in fact and not X but Y tell you the speaker is replacing one idea with another.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which host phrase signals that a new main section is starting?",
+      "context": "A podcast recorded in Heredia has three sections and the host names each one.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "Now, the second part of the story...",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "feedback": "Correct: the second part is an explicit signpost that a new main section of the show has begun."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "You know, it was really something.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "This is a personal reaction to what was already said, so it comments instead of opening a section."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Kind of a big deal, honestly.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "An informal comment about size carries no signal about a move to another part of the talk."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "I mean, basically, whatever.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "Fillers like I mean and basically hide the speaker's place in the talk rather than showing it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Structural signposts include first, next, finally and the main reason; fillers like you know carry no information about the shape.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which answer style suits a question about the report's main idea?",
+      "context": "At a school in Puntarenas students practise a listening test with a radio report.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "text": "It repeats the exact numbers the reporter read out twice.",
+          "is_correct": false,
+          "feedback": "Figures are details; a main idea answer has to hold for the whole report, not for one number."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "It gives the reporter's opinion about the people he quotes.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "The reporter's own view is a side comment, while the main idea is what the report supports."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "It lists every place and date mentioned in the report.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "A list of places and dates describes the content in detail but never says what it is about."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "text": "It states the general point that the whole report supports.",
+          "is_correct": true,
+          "feedback": "Correct: a main idea answer covers the whole piece and can be proved with evidence from several parts."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Detail answers repeat one narrow fact; main idea answers generalise, so they must be true for every part of the piece.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Her summary says only \"Water is important\". How can she improve it?",
+      "context": "A student in Puntarenas wrote a summary that was far too general after a talk in Limon.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "letter": "A",
+          "text": "By adding more opinion about why water matters to her.",
+          "is_correct": false,
+          "feedback": "Personal opinion adds a voice the talk never used and still leaves the content vague."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "letter": "B",
+          "text": "By naming what the talk said about water use and what followed from it.",
+          "is_correct": true,
+          "feedback": "Correct: a main idea names the specific subject and its consequence, not only the general truth."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "By dropping every detail she heard in the recording.",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Summaries still need content; removing all the detail leaves nothing for a reader to understand."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "By copying the first sentence the speaker said.",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Copying the opening works only when that sentence states the topic, which here it does not."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "An over general summary is fixed by naming the specific subject and the point made about it, not by adding opinions.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which headline states the main idea of the whole bulletin?",
+      "context": "A news bulletin in Escazu reports a road project and interviews two residents.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "A resident says the dust is hard to avoid.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "The dust complaint is one resident's view, so it cannot stand as the headline for the whole item."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "Bus drivers want the old route kept for a year.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "The drivers' request is a side detail, while the road itself is what the bulletin is mainly about."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "A new road will replace the old bridge over the Rio Torres.",
+          "is_correct": true,
+          "feedback": "Correct: it names the single event the report explains, and the rest of the item supports it."
+        },
+        {
+          "letter": "D",
+          "text": "The project begins after the heavy rains in November.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "The start date is a scheduling detail that fits inside the bigger story about the new road."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A headline must cover every part of the report; test it by asking whether the interviews and figures still fit under it.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which signposted part carries the main idea of the debate?",
+      "context": "A radio debate in Cartago is split into three signposted parts by the host.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "text": "The closing response, because it comes last.",
+          "is_correct": false,
+          "feedback": "Coming last does not make a part central; a response usually reacts to the argument already made."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The opening history, because it comes first.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "The history sets the scene, so it frames the debate without carrying its central point."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The longest section, because it takes more time.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Length measures time, not importance, so the longest section is not automatically the main one."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "The main argument, because the other two parts serve it.",
+          "is_correct": true,
+          "feedback": "Correct: the opening sets up the argument and the closing answers it, so the argument is central."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "When a talk is split into parts, the central one is the part the others serve: the opening frames it and the closing reacts to it.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which line is only a detail of the show, not its main idea?",
+      "context": "A radio show in Liberia talks about a new library in Guanacaste.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
+          "text": "Local reading habits need a real push.",
+          "is_correct": false,
+          "feedback": "This line generalises the whole item, so it works as the main idea the show supports."
         },
         {
           "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "The library opens its shelves with four hundred books.",
+          "is_correct": true,
+          "feedback": "Correct: a number of books is one concrete fact inside the item, not the message behind the report."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Students can use free internet inside the building.",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "Free internet is a real service in the item, but it is only one point among several details."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The programme finishes at ten o'clock tonight.",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "The end time belongs to the broadcast schedule, not to the content the show is about."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Details are specific facts such as numbers, services and times; the main idea turns them into one message a listener can repeat.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The student writes \"Buses should be free.\" Whose view is that?",
+      "context": "A reporter in Alajuela questions a farmer about buses in the canton.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "letter": "A",
+          "text": "The reporter's, because he asked the question.",
+          "is_correct": false,
+          "feedback": "Asking a question does not mean holding a view; the reporter is asking, not claiming."
         },
         {
-          "letter": "A",
-          "text": "warranty",
+          "letter": "B",
+          "text": "Nobody's, because the claim appears twice.",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "How often a claim is repeated says nothing about which voice it belongs to in the recording."
         },
         {
           "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "text": "The guest's, because only the guest argued for it.",
+          "is_correct": true,
+          "feedback": "Correct: the reporter frames the talk with questions while the guest carries the opinion."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The listener's, because the speaker sounds persuasive.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Tone shows the speaker's manner, not the listener's opinion, so this attribution has no basis."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "In an interview the main idea usually belongs to the guest, while the host only frames it, so track the voices as you listen.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The host says: \"Today we look at how three schools cut waste.\" What is the topic?",
+      "context": "A podcast recorded in Cartago opens with a short introduction by its host.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "text": "How schools reduce the waste they produce.",
+          "is_correct": true,
+          "feedback": "Correct: the opening names the topic, and the whole episode goes on to explain that one subject."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "The schools failed to manage their rubbish.",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "Failure would need words like failed or could not, which the introduction never uses."
+        },
+        {
+          "letter": "C",
+          "text": "The podcast will interview three waste companies.",
+          "is_correct": false,
+          "feedback": "The number three modifies schools, not companies, so no interview with businesses is promised."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Waste rose in Cartago during the last school term.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "A rise in waste is one point inside the episode, not something the introduction announces."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "An opening line states the topic: today we look at plus a noun phrase gives the main idea before any detail begins.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which one sentence summary would serve a reader who missed the report?",
+      "context": "A student in Escazu must summarise a three minute report for a classmate who missed it.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "letter": "A",
+          "text": "The speaker argued that farms should stop using plastic bags.",
+          "is_correct": false,
+          "feedback": "Naming only farms and plastic bags leaves out the wider problem and the response the report covers."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "The talk closed with a joke about coffee prices in Tarrazu.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "A closing joke is a feature of the delivery, not the substance a reader who missed it needs."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The report repeated three statistics about crop yields last year.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "Repeated figures are the support the report rests on, so they cannot replace the point itself."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "The report explained why food waste rose and what cities can do about it.",
+          "is_correct": true,
+          "feedback": "Correct: it names both the problem and the response, so an absent reader still gets the whole story."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "D",
+      "explanation": "A summary for an absent reader must cover the problem and the response in one sentence, so the logic of the item survives.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle",
       "periodo": 31,
       "protocol_version": "5.2",

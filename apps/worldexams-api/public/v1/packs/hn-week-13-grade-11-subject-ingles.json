@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ my brother to fix the bike yesterday.",
+      "context": "The causative with have plus object plus bare infinitive.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct! The causative have plus object plus bare infinitive expresses an arrangement the speaker made."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "had him fix",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "The object pronoun must come before the bare infinitive, so the word order here is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "made",
+          "is_correct": false,
+          "feedback": "Make plus object plus bare infinitive is possible, but the past of make is made and the sentence is about an arrangement."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "was having",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "A past continuous would describe an action under way, and the causative structure is needed here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The causative have plus object plus bare infinitive says that someone arranged for the action to be done. The object comes first and the infinitive has no to.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ___ the secretary to type the letter.",
+      "context": "The causative with get plus object plus to infinitive.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "got",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "feedback": "Correct! Get plus object plus to infinitive is a common causative form for arranging for someone to act."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "got her type",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "With get the infinitive keeps its to, so the base form without to is wrong here."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "gotten",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "Getten is not a form of get, whose past is got and whose participle is gotten or got."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "was getting",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "A past continuous would describe an action under way and would lose the causative meaning."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Get plus object plus to infinitive is a causative structure with a slightly informal flavour. The to is required with get, unlike have.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The director ___ the students rewrite the essay.",
+      "context": "The causative with make plus object plus bare infinitive.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "C",
+          "text": "made",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
+          "feedback": "Correct! Make plus object plus bare infinitive expresses compulsion by the subject."
+        },
+        {
+          "letter": "A",
+          "text": "made them to rewrite",
+          "is_correct": false,
+          "feedback": "With make the infinitive never takes to, so to rewrite is wrong here."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "makes",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Makes is the present form, and the sentence describes a past arrangement."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "made them rewriting",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "The -ing form is not the structure that make takes, which is the bare infinitive."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Make plus object plus bare infinitive says the subject compelled the action. It is a causative with a strong sense of obligation imposed from outside.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The tutor ___ the students work in pairs during the activity.",
+      "context": "The passive of the causative with let.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "let",
           "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "feedback": "Correct! Let plus object plus bare infinitive expresses permission given by the subject."
+        },
+        {
+          "letter": "A",
+          "text": "let them to work",
+          "is_correct": false,
+          "feedback": "With let the infinitive never takes to, so to work is wrong."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "lets",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Lets is the present form, and the sentence describes a past permission."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "allowed",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "Allow plus object plus to infinitive is also valid, but the infinitive keeps its to with allow."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Let plus object plus bare infinitive gives permission. It is the mirror image of make, since both take a bare infinitive and express a decision by the subject.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The roof ___ by a local company last month.",
+      "context": "The passive of the causative.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "text": "was repaired",
+          "is_correct": true,
+          "feedback": "Correct! A past simple passive with by is the standard form for a repair arranged by somebody."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "has repaired",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "The active would make the roof the one doing the repairing, which is impossible."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "was repairing",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "A past continuous would suggest the repair was under way, and last month names a finished past time."
+        },
+        {
+          "letter": "D",
+          "text": "had been repaired",
+          "is_correct": false,
+          "feedback": "A past perfect would need a past point later than last month, and there is none."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Many causative sentences are naturally expressed in the passive, because the person who arranges the work is not the person who does it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We ___ our windows cleaned before the visitors arrive.",
+      "context": "Have something done, where the speaker arranges the service.",
       "options": [
         {
           "letter": "B",
-          "text": "customs",
+          "text": "had",
           "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "feedback": "Correct! Have plus object plus past participle means the speaker arranged for the work to be done."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "have cleaned",
           "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "feedback": "A bare form after the object would make the subject the one doing the cleaning, which is not the meaning."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "had cleaned",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "A past perfect would be the subject doing the cleaning, so the structure is the active not the causative."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "have to cleaned",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Have to expresses obligation, and the infinitive or participle that follows it would be wrong."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Have plus object plus past participle is the most frequent causative in everyday English. It reports an arrangement rather than an action performed by the subject.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Can you help me ___ the boxes?",
+      "context": "Help plus to infinitive, which is correct in standard English.",
       "options": [
         {
           "letter": "C",
-          "text": "boarding pass",
+          "text": "to carry",
           "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
+          "feedback": "Correct! Help plus to infinitive is the standard form in careful written English."
         },
         {
           "letter": "A",
-          "text": "visa",
+          "text": "carry",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "A bare infinitive after help is common in speech but is considered informal in standard written English."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "carrying",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "The -ing form after help is not the standard structure, though it appears informally."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "that I carry",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "A that clause with help would need a different verb, and the infinitive is the usual form."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Help somebody to do something is the safest form for exams and formal writing. Help somebody do is widely used in conversation but is often marked down.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "By the time we arrived, the technician ___ the alarm ___.",
+      "context": "The causative with get in the past perfect, since the arrangement was complete.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "had ... installed",
           "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
+          "feedback": "Correct! The causative past perfect reports that the installation was arranged and complete before the arrival."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "has ... installed",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "A present perfect would leave the installation inside the present period, ignoring the arrival deadline."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "was ... installing",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "A past continuous would suggest the work was still under way when the visitors arrived."
         },
         {
-          "letter": "D",
-          "text": "camping",
+          "letter": "C",
+          "text": "had ... to install",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "The to infinitive would change the meaning from an arrangement to an obligation."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The causative behaves like any other verb for tense, so the arrangement can be reported in any tense. The structure of the two following elements never changes.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The company ___ a courier ___ the documents every Friday.",
+      "context": "Have someone do, in the present.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "text": "has ... deliver",
+          "is_correct": true,
+          "feedback": "Correct! Have plus object plus bare infinitive in the present describes a regular arrangement."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "has ... to deliver",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "The to infinitive would turn the sentence into a statement about the company's own obligation."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "have ... deliver",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Have is the plural or first person auxiliary, and the subject is the singular company."
+        },
+        {
+          "letter": "D",
+          "text": "is ... delivering",
+          "is_correct": false,
+          "feedback": "A continuous would describe a single action under way, not a weekly arrangement."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "A regular arrangement with another agent is expressed with has plus object plus bare infinitive. Every Friday is what makes it a routine rather than one event.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We watched him ___ the experiment from the window.",
+      "context": "The verb watch, which takes object plus bare infinitive.",
       "options": [
         {
-          "letter": "A",
-          "text": "delay",
+          "letter": "B",
+          "text": "run",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "feedback": "Correct! Watch, see, hear, feel and make take a bare infinitive after the object."
         },
         {
-          "letter": "B",
-          "text": "cancellation",
+          "letter": "A",
+          "text": "to run",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "These perception verbs do not take a to infinitive after the object, unlike help and get."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "running",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "The -ing form follows watch as a different structure, not as its object complement."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "ran",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Ran would make the main clause the past simple, but the object clause needs a base form."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A group of verbs takes object plus bare infinitive: make, let, have, see, hear, watch, feel and help. Only have in this group also allows a past participle.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ my car ___ yet, so I am taking the bus.",
+      "context": "The negative form of a causative with have.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
+          "letter": "C",
+          "text": "have not had ... repaired",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "feedback": "Correct! The negative sits after have and the participle closes the structure."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "did not have ... repaired",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Did would place the arrangement in a finished past moment, and yet keeps the period open."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "am not having ... repair",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "A present continuous would describe an arrangement under way, and the -ing complement is wrong."
         },
         {
-          "letter": "C",
-          "text": "reservation",
+          "letter": "D",
+          "text": "have not had ... repair",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "After have as a causative the following verb must be a past participle, not a bare infinitive."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "In have something done, the participle is obligatory. The structure reports that the work was arranged, whether or not it has been carried out.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The manager ___ the new employee ___ the system last week.",
+      "context": "Get someone to do, in the past.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
+          "letter": "D",
+          "text": "got ... to use",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "feedback": "Correct! Get plus object plus to infinitive in the past describes an arrangement that was made."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "got ... use",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "With get the infinitive keeps its to, so the bare form is wrong in this structure."
+        },
+        {
+          "letter": "B",
+          "text": "gotten ... to use",
+          "is_correct": false,
+          "feedback": "Getten is not the past simple of get, which is got."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "was getting ... to use",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "A past continuous would describe the manager in the act of arranging, which is not the reported event."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Get plus object plus to infinitive is the informal counterpart of have plus object plus bare infinitive. Both report an arrangement, and they differ only in the presence of to.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you ___ your hair cut before the ceremony?",
+      "context": "The question form of a causative.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "text": "Have ... cut",
+          "is_correct": true,
+          "feedback": "Correct! Have plus object plus past participle in a question keeps the have before the subject."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "Did ... cut",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Did builds active tenses and cannot carry the causative structure."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "Have ... to cut",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "The to infinitive would change the meaning from an arrangement to the subject's own obligation."
+        },
+        {
+          "letter": "D",
+          "text": "Are ... cut",
+          "is_correct": false,
+          "feedback": "A passive continuous would not express the arrangement the question is about."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "A causative question in the present is simply have before the subject, with the object and the participle after. The verb have does the work of the auxiliary.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Would you ___ me carry this table upstairs?",
+      "context": "The verb help used without an object.",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "help",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "feedback": "Correct! Help plus object plus to infinitive is the standard structure, and the question word order is unchanged by it."
         },
         {
-          "letter": "B",
-          "text": "map",
+          "letter": "A",
+          "text": "helping",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "The -ing form after would would make the sentence a passive or an adjective, and it cannot follow a modal directly."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "helped",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Helped after would is not a valid form, because the modal carries the tense."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "that I carry",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "A that clause would need a different verb, and help takes an infinitive rather than a clause."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Help is one of the verbs that keeps its to when it takes an object. Would you help me to carry is the form that is safe in every register.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I will have the car serviced tomorrow,\" she said. She said that she ___ have the car serviced the next day.",
+      "context": "A causative in a reported statement, where the auxiliary shifts.",
       "options": [
         {
           "letter": "C",
-          "text": "backpack",
+          "text": "would",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
+          "feedback": "Correct! The will of the original future auxiliary backshifts to would in the report."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Keeping will would ignore the past tense of the reporting verb she said."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "A had would report a past perfect, and the original is a future arrangement."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "is going to",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "Be going to is a different future form and does not correspond to the will of the original sentence."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A causative clause backshifts exactly like any other future verb. The rest of the causative structure, have the car serviced, is untouched by the shift.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She persuaded him ___ to the trip.",
+      "context": "The verb persuade with a to infinitive.",
       "options": [
         {
           "letter": "D",
-          "text": "overseas",
+          "text": "to come",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correct! Persuade somebody to do something uses a to infinitive for the person who is persuaded."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "coming",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "The -ing form is not the structure after persuade somebody, which needs a to infinitive."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "to coming",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "To plus -ing is not a possible combination in English."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "that he comes",
           "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "feedback": "A that clause would require a different verb such as convince, and persuade takes an infinitive."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Persuade somebody to do, advise somebody to do and tell somebody to do all use a to infinitive. Convince somebody that plus clause is the alternative structure.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "His parents made him ___ late to school. They would not let him ___ out.",
+      "context": "The negative causative with make.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "not be ... go",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
+          "feedback": "Correct! With make and let the infinitive is bare, so a negative form places not before the whole infinitive."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "not to be ... to go",
           "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "feedback": "The to infinitive is not the structure that make and let take."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "be not ... go not",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "English does not negate an infinitive with not after the verb, and go not is not a possible form."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "not be ... going",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "Going is the -ing form, and let plus object plus -ing is not the structure being used."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "When the complement of make or let is negative, the not stands in front of the whole infinitive: made him not be, would not let him go.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The office ___ every evening, so the building is always empty at night.",
+      "context": "A service arranged in the past, reported in the passive.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
+          "letter": "B",
+          "text": "was cleaned",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "feedback": "Correct! An unspecified doer reported in the past takes the past simple passive."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "cleaned",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "The active would make the office the one doing the cleaning, which is not possible."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "is cleaned",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "A present passive would describe a routine, and the sentence reports a past fact."
+        },
+        {
+          "letter": "D",
+          "text": "had been cleaned",
+          "is_correct": false,
+          "feedback": "A past perfect would need a later past reference point, and the sentence is a general statement."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A cleaning service described as a regular past arrangement is naturally passive, because the people who do the work are not identified.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I ___ my flat last weekend. It took me two days.",
+      "context": "The causative where the speaker did the work themselves.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "painted",
           "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "feedback": "Correct! With a reflexive object the causative collapses into a plain past form, because no other agent is involved."
+        },
+        {
+          "letter": "A",
+          "text": "had painted",
+          "is_correct": false,
+          "feedback": "A past perfect would place the painting before another past point, and last weekend is the only past time here."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "painted myself past",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "The last part is not part of the verb, and the sentence would have no main verb."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "have painted",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "A present perfect would place the painting inside the present period, and it is finished."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "When the subject arranges for themselves to do the work, the causative disappears. I painted my flat is a normal active sentence, not a causative.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ___ his watch ___ at the jeweller's.",
+      "context": "The verb get something done, which reports an arrangement.",
       "options": [
         {
           "letter": "D",
-          "text": "jet lag",
+          "text": "got ... repaired",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "feedback": "Correct! Get plus object plus past participle reports that the repair was arranged."
         },
         {
           "letter": "A",
-          "text": "fatigue",
+          "text": "got ... to repair",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "With get plus object the structure is a past participle, and to repair would report an obligation instead."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "gotten ... repaired",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "Getten is not the past simple of get, which is got."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "was getting ... repaired",
           "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "A past continuous would describe the arranging as under way, and the sentence reports it as done."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Get plus object plus past participle is the passive-side causative. It says the subject arranged for the work, without saying who actually carried it out.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W13-causative-001-MASTERY-bundle",
       "periodo": 13,

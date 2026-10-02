@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ___ swim very well because she practises every day. Choose the correct modal.",
+      "context": "A student knows how to swim very well.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "can",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Can expresses ability, and swimming well is the ability this sentence describes."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Must expresses obligation or strong necessity, not the ability to swim."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Should gives advice or a recommendation, not the physical ability to swim."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "may",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "May expresses possibility or permission, not the ability to swim well."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Ability in the present is expressed with can plus the bare infinitive: she can swim. Must, should and may do not describe ability.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When he was five, he ___ read simple books. Choose the correct modal.",
+      "context": "When he was five, he already knew how to read.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Can is present, but the sentence places the ability at age five."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "text": "could",
+          "is_correct": true,
+          "feedback": "Could is the past form of can and reports a general ability in the past."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Must expresses obligation and does not fit a past ability."
+        },
+        {
+          "letter": "D",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Should gives advice and cannot report what he was able to do."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Past ability uses could plus the bare infinitive: he could read. Can is present, so it clashes with the past time marker.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,37 +99,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ I open the window, please? Choose the correct modal.",
+      "context": "A student asks the teacher politely for permission to open the window.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Must",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Must asks about obligation, not about permission to open a window."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Should",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "Should asks for advice and does not request permission."
+        },
+        {
+          "letter": "C",
+          "text": "May",
+          "is_correct": true,
+          "feedback": "May asks for permission politely, which is exactly what the student wants."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Would",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Would is used for offers and hypotheticals, not for asking permission here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "explanation": "May I plus the infinitive is the polite formula for requesting permission. Must, should and would do not ask permission in this context.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -144,36 +144,36 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Drivers ___ stop at a red light. Choose the correct modal.",
+      "context": "The law requires drivers to stop at a red light.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "text": "can",
+          "is_correct": false,
+          "feedback": "Can expresses ability or permission, not a legal requirement."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Might expresses a weak possibility, not an obligation."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "could",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Could expresses past ability or possibility, not a rule."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Must expresses a strong obligation, and the law makes the stop obligatory."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A legal requirement is a strong obligation, so must is correct. Can, might and could describe ability or possibility, not duty.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She ___ arrive at the office before eight. Choose the correct form.",
+      "context": "Her office starts at eight, so she needs to arrive early.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "has to",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Has to agrees with the third person singular she and expresses the external obligation."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "must to",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Must to is wrong because must never takes to before the infinitive."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "have to",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Have to is plural and does not agree with the singular subject she."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "should to",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Should to is wrong because should never takes to before the infinitive."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "External obligation in the third person singular is has to plus the infinitive: she has to arrive. Must and should take no to.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -234,37 +234,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ___ pay; the entrance is free. Choose the correct form.",
+      "context": "It is not necessary to pay, but you may if you wish.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "mustn't",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Mustn't means prohibition, but paying is allowed, only unnecessary."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "text": "don't have to",
+          "is_correct": true,
+          "feedback": "Don't have to means there is no obligation, which matches the free entrance."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Shouldn't gives advice against paying, which is stronger than the idea of free entry."
+        },
+        {
+          "letter": "D",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Can't means it is impossible or not permitted, not merely unnecessary."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Absence of obligation is don't have to. Mustn't forbids the action, while here paying is permitted but not required.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,40 +279,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ___ go to bed early tonight. Choose the correct modal.",
+      "context": "Your friend feels tired and has an important exam tomorrow.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "Must states a strong obligation, too forceful for a piece of advice."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "may",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "May expresses permission or possibility, not a recommendation."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Should gives advice or a recommendation, which fits the friendly suggestion."
+        },
+        {
+          "letter": "D",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Can expresses ability or permission, not advice about sleeping."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Advice is normally given with should plus the bare infinitive. Must is stronger and states an obligation rather than a suggestion.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -324,40 +324,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you pass me the document, please? Choose the correct modal.",
+      "context": "You want your colleague to pass you a document politely.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Must",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Must asks about obligation and sounds like an order, not a request."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "May",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "May asks for permission and cannot ask someone to pass a document."
+        },
+        {
+          "letter": "C",
+          "text": "Should",
+          "is_correct": false,
+          "feedback": "Should asks for advice and does not work as a polite request here."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "Could",
+          "is_correct": true,
+          "feedback": "Could makes the request polite and tentative, which suits a colleague."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Could you plus the infinitive is a polite request. May asks permission and must states obligation, so neither fits asking a favour.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It ___ rain this afternoon, so take an umbrella. Choose the correct modal.",
+      "context": "The sky is grey, so rain is possible later.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "text": "may",
+          "is_correct": true,
+          "feedback": "May expresses possibility, and a grey sky makes rain possible but not certain."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "Must expresses certainty or obligation, but the rain is only possible."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Should expresses advice or expectation, not a simple possibility."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Can expresses ability or general possibility, not a specific forecast."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "A possible future event is expressed with may plus the bare infinitive: it may rain. Must would state certainty, which the evidence does not support.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Visitors ___ touch the paintings. Choose the correct modal.",
+      "context": "A museum rule forbids visitors to touch the paintings.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "letter": "A",
+          "text": "don't have to",
+          "is_correct": false,
+          "feedback": "Don't have to means it is unnecessary, but here touching is not allowed."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "letter": "B",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Mustn't expresses prohibition, and the museum rule forbids touching."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "might not",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Might not expresses a possibility that something will not happen, not a ban."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "couldn't",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Couldn't reports past inability, which does not match a present rule."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A ban is expressed with mustn't. Don't have to would mean touching is optional, and might not and couldn't do not forbid anything.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -459,37 +459,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "After the course, you ___ drive a car. Choose the correct form.",
+      "context": "After the course, you will have the skill to drive.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "text": "will can",
+          "is_correct": false,
+          "feedback": "Will can is wrong because can never follows will directly."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Can is present ability and cannot follow the future marker will."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "text": "will be able to",
+          "is_correct": true,
+          "feedback": "Will be able to expresses ability in the future, which can does not cover."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "could",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Could is past ability or a hypothetical, not a future skill."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "For future ability, English uses will be able to because can has no future form of its own. Will can is never grammatical.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Last week we ___ work late to finish the project. Choose the correct form.",
+      "context": "Last week the team worked late because of a deadline.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "must",
+          "is_correct": false,
+          "feedback": "Must has no past form, so it cannot report last week's obligation."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "have to",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Have to is present and clashes with the time phrase last week."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Should gives advice and does not report what was obligatory."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "text": "had to",
+          "is_correct": true,
+          "feedback": "Had to is the past form of have to and reports the past obligation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Past obligation is reported with had to. Must lacks a past form, and have to is present, so neither fits last week.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ I watch television now, Mum? Choose the correct modal.",
+      "context": "A child asks a parent for permission to watch television.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "text": "Can",
+          "is_correct": true,
+          "feedback": "Can asks for permission in an informal way, which suits a child at home."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "Must",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "Must asks about obligation and cannot request permission to watch TV."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "Should",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Should asks for advice and does not ask for permission."
+        },
+        {
+          "letter": "D",
+          "text": "Would",
+          "is_correct": false,
+          "feedback": "Would is used in offers and hypotheticals, not in this request."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "Can I plus the infinitive is the informal way to ask permission. May is more formal, while must, should and would do not request permission.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The train ___ arrive in a few minutes. Choose the correct modal.",
+      "context": "The train left an hour ago, so it arrives soon.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "Must expresses certainty or obligation, but an arrival time is an expectation."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Should expresses a strong expectation based on the schedule, which fits the timing."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Can expresses ability or permission, not a prediction about arrival."
+        },
+        {
+          "letter": "D",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "May expresses a weaker possibility, while the schedule supports a firm expectation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Should can express a confident expectation: the train should arrive soon. Must states certainty, which the evidence cannot guarantee.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ___ take the exam if you do not want to. Choose the correct form.",
+      "context": "The exam is optional, so nobody is required to take it.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "mustn't",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Mustn't forbids taking the exam, but it is allowed and only optional."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "can't",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Can't says it is impossible or not allowed, which is too strong."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "don't have to",
+          "is_correct": true,
+          "feedback": "Don't have to states that the exam is optional, which matches the context."
+        },
+        {
+          "letter": "D",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Shouldn't advises against it, but the choice is neutral."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Optional actions use don't have to. Mustn't would ban the exam, can't would make it impossible, and shouldn't would advise against it.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -684,37 +684,82 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ___ eat less salt for your health. Choose the correct form.",
+      "context": "A doctor gives a patient a recommendation about salt.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Must states a strong obligation, which is more forceful than medical advice."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "can",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Can expresses ability or permission and does not give advice."
+        },
+        {
+          "letter": "C",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "May expresses permission or possibility and does not recommend anything."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "ought to",
+          "is_correct": true,
+          "feedback": "Ought to expresses advice and is followed by the bare infinitive eat."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Advice can be given with ought to plus the infinitive: you ought to eat less salt. Must states obligation, while can and may do not advise.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v17",
+      "statement": "That ___ be the postman; he always comes at this time. Choose the correct modal.",
+      "context": "Someone is knocking at the door, and the family is expecting the postman.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Must expresses a strong deduction, and the regular time makes the postman very likely."
+        },
+        {
+          "letter": "B",
+          "text": "can't",
+          "is_correct": false,
+          "feedback": "Can't expresses a deduction that something is impossible, the opposite of this evidence."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Should gives advice or expectation, not a logical deduction about who it is."
+        },
+        {
+          "letter": "D",
+          "text": "may",
+          "is_correct": false,
+          "feedback": "May expresses weak possibility, but the evidence supports a strong conclusion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong logical deduction is expressed with must: that must be the postman. Can't would deny it, and may would only suggest a weak possibility.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +773,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
-      "periodo": 5,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He ___ open the jar, however hard he tried. Choose the correct modal.",
+      "context": "He tried hard but was unable to open the jar.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "letter": "A",
+          "text": "mustn't",
+          "is_correct": false,
+          "feedback": "Mustn't expresses prohibition, not an inability to open a jar."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "letter": "B",
+          "text": "couldn't",
+          "is_correct": true,
+          "feedback": "Couldn't reports the lack of ability in the past, which matches his failed attempt."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "Shouldn't gives advice against the action, not a lack of ability."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "needn't",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "Needn't means it was unnecessary, but he tried and failed."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Past inability is couldn't plus the bare infinitive: he couldn't open the jar. Mustn't forbids, shouldn't advises, and needn't says something is unnecessary.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle",
       "periodo": 5,
@@ -819,37 +819,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Every employee ___ wear a helmet in the factory. Choose the correct modal.",
+      "context": "A workplace safety rule is compulsory for every employee.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "letter": "A",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "Should only recommends the helmet, but the safety rule is compulsory."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "could",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "Could expresses possibility or past ability, not a requirement."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "must",
+          "is_correct": true,
+          "feedback": "Must expresses the compulsory rule that every employee has to follow."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "might",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Might expresses a weak possibility, not a safety obligation."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A compulsory safety rule requires must. Should would only advise, and could and might describe possibility, not obligation.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You ___ bring a guest to the club; entry is for members only. Choose the correct form.",
+      "context": "You may enter the club, but bringing a guest is not allowed.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "don't have to",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Don't have to means it is optional, but guests are not permitted at all."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "shouldn't",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Shouldn't gives advice, which is weaker than the club's rule."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "might not",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "Might not expresses a possibility that you will not bring a guest, not a ban."
+        },
+        {
+          "letter": "D",
+          "text": "mustn't",
+          "is_correct": true,
+          "feedback": "Mustn't states the prohibition on bringing a guest, which the rule makes clear."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "A prohibition is mustn't: bringing a guest is forbidden. Don't have to would make it optional, and shouldn't would only advise against it.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

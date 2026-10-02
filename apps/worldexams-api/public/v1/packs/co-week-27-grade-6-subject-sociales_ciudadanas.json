@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-27-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T00:37:04.390Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es el transporte público?",
+      "context": "En Bogotá, el sistema de transporte público TransMilenio transporta a millones de personas cada día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un sistema de vehículos que transporta a muchas personas por un pago",
+          "is_correct": true,
+          "feedback": "Correcto. El transporte público es un sistema de buses, trenes o metros que transporta a muchas personas a cambio de un pago, facilitando la movilidad en las ciudades."
+        },
+        {
+          "letter": "B",
+          "text": "Un servicio exclusivo para personas ricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público es accesible para todas las personas, no solo para las ricas; su objetivo es facilitar la movilidad de toda la población."
+        },
+        {
+          "letter": "C",
+          "text": "Un sistema de transporte gratuito para todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público generalmente requiere un pago; aunque hay subsidios, no es completamente gratuito para todos los usuarios."
+        },
+        {
+          "letter": "D",
+          "text": "Un servicio que solo funciona en zonas rurales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público es especialmente importante en las zonas urbanas, donde facilita la movilidad de millones de personas en las ciudades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte público es un sistema de vehículos como buses, trenes y metros que transportan a muchas personas por un pago. Es fundamental para la movilidad urbana, ya que permite que las personas se desplacen de manera eficiente y reduce el tráfico en las ciudades.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v2",
+      "statement": "¿Qué beneficio aporta el transporte público a la comunidad?",
+      "context": "En Medellín, el metro de la ciudad conecta diferentes barrios y facilita el acceso al trabajo y la educación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta el tráfico en las ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público reduce el tráfico al transportar a muchas personas en un solo vehículo; no lo aumenta."
+        },
+        {
+          "letter": "B",
+          "text": "Facilita el acceso al trabajo, la educación y otros servicios",
+          "is_correct": true,
+          "feedback": "Correcto. El transporte público permite a las personas llegar a sus lugares de trabajo, estudio y otros servicios de manera eficiente y económica."
+        },
+        {
+          "letter": "C",
+          "text": "Contamina más que los vehículos particulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público contamina menos por persona que los vehículos particulares; al transportar a muchas personas, reduce la emisión de contaminantes por usuario."
+        },
+        {
+          "letter": "D",
+          "text": "Solo beneficia a las personas que viven en el centro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte público beneficia a toda la comunidad, conectando diferentes zonas de la ciudad y facilitando el acceso a servicios para todos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El transporte público es un servicio esencial que facilita la movilidad de las personas en las ciudades. Permite el acceso al trabajo, la educación, la salud y otros servicios, contribuyendo a la igualdad de oportunidades y al desarrollo urbano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v3",
+      "statement": "¿Qué beneficio ambiental aporta esta decisión?",
+      "context": "En Cali, una persona decide usar la bicicleta en lugar de su carro para ir al trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar la bicicleta no emite contaminantes; reduce la contaminación del aire al no usar combustibles fósiles como la gasolina."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene ningún efecto en el medio ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar la bicicleta tiene un efecto positivo en el medio ambiente; reduce las emisiones de gases contaminantes y la congestión vehicular."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce la contaminación y el tráfico",
+          "is_correct": true,
+          "feedback": "Correcto. La bicicleta no emite gases contaminantes y reduce el tráfico, contribuyendo a un aire más limpio y a una ciudad más sostenible."
+        },
+        {
+          "letter": "D",
+          "text": "Gasta más energía que un carro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bicicleta usa la energía del pedaleo, que es mucho más eficiente y limpia que la energía de un carro; no gasta más energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El uso de la bicicleta como medio de transporte es una alternativa sostenible que reduce la contaminación del aire y el tráfico en las ciudades. Además, promueve un estilo de vida saludable y contribuye a la protección del medio ambiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v4",
+      "statement": "¿Qué problema de movilidad urbana enfrenta esta persona?",
+      "context": "En Barranquilla, una persona con discapacidad física no puede usar el transporte público porque no tiene rampas de acceso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falta de accesibilidad en el transporte público",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de rampas y otros elementos de accesibilidad impide que las personas con discapacidad puedan usar el transporte público, limitando su movilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de opciones de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el exceso de opciones, sino la falta de opciones accesibles; las personas con discapacidad necesitan transporte adaptado a sus necesidades."
+        },
+        {
+          "letter": "C",
+          "text": "Demasiado transporte público disponible",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la cantidad de transporte público, sino su falta de accesibilidad; el transporte debe ser inclusivo para todas las personas."
+        },
+        {
+          "letter": "D",
+          "text": "Falta de interés en usar el transporte público",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la falta de interés, sino la falta de accesibilidad; las personas con discapacidad quieren y necesitan usar el transporte público."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La accesibilidad en el transporte público es un derecho fundamental que permite a todas las personas, incluyendo aquellas con discapacidad, moverse por la ciudad de manera independiente. La falta de rampas, ascensores y otros elementos de accesibilidad limita la movilidad y la inclusión social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v5",
+      "statement": "¿Qué objetivo tiene la construcción de una ciclovía?",
+      "context": "En Bucaramanga, el gobierno local construye una ciclovía para conectar diferentes zonas de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar el número de carros en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciclovía no aumenta el número de carros; ofrece una alternativa de transporte sostenible que reduce la dependencia del automóvil."
+        },
+        {
+          "letter": "B",
+          "text": "Promover el uso de la bicicleta como medio de transporte",
+          "is_correct": true,
+          "feedback": "Correcto. La ciclovía es una vía exclusiva para bicicletas que promueve su uso como medio de transporte, contribuyendo a la movilidad sostenible."
+        },
+        {
+          "letter": "C",
+          "text": "Reducir el espacio para los peatones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciclovía no reduce el espacio para los peatones; es una vía separada para bicicletas que mejora la convivencia entre diferentes medios de transporte."
+        },
+        {
+          "letter": "D",
+          "text": "Aumentar la contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciclovía reduce la contaminación al promover el uso de la bicicleta, que no emite gases contaminantes; no aumenta la contaminación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las ciclovías son infraestructuras que promueven el uso de la bicicleta como medio de transporte sostenible. Estas vías mejoran la movilidad urbana, reducen la contaminación y contribuyen a la salud de las personas y al cuidado del medio ambiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v6",
+      "statement": "¿Qué desigualdad social refleja esta situación?",
+      "context": "En Pereira, una persona de escasos recursos no puede pagar el transporte público y debe caminar largas distancias para ir al trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Desigualdad en el acceso a la educación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el transporte afecta el acceso a la educación, la situación descrita se refiere específicamente al acceso al trabajo, no a la educación."
+        },
+        {
+          "letter": "B",
+          "text": "Desigualdad en el acceso a la salud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el transporte afecta el acceso a la salud, la situación descrita se refiere específicamente al acceso al trabajo, no a la salud."
+        },
+        {
+          "letter": "C",
+          "text": "Desigualdad en el acceso al transporte y al trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de recursos para pagar el transporte limita el acceso al trabajo, reflejando una desigualdad económica que afecta la movilidad y las oportunidades laborales."
+        },
+        {
+          "letter": "D",
+          "text": "Desigualdad en el acceso a la vivienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el transporte afecta el acceso a la vivienda, la situación descrita se refiere específicamente al acceso al trabajo, no a la vivienda."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El acceso al transporte público es un factor clave para la igualdad de oportunidades. Las personas de escasos recursos que no pueden pagar el transporte enfrentan barreras para acceder al trabajo, la educación y otros servicios, perpetuando la desigualdad social.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes opciones explica mejor por qué el tráfico afecta la calidad de vida de las personas?",
+      "context": "En Cartagena, el tráfico en el centro de la ciudad es tan alto que las personas tardan horas en recorrer distancias cortas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el tráfico reduce la contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tráfico aumenta la contaminación del aire; los vehículos emiten gases contaminantes que afectan la salud de las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el tráfico mejora la movilidad en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tráfico empeora la movilidad; las personas tardan más tiempo en llegar a sus destinos, lo que reduce su calidad de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el tráfico aumenta el tiempo de desplazamiento y el estrés",
+          "is_correct": true,
+          "feedback": "Correcto. El tráfico hace que las personas pasen más tiempo en el camino, lo que genera estrés, reduce el tiempo libre y afecta la salud mental y física."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el tráfico no tiene efectos en la salud de las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tráfico tiene efectos negativos en la salud; la contaminación y el estrés asociados al tráfico afectan el bienestar de las personas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tráfico excesivo en las ciudades tiene consecuencias graves para la calidad de vida de las personas. Aumenta el tiempo de desplazamiento, genera estrés, reduce el tiempo disponible para el descanso y la familia, y contribuye a la contaminación del aire.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v8",
+      "statement": "¿Qué barrera de movilidad enfrenta esta comunidad?",
+      "context": "En Cúcuta, una comunidad de migrantes no conoce las rutas de transporte público y tiene dificultades para moverse por la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falta de vehículos particulares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la falta de vehículos particulares puede ser un problema, la situación descrita se refiere específicamente a la falta de conocimiento sobre las rutas de transporte público."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de opciones de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es el exceso de opciones, sino la falta de información sobre las opciones disponibles; la comunidad necesita conocer las rutas para poder usar el transporte."
+        },
+        {
+          "letter": "C",
+          "text": "Falta de información sobre el transporte público",
+          "is_correct": true,
+          "feedback": "Correcto. La falta de conocimiento sobre las rutas y horarios del transporte público limita la movilidad de los migrantes, dificultando su acceso a servicios y oportunidades."
+        },
+        {
+          "letter": "D",
+          "text": "Demasiadas ciclovías en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ciclovías no son una barrera para la movilidad; son una opción de transporte sostenible. El problema es la falta de información sobre el transporte público."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La información sobre el transporte público es esencial para la movilidad urbana. Las personas que no conocen las rutas, horarios y tarifas del transporte público enfrentan barreras para moverse por la ciudad, lo que limita su acceso al trabajo, la educación y otros servicios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál de las siguientes opciones evalúa mejor esta decisión desde la perspectiva de la igualdad social?",
+      "context": "En Armenia, el gobierno decide aumentar el precio del transporte público para financiar mejoras en el sistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una buena decisión porque mejora el sistema de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque mejorar el sistema es importante, aumentar el precio afecta desproporcionadamente a las personas de escasos recursos, lo que puede limitar su acceso al transporte."
+        },
+        {
+          "letter": "B",
+          "text": "Es una decisión que puede afectar el acceso al transporte de las personas de escasos recursos",
+          "is_correct": true,
+          "feedback": "Correcto. Aumentar el precio del transporte público puede hacer que las personas de bajos ingresos no puedan pagarlo, limitando su acceso al trabajo, la educación y otros servicios."
+        },
+        {
+          "letter": "C",
+          "text": "Es una buena decisión porque el transporte público es muy barato",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hecho de que el transporte sea barato no justifica un aumento que afecte a las personas más vulnerables; la accesibilidad económica es fundamental para la igualdad social."
+        },
+        {
+          "letter": "D",
+          "text": "Es una decisión que no afecta a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar el precio del transporte afecta directamente a todas las personas, especialmente a las de escasos recursos; no es una decisión neutral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El precio del transporte público es un factor clave para la igualdad de oportunidades. Aumentar las tarifas puede limitar el acceso al transporte de las personas de escasos recursos, afectando su movilidad y su capacidad para acceder al trabajo, la educación y otros servicios esenciales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes opciones evalúa mejor este programa desde la perspectiva de la igualdad social?",
+      "context": "En Manizales, una escuela implementa un programa de transporte escolar gratuito para estudiantes de zonas rurales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contribuye a la igualdad de oportunidades al facilitar el acceso a la educación",
+          "is_correct": true,
+          "feedback": "Correcto. El transporte escolar gratuito elimina una barrera económica que impedía a los estudiantes de zonas rurales acceder a la educación, promoviendo la igualdad de oportunidades."
+        },
+        {
+          "letter": "B",
+          "text": "Es innecesario porque todos los estudiantes pueden llegar a la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Muchos estudiantes de zonas rurales no pueden llegar a la escuela por la falta de transporte; el programa responde a una necesidad real."
+        },
+        {
+          "letter": "C",
+          "text": "Afecta la calidad de la educación en la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El transporte escolar no afecta la calidad de la educación; facilita el acceso a la educación, lo que es fundamental para el desarrollo de los estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Es un programa que solo beneficia a los estudiantes de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa beneficia específicamente a los estudiantes de zonas rurales, que son los que enfrentan mayores dificultades para acceder a la educación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El transporte escolar gratuito es una medida que promueve la igualdad de oportunidades al eliminar las barreras económicas que impiden el acceso a la educación. Este tipo de programas es especialmente importante para los estudiantes de zonas rurales, que a menudo enfrentan dificultades para llegar a la escuela.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

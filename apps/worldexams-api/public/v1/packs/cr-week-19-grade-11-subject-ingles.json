@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v1",
+      "statement": "What is the main contrast in this text?",
+      "context": "Text: 'While cycling is cheaper than driving, it does not solve the problem of long journeys. Buses cover those distances better, although they run less often than cars leave the parking area.'",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "Cycling is inexpensive but unsuitable for long distances",
+          "is_correct": true,
+          "feedback": "The text pairs the advantage of cycling with its limitation, which is the contrast the whole sentence set builds."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "Buses are more frequent than cars",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "The text states that buses run less often, which is the opposite of this claim."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "Cars are cheaper than buses",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "Cost is never compared between cars and buses in the text."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Parking is easier for cyclists than for drivers",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "The amount of parking at the destination is mentioned, but nothing compares its convenience."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Comparison texts place two items side by side and mark the dimension along which they differ. Naming the dimension, here cost against suitability, is what makes a summary of such a text usable.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v2",
+      "statement": "Which contrastive marker appears in the text?",
+      "context": "Text: 'The two species share a similar body shape. However, one feeds on fruit while the other hunts small animals.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "However",
+          "is_correct": true,
+          "feedback": "'However' introduces a contrast between two feeding habits after a sentence establishing similarity."
+        },
+        {
+          "letter": "A",
+          "text": "Therefore",
+          "is_correct": false,
+          "feedback": "'Therefore' introduces a consequence and would not signal opposition."
+        },
+        {
+          "letter": "B",
+          "text": "For example",
+          "is_correct": false,
+          "feedback": "'For example' introduces an illustration of the point just made."
+        },
+        {
+          "letter": "C",
+          "text": "As a result",
+          "is_correct": false,
+          "feedback": "'As a result' introduces a result, which is not the relation between the two clauses."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A short comparison text has a fixed shape: establish what is shared, then mark what differs. The connector tells the reader which relation the following clause carries.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v3",
+      "statement": "What is the most accurate summary of the comparison?",
+      "context": "Text: 'The morning market opens earlier but attracts fewer visitors. The afternoon market opens later and draws larger crowds, though the two charge the same prices for produce.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The markets differ in hours and in numbers of visitors but not in price",
+          "is_correct": true,
+          "feedback": "The option captures both stated differences and the one stated similarity in prices."
+        },
+        {
+          "letter": "C",
+          "text": "The morning market is cheaper and busier than the afternoon one",
+          "is_correct": false,
+          "feedback": "The prices are the same, and the morning market has fewer visitors rather than more."
+        },
+        {
+          "letter": "D",
+          "text": "The two markets are identical in every respect",
+          "is_correct": false,
+          "feedback": "The markets clearly differ in opening hours and in attendance."
+        },
+        {
+          "letter": "A",
+          "text": "The afternoon market opens earlier and charges more",
+          "is_correct": false,
+          "feedback": "The afternoon market opens later and prices are equal, so both halves of the last option are wrong."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Summarising a comparison requires checking each dimension separately. A summary is accurate only when every attribute it mentions matches the text.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v4",
+      "statement": "What does the word 'Unlike' signal?",
+      "context": "Text: 'Unlike the previous version, this one runs on a battery, and it is also smaller and lighter.'",
       "options": [
         {
           "letter": "B",
-          "text": "luggage",
+          "text": "A difference from the version being compared with",
           "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Unlike' sets this version apart from the previous one, which is the function of the word."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "A similarity between the two versions",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "A similarity would be introduced by 'like' or 'similarly'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "A cause of one of the differences",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "No causal relation is expressed between the versions."
+        },
+        {
+          "letter": "A",
+          "text": "A comparison of prices",
+          "is_correct": false,
+          "feedback": "Price is not mentioned in the sentence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "Prefixes such as 'un', 'dis' and 'con' carry the meaning of the word they begin. Knowing the family of contrastive connectors is a fast route to identifying the relation a sentence expresses.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,37 +188,127 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v5",
+      "statement": "What does the comparison show?",
+      "context": "Text: 'Both schools introduced the reading programme. One school saw scores rise in every year of the study. The other saw a rise in the first year only, followed by a plateau.'",
       "options": [
         {
-          "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
-          "letter": "B",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
-        },
-        {
           "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "text": "The effect of the programme was sustained in one school but not in the other",
+          "is_correct": true,
+          "feedback": "Continuous gains and an initial rise followed by a plateau are different patterns, so the durability of the effect differed."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "The programme failed in both schools",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "One school improved throughout, so a claim of failure everywhere is wrong."
+        },
+        {
+          "letter": "A",
+          "text": "The programme succeeded in both schools",
+          "is_correct": false,
+          "feedback": "The second school's result plateaued, which is not the same as sustained success."
+        },
+        {
+          "letter": "B",
+          "text": "The schools had identical results",
+          "is_correct": false,
+          "feedback": "The two patterns are clearly not identical."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "When two cases share a treatment, the difference in outcome points at whatever else differed between them. Reporting the pattern accurately is the first step in explaining it.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v6",
+      "statement": "What does this text do to the two options?",
+      "context": "Text: 'City buses cover the whole network but take longer than the train. The train, on the other hand, serves only two lines, so many passengers must still travel by bus at one end of the journey.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "It presents each as strong on one dimension and weak on another, leaving the choice open",
+          "is_correct": true,
+          "feedback": "Coverage and speed are given as advantages of different options, so neither is presented as simply better."
+        },
+        {
+          "letter": "A",
+          "text": "It declares the bus the better option without qualification",
+          "is_correct": false,
+          "feedback": "The advantage of the train over the bus is stated explicitly, which rules out an unqualified verdict for buses."
+        },
+        {
+          "letter": "B",
+          "text": "It claims that the two options are equivalent",
+          "is_correct": false,
+          "feedback": "The text states differences rather than equivalence."
+        },
+        {
+          "letter": "C",
+          "text": "It shows that the train serves the whole network",
+          "is_correct": false,
+          "feedback": "The train is said to serve only two lines, which is the opposite of the last option."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A balanced comparison text is one where each option wins on a different axis. Recognising that structure stops a reader from reading a recommendation where the writer offered a trade-off.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v7",
+      "statement": "What does the word 'however' do in the second sentence?",
+      "context": "Text: 'Both methods achieve the same result on small samples. On samples of five hundred or more, however, the second method proves consistently more accurate.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "It marks a limit to the similarity established in the first sentence",
+          "is_correct": true,
+          "feedback": "The contrast shows that agreement on small samples does not extend to larger ones."
+        },
+        {
+          "letter": "A",
+          "text": "It confirms the similarity with further examples",
+          "is_correct": false,
+          "feedback": "A confirming marker would be 'indeed' or 'likewise', not 'however'."
+        },
+        {
+          "letter": "B",
+          "text": "It introduces a reason for the similarity",
+          "is_correct": false,
+          "feedback": "No causal link between the two samples is asserted."
+        },
+        {
+          "letter": "C",
+          "text": "It summarises both sentences",
+          "is_correct": false,
+          "feedback": "A summary would gather the content rather than oppose it."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A contrast inside a comparison often appears at the exact point where the parallel breaks down. Reading for that point tells a reader where the rule stops applying.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -233,42 +323,222 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v8",
+      "statement": "Which comparison does this text make between the two systems?",
+      "context": "Text: 'The old system processes a request in four hours. The new system processes the same request in ninety minutes, which is roughly two and a half times faster.'",
       "options": [
         {
           "letter": "D",
-          "text": "customs",
+          "text": "It compares duration and expresses the improvement as a ratio",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "feedback": "Both figures are times, and the ratio between four hours and ninety minutes is the basis of the comparison."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "It compares cost and expresses the improvement as a percentage",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "No cost figure appears in the text at all."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "It compares reliability and expresses the improvement as a margin",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Accuracy and error margins are not discussed."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "It compares popularity and expresses the improvement as a ranking",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "No measure of popularity is mentioned."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Quantitative comparisons name their dimension explicitly. Confirming that the same unit appears on both sides of a comparison prevents a reader from accepting a ratio computed from unrelated figures.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v9",
+      "statement": "Why does the text mention two different measures of biodiversity?",
+      "context": "Text: 'The dry forest lost more species than the wet forest, yet it recovered faster after the drought ended. One measure of diversity fell while another measure of abundance rose.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "To show that the answer depends on which measure is used",
+          "is_correct": true,
+          "feedback": "When two valid measures point in opposite directions, a single verdict depends on the reader's choice of indicator."
+        },
+        {
+          "letter": "C",
+          "text": "To demonstrate that the two forests are identical",
+          "is_correct": false,
+          "feedback": "The text reports different results, which is the opposite of identity."
+        },
+        {
+          "letter": "D",
+          "text": "To suggest that one of the measurements was wrong",
+          "is_correct": false,
+          "feedback": "Nothing suggests that any measurement was faulty."
+        },
+        {
+          "letter": "A",
+          "text": "To prove that the wet forest is richer in every respect",
+          "is_correct": false,
+          "feedback": "The dry forest recovered faster, so the last option does not follow."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Noticing that a comparison uses different measures on each side is a frequent route to a well-founded criticism. It also explains why two experts can disagree about the same data.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v10",
+      "statement": "What does the text caution against?",
+      "context": "Text: 'The comparison with last year is not exact, since the boundaries of the area were redrawn in March. Figures before and after March therefore cover different territory.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Treating figures from the two periods as directly comparable",
+          "is_correct": true,
+          "feedback": "Different areas in the two periods mean the counts are not measuring the same thing."
+        },
+        {
+          "letter": "C",
+          "text": "Publishing any figures for the year",
+          "is_correct": false,
+          "feedback": "The caution is about comparability, and the text still supplies figures for the year."
+        },
+        {
+          "letter": "D",
+          "text": "Redrawing the boundaries again",
+          "is_correct": false,
+          "feedback": "No suggestion to change the boundaries appears in the passage."
+        },
+        {
+          "letter": "A",
+          "text": "Using the figures from after March only",
+          "is_correct": false,
+          "feedback": "Discarding the later figures would remove the very period the text is discussing."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A change of measurement boundaries is a technical version of the comparability problem. Texts often state this in a footnote, and a reader who notices it can avoid repeating the author's conclusion.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v11",
+      "statement": "What does this comparison allow a reader to conclude?",
+      "context": "Text: 'Both schools were given the same materials and the same training. The school that received three extra teaching hours a week improved more than twice as much as the school that did not.'",
+      "options": [
+        {
+          "letter": "B",
+          "text": "The extra teaching hours were the main factor associated with the larger gain",
+          "is_correct": true,
+          "feedback": "With materials and training held constant, the one varying feature is the extra hours, so the difference points to them."
+        },
+        {
+          "letter": "C",
+          "text": "The school with better teaching is always more successful",
+          "is_correct": false,
+          "feedback": "A general claim about teaching quality is broader than a comparison between two schools."
+        },
+        {
+          "letter": "D",
+          "text": "The materials were of no use in either school",
+          "is_correct": false,
+          "feedback": "Both schools received the same materials, so their value is untested rather than shown to be nil."
+        },
+        {
+          "letter": "A",
+          "text": "Three hours a week is the ideal amount of teaching everywhere",
+          "is_correct": false,
+          "feedback": "One instance cannot establish an ideal amount for every school."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A comparison becomes informative when the compared cases share everything except the factor under examination. Identifying that shared background is what makes the difference meaningful.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v12",
+      "statement": "What is the purpose of the final section?",
+      "context": "Text: 'The report compares two models of rural transport. It presents each in turn, then ends with a short section weighing the practical factors rather than declaring a winner.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To evaluate both options using stated criteria without selecting one",
+          "is_correct": true,
+          "feedback": "Weighing stated factors while declining to choose is the standard form of an evaluative conclusion in a comparison."
+        },
+        {
+          "letter": "B",
+          "text": "To announce the better option after presenting both",
+          "is_correct": false,
+          "feedback": "A declared winner is explicitly excluded by the description."
+        },
+        {
+          "letter": "C",
+          "text": "To repeat the description of the first model",
+          "is_correct": false,
+          "feedback": "The final section evaluates rather than redescribes."
+        },
+        {
+          "letter": "D",
+          "text": "To explain how the two models were built",
+          "is_correct": false,
+          "feedback": "Construction details belong to an earlier section, and the described final section does not address them."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comparison texts often end with an evaluative section that applies criteria to both options. Knowing whether the writer declares a winner tells a reader how much weight to give the text's overall stance.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -278,42 +548,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v13",
+      "statement": "What is the most accurate reading of the text?",
+      "context": "Text: 'Option A costs less and takes longer. Option B costs more and takes less time. The deciding factor for most users was neither price nor speed but comfort.'",
       "options": [
         {
           "letter": "C",
-          "text": "boarding pass",
+          "text": "The stated pairwise contrasts are accurate, and a third factor decides the choice",
           "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "The two sentences form a consistent cost and speed trade-off, and the last sentence adds a criterion outside it."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The text is self-contradictory because it gives two comparisons",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Two comparisons of different dimensions are consistent rather than contradictory."
+        },
+        {
+          "letter": "A",
+          "text": "The text argues that comfort matters more than price and speed",
+          "is_correct": false,
+          "feedback": "The text reports how users decided rather than arguing that comfort should dominate."
+        },
+        {
+          "letter": "B",
+          "text": "The text shows that price and speed are the only criteria considered",
+          "is_correct": false,
+          "feedback": "The final sentence explicitly introduces a factor beyond price and speed."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "A report can present a clean trade-off on two dimensions and then note that users weighed something else. Recognising the third criterion prevents a reader from reducing the text to its first two sentences.\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -323,42 +593,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v14",
+      "statement": "What does the concessive clause contribute?",
+      "context": "Text: 'Compared with the model trained on one site, the model trained on four sites performed better everywhere, although the margin was small at the fourth site itself.'",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "text": "It acknowledges the one case where the advantage was least, which strengthens the claim",
+          "is_correct": true,
+          "feedback": "Noting the smallest margin where the gain is smallest shows the writer checked the claim in every case rather than selecting favourable ones."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "It undermines the claim by showing that the model failed at one site",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "A small margin is still an advantage and does not amount to failure."
+        },
+        {
+          "letter": "C",
+          "text": "It explains why the first model was replaced",
+          "is_correct": false,
+          "feedback": "Nothing in the sentence explains why one model was replaced."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "It reports a statistical test that failed",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "No statistical test is mentioned anywhere in the text."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A concession that reports the least favourable case is a sign of thorough analysis rather than a weakness. This item asks the student to read a limiting statement as evidence about the writer's method.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -368,87 +638,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v15",
+      "statement": "What criticism does this text invite?",
+      "context": "Text: 'The text compares the two languages twice: first by vocabulary, then by word order. Between those two comparisons the text changes what the words mean without announcing it.'",
       "options": [
         {
           "letter": "C",
-          "text": "souvenir",
+          "text": "The two comparisons may not be based on the same meaning of the term, so they may not be comparable",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "If the defining terms shift between the two comparisons, the results belong to different questions and cannot simply be set beside each other."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The second comparison is too long to be read carefully",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Length is a reading concern rather than a logical defect in the comparison."
+        },
+        {
+          "letter": "A",
+          "text": "The text repeats the same evidence twice",
+          "is_correct": false,
+          "feedback": "Repetition would be a stylistic issue and is not described here."
+        },
+        {
+          "letter": "B",
+          "text": "The text should have used more technical vocabulary",
+          "is_correct": false,
+          "feedback": "Technical vocabulary is not a requirement of a valid comparison."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "Consistency of definitions across a comparison is what makes its parts comparable. This item targets the idea that two analyses are only additive if they answer the same question.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -458,132 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v16",
+      "statement": "What does the comparison establish and what does it leave open?",
+      "context": "Text: 'The new law resembles one introduced in another country, but the other country applied it for only two years. Here it has already been in force for six.'",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
+          "letter": "C",
+          "text": "It establishes that the legal texts are similar and leaves open whether the longer application has worked better",
           "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "feedback": "The similarity of the legal texts is stated, and the difference in duration is given without any outcome evidence."
+        },
+        {
+          "letter": "D",
+          "text": "It establishes that the policy has succeeded here because it worked elsewhere",
+          "is_correct": false,
+          "feedback": "A comparison of texts says nothing about results, since no outcome from the other country is reported."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "It shows that the two countries chose the law for the same reasons",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "No reasons for either decision appear in the text."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "It establishes that the law will work better in this country",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "Nothing in the passage predicts future performance here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Textual similarity and practical result are different things. This item asks the student to say what a comparison establishes and to refuse the additional inference that usually gets attached to it.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -593,42 +728,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v17",
+      "statement": "How does the text contrast the two seasons?",
+      "context": "Text: 'Unlike the dry season, the wet season does not begin all at once across the province. In the north it arrives three weeks before it does in the south.'",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "D",
+          "text": "By contrasting uniformity with variation across the province",
           "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "feedback": "The dry season is treated as starting uniformly while the wet season varies by region, and that difference is the contrast being drawn."
+        },
+        {
+          "letter": "A",
+          "text": "By contrasting the wet season with the dry season",
+          "is_correct": false,
+          "feedback": "The dry season appears only as the reference point for the wet one, not as the second item of the contrast."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "By contrasting the north with the south",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "The regional difference is a detail within the wet season rather than the contrast itself."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "By contrasting the length of the two seasons",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "No duration of either season is given anywhere in the text."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A contrast can run between an expected pattern and the actual one rather than between two named items. This item asks the student to locate the real axis of comparison, which is not always the pair of named subjects.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v18",
+      "statement": "What can a careful reader legitimately conclude from this text?",
+      "context": "Text: 'Compared with last year, three more families used the clinic. In that same period the number of staff at the clinic rose by one. The text presents these two numbers side by side without comment.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "That demand and staffing both rose, and that the text does not say whether they rose together",
+          "is_correct": true,
+          "feedback": "Two figures presented without comment permit only a description of both, not a relation between them."
+        },
+        {
+          "letter": "B",
+          "text": "That the clinic became badly understaffed during the period",
+          "is_correct": false,
+          "feedback": "Both figures rose, so a claim of understaffing is not supported."
+        },
+        {
+          "letter": "C",
+          "text": "That the additional family was caused by the new member of staff",
+          "is_correct": false,
+          "feedback": "A causal link in that direction requires evidence the text does not supply."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "That staffing levels are unrelated to demand",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "The text neither establishes nor denies a relationship, and it certainly does not state one."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Placing two numbers side by side suggests a connection that the text never asserts. Naming what a passage leaves unsaid is as precise a reading skill as naming what it says.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -638,42 +818,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v19",
+      "statement": "What type of contrast is presented?",
+      "context": "Text: 'Both versions of the app allow users to save their work. The free version restricts saving to five items, while the paid version places no limit at all.'",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
-        },
-        {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "text": "A quantitative contrast within a shared feature",
+          "is_correct": true,
+          "feedback": "Both share the same feature, and the difference is the numerical limit applied to it."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "A contrast between two entirely different applications",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "The two versions perform the same function and differ only in detail, so they are not different applications."
+        },
+        {
+          "letter": "A",
+          "text": "A temporal contrast between an earlier and a later version",
+          "is_correct": false,
+          "feedback": "No dates or order of release appear in the text."
+        },
+        {
+          "letter": "B",
+          "text": "A contrast of tone between the two versions",
+          "is_correct": false,
+          "feedback": "Nothing in the passage concerns tone or writing style."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Comparisons are not only between different things but often between degrees of the same thing. This item checks whether a reader can see a shared feature before measuring the difference.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",
@@ -683,222 +863,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-v20",
+      "statement": "Which criticism of the review is most accurate?",
+      "context": "Text: 'A review of two films, each described at length and praised in similar terms, concludes: 'The difference between them is negligible.'",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "The conclusion follows from the praise but ignores any difference between the two cases",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "If both films are described almost identically, no dimension has been offered on which one could differ."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The review praises two films and therefore cannot be balanced",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Describing two films in similar terms is exactly what supports the conclusion, so it is not a criticism of balance."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The review should have chosen one film instead of describing both",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "A comparison requires both cases to be described, and the review does that."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The word 'negligible' is not an acceptable English word",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'Negligible' is a standard English word meaning too small to matter."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "C",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A conclusion of equivalence is only supported when a text shows what was compared. This final item asks the student to test whether the stated comparison had any basis at all.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
-        },
-        {
-          "letter": "C",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W19-comparison-contrast-texts-001-MASTERY-bundle",
       "periodo": 19,
       "protocol_version": "5.2",

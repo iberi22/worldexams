@@ -8,131 +8,131 @@
   },
   "questions": [
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v1",
+      "statement": "The idiom 'not my cup of tea' means what?",
+      "context": "The mechanic told the driver: 'Your engine is smoking. I would not drive that car if I were you.'",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
-        },
-        {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
+          "text": "Something the speaker does not enjoy",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
-        },
-        {
-          "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "'Not my cup of tea' is an informal British borrowing used in Latin America too, and it describes a dislike without hostility."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "Something the speaker is afraid of",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "The idiom has no element of fear; 'afraid of' is expressed with a different set of words entirely."
+        },
+        {
+          "letter": "D",
+          "text": "Something the speaker has never heard of",
+          "is_correct": false,
+          "feedback": "Ignorance is expressed as 'I've never heard of it', and the speaker in the context knows the idiom well."
+        },
+        {
+          "letter": "A",
+          "text": "Something the speaker considers a duty",
+          "is_correct": false,
+          "feedback": "A duty is expressed with 'my job' or 'my responsibility', not with this phrase."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Idioms cannot be decoded word by word, so the learner has to store the whole expression. 'Not my cup of tea' comes from British tea-drinking culture and is widely used in informal English to decline something without giving a strong reason.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v2",
+      "statement": "Which sentence uses the idiom correctly?",
+      "context": "A farmer says his crop failed because of the dry season.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The harvest went down the drain after three months without rain.",
+          "is_correct": true,
+          "feedback": "'Go down the drain' means to be lost or ruined, which is exactly what happened to the harvest."
+        },
+        {
+          "letter": "B",
+          "text": "The harvest went down the drain where the teacher sits.",
+          "is_correct": false,
+          "feedback": "The idiom has no relation to the location of a teacher, so the prepositional tail is ungrammatical."
+        },
+        {
+          "letter": "C",
+          "text": "The harvest went down the drain how the rain fell.",
+          "is_correct": false,
+          "feedback": "The idiom is not a clause about the rain, and it cannot be followed by a manner clause beginning with 'how'."
+        },
+        {
+          "letter": "D",
+          "text": "The harvest went down the drain that rain fell.",
+          "is_correct": false,
+          "feedback": "The relative clause with 'that' has no subject of its own inside this fixed expression."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Idioms are fixed expressions: their prepositions cannot be replaced and their internal syntax cannot be extended. The three broken options show what happens when a learner treats the phrase as ordinary vocabulary and tries to insert a clause inside it.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v3",
+      "statement": "What does the idiom 'to be dying to' mean?",
+      "context": "A student says about the school debate: 'I was dying to hear what the other team would say.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "To want something very much",
+          "is_correct": true,
+          "feedback": "'Be dying to' plus an infinitive expresses strong desire, and hearing the debate was what the student wanted."
+        },
+        {
+          "letter": "D",
+          "text": "To be close to dying",
+          "is_correct": false,
+          "feedback": "The literal reading about illness has no support in the context, which is about a school debate."
+        },
+        {
+          "letter": "A",
+          "text": "To be very tired",
+          "is_correct": false,
+          "feedback": "Extreme tiredness would be expressed by 'be exhausted', which names tiredness rather than desire."
+        },
+        {
+          "letter": "B",
+          "text": "To refuse to do something",
+          "is_correct": false,
+          "feedback": "Refusal is expressed by 'refuse to' or 'be unwilling to', neither of which appears here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The expression is a hyperbole: the speaker is not ill, only extremely eager. Learners who know the idiom can use it in informal speech to explain enthusiasm, and they can also recognise it in a reading passage.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
@@ -143,37 +143,37 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v4",
+      "statement": "What does the idiom 'to bite the bullet' mean?",
+      "context": "Two friends are talking about final examinations: 'We have to bite the bullet and study all night.'",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
-        },
-        {
           "letter": "B",
-          "text": "flight",
+          "text": "To accept something unpleasant with courage",
+          "is_correct": true,
+          "feedback": "'Bite the bullet' means to endure an unpleasant necessity, which is what studying all night after a whole term requires."
+        },
+        {
+          "letter": "C",
+          "text": "To eat a hard object by accident",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "The literal reading of eating something hard is not intended; the expression comes from old military surgery."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "To speak very loudly about a problem",
           "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "Speaking loudly is described by 'speak up' or 'raise one's voice', which is a different phrase."
+        },
+        {
+          "letter": "A",
+          "text": "To avoid a difficult decision for ever",
+          "is_correct": false,
+          "feedback": "Avoiding the decision forever is the opposite of what the idiom expresses, which is acceptance."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The origin is a field operation without anaesthesia, where a soldier bit on a leather strap during surgery. In modern English the phrase names stoicism under necessity, which is why it appears in school and workplace conversations alike.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,42 +188,222 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v5",
+      "statement": "The news report says the session was a ____, because nobody came.",
+      "context": "A news report describes a vote in the congress: only three deputies turned up.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
-        },
-        {
           "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "text": "farce",
+          "is_correct": true,
+          "feedback": "'A farce' is a piece of theatre written for comic effect, and calling an empty session a farce is a sarcastic comment."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "purchase",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "'Purchase' names a commercial transaction and has no idiomatic use with 'session'."
+        },
+        {
+          "letter": "D",
+          "text": "harvest",
+          "is_correct": false,
+          "feedback": "'Harvest' is the gathering of crops, and a congress session is not a farm activity."
+        },
+        {
+          "letter": "A",
+          "text": "shortage",
+          "is_correct": false,
+          "feedback": "'Shortage' names a lack of quantity, but 'shortage' is not a word that describes a session as absurd."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "English uses nouns from theatrical and legal registers to characterise events metaphorically. A session with almost no deputies is a farce; a court case with no evidence is a travesty; both belong to the same family of figurative labels that an advanced reader should recognise.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v6",
+      "statement": "Which phrase describes what happened to the screw?",
+      "context": "A carpenter explains that a screw, once rusted into the wood, cannot be removed easily.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "stuck in a rut",
+          "is_correct": true,
+          "feedback": "'In a rut' means to be trapped in an unchanging routine, and the screw is fixed in the same groove."
+        },
+        {
+          "letter": "D",
+          "text": "stuck in a rat",
+          "is_correct": false,
+          "feedback": "'A rat' is a rodent and has no idiomatic use with 'stuck'."
+        },
+        {
+          "letter": "A",
+          "text": "stuck in a hut",
+          "is_correct": false,
+          "feedback": "'A hut' is a small house, so the phrase would describe a building, not a screw."
+        },
+        {
+          "letter": "B",
+          "text": "stuck in a nut",
+          "is_correct": false,
+          "feedback": "'A nut' is a piece of hardware, but 'stuck in a nut' is not an English expression."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'In a rut' is one of the smallest idioms in English: two ordinary words that cannot be rearranged. It describes both a physical groove and, by extension, a habit or routine that a person cannot leave.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v7",
+      "statement": "Which idiom best describes the government in the article?",
+      "context": "A journalist writes that the government has ignored every warning about the river pollution.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "turned a deaf ear",
+          "is_correct": true,
+          "feedback": "'Turn a deaf ear' means to refuse to listen, which matches warnings that were ignored."
+        },
+        {
+          "letter": "A",
+          "text": "turned a blind eye to it",
+          "is_correct": false,
+          "feedback": "'Turn a blind eye' means to pretend not to see, which is close but requires a visible event rather than words heard."
+        },
+        {
+          "letter": "B",
+          "text": "turned a deaf eye and a blind ear to it",
+          "is_correct": false,
+          "feedback": "Joining both idioms in one clause produces a blend that no speaker uses and that sounds like a translation."
+        },
+        {
+          "letter": "C",
+          "text": "turned a deaf year",
+          "is_correct": false,
+          "feedback": "'A deaf year' is not an English expression and cannot follow 'turned'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "English has separate idioms for refusing to hear and for pretending not to see, and learners often blend them because Spanish uses a single verb for both. This item asks the student to keep the two apart and to reject invented combinations.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v8",
+      "statement": "Which idiom in the coach's words expresses confidence in the team's ability?",
+      "context": "A coach tells the team before the final: 'The match will be tough, but we can handle it.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "handle it",
+          "is_correct": true,
+          "feedback": "'Handle it' means to manage a difficult situation successfully, which is the sense of the coach's confidence."
+        },
+        {
+          "letter": "A",
+          "text": "handle the sky",
+          "is_correct": false,
+          "feedback": "'Handle the sky' is not an English idiom; the sky is not something a team can control."
+        },
+        {
+          "letter": "B",
+          "text": "hand it over",
+          "is_correct": false,
+          "feedback": "'Hand it over' means to surrender something to another person, which is the opposite of managing it."
+        },
+        {
+          "letter": "C",
+          "text": "hang it up",
+          "is_correct": false,
+          "feedback": "'Hang it up' means to stop an activity, as in hanging up the phone, and would end the effort."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Every idiom here begins with the same verb, so the test isolates the particle. Only 'handle it' expresses the ability to cope, and the three distractors reuse the same verb in unrelated senses, which is the typical confusion in exam options.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v9",
+      "statement": "The idiom 'to pull one's fingers out' means what?",
+      "context": "After the storm, the family found their garden in ruins and had to rebuild everything.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To work hard instead of being lazy",
+          "is_correct": true,
+          "feedback": "'Pull one's fingers out' means to make an effort and stop being idle, which is what rebuilding required."
+        },
+        {
+          "letter": "B",
+          "text": "To examine one's hands carefully",
+          "is_correct": false,
+          "feedback": "The literal reference to hands is figurative and does not describe an inspection of fingers."
+        },
+        {
+          "letter": "C",
+          "text": "To plant vegetables again",
+          "is_correct": false,
+          "feedback": "Planting vegetables would be described by verbs such as 'plant' or 'sow', which is a different activity."
+        },
+        {
+          "letter": "D",
+          "text": "To count the days until the storm returns",
+          "is_correct": false,
+          "feedback": "Waiting for the storm to return is described by waiting, and the phrase carries no idea of time."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The idiom comes from the military command to stop fiddling and start working. In British and Latin American English it is a fairly direct reminder to stop being lazy, and it appears frequently in workplace and school conversations.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -233,42 +413,267 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v10",
+      "statement": "Which sentence uses an idiom in the way English speakers use it?",
+      "context": "Two classmates discuss a difficult exam they could not finish.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
-        },
-        {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "text": "We were out of our depth with the last section of the paper.",
+          "is_correct": true,
+          "feedback": "'Out of one's depth' describes being in a situation beyond one's ability, which fits an exam section they could not finish."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "We were out of our depth at the bottom of the swimming pool.",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "The swimming pool reading is the literal image behind the idiom, but it is not the idiomatic use."
+        },
+        {
+          "letter": "A",
+          "text": "We were out of our depth of the swimming pool.",
+          "is_correct": false,
+          "feedback": "A preposition cannot be replaced: the phrase is 'out of', not 'out of of'."
+        },
+        {
+          "letter": "B",
+          "text": "We were out of our depths with the last section of the paper.",
+          "is_correct": false,
+          "feedback": "'Depths' is plural here, while the idiom requires the singular form after 'one's'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The idiom grew out of the image of a swimmer in water too deep to stand in, and it now describes any task that exceeds a person's competence. The item keeps the metaphor available but marks it as non-idiomatic in the answer.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v11",
+      "statement": "Which word completes the idiom correctly?",
+      "context": "A worker says about her new job: 'The first month was hell.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "hell",
+          "is_correct": true,
+          "feedback": "'Hell' is the correct word in this informal idiom, meaning a very difficult experience."
+        },
+        {
+          "letter": "A",
+          "text": "shell",
+          "is_correct": false,
+          "feedback": "'Shell' is the hard outer layer of an egg, and 'a shell month' is not English."
+        },
+        {
+          "letter": "B",
+          "text": "heel",
+          "is_correct": false,
+          "feedback": "A heel is the back part of the foot, so the word has no place in this expression."
+        },
+        {
+          "letter": "C",
+          "text": "hellum",
+          "is_correct": false,
+          "feedback": "'Hellum' is not an English word at all and appears only as an invented distractor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The exercise tests spelling inside a colloquial expression, because students often hear the phrase and then write a near-homophone. 'It was hell' is informal, dramatic and very common among Costa Rican students when they describe a demanding semester.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v12",
+      "statement": "Which idiom best describes that situation?",
+      "context": "A report says that one company controls most of the banana exports from the country.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has a stranglehold on",
+          "is_correct": true,
+          "feedback": "A 'stranglehold' is a tight grip, and the metaphor of choking expresses total control over a market."
+        },
+        {
+          "letter": "B",
+          "text": "has a handshake on",
+          "is_correct": false,
+          "feedback": "A handshake suggests cooperation or agreement, not domination."
+        },
+        {
+          "letter": "C",
+          "text": "has a sandbox on",
+          "is_correct": false,
+          "feedback": "A sandbox is a children's play area and has no figurative meaning here."
+        },
+        {
+          "letter": "D",
+          "text": "has a staircase on",
+          "is_correct": false,
+          "feedback": "A staircase is a set of steps and cannot describe control over exports."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Idioms give abstract power a physical image. A stranglehold is an especially strong choice for market control, and recognising it lets a student understand economic journalism that uses vivid language instead of statistics.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v13",
+      "statement": "Which sentence uses the idiom naturally?",
+      "context": "A teenager tells her grandmother that she will call her when she gets home at midnight.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "She promised to keep her grandmother posted.",
+          "is_correct": true,
+          "feedback": "'Keep someone posted' means to inform them regularly, and that is what the teenager is promising."
+        },
+        {
+          "letter": "C",
+          "text": "She promised to keep her grandmother posted up.",
+          "is_correct": false,
+          "feedback": "The particle 'up' is not part of the idiom and cannot be added to it."
+        },
+        {
+          "letter": "D",
+          "text": "She promised to post her grandmother.",
+          "is_correct": false,
+          "feedback": "Posting a person is not an English combination; posting applies to letters and parcels."
+        },
+        {
+          "letter": "A",
+          "text": "She promised to keep her grandmother in the post.",
+          "is_correct": false,
+          "feedback": "The prepositional phrase has been broken, leaving the idiom ungrammatical."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "'Keep someone posted' is one of the most useful idioms for family and school communication, since it means to share news as it happens. The options show the two classic learner errors: adding a particle and reversing the word order.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v14",
+      "statement": "The canal is described as a ____ of nineteenth-century engineering because it works exactly as designed.",
+      "context": "A historian explains why a nineteenth-century canal is still in use.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "monument",
+          "is_correct": true,
+          "feedback": "'A monument to engineering' is the natural collocation, and the canal survives as a lasting example of that period."
+        },
+        {
+          "letter": "D",
+          "text": "monkey",
+          "is_correct": false,
+          "feedback": "'Monkey' is an animal and cannot be modified to name a structure of historical importance."
+        },
+        {
+          "letter": "A",
+          "text": "monumental of",
+          "is_correct": false,
+          "feedback": "'Monumental of' is not an English phrase; the preposition 'to' is required."
+        },
+        {
+          "letter": "B",
+          "text": "moment",
+          "is_correct": false,
+          "feedback": "'Moment' names a very short space of time and does not describe a lasting work of engineering."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A monument is normally described with 'a monument to' plus an achievement, and historians use it whenever a structure survives its original purpose. The item sets the correct collocation against a homophone and a broken prepositional phrase.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v15",
+      "statement": "Which phrase would mean the opposite of what the speaker says?",
+      "context": "A friend says: 'Do not worry about the exam. You have done enough.'",
+      "options": [
+        {
+          "letter": "D",
+          "text": "You are in over your head",
+          "is_correct": true,
+          "feedback": "'In over your head' means to be in a situation more difficult than one can manage, which is the opposite of reassurance."
+        },
+        {
+          "letter": "A",
+          "text": "You have done enough",
+          "is_correct": false,
+          "feedback": "This phrase repeats the speaker's own reassurance, so it cannot express the opposite."
+        },
+        {
+          "letter": "B",
+          "text": "You are on cloud nine",
+          "is_correct": false,
+          "feedback": "'On cloud nine' means to be very happy, a different idea rather than the opposite of encouragement."
+        },
+        {
+          "letter": "C",
+          "text": "You are down to earth",
+          "is_correct": false,
+          "feedback": "'Down to earth' means to be practical and sensible, which is neither the opposite nor a related idiom."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Idioms are graded in meaning: some intensify a positive state and some describe being overwhelmed. This item asks the learner to invert the force of the original message, which requires knowing the semantic field of each expression rather than translating it.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -278,42 +683,42 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v16",
+      "statement": "What does the idiom 'to learn the ropes' mean?",
+      "context": "A supervisor tells a new employee: 'You will have to learn the ropes before you work alone.'",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "text": "To learn how a job is done",
+          "is_correct": true,
+          "feedback": "The expression comes from sailing ships, where new crew were taught the ropes of the vessel, and it now means learning any job."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "To learn to tie nautical knots",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "Knots are related to sailing, but the idiom does not name knots in modern English."
+        },
+        {
+          "letter": "C",
+          "text": "To learn how to climb a mast",
+          "is_correct": false,
+          "feedback": "Climbing a mast was a task on a ship, yet the phrase has no reference to height or rigging."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "To learn how to sew sails",
           "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "feedback": "Sewing sails was sailmaking, a separate trade, and the idiom never described it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "A useful family of idioms shares this sailing origin: 'know the ropes', 'a rope to hang on' and 'three sheets in the wind'. Knowing the shared origin makes the whole group memorable instead of a list of unrelated phrases.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -323,42 +728,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v17",
+      "statement": "Which sentence reports the change correctly?",
+      "context": "A school principal announces that classes will start at seven instead of eight this term.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "Classes will now start an hour earlier",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "feedback": "Moving from eight to seven means an earlier hour, which is the plain meaning of the announcement."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "Classes will now start an hour later",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "Starting at seven instead of eight is not later, so this contradicts the notice."
+        },
+        {
+          "letter": "B",
+          "text": "Classes will now start an hour afterwards",
+          "is_correct": false,
+          "feedback": "'Afterwards' refers to a sequence after another event, and it would reverse the change announced."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Classes will now start an hour heavier",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "'Heavier' cannot describe an hour; it is a weight adjective and has no time meaning."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "This item uses a common exam technique: the options differ by one word that carries the direction of the change. Reading for the direction, rather than for the topic, is what prevents a student from choosing the option that merely sounds plausible.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v18",
+      "statement": "Which idiomatic phrase means that the plan will fail completely?",
+      "context": "An article criticises a government plan that will not solve the water problem.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "will not cut the mustard",
+          "is_correct": true,
+          "feedback": "'Cut the mustard' is the standard phrase for failing to meet a required standard."
+        },
+        {
+          "letter": "C",
+          "text": "will not cut the grass",
+          "is_correct": false,
+          "feedback": "Grass has no idiom of this kind; the expression cannot be invented word by word."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "will not cut the cheese",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "Cheese is a food and appears in no idiomatic combination with 'cut' here."
+        },
+        {
+          "letter": "A",
+          "text": "will not cut the smoke",
+          "is_correct": false,
+          "feedback": "Smoke cannot be cut, so the option is not an English expression at all."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Idioms resist literal construction, so the learner must retrieve 'cut the mustard' as a whole. The three distractors replace the noun with an object that makes the image absurd, which exposes learners who build phrases from the individual words.\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",
@@ -368,537 +818,87 @@
       "country": "cr"
     },
     {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v19",
+      "statement": "Which phrase means that there is nothing to worry about?",
+      "context": "A nurse tells a worried visitor that the patient will be fine after the operation.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "text": "There is no need to fret",
+          "is_correct": true,
+          "feedback": "'Fret' means to worry, so 'no need to fret' states that the worry is unnecessary."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "There is no need to free",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "'Free' means to release or to be at liberty, and it has nothing to do with worry."
+        },
+        {
+          "letter": "C",
+          "text": "There is no need to eat",
+          "is_correct": false,
+          "feedback": "Eating is unrelated to the reassurance the nurse is offering."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "There is no need to freeze",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "'Freeze' means to become very cold or to stop moving with water, and it does not express reassurance."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A common exam format offers a real word and three homophones of the key word, testing whether the student knows the meaning of the expression or only its spelling. Recognising that 'fret' is the only verb of worry among the four resolves the item.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.7,
+      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "cr"
+    },
+    {
+      "id": "CR-ING-11-2026-W04-idioms-expressions-v20",
+      "statement": "What does the idiom 'by a hair' mean?",
+      "context": "A student reviews her exam results: 'I studied for hours, and thankfully I passed by a hair.'",
+      "options": [
+        {
+          "letter": "C",
+          "text": "By a very small margin",
+          "is_correct": true,
+          "feedback": "The idiom compares the margin to a hair's width, so it means by a very small amount."
+        },
+        {
+          "letter": "D",
+          "text": "By a short haircut",
+          "is_correct": false,
+          "feedback": "A haircut is not what the expression means, since it is a figurative measurement."
+        },
+        {
+          "letter": "A",
+          "text": "By one whole point",
+          "is_correct": false,
+          "feedback": "One whole point would be described as a point, not as a hair."
+        },
+        {
+          "letter": "B",
+          "text": "By a large margin",
+          "is_correct": false,
+          "feedback": "A large margin is the opposite of what 'by a hair' says."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
-          "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "Idioms that borrow a physical object work as units of measurement: 'by a hair', 'by a whisker', 'by a nose'. A student who knows the family can infer the degree from any member, which is faster than memorising each phrase separately.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
-        },
-        {
-          "letter": "C",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
-          "letter": "B",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
-        },
-        {
-          "letter": "B",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
-        },
-        {
-          "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
-        },
-        {
-          "letter": "C",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
-      "periodo": 4,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "cr"
-    },
-    {
-      "id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "CR-ING-11-2026-W04-idioms-expressions-001-MASTERY-bundle",
       "periodo": 4,
       "protocol_version": "5.2",

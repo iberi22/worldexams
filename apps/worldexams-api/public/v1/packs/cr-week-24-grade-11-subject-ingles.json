@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the subjunctive correctly after the verb 'suggest'?",
+      "context": "Students in Heredia are planning the school concert for June.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "Marta suggested that we start the rehearsal early.",
+          "is_correct": true,
+          "feedback": "Correct! After 'suggested that' the clause is subjunctive, so the bare base form 'start' is required, not 'will start'."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "Marta suggested that we will start the rehearsal early.",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "The modal 'will' keeps the clause indicative. A that-clause of suggestion needs the bare base form of the verb."
+        },
+        {
+          "letter": "C",
+          "text": "Marta suggested that we started the rehearsal early.",
+          "is_correct": false,
+          "feedback": "A past indicative form appears here. The subjunctive carries no tense, so the base form 'start' must be kept."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Marta suggested us to start the rehearsal early.",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "The pattern 'suggest someone to do' does not exist; 'suggest' takes a that-clause in the subjunctive or a gerund."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Verbs of suggestion, request and recommendation such as 'suggest', 'recommend' and 'insist' are followed by 'that' plus a subjunctive clause, which keeps the base form of the verb.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'The doctor insisted that she ______ smoking'?",
+      "context": "A doctor in Heredia gives a patient a firm instruction about her health.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "stops",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "A present simple form belongs to the indicative. The verb after 'insisted that' must appear as a bare base form."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "will stop",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "The modal 'will' makes the clause indicative, while the subjunctive drops tense markers and negates the base form."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "not smoke",
+          "is_correct": true,
+          "feedback": "Correct! A negative subjunctive places 'not' directly before the base form, so 'insisted that she not smoke' is right."
+        },
+        {
+          "letter": "D",
+          "text": "doesn't smoke",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "A contracted auxiliary marks tense and agreement, which the subjunctive lacks; negate the base form with 'not' instead."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "The subjunctive has no tense and no agreement, so its negative is made by putting 'not' before the base form: 'insisted that he not be late', never 'that he isn't late'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "How should 'Carlos proposed that we should visit Monteverde' be rewritten?",
+      "context": "Carlos proposes a weekend trip to Monteverde for the whole class.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "text": "Carlos proposed that we will visit Monteverde.",
+          "is_correct": false,
+          "feedback": "Keeping a modal or replacing 'should' with 'will' leaves the clause indicative; the subjunctive needs the bare form."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "text": "Carlos proposed that we visit Monteverde.",
+          "is_correct": true,
+          "feedback": "Correct! 'Should' is redundant inside a that-clause after 'proposed', so the modal is dropped and 'visit' stands alone."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Carlos proposed that we visited Monteverde.",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The past form 'visited' is indicative; a clause of proposal is not tied to a tense, so it takes the base form."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Carlos proposed us that we visit Monteverde.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "A that-clause cannot follow an indirect object with 'us'; 'proposed' takes either a bare that-clause or a gerund."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "A 'should' inside a that-clause after 'propose', 'recommend' or 'demand' is unnecessary, because the subjunctive already marks distance from reality and replaces the modal.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He wrote 'I suggested to her that we should cancel the trip.' What is wrong?",
+      "context": "A student writes about a suggestion he made to the principal of his school in Alajuela.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "Nothing; the sentence is fully correct as written.",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "The sentence has two real problems, so accepting it as written would hide both a complement error and a modal error."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "'Suggested' is wrong here; the verb should be 'propose'.",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "'Suggest' is the natural verb for a proposal, and 'propose' would still need the same subjunctive that-clause structure."
+        },
+        {
+          "letter": "C",
+          "text": "'Cancel' is wrong, since the subjunctive needs a past form.",
+          "is_correct": false,
+          "feedback": "The subjunctive does not move into a past tense; it keeps the base form 'cancel' whatever the tense of the main verb."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "text": "Two problems: 'suggest' rejects 'to her', and 'should' must go.",
+          "is_correct": true,
+          "feedback": "Correct! 'Suggest' takes no indirect object, and the modal 'should' is redundant, so the clause must read 'that we cancel'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Two frequent errors sit in that-clauses of suggestion: adding an indirect object after 'suggest', and leaving 'should' inside the clause. The correct text is 'suggested that we cancel the trip'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the subjunctive correctly with the expression 'high time'?",
+      "context": "The last bus from Turrialba leaves at six, so the students start to hurry.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "It is high time that we left for Turrialba.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Correct! 'It is high time that' takes a past form as the subjunctive, and here 'left' points to the next unfulfilled moment."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "It is high time that we will leave for Turrialba.",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "A future modal states a prediction, while the fixed expression 'it is high time that' demands the past subjunctive."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "It is high time that we are leaving for Turrialba.",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "The present progressive describes an action in progress; the subjunctive after 'high time' always uses the simple past."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It is high time that we would leave for Turrialba.",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "'Would' belongs to conditional and polite structures; the fixed pattern is a plain past form after 'high time that'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Fixed expressions such as 'it is high time that', 'it is time that' and 'it is about time that' take the subjunctive in the simple past, a form borrowed from the past tense.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'I wish I ______ more time to prepare the report'?",
+      "context": "Ana at a school in Cartago regrets how she spent her last term.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
+          "feedback": "The bare base form points to a present reality, while a regret about the past needs the past subjunctive 'had'."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct! An unreal wish about the past takes the subjunctive 'had': 'I wish I had had more time to prepare it'."
+        },
+        {
+          "letter": "C",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "'Will have' states a future fact, but this wish is counterfactual, so the verb of the second clause goes to the past."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "am having",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "A present progressive is an indicative form; the subjunctive strips tense and keeps the single past form 'had'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "With 'wish', the verb of the second clause decides the reading: the past form 'had' signals an unreal past, as in 'I wish I had known the answer'.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'The coach would rather that they ______ to Limon'?",
+      "context": "The volleyball coach in Puntarenas talks about the final his team played last weekend.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
+          "text": "go",
+          "is_correct": false,
+          "feedback": "The base form fits a present or future preference, but the match happened last weekend, so the past is needed."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "are going",
           "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "feedback": "The present progressive states a current situation; 'would rather' with a past reference requires the past subjunctive."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "will go",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "'Will go' points forward to a new choice, while the speaker is already looking back at last weekend."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "text": "had gone",
+          "is_correct": true,
+          "feedback": "Correct! 'Would rather' plus a that-clause uses the past subjunctive for a past or unreal preference: 'had gone'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "A that-clause after 'would rather' follows the subjunctive: the base form describes a present preference and the past form describes a past or unreal one, as in 'would rather that he had stayed'.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the formal subjunctive in an 'even if' clause?",
+      "context": "The referee in Liberia explains that the match would go on in any weather.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
+          "text": "Even if it were raining, the match would go on.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "feedback": "Correct! Formal concessions after 'even if' use the subjunctive 'were' because the situation is imagined, not reported."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Even if it is raining, the match will go on.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "A present simple with 'even if' states a real possibility in the present, and 'will' turns the sentence into a prediction."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Even if it rained, the match went on.",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "The past indicative reports what actually happened, while a subjunctive condition stays unreal however it is phrased."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Even if it has rained, the match would go on.",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "The present perfect points to a real earlier rain; the subjunctive 'were raining' keeps the condition purely hypothetical."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "In formal English, 'were' replaces 'was' in subjunctive conditions, including unreal concessions after 'even if', because the speaker treats the situation as imagined rather than actual.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly complements the past form 'suggested' with a gerund?",
+      "context": "At a cafe in Heredia, Diego offers the group a plan for Saturday morning.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
+          "letter": "A",
+          "text": "Diego suggested that going to the beach would be fun.",
+          "is_correct": false,
+          "feedback": "A gerund cannot stand inside a that-clause; the subjunctive there takes a bare base form, for example 'that we go'."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "Diego suggested to go to the beach.",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "The bare infinitive is not an accepted complement of 'suggest'; this verb takes a gerund or a that-clause in the subjunctive."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "text": "Diego suggested going to the beach.",
+          "is_correct": true,
+          "feedback": "Correct! 'Suggest' accepts a gerund, 'suggested going', or a that-clause in the subjunctive, but never 'suggested to go'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Diego suggested that we to go to the beach.",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "An infinitive cannot follow 'that'; a subjunctive that-clause needs a finite base form, so the right version is 'that we go'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'Suggest' has two complement patterns only: a gerund, as in 'suggested going', or a that-clause in the subjunctive, as in 'suggested that we go'. The pattern 'suggested to go' is always wrong.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'During the drill, he acted as if he ______ nothing'?",
+      "context": "A witness describes the strange calm of a student during the earthquake drill at a school in San Jose.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
+          "text": "feels",
+          "is_correct": false,
+          "feedback": "The present simple describes a real, repeated reaction, while 'as if' here looks back at a past moment."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "text": "felt",
+          "is_correct": true,
+          "feedback": "Correct! 'As if' with a past reference takes the past form 'felt' as a subjunctive, presenting the calm as pretended."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "has felt",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "The present perfect links the reaction to now, but the whole sequence described here is already past."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "would feel",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "A conditional 'would feel' imagines a future reaction, and 'acted as if' after a past event points backwards."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The pattern 'as if' or 'as though' plus a past form is a subjunctive: it presents a comparison as imagined or pretended, which formal English prefers to a tense that claims reality.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the subjunctive after a verb of doubt?",
+      "context": "A student in Alajuela reads a rumor about the new grading policy of his school.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
+          "text": "I believe that the policy changes next year.",
+          "is_correct": false,
+          "feedback": "'Believe' states an opinion the speaker accepts, so it takes the indicative rather than the subjunctive."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "She supposes that every teacher agrees with the change.",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "'Suppose' used positively means 'imagine' and keeps the indicative; its negative form would trigger the subjunctive."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "text": "I doubt that the new policy is fair to everyone.",
+          "is_correct": true,
+          "feedback": "Correct! 'Doubt that he is' is a classic subjunctive pattern, because the speaker keeps the claim separate from his own belief."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "He thinks that the policy will surprise the students.",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "'Thinks' reports an opinion he shares, so 'will surprise' is expected; only negated verbs of thinking use the subjunctive."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Verbs and expressions of doubt or negation trigger the subjunctive: 'doubt that', 'I don't think that', 'it is not true that'. Positive forms like 'think' keep the indicative.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'It is essential that the equipment ______ first'?",
+      "context": "A lab technician in Cartago prepares the school laboratory for a safety inspection.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
+          "text": "be",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
+          "feedback": "Correct! The passive of the subjunctive keeps 'be' unchanged, so the sentence reads 'that the equipment be checked'."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "A present simple 'is' makes the clause indicative; after 'it is essential that' the passive must be 'be checked'."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "feedback": "The future 'will be' predicts an event, while the subjunctive here marks necessity, not a forecast."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "'Are' is a plural agreement form that fits no subject here; the subjunctive drops agreement and keeps the bare 'be'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "The passive of the subjunctive is formed with 'be' plus a past participle, and 'be' never takes agreement: 'that the doors be locked' before the storm.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Rewrite it in the subjunctive: 'You should see a doctor about those headaches.' How?",
+      "context": "A school counselor in Santa Cruz advises a student who has headaches every week.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "I recommend you see a doctor about those headaches.",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "'Recommend' does not take an object plus a bare infinitive; it takes a that-clause or a gerund as its complement."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "I recommend that you will see a doctor about those headaches.",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "The modal 'will' keeps the clause indicative, while a recommendation needs the bare base form after 'that'."
+        },
+        {
+          "letter": "C",
+          "text": "I recommend that you should see a doctor about those headaches.",
+          "is_correct": false,
+          "feedback": "'Should' is redundant inside a that-clause of recommendation; the subjunctive already carries the obligatory mood."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "text": "I recommend that you see a doctor about those headaches.",
+          "is_correct": true,
+          "feedback": "Correct! 'Recommend that' plus the bare base form is the standard subjunctive pattern and it keeps the force of the advice."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "To turn advice with 'should' into the subjunctive, place the verb after 'that' in its base form; 'should' is dropped because the subjunctive already expresses obligation.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'If she ______ the library, her project would be ready'?",
+      "context": "A student in Monteverde explains why her science project was not ready last semester.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "consulted",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "A bare past form reads as a real past habit, while an unreal third condition needs 'had' plus the participle."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "text": "had consulted",
+          "is_correct": true,
+          "feedback": "Correct! An unreal past condition uses 'had' plus the past participle, matched by the unreal result 'would have been'."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "has consulted",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "The present perfect points to a consultation that really happened, but this sentence describes one that never did."
+        },
+        {
+          "letter": "D",
+          "text": "will consult",
+          "is_correct": false,
+          "feedback": "A future 'will consult' cannot produce a past result; 'would have been ready' already fixes the condition in the unreal past."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The if-clause of a third conditional is subjunctive: the auxiliary 'had' carries the whole unreal past, so no other tense appears and the main verb follows as a participle.\n\n---",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which order is correct for 'recommended that every coach attend the training'?",
+      "context": "A school board in Alajuela debates a formal proposal about its sports program.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "text": "The board recommended every coach that attend the training in Nicoya.",
+          "is_correct": false,
+          "feedback": "'Recommended' does not take an indirect object before a that-clause; the clause itself carries the subject 'every coach'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "The board recommended that every coach to attend the training in Nicoya.",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "An infinitive cannot follow 'that'; the subjunctive that-clause needs a finite base form, so 'to attend' is out."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "text": "The board recommended that every coach attend the training in Nicoya.",
+          "is_correct": true,
+          "feedback": "Correct! A recommendation places the subject inside the that-clause and uses the bare base form 'attend' for the subjunctive."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The board recommended that attend every coach the training in Nicoya.",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "English clauses put the verb before the subject, so this order is not grammatical even without the subjunctive issue."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Subjunctive clauses keep normal English word order: subject first, then the base form of the verb with no auxiliary, then the rest of the object, as in 'that every coach attend'.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes the formal advice 'If I ______ you, I would apologize'?",
+      "context": "A friend in Escazu offers honest advice before a difficult conversation with a teacher.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "'Was' belongs to the indicative; formal English uses 'were' in subjunctive conditions, for every person."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "am",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Am' is a present simple form and fits only real conditions, but this advice imagines a situation."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "be",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "'Be' is the base form and would need a modal such as 'might'; after 'if' the subjunctive takes the past form."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correct! 'Were' replaces 'was' in every subjunctive 'if' clause, which is why we say 'If I were you' in advice."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The subjunctive 'be' form is 'were' for every person: 'If she were here', 'If they were richer'. It marks hypothetical or imagined situations instead of facts.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which is the formal way to state a purpose with the expression 'in order that'?",
+      "context": "A teacher in Tibas explains why she uses visual aids in her history classes.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "She used posters in order that the students will remember the dates.",
           "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "feedback": "'Will' states a definite future result, while the subjunctive 'might' expresses an aim rather than a prediction."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "She used posters in order that the students might remember the dates.",
+          "is_correct": true,
+          "feedback": "Correct! A purpose clause after 'in order that' commonly takes the subjunctive modal 'might', which leaves the outcome open."
+        },
+        {
+          "letter": "C",
+          "text": "She used posters in order that the students remember the dates.",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "A bare present form presents the outcome as already real, but formal purpose clauses prefer 'might' here."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "She used posters so that the students would remembering the dates.",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "'Would remembering' mixes a modal with a gerund; the subjunctive needs a plain base form after 'would' or 'might'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Formal purpose clauses introduced by 'in order that' or 'so that' often use a subjunctive modal such as 'might', because the speaker wants an outcome instead of announcing a fact.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb completes 'Suppose that the mayor ______ the bus fare'?",
+      "context": "A student in Quevedo imagines how a cheaper bus fare would help the towns of her province.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "will cut",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "'Will cut' is a future indicative; 'Suppose that' introduces a hypothesis the speaker imagines, so the base form is needed."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "cut",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "'Cut' is the past form, but the subjunctive here refers to an imagined present situation, not to a past event."
+        },
+        {
+          "letter": "C",
+          "text": "cuts",
+          "is_correct": true,
+          "feedback": "Correct! After 'Suppose that' the subjunctive keeps the base form and its third person 's', so 'cuts' is the right choice."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "is cutting",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "'Is cutting' states a real action in progress, while the subjunctive marks a condition being invented for the argument."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
+      "explanation": "Hypothetical clauses after 'suppose', 'imagine' or 'pretend' take the subjunctive, so the verb keeps the base form with third person 's' even after a past verb.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence breaks the subjunctive rule and needs a base form instead?",
+      "context": "An English teacher in San Jose marks a paragraph that four students wrote about school rules.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "It is important that every student arrives on time.",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "feedback": "Here the clause is indicative, because 'arrives' agrees with its subject and states a real habit; it needs 'arrive'."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The teacher insisted that we hand in the lab report.",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "Correct use of the subjunctive: 'insist' takes 'that' plus the bare base form 'hand in', with no tense marking."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "She suggested that we visit the coffee farm in Turrialba.",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "Correct use of the subjunctive: 'suggest' keeps the base form 'visit', so nothing has to be corrected in this sentence."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "He demanded that she be present at the hearing.",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "Correct use of the subjunctive: after 'demanded' the passive 'be present' keeps 'be' with no change in form."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A quick test is to look for tense and agreement inside the that-clause. If the verb agrees with its subject or shows a tense, it is indicative and must become the subjunctive base form.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is the correct formal wording for that resolution about the library?",
+      "context": "A school board in Alajuela writes a formal resolution about building a new library.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "The board decided that the library is built before the rainy season.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "A present simple 'is built' is the indicative, while a board decision is a directive that needs the subjunctive passive."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "The board decided that the library will be built before the rainy season.",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "'Will be built' states a prediction rather than an official order, but a resolution expresses obligation."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "The board decided that the library was built before the rainy season.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "The past passive 'was built' reports a finished event, and the board is deciding what still has to happen."
+        },
+        {
+          "letter": "D",
+          "text": "The board decided that the library be built before the rainy season.",
+          "is_correct": true,
+          "feedback": "Correct! A formal decision uses the subjunctive, and in the passive the auxiliary 'be' never changes form."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "explanation": "Formal decisions, demands and requirements take a that-clause in the subjunctive. In the passive the auxiliary 'be' stays the same, so the clause reads 'that the library be built'.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle",
       "periodo": 24,
       "protocol_version": "5.2",

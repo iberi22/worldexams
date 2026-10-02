@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The match was cancelled ____ heavy rain flooded the pitch.",
+      "context": "A football match in a Honduran city is called off in the middle of the afternoon.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "because",
+          "is_correct": true,
+          "feedback": "Correct! 'because' introduces the cause that explains the cancellation."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "although",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "'although' introduces a contrast, and no contrasting fact is given here."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "'unless' states a condition that would stop the rain, not a reason for the cancellation."
+        },
+        {
+          "letter": "D",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "'so' presents a result, but this sentence already gives the reason, not a consequence."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "'Because' links an effect to its cause. The rain caused the cancellation, so the reason follows the connector in a second clause.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -54,262 +54,37 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The roads were flooded, ____ the school closed for two days.",
+      "context": "Torrential rain blocks the main road of a town in the valley.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "because",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "'because' would ask for the reason of the flood, and the sentence is already giving a consequence."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
-        },
-        {
-          "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "destination",
+          "text": "so",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "Correct! 'so' shows the result that follows from the first clause."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "although",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "'although' would need a contrast, but nothing opposes the flood."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "'unless' needs a negative clause in the other direction, which the sentence does not have."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Result connectors such as 'so', 'therefore' and 'consequently' point forward from a fact to what follows from it.\n---",
       "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,38 +98,263 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v3",
+      "statement": "I will send you a message ____ I arrive at the airport.",
+      "context": "A traveller tells a friend about the plan for the moment of landing.",
       "options": [
         {
-          "letter": "D",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "even though",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "'even though' introduces a concession, and the sentence states no opposition."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "in spite of",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "'in spite of' is followed by a noun or a gerund, not by a clause with a subject and a verb."
         },
         {
           "letter": "C",
-          "text": "camping",
+          "text": "as soon as",
+          "is_correct": true,
+          "feedback": "Correct! 'as soon as' joins two present or future events, with the earlier one acting as the trigger."
+        },
+        {
+          "letter": "D",
+          "text": "so that",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "'so that' states a purpose, but the message is not a goal that the arrival produces."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'As soon as' is a time connector: the second clause happens immediately after the first one is complete.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v4",
+      "statement": "____ the alarm did not ring, every student reached class on time.",
+      "context": "A school day begins with a bell that sometimes fails to sound.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "'because' would make the failed alarm the reason the students were on time, and it is not."
+        },
+        {
+          "letter": "B",
+          "text": "so",
+          "is_correct": false,
+          "feedback": "'so' would make the students on time a result, and no cause is given here."
+        },
+        {
+          "letter": "C",
+          "text": "unless",
+          "is_correct": false,
+          "feedback": "'unless' requires a negative clause after it, and the clause here is positive."
+        },
+        {
+          "letter": "D",
+          "text": "although",
+          "is_correct": true,
+          "feedback": "Correct! 'although' introduces a fact that is expected to prevent the main clause, which is the classic concessive use."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "'Although' sets an expectation and then breaks it. The alarm should have caused lateness, yet the class was punctual.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v5",
+      "statement": "You will miss the last bus ____ you leave the school now.",
+      "context": "A student checks the clock before the last bus leaves the town.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unless",
+          "is_correct": true,
+          "feedback": "Correct! 'unless' states the only condition that would stop the result in the main clause."
+        },
+        {
+          "letter": "B",
+          "text": "although",
+          "is_correct": false,
+          "feedback": "'although' introduces a concession, and the sentence presents a condition instead."
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "'because' would need a reason for missing the bus, and no reason is offered."
+        },
+        {
+          "letter": "D",
+          "text": "so that",
+          "is_correct": false,
+          "feedback": "'so that' states a purpose, but leaving now is not presented as a goal."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Unless' is followed by a negative clause and means 'if not'. Here the bus is caught only if the student leaves now.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v6",
+      "statement": "She spoke very slowly ____ every student in the hall could hear her.",
+      "context": "A visitor addresses a full auditorium during an open house at a school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "even if",
+          "is_correct": false,
+          "feedback": "'even if' introduces a concession, and no unexpected obstacle is mentioned."
+        },
+        {
+          "letter": "B",
+          "text": "so that",
+          "is_correct": true,
+          "feedback": "Correct! 'so that' introduces a purpose: the slow voice was the means and comprehension the goal."
+        },
+        {
+          "letter": "C",
+          "text": "in case",
+          "is_correct": false,
+          "feedback": "'in case' introduces a precaution against a possible event, and no risk is described."
+        },
+        {
+          "letter": "D",
+          "text": "as long as",
+          "is_correct": false,
+          "feedback": "'as long as' introduces a condition, but the hearing is not stated as a requirement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "'So that' marks purpose. The intention behind the slow, clear voice is that every listener understands the message.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v7",
+      "statement": "The battery is completely empty; ____ we will not be able to take the picture.",
+      "context": "A group is ready to photograph the school parade with a digital camera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "moreover",
+          "is_correct": false,
+          "feedback": "'moreover' adds extra information of the same value, and no addition is made here."
+        },
+        {
+          "letter": "B",
+          "text": "however",
+          "is_correct": false,
+          "feedback": "'however' contrasts two facts, but both clauses agree that the camera is useless."
+        },
+        {
+          "letter": "C",
+          "text": "otherwise",
+          "is_correct": true,
+          "feedback": "Correct! 'otherwise' states the bad alternative if the problem is not solved."
+        },
+        {
+          "letter": "D",
+          "text": "therefore",
+          "is_correct": false,
+          "feedback": "'therefore' states a result, and the sentence is presenting a warning rather than a conclusion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "'Otherwise' links a problem to the consequence that arrives if the problem is ignored, which is exactly the warning here.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v8",
+      "statement": "____ the heavy rain, the football match went ahead on time.",
+      "context": "A match is played outdoors although the forecast promised storms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because of",
+          "is_correct": false,
+          "feedback": "'because of' must also be followed by a noun, but it would reverse the logic and explain the match, not contrast it."
+        },
+        {
+          "letter": "B",
+          "text": "so that",
+          "is_correct": false,
+          "feedback": "'so that' introduces a purpose and needs a result clause, which is not present."
+        },
+        {
+          "letter": "C",
+          "text": "unless",
+          "is_correct": false,
+          "feedback": "'unless' needs a negative clause, and the second clause here is positive and surprising."
+        },
+        {
+          "letter": "D",
+          "text": "despite",
+          "is_correct": true,
+          "feedback": "Correct! 'despite' is a preposition and is followed directly by the noun 'the heavy rain'."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "'Despite' is followed by a noun phrase or a gerund, never by a full clause. The concession is expected to stop the match.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The guesthouse is very cheap. ____, it is a long walk from the main square.",
+      "context": "A traveller compares two small hotels in a colonial town.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "text": "however",
+          "is_correct": true,
+          "feedback": "Correct! 'however' marks a contrast between the low price and the inconvenient distance."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "therefore",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "'therefore' would make the distance a result of the price, which is not the relationship here."
+        },
+        {
+          "letter": "C",
+          "text": "moreover",
+          "is_correct": false,
+          "feedback": "'moreover' would add a supporting detail, and the second clause weakens The third one."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "otherwise",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "'otherwise' needs a negative or alternative second clause, and this clause is a plain statement."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "'However', 'nevertheless' and 'yet' link two clauses that disagree. Here a good price is cancelled by a bad location.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Some students revise at night, ____ others prefer to work in the morning.",
+      "context": "A teacher asks students about the hour in which they study best.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "so that",
           "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "feedback": "'so that' would present a purpose, and no goal is stated in the second clause."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "whereas",
+          "is_correct": true,
+          "feedback": "Correct! 'whereas' contrasts two habits of the same group of students."
+        },
+        {
+          "letter": "C",
+          "text": "because",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "'because' would need one habit to explain the other, and they are simply different."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "'unless' needs a negative clause, and the second clause is positive."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Whereas' contrasts two parallel clauses and makes the difference between them explicit and easy to hear.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She joined the debate club ____ improve her spoken English.",
+      "context": "A high school student chooses an extracurricular activity for the next term.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "in addition to",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "'in addition to' adds a second item and would need a noun phrase before the verb."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "in charge of",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "'in charge of' expresses responsibility for something and does not introduce a purpose."
+        },
+        {
+          "letter": "C",
+          "text": "in order to",
+          "is_correct": true,
+          "feedback": "Correct! 'in order to' introduces a purpose, and improving her English is the goal of joining."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "in front of",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "'in front of' is a position expression and has no grammatical link to a purpose clause."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'In order to', 'so as to' and 'to' all express purpose. Here the club membership is the means and the fluency the aim.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The students were nervous, ____ they finished the exam calmly.",
+      "context": "Students describe their feelings in the minutes before a difficult test.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "both ... and",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "'both ... and' needs two positive elements, and the second clause is not part of a positive pair."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "either ... or",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
+          "feedback": "'either ... or' offers a choice, and no alternative is being selected here."
+        },
+        {
+          "letter": "C",
+          "text": "not only ... but also",
+          "is_correct": false,
+          "feedback": "'not only ... but also' needs a negative first element, which is missing."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "text": "neither ... nor",
+          "is_correct": true,
+          "feedback": "Correct! 'neither ... nor' joins two negative ideas and matches the negative adjective 'nervous'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Neither ... nor' is the correlative for negative clauses and keeps a single negative sense across both halves.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v13",
+      "statement": "Luis studied for two hours; ____ his sister prepared dinner.",
+      "context": "Two siblings describe how they spent the same evening at home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "meanwhile",
+          "is_correct": true,
+          "feedback": "Correct! 'meanwhile' links two actions happening at the same time in different places."
+        },
+        {
+          "letter": "B",
+          "text": "therefore",
+          "is_correct": false,
+          "feedback": "'therefore' would make the dinner a result of the studying, which is not stated."
+        },
+        {
+          "letter": "C",
+          "text": "otherwise",
+          "is_correct": false,
+          "feedback": "'otherwise' would warn about an alternative, and no problem is described."
+        },
+        {
+          "letter": "D",
+          "text": "whereas",
+          "is_correct": false,
+          "feedback": "'whereas' would contrast the two actions, but the sentence states that they simply coincide."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'Meanwhile' and 'at the same time' mark simultaneity between two separate actions of different subjects.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
-      "periodo": 19,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The flight was delayed for three hours ____ a storm in Chicago.",
+      "context": "Passengers wait on the tarmac while a storm passes over the departure city.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "letter": "A",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "'because' is followed by a full clause with a verb, and only a noun phrase is available here."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "letter": "B",
+          "text": "because of",
+          "is_correct": true,
+          "feedback": "Correct! 'because of' is followed by a noun, and 'a storm' is the cause of the delay."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "reason of",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "'reason of' is not an expression of cause in English; the correct noun is 'reason for'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "cause of",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "'cause of' could name a cause only in a different construction, and the sentence structure does not allow it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Because of' takes a noun phrase; 'because' takes a clause. A noun such as 'a storm' requires the prepositional form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Carry an umbrella ____ the weather changes, you can open it.",
+      "context": "A teacher reminds students what to take for a walking tour in the hills.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "so that",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "'so that' presents a purpose, and the umbrella is not aimed at any result here."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "even though",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "'even though' would need a concession, but the clause describes a neutral possibility."
+        },
+        {
+          "letter": "C",
+          "text": "in case",
+          "is_correct": true,
+          "feedback": "Correct! 'in case' introduces a precaution against a possible future situation."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "as far as",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "'as far as' introduces a limit or a measure of distance, which the sentence does not express."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'In case' and 'just in case' are the standard connectives of precaution before an uncertain event.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -684,37 +684,37 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Hardly had she arrived home ____ the telephone rang.",
+      "context": "A student describes the timing of two events on the same evening.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "text": "than",
+          "is_correct": false,
+          "feedback": "'than' belongs to comparative structures such as 'hardly ... than', which is not the standard form here."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "then",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'then' is an adverb of sequence and cannot follow 'hardly had she arrived' in this construction."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "'since' marks a starting point in the past and does not pair with the inverted 'hardly had' clause."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "text": "when",
+          "is_correct": true,
+          "feedback": "Correct! 'when' completes the pair 'hardly ... when', which links two events in time."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Hardly ... when' is a fixed pair. The inverted 'had' clause carries the inversion that the pair requires.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "You may borrow my notes ____ you give them back tomorrow.",
+      "context": "A classmate lends study material to another student before a test.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "text": "as long as",
+          "is_correct": true,
+          "feedback": "Correct! 'as long as' states the condition on which the permission depends."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "as soon as",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "'as soon as' marks a moment in time, and returning the notes is not given as a time limit."
+        },
+        {
+          "letter": "C",
+          "text": "even though",
+          "is_correct": false,
+          "feedback": "'even though' introduces a concession, and the clause sets a condition instead."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "as far as",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "'as far as' introduces a limit such as distance or progress, which is absent here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "'As long as' and 'provided that' both mean 'only if'. The permission is valid exactly while the condition holds.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -774,37 +774,37 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The university exam was postponed; ____, the new date will be announced on Monday.",
+      "context": "An academic office informs candidates about an examination that has been moved.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "letter": "A",
+          "text": "otherwise",
+          "is_correct": false,
+          "feedback": "'otherwise' would offer the opposite case, and no alternative is described."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "letter": "B",
+          "text": "therefore",
+          "is_correct": true,
+          "feedback": "Correct! 'therefore' presents the next logical step that follows from the postponement."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "even so",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "'even so' introduces a concession, and the clause agrees with the postponement instead."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "on the other hand",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "'on the other hand' needs a previous viewpoint to contrast, which a single statement cannot provide."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "'Therefore' and 'thus' signal consequence. The announcement about the date is the logical continuation of the postponement.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "____ the grammar test, the class also has a short writing task.",
+      "context": "A teacher describes the two parts of a short class assessment.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "text": "in charge of",
+          "is_correct": false,
+          "feedback": "'in charge of' expresses who is responsible for something, and no task is assigned here."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "in front of",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "'in front of' is a preposition of position and cannot introduce an added item."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "text": "in addition to",
+          "is_correct": true,
+          "feedback": "Correct! 'in addition to' adds a second element of the same kind to the one already named."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "in spite of",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "'in spite of' introduces a contrast, and the second task does not oppose the test."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "'In addition to' and 'as well as' both add information. A preposition of place cannot perform that function.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle",
       "periodo": 19,
@@ -864,37 +864,37 @@
     },
     {
       "id": "HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The bus was late, ____ everyone reached the examination room before nine o'clock.",
+      "context": "Examinees arrive at a school after a delayed urban bus.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "because",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "'because' would make the lateness the cause of the punctual arrival, which reverses the logic."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "so that",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "'so that' introduces a purpose, and no intention is described."
+        },
+        {
+          "letter": "C",
+          "text": "in case",
+          "is_correct": false,
+          "feedback": "'in case' introduces a precaution, and the second clause states an accomplished fact."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "text": "but",
+          "is_correct": true,
+          "feedback": "Correct! 'but' contrasts the delay of the bus with the punctual arrival of the candidates."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'But' is the shortest contrastive connector. It links two facts whose combination surprises the reader.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

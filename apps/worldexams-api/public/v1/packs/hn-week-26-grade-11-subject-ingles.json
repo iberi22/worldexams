@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Never ____ such a beautiful sunset in my life.",
+      "context": "A visitor describes a view of the coast at the end of a trip.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "text": "have I seen",
+          "is_correct": true,
+          "feedback": "Correct! When a negative adverb such as 'never' opens the sentence, the subject and the auxiliary are inverted."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "I have seen",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "'I have seen' keeps the normal order and would need the negative adverb inside the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "did I see",
+          "is_correct": false,
+          "feedback": "'Did I see' changes the tense, and the present perfect is the natural tense here."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "I did see",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "'I did see' is a normal order affirmative and cannot follow 'never' at the start."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "Fronted negative adverbials trigger subject and auxiliary inversion in the present perfect, without any form of 'do'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Rarely ____ the school so excited about a sports day.",
+      "context": "A head teacher comments on the atmosphere at a school sports event.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "the students are",
+          "is_correct": false,
+          "feedback": "'The students are' keeps the declarative order, which is not allowed with a fronted negative."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "letter": "B",
+          "text": "are the students",
+          "is_correct": true,
+          "feedback": "Correct! 'Are the students' inverts the auxiliary before the subject, as the fronted 'rarely' requires."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "the students were",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "'The students were' keeps the order and also changes the tense without reason."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "were the students",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "'Were the students' inverts the order but the present tense is required by 'rarely' with this state."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Only the auxiliary 'be' moves in the inversion; the subject 'the students' follows it and no other element changes.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Not once ____ the teacher explain this rule so clearly.",
+      "context": "A student comments on the clarity of a teacher's explanations over a term.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "'Have' would not agree with the singular subject 'the teacher'."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "'Had' is the past, and the rule is explained regularly in the present."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correct! 'Has' with the negative phrase 'not once' in front triggers inversion of subject and auxiliary."
+        },
+        {
+          "letter": "D",
+          "text": "having",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "'Having' is a participle and cannot serve as the auxiliary of the clause."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Negative expressions such as 'not once', 'not only' and 'seldom' invert the subject and the auxiliary exactly like 'never' and 'rarely'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Not only ____ the exam, but she also topped the class.",
+      "context": "A classmate reports the achievements of a top student over a school year.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "she passed",
+          "is_correct": false,
+          "feedback": "'She passed' is the normal order and cannot follow a fronted 'not only'."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "she did pass",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "'She did pass' keeps the subject in front of the auxiliary, so no inversion occurs."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "passed she",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "'Passed she' inverts the main verb and the subject but leaves out the auxiliary the construction needs."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "text": "did she pass",
+          "is_correct": true,
+          "feedback": "Correct! The negative correlative 'not only' at the front requires the auxiliary 'did' before the subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "When 'do' is needed, inversion places 'do' or 'does' before the subject: 'did she pass', never 'she did pass' at the front.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Only after the bell rang ____ the students leave the classroom.",
+      "context": "A routine at the end of a lesson in a secondary school.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! 'Did' is the auxiliary placed before the subject because 'only after' opens the sentence."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "the students",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "'The students' cannot occupy that slot, since the subject follows the auxiliary in the inverted clause."
+        },
+        {
+          "letter": "C",
+          "text": "they",
+          "is_correct": false,
+          "feedback": "'They' would be a pronoun subject and there is no auxiliary to invert here."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "'Were' is a form of 'be', but the main verb of the sentence is 'leave'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "A fronted phrase beginning with 'only' or 'not until' is a focusing adverbial, and it triggers inversion of the auxiliary and the subject.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Seldom ____ the whole class so motivated before the competition.",
+      "context": "A coach describes the mood of a team before an important match.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "feedback": "'Have' would not agree with a singular subject."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correct! 'Has' is the auxiliary that inverts with the singular subject 'the whole class' after 'seldom'."
+        },
+        {
+          "letter": "C",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "'Was' would form a passive or a linking clause, and the sentence is active."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "'Is' would describe a state rather than the action of being motivated."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The negative adverb 'seldom' belongs to the same group as 'rarely' and 'hardly', and all of them invert the auxiliary and the subject.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -279,40 +279,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "No sooner ____ the bus arrived than the students rushed in.",
+      "context": "A group describes the moment a vehicle reached a stop near a school.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "did",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "'Did' would be the inversion of a present or past simple, which the pair does not use."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "'Was' is a form of 'be' and cannot invert here."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correct! 'Had' is the past perfect auxiliary required by the fixed pair 'no sooner ... than'."
+        },
+        {
+          "letter": "D",
+          "text": "has",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "'Has' is the present perfect, and the pair requires the past perfect."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "'No sooner ... than' is a fixed correlative that always carries the past perfect inversion, independent of any other rule.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -324,40 +324,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "So absorbed ____ in the book that she forgot the time.",
+      "context": "A relative describes how a family member spent an evening at home.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
+          "text": "she was",
+          "is_correct": false,
+          "feedback": "'She was' keeps the normal order, which is not possible with a fronted intensifier of this type."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "she is",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "'She is' changes the tense that the story requires."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "is she",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "'Is she' inverts correctly but the past tense is needed by the narrative."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "text": "was she",
+          "is_correct": true,
+          "feedback": "Correct! The fronted adjective 'so absorbed' inverts the auxiliary 'was' before the subject."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A fronted pattern of 'so ... that' moves the auxiliary in front of the subject, leaving the rest of the clause in normal order.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Hardly had she sat down ____ the phone rang.",
+      "context": "A person narrates two events that happened within a few seconds of each other.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "when",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
+          "feedback": "Correct! 'When' completes the fixed pair 'hardly ... when', which links two past events."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "than",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "'Than' belongs to comparisons and to the less standard 'hardly ... than'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "then",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "'Then' is an adverb of sequence and cannot follow the inverted clause."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "'Since' marks a starting point in time and does not pair with 'hardly had'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "The construction 'hardly had ... when' is a fixed inversion pattern that reports two closely connected past events.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher asked where ____ the missing file was.",
+      "context": "A member of staff asks about a document during a short meeting.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "text": "did the director put",
+          "is_correct": false,
+          "feedback": "'Did the director put' is a direct question order and does not belong inside a reported clause."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "text": "the director put",
+          "is_correct": true,
+          "feedback": "Correct! In an embedded question the subject precedes the auxiliary, so no inversion applies."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "the director did put",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "'The director did put' is the order of a direct question with emphasis, which is not wanted here."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "put the director",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "'Put the director' inverts the main verb and the subject and leaves the clause without an auxiliary."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Direct questions invert subject and auxiliary, but an embedded question after a verb of asking restores the declarative order.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I do not know whether ____ the meeting has been moved or not.",
+      "context": "A student asks for confirmation about a change in the school calendar.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "letter": "A",
+          "text": "has it",
+          "is_correct": false,
+          "feedback": "'Has it' reverses that order and treats the clause as a direct question."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "it has",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "'It has' inverts the subject and the auxiliary without a fronted negative to justify it."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "text": "has",
+          "is_correct": true,
+          "feedback": "Correct! In an embedded question the subject comes before the auxiliary, so 'has the meeting' is correct."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "'Have' would not agree with the singular subject 'the meeting'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Question words such as 'whether', 'what', 'where' and 'how' are moved to the front of the main clause while the embedded clause keeps its own order.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The headmaster said that he ____ see the results the following morning.",
+      "context": "A school leader reports at a staff meeting what he said at a previous meeting.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "'Will' would keep the original future of the direct speech and break the sequence of tenses."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "shall",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "'Shall' is used in formal offers and declarations, and it does not carry a backshift here."
+        },
+        {
+          "letter": "C",
+          "text": "should",
+          "is_correct": false,
+          "feedback": "'Should' would change the meaning to obligation, which the sentence does not express."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct! A past reporting verb 'said' shifts the reported future to the past: 'will' becomes 'would'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A reporting verb in the past moves the reported clause one step back in tense, so a future modal becomes its past form.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Under no circumstances ____ the door be left unlocked.",
+      "context": "A building rule is displayed at the entrance of a laboratory.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "text": "should",
+          "is_correct": true,
+          "feedback": "Correct! 'Should' follows 'under no circumstances' because that phrase is a negative fronted expression."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "it should",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "'It should' puts the subject first, which is the order the fronted phrase forbids."
+        },
+        {
+          "letter": "C",
+          "text": "should it",
+          "is_correct": false,
+          "feedback": "'Should it' inverts the auxiliary and the subject and would leave the main verb 'be' without a subject."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "'Must' is not a form of 'be' and cannot complete this clause."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "The modal 'should' already has the inverted position, so the bare 'be' follows the subject and no further change is needed.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "On no account ____ he sign the document without reading it first.",
+      "context": "A legal office states a firm rule about the handling of documents.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "letter": "A",
+          "text": "he did",
+          "is_correct": false,
+          "feedback": "'He did' keeps the subject before the auxiliary and gives no inversion at all."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "letter": "B",
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! 'On no account' is a negative fronted phrase, so the auxiliary 'did' precedes the subject."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "should",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "'Should' would express obligation or advice, which is not the relation stated."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "does",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "'Does' is the present auxiliary, and the sentence reports a past act of signing."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'On no account' belongs to the same inverting group as 'under no circumstances' and 'in no way'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "A driver waited at the junction while two girls ____ a narrow path above the river.",
+      "context": "A driver describes a scene observed from a vehicle near a river.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "climbed up",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "'Climbed up' would add a particle that the sentence does not need for a plain report of the event."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "climbs up",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "'Climbs up' is the present simple and does not match the past narration."
+        },
+        {
+          "letter": "C",
+          "text": "climbed",
+          "is_correct": true,
+          "feedback": "Correct! 'Climbed' reports a completed action in the past simple, which matches the first clause of the narration."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "are climbing up",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "'Are climbing up' is the present continuous and would suggest an action still unfinished."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Two coordinated clauses in a narration share the same tense, and nothing fronted justifies any inversion here.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -684,37 +684,37 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Not until the storm had completely passed ____ they resume the match.",
+      "context": "A sports report describes the restart of a match interrupted by bad weather.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "they did",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "'They did' keeps the declarative order, so the sentence is not inverted."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "'Were' is a form of 'be' and cannot invert the main verb 'resume'."
+        },
+        {
+          "letter": "C",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "'Have' would need 'resumed' and cannot introduce a simple past clause by itself."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! The fronted negative phrase 'not until' triggers the auxiliary 'did' before the subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A fronted 'not until' is a focusing negative that behaves exactly like 'only after' and 'not before'.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The teacher explained that the final exam ____ take place the first week of July.",
+      "context": "A teacher announces the examination calendar to the students.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "would",
+          "is_correct": true,
+          "feedback": "Correct! A past reporting verb backshifts the reported 'will' to 'would'."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "will",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "'Will' would keep the original future and break the sequence of tenses."
+        },
+        {
+          "letter": "C",
+          "text": "shall",
+          "is_correct": false,
+          "feedback": "'Shall' is a formal alternative of 'will' but it is not the form a backshift produces."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "'Must' would express obligation, which the sentence does not state."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "The sequence of tenses moves a reported future one step back when the verb of reporting is itself in the past.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Out of the three candidates, only the second ____ the interview without any preparation.",
+      "context": "A recruiter reports how several candidates performed in a selection process.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "letter": "A",
+          "text": "passes",
+          "is_correct": false,
+          "feedback": "'Passes' is the present simple and does not match the narration."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "letter": "B",
+          "text": "passed",
+          "is_correct": true,
+          "feedback": "Correct! 'Passed' is the past simple that the narrative requires, and 'only' modifies the subject rather than opening the clause."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "pass",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "'Pass' is the base form and would need a modal or an auxiliary."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "passing",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "'Passing' is a participle and cannot be the only verb of a finite clause."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "The focus word 'only' falls inside the subject, so the clause keeps the normal order. Inversion needs the focusing element at the very front.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Little ____ the committee know about the change of venue before it was announced.",
+      "context": "An organiser describes how much an audience knew in advance of an announcement.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "letter": "A",
+          "text": "they did",
+          "is_correct": false,
+          "feedback": "'They did' keeps the subject first and produces no inversion."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "'Was' is a form of 'be' and cannot invert with the main verb 'know'."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "text": "did",
+          "is_correct": true,
+          "feedback": "Correct! 'Did' is the auxiliary that inverts before the subject after the fronted 'little'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "has",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "'Has' is the present perfect auxiliary, and the report describes a past state of knowledge."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "'Little', 'hardly', 'barely' and 'scarcely' invert like the negative adverbs, and they are followed by an auxiliary before the subject.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The bus driver apologised because the road ____ blocked by fallen branches.",
+      "context": "A bus driver addresses passengers after an unexpected delay on a rural route.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "'Were' would not agree with a singular subject."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "has",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "'Has' is the present perfect, and the blockage is a completed past event."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "having",
           "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "'Having' is a participle and cannot be the auxiliary of a finite passive clause."
+        },
+        {
+          "letter": "D",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! 'Was' is the passive auxiliary and agrees with the singular subject 'the road'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "In a passive clause the auxiliary comes before the past participle, and the past simple is required by the reported event.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W26-inversion-001-MASTERY-bundle",
       "periodo": 26,

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was the heavy traffic ____ delayed the school bus yesterday.",
+      "context": "A parent asks why a school transport arrived late on a weekday.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'It was ... that' is the standard cleft pattern and it focuses the heavy traffic."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "'Which' can be used in a cleft about a person, but the subject here is a situation, not a person."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'What' introduces a relative clause about a thing, not the focus of a cleft sentence."
+        },
+        {
+          "letter": "D",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "'Who' refers to people and cannot link to the heavy traffic."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The cleft 'It was ... that' keeps the auxiliary in 'was' and isolates the element that answers the question.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was on the bus ____ I first heard about the exchange programme.",
+      "context": "A student recalls when a piece of news reached him during a journey.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "'When' introduces a time clause and would need a time expression rather than a place."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'It was on the bus that' is the standard cleft and it focuses the place of the event."
+        },
+        {
+          "letter": "C",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "'Where' introduces a relative clause about a place and does not build a cleft."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "'Which' cannot be used as the relative pronoun of a cleft in this structure."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Cleft sentences move one element to the front and add 'it', so the reader is told exactly what the sentence is about.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What I need ____ a quiet place to study.",
+      "context": "A student explains what a good study place provides.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are' would not agree with the singular subject 'what I need'."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "'Were' is the past and the need is present."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! 'What I need is' is the wh-cleft pattern and it focuses the complement."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "'Was' is the past simple, which the present need does not allow."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The wh-cleft keeps a complete clause after the question word and then states the missing information as the complement.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was my brother ____ helped me with the mathematics homework.",
+      "context": "A student acknowledges the help a relative gave with school work.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "'Which' is used for things in this pattern, and the focus is a person."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "that",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "'That' is possible in a cleft about a thing but reads oddly with a personal subject here."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "'What' introduces a clause that is the subject, which is a different construction."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! 'It was ... who' is a cleft about a person, and 'who' is the natural relative pronoun here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Cleft sentences about people use 'who' and about things use 'that', which is the pair the question tests.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The place I wanted to visit ____ the coastal town we passed yesterday.",
+      "context": "A traveller describes a place seen during a road journey.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "was",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "Correct! 'Was' is the verb of the main clause and agrees with the singular subject 'the place'."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "'Were' would not agree with a singular subject."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "'Is' is the present, and the reference to a place passed yesterday is a past event."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "'Are' would not agree with 'the place' in any tense."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "A cleft can be built without 'it': a relative clause first, then the main clause, and the information lands at the end.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is not the money ____ he lacks; it is the time.",
+      "context": "A person explains the real obstacle in a personal project.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "text": "he",
+          "is_correct": false,
+          "feedback": "'He' cannot serve as the relative pronoun in this structure."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! The negative cleft 'It is not the money that he lacks' focuses the true contrast."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "'Which' refers to things but the cleft with a person subject is normally built with 'that' or 'who'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "'Who' refers to people, and the clause is about the person, not the pronoun."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A negative cleft denies the expected element and then gives the real one, which sharpens the contrast in the second clause.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The reason the class was late ____ the storm blocked the road.",
+      "context": "A teacher explains a delay to the students at the start of a lesson.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "'Were' would not agree with the singular subject 'the reason'."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "'Has been' would place the explanation before the present moment."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! 'Was' links the subject 'the reason' with the explanation in the second clause."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "'Will be' would predict a future explanation."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "A cleft beginning with 'the reason' states the cause last, which puts emphasis on the explanation itself.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was not until the lights went out ____ the students realised how late it was.",
+      "context": "A class describes the moment it became aware of the hour of the evening.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "'When' would introduce a time clause but not this cleft pattern."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "'Which' cannot be the relative pronoun of a cleft about a limit in time."
+        },
+        {
+          "letter": "C",
+          "text": "then",
+          "is_correct": false,
+          "feedback": "'Then' is an adverb of sequence and cannot serve as a relative pronoun."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'It was not until ... that' is the standard cleft for a limit in time."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "The 'not until' cleft stresses a moment and is very common in speech when a late realisation is reported.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This is the house ____ I spent my childhood.",
+      "context": "An adult points out a building that plays a part in a family history.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "that",
           "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "feedback": "Correct! 'That' is the relative pronoun of a cleft about a place when the following clause carries a verb and no preposition."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "'Where' would require a clause without a verb such as 'where I lived'."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "feedback": "'Which' would be used in a cleft about a thing but not about a person and a place together."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'What' introduces a subject clause, not a cleft after 'the house'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "After a clefted noun with a possessive relative clause, 'that' is preferred over a prepositional 'where', which would need a different verb.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The thing I want to complain about ____ the noise from the construction site.",
+      "context": "A resident explains a complaint to a neighbour near a building site.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "'Are' would not agree with a singular subject."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! 'Is' links the subject 'the thing' with the complaint in the present."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "was",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'Was' is the past, and the complaint is current."
+        },
+        {
+          "letter": "D",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "'Were' would not agree with the singular subject in any case."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "This cleft puts a relative clause first so that the complaint itself receives the emphasis at the end of the sentence.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It ____ my grandmother who taught me to cook.",
+      "context": "A speaker credits a relative for a domestic skill learned in childhood.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "'Is' is the present, and the teaching belongs to the past."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "'Were' would not agree with 'it'."
+        },
+        {
+          "letter": "C",
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! 'It was' is the auxiliary of the cleft and agrees with the singular subject 'it'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "'Has been' would place the action in a period that is not over."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "In this cleft the relative clause is the longest element and the shortest one, the name, comes after 'was'.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When I lost my keys ____ it was my brother who found them under the mat.",
+      "context": "A person answers a question about the end of a frustrating search.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "'Was' alone has no subject in front of it, so the clause is incomplete."
         },
         {
-          "letter": "A",
-          "text": "stopover",
+          "letter": "B",
+          "text": "there was",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "'There was' would introduce existence, and the sentence states a fact, not the existence of an event."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "he was",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "'He was' would duplicate the subject already given in the relative clause."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "text": "it was",
+          "is_correct": true,
+          "feedback": "Correct! 'It was' introduces the cleft and lets the emphasis fall on the person who found the keys."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Embedding a cleft after a 'when' clause requires the dummy subject 'it' again, because the sentence has to remain grammatical on its own.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It is the delay of the results ____ worries the students most.",
+      "context": "A class reacts to a long wait for the publication of a grade list.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "that",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "feedback": "Correct! 'That' links the clefted subject to the verb 'worries' in a cleft about a thing."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "'Which' is possible in a cleft about a person, and here the focus is a delay."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "'What' introduces a clause acting as the subject, which is a different structure."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "'Who' refers to people, and a delay is not a person."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "When the clefted element is the subject of the relative clause, the pronoun is normally 'that'.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The person who organised the event ____ the head of the sports department.",
+      "context": "A school announces who was responsible for a school activity.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "were",
+          "is_correct": false,
+          "feedback": "'Were' would not agree with the singular subject 'the person'."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! 'Was' is the verb of the main clause, in past simple to match the relative clause."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "has been",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "'Has been' would suggest the role is still held and the event is recent."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'Will be' would place the identification in the future."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "A cleft formed with a relative clause in front states the answer at the end, which is where the emphasis belongs.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was the lack of practice ____ made the performance so nervous.",
+      "context": "A teacher analyses why a student was nervous on stage.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'Which' is not used for a clefted subject in this pattern."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "'What' introduces a clause serving as the subject of the main verb, not a cleft."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' completes the cleft and links the cause to the result described after it."
+        },
+        {
+          "letter": "D",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'Who' refers to people, and a lack of practice is an abstract thing."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A cleft with 'it' keeps the rest of the sentence intact and simply adds the focus on one element.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -684,37 +684,82 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What surprised me most ____ the sudden change in the weather.",
+      "context": "A traveller describes an unexpected experience during a trip.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "letter": "A",
+          "text": "were",
+          "is_correct": false,
+          "feedback": "'Were' would not agree with a singular subject."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "is",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "'Is' is the present, and the surprise belongs to a past moment."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "are",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'Are' would not agree with the subject and would be plural."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "text": "was",
+          "is_correct": true,
+          "feedback": "Correct! 'Was' agrees with the singular subject 'what surprised me most'."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The wh-cleft is built with a complete clause after the question word, and the verb then agrees with that whole clause treated as the subject.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "hn"
+    },
+    {
+      "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v17",
+      "statement": "It is in the school library ____ the study group meets every afternoon.",
+      "context": "A student tells a visitor where an extracurricular group gathers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'It is ... that' is the standard cleft for a place with a full relative clause after it."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "'Where' would be used in a cleft with a clause that has no verb of its own, such as 'where the group sits'."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "'Which' cannot be the relative pronoun of this cleft about a place."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "'When' introduces a time clause, and the clause is about a location."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Because the following clause already has a subject and a verb, the cleft needs 'that' rather than a locative relative pronoun.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,86 +773,41 @@
       "country": "hn"
     },
     {
-      "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v18",
+      "statement": "The only thing that still needs explaining ____ the cause of the error in the budget.",
+      "context": "An administrator lists the points still pending in a financial review.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "letter": "A",
+          "text": "are",
+          "is_correct": false,
+          "feedback": "'Are' would not agree with the singular subject 'the only thing'."
         },
         {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "letter": "B",
+          "text": "is",
+          "is_correct": true,
+          "feedback": "Correct! 'Is' links the long subject with the explanation that closes the sentence."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "were",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "'Were' is the past, and the question is still open."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "has",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "'Has' would need a complement such as 'been explained' and cannot stand alone."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A cleft that starts with a long subject places the new information at the end, which is the whole rhetorical effect.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "hn"
-    },
-    {
-      "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was a lack of planning ____ the whole event collapsed.",
+      "context": "A committee reports the reason an event had to be cancelled.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "'Which' is not the pronoun used for a clefted subject in this pattern."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "'What' would make the relative clause the subject of the main verb instead."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' links the clefted subject to the verb 'collapsed' in the main clause."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "'Who' refers to people, and a lack of planning is not a person."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "The 'it was ... that' cleft is the standard way of blaming one element and giving it the emphasis of the sentence.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "It was after the meeting ____ the students understood the new schedule.",
+      "context": "A group reflects on when a decision communicated to them became clear.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "'When' would introduce a time clause but not a cleft, and the sentence as written has no 'when'."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "'Which' cannot be the relative pronoun of a cleft about a moment in time."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "'Where' introduces a clause about a place."
+        },
+        {
+          "letter": "D",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'It was ... that' is the cleft and it focuses the moment when understanding happened."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Time is one of the elements most often clefted, because the question is normally about the moment rather than the event.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle",
       "periodo": 27,

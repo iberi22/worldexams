@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: My birthday is ... March.",
+      "context": "Maria is planning her exam calendar for the spring term in Valencia.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
+          "letter": "A",
+          "text": "in",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "feedback": "In is correct because English uses in with months, seasons and years, so in March names the month of the birthday."
         },
         {
-          "letter": "A",
-          "text": "transportation",
+          "letter": "B",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "On is wrong here because on is reserved for days and full dates, like on Monday or on 5 May."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "At is wrong because at works with clock times and fixed points, such as at noon, not with whole months."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "by",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "By is wrong because by expresses a deadline, meaning not later than a moment, and the sentence needs the month itself."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Months always take the preposition in. English also uses in with years and seasons, while on goes with days and at with clock times.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The English exam is ... Monday.",
+      "context": "The exchange students from Seville settle into their new school timetable.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In is wrong because in covers months, years and seasons, never a named day of the week."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because days of the week and dates take on, and Monday morning is still a day expression."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "At is wrong because at points to exact clock times like at eight, so it cannot introduce a weekday."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "Since is wrong because since marks a starting point in the past, as in since 2020, not a future day."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "We say on Monday, on Friday morning and on 3 May. In would fit a month or a year, and at fits a clock time.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,36 +99,81 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: Classes begin ... half past eight.",
+      "context": "The school day in Madrid starts earlier than many visitors expect.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "On is wrong because on goes with days and dates, and half past eight is a time of day, not a date."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "In is wrong because in suits longer periods such as months or the morning, not one exact clock reading."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "At is correct because exact clock times always take at, so at half past eight is the natural form."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "For is wrong because for measures duration, as in for two hours, and cannot place a single moment."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "Clock times take at: at three, at noon, at half past eight. Days take on and longer periods take in.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v4",
+      "statement": "Complete the sentence: The first contest took place ... 2021.",
+      "context": "A bilingual school in Zaragoza celebrates the anniversary of its debate contest.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "On is wrong because on needs a day or a full date, and a year on its own never takes it."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At is wrong because at attaches to clock times and points like at Christmas, not to a whole year."
+        },
+        {
+          "letter": "C",
+          "text": "from",
+          "is_correct": false,
+          "feedback": "From is wrong because from states a starting point and needs its partner to, as in from 2021 to 2025."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "In is correct because bare years take in, so in 2021 is the standard way to place an event in a year."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Years, months and seasons form the group that takes in. On needs a day, and at needs a clock time or point.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,86 +188,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v5",
+      "statement": "Complete the sentence: The final exam is ... 12 June.",
+      "context": "A student copies the exam timetable from the noticeboard for her classmates.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "feedback": "On is correct because a full date with a day number always takes on, so on 12 June is right."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "In is wrong because in fits the month alone, as in in June, but the sentence names one exact day."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "At is wrong because at belongs to clock times, and 12 June is a calendar date, not a time."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "During is wrong because during means inside a period, as in during June, without fixing one day."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "Specific dates take on: on 12 June, on 1 May. The preposition in appears only with the month or year alone.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -234,40 +234,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: I will wait for you ... the bus stop.",
+      "context": "Two friends agree where to meet before the library opens.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In is wrong because in would mean inside a larger space, like in the station, and a bus stop is a point."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "text": "at",
+          "is_correct": true,
+          "feedback": "At is correct because at marks an exact meeting point, and a bus stop is precisely that kind of place."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "On is wrong because on needs a surface or a line, as in on the corner, and the stop itself is a point."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "to",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "To is wrong because to shows direction of movement, as in go to, but nobody is moving in this sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Use at for a specific point: at the bus stop, at the door, at the crossroads. In suggests inside a space.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -279,37 +279,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The dinosaur skeletons are ... the main hall.",
+      "context": "The class visits the science museum in Bilbao on a rainy morning.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At is wrong because at treats the hall as a bare location point and loses the inside meaning."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "On is wrong because on demands contact with a surface, like on the floor, and this is about the room."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "In is correct because the skeletons stand inside the hall, and in expresses that enclosed position."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "over",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Over is wrong because over means above without touching, as in over the table, not inside a space."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Enclosed spaces take in: in the hall, in the box, in the room. At only points to the place as a dot on a map.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: Your notebook is ... the desk.",
+      "context": "A tidy student keeps her study notes where she can see them at home.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "In is wrong because in means inside something, like in the drawer, and that is a different place."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "At is wrong because at gives a general location, as in at the desk, without the contact with the surface."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "Under is wrong because under means directly below, so the notebook would be hidden from sight."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because the notebook rests in contact with the surface of the desk, which is what on means."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Surfaces take on: on the desk, on the wall, on the shelf. In means inside, and under means below something.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The train leaves ... 7.45 in the morning.",
+      "context": "A weekend plan described to a friend who asks for the exact hour.",
       "options": [
         {
-          "letter": "B",
-          "text": "souvenir",
+          "letter": "A",
+          "text": "at",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
+          "feedback": "At is correct because at introduces a precise clock time, and 7.45 is an exact hour."
         },
         {
-          "letter": "A",
-          "text": "gift",
+          "letter": "B",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "In is wrong because in belongs to parts of the day such as in the morning, not to a number."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "On is wrong because on marks days and dates, as in on Monday, and no day appears here."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "by",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "By is wrong because by means no later than, which states a deadline instead of a departure time."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Clock times always take at: at 7.45, at midnight. Use in with parts of the day and on with days and dates.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: They have been in Seville ... August.",
+      "context": "A student describing a holiday that began in the past and is still going on.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "For is wrong because for measures the length of the stay, and the sentence names the starting month."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Since is correct because since names the starting point of a period that continues now."
+        },
+        {
+          "letter": "C",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "During is wrong because during introduces a finished interval, while the stay has not ended."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "At is wrong because at marks points and clock times, never the beginning of a lasting situation."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Since names the origin of an unfinished period, so they have been in Seville since August. For would give the duration instead.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The Prado museum is ... the Retiro park.",
+      "context": "A map exercise about where a famous museum stands in relation to a park.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "between",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Between needs three referents, as in between A and B, so it needs another landmark in this sentence."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "above",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "Above describes a vertical position and says nothing about being close on the same level."
+        },
+        {
+          "letter": "C",
+          "text": "next to",
+          "is_correct": true,
+          "feedback": "Next to is correct because next to expresses adjacency between two neighbouring places."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "During belongs to time and cannot describe the position of a building on a map."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Next to states that two places touch. Between always requires two names around the preposition, so it does not fit here.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -504,37 +504,82 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence where every preposition is correct.",
+      "context": "A sentence to be repaired because the preposition does not fit the meaning.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "The shop opens in nine and closes on seven in the evening.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "In does not combine with a number such as nine when naming an opening hour."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The shop opens on nine and closes at seven in the evening.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "On marks days and dates, so it cannot introduce the hour at which the shop opens."
+        },
+        {
+          "letter": "C",
+          "text": "The shop opens on nine and closes on seven in the evening.",
+          "is_correct": false,
+          "feedback": "Using on for both hours gives the sentence two prepositions that belong to a different category."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "text": "The shop opens at nine and closes at seven in the evening.",
+          "is_correct": true,
+          "feedback": "Both times take at, which is the preposition English reserves for clock times."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The hour of opening and closing is a clock time in both halves of the sentence, and clock times always take at.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v13",
+      "statement": "Complete the sentence: She put her coat ... the empty chair beside her.",
+      "context": "A child asking a teacher for permission during a school trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because the coat rests on a surface, and the chair seat provides that surface."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In needs a container or an enclosed space, and a chair is neither of them."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At would give a general location without the contact that a coat on a chair implies."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "Between needs two objects with the preposition in the middle, and only one object is named here."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Clothes placed on furniture take on: on the chair, on the bed, on the sofa. In would require a bag or a wardrobe.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v14",
+      "statement": "Complete the sentence: The school trip to the science museum takes place ... May.",
+      "context": "A teenager talking about an event that happens once every year.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "At belongs to points and clock times and cannot introduce a month."
         },
         {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "letter": "B",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "In is correct because in introduces a month, and May appears without a day number."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "On would need a full date, as in on 5 May, but no day is given in the sentence."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "to",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "To indicates direction or a recipient and does not place an event inside a month."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A month on its own takes in: in May, in winter. On appears only when a specific day is attached, as in on 5 May.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 16,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
-        },
-        {
-          "letter": "C",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: I left the keys ... the small table near the door.",
+      "context": "A worker describing where the keys ended up in an unfamiliar flat.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "In needs a container, and a bare table holds nothing inside it."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "under",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "Under would mean below the table, which is a different position and would be visible only later."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because leaving an object on a table means resting it on the surface of the table."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "During belongs to time and cannot answer where an object was placed."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Leaving a small object on a piece of furniture uses on, because the contact with the surface is what matters: on the table.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -684,37 +684,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence with the correct preposition in every gap.",
+      "context": "A short report about a neighbourhood and its landmarks.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "We arrived on Toledo and stayed in Friday near the cathedral.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "On cannot introduce a city name, and in cannot introduce a weekday."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "We arrived at Toledo and stayed on a hotel near the cathedral.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "At can introduce a city for some speakers, but a hotel as an enclosed building takes in, not at."
+        },
+        {
+          "letter": "C",
+          "text": "We arrived in Toledo and stayed at Friday near the cathedral.",
+          "is_correct": false,
+          "feedback": "In Toledo is right, but a weekday never takes at in this pattern."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "We arrived in Toledo on Friday and stayed in a hotel near the cathedral.",
+          "is_correct": true,
+          "feedback": "In Toledo for the city, on Friday for the day and in a hotel for an enclosed building are all correct."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Cities, hotels and countries take in, while days and dates take on. Each preposition in the correct option matches its own category.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: He keeps the toolbox ... the bottom shelf.",
+      "context": "A worker explaining where the toolbox belongs in a garage.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "On is correct because a shelf is a surface, and the toolbox rests on that surface."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "At would give a vague location without the contact that a shelf provides."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "During belongs to a period of time and has no meaning for a physical position."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "To marks a destination of movement, while the sentence only states where the toolbox stays."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Shelves are surfaces, so objects placed on them take on: on the bottom shelf, on the top of the cupboard.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -774,40 +774,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The interview is ... 3 o'clock in the afternoon.",
+      "context": "A teenager apologising for arriving late to a formal appointment.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "text": "in",
+          "is_correct": false,
+          "feedback": "In appears with parts of the day such as in the afternoon, but 3 o'clock is a precise moment."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "text": "at",
+          "is_correct": true,
+          "feedback": "At is correct because an exact hour on the clock is introduced by at."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "On marks days and dates, and no day is named in the sentence."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "For expresses duration, and the sentence states a moment rather than a length of time."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A meeting fixed to an exact hour takes at: at 3 o'clock, at noon. The phrase in the afternoon names a period, not a point.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -819,40 +819,40 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: The history books are ... the first corridor, ... the tall shelf.",
+      "context": "A librarian telling a student where the shelves of a section are.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
+          "text": "in the middle of",
+          "is_correct": false,
+          "feedback": "In the middle of suggests the centre of the space, which the sentence does not state."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "on top of",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "On top of needs a surface above something, and no such surface appears in the context."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "text": "at the end of",
+          "is_correct": true,
+          "feedback": "At the end of the corridor is correct because the end of a corridor is a precise point."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "out of",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "Out of expresses movement from a closed space, which is not what the librarian describes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "At the end of marks the limit of a linear space such as a corridor, a queue or a page, and that is where the tall shelf stands.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 16,
@@ -864,37 +864,37 @@
     },
     {
       "id": "ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence where each time and place preposition is used correctly.",
+      "context": "A correction of a sentence whose prepositions are all wrong.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "We stayed in home during the storm and went out in Sunday morning.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Home is a building word that normally takes at, and Sunday morning takes on, not in."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "We stayed during home the storm and went out on Sunday morning.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "During cannot precede home, because home names a place rather than a period."
+        },
+        {
+          "letter": "C",
+          "text": "We stayed home during the storm and went out at Sunday morning.",
+          "is_correct": false,
+          "feedback": "At does not introduce a weekday in this pattern, so the last clause fails."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "We stayed at home during the storm and went out on Sunday morning.",
+          "is_correct": true,
+          "feedback": "At home and during the storm and on Sunday morning each match their own category perfectly."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Each preposition belongs to one category: at for points and home, during for a period, on for days. The correct option respects all three.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

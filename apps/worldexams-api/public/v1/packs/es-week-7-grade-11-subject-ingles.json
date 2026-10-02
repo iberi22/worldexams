@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the pattern that correctly forms the zero conditional.",
+      "context": "A teacher reviews the three basic conditional patterns with the class before the unit test.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "If + present simple, present simple",
+          "is_correct": true,
+          "feedback": "The zero conditional uses the present simple in both clauses because the result is always true."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "If + present simple, will + infinitive",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "If plus present simple with will is the first conditional, which describes a real future possibility."
+        },
+        {
+          "letter": "C",
+          "text": "If + past simple, would + infinitive",
+          "is_correct": false,
+          "feedback": "If plus past simple with would is the second conditional, which describes an unreal situation."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "If + past perfect, would have + participle",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "If plus past perfect with would have is the third conditional, which refers to an unreal past."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The zero conditional keeps the present simple in both the if clause and the result clause. It states facts that are always true.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the pattern that correctly forms the first conditional.",
+      "context": "A student is making flashcards to memorise the conditionals before the Friday quiz.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "text": "If + present simple, present simple",
+          "is_correct": false,
+          "feedback": "Present simple in both clauses forms the zero conditional, which is used for general truths instead."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "text": "If + present simple, will + infinitive",
+          "is_correct": true,
+          "feedback": "The first conditional takes the present simple after if and will plus the infinitive in the result clause."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "If + past simple, would + infinitive",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Past simple with would forms the second conditional, which talks about imaginary situations."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "If + present simple, would + infinitive",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Would cannot follow a present simple if clause, because that mixture does not belong to any pattern."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "The first conditional links a real future condition in the present simple with a result in will plus the infinitive.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,36 +99,81 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the pattern that correctly forms the second conditional.",
+      "context": "A tutor explains the pattern that English uses for dreams and imaginary situations.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "text": "If + present simple, will + infinitive",
+          "is_correct": false,
+          "feedback": "Present simple with will is the first conditional, which describes real future chances."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "If + past simple, will + infinitive",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Past simple with will mixes two different patterns, and the imagined result needs would."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "text": "If + past simple, would + infinitive",
+          "is_correct": true,
+          "feedback": "The second conditional uses the past simple after if and would plus the infinitive for the imagined result."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "If + present perfect, would + infinitive",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "The present perfect is not part of this pattern, because the if clause needs the past simple."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Unreal situations take the second conditional: past simple in the if clause and would plus the infinitive in the result.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v4",
+      "statement": "Explain why the sentence If you heat ice, it melts uses two present simple verbs.",
+      "context": "A student asks the teacher why the sentence has no will anywhere in it.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because the zero conditional describes one single event tomorrow",
+          "is_correct": false,
+          "feedback": "A single future event would need the first conditional, which puts will in the result clause."
+        },
+        {
+          "letter": "B",
+          "text": "Because the zero conditional imagines a situation that is impossible",
+          "is_correct": false,
+          "feedback": "An impossible situation belongs to the second conditional, which uses the past simple and would."
+        },
+        {
+          "letter": "C",
+          "text": "Because the zero conditional reports an event that finished yesterday",
+          "is_correct": false,
+          "feedback": "A finished event would need past tenses, as the third conditional does for unreal pasts."
+        },
+        {
+          "letter": "D",
+          "text": "Because the zero conditional states facts that are always true",
+          "is_correct": true,
+          "feedback": "The zero conditional expresses general truths, so the present simple appears in both clauses."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Melting ice is a scientific rule, and scientific rules take the zero conditional with the present simple in both clauses.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,83 +188,38 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v5",
+      "statement": "Read the sentence and choose what it expresses: If the bus arrives late, we will miss the museum.",
+      "context": "Marta tells her classmate about her plans for the school trip next week.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
+          "text": "A real possibility in the future and its likely result",
           "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "feedback": "Present simple with will is the first conditional, used for future situations the speaker sees as possible."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "A general truth that never changes",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "A general truth needs the zero conditional, with the present simple in both clauses and no will."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "An imaginary situation that will never happen",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "An imaginary situation is expressed by the second conditional, which uses would instead of will."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "A regret about something that did not happen",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "A regret about the past would use the third conditional, which needs had plus a participle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle",
-      "periodo": 7,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
-        },
-        {
-          "letter": "B",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
-        },
-        {
-          "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "This sentence is a first conditional: the speaker considers the late bus possible, so the result clause takes will.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,37 +234,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read the sentence and choose what it suggests: If I had a yacht, I would sail to Ibiza.",
+      "context": "Diego is describing a daydream during the break at his school in Valencia.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "text": "The situation is a fixed fact about the sea near Ibiza",
+          "is_correct": false,
+          "feedback": "A fixed fact would be a zero conditional sentence, with the present simple in both parts."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "text": "The situation is imaginary, because Diego does not have a yacht",
+          "is_correct": true,
+          "feedback": "Past simple with would is the second conditional, which signals that the situation is unreal or imagined."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The situation is a firm plan for next summer",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "A firm plan for the future fits the first conditional, which uses will for the result."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The situation is a promise about an exam next week",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "A promise about the future also takes the first conditional, because the speaker sees it as possible."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Because Diego uses had and would, he signals distance from reality: he is imagining a yacht, not planning one.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the zero conditional: If you heat water to 100 degrees, it ___.",
+      "context": "A science teacher in Madrid writes a rule about water on the whiteboard.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "text": "will boil",
+          "is_correct": false,
+          "feedback": "Will boil belongs to the first conditional, but a scientific fact does not describe one future event."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "would boil",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Would boil would turn the sentence into a second conditional and suggest the boiling is imaginary."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "text": "boils",
+          "is_correct": true,
+          "feedback": "The zero conditional needs the present simple in the result clause, so boils is correct."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "boiled",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Boiled is past simple, but the zero conditional describes what is always true, so the past is wrong."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Water boiling at 100 degrees is a general law, and general laws take the present simple in both clauses of a zero conditional.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the first conditional: If it rains tomorrow, we ___ the match.",
+      "context": "Lucia checks the weather forecast before the football match on Saturday.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "letter": "A",
+          "text": "cancel",
+          "is_correct": false,
+          "feedback": "Cancel alone would make this a zero conditional, but one specific Saturday is not a general truth."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "would cancel",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Would cancel creates the second conditional, which would present the rain as imaginary."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "will cancelled",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Will must be followed by the bare infinitive, so will cancelled is not a possible form."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "text": "will cancel",
+          "is_correct": true,
+          "feedback": "The first conditional puts will plus the bare infinitive in the result clause, so will cancel fits."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A real future possibility takes the first conditional: present simple after if and will plus infinitive in the result.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the second conditional: If I ___ rich, I would buy my parents a house.",
+      "context": "A student imagines a different life while writing a class essay about dreams.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "were",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "feedback": "The second conditional needs the past simple after if, and were is the classic form for this meaning."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "Am is present simple, which belongs to the zero or first conditional, not to an imaginary one."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "Will be is a future form, and the if clause of a second conditional never takes will."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "would be",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Would be cannot appear in the if clause, because would belongs only in the result clause."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "For the imagined state of being rich, the if clause takes the past simple, and were is the standard second conditional form.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Classify this sentence: If she studies hard, she will pass the exam.",
+      "context": "Two classmates compare sentences from their homework before handing it in.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "text": "Zero conditional",
+          "is_correct": false,
+          "feedback": "The zero conditional would need the present simple in both clauses, without will."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "text": "First conditional",
+          "is_correct": true,
+          "feedback": "Present simple after if with will in the result is the exact shape of the first conditional."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Second conditional",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "The second conditional would need the past simple after if and would in the result."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Third conditional",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "The third conditional would need the past perfect and would have, referring to the past."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The verb forms give it away: studies is present simple and will pass carries will, the signature of the first conditional.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is a zero conditional.",
+      "context": "A teacher asks the class to sort example sentences into three groups by type.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "If you mix blue and yellow, you will get green",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Will in the result clause makes this a first conditional, treating the mixing as one future event."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "If you mixed blue and yellow, you would get green",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Mixed with would is the second conditional, which would imagine the mixing as unreal."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "If you mix blue and yellow, you get green",
+          "is_correct": true,
+          "feedback": "Present simple in both clauses marks the zero conditional, which fits a permanent colour fact."
+        },
+        {
+          "letter": "D",
+          "text": "If you had mixed blue and yellow, you would have got green",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Had mixed with would have is the third conditional, which imagines a different past."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Colour mixing is a permanent rule of paint, so the zero conditional with two present simple verbs is the right choice.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is a second conditional.",
+      "context": "The class continues the sorting activity with sentences about imaginary plans.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "If I live by the sea, I will swim every morning",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Live with will swim is the first conditional, which treats the move to the coast as possible."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "If I live by the sea, I swim every morning",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Live with swim is the zero conditional, which would describe a habit that is always true."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "If I had lived by the sea, I would have swum every morning",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "Had lived with would have swum is the third conditional, which imagines a different past."
+        },
+        {
+          "letter": "D",
+          "text": "If I lived by the sea, I would swim every morning",
+          "is_correct": true,
+          "feedback": "Lived with would swim is the past simple plus would pattern that defines the second conditional."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Only the past simple lived with would swim creates the distance from reality that the second conditional needs.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that gives a real warning about tonight.",
+      "context": "Pablo wants to warn his younger brother about a realistic risk before the party tonight.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
           "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "text": "If you arrive after midnight, Mum will be angry",
+          "is_correct": true,
+          "feedback": "A real warning about tonight takes the first conditional, because the danger is genuinely possible."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "If you arrive after midnight, Mum is angry",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Mum is angry in a zero conditional describes a permanent fact, not a warning about one night."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "If you arrived after midnight, Mum would be angry",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Would be in the second conditional suggests the anger is imaginary, which weakens a real warning."
+        },
+        {
+          "letter": "D",
+          "text": "If you had arrived after midnight, Mum would have been angry",
+          "is_correct": false,
+          "feedback": "Would have been in the third conditional looks back at a past party that cannot change."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "Tonight is a real future situation, so the warning uses the first conditional with will in the result clause.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle",
       "periodo": 7,
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that gives advice in the softest way.",
+      "context": "A student wants to give advice in a gentle way during a speaking exam.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "If I am you, I apologise today",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "The pattern if I am you does not exist in English; the fixed form is if I were you."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "text": "If I were you, I would apologise today",
+          "is_correct": true,
+          "feedback": "If I were you with would is the fixed second conditional pattern used to soften advice."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "If I am you, I will apologise today",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Am you with will mixes a present form with a future result, so no speaker says it."
+        },
+        {
+          "letter": "D",
+          "text": "If I were you, I apologise today",
+          "is_correct": false,
+          "feedback": "Were without would breaks the pattern, and the soft advice structure needs would plus the infinitive."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "If I were you plus would is the classic way to soften advice, because it places the advice in an imagined world.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle",
       "periodo": 7,
@@ -639,37 +639,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that is written correctly.",
+      "context": "A teacher marks the common mistakes from the homework on the whiteboard.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "If she had more time, she will learn the guitar",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Will cannot follow a past simple if clause, because the imagined result needs would."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "If she has more time, she would learn the guitar",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "Has with would joins the clauses of two different conditionals, so the sentence fails."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "If she had more time, she would learn the guitar",
+          "is_correct": true,
+          "feedback": "Had with would learn matches the second conditional, which fits an imaginary lack of time."
+        },
+        {
+          "letter": "D",
+          "text": "If she would have more time, she learns the guitar",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Would does not belong in the if clause, and learns in the result describes a habit, not a dream."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "The imagined lack of time requires the second conditional: past simple had after if and would plus the infinitive.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,37 +684,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence about the lottery that is written correctly.",
+      "context": "The teacher continues with trickier examples where both clauses must match.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "letter": "A",
+          "text": "If I will win the lottery, I would travel the world",
+          "is_correct": false,
+          "feedback": "Will never appears in the if clause of a second conditional, which takes the past simple."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "If I won the lottery, I will travel the world",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "Won with will mixes a second conditional condition with a first conditional result."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "If I would win the lottery, I travel the world",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Would cannot start the if clause, and travel in the result reads as a habit, not a dream."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "text": "If I won the lottery, I would travel the world",
+          "is_correct": true,
+          "feedback": "Won with would travel is a correct second conditional, imagining an unlikely future win."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "An unlikely future win takes the second conditional, so the if clause needs won and the result needs would travel.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -729,40 +729,40 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Compare these two sentences: If we book now, we will pay less. If we booked now, we would pay less. Then choose the difference between them.",
+      "context": "A student compares two sentences about the same trip to understand the difference.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The first imagines booking as unlikely and the second sees it as possible",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
+          "feedback": "Booked with would is the second conditional, which presents the booking as unlikely or imaginary."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The first is about the past and the second is about the future",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Neither sentence contains a past perfect form, so neither one refers to the past."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The first is a general truth and the second is a regret",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "A general truth would take the zero conditional and a regret would take the third."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Both sentences mean exactly the same thing",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "The two conditionals signal different likelihood, so the meanings do not match."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "Would plus the past simple adds distance from reality, so the second sentence treats booking as less likely than the first.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle",
       "periodo": 7,
@@ -774,37 +774,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses a future plan depending on a real condition.",
+      "context": "Sofia writes a message to her host family in Dublin about her weekend plans.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "If the weather were fine on Sunday, we would go to the coast",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Were with would go imagines the weather as unreal, which does not fit a genuine plan."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "If the weather is fine on Sunday, we will go to the coast",
+          "is_correct": true,
+          "feedback": "Is with will go is the first conditional, which fits a real plan that depends on the forecast."
+        },
+        {
+          "letter": "C",
+          "text": "If the weather is fine on Sunday, we go to the coast",
           "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "Go without will reads as a zero conditional habit, which cannot describe one specific Sunday."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "If the weather had been fine on Sunday, we would have gone to the coast",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "Had been with would have gone refers to a past Sunday, so the plan could no longer change."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A plan for this Sunday depends on real weather, so the first conditional with will is the natural choice.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,37 +819,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Explain why If I were a bird, I would fly over the mountains is a correct second conditional.",
+      "context": "During revision the teacher asks students to defend the tenses in model sentences.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "Because were and would show that the speaker describes a routine",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "A routine would need the zero conditional, with the present simple in both clauses."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "Because were and would show that the speaker remembers a flight",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "A memory of a real flight would use past forms throughout, without would."
+        },
+        {
+          "letter": "C",
+          "text": "Because were and would show that the speaker is only imagining",
+          "is_correct": true,
+          "feedback": "The past simple with would creates the unreal distance that defines the second conditional."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Because were and would show that the speaker predicts a certain future",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "A certain prediction about the future takes the first conditional with will, not would."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "Were plus would signal that the speaker is not really a bird, which is exactly the unreal meaning the second conditional carries.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that talks about an imaginary situation rather than a real plan.",
+      "context": "A student finishes a class survey about dreams and real plans at a school in Seville.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "If I speak Japanese, I will work as a translator",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Speak with will work treats learning Japanese as a real option, so it is a first conditional plan."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "If I speak Japanese, I work as a translator",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "Speak with work states a general rule and fits the zero conditional, not an imaginary case."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "If I spoke Japanese, I will work as a translator",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "Spoke with will mixes a second conditional condition with a first conditional result."
+        },
+        {
+          "letter": "D",
+          "text": "If I spoke Japanese, I would work as a translator",
+          "is_correct": true,
+          "feedback": "Spoke with would work presents Japanese as a skill the speaker lacks, an imagined situation."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Spoke with would work creates distance from reality, so the sentence clearly imagines a skill the speaker does not have.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

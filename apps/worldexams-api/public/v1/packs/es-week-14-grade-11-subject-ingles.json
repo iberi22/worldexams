@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct comparative form of the adjective tall.",
+      "context": "A teacher reviews adjective forms with the class before the term test.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "taller",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
+          "feedback": "Tall is a short adjective, so the comparative adds the suffix er and the word than."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "more tall",
           "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "feedback": "More tall is wrong because short adjectives take the er suffix, not the word more."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "tallest",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "Tallest is the superlative form, which compares three or more things, not two."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "most tall",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "Most tall mixes the two patterns: short adjectives form the superlative with est."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Short adjectives of one syllable form the comparative with er plus than, never with more.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,37 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct superlative form of the adjective busy.",
+      "context": "A student prepares a list of adjective forms for the English exam.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "the more busy",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "More busy is not a superlative: two-syllable adjectives like busy take the est form here."
         },
         {
           "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "text": "the busiest",
+          "is_correct": true,
+          "feedback": "Busy ends in a consonant plus y, so the y changes to i and the superlative suffix est is added."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "the busier",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "The busier is comparative, used to compare exactly two things, not to name the top one."
+        },
+        {
+          "letter": "D",
+          "text": "more busy than",
+          "is_correct": false,
+          "feedback": "More busy than is a comparative phrase and cannot express the highest degree of all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Adjectives ending in consonant plus y change y to i before adding the superlative suffix est.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -99,37 +99,37 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that completes correctly: This documentary is ______ than the one we saw yesterday.",
+      "context": "Two friends compare documentary films they watched last weekend.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "text": "interestinger",
+          "is_correct": false,
+          "feedback": "Interestinger is wrong because long adjectives never take the er suffix directly."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "most interesting",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "Most interesting is superlative and needs the, but the sentence compares only two films."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "text": "more interesting",
+          "is_correct": true,
+          "feedback": "Interesting has four syllables, so long adjectives form the comparative with more plus than."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "as interesting",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "As interesting is incomplete: equality needs the pattern as interesting as."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Adjectives of three or more syllables form the comparative with more and never take the er suffix.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -144,36 +144,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct comparative of the adjective good to complete: This team plays ______ than ours.",
+      "context": "A coach compares the results of two football matches in the league.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
+          "letter": "A",
+          "text": "gooder",
+          "is_correct": false,
+          "feedback": "Gooder does not exist: good is an irregular adjective with the fixed form better."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "more good",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "More good is wrong because irregular adjectives never combine good with more."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "best",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
+          "feedback": "Best is the superlative of good, reserved for comparing three or more teams."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "text": "better",
+          "is_correct": true,
+          "feedback": "Good is irregular, so its comparative is better and no suffix or more is needed."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Good is irregular: its comparative is better and its superlative is best, with no more or suffix.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,126 +189,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete with the correct equality structure: Ana is ______ her sister.",
+      "context": "Two students compare their heights at the school medical check.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "text": "as tall as",
+          "is_correct": true,
+          "feedback": "Equality between two people uses the fixed pattern as plus adjective plus as."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "so tall as",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "So tall as only appears in negatives such as not so tall as, never in positive sentences."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "as tall than",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "As tall than mixes the two patterns: as pairs with as, while than belongs to comparatives."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "taller as",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "Taller as is wrong because the comparative taller must be followed by than, not as."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Affirmative equality always uses as plus adjective plus as; so replaces as only after a negative.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -323,37 +233,127 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v6",
+      "statement": "Complete correctly: This plan is not ______ expensive ______ the other one.",
+      "context": "A family compares two phone plans before signing a contract.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "letter": "A",
+          "text": "so ... than",
+          "is_correct": false,
+          "feedback": "So ... than is a mixed structure; so appears only with as in negative equality sentences."
         },
         {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "letter": "B",
+          "text": "as ... as",
+          "is_correct": true,
+          "feedback": "Not as plus adjective plus as is the standard pattern for saying something is equal or lower."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "as ... than",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "As ... than is impossible because the second element of equality is always as, never than."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "more ... as",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "More ... as confuses comparison of superiority with the equality pattern as ... as."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Negative equality uses not as plus adjective plus as, and the second as can never be replaced.\n---",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v7",
+      "statement": "Choose the corrected version of the sentence: This exercise is more easier than the last one.",
+      "context": "A tutor marks a test where students wrote their own comparison sentences.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "This exercise is more easier than the last one.",
+          "is_correct": false,
+          "feedback": "The original error stays: more and the er suffix are two comparative markers used together."
+        },
+        {
+          "letter": "B",
+          "text": "This exercise is more easy than the last one.",
+          "is_correct": false,
+          "feedback": "More easy is not a form; short adjectives like easy take the er suffix instead of more."
+        },
+        {
+          "letter": "C",
+          "text": "This exercise is easier than the last one.",
+          "is_correct": true,
+          "feedback": "Removing more fixes the double comparative: easy already becomes easier on its own."
+        },
+        {
+          "letter": "D",
+          "text": "This exercise is easiest than the last one.",
+          "is_correct": false,
+          "feedback": "Easiest is the superlative and cannot be followed by than, which signals comparison of two."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A double comparative is always an error: one marker, the suffix er or more, must be chosen.\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v8",
+      "statement": "Complete the comparative distance sentence: My route is ______ than yours.",
+      "context": "Two runners discuss the distance of their training routes in the park.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more far",
+          "is_correct": false,
+          "feedback": "More far is wrong: far is irregular and never combines with more in the comparative."
+        },
+        {
+          "letter": "B",
+          "text": "farer",
+          "is_correct": false,
+          "feedback": "Farer does not exist; the irregular form farther replaces any regular formation."
+        },
+        {
+          "letter": "C",
+          "text": "the farthest",
+          "is_correct": false,
+          "feedback": "The farthest is a superlative, but the sentence compares only two routes with than."
+        },
+        {
+          "letter": "D",
+          "text": "farther",
+          "is_correct": true,
+          "feedback": "Far has two irregular comparative forms, farther and further, and both fit here."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Far is irregular: farther and further are its comparatives, while farer is never correct.\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,216 +369,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct intensifier: The final was ______ more exciting than the semifinal.",
+      "context": "An editor reviews an article about two rival sports teams in the city.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "much",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Much strengthens a comparative, and much more exciting is the correct intensified form."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "very",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "Very cannot modify a comparative; it works with the plain adjective, as in very exciting."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "so",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "So fits patterns like so exciting that, but it cannot strengthen the form more exciting."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "too",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "Too means excess and is followed by to in result clauses, so it does not modify comparatives."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "Comparatives are strengthened by much or far, while very and so only modify the plain adjective.\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -593,37 +413,217 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v10",
+      "statement": "Choose the sentence that expresses inferiority correctly.",
+      "context": "A store manager compares this month's sales with last month's figures.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "This month's sales are less lower than last month's.",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "Less lower doubles the marking of inferiority, because less and the er suffix do the same job."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "text": "This month's sales are lower than last month's.",
+          "is_correct": true,
+          "feedback": "Lower than is the regular comparative of low and expresses inferiority with no extra words."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "This month's sales are more low than last month's.",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "More low is impossible: short adjectives form the comparative with the er suffix alone."
+        },
+        {
+          "letter": "D",
+          "text": "This month's sales are not lower as last month's.",
+          "is_correct": false,
+          "feedback": "Not lower as mixes two patterns, since the negative equality form is not as low as."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferiority is expressed by the plain er form with than, or by less plus adjective, never both.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v11",
+      "statement": "Choose the sentence that uses the proportional pattern correctly.",
+      "context": "A debate coach explains how two growing quantities can be linked in one sentence.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "More you practise, better you speak.",
+          "is_correct": false,
+          "feedback": "Dropping the two the words removes the fixed structure that links the two clauses."
+        },
+        {
+          "letter": "B",
+          "text": "The more you practise, you speak better.",
+          "is_correct": false,
+          "feedback": "The second clause must also start with the; a plain clause breaks the parallel structure."
+        },
+        {
+          "letter": "C",
+          "text": "The more you practise, the better you speak.",
+          "is_correct": true,
+          "feedback": "The proportional pattern needs the before both parts: the more, the better."
+        },
+        {
+          "letter": "D",
+          "text": "You practise more, the better you speak.",
+          "is_correct": false,
+          "feedback": "The first clause cannot stand alone; it must carry the and stay inside the pattern."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Two parallel changes use the plus comparative in each clause: the more, the better.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v12",
+      "statement": "Choose the correct superlative sentence.",
+      "context": "A film critic writes about a thriller that premiered at the local cinema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is the best film I have never seen.",
+          "is_correct": false,
+          "feedback": "Never contradicts the praise, because the speaker claims to have seen the film."
+        },
+        {
+          "letter": "B",
+          "text": "It is the better film I have ever seen.",
+          "is_correct": false,
+          "feedback": "Better is comparative and cannot introduce a clause that names a whole life experience."
+        },
+        {
+          "letter": "C",
+          "text": "It is the most best film I have ever seen.",
+          "is_correct": false,
+          "feedback": "Most best doubles the superlative marking: best is already the top form of good."
+        },
+        {
+          "letter": "D",
+          "text": "It is the best film I have ever seen.",
+          "is_correct": true,
+          "feedback": "Ever with the present perfect is the standard partner of a superlative about experience."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
+      "explanation": "Superlatives of experience pair with ever and the present perfect, not with never or comparatives.\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v13",
+      "statement": "Complete with the correct equality structure for adverbs: Paula runs ______ Marta does.",
+      "context": "A sports commentator compares two sprinters in the final metres of a race.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "as quickly as",
+          "is_correct": true,
+          "feedback": "Adverbs follow the same equality pattern as adjectives: as quickly as."
+        },
+        {
+          "letter": "B",
+          "text": "as quicklier as",
+          "is_correct": false,
+          "feedback": "Quicklier does not exist; quickly forms its comparative with more, not with the er suffix."
+        },
+        {
+          "letter": "C",
+          "text": "so quickly than",
+          "is_correct": false,
+          "feedback": "So quickly than mixes the negative so with the comparative word than in one structure."
+        },
+        {
+          "letter": "D",
+          "text": "as more quickly as",
+          "is_correct": false,
+          "feedback": "As more quickly as stacks the equality frame around a comparative, which breaks the pattern."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The as adverb as frame works for adverbs too, and quickly never takes an er ending.\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v14",
+      "statement": "Choose the correct way to single out one member of a pair of two.",
+      "context": "Two cousins argue about which of the family's two cars is roomier.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The largest of the two cars is ours.",
+          "is_correct": false,
+          "feedback": "The largest compares three or more items, so it clashes with the phrase of the two."
+        },
+        {
+          "letter": "B",
+          "text": "The larger of the two cars is ours.",
+          "is_correct": true,
+          "feedback": "With exactly two items, English uses the comparative plus of the two, not the superlative."
+        },
+        {
+          "letter": "C",
+          "text": "The more large of the two cars is ours.",
+          "is_correct": false,
+          "feedback": "More large is not a form, because large is a short adjective that takes the er suffix."
+        },
+        {
+          "letter": "D",
+          "text": "Larger of the two cars is ours.",
+          "is_correct": false,
+          "feedback": "Dropping the leaves the noun phrase without the definite article it needs here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "When a group has only two members, the comparative with of the two replaces the superlative.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,37 +639,37 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct intensified superlative: This is ______ album of the year.",
+      "context": "A music blog ranks the new albums released by several national artists.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "the very most original",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "Very cannot strengthen a superlative directly in this position before the."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "by far the more original",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "More original is comparative and cannot complete the phrase album of the year."
+        },
+        {
+          "letter": "C",
+          "text": "by far the most original",
+          "is_correct": true,
+          "feedback": "By far sits before the full superlative and signals a clear distance from the rest."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "much the most original",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "Much cannot precede the superlative phrase; by far or easily do that job."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "The intensifier by far attaches to the complete superlative phrase, not to a comparative.\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,36 +684,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct multiplicative comparison.",
+      "context": "A geography project compares the areas of two neighboring regions on a map.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "Region A is as twice large as region B.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "As twice large as puts the multiplier inside the equality frame, where it cannot stand."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Region A is two times larger as region B.",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "Larger as mixes the comparative word larger with as, which belongs to equality only."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Region A is larger twice than region B.",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "Larger twice than scrambles the order; the multiplier comes before as, not after."
+        },
+        {
+          "letter": "D",
+          "text": "Region A is twice as large as region B.",
+          "is_correct": true,
+          "feedback": "The multiplicative pattern is twice plus as plus adjective plus as."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Multipliers like twice and three times stand before the equality pattern: twice as large as.\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Evaluate the four sentences and choose the only grammatical one.",
+      "context": "A language exam asks candidates to judge four rewritten sentences.",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "text": "Nothing is more precious than time.",
+          "is_correct": true,
+          "feedback": "More precious than is the full comparative pattern, so the sentence is grammatical."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Nothing is more precious that time.",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "That cannot follow a comparative; the link word after more precious must be than."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "Nothing is so precious than time.",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "So belongs to the equality pattern so precious as, never to the comparative with than."
+        },
+        {
+          "letter": "D",
+          "text": "Nothing is much precious than time.",
+          "is_correct": false,
+          "feedback": "Much cannot modify the plain adjective precious here; the comparative more is missing."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Judging the sentences turns on one link word: a comparative always pairs with than.\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,81 +774,36 @@
     },
     {
       "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Evaluate the options and choose the best superlative for this review sentence: It was ______ meal of the whole trip.",
+      "context": "A student writes a review comparing three restaurants in the old town.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "the expensivest",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "The expensivest does not exist, because long adjectives never take the est suffix."
         },
         {
           "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "text": "the most expensive",
+          "is_correct": true,
+          "feedback": "Of the whole trip sets a superlative frame, so the long adjective needs the most."
         },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
         {
           "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
+          "text": "more expensive",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "More expensive is comparative and clashes with the frame that covers every meal."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "much expensive",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "Much expensive lacks a comparative or superlative marker, so the degree is not formed."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A frame like of the whole trip demands a superlative, and long adjectives take the most.\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -863,37 +818,82 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v19",
+      "statement": "Choose the sentence that a careful editor would accept without changes.",
+      "context": "An exam task asks which sentence a careful editor would accept without changes.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "Her new novel is not as gripping than her first one.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "The equality frame ends in as, so the comparative word than breaks the structure."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "Her new novel is less gripping as her first one.",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "Less gripping must pair with than, because less builds a comparative, not an equality."
+        },
+        {
+          "letter": "C",
+          "text": "Her new novel is not as gripping as her first one.",
+          "is_correct": true,
+          "feedback": "Not as gripping as is the standard negative equality pattern, so the editor accepts it."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Her new novel is not more gripping as her first one.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "Not more gripping as mixes the comparative more gripping with the equality word as."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "explanation": "Negative equality ends with as, while any comparative form built with less or more needs than.\n---",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle-v20",
+      "statement": "Evaluate the four versions and choose the correct progressive comparison.",
+      "context": "A city reporter describes how the traffic changes from one winter to the next.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The traffic gets more worse and worse every winter.",
+          "is_correct": false,
+          "feedback": "More worse doubles the comparative marking, since worse is already the form of comparison."
+        },
+        {
+          "letter": "B",
+          "text": "The traffic gets worse and more worse every winter.",
+          "is_correct": false,
+          "feedback": "The pattern repeats one form twice, so more cannot replace the second worse."
+        },
+        {
+          "letter": "C",
+          "text": "The traffic gets more and worse every winter.",
+          "is_correct": false,
+          "feedback": "Dropping the second worse leaves the frame incomplete, because and must join two forms."
+        },
+        {
+          "letter": "D",
+          "text": "The traffic gets worse and worse every winter.",
+          "is_correct": true,
+          "feedback": "The progressive pattern repeats the comparative: worse and worse, with no extra words."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Progressive degree repeats the same comparative after and: worse and worse, better and better.\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
