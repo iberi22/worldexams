@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must write a formal letter of complaint.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which opening is appropriate for a formal letter of complaint?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) Dear Sir or Madam,
+  <!-- feedback: Correct. 'Dear Sir or Madam' is the standard formal salutation when the recipient is unknown. -->
+- [ ] B) Dear Mate,
+  <!-- feedback: Wrong. 'Dear Mate' is a familiar form of address used among peers. -->
+- [ ] C) Hey,
+  <!-- feedback: Wrong. 'Hey' is far too informal for a complaint to an organisation. -->
+- [ ] D) Hi there,
+  <!-- feedback: Wrong. 'Hi there' is conversational and belongs to an informal message. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A formal letter opens with a full salutation and a conventional form of address appropriate to an unknown recipient.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must close a formal letter.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which closing is appropriate for a formal letter?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) See you soon,
+  <!-- feedback: Wrong. 'See you soon' is a friendly phrase that does not close a formal letter. -->
+- [x] B) Yours faithfully,
+  <!-- feedback: Correct. 'Yours faithfully' is the standard neutral formal closing used when the recipient's name is not addressed in the salutation. -->
+- [ ] C) Love,
+  <!-- feedback: Wrong. 'Love' is an affectionate closing used between people who know each other. -->
+- [ ] D) Bye for now,
+  <!-- feedback: Wrong. 'Bye for now' is a casual sign-off used with friends. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The closing of a formal letter matches its opening: yours faithfully when the salutation did not name the recipient, and yours sincerely when it did.
+
 ---
-## Question 3 [D3-D4]
+
+## Question 3 [D3-D5]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must report information in a formal letter.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the sentence that reports information correctly in a formal register.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) Just letting you know they moved the booking to March.
+  <!-- feedback: Wrong. 'Just letting you know' is conversational and 'they' leaves the agent vague. -->
+- [ ] B) I'm writing to let you know the booking's been moved to the 12th of March.
+  <!-- feedback: Wrong. The contraction, 'let you know' and the ordinal date are all informal. -->
+- [x] C) I am writing to inform you that the booking has been moved to 12 March.
+  <!-- feedback: Correct. 'I am writing to inform you that' is the standard formal formula, and the full date is written out. -->
+- [ ] D) The booking, you will be aware, has been moved.
+  <!-- feedback: Wrong. 'You will be aware' presumes the reader's knowledge and gives no date. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Formal letters avoid contractions and conversational formulas, and they state dates and agents explicitly.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student must make a polite request in a formal letter.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the sentence that makes the request most politely in a formal register.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) Just confirm the arrangement by Friday, will you.
+  <!-- feedback: Wrong. 'Just' and 'will you' are both informal and the request is not softened. -->
+- [ ] B) You need to confirm the arrangement by Friday, apparently.
+  <!-- feedback: Wrong. 'Apparently' adds an irrelevant qualifier and 'need to' makes the demand abrupt. -->
+- [ ] C) Confirm the arrangement by Friday.
+  <!-- feedback: Wrong. The bare imperative gives an order and does not soften anything. -->
+- [x] D) I would be grateful if you could confirm the arrangement by Friday.
+  <!-- feedback: Correct. 'I would be grateful if you could' is a conventional formal structure that softens the request. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A formal request is softened with a conditional structure or with a modal verb such as would, rather than with a bare imperative.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must express dissatisfaction formally.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence that expresses formal dissatisfaction without overstating it.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) I am writing to express my dissatisfaction with the delay in responding to my previous letter.
+  <!-- feedback: Correct. 'I am writing to express my dissatisfaction' is the standard formal formula and names the issue precisely. -->
+- [ ] B) Look, the delay is rubbish.
+  <!-- feedback: Wrong. 'Look' and 'rubbish' belong to casual speech, not to a formal letter. -->
+- [ ] C) Honestly the delay is pretty poor and I'm not happy.
+  <!-- feedback: Wrong. 'Honestly', 'pretty poor' and 'not happy' are all informal. -->
+- [ ] D) This is unacceptable and somebody must sort it out.
+  <!-- feedback: Wrong. The sentence is shouted rather than formal, and 'somebody' leaves the responsibility unassigned. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Formal correspondence states dissatisfaction with a set formula and precise reference rather than with emotional shorthand.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Writing
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student must structure a formal letter.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which order of sections is standard for a formal letter?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] C) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) Salutation, anecdote, closing request, body with detail, formal sign-off.
+  <!-- feedback: Wrong. The anecdote and the closing request are placed before the body that should support them. -->
+- [x] B) Salutation, opening purpose, body with detail, closing request, formal sign-off.
+  <!-- feedback: Correct. This is the conventional order, moving from identification of purpose to detail and then to the request. -->
+- [ ] C) Closing request, salutation, body with detail, opening purpose, formal sign-off.
+  <!-- feedback: Wrong. The letter cannot begin with a request before the reader has been addressed or told its purpose. -->
+- [ ] D) Body with detail, salutation, opening purpose, formal sign-off, closing request.
+  <!-- feedback: Wrong. The sign-off cannot come before the closing request, and the salutation must open the letter. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+A formal letter follows a fixed order, and the salutation and sign-off frame a body that develops from purpose to detail.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D4-D6]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is checking the difference between the two formal closings.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+When is 'Yours sincerely' the correct closing rather than 'Yours faithfully'?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) When the letter is a complaint rather than a request.
+  <!-- feedback: Wrong. The choice depends on the salutation, not on the purpose of the letter. -->
+- [ ] B) When the recipient's name is unknown, as in 'Dear Sir or Madam'.
+  <!-- feedback: Wrong. An unnamed recipient is answered with 'Yours faithfully', which is the opposite of this. -->
+- [x] C) When the salutation named the recipient directly, as in 'Dear Dr Ramos'.
+  <!-- feedback: Correct. A named recipient in the salutation is answered with 'Yours sincerely'. -->
+- [ ] D) When the letter is addressed to more than one person.
+  <!-- feedback: Wrong. The number of recipients is not what determines the closing. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The two closings are chosen by whether the salutation named the recipient, which is a rule writers are expected to know precisely.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is revising a formal letter that is too informal.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which revision removes the informality from the request?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) Can you maybe send the replacement over whenever?
+  <!-- feedback: Wrong. 'Maybe' and 'whenever' make the request vague and conversational. -->
+- [ ] B) Send the replacement by courier when you get a chance.
+  <!-- feedback: Wrong. The bare imperative gives an instruction with no softening at all. -->
+- [ ] C) Could you chuck me the replacement by courier, cheers.
+  <!-- feedback: Wrong. 'Chuck me' and 'cheers' are both informal and out of place in a formal letter. -->
+- [x] D) I would appreciate it if you could send the replacement by courier.
+  <!-- feedback: Correct. 'I would appreciate it if you could' is a formal conditional request and the wording throughout is appropriate. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Formality in a request depends on the frame around the verb as much as on the verb itself, since even send becomes informal as an order.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v9
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student must refer to an earlier document in a formal letter.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence that refers to an earlier letter correctly and formally.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) I am writing in response to your letter of 3 May regarding the same matter.
+  <!-- feedback: Correct. 'In response to your letter of' plus the date is the standard formal formula for referring to earlier correspondence. -->
+- [ ] B) I am writing about the letter you sent me last week, the one about the matter.
+  <!-- feedback: Wrong. The trailing 'the one about the matter' is a conversational addition rather than a formal reference. -->
+- [ ] C) You wrote me a letter before about this and I am replying now.
+  <!-- feedback: Wrong. 'You wrote me a letter before' is informal and lacks a date. -->
+- [ ] D) As per your last letter thing, I am writing back about that.
+  <!-- feedback: Wrong. 'As per' and 'thing' are informal and the reference is imprecise. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+A formal letter references earlier correspondence by date using a set formula, since precision about records matters in official communication.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student must include contact details correctly in a formal letter.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence states contact details correctly for a formal letter?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) Ring me any time on 01 234 5678 if you want.
+  <!-- feedback: Wrong. 'Ring me' and 'if you want' are informal and the second channel is omitted. -->
+- [x] B) You can reach me on 01 234 5678 or at my address above at any time before the nineteenth.
+  <!-- feedback: Correct. The sentence gives both channels, refers to the address already provided and states the availability clearly. -->
+- [ ] C) Call me on 01 234 5678 whenever you can, thanks.
+  <!-- feedback: Wrong. 'Whenever you can, thanks' is conversational and does not state when the writer is available. -->
+- [ ] D) My number is 01 234 5678, but do not call me after six.
+  <!-- feedback: Wrong. The restriction on the time of day is unstated and 'do not call me' is inappropriate in a formal letter. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Formal correspondence states contact channels precisely and neutrally, without emotional qualification.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D5-D7]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student must apologise appropriately in a formal letter.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that offers an apology appropriate to a formal letter.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) Apologies for the delay, whatever.
+  <!-- feedback: Wrong. 'Whatever' dismisses the apology in the same sentence that offers it. -->
+- [ ] B) Sorry for the late reply, my bad.
+  <!-- feedback: Wrong. 'My bad' and 'sorry for' are informal and the apology is not properly framed. -->
+- [x] C) I am sorry for the delay in answering, which should not have occurred.
+  <!-- feedback: Correct. 'I am sorry for' plus a clear statement of what was delayed is a formal and complete apology. -->
+- [ ] D) Apologies, but honestly the delay was not really my fault.
+  <!-- feedback: Wrong. The second clause withdraws the apology, which defeats its purpose entirely. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A formal apology names what is being apologised for and does not retract the apology in the same sentence.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D5-D7]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A teacher asks a student to justify a formality choice in a letter.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which justification best explains the use of 'please do not hesitate to contact me' in a formal letter?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) It warns the reader that no further contact will be accepted.
+  <!-- feedback: Wrong. The phrase does the opposite of warning; it opens the door to contact. -->
+- [ ] B) It shortens the letter, since a short phrase replaces a full sentence.
+  <!-- feedback: Wrong. It does not replace a sentence but adds a courtesy the sentence did not contain. -->
+- [ ] C) It insists that the reader should make contact, which puts pressure on them.
+  <!-- feedback: Wrong. The phrase offers rather than insists; there is no pressure in it. -->
+- [x] D) It offers further help in a conventionally polite form, so the invitation carries no awkwardness.
+  <!-- feedback: Correct. The formula removes the social awkwardness of asking for further help, which is its communicative purpose. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+A formal courtesy formula is justified by the social function it performs, not by any effect on the length of the letter.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D5-D7]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is checking a formal letter for an unnecessary word.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which word in this sentence is unnecessary in formal English? 'We are writing in order to inform you that the meeting has been rescheduled.'
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) The word 'order', since 'writing to inform you' already expresses the purpose.
+  <!-- feedback: Correct. 'In order to' duplicates the purpose already expressed by 'to inform you'. -->
+- [ ] B) The word 'that', since a that-clause cannot follow 'inform you'.
+  <!-- feedback: Wrong. A that-clause is the normal complement of 'inform you'. -->
+- [ ] C) The word 'been', since the meeting has not been rescheduled at all.
+  <!-- feedback: Wrong. The passive participle is required after 'has'. -->
+- [ ] D) The word 'we', since formal letters must never name their own writer.
+  <!-- feedback: Wrong. Naming the writer is entirely normal in a formal letter. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Formal writing still benefits from removing duplicated markers, and 'in order to' is a frequent redundancy after a purpose infinitive.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D5-D7]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student is comparing two types of formal letter.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which distinction between a letter of complaint and a letter of enquiry is accurate?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) A complaint asks for information, while an enquiry states a problem and expects nothing further.
+  <!-- feedback: Wrong. The two purposes are reversed in this option. -->
+- [x] B) A complaint states a problem and usually implies what remedy is wanted, while an enquiry asks for information without stating a problem.
+  <!-- feedback: Correct. This states the distinct purpose of each type and what each type does or does not assume. -->
+- [ ] C) An enquiry must open with 'Dear Sir or Madam', while a complaint must name the recipient.
+  <!-- feedback: Wrong. The salutation depends on whether the recipient is named, not on the type of letter. -->
+- [ ] D) Both types require the writer to state a fault, since a formal letter must contain a grievance.
+  <!-- feedback: Wrong. A formal letter may contain no grievance at all, as in a simple enquiry. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The choice of letter type determines what the writer is asking for, and the content must match that purpose.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D6-D8]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is correcting a register error in a formal letter.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which revision corrects the register problem in 'Kindly do the needful and revert back at your earliest convenience'?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) Please do the needful soon, thanks very much.
+  <!-- feedback: Wrong. 'Do the needful' is a regional idiom and 'thanks very much' is informal here. -->
+- [ ] B) Please just get it sorted and let me know soon, please.
+  <!-- feedback: Wrong. 'Just get it sorted' and 'let me know' are informal. -->
+- [x] C) Please carry out the necessary action and respond as soon as possible.
+  <!-- feedback: Correct. 'Carry out the necessary action' and 'as soon as possible' are formal and unambiguous. -->
+- [ ] D) Kindly do whatever is needed and reply back soon.
+  <!-- feedback: Wrong. 'Kindly' and 'revert back' are retained, so the register problem is not addressed. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Register errors in formal correspondence are corrected by replacing idiomatic and colloquial items with standard formal wording.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D6-D8]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Evaluate
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is deciding how much detail a formal letter should contain.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which description best explains what belongs in the body of a formal complaint?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] C) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) An emotional description of how the problem made the writer feel, in place of the facts.
+  <!-- feedback: Wrong. Emotion may be present but cannot replace the factual account in a formal complaint. -->
+- [ ] B) A brief statement of the complaint with no supporting facts, since formality discourages detail.
+  <!-- feedback: Wrong. Formality does not discourage detail; it makes detail more necessary, since the claim must be verifiable. -->
+- [ ] C) A full account of every problem the writer has ever had with the organisation.
+  <!-- feedback: Wrong. Including unrelated past problems would obscure the specific complaint being made. -->
+- [x] D) A precise account of the facts, the date and reference of earlier contact, and the outcome the writer seeks.
+  <!-- feedback: Correct. This gives the three components a complaint body requires: facts, record and requested remedy. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The body of a formal letter is organised by what the reader needs in order to act on the request, not by what the writer feels.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D4-D6]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.75
+**Contexto:** A student must begin the body of a formal letter.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence is an appropriate opening sentence for the body of a formal letter of enquiry?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) I am writing to ask about the arrangements for the residential course in July.
+  <!-- feedback: Correct. The sentence names the purpose of the letter and the specific matter being asked about. -->
+- [ ] B) I am writing about the course, because I am writing about the course.
+  <!-- feedback: Wrong. The sentence repeats 'about the course' and never states what the writer wants. -->
+- [ ] C) Writing to ask, the course in July, arrangements.
+  <!-- feedback: Wrong. The word order is scrambled and the sentence does not form a coherent clause. -->
+- [ ] D) I am writing to ask about the course. It is in July.
+  <!-- feedback: Wrong. The first sentence states the topic without a purpose, and the second is a bare note. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The opening sentence of a formal letter body names the purpose and the matter, so the reader knows why the letter exists.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D5-D7]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Writing
+**Expected_Success:** 0.70
+**Contexto:** A student must acknowledge a problem in a formal letter.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence acknowledges an error on the writer's own part appropriately?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) Sorry about the slow reply, my bad.
+  <!-- feedback: Wrong. 'Sorry about' and 'my bad' are informal and belong to speech rather than a formal letter. -->
+- [x] B) I should have replied sooner, and I am sorry for the delay this caused.
+  <!-- feedback: Correct. The sentence owns the delay, uses a formal modal and apologises for the consequence. -->
+- [ ] C) I did not reply soon, which is fine given the circumstances.
+  <!-- feedback: Wrong. 'Which is fine' dismisses the delay and accepts no responsibility for it. -->
+- [ ] D) The reply was late, apparently through no fault of mine.
+  <!-- feedback: Wrong. 'Apparently through no fault of mine' shifts blame rather than acknowledging the error. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Acknowledging an error in a formal letter means owning it and apologising for its effect, without shifting blame.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D6-D8]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Writing
+**Expected_Success:** 0.65
+**Contexto:** A student is checking a formal letter for a missing courtesy element.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which element is missing from this letter, which otherwise reads correctly? 'Dear Dr Ramos, I am writing to confirm my attendance on 4 March. Yours sincerely,'
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) A date at the top of the letter, which is required by convention.
+  <!-- feedback: Wrong. A date is conventional but its absence is not the defect the question is targeting. -->
+- [ ] B) A subject line, which is required in every formal letter.
+  <!-- feedback: Wrong. A subject line is a feature of email headings, not a requirement of a formal letter. -->
+- [x] C) An expression of thanks or an offer of further help before the sign-off.
+  <!-- feedback: Correct. Formal convention expects a courtesy before the sign-off, either thanks or an offer of further assistance. -->
+- [ ] D) The writer's own signature, which must appear on the page in all cases.
+  <!-- feedback: Wrong. A handwritten signature is not required on every letter, and it is not the missing element here. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A formal letter normally closes the body with a courtesy or an offer of further help before the sign-off.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Writing
+**Expected_Success:** 0.60
+**Contexto:** A student is deciding whether to keep a sentence in a formal letter.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is least necessary in a short formal letter?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) Yours sincerely,
+  <!-- feedback: Wrong. The sign-off is a required element of a formal letter. -->
+- [ ] B) Thank you for your help with this matter.
+  <!-- feedback: Wrong. The expression of thanks is a normal courtesy in a formal letter. -->
+- [ ] C) I am writing to confirm the arrangement for 12 March.
+  <!-- feedback: Wrong. The sentence states the purpose of the letter and cannot be removed. -->
+- [x] D) As stated in my letter of 3 May, the arrangement is now confirmed for 12 March.
+  <!-- feedback: Correct. The sentence restates earlier correspondence, and the same information is already in the second sentence. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+In a short letter, a reference that duplicates information already in the letter can be cut without losing anything the reader needs.

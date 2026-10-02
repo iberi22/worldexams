@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If I (have) more free time, I would learn to play the guitar.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct form of 'have' for a second conditional sentence.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] B) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) If I had more free time, I would learn to play the guitar.
+  <!-- feedback: Correct! 'Had' is the past of 'have' used in the if clause of a second conditional, which describes an unreal present situation. -->
+- [ ] B) If I have more free time, I would learn to play the guitar.
+  <!-- feedback: 'If I have' describes a real present situation, so it would require the present conditional rather than 'would' in the main clause. -->
+- [ ] C) If I would have more free time, I would learn to play the guitar.
+  <!-- feedback: 'If I would have' mixes a modal with the past of 'have' and is not the form an if clause takes. -->
+- [ ] D) If I having more free time, I would learn to play the guitar.
+  <!-- feedback: 'If I having' needs the -ing form only after 'be', so the clause would have to be written as 'if I were having'. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The second conditional describes an imaginary or unlikely present situation. Its two halves are 'if' plus the past simple and 'would' plus the base form: if I were rich, I would travel.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If she (study) harder, she would pass the exam.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the second conditional with the correct form of the verb in brackets.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) If she study harder, she would pass the exam.
+  <!-- feedback: 'Study' has no ending, but the past simple of 'study' is 'studied' with the -y changed to -ied. -->
+- [ ] B) If she studies harder, she would pass the exam.
+  <!-- feedback: 'Studies' is the present simple, which belongs to the first conditional and describes a real possibility. -->
+- [ ] C) If she would study harder, she would pass the exam.
+  <!-- feedback: 'Would study' places a modal in the if clause, which is not how a second conditional is built. -->
+- [x] D) If she studied harder, she would pass the exam.
+  <!-- feedback: Correct! 'Studied' is the past simple used in the if clause of a second conditional, and 'would pass' completes the pattern. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+In a second conditional the if clause carries the past simple and the main clause carries 'would' plus the base form. The whole sentence describes a situation that is imagined rather than real.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** If I had known about the exam, I (would study) much more.
+
+### Enunciado
+Choose the correct form to complete a third conditional sentence.
+
+### Opciones
+- [ ] A) If I knew about the exam, I would have studied much more.
+  <!-- feedback: 'Knew' is the past simple and belongs to the second conditional, which talks about the present or the future. -->
+- [x] B) If I had known about the exam, I would have studied much more.
+  <!-- feedback: Correct! 'Had known' and 'would have studied' are the two halves of a third conditional, which describes an unreal situation in the past. -->
+- [ ] C) If I had known about the exam, I would study much more.
+  <!-- feedback: 'Would study' is the second conditional main clause; the third conditional requires 'would have' plus the past participle. -->
+- [ ] D) If I have known about the exam, I would have studied much more.
+  <!-- feedback: 'Have known' is a present perfect and cannot appear in the if clause of a third conditional. -->
+
+### Explicacion Pedagogica
+The third conditional describes an unreal past situation: if I had known, I would have acted differently. Its two halves are 'if' plus 'had' plus the past participle and 'would have' plus the past participle.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If we (take) an umbrella, we won't get wet.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the first conditional with the correct form of the verb in brackets.
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) If we had taken an umbrella, we wouldn't have got wet.
+  <!-- feedback: 'Had taken' with 'wouldn't have got' is the third conditional, which describes an unreal situation in the past. -->
+- [ ] B) If we took an umbrella, we wouldn't get wet.
+  <!-- feedback: 'Took' with 'wouldn't get' belongs to the second conditional, which describes an unlikely present situation. -->
+- [x] C) If we take an umbrella, we won't get wet.
+  <!-- feedback: Correct! 'Take' in the present simple and 'won't get' in the main clause form a first conditional about a real future possibility. -->
+- [ ] D) If we would take an umbrella, we wouldn't get wet.
+  <!-- feedback: 'Would take' places a modal in the if clause, which does not happen in a first conditional. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The first conditional describes a real and possible future situation: if it rains, we will stay at home. It uses the present simple in the if clause and 'will' plus the base form in the main clause.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If I (be) taller, I could play basketball professionally.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the second conditional with the correct form of the verb 'be'.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] C) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) If I were taller, I could play basketball professionally.
+  <!-- feedback: Correct! 'Were' is the past subjunctive used in the if clause of a second conditional, matching 'could' in the main clause. -->
+- [ ] B) If I am taller, I could play basketball professionally.
+  <!-- feedback: 'Am' is the present form of 'be'; a second conditional needs the past form because it describes an imaginary situation. -->
+- [ ] C) If I will be taller, I could play basketball professionally.
+  <!-- feedback: 'Will be' is a future form and belongs with 'will' or 'shall' in the main clause, not with 'could' in an if clause. -->
+- [ ] D) If I being taller, I could play basketball professionally.
+  <!-- feedback: 'Being' needs an auxiliary before it, so the clause cannot open with 'if I being'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+In a second conditional, the verb 'to be' in the if clause takes 'were' for every person: if I were you, if she were here, if they were cheaper. This 'were' is often called the subjunctive and it survives in modern English mainly in conditionals and wishes.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If they had left earlier, they (would catch) the train to Quito.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the third conditional with the correct form of the verb in brackets.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) If they had left earlier, they would catch the train to Quito.
+  <!-- feedback: 'Would catch' is the main clause of a second conditional; the third conditional requires 'would have' plus the participle. -->
+- [ ] B) If they left earlier, they would have caught the train to Quito.
+  <!-- feedback: 'Left' is the past simple and belongs to the second conditional, not to a situation in the past. -->
+- [x] C) If they had left earlier, they would have caught the train to Quito.
+  <!-- feedback: Correct! 'Had left' and 'would have caught' are the two halves of a third conditional, and 'catch' has the irregular participle 'caught'. -->
+- [ ] D) If they had been leave earlier, they would have caught the train to Quito.
+  <!-- feedback: 'Had been leave' uses a participle after 'been' where the third conditional needs the past simple of 'leave', which is 'left'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The third conditional describes what would have happened under a different past condition. Irregular verbs change their participle in this structure, so 'catch' becomes 'caught' in 'would have caught'.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Would you help me if I (ask) you politely?
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence that correctly completes a question in the second conditional.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] C) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) Would you help me if I asking you politely?
+  <!-- feedback: 'Asking' needs the auxiliary 'were' before it, so the clause would be written as 'if I were asking'. -->
+- [ ] B) Would you help me if I ask you politely?
+  <!-- feedback: 'Ask' is the present simple and belongs to the first conditional, which describes a real situation. -->
+- [ ] C) Would you help me if I would ask you politely?
+  <!-- feedback: 'Would ask' places a modal in the if clause, which is not part of the conditional structure. -->
+- [x] D) Would you help me if I asked you politely?
+  <!-- feedback: Correct! 'Asked' is the past simple of the if clause and 'would help' is the main clause of the second conditional. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A question in the second conditional keeps the same two halves as a statement: 'would' plus the base form in the main clause and the past simple in the if clause. Only the question mark distinguishes it.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If I had studied medicine, I (would work) in a hospital now.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence that correctly uses a mixed conditional.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) If I studied medicine, I would have worked in a hospital now.
+  <!-- feedback: 'Studied' with 'would have worked' would make the consequence also a past event, producing a third conditional. -->
+- [x] B) If I had studied medicine, I would work in a hospital now.
+  <!-- feedback: Correct! The condition is in the past and the consequence is in the present, which is the mixed conditional. -->
+- [ ] C) If I have studied medicine, I would work in a hospital now.
+  <!-- feedback: 'Have studied' is a present perfect and cannot describe the unreal condition of a mixed conditional. -->
+- [ ] D) If I had studied medicine, I would worked in a hospital now.
+  <!-- feedback: 'Would worked' mixes the modal with a past form of the verb, which never happens in English. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A mixed conditional links an unreal past condition with a present or future consequence: if I had studied, I would work there now. If I had studied, I would have worked there. The first speaks about the present, the second about the past.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] C) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] C) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If she hadn't slept so late, she (would not miss) the first lecture.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the third conditional negative with the correct form of the verb in brackets.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] C) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) If she hadn't slept so late, she wouldn't have missed the first lecture.
+  <!-- feedback: Correct! 'Hadn't slept' negates the past condition and 'wouldn't have missed' negates the past consequence with the participle. -->
+- [ ] B) If she didn't sleep so late, she wouldn't have missed the first lecture.
+  <!-- feedback: 'Didn't sleep' is a first conditional condition, which does not match 'wouldn't have missed' in the main clause. -->
+- [ ] C) If she hadn't slept so late, she wouldn't miss the first lecture.
+  <!-- feedback: 'Wouldn't miss' is a second conditional consequence; the third conditional requires 'wouldn't have' plus the participle. -->
+- [ ] D) If she hadn't slept so late, she wouldn't have miss the first lecture.
+  <!-- feedback: 'Wouldn't have miss' uses the base form after 'have'; that construction needs the past participle 'missed'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A negative third conditional negates both halves independently: if it hadn't rained, we wouldn't have gone. Each half keeps its own auxiliary, 'hadn't' in the condition and 'wouldn't have' in the consequence.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** I don't know where she is. If I (know), I would tell you.
+
+### Enunciado
+Complete the second conditional with the correct form of the verb 'know'.
+
+### Opciones
+- [ ] A) If I know, I would tell you where she is.
+  <!-- feedback: 'Know' is the present simple, which would require 'will tell' rather than 'would tell' in the main clause. -->
+- [x] B) If I knew, I would tell you where she is.
+  <!-- feedback: Correct! 'Knew' is the past simple in the if clause and 'would tell' completes the second conditional pattern. -->
+- [ ] C) If I would know, I would tell you where she is.
+  <!-- feedback: 'Would know' places a modal in the if clause, which is not part of the conditional structure. -->
+- [ ] D) If I have known, I would tell you where she is.
+  <!-- feedback: 'Have known' is a present perfect and describes something that happened before a past moment, not an unreal present situation. -->
+
+### Explicacion Pedagogica
+Second conditional sentences of this kind describe what would be possible if the speaker had the information they lack. The past simple in the if clause creates that distance from reality.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** If the volcano (erupt) again, the town would have to be evacuated.
+
+### Enunciado
+Complete the second conditional with the correct form of the verb 'erupt'.
+
+### Opciones
+- [ ] A) If the volcano erupting again, the town would have to be evacuated.
+  <!-- feedback: 'Erupting' needs the auxiliary 'were' before it, so the clause would be written as 'if the volcano were erupting'. -->
+- [ ] B) If the volcano erupts again, the town would have to be evacuated.
+  <!-- feedback: 'Erupts' is the present simple and belongs to the first conditional, which describes a real possibility. -->
+- [ ] C) If the volcano would erupt again, the town would have to be evacuated.
+  <!-- feedback: 'Would erupt' places a modal in the if clause, which does not occur in a second conditional. -->
+- [x] D) If the volcano erupted again, the town would have to be evacuated.
+  <!-- feedback: Correct! 'Erupted' is the past simple in the if clause and 'would have to' completes the second conditional. -->
+
+### Explicacion Pedagogica
+A second conditional about a serious risk uses the past simple to place the event outside the realm of certainty: if it erupted, we would evacuate. The main clause then carries 'would' plus the base form.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** If you had backed up your files, you (would not lose) all your work.
+
+### Enunciado
+Choose the sentence that correctly completes the third conditional.
+
+### Opciones
+- [ ] A) If you had backed up your files, you would not lose all your work.
+  <!-- feedback: 'Would not lose' has no 'have', so the consequence is not placed in the past as a third conditional requires. -->
+- [ ] B) If you backed up your files, you would not lose all your work.
+  <!-- feedback: 'Backed up' is the past simple and 'would not lose' is a second conditional, so the sentence describes the present instead of the past. -->
+- [x] C) If you had backed up your files, you would not have lost all your work.
+  <!-- feedback: Correct! 'Had backed up' is the past perfect condition and 'would not have lost' is the negative third conditional consequence. -->
+- [ ] D) If you had been back up your files, you would not have lost all your work.
+  <!-- feedback: 'Had been back up' uses the passive after 'been' where the third conditional needs the past simple 'backed up'. -->
+
+### Explicacion Pedagogica
+The third conditional is used for regrets about the past: if you had studied, you would have passed. Both halves refer to the past, and neither uses the present simple form of the verb.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** If I had a car, I would drive to work instead of taking the bus.
+
+### Enunciado
+Choose the sentence that correctly uses 'have' in a second conditional.
+
+### Opciones
+- [x] A) If I had a car, I would drive to work instead of taking the bus.
+  <!-- feedback: Correct! 'Had' is the past of 'have' in the if clause and 'would drive' completes the second conditional. -->
+- [ ] B) If I would have a car, I would drive to work instead of taking the bus.
+  <!-- feedback: 'Would have' places a modal in the if clause, which is not how a conditional is formed. -->
+- [ ] C) If I have a car, I would drive to work instead of taking the bus.
+  <!-- feedback: 'Have' is the present simple, which would require 'will drive' rather than 'would drive' in the main clause. -->
+- [ ] D) If I had a car, I would to drive to work instead of taking the bus.
+  <!-- feedback: 'Would to drive' adds an infinitive marker that never follows a modal verb. -->
+
+### Explicacion Pedagogica
+The verb 'have' behaves like any other verb in a second conditional: it takes the past simple 'had' in the if clause and the main clause carries 'would' plus the base form.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If the rain (not fall) yesterday, we could have gone to the park.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the third conditional with the correct negative form of 'fall'.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) If the rain had not fall yesterday, we could have gone to the park.
+  <!-- feedback: 'Had not fall' uses the base form after 'had not'; that construction needs the past participle. -->
+- [ ] B) If the rain did not fall yesterday, we could have gone to the park.
+  <!-- feedback: 'Did not fall' is a first conditional condition and does not match 'could have gone' in the main clause. -->
+- [x] C) If the rain had not fallen yesterday, we could have gone to the park.
+  <!-- feedback: Correct! 'Had not fallen' is the negative past perfect condition, and 'could have gone' is the third conditional consequence. -->
+- [ ] D) If the rain had not been fallen yesterday, we could have gone to the park.
+  <!-- feedback: 'Had not been fallen' uses the passive after 'been' where the third conditional needs the active past participle 'fallen'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A negative third conditional places 'not' after the auxiliary: if it had not rained, we would have gone. The verb still needs its past participle, so 'had not rained' rather than 'had not rain'.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Where would you live if you (win) the lottery?
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the second conditional question with the correct form of 'win'.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) Where would you live if you win the lottery?
+  <!-- feedback: 'Win' is the present simple, which would belong to the first conditional with 'will live'. -->
+- [x] B) Where would you live if you won the lottery?
+  <!-- feedback: Correct! 'Won' is the past simple of 'win' in the if clause, and 'would live' is the main clause of the second conditional. -->
+- [ ] C) Where would you live if you would win the lottery?
+  <!-- feedback: 'Would win' places a modal in the if clause, which is not part of the conditional structure. -->
+- [ ] D) Where would you live if you winning the lottery?
+  <!-- feedback: 'Winning' needs the auxiliary 'were' before it, so the clause would be written as 'if you were winning'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Conditional questions are formed exactly like conditional statements, with 'would' plus the base form at the start and the past simple in the if clause. They are frequent when people discuss impossible or hypothetical futures.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If he studied more often, he (would improve) his English quickly.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the correct form to complete the second conditional.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) If he studied more often, he would to improve his English quickly.
+  <!-- feedback: 'Would to improve' adds an infinitive marker that never follows a modal verb. -->
+- [ ] B) If he studied more often, he would improved his English quickly.
+  <!-- feedback: 'Would improved' adds a past form after the modal, which never happens in English. -->
+- [ ] C) If he studied more often, he would improving his English quickly.
+  <!-- feedback: 'Would improving' uses the -ing form after the modal, where the base form is required. -->
+- [x] D) If he studied more often, he would improve his English quickly.
+  <!-- feedback: Correct! 'Would improve' is a modal followed by the base form, which is the correct main clause of a second conditional. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+In a second conditional the main clause is always 'would' plus the base form of the verb. There is no ending on the verb and no infinitive marker, whatever the tense of the condition.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If they hadn't missed the last bus, they (would not be) walking home in the dark.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the mixed conditional with the correct form of the verb in brackets.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] C) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) If they hadn't missed the bus, they would not be walking home in the dark.
+  <!-- feedback: Correct! The condition is an unreal past event and the consequence is a present state, which is the mixed conditional. -->
+- [ ] B) If they didn't miss the bus, they would not be walking home in the dark.
+  <!-- feedback: 'Didn't miss' is a first conditional condition and does not match the past perfect needed here. -->
+- [ ] C) If they hadn't missed the bus, they would not walking home in the dark.
+  <!-- feedback: 'Would not walking' is missing the auxiliary 'be' that a continuous form requires. -->
+- [ ] D) If they had been miss the bus, they would not be walking home in the dark.
+  <!-- feedback: 'Had been miss' uses a participle after 'been' where the third conditional needs the past simple 'missed'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A mixed conditional has 'if' plus 'had' plus the past participle for the condition and 'would' plus an ordinary present form for the consequence. It often describes a situation that is still true at the moment of speaking.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If I were you, I would apologise and explain the mistake honestly.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that correctly advises using the second conditional.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) If I was you, I would apologise and explain the mistake honestly.
+  <!-- feedback: 'Was' is the past simple, but this fixed expression always uses the subjunctive 'were'. -->
+- [x] B) If I were you, I would apologise and explain the mistake honestly.
+  <!-- feedback: Correct! 'Were' belongs to the formula 'if I were you' and 'would apologise' completes the second conditional. -->
+- [ ] C) If I were you, I would to apologise and explain the mistake honestly.
+  <!-- feedback: 'Would to apologise' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) If I were you, I would apologised and explain the mistake honestly.
+  <!-- feedback: 'Would apologised' adds a past form after the modal, which never happens in English. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The expression 'if I were you' is one of the standard ways of giving advice in English. The subjunctive 'were' appears with every person of the pronoun, which is the clearest surviving use of that mood.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If the shop (be) open on Sunday, we would buy the tickets there.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the second conditional with the correct form of the verb 'be'.
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) If the shop will be open on Sunday, we would buy the tickets there.
+  <!-- feedback: 'Will be' is a future form and belongs with 'will' in the main clause, not with 'would' in an if clause. -->
+- [ ] B) If the shop are open on Sunday, we would buy the tickets there.
+  <!-- feedback: 'Are' is the plural present form and does not agree with the singular subject 'the shop'. -->
+- [ ] C) If the shop be open on Sunday, we would buy the tickets there.
+  <!-- feedback: 'Be' is the bare infinitive and needs a past form before it in a second conditional if clause. -->
+- [x] D) If the shop were open on Sunday, we would buy the tickets there.
+  <!-- feedback: Correct! 'Were' is the past subjunctive used with the singular subject 'the shop' in a second conditional if clause. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+In the if clause of a second conditional, 'to be' takes the form 'were' with every subject: if the shop were open, if I were you, if they were cheaper. This is the standard rule in written English.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We did not get the job, but if she (have) asked for more experience, she might have got it.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that correctly uses a mixed third and second conditional.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] C) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) If she had asked for more experience, she might got the job.
+  <!-- feedback: 'Might got' lacks the 'have' that the modal perfect requires after 'might'. -->
+- [ ] B) If she has asked for more experience, she might have got the job.
+  <!-- feedback: 'Has asked' is a present perfect and cannot appear in the if clause of a third conditional. -->
+- [x] C) If she had asked for more experience, she might have got the job.
+  <!-- feedback: Correct! 'Had asked' is the third conditional condition and 'might have got' is its consequence, also in the past. -->
+- [ ] D) If she had been asked for more experience, she might have got the job.
+  <!-- feedback: 'Had been asked' is the passive, which would mean somebody else asked her rather than her asking herself. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Might have' plus a past participle is the modal third conditional. It expresses a past possibility that did not happen, and it combines freely with 'could have', 'would have' and 'should have'.
+---

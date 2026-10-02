@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous, San Juan, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the present perfect continuous correctly?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) She has been studying for the exam all morning.
+  <!-- feedback: Correcto. 'Has been' mas gerundio forma el presente perfecto continuo, y 'all morning' expresa duracion. -->
+- [ ] B) She is study for the exam all morning.
+  <!-- feedback: Incorrecto. Falta el gerundio y solo aparece 'is', que corresponde al presente continuo y no a esta unidad. -->
+- [ ] C) She has been study for the exam all morning.
+  <!-- feedback: Incorrecto. Detras de 'has been' el verbo va en gerundio, no en su forma base 'study'. -->
+- [ ] D) She has studied all morning yesterday.
+  <!-- feedback: Incorrecto. 'All morning' con 'yesterday' cierra el pasado y contradice la idea de duracion en curso del continuo. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El presente perfecto continuo se forma con 'have' o 'has' mas 'been' mas el gerundio. Expresa una accion que empezo en el pasado y que sigue en curso ahora, y suele acompanarse de expresiones de duracion como 'for', 'since' o 'all day'.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous spelling, Ponce, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'They ____ (run) on the beach every morning.'
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) have been runing
+  <!-- feedback: Incorrecto. 'Runing' omite la duplicacion de la consonante que exige la vocal breve tensa de 'run'. -->
+- [ ] B) has been running
+  <!-- feedback: Incorrecto. 'Has' corresponde a la tercera persona singular y el sujeto 'they' es plural. -->
+- [x] C) have been running
+  <!-- feedback: Correcto. 'Run' forma el gerundio 'running' duplicando la -n, y el auxiliar es 'have been' por el sujeto plural. -->
+- [ ] D) have been ran
+  <!-- feedback: Incorrecto. 'Ran' es el pasado simple irregular y no puede ocupar el lugar del gerundio en esta unidad. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+El gerundio de los verbos con vocal breve tensa duplica la consonante final, como en 'running', 'swimming' o 'beginning'. Ademas el presente perfecto continuo necesita un gerundio, nunca una forma de pasado como 'ran' o 'wrote'.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with since, Carolina, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'He ____ (work) in the same shop since 2015.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) has work
+  <!-- feedback: Incorrecto. Detras de 'has' el verbo va en participio 'worked', y no en la forma base 'work' que aparece aqui. -->
+- [x] B) has been working
+  <!-- feedback: Correcto. 'Since 2015' marca un inicio en el pasado y la accion continua, que es el uso tipico del continuo. -->
+- [ ] C) has been work
+  <!-- feedback: Incorrecto. Detras de 'has been' el verbo va en gerundio 'working', y ademas el presente continuo no se combina con 'since'. -->
+- [ ] D) is working since 2015
+  <!-- feedback: Incorrecto. El presente continuo no se combina con 'since', porque 'since' exige un tiempo de presente perfecto. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+El presente perfecto simple y el continuo pueden convivir con 'since' y 'for'. El continuo enfoca en la duracion de la accion, mientras que el simple enfoca en el estado o el resultado. Ambos son correctos y la eleccion depende de la intencion del hablante.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous negatives, Bayamon, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct negative: 'I ____ (not / see) the doctor for a week.'
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) haven't been seeing
+  <!-- feedback: Incorrecto. El continuo pide un proceso en curso, y aqui la frase informa de que no se le ha visto, no de que este mirandolo. -->
+- [ ] B) didn't seen
+  <!-- feedback: Incorrecto. Detras de 'did' el verbo va en forma base, y ademas 'for a week' pide presente perfecto. -->
+- [ ] C) don't see
+  <!-- feedback: Incorrecto. 'Don't' es presente simple y no se combina con 'for a week', que exige presente perfecto. -->
+- [x] D) haven't seen
+  <!-- feedback: Correcto. El presente perfecto simple 'haven't seen' es valido con 'for' cuando se informa de una situacion, no del proceso. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Con 'for' o 'since' los dos presentes perfectos son posibles. Se elige el continuo cuando el foco esta en la duracion del proceso y el simple cuando el foco esta en el estado general o en la ausencia. Aqui lo natural es el simple.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous versus simple, Arecibo, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What is the difference between 'I have read the book' and 'I have been reading the book'?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [ ] A) The first is for plural subjects and the second for singular subjects.
+  <!-- feedback: Incorrecto. Los dos tiempos funcionan con cualquier sujeto, y la diferencia no esta en la persona. -->
+- [ ] B) The first is past and the second is present.
+  <!-- feedback: Incorrecto. Los dos son presente perfecto; ninguno de los dos es pasado simple. -->
+- [ ] C) The first is formal and the second is informal.
+  <!-- feedback: Incorrecto. La diferencia es gramatical y de enfasis, no de registro: ambos son correctos en un examen y ninguno de los dos es mas formal que el otro. -->
+- [x] D) The first focuses on the result and the second on the duration of the activity.
+  <!-- feedback: Correcto. El presente perfecto simple enfoca en el resultado y el continuo en la duracion de la accion. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+La distincion clave de la unidad es el enfasis. El presente perfecto simple responde a la pregunta de que ha ocurrido, y el continuo responde a la de cuanto tiempo lleva ocurriendo. Con 'for', 'since' y 'all day' se suele preferir el continuo.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with for, Humacao, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: 'We ____ (wait) for the bus for forty minutes.'
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) had been waiting
+  <!-- feedback: Incorrecto. 'Had been' es el pasado perfecto continuo, que situa la espera en un pasado ya cerrado. -->
+- [x] B) have been waiting
+  <!-- feedback: Correcto. 'Have been waiting' expresa una duracion de cuarenta minutos con la accion todavia en curso. -->
+- [ ] C) have been waited
+  <!-- feedback: Incorrecto. El verbo principal debe ir en gerundio, y 'waited' es el participio del presente perfecto simple. -->
+- [ ] D) are waiting for forty minutes
+  <!-- feedback: Incorrecto. El presente continuo no acepta la estructura 'for' mas duracion, que es propia del presente perfecto. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+La estructura 'have been' mas gerundio con 'for' mas duracion es la firma del presente perfecto continuo. Si la duracion ya se cumplio se usa el pasado perfecto continuo con 'had been', y si se trata de una situacion se usa el presente perfecto simple.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with the verb to write, Aguadilla, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'She ____ (write) her thesis all semester.'
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] A) has been writing
+  <!-- feedback: Correcto. El gerundio de 'to write' es 'writing' duplicando la -w, y 'all semester' indica un periodo en curso. -->
+- [ ] B) has been writeing
+  <!-- feedback: Incorrecto. No se inserta una -e en el gerundio; la forma correcta duplica la -w final. -->
+- [ ] C) has been writting
+  <!-- feedback: Incorrecto. 'Write' no termina en -t, de modo que no hay ninguna -t que duplicar en el gerundio. -->
+- [ ] D) has been wrote
+  <!-- feedback: Incorrecto. 'Wrote' es el pasado simple irregular y no puede funcionar como gerundio. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Los verbos terminados en -w con vocal breve tensa duplican la consonante en el gerundio: 'write' da 'writing' y 'throw' da 'throwing'. Es la misma regla que rige el gerundio en el presente continuo, y se aplica igual en presente perfecto continuo.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous questions, Guayanilla, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which question is correct?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) How long are you waiting?
+  <!-- feedback: Incorrecto. 'How long' con el presente continuo solo sirve con una duracion ya terminada, como en 'How long did you wait'. -->
+- [ ] B) How long you have been waiting?
+  <!-- feedback: Incorrecto. El orden interrogativo exige el auxiliar delante del sujeto: 'have' abre la pregunta. -->
+- [x] C) How long have you been waiting?
+  <!-- feedback: Correcto. La pregunta 'How long' pide una duracion, y 'have you been' con gerundio es la estructura del continuo. -->
+- [ ] D) How long do you be waiting?
+  <!-- feedback: Incorrecto. 'Do' no combina con 'to be' en gerundio, y la estructura pedida es la de 'have been'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La pregunta 'How long' pide una duracion y por eso encaja con presente perfecto continuo o con pasado simple, nunca con presente continuo. El orden de la oracion interrogativa mantiene el auxiliar 'have' en primer lugar.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with third person, Trujillo Alto, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Complete the sentence: 'The students ____ (study) for the test all night.'
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) has been studying
+  <!-- feedback: Incorrecto. 'Has' corresponde a la tercera persona singular y 'the students' es un sujeto plural. -->
+- [ ] B) are studying
+  <!-- feedback: Incorrecto. El presente continuo no admite la expresion de duracion 'all night' en esta construccion. -->
+- [x] C) have been studying
+  <!-- feedback: Correcto. El sujeto es plural, de modo que el auxiliar es 'have been' seguido del gerundio 'studying'. -->
+- [ ] D) have been study
+  <!-- feedback: Incorrecto. El verbo principal detras de 'have been' debe ir en gerundio y no en forma base. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+En el presente perfecto continuo el auxiliar es 'have been' para I, you, we y they, y 'has been' para he, she e it. Solo cambia el auxiliar; el gerundio del verbo principal es la misma forma para todas las personas.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with for versus since, Barceloneta, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence is correct?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] A) She has been playing the piano since she was five.
+  <!-- feedback: Correcto. 'Since' con un punto de partida en el pasado y el gerundio forman una frase natural del continuo. -->
+- [ ] B) She has been playing the piano since five years.
+  <!-- feedback: Incorrecto. 'Since' no acepta una cantidad de tiempo; para eso se usa 'for five years'. -->
+- [ ] C) She is playing the piano since she was five.
+  <!-- feedback: Incorrecto. El presente continuo no combina con 'since', que exige un auxiliar de presente perfecto. -->
+- [ ] D) She had been playing the piano since five years ago.
+  <!-- feedback: Incorrecto. 'Since' no se combina con 'ago', y ademas el pasado perfecto continuo corresponde a otro contexto temporal. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+El presente perfecto continuo se usa con 'for' para duraciones y con 'since' para puntos de partida. Las dos preposiciones son incompatibles entre si: 'since' no admite cantidades y 'for' no admite fechas. 'Ago' es incompatible con 'since' en ingles.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with the verb to study, Maunabo, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'I ____ (study) economics for three years.'
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) have been study
+  <!-- feedback: Incorrecto. Detras de 'have been' el verbo va en gerundio 'studying' y no en la forma base 'study'. -->
+- [ ] B) have been studied
+  <!-- feedback: Incorrecto. 'Studied' es el participio del presente perfecto simple y no un gerundio. -->
+- [ ] C) am studying for three years ago
+  <!-- feedback: Incorrecto. 'Ago' cierra el pasado y el presente continuo no admite 'for' con una duracion ya cumplida. -->
+- [x] D) have been studying
+  <!-- feedback: Correcto. 'For three years' pide una duracion y el continuo expresa que la accion sigue abierta en el presente. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Los verbos terminados en -y con consonante antes forman el gerundio cambiando la -y por -i, como 'study' que da 'studying'. Esa regla es identica en presente continuo y en presente perfecto continuo, porque ambos construyen el gerundio igual.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous in short answers, Yauco, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Question: 'How long have you lived here?' Answer: '____'
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) I have lived here for six years.
+  <!-- feedback: Incorrecto. Es una posible respuesta a la pregunta, pero 'How long' pide una duracion y no una oracion con verbo principal. -->
+- [x] B) For six years.
+  <!-- feedback: Correcto. 'How long' se responde con 'for' mas la duracion, y el verbo se omite en la respuesta. -->
+- [ ] C) Since six years.
+  <!-- feedback: Incorrecto. 'Since' no acepta cantidades de tiempo, de modo que la respuesta con 'for' es la unica valida. -->
+- [ ] D) Yes, I have.
+  <!-- feedback: Incorrecto. Esa respuesta corresponde a una pregunta cerrada, mientras que 'How long' espera una cantidad de tiempo. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Una pregunta de 'How long' espera una duracion, y la respuesta natural empieza con 'for'. Una pregunta de 'How much' espera una cantidad. La forma 'yes, I have' responde a preguntas cerradas y no encaja con ninguna de las dos.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with spelling, Cayey, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which is the correct gerund form of the verb 'to sit'?
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) siting
+  <!-- feedback: Incorrecto. Con vocal breve tensa la -t final debe duplicarse, porque una sola produce una palabra mal silabeada. -->
+- [x] B) sitting
+  <!-- feedback: Correcto. 'Sit' termina en vocal breve tensa con -t, y esa consonante se duplica antes de anadir -ing. -->
+- [ ] C) siteing
+  <!-- feedback: Incorrecto. El gerundio no convierte la consonante en vocal ni conserva la -e final del verbo base. -->
+- [ ] D) sat
+  <!-- feedback: Incorrecto. 'Sat' es el pasado simple irregular y no tiene ninguna funcion dentro de un tiempo continuo. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+La duplicacion de consonante se aplica a los verbos con vocal breve tensa y consonante final: 'sit', 'run', 'swim' y 'begin' dan formas con consonante doble. Con vocal larga como en 'seat' o 'read' no se duplica nada.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with the verb to have, San Sebastian, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'He ____ (have) problems with his back for months.'
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) has been have
+  <!-- feedback: Incorrecto. Detras de 'has been' el verbo va en gerundio 'having' y no en la forma base 'have'. -->
+- [ ] B) has been haves
+  <!-- feedback: Incorrecto. 'Haves' es una forma de tercera persona del presente simple que no existe como gerundio. -->
+- [ ] C) has had
+  <!-- feedback: Incorrecto. 'Has had' es presente perfecto simple y no expresa la duracion del proceso, que es lo que pide 'for months'. -->
+- [x] D) has been having
+  <!-- feedback: Correcto. 'Has been having' expresa que el problema se mantiene durante meses y continua en el presente. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+El presente perfecto continuo puede usar verbos como 'to have', 'to live' o 'to work', que en presente perfecto simple darian una forma distinta. La eleccion entre 'has been having' y 'has had' depende de si se quiere Quite el enfasis en la duracion o en el estado.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous questions, Camuy, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the correct question: '____ you been working on the project?'
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) Did
+  <!-- feedback: Incorrecto. 'Did' es el auxiliar del pasado simple y exigiria la forma base 'work' detras del auxiliar. -->
+- [ ] B) Are
+  <!-- feedback: Incorrecto. 'Are' corresponde al presente continuo y no a la estructura de presente perfecto continuo. -->
+- [x] C) Have
+  <!-- feedback: Correcto. Con 'you' el auxiliar es 'have been' y el verbo principal queda en gerundio, como en 'working'. -->
+- [ ] D) Has
+  <!-- feedback: Incorrecto. 'Has' concuerda con he, she o it, y el sujeto de la pregunta es 'you'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Las preguntas de presente perfecto continuo mantienen el mismo auxiliar que las afirmaciones: 'have you been' para I, you, we y they, y 'has he been' para la tercera persona. El gerundio nunca lleva auxiliar propio.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with the verb to know, Luquillo, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence: 'I ____ (know) her for a long time.'
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] C) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] A) have known
+  <!-- feedback: Correcto. 'Have known' es presente perfecto simple y es la forma natural con 'to know' en esta frase. -->
+- [ ] B) have been knowing
+  <!-- feedback: Incorrecto. 'To know' es un verbo de estado y no se usa normalmente en presente perfecto continuo. -->
+- [ ] C) have been know
+  <!-- feedback: Incorrecto. Detras de 'have been' el verbo va en gerundio, y ademas 'to know' no admite ese tiempo verbal. -->
+- [ ] D) had been knowing
+  <!-- feedback: Incorrecto. Se mezclan el pasado perfecto continuo con un verbo de estado que no admite ese tiempo. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Los verbos de estado como 'to know', 'to love' y 'to believe' no se usan en presente perfecto continuo. Se expresan con presente perfecto simple, y la frase con 'for a long time' funciona perfectamente con esa forma.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with third person, Toa Baja, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the sentence: 'It ____ (rain) since this morning.'
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) has been raining
+  <!-- feedback: Correcto. 'Since this morning' marca un inicio en el pasado y 'has been raining' expresa que sigue lloviendo ahora. -->
+- [ ] B) have been raining
+  <!-- feedback: Incorrecto. 'Have' corresponde a I, you, we y they, y el sujeto 'it' es tercera persona singular. -->
+- [ ] C) has been rained
+  <!-- feedback: Incorrecto. 'To rain' es intransitivo, de modo que no admite forma pasiva ni participio con 'been'. -->
+- [ ] D) is raining since this morning
+  <!-- feedback: Incorrecto. El presente continuo no se combina con 'since', que exige presente perfecto continuo. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+El sujeto 'it' es siempre tercera persona singular, asi que el auxiliar es 'has been' en presente perfecto continuo. Los verbos meteorologicos como 'to rain' o 'to snow' admiten este tiempo porque describen procesos que pueden continuar.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D3]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with time expressions, Naguabo, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence is NOT correct?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) I have lived in San Juan for ten years.
+  <!-- feedback: Esta frase si es correcta, porque 'live' es un verbo de estado y se expresa en presente perfecto simple. -->
+- [ ] B) I have been working in San Juan for ten years.
+  <!-- feedback: Esta frase si es correcta, porque 'work' es una actividad y admite el presente perfecto continuo. -->
+- [ ] C) I have been studying in San Juan for ten years.
+  <!-- feedback: Esta frase si es correcta, porque 'study' es una actividad y combina bien con la duracion. -->
+- [x] D) I have been living in San Juan for ten years.
+  <!-- feedback: Correcto. Esta es la frase incorrecta: 'live' es un verbo de estado y no admite el presente perfecto continuo. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+La diferencia entre verbos de actividad y de estado decide el tiempo verbal. 'To work', 'to study' y 'to read' son actividades y admiten el continuo. 'To live', 'to love' y 'to own' son estados y se expresan con presente perfecto simple.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with the verb to read, Hatillo, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: 'You ____ (not / read) the whole book; you only read two chapters.'
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) haven't been reading
+  <!-- feedback: Incorrecto. El continuo sugeriria que la lectura sigue en curso, y el enunciado informa de que ya termino. -->
+- [x] B) haven't read
+  <!-- feedback: Correcto. 'Haven't read' es presente perfecto simple y informa de un resultado, que es lo que pide el enunciado. -->
+- [ ] C) didn't read
+  <!-- feedback: Incorrecto. La segunda oracion ya situa la accion en un pasado cerrado, pero la negacion pide presente perfecto por contraste. -->
+- [ ] D) haven't been read
+  <!-- feedback: Incorrecto. 'To read' es activo aqui y no admite forma pasiva con 'have been' detras del sujeto. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Cuando la frase informa de un resultado ya alcanzado, el presente perfecto simple es la opcion natural. El continuo se reserva para actions que siguen en curso, y por eso seria raro decir 'haven't been reading' si la lectura ya termino.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D2]
 **ID:** PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present perfect continuous with prepositions, Yabucoa, grado 11, W06.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence uses 'since' with a verb and a time expression that are compatible?
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) They have lived in Arecibo for 2018.
+  <!-- feedback: Incorrecto. 'For' exige una duracion y no una fecha, ademas el verbo de estado no admite el tiempo continuo. -->
+- [ ] B) They are living in Arecibo since 2018.
+  <!-- feedback: Incorrecto. El presente continuo no se combina con 'since', que pertenece al presente perfecto continuo. -->
+- [x] C) They have been living in Arecibo since 2018.
+  <!-- feedback: Correcto. 'Since' con una fecha concreta y un proceso en curso forman una frase natural del presente perfecto continuo. -->
+- [ ] D) They have been living in Arecibo since 2018 years.
+  <!-- feedback: Incorrecto. 'Since' no admite una cantidad de tiempo seguida de 'years'; para una duracion se usa 'for'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Conviene revisar dos cosas a la vez en estas frases: la preposicion de tiempo y la naturaleza del verbo. Un verbo de estado como 'to live' pide presente perfecto simple, y 'since' con una fecha concreta confirma esa eleccion.
+
+---

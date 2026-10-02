@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Every morning Maria opens the small shop near the church at seven o'clock.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the sentence that correctly uses the present simple with a third person singular subject.
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) Every morning Maria opens the small shop near the church at seven o'clock.
+  <!-- feedback: Correct! In the present simple the third person singular adds -s to the base form, so 'Maria opens' agrees with the singular subject. -->
+- [ ] B) Every morning Maria open the small shop near the church at seven o'clock.
+  <!-- feedback: The verb 'open' keeps its base form, which is wrong after 'Maria'; the third person singular of 'open' is 'opens'. -->
+- [ ] C) Every morning Maria are opening the small shop near the church at seven o'clock.
+  <!-- feedback: 'Are opening' is the present continuous. The present simple of this verb in the third person is 'opens', not a progressive form. -->
+- [ ] D) Every morning Maria opening the small shop near the church at seven o'clock.
+  <!-- feedback: An -ing form cannot be the only verb of a present simple sentence; it needs a helping verb such as 'is' or 'are' before it. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The present simple third person singular adds -s to the base form of the verb: open becomes opens, work becomes works, study becomes studies. Irregular verbs keep their own third person form, so he goes and she teaches are both correct. Omitting that -s is the most common defect in this structure.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Andres is studying medicine and he drinks a lot of water.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which option gives the correct negative form of the sentence 'Andres drinks coffee in the morning'?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) Andres doesn't drinks coffee in the morning.
+  <!-- feedback: After 'doesn't' the verb returns to its base form, so 'doesn't drinks' carries a second -s that duplicates the one already inside 'doesn't'. -->
+- [ ] B) Andres not drinks coffee in the morning.
+  <!-- feedback: English cannot place 'not' straight before the verb; the negation needs the auxiliary 'does' plus the base form of the verb. -->
+- [ ] C) Andres don't drink coffee in the morning.
+  <!-- feedback: 'Don't' is the form used with I, you, we and they; the singular third person needs 'doesn't' to agree with 'Andres'. -->
+- [x] D) Andres doesn't drink coffee in the morning.
+  <!-- feedback: Correct! The negative present simple is built with 'does not', contracted to 'doesn't', and the verb keeps its base form after it. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Negation in the present simple uses the auxiliary 'do', 'does' or 'did'. With 'does' and 'did' the main verb loses its inflection: she works becomes she doesn't work, and she worked becomes she didn't work. Writing 'doesn't works' is therefore a double inflection.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** The technician repairs the office printer every Tuesday morning.
+
+### Enunciado
+Turn the statement into a yes and no question in the present simple.
+
+### Opciones
+- [ ] A) Is the technician repair the office printer every Tuesday morning?
+  <!-- feedback: 'Is' links a subject to a description or opens a progressive; a question about a simple action needs the auxiliary 'does'. -->
+- [x] B) Does the technician repair the office printer every Tuesday morning?
+  <!-- feedback: Correct! The auxiliary 'does' agrees with the singular subject and the main verb returns to its base form, which is 'repair'. -->
+- [ ] C) Does the technician repairs the office printer every Tuesday morning?
+  <!-- feedback: The auxiliary 'does' already carries the -s of the third person singular, so the main verb must not add another one: 'repair', not 'repairs'. -->
+- [ ] D) Do the technician repairs the office printer every Tuesday morning?
+  <!-- feedback: 'Do' is the auxiliary of the plural and of you and I, so it cannot be used with the singular subject 'the technician'. -->
+
+### Explicacion Pedagogica
+To ask a question in the present simple, put the auxiliary 'do' or 'does' before the subject and send the main verb back to its base form. The subject and the verb are not inverted: you say 'Does he work?' and never 'Do he works?'. Short answers then use 'He does' or 'He doesn't'.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Lucia finished her degree last year and she now works as a doctor at the city hospital.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct short answer to the question 'Does Lucia work in a hospital?'
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) Yes, she is.
+  <!-- feedback: 'She is' answers a question about a state, such as 'Is she a doctor?', and not a question built with the auxiliary 'does'. -->
+- [ ] B) Yes, she works in a hospital.
+  <!-- feedback: 'She works in a hospital' replies to the open question 'Where does Lucia work?', so it does not match a yes and no question. -->
+- [x] C) Yes, she does.
+  <!-- feedback: Correct! A short answer keeps the subject as a pronoun and the auxiliary as a contracted form of 'do': 'Yes, she does.' -->
+- [ ] D) Yes, does she.
+  <!-- feedback: Repeating 'does she' turns the question back into a question; a short answer must replace the auxiliary and the subject with a pronoun. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Short answers have a fixed shape in the present simple: pronoun plus auxiliary. 'Yes, she does' answers a question with 'do' or 'does', and 'Yes, she works' answers one with a wh word such as where or what. Using 'is' in a short answer is only correct when the question also used 'is'.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** My uncle grows coffee on a small farm near Ambato and he sells it every harvest.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence with the correct form of the verb in brackets: 'My uncle (grow) coffee on a small farm.'
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) My uncle grows coffee on a small farm.
+  <!-- feedback: Correct! 'Grows' is the third person singular of the present simple, formed by adding -s to the base form 'grow'. -->
+- [ ] B) My uncle are growing coffee on a small farm.
+  <!-- feedback: 'Are growing' describes an action in progress right now, not a habit that repeats every harvest, and it does not fit the bracket. -->
+- [ ] C) My uncle grow coffee on a small farm.
+  <!-- feedback: 'Grow' has no -s, so it does not agree with the singular subject 'my uncle' in the third person of the present simple. -->
+- [ ] D) My uncle have grown coffee on a small farm.
+  <!-- feedback: 'Have grown' is the present perfect, which links a past action to the present; the sentence states a repeated habit instead. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The -s of the third person singular is added to every verb except the irregular ones that already end in -s or -o, such as 'has', 'does' and 'go'. When the verb already ends in a consonant plus y, the ending changes to -ies: study becomes studies. Spelling mistakes here are more common than the missing -s itself.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The students in grade eleven meet their new English teacher every Monday.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the question that asks what the students do every Monday.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) What the students do every Monday?
+  <!-- feedback: A wh question needs the auxiliary 'do' before the subject, otherwise the sentence has no verb structure and cannot be a question. -->
+- [ ] B) What does the students do every Monday?
+  <!-- feedback: 'Does' belongs to the third person singular, and 'the students' is plural, so the auxiliary here has to be 'do'. -->
+- [x] C) What do the students do every Monday?
+  <!-- feedback: Correct! Wh questions invert the auxiliary and the subject exactly like yes and no questions: 'What do the students do?' -->
+- [ ] D) What the students does every Monday?
+  <!-- feedback: With 'does' the verb would lose its -s, but the real problem is the subject: 'the students' requires the plural auxiliary 'do'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Wh questions in the present simple follow the same inversion as yes and no questions: the wh word comes first, then the auxiliary 'do' or 'does', then the subject, then the base form of the verb. The only difference between the two types is the extra wh word at the front.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A ticket costs five dollars, and the museum opens at nine every morning.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which option is the correct tag question for the statement 'The museum opens at nine'?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) The museum open at nine, doesn't it?
+  <!-- feedback: The statement itself is wrong: a third person singular subject requires 'opens'. A tag question cannot repair a faulty statement. -->
+- [ ] B) The museum opens at nine, don't it?
+  <!-- feedback: 'Don't' cannot serve as the tag of a statement whose subject is singular third person; the auxiliary of the statement is 'opens', so the tag uses 'doesn't'. -->
+- [ ] C) The museum opens at nine, isn't it?
+  <!-- feedback: 'Isn't' would be the tag of a statement built with 'is', such as 'The museum is old, isn't it?', but here the verb is 'opens'. -->
+- [x] D) The museum opens at nine, doesn't it?
+  <!-- feedback: Correct! A tag question repeats the auxiliary of the statement with a negative form, and 'does' agrees with the singular subject 'the museum'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A tag question is built from the auxiliary of the statement, not from the main verb alone. With 'opens' the tag is 'doesn't it?', with 'is' it is 'isn't it?', with 'are' it is 'aren't they?'. When the verb is a form of 'be' the tag reuses that form; otherwise it uses do, does or did.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Carla always finishes her homework before dinner and then she watches a short documentary.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the correct sentence with two present simple verbs joined by 'and'.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) Carla always finish her homework before dinner and then she watches a documentary.
+  <!-- feedback: The second verb 'watches' is correct but the first one is not; 'Carla' is singular third person, so the first verb needs the -s of 'finishes'. -->
+- [x] B) Carla always finishes her homework before dinner and then she watches a documentary.
+  <!-- feedback: Correct! Both verbs share the subject 'Carla', so both take the -s of the third person singular: 'finishes' and 'watches'. -->
+- [ ] C) Carla always finishes her homework before dinner and then she watch a documentary.
+  <!-- feedback: The first verb 'finishes' is correct but the second one is not; after 'and' the two clauses share the same subject, so 'watches' keeps the -s. -->
+- [ ] D) Carla always finishing her homework before dinner and then she watches a documentary.
+  <!-- feedback: 'Finishing' is an -ing form and cannot open the clause; a present simple statement needs the finite form 'finishes'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+When two clauses are joined by 'and' or 'but' and both have the same subject, that subject is stated only once and it governs both verbs. Both verbs therefore take the same inflection, which means a third person singular subject gives two forms with -s: she finishes and she watches.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] D) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The bus to Quito leaves the terminal at six in the morning and arrives at the capital at noon.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that reports the departure time of the bus.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) The bus to Quito leaves the terminal at six in the morning.
+  <!-- feedback: Correct! 'The bus' is a singular third person subject, so the present simple of the verb 'to leave' must be 'leaves'. -->
+- [ ] B) The bus to Quito leaving the terminal at six in the morning.
+  <!-- feedback: 'Leaving' is an -ing form and needs a helping verb such as 'is'; as it stands the clause has no finite verb. -->
+- [ ] C) The bus to Quito leave the terminal at six in the morning.
+  <!-- feedback: 'Leave' lacks the -s required after the singular subject 'the bus', so the sentence is not the present simple third person. -->
+- [ ] D) The bus to Quito is leave the terminal at six in the morning.
+  <!-- feedback: 'Is leave' mixes the auxiliary 'is' with a bare infinitive; English does not use 'is' before the base form of another verb. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The subject and the verb of a present simple sentence must agree in number. A singular third person subject such as 'the bus' or 'every student' takes a verb with -s, and the same subject placed in the past takes 'left' with no ending at all. Checking agreement sentence by sentence is the fastest way to find these errors.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Doctors at the clinic work at night during the emergency season and they sleep in the afternoon.
+
+### Enunciado
+Choose the sentence that correctly describes what the doctors do at night.
+
+### Opciones
+- [ ] A) Doctors at the clinic works at night during the emergency season.
+  <!-- feedback: 'Works' takes the -s of the third person singular, but 'doctors' is plural, so the plural subject needs the base form of the verb. -->
+- [x] B) Doctors at the clinic work at night during the emergency season.
+  <!-- feedback: Correct! A plural third person subject takes the base form of the verb with no ending, which is why 'doctors work' and not 'doctors works'. -->
+- [ ] C) Doctors at the clinic working at night during the emergency season.
+  <!-- feedback: 'Working' is an -ing form and cannot be the verb of a present simple statement; it would need 'are working'. -->
+- [ ] D) Doctors at the clinic is work at night during the emergency season.
+  <!-- feedback: 'Is work' is not a form in English; a verb like 'work' is either 'works' with 'he' or 'work' with 'they', never 'is work'. -->
+
+### Explicacion Pedagogica
+English verbs agree with their subjects in number. Nouns ending in -s, such as 'doctors' or 'students', take the base form: they work. Only the third person singular takes the -s. This is why a plural subject with a verb ending in -s is one of the most reliable patterns to check in written work.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** My cousin Valentina studies medicine and she wants to work in a rural community.
+
+### Enunciado
+Rewrite the sentence in the negative, keeping the present simple meaning.
+
+### Opciones
+- [ ] A) My cousin not study medicine.
+  <!-- feedback: 'Not' cannot open the negative clause by itself; English builds the negation with the auxiliary 'do', 'does' or 'did'. -->
+- [ ] B) My cousin doesn't studies medicine.
+  <!-- feedback: 'Doesn't' already carries the -s of the third person, so the main verb must drop it and stay as the base form 'study'. -->
+- [ ] C) My cousin don't studying medicine.
+  <!-- feedback: 'Don't' belongs to I, you, we and they, and the -ing form cannot follow it; a negative present simple never uses 'don't' with 'my cousin'. -->
+- [x] D) My cousin does not study medicine.
+  <!-- feedback: Correct! The full form 'does not' agrees with the singular subject 'my cousin' and is followed by the base form 'study'. -->
+
+### Explicacion Pedagogica
+The negative of the present simple is always auxiliary plus base verb: does not study, do not study, did not study. The -s or -ed that the verb carries in an affirmative sentence disappears once the auxiliary takes over the tense, so 'does not' is followed by 'study' and never by 'studies'.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** The shop near the park opens at eight and the owner always greets the neighbours.
+
+### Enunciado
+Choose the sentence that correctly reports what the owner does when the shop opens.
+
+### Opciones
+- [ ] A) The owner is always greet the neighbours when the shop opens.
+  <!-- feedback: 'Is greet' is not a form in English; 'greets' is the correct present simple verb for a singular third person subject. -->
+- [ ] B) The owner always greet the neighbours when the shop opens.
+  <!-- feedback: The second verb 'open' lacks the -s that the singular subject 'the shop' requires, and the first verb is a distractor error. -->
+- [x] C) The owner always greets the neighbours when the shop opens.
+  <!-- feedback: Correct! Both verbs have 'the owner' as their subject, and that singular third person subject gives 'greets' and 'opens' with -s. -->
+- [ ] D) The owner always greets the neighbour when the shop open.
+  <!-- feedback: 'The shop open' has the same agreement error: a singular subject needs 'opens', and the plural 'the neighbours' needs the -s of 'greets'. -->
+
+### Explicacion Pedagogica
+Two present simple clauses joined by 'when' or 'because' each carry their own subject, and each verb agrees with its own subject. That makes a sentence easy to check: find the subject of the clause, then ask whether the verb has the -s that subject requires or whether it should lose it.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Not every student in the class speaks English at home, but all of them study it at school.
+
+### Enunciado
+Choose the sentence that correctly expresses a general truth in the present simple.
+
+### Opciones
+- [x] A) Water boils at one hundred degrees Celsius.
+  <!-- feedback: Correct! 'Water' is a singular third person subject, so the general truth is stated with 'boils', not with the base form 'boil'. -->
+- [ ] B) Water is boil at one hundred degrees Celsius.
+  <!-- feedback: 'Is boil' is not a grammatical combination; after 'is' a progressive or a description follows, never a bare base form. -->
+- [ ] C) Water boiling at one hundred degrees Celsius.
+  <!-- feedback: 'Boiling' is an -ing form and needs a helping verb; a scientific fact stated as a general truth uses the simple present. -->
+- [ ] D) Water boil at one hundred degrees Celsius.
+  <!-- feedback: 'Boil' has no -s, so it does not agree with the singular subject 'water'; general truths still require subject and verb agreement. -->
+
+### Explicacion Pedagogica
+The simple present is the tense used for general truths, habits and fixed schedules. Its forms follow the same agreement rules as any other present simple sentence, so a singular subject such as 'water' or 'the sun' still takes the -s: water boils, the sun rises, light travels fast.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The new pharmacy on the corner opens next Monday and it stays open until ten at night.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the option with the correct question word to complete: '___ does the pharmacy open? It opens at eight.'
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) What
+  <!-- feedback: 'What' asks for a thing or a definition, and the answer 'it opens at eight' gives a time rather than an object. -->
+- [ ] B) Where
+  <!-- feedback: 'Where' asks for a place; the answer names a time, eight o'clock, so the question word has to be 'when'. -->
+- [x] C) When
+  <!-- feedback: Correct! 'When' asks about a time or a date, and the answer 'it opens at eight' supplies exactly that. -->
+- [ ] D) Why
+  <!-- feedback: 'Why' asks for a reason and would need an answer such as 'because it serves the whole neighbourhood'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Choosing the right question word is what makes a question intelligible. 'When' covers times and dates, 'where' covers places, 'who' covers people and 'why' covers reasons. Reading the answer first and deciding what kind of information it gives is the fastest way to pick the word.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Ana writes short stories and her brother illustrates them; they publish together every year.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly joins two third person singular verbs.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) Ana writes short stories and her brother illustrate them.
+  <!-- feedback: 'Her brother' is the subject of the second clause, so the second verb must also take the -s: 'illustrates', not 'illustrate'. -->
+- [x] B) Ana writes short stories and her brother illustrates them.
+  <!-- feedback: Correct! Each clause has its own singular third person subject, so both verbs carry the -s of the present simple. -->
+- [ ] C) Ana write short stories and her brother illustrates them.
+  <!-- feedback: 'Ana' is the subject of the first clause, so the first verb must take the -s: 'writes', not 'write'. -->
+- [ ] D) Ana writes short stories and her brother illustrating them.
+  <!-- feedback: 'Illustrating' is an -ing form and cannot be the verb of the second clause; the clause needs the finite form 'illustrates'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+In a sentence with two clauses joined by 'and', each clause has its own subject and its own verb. Both subjects here are singular third person, so both verbs take the -s. When the two clauses share one subject, as in 'She writes and illustrates them', the -s appears only once, on the first verb.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The village celebrates its festival in August, and the neighbours bring food to the main square.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence with the correct verb form: 'The neighbours (bring) food to the main square every August.'
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) The neighbours has bring food to the main square every August.
+  <!-- feedback: 'Has bring' mixes an auxiliary with a base form; 'has' is followed by the past participle 'brought' or by 'to bring', never by 'bring'. -->
+- [ ] B) The neighbours brings food to the main square every August.
+  <!-- feedback: 'Brings' is the third person singular form, but 'the neighbours' is plural and therefore takes the base form of the verb. -->
+- [ ] C) The neighbours bringing food to the main square every August.
+  <!-- feedback: 'Bringing' is an -ing form; a present simple statement about a yearly habit needs the finite form of the verb. -->
+- [x] D) The neighbours bring food to the main square every August.
+  <!-- feedback: Correct! 'The neighbours' is a plural noun, so the present simple keeps the base form 'bring' without any ending. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Plural subjects take the base form of the verb in the present simple, so 'the neighbours bring' and 'the students study' are correct. Careful: British English accepts 'the neighbours are bringing' in a progressive sense, but a plain present simple statement always uses the base form with a plural subject.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Daniel is a mechanic and he works in a small workshop near the market in Portoviejo.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the wh question that asks what Daniel does for a living.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] B) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) What does Daniel do?
+  <!-- feedback: Correct! 'What does Daniel do?' is the standard way to ask about someone's job or occupation in English. -->
+- [ ] B) Why does Daniel work?
+  <!-- feedback: 'Why' asks for a reason, so the answer would explain a cause such as 'because he likes working with his hands'. -->
+- [ ] C) When does Daniel work?
+  <!-- feedback: 'When' asks about a time or a schedule, so the answer would be something like 'from Monday to Saturday'. -->
+- [ ] D) Where does Daniel work?
+  <!-- feedback: 'Where' would need an answer naming a place, such as 'in a workshop near the market', not his occupation. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+English has fixed patterns for asking about jobs. 'What do you do?' asks for the occupation, 'Where do you work?' asks for the place, and 'How long have you worked there?' asks about the length of time. Recognising which information the speaker wants is the first step in answering correctly.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Tourists visit the old town every year and the local guides explain the history of the church.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the option that correctly asks whether the tourists visit the old town.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) Does the tourists visit the old town every year?
+  <!-- feedback: 'Does' is the third person singular auxiliary and cannot agree with the plural subject 'the tourists'. -->
+- [x] B) Do the tourists visit the old town every year?
+  <!-- feedback: Correct! 'Do' is the auxiliary of a plural subject and it is followed by the base form 'visit', with the subject placed after it. -->
+- [ ] C) Are the tourists visit the old town every year?
+  <!-- feedback: 'Are' opens a progressive or a description; the simple action 'visit' needs the auxiliary 'do' in a question. -->
+- [ ] D) The tourists visit the old town every year?
+  <!-- feedback: A statement is not a question; the subject and the verb have to be inverted around the auxiliary 'do'. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A yes and no question inverts the auxiliary and the subject. With a plural subject the auxiliary is 'do' and the verb stays in its base form, so the question is 'Do the tourists visit?' and never 'Does the tourists visit?'. The same inversion applies to 'have got' and 'can' questions.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Our teacher often repeats that regular practice matters more than a long study session.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the correct short answer to the question 'Does your teacher repeat that advice?'
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) Yes, he repeat it.
+  <!-- feedback: 'He repeat' has no -s after a singular third person pronoun, so the auxiliary 'does' in the question is answered with a verb that breaks agreement. -->
+- [ ] B) Yes, he repeats it every day.
+  <!-- feedback: Repeating the whole clause answers the question in a long form; the short answer expected here is pronoun plus auxiliary. -->
+- [ ] C) Yes, he is.
+  <!-- feedback: 'He is' would answer a question such as 'Is he your teacher?', but this question was built with 'does'. -->
+- [x] D) Yes, he does.
+  <!-- feedback: Correct! The question uses the auxiliary 'does', so the short answer is 'he does', with the pronoun and the auxiliary in place. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A short answer has only two words in the present simple: a pronoun and the auxiliary of the question. 'Does he repeat that advice?' is answered with 'Yes, he does', never with 'he repeat' and never with 'he is'. The verb 'repeat' reappears only when the question is reopened with a wh word.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The rice fields near Babahoyo depend on the rains, and the farmers watch the sky every May.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the option that correctly uses the third person singular present simple after 'every'.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) Every farmer watch the sky in May.
+  <!-- feedback: 'Every farmer' is a singular subject because 'every' takes a singular noun, so the verb needs the -s form 'watches'. -->
+- [ ] B) Every farmer watching the sky in May.
+  <!-- feedback: 'Watching' is an -ing form and cannot be the verb of the sentence; it would need 'is watching'. -->
+- [x] C) Every farmer watches the sky in May.
+  <!-- feedback: Correct! 'Every' is followed by a singular noun and makes that noun singular, so the verb takes the -s of the third person singular. -->
+- [ ] D) Every farmer is watch the sky in May.
+  <!-- feedback: 'Is watch' is not a valid form; after 'is' a progressive or an adjective follows, never a base form without 'to'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Words like 'every', 'each' and 'either' make the following noun singular, so 'every farmer watches' and 'each student answers'. The same rule applies to phrases such as 'every one of the farmers watches'. By contrast, 'all', 'both' and 'most' keep the noun plural: all the farmers watch.
+---

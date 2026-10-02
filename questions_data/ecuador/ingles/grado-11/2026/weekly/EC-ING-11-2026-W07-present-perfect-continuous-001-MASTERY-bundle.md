@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Look at this mud on my boots. I have been walking through the fields since morning.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which option correctly forms the present perfect continuous with 'have'?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) I have been walking through the fields since morning.
+  <!-- feedback: Correct! The structure is 'have' plus 'been' plus the -ing form of the verb, which describes an activity that started and is still going on. -->
+- [ ] B) I have been walk through the fields since morning.
+  <!-- feedback: 'Been walk' needs the -ing form, so the correct structure is 'have been walking'. -->
+- [ ] C) I have walking through the fields since morning.
+  <!-- feedback: 'Have' must be followed by 'been' plus the -ing form here; a bare -ing form alone cannot follow 'have'. -->
+- [ ] D) I have been walked through the fields since morning.
+  <!-- feedback: 'Been walked' is a passive participle, which would describe the fields walking the person, not the other way round. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The present perfect continuous has three parts: 'have' or 'has', the word 'been' and the -ing form of the verb. It describes an activity that began in the past and is still in progress, and it is often followed by 'for' with a duration or 'since' with a starting point.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** They have been working on the project since March, and they are still revising it.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the sentence that correctly uses the present perfect continuous with 'since'.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) They have worked on the project since March and they finished it.
+  <!-- feedback: The form is correct, but the last clause contradicts the first: 'they finished it' ends the activity that 'still revising' describes. -->
+- [ ] B) They are working on the project since March.
+  <!-- feedback: 'Are working' is the present continuous, which is anchored to now but does not link the action to a past starting point. -->
+- [ ] C) They worked on the project since March.
+  <!-- feedback: 'Worked' is the past simple and needs a finished time such as 'last March', not 'since March'. -->
+- [x] D) They have been working on the project since March.
+  <!-- feedback: Correct! 'Since' marks the starting point of an activity that is still in progress, which is exactly what the continuous expresses. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Since' is used with a point in time and 'for' with a period of time: since March, for three months. Both require a present perfect form, and they work especially well with the continuous when the activity has not finished yet.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** How long have you been studying English? I have been studying it for six years.
+
+### Enunciado
+Choose the correct question and answer about duration.
+
+### Opciones
+- [ ] A) How long are you studying English? I am studying it for six years.
+  <!-- feedback: 'Are studying' is the present continuous, which cannot be combined with 'for' to report a period that began in the past. -->
+- [x] B) How long have you been studying English? I have been studying it for six years.
+  <!-- feedback: Correct! 'Have you been studying' is the present perfect continuous question and 'for six years' answers it with a duration. -->
+- [ ] C) How long did you study English? I studied it for six years.
+  <!-- feedback: 'Did you study' is the past simple question and would require a finished situation rather than an ongoing one. -->
+- [ ] D) How long you have been studying English? I have been studying it for six years.
+  <!-- feedback: A question needs the auxiliary 'have' before the subject, so the order is 'how long have you been studying'. -->
+
+### Explicacion Pedagogica
+Asking about duration with the present perfect continuous follows the pattern 'how long have you been plus -ing'. The answer gives the period with 'for'. Using the present continuous instead is a common error because Spanish also allows a long present progressive.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** My hands are black. I have been repairing the bicycle all afternoon.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the sentence that correctly explains the visible result with the present perfect continuous.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) My hands are black because I am repairing the bicycle.
+  <!-- feedback: 'Am repairing' is the present continuous, which is anchored to now and says nothing about the earlier part of the afternoon. -->
+- [ ] B) My hands are black because I have repaired the bicycle.
+  <!-- feedback: The present perfect alone would work if the activity were finished, but here the continuous is what connects the state to the ongoing process. -->
+- [x] C) My hands are black because I have been repairing the bicycle.
+  <!-- feedback: Correct! The continuous form links the visible result to the activity that has been going on and explains the evidence of it. -->
+- [ ] D) My hands are black because I repaired the bicycle.
+  <!-- feedback: 'Repaired' is the past simple, which would need the afternoon stated as a finished period. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The present perfect continuous is the tense that connects an ongoing activity with the result it is producing: the roads are wet because it has been raining. The present perfect alone links a finished past action to the present, and the present continuous only describes the current moment.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** He has been waiting for the bus for forty minutes and he is getting angry.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence with the correct form of the verb in brackets: 'He (wait) for the bus for forty minutes.'
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] C) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) He has been waiting for the bus for forty minutes.
+  <!-- feedback: Correct! 'Has been waiting' is the third person singular of the present perfect continuous, formed with 'has been' plus -ing. -->
+- [ ] B) He has been waited for the bus for forty minutes.
+  <!-- feedback: 'Been waited' is a passive participle, so it would describe the bus waiting for him, which is the opposite meaning. -->
+- [ ] C) He has been wait for the bus for forty minutes.
+  <!-- feedback: 'Been wait' needs the -ing form, so the structure would be 'has been waiting'. -->
+- [ ] D) He is been waiting for the bus for forty minutes.
+  <!-- feedback: 'Is been' is not a valid combination in English; a progressive uses one auxiliary and a perfect uses the other. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The third person singular takes 'has been' rather than 'have been', which is the agreement difference between he and the other subjects. The rest of the structure is identical: 'has been' plus the -ing form of the verb.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The company has been hiring graduates for three years and now employs more than two hundred people.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that correctly uses the present perfect continuous for an ongoing activity.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) The company hired graduates for three years.
+  <!-- feedback: 'Hired' is the past simple and needs a finished period; 'for three years' signals an activity that has not ended. -->
+- [ ] B) The company is hiring graduates since three years.
+  <!-- feedback: 'Since' marks a starting point rather than a duration, and the present continuous cannot be combined with it in this way. -->
+- [x] C) The company has been hiring graduates for three years.
+  <!-- feedback: Correct! 'Has been hiring' plus 'for three years' describes an activity that began in the past and continues. -->
+- [ ] D) The company has hire graduates for three years.
+  <!-- feedback: 'Has hire' needs the -ing form after 'has been', so the correct structure is 'has been hiring'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+An activity that has lasted for a given period and is still under way takes the present perfect continuous with 'for'. If the activity were over, the sentence would use the present perfect simple: the company has hired six graduates this year.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** It has been raining all morning and the streets are still wet.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence that correctly describes an activity that started in the past and continues.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] C) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) It rains all morning.
+  <!-- feedback: 'Rains' is the present simple third person singular and would describe a repeated habit rather than an activity that began this morning. -->
+- [ ] B) It is been raining all morning.
+  <!-- feedback: 'Is been' mixes a progressive auxiliary with the perfect 'been', and that combination does not exist in English. -->
+- [ ] C) It has raining all morning.
+  <!-- feedback: 'Has raining' lacks the 'been' that the continuous requires after 'has'. -->
+- [x] D) It has been raining all morning.
+  <!-- feedback: Correct! 'It' takes the form 'has been raining', with the third person singular 'has' plus 'been' plus -ing. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Weather expressions are one of the most frequent uses of the present perfect continuous: it has been raining, it has been snowing, it has been cold. The verb 'be' stays unchanged, so the auxiliary 'it has' is added directly in front of the participle.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** They have not finished the report yet; they have been working on it since July.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence that correctly negates the present perfect continuous.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) They have not been finish the report, and they have been working on it since July.
+  <!-- feedback: 'Have not been finish' needs the past participle after 'been', so the negative continuous would be 'have not been working'. -->
+- [x] B) They have not finished the report, and they have been working on it since July.
+  <!-- feedback: Correct! 'Have not finished' negates the present perfect and the second clause gives the matching continuous detail. -->
+- [ ] C) They not have finished the report, and they have been working on it since July.
+  <!-- feedback: English places the auxiliary before 'not', so a negative clause never begins with 'not have'. -->
+- [ ] D) They haven't working on the report, and they have been working on it since July.
+  <!-- feedback: 'Haven't working' needs the -ing form after 'haven't been', so it is not a valid negative continuous. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The negative present perfect continuous is 'have not been' plus the -ing form, contracted as 'haven't been'. The two tenses are often used together in one sentence: the perfect gives the result and the continuous gives the duration.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** What have you been doing all morning? I have been preparing the presentation for the fair.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the question and answer that correctly use the present perfect continuous.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) What have you been doing all morning? I have been preparing the presentation.
+  <!-- feedback: Correct! 'What have you been doing' is the present perfect continuous question and the answer repeats the same structure. -->
+- [ ] B) What did you do all morning? I was preparing the presentation.
+  <!-- feedback: 'Did you do' is the past simple question, which would ask about a completed activity with a finished time. -->
+- [ ] C) What have you been do all morning? I have been preparing the presentation.
+  <!-- feedback: 'Been do' needs the -ing form, so the question would be 'what have you been doing'. -->
+- [ ] D) What you have been doing all morning? I have been preparing the presentation.
+  <!-- feedback: A question needs the auxiliary 'have' before the subject, so the order is 'what have you been doing'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Questions in the present perfect continuous use 'have' plus 'been' plus -ing, and the answer repeats the same tense. Any time expression that describes a period still running, such as 'all morning', points to this tense rather than to the past simple.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Something is wrong with the engine. It has been making a strange noise for a week.
+
+### Enunciado
+Choose the sentence that correctly describes a problem that started in the past and persists.
+
+### Opciones
+- [ ] A) The engine is making a strange noise since a week.
+  <!-- feedback: 'Since' marks a point in time, not a duration, so it cannot be used with the present continuous in this construction. -->
+- [x] B) The engine has been making a strange noise for a week.
+  <!-- feedback: Correct! 'Has been making' plus 'for a week' describes a problem that began in the past and has not stopped. -->
+- [ ] C) The engine makes a strange noise for a week.
+  <!-- feedback: 'Makes' is the present simple and would describe a habit; a fault that lasts a week needs the perfect continuous. -->
+- [ ] D) The engine has made a strange noise since a week.
+  <!-- feedback: 'Since a week' is not a time expression in English; 'since' needs a starting point such as 'since last Monday'. -->
+
+### Explicacion Pedagogica
+Symptoms and faults that persist are naturally described with the present perfect continuous. The pairing of 'has been' with 'for' marks a duration that began in the past and continues, which is the meaning the sentence wants to express.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** We have known each other since we were children, and we still speak every week.
+
+### Enunciado
+Choose the sentence that correctly uses the present perfect with 'since' and a state verb.
+
+### Opciones
+- [ ] A) We have known each other since we are children.
+  <!-- feedback: 'Since we are children' would require the present tense, but the sentence describes a period that started in the past. -->
+- [ ] B) We have been know each other since we were children.
+  <!-- feedback: 'Been know' is not a form in English; a state verb does not take the continuous of the present perfect. -->
+- [ ] C) We knew each other since we were children.
+  <!-- feedback: 'Knew' is the past simple and would place the whole relationship in a closed past period. -->
+- [x] D) We have known each other since we were children.
+  <!-- feedback: Correct! Stative verbs such as 'know' take the present perfect simple rather than the continuous, since knowing is a state and not an activity. -->
+
+### Explicacion Pedagogica
+State verbs, which describe conditions rather than actions, do not normally use the continuous: know, love, want, believe, own and belong. They combine with the present perfect simple: I have known her for years. Verbs of activity such as work, study and read take the continuous.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** The children have been watching television since lunch and now they are very sleepy.
+
+### Enunciado
+Choose the sentence that correctly links an ongoing activity to its present result.
+
+### Opciones
+- [ ] A) The children watched television since lunch.
+  <!-- feedback: 'Watched' is the past simple and would describe a single completed viewing rather than one still in progress. -->
+- [ ] B) The children watch television since lunch.
+  <!-- feedback: 'Watch' is the present simple and cannot be combined with 'since' followed by a past starting point. -->
+- [x] C) The children have been watching television since lunch.
+  <!-- feedback: Correct! 'Have been watching' plus 'since lunch' describes the activity that produced the sleepiness mentioned next. -->
+- [ ] D) The children are watch television since lunch.
+  <!-- feedback: 'Are watch' needs the -ing form, so the present progressive would be 'are watching'. -->
+
+### Explicacion Pedagogica
+The present perfect continuous connects an activity that has lasted for a period with the state it has produced. It is therefore common in sentences that report a present consequence: the roads are closed because it has been snowing since dawn.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Volunteers have been cleaning the river every Saturday for months, so the water is much clearer now.
+
+### Enunciado
+Choose the sentence that correctly combines the present perfect continuous with an adverb of frequency.
+
+### Opciones
+- [x] A) Volunteers have been cleaning the river every Saturday for months.
+  <!-- feedback: Correct! 'Have been cleaning' describes a repeated activity that has gone on for months and is still part of the routine. -->
+- [ ] B) Volunteers is cleaning the river every Saturday for months.
+  <!-- feedback: 'Is cleaning' is the present continuous, which describes one action in progress rather than a repeated routine. -->
+- [ ] C) Volunteers cleaned the river every Saturday for months.
+  <!-- feedback: 'Cleaned' is the past simple and would need a finished period rather than 'for months'. -->
+- [ ] D) Volunteers have been clean the river every Saturday for months.
+  <!-- feedback: 'Been clean' needs the -ing form after 'been', so the correct structure is 'have been cleaning'. -->
+
+### Explicacion Pedagogica
+A repeated activity that started in the past and continues to recur can use the present perfect continuous: they have been meeting every Friday since April. The expression of frequency does not change the tense; 'for months' still signals a period that reaches the present.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We have been living in Riobamba for two years, and we are considering a move.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence with the correct form of the verb in brackets: 'We (live) in Riobamba for two years.'
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) We have been live in Riobamba for two years.
+  <!-- feedback: 'Been live' needs the -ing form, so the structure would be 'have been living'. -->
+- [ ] B) We have been lived in Riobamba for two years.
+  <!-- feedback: 'Been lived' is a passive participle, so it would describe being lived in by someone else rather than the residents living there. -->
+- [x] C) We have been living in Riobamba for two years.
+  <!-- feedback: Correct! 'Have been living' plus 'for two years' describes a situation that started in the past and still holds now. -->
+- [ ] D) We are been living in Riobamba for two years.
+  <!-- feedback: 'Are been' combines a progressive auxiliary with the perfect 'been', and that combination is not grammatical. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Living in a place is a state that lasts, and English describes a state lasting from the past to the present with the present perfect continuous or with the present perfect simple. Both are acceptable here, and the continuous adds the sense of a process rather than a fixed situation.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Has he finished the report yet? No, he has not. He has been working on it all day.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the exchange that correctly uses the present perfect and the continuous.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) Has he finished the report yet? No, he hasn't working on it all day.
+  <!-- feedback: 'Hasn't working' needs the -ing form after 'been', so a valid negative continuous would be 'hasn't been working'. -->
+- [x] B) Has he finished the report yet? No, he has not. He has been working on it all day.
+  <!-- feedback: Correct! 'Has finished' is the present perfect, 'has not' is its short negative answer and the continuous explains the day. -->
+- [ ] C) Did he finish the report yet? No, he has not. He has been working on it all day.
+  <!-- feedback: 'Did he finish' is the past simple question and would ask about a finished moment rather than the result up to now. -->
+- [ ] D) Has he finished the report yet? No, he not has. He has been working on it all day.
+  <!-- feedback: A negative clause places the auxiliary before 'not', so 'not has' is not the word order of English. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Yet' at the end of a question or a statement points to the present perfect, because it asks whether something has happened up to this moment. The answer 'No, he has not' keeps that tense, and the continuous clause gives the reason the work is unfinished.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The rain has been falling for three hours and the road is completely flooded.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the option that describes the duration of the rain correctly.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) The rain has falling for three hours.
+  <!-- feedback: 'Has falling' needs the word 'been' between 'has' and the -ing form to form the present perfect continuous. -->
+- [ ] B) The rain is falling since three hours.
+  <!-- feedback: 'Since' marks a starting point and needs a date or a reference such as 'since ten o'clock', not a length of time. -->
+- [ ] C) The rain fell for three hours.
+  <!-- feedback: 'Fell' is the past simple and would describe a rain that stopped three hours ago, leaving the present unexplained. -->
+- [x] D) The rain has been falling for three hours.
+  <!-- feedback: Correct! 'For three hours' is a duration that begins in the past and reaches the present, which requires 'has been falling'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+English has two ways of expressing a period: 'for' plus a length, as in for three hours, and 'since' plus a point, as in since eight o'clock. Both combine with the present perfect continuous when the activity is still running.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I have been reading this novel for a month, but I have not finished it yet.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence that correctly links an unfinished activity with the negative perfect.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) I have been reading this novel for a month, but I have not finished it.
+  <!-- feedback: Correct! The continuous reports the activity that has lasted and the perfect with 'not' reports that it is still not complete. -->
+- [ ] B) I have been read this novel for a month, but I have not finished it.
+  <!-- feedback: 'Been read' is a passive participle, so it would describe the novel being read rather than the act of reading it. -->
+- [ ] C) I am reading this novel for a month, but I have not finished it.
+  <!-- feedback: 'Am reading' is the present continuous and cannot be combined with 'for a month' in English. -->
+- [ ] D) I read this novel for a month, but I have not finished it.
+  <!-- feedback: 'Read' is the past simple, which would suggest the reading is over and contradicts the unfinished state. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The present perfect continuous and the negative present perfect often appear together in the same sentence: the first gives the duration of the activity and the second gives its status. The contrast between them shows duration against completion.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The teacher has been waiting for us since ten o'clock and she looks rather tired.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the option that correctly expresses the waiting that has lasted since a point in time.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) The teacher is waiting for us since ten o'clock.
+  <!-- feedback: 'Since' cannot follow the present continuous in English; the period a wait has lasted needs the perfect. -->
+- [x] B) The teacher has been waiting for us since ten o'clock.
+  <!-- feedback: Correct! 'Has been waiting' plus 'since ten o'clock' marks a point in time as the start of an activity that continues. -->
+- [ ] C) The teacher has been waited for us since ten o'clock.
+  <!-- feedback: 'Been waited' is a passive participle and would make the teacher the one who is waited for, reversing the meaning. -->
+- [ ] D) The teacher has been wait for us since ten o'clock.
+  <!-- feedback: 'Been wait' needs the -ing form after 'been', so the correct form is 'has been waiting'. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Since' takes a starting point, and the present perfect continuous pairs with it to describe an activity that has not stopped since that moment. The state verb 'look' in the following sentence gives the present consequence of the long wait.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You have been studying the same chapter for hours. Why not take a short break?
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence that correctly describes an activity repeated over a long period.
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) You are studied the same chapter for hours.
+  <!-- feedback: 'Are studied' is a passive progressive, which would describe the chapter being studied rather than a person studying it. -->
+- [ ] B) You have been study the same chapter for hours.
+  <!-- feedback: 'Been study' needs the -ing form after 'been' in the present perfect continuous. -->
+- [ ] C) You studied the same chapter for hours.
+  <!-- feedback: 'Studied' is the past simple and would place the activity in a finished period rather than an ongoing one. -->
+- [x] D) You have been studying the same chapter for hours.
+  <!-- feedback: Correct! 'Have been studying' plus 'for hours' describes an activity that has lasted for a period and is still in progress. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The present perfect continuous is the tense of activities that continue without a clear end. It is frequent in advice and complaint, where the speaker wants to point out that an action has lasted longer than it should have.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** What have they been doing in the lab all week? They have been testing water samples from the river.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the exchange that correctly uses the present perfect continuous in question and answer.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) What have they been done all week? They have been testing water samples.
+  <!-- feedback: 'Been done' places a participle after 'been' and loses the progressive meaning of the verb. -->
+- [ ] B) What they have been doing all week? They have been testing water samples.
+  <!-- feedback: A question needs the auxiliary before the subject, so the order is 'what have they been doing'. -->
+- [x] C) What have they been doing all week? They have been testing water samples.
+  <!-- feedback: Correct! The auxiliary 'have' comes before the subject in the question and the answer repeats the present perfect continuous. -->
+- [ ] D) What have they been doing all week? They have tested water samples.
+  <!-- feedback: 'Have tested' is the present perfect simple, which reports a completed set of tests rather than the ongoing activity of the whole week. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+When a wh question is built with the present perfect continuous, the auxiliary precedes the subject and the -ing form closes the phrase. The answer to such a question usually keeps the same tense and refers to the same period mentioned in the question.
+---

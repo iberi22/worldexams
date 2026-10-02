@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate asks you to wait until an event finishes.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Complete the sentence: 'Please ___ until the meeting ends.'
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) hold on
+  <!-- feedback: Correct. 'Hold on' means to wait briefly, which matches the request to wait until the meeting ends. -->
+- [ ] B) hold off
+  <!-- feedback: Wrong. 'Hold off' means to delay something or to keep away, which is a different meaning. -->
+- [ ] C) hold up
+  <!-- feedback: Wrong. 'Hold up' means to delay or to raise, which does not mean waiting. -->
+- [ ] D) hold out
+  <!-- feedback: Wrong. 'Hold out' means to resist or to extend something, neither of which fits waiting. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Basic phrasal verbs are memorised as units, so the correct preposition must be learned together with the verb.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A manager explains that an action will be delayed.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'The launch will ___ until next month.'
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) be put on
+  <!-- feedback: Wrong. 'Put on' means to wear or to switch on, which has nothing to do with postponing. -->
+- [x] B) be put off
+  <!-- feedback: Correct. 'Put off' means to postpone, and with a passive 'will be put off' the delay is described precisely. -->
+- [ ] C) be put in
+  <!-- feedback: Wrong. 'Put in' means to insert or to submit, which does not express postponement. -->
+- [ ] D) be put up
+  <!-- feedback: Wrong. 'Put up' means to erect or to display, which is unrelated to a delay. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Phrasal verbs change meaning entirely when the particle changes, so put off, put on and put up are unrelated in sense.
+
 ---
-## Question 3 [D3-D4]
+
+## Question 3 [D3-D5]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** Two colleagues discuss giving up an activity.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the sentence that correctly means to stop doing something permanently.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) She gave in her violin lessons last year.
+  <!-- feedback: Wrong. 'Give in' means to surrender or to yield, which is not the same as stopping an activity by choice. -->
+- [ ] B) She gave off her violin lessons last year.
+  <!-- feedback: Wrong. 'Give off' is not a standard phrasal verb in this meaning. -->
+- [x] C) She gave up her violin lessons last year.
+  <!-- feedback: Correct. 'Give up' means to stop doing something, which matches stopping the lessons. -->
+- [ ] D) She gave out her violin lessons last year.
+  <!-- feedback: Wrong. 'Give out' means to distribute or to emit, which does not fit. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Give up, give in and give out are distinct phrasal verbs whose particles each carry a different core meaning.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A friend arrives and asks about someone who is not present.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: 'Where has your brother ___ ? He was here an hour ago.'
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] C) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) gone from
+  <!-- feedback: Wrong. 'Gone from' would work in some constructions but is incomplete without a stated reference point. -->
+- [ ] B) gone at
+  <!-- feedback: Wrong. 'Gone at' is not used to describe someone leaving. -->
+- [ ] C) gone in
+  <!-- feedback: Wrong. 'Gone in' is not a standard expression for leaving a place. -->
+- [x] D) gone off
+  <!-- feedback: Correct. 'Gone off' means to have left the place, which fits a person who was present and is now absent. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The phrasal verb go off is used with people to describe departure, and its use with places differs.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A traveller describes an unexpected cost.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence that correctly means the journey cost more than expected.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) The trip cost me more than I had expected.
+  <!-- feedback: Correct. 'Cost me more' is the correct collocation, with the comparative 'more' rather than 'than' standing alone. -->
+- [ ] B) The trip cost more me than I had expected.
+  <!-- feedback: Wrong. 'More me' misplaces the indirect object, which must come directly after the verb. -->
+- [ ] C) The trip cost me more what I had expected.
+  <!-- feedback: Wrong. 'What' cannot replace the comparative 'more' in this structure. -->
+- [ ] D) The trip cost me than I had expected.
+  <!-- feedback: Wrong. 'Than' cannot follow 'cost' without a comparative element before it. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+A phrasal verb does not have to be separable, and some such as cost have a fixed structure that cannot be reorganised.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A report describes a task that has not been done yet.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that correctly says something is still waiting to be done.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) I still have finish the report.
+  <!-- feedback: Wrong. 'Have finish' omits the infinitive marker after the modal-like 'have to'. -->
+- [x] B) I still have to finish the report.
+  <!-- feedback: Correct. 'Have to' plus the infinitive expresses an outstanding obligation, which is the intended meaning. -->
+- [ ] C) I still have the report to finish it.
+  <!-- feedback: Wrong. 'To finish it' adds a redundant object pronoun after an infinitive that already has its complement. -->
+- [ ] D) I still have to finishing the report.
+  <!-- feedback: Wrong. 'Have to finishing' uses a gerund where the infinitive is required. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The structure have got to and have to both take the infinitive, so the verb after them is never inflected or made into a gerund.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D4-D6]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A grammar task tests a separable phrasal verb with a pronoun object.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence that correctly places the pronoun with a separable phrasal verb.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) Please turn off them when you leave.
+  <!-- feedback: Wrong. A pronoun object must precede the particle, so 'off them' is incorrect. -->
+- [ ] B) Please turn the lights off when you leave.
+  <!-- feedback: Wrong. The particle form is possible with a noun object but is avoided when the object is a pronoun. -->
+- [x] C) Please turn off the lights when you leave.
+  <!-- feedback: Correct. 'Please' selects the type form, in which the noun object comes before the particle, which is the standard and safer position. -->
+- [ ] D) Please turn the lights off it when you leave.
+  <!-- feedback: Wrong. 'Off it' repeats the pronoun reference and does not fit the imperative request. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A separable phrasal verb allows either order with a noun object, but with a pronoun the pronoun must always come before the particle.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A grammarian explains an inseparable phrasal verb.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence that uses the phrasal verb in its fixed position.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) I look my after younger brother every weekend.
+  <!-- feedback: Wrong. This scatters both the particle and the noun and produces no readable clause. -->
+- [ ] B) I look after my younger brother every weekend is true.
+  <!-- feedback: Wrong. The clause cannot be completed with 'is true' because it already contains its own structure. -->
+- [ ] C) I look my younger brother after every weekend.
+  <!-- feedback: Wrong. Separating the particle from the verb is not possible with an inseparable phrasal verb. -->
+- [x] D) I look after my younger brother every weekend.
+  <!-- feedback: Correct. 'Look after' is inseparable, so the particle must stay directly after the verb and the object follows it. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Phrasal verbs fall into separable and inseparable types, and treating an inseparable one as separable is one of the commonest errors.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v9
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A manager explains that a deadline has been rescheduled.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence that correctly means to change a date to a later one.
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) They put the deadline back by two weeks.
+  <!-- feedback: Correct. 'Put back' means to postpone, and with the noun object before the particle the sentence is standard. -->
+- [ ] B) They put back by the deadline two weeks.
+  <!-- feedback: Wrong. This version scatters the adverb and the noun and is not a well-formed sentence. -->
+- [ ] C) They put the deadline by back two weeks.
+  <!-- feedback: Wrong. 'By back' reverses the particle and the adverb that express the delay. -->
+- [ ] D) They put back the deadline by two weeks is fine.
+  <!-- feedback: Wrong. The clause cannot be extended with 'is fine' because 'they put back the deadline' has no direct object left. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Put off' and 'put back' both express postponement, and with a noun object the particle may appear after it in standard English.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A traveller discovers that a plan has changed.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the sentence that correctly means a plan did not happen.
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [ ] A) The trip fell over because of the strike.
+  <!-- feedback: Wrong. 'Fell over' means to topple or to turn aside, which is a physical action. -->
+- [x] B) The trip fell through because of the strike.
+  <!-- feedback: Correct. 'Fall through' means to fail to happen or be completed, which matches an abandoned plan. -->
+- [ ] C) The trip fell about because of the strike.
+  <!-- feedback: Wrong. 'Fell about' means to laugh or struggle, which is unrelated to plans. -->
+- [ ] D) The trip fell in because of the strike.
+  <!-- feedback: Wrong. 'Fell in' means to become enclosed or to arrive at a bad time, which does not mean a plan was cancelled. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Fall through, fall over and fall in are separate idioms whose particles cannot be swapped without changing the meaning entirely.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D4-D6]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A student asks a teacher to explain something again.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that means the student wants the explanation repeated.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) Could you go off the explanation once more?
+  <!-- feedback: Wrong. 'Go off' means to leave or to explode, which is unrelated to reviewing material. -->
+- [ ] B) Could you go under the explanation once more?
+  <!-- feedback: Wrong. 'Go under' means to submerge or to examine in detail, which does not mean repeating something. -->
+- [x] C) Could you go over the explanation once more?
+  <!-- feedback: Correct. 'Go over' means to review or repeat material, which is exactly what the student requests. -->
+- [ ] D) Could you go out the explanation once more?
+  <!-- feedback: Wrong. 'Go out' means to leave, and combining it with a noun in this way is not valid. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Go over, look over and read over all mean to review material, and the particle over carries that sense of a second reading.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v12
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A speaker reacts to a proposal by refusing to agree.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence that correctly means to disagree verbally with a plan.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) I can't go in with this plan.
+  <!-- feedback: Wrong. 'Go in with' means to join in, which does not express disagreement. -->
+- [ ] B) I can't go for with this plan.
+  <!-- feedback: Wrong. 'Go for' is not a phrasal verb in this meaning. -->
+- [ ] C) I can't go on with this plan.
+  <!-- feedback: Wrong. 'Go on with' means to continue, so this would mean to continue the plan instead of opposing it. -->
+- [x] D) I can't go along with this plan.
+  <!-- feedback: Correct. 'Go along with' means to agree or to cooperate, so 'can't go along with' means to disagree. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Negating a phrasal verb that expresses agreement is a standard way of expressing disagreement, so the particle must be exactly right.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A report describes an event that happens unexpectedly.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that correctly means something happened without warning.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) The power cut out in the middle of the film.
+  <!-- feedback: Correct. 'Cut out' means to stop working or to be switched off, which describes a sudden loss of electricity. -->
+- [ ] B) The power cut over in the middle of the film.
+  <!-- feedback: Wrong. 'Cut over' is not a standard expression for a power failure. -->
+- [ ] C) The power cut down in the middle of the film.
+  <!-- feedback: Wrong. 'Cut down' means to reduce, which would suggest someone deliberately reduced the supply. -->
+- [ ] D) The power cut off in the middle of the film.
+  <!-- feedback: Wrong. 'Cut off' can describe severing a connection but is not the usual verb for a power failure. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Cut out, cut off and cut down each describe a different kind of interruption, and the noun being interrupted narrows the correct choice.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exam tests the difference between two phrasal verbs with the same verb.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the sentence that correctly uses 'turn down'.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) Please turn down on the volume; it is too loud.
+  <!-- feedback: Wrong. 'Turn down on' adds a preposition that is not part of the phrasal verb. -->
+- [x] B) Please turn down the volume; it is too loud.
+  <!-- feedback: Correct. 'Turn down' means to reduce the intensity of something such as a sound or a flame, which fits the situation. -->
+- [ ] C) Please turn down the volume it is too loud.
+  <!-- feedback: Wrong. The two clauses run together without punctuation, so the sentence is malformed. -->
+- [ ] D) Please turn the down volume; it is too loud.
+  <!-- feedback: Wrong. 'The down volume' separates the adjective from the noun it modifies. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Turn down reduces intensity while turn off switches something off, and the object determines which sense applies.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A student describes finishing a task early.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly means to complete something before the required time.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) I finished the assignment ahead of the deadline it was.
+  <!-- feedback: Wrong. Adding a second clause after the phrase makes the sentence unbalanced and ungrammatical. -->
+- [ ] B) I finished the assignment off of time.
+  <!-- feedback: Wrong. 'Off of' is not part of this phrase and changes the meaning to disconnection. -->
+- [x] C) I finished the assignment ahead of time.
+  <!-- feedback: Correct. 'Ahead of time' is the fixed phrase for completing something earlier than expected. -->
+- [ ] D) I finished the assignment of ahead time.
+  <!-- feedback: Wrong. 'Of ahead' reverses the two elements of the fixed expression. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Fixed phrases such as ahead of time, in advance and on time must be learnt as complete units and cannot be reorganised.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A report describes someone who has recovered from an illness.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence that correctly means to get better after being ill.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) He has got through at the flu at last.
+  <!-- feedback: Wrong. 'Got through at' is not a valid combination and the preposition is misplaced. -->
+- [ ] B) He has got on the flu at last.
+  <!-- feedback: Wrong. 'Get on' means to board or to manage, neither of which refers to illness. -->
+- [ ] C) He has got up the flu at last.
+  <!-- feedback: Wrong. 'Get up' means to rise from bed, which describes an action rather than a recovery. -->
+- [x] D) He has got over the flu at last.
+  <!-- feedback: Correct. 'Get over' means to recover from an illness or a difficulty, which matches the meaning of the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Get over and get through can both involve difficulty, but only get over means to recover from an illness.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D5-D7]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** An exercise tests a phrasal verb in the passive.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the passive sentence with the correct phrasal verb.
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) The mistake was pointed out by the teacher.
+  <!-- feedback: Correct. 'Point out' means to draw attention to something, and 'was pointed out' correctly expresses that in the passive. -->
+- [ ] B) The mistake was pointed at by the teacher.
+  <!-- feedback: Wrong. 'Pointed at' requires a target and is not used with a mistake as its object in this sense. -->
+- [ ] C) The mistake was pointed in by the teacher.
+  <!-- feedback: Wrong. 'Pointed in' has no such meaning in English. -->
+- [ ] D) The mistake was pointed over by the teacher.
+  <!-- feedback: Wrong. 'Pointed over' is not a valid form of this verb; over does not combine with point in this sense. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A phrasal verb in the passive keeps its particle immediately after the participle, so the whole unit is passivised together.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D6-D8]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v18
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.60
+**Contexto:** A translator must choose between two renderings of an idiom.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence preserves the idiomatic meaning of 'to put someone in their place'?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] C) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) She won the debate and outranked the room politely.
+  <!-- feedback: Wrong. 'Outranked the room' is not English and attempts a literal rendering of the idiom. -->
+- [x] B) She won the debate and reminded everyone of her seniority.
+  <!-- feedback: Correct. The idiom means to demonstrate that someone is less important than they believe, which the first sentence renders naturally. -->
+- [ ] C) She won the debate and raised her voice at the end.
+  <!-- feedback: Wrong. Raising the voice describes volume, not status, so it does not convey the idiom. -->
+- [ ] D) She won the debate and lowered the level of the discussion.
+  <!-- feedback: Wrong. Lowering the level of the discussion describes a different effect entirely. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+A phrasal verb used as an idiom carries a figurative meaning that a literal rendering of its words almost always distorts.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D6-D8]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exam tests a phrasal verb whose meaning depends on a final preposition.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence that correctly uses 'look into'.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) The police are looking over the case into doubt.
+  <!-- feedback: Wrong. 'Look over' means to review briefly and 'into doubt' is not a valid continuation. -->
+- [ ] B) The police are looking on the case.
+  <!-- feedback: Wrong. 'Look on' means to watch or to consult, neither of which means investigate. -->
+- [x] C) The police are looking into the case.
+  <!-- feedback: Correct. 'Look into' means to investigate, which is what an investigation of a case involves. -->
+- [ ] D) The police are looking in on the case.
+  <!-- feedback: Wrong. 'Look in on' means to visit briefly, which is different from investigating. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Several look phrasal verbs differ only in their particle, so the particle must be identified precisely rather than guessed.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A linguistics exercise examines meaning differences within one particle set.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that correctly uses 'pick up'.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) Could you pick for up the parcel from the post office?
+  <!-- feedback: Wrong. 'Pick for up' separates a particle that must stay with the verb. -->
+- [ ] B) Could you pick up of the parcel from the post office?
+  <!-- feedback: Wrong. 'Up of' adds a preposition that is not part of the phrasal verb. -->
+- [ ] C) Could you pick the parcel up on the post office?
+  <!-- feedback: Wrong. 'On the post office' would place the parcel on the building, which is a different action. -->
+- [x] D) Could you pick up the parcel from the post office?
+  <!-- feedback: Correct. 'Pick up' can mean to collect something or to learn a language, and here it means to collect a parcel. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Pick up has several senses, including to collect and to acquire a skill, and the surrounding words determine which one applies.
