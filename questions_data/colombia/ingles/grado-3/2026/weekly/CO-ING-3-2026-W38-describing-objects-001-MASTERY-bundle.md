@@ -44,7 +44,7 @@ Which adjective describes a very big object?
   <!-- feedback: old refers to how long a person has lived or how old a thing is, not to its size. -->
 
 ### Explicacion Pedagogica
-Los adjetivos de tamano, edad y longitud se confunden con frecuencia porque en espanol el adjective pequeno tambien puede describir longitud. En ingles big y small miden tamano, long mide extension y old mide tiempo.
+Los adjetivos de tamano, edad y longitud se confunden con frecuencia porque en espanol el adjective pequeno también puede describir longitud. En ingles big y small miden tamano, long mide extension y old mide tiempo.
 
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v2
@@ -113,7 +113,7 @@ Choose the sentence that is correct.
   <!-- feedback: The article a cannot go with a plural noun such as pencils. -->
 
 ### Explicacion Pedagogica
-Una oracion descriptiva necesita concordancia entre sujeto y verbo y entre articulo y sustantivo. La opcion correcta cumple las dos reglas, mientras que las demas fallan en el orden de los elementos o en el numero del sujeto.
+Una oracion descriptiva necesita concordancia entre sujeto y verbo y entre articulo y sustantivo. La alternativa marcada con [x] cumple las dos reglas, mientras que las demas fallan en el orden de los elementos o en el número del sujeto.
 
 ## Question 5 [D3-D4]
 **ID:** CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle-v5
@@ -179,7 +179,7 @@ Which sentence describes the correct comparison?
 - [ ] C) A pencil case is more big than a pen.
   <!-- feedback: Comparatives in English are formed with -er or with more, but never with both at once. -->
 - [ ] D) A pencil case is the big than a pen.
-  <!-- feedback: The comparative is bigER and not big, because the -er form is used with short adjectives. -->
+  <!-- feedback: The comparative is bigger and not big, because the -er form is used with short adjectives. -->
 
 ### Explicacion Pedagogica
 Los comparativos en ingles tienen dos caminos: anadir -er en adjetivos cortos como big, o anteponer more con adjetivos largos como interesting. Mezclar ambas formas o usar el grado positivo es el error tipico cuando el espanol resuelve todo con el mismo termino.
