@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Quantifiers Some Any Much Many (W23)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 1 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct quantifier: 'There aren't ___ students in the classroom today.'
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) any
+  <!-- feedback: Correct! In a negative sentence 'any' is used to mean 'none at all', which matches the negative 'aren't'. -->
+- [ ] B) some
+  <!-- feedback: No. 'Some' normally appears in affirmative or inviting sentences, not after a negative auxiliary. -->
+- [ ] C) much
+  <!-- feedback: No. 'Much' is for uncountable nouns, and students are countable. -->
+- [ ] D) a few
+  <!-- feedback: No. 'A few' states that a small positive number exists, which contradicts 'aren't'. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+In a negative sentence 'any' is used to mean 'none at all', which matches the negative 'aren't'. In this item the choice that works is 'any', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 2 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which quantifier correctly completes the question: '___ milk is left in the fridge?'
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [x] B) How much
+  <!-- feedback: Correct! Milk is uncountable, so the question about its quantity is built with 'how much'. -->
+- [ ] A) How many
+  <!-- feedback: No. 'How many' is for countable plural nouns, and milk cannot be counted. -->
+- [ ] C) How few
+  <!-- feedback: No. 'How few' would ask about a countable plural noun in a negative sense. -->
+- [ ] D) How long
+  <!-- feedback: No. 'How long' asks about duration or length, not about the amount of a substance. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Milk is uncountable, so the question about its quantity is built with 'how much'. In this item the choice that works is 'How much', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 3 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the sentence with the correct quantifier.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] C) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] C) We have much work to finish before Friday.
+  <!-- feedback: Correct! 'Work' is uncountable here, so 'much' is the quantifier that matches it. -->
+- [ ] A) We have many work to finish before Friday.
+  <!-- feedback: No. 'Many' is for countable plural nouns, and uncountable 'work' takes 'much'. -->
+- [ ] B) We have a many work to finish before Friday.
+  <!-- feedback: No. 'A many' is not a valid combination; the article cannot precede 'many' in this sense. -->
+- [ ] D) We have much works to finish before Friday.
+  <!-- feedback: No. 'Works' would make the noun countable, which changes the meaning of the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Work' is uncountable here, so 'much' is the quantifier that matches it. In this item the choice that works is 'We have much work to finish before Friday.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 4 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence is correct when offering something with 'some'?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] D) Would you like some coffee before the class?
+  <!-- feedback: Correct! 'Some' is the usual quantifier in an offer, which is exactly the use being tested here. -->
+- [ ] A) Would you like any coffee before the class?
+  <!-- feedback: No. 'Any' belongs to negative and interrogative contexts, and an offer is neither of those. -->
+- [ ] B) Would you like much coffee before the class?
+  <!-- feedback: No. 'Much' would imply a large amount, which is not what an offer asks about. -->
+- [ ] C) Would you like a coffee before the class?
+  <!-- feedback: No. 'A coffee' is possible but the question asks about the quantifier, and 'some' is the natural offer form. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Some' is the usual quantifier in an offer, which is exactly the use being tested here. In this item the choice that works is 'Would you like some coffee before the class?', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 5 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence: 'How ___ apples are there in the basket?'
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) many
+  <!-- feedback: Correct! 'Apples' is a countable plural noun, so the question about quantity takes 'how many'. -->
+- [ ] B) much
+  <!-- feedback: No. 'Much' is reserved for uncountable nouns, and apples are counted individually. -->
+- [ ] C) little
+  <!-- feedback: No. 'Little' can quantify a countable plural only as 'how few'; 'how little' measures an uncountable amount. -->
+- [ ] D) long
+  <!-- feedback: No. 'Long' asks about length or duration and never about the number of apples. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Apples' is a countable plural noun, so the question about quantity takes 'how many'. In this item the choice that works is 'many', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 6 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence correctly distinguishes 'much' from 'many' in the same item?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] B) There is not much space on the desk and there are not many chairs around it.
+  <!-- feedback: Correct! Uncountable 'space' takes 'much' and countable plural 'chairs' take 'many', each with its own quantifier. -->
+- [ ] A) There is not many space on the desk and there are not much chairs around it.
+  <!-- feedback: No. 'Many space' mismatches an uncountable noun, and 'much chairs' mismatches a plural one. -->
+- [ ] C) There is not much space on the desk and there are not much chairs around it.
+  <!-- feedback: No. 'Much chairs' is the second half of the sentence; the countable plural 'chairs' require 'many'. -->
+- [ ] D) There is not many space on the desk and there are not many chairs around it.
+  <!-- feedback: No. 'Many space' is the first half of the sentence; the uncountable noun 'space' requires 'much'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Uncountable 'space' takes 'much' and countable plural 'chairs' take 'many', each with its own quantifier. In this item the choice that works is 'There is not much space on the desk and there are not many chairs around it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 7 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence uses 'any' correctly in a negative sentence with an uncountable noun?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] C) We do not have any time left before the exam.
+  <!-- feedback: Correct! 'Any' is the quantifier used after a negative auxiliary to mean 'none of it at all'. -->
+- [ ] A) We do not have some time left before the exam.
+  <!-- feedback: No. 'Some' in a negative sentence would suggest that a little does exist, which contradicts 'do not have'. -->
+- [ ] B) We do not have much time left before the exam.
+  <!-- feedback: No. 'Much' would be right after 'how' or 'so', but after 'do not have' the neutral form is 'any'. -->
+- [ ] D) We do not have a time left before the exam.
+  <!-- feedback: No. 'A time' would name a single occasion rather than the amount of time available. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Any' is the quantifier used after a negative auxiliary to mean 'none of it at all'. In this item the choice that works is 'We do not have any time left before the exam.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 8 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence that correctly pairs a small positive number with 'a few'.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] D) There are a few questions I still need to review.
+  <!-- feedback: Correct! 'A few' states that some but not many countable items exist, which matches the plural 'questions'. -->
+- [ ] A) There are a few question I still need to review.
+  <!-- feedback: No. 'A few question' is singular, but 'a few' must be followed by a plural noun. -->
+- [ ] B) There are few questions I still need to review, and they are none.
+  <!-- feedback: No. 'Few' without an article already means almost none, and 'none' contradicts it outright. -->
+- [ ] C) There are a few water I still need to review.
+  <!-- feedback: No. 'A few water' pairs a countable quantifier with an uncountable noun. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'A few' states that some but not many countable items exist, which matches the plural 'questions'. In this item the choice that works is 'There are a few questions I still need to review.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 9 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence correctly uses 'some' in an affirmative statement about a countable plural noun?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) Some of my classmates work part time on weekends.
+  <!-- feedback: Correct! 'Some' is the affirmative quantifier for countable plural nouns when no exact number is given. -->
+- [ ] B) Any of my classmates work part time on weekends.
+  <!-- feedback: No. 'Any' belongs to negative and interrogative contexts; in an affirmative statement 'some' is used. -->
+- [ ] C) Much of my classmates work part time on weekends.
+  <!-- feedback: No. 'Much' is for uncountable nouns, and 'classmates' is a countable plural. -->
+- [ ] D) A some of my classmates work part time on weekends.
+  <!-- feedback: No. 'A some' is not a valid combination; an article cannot be added to 'some' in this use. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Some' is the affirmative quantifier for countable plural nouns when no exact number is given. In this item the choice that works is 'Some of my classmates work part time on weekends.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 10 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the question: '___ of the students passed the test?'
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] B) How many
+  <!-- feedback: Correct! 'Students' is countable, so the question about the number of them is built with 'how many'. -->
+- [ ] A) How much
+  <!-- feedback: No. 'How much' measures uncountable quantities and cannot count students. -->
+- [ ] C) How long
+  <!-- feedback: No. 'How long' asks about duration, not about a number of people. -->
+- [ ] D) How much of
+  <!-- feedback: No. 'How much of' would need an uncountable noun after it, such as 'how much of the work'. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'Students' is countable, so the question about the number of them is built with 'how many'. In this item the choice that works is 'How many', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 11 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence correctly uses 'little' with an uncountable noun?
 
 ### Opciones
-- [x] D) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] B) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] C) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [x] C) There is little time left before the doors close.
+  <!-- feedback: Correct! 'Little' without an article states that almost none of an uncountable noun remains, and the verb is singular. -->
+- [ ] A) There are little time left before the doors close.
+  <!-- feedback: No. 'Little time' is uncountable, so the plural verb 'are' does not agree with it. -->
+- [ ] B) There is a little time left before the doors close.
+  <!-- feedback: No. 'A little' would state that a small amount does exist, which is the opposite meaning of 'little'. -->
+- [ ] D) There is many time left before the doors close.
+  <!-- feedback: No. 'Many' cannot quantify an uncountable noun such as time. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Little' without an article states that almost none of an uncountable noun remains, and the verb is singular. In this item the choice that works is 'There is little time left before the doors close.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 12 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which question is punctuated and worded correctly with 'any'?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [x] D) Do you have any brothers or sisters?
+  <!-- feedback: Correct! In a yes or no question 'any' is the default quantifier when no specific information is assumed. -->
+- [ ] A) Do you have some brothers or sisters?
+  <!-- feedback: No. 'Some' would suggest the speaker already knows some exist, which is not what a neutral question does. -->
+- [ ] B) Do you have much brothers or sisters?
+  <!-- feedback: No. 'Much' is for uncountable nouns, and brothers and sisters are countable. -->
+- [ ] C) Do you have a brothers or sisters?
+  <!-- feedback: No. 'A brothers' cannot agree with a plural noun, and 'a' would name a single person. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+In a yes or no question 'any' is the default quantifier when no specific information is assumed. In this item the choice that works is 'Do you have any brothers or sisters?', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 13 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence with the correct quantifier and the verb that agrees with it.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] B) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) There are a lot of people waiting outside the theatre.
+  <!-- feedback: Correct! 'People' is a countable plural, so the plural verb 'are' is required after 'a lot of people'. -->
+- [ ] B) There is a lot of people waiting outside the theatre.
+  <!-- feedback: No. The subject is plural, so the singular verb 'is' does not agree with 'a lot of people'. -->
+- [ ] C) There are a lot of peoples waiting outside the theatre.
+  <!-- feedback: No. 'Peoples' is not the plural of 'people', which is already plural in the collective sense. -->
+- [ ] D) There are a few lot of people waiting outside the theatre.
+  <!-- feedback: No. 'A few lot' combines two quantifiers that cannot sit together before the same noun. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'People' is a countable plural, so the plural verb 'are' is required after 'a lot of people'. In this item the choice that works is 'There are a lot of people waiting outside the theatre.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 14 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence correctly contrasts 'some' and 'any' in the same item?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] B) Some students brought fruit, but they did not bring any sandwiches.
+  <!-- feedback: Correct! 'Some' appears in the affirmative and 'any' in the negative, which is the standard contrast. -->
+- [ ] A) Any students brought fruit, but they did not bring some sandwiches.
+  <!-- feedback: No. 'Any' belongs in the negative clause, not in the affirmative first half of the sentence. -->
+- [ ] C) Some students brought fruit, but they did not bring much sandwiches.
+  <!-- feedback: No. 'Much' cannot quantify the countable plural 'sandwiches'. -->
+- [ ] D) Some students brought fruit, but they did not bring a sandwiches.
+  <!-- feedback: No. 'A sandwiches' mixes a singular article with a plural noun and is not grammatical. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Some' appears in the affirmative and 'any' in the negative, which is the standard contrast. In this item the choice that works is 'Some students brought fruit, but they did not bring any sandwiches.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 15 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: 'There is ___ evidence that the climate is changing.'
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [x] C) little
+  <!-- feedback: Correct! 'Evidence' is uncountable, so 'little' is the quantifier that can precede it in the negative sense. -->
+- [ ] A) few
+  <!-- feedback: No. 'Few' quantifies countable plural nouns, and evidence is not countable in this use. -->
+- [ ] B) many
+  <!-- feedback: No. 'Many' is for countable plurals and would also need a plural verb. -->
+- [ ] D) many of
+  <!-- feedback: No. 'Many of' would need 'many of the evidence', which changes the structure entirely. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Evidence' is uncountable, so 'little' is the quantifier that can precede it in the negative sense. In this item the choice that works is 'little', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 16 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence is correct when the question asks about an unspecified amount of something uncountable?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] D) How much sugar do you usually add to your coffee?
+  <!-- feedback: Correct! Sugar is uncountable, so 'how much' is the correct form for asking about the amount. -->
+- [ ] A) How many sugar do you usually add to your coffee?
+  <!-- feedback: No. 'How many' is for countable plural nouns, and sugar cannot be counted. -->
+- [ ] B) How few sugar do you usually add to your coffee?
+  <!-- feedback: No. 'How few' applies to countable plurals in a negative frame, not to an uncountable noun. -->
+- [ ] C) How many of sugar do you usually add to your coffee?
+  <!-- feedback: No. 'How many of' requires a definite plural group after 'of', which is absent here. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Sugar is uncountable, so 'how much' is the correct form for asking about the amount. In this item the choice that works is 'How much sugar do you usually add to your coffee?', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 17 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence uses 'enough of' correctly with a countable plural noun?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) We do not have enough of the chairs to seat everyone.
+  <!-- feedback: Correct! 'Enough of the chairs' keeps the definite plural noun after 'of', which is the natural structure. -->
+- [ ] B) We do not have enough of the chair to seat everyone.
+  <!-- feedback: No. 'The chair' is singular, so the sentence would refer to a single chair rather than the group. -->
+- [ ] C) We do not have many enough of the chairs to seat everyone.
+  <!-- feedback: No. 'Many enough' reverses the order; 'enough' already carries the quantity and cannot take 'many' before it. -->
+- [ ] D) We do not have enough of chairs to seat everyone.
+  <!-- feedback: No. 'Enough of chairs' needs the definite article before the plural noun when 'of' is used. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Enough of the chairs' keeps the definite plural noun after 'of', which is the natural structure. In this item the choice that works is 'We do not have enough of the chairs to seat everyone.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 18 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence with the correct quantifier for a very large quantity of uncountable items.
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [x] B) The project required a great deal of patience.
+  <!-- feedback: Correct! 'Patience' is uncountable and 'a great deal of' is the standard quantifier for a large amount of it. -->
+- [ ] A) The project required a great deal of patients.
+  <!-- feedback: No. 'Patients' means the people being treated, a countable plural that means something else entirely. -->
+- [ ] C) The project required great many of patience.
+  <!-- feedback: No. 'Great many' combines an intensifier with the wrong quantifier form. -->
+- [ ] D) The project required a great deal of few patience.
+  <!-- feedback: No. 'A great deal of few' contradicts itself, since 'a great deal of' already means a large amount. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Patience' is uncountable and 'a great deal of' is the standard quantifier for a large amount of it. In this item the choice that works is 'The project required a great deal of patience.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 19 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence correctly uses 'each' with a countable plural noun?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] C) Each of the volunteers received a badge.
+  <!-- feedback: Correct! 'Each of the volunteers' keeps the definite plural after 'of', and the second clause repeats the structure correctly. -->
+- [ ] A) Each of the volunteers received a badge and each many of them were new.
+  <!-- feedback: No. 'Each many' is not a valid combination; 'each' already means every one individually. -->
+- [ ] B) Each volunteer received a badge and each many were new.
+  <!-- feedback: No. 'Each volunteer received' without 'of' is fine, but 'each many' in the second clause is not an English structure. -->
+- [ ] D) Each of the volunteer received a badge and each much were new.
+  <!-- feedback: No. 'Each much' does not exist, and 'each of the volunteer' would be singular against a plural 'of' phrase. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Each of the volunteers' keeps the definite plural after 'of', and the second clause repeats the structure correctly. In this item the choice that works is 'Each of the volunteers received a badge.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W23 de ingles, grado 11: ejercicio 20 de 20 sobre quantifiers some, any, much and many.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that correctly uses 'some of' with a plural noun phrase.
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] D) Some of the answers were wrong in the first exercise.
+  <!-- feedback: Correct! 'Some of' must be followed by a definite plural noun phrase, and 'the answers' provides it. -->
+- [ ] A) Some answers of were wrong in the first exercise.
+  <!-- feedback: No. The word order is wrong: 'of' has to come between 'some' and the noun phrase. -->
+- [ ] B) Some of the answer were wrong in the first exercise.
+  <!-- feedback: No. 'Answer' is singular, but 'some of' requires a plural noun after 'of'. -->
+- [ ] C) Some the of answers were wrong in the first exercise.
+  <!-- feedback: No. 'Some the of' breaks the fixed order of the determiner and the preposition. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Some of' must be followed by a definite plural noun phrase, and 'the answers' provides it. In this item the choice that works is 'Some of the answers were wrong in the first exercise.', because it is the option that matches what the sentence and the task require.
