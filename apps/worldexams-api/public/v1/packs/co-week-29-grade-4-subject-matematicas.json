@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-29-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.286Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v1",
+      "statement": "¿Qué representa π en la fórmula del área del círculo?",
+      "context": "En Bogotá, la profesora escribe en el tablero la fórmula del área del círculo y explica qué significa π.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El radio del círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El radio es la distancia del centro al borde y se representa con la letra r."
+        },
+        {
+          "letter": "B",
+          "text": "Una constante que vale aproximadamente 3,14",
+          "is_correct": true,
+          "feedback": "Correcto. π es una constante que relaciona la circunferencia con el diámetro y vale aproximadamente 3,14."
+        },
+        {
+          "letter": "C",
+          "text": "El área del círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El área es el resultado de la fórmula, no el valor de π."
+        },
+        {
+          "letter": "D",
+          "text": "El diámetro del círculo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diámetro es el doble del radio y se representa con la letra d."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "π es una constante que aparece al relacionar la longitud de la circunferencia con el diámetro de cualquier círculo, y su valor aproximado es 3,14. No depende del tamaño del círculo. En la fórmula del área, π se multiplica por el radio elevado al cuadrado.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la fórmula correcta para calcular el área de ese círculo?",
+      "context": "En Cali, un estudiante debe hallar el área de un círculo cuyo radio mide 3 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 × π × r",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa es la fórmula de la circunferencia, que mide el borde y no la superficie."
+        },
+        {
+          "letter": "B",
+          "text": "π × d",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa fórmula también calcula la circunferencia usando el diámetro."
+        },
+        {
+          "letter": "C",
+          "text": "π × r²",
+          "is_correct": true,
+          "feedback": "Correcto. El área del círculo se calcula multiplicando π por el radio elevado al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "r²",
+          "is_correct": false,
+          "feedback": "Incorrecto. Le falta multiplicar por π; el radio al cuadrado solo no da el área."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área del círculo se calcula con la fórmula π × r², donde r es el radio. El exponente 2 indica que el radio se multiplica por sí mismo antes de multiplicar por π. No hay que confundir esta fórmula con la de la circunferencia, que es 2 × π × r y mide el borde.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v3",
+      "statement": "¿Cuánto mide el área de ese círculo?",
+      "context": "En Medellín, un círculo tiene un radio de 3 centímetros y se usa π = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "18,84 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 × π × r, que es la circunferencia, y no la fórmula del área."
+        },
+        {
+          "letter": "B",
+          "text": "9,42 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste π × 3 sin elevar el radio al cuadrado."
+        },
+        {
+          "letter": "C",
+          "text": "6,28 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste 2 × π, cuando falta multiplicar por el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "28,26 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área es π × r² = 3,14 × 9 = 28,26 centímetros cuadrados."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para calcular el área se eleva primero el radio al cuadrado y luego se multiplica por π. Con r = 3 centímetros, r² = 9, y 3,14 × 9 = 28,26 centímetros cuadrados. El resultado se expresa en unidades cuadradas porque el área mide una superficie.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v4",
+      "statement": "¿Cuánto mide el área de ese círculo?",
+      "context": "En Barranquilla, un círculo tiene un diámetro de 10 centímetros y se usa π = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "78,5 centímetros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El radio es 5 centímetros, y el área es 3,14 × 25 = 78,5 centímetros cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "31,4 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste π × 10, usando el diámetro en la fórmula del área sin hallar primero el radio."
+        },
+        {
+          "letter": "C",
+          "text": "314 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste π × 100, elevando el diámetro al cuadrado en lugar del radio."
+        },
+        {
+          "letter": "D",
+          "text": "15,7 centímetros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste la mitad del diámetro multiplicada por π sin elevar el radio al cuadrado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Antes de usar la fórmula del área hay que hallar el radio, que es la mitad del diámetro. Con un diámetro de 10 centímetros, el radio mide 5. Entonces el área es 3,14 × 5² = 3,14 × 25 = 78,5 centímetros cuadrados. Usar el diámetro directamente en la fórmula da un resultado equivocado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v5",
+      "statement": "¿Cuántos metros cuadrados de baldosa se necesitan?",
+      "context": "En Cartagena, se quiere cubrir con baldosas una superficie circular que tiene un radio de 4 metros. Se usa π = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25,12 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste 2 × π × 4, que es la circunferencia, y no el área."
+        },
+        {
+          "letter": "B",
+          "text": "50,24 metros cuadrados",
+          "is_correct": true,
+          "feedback": "Correcto. El área es π × r² = 3,14 × 16 = 50,24 metros cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "12,56 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste π × 4 sin elevar el radio al cuadrado."
+        },
+        {
+          "letter": "D",
+          "text": "100,48 metros cuadrados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Duplicaste el resultado correcto; el área es 3,14 × 16 = 50,24."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La cantidad de baldosa necesaria es el área de la superficie circular. Se calcula con π × r². Con r = 4 metros, r² = 16, y 3,14 × 16 = 50,24 metros cuadrados. La circunferencia, en cambio, daría el borde de la superficie y no la cantidad de baldosa.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede afirmar sobre las áreas de los dos círculos?",
+      "context": "En Pereira, se comparan dos círculos: uno tiene radio de 2 centímetros y el otro de 4 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el radio cambia, el área también cambia, porque depende del radio al cuadrado."
+        },
+        {
+          "letter": "B",
+          "text": "El área del círculo de radio 4 es el doble de la del radio 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al duplicar el radio, el área no se duplica; se multiplica por 4."
+        },
+        {
+          "letter": "C",
+          "text": "El área del círculo de radio 4 es cuatro veces la del radio 2",
+          "is_correct": true,
+          "feedback": "Correcto. El área crece con el cuadrado del radio; al duplicarlo de 2 a 4, el área se multiplica por 4."
+        },
+        {
+          "letter": "D",
+          "text": "El área del círculo de radio 4 es ocho veces la del radio 2",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese factor correspondería a duplicar tres veces el radio, y aquí solo se duplica una vez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El área del círculo depende del cuadrado del radio. Si el radio se duplica, el área queda multiplicada por 2² = 4. Con radio 2 el área es 4π, y con radio 4 es 16π, cuatro veces mayor. Este comportamiento se debe al exponente 2 de la fórmula y no al doble del radio.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v7",
+      "statement": "¿Qué error cometió el estudiante?",
+      "context": "En Manizales, un estudiante calcula el área de un círculo de radio 5 centímetros y obtiene 31,4 centímetros cuadrados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Olvidó multiplicar por π",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí usó π en su cálculo, pero en la fórmula equivocada."
+        },
+        {
+          "letter": "B",
+          "text": "Dividió π entre el radio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su resultado 31,4 es mayor que π, así que no proviene de una división."
+        },
+        {
+          "letter": "C",
+          "text": "Multiplicó π por el diámetro en lugar del radio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si hubiera usado el diámetro, 3,14 × 10 = 31,4, pero ese cálculo corresponde a la circunferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Usó la fórmula de la circunferencia, 2 × π × r = 31,4, en vez de la del área π × r² = 78,5",
+          "is_correct": true,
+          "feedback": "Correcto. El valor 31,4 sale de 2 × 3,14 × 5, que es la circunferencia; el área correcta es 3,14 × 25 = 78,5."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El valor 31,4 corresponde a la circunferencia, porque 2 × 3,14 × 5 = 31,4. Para hallar el área hay que usar π × r², es decir 3,14 × 25 = 78,5 centímetros cuadrados. Confundir las dos fórmulas es un error frecuente; la circunferencia mide el borde y el área mide la superficie.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre lo que dice Ana?",
+      "context": "En Villavicencio, Ana afirma que el área de un círculo de radio 3 centímetros es mayor que la de un cuadrado de 5 centímetros de lado. Se usa π = 3,14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es verdadero, porque el círculo mide 28,26 centímetros cuadrados y el cuadrado 25",
+          "is_correct": true,
+          "feedback": "Correcto. El círculo mide 3,14 × 9 = 28,26 cm² y el cuadrado 5 × 5 = 25 cm², así que el círculo tiene mayor área."
+        },
+        {
+          "letter": "B",
+          "text": "Es falso, porque el cuadrado mide 25 centímetros cuadrados y el círculo 18,84",
+          "is_correct": false,
+          "feedback": "Incorrecto. El 18,84 es la circunferencia del círculo, no su área; el área es 28,26."
+        },
+        {
+          "letter": "C",
+          "text": "Es falso, porque no se pueden comparar figuras de forma distinta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las áreas de figuras distintas sí se pueden comparar cuando están en la misma unidad."
+        },
+        {
+          "letter": "D",
+          "text": "Es verdadero, porque el círculo siempre tiene mayor área que cualquier cuadrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conclusión es acertada aquí, pero no se cumple siempre; depende de las medidas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para comparar áreas de figuras distintas se calculan ambas y se expresan en la misma unidad. El círculo tiene área 3,14 × 3² = 28,26 centímetros cuadrados y el cuadrado 5 × 5 = 25 centímetros cuadrados. Como 28,26 es mayor que 25, la afirmación de Ana es verdadera. La comparación depende de las medidas, no de la forma.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W29-el-area-del-circulo-y-pi-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

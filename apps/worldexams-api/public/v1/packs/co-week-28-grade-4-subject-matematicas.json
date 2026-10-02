@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "matematicas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-4-subject-matematicas",
+    "generated_at": "2026-10-02T15:18:05.286Z"
+  },
+  "questions": [
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v1",
+      "statement": "¿Cuántos lados tiene un triángulo?",
+      "context": "En Popayán, un niño dibuja un triángulo en su cuaderno y cuenta sus lados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 lados",
+          "is_correct": true,
+          "feedback": "Correcto. El triángulo tiene 3 lados, 3 vértices y 3 ángulos."
+        },
+        {
+          "letter": "B",
+          "text": "4 lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Confundiste el triángulo con el cuadrilátero, que tiene 4 lados."
+        },
+        {
+          "letter": "C",
+          "text": "2 lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con 2 lados no se puede cerrar una figura; el triángulo tiene 3."
+        },
+        {
+          "letter": "D",
+          "text": "5 lados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polígono de 5 lados se llama pentágono, no triángulo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El prefijo tri significa tres, y por eso el triángulo tiene 3 lados, 3 vértices y 3 ángulos. Cada par de lados se encuentra en un vértice, y los tres lados forman una figura cerrada. Reconocer el número de lados ayuda a diferenciarlo de otros polígonos.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se llama ese triángulo según la medida de sus lados?",
+      "context": "En Montería, se observa un triángulo cuyos tres lados miden exactamente lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escaleno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escaleno tiene los tres lados diferentes, y este triángulo los tiene iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Equilátero",
+          "is_correct": true,
+          "feedback": "Correcto. El triángulo equilátero tiene sus tres lados de igual longitud."
+        },
+        {
+          "letter": "C",
+          "text": "Isósceles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El isósceles tiene solo dos lados iguales, y este triángulo tiene los tres iguales."
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rectángulo describe un ángulo de 90 grados, no la igualdad de los lados."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Según sus lados, los triángulos se clasifican en equilátero, con los tres lados iguales; isósceles, con dos lados iguales y uno distinto; y escaleno, con los tres lados diferentes. Este triángulo es equilátero. En un triángulo equilátero también los tres ángulos miden lo mismo.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v3",
+      "statement": "¿Cómo se clasifica ese triángulo según sus lados?",
+      "context": "En Neiva, un estudiante mide un triángulo y encuentra que dos de sus lados son iguales y el tercero es diferente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equilátero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equilátero exige los tres lados iguales, y aquí uno es diferente."
+        },
+        {
+          "letter": "B",
+          "text": "Escaleno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escaleno tiene los tres lados diferentes, y aquí dos son iguales."
+        },
+        {
+          "letter": "C",
+          "text": "Isósceles",
+          "is_correct": true,
+          "feedback": "Correcto. El triángulo con dos lados iguales y uno distinto es el isósceles."
+        },
+        {
+          "letter": "D",
+          "text": "Obtusángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obtusángulo se refiere a un ángulo mayor de 90 grados, no a los lados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El triángulo isósceles tiene dos lados de igual medida y un tercero distinto. Los lados iguales se llaman lados congruentes y el diferente se llama base. En este caso, medir los lados permite clasificar el triángulo sin necesidad de revisar sus ángulos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se clasifica ese triángulo según sus ángulos?",
+      "context": "En Ibagué, un triángulo tiene uno de sus ángulos que mide 90 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acutángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acutángulo tiene los tres ángulos menores de 90 grados, y aquí uno mide exactamente 90."
+        },
+        {
+          "letter": "B",
+          "text": "Obtusángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El obtusángulo tiene un ángulo mayor de 90 grados, y aquí el ángulo mide exactamente 90."
+        },
+        {
+          "letter": "C",
+          "text": "Equilátero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Equilátero se refiere a los lados iguales, no a la medida de los ángulos."
+        },
+        {
+          "letter": "D",
+          "text": "Rectángulo",
+          "is_correct": true,
+          "feedback": "Correcto. El triángulo que tiene un ángulo recto de 90 grados se llama triángulo rectángulo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Según sus ángulos, los triángulos se clasifican en acutángulo, con los tres ángulos menores de 90 grados; rectángulo, con un ángulo de 90 grados; y obtusángulo, con un ángulo mayor de 90 grados. Un triángulo con un ángulo recto es rectángulo, y los lados que forman ese ángulo se llaman catetos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v5",
+      "statement": "¿Cuánto mide el perímetro de ese triángulo?",
+      "context": "En Tunja, un triángulo tiene lados que miden 5 centímetros, 7 centímetros y 9 centímetros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "21 centímetros",
+          "is_correct": true,
+          "feedback": "Correcto. El perímetro es la suma de los lados: 5 + 7 + 9 = 21 centímetros."
+        },
+        {
+          "letter": "B",
+          "text": "11 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste solo dos lados, 5 + 6, y el perímetro incluye los tres lados."
+        },
+        {
+          "letter": "C",
+          "text": "35 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Multiplicaste los lados en lugar de sumarlos para hallar el perímetro."
+        },
+        {
+          "letter": "D",
+          "text": "20 centímetros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sumaste 5 + 7 + 8, cambiando el tercer lado, que mide 9."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El perímetro de cualquier figura es la suma de las longitudes de todos sus lados. En un triángulo se suman los tres lados: 5 + 7 + 9 = 21 centímetros. El perímetro se expresa en unidades de longitud, no en unidades cuadradas, porque mide el borde y no la superficie.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede afirmar sobre ese triángulo?",
+      "context": "En Cúcuta, un estudiante mide los ángulos de un triángulo y obtiene 60, 60 y 60 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es escaleno porque los ángulos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El escaleno tiene lados y ángulos diferentes, así que la igualdad no lo hace escaleno."
+        },
+        {
+          "letter": "B",
+          "text": "Es equilátero porque tiene los tres ángulos iguales y los tres lados iguales",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando los tres ángulos miden 60 grados, los tres lados también son iguales, y ese es el triángulo equilátero."
+        },
+        {
+          "letter": "C",
+          "text": "Es rectángulo porque la suma de los ángulos es 180 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los triángulos suman 180 grados; para ser rectángulo haría falta un ángulo de 90 grados."
+        },
+        {
+          "letter": "D",
+          "text": "Es isósceles porque solo dos ángulos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aquí los tres ángulos son iguales, no solo dos, así que no es isósceles."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En todo triángulo la suma de los ángulos es 180 grados. Si los tres ángulos miden 60 grados, se cumple 60 + 60 + 60 = 180, y como los ángulos iguales se oponen a lados iguales, el triángulo es equilátero. Este resultado conecta la clasificación por ángulos con la clasificación por lados.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué esa afirmación es falsa?",
+      "context": "En Pasto, un estudiante afirma que un triángulo puede tener dos ángulos rectos, es decir dos ángulos de 90 grados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque un triángulo solo tiene un ángulo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo triángulo tiene tres ángulos, no uno."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los ángulos de un triángulo deben medir 100 grados",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay un valor fijo por ángulo; lo que se cumple es que la suma sea 180 grados."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la suma de los ángulos de un triángulo es 180 grados, y dos ángulos de 90 ya suman 180",
+          "is_correct": true,
+          "feedback": "Correcto. Si dos ángulos midieran 90 grados, su suma sería 180 y no quedaría medida para el tercer ángulo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los triángulos no tienen ángulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo triángulo tiene tres ángulos; precisamente su suma es 180 grados."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La suma de los tres ángulos interiores de cualquier triángulo es 180 grados. Si dos ángulos fueran de 90 grados, sumarían 180 y el tercer ángulo tendría que medir 0 grados, lo que no forma un triángulo. Por eso un triángulo puede tener como máximo un ángulo recto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle-v8",
+      "statement": "¿Qué se puede afirmar sobre la posibilidad de armar el triángulo?",
+      "context": "En Valledupar, Laura tiene tres palitos que miden 4 centímetros, 5 centímetros y 10 centímetros y quiere armar un triángulo con ellos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí se puede, porque tiene tres palitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener tres palitos no basta; sus medidas deben permitir cerrar el triángulo."
+        },
+        {
+          "letter": "B",
+          "text": "Sí se puede, porque 4 + 5 = 9",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suma 4 + 5 = 9 es menor que 10, así que los lados cortos no alcanzan."
+        },
+        {
+          "letter": "C",
+          "text": "Sí se puede, si junta los dos palitos más cortos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al juntar 4 y 5 solo se alcanzan 9 centímetros, menos que el lado de 10."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede, porque 4 + 5 = 9 es menor que 10 y los dos lados cortos no alcanzan a cerrar el triángulo",
+          "is_correct": true,
+          "feedback": "Correcto. Para formar un triángulo, la suma de dos lados debe ser mayor que el tercero, y aquí 4 + 5 = 9 < 10."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Existe una condición para formar triángulos: la suma de dos lados cualesquiera debe ser mayor que el tercer lado. Con 4, 5 y 10, la suma de los dos menores es 9, que no supera a 10, por lo que los palitos no pueden cerrar el triángulo. Si los lados fueran 4, 5 y 7, entonces 4 + 5 = 9 > 7 y el triángulo sí se podría armar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Geometrico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-MAT-4-2026-W28-triangulos-y-sus-propiedades-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "matematicas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
