@@ -25,460 +25,441 @@ creador: "Jules-Agent"
 
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v1
-**Bloom:** Apply
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-work
+**Expected_Success:** 0.90
+**Contexto:** A vocabulary lesson about jobs in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: a person who sells things in a shop or market.
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [x] A) shop assistant
+  <!-- feedback: 'Shop assistant' is the person who serves customers and sells goods in a shop. -->
+- [ ] B) customer
+  <!-- feedback: 'Customer' is the person who buys, the other party in the exchange, not the seller. -->
+- [ ] C) manager
+  <!-- feedback: 'Manager' is in charge of the business, which is a different role from serving customers. -->
+- [ ] D) driver
+  <!-- feedback: 'Driver' drives a vehicle and has no direct role in selling goods in a shop. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
+A 'shop assistant' works in a shop and serves customers, selling goods to them during the day.
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v2
 **Bloom:** Understand
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A guidance conversation in an English class in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+What does the word 'career' mean?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [ ] A) A single day of work
+  <!-- feedback: A career spans years, not one shift or one day. -->
+- [x] B) A profession followed over many years
+  <!-- feedback: 'Career' names the long-term professional path of a person's working life. -->
+- [ ] C) The salary paid each month
+  <!-- feedback: 'Salary' names the pay itself, which is one part of a career but not the whole of it. -->
+- [ ] D) The study of a subject at school
+  <!-- feedback: Studying a subject is part of preparing for a career, but the word itself names the profession. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
+A 'career' is the profession a person follows over many years, including the study and the work involved.
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** vocabulary work
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** An office vocabulary lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct word: a written document that shows an employee is qualified.
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) receipt
+  <!-- feedback: 'Receipt' is the proof of payment given when something is bought. -->
+- [ ] B) salary
+  <!-- feedback: 'Salary' is the money paid for the work, not the document that proves a qualification. -->
+- [x] C) diploma
+  <!-- feedback: 'Diploma' is the certificate awarded for completing a course of study successfully. -->
+- [ ] D) interview
+  <!-- feedback: 'Interview' is the process of being asked questions before being given a job. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
+A 'qualification' is the official record of an ability or training, and a 'diploma' is the qualification awarded for completing a course.
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** vocabulary work
+**Bloom:** Understand
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A description of public services in an English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Which word names the place where people go to ask about a problem or to get advice?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] B) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) workshop
+  <!-- feedback: 'Workshop' is a space where goods are made or repaired rather than an advisory service. -->
+- [ ] B) garage
+  <!-- feedback: 'Garage' is where vehicles are repaired or parked. -->
+- [ ] C) warehouse
+  <!-- feedback: 'Warehouse' is a large building for storing goods, not for advising the public. -->
+- [x] D) office
+  <!-- feedback: 'Office' is the place where a service is provided and staff deal with requests. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 5 [D5-D6]
+A 'bureau' or 'office' is the place where a public service is offered and where staff help citizens with paperwork and advice.
+## Question 5 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v5
 **Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A conversation about employment in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct word: to do a job for money.
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) study
+  <!-- feedback: 'Study' means to learn about a subject, which may prepare someone for work. -->
+- [ ] B) rest
+  <!-- feedback: 'Rest' means to stop working in order to recover, the opposite of the idea here. -->
+- [ ] C) travel
+  <!-- feedback: 'Travel' means to move from one place to another, not to do a job. -->
+- [x] D) work
+  <!-- feedback: 'Work' means to perform a job for pay, which is exactly what the sentence describes. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
+To 'work' is to carry out a job for payment, and it is the natural verb for performing a role in a business.
+## Question 6 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v6
-**Bloom:** Apply
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A business vocabulary lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: the person who manages a business and makes the main decisions.
 
 ### Opciones
-- [x] C) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) worker
+  <!-- feedback: 'Worker' is any person who carries out a job, without the responsibility of running the business. -->
+- [ ] B) client
+  <!-- feedback: 'Client' is the person who buys a service, not the one who runs the business. -->
+- [x] C) manager
+  <!-- feedback: 'Manager' is the person who organises the work of a business or a team. -->
+- [ ] D) supervisor
+  <!-- feedback: 'Supervisor' oversees the work of others, usually below a manager in rank. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
+The 'manager' is the person in charge of a business or department, responsible for how it runs day to day.
+## Question 7 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A conversation about job satisfaction in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Complete the sentence: 'She has a well-paid ___ as a nurse.'
 
 ### Opciones
-- [x] D) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] B) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] C) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [ ] A) works
+  <!-- feedback: 'Works' is the plural of 'work' and would need a plural determiner here. -->
+- [x] B) job
+  <!-- feedback: 'Job' is the standard noun for the work a person does for payment. -->
+- [ ] C) workers
+  <!-- feedback: 'Workers' names people, while the sentence needs a noun for the work itself. -->
+- [ ] D) careers
+  <!-- feedback: 'Careers' names a long-term professional path, which is not what 'a well-paid' describes. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
+The noun for the professional work a person does is 'job', which fits after the adjective 'well-paid'.
+## Question 8 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v8
-**Bloom:** Analyze
-**EJE:** vocabulary work
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Understand
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A conversation about applying for a job in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+What does the word 'interview' refer to in 'She has a job interview on Monday'?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [x] A) A meeting where questions are asked to decide about a job
+  <!-- feedback: 'Interview' is the selection conversation between the employer and the candidate. -->
+- [ ] B) A written report about a worker's results
+  <!-- feedback: A report on performance is an 'appraisal', not an 'interview'. -->
+- [ ] C) The period of time a worker is contracted
+  <!-- feedback: A contract is the written agreement, while the interview is the selection conversation. -->
+- [ ] D) The training a new worker receives
+  <!-- feedback: Training happens after a job is offered, not during the interview. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 9 [D5-D6]
+A job interview is a formal conversation in which an employer asks a candidate questions to decide whether to offer the job.
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v9
 **Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A vocabulary exercise on work vocabulary in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the correct word: the opposite of 'employ'.
 
 ### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] C) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) admire
+  <!-- feedback: 'Admire' means to regard with approval and has no connection with employment. -->
+- [x] B) dismiss
+  <!-- feedback: 'Dismiss' means to remove a worker from the job, which reverses 'employ'. -->
+- [ ] C) praise
+  <!-- feedback: 'Praise' means to express approval, which is not the opposite of hiring. -->
+- [ ] D) apply
+  <!-- feedback: 'Apply' means to ask for a job, which is a step before being employed. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
+To 'employ' is to pay someone to work, and the opposite verb is 'dismiss', meaning to remove someone from a job.
+## Question 10 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** vocabulary work
+**Bloom:** Understand
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A classification task in an English class in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which word means a person who does a job without being in charge of others?
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) employer
+  <!-- feedback: 'Employer' is the company or person that employs, the opposite side of the relationship. -->
+- [ ] B) executive
+  <!-- feedback: 'Executive' is a senior manager, so it implies a position of authority. -->
+- [ ] C) applicant
+  <!-- feedback: 'Applicant' is someone who has applied for a job but has not yet been hired. -->
+- [x] D) employee
+  <!-- feedback: 'Employee' is the neutral word for a person who works for an employer and is paid. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
+An 'employee' is anyone who works for an organisation and receives a salary, as opposed to a manager who directs others.
+## Question 11 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Remember
+**EJE:** vocabulary-work
+**Expected_Success:** 0.90
+**Contexto:** A conversation about job outcomes in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the correct word: to apply for a job and be accepted for it.
 
 ### Opciones
-- [x] B) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) fired
+  <!-- feedback: 'Fired' means dismissed from a job, which is the opposite of the outcome. -->
+- [ ] B) tired
+  <!-- feedback: 'Tired' describes a lack of energy and has no connection with employment. -->
+- [x] C) hired
+  <!-- feedback: 'Hired' means an employer took the person on, which is the outcome described. -->
+- [ ] D) hireds
+  <!-- feedback: 'Hireds' adds a plural ending to an adjective, which English does not do. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 12 [D7-D8]
+'Hire' means an employer formally takes someone on to do a job, so 'She was hired' reports the successful outcome.
+## Question 12 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v12
 **Bloom:** Understand
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 13 [D7-D8]
-**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** vocabulary work
-**Expected_Success:** 0.70
-**Contexto:** English class in Santa Ana, SV.
-
-### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
-
-### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
-
-### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 14 [D7-D8]
-**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A task-management lesson in an English class in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What does 'deadline' mean?
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] B) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [x] A) The latest time by which a task must be finished
+  <!-- feedback: 'Deadline' names the time limit attached to a job or project. -->
+- [ ] B) The first day a project starts
+  <!-- feedback: That is the 'start date', the opposite end of the schedule. -->
+- [ ] C) A short rest taken during work
+  <!-- feedback: That is a 'break', unrelated to the limit on a task. -->
+- [ ] D) The person who checks the work
+  <!-- feedback: That is the 'supervisor' or 'reviewer', not the time limit. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+A 'deadline' is the latest time by which a piece of work must be finished, and missing it usually has consequences for the person responsible.
+## Question 13 [D3-D4]
+**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v13
+**Bloom:** Apply
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** An office communication task in a school in San Salvador, SV.
 
-## Question 15 [D7-D8]
+### Enunciado
+Choose the correct word: to talk with a colleague about work matters.
+
+### Opciones
+- [ ] A) discuss about
+  <!-- feedback: 'Discuss' does not take 'about', so 'discuss about the schedule' is redundant. -->
+- [ ] B) discuss from
+  <!-- feedback: 'From' would point to a source, which is not how discussion takes a topic. -->
+- [ ] C) discuss of
+  <!-- feedback: 'Of' cannot introduce the topic after 'discuss' in this construction. -->
+- [x] D) discuss
+  <!-- feedback: 'Discuss' takes the topic directly as its object: to discuss the schedule. -->
+
+### Explicacion Pedagogica
+To 'discuss' a matter means to talk about it seriously, and 'discuss' is never followed by 'about' in this usage.
+## Question 14 [D3-D4]
+**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v14
+**Bloom:** Apply
+**EJE:** vocabulary-work
+**Expected_Success:** 0.80
+**Contexto:** A job advertisement read in an English class in San Salvador, SV.
+
+### Enunciado
+Complete the sentence: 'The company offers a good salary and very flexible ___.'
+
+### Opciones
+- [ ] A) houres
+  <!-- feedback: 'Houres' adds an e and is a misspelling of 'hours'. -->
+- [x] B) hours
+  <!-- feedback: 'Flexible hours' describes when the work is done, a standard benefit in an advertisement. -->
+- [ ] C) houre
+  <!-- feedback: 'Houre' is a misspelling; the plural of 'hour' is 'hours' with no extra e. -->
+- [ ] D) houring
+  <!-- feedback: 'Houring' adds an -ing ending to a noun, which does not fit the sentence. -->
+
+### Explicacion Pedagogica
+'Hours' names the time spent working, and 'flexible hours' is a common benefit in a job advertisement.
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v15
 **Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Contexto:** A task-management discussion in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which word means to complete a task before the time limit?
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [x] A) meet
+  <!-- feedback: 'Meet a deadline' is the fixed expression for finishing work within the limit. -->
+- [ ] B) eat
+  <!-- feedback: 'Eat a deadline' is not an expression; deadlines are met, not eaten. -->
+- [ ] C) beat
+  <!-- feedback: 'Beat' takes a record or an opponent, not a time limit, in this meaning. -->
+- [ ] D) meat
+  <!-- feedback: 'Meat' is a food and has no connection with time limits at all. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
+To 'meet' a deadline means to finish the work by the time the limit requires, and 'meet' is the fixed verb used in this expression.
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v16
-**Bloom:** Apply
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
-
-### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
-
-### Opciones
-- [x] D) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] C) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
-
-### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 17 [D9-D10]
-**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** vocabulary work
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] A) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] B) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
-**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** vocabulary work
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**EJE:** vocabulary-work
+**Expected_Success:** 0.80
+**Contexto:** A reading comprehension exercise in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Choose the correct sentence about an employment relationship.
 
 ### Opciones
-- [x] D) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] C) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) The company suggested him after a long career.
+  <!-- feedback: 'Suggest' means to put forward an idea, which does not fit the employment context. -->
+- [ ] B) The company designed him after a long career.
+  <!-- feedback: 'Design' is used for plans and products, not for ending a job. -->
+- [x] C) The company dismissed him after a long career.
+  <!-- feedback: 'Dismissed' correctly reports the employer ending the employment relationship. -->
+- [ ] D) The company persuaded him after a long career.
+  <!-- feedback: 'Persuade' means to convince someone through argument, not to remove them from a job. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 19 [D9-D10]
-**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v19
+Only one sentence uses the employment vocabulary correctly and in a meaningful way.
+## Question 17 [D3-D4]
+**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v17
 **Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Contexto:** A workplace vocabulary lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+What does 'colleague' mean?
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) A person who works for your customers
+  <!-- feedback: That is a 'client' or a 'customer', the other side of a business relationship. -->
+- [x] B) A person who works with you in the same organisation
+  <!-- feedback: 'Colleague' names a fellow worker, which is the relation described. -->
+- [ ] C) A person who trains you at work
+  <!-- feedback: That is a 'tutor' or a 'trainer' in a training role. -->
+- [ ] D) A person who manages your department
+  <!-- feedback: That is your 'manager', a role above rather than beside yours. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
+A 'colleague' is a person who works alongside you, usually in the same organisation or profession.
+## Question 18 [D3-D4]
+**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v18
+**Bloom:** Remember
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A lesson about workplace documents in San Salvador, SV.
 
-## Question 20 [D9-D10]
+### Enunciado
+Choose the correct word: a written statement of what a person must do at work.
+
+### Opciones
+- [x] A) contract
+  <!-- feedback: 'Contract' is the written agreement that binds employer and employee. -->
+- [ ] B) contact
+  <!-- feedback: 'Contact' refers to a person's details or to the act of getting in touch, and adds a letter t. -->
+- [ ] C) construct
+  <!-- feedback: 'Construct' means to build something, which is a different word with similar letters. -->
+- [ ] D) contrast
+  <!-- feedback: 'Contrast' means the opposite or a difference, unrelated to employment documents. -->
+
+### Explicacion Pedagogica
+A 'contract' is the legal document that sets out the duties and conditions of the employment.
+## Question 19 [D3-D4]
+**ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v19
+**Bloom:** Understand
+**EJE:** vocabulary-work
+**Expected_Success:** 0.85
+**Contexto:** A conversation about career progress in a school in San Salvador, SV.
+
+### Enunciado
+What does 'promotion' mean in 'She got a promotion after two years'?
+
+### Opciones
+- [ ] A) A move to a different organisation
+  <!-- feedback: That is a 'transfer' or a 'change of job', not a promotion. -->
+- [ ] B) A reduction in the number of hours worked
+  <!-- feedback: A reduction in hours would lower her pay rather than reward her. -->
+- [x] C) A move to a higher position with more responsibility
+  <!-- feedback: 'Promotion' means stepping up the career ladder within the same organisation. -->
+- [ ] D) A period of unpaid leave
+  <!-- feedback: That is a 'sabbatical', which is time away rather than a step upwards. -->
+
+### Explicacion Pedagogica
+A 'promotion' is a move to a higher position with more responsibility, usually with an increase in pay.
+## Question 20 [D3-D4]
 **ID:** SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle-v20
 **Bloom:** Remember
-**EJE:** vocabulary work
+**EJE:** vocabulary-work
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A civics lesson in an English class in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Choose the correct word: extra money paid by the government when a job is lost.
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) allowence
+  <!-- feedback: 'Allowence' replaces the second a with an e, which is a misspelling. -->
+- [ ] B) loans
+  <!-- feedback: 'Loans' are amounts borrowed and repaid, not payments made to a person. -->
+- [ ] C) salaries
+  <!-- feedback: 'Salaries' are pay for work done, not support payments for being without work. -->
+- [x] D) allowance
+  <!-- feedback: 'Allowance' is a regular payment made to support someone, which fits the description. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+An 'allowance' or 'benefit' is a regular payment made by an employer or the state, and unemployment support is one such allowance.
