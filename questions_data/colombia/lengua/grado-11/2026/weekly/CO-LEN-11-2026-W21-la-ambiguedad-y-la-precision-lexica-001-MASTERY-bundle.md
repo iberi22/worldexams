@@ -51,7 +51,7 @@ La ambigüedad léxica es la propiedad de una palabra o de una expresión que pe
 **Bloom:** Understand
 **ICFES:** Uso comprensivo del conocimiento
 **Expected_Success:** 0.90
-**Contexto:** En una cafetería del centro de Barranquilla, un grupo de estudiantes de grado 11 discute por qué un mismo aviso puede generarAIR varias lecturas según quién lo lea.
+**Contexto:** En una cafetería del centro de Barranquilla, un grupo de estudiantes de grado 11 discute por qué un mismo aviso puede generar varias lecturas según quién lo lea.
 
 ### Enunciado
 ¿Qué diferencia existe entre una palabra polisémica y una palabra homónima?
@@ -268,7 +268,7 @@ El valor connotativo aparece cuando una palabra o una expresión carga, además 
 
 ### Opciones
 - [ ] A) Una ambigüedad semántica, porque "mayores" puede designar a personas de edad avanzada o a autoridades públicas.
-  <!-- feedback: El sentido dominante de "mayores" en este aviso es el de edad, y la lectura de autoridades no estáXF suggested por el contexto. El problema real está en la estructura de la frase. -->
+  <!-- feedback: El sentido dominante de "mayores" en este aviso es el de edad, y la lectura de autoridades no está sugerido por el contexto. El problema real está en la estructura de la frase. -->
 - [ ] B) Una ambigüedad fonética, porque "sede" y "cede" tienen la misma pronunciación.
   <!-- feedback: Aunque esos dos términos suenan igual, la palabra "cede" no aparece en el aviso, de modo que la homofonía no explica el problema. -->
 - [ ] C) Una ambigüedad por sinonimia, porque "sede" y "instalaciones" significan lo mismo.

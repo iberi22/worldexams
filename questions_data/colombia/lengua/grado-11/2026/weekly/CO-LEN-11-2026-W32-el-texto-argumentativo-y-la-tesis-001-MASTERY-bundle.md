@@ -438,7 +438,7 @@ Sobre el acceso al agua en los municipios, se proponen tres tesis: (1) "el agua 
   <!-- feedback: Correcto: reúne las condiciones de una tesis sólida, y además es verificable mediante razones y datos. -->
 - [ ] B) La primera, porque un texto argumentativo no necesita una postura definida para convencer al lector.
   <!-- feedback: Incorrecto. Sin postura definida no hay tesis, y por lo tanto no hay nada que sostener con argumentos. -->
-- [ ] C) La segunda, porque una tesis general resulta másTZ inclusiva y puedepril defender con cualquier evidencia.
+- [ ] C) La segunda, porque una tesis general resulta más inclusiva y puede defender con cualquier evidencia.
   <!-- feedback: Incorrecto. La generalidad no es una virtud, y esa versión no indica la vía para\Admin(_action)OREDAD. -->
 - [ ] D) Las tres son igualmente buenas, porque todas mencionan el agua y el mismo asunto tratado.
   <!-- feedback: Incorrecto. Mencionar el mismo asunto no iguala la calidad de tres formulaciones muy distintas. -->

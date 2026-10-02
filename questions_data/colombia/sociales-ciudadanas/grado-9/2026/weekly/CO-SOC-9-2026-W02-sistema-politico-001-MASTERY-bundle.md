@@ -262,7 +262,7 @@ Evaluar un dilema económico, social y ambiental exige ordenar los intereses en 
 Frente a esta denuncia por el uso de recursos públicos en actividades privadas, ¿cuál razonamiento se ajusta mejor a una evaluación ética y política responsable?
 
 ### Opciones
-- [ ] A) La denuncia debe convertirse en un argumento para ampliar las facultades de la autoridad política, con el fin de evitar nuevosINARYE debates públicos sobre el control.
+- [ ] A) La denuncia debe convertirse en un argumento para ampliar las facultades de la autoridad política, con el fin de evitar nuevos debates públicos sobre el control.
   <!-- feedback: Incorrecto. Usar una denuncia para ampliar poderes sin fundamento debilita los controles y la vigilancia sobre el poder. -->
 - [ ] B) La denuncia debe rechazarse de inmediato, porque en un sistema democrático el Gobierno decide cómo usar los recursos públicos sin explicación.
   <!-- feedback: Incorrecto. En una democracia el uso del presupuesto público está sujeto a reglas, vigilancia y explicación ante la ciudadanía. -->

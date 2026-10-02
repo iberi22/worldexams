@@ -60,7 +60,7 @@ Qué distingue esencialmente al género dramático de los demás géneros?
 - [ ] A) Que siempre tiene final feliz y ninguno de sus personajes muere <!-- feedback: El género dramático admite finales amargos y desastrosos. -->
 - [x] B) Que está escrito para ser representado ante un público, con personajes que interactúan <!-- feedback: La condición de representación ante otro es lo que define al género dramático. -->
 - [ ] C) Que se escribe en verso para que el público lo entienda mejor <!-- feedback: Hay dramas en prosa y en verso: la forma no define el género. -->
-- [ ] D) Que sus personajes son siempre históricos y reales <!-- feedback: El drama puede usar personajes históricos, fantasticOS o inventados. -->
+- [ ] D) Que sus personajes son siempre históricos y reales <!-- feedback: El drama puede usar personajes históricos, fantásticos o inventados. -->
 
 ### Explicacion Pedagogica
 El género dramático se define por su destino: la escena. Un texto dramático acquires su sentido pleno cuando actores lo representan ante un público que reacciona. Esta condición explica por qué el género soporta unidades propias, como el diálogo y la acotación, que no tienen sentido fuera de la representación.

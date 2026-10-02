@@ -187,7 +187,7 @@ Según el Texto 2, ¿qué postura asume Doña Rosa frente al servicio de lectura
   <!-- feedback: Incorrecta: el cierre del párrafo reclama una solución, de modo que no comparte esa postura. -->
 - [x] C) Reconoce que la lectura útil y la lectura por gusto conviven y las describe con naturalidad.
   <!-- feedback: Es la opción correcta porque su comentario informa de ambas prácticas sin valorarlas. -->
-- [ ] D) Cree que el aumento de novelAS es un problema que debe frenarse con nuevas normas.
+- [ ] D) Cree que el aumento de novelas es un problema que debe frenarse con nuevas normas.
   <!-- feedback: Incorrecta: el texto no propone ninguna norma ni expresa ese juicio sobre las novelas. -->
 
 ### Explicacion Pedagogica
