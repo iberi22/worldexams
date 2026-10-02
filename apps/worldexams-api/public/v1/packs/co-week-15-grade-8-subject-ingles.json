@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-15-grade-8-subject-ingles",
+    "generated_at": "2026-10-02T20:36:31.170Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v1",
+      "statement": "Look at the map on the wall: last year we ________ to Toronto and we still talk about it. We are home now. Use \"been\".",
+      "context": "A family is looking at a map of a trip they finished last year and keeps talking about the city they visited.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have gone",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Have gone to\" says the visit is still in progress, which contradicts the sentence \"We are home now\"."
+        },
+        {
+          "letter": "B",
+          "text": "have been",
+          "is_correct": true,
+          "feedback": "Correct. \"Have been to\" describes a completed visit that has finished, which agrees with the fact that the family is back home."
+        },
+        {
+          "letter": "C",
+          "text": "have being",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Being\" is not a past participle, so \"have being\" does not exist as a form of the verb."
+        },
+        {
+          "letter": "D",
+          "text": "had went",
+          "is_correct": false,
+          "feedback": "Incorrect. The past simple \"went\" cannot follow \"have\", and \"went\" is not a participle; the correct participle is \"been\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The present perfect is formed with \"have\" plus a past participle, and the participle of \"to be\" is \"been\". \"Have been to\" says the visit is finished, while \"have gone to\" says the person is still away. The last clause of the sentence is the clue that decides which one is correct.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lingüística",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v2",
+      "statement": "\"________ you ever been to the Ciudad Perdida?\" Use \"Have\".",
+      "context": "A student is preparing a school presentation about the archaeological sites of the Colombian Caribbean.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Do\" builds the present simple, which needs a finished time expression such as \"last year\"."
+        },
+        {
+          "letter": "B",
+          "text": "Did",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Did ... go\" is possible, but this question is about experience at any time, so the present perfect is the required tense."
+        },
+        {
+          "letter": "C",
+          "text": "Have",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect is made with \"have\" + participle, so the question begins with \"Have\" and is answered with \"Yes, I have\"."
+        },
+        {
+          "letter": "D",
+          "text": "Are",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Are\" cannot be used with \"been\" in a question about past experience, because it belongs to the verb \"to be\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Questions about experience use the present perfect: \"Have you ever been to ...?\" Here the present perfect has a second function, which is to ask whether something has happened at any time in a person's life, and that function requires \"have\" as the auxiliary.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v3",
+      "statement": "The tour included food and ________, but we had to book the flight ourselves.",
+      "context": "A travel agency in Bogotá describes what is included in a package tour to the coffee region.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "advice",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Advice\" means guidance, so it makes no sense as one of the services included in a tour."
+        },
+        {
+          "letter": "B",
+          "text": "accommodation",
+          "is_correct": true,
+          "feedback": "Correct. \"Accommodation\" means a place to stay, such as a hotel or a lodge, and it is normally part of a tour package."
+        },
+        {
+          "letter": "C",
+          "text": "luggage",
+          "is_correct": false,
+          "feedback": "Incorrect. Luggage is the traveller's own bags, which are carried by the passenger and not provided by the tour."
+        },
+        {
+          "letter": "D",
+          "text": "traffic",
+          "is_correct": false,
+          "feedback": "Incorrect. Traffic refers to the movement of vehicles on the roads, not to a service offered to tourists."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Tourism vocabulary has precise nouns for each element of a trip: \"accommodation\" for where you sleep, \"transport\" for how you travel, \"luggage\" for your bags and \"booking\" for the reservation. Choosing the noun that names a service included in the package is the key to the correct answer.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v4",
+      "statement": "The coastal town is connected to the capital by two options. The bus takes four hours and costs a small amount of money; the flight takes one hour but the airport is sixty kilometres from the town centre and the ticket is much more expensive. According to the text, what is the main disadvantage of the flight?",
+      "context": "A short text about transport options between a coastal town and the capital is used in a reading lesson.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It takes four hours instead of one.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is the bus that takes four hours; the flight takes only one hour according to the text."
+        },
+        {
+          "letter": "B",
+          "text": "It is more expensive and the airport is far away.",
+          "is_correct": true,
+          "feedback": "Correct. The text says the ticket is much more expensive and that the airport is sixty kilometres from the town centre."
+        },
+        {
+          "letter": "C",
+          "text": "The bus does not reach the capital.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says the town is connected to the capital by two options, one of which is the bus."
+        },
+        {
+          "letter": "D",
+          "text": "There is no flight on weekends.",
+          "is_correct": false,
+          "feedback": "Incorrect. No information about weekends is given, so that claim is invented by the reader."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A disadvantage is a negative detail given by the text. Here two are stated: the price is much higher and the airport is sixty kilometres away. Any option that adds a new fact, such as a lack of weekend flights, cannot be answered from the passage and is therefore wrong.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v5",
+      "statement": "We ________ in this neighbourhood since 2019, but we travel abroad at least twice a year.",
+      "context": "Two friends are comparing how long they have lived in their neighbourhoods.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live",
+          "is_correct": false,
+          "feedback": "Incorrect. The simple present \"live\" needs a present time expression, and it cannot be used with \"since 2019\"."
+        },
+        {
+          "letter": "B",
+          "text": "have lived",
+          "is_correct": true,
+          "feedback": "Correct. \"Since 2019\" marks a starting point that continues up to now, so the structure is have + past participle: have lived."
+        },
+        {
+          "letter": "C",
+          "text": "are living since",
+          "is_correct": false,
+          "feedback": "Incorrect. The present continuous cannot be combined with \"since\" followed by a finished year such as 2019."
+        },
+        {
+          "letter": "D",
+          "text": "lived for",
+          "is_correct": false,
+          "feedback": "Incorrect. \"For\" needs a duration such as \"for six years\", and \"lived\" alone is not the present perfect."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Since\" points to a starting moment in the past and requires the present perfect, because the situation continues now. \"For\" measures a length of time instead. Mixing \"since\" with the present continuous, or with the simple present, breaks the tense rule of English.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v6",
+      "statement": "My cousins have travelled a lot, but I ________ been to another country. I only know Bogotá well. Use \"haven't\".",
+      "context": "A student is talking about the countries he has and has not visited.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I have been\" states the opposite of what the sentence says, because it confirms that the speaker has been abroad."
+        },
+        {
+          "letter": "B",
+          "text": "am not",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Am not been\" does not exist; the negative of the present perfect is built with \"have not\", never with \"be\"."
+        },
+        {
+          "letter": "C",
+          "text": "didn't",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Didn't been\" is not grammatical; a negative past form would be \"didn't go\", which changes the structure."
+        },
+        {
+          "letter": "D",
+          "text": "haven't",
+          "is_correct": true,
+          "feedback": "Correct. The present perfect with \"never\" or its short form \"haven't\" says the experience has not happened up to now."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "To deny past experience that extends up to now, English uses the present perfect with \"never\" or \"haven't\". The negative form always contains the auxiliary \"have\", never \"am\" or \"did\", so options B and C cannot be correct forms of the present perfect.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v7",
+      "statement": "You are a tourist in Cartagena and you need to reach the Castillo de San Felipe. Which question is the most appropriate?",
+      "context": "A group of students is visiting Cartagena and needs to find a well-known historical building.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Where is the Castillo? And hurry up, I am late.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"And hurry up\" turns a request into an order, which is not appropriate when asking a stranger for help."
+        },
+        {
+          "letter": "B",
+          "text": "\"You know where the Castillo is, don't you?\"",
+          "is_correct": false,
+          "feedback": "Incorrect. A tag question like this sounds impatient when it is directed at a stranger who has just been met."
+        },
+        {
+          "letter": "C",
+          "text": "\"Excuse me, could you tell me how to get to the Castillo de San Felipe, please?\"",
+          "is_correct": true,
+          "feedback": "Correct. \"Excuse me\" and \"could you\" make the request polite, and the question is clear enough to be answered."
+        },
+        {
+          "letter": "D",
+          "text": "\"Tell me the Castillo's address. Now.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The final \"Now\" as a command is aggressive, and politeness is expected when asking a stranger for directions."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Asking for directions in a foreign city follows a simple polite pattern: apologise briefly, use a modal question such as \"could you\", and name the destination. Commands and impatient tag questions break the politeness conventions that make a stranger willing to help.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v8",
+      "statement": "\"Before travelling abroad you normally need a ________, which is a travel document issued by your government.\"",
+      "context": "A checklist for students who are travelling abroad is used in an English unit.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ticket",
+          "is_correct": false,
+          "feedback": "Incorrect. A ticket pays for the journey, but it is not the document that proves your nationality at the border."
+        },
+        {
+          "letter": "B",
+          "text": "boarding pass",
+          "is_correct": false,
+          "feedback": "Incorrect. A boarding pass is given at the airport on the day of the flight to confirm the seat."
+        },
+        {
+          "letter": "C",
+          "text": "wallet",
+          "is_correct": false,
+          "feedback": "Incorrect. A wallet holds money and cards; it is a personal object and not an official travel document."
+        },
+        {
+          "letter": "D",
+          "text": "passport",
+          "is_correct": true,
+          "feedback": "Correct. A passport is the official document that allows a citizen of one country to cross the borders of another."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Travel documents must be told apart: the \"passport\" proves nationality, the \"visa\" authorises entry to a particular country and the \"ticket\" pays for the journey. The definition in the sentence points to a document \"issued by your government\", which narrows the answer down to the passport.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v9",
+      "statement": "Flying is much ________ than travelling by bus.",
+      "context": "An advertisement for domestic flights compares the time spent travelling by bus and by plane.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "fast",
+          "is_correct": false,
+          "feedback": "Incorrect. The base form \"fast\" cannot follow \"much\" in a comparison, because the comparative form is required here."
+        },
+        {
+          "letter": "B",
+          "text": "faster",
+          "is_correct": true,
+          "feedback": "Correct. Short adjectives of one syllable form the comparative with \"-er\", so fast becomes faster, and it is followed by \"than\"."
+        },
+        {
+          "letter": "C",
+          "text": "fastest",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Fastest\" is the superlative form, and a superlative needs \"the\" and a group, never \"than\"."
+        },
+        {
+          "letter": "D",
+          "text": "the fastest",
+          "is_correct": false,
+          "feedback": "Incorrect. The definite superlative cannot be used with \"than\", which only appears with the comparative."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The comparative ends in \"-er\" for short adjectives and is followed by \"than\": \"faster than\". The superlative ends in \"-est\" and requires \"the\". Recognising which form a sentence needs is what separates the comparative from the superlative.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v10",
+      "statement": "We ________ the bus to the archaeological site, and the guide is already waiting at the entrance. Use \"have just taken\".",
+      "context": "A group of tourists has just arrived at an archaeological site and the guide is waiting at the entrance.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will have taken",
+          "is_correct": false,
+          "feedback": "Incorrect. The future perfect describes a moment before a future point, but the guide is waiting now, so the present perfect is required."
+        },
+        {
+          "letter": "B",
+          "text": "had just taken",
+          "is_correct": false,
+          "feedback": "Incorrect. The past perfect refers to a time before another past event, but the relevant reference point here is the present."
+        },
+        {
+          "letter": "C",
+          "text": "have just taken",
+          "is_correct": true,
+          "feedback": "Correct. \"Have just taken\" places a completed action very close to the present moment, which agrees with \"the guide is already waiting\"."
+        },
+        {
+          "letter": "D",
+          "text": "are just taking",
+          "is_correct": false,
+          "feedback": "Incorrect. The present continuous would mean the action is still happening, which contradicts the completed journey."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Just\" with the present perfect describes something completed a moment ago, and it is often used with \"already\" or \"now\" in the other clause to show how recent the action is. Tenses that place the action in the future or still in progress contradict that meaning.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v11",
+      "statement": "Tourism creates work for local guides and cooks, but in the last five years rents in the historic centre have gone up by thirty per cent. Residents say that families who were born there can no longer afford to live in the houses where they grew up. What does the text mainly show?",
+      "context": "A report about tourism in a historic city is analysed in a reading lesson about the effects of visitors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tourism brings both benefits and problems for local people.",
+          "is_correct": true,
+          "feedback": "Correct. The text presents income for guides and cooks as a benefit and the rise in rents as a problem for residents."
+        },
+        {
+          "letter": "B",
+          "text": "Tourism has completely destroyed the local economy.",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Completely destroyed\" is far too strong; the text describes one clear problem, not the total collapse of the economy."
+        },
+        {
+          "letter": "C",
+          "text": "Local residents do not want any visitors in the town.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text reports what residents say about affordability, not a total rejection of tourism."
+        },
+        {
+          "letter": "D",
+          "text": "Rents are low because few tourists come to the town.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is the opposite of what the text says: rents in the historic centre went up by thirty per cent."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A main idea joins the two sides of a balanced text. This passage names a benefit and a problem, and the correct option is the one that holds both together. Exaggerated conclusions and reversals of the stated data distort the message instead of summarising it.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle-v12",
+      "statement": "The city museum opens from Tuesday to Sunday, from nine in the morning to four in the afternoon. On Mondays it is closed. The guided visit lasts forty-five minutes and must be booked at the entrance. A group arrives on Monday morning and wants the guided visit. What should the organiser do?",
+      "context": "A group of students is organising a visit to a city museum during a school trip.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrive at ten on Monday and ask for the visit, because the museum opens on Mondays.",
+          "is_correct": false,
+          "feedback": "Incorrect. This contradicts the text, which says the museum is closed on Mondays."
+        },
+        {
+          "letter": "B",
+          "text": "Come on Monday and explain that the museum should be open.",
+          "is_correct": false,
+          "feedback": "Incorrect. Asking politely does not change the opening days, so the visit still cannot take place on Monday."
+        },
+        {
+          "letter": "C",
+          "text": "Arrive on Tuesday morning and book the guided visit at the entrance.",
+          "is_correct": true,
+          "feedback": "Correct. Since the museum is closed on Mondays, the organiser must arrive on Tuesday and make the booking in person."
+        },
+        {
+          "letter": "D",
+          "text": "Book the visit on Monday by phone, since the museum is open in the mornings.",
+          "is_correct": false,
+          "feedback": "Incorrect. A Monday visit is impossible because of the closing day, and the text does not mention telephone booking."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Planning requires checking every constraint: the day, the hours and the way the booking is made. Monday is excluded by the closing day, so the only workable plan is to arrive on Tuesday and book at the entrance. Options that ignore the closing day or invent a telephone service cannot succeed.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W15-travel-and-tourism-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}

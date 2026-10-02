@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 8,
+    "subject": "ingles",
+    "country": "co",
+    "pack_id": "co-week-13-grade-8-subject-ingles",
+    "generated_at": "2026-10-02T20:36:31.169Z"
+  },
+  "questions": [
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v1",
+      "statement": "What does \"to recycle\" mean?",
+      "context": "A recycling campaign in the municipality of Chía explains the three words that describe what households should do with their rubbish.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to use something again without throwing it away",
+          "is_correct": false,
+          "feedback": "Incorrect. That describes the general idea of reusing materials, but recycling means treating used material so it can be made into something new."
+        },
+        {
+          "letter": "B",
+          "text": "to put rubbish in a bag for the collectors",
+          "is_correct": false,
+          "feedback": "Incorrect. Putting rubbish in a bag is disposal, the opposite of recycling, which keeps materials out of the rubbish."
+        },
+        {
+          "letter": "C",
+          "text": "to treat used materials so they can be used again",
+          "is_correct": true,
+          "feedback": "Correct. Recycling means processing used material such as glass, metal or plastic so that it can be used again in new products."
+        },
+        {
+          "letter": "D",
+          "text": "to make a river dirty with waste",
+          "is_correct": false,
+          "feedback": "Incorrect. Making a river dirty is polluting, which is the environmental problem that recycling tries to solve."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The three \"R\" words are different: \"reduce\" means to buy less, \"reuse\" means to use an object again, and \"recycle\" means to treat used material so it can be remade. Knowing the exact difference is what allows a student to explain a recycling campaign correctly in English.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Lexico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v2",
+      "statement": "If you ________ the amount of plastic you buy, you will throw away much less waste. Use \"reduce\".",
+      "context": "An environmental poster in a school in Villavicencio invites families to buy less disposable plastic.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "redoing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Redo\" means to do something again, so it cannot mean making a quantity smaller."
+        },
+        {
+          "letter": "B",
+          "text": "reusing",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Reuse\" means using a thing again, but it does not reduce how much new plastic you buy."
+        },
+        {
+          "letter": "C",
+          "text": "reducing",
+          "is_correct": true,
+          "feedback": "Correct. \"To reduce something\" means to make it smaller or less, and it is the only option that fits \"the amount of plastic you buy\"."
+        },
+        {
+          "letter": "D",
+          "text": "recycling",
+          "is_correct": false,
+          "feedback": "Incorrect. Recycling refers to treating used material, while here the verb has to express buying less plastic in the first place."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Reduce\" works with quantities: to reduce the amount, the cost, the time or the level of something. \"Reuse\" and \"recycle\" work with objects that have already been used. Choosing the verb that matches the noun after \"the amount of\" is the quickest test for the right answer.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v3",
+      "statement": "Which word best completes the sentence: \"Plastic bottles ________ the rivers and the ocean\"?",
+      "context": "A news report in Cartagena shows plastic bottles floating in the river near the port.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "pour",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Pour\" describes emptying a liquid out of a container, which is not what bottles do to a river."
+        },
+        {
+          "letter": "B",
+          "text": "fill",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Fill\" only states a quantity, so it does not express the damage the bottles cause."
+        },
+        {
+          "letter": "C",
+          "text": "cover",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Cover\" describes a surface, but it does not carry the idea of making water dirty."
+        },
+        {
+          "letter": "D",
+          "text": "pollute",
+          "is_correct": true,
+          "feedback": "Correct. \"To pollute\" is the verb used when waste makes air, water or land dirty."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "English has precise verbs for environmental damage: \"to pollute\" for contamination of air, water or land, and \"to damage\" for physical harm in general. Bins in a sentence also tell the student which one is needed: a countable plural subject like \"plastic bottles\" goes with \"pollute\".\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso de la lengua",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v4",
+      "statement": "The cloud forest around Bogotá is home to the spectacled bear, the only bear species left in Colombia. Farmers have cleared forest to plant crops, so the bear now lives in small fragments of its former range. Why is the spectacled bear in danger?",
+      "context": "A reading text about the cloud forest that surrounds Bogotá is used in a school unit on endangered species.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because it is hunted for its fur during the winter.",
+          "is_correct": false,
+          "feedback": "Incorrect. Hunting for fur is never mentioned in the passage, so that detail is invented."
+        },
+        {
+          "letter": "B",
+          "text": "Because the forest around Bogotá has many factories.",
+          "is_correct": false,
+          "feedback": "Incorrect. The passage names no factories; the problem it describes is agricultural clearing of the forest."
+        },
+        {
+          "letter": "C",
+          "text": "Because forest clearing has reduced its habitat.",
+          "is_correct": true,
+          "feedback": "Correct. The text says farmers cleared forest to plant crops, so the bear survives in smaller fragments of its former range."
+        },
+        {
+          "letter": "D",
+          "text": "Because it lives in cold regions far from the city.",
+          "is_correct": false,
+          "feedback": "Incorrect. The cloud forest is close to Bogotá, and the passage never describes the bear's area as a cold region."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A comprehension answer must be supported by information that is actually in the text. The phrase \"have cleared forest to plant crops\" explains the loss of habitat, and \"small fragments of its former range\" is the direct consequence. Options that add facts absent from the passage are wrong even if they sound plausible.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.8,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v5",
+      "statement": "Since the recycling bins were installed, the amount of waste in the neighbourhood ________ every week. Use the passive perfect.",
+      "context": "A neighbourhood in Bogotá installed sorting bins in 2021 and the city published the results afterwards.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reduced",
+          "is_correct": false,
+          "feedback": "Incorrect. The simple past \"reduced\" closes the process in the past, but the text says the reduction continues week after week."
+        },
+        {
+          "letter": "B",
+          "text": "has been reduced",
+          "is_correct": true,
+          "feedback": "Correct. \"Since\" points from a past event to now, so the passive present perfect \"has been reduced\" is the required form."
+        },
+        {
+          "letter": "C",
+          "text": "is reducing",
+          "is_correct": false,
+          "feedback": "Incorrect. The passive of the present continuous would be \"is being reduced\"; \"is reducing\" cannot be used passively like this."
+        },
+        {
+          "letter": "D",
+          "text": "reduces to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Reduces to\" needs a final value after it, and it is not compatible with the ongoing meaning of \"every week\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "\"Since\" connects a past event with the present, so it goes with the present perfect, and because the focus is on the waste (the thing being reduced), the structure is passive: has been reduced. The present continuous passive would need \"is being reduced\", which describes an action happening at this moment.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v6",
+      "statement": "In some areas of La Guajira, ________ has turned fertile land into sand because the trees were removed. Use \"desertification\".",
+      "context": "A documentary explains the situation in dry areas of La Guajira where vegetation has disappeared over decades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "erosion",
+          "is_correct": false,
+          "feedback": "Incorrect. Erosion is the wearing away of soil by water or wind; it is one step, not the final result described in the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "deforestation",
+          "is_correct": false,
+          "feedback": "Incorrect. Deforestation is the loss of trees itself, but here the consequence for the land is the point of the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "pollution",
+          "is_correct": false,
+          "feedback": "Incorrect. Pollution refers to contamination by waste or chemicals, not to land turning into sand."
+        },
+        {
+          "letter": "D",
+          "text": "desertification",
+          "is_correct": true,
+          "feedback": "Correct. Desertification is the process by which dry land becomes desert because of the misuse of soil and vegetation."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Three related words must be kept apart: \"deforestation\" is the loss of trees, \"desertification\" is the result on the land when soil is misused in dry areas, and \"drought\" is the lack of rain. The sentence names the result on the land, so \"desertification\" is the only accurate choice.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v7",
+      "statement": "Which sentence uses these words correctly?",
+      "context": "A school project compares species such as the passenger pigeon, the blue whale and the Andean condor to explain conservation terms.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"The spectacled bear is extinct because its forest has shrunk.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The spectacled bear still lives in Colombia, so a shrinking habitat makes it endangered rather than extinct."
+        },
+        {
+          "letter": "B",
+          "text": "\"The Andean condor is extinct, although thousands still fly over the Andes.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. The sentence contradicts itself, because the condor still flies over the Andes, so it cannot be extinct."
+        },
+        {
+          "letter": "C",
+          "text": "\"The passenger pigeon is extinct because there are no individuals left in the world.\"",
+          "is_correct": true,
+          "feedback": "Correct. \"Extinct\" means a species has disappeared completely, which is exactly the case of the passenger pigeon."
+        },
+        {
+          "letter": "D",
+          "text": "\"The blue whale is extinct; in fact, its population has grown recently.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. A species whose population grows is certainly not extinct, and the blue whale is a protected species."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Extinct\" means no individuals remain anywhere in the world, while \"endangered\" means the species is in danger but still alive. Once the two words are separated, choosing the right one is a matter of reading carefully: the sentence about the passenger pigeon matches the definition of extinction exactly.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Lexical Knowledge",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v8",
+      "statement": "Which sentence is the most persuasive argument for putting sorting bins in the canteen?",
+      "context": "A student council meeting in Ibagué is deciding whether to put sorting bins in the school canteen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Bins are cheap, but nobody will use them here.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. It opens with a cost argument and then destroys it by claiming nobody will cooperate."
+        },
+        {
+          "letter": "B",
+          "text": "\"We throw away about 300 bottles a day, and each one takes 450 years to break down, so sorting them is the only realistic option.\"",
+          "is_correct": true,
+          "feedback": "Correct. It quantifies the local problem, adds a scientific fact and then proposes the solution, which is the structure of a persuasive argument."
+        },
+        {
+          "letter": "C",
+          "text": "\"Recycling is a good idea; I am not sure about the details.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. \"I am not sure about the details\" shows no conviction, so it cannot persuade a group that has to take a decision."
+        },
+        {
+          "letter": "D",
+          "text": "\"Everyone should throw their rubbish in the river instead.\"",
+          "is_correct": false,
+          "feedback": "Incorrect. Throwing rubbish in the river is pollution, so this argues against the proposal instead of for it."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A persuasive argument needs evidence and a conclusion. Here the evidence is local data plus a scientific figure, and the conclusion is \"sorting them is the only realistic option\". Arguments that weaken themselves, admit ignorance or propose pollution fail because they give the listener no reason to act.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatic Competence",
+      "expected_success": 0.75,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v9",
+      "statement": "Colombia produces more plastic waste per person than most countries, ________ our recycling rate is still very low.",
+      "context": "An infographic compares national statistics on plastic waste and recycling rates.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "however",
+          "is_correct": false,
+          "feedback": "Incorrect. \"However\" is an adverb, and as a connector it needs a full stop before it; here it would have to stand between the subject and the verb."
+        },
+        {
+          "letter": "B",
+          "text": "even though",
+          "is_correct": true,
+          "feedback": "Correct. \"Even though\" introduces a concession between two true facts: high production and a low recycling rate."
+        },
+        {
+          "letter": "C",
+          "text": "because",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Because\" makes the first clause the cause of the second, but the two facts are a contrast, not a cause and effect."
+        },
+        {
+          "letter": "D",
+          "text": "otherwise",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Otherwise\" expresses the consequence of not doing something, which is not the relationship described here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Linkers must match the logical relationship. A contrast between two facts that are both true needs \"even though\"; \"because\" would claim a cause that does not exist, and \"however\" is an adverb that cannot be placed inside this clause. Choosing the linker by the meaning of the two halves is the reliable method.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Grammatical Knowledge",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v10",
+      "statement": "Between 2010 and 2024 the area of forest lost in the Colombian Amazon fell from 210,000 to 90,000 hectares a year. Yet deforestation in the rest of the country rose in the same period. What can be concluded from the text?",
+      "context": "A news report compares deforestation figures in two regions of Colombia over the same period.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Total deforestation in Colombia decreased between 2010 and 2024.",
+          "is_correct": false,
+          "feedback": "Incorrect. Because deforestation outside the Amazon rose, the national figure did not decrease; the improvement concerns one region only."
+        },
+        {
+          "letter": "B",
+          "text": "Forests in the Colombian Amazon are no longer at risk.",
+          "is_correct": false,
+          "feedback": "Incorrect. Losing 90,000 hectares a year is still a serious loss, so the text does not claim the Amazon is out of danger."
+        },
+        {
+          "letter": "C",
+          "text": "The national trend improved and the Amazon trend improved as well.",
+          "is_correct": false,
+          "feedback": "Incorrect. This reverses the information: the text says deforestation rose in the rest of the country while it fell in the Amazon."
+        },
+        {
+          "letter": "D",
+          "text": "The national trend worsened while the Amazon trend improved.",
+          "is_correct": true,
+          "feedback": "Correct. The Amazon lost less forest each year and the rest of the country lost more, so the two trends moved in opposite directions."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A conclusion must be the logical result of the data given. Since one figure falls and the other rises, the only valid conclusion is that the two trends went in opposite directions. Any option that merges the two regions into a single improving trend contradicts the second sentence of the text.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v11",
+      "statement": "Cities ________ build more parks and cycle lanes, because traffic and pollution keep getting worse.",
+      "context": "A city council document recommends long-term measures for cleaner air in urban corridors.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ought to",
+          "is_correct": true,
+          "feedback": "Correct. \"Ought to\" gives advice about future actions and takes the base form of the verb: ought to + build."
+        },
+        {
+          "letter": "B",
+          "text": "ought",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ought\" on its own is not a complete structure for advice; it needs \"to\" before the verb."
+        },
+        {
+          "letter": "C",
+          "text": "ought to built",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ought to\" is followed by the bare infinitive, never by the past participle."
+        },
+        {
+          "letter": "D",
+          "text": "ought being to",
+          "is_correct": false,
+          "feedback": "Incorrect. \"Ought being to\" mixes the continuous and the infinitive, which is not a form in English."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "\"Ought to\" belongs to the modal family, so it behaves exactly like \"should\" and \"must\": modal + to + base form of the verb. It cannot take \"-ing\" or a past participle, and it cannot stand alone. Recognising that it is a modal is what makes the pattern predictable.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Structural Cloze",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    },
+    {
+      "id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle-v12",
+      "statement": "The harpy eagle was so rare in the cloud forests of the Magdalena that only a few nests were known. In 2015 a local foundation built nesting platforms in the trees. Since then, three new chicks have hatched and young eagles have been seen in areas where they had disappeared for decades. What is the main message of the text?",
+      "context": "A conservation project in the Magdalena valley is studied in a unit about endangered species.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Building platforms in trees can help a very rare species recover.",
+          "is_correct": true,
+          "feedback": "Correct. The new chicks and the new sightings after the platforms were built support the conclusion that the intervention helped the species."
+        },
+        {
+          "letter": "B",
+          "text": "The harpy eagle should be removed from the list of protected species.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text describes a recovery, which is precisely the situation in which protection is kept, not removed."
+        },
+        {
+          "letter": "C",
+          "text": "Cloud forests are disappearing faster than any other habitat in Colombia.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text mentions the cloud forest only as the place where the eagle lives; it does not compare habitats."
+        },
+        {
+          "letter": "D",
+          "text": "Chicks cannot survive in nests built above the ground.",
+          "is_correct": false,
+          "feedback": "Incorrect. The text says nothing about ground nests, and in fact the chicks that hatched were raised in the elevated platforms."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The main message of a text is the conclusion its evidence points to. Here the evidence is what happened after the platforms were built: chicks hatched and the birds returned. Options that recommend removing protection, compare habitats or invent details about nest height are not supported by any line in the passage.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reading Comprehension",
+      "expected_success": 0.7,
+      "bundle_id": "CO-ING-8-2026-W13-environment-and-nature-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": "B2",
+      "subject": "ingles",
+      "grade": 8,
+      "country": "co"
+    }
+  ]
+}
