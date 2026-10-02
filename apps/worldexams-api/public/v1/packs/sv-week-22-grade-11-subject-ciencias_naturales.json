@@ -9,81 +9,36 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando reacciones quimicas.",
+      "statement": "¿Que gas se libera en esa mezcla y por que se forman burbujas?",
+      "context": "Karla mezcla vinagre y bicarbonato de sodio en un vaso para la clase de quimica de Santa Tecla.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
+          "letter": "C",
+          "text": "Dioxido de carbono, que se escapa en forma de burbujas",
           "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
+          "feedback": "Correcto. El acido del vinagre reacciona con el bicarbonato y produce gas. Ese dioxido de carbono escapa del liquido, y por eso se ven burbujas en la superficie."
         },
         {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Oxigeno puro, que se combina con el agua del vinagre",
           "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
+          "feedback": "El acido y el bicarbonato no liberan oxigeno, sino dioxido de carbono. El oxigeno es un gas distinto, y para identificarlo haria falta otra prueba especifica."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "Hidrogeno, que arde con una llama azul",
           "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
+          "feedback": "La mezcla de acido y bicarbonato no produce hidrogeno. Ese gas aparece en la reaccion entre un metal y un acido, y no entre un acido y una sal."
         },
-        {
-          "letter": "C",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 2 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando reacciones quimicas.",
-      "options": [
         {
           "letter": "D",
-          "text": "10 N",
-          "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 2 \\times 5 = 10\\ N$, que es la fuerza aplicada."
-        },
-        {
-          "letter": "A",
-          "text": "8 N",
+          "text": "Vapor de agua, que se condensa al enfriarse el vaso",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 5 = 10\\ N$; el valor 8 N correspondería a otra masa o a otra aceleración."
-        },
-        {
-          "letter": "B",
-          "text": "15 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 5 = 10\\ N$; el valor 15 N correspondería a otra masa o a otra aceleración."
-        },
-        {
-          "letter": "C",
-          "text": "2 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 5 = 10\\ N$; el valor 2 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El agua no se convierte en gas de esta manera. La reaccion ocurre entre iones en disolucion, y el unico producto gaseoso que escapa es el dioxido de carbono."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 2×5 = 10 N.",
+      "correct_answer": "C",
+      "explanation": "El bicarbonato aporta iones carbonato que reaccionan con los protones del acido y liberan dioxido de carbono. Ese gas es el que produce la espuma al alcanzar la superficie del liquido.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,173 +53,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
-        },
-        {
-          "letter": "D",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando reacciones quimicas.",
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v2",
+      "statement": "¿Que debe cumplirse en una ecuacion quimica para que los atomos se conserven?",
+      "context": "Mateo escribe en su cuaderno la ecuacion de una reaccion quimica de la clase de San Miguel.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
+          "text": "Que el numero de atomos de cada elemento sea igual en los dos lados",
           "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
+          "feedback": "Correcto. Una ecuacion esta balanceada cuando se conserva el numero de atomos de cada elemento. Esa conservacion es la ley de la conservacion de la masa, y por eso la masa no se crea ni se destruye."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "text": "Que las masas molares de los reactivos y los productos sean distintas",
           "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "feedback": "Las masas deben coincidir, no ser distintas. En una reaccion no se crea ni se destruye materia, de modo que la masa total se mantiene exactamente igual."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Que todos los coeficientes sean iguales a uno",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "Los coeficientes se ajustan para balancear el numero de atomos, y no tienen por que ser unos. En muchas reacciones hay que poner un 2 o un 3 en algun lado."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Que los estados fisicos de las sustancias sean los mismos en ambos lados",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "Los estados fisicos pueden cambiar durante la reaccion, y a veces deben escribirse porque son datos relevantes. El balanceo depende del numero de atomos, y no del estado de la materia."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "explanation": "La ley de la conservacion de la masa exige que los atomos ni aparezcan ni desaparezcan. Por eso se ajustan los coeficientes hasta que cada elemento tenga la misma cantidad de atomos a cada lado de la flecha.",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
-        },
-        {
-          "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
-        },
-        {
-          "letter": "C",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
-        },
-        {
-          "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
-        },
-        {
-          "letter": "B",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
-        },
-        {
-          "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -278,37 +98,217 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 3 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Santa Ana estudiando reacciones quimicas.",
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v3",
+      "statement": "¿Que tipo de cambio fisico se observa cuando el hielo se derrite al sacar el tubo del freezer?",
+      "context": "Lucía calienta una sustancia solida en un tubo de ensayo y observa un cambio de color en el laboratorio de Soyapango.",
       "options": [
         {
-          "letter": "B",
-          "text": "9 N",
+          "letter": "A",
+          "text": "Cambio de estado fisico, porque el agua pasa de solido a liquido",
           "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 3 \\times 3 = 9\\ N$, que es la fuerza aplicada."
+          "feedback": "Correcto. El hielo y el agua son la misma sustancia, y lo unico que cambia es el estado fisico. Al no formarse ninguna sustancia nueva, se trata de un cambio fisico."
         },
         {
-          "letter": "A",
-          "text": "6 N",
+          "letter": "B",
+          "text": "Cambio quimico, porque el hielo produce una sustancia nueva al derretirse",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 3 = 9\\ N$; el valor 6 N correspondería a otra masa o a otra aceleración."
+          "feedback": "Al derretirse no aparece ninguna sustancia nueva, solo cambia el estado. La prueba de que el cambio es fisico es precisamente que la identidad de la sustancia se conserva."
         },
         {
           "letter": "C",
-          "text": "12 N",
+          "text": "Cambio fisico, porque la temperatura del agua se mantiene igual",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 3 = 9\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
+          "feedback": "La temperatura si cambia: al fundirse, el hielo absorbe calor del ambiente. Ese cambio de temperatura acompanante no convierte al proceso en una reaccion quimica."
         },
         {
           "letter": "D",
-          "text": "3 N",
+          "text": "Cambio quimico, porque el agua libera oxigeno al pasar a liquido",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $3 \\times 3 = 9\\ N$; el valor 3 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El agua liquida no libera oxigeno, es la misma sustancia que el hielo. Lo unico que se ha modificado es como se acomodan sus moleculas, y no su composicion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un cambio fisico la sustancia conserva su composicion y solo modifican su forma o su estado. En un cambio quimico se forman sustancias nuevas a partir de los reactivos, como ocurre al quemar papel o al oxidar un clavo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es el efecto de un catalizador sobre el equilibrio de una reacción?",
+      "context": "Andrés lee en el libro de química la definición de catalizador en la clase de La Libertad.",
+      "options": [
+        {
+          "letter": "D",
+          "text": "Acelera la reacción y no se consume, sin desplazar el equilibrio",
+          "is_correct": true,
+          "feedback": "Correcto. El catalizador baja la energia de activacion y por eso acelera la reaccion en ambos sentidos. Como no se consume y no cambia la constante de equilibrio, la posicion del equilibrio queda igual."
+        },
+        {
+          "letter": "A",
+          "text": "Desacelera la reacción y se consume en el proceso",
+          "is_correct": false,
+          "feedback": "Un catalizador acelera, y no frena. Ademas no se consume: se recupera al final de la reaccion, y por eso se escribe arriba de la flecha y no entre los reactivos."
+        },
+        {
+          "letter": "B",
+          "text": "Desplaza el equilibrio hacia el producto y aumenta el rendimiento",
+          "is_correct": false,
+          "feedback": "El catalizador hace que el equilibrio se alcance antes, y no desplaza su posicion. La cantidad de producto en el equilibrio es la misma con catalizador y sin el."
+        },
+        {
+          "letter": "C",
+          "text": "Impide que la reaccion ocurra hasta que se aumenta la temperatura",
+          "is_correct": false,
+          "feedback": "El catalizador no impide la reaccion: la facilita bajando la energia necesaria para comenzar. Sin el, la reaccion seria posible, pero mucho mas lenta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El catalizador ofrece un camino de reaccion con menor energia de activacion. Al acelerar por igual la reaccion directa y la inversa, acelera el establecimiento del equilibrio sin modificar su posicion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v5",
+      "statement": "¿Qué partículas de la disolución son las responsables de la propiedad ácido de esa Pastilla?",
+      "context": "Sofía disuelve una Pastilla efervescente en agua en la clase de química de Ahuachapán.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Los iones de hidrógeno disueltos en el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Un acido cede protones al agua y por eso la disolucion queda con una alta concentracion de iones de hidrógeno. Esa es exactamente la definicion de propiedad acida."
+        },
+        {
+          "letter": "A",
+          "text": "Las moleculas de agua, que son las unicas en la disolucion",
+          "is_correct": false,
+          "feedback": "El agua es el disolvente y hay tambien soluto disuelto. Ademas, el agua pura es neutra: la acidez aparece cuando hay iones de hidrógeno en exceso."
+        },
+        {
+          "letter": "C",
+          "text": "Los iones de sodio, que producen un sabor salado",
+          "is_correct": false,
+          "feedback": "Los iones de sodio aportan el sabor salado, y no la acidez. El caracter acido depende de la capacidad de donar protones, no de tener sodio disuelto."
+        },
+        {
+          "letter": "D",
+          "text": "Las moleculas del CO2 atrapadas en la Pastilla",
+          "is_correct": false,
+          "feedback": "El CO2 contributes a la acidez, pero la Pastilla efervescente libera ademas un acido organico. La propiedad acida se debe a los protones cedidos, no solo al gas atrapado."
         }
       ],
       "correct_answer": "B",
-      "explanation": "F = ma = 3×3 = 9 N.",
+      "explanation": "Un acido es una sustancia que cede protones al agua. Al aumentar los iones de hidrógeno, la disolucion se vuelve acida y por eso un pH menor indica mayor acidez.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v6",
+      "statement": "Si una disolucion tiene pH 3, ¿qué se puede afirmar sobre su acidez?",
+      "context": "Carlos lee en la etiqueta de un producto de limpieza que dice que neutraliza el acido de la ropa en la clase de San Francisco Gotera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es acida, porque el pH esta por debajo de 7",
+          "is_correct": true,
+          "feedback": "Correcto. La escala de pH va de 0 a 14, y el 7 marca el valor neutro. Un pH de 3 esta claramente en la zona acida, con una alta concentracion de iones de hidrógeno."
+        },
+        {
+          "letter": "B",
+          "text": "Que es neutra, porque el pH 3 no tiene unidad de medida",
+          "is_correct": false,
+          "feedback": "La ausencia de unidades no convierte un valor en neutro. La escala se lee en la zona de 0 a 14, y un pH de 3 sigue siendo acido."
+        },
+        {
+          "letter": "C",
+          "text": "Que es basica, porque el pH baja cuando aumenta la acidez",
+          "is_correct": false,
+          "feedback": "La relacion es la inversa: cuando la acidez aumenta, el pH disminuye. Un pH de 3 es acido y no basico, y un valor de 11 seria el que indicaria caracter basico."
+        },
+        {
+          "letter": "D",
+          "text": "Que es acida, y ademas que es la mas acida posible de la escala",
+          "is_correct": false,
+          "feedback": "Un pH de 3 es claramente acido, pero no es el extremo. El valor maximo de acidez corresponde a pH 0, mientras que 14 es el maximo de basicidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La escala de pH va de 0 a 14, con 7 como punto neutro. Por debajo de 7 la disolucion es acida, y cuanto menor es el pH mayor es la concentracion de iones de hidrógeno disueltos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué transformación química se produce en ese hierro con la humedad del aire?",
+      "context": "Wendy observa que el hierro de una verja se vuelve rojizo con los años en la clase de San Juan Bautista.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Oxidación, que forma óxido de hierro con la ayuda del oxígeno",
+          "is_correct": true,
+          "feedback": "Correcto. El hierro reacciona con el oxigeno y la humedad y forma oxidos e hidroxidos de hierro. Esa sustancia rojiza es distinta del metal original, y por eso es un cambio quimico."
+        },
+        {
+          "letter": "A",
+          "text": "Evaporación, que elimina el agua de la superficie del metal",
+          "is_correct": false,
+          "feedback": "Evaporar agua no cambia la sustancia del metal. Lo que se transforma es el hierro en un compuesto nuevo, y ese proceso se llama oxidacion y no evaporacion."
+        },
+        {
+          "letter": "B",
+          "text": "Disolucion, que mezcla el hierro con el aire",
+          "is_correct": false,
+          "feedback": "El hierro no se disuelve en el aire. Con el oxigeno y la humedad forma un compuesto solido nuevo, cuyo nombre es oxido de hierro, y no una mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Fiscion, que rompe el metal en trozos mas pequenos",
+          "is_correct": false,
+          "feedback": "Fiscion es un termino de fisica nuclear, y no describe la transformacion de un metal. Lo que ocurre en la verja es una reaccion con el oxigeno, que da un producto nuevo y mas fragil."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La oxidacion es una reaccion en la que una sustancia gana oxigeno. En el hierro, ese oxigeno se combina con el metal y forma oxidos que pierden las propiedades mecanicas del metal original.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
+      "statement": "Si se agrega sal a una disolución hasta saturarla y luego se añade más sal, ¿qué ocurre?",
+      "context": "Iván monta un experimento con muestras de un mismo mineral en agua con distinta salinidad.",
       "options": [
         {
-          "letter": "B",
-          "text": "La piel",
+          "letter": "A",
+          "text": "La mezcla se heterogénea, porque queda soluto sin disolver",
           "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
+          "feedback": "Correcto. Al superar la solubilidad, la sal no cabe en el agua. El exceso queda como solido en el fondo, y entonces la mezcla tiene dos fases y es heterogenea."
         },
         {
-          "letter": "A",
-          "text": "El hígado",
+          "letter": "B",
+          "text": "La mezcla se homogenea, porque toda la sal queda disuelta",
           "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
+          "feedback": "Esa situacion corresponde a una disolucion insaturada. Una vez que se alcanza la saturacion, cualquier cantidad adicional de sal no puede disolverse y queda como residuo solido."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "El agua se evapora y la sal queda completamente seca",
           "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
+          "feedback": "La adicion de soluto no evapora el disolvente. El agua sigue siendo el liquido de la mezcla, y lo que no cabe en ella se acumula en el fondo del recipiente."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La sal se transforma en un gas y escapa del recipiente",
           "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
+          "feedback": "La sal no se volatiliza a temperatura ambiente. Al exceder la solubilidad simplemente precipita como solido, sin convertirse en otra sustancia."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "A",
+      "explanation": "Una disolucion se satura cuando alcanza la maxima cantidad de soluto que el disolvente puede disolver. Desde ese punto, el exceso de soluto queda sin disolver y la mezcla pasa a ser heterogenea.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando reacciones quimicas.",
+      "statement": "¿Qué tipo de reacción ocurre cuando la cera de la vela se derrite al recibir calor?",
+      "context": "Rosa María enciende una vela y observa la misma llama que se consume en el container de la clase de San Vicente.",
       "options": [
         {
-          "letter": "A",
-          "text": "La exposición a la luz",
+          "letter": "B",
+          "text": "Física, porque la cera cambia de estado sin formar una sustancia nueva",
           "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
+          "feedback": "Correcto. La cera pasa de solido a liquido, pero sigue siendo la misma cera. Al no producirse una sustancia nueva, el proceso es fisico y su cambio esta en el estado de la materia."
         },
         {
-          "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "letter": "A",
+          "text": "Química, porque la cera se descompone al calentarse",
           "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "feedback": "La cera no se descompone al derrirse. Si lo hiciera, los productos serian otras sustancias, y lo que ocurre al calentarla es simplemente un cambio de estado."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Química, porque el fuego de la vela combina varias sustancias",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "La combustion de la cera si es una reaccion quimica, pero el enunciado describe que se derrite. Derritirse y quemarse son procesos distintos, y el segundo es el que forma sustancias nuevas."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Física, porque no hay cambio en la composición de la cera",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "Esa es precisamente la razon de que el cambio sea fisico. La composicion no se modifica, y por eso se trata de un cambio de estado y no de una transformacion de la sustancia."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "correct_answer": "B",
+      "explanation": "Derrirse, fundirse o evaporarse son cambios fisicos porque la sustancia conserva su composicion. Quemar la cera, en cambio, produce dioxido de carbono y agua, y esa si es una reaccion quimica.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -414,82 +414,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Mejicanos estudiando reacciones quimicas.",
+      "statement": "¿Qué cambio de energía acompaña a una reacción exotérmica como la combustión de la vela?",
+      "context": "Fernando prepara una disolución disolviendo cinco cucharaditas de sal en un litro de agua en la clase de Metapán.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
+          "letter": "C",
+          "text": "Libera energía al ambiente en forma de calor",
           "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
+          "feedback": "Correcto. Una reaccion exotermica libera energia porque los productos tienen menos energia interna que los reactivos. Esa diferencia se transmite al ambiente en forma de calor."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Absorbe energía del ambiente para continuar su curso",
           "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
+          "feedback": "Absorber energia es propio de una reaccion endotermica, como la disolucion de nitrato de amonio en agua. La combustion, en cambio, cede calor a el aire y a la mesa."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "No intercambia energía con el entorno en ningún momento",
           "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
+          "feedback": "Toda reaccion quimica intercambia energia con el medio. Lo que distingue a una de otra es si esa energia sale del sistema en forma de calor o entra en el."
         },
         {
-          "letter": "C",
-          "text": "El tejido",
+          "letter": "D",
+          "text": "Libera energía pero en forma de luz y nunca como calor",
           "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
+          "feedback": "La combustion libera calor y, a veces, tambien luz como en la llama. Afirmar que nunca hay calor seria falso, porque el calor es justamente la forma principal de energia liberada aqui."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "C",
+      "explanation": "En una reaccion exotermica la energia de los productos es menor que la de los reactivos, y la diferencia se libera como calor. En una endotermica ocurre al reves: el sistema absorbe energia del ambiente.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
-        },
-        {
-          "letter": "B",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
-        },
-        {
-          "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -503,37 +458,82 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 4 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v11",
+      "statement": "¿Qué les ocurre a los dos primeros tubos respecto al tercero?",
+      "context": "Priscilla y Josué montan un experimento con tres tubos: uno con agua y sal, otro con agua y azúcar, y un tercero solo con agua.",
       "options": [
         {
-          "letter": "C",
-          "text": "12 N",
+          "letter": "D",
+          "text": "El punto de ebullicion sube en ambos casos, y el punto de congelacion baja",
           "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 4 \\times 3 = 12\\ N$, que es la fuerza aplicada."
+          "feedback": "Correcto. Disolver un soluto en agua altera las dos propiedades coligativas: el agua necesita mas temperatura para hervir y menos para congelarse. Ese efecto se debe a la cantidad de particulas disueltas, no a su identidad."
         },
         {
           "letter": "A",
-          "text": "8 N",
+          "text": "El punto de ebullicion baja en los dos porque el soluto absorbe calor",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 3 = 12\\ N$; el valor 8 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El efecto es el contrario. Las particulas disueltas dificultan la separacion de las moleculas de agua, de modo que hace falta mas calor para que hiervan."
         },
         {
           "letter": "B",
-          "text": "15 N",
+          "text": "El punto de congelacion sube en los dos casos por el efecto del azucar",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 3 = 12\\ N$; el valor 15 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El punto de congelacion no sube, y no solo con el azucar. Cualquier soluto disuelto lo baja, porque las particulas se interponen entre las moleculas de agua y dificultan su ordenamiento en la red cristalina."
+        },
+        {
+          "letter": "C",
+          "text": "No cambia nada, porque el agua pura ya estaba a punto de hervir",
+          "is_correct": false,
+          "feedback": "Con agua pura, el punto de ebullicion es 100 grados a nivel del mar. Al disolver sal o azucar, esa cifra sube, y por eso el agua con sal hierve a una temperatura algo mayor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las propiedades coligativas dependen del numero de particulas de soluto, no de su naturaleza. Por eso tanto la sal como el azucar alteran de forma parecida el punto de ebullicion y el de congelacion del agua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v12",
+      "statement": "Si un indicador de coliflor pasa de violeta a verde al agregar bicarbonato, ¿qué indica ese cambio de color?",
+      "context": "Christian revisa en su cuaderno la lista de indicadores de la clase de química de Antiguo Cuscatlán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el medio se volvió básico, porque la Turning cambia de color con el pH",
+          "is_correct": true,
+          "feedback": "Correcto. Ese indicador de coliflor vira de color con el pH. El verde corresponde a un medio basico, de modo que el bicarbonato elevo el pH de la disolucion."
+        },
+        {
+          "letter": "B",
+          "text": "Que el medio se volvió acido, porque el verde indica acidez",
+          "is_correct": false,
+          "feedback": "El verde de ese indicador indica caracter basico, y no acido. En medio acido, este mismo indicador vira a tonos rosados o rojizos."
+        },
+        {
+          "letter": "C",
+          "text": "Que el pH no cambio y solo se altero el color del liquido",
+          "is_correct": false,
+          "feedback": "El cambio de color de un indicador es justamente la senal de que el pH cambio. Si el pH se hubiera mantenido, el color se conservaria y la virada es la prueba de que hubo una variacion."
         },
         {
           "letter": "D",
-          "text": "4 N",
+          "text": "Que la disolucion se enfrio lo suficiente para alterar el indicador",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 3 = 12\\ N$; el valor 4 N correspondería a otra masa o a otra aceleración."
+          "feedback": "La temperatura puede influir algo en un indicador, pero la causa tipica de una virada es un cambio en la acidez. El bicarbonato no enfría la disolucion, sino que cambia su pH."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "F = ma = 4×3 = 12 N.",
+      "correct_answer": "A",
+      "explanation": "Los indicadores son sustancias que cambian de color segun el pH del medio. Esa virada es la forma habitual de comprobar, sin aparato, si una disolucion es acida, neutra o basica.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,171 +549,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando reacciones quimicas.",
+      "statement": "¿Qué distingue a una mezcla de un compuesto en términos de composición?",
+      "context": "Guadalupe compara dos sustancias en el laboratorio de la clase de San Fernando.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
+          "letter": "B",
+          "text": "Que en la mezcla las sustancias conservan su identidad y pueden separarse",
           "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
+          "feedback": "Correcto. En una mezcla cada componente mantiene sus propiedades y se puede recuperar por medios fisicos. En un compuesto, en cambio, las sustancias se combinan y forman una nueva, ya no separable."
         },
         {
           "letter": "A",
-          "text": "El hígado",
+          "text": "Que en la mezcla los componentes se transforman en una sustancia nueva",
           "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
+          "feedback": "Formar una sustancia nueva es lo que ocurre en un compuesto, y no en una mezcla. En una mezcla no hay transformacion, solo coexistence de sustancias que mantienen su naturaleza."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "Que el compuesto se puede separar con un filtro de papel",
           "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
-        },
-        {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
-        },
-        {
-          "letter": "B",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
-        },
-        {
-          "letter": "C",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
-        },
-        {
-          "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
-        },
-        {
-          "letter": "C",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
-        },
-        {
-          "letter": "B",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
+          "feedback": "Un filtro separa por tamano de particula, y por eso funciona con mezclas de solidos. Un compuesto no se separa asi, porque sus componentes estan unidos a escala quimica."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Que la mezcla tiene siempre la misma proporcion que el compuesto",
           "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
+          "feedback": "Una mezcla admite cualquier proporcion, porque sus componentes se pueden medir por separado. Un compuesto tiene una proporcion fija, que es la que aparece en su formula quimica."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "B",
+      "explanation": "En una mezcla hay varias sustancias que conservan sus propiedades y se pueden separar por metodos fisicos. En un compuesto hay una sola sustancia nueva, con proporcion fija, y que ya no se puede deshacer en sus partes por medios ordinarios.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,37 +593,262 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 4 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando reacciones quimicas.",
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v14",
+      "statement": "¿Qué transformación corresponde a la fermentación de la masa del pan al hornearla?",
+      "context": "Sandra lee la etiqueta de un fertilizante en la clase de biología de Metapán.",
       "options": [
         {
           "letter": "A",
-          "text": "16 N",
+          "text": "Química, porque el dioxido de carbono y el etanol formado cambian las sustancias de la masa",
           "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 4 \\times 4 = 16\\ N$, que es la fuerza aplicada."
+          "feedback": "Correcto. Las levaduras transforman los azucares en etanol y gas carbonico, y ambos productos son sustancias nuevas. Ese cambio en la composicion hace que la fermentacion sea una reaccion quimica."
         },
         {
           "letter": "B",
-          "text": "12 N",
+          "text": "Física, porque solo cambia el volumen de la masa al calentarse",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El volumen si aumenta, pero no es lo unico que ocurre. Durante la fermentacion se forman etanol y dioxido de carbono, que son sustancias que antes no estaban presentes."
         },
         {
           "letter": "C",
-          "text": "20 N",
+          "text": "Química, porque el agua de la masa se evapora al hornear",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 20 N correspondería a otra masa o a otra aceleración."
+          "feedback": "Evaporar agua es un cambio fisico, y ademas no ocurre en ese momento. La reaccion caracteristica de la masa es la fermentacion de los azucares por parte de las levaduras."
         },
         {
           "letter": "D",
-          "text": "4 N",
+          "text": "Física, porque la masa conserva su composicion durante todo el horneado",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 4 N correspondería a otra masa o a otra aceleración."
+          "feedback": "La composicion si cambia durante la fermentacion. Al terminar el horneado la masa contiene productos nuevos, y por eso el proceso se clasifica como quimico y no como fisico."
         }
       ],
       "correct_answer": "A",
-      "explanation": "F = ma = 4×4 = 16 N.",
+      "explanation": "La fermentacion es un proceso quimico porque las levaduras transforman los azucares en etanol y dioxido de carbono. El gas es justamente lo que hace que la masa crezca y quede esponjosa al hornearla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v15",
+      "statement": "¿Qué observación demuestra que la reacción entre el zinc y el sulfato de cobre es una reacción de desplazamiento?",
+      "context": "Iván conecta un voltímetro a dos láminas de zinc sumergidas en una disolución de sulfato de cobre en la clase de física de La Libertad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la disolucion se vuelve mas clara al aumentar la temperatura",
+          "is_correct": false,
+          "feedback": "Un cambio de color o de aspecto no identifica por si solo un desplazamiento. Lo decisivo es que un elemento ocupa el lugar de otro en la sal, y no una simple modificacion de temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Que se forman burbujas de gas en la superficie del zinc",
+          "is_correct": false,
+          "feedback": "Las burbujas de gas indican una reaccion con produccion gaseosa, que es otra categoria. En esta prueba no hay gas: el zinc se disuelve y el cobre se deposita como solido."
+        },
+        {
+          "letter": "C",
+          "text": "Que el zinc se disuelve y aparece cobre metálico sobre su superficie",
+          "is_correct": true,
+          "feedback": "Correcto. El zinc es mas reactivo que el cobre y lo desplaza de su sal. El cobre liberado se deposita como metal sobre el zinc, y por eso la reaccion se llama de desplazamiento simple."
+        },
+        {
+          "letter": "D",
+          "text": "Que la disolucion se calienta y por eso acelera la reaccion",
+          "is_correct": false,
+          "feedback": "Una variacion de temperatura acelera, en general, una reaccion, y no la identifica. Lo que define a un desplazamiento es que un metal libere a otro de su compuesto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una reaccion de desplazamiento, un elemento mas reactivo ocupa el lugar de otro en su sal. El zinc, mas activo que el cobre, lo reduce y lo deja como metal depositado, mientras el zinc pasa a la disolucion como ion.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v16",
+      "statement": "¿Por qué en un laboratorio de química es peligroso oler directamente un recipiente con un reactivo?",
+      "context": "Wendy consulta el manual de un equipo de proteccion en la clase de química de Chalatenango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los vapores pueden ser tóxicos si se inhalan directamente",
+          "is_correct": true,
+          "feedback": "Correcto. Muchos reactivos liberan vapores que irritan o dañan el sistema respiratorio. La norma es aproximar la nariz a la boca del recipiente y desplazando el aire con la mano hacia la nariz, nunca oler directamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los vapores siempre son mas pesados que el aire y se acumulan abajo",
+          "is_correct": false,
+          "feedback": "La pesadez del vapor depende de la sustancia, y no de ser vapor. Ademas, muchos vapores peligrosos son mas ligeros que el aire, asi que la regla general no puede basarse en eso."
+        },
+        {
+          "letter": "C",
+          "text": "Porque oler un liquido lo puede contaminar y volver sucio",
+          "is_correct": false,
+          "feedback": "El olor no altera la composicion del contenido del recipiente. El riesgo real es la inhalacion de vapores nocivos, y no una hipotetica contaminacion del liquido por el olfato."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el olfato es un sentido que no sirve para detectar vapores",
+          "is_correct": false,
+          "feedback": "El olfato si detecta vapores, y a veces con facilidad, y por eso mismo. La instruccion de seguridad no se basa en una limitacion del sentido, sino en la toxicidad de lo que se inhala."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La seguridad en el laboratorio impide inhalar vapores, porque algunos son tóxicos o irritantes. Por eso se enseña a comprobarlos desplazando el aire con la mano, nunca acercando la nariz al recipiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v17",
+      "statement": "Al retirar la tira, ¿qué observación demuestra que se produjo una reacción de desplazamiento?",
+      "context": "Rosa María coloca una tira de cobre dentro de una disolución de nitrato de plata en la clase de química de San Vicente.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Que aparecen cristales plateados de plata adheridos al cobre",
+          "is_correct": true,
+          "feedback": "Correcto. El cobre desplaza a la plata de su sal y la plata queda depositada como metal. Esa cobertura plateada sobre el cobre es la evidencia tipica de un desplazamiento."
+        },
+        {
+          "letter": "A",
+          "text": "Que la disolucion se vuelve de color azul intenso",
+          "is_correct": false,
+          "feedback": "La coloracion azul pertenece al ion de cobre en disolucion. Como el cobre se esta retirando de la sal para formar parte de la placa, el azul se apaga y no se intensifica."
+        },
+        {
+          "letter": "B",
+          "text": "Que el cobre se disuelve por completo en menos de un minuto",
+          "is_correct": false,
+          "feedback": "La velocidad no define el tipo de reaccion. Lo que identifica a un desplazamiento es que un elemento se coloque en el lugar de otro dentro de su sal, y no que se disuelva pronto."
+        },
+        {
+          "letter": "D",
+          "text": "Que se forman burbujas de oxigeno sobre la superficie del cobre",
+          "is_correct": false,
+          "feedback": "No hay produccion de gas en esta prueba. La reaccion intercambia cobre por plata en las sales, y su manifestacion visible es el metal plateado que se deposita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El cobre es mas reactivo que la plata y por eso la desplaza de su sal. El resultado es cobre que pasa a la disolucion y plata metalica que se deposita sobre la pieza, lo que da el aspecto plateado caracteristico.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v18",
+      "statement": "Al mezclar dos disoluciones y aparecer un sólido que se deposita en el fondo, ¿qué tipo de reacción se ha producido?",
+      "context": "Fernando y su equipo preparan una reacción en el laboratorio de San Agustín para demostrar la formación de un precipitado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De doble desplazamiento, porque se forma un producto insoluble de dos sales",
+          "is_correct": true,
+          "feedback": "Correcto. Al intercambiar los iones entre dos sales, se obtiene un compuesto poco soluble que precipita. Ese solido formado en la mezcla es lo que permite distinguir a esta reaccion de las demas."
+        },
+        {
+          "letter": "B",
+          "text": "De descomposicion, porque un solo compuesto se transforma en varios",
+          "is_correct": false,
+          "feedback": "En una descomposicion parte una sola sustancia y se obtienen varias. Aqui participan dos sales distintas desde el principio, de modo que el mecanismo es un intercambio de iones."
+        },
+        {
+          "letter": "C",
+          "text": "De sintesis, porque dos sustancias se unen para formar una sola",
+          "is_correct": false,
+          "feedback": "En una sintesis se combina una o varias sustancias para dar un unico producto. En este caso hay dos reactivos y ademas un producto solido separado del liquido, que es la marca del precipitado."
+        },
+        {
+          "letter": "D",
+          "text": "De desplazamiento simple, porque un elemento libera a otro de su compuesto",
+          "is_correct": false,
+          "feedback": "En un desplazamiento simple participa un elemento libre y una sal. Lo caracteristico del caso es la aparicion de un solido insoluble, y no el intercambio de un metal por otro."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una reaccion de doble desplazamiento, dos sales intercambian sus iones y forman un producto insoluble. Ese solido se separa del liquido por decantacion o filtrado, y es la senal de que la reaccion ocurrio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v19",
+      "statement": "¿Qué indica que un producto de limpieza sea una base, y no un acido?",
+      "context": "Mateo lee la etiqueta de un producto doméstico en la clase de química de San Miguel.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Que se disuelve bien en agua y tiene un pH mayor que 7",
+          "is_correct": true,
+          "feedback": "Correcto. Una base tiene pH superior a 7 y se disuelve en agua formando iones hidroxilo. Esa combinacion es la que caracteriza a un producto de limpieza alcalino."
+        },
+        {
+          "letter": "A",
+          "text": "Que produce burbujas al mezclarlo con vinagre",
+          "is_correct": false,
+          "feedback": "Esa efervescencia es propia de una base al reaccionar con un acido. Es una prueba de neutralizacion, y por si sola no determina si el producto original es acido o basico."
+        },
+        {
+          "letter": "C",
+          "text": "Que se seca rapidamente al aplicarlo sobre una superficie",
+          "is_correct": false,
+          "feedback": "La velocidad de secado es una propiedad del formato comercial, y no una caracteristica quimica. Para clasificar un producto hay que medir su pH, y no observar cuanto se seca."
+        },
+        {
+          "letter": "D",
+          "text": "Que tiene un olor fuerte y penetrante",
+          "is_correct": false,
+          "feedback": "El olor no es un criterio fiable de clasificacion, y ademas muchos productos basicos son inodoros. Lo que define a una base es su capacidad para aceptar protones y ceder iones hidroxilo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una base se caracteriza por aceptar protones y por producir iones hidroxilo en agua, lo que da un pH mayor que 7. Esa propiedad alcalina es lo que explica su capacidad para disolver grasa y limpiar.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,132 +863,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
-        },
-        {
-          "letter": "D",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando reacciones quimicas.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
-        },
-        {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
-        },
-        {
-          "letter": "B",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
-      "periodo": 22,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando reacciones quimicas.",
+      "statement": "Si una reacción libera un gas que enturbia el agua de cal, ¿qué gas se ha producido?",
+      "context": "Andrés anota en su cuaderno los resultados de una reacción entre dos soluciones en la clase de química de La Libertad.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
+          "letter": "C",
+          "text": "Dioxido de carbono, que forma un precipitado blanco en el agua de cal",
           "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
+          "feedback": "Correcto. El agua de cal es una disolucion de hidróxido de calcio y se enturbia al recibir dioxido de carbono. Ese enturbiamiento blanco es la prueba clasica de la presencia de ese gas."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Oxigeno, que se disuelve mal y forma espuma en la superficie",
           "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
+          "feedback": "El oxigeno no enturbia el agua de cal. Ademas, esta prueba identifica al dioxido de carbono, y no al oxigeno, que se comporta de otra manera al contacto con la disolucion."
         },
         {
-          "letter": "C",
-          "text": "La molécula",
+          "letter": "B",
+          "text": "Hidrogeno, que reduce el calcio a metal en el fondo",
           "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
+          "feedback": "El hidrogeno no reduce el calcio de esa disolucion. La turbidez se debe a un compuesto de calcio que se forma, y no a un metal depositado en el recipiente."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Amoníaco, que se disuelve y vuelve la disolucion opaca",
           "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
+          "feedback": "El amoníaco es muy soluble en agua y produce una disolucion clara. La opacidad que se observa en el agua de cal se relaciona con el dioxido de carbono, y no con gases nitrogenados."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "C",
+      "explanation": "El agua de cal detecta el dioxido de carbono porque este forma carbonato de calcio, insoluble, que enturbia la disolucion. Esa es la prueba habitual para identificar ese gas en el laboratorio.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W22-reacciones-quimicas-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿En qué fecha se firmó el Acuerdo de Chapultepec?",
+      "context": "Una exposición conmemorativa ubica la firma del acuerdo final de paz salvadoreño en México.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "El 16 de enero de 1992.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa fecha corresponde a la firma del acuerdo final entre el Gobierno salvadoreño y el FMLN."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "El 15 de septiembre de 1821.",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Incorrecto. Esa fecha corresponde a la independencia centroamericana y no al acuerdo de paz."
+        },
+        {
+          "letter": "C",
+          "text": "El 22 de enero de 1932.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enero de 1932 pertenece al contexto del levantamiento y la represión durante Martínez."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El 2 de mayo de 1944.",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Incorrecto. Mayo de 1944 se relaciona con la huelga contra Martínez, no con Chapultepec."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La firma del 16 de enero de 1992 culminó una negociación para terminar el conflicto armado; debe distinguirse de la aplicación posterior de los compromisos acordados.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "statement": "¿Quiénes fueron las dos partes principales del acuerdo salvadoreño?",
+      "context": "Un acta de negociación identifica a las partes que asumieron compromisos en Chapultepec.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Los gobiernos de México y Guatemala como adversarios militares.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "Incorrecto. México fue sede de la firma, pero esos gobiernos no fueron las partes del conflicto salvadoreño."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "El Gobierno de El Salvador y el Frente Farabundo Martí para la Liberación Nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. El Gobierno y el FMLN negociaron los compromisos para terminar su enfrentamiento armado."
+        },
+        {
+          "letter": "C",
+          "text": "La ONU y una asociación de exportadores de café.",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Incorrecto. La ONU facilitó el proceso, mientras las partes enfrentadas eran el Gobierno y el FMLN."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Dos alcaldías que disputaban una frontera municipal.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Incorrecto. El acuerdo abordó un conflicto armado nacional, no una disputa entre municipios."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "Identificar a las partes distingue a quienes asumieron obligaciones de los mediadores y anfitriones; la negociación vinculó al Gobierno salvadoreño y al FMLN.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "statement": "¿En qué país se celebró esa ceremonia de enero de 1992?",
+      "context": "Un mapa señala el castillo de Chapultepec como lugar de la ceremonia de firma.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Honduras.",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Incorrecto. Aunque Honduras es vecino de El Salvador, no alberga el castillo de Chapultepec."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Costa Rica.",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Incorrecto. Costa Rica participó en el contexto regional de paz, pero la ceremonia indicada ocurrió en México."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "México.",
+          "is_correct": true,
+          "feedback": "Correcto. El castillo de Chapultepec está en la Ciudad de México, sede de la firma del acuerdo."
+        },
+        {
+          "letter": "D",
+          "text": "España.",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Incorrecto. España no es la ubicación del castillo mexicano donde se firmó el acuerdo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "C",
+      "explanation": "La ubicación de la firma refleja el apoyo internacional al proceso, pero no cambia el carácter salvadoreño del conflicto ni las obligaciones de sus partes.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -144,37 +144,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿Qué función cumplió la ONU en las negociaciones salvadoreñas?",
+      "context": "Un resumen del proceso de paz menciona la mediación del secretario general de las Naciones Unidas.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Sustituir permanentemente al Gobierno con una administración extranjera.",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Incorrecto. El proceso no convirtió a El Salvador en un territorio administrado permanentemente por la ONU."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Elegir por su cuenta a todos los candidatos nacionales.",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Incorrecto. La mediación no otorgó a la ONU la selección de candidaturas salvadoreñas."
+        },
+        {
+          "letter": "C",
+          "text": "Incorporar al FMLN como ejército propio de las Naciones Unidas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los compromisos contemplaban desmovilización y participación civil, no ese traslado militar."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "text": "Facilitar el diálogo y apoyar la verificación de los compromisos.",
+          "is_correct": true,
+          "feedback": "Correcto. La mediación y la verificación ayudaron a construir confianza y comprobar avances entre las partes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "Un mediador facilita acuerdos entre actores enfrentados sin convertirse en una de las partes; la verificación permite evaluar compromisos mediante observación e información contrastada.",
       "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v5",
+      "statement": "¿Qué significa un cese del fuego dentro del proceso de paz?",
+      "context": "Una clase lee disposiciones sobre el fin de operaciones militares entre las partes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El compromiso de suspender las hostilidades armadas entre las partes enfrentadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Suspender hostilidades reduce la confrontación militar y permite avanzar en otros compromisos."
+        },
+        {
+          "letter": "B",
+          "text": "La solución inmediata de toda desigualdad económica.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detener combates no redistribuye automáticamente recursos ni elimina la pobreza."
+        },
+        {
+          "letter": "C",
+          "text": "La prohibición de debatir propuestas políticas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proceso buscaba abrir vías políticas, no suprimir el debate civil."
+        },
+        {
+          "letter": "D",
+          "text": "El reemplazo de todo proceso judicial por órdenes militares.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa sustitución contradice las reformas orientadas a fortalecer instituciones civiles."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El cese del fuego es una medida militar indispensable, pero la construcción de paz también requiere reformas institucionales, reinserción y atención a problemas sociales.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -188,86 +233,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
-          "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
-        },
-        {
-          "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
-        },
-        {
-          "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "statement": "¿Qué rasgo define la Policía Nacional Civil creada en el proceso de paz?",
+      "context": "Un cuadro compara los antiguos cuerpos de seguridad con la policía prevista por los acuerdos.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "Su integración obligatoria como batallón del Ejército.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Integrarla al Ejército contradice la separación entre defensa militar y seguridad pública."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Su carácter civil y su separación institucional de la Fuerza Armada.",
+          "is_correct": true,
+          "feedback": "Correcto. La nueva policía debía depender de autoridades civiles y ser independiente de la Fuerza Armada."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Su subordinación a una sola organización partidaria.",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Incorrecto. Una policía estatal debe servir a la población y no actuar como fuerza de un partido."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Su misión exclusiva de controlar exportaciones agrícolas.",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Incorrecto. La seguridad pública abarca protección de personas y orden legal, no solo exportaciones."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La creación de una policía civil buscó transformar la seguridad pública mediante una nueva organización, formación y doctrina, separadas de la estructura militar.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿Qué cambio responde al propósito de limitar la intervención militar en la política?",
+      "context": "Una ficha de lectura describe la nueva doctrina militar acordada para El Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
+          "letter": "A",
+          "text": "Permitir que los mandos militares escojan al presidente sin elecciones.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa facultad reforzaría el poder político militar en lugar de limitarlo."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "letter": "B",
+          "text": "Convertir cada partido en una unidad de combate.",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "Incorrecto. Militarizar partidos impediría sustituir la confrontación armada por competencia política civil."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "text": "Subordinar la Fuerza Armada a las autoridades civiles y excluirla de decisiones partidarias.",
+          "is_correct": true,
+          "feedback": "Correcto. El carácter instrumental de la Fuerza Armada implica que no debe decidir el rumbo político del país."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Dar al Ejército control exclusivo de la administración electoral.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Incorrecto. El control militar exclusivo de elecciones contradice la separación de funciones buscada."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Las reformas militares pretendían redefinir la función de la Fuerza Armada dentro de un orden civil; su papel institucional no debía convertirse en poder de decisión partidaria.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "statement": "¿Qué institución fue creada para defender y promover los derechos humanos en ese proceso?",
+      "context": "Una comunidad busca identificar la institución de derechos humanos vinculada a las reformas de paz.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Una compañía privada dedicada a vender armamento.",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Incorrecto. Una empresa comercial no posee el mandato público de defensa de derechos humanos."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Una junta encargada únicamente de fijar precios del café.",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Incorrecto. Regular precios agrícolas no equivale a proteger derechos frente a actuaciones estatales."
+        },
+        {
+          "letter": "C",
+          "text": "Una oficina militar para elegir candidaturas partidarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa tarea no corresponde a la defensa de derechos y contradice el carácter civil de las reformas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "text": "La Procuraduría para la Defensa de los Derechos Humanos.",
+          "is_correct": true,
+          "feedback": "Correcto. La Procuraduría recibió un mandato específico de protección y promoción de derechos humanos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "La protección institucional de derechos formó parte de la transformación acordada; su existencia debía acompañarse de capacidad real para investigar y promover garantías.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "statement": "¿Cuál era la finalidad principal de esa comisión?",
+      "context": "Una biblioteca conserva el informe de la Comisión de la Verdad sobre la violencia del conflicto.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "Investigar graves hechos de violencia y formular recomendaciones.",
           "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "feedback": "Correcto. La comisión buscó esclarecer hechos graves y recomendar medidas frente a sus causas y consecuencias."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Dictar automáticamente condenas penales como tribunal ordinario.",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Incorrecto. Una comisión de esclarecimiento no sustituye por sí misma a los tribunales penales."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Organizar campañas comerciales para atraer turistas.",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Incorrecto. La promoción turística no era el mandato de investigación de violencia."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Reescribir el acuerdo para devolver a las partes al combate.",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Incorrecto. El esclarecimiento estaba orientado a la paz y no al reinicio de hostilidades."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "Una comisión de verdad documenta violaciones y contribuye al reconocimiento público; sus hallazgos y recomendaciones deben distinguirse de las funciones judiciales de juzgar y condenar.",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "statement": "¿Qué transformación expresa ese paso a la competencia electoral?",
+      "context": "Un registro electoral muestra la participación del FMLN como partido después del conflicto.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "La obligación de ganar cada elección por disposición del acuerdo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación electoral no garantizaba victorias y debía someterse a la decisión de los votantes."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "letter": "B",
+          "text": "La sustitución de la organización insurgente armada por participación política institucional.",
+          "is_correct": true,
+          "feedback": "Correcto. El paso a partido abrió una vía civil para disputar representación mediante elecciones."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La desaparición de toda diferencia ideológica entre los partidos.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Incorrecto. La competencia democrática permite diferencias ideológicas dentro de reglas comunes."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El derecho permanente a mantener combates durante las campañas.",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Incorrecto. La desmovilización buscaba abandonar la lucha armada como medio de competencia política."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La incorporación del FMLN a la política institucional cambió los medios de disputa del poder; aceptar elecciones no exige eliminar diferencias, sino canalizarlas mediante reglas civiles.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -459,81 +459,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando acuerdos paz.",
+      "statement": "¿Qué acción favorece su reinserción sostenible en la vida civil?",
+      "context": "En Morazán se discuten necesidades de personas que dejaron las armas tras el acuerdo.",
       "options": [
         {
-          "letter": "B",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "letter": "A",
+          "text": "Entregar un certificado sin atender empleo ni vivienda.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un documento aislado no resuelve las necesidades materiales y sociales de la reinserción."
         },
         {
-          "letter": "A",
-          "text": "Una ley ordinaria",
+          "letter": "B",
+          "text": "Exigir que toda persona desmovilizada vuelva a una unidad armada.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "Incorrecto. Regresar al combate contradice el objetivo de incorporación a la vida civil."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
-      "periodo": 13,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
+          "text": "Combinar formación laboral, acceso a medios de vida y apoyo comunitario.",
           "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
-        },
-        {
-          "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Correcto. La reinserción necesita oportunidades económicas y vínculos sociales para sostener la vida fuera del combate."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Impedir a sus familias participar en actividades comunitarias.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Incorrecto. La exclusión familiar debilita los vínculos sociales necesarios para la reintegración."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Desmovilizar significa dejar la estructura armada; reintegrarse exige además condiciones de subsistencia, reconocimiento y participación que reduzcan el riesgo de nuevas exclusiones.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,42 +503,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v12",
+      "statement": "¿Qué problema buscaban atender esas medidas dentro de la reconstrucción posbélica?",
+      "context": "Una cooperativa analiza por qué el proceso de paz incluyó medidas sobre tenencia de la tierra.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "La necesidad de cambiar la ubicación geográfica de El Salvador.",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Incorrecto. La tenencia de la tierra trata de acceso y propiedad, no de mover el territorio nacional."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La eliminación de toda actividad productiva en el campo.",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Incorrecto. El acceso a tierra pretendía favorecer medios de vida, no suprimir la producción rural."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La sustitución de la agricultura por votaciones militares.",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Incorrecto. Las medidas agrarias no consistían en trasladar la producción a mecanismos de decisión militar."
+        },
+        {
+          "letter": "D",
+          "text": "El acceso a tierra y medios de subsistencia de poblaciones vinculadas al conflicto.",
+          "is_correct": true,
+          "feedback": "Correcto. Las medidas agrarias atendían condiciones materiales relevantes para la reinserción y la estabilidad rural."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "La paz requiere atender condiciones de vida además de detener combates; las medidas sobre tierra vincularon reconstrucción económica, reinserción y problemas agrarios acumulados.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -593,41 +548,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v13",
+      "statement": "¿Qué actividad corresponde a la función de ONUSAL?",
+      "context": "Un informe identifica a ONUSAL entre los mecanismos internacionales del proceso salvadoreño.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "Observar y verificar el cumplimiento de acuerdos entre las partes.",
           "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "feedback": "Correcto. ONUSAL fue una misión de observación de Naciones Unidas encargada de verificar compromisos del proceso."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Repartir cargos electorales según su preferencia política.",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Incorrecto. La verificación no autoriza a asignar cargos en lugar de los procedimientos electorales."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Explotar minas como empresa extranjera con fines comerciales.",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Incorrecto. La misión tenía un mandato de paz y observación, no de explotación económica."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Declarar una guerra regional contra los países vecinos.",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Incorrecto. Su mandato buscaba verificar la paz salvadoreña y no iniciar hostilidades regionales."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La observación internacional aporta información sobre el cumplimiento y ayuda a reducir desconfianza; no reemplaza las responsabilidades de las partes ni las instituciones del país.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -638,42 +593,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando acuerdos paz.",
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v14",
+      "statement": "¿Para qué se estableció la Comisión Nacional para la Consolidación de la Paz?",
+      "context": "Un documento menciona a COPAZ como mecanismo nacional de seguimiento del proceso.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "text": "Sustituir al país por una provincia mexicana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Celebrar la firma en México no alteró la soberanía ni creó esa función para COPAZ."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "text": "Supervisar la ejecución de los acuerdos políticos mediante participación nacional.",
+          "is_correct": true,
+          "feedback": "Correcto. COPAZ fue un mecanismo nacional destinado a vigilar la aplicación de compromisos políticos."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Mantener secreta toda reforma acordada.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Incorrecto. El seguimiento requiere conocer compromisos y avances, no ocultarlos sistemáticamente."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Autorizar el retorno obligatorio de los desmovilizados al frente de guerra.",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Incorrecto. Ese retorno contradiría el fin de hostilidades y la consolidación de la paz."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La aplicación necesita mecanismos de seguimiento nacionales e internacionales; COPAZ permitió observar compromisos políticos sin confundir esa función con el mandato de ONUSAL.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v15",
+      "statement": "¿Qué distinción corrige mejor esa interpretación?",
+      "context": "Un cronista presenta la firma de 1992 como si todos los compromisos se hubieran ejecutado ese mismo día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La firma y la ejecución son siempre acontecimientos idénticos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Crear instituciones o reintegrar personas requiere procesos que exceden la ceremonia de firma."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguna obligación escrita puede llegar a cumplirse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los compromisos escritos pueden ejecutarse mediante decisiones y mecanismos concretos."
+        },
+        {
+          "letter": "C",
+          "text": "Firmar establece obligaciones; implementarlas requiere acciones, recursos y seguimiento posteriores.",
+          "is_correct": true,
+          "feedback": "Correcto. La aceptación formal del acuerdo inicia compromisos que necesitan ejecución verificable a lo largo del tiempo."
+        },
+        {
+          "letter": "D",
+          "text": "Toda demora demuestra que nunca existió una negociación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un retraso de aplicación no borra la existencia del proceso negociador ni del documento firmado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Diferenciar acuerdo e implementación evita evaluar la paz solo por una ceremonia; el cumplimiento debe examinarse mediante acciones, plazos, recursos y resultados documentados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿Qué evidencia adicional permitiría evaluar una transformación efectiva de la policía?",
+      "context": "Una alcaldía propone medir la reforma policial contando solamente uniformes entregados.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "El brillo de las insignias utilizadas en desfiles.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La apariencia de insignias no demuestra respeto de derechos ni controles efectivos."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "La cantidad de fotografías promocionales del nuevo uniforme.",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "Incorrecto. La publicidad no prueba cambios institucionales ni prácticas de actuación."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El tamaño del edificio sin revisar sus procedimientos internos.",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Incorrecto. La infraestructura física no permite por sí sola evaluar mando, formación o responsabilidad."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "text": "Formación en derechos humanos, mando civil y controles sobre abusos.",
+          "is_correct": true,
+          "feedback": "Correcto. Esos indicadores examinan doctrina, subordinación y conducta, dimensiones sustantivas de la reforma."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "D",
+      "explanation": "Una reforma institucional necesita cambios de prácticas y reglas además de símbolos; evaluar la nueva policía requiere observar formación, autoridad civil y mecanismos de responsabilidad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando acuerdos paz.",
+      "statement": "¿Qué respuesta distingue correctamente los resultados que deben evaluarse?",
+      "context": "Una estudiante sostiene que la persistencia de pobreza demuestra que Chapultepec no terminó el conflicto armado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "text": "El fin de la guerra y la solución de desigualdades son dimensiones relacionadas pero diferentes.",
+          "is_correct": true,
+          "feedback": "Correcto. Puede cesar el enfrentamiento armado mientras persisten problemas económicos que requieren políticas adicionales."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La pobreza demuestra necesariamente que siguen combatiendo las mismas partes.",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Incorrecto. La carencia económica no prueba por sí sola continuidad de hostilidades entre antiguos adversarios."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Terminar una guerra elimina de inmediato toda necesidad social.",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Incorrecto. La reconstrucción social y económica exige tiempo y decisiones posteriores al cese de combates."
+        },
+        {
+          "letter": "D",
+          "text": "Los problemas económicos carecen de relación con la sostenibilidad de la paz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusión puede afectar la estabilidad aunque no equivalga directamente a guerra."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "A",
+      "explanation": "Un balance distingue logros y tareas pendientes: terminar el conflicto fue un resultado decisivo, pero no implicó resolver automáticamente desigualdad, pobreza o todas las formas de violencia.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿Por qué fortalecer la independencia judicial favorece la aplicación de esos compromisos?",
+      "context": "Una mesa de análisis revisa los compromisos de reforma judicial incluidos en el proceso de paz.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
+          "text": "Porque obliga a que todos los fallos beneficien al Gobierno.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Favorecer siempre al Ejecutivo indica subordinación, no independencia judicial."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "text": "Porque permite revisar actuaciones del poder sin depender de las partes enfrentadas.",
+          "is_correct": true,
+          "feedback": "Correcto. Jueces independientes pueden examinar abusos y derechos con menor subordinación a intereses políticos o militares."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque evita que las víctimas puedan presentar reclamaciones.",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Incorrecto. Bloquear reclamaciones impide acceso a justicia y debilita las garantías buscadas."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque convierte la prueba judicial en una preferencia partidaria.",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Incorrecto. La decisión judicial debe apoyarse en normas y pruebas, no en afinidades de partido."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "B",
+      "explanation": "La independencia judicial ayuda a limitar arbitrariedades y sostener derechos; en un proceso de paz resulta clave para que las garantías no dependan solo de la voluntad de antiguos adversarios.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando acuerdos paz.",
+      "statement": "¿Qué método ofrece la evaluación más defendible de los compromisos?",
+      "context": "Una comisión ciudadana debe valorar el cumplimiento de paz a partir de anuncios y registros contradictorios.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Dar por cumplido todo lo anunciado en un discurso.",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Incorrecto. Un anuncio expresa una intención y necesita evidencia de ejecución para demostrar cumplimiento."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Concluir incumplimiento total por un único retraso aislado.",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Incorrecto. Un retraso debe analizarse sin borrar avances documentados en otras obligaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar cada obligación con evidencias de ejecución y señalar avances, retrasos y límites.",
+          "is_correct": true,
+          "feedback": "Correcto. Vincular obligaciones y pruebas permite identificar cumplimiento parcial o total sin depender solo de declaraciones."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Evaluar únicamente la popularidad de los negociadores.",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Incorrecto. La popularidad no muestra si se crearon instituciones o se ejecutaron compromisos específicos."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Evaluar acuerdos exige criterios explícitos y evidencia por obligación; reconocer avances junto con límites permite un juicio más preciso que aceptar anuncios o generalizar desde un solo problema.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando acuerdos paz.",
+      "statement": "¿Qué propuesta conecta mejor el legado de Chapultepec con garantías de no repetición?",
+      "context": "Un foro en San Salvador elige recomendaciones para evitar la repetición de violencia política.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Conservar el cese del fuego mientras se elimina toda fiscalización del poder.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin controles, pueden persistir abusos que debilitan las garantías y la confianza institucional."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Sustituir el diálogo por la persecución de cualquier crítica.",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Incorrecto. Perseguir el disenso cierra vías civiles y reproduce prácticas autoritarias."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Declarar que recordar a las víctimas impide necesariamente la paz.",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Incorrecto. Reconocer a las víctimas puede contribuir a la verdad y a prevenir la repetición de abusos."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "text": "Mantener control civil, proteger derechos y resolver disputas mediante instituciones abiertas.",
+          "is_correct": true,
+          "feedback": "Correcto. Esa combinación limita abusos y ofrece vías políticas para tramitar conflictos sin recurrir a armas."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El legado de los acuerdos incluye transformar formas de ejercer y disputar el poder; la no repetición requiere derechos, controles y canales institucionales además de ausencia de combates.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle",
       "periodo": 13,
       "protocol_version": "5.2",

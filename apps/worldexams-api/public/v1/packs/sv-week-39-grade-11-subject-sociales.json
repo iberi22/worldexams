@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una constitucion democratica reconoce la dignidad de todas las personas y garantiza derechos civiles, politicos, sociales y culturales, no solo una facultad economica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando un pais exporta mas de lo que importa, obtiene un superavit comercial, porque los ingresos por ventas al exterior superan a los gastos por compras.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Que elementos forman parte de la identidad cultural de una comunidad",
+      "context": "Un grupo del Colegio Nacional de San Miguel identifica los componentes que forman la identidad cultural de un pueblo.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "text": "Las costumbres, el idioma, las creencias y la memoria compartida",
+          "is_correct": true,
+          "feedback": "La identidad cultural se construye con las practicas cotidianas, la lengua, las creencias y los recuerdos que una comunidad transmite."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "El clima, la latitud y la altitud del terreno",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El clima y el relieve condicionan la vida material, pero no constituyen por si mismos la identidad cultural de una comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "El presupuesto fiscal y la moneda que se utiliza",
+          "is_correct": false,
+          "feedback": "La economia y la moneda son datos materiales, y no forman el conjunto de practicas y creencias que define la identidad cultural."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El numero de habitantes y el tamano del territorio",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "Los datos demograficos y geograficos son cuantificables, de modo que no corresponden a la identidad cultural de una comunidad."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La identidad cultural de una comunidad la forman sus costumbres, su idioma, sus creencias y la memoria que comparte.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Como se transmite principalmente la identidad cultural de una generacion a otra",
+      "context": "Estudiantes de Santa Tecla analizan como se transmite la identidad cultural entre generaciones.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Solo por los libros de historia nacional",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Los libros de historia conservan parte del pasado, pero la transmision principal ocurre en la vida cotidiana y no solo en los libros."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Por la familia, la escuela y las practicas cotidianas",
+          "is_correct": true,
+          "feedback": "La familia y la escuela transmiten las costumbres y los valores de modo que esas son las vias principales de esa transmision."
+        },
+        {
+          "letter": "C",
+          "text": "Unicamente por los medios de comunicacion",
           "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "feedback": "Los medios difunden referencias culturales, aunque no sustituyen a la familia ni a la escuela como vias principales."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Por el comercio internacional de productos culturales",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "El comercio permite conocer otras culturas, de modo que no es el canal principal por el que una generacion hereda la suya."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "B",
+      "explanation": "La identidad cultural se transmite principalmente por la familia, la escuela y las practicas cotidianas compartidas entre generaciones.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "Que valor cultural tienen los objetos de uso cotidiano que conserva un museo",
+      "context": "Un museo comunitario de Sonsonate exhibe objetos y los estudiantes los leen como testimonio cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Aumentan el valor economico de la institution que los expone",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "El valor de un objeto de museo es testimonial y documental, y no un beneficio economico para la institution que lo expone."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Sustituyen la escritura como fuente de informacion",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Los objetos son fuentes de informacion que se suman a los documentos escritos, y no los reemplazan."
+        },
+        {
+          "letter": "C",
+          "text": "Registran como vivia y que practicaba la gente de su comunidad",
+          "is_correct": true,
+          "feedback": "Un objeto cotidiano conserva el testimonio de las practicas y la vida diaria, y por eso aporta informacion sobre la cultura que lo produjo."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Demuestran que todas las culturas son iguales entre si",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Un objeto muestra las practicas propias de una cultura, de modo que no demuestra que todas las culturas sean identicas."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Los objetos de uso cotidiano registran como vivia y que practicaba la gente de la comunidad que los produjo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
+      "statement": "Una persona nacida en San Salvador con familia de origen indigenista. Que identidades puede sentir",
+      "context": "El profesor de Ahuachapan explica por que una persona puede sentir varias identidades a la vez.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Solo la identidad del pais donde nacio",
           "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "feedback": "La identidad no depende solo del lugar de nacimiento porque el origen familiar y las raíces culturales también la componen."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Solo la identidad de la comunidad de sus Raíces indigenistas",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Una persona no queda reducida a una sola raíz, de modo que negar la identidad del pais donde nacio seria tambien erroneo."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "Ninguna, porque no puede haber identidades simultaneas",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Lo habitual es precisamente lo contrario, porque las personas viven en variasoan cultural es y asumen varias identidades a la vez."
+        },
+        {
+          "letter": "D",
+          "text": "Puede sentir a la vez la identidad salvadoreña y la de sus raíces indigenistas",
+          "is_correct": true,
+          "feedback": "El lugar de nacimiento y el origen familiar son dos componentes de la identidad, y una persona puede Recognizarlos ambos a la vez."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Puede sentir a la vez la identidad salvadoreña y la de sus raíces indigenistas, porque ambas forman parte de su identidad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Por que la lengua se considera un componente central de la identidad cultural",
+      "context": "Una clase del Colegio Nacional de La Libertad discute el papel de la lengua en la identidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "text": "Porque transmite la memoria y las formas de ver el mundo de una comunidad",
+          "is_correct": true,
+          "feedback": "La lengua conserva la memoria colectiva y las categorias con las que una comunidad piensa, de modo que sostiene su identidad."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque es el unico elemento que compone una cultura",
           "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "feedback": "La lengua es un componente central, pero no el unico, porque tambien influyen las costumbres, las Beliefs y la memoria."
+        },
+        {
+          "letter": "C",
+          "text": "Porque todas las lenguas del mundo tienen el mismo significado",
+          "is_correct": false,
+          "feedback": "Cada lengua tiene sus propias formas de expresion, y es esa variedad la que refleja la identidad cultural de cada comunidad."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque sustituye a las costumbres y a las creencias de un pueblo",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "La lengua convive con las costumbres y las creencias, de modo que no las sustituye en el conjunto de una identidad cultural."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "La lengua sostiene la identidad cultural porque transmite la memoria colectiva y las formas de ver el mundo de una comunidad.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando identidad cultural sv.",
+      "statement": "Que efecto puede tener la globalizacion en las culturas locales",
+      "context": "Un foro del Colegio Nacional de Chalatenango examina como la globalizacion afecta a las culturas locales.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
+          "text": "Elimina por completo las culturas locales",
+          "is_correct": false,
+          "feedback": "La globalizacion no borra las culturas locales, de modo que ese efecto total del que se habla no se produce."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
+          "text": "Puede difundir nuevas prácticas y a la vez afirmar las formas tradicionales",
+          "is_correct": true,
+          "feedback": "La circulacion mundial de productos e ideas puede enriquecer una cultura local, pero tambien_logic homogenizar sus practicas propias."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Impide que las personas dialoguen con otras culturas",
           "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
+          "feedback": "El intercambio entre culturas es justamente un efecto de la globalizacion, de modo que no impide el dialogo entre ellas."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Hace que todas las Practicas culturales sean iguales",
           "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
+          "feedback": "La globalización tiende a igualar algunas prácticas pero cada cultura conserva rasgos propios que responden a su historia y su territorio."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "La globalizacion puede enriquecer las culturas locales con nuevas Practicas y, al mismo tiempo, tiende a reducir la diversidad de sus formas propias.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Que es el patrimonio cultural de un pais",
+      "context": "El profesor de Chalchuapa introduce el concepto de patrimonio cultural.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
+          "text": "El conjunto de edificios mas altos de una ciudad capital",
+          "is_correct": false,
+          "feedback": "Los edificios destacados son parte del patrimonio, pero no lo definen por si solos como conjunto."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "La lista de paises con los que un Estado tiene fronteras",
           "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
+          "feedback": "Las fronteras son un dato geografico y politico, y no constituyen patrimonio cultural de ningun modo."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
+          "text": "El conjunto de bienes, practicas y expresiones que una comunidad hereda y transmite",
+          "is_correct": true,
+          "feedback": "El patrimonio cultural abarca lo que una comunidad ha construido, hecho y creado a lo largo del tiempo y lo que sigue transmitiendo."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El comercio exterior que realiza un pais cada ano",
           "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
+          "feedback": "El comercio es una magnitud economica anual, y no tiene nada que ver con el conjunto de bienes heredados de una comunidad."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "El patrimonio cultural es el conjunto de bienes, practicas y expresiones que una comunidad hereda y transmite a las nuevas generaciones.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Que caracteriza a la convivencia de varias culturas en un mismo pais",
+      "context": "Un grupo del Colegio Nacional de Metapan analiza como conviven distintas culturas en un mismo territorio.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Que una sola cultura se impone sobre las demas",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "Cuando una cultura se impone sobre las otras desaparece el plural, de modo que eso describe reemplazo y no convivencia."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Que todas las Practicas se vuelven identicas en pocos años",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "La uniformidad completa de las practicas no es convivencia, sino la perdida de la diversidad cultural entre los grupos."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Que ninguna comunidad puede practicar sus propias traditions",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "La prohibicion de las practicas propias de un grupo elimina su derecho a existir culturalmente, lo cual no es convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que cada grupo conserva sus Practicas y_convive con las de los demas",
+          "is_correct": true,
+          "feedback": "La convivencia cultural admite que cada comunidad mantenga sus usos y convers CONVIVENCIATo con los de los otros grupos."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "La convivencia cultural significa que cada grupo conserva sus Practicas y a la vez convive con las de los demas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "statement": "Cual de estas practicas es un ejemplo de identidad cultural local",
+      "context": "En un ejercicio del Colegio Nacional de San Vicente se pide un ejemplo de identidad cultural local.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "text": "La celebracion de una fiesta tradicional del municipio con sus danzas y su comida tipica",
+          "is_correct": true,
+          "feedback": "Una fiesta propia del lugar, con danzas y cocina local, expresa la memoria y las Practicas compartidas de esa comunidad."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "El uso de una moneda de curso legal en todo el pais",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "La moneda es un instrumento economico compartido, y no una Practica que identifique a una comunidad concreta."
+        },
+        {
+          "letter": "C",
+          "text": "El calendario escolar nacional que define los periodos de vacaciones",
+          "is_correct": false,
+          "feedback": "El calendario escolar es una disposicion administrativa general, y no una expresion de la identidad de un grupo local."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La red de carreteras que conecta las ciudades del pais",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Las carreteras son infraestructura, de modo que no constituyen una Practica cultural que identifique a una comunidad."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "Una fiesta tradicional del municipio con sus danzas y su comida tipica es un ejemplo claro de identidad cultural local.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -639,127 +639,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Que cambio cultural se produce con la aculturacion",
+      "context": "Un foro escolar de Acajutla debate el concepto de aculturación.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Una comunidad desaparece por completo ante otra cultura",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La cultura no desaparece por completo al recibir elementos ajenos, de modo que eso describe una extincion y no una aculturacion."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "text": "Una comunidad adopta Practicas de otra cultura y las incorpora a las suyas",
+          "is_correct": true,
+          "feedback": "La aculturacion consiste en recibir elementos de otra cultura y combinarlos con los propios, hasta formar una cultura nueva."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "Una comunidad se aisla y descarta todo contacto exterior",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "El aislamiento es lo contrario de la aculturacion, que requiere precisamente contacto e intercambio con otra cultura."
+        },
+        {
+          "letter": "D",
+          "text": "Una comunidad conserva su cultura sin cambio alguno",
+          "is_correct": false,
+          "feedback": "Sin cambio alguno no hay aculturacion, porque ese proceso implica la adopcion de elementos de otra cultura."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "La aculturacion se produce cuando una comunidad adopta Practicas de otra cultura y las incorpora a las suyas propias.",
       "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando identidad cultural sv.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución es la norma suprema que establece la organización del Estado y los derechos de los ciudadanos."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "una ley ordinaria regula un aspecto concreto, pero no es la norma que estructura los poderes del Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "un decreto es la orden del presidente que aplica una ley; por sí solo no organiza al Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "un tratado obliga a dos o más países entre sí y no se ocupa de la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
-      "periodo": 39,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto: las fábricas concentraron el trabajo en las ciudades, lo que provocó una urbanización masiva y el surgimiento de nuevas clases sociales, como la burguesía industrial y el proletariado."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "ocurrió justo lo contrario: los trabajadores pasaron de los campos a las fábricas y la sociedad se hizo más urbana."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "ocurrió lo contrario: el comercio mundial creció con las materias primas y los productos industriales."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "el trabajo manual aumentó con las fábricas, las vías y las ciudades; no llegó a eliminarse."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,42 +683,132 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando identidad cultural sv.",
+      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v16",
+      "statement": "Que politica cultural protege mejor la identidad de una comunidad local",
+      "context": "Un seminario del Colegio Nacional de Usulutan debate que medidas protegen la identidad cultural.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto: la Constitución reconoce los derechos humanos fundamentales de todas las personas, como la vida, la igualdad y la libertad."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Prohibir que los jovenes participen en actividades culturales",
           "is_correct": false,
-          "feedback": "la propiedad es uno de los derechos, pero una Constitución democrática no se limita a protegerla."
+          "feedback": "La prohibicion de la participacion de los jovenes debilita la transmision cultural, porque son ellos quienes deben recibirla."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Reemplazar las Practicas locales por las de las ciudades",
           "is_correct": false,
-          "feedback": "los derechos políticos son solo una parte; también existen derechos civiles, sociales y económicos."
+          "feedback": "Sustituir las Practicas propias por otras elimina justamente lo que se pretendia proteger con la medida."
+        },
+        {
+          "letter": "C",
+          "text": "Reconocer y financiar sus prácticas sus festivales y sus espacios de transmisión",
+          "is_correct": true,
+          "feedback": "El reconocimiento oficial y el apoyo económico permiten que esas Practicas se mantengan vivas y se transmitan a las nuevas generaciones."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Impedir el acceso al patrimonio cultural a los visitantes",
           "is_correct": false,
-          "feedback": "los derechos son de las personas y limitan al poder, no son privilegio exclusivo del gobierno."
+          "feedback": "Restringir el acceso al patrimonio reduce su difusion y su aprecio, de modo que no es una politica de proteccion cultural."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Reconocer y financiar las prácticas los festivales y los espacios de transmisión es lo que permite mantener viva una identidad local.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v17",
+      "statement": "Como debe entenderse la identidad nacional de un pais con muchas culturas",
+      "context": "La clase de San Vicente examina la relacion entre identidad nacional y diversidad interna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Como una sola cultura que borra a las demas",
+          "is_correct": false,
+          "feedback": "Una identidad basada en una sola cultura excluye a los grupos que no la comparten, y por eso no puede ser la base de la unidad nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Como un conjunto que impone una práctica única a todos los ciudadanos",
+          "is_correct": false,
+          "feedback": "Imponer una sola Practicas a todos anula la libertad cultural de las comunidades, y esa no es la via para construir la unidad nacional."
+        },
+        {
+          "letter": "C",
+          "text": "Como algo que se hereda sin cambiar segun el territorio",
+          "is_correct": false,
+          "feedback": "La identidad nacional no es un bloque unico e inmutable, de modo que esa idea no permite entender a un pais pluricultural."
+        },
+        {
+          "letter": "D",
+          "text": "Como un conjunto que reconoce ydiagnosis incluye a todas las culturas del territorio",
+          "is_correct": true,
+          "feedback": "La identidad nacional se construye sobre el reconocimiento de la diversidad interna, de modo que ninguna cultura queda fuera de la comunidad comun."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La identidad nacional debe entenderse como un conjunto que reconoce e incluye a todas las culturas que viven en el territorio.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v18",
+      "statement": "Como influence la identidad cultural la forma de trabajar de una persona",
+      "context": "El profesor de San Salvador introduce el tema de la identidad en el mundo del trabajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Puede influir en como se comunica, negocia y respeta el tiempo en el trabajo",
+          "is_correct": true,
+          "feedback": "La cultura aporta referencias sobre comunicación puntualidad y negociación y esas referencias influyen en la relación laboral."
+        },
+        {
+          "letter": "B",
+          "text": "Impide que la persona trabaje con otras culturas",
+          "is_correct": false,
+          "feedback": "Una cultura no impide trabajar con gente de otras culturas, de modo que esa consecuencia del enunciado es incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que la persona cambie de occupation obligatoriamente",
+          "is_correct": false,
+          "feedback": "La cultura orienta la forma de relacionarse en el trabajo, de modo que no obliga a nadie a cambiar de ocupacion."
+        },
+        {
+          "letter": "D",
+          "text": "Garantiza que todas las relaciones laborales sean iguales",
+          "is_correct": false,
+          "feedback": "Las relaciones laborales no son iguales en todos los contextos, de modo que la cultura no garantiza esa uniformidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La identidad cultural influye en la forma de comunicarse, negociar y respetar el tiempo dentro del mundo del trabajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando identidad cultural sv.",
+      "statement": "Cual de estos bienes es patrimonio cultural de un pais",
+      "context": "En un ejercicio del Colegio Nacional de San Francisco Gotera se pide un ejemplo de patrimonio cultural de un pais.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto: si un país exporta más de lo que importa, la diferencia entre ambas cifras es un superávit comercial."
+          "text": "Una carretera construida el ano pasado",
+          "is_correct": false,
+          "feedback": "Una obra reciente es infraestructura actual, y no un bien cultural heredado de generaciones anteriores."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "el déficit aparece cuando las importaciones superan a las exportaciones, que es el caso contrario al del enunciado."
+          "text": "Una iglesia colonial conservada con su arquitectura original",
+          "is_correct": true,
+          "feedback": "Una iglesia colonial es un bien heredado que documenta la historia y la arquitectura de la sociedad que la construyo."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Un edificio de oficinas construido hace cinco anos",
           "is_correct": false,
-          "feedback": "la balanza solo está equilibrada cuando las exportaciones y las importaciones son iguales."
+          "feedback": "Un edificio reciente no tiene el valor de testimonio historico que caracteriza a un bien del patrimonio cultural."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Un vehiculo de transporte de carga del ano en curso",
           "is_correct": false,
-          "feedback": "un superávit describe un resultado favorable del comercio exterior, no una crisis."
+          "feedback": "Un vehiculo del ano en curso es un bien de uso actual, y no un elemento del patrimonio cultural."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "Una iglesia colonial conservada con su arquitectura original es patrimonio cultural, porque documenta una epoca y sus formas de construir.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando identidad cultural sv.",
+      "statement": "Que acciones permiten a una comunidad conservar su identidad cultural",
+      "context": "Un grupo de San Miguel debate como una comunidad puede conservar su identidad cultural.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto: el asesinato del Archiduque en Sarajevo en 1914 fue la chispa que inició la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Cambiar de Practicas para parecerse a otras comunidades",
+          "is_correct": false,
+          "feedback": "Renunciar a las Practicas propias debilita la identidad de esa comunidad, aunque la acerque a otras por fuera."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Dejar de hablar su lengua y usar solo la de otros grupos",
           "is_correct": false,
-          "feedback": "se firmó en 1919 para cerrar la guerra, de modo que fue una consecuencia y no una causa del conflicto."
+          "feedback": "La lengua es uno de los pilares de la identidad cultural y su abandono reduce esa identidad."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "se produjo en 1917, cuando la guerra ya había empezado, así que no pudo causarla."
+          "text": "Transmitir sus Practicas a las jovenes generaciones y proteger su patrimonio",
+          "is_correct": true,
+          "feedback": "La identidad se conserva cuando las nuevas generaciones aprenden las Practicas de la comunidad y cuando se protege lo que ella ha dejado."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Conservar el patrimonio pero dejar de transmitir las Practicas",
           "is_correct": false,
-          "feedback": "el avión fue un avance técnico de la época, no una causa política que provocara el conflicto armado."
+          "feedback": "Conservar objetos sin transmitir las prácticas a los jóvenes deja el patrimonio sin uso ni continuidad viva."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Transmitir las Practicas a las jovenes generaciones y proteger el patrimonio es lo que permite conservar la identidad de una comunidad.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W39-identidad-cultural-sv-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

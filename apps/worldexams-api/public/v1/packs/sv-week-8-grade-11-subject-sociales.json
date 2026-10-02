@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando federal ca.",
+      "statement": "¿Qué idea sostiene el régimen federal: que el poder se reparte entre Estados?",
+      "context": "La clase examina el principio que sostiene el federalismo centroamericano.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Sí, el poder se reparte entre Estados que conservan su autonomía",
+          "is_correct": true,
+          "feedback": "Correcto. El federalismo reconoce la personalidad propia de cada Estado y reparte el poder con él."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "No, el poder se concentra en una sola capital",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Esa es la propuesta unitaria, que es justamente lo contrario del régimen federal."
+        },
+        {
+          "letter": "C",
+          "text": "Sí, pero cada Estado queda sin ninguna competencia propia",
+          "is_correct": false,
+          "feedback": "Un Estado federal conserva competencias propias en asuntos internos, por eso no puede quedar vacio de poder."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "No, porque la soberanía pertenece únicamente al gobierno central",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "En un régimen federal la soberanía sigue siendo una sola, pero su ejercicio se reparte entre los Estados."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "El federalismo Centroamericano se sostenía en la idea de que el poder se reparte entre Estados soberanos en su esfera, cada uno con su propia personalidad jurídica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando federal ca.",
+      "statement": "¿Cuál era la diferencia entre el federalismo y el unitarismo en Centroamerica?",
+      "context": "Un investigador compara las dos opciones de organización del Estado.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
+          "letter": "A",
+          "text": "El federalismo concentraba el poder y el unitarismo lo repartía",
+          "is_correct": false,
+          "feedback": "Está al revés: el federalismo repartía y el unitarismo concentraba la autoridad."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "letter": "B",
+          "text": "El federalismo repartía el poder y el unitarismo lo concentraba en la capital",
+          "is_correct": true,
+          "feedback": "Correcto. El federalismo distribuía la autoridad entre Estados y el unitarismo la reunía en un gobierno central."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "Ambos repartían el poder de manera idéntica",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "No eran idénticos, porque uno distribuía la autoridad y el otro la reunía en un solo centro."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "El unitarismo defendía la autonomía de cada Estado",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "La autonomía de los Estados era el principio federal, no el unitarista."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "La diferencia central era el reparto del poder: el federalismo lo distribuía entre los Estados y el unitarismo lo concentraba en un gobierno con sede en la capital.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -99,81 +99,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando federal ca.",
+      "statement": "¿Qué documento dio forma al gobierno federal de Centroamerica en 1824?",
+      "context": "El archivo guarda el texto de la ley que organizo el Estado.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El Código penal de Guatemala",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "El Código penal regulaba las conductas individuales y no organizaba los poderes del Estado."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El Tratado de Guadalupe Hidalgo",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Ese tratado cerró la guerra con México en 1848, casi un cuarto de siglo después."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "text": "La Constitucion federal de 1824",
           "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
-        },
-        {
-          "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Correcto. Ese texto creó los tres poderes y el régimen federal de la República."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "La Constitución de El Salvador de 1889",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Esa Constitución es salvadoreña y pertenece a un momento muy posterior del siglo XIX."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "La Constitución federal de 1824 fue el texto que dio forma al gobierno federal de Centroamérica, organizando sus poderes Ejecutivo, Legislativo y Judicial.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,42 +143,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando federal ca.",
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v4",
+      "statement": "¿Cómo se repartía el poder en la República Federal de Centroamerica?",
+      "context": "La clase compara los dos proyectos politicos de 1821 en cuanto a ladivision del poder.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Un solo poder ejecutivo que gobernaba sin contralores",
+          "is_correct": false,
+          "feedback": "La administración sin contralores es propia de un régimen autoritario, no del federal de 1824."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Dos poderes: el ejecutivo y el legislativo, sin judiciary propio",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "El texto federal de 1824 sí creó un poder judicial con su propia jerarquía."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Cuatro poderes, uno por cada uno de los Estados",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "La distribución por Estados era de competencias, no de poderes soberanos separados."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "text": "Tres poderes con separación de funciones en cada nivel",
+          "is_correct": true,
+          "feedback": "Correcto. La Constitución de 1824 organizó poderes federal, legislativo y judicial con competencias propias."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La República Federal de Centroamerica distribuyó el poder en tres ramas, con competencias federal, legislativa y judicial que operaban en dos niveles de gobierno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v5",
+      "statement": "¿Qué alcance territorial buscaba el proyecto federal de Morazan?",
+      "context": "Un museo compara la extensión de dos proyectos politicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La unión de los cinco Estados centroamericanos con gobierno propio",
+          "is_correct": true,
+          "feedback": "Correcto. El proyecto ambitaba reunir a los cinco Estados en una República con constitucion propia."
+        },
+        {
+          "letter": "B",
+          "text": "La unificación de América Central con el Brasil",
+          "is_correct": false,
+          "feedback": "Brasil nunca formó parte del proyecto de Morazan y no compartía la causa independentista."
+        },
+        {
+          "letter": "C",
+          "text": "Una colonia conjunta administrada por España",
+          "is_correct": false,
+          "feedback": "El proyecto federal no era una colonia, sino la unión de Estados que ya se habían independizado."
+        },
+        {
+          "letter": "D",
+          "text": "La incorporación de los estados del sur de México",
+          "is_correct": false,
+          "feedback": "Los estados mexicanos del sur no formaron parte de la República Federal de Centroamerica."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El proyecto federal de Francisco Morazan ambitaba una República Federal con los cinco Estados centroamericanos, cada uno con sus poderes propios dentro de un gobierno conjunto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -234,37 +234,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando federal ca.",
+      "statement": "¿Cuál es el orden correcto de estos hitos de la República Federal?",
+      "context": "El profesor pide ordenar los pasos del proceso de unificación.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "Constitución de 1824, actas de 1821, disolución de 1839",
+          "is_correct": false,
+          "feedback": "La Constitución federal no es el primero de los tres hitos, porque vino despues de las actas."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Actas de 1821, Constitución federal de 1824, crisis y disolución de 1839",
+          "is_correct": true,
+          "feedback": "Correcto. Las actas de 1821, la Constitución de 1824 y la disolución de 1839 son los tres momentos."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "Disolución de 1839, actas de 1821, Constitución federal de 1824",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "La disolución de 1839 es el último hito y no el primero, porque cierra el proceso."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Actas de 1821, disolución de 1839, Constitución federal de 1824",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "La Constitución federal se sancionó antes de la disolución de 1839, no despues."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "El proceso sigue el orden de las actas de independencia de 1821, la Constitución federal de 1824 y finalmente la crisis que disolvió el gobierno federal en 1839.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,37 +279,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando federal ca.",
+      "statement": "¿Por qué muchos políticos centroamericanos prefirieron el régimen federal en 1821?",
+      "context": "Una clase explica por qué el federalismo era la opción preferida en 1821.",
       "options": [
         {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Porque concentraba todo el poder en la capital",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "La concentración del poder era la propuesta unitaria, que no era lo que esos políticos buscaban."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Porque eliminaba toda representación de los Estados",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "El federalismo no eliminaba la representación, al contrario, la organizaba de manera formal por Estados."
+        },
+        {
+          "letter": "C",
+          "text": "Porque respetaba la identidad y la autonomía de cada región",
+          "is_correct": true,
+          "feedback": "Correcto. El federalismo reconhecía las diferencias regionales y por eso resultaba más aceptable que la centralización."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Porque devolvía el poder a la corona española",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Nadie en 1821 propuso un retorno a la corona, porque la independencia ya estaba declarada."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "6",
+      "explanation": "El federalismo resultaba atractivo porque reconocía las identidades regionales y dejaba a cada Estado su esfera propia de autoridad.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -324,40 +324,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
+      "statement": "¿Qué principio recoge la Constitución federal de 1824 como garantía de los ciudadanos?",
+      "context": "La clase estudia qué principio de la Constitución federal protegía a los ciudadanos.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El privilegio de una clase social sobre las demás",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "El privilegio de una clase contradice la igualdad ante la ley que el texto quería garantizar."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "La autorización para el comercio exterior sin límites",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "La libertad comercial es otra garantía, pero no es lo que el texto entiende por igualdad ante la ley."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La exención total de impuestos a los ciudadanos",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La exención absoluta de impuestos no era una garantía recogida en la Constitución federal de 1824."
+        },
+        {
+          "letter": "D",
+          "text": "La igualdad ante la ley y la protección de derechos individuales",
+          "is_correct": true,
+          "feedback": "Correcto. La igualdad ante la ley protege a los ciudadanos frente a la arbitrariedad del poder."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "explanation": "El principio central era la igualdad ante la ley, con lo cual cada ciudadano quedaba protegido frente a la arbitrariedad del poder.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
@@ -369,175 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
-        },
-        {
-          "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando federal ca.",
+      "statement": "¿Qué Estado fue el último en abandonar la República Federal de Centroamerica?",
+      "context": "El museo presenta un mapa con la división política de la República Federal.",
       "options": [
         {
           "letter": "A",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "text": "Honduras, que se separó en 1838",
           "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "feedback": "Correcto. La salida de Honduras en 1838 fue el golpe final que dejó sin base al gobierno federal."
         },
         {
           "letter": "B",
-          "text": "El Tratado de Versalles",
+          "text": "Guatemala, que se separó en 1821",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Guatemala fue el primer Estado en declarar su independencia en 1821, no el último en irse."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Costa Rica, que se separó en 1840",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "Costa Rica se separó en 1841, y ya para entonces el gobierno federal había desaparecido."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El Salvador, que se separó en 1841",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "El Salvador no se separó de la República, porque la disolución del gobierno federal lo dejó como Estado unitario."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
+      "explanation": "La salida de Honduras en 1838 fue el último golpe a la República Federal, y en 1839 el gobierno federal con sede en San Salvador quedó disuelto.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando federal ca.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
-      "periodo": 8,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando federal ca.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
@@ -548,42 +413,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando federal ca.",
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v10",
+      "statement": "¿Qué papel jugó Honduras en la desintegración de la República Federal?",
+      "context": "La clase estudia el papel de Honduras dentro de la República Federal.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "El de fortalecer la unión al permanecer dentro hasta el final",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Honduras no permaneció hasta el final, porque su separación de 1838 precipitó la caída."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El de romper la unidad al declararse independiente en 1838",
+          "is_correct": true,
+          "feedback": "Correcto. La separación de Honduras fue el golpe que dejó al gobierno federal sin respaldo suficiente."
+        },
+        {
+          "letter": "C",
+          "text": "El de proponer una nueva capital para la República",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Honduras no propuso una capital alternativa, la capital federal seguía siendo San Salvador."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El de negociar con España en nombre de todos los Estados",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Honduras no negoció con España por los demás Estados, la negociación era bilateral."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La separación de Honduras en 1838 fue el golpe final contra la República Federal, porque dejó sin base el gobierno federal con sede en San Salvador.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -593,38 +458,128 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando federal ca.",
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v11",
+      "statement": "¿Qué perdió Honduras al separarse de la República Federal?",
+      "context": "Una clase compara qué perdieron los Estados tras la independencia.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "text": "La independencia ganada en 1821",
+          "is_correct": false,
+          "feedback": "La independencia de 1821 no se perdió con la separación de 1838, porque ya estaba declarada."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "Su lengua y sus costumbres tradicionales",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La lengua y las costumbres no fueron objeto del pacto federal, que era político y no cultural."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "text": "El acceso al gobierno federal y a los beneficios de la unión",
+          "is_correct": true,
+          "feedback": "Correcto. Al salirse, Honduras dejó de participar en el gobierno federal y en las instancias comunes."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El control de sus puertos por parte de España",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "España no recuperó el control de esos puertos después de la independencia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Honduras ganó autonomía política al separarse, pero perdió el acceso al gobierno federal y a los beneficios que la unión repartía entre los Estados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.7,
+      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v12",
+      "statement": "¿Qué documento formalizó en 1839 la situación creada tras la secesión de Honduras?",
+      "context": "El archivo conserva el texto con el que se cierra un periodo politico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una nueva constitución federal con cinco Estados",
+          "is_correct": false,
+          "feedback": "No se elaboró una constitución nueva, porque el gobierno federal dejó de existir."
+        },
+        {
+          "letter": "B",
+          "text": "Un tratado de comercio con España",
+          "is_correct": false,
+          "feedback": "El tratado con España no formalizó la ruptura interna, que fue una decisión del gobierno."
+        },
+        {
+          "letter": "C",
+          "text": "Una convención militar con Guatemala",
+          "is_correct": false,
+          "feedback": "No hubo una convención militar que pusiera fin a la República, la disolución fue un acto de gobierno."
+        },
+        {
+          "letter": "D",
+          "text": "El decreto de disolución del gobierno federal",
+          "is_correct": true,
+          "feedback": "Correcto. El gobierno central declaró disuelta la República Federal después de la salida de Honduras."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La secesión de Honduras en 1838 dejó al gobierno federal sin base, y en 1839 se firmó el decreto que disolvió formalmente la República Federal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v13",
+      "statement": "¿En qué se diferencia el federalismo de un Estado unitario?",
+      "context": "La clase compara el federalismo con otras formas de Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En que el federalismo reconoce poderes propios a los Estados",
+          "is_correct": true,
+          "feedback": "Correcto. En un Estado unitario el poder no se reparte, mientras el federalismo reconoce esa esfera propia."
+        },
+        {
+          "letter": "B",
+          "text": "En que el Estado unitario admite más derechos que el federal",
+          "is_correct": false,
+          "feedback": "La cantidad de derechos no depende de la forma de Estado, depende de la Constitución y los tratados."
+        },
+        {
+          "letter": "C",
+          "text": "En que el federalismo tiene una capital y el unitario no la tiene",
+          "is_correct": false,
+          "feedback": "Ambos pueden tener capital, la diferencia está en el reparto del poder y no en la sede."
+        },
+        {
+          "letter": "D",
+          "text": "En que el Estado unitario reconoce más autonomía a sus regiones",
+          "is_correct": false,
+          "feedback": "Es al contrario: la autonomía regional es propia del federalismo, no del Estado unitario."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "explanation": "El federalismo se distingue del Estado unitario porque reconoce a los Estados como poderes con esfera propia, mientras el unitario concentra la autoridad en un solo gobierno.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -638,42 +593,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v14",
+      "statement": "¿Qué factor interno explica el fracaso del federalismo centroamericano?",
+      "context": "Una exposición explica la caída del federalismo por sus causas internas.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "La invasión de un ejército europeo",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "No hubo invasión europea en ese periodo que destruyera la República."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "text": "La falta de cohesión entre los Estados y el choque de sus intereses",
+          "is_correct": true,
+          "feedback": "Correcto. Las rivalidades internas y los intereses regionales incompatibles erosionaron la unión."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "El descubrimiento de una ruta comercial nueva",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Una ruta comercial nueva no explica por qué se rompió una federación política."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio en el idioma oficial de los Estados",
+          "is_correct": false,
+          "feedback": "El idioma oficial nunca fue el factor de ruptura de la República Federal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La caída de la República Federal se explica por sus propias debilidades internas: las rivalidades entre Estados y un interés económico que no coincidía entre las regiones.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.75,
+      "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v15",
+      "statement": "¿Qué tan rápido se desintegró la República Federal de Centroamerica?",
+      "context": "La clase compara la rapidi con la intensidad de dos procesos politicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En más de dos décadas, con un cambio gradual",
+          "is_correct": false,
+          "feedback": "No fue un cambio gradual, porque todo ocurrió en el intervalo entre 1838 y 1839."
+        },
+        {
+          "letter": "B",
+          "text": "Inmediatamente, en los mismos días de la independencia",
+          "is_correct": false,
+          "feedback": "La independencia fue de 1821 y la ruptura llegó casi veinte años después."
+        },
+        {
+          "letter": "C",
+          "text": "En unos pocos años, de 1838 a 1839",
+          "is_correct": true,
+          "feedback": "Correcto. La salida de Honduras en 1838 y la disolución en 1839 ocurrieron en un intervalo muy breve."
+        },
+        {
+          "letter": "D",
+          "text": "De forma progresiva, a lo largo de todo el siglo XIX",
+          "is_correct": false,
+          "feedback": "La ruptura estaba resuelta antes de 1840, no fue un proceso de todo el siglo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La República Federal se desintegró con rapidez: la secesión de Honduras en 1838 fue seguida de la disolución del gobierno federal en 1839.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
+      "statement": "¿Qué hicieron las potencias extranjeras para favorecer la secesión de Honduras?",
+      "context": "Un investigador compara el papel de las potencias extranjeras en la caída federal.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Invadieron con un ejército para restaurar la monarquía",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "Ninguna potencia invadio el territorio para restaurar una monarquía en ese periodo."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Mediarón entre los Estados para evitar la secesión",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Las potencias no mediaron a favor de la unión, sino que favorecieron la separación."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Reconocieron la República y le garantizaron su estabilidad",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "El reconocimiento fue limitado y no aportó estabilidad a la República Federal."
+        },
+        {
+          "letter": "D",
+          "text": "Apoyaron la separación por sus intereses comerciales",
+          "is_correct": true,
+          "feedback": "Correcto. Londres apoyó la ruptura porque le convenía para asegurar su propio canal interoceánico."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "explanation": "Las potencias no intervinieron con tropas, sino que favorecieron la ruptura, en el caso británico por sus intereses en un canal propio.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando federal ca.",
+      "statement": "¿Cuál es la diferencia entre soberanía y federalismo en el texto de 1824?",
+      "context": "La clase distingue dos conceptos que a menudo se confunden.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "text": "La soberanía es una sola y el federalismo la forma en que se reparte su ejercicio",
+          "is_correct": true,
+          "feedback": "Correcto. La soberanía del pueblo es una, y el federalismo define cómo se distribuye esa autoridad."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "La soberanía se reparte en cinco y el federalismo la concentra",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "La soberanía no se fragmenta en cinco, lo que se reparte son las competencias del gobierno."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Son conceptos idénticos, porque uno significa el otro",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "No son idénticos: uno habla de quién es la autoridad y el otro de cómo se organiza su ejercicio."
+        },
+        {
+          "letter": "D",
+          "text": "El federalismo es la soberanía y la soberanía es una forma de administración",
+          "is_correct": false,
+          "feedback": "Se han intercambiado los papeles: la soberanía es el principio y el federalismo su organización."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La soberanía popular era el principio único y reconocido; el federalismo era el criterio de organización con que ese poder se repartía entre los Estados.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando federal ca.",
+      "statement": "¿Qué competían a los Estados dentro de la República Federal?",
+      "context": "La clase compara lo que ocurría en cada Estado dentro de la República.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Solo el gobierno central, porque los Estados no tenían ninguna función",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Los Estados sí tenían instituciones propias, por eso se llamaban Estados y no provincias."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "text": "Sus propias instituciones y recursos, con poder de veto sobre decisiones comunes",
+          "is_correct": true,
+          "feedback": "Correcto. Cada Estado manejaba asuntos internos y podía resistirse a las decisiones que no compartía."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Exclusivamente la defensa militar, sin autonomía administrativa",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La autonomía de los Estados iba mucho más allá de la defensa, incluía su propia administración."
+        },
+        {
+          "letter": "D",
+          "text": "El comercio exterior, que era lo único que les correspondía",
+          "is_correct": false,
+          "feedback": "El comercio exterior no era competencia de los Estados, sino del gobierno federal."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Los Estados de la República Federal competían en su propia administración interna y en sus recursos, y además podían vetar decisiones del gobierno federal.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -819,40 +819,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando federal ca.",
+      "statement": "¿Cuál es la idea central que resume el federalismo centroamericano de 1824?",
+      "context": "El profesor pide extraer la idea central del régimen federal.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "letter": "A",
+          "text": "Unir a los Estados borrando por completo sus diferencias",
+          "is_correct": false,
+          "feedback": "Si se borraran las diferencias, la unión se parecería a un Estado unitario, no a una federación."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Separar definitivamente a cada Estado sin ninguna autoridad común",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La separación absoluta equivale a la independencia total, no a un gobierno federal común."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "text": "Unir a los Estados conservando su personalidad propia",
+          "is_correct": true,
+          "feedback": "Correcto. El federalismo buscaba la unión sin suprimir la identidad jurídica de cada Estado."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Imponer a todos los Estados una única Constitución sin variantes",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Una Constitución única era el unitarismo, el federalismo dejaba margen a cada Estado."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "C",
+      "explanation": "El federalismo centroamericano buscaba una unión que conservara la personalidad y la autonomía de cada Estado dentro de un gobierno común.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando federal ca.",
+      "statement": "¿Cuál fue el resultado final del debate entre federalistas y unitarios?",
+      "context": "Una exposición compara los resultados de ambos proyectos politicos.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Triunfo del proyecto federal, que se mantuvo vigente hasta 1840",
+          "is_correct": false,
+          "feedback": "El régimen federal no llegó hasta 1840, porque quedó disuelto en 1839."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Triunfo del proyecto unitario, que rigió hasta 1841",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "El proyecto unitario nunca llegó a regir de forma estable en los cinco Estados."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "Un acuerdo que dejó ambos proyectos vigentes por igual",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "No hubo tal acuerdo, porque la República se disolvió sin resolver el reparto del poder."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "text": "Ninguno se impuso: la República se disolvió y el unitario nunca se estableció",
+          "is_correct": true,
+          "feedback": "Correcto. La República Federal se disolvió en 1839 sin que ninguno de los dos proyectos llegara a imponerse."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "D",
+      "explanation": "El debate no se resolvió a favor de ninguno: la República Federal se disolvió en 1839 y el proyecto unitario nunca llegó a establecerse de forma estable.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

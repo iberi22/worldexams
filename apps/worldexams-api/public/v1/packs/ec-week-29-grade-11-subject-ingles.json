@@ -8,127 +8,37 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v1",
+      "statement": "The light is too bright. Can you ___ ?",
+      "context": "Mariana is reading in the kitchen and the ceiling light is too bright for her.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "text": "turn off it",
+          "is_correct": false,
+          "feedback": "No. A pronoun object cannot follow the particle of a separable phrasal verb, because the two halves of the verb have to stay together."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "turn it on",
           "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "feedback": "No. Turning the light on would make it brighter, and the speaker is asking for less light."
         },
         {
           "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "itinerary",
+          "text": "turn it off",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Correct! With a pronoun object the particle goes after the pronoun, so 'turn it off' keeps the verb next to its subject."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "turn it down",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "No. 'Turn down' applies to a sound or a flame, not to a light hanging from the ceiling."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "A separable phrasal verb may be split when its object is a pronoun. The rule is simple: the particle comes after the pronoun, which gives 'turn it off' and never 'turn off it'. With a noun object such as 'the light' both orders work.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,37 +53,127 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v2",
+      "statement": "Which sentence uses a separable phrasal verb correctly?",
+      "context": "The travel office closes at six, and the group still has to collect its tickets.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "text": "We need to pick up the tickets before the counter closes.",
+          "is_correct": true,
+          "feedback": "Correct! A noun object may sit between the two halves of a separable verb, so 'pick up the tickets' is fully standard."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "We need to pick up them before the counter closes.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "No. A pronoun cannot stand after the particle of a separable verb, which is why this word order fails."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "We need pick up the tickets before the counter closes.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "feedback": "No. After the modal verb 'need' the second half of the phrasal verb must still be given in its base form."
+        },
+        {
+          "letter": "D",
+          "text": "We need to pick up of the tickets before the counter closes.",
+          "is_correct": false,
+          "feedback": "No. No preposition belongs between this verb and its object, so adding 'of' breaks the structure."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Separable verbs accept three positions for the object: after the whole verb, or between the two halves. A noun can travel with the particle, a pronoun cannot, and a preposition never enters the pair. Checking these three points makes most errors visible.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v3",
+      "statement": "In 'She turned the heating off', which word is the particle of the phrasal verb?",
+      "context": "In the kitchen of the family home, the heating was left running all morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "heating",
+          "is_correct": false,
+          "feedback": "No. That word is the object of the verb, and the object is precisely the part that moves between the two halves."
+        },
+        {
+          "letter": "B",
+          "text": "turned",
+          "is_correct": false,
+          "feedback": "No. That is the verb itself, whereas the particle is the short word carrying the extra sense of the phrase."
+        },
+        {
+          "letter": "C",
+          "text": "the",
+          "is_correct": false,
+          "feedback": "No. A determiner in front of the object plays no part in the structure of the phrasal verb."
+        },
+        {
+          "letter": "D",
+          "text": "off",
+          "is_correct": true,
+          "feedback": "Correct! 'Off' is the particle of 'turn off', and here it stands after the object because the verb is separable."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "The particle of a phrasal verb is the short adverb or preposition that changes the sense of the verb: turn the light off, give the book up. In a separable verb the particle is the word that can move to the end of the phrase.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v4",
+      "statement": "What is the difference between 'put off' and 'put out'?",
+      "context": "The match was postponed twice, and then a small fire started in the kitchen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both of them mean to delay something for a later time.",
+          "is_correct": false,
+          "feedback": "No. These two phrasal verbs do not share a meaning, since only one of the pair postpones anything."
+        },
+        {
+          "letter": "B",
+          "text": "'Put off' postpones something, while 'put out' makes a fire stop burning.",
+          "is_correct": true,
+          "feedback": "Correct! The verb is the same in both phrases, but the particle decides whether the action is delayed or extinguished."
+        },
+        {
+          "letter": "C",
+          "text": "'Put out' means to end a conversation politely.",
+          "is_correct": false,
+          "feedback": "No. Ending a conversation is 'finish up' or 'wrap up', whereas 'put out' is used with fire and candles."
+        },
+        {
+          "letter": "D",
+          "text": "'Put off' can never be followed by a pronoun object.",
+          "is_correct": false,
+          "feedback": "No. Like the other separable verbs here, 'put off' does take a pronoun, as in 'they put it off until June'."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Two phrasal verbs that share a verb do not have to share a meaning: the particle carries the difference. Remembering the particle is a more reliable method than remembering the phrase as a block, because the block can be learned without its logic.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,86 +188,86 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v5",
+      "statement": "The teacher ___ the assessment because half the class was absent.",
+      "context": "Half the class was absent with flu, so the teacher had to move the assessment.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "text": "put off",
+          "is_correct": true,
+          "feedback": "Correct! 'Put off' means to postpone, and the reason in the sentence explains exactly why the date had to move."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "put out",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "No. 'Put out' would mean extinguishing something, which has no connection with rescheduling a written test."
+        },
+        {
+          "letter": "C",
+          "text": "take off",
+          "is_correct": false,
+          "feedback": "No. 'Take off' applies to a plane leaving the ground or to removing a garment, neither of which fits here."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "turn down",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "No. 'Turn down' reduces a volume or rejects an offer, and a postponed date is a different idea altogether."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Choosing between particles of the same verb is a matter of matching the meaning of the particle to the situation. Postponing, extinguishing, departing and reducing are four different actions, and only one of them is described by the sentence.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v6",
+      "statement": "Why can 'look after the plants' keep the object in the middle, while 'look at the plants' cannot be separated?",
+      "context": "The rules of the youth club are read out at every meeting.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because 'after' is a verb and 'at' is an adverb, so only adverbs can be split.",
+          "is_correct": false,
+          "feedback": "No. Both words here are prepositions, and the difference between the two pairs lies in another property."
+        },
+        {
+          "letter": "B",
+          "text": "Because 'look after' always takes a pronoun and 'look at' always takes a noun.",
+          "is_correct": false,
+          "feedback": "No. Either pair works with a pronoun or a noun; nothing in the grammar depends on the kind of object."
+        },
+        {
+          "letter": "C",
+          "text": "Because a separable phrasal verb requires its particle to function as an adverb, and a preposition must stay with the verb.",
+          "is_correct": true,
+          "feedback": "Correct! Only when the particle behaves adverbially can it travel away from the verb and sit after the object."
+        },
+        {
+          "letter": "D",
+          "text": "Because 'look at' is a colloquial expression while 'look after' belongs to formal written English.",
+          "is_correct": false,
+          "feedback": "No. Both expressions are ordinary everyday English, and register is not what decides whether a verb can be split."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
-          "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
-        },
-        {
-          "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "The single test for separability is the nature of the particle. When it is adverbial, as in 'look after' or 'turn off', it can be separated from the verb. When it behaves as a preposition, as in 'look at' or 'get on', the pair behaves as one unit and must not be split.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
       "periodo": 29,
@@ -278,172 +278,127 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v7",
+      "statement": "Which use of a separable phrasal verb is NOT correct?",
+      "context": "Riobamba is known for its jewellery workshops, so many students apply for apprenticeships there.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "text": "She applied for an apprenticeship last June.",
+          "is_correct": false,
+          "feedback": "Correct! Here the pair follows the full form 'applied for', because 'for' cannot be separated from this verb."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Turn off the lights when you leave the workshop.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Correct! A noun object may travel with the particle, so this word order is accepted."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "He took off his jacket as soon as he arrived.",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Correct! The noun object follows the particle, which is one of the two orders this verb allows."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "souvenir",
+          "text": "They looked the new apprentice up yesterday.",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
-          "letter": "B",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
-        },
-        {
-          "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "No. A pronoun cannot follow the particle, and here the particle 'up' has been separated from its noun object in a way the grammar forbids."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "The most common error with separable verbs is moving the particle in front of a noun and then separating it wrongly from a pronoun in the same breath. What the particle may not do is follow its object when that object is a pronoun, so 'looked up him' is impossible.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v8",
+      "statement": "Which of the following sentences respects the rules of this phrasal verb?",
+      "context": "The company has been running for twenty years, and it never turned away a good order.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They never turned down it last year.",
+          "is_correct": false,
+          "feedback": "No. With a pronoun object the particle must come after the pronoun, never in front of it."
+        },
+        {
+          "letter": "B",
+          "text": "They never turned down a good order last year.",
+          "is_correct": true,
+          "feedback": "Correct! A noun object may sit between the two halves of a separable phrasal verb."
+        },
+        {
+          "letter": "C",
+          "text": "They never turned a good order down last year.",
+          "is_correct": false,
+          "feedback": "No. 'Turn down' is one of the verbs with an inseparable reading, so its object cannot travel to the end."
+        },
+        {
+          "letter": "D",
+          "text": "They never turned off a good order last year.",
+          "is_correct": false,
+          "feedback": "No. 'Turn off' applies to a light, a tap or a device, and it has nothing to do with a request or an offer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Verbs of this family divide into two groups. Some, like 'turn down' and 'pick up', accept a noun between the two halves; others, like 'look out', 'take in' and 'deal with', keep the two words joined in every situation. Testing the verb itself is the only way to know which group it belongs to.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v9",
+      "statement": "Fill the gap with the correct order: 'Please ___ the boxes before eight.'",
+      "context": "The college is closed today, so the cleaners are using the main entrance to carry the furniture.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carry up",
+          "is_correct": true,
+          "feedback": "Correct! 'Carry up' needs no object in the gap, and the verb can stay with its particle when nothing separates them."
+        },
+        {
+          "letter": "B",
+          "text": "carry up the boxes",
+          "is_correct": false,
+          "feedback": "No. The noun object is already placed in the sentence after the gap, so putting it here would repeat it."
+        },
+        {
+          "letter": "C",
+          "text": "carry up of",
+          "is_correct": false,
+          "feedback": "No. No preposition may be inserted between this separable verb and its particle."
+        },
+        {
+          "letter": "D",
+          "text": "carry up them",
+          "is_correct": false,
+          "feedback": "No. A pronoun cannot occupy the position right after the particle of a separable verb."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "When a sentence asks for a verb and its particle but places the object elsewhere, the two halves stay together and the object follows the particle. This is the unmarked order, and it is the order to choose whenever no other condition forces a different one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,41 +413,131 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v10",
+      "statement": "Read the question: 'Please ___ the chairs and ___ the boxes.' Why can neither particle move after its object?",
+      "context": "The exhibition opens on Friday, and the organiser has to count the visitors as they come in.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
+          "text": "Because 'up' and 'away' are adverbs and adverbs must follow their object.",
+          "is_correct": false,
+          "feedback": "No. Adverbial particles are exactly the ones that can move after the object, which is the point of the rule."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "Because two separable verbs can never appear in the same sentence.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "No. Coordinating two separable verbs is perfectly normal and needs no special preparation."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "Because an object may only be divided from its verb in a question or a negative clause.",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "No. The separation works in statements just as well, as in 'she picked the book up'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Because the object here is a noun and the writer chose not to place it in the middle.",
+          "is_correct": true,
+          "feedback": "Correct! Both particles could go after their nouns, but the unmarked order with the object after the particle is always available."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "The unmarked order, object after the particle, is grammatical in every case, so a wrong reading usually comes from a rule the student has over-generalised. Before splitting a verb, check whether a pronoun is involved, whether the particle behaves adverbially and whether the surrounding verbs already carry objects.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v11",
+      "statement": "What would be wrong with the sentence 'Switch off it before you leave'?",
+      "context": "The advice from the technician was to switch off the machines one by one.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nothing at all; the sentence is standard written English.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "No. The position of the particle after a pronoun object is precisely what the grammar of this verb forbids."
+        },
+        {
+          "letter": "B",
+          "text": "A pronoun object must be placed before the particle, so the sentence should read 'Switch it off'.",
+          "is_correct": true,
+          "feedback": "Correct! With a pronoun the particle travels to the end, giving 'switch it off' rather than 'switch off it'."
+        },
+        {
+          "letter": "C",
+          "text": "The word 'switch' needs a reflexive pronoun in this imperative form.",
+          "is_correct": false,
+          "feedback": "No. The imperative with a separated particle is normal here, and no reflexive pronoun appears in any standard version of this instruction."
+        },
+        {
+          "letter": "D",
+          "text": "The particle should be placed before the whole verb, at the very start of the sentence.",
+          "is_correct": false,
+          "feedback": "No. Moving a particle to the front of the clause inverts the normal order and produces a marked sentence that is not used in this context."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The pronoun rule has no exceptions among the separable verbs used at this level. Whatever the verb or the tense, the sequence is pronoun then particle: take it off, put it away, turn it down. Only nouns enjoy the freedom to travel between the two halves.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v12",
+      "statement": "Which sentence is correct?",
+      "context": "The reservoir supplied the town until the drought reduced its level by half.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The drought dried up the reservoir.",
+          "is_correct": true,
+          "feedback": "Correct! The noun object 'the reservoir' sits between the two halves, which this separable verb allows."
+        },
+        {
+          "letter": "B",
+          "text": "The drought dried the reservoir up overnight.",
+          "is_correct": false,
+          "feedback": "No. 'Dry up' belongs to the inseparable group, so its two words must stay joined in every position."
+        },
+        {
+          "letter": "C",
+          "text": "The drought dried up it overnight.",
+          "is_correct": false,
+          "feedback": "No. Even if the verb were separable, a pronoun could not stand immediately after the particle."
+        },
+        {
+          "letter": "D",
+          "text": "The drought dried the reservoir off.",
+          "is_correct": false,
+          "feedback": "No. 'Dry off' refers to a person or a surface drying after rain, and it does not describe the loss of the water in a reservoir."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Some verbs have a fixed inseparable partner, and 'dry up' is one of them. That verb must keep the object after the whole phrase, which makes option B impossible however natural it sounds to a speaker who knows only the separable pattern.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
       "periodo": 29,
@@ -503,41 +548,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v13",
+      "statement": "In 'She handed the keys over', why can the object travel to the end of the phrase?",
+      "context": "The mechanic explained that he would hand over the keys once the bill was paid.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "Because 'over' is a preposition, and prepositions always travel after the object.",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "No. A preposition linked to its verb cannot be detached from it, which is the opposite of what happened here."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "Because the verb 'handed' has two objects, so one of them may move freely.",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "No. The verb takes a single object, and the noun 'the keys' is that single object."
+        },
+        {
+          "letter": "C",
+          "text": "Because 'over' acts adverbially here, so the verb is separable and the object may sit between its halves.",
+          "is_correct": true,
+          "feedback": "Correct! The adverbial particle can be separated from the verb, which is what allows the object to take the central position."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "Because the sentence is in the past tense, and past tense allows any word order.",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "No. The tense changes the form of the verb but not the rules that govern the particle."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "The adverbial reading of the particle is what unlocks the whole structure. Once the particle is understood as an adverb that completes the meaning of the verb, the two halves become two independent words and the object is free to move between them or after them.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
       "periodo": 29,
@@ -548,37 +593,37 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v14",
+      "statement": "Which explanation describes the word order 'held the containers back'?",
+      "context": "The freight company agreed to hold the containers until the port cleared the congestion.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
+          "letter": "A",
+          "text": "The object follows the particle because English nouns always follow adverbs.",
+          "is_correct": false,
+          "feedback": "No. English word order does not work that way, and the object follows the particle for a reason that belongs to this verb."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "The particle has become a preposition and therefore sits before the object.",
           "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "feedback": "No. A preposition particle would stay with the verb, and here the particle has moved away from it."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The object is marked for emphasis, which is the only way this word order is possible.",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "No. The order is neutral and unmarked; emphasis is not what produces it."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "text": "The particle 'back' behaves adverbially, so the object may be placed between the verb and the particle.",
+          "is_correct": true,
+          "feedback": "Correct! Separability is what allows the noun object to occupy that central position in a completely neutral sentence."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A split phrasal verb is not a special or marked construction. It is the normal order produced by a separable verb, and the reader treats it as an ordinary clause without noticing anything unusual about the position of the object.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -593,86 +638,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v15",
+      "statement": "Which of these two pairs is grammatical in both sentences?",
+      "context": "The generator kept failing during the night, and by morning the technician had replaced the part.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
+          "letter": "A",
+          "text": "'He took the machine apart' and 'He took apart it'.",
+          "is_correct": false,
+          "feedback": "No. The first sentence is correct, but the pronoun in the second one stands on the wrong side of the particle."
         },
         {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "letter": "B",
+          "text": "'He took the machine apart' and 'He took it apart'.",
+          "is_correct": true,
+          "feedback": "Correct! A noun may travel between the halves and a pronoun may sit before the particle, so both sentences are grammatical."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "'He took apart the machine' and 'He took it down'.",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "No. The second sentence replaces the particle of this verb with another one that changes the meaning of the action."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "'He took it apart' and 'He took down it'.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "No. The first sentence is correct, but the second one puts a pronoun where the grammar requires it before the particle."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "explanation": "The two positions available to the object are complementary rather than exclusive. 'Take apart' accepts the noun in the middle and the pronoun before the particle, so a correct pair of sentences exists for the same verb with both kinds of object.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
       "periodo": 29,
@@ -683,37 +683,172 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v16",
+      "statement": "Read the sentence 'You should change the filter over before Friday.' What does this sentence tell us?",
+      "context": "The air filter has not been changed this year, and the machine is running hot.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "The filter will be replaced before Friday, with the object placed between the verb and the particle.",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
+          "feedback": "Correct! The sentence uses the split order of a separable verb, and the noun object occupies the central position."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The filter must be changed over Friday, and the preposition is missing from the sentence.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "No. The word 'before' is present, and the sentence says nothing about crossing a particular day."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The filter will be moved to another part of the machine before Friday.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "No. The verb 'change' here means to replace, not to shift something from one place to another."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "The sentence is ungrammatical because a pronoun would be needed between the verb and the particle.",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "No. A noun object is perfectly at home in that position, so nothing is missing from the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Reading a split phrasal verb means asking two questions: what does the particle add, and what is the object. In 'change the filter over' the object is 'the filter' and the particle 'over' adds no special sense, so the phrase simply means to replace it.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v17",
+      "statement": "Which sentence keeps a pronoun object in the only position the grammar allows when using 'give up'?",
+      "context": "The runners practised for months before the coach announced the final list.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They gave up it when the injury appeared.",
+          "is_correct": false,
+          "feedback": "No. A pronoun cannot be preceded by the particle of a separable verb, so this order fails."
+        },
+        {
+          "letter": "B",
+          "text": "They gave up it up in the mountains.",
+          "is_correct": false,
+          "feedback": "No. The particle sits in the wrong position and an extra adverb is added to the same phrase without need."
+        },
+        {
+          "letter": "C",
+          "text": "They gave it up when the injury appeared.",
+          "is_correct": true,
+          "feedback": "Correct! The pronoun is placed before the particle, which is the one position a pronoun object may occupy."
+        },
+        {
+          "letter": "D",
+          "text": "They gave up them when the injury appeared.",
+          "is_correct": false,
+          "feedback": "No. 'Them' is a pronoun and cannot stand after the particle, exactly as 'it' cannot in the first option."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Only one of the four arrangements puts a pronoun where the grammar expects it. Learning the pronoun rule in isolation, with a single verb and a single object, is more effective than meeting it for the first time inside a longer clause with several adverbs.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v18",
+      "statement": "Which statement correctly describes a separable phrasal verb, and what is the practical consequence of the adverbial particle?",
+      "context": "The river runs through farmland for forty kilometres before it reaches the estuary.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Its particle can never stand after the verb when the object is a pronoun.",
+          "is_correct": false,
+          "feedback": "No. That position is in fact the only one a pronoun object accepts, which is the opposite of what this option says."
+        },
+        {
+          "letter": "B",
+          "text": "The verb and the particle can never be separated by another word.",
+          "is_correct": false,
+          "feedback": "No. A noun object is placed exactly there in the split order, so separation is normal."
+        },
+        {
+          "letter": "C",
+          "text": "The particle is always a preposition and never behaves like an adverb.",
+          "is_correct": false,
+          "feedback": "No. The whole point of a separable verb is that its particle behaves adverbially."
+        },
+        {
+          "letter": "D",
+          "text": "Its particle is an adverb and may be separated from the verb, while a pronoun object still has to precede it.",
+          "is_correct": true,
+          "feedback": "Correct! That single sentence contains both halves of the rule: separability for the particle and word order for the pronoun."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A good definition of a separable phrasal verb states two facts at once. The particle is adverbial and may move away from the verb; the object may then occupy the space between them, with the restriction that a pronoun must stand before the particle.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v19",
+      "statement": "Why is 'turn the brightness down' possible while 'turn at the brightness down' is not?",
+      "context": "The battery lasts about four hours when the screen is at full brightness.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because 'at' is not a particle at all, so it cannot appear inside a phrasal verb.",
+          "is_correct": false,
+          "feedback": "No. This particle is adverbial in the expression 'turn at it', and the problem in the sentence is one of position, not of category."
+        },
+        {
+          "letter": "B",
+          "text": "Because the particle here is the adverb 'down', and an adverb may follow the verb; the preposition 'at' has no grammatical place inside the phrase.",
+          "is_correct": true,
+          "feedback": "Correct! The sentence has an extra preposition that the structure does not allow, and that is what makes it impossible."
+        },
+        {
+          "letter": "C",
+          "text": "Because two adverbs may never stand next to each other in the same clause.",
+          "is_correct": false,
+          "feedback": "No. Clauses regularly carry several adverbs, and 'brightness' is a noun rather than an adverb in this sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Because the object of this verb must always come after the particle, never before it.",
+          "is_correct": false,
+          "feedback": "No. The first sentence shows the object before the particle, which is one of the two orders the grammar allows."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Two different restrictions are easy to confuse. The noun object may stand before the particle, but no extra preposition may be introduced between the halves, since a separable verb admits only its own particle as an internal word.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,173 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v20",
+      "statement": "A student writes: 'The board will look the tariff over before September.' Is the sentence correct?",
+      "context": "The water board will review the tariff before the dry season begins in September.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "No, because a noun object may not stand between the verb and the particle.",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "No. A noun object in that position is exactly what makes a separable verb separable."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "No, because 'over' must always appear immediately after the verb it belongs to.",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "No. Moving the particle away from the verb is permitted precisely when the particle is adverbial."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, because 'look over' is separable and the noun object may be placed between the verb and the particle.",
+          "is_correct": true,
+          "feedback": "Correct! The sentence is a normal split phrasal verb, and nothing in it breaks the word-order rule."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "No, because the verb would need a pronoun instead of a noun after the split.",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "No. That restriction exists only for pronouns, and this object is a noun phrase."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "explanation": "Judging a sentence like this takes three checks in order: is the verb separable, is the object a noun or a pronoun, and does the particle keep its own adverbial meaning. When all three are satisfied, the split order is not a guess but the predictable result.",
       "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
-        },
-        {
-          "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
-        },
-        {
-          "letter": "C",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

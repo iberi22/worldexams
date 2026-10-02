@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Mejicanos estudiando luz optica.",
+      "statement": "¿Qué tipo de imagen forma un espejo plano?",
+      "context": "Karla trabaja con un espejo en el laboratorio de óptica de la clase de Santa Tecla.",
       "options": [
         {
-          "letter": "B",
-          "text": "Fotosíntesis",
+          "letter": "A",
+          "text": "Una imagen virtual, del mismo tamaño y derecha",
           "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
+          "feedback": "Correcto. El espejo plano produce una imagen virtual, porque los rayos reflejados solo parecen provenir de ella. Esa imagen es del mismo tamaño que el objeto y no se puede proyectar sobre una pantalla."
         },
         {
-          "letter": "A",
-          "text": "Respiración celular",
+          "letter": "B",
+          "text": "Una imagen real, invertida y del mismo tamaño",
           "is_correct": false,
-          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
+          "feedback": "Esa descripción corresponde a un espejo concave que forma una imagen real. El espejo plano no concentra los rayos en ningun punto, y por eso su imagen nunca es real."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "Una imagen virtual, invertida y mas pequena",
           "is_correct": false,
-          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
+          "feedback": "La inversion y la reduccion de tamano son caracteristicas del espejo convexo. El espejo plano no modifica ninguna de las dos: su imagen es derecha y del mismo tamaño."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Una imagen real, derecha y del mismo tamaño",
           "is_correct": false,
-          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
+          "feedback": "Una imagen real se puede recoger sobre una pantalla. El espejo plano forma una imagen virtual, y por mucho que se parpadee al cerca, nunca se proyecta en ningun sitio."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "A",
+      "explanation": "En un espejo plano la imagen es virtual, porque los rayos reflejados no se cruzan en ella, y solo parecen provenir de ese punto. Su tamaño y su orientacion son identicos a los del objeto.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
@@ -54,36 +54,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 7 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando luz optica.",
+      "statement": "¿Por qué el texto del retrovisor se ve invertido?",
+      "context": "Mateo nota que el tráfico se ve invertido en el retrovisor del auto de su familia.",
       "options": [
         {
-          "letter": "D",
-          "text": "21 N",
+          "letter": "C",
+          "text": "Porque el retrovisor es un espejo convexo, que produce una imagen virtual y reducida",
           "is_correct": true,
-          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 7\\,\\text{kg} \\times 3\\,\\text{m/s}^2 = 21\\,\\text{N}$."
+          "feedback": "Correcto. El retrovisor es un espejo convexo: reduces el tamaño de la imagen y la hace parecer mas lejana. Ese efecto permite ver un campo mas amplio, aunque por eso los objetos se ven invertidos."
         },
         {
           "letter": "A",
-          "text": "14 N",
+          "text": "Porque el retrovisor es un espejo plano mal ajustado a la carcasa",
           "is_correct": false,
-          "feedback": "Multiplicaste la masa por dos, $7 \\times 2 = 14$, en vez de por la aceleración de $3\\,\\text{m/s}^2$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
+          "feedback": "Un espejo plano no invierte el texto, y ademas no reduce el tamaño de lo reflejado. La razon de que aparezca invertido y pequeño es la curvatura convexa del retrovisor."
         },
         {
           "letter": "B",
-          "text": "24 N",
+          "text": "Porque el cristal del retrovisor es de color azul y altera la imagen",
           "is_correct": false,
-          "feedback": "Multiplicaste $8 \\times 3$, pero la masa del enunciado es $7\\,\\text{kg}$, no $8$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
+          "feedback": "El color del cristal cambia algo el tono de lo que se ve, y no su orientacion. El que el texto aparezca al reves se debe a la forma del espejo y no a su coloracion."
         },
         {
-          "letter": "C",
-          "text": "7 N",
+          "letter": "D",
+          "text": "Porque la luz se dispersa al atravesar el vidrio del espejo",
           "is_correct": false,
-          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $3\\,\\text{m/s}^2$. Con $m = 7\\,\\text{kg}$ y $a = 3\\,\\text{m/s}^2$, la fuerza es $F = 7 \\cdot 3 = 21\\,\\text{N}$."
+          "feedback": "La dispersion ocurre al pasar por un prisma o una lente, y no al reflejarse en un espejo. El retrovisor invierte la imagen por su geometria, y no por lo que ocurra con el vidrio."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 7×3 = 21 N.",
+      "correct_answer": "C",
+      "explanation": "El retrovisor utiliza un espejo convexo para abarcar un ángulo amplio de la carretera. La imagen resultante es virtual, mas pequena e invertida, y esas dos caracteristicas son inseparables en un espejo convexo.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando luz optica.",
+      "statement": "Al entrar la luz del aire al agua, ¿qué propiedad de la luz cambia?",
+      "context": "Lucía pasa un rayo de luz a través de un vaso con agua en la clase de física de Soyapango.",
       "options": [
         {
-          "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
+          "text": "La rapidez, porque en el agua la luz viaja más lenta que en el aire",
+          "is_correct": true,
+          "feedback": "Correcto. La luz cambia de rapidez al pasar de un medio a otro, y a eso se le llama refraccion. Su frecuencia no cambia, porque depende de la fuente y no del medio."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "La frecuencia, porque cada medio imparte su propia frecuencia",
           "is_correct": false,
-          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
+          "feedback": "La frecuencia la fija la fuente de luz y viaja con la onda sin alterarse. Al pasar al agua cambia la rapidez y la longitud de onda, mientras la frecuencia permanece igual."
+        },
+        {
+          "letter": "C",
+          "text": "El color, porque el agua tiene un tono propio que lo modifica",
+          "is_correct": false,
+          "feedback": "El agua apenas altera el color de la luz, de modo que elrayo sigue siendo practicamente blanco. Lo que cambia al entrar en otro medio es la rapidez y la direccion, y no el tono."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La energía, porque el medio la absorbe y la luz se debilita",
           "is_correct": false,
-          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
+          "feedback": "Al entrar en el agua la luz apenas pierde intensidad, y su energia por foton no se anula. La magnitud que si cambia al pasar de medio es la rapidez de propagacion de la onda luminosa."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "A",
+      "explanation": "La refraccion se produce porque la luz cambia de rapidez al entrar en un medio de densidad optica distinta. Como la frecuencia se conserva, es la longitud de onda la que se modifica en la misma proporción.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando luz optica.",
+      "statement": "Si un objeto se coloca entre el punto focal y el espejo convexo, ¿qué tipo de imagen se forma?",
+      "context": "Andrés coloca un espejo convexo frente a su rostro en la clase de óptica de San Salvador.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
+          "letter": "D",
+          "text": "Virtual, derecha y menor que el objeto",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
+          "feedback": "Correcto. El espejo convexo produce siempre una imagen virtual, derecha y mas pequeña que el objeto, Este ultimo rasgo se debe a que los rayos reflejados se separan y nunca convergen en un punto real."
         },
         {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "Real, invertida y mayor que el objeto",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
+          "feedback": "Esa es la imagen que forma un espejo concave cuando el objeto esta lejos de el. El espejo convexo no concentra los rayos, y por eso su imagen nunca es real ni invertida."
+        },
+        {
+          "letter": "B",
+          "text": "Virtual, invertida y menor que el objeto",
+          "is_correct": false,
+          "feedback": "La imagen del espejo convexo es derecha, no invertida. La inversion aparece en los espejos concaves, y aqui la orientacion se mantiene tal como esta en el objeto."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Real, derecha y del mismo tamaño",
           "is_correct": false,
-          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
-        },
-        {
-          "letter": "D",
-          "text": "El tipo de planta",
-          "is_correct": false,
-          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
+          "feedback": "Una imagen real se recoge en una pantalla, cosa imposible con un espejo convexo. Ese tipo de imagen tampoco es del mismo tamaño, porque la curvatura reduce el tamano de la imagen reflejada."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "El espejo convexo es divergente: los rayos reflejados se separan como si vinieran de un punto situado detrás del espejo. Por eso su imagen es siempre virtual, derecha y menor, este última, la de cualquier espejo convexo.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Santa Ana estudiando luz optica.",
+      "statement": "¿Qué propiedad de una lente convergente explica que forme imágenes reales?",
+      "context": "Sofía usa una lente para enfocar los caracteres de un cartel en la clase de óptica de Ahuachapán.",
       "options": [
         {
           "letter": "C",
-          "text": "La célula",
+          "text": "Que los rayos paralelos que pasan por ella se unen en un punto, el foco",
           "is_correct": true,
-          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
+          "feedback": "Correcto. La lente convergente concentra en su foco los rayos que llegan paralelos. Ese cruce real de rayos es lo que permite formar una imagen que si se recoge en una pantalla."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Que absorve los colores y por eso concentra la imagen",
           "is_correct": false,
-          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
+          "feedback": "La absorcion de luz no concentra los rayos. La convergencia se debe a la forma de la lente y a como esta desvía cada rayo al atravesarla, y no a que pierda energia."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Que su superficie es completamente plana y no curva",
           "is_correct": false,
-          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
+          "feedback": "Una lente plana no concentra nada, porque no desvía los rayos de forma desigual. La imagen real se obtiene por la curvatura de las caras, y no por una superficie plana."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Que su material es siempre cristal y no plástico",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
+          "feedback": "El material de la lente no determina si la imagen es real. Lo decisivo es la forma del conjunto, y un plástico con la curvatura adecuada también puede formar imágenes reales."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "explanation": "Una lente convergente es mas gruesa en el centro que en los bordes. Esa geometria hace que los rayos paralelos se desvien hacia un mismo punto, y en ese cruce se forma la imagen real.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
+      "statement": "¿Qué causa la dispersión de la luz blanca al pasar por un prisma?",
+      "context": "Carlos lee en el manual de la clase de física de San Francisco Gotera la definición de dispersión.",
       "options": [
         {
           "letter": "A",
-          "text": "Fotosíntesis",
+          "text": "Que cada color se refracta en un ángulo distinto al cambiar de rapidez en el vidrio",
           "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
+          "feedback": "Correcto. La luz blanca es una mezcla de colores de distinta frecuencia. Cada una se refracciona de forma diferente al entrar al vidrio, y por eso al salir se ven separados."
         },
         {
           "letter": "B",
-          "text": "Respiración celular",
+          "text": "Que el prisma tiene el color de cada uno de los siete colores",
           "is_correct": false,
-          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
+          "feedback": "El prisma no contiene los colores, sino que los separa. Es material casi transparente, y lo que desvia cada componente de la luz blanca es su propia refraccion en el vidrio."
         },
         {
           "letter": "C",
-          "text": "Fermentación",
+          "text": "Que la luz blanca se divide en el prisma por su temperatura",
           "is_correct": false,
-          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
+          "feedback": "La temperatura del prisma puede influir poco en el resultado, y no es lo que separa los colores. La causa de la dispersion es la diferencia de refraccion entre frecuencias distintas."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Que el vidrio del prisma absorbe los colores y luego los emite",
           "is_correct": false,
-          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
+          "feedback": "El vidrio no absorbe los colores para reemitirlos. Si lo hiciera, la luz que sale seria mas debil, y no una gama ordenada de colores, que es lo que caracteriza a la dispersion."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "explanation": "El indice de refraccion del vidrio depende de la frecuencia de la luz. Por eso cada color se desvía en un ángulo distinto y, al salir del prisma, quedan separados en el espectro visible.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,37 +279,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 3 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Mejicanos estudiando luz optica.",
+      "statement": "¿Qué ley explica que un rayo que llega a un espejo con un ángulo se refleje con el mismo ángulo?",
+      "context": "Wendy coloca un detector de luz frente a un rayo laser en la clase de óptica de Metapán.",
       "options": [
         {
-          "letter": "D",
-          "text": "12 N",
+          "letter": "C",
+          "text": "La ley de reflexión, que iguala el ángulo de incidencia con el de reflexión",
           "is_correct": true,
-          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 4\\,\\text{m/s}^2 = 12\\,\\text{N}$."
+          "feedback": "Correcto. La ley de reflexion establece que el rayo reflejado forma con la normal el mismo angulo que el rayo incidente. Los dos angulos se miden respecto a la normal, y no respecto a la superficie."
         },
         {
           "letter": "A",
-          "text": "9 N",
+          "text": "La ley de refracción, que cambia el ángulo al cambiar de medio",
           "is_correct": false,
-          "feedback": "Multiplicaste la masa por sí misma, $3 \\times 3 = 9$, en vez de por la aceleración. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
+          "feedback": "La refracción ocurre cuando la luz pasa de un medio a otro, no cuando se refleja en una superficie. Al reflejarse en un espejo, la luz no cambia de medio, y se aplica la ley de reflexion."
         },
         {
           "letter": "B",
-          "text": "16 N",
+          "text": "La ley de Snell, que relaciona los ángulos con los índices del medio",
           "is_correct": false,
-          "feedback": "Elevaste la aceleración al cuadrado, $4 \\times 4 = 16$; el primer factor de $F$ es la masa, no la aceleración. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
+          "feedback": "La ley de Snell pertenece a la refracción, donde intervienen dos medios distintos. En el caso de un espejo, la luz no entra en otro material, de modo que no se aplica esa relacion."
         },
         {
-          "letter": "C",
-          "text": "3 N",
+          "letter": "D",
+          "text": "El principio de inercia, que mantiene constante la dirección del rayo",
           "is_correct": false,
-          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $4\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 4\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 4 = 12\\,\\text{N}$."
+          "feedback": "La inercia se aplica a los cuerpos en movimiento, y no a los rayos de luz. Lo que fija el angulo del rayo reflejado es una relacion geometrica entre incidencia y reflexion, no la conservacion del momento."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 3×4 = 12 N.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "La ley de reflexion dice que el angulo de incidencia y el de reflexion son iguales, ambos medidos respecto de la normal a la superficie. Esa relacion explica por que un rayo que llega en una direccion sale en la direccion simetrica.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando luz optica.",
+      "statement": "¿Qué fenómeno explica que el fondo de la piscina parezca estar más cerca de lo que está?",
+      "context": "Iván investiga por que el fondo de una piscina se ve mas pequeño desde la orilla en la clase de física de La Libertad.",
       "options": [
         {
           "letter": "A",
-          "text": "La piel",
+          "text": "La refracción, porque los rayos que suben del fondo cambian de dirección al salir del agua",
           "is_correct": true,
-          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
+          "feedback": "Correcto. La luz que sube del fondo cambia de dirección al pasar del agua al aire y llega al ojo desde un punto mas cercano. El ojo interpreta ese punto como si estuviera en el fondo, y por eso parece mas bajo."
         },
         {
           "letter": "B",
-          "text": "El hígado",
+          "text": "La reflexión, porque el fondo devuelve la luz al observador",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
+          "feedback": "El fondo devuelve algo de luz, pero no por reflexion especular. Es el cambio de direccion al salir del agua, es decir la refraccion, lo que desplaza la imagen aparente del fondo."
         },
         {
           "letter": "C",
-          "text": "El corazón",
+          "text": "La dispersión, porque el agua separa los colores de la luz",
           "is_correct": false,
-          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
+          "feedback": "La dispersion separa colores, y no desplaza la posicion aparente de un objeto. Lo que hace que el fondo parezca mas alto es la refraccion, que curva hacia arriba la trayectoria de los rayos."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La interferencia, porque dos ondas se suman al llegar al ojo",
           "is_correct": false,
-          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
+          "feedback": "La interferencia requiere dos ondas que se superponen, cosa que no ocurre al mirar el fondo. El desplazamiento aparente de la imagen se debe al cambio de direccion de la luz, no a la suma de ondas."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
+      "explanation": "Al salir del agua hacia el aire, los rayos se desvian de la vertical, de modo que llegan al ojo procediendo de un punto situado por encima del fondo. Esa imagen virtual mas alta es la que hace parecer poco profunda la piscina.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Salvador estudiando luz optica.",
+      "statement": "Si la sombra de una pértiga de 2 metros mide 1 metro cuando el sol está alto, ¿cuánto mide la sombra de una pértiga de 6 metros en el mismo instante?",
+      "context": "Rosa María mide la sombra de una pértiga de 2 metros a mediodía en el patio del colegio de San Vicente.",
       "options": [
         {
-          "letter": "D",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
+          "text": "3 metros, porque la longitud de la sombra es proporcional a la altura",
+          "is_correct": true,
+          "feedback": "Correcto. A igual hora y con el mismo sol, la sombra guarda la misma proporcion que el objeto. Si 2 metros de altura dan 1 de sombra, 6 metros de altura daran 3 de sombra."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "6 metros, porque la sombra tiene siempre la misma longitud que la pértiga",
           "is_correct": false,
-          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
+          "feedback": "La sombra es mas corta que el objeto cuando el sol esta alto. Medir 1 metro de sombra para una pertiga de 2 metros muestra esa diferencia, y no una relacion de uno a uno."
         },
         {
           "letter": "C",
-          "text": "El tipo de planta",
+          "text": "1 metro, porque la sombra no depende de la altura del objeto",
           "is_correct": false,
-          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
+          "feedback": "La sombra si depende de la altura. Con el mismo sol, un objeto mas alto proyecta una sombra mas larga, de modo que una pertiga de 6 metros no puede dar la misma sombra de 1 metro."
+        },
+        {
+          "letter": "D",
+          "text": "12 metros, porque la altura se triplica y la sombra se multiplica por seis",
+          "is_correct": false,
+          "feedback": "Multiplicar por seis no corresponde a ninguna relacion de la geometria del caso. Con la misma proporcion de uno a dos, la sombra de 6 metros de altura es de 3 metros, y no de 12."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Cuando el sol no cambia de posicion, los rayos mantienen el mismo angulo y la sombra es proporcional a la altura. Los dos triángulos formados son semejantes, y esa semejanza fija la proporcion entre altura y sombra.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
+      "statement": "Si una lupa se usa muy cerca del objeto y produce una imagen mayor y derecha, ¿qué tipo de lente es?",
+      "context": "Priscilla examina una lupa en el laboratorio de la clase de San Juan Bautista.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
+          "letter": "B",
+          "text": "Convergente, porque concentra los rayos y engorda el objeto cercano",
           "is_correct": true,
-          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
+          "feedback": "Correcto. La lupa es una lente convergente usada como lupa. Colocada cerca del objeto forma una imagen virtual, derecha y mayor, que es lo que permite ver los detalles ampliados."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "Divergente, porque separa los rayos y reduce la imagen",
           "is_correct": false,
-          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
+          "feedback": "Una lente divergente forma imagenes mas pequenas, nunca mayores. Como la lupa amplia el objeto, la única opcion posible es una lente convergente, y no una divergente."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Plana, porque no modifica la dirección de los rayos",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
+          "feedback": "Una lente plana no cambia la direccion de la luz y, por tanto, no agranda nada. El efecto de ampliacion de una lupa se debe a su curvatura, y no a una superficie plana."
+        },
+        {
+          "letter": "D",
+          "text": "Cylindrica, porque aumenta solo una de las dimensiones",
+          "is_correct": false,
+          "feedback": "Una lente cilindrica altera una sola direccion y se usa para estirar un texto, no para ampliar una imagen completa. La lupa que agranda en los dos ejes es una lente convergente de forma circular."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Una lupa es una lente convergente de corta distancia focal. Usada a menos de su distancia focal forma una imagen virtual, derecha y mayor, y por eso permite distinguir detalles que a simple vista no se ven.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -459,36 +459,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Santa Ana estudiando luz optica.",
+      "statement": "Durante un eclipse total de Sol, ¿qué impide que la luz del Sol llegue a la superficie de la Tierra?",
+      "context": "Fernando observa el cielo durante un eclipse total en la clase de física de San Salvador.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
+          "text": "La Luna, que se interpone entre el Sol y la Tierra",
+          "is_correct": true,
+          "feedback": "Correcto. En un eclipse total la Luna queda entre el Sol y la Tierra y bloquea la luz solar. Durante la totalidad, la corona solar queda visible alrededor del disco oscuro de la Luna."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "La Tierra, que se interpone entre el Sol y la Luna",
           "is_correct": false,
-          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
+          "feedback": "Esa es la disposicion de un eclipse lunar, no de uno solar. En el eclipse de Sol el cuerpo que se interpone es la Luna, y es ella la que oculta la estrella."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "Las nubes, que bloquean temporalmente el paso de la luz",
           "is_correct": false,
-          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
+          "feedback": "Las nubes producen una ocultacion parcial y difusa, y no un eclipse. El eclipse total exige que la Luna se alinee con precision entre el Sol y la Tierra."
+        },
+        {
+          "letter": "D",
+          "text": "La atmósfera, que desvía los rayos fuera de la superficie",
+          "is_correct": false,
+          "feedback": "La atmosfera dispersa parte de la luz y produce el resplandor del cielo, y no un eclipse total. El oscurecimiento completo se debe a la alineacion exacta de la Luna con el Sol."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "A",
+      "explanation": "El eclipse total de Sol se produce por la alineacion de Sol, Luna y Tierra en ese orden. La Luna hace de pantalla y oculta el disco solar, lo que permite observar la corona durante la totalidad.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Miguel estudiando luz optica.",
+      "statement": "¿En qué condición debe estar el sol respecto al observador para ver un arcoíris?",
+      "context": "Christian prepara un experimento sobre el arcoíris en el patio del colegio de Antiguo Cuscatlán.",
       "options": [
         {
-          "letter": "D",
-          "text": "15 N",
+          "letter": "C",
+          "text": "Detrás del observador, con la lluvia enfrente",
           "is_correct": true,
-          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 5\\,\\text{m/s}^2 = 15\\,\\text{N}$."
+          "feedback": "Correcto. Para ver el arcoiris el sol debe quedar a la espalda de quien mira y el agua de la lluvia debe estar enfrente. La luz se refracta, se dispersa y se refleja dentro de las gotas."
         },
         {
           "letter": "A",
-          "text": "12 N",
+          "text": "Delante del observador, mirando directamente hacia él",
           "is_correct": false,
-          "feedback": "Restaste la masa al producto, $15 - 3 = 12$, pero $F = m \\cdot a$ es un producto, no una resta. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "Mirar de frente al sol no permite ver el arcoiris. Ese es precisamente el lado que debe quedar a la espalda, porque la luz debe entrar por la espalda del observador."
         },
         {
           "letter": "B",
-          "text": "20 N",
+          "text": "Justo encima del observador, en el cenit del cielo",
           "is_correct": false,
-          "feedback": "Añadiste la aceleración al producto, $15 + 5 = 20$, cuando lo correcto es multiplicar masa por aceleración. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "Con el sol en el cenit la dispersion se produce en angulos muy distintos de los que alcanza el ojo. El arcoiris exige que el sol este bajo, detras de quien observa."
         },
         {
-          "letter": "C",
-          "text": "3 N",
+          "letter": "D",
+          "text": "En cualquier posición, porque el arcoiris siempre es visible",
           "is_correct": false,
-          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $5\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "El arcoiris solo se ve con una disposicion concreta del sol, del agua y del observador. Con el sol delante o en alto, los rayos dispersos no llegan a la posicion donde el ojo los espera."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "F = ma = 3×5 = 15 N.",
+      "correct_answer": "C",
+      "explanation": "El arcoiris se observa con el sol a la espalda del observador y gotas de agua delante. La luz blanca se refracta al entrar en la gota, se dispersa en sus componentes y sale tras una reflexión interna y se dirige hacia el ojo.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,172 +549,37 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando luz optica.",
+      "statement": "¿Qué forma tiene la sombra de un objeto opaco iluminado por una fuente puntual?",
+      "context": "Guadalupe proyecta la sombra de una maqueta en la pared durante la clase de óptica de Sonsonate.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
+          "letter": "B",
+          "text": "Es una proyección del propio objeto, porque la luz no lo atraviesa",
           "is_correct": true,
-          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
+          "feedback": "Correcto. Un cuerpo opaco bloquea la luz y la fuente no puede iluminar la region que queda tras el. En esa zona se proyecta una figura con la misma forma que el objeto."
         },
         {
           "letter": "A",
-          "text": "El hígado",
+          "text": "Es un círculo, porque toda fuente luminosa produce formas redondas",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
+          "feedback": "La forma de la sombra depende de la del objeto que la proyecta. Un cuerpo opaco rectangular da una sombra rectangular, de modo que la forma no proviene de la fuente."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "No se proyecta ninguna sombra, porque la luz rodea al objeto",
           "is_correct": false,
-          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Santa Ana estudiando luz optica.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
-        },
-        {
-          "letter": "B",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
-        },
-        {
-          "letter": "C",
-          "text": "La temperatura ambiente",
-          "is_correct": false,
-          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
+          "feedback": "Un cuerpo opaco no deja pasar la luz, y por eso interrumpe los rayos que lo alcanzarian. Esa interrupcion es precisamente lo que produce una region oscura con la forma del objeto."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Es una imagen invertida del objeto, como en un espejo",
           "is_correct": false,
-          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
+          "feedback": "La sombra es una simple proeccion, sin relacion de inversion ni de aumento. Una imagen especular invertida requiere un espejo, y no aparece simplemente al bloquear luz con un cuerpo opaco."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando luz optica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
-        },
-        {
-          "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
-        },
-        {
-          "letter": "C",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
-      "periodo": 29,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto. La fotosíntesis usa la energía de la luz solar para fabricar glucosa, es decir, convierte energía luminosa en energía química."
-        },
-        {
-          "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "La respiración celular libera energía a partir de la glucosa; consume oxígeno y no utiliza la luz solar, al contrario que la fotosíntesis."
-        },
-        {
-          "letter": "B",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "La fermentación es una vía anaeróbica de las levaduras y las bacterias, sin participación de la luz."
-        },
-        {
-          "letter": "C",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "La digestión descompone los alimentos en el tubo digestivo; es un proceso del organismo, no una transformación de luz en energía química."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La sombra es la region donde la luz no puede llegar porque un cuerpo opaco se lo impide. Su forma reproduce la silueta del objeto, y no depende de la forma de la fuente que ilumina.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -728,37 +593,127 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
+      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v14",
+      "statement": "¿Qué diferencia hay entre la luz y el sonido en su capacidad de viajar en el vacío?",
+      "context": "Sandra mide el tiempo que tarda el sonido en recorrer una pared en la clase de física de Metapán.",
       "options": [
         {
           "letter": "A",
-          "text": "15 N",
+          "text": "Que la luz viaja en el vacío y el sonido necesita un medio material",
           "is_correct": true,
-          "feedback": "Correcto. Por la segunda ley de Newton, $F = m \\cdot a = 3\\,\\text{kg} \\times 5\\,\\text{m/s}^2 = 15\\,\\text{N}$."
+          "feedback": "Correcto. La luz es una onda electromagnética y se propaga sin necesidad de materia. El sonido es una onda mecanica y requiere particulas que vibren, de modo que no existe en el vacio."
         },
         {
           "letter": "B",
-          "text": "12 N",
+          "text": "Que el sonido viaja en el vacío y la luz necesita un medio",
           "is_correct": false,
-          "feedback": "Restaste la masa al producto, $15 - 3 = 12$, pero $F = m \\cdot a$ es un producto, no una resta. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "La relacion esta invertida. Es la luz la que se propaga sin medio, mientras que el sonido, al ser onda mecanica, queda detenido en el vacio."
         },
         {
           "letter": "C",
-          "text": "20 N",
+          "text": "Que ambas necesitan un medio, pero la luz necesita uno menos denso",
           "is_correct": false,
-          "feedback": "Añadiste la aceleración al producto, $15 + 5 = 20$, cuando lo correcto es multiplicar masa por aceleración. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "La luz no necesita ningun medio para propagarse. En el espacio entre las galaxias, lejos de cualquier materia, sigue viajando, mientras que el sonido ahi no puede existir."
         },
         {
           "letter": "D",
-          "text": "3 N",
+          "text": "Que ninguna de las dos puede viajar en el vacío",
           "is_correct": false,
-          "feedback": "Ese número es solo la masa del objeto; falta multiplicarla por la aceleración de $5\\,\\text{m/s}^2$. Con $m = 3\\,\\text{kg}$ y $a = 5\\,\\text{m/s}^2$, la fuerza es $F = 3 \\cdot 5 = 15\\,\\text{N}$."
+          "feedback": "Eso es cierto solo para el sonido. La luz, al ser una onda electromagnética, se propaga en el vacio, y por eso vemos la luz de estrellas lejanas que llegan a la Tierra."
         }
       ],
       "correct_answer": "A",
-      "explanation": "F = ma = 3×5 = 15 N.",
+      "explanation": "La luz es una oscilación del campo electromagnético y no necesita materia para avanzar. El sonido es una oscilacion de particulas del medio, y sin un material elástico no hay forma de transportarlo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v15",
+      "statement": "¿Qué ventaja tiene un telescopio frente a un ojo desnudo al observar un astro lejano?",
+      "context": "Wendy revisa el esquema de un telescopio en la clase de óptica de Chalatenango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que aumenta el tamaño aparente del astro al reunir más luz en un punto",
+          "is_correct": true,
+          "feedback": "Correcto. Un telescopio capta mucha mas luz que el ojo y la concentra, de modo que el astro se ve mayor y mas brillante. Esa ganancia es lo que permite observar objetos muy distantes."
+        },
+        {
+          "letter": "B",
+          "text": "Que acerca físicamente el astro al observador",
+          "is_correct": false,
+          "feedback": "Ningun telescopio desplaza al astro. Lo que aumenta es el tamaño aparente de la imagen, mientras que la distancia real del objeto permanece igual."
+        },
+        {
+          "letter": "C",
+          "text": "Que elimina la atmósfera, que es la causa de la seeing",
+          "is_correct": false,
+          "feedback": "El telescopio no suprime la atmosfera, y la seeing sigue afectando a la imagen. Para reducir ese efecto existen filtros y tecnicas de adaptacion, pero ninguna consiste en eliminar el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Que cambia el color real del astro al observarlo",
+          "is_correct": false,
+          "feedback": "El color que registra el telescopio es el color emitido por el astro, modulando por la atmosfera. El aumento de luz no altera el tono, y solo lo hace parecer mas intenso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un telescopio tiene un area colectora grande para reunir mucha luz y concentrarla, lo que aumenta el brillo y el tamaño aparente del objeto. Esa es la diferencia que separa la observacion con instrumento de la vista a simple vista.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v16",
+      "statement": "Si el índice de refracción del agua es 1,3 y el del aire es 1,0, ¿qué ocurre con la luz al entrar desde el aire al agua?",
+      "context": "Iván lee en el cuaderno la definición de índice de refracción en la clase de física de Ayutuxte.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Ralentiza su propagación y cambia de dirección en la interfaz",
+          "is_correct": true,
+          "feedback": "Correcto. Al pasar a un medio opticamente mas denso, la luz baja su rapidez y se desvía hacia la normal. La razon entre las dos rapideces es precisamente el indice de refraccion, 1,3 en este caso."
+        },
+        {
+          "letter": "A",
+          "text": "Acelera su propagación porque encuentra más densidad",
+          "is_correct": false,
+          "feedback": "Una mayor densidad optica no acelera la luz, sino que la frena. El indice de refraccion relaciona la rapidez en el vacio con la del medio, y al ser mayor de uno la rapidez disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "Mantiene su rapidez y su dirección porque la luz no se altera",
+          "is_correct": false,
+          "feedback": "La luz si cambia de rapidez al pasar de un medio a otro. En la interfaz entre aire y agua se produce una refraccion, que altera tanto la rapidez como la direccion del rayo."
+        },
+        {
+          "letter": "D",
+          "text": "Ralentiza su propagación pero sigue en línea recta",
+          "is_correct": false,
+          "feedback": "La frenada y el cambio de direccion van juntos en la refraccion. Si la luz solo cambiara de rapidez sin desviarse, no habria refraccion, y eso no ocurre al atravesar la interfaz del agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El indice de refraccion mide cuanto se frena la luz en un medio respecto al vacio. Al pasar del aire al agua la rapidez baja y el rayo se desvía hacia la normal, porque el medio es opticamente mas denso.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,42 +728,87 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando luz optica.",
+      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v17",
+      "statement": "¿Qué propiedad explica que la fibra óptica transporte la luz a lo largo de un cable curva?",
+      "context": "Christian revisa el comportamiento de la luz en el fibroscopio del laboratorio de la clase de San Fernando.",
       "options": [
         {
           "letter": "C",
-          "text": "La piel",
+          "text": "La reflexión total interna, que obliga a la luz a seguir la curva del material",
           "is_correct": true,
-          "feedback": "Correcto. La piel envuelve todo el cuerpo y es el órgano de mayor tamaño y peso del organismo humano."
+          "feedback": "Correcto. La luz que entra en la fibra por un extremo se choca con las paredes desde dentro y se refleja por completo. Asi queda atrapada y puede recorrer trayectorias curvas casi sin perder intensidad."
         },
         {
           "letter": "A",
-          "text": "El hígado",
+          "text": "La refracción continua, que desvía la luz poco a poco en cada choque",
           "is_correct": false,
-          "feedback": "El hígado es la glándula más grande del cuerpo, pero es un órgano interno; la piel lo supera en tamaño y superficie."
+          "feedback": "En la fibra la luz no se refracta hacia fuera, sino que se refleja por dentro. Ese fenomeno se llama reflexión total interna, y es lo que permite que la luz no se escape del material."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "La absorción del cladding, que convierte la luz en calor dentro de la fibra",
           "is_correct": false,
-          "feedback": "El corazón es la bomba de la sangre y ocupa mucho menos espacio que la piel, que cubre la superficie completa."
+          "feedback": "La fibra está diseñada para perder lo menos posible, no para absorber. Si la luz se absorbiera, no llegaria al otro extremo, y por eso el revestimiento existe precisamente para impedir esa fuga."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "La difracción en el núcleo, que curva la luz alrededor de cada obstáculo",
           "is_correct": false,
-          "feedback": "Los pulmones son los órganos del aparato respiratorio y su superficie interna combinada no alcanza la de la piel."
+          "feedback": "La difracción ocurre cuando la luz pasa por aberturas muy pequeñas comparadas con su longitud de onda. En la fibra optica lo dominante es la reflexión interna, y no ese desvío de la luz alrededor de los bordes."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "explanation": "En la fibra óptica la luz viaja por reflexión total interna dentro de un núcleo de mayor índice que el revestimiento. Cada choque devuelve la luz hacia el interior, de modo que puede seguir incluso curvas cerradas.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v18",
+      "statement": "Si un filtro rojo se coloca delante de una luz blanca, ¿qué color de luz llega a la pantalla?",
+      "context": "Karla y su equipo preparan un festival de luz con varios filtros de color en la clase de óptica de la escuela de Metapán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo, porque el filtro deja pasar el rojo y absorbe los demás colores",
+          "is_correct": true,
+          "feedback": "Correcto. Un filtro de color deja pasar la componente de su propio tono y absorbe el resto. Por eso la luz blanca se vuelve roja al atravesar un filtro rojo, y se oscurece al usar dos filtros de colores distintos."
+        },
+        {
+          "letter": "B",
+          "text": "Blanco, porque el filtro no modifica el color de la luz que lo atraviesa",
+          "is_correct": false,
+          "feedback": "El filtro modifica precisamente el color de la luz que lo atraviesa. Es selectivo, de modo que transmite su propio color y retiene los otros, y por eso la salida ya no es blanca."
+        },
+        {
+          "letter": "C",
+          "text": "Azul, porque el filtro rojo y el azul se combinan en la pantalla",
+          "is_correct": false,
+          "feedback": "Un filtro no combina colores, sino que los selecciona. Al poner un filtro rojo delante de la luz blanca, el color que llega es el rojo, y no una mezcla con el azul."
+        },
+        {
+          "letter": "D",
+          "text": "Verde, porque es el color que queda al restar el rojo y el azul",
+          "is_correct": false,
+          "feedback": "Restar colores no es como restar cantidades, y un filtro no opera de esa manera. El filtro rojo transmite el rojo y absorbe el resto, de modo que a la pantalla solo llega ese color."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los filtros de color son selectivos. Transmiten la banda correspondiente a su color y absorben las restantes, de modo que la luz blanca que los atraviesa aparece del color del filtro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
+      "statement": "¿Qué diferencia geométrica distingue a un espejo convexo de uno cóncavo?",
+      "context": "Rosa María compara un espejo convexo y uno cóncavo en el experimento de la clase de La Libertad.",
       "options": [
         {
           "letter": "A",
-          "text": "La exposición a la luz",
+          "text": "Que el convexo curva hacia afuera y el cóncavo hacia adentro",
           "is_correct": true,
-          "feedback": "Correcto. La variable independiente es la que el investigador cambia a propósito para medir su efecto; aquí se varía la exposición a la luz."
+          "feedback": "Correcto. La cara reflectante del espejo convexo abomba hacia el observador, mientras que en el cóncavo se hunde hacia el interior. Esa diferencia de curvatura decide si los rayos se separan o se concentran."
         },
         {
           "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "text": "Que el convexo es plano y el cóncavo es curvo",
           "is_correct": false,
-          "feedback": "El crecimiento es la variable dependiente: es la respuesta que se mide, y depende de la luz que se modifica."
+          "feedback": "Los dos espejos son curvos, y lo que cambia es el sentido de esa curvatura. El espejo plano es un caso aparte, porque no concentra ni separa los rayos, y su imagen es del mismo tamaño."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Que el cóncavo tiene el doble de radio que el convexo",
           "is_correct": false,
-          "feedback": "La temperatura es un factor externo que debe mantenerse constante para no interferir; la que se cambia a propósito es la luz."
+          "feedback": "El radio de curvatura no es lo que distingue a uno del otro. Ambos pueden tener el mismo radio y seguir siendo opuestos, porque lo que define su comportamiento es hacia donde se curvan los rayos al reflejarse."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Que el convexo refleja solo la luz que llega de frente",
           "is_correct": false,
-          "feedback": "El tipo de planta también se mantiene constante como factor controlado; la variable que el investigador modifica es la exposición a la luz."
+          "feedback": "Un espejo convexo refleja la luz que llega desde cualquier dirección, y la imagen sale virtual. Lo que hace es reducir el campo de visión útil, y no seleccionar una única dirección de incidencia."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "explanation": "En el espejo convexo la superficie refleja hacia el exterior y los rayos se separan. En el cóncavo la superficie curva hacia el interior, de modo que los rayos pueden converger y formar imagenes reales.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Soyapango estudiando luz optica.",
+      "statement": "Si entre el relámpago y el trueno pasan 3 segundos, ¿a qué distancia estimada está la tormenta?",
+      "context": "Priscilla mide el tiempo que tarda el trueno después de ver el relámpago en la clase de física de San Juan Bautista.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
+          "letter": "B",
+          "text": "A unos 1.000 metros, porque el sonido viaja cerca de 340 metros por segundo",
           "is_correct": true,
-          "feedback": "Correcto. Toda forma de vida se compone de células, y la célula es la unidad estructural y funcional de los seres vivos."
+          "feedback": "Correcto. El sonido recorre aproximadamente 340 metros cada segundo, de modo que 3 segundos equivalen a unos 1.020 metros. La luz es tan rapida que su llegada se percibe instantanea junto al relampago."
         },
         {
           "letter": "A",
-          "text": "El átomo",
+          "text": "A unos 3 metros, porque el tiempo medido equivale a la distancia en metros",
           "is_correct": false,
-          "feedback": "El átomo es la unidad de la materia en química, y por sí solo no es una unidad de la vida."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "Una molécula es un conjunto de átomos; la vida no se organiza en moléculas sino en células."
+          "feedback": "Convertir segundos directamente en metros no tiene sentido. Hay que multiplicar el tiempo por la rapidez del sonido, y no usar una equivalencia uno a uno."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "A unos 90 metros, porque el sonido es tres veces más lento que la luz",
           "is_correct": false,
-          "feedback": "El tejido es un conjunto de células con la misma función; la célula es el nivel anterior, no el posterior."
+          "feedback": "La luz no es tres veces mas rapida, sino millones de veces mas rapida que el sonido. Por eso el trueno se oye segundos despues, mientras que el relampago se ve practicamente al instante."
+        },
+        {
+          "letter": "D",
+          "text": "A unos 30 kilómetros, porque un trueno se oye a mucha distancia siempre",
+          "is_correct": false,
+          "feedback": "Un trueno a 30 kilometros tardaria casi dos minutos en oírse. Con 3 segundos de diferencia, la tormenta esta bastante cerca, y la cuenta da alrededor de un kilometro."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "B",
+      "explanation": "La distancia se obtiene multiplicando el tiempo transcurrido por la rapidez del sonido, unos 340 metros por segundo. El metodo de contar los segundos entre relampago y trueno es la forma mas sencilla de estimar la distancia de una tormenta.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W29-luz-optica-001-MASTERY-bundle",
       "periodo": 29,
       "protocol_version": "5.2",

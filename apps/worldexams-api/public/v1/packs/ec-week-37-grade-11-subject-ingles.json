@@ -8,127 +8,37 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
-        },
-        {
-          "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
-        },
-        {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
-        },
-        {
-          "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v1",
+      "statement": "What is the main idea of the text?",
+      "context": "Texto: 'Quito sits at 2,850 metres above sea level. Its thin air and bright light attract walkers from all over the world, although the equatorial sun makes the days hard on the skin.'",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
+          "text": "Quito is located at a height of 2,850 metres.",
+          "is_correct": false,
+          "feedback": "No. That figure is a supporting detail, because the text uses it to explain why the city attracts visitors."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "text": "Quito's altitude shapes both what attracts visitors to it and what makes it difficult for them.",
+          "is_correct": true,
+          "feedback": "Correct! Both sentences of the text contribute to this point, so it covers the whole passage."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "The equatorial sun damages the skin of everybody who lives in Quito.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "No. Only visitors are mentioned, and the last sentence is a qualification rather than the point of the passage."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Walkers travel from all over the world to climb the hills around Quito.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "No. The text says they come for the altitude itself and never mentions climbing the hills."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A main idea is a sentence that could stand as a title for the whole passage. Test each candidate by asking whether both sentences of the text point towards it. Here the altitude explains the attraction and the difficulty, so only the option that names both effects can serve as the main idea.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -143,37 +53,82 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v2",
+      "statement": "Which sentence best expresses the main idea of the passage?",
+      "context": "Texto: 'The library in Babahoyo used to close at six. Since the students began arriving from rural communities, the opening hours were extended to nine in the evening.'",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "The library in Babahoyo closed at six in the evening.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "No. That was the old arrangement, and the second sentence explains that it no longer holds."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "Many students in Babahoyo come from rural communities.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "No. The origin of the students is only the reason behind the change, not the change itself."
+        },
+        {
+          "letter": "C",
+          "text": "Rural libraries in Ecuador should stay open late at night.",
+          "is_correct": false,
+          "feedback": "No. The passage reports one decision; it does not argue for a general rule about other libraries."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "The library extended its evening opening because of the students who needed it.",
+          "is_correct": true,
+          "feedback": "Correct! It joins the change and its cause in one sentence, which is exactly what a main idea must do."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A passage usually presents a situation and then a response to it. When the second sentence explains why the first one happened, the main idea has to carry both parts. An option that reports only the situation, or only the reason, leaves half of the text outside the summary.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v3",
+      "statement": "Which detail in the text supports the main idea directly?",
+      "context": "Texto: 'In the coastal town of Manta the fishermen used to sell their catch at dawn. The noise and the middlemen persuaded most of them to sell at the municipal auction instead.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The noise of the dawn market and the pressure of the middlemen.",
+          "is_correct": true,
+          "feedback": "Correct! This detail explains why the fishermen changed the place where they sell."
+        },
+        {
+          "letter": "B",
+          "text": "The town of Manta is described as a coastal town.",
+          "is_correct": false,
+          "feedback": "No. That only locates the place, and it does not explain any change in the selling habits."
+        },
+        {
+          "letter": "C",
+          "text": "Fishermen traditionally work at night.",
+          "is_correct": false,
+          "feedback": "No. The text places their selling at dawn, not their work, and it does not mention night work at all."
+        },
+        {
+          "letter": "D",
+          "text": "The municipal auction opens at midday.",
+          "is_correct": false,
+          "feedback": "No. The passage gives no opening time for the auction and never mentions midday."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A supporting detail is the piece of information that makes the main idea plausible. To find it, first state the main idea in your own words and then ask which sentence in the passage supplies the reason, the example or the figure that the idea requires.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,86 +143,41 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v4",
+      "statement": "Which statement belongs to the main idea rather than to a detail?",
+      "context": "Texto: 'Rainfall in the Andean highlands has not fallen below average for nine consecutive years. Scientists at the university now compare the region with the driest period recorded since measurements began.'",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "Measurements in the highlands began at some point in the past.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "No. That appears only inside the final comparison and carries none of the general point."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "The university has scientists who study the climate.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "No. The subject is mentioned in order to name a source, not to develop the message of the text."
         },
         {
           "letter": "C",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "customs",
+          "text": "The highlands are facing a dry period of unusual length.",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Correct! This sentence could serve as the title of the passage and covers what follows."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Rainfall has stayed below average for exactly nine years.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "No. That figure supports the main idea, but it is one of the data points behind it."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Numbers, names and comparisons are usually details, because they answer narrower questions. The main idea is what those particulars add up to, and here they add up to an unusually long dry period, which is the sentence a reader would use as a heading.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
       "periodo": 37,
@@ -278,308 +188,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v5",
+      "statement": "Which sentence is NOT part of the main idea of the passage?",
+      "context": "Texto: 'The national park received 340,000 visitors last year, twice the figure of a decade earlier. Rangers say the new trail, opened in March, explains most of the increase.'",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "Visitor numbers have grown considerably over ten years.",
+          "is_correct": false,
+          "feedback": "No. That is the development the whole passage describes, so it belongs to the main idea."
         },
         {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "letter": "B",
+          "text": "The new mountain trail was opened in March.",
+          "is_correct": true,
+          "feedback": "No. That is the explanation offered by the rangers, a supporting detail and not the point of the passage."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "The park is receiving many more visitors than before.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "No. That is another formulation of the growth in visitor numbers, so it belongs to the main idea."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Something specific caused the increase in visitors.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "No. Attributing the rise to a recent change is part of the central message of the text."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
-          "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "B",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "C",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "C",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Excluding an option is as useful as choosing one. The details of a passage supply evidence for its central claim, so a date, a figure or a named change usually belongs outside the main idea even when the reader understands it perfectly.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -593,38 +233,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v6",
+      "statement": "What is the best main idea for this passage?",
+      "context": "Texto: 'Three schools in the Amazon region now teach in both Spanish and Kichwa. Test scores have not fallen, and half the pupils say they feel more comfortable asking questions in class.'",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "text": "Teaching in two languages has improved participation without damaging results.",
+          "is_correct": true,
+          "feedback": "Correct! It covers the decision, the consequence for the marks and the consequence for the pupils."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "The Amazon region has a large Kichwa-speaking population.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "No. The text gives no figures about the population and never makes that claim."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "Pupils who speak Kichwa at home perform better at school.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "No. The passage does not compare the results of pupils who speak the language at home with those of other pupils."
+        },
+        {
+          "letter": "D",
+          "text": "Three schools were closed because of a shortage of teachers.",
+          "is_correct": false,
+          "feedback": "No. Nothing in the passage mentions a shortage of teachers or the closure of any school."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A main idea is measured by coverage, not by how much of the passage it repeats. The strongest candidate here is the one that gathers the decision and both of its reported results, because a narrower summary would leave out half the evidence.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -638,37 +278,397 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v7",
+      "statement": "Which sentence captures the main idea of the passage?",
+      "context": "Texto: 'A district hospital in Napo began recording the origin of every patient. The map that resulted showed that two thirds of the cases came from communities more than an hour away.'",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "The hospital in Napo needed a better system for storing patient records.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "No. The text says nothing about storage and describes the collection of origins instead."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "People in remote communities do not trust hospitals.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "No. No attitude is described; the passage only reports where the patients travelled from."
+        },
+        {
+          "letter": "C",
+          "text": "Recording where patients came from revealed how far they travel for medical care.",
+          "is_correct": true,
+          "feedback": "Correct! It joins the action taken to the discovery it produced, which is what the two sentences deliver."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Most of the patients in the district came from the town itself.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "No. The passage says the opposite, since two thirds of the cases came from far away."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "explanation": "When a text describes an action and its result, the main idea names both. Reporting only the action leaves the reader without the point of the action, and reporting only the result loses the reason the hospital decided to gather the data in the first place.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v8",
+      "statement": "Which option states an idea that the passage does NOT include?",
+      "context": "Texto: 'The old bridge across the river was closed for repairs in June. Coaches were rerouted through the neighbouring province until the new surface was ready in August.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The bridge was unavailable for a period of time.",
+          "is_correct": false,
+          "feedback": "No. The text says exactly that, since it was closed from June until the repairs were finished."
+        },
+        {
+          "letter": "B",
+          "text": "Long-distance vehicles had to change their route.",
+          "is_correct": false,
+          "feedback": "No. That is the direct consequence of a closed bridge and is stated in the second sentence."
+        },
+        {
+          "letter": "C",
+          "text": "The surface of the bridge was improved.",
+          "is_correct": false,
+          "feedback": "No. The closing is described as a repair, and the new surface is mentioned when the bridge reopens."
+        },
+        {
+          "letter": "D",
+          "text": "The neighbouring province complained about the extra traffic.",
+          "is_correct": true,
+          "feedback": "No. The route change is reported; no reaction from the province appears anywhere in the text."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A passage states facts and leaves the rest open. Options that describe reactions, opinions or causes never mentioned in the text can be rejected immediately, which makes them useful distractors when you are asked what the passage does not include.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v9",
+      "statement": "What is the main idea of this passage?",
+      "context": "Texto: 'Volunteers cleared two hectares of mangroves near the estuary last spring. Fishers report that juvenile shrimp have returned to the channel where the planting was done.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two hectares of mangrove were cleared near the estuary.",
+          "is_correct": false,
+          "feedback": "No. That is the first action in the story, and it is reported by the sentence that sets the scene."
+        },
+        {
+          "letter": "B",
+          "text": "Restoring mangroves was followed by a return of young shrimp.",
+          "is_correct": true,
+          "feedback": "Correct! The passage is built around that sequence, from the planting to the effect on the channel."
+        },
+        {
+          "letter": "C",
+          "text": "Fishers along the estuary have become better informed about shrimp.",
+          "is_correct": false,
+          "feedback": "No. The text does not attribute any new knowledge to them, only an observation about the shrimp."
+        },
+        {
+          "letter": "D",
+          "text": "Mangrove restoration is cheaper than shrimp farming.",
+          "is_correct": false,
+          "feedback": "No. The passage contains no comparison of costs and never mentions shrimp farming."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Test and outcome passages are common in informational texts, and their main idea takes the form of a sequence. Restoring the mangroves is the test, the returning shrimp are the outcome, and the sentence that joins both is the one a heading could reproduce.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v10",
+      "statement": "Which statement best captures what the passage is mainly about?",
+      "context": "Texto: 'The town council has published the plans for the new plaza twice. On both occasions the comments received were few, and the work began without further consultation.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The plaza in the town will be larger than the old one.",
+          "is_correct": false,
+          "feedback": "No. The passage gives no dimensions and never compares the size of the new plaza with the old one."
+        },
+        {
+          "letter": "B",
+          "text": "Residents were asked to send comments about the plans.",
+          "is_correct": false,
+          "feedback": "No. The plans were published twice, but the text describes no request for opinions from anyone."
+        },
+        {
+          "letter": "C",
+          "text": "The town council has published two sets of plans.",
+          "is_correct": false,
+          "feedback": "No. The plans were published twice, yet the repetition is the setting of the story and not its point."
+        },
+        {
+          "letter": "D",
+          "text": "A public consultation was held but drew almost no response.",
+          "is_correct": true,
+          "feedback": "Correct! That sentence condenses the whole passage, including the repetition, the silence and the decision to continue."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "When a detail repeats twice in a text, that repetition is a signal. Two publications followed by two rounds of silence are there to build the point about a consultation that failed to involve the public, and the main idea has to name that failure.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v11",
+      "statement": "Which sentence gives the main idea of the passage?",
+      "context": "Texto: 'Every morning the students of a rural school collect a plastic bag full of waste from the riverbank. In six months they have removed 400 kilograms and counted 31 species of bird along the same stretch of river.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A school group combined river clean-up work with wildlife recording.",
+          "is_correct": true,
+          "feedback": "Correct! The passage names both activities and the two figures that belong to each of them."
+        },
+        {
+          "letter": "B",
+          "text": "The students found 31 species of bird near their school.",
+          "is_correct": false,
+          "feedback": "No. That is one of the two results and it leaves the other half of the passage outside the summary."
+        },
+        {
+          "letter": "C",
+          "text": "Plastic waste is a serious problem in the Ecuadorian countryside.",
+          "is_correct": false,
+          "feedback": "No. The passage reports a local action and never generalises about the country as a whole."
+        },
+        {
+          "letter": "D",
+          "text": "Riverbanks attract more birds than plastic banks do.",
+          "is_correct": false,
+          "feedback": "No. Nothing in the text compares birds with waste, and no such relationship is described."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Two parallel activities and two figures make one message. A main idea that mentions only the birds, or only the kilograms of waste, drops half the evidence, and a sentence that generalises to the whole country goes beyond what the passage supports.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v12",
+      "statement": "Which option best states the point of the passage?",
+      "context": "Texto: 'Reading for pleasure has dropped among secondary students, yet sales of printed novels in the country have risen slightly. Librarians attribute the difference to the growth of study guides for the university entrance exam.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secondary students read less for pleasure than before.",
+          "is_correct": false,
+          "feedback": "No. That sentence opens the passage and supplies the situation that the rest of the text complicates."
+        },
+        {
+          "letter": "B",
+          "text": "The sales of printed novels in the country have risen.",
+          "is_correct": false,
+          "feedback": "No. The rise is true, but the passage uses it as evidence against the first impression rather than as its conclusion."
+        },
+        {
+          "letter": "C",
+          "text": "More books are being sold for study than for pleasure.",
+          "is_correct": true,
+          "feedback": "Correct! Reconciling both figures is what the passage exists to do, so this is the message it delivers."
+        },
+        {
+          "letter": "D",
+          "text": "Librarians disagree with the publishers about sales figures.",
+          "is_correct": false,
+          "feedback": "No. The librarians explain the difference; the text reports no disagreement between the two groups."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A text may open with a fact that the closing paragraph qualifies. Here the fall in recreational reading is set against a rise in total sales, and the explanation given resolves the apparent contradiction, which is the true main idea.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v13",
+      "statement": "Which of these is a supporting detail of the main idea?",
+      "context": "Texto: 'In the province of Tungurahua the rainy months now begin two weeks later than the averages recorded in the 1980s. Farmers of the higher slopes have moved coffee a little further down the mountain to protect the frosts.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The averages for the rainy months were recorded in the 1980s.",
+          "is_correct": false,
+          "feedback": "No. That date belongs to the comparison that sets up the main idea rather than to the evidence for it."
+        },
+        {
+          "letter": "B",
+          "text": "Farmers have shifted coffee down the mountain.",
+          "is_correct": true,
+          "feedback": "Correct! That change is the practical response the passage gives as proof of the consequences."
+        },
+        {
+          "letter": "C",
+          "text": "The province of Tungurahua is in Ecuador.",
+          "is_correct": false,
+          "feedback": "No. The name of the province only locates the scene and supports nothing that follows."
+        },
+        {
+          "letter": "D",
+          "text": "Rainy months always begin earlier in the year than dry ones.",
+          "is_correct": false,
+          "feedback": "No. The text is about a delay in the start of the rains and makes no such general statement."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A supporting detail answers the question of how the reader knows the main idea is true. In a passage about a climatic shift, the responses of the people who live with it provide that proof, while the dates of the comparison belong to the framing of the passage.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v14",
+      "statement": "Which sentence expresses the main idea of the passage?",
+      "context": "Texto: 'The school in the highlands runs a class that meets before dawn, when the pupils who walk long distances have not yet left. Attendance has stayed above ninety per cent since the schedule changed.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Some pupils in the highlands walk long distances to school.",
+          "is_correct": false,
+          "feedback": "No. That is the difficulty the new schedule tries to answer, and it is only part of the text."
+        },
+        {
+          "letter": "B",
+          "text": "The school offers a class that begins before dawn.",
+          "is_correct": false,
+          "feedback": "No. The arrangement is the first half of the story, while the result in the second sentence completes it."
+        },
+        {
+          "letter": "C",
+          "text": "Attendance in rural schools often falls below ninety per cent.",
+          "is_correct": false,
+          "feedback": "No. The passage says nothing about other schools and gives no comparison of that kind."
+        },
+        {
+          "letter": "D",
+          "text": "An early class was introduced and attendance has stayed high since.",
+          "is_correct": true,
+          "feedback": "Correct! It joins the measure taken with the result obtained, which is the shape of the whole passage."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Measured results are the usual core of an informational text, and the sentence that reports them belongs in the main idea. The description of the measure itself remains supporting material, however vivid or useful it is for the reader.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v15",
+      "statement": "What is the main idea of the passage?",
+      "context": "Texto: 'Water from the mountain above the village arrives once a week by pipeline. The council has now collected enough signatures to ask the regional government for a second connection, which the regional office says it will study.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The village in the mountains receives water by pipeline.",
+          "is_correct": false,
+          "feedback": "No. That describes how the supply works today and forms the background of the passage."
+        },
+        {
+          "letter": "B",
+          "text": "The village has asked for a second water connection and the request is under consideration.",
+          "is_correct": true,
+          "feedback": "Correct! The request and the answer from the regional office are the two steps the passage reports."
+        },
+        {
+          "letter": "C",
+          "text": "The regional government has promised the village a second connection.",
+          "is_correct": false,
+          "feedback": "No. The office says only that it will study the request, which is not the same as a promise."
+        },
+        {
+          "letter": "D",
+          "text": "Mountain villages are ignored by regional governments in Ecuador.",
+          "is_correct": false,
+          "feedback": "No. The text reports a single request and its reception, and it draws no conclusion about other villages."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Careful reading distinguishes study, consider and promise, and passages usually test that distinction. Here the tense of the regional answer matters: an intention to study is not a commitment to provide, so the accurate summary has to preserve that gap.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -683,38 +683,83 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v16",
+      "statement": "Which detail best illustrates the difficulty mentioned in the passage?",
+      "context": "Texto: 'The province has 2,400 native tree species, and less than a fifth of the original forest is still standing. A restoration programme planted 190,000 seedlings in five years, covering an area smaller than a football field in total.'",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "The province holds 2,400 native tree species.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "No. That figure measures the richness of the region and says nothing about the difficulty of restoring it."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Less than a fifth of the original forest remains.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "No. That is part of the problem stated in the text, but it does not illustrate the difficulty of the response."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Five years of planting covered an area smaller than a football field.",
+          "is_correct": true,
+          "feedback": "Correct! The disproportion between the effort and the result is what shows how hard the restoration is."
+        },
+        {
+          "letter": "D",
+          "text": "The programme used native seedlings.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "No. The passage never states what kind of seedlings were used, so this cannot illustrate anything."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Illustrating a difficulty means finding the detail that makes the problem visible. The contrast between five years of effort and a very small area is exactly the kind of comparison a reader needs in order to feel how slow the recovery will be.\n\n---",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v17",
+      "statement": "Which sentence best states the central message of the passage?",
+      "context": "Texto: 'Most of the graduates interviewed last year said they would choose the same field again. When asked why, two out of three mentioned the moment they first worked in a real project during their studies.'",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Practical experience during the degree appears to have shaped career satisfaction.",
+          "is_correct": true,
+          "feedback": "Correct! The two figures are linked by the word that connects them, and that link is the message of the text."
+        },
+        {
+          "letter": "B",
+          "text": "Most graduates would not change their degree subject.",
+          "is_correct": false,
+          "feedback": "No. That is the opening fact and it leaves the explanation offered by the graduates outside the summary."
+        },
+        {
+          "letter": "C",
+          "text": "Universities should add more practical projects to their programmes.",
+          "is_correct": false,
+          "feedback": "No. The text reports what graduates said and does not present the recommendation of anybody."
+        },
+        {
+          "letter": "D",
+          "text": "Two out of three graduates were dissatisfied with their studies.",
+          "is_correct": false,
+          "feedback": "No. The figure counts those who gave a particular reason, not those who were dissatisfied."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "The bridge between two figures is often where the main idea hides. Here the percentage of graduates who would repeat the choice is attributed to the practical work they did, so the message concerns what made them satisfied, not merely how satisfied they were.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,38 +773,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v18",
+      "statement": "Which statement is the most accurate summary of the passage?",
+      "context": "Texto: 'The municipality installed 40 smart meters in one neighbourhood last year. Bills in the area fell by eleven per cent, and the reports now reaching the council assume the saving came from residents who had never been shown their previous consumption.'",
       "options": [
         {
-          "letter": "D",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "The municipality has proved that smart meters reduce consumption.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "No. The text reports a fall and then immediately questions the explanation that would justify that claim."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Residents in the neighbourhood pay less money for their water.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "No. The text reports a fall in bills by eleven per cent without ever specifying which service is billed."
         },
         {
           "letter": "C",
-          "text": "price",
+          "text": "The council has decided to install smart meters everywhere.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "No. Forty meters in one neighbourhood is all the passage mentions, and no wider decision appears."
+        },
+        {
+          "letter": "D",
+          "text": "The reported fall in bills may owe more to unfamiliar readings than to the new meters.",
+          "is_correct": true,
+          "feedback": "Correct! It keeps both the measurement and the doubt expressed in the last sentence."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "A careful summary keeps the hedging of the original. When a text finishes by questioning the explanation of its own first sentence, the summary that reproduces both without strengthening either is the one that matches what the author actually claims.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -773,38 +818,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v19",
+      "statement": "Which option is a fair main idea and a fair conclusion from the passage?",
+      "context": "Texto: 'Attendance at the regional science fair fell for the third year running. The organisers blamed the date, which was announced late, and have moved the event to the second week of the school year with the calendar fixed a year in advance.'",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
+          "letter": "A",
+          "text": "Science fairs in the region are losing popularity with teachers.",
+          "is_correct": false,
+          "feedback": "No. The passage reports falling attendance and attributes it to the timing, not to a loss of interest."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "letter": "B",
+          "text": "A recurring decline led to a change in scheduling intended to restore participation.",
+          "is_correct": true,
+          "feedback": "Correct! It joins the problem, the diagnosis offered and the measure taken, without claiming more than the text supports."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "The organisers will cancel the fair if attendance falls again.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "No. The passage reports a change of dates and no decision of any kind about the following year."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The late announcement was the only reason for the fall in attendance.",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "No. The organisers offer that explanation, but the text presents it as their view rather than as a proved cause."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Summary questions punish both omissions and additions. A complete answer names the problem, the explanation the author proposes and the action taken, while stopping short of endorsing the explanation or predicting an outcome the text never mentions.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -818,83 +863,38 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v20",
+      "statement": "Which reading best explains what the passage as a whole is built to make the reader notice?",
+      "context": "Texto: 'The regional government published the list of projects approved for the last quarter. Four of the seven entries concern the same road, while the health centre promised for two years appears nowhere in the list.'",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "letter": "A",
+          "text": "The regional government publishes lists of projects at the end of each quarter.",
+          "is_correct": false,
+          "feedback": "No. That is the occasion the text describes and not the point it is making."
         },
         {
-          "letter": "A",
-          "text": "medication",
+          "letter": "B",
+          "text": "Roads are usually approved more often than health centres.",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "No. The passage reports four road entries out of seven, but draws no comparison with any other region or period."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "text": "The distribution of approved funds is unbalanced, and an unmet promise goes unmentioned.",
+          "is_correct": true,
+          "feedback": "Correct! The imbalance and the absence of the health centre are the two observations the list was presented to reveal."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The health centre has been abandoned permanently.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "No. Its absence from one quarterly list is not evidence that the project has been abandoned for good."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "At the highest level the task is to identify the point the evidence is assembled to support. Here the repetition of road entries and the omission of a promised facility are presented together so that the reader draws a conclusion about balance, which is the real subject of the passage.",
       "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
-          "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
-        },
-        {
-          "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

@@ -128,7 +128,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Una constitucion democratica reconoce la dignidad de todas las personas y garantiza derechos civiles, politicos, sociales y culturales, no solo una facultad economica.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -173,7 +173,7 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "explanation": "Cuando un pais exporta mas de lo que importa, obtiene un superavit comercial, porque los ingresos por ventas al exterior superan a los gastos por compras.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando ciudadania global.",
+      "statement": "Que caracteriza a una persona ciudadana global",
+      "context": "El profesor de San Salvador presenta a los estudiantes la idea de ciudadania global.",
       "options": [
         {
-          "letter": "D",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Que sustituye el concepto de ciudadania por el de nacionalidad unica",
+          "is_correct": true,
+          "feedback": "La nacionalidad unica pertenece a la idea de Estado centralizado, y no define la ciudadania global de ninguna manera."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Que pertenece a una sola nacion y no reconoce la existencia de otros estados",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Esa definicion corresponde a una mirada nacionalista, y no a la ciudadania global, que reconoce una comunidad entre paises."
         },
         {
           "letter": "C",
-          "text": "Un tratado internacional",
+          "text": "Que solo ejerce sus derechos dentro del territorio de su pais de origen",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "La ciudadania global extiende la preocupacion por los derechos mas alla de las fronteras, y no se limita al territorio nacional."
+        },
+        {
+          "letter": "D",
+          "text": "Que renuncia por completo a los derechos de su pais de origen",
+          "is_correct": false,
+          "feedback": "La ciudadania global no supone renunciar a los derechos locales, sino reconocer que hay obligaciones que trascienden la nacion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "A",
+      "explanation": "La ciudadania global reconoce que los derechos y las responsabilidades de las personas trascienden las fronteras de su pais de origen.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando ciudadania global.",
+      "statement": "Que organismo internacional supervisa el cumplimiento de los derechos humanos",
+      "context": "Un grupo del Colegio Nacional de Santa Tecla revisa los instrumentos que protegen los derechos humanos en el mundo.",
       "options": [
         {
-          "letter": "B",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
+          "letter": "A",
+          "text": "La Organizacion Mundial del Comercio",
+          "is_correct": false,
+          "feedback": "El organismo que regula el comercio internacional de bienes y servicios no supervisa los derechos humanos de las personas."
         },
         {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "letter": "B",
+          "text": "Las Naciones Unidas, mediante el Consejo de Derechos Humanos",
+          "is_correct": true,
+          "feedback": "El Consejo de Derechos Humanos de las Naciones Unidas revisa el cumplimiento de los derechos mediante informes y examenes periodicos."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
+          "text": "La Cruz Roja Internacional",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "La Cruz Roja attendia a las victimas de conflictos y desastres, de modo que su labor es de asistencia y no de supervision de derechos."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "La Agencia Internacional de Energia Atomica",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Ese organismo regula el uso peaceful de la energia atomica, de modo que no es el supervisor de los derechos humanos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "explanation": "Las Naciones Unidas, a traves del Consejo de Derechos Humanos, es el organismo que revisa el cumplimiento de los derechos humanos.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
@@ -324,36 +324,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando ciudadania global.",
+      "statement": "Por que las personas emigran buscando refugio en otro pais",
+      "context": "Una red regional de estudiantes trabaja en un proyecto sobre el refugio de migrantes.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Porque en su pais de origen no hay trabajo disponible",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "La falta de trabajo es un motivo economico de emigracion, pero por si sola no constituye una solicitud de refugio."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Porque todos los emigrantes buscan un salario mas alto",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "La mayoria de los migrantes se mueve por motivos economicos, mientras que el refugio responde a un riesgo para la persona."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en su pais de origen existe un riesgo serio para su vida o su libertad",
+          "is_correct": true,
+          "feedback": "El refugio se concede cuando la vida o la libertad estan en riesgo, y el derecho internacional obliga al pais receptor a proteger a esa persona."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Porque su pais de origen dejo de existir como estado",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La extincion de un estado es una situacion distinta, y no es el motivo habitual por el que se concede el refugio."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Las personas buscan refugio cuando su vida o su libertad estan en riesgo, y el derecho internacional las protege en el pais que las recibe.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando ciudadania global.",
+      "statement": "Un Estado obliga a sus ciudadanos a trabajar siempre, sin limite de horas. Que principio vulnera",
+      "context": "Estudiantes de Santa Ana analizan un caso sobre derechos humanos en el trabajo.",
       "options": [
         {
           "letter": "A",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "text": "El derecho a la libertad de expresion",
+          "is_correct": false,
+          "feedback": "El trabajo forzoso vulnera la libertad personal de la persona, y no su libertad de expresion, que es un derecho distinto."
         },
         {
           "letter": "B",
-          "text": "Déficit comercial",
+          "text": "El derecho a la propiedad privada",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La expropiacion forzosa vulnera la propiedad privada, mientras que el trabajo obligatorio viola la libertad de la persona."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El derecho de asilo politico",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "El asilo politico protege a quien es perseguido en otro pais, y no se refiere a las obligaciones laborales internas de un Estado."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "text": "La prohibicion del trabajo forzoso",
+          "is_correct": true,
+          "feedback": "El trabajo forzoso esta prohibido por el derecho internacional, y la obligacion de trabajar sin descanso ni limite vulnera esa prohibicion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "D",
+      "explanation": "La obligacion de trabajar sin descanso ni limite vulnera la prohibicion del trabajo forzoso, que es un derecho humano reconocido.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando ciudadania global.",
+      "statement": "Que diferencia hay entre una organizacion internacional y una organizacion regional",
+      "context": "Un foro del Colegio Nacional de Ahuachapan discute el papel de las organizaciones internacionales.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
+          "letter": "A",
+          "text": "La internacional agrupa paises de varios continentes y la regional paises de una misma region",
           "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "feedback": "El alcance geografico es la diferencia, porque una organizacion internacional opera en varios continentes y una regional se limita a una region o bloque."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "La internacional solo existe en Europa y la regional solo en America",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Esa division por continentes no define el alcance, porque una organizacion regional puede existir en cualquier parte del mundo."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La regional trabaja siempre con menos paises que la internacional",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "El numero de paises es consecuencia del alcance geografico, y no la diferencia conceptual entre ambas organizaciones."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "No existe diferencia real entre una y otra",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Si la diferencia no existiera ambas categorias serian inutiles, y los organismos se distinguen claramente por su ambito de actuacion."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "A",
+      "explanation": "Una organizacion internacional opera con paises de varios continentes, y una regional agrupa paises de una misma region o bloque.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando ciudadania global.",
+      "statement": "Como puede el comercio internacional afectar los derechos humanos",
+      "context": "Un seminario del Colegio Nacional de San Vicente examina la relacion entre comercio y derechos.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "El comercio internacional elimina la pobreza en todos los paises",
+          "is_correct": false,
+          "feedback": "El comercio no elimina la pobreza por si solo, porque sus beneficios dependen de como se distribuyan entre las personas y los sectores."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "text": "Puede generar empleo y reducir la pobreza, pero tambien admitir condiciones laborales injustas",
+          "is_correct": true,
+          "feedback": "El comercio crea ingresos y puede sacar a familias de la pobreza, pero sin normas ni inspeccion admite trabajo explotador."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
+          "text": "El comercio internacional impide el trabajo infantil en todo el mundo",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "El trabajo infantil aparece justamente en economias debiles, y el comercio puede reducirlo o no, segun las condiciones de cada caso."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El comercio internacional garantiza por si solo el respeto de los derechos laborales",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "El comercio no garantiza ese respeto por si solo, hacen falta normas, inspeccion y sancion para que las condiciones sean dignas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
+      "correct_answer": "B",
+      "explanation": "El comercio internacional puede reducir la pobreza al generar empleo, pero tambien puede admitir condiciones laborales injustas si nadie lo regula.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando ciudadania global.",
+      "statement": "Que significa que los derechos humanos son universales",
+      "context": "El profesor de Chalatenango explica el concepto de ciudadania universal.",
       "options": [
         {
           "letter": "A",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
+          "text": "Que solo corresponden a los ciudadanos de los paises que los han ratificado",
+          "is_correct": false,
+          "feedback": "La universalidad sostiene que los derechos son de todas las personas, y no solo de los ciudadanos de ciertos paises."
         },
         {
           "letter": "B",
-          "text": "Retorno a la vida agrícola",
+          "text": "Que pueden modificarse segun las costumbres de cada sociedad",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "La universalidad es justamente lo contrario, porque sostiene que ciertos derechos no dependen de las costumbres locales."
         },
         {
           "letter": "C",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "text": "Que corresponden a todas las personas por el hecho de ser humanas",
+          "is_correct": true,
+          "feedback": "La universalidad afirma que los derechos pertenecen a toda persona, y no a un pueblo, una nacionalidad o una region concreta."
         },
         {
           "letter": "D",
-          "text": "Eliminación del trabajo manual",
+          "text": "Que se aplican unicamente en los paises democraticos",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "Los derechos humanos se reconocen en el derecho internacional, y no dependen de que un pais tenga un regimen democratico."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Que los derechos humanos corresponden a todas las personas por el hecho de ser humanas, y no a un pueblo o nacionalidad concreta.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando ciudadania global.",
+      "statement": "Que significa el derecho a la libertad de expresion",
+      "context": "Una clase de La Paz analiza como se protege la libertad de expresion en un pais.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Poder retirar del pais cualquier palabra sin juicio",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Retirar cualquier palabra sin juicio es censura, de modo que la opcion describe lo contrario de lo que ese derecho protege."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Poder obligar al gobierno a no publicar sus decisiones",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Impedir al gobierno que publique sus decisiones seria censura, que es justo lo que este derecho evita."
+        },
+        {
+          "letter": "C",
+          "text": "Poder entrar en cualquier casa ajena para conocer las opiniones de sus vecinos",
+          "is_correct": false,
+          "feedback": "Entrar a una propiedad ajena sin permiso vulnera la privacidad y la ley, y no forma parte del derecho a expresarse."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
-          "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "text": "Poder expresar las propias ideas u opiniones por cualquier medio dentro de la ley",
+          "is_correct": true,
+          "feedback": "Es el derecho a manifestar lo que se piensa por cualquier medio, siempre que se respeten los derechos ajenos y la normativa vigente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "correct_answer": "D",
+      "explanation": "Es el derecho a expresar las propias ideas u opiniones por cualquier medio, dentro del respeto a los derechos de los demas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.75,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando ciudadania global.",
+      "statement": "Un gobierno detiene a una persona sin orden de un juez y sin permitirle un abogado. Que derecho vulnera",
+      "context": "En un ejercicio del Colegio Nacional de Usulutan se pide identificar una violacion a los derechos humanos.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
+          "letter": "A",
+          "text": "El debido proceso y la libertad personal",
           "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "feedback": "La detencion arbitraria sin juicio vulnera la libertad y el debido proceso, que exigen autoridad judicial y defensa para el acusado."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "El derecho al trabajo en condiciones dignas",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Ese derecho obliga al Estado a respetar la jornada y el salario y ata al caso en el que se falta a una de esas garantias que es lo que ocurre en el supuesto."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "El derecho a la libertad de reunion",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "La libertad de reunion protege el derecho a reunirse en paz y no regula la existencia de un proceso judicial justo."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "El derecho a la educacion",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "El acceso a la educacion no guarda relacion con que una persona este detenida sin orden judicial ni asistencia legal."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "A",
+      "explanation": "La detencion sin orden judicial y sin acceso a defensa vulnera el debido proceso y la libertad personal de la persona.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -639,127 +639,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando ciudadania global.",
+      "statement": "Por que el desplazamiento forzado de personas es una violacion de los derechos humanos",
+      "context": "Un foro escolar de Metapan debate el desplazamiento forzado de personas.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
+          "text": "Porque todas las migraciones son necesariamente ilegitimas",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "La migracion voluntaria es una libertad, y no toda salida de un pais vulnera derechos, solo el desplazamiento forzado lo hace."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Porque obliga a abandonar el hogar, la familia y los medios de subsistencia",
+          "is_correct": true,
+          "feedback": "Cuando a alguien se le obliga a irse de su territorio pierde su casa, su familia y su sustento, y todo ello esta protegido como derecho."
+        },
+        {
+          "letter": "C",
+          "text": "Porque impide que las personas vivan en zonas rurales",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "El desplazamiento forzado no se define por llevar a alguien a una zona urbana, sino por obligarlo a irse contra su voluntad."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Porque reduce el numero de personas educadas de un pais",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Un efecto demografico posible no es lo que convierte el desplazamiento en violacion, que es la falta de consentimiento."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "B",
+      "explanation": "El desplazamiento forzado viola los derechos porque quita a las personas su libertad de permanecer, su hogar y su sustento.",
       "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando ciudadania global.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando ciudadania global.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,42 +683,132 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando ciudadania global.",
+      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v16",
+      "statement": "Que papel cumplen las organizaciones de la sociedad civil en un sistema democratico",
+      "context": "La clase de San Miguel discute el papel de las organizaciones de la sociedad civil.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Reemplazan al gobierno en la administracion del pais",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Sustituir al gobierno en administrar el pais excederia su funcion, porque son organizaciones de la sociedad y no poderes del Estado."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Solo existen para defender los intereses de sus propios miembros",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Su funcion excede la defensa de los intereses de los socios, porque vigilan el cumplimiento de los derechos e informan al publico."
+        },
+        {
+          "letter": "C",
+          "text": "Vigilan los derechos, informan a la poblacion y animan la participacion",
+          "is_correct": true,
+          "feedback": "Cumplen una funcion de vigilancia y de informacion y animan la participacion sin sustituir al Estado en sus decisiones."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Impiden el funcionamiento normal de la democracia",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Estas organizaciones forman parte del sistema democratico, de modo que no lo impiden sino que lo vigorizan con su vigilancia."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Las organizaciones de la sociedad civil vigilan los derechos, informan a la poblacion y animan la participacion, sin sustituir al Estado.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v17",
+      "statement": "Que tensiones puede crear la globalizacion en el ejercicio de la ciudadania",
+      "context": "Un seminario del Colegio Nacional de Santa Ana examina la relacion entre globalizacion y ciudadania.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elimina por completo la autoridad de los Estados",
+          "is_correct": false,
+          "feedback": "La globalizacion no elimina la autoridad estatal, de modo que ese beneficio total del que se habla no se produce."
+        },
+        {
+          "letter": "B",
+          "text": "Impide que existan problemas entre paises",
+          "is_correct": false,
+          "feedback": "La mayor interconexion puede crear nuevos conflictos de intereses, y no impide que existan problemas entre paises."
+        },
+        {
+          "letter": "C",
+          "text": "Hace que todas las ciudades sean iguales en tamano y estructura",
+          "is_correct": false,
+          "feedback": "Las ciudades mantienen diferencias grandes entre si, de modo que esa consecuencia no guarda relacion con la ciudadania."
+        },
+        {
+          "letter": "D",
+          "text": "La circulacion de personas, bienes e ideas puede chocar con las normas de cada Estado",
+          "is_correct": true,
+          "feedback": "El flujo transfronterizo pone a prueba las decisiones de cada pais, porque las ideas y las personas que cruzan la frontera no siempre caben en su normativa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La globalizacion puede tensar la ciudadania porque circulan personas, bienes e ideas que chocan con las normas de cada Estado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
+      "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v18",
+      "statement": "Que busca la justicia internacional",
+      "context": "El profesor de La Libertad introduce el tema de la justicia internacional en clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las responsabilidades y beneficios del sistema mundial se repartan de forma equitativa",
+          "is_correct": true,
+          "feedback": "Busca reducir las desigualdades entre paises y personas, de modo que la carga y el beneficio del sistema mundial no se concentren en unos pocos."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos los paises tengan exactamente la misma poblacion",
+          "is_correct": false,
+          "feedback": "La igualdad de poblacion no es lo que se busca, sino una distribucion equitativa de responsabilidades y beneficios."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo los paises mas desarrollados deban cumplir las normas",
+          "is_correct": false,
+          "feedback": "La justicia internacional no se limita a un grupo de paises, porque versa sobre la relacion entre todos los Estados y sus personas."
+        },
+        {
+          "letter": "D",
+          "text": "Que se elimine todo comercio entre paises",
+          "is_correct": false,
+          "feedback": "La justicia internacional no propone eliminar el comercio, sino hacerlo equitativo y que no profundice las desigualdades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La justicia internacional busca que las responsabilidades y los beneficios del sistema mundial se repartan de forma equitativa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando ciudadania global.",
+      "statement": "Cual de estas acciones corresponde a un ejercicio de ciudadania global",
+      "context": "En un ejercicio del Colegio Nacional de San Salvador se pide un ejemplo de ciudadania global en la practica.",
       "options": [
         {
-          "letter": "C",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "Comprar productos solo del propio pais y evitar el mercado externo",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "Cerrarse al mercado exterior reduce la informacion disponible y no constituye una practica de ciudadania global."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
+          "text": "Informarse sobre la situacion de personas de otros paises y reconocer que sus derechos son los mismos",
+          "is_correct": true,
+          "feedback": "Reconocer que otra persona tiene los mismos derechos aunque viva al otro lado de la frontera es el nucleo de la ciudadania global."
+        },
+        {
+          "letter": "C",
+          "text": "Considerar que los derechos valen solo dentro de las fronteras del pais",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "Atribuir los derechos a un solo territorio contradice la ciudadania global, que reconoce el caracter universal de esos derechos."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
+          "text": "Exigir que los propios ciudadanos renuncien a sus derechos",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "Renunciar a los derechos propios es lo contrario de ejercer la ciudadania, de modo que esa conducta no corresponde."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
+      "correct_answer": "B",
+      "explanation": "Informarse sobre la situacion de personas en otros paises y reconocer la igualdad de sus derechos es una practica de ciudadania global.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando ciudadania global.",
+      "statement": "Que efecto tiene un tratado de derechos humanos ratificado por un pais",
+      "context": "Un grupo de San Vicente examina como los tratados internacionales afectan el derecho interno de un pais.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "Convierte al pais en miembro de otra nacion sin fronteras propias",
+          "is_correct": false,
+          "feedback": "La ratificacion de un tratado no cambia la nacionalidad de los ciudadanos ni convierte al pais en otro Estado."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
+          "letter": "B",
+          "text": "Elimina la Constitucion nacional de ese pais",
           "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "feedback": "Ningun tratado elimina la Constitucion de un pais, de modo que esa consecuencia no se sigue de la ratificacion."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "text": "Obliga al Estado a respetar esos derechos y permite revisar su cumplimiento",
+          "is_correct": true,
+          "feedback": "La ratificacion compromete al Estado ante la comunidad internacional y permite verificar si cumple, de modo que limita su margen de actuacion."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Impide que el pais legisle sobre asuntos internos",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Un tratado limita como se tratan ciertos derechos, de modo que no impide que el pais legisle en los demas asuntos internos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "correct_answer": "C",
+      "explanation": "Un tratado ratificado obliga al Estado a respetar esos derechos y permite revisar su cumplimiento, lo que limita su margen de actuacion.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W37-ciudadania-global-001-MASTERY-bundle",
       "periodo": 37,
       "protocol_version": "5.2",

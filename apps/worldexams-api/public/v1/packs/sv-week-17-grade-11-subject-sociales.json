@@ -9,217 +9,37 @@
   "questions": [
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v1",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
-          "letter": "A",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
-        },
-        {
-          "letter": "B",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v2",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
-        },
-        {
-          "letter": "D",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v3",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
+      "statement": "Que derechos reconoce la Constitución salvadoreña a todas las personas por su sola condición de humanas?",
+      "context": "Una clase de undécimo grado abre el estudio de los derechos que la Constitución salvadoreña reconoce a todas las personas.",
       "options": [
         {
           "letter": "A",
-          "text": "Derechos humanos fundamentales",
+          "text": "Los derechos humanos fundamentales",
           "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
+          "feedback": "Correcto: la Constitución reconoce a toda persona derechos inherentes que no dependen de su nacionalidad ni de su situación social."
         },
         {
           "letter": "B",
-          "text": "Solo derechos de propiedad",
+          "text": "Los privilegios de la nobleza",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "Los privilegios de la nobleza existieron en sistemas antiguos y se abolishieron con los procesos de igualdad juridica."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
+          "text": "Los derechos de los funcionarios publicos",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Los derechos inherentes pertenecen a todas las personas, no solo a quienes ocupan un cargo publico."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "Lasenzhen'|b Practicas de la religion",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La libertad religiosa es uno de los derechos reconocidos, pero no es el conjunto de derechos inherentes de toda persona."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
+      "explanation": "Los derechos humanos fundamentales son inherentes a toda persona desde su nacimiento y el Estado tiene el deber de garantizarlos y respetarlos.",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v4",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
-        },
-        {
-          "letter": "C",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
-        },
-        {
-          "letter": "B",
-          "text": "La Revolución Rusa",
-          "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
-        },
-        {
-          "letter": "C",
-          "text": "La invención del avión",
-          "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -233,38 +53,218 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v6",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v2",
+      "statement": "A quien obligan primarily los derechos humanos declarados en la Constitución?",
+      "context": "El profesor explica por que los derechos obligan tambien al propio Estado que los reconoce.",
       "options": [
         {
-          "letter": "C",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
           "letter": "A",
-          "text": "Una ley ordinaria",
+          "text": "Solo a los ciudadanos que votan",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "Los derechos inherentes obligan a todas las personas, y no solo a quienes participan en las elecciones del pais."
         },
         {
           "letter": "B",
-          "text": "Un decreto presidencial",
+          "text": "Al Estado y a todos los_POWERholders",
+          "is_correct": true,
+          "feedback": "Correcto: los derechos obligan tambien a las autoridades del Estado, que no pueden usar su poder para vulnerarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo a los particulares entre si",
           "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "feedback": "Los derechos obligan tambien al poder publico, y limitar su efecto a las relaciones entre particulares vaciaria de contenido el Estado de derecho."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "Unicamente a las ramas del Estado legislature",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "Los derechosduties no se dirigen solo a un poder del Estado, porque comprometerian a toda la estructura institucional del pais."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos humanos son obligaciones para el poder publico: obligan al Estado a no vulnerarlos y a garantizar que las personas puedan ejercerlos en la practica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v3",
+      "statement": "Que derecho se vulnera cuando una persona es discriminada por su sexo en el acceso a un servicio?",
+      "context": "Una mujer exige a un numero de practicante que no le cobre por el servicio que le presta en un centro de salud publico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de propiedad",
+          "is_correct": false,
+          "feedback": "La propiedad privada protege los bienes de una persona, y no se relaciona con la igualdad al momento de recibir un servicio."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la propiedad industrial",
+          "is_correct": false,
+          "feedback": "La propiedad industrial protege invenciones y marcas, y nada tiene que ver con trato desigual en un centro de salud."
+        },
+        {
+          "letter": "C",
+          "text": "La igualdad ante la ley",
+          "is_correct": true,
+          "feedback": "Correcto: negar un servicio por el sexo de la persona es una forma de discriminacion que vulnera la igualdad ante la ley."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la libertad de expresion",
+          "is_correct": false,
+          "feedback": "La libertad de expresion protege el derecho a opinar, y no el acceso igualitario a los servicios que presta el Estado."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "6",
+      "explanation": "La igualdad ante la ley impide que una persona reciba un trato peor que otra por su sexo, su origen o su condicion social.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v4",
+      "statement": "Que derecho vulnera el trabajo sin condiciones de dignidad para la persona que lo realiza?",
+      "context": "Un trabajador rural permanece toda la jornada en un campo sin sombra ni agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La prohibicion del trabajo en condiciones degradantes",
+          "is_correct": true,
+          "feedback": "Correcto: la Constitucion prohibe el trabajo en condiciones que atenten contra la dignidad de la persona."
+        },
+        {
+          "letter": "B",
+          "text": "La libertad de circulacion",
+          "is_correct": false,
+          "feedback": "La libertad de circulacion permite moverse por el territorio y no guarda relacion con las condiciones del trabajo en un campo."
+        },
+        {
+          "letter": "C",
+          "text": "La propiedad privada",
+          "is_correct": false,
+          "feedback": "La propiedad privada protege bienes y patrimonio, y no se vulnera porque el trabajo se realice en condiciones duras."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a la educacion",
+          "is_correct": false,
+          "feedback": "El acceso a la educacion es un derecho social distinto, aunque el trabajo infantil tambien vulnera el derecho de los menores a estudiar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitucion prohibe expresamente el trabajo en condiciones que atenten contra la dignidad de la persona y limita el trabajo infantil a las excepciones legales.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v5",
+      "statement": "Que derecho protege a la familia frente a decisiones que afectan a los menores de edad?",
+      "context": "Una madre presenta un escrito para que su hija menor de edad no salga del pais sin su consentimiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la libertad de cultos",
+          "is_correct": false,
+          "feedback": "La libertad de cultos permite practicar la religion sin restricciones, y no regula la salida de un menor del pais."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la reunion",
+          "is_correct": false,
+          "feedback": "El derecho de reunion permite reunirse con otras personas, y no protege a los menores frente a decisiones sobre su desplazamiento."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la libertad de expresion",
+          "is_correct": false,
+          "feedback": "La libertad de expresion protege la opinion de cada persona y no constituye la proteccion familiar ante decisiones sobre los hijos."
+        },
+        {
+          "letter": "D",
+          "text": "La patria potestad o autoridad familiar",
+          "is_correct": true,
+          "feedback": "Correcto: la patria potestad faculta a los padres para decidir sobre la vida de sus hijos menores, y su ejecucion se controla por el interes del menor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La patria potestad es el conjunto de facultades y deberes de los padres sobre sus hijos menores, y se ejerce pensando siempre en el interes superior del menor.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v6",
+      "statement": "Que derecho se vulnera cuando una persona detenida no recibe atencion medica durante su prisão?",
+      "context": "Un detenido permanece todas las noches en una celda sin luz ni medico que lo atienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la.UnionLanguages propiedad",
+          "is_correct": false,
+          "feedback": "La propiedad privada protege los bienes de una persona detenida, y no se relaciona con la falta de atencion medica en la carcel."
+        },
+        {
+          "letter": "B",
+          "text": "La integridad fisica y la salud",
+          "is_correct": true,
+          "feedback": "Correcto: la integridad fisica protege el cuerpo y la salud de la persona, incluso cuando esta se encuentra detenida por una autoridad del Estado."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la educacion superior",
+          "is_correct": false,
+          "feedback": "El acceso a la educacion es un derecho social distinto, y no sustituye la garantia de salud y de integridad fisica de un detenido."
+        },
+        {
+          "letter": "D",
+          "text": "La libertad de prensa",
+          "is_correct": false,
+          "feedback": "La libertad de prensa protege la difusion de informacion, y no se vulnera por la falta de atencion medica a un detenido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La persona detenida conserva su derecho a la salud y a la integridad fisica, y la autoridad debe garantizarle condiciones dignas de cautiverio.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,36 +279,36 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v7",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
+      "statement": "Cuando puede el Estado limitar un derecho fundamental?",
+      "context": "Un un tribunal analiza un caso en que se restringe una libertad para proteger la seguridad de toda la sociedad.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "Nunca, porque los derechos son absolutos",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "Los derechos no son absolutos: pueden limitarse, siempre que la limite sea necesaria y este prevista por la ley."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
+          "text": "Cuando convenga al interes del Gobierno",
           "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "feedback": "Una restriccion de derechos no puede basarse en la simple conveniencia del Gobierno, porque el Estado tambien esta obligado por ellos."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "Cuando la ley lo prevea y la limitacion sea necesaria",
+          "is_correct": true,
+          "feedback": "Correcto: toda limitacion de un derecho debe estar prevista en la ley y ser necesaria y proporcional a la finalidad que persigue."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando ningun tribunal lo ha declarado unlawful",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "La licitud de una limitacion depende de la ley y de la necessity de la medida, y no de que ningun tribunal se haya expresado todavia."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
+      "correct_answer": "C",
+      "explanation": "Los derechos admiten limites, pero esos limites son posibles solo cuando aparecen en la ley,responde a una necesidad social concreta y no resulta excesivo.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v8",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Soyapango estudiando derechos humanos.",
+      "statement": "Que instrumento internacional reconoce de forma general los derechos humanos de todas las personas?",
+      "context": "En una clase de derechos humanos se compara el reconocimiento deerty entre los instrumentos internacionales y la Constitucion nacional.",
       "options": [
         {
-          "letter": "D",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
-          "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "text": "La Declaracion Universal de Derechos Humanos",
+          "is_correct": true,
+          "feedback": "Correcto: la Declaracion Universal de Derechos Humanos aprobado por la ONU en 1948 enumera los derechos comunes a toda la poblacion mundial."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "El Codigo Penal",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "El Codigo Penal define delitos y penas dentro de un pais, y no es un instrumento de derechos humanos de alcance universal."
         },
         {
           "letter": "C",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La ley de presupuesto",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "La ley de presupuesto autoriza el gasto publico anual y no enumera los derechos de las personas."
+        },
+        {
+          "letter": "D",
+          "text": "El reglamento de transito",
+          "is_correct": false,
+          "feedback": "El reglamento de transito regula la circulacion de vehiculos y no es una declaracion de derechos humanos."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "La Declaracion Universal de Derechos Humanos es el instrumento de la ONU que reune los derechos y las libertades que corresponden a toda persona en el mundo.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.85,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v9",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando derechos humanos.",
+      "statement": "Que significa que un derecho humano sea de justiciacion directa en la Constitución?",
+      "context": "UnEstudiante explica que un derecho puede recognised ser violated sin que exista ningun_agent legal que lo castigue.",
       "options": [
         {
-          "letter": "B",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
+          "letter": "A",
+          "text": "Que solo los jueces pueden defenderlo",
+          "is_correct": false,
+          "feedback": "La justiciacion directa significa que puedeublicalse ante un juez sin ley previa que lo desarrolle, y no que solo los jueces puedan defenderlo."
         },
         {
-          "letter": "A",
-          "text": "Déficit comercial",
+          "letter": "B",
+          "text": "Que se pierde su condicion de derecho",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La justiciacion directa refuerza la proteccion del derecho ante el juez, y no elimina su caracter de derecho fundamental."
         },
         {
           "letter": "C",
-          "text": "Balanza equilibrada",
+          "text": "Que queda en manos del Ejecutivo",
           "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "feedback": "La justiciacion directa permite reclamar ante un juez competente, y no atribuye el derecho a un solo poder del Estado."
         },
         {
           "letter": "D",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "text": "Que puede reclamarse ante un juez sin ley que lo desarrolle",
+          "is_correct": true,
+          "feedback": "Correcto: el derecho de justiciacion directa permite invocar el texto constitucional ante un juez aun cuando no exista ley que lo reglamentos."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "La justiciacion directa es una garantia procesal: permite accionar en justicia directamente contra la violacion de un derecho constitucional, sin esperar una ley de desarrollo.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
@@ -414,127 +414,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando derechos humanos.",
+      "statement": "Que principio se vulnera cuando personas en igual situacion reciben tratos distintos sin razon justificada?",
+      "context": "Un caso de igualdad examina dos personas en igual situacion que reciben tratos radicalmente distintos por su lugar de nacimiento.",
       "options": [
         {
-          "letter": "B",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
+          "letter": "A",
+          "text": "La soberania del Estado",
+          "is_correct": false,
+          "feedback": "La soberania expresa la independencia del Estado y no se vulnera porque existan tratos desiguales entre ciudadanos de un mismo pais."
         },
         {
-          "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "letter": "B",
+          "text": "La igualdad ante la ley",
+          "is_correct": true,
+          "feedback": "Correcto: la igualdad ante la ley exige que las personas en igual situacion juridica sejam tratadas con el mismo criterio."
         },
         {
           "letter": "C",
-          "text": "La Revolución Rusa",
+          "text": "La separacion de poderes",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "La separacion de poderes reparte las competencias del Estado, y no regula el trato desigual entre dos particulares."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "El principio de reemplazo",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "El principio de reemplazo permite que una disposicion legislature cede ante otra, y no se ocupa de la igualdad entre personas."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
+      "explanation": "La igualdad ante la ley exige tratar igual a quienes se encuentran en la misma situacion juridica, y veta cualquier distincion sin justificacion objetiva y razonable.",
       "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v11",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
-        },
-        {
-          "letter": "B",
-          "text": "Una ley ordinaria",
-          "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
-        },
-        {
-          "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
-        },
-        {
-          "letter": "D",
-          "text": "Un tratado internacional",
-          "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v12",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en San Salvador estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
-          "letter": "A",
-          "text": "Retorno a la vida agrícola",
-          "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
-        },
-        {
-          "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
-        },
-        {
-          "letter": "C",
-          "text": "Eliminación del trabajo manual",
-          "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -548,42 +458,132 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v13",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v11",
+      "statement": "Que organismo internacional se ocupa de promover y proteger los derechos humanos en el mundo?",
+      "context": "Una&-habitante del campo pide conocer el organismo que vigila el cumplimiento de los derechos en el pais.",
       "options": [
         {
-          "letter": "B",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
+          "letter": "A",
+          "text": "El Fondo Monetario Internacional",
+          "is_correct": false,
+          "feedback": "Una institucion financiera internacional no tiene por objeto la proteccion de los derechos humanos de las personas."
         },
         {
-          "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "letter": "B",
+          "text": "La Organizacion Mundial decomercio",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "La Organizacion Mundial del Comercio regula el intercambio de bienes y servicios, y no la defensa de los derechos humanos."
         },
         {
           "letter": "C",
-          "text": "Únicamente derechos políticos",
-          "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "text": "La Organizacion de las Naciones Unidas",
+          "is_correct": true,
+          "feedback": "Correcto: la ONU incluye un Consejo de Derechos Humanos que vigila el cumplimiento de los derechos en todo el mundo."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "La Union Europea",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Una union regional no es el organismo universal que promueve y vigila los derechos humanos en todo el planeta."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La Organizacion de las Naciones Unidas integra el Consejo de Derechos Humanos, que examina el cumplimiento de los derechos mediante informes y mecanismos de proteccion.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v12",
+      "statement": "Por que la Constitucion reconoce el derecho a la educacion como un derecho social?",
+      "context": "Un Reportero lee un informe sobre internamiento de menores en un centro de reclusion y observa la respuesta del Estado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque su realizacion depende de una accion publica que el Estado debe garantizar",
+          "is_correct": true,
+          "feedback": "Correcto: la educacion es un derecho social porque depende de que el Estado construya escuelas y asegure el acceso de todos a la enseñanza."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las personas pueden exigirlo solo ante un tribunal",
+          "is_correct": false,
+          "feedback": "La exigibilidad judicial es una garantia adicional, y no la razon por la cual la educacion se clasifica como derecho social."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se financia con el esfuerzo de cada familia",
+          "is_correct": false,
+          "feedback": "La Constitucion considera la educacion un deber del Estado, y no una carga que deba pesar solo sobre cada familia."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no admite excepciones en ningun caso",
+          "is_correct": false,
+          "feedback": "Los derechos sociales admiten limites razonables, y su caracter social no significa que sean inmunes a toda regulacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos sociales, como la educacion y la salud, exigen una intervencion positiva del Estado para hacerse efectivos en la vida de las personas.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v13",
+      "statement": "Que principio obliga al Estado a compensar a los propietarios afectados por una expropiacion?",
+      "context": "Una inspeccion fiscalizadora encuentra que una obra de interes publico afecta el suelo de varios vecinos sin indemnizarlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La libertad de circulacion",
+          "is_correct": false,
+          "feedback": "La libertad de circulacion permite moverse por el territorio, y no regula el pago a los propietarios de suelo expropiado."
+        },
+        {
+          "letter": "B",
+          "text": "El Estado que se declara inocente",
+          "is_correct": false,
+          "feedback": "Declararse inocente ante un hecho probado no es un principio del ordenamiento juridico_center de los derechos."
+        },
+        {
+          "letter": "C",
+          "text": "La soberania del Congreso",
+          "is_correct": false,
+          "feedback": "La soberania del Congreso explica por que legisla, y no obliga a compensar a quienes pierden un bien por una medida del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "La indemnizacion",
+          "is_correct": true,
+          "feedback": "Correcto: la expropiacion solo es licita si se paga una indemnizacion, porque la propiedad privada no se pierde sin contraprestacion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La expropiacion es una forma legitima de tomar un bien de uso publico, pero exige el pago previo de una indemnizacion a quien tinha la propiedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -594,40 +594,40 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v14",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
+      "statement": "Que instrumento nacional reconoce expresamente los derechos de los niños y las niñas?",
+      "context": "En el salon de clases se proyecta un documental sobre el trabajo infantil en el pais.",
       "options": [
         {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
           "letter": "A",
-          "text": "Déficit comercial",
+          "text": "La ley organica del Banco Central",
           "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
+          "feedback": "La ley organica del Banco Central regula la politica monetaria y no es un instrumento de proteccion de la infancia."
         },
         {
           "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
+          "text": "La Convencion sobre los Derechos del Nino",
+          "is_correct": true,
+          "feedback": "Correcto: la Convencion sobre los Derechos del Nino reconoce a la infancia como una etapa especifica con derechos propios e inalienables."
         },
         {
           "letter": "C",
-          "text": "Crisis económica",
+          "text": "La ley de sociedades anonimas",
           "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
+          "feedback": "La ley de sociedades regula la formacion y el funcionamiento de empresas, y no se ocupa de los derechos de los ninos."
+        },
+        {
+          "letter": "D",
+          "text": "El codigo de comercio",
+          "is_correct": false,
+          "feedback": "El codigo de Comercio regula los negocios mercantiles, y no es un instrumento de derechos de la infancia."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La Convencion sobre los Derechos del Nino amplia el alcance de la proteccion: reconoce que la infancia es una etapa especifica de la vida con necesidades propias.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
+      "statement": "Que criterio debe usar un juez para decidir si una medida que restringe un derecho es admisible?",
+      "context": "Un jurista analiza si una norma recorta un derecho en razon de la seguridad nacional.",
       "options": [
         {
-          "letter": "C",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "text": "Comprobar que es necesaria y proporcional a una finalidad legitima",
+          "is_correct": true,
+          "feedback": "Correcto: el test de necesidad y proporcionalidad verifica que la medida sirva a un fin legitimo y que no haya alternativa menos restrictiva."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "Comprobar que la medida fue publicada en el diario oficial",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "La publicacion oficial de una norma es un requisito formal, pero no evalua si la restriccion del derecho esta justificada."
+        },
+        {
+          "letter": "C",
+          "text": "Comprobar que ningun ciudadano se opuso a ella",
+          "is_correct": false,
+          "feedback": "La oposicion de los ciudadanos es un dato politico, y no el criterio juridico que hace admisible una restriccion de derechos."
         },
         {
           "letter": "D",
-          "text": "La invención del avión",
+          "text": "Comprobar que la medida fuealinapplied solo a los extranjeros",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "Una medida que perjudica solo a los extranjeros seria discriminatoria, y no un criterio de admisibilidad de una restriccion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "El control de proporcionalidad pregunta si la medida persigue un fin legitimo, si es necesaria y si no impone un sacrificio excesivo a la persona affected.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v16",
-      "statement": "¿Qué documento establece la organización del Estado?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
+      "statement": "Que derecho esta en riesgo cuando una manifestacion pacifica es reprimida con violencia?",
+      "context": "Un fuerte incidente ocurre en una manifestacion pacifica y la policia interviene de forma excesiva.",
       "options": [
         {
           "letter": "A",
-          "text": "La Constitución",
-          "is_correct": true,
-          "feedback": "Correcto. La Constitución es la norma suprema que organiza los poderes del Estado y garantiza los derechos de la población."
+          "text": "El derecho a la propiedad industrial",
+          "is_correct": false,
+          "feedback": "La propiedad industrial protege invenciones y marcas comerciales, y no se relaciona con la forma en que se reprime una manifestacion."
         },
         {
           "letter": "B",
-          "text": "Una ley ordinaria",
+          "text": "El derecho de los instrumentos financieros",
           "is_correct": false,
-          "feedback": "Una ley ordinaria está por debajo de la Constitución y no puede contradecirla, así que no es la norma que organiza al Estado."
+          "feedback": "El derecho a obtener un credito o una prestacion financiera no se vulnera por el uso de la fuerza en una manifestacion pacifica."
         },
         {
           "letter": "C",
-          "text": "Un decreto presidencial",
-          "is_correct": false,
-          "feedback": "Un decreto lo dicta el poder ejecutivo y regula temas concretos; no organiza la estructura del Estado."
+          "text": "El derecho a la reunion y a la manifestacion",
+          "is_correct": true,
+          "feedback": "Correcto: reprimir con violencia una manifestacion pacifica vulnera el derecho a reunirse y a expresar ideas de forma colectiva."
         },
         {
           "letter": "D",
-          "text": "Un tratado internacional",
+          "text": "El derecho a la___Municipal prohibition",
           "is_correct": false,
-          "feedback": "Un tratado regula relaciones entre países firmantes, no la organización interna de un Estado."
+          "feedback": "La prohibicion municipal de Certain actos__(manifestacion no Well reduce la reunion, sino la capacidad del municipio de regular Certain actos locales."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La Constitución es la norma suprema que organiza el Estado y garantiza derechos.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "La reunion pacifica y la manifestacion son derechos que solo pueden limitarse con motivos legales y de forma proporcional, nunca de manera violenta.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -729,37 +729,82 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v17",
-      "statement": "¿Cómo cambió la Revolución Industrial la sociedad del siglo XIX?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
+      "statement": "Quevia procesal se utiliza para impugnar la vulneracion de un derecho constitucional?",
+      "context": "Un abogado explica como se protege el derecho de una persona cuando un organo publico vulnera un derecho suyo.",
       "options": [
         {
-          "letter": "D",
-          "text": "Urbanización masiva y nuevas clases sociales",
-          "is_correct": true,
-          "feedback": "Correcto. Las fábricas concentraron el trabajo en las ciudades, atrayendo a millones de personas del campo y creando la burguesía industrial y la clase obrera."
-        },
-        {
           "letter": "A",
-          "text": "Retorno a la vida agrícola",
+          "text": "El recurso de proteccion",
           "is_correct": false,
-          "feedback": "La Revolución Industrial se apoyó en la fábrica y el comercio, no en el campo; la agricultura perdió peso relativo en la economía."
+          "feedback": "El recurso de proteccion pertenece a otro ordenamiento y no es la via procesal que corresponde al ordenamiento salvadoreño."
         },
         {
           "letter": "B",
-          "text": "Disminución del comercio global",
-          "is_correct": false,
-          "feedback": "Al contrario: las vías férreas, los barcos y las fábricas ampliaron el comercio entre regiones y países."
+          "text": "La accion de amparo",
+          "is_correct": true,
+          "feedback": "Correcto: la accion de amparo permite impugnar ante un juez los derechos vulnerados por una accion u omision del Estado."
         },
         {
           "letter": "C",
-          "text": "Eliminación del trabajo manual",
+          "text": "LaQueja penal contra el juez",
           "is_correct": false,
-          "feedback": "El trabajo manual no desapareció: las fábricas emplearon a muchos operarios, aunque con nuevas máquinas y horarios de fábrica."
+          "feedback": "La queja penal contra un juez es un recurso de vigilancia disciplinaria y no el mecanismo para proteger un derecho vulnerado."
+        },
+        {
+          "letter": "D",
+          "text": "La consulta(vecina propia",
+          "is_correct": false,
+          "feedback": "La consulta popular somete una decision al cuerpo electoral y no resuelve de inmediato la vulneracion de un derecho individual."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La accion de amparo es la via procesal que el ordenamiento_sistema ofrece para obtener la tutela urgente de un derecho constitucional vulnerado.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v18",
+      "statement": "Que es una distincion que se base en el sexo de la persona?",
+      "context": "Un estudio compara la situacion de las mujeres y de los hombres en un mismo mercado laboral del pais.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una distincion basada en el merito",
+          "is_correct": false,
+          "feedback": "Una distincion por sexo no se apoya en el merito de la persona, porque el sexo es un dato personal y no una calidad que mida su capacidad."
+        },
+        {
+          "letter": "B",
+          "text": "Una distincion basada en la experiencia",
+          "is_correct": false,
+          "feedback": "La experiencia puede ser un criterio valido y objetivo de distincion, y en este caso la diferencia se fundamenta en el sexo."
+        },
+        {
+          "letter": "C",
+          "text": "Una distincion basada en el esfuerzo",
+          "is_correct": false,
+          "feedback": "El esfuerzo es un criterio objetivo que podria justificar una diferencia, y no es lo que define a la distincion por sexo analizada."
+        },
+        {
+          "letter": "D",
+          "text": "Una distincion discriminatoria",
+          "is_correct": true,
+          "feedback": "Correcto: usar el sexo como criterio para tratar de modo diferente a las personas constituye discriminacion si no responde a un criterio legitimo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La Revolución Industrial causó migración a ciudades y creó nuevas clases sociales.",
-      "difficulty": "10",
+      "explanation": "Tratar a alguien de forma distinta por su sexo es discriminatorio cuando ese dato personal no se relaciona con un criterio objetivo y pertinente para la situacion.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -773,86 +818,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v18",
-      "statement": "¿Qué derechos protegen la Constitución de un país democrático?",
-      "context": "Clase de ciencias sociales en Santa Ana estudiando derechos humanos.",
+      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v19",
+      "statement": "Que relacion existe entre los derechos humanos y el deber del Estado de garantizarlos?",
+      "context": "UnConstant-visado-visado explica why Educacion es un deber del Estado.",
       "options": [
         {
-          "letter": "C",
-          "text": "Derechos humanos fundamentales",
-          "is_correct": true,
-          "feedback": "Correcto. Una constitución democrática reconoce la dignidad de todas las personas y garantiza sus derechos civiles, políticos, sociales y culturales."
-        },
-        {
           "letter": "A",
-          "text": "Solo derechos de propiedad",
+          "text": "Son lo mismo, porque el Estado no tiene otras funciones",
           "is_correct": false,
-          "feedback": "La Constitución protege también el derecho a la vida, la igualdad, la libertad y la educación, no únicamente el derecho de propiedad."
+          "feedback": "El Estado tiene muchas otras funciones, y que los derechos sean una obligacion suya no agota el conjunto de sus competencias."
         },
         {
           "letter": "B",
-          "text": "Únicamente derechos políticos",
+          "text": "Son antagonicos, porque uno limita a la otro",
           "is_correct": false,
-          "feedback": "El catálogo constitucional es mucho más amplio: incluye también derechos civiles, sociales, culturales y económicos."
+          "feedback": "Los derechos humanos y el Estado se complementan: los derechos fijan limites al poder y el Estado los garantiza mediante sus instituciones."
+        },
+        {
+          "letter": "C",
+          "text": "Los derechos fijan limites al poder y el Estado debe respetarlos",
+          "is_correct": true,
+          "feedback": "Correcto: los derechos humanos acotan la accion del Estado, y ese mismo Estado tiene el deber de protegerlos frente a cualquier violation."
         },
         {
           "letter": "D",
-          "text": "Derechos exclusivos del gobierno",
+          "text": "El Estado puede modificarlos cuando lo necesite",
           "is_correct": false,
-          "feedback": "Los derechos son de las personas frente al Estado, no privilegios reservados al gobierno."
+          "feedback": "Los derechos fundamentales solo pueden modificarse mediante el procedimiento de reforma de la Constitucion, y no por simple conveniencia del Gobierno."
         }
       ],
       "correct_answer": "C",
-      "explanation": "Las constituciones democráticas protegen derechos humanos fundamentales.",
-      "difficulty": "10",
+      "explanation": "Los derechos humanos cumplen una doble funcion: limitan el poder del Estado y obligan a ese mismo Estado a garantizar que se respeten en la vida de las personas.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.85,
-      "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "sociales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v19",
-      "statement": "Si un país exporta más de lo que importa, ¿qué tiene?",
-      "context": "Clase de ciencias sociales en Mejicanos estudiando derechos humanos.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Superávit comercial",
-          "is_correct": true,
-          "feedback": "Correcto. El superávit es la diferencia positiva entre lo que un país exporta y lo que importa."
-        },
-        {
-          "letter": "A",
-          "text": "Déficit comercial",
-          "is_correct": false,
-          "feedback": "El déficit aparece justo en el caso contrario: cuando las importaciones superan a las exportaciones."
-        },
-        {
-          "letter": "B",
-          "text": "Balanza equilibrada",
-          "is_correct": false,
-          "feedback": "La balanza está equilibrada cuando las exportaciones igualan exactamente a las importaciones, no cuando las superan."
-        },
-        {
-          "letter": "C",
-          "text": "Crisis económica",
-          "is_correct": false,
-          "feedback": "Una crisis económica puede deberse a muchas causas; el término técnico para exports mayores que importaciones es el superávit."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Exportar más que importar genera superávit comercial favorable.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál fue una causa importante de la Primera Guerra Mundial?",
-      "context": "Clase de ciencias sociales en San Miguel estudiando derechos humanos.",
+      "statement": "Que derecho impide que una persona sea arbitrariamente detenida por el solo hecho de pensar distinto?",
+      "context": "Un estudiante lee el listado de derechos garantizados por la Constitucion en su ciudad de origen.",
       "options": [
         {
-          "letter": "D",
-          "text": "El asesinato del Archiduque Francisco Fernando",
-          "is_correct": true,
-          "feedback": "Correcto. El atentando de Sarajevo en junio de 1914 encendió la cadena de alianzas entre potencias y provocó el estallido de la Primera Guerra Mundial."
-        },
-        {
           "letter": "A",
-          "text": "El Tratado de Versalles",
-          "is_correct": false,
-          "feedback": "El Tratado de Versalles se firmó en 1919, al terminar la guerra, para imponer condiciones a Alemania: es una consecuencia, no una causa."
+          "text": "La libertad personal",
+          "is_correct": true,
+          "feedback": "Correcto: la libertad personal protege frente a la privacion arbitraria de la libertad y garantiza que nadie sea detenido sin orden escrita."
         },
         {
           "letter": "B",
-          "text": "La Revolución Rusa",
+          "text": "El derecho a la propiedad",
           "is_correct": false,
-          "feedback": "La Revolución Rusa ocurrió en 1917, en pleno conflicto, y es una de las consecuencias de la guerra, no su origen."
+          "feedback": "La propiedad protege los bienes y el patrimonio, y no se vulnera por una detencion arbitraria arbitraria de libertad."
         },
         {
           "letter": "C",
-          "text": "La invención del avión",
+          "text": "El derecho a la educacion",
           "is_correct": false,
-          "feedback": "El primer vuelo Tripulier data de 1903 y es un avance técnico sin relación con el estallido del conflicto en 1914."
+          "feedback": "El derecho a la educacion protege el acceso a la enseñanza, y no la libertad física de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho al recreo",
+          "is_correct": false,
+          "feedback": "El derecho al recreo es parte de la educacion y no se relaciona con la privacion arbitraria de la libertad de una persona."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El asesinato en Sarajevo (1914) desencadenó el sistema de alianzas que llevó a la guerra.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "La libertad personal es el derecho que impide privar a alguien de su libertad sin orden escrita de autoridad competente, sin importar cual sea su opinion.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-SOC-11-2026-W17-derechos-humanos-001-MASTERY-bundle",
       "periodo": 17,
       "protocol_version": "5.2",

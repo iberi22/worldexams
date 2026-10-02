@@ -218,7 +218,7 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.\n\n---",
+      "explanation": "AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma. Es el único codón que codifica para metionina en eucariotas, y las bases uracilo en lugar de timina son la señal química que distingue al ARN mensajero del ADN molde.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -263,7 +263,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt.\n\n---",
+      "explanation": "El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt. Esa proporción genotípica uno a dos a uno se convierte en una proporción fenotípica tres a uno, porque los tres genotipos que contienen el alelo dominante se expresan igual en el fenotipo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,81 @@
     },
     {
       "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v11",
-      "statement": "Durante el proceso de transcripción en células eucariotas, la enzima encargada de sintetizar una hebra de ARN mensajero a partir del molde de ADN es:",
-      "context": "Un laboratorio escolar en un colegio de Lima realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "statement": "Si el rasgo es recesivo y aparece en esa primera generación, ¿qué deduce sobre los progenitores?",
+      "context": "En el laboratorio de genética de un colegio de San Martín, un grupo cruza dos cepas de Saccharomyces cerevisiae y anota el color de las colonias obtenidas en la primera generación.",
       "options": [
         {
-          "letter": "D",
-          "text": "ARN polimerasa II",
-          "is_correct": true,
-          "feedback": "Correcto. La ARN polimerasa II sintetiza el ARN pre-mensajero a partir del molde de ADN en el núcleo."
-        },
-        {
           "letter": "A",
-          "text": "ADN helicasa",
+          "text": "Eran homocigotos dominantes",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa desenrolla y abre la doble hélice de ADN en la horquilla de replicación."
+          "feedback": "Incorrecto. Dos progenitores homocigotos dominantes solo producen descendientes homocigotos dominantes, y ninguna colonia recesiva aparecería en esa generación."
         },
         {
           "letter": "B",
-          "text": "ADN ligasa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La ADN ligasa une los fragmentos de Okazaki en la hebra discontinua de ADN."
+          "text": "Ambos portaban el recesivo",
+          "is_correct": true,
+          "feedback": "Correcto. Un descendiente con el fenotipo recesivo necesita dos copias del alelo recesivo, una de cada progenitor, de modo que ambos deben portarlo aunque sean heterocigotos."
         },
         {
           "letter": "C",
-          "text": "Topoisomerasa",
+          "text": "Uno era heterocigoto",
           "is_correct": false,
-          "feedback": "Incorrecto. La topoisomerasa alivia la tensión de superenrollamiento del ADN durante la replicación."
+          "feedback": "Incorrecto. Para que aparezca el fenotipo recesivo hacen falta dos copias del alelo recesivo, y que uno solo de los progenitores sea heterocigoto no lo garantiza."
+        },
+        {
+          "letter": "D",
+          "text": "El rasgo era dominante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado indica que el rasgo es recesivo, y si fuera dominante bastaría una sola copia del alelo para que se expresara."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La ARN polimerasa sintetiza ARNm en dirección 5' -> 3' leyendo la cadena molde de ADN.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La ley de segregación de Mendel establece que cada progenitor aporta un alelo del gen. Si en la primera generación aparece un individuo con el alelo recesivo en los dos cromosomas homólogos, es porque ambos progenitores lo portaban en su genotipo.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.55,
+      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "pe"
+    },
+    {
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
+      "statement": "¿Qué conclusión sobre el color de la flor es correcta a partir de ese cuadro?",
+      "context": "En un colegio de Cajamarca, un grupo construye el cuadro de Punnett del cruce de dos plantas de arveja con flor roja y observa que cuatro de las dieciséis casillas corresponden al genotipo recesivo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La flor roja es recesiva",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el alelo del color rojo fuera recesivo, el fenotipo recesivo sería el de la flor roja y no habría aparecido en la primera generación de este cruce."
+        },
+        {
+          "letter": "B",
+          "text": "El rasgo no se hereda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuadro muestra una distribución mendeliana de nueve a tres a tres a uno, y esa proporción regular solo existe si el rasgo se hereda por alelos."
+        },
+        {
+          "letter": "C",
+          "text": "La flor roja es dominante",
+          "is_correct": true,
+          "feedback": "Correcto. La aparición del fenotipo recesivo en la primera generación indica que las plantas de flor roja son heterocigotas y que su alelo se expresa frente al recesivo."
+        },
+        {
+          "letter": "D",
+          "text": "Las plantas eran homocigotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fueran homocigotas dominantes, toda su descendencia tendría flor roja y no aparecería ninguna planta con el fenotipo recesivo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando en la primera generación aparece el fenotipo recesivo, los dos progenitores portan el alelo recesivo y el rasgo que se expresa en ellos es el dominante. Esa es la razón por la que la proporción nueve a tres a tres a uno solo se observa en la segunda generación de ese cruce.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -503,41 +548,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v12",
-      "statement": "En la replicación del ADN, la enzima que une los fragmentos de Okazaki en la hebra discontinua o retardada es la:",
-      "context": "Un laboratorio escolar en un colegio de Cusco realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
+      "statement": "¿Qué efecto tiene la colchicina sobre el número de cromosomas observado al final del proceso?",
+      "context": "En un colegio de Junín, un grupo trata células de riñón de ratón con una enzima que separa los cromosomas, y luego añade colchicina al medio para detener la división celular.",
       "options": [
         {
-          "letter": "B",
-          "text": "ADN ligasa",
-          "is_correct": true,
-          "feedback": "Correcto. La ADN ligasa forma enlaces fosfodiéster entre los fragmentos sintetizados."
+          "letter": "A",
+          "text": "El número se duplica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La colchicina no duplica los cromosomas: impide que se formen los filamentos del huso y con ello detiene la separación de las cromátidas hermanas."
         },
         {
-          "letter": "A",
-          "text": "ADN polimerasa I",
+          "letter": "B",
+          "text": "El número se reduce a la mitad",
           "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa I remueve los cebadores de ARN y los reemplaza por ADN."
+          "feedback": "Incorrecto. La división celular completa es la que reduce a la mitad el número de cromosomas; aquí la división queda detenida y no llega a completarse."
         },
         {
           "letter": "C",
-          "text": "Helicasa",
+          "text": "El número se triplica",
           "is_correct": false,
-          "feedback": "Incorrecto. La helicasa separa las hebras complementarias rompiendo puentes de hidrógeno."
+          "feedback": "Incorrecto. La triplicación es una aneuploidía por no disyunción meiótica, y esa alteración se debe a fallos en la separación de los cromosomas, no a la acción de la colchicina."
         },
         {
           "letter": "D",
-          "text": "Primasa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La primasa sintetiza los cebadores de ARN iniciales."
+          "text": "El número se mantiene",
+          "is_correct": true,
+          "feedback": "Correcto. Al inhibir el uso del huso mitótico las cromátidas hermanas no se separan y no se forman dos células hijas, de modo que la metafase queda bloqueada con el número de cromosomas habitual del organismo."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La ADN ligasa sella las muescas en el esqueleto de azúcar-fosfato uniendo fragmentos adyacentes.\n\n---",
+      "correct_answer": "D",
+      "explanation": "La colchicina inhibe la polimerización de la tubulina y bloquea el huso mitótico. Como las cromátidas hermanas no pueden desplazarse hacia los polos, la célula se detiene en metafase, y esa técnica permite contar los cromosomas sobre la placa ecuatorial de forma nítida.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.47,
       "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
       "periodo": 3,
@@ -548,37 +593,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v13",
-      "statement": "La Primera Ley de Mendel o Ley de la Segregación de los caracteres establece que:",
-      "context": "Un laboratorio escolar en un colegio de Arequipa realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
+      "statement": "¿Qué propiedad del ADN se está aprovechando en ese procedimiento?",
+      "context": "En un colegio de Huánuco, un equipo mezcla ADN de dos especies, lo calienta por encima de 80 grados y observa que las cadenas se separan; luego baja la temperatura lentamente y las cadenas vuelven a aparearse.",
       "options": [
         {
-          "letter": "B",
-          "text": "Los alelos de un gen se separan durante la formación de los gametos quedándose cada gameto con uno solo",
+          "letter": "A",
+          "text": "La complementariedad de las bases",
           "is_correct": true,
-          "feedback": "Correcto. Durante la meiosis cada alelo del par parental segrega equitativamente en gametos distintos."
+          "feedback": "Correcto. La desnaturalación por calor rompe los puentes de hidrógeno entre bases complementarias y el enfriamiento lento permite que adenina con timina y guanina con citosina vuelvan a reconocerse y aparearse."
         },
         {
-          "letter": "A",
-          "text": "Todos los descendientes F1 presentan fenotipo intermedio codominante",
+          "letter": "B",
+          "text": "La replicación semiconservativa",
           "is_correct": false,
-          "feedback": "Incorrecto. Eso corresponde a herencia intermedia o codominancia."
+          "feedback": "Incorrecto. La replicación semiconservativa describe la síntesis de una hebra nueva a partir de un molde y no interviene en el apareamiento de dos cadenas que ya existen."
         },
         {
           "letter": "C",
-          "text": "Los genes de diferentes cromosomas se heredan ligados siempre",
+          "text": "La transcripción del ARN",
           "is_correct": false,
-          "feedback": "Incorrecto. La tercera ley aborda la transmisión independiente de genes no ligados."
+          "feedback": "Incorrecto. La transcripción es la síntesis de ARN a partir del ADN con ARN polimerasa, y aquí no se sintetiza ARN sino que se separan y se vuelven a aparear las dos hebras del ADN."
         },
         {
           "letter": "D",
-          "text": "El fenotipo recesivo se expresa únicamente en presencia de alelos dominantes",
+          "text": "El enrollamiento en hélice",
           "is_correct": false,
-          "feedback": "Incorrecto. El recesivo se expresa en homocigosis recesiva."
+          "feedback": "Incorrecto. El enrollamiento en doble hélice no es lo que se rompe al calentar: se rompen los puentes de hidrógeno y el esqueleto de desoxirribosa y fosfato permanece intacto."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La segregación de alelos en la meiosis explica las proporciones mendelianas 3:1 en la F2.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El ADN es un polímero de dos hebras complementarias unidas por puentes de hidrógeno entre adenina y timina, y entre guanina y citosina. El calor separa esas hebras y el enfriamiento lento restituye el apareamiento, un principio que se aprovecha en las pruebas de hibridación molecular.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -593,41 +638,41 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v14",
-      "statement": "El triplete de nucleótidos presente en el ARN mensajero que codifica para un aminoácido específico se denomina:",
-      "context": "Un laboratorio escolar en un colegio de Trujillo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
+      "statement": "¿Qué efecto tiene ese inhibidor sobre la síntesis de la cadena polipeptídica?",
+      "context": "En un colegio de Iquitos, un equipo monta un sistema de traducción in vitro con ARN mensajero sintético, ribosomas y ARN de transferencia, y observa que se forma una cadena polipeptídica. Luego añade un inhibidor de la ARN polimerasa.",
       "options": [
         {
-          "letter": "C",
-          "text": "Codón",
-          "is_correct": true,
-          "feedback": "Correcto. El codón consta de 3 bases consecutivas en el ARNm reconocido por el anticodón del ARNt."
-        },
-        {
           "letter": "A",
-          "text": "Anticodón",
+          "text": "Se detiene de inmediato",
           "is_correct": false,
-          "feedback": "Incorrecto. El anticodón es el triplete complementario en el extremo del ARNt."
+          "feedback": "Incorrecto. El inhibidor impide la transcripción, no la traducción, y como el ARN mensajero ya está presente en el tubo la cadena polipeptídica sigue formándose con normalidad."
         },
         {
           "letter": "B",
-          "text": "Promotor",
+          "text": "Ninguno, porque la transcripción ya ocurrió",
+          "is_correct": true,
+          "feedback": "Correcto. El ARN mensajero del sistema ya estaba transcrito antes de añadir el inhibidor, así que la síntesis de la proteína continúa sin verse afectada por el bloqueo de la ARN polimerasa."
+        },
+        {
+          "letter": "C",
+          "text": "Se detiene, salvo si hay ADN",
           "is_correct": false,
-          "feedback": "Incorrecto. El promotor es la secuencia de ADN donde se une la ARN polimerasa."
+          "feedback": "Incorrecto. La ARN polimerasa necesita ADN como molde, y el sistema descrito solo contiene ARN mensajero, ARN de transferencia y ribosomas, sin ADN que pueda transcribir."
         },
         {
           "letter": "D",
-          "text": "Intrón",
+          "text": "Se acelera por el bloqueo",
           "is_correct": false,
-          "feedback": "Incorrecto. Los intrones son secuencias no codificantes eliminadas durante el empalme (splicing)."
+          "feedback": "Incorrecto. Añadir un inhibidor de la ARN polimerasa no acelera la traducción: no existe ninguna ruta por la que esa inhibición aumente la velocidad de la síntesis proteica."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Existen 64 codones posibles que constituyen el código genético degenerado y universal.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La transcripción y la traducción son etapas distintas y separadas en el tiempo. En un sistema in vitro que ya contiene ARN mensajero maduro, la síntesis de la proteína depende del ribosoma y del ARN de transferencia, y no de la ARN polimerasa, que actúa un paso antes.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.39,
       "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
       "periodo": 3,
@@ -638,38 +683,38 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es el codón de iniciación universal que marca el comienzo de la traducción e incorpora metionina?",
-      "context": "Un laboratorio escolar en un colegio de Chiclayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
+      "statement": "Si los ojos claros se deben a un alelo recesivo, ¿qué información aporta ese registro?",
+      "context": "En un colegio de Puno, un grupo registra una familia de cinco hermanos: los dos padres tienen ojos oscuros, y entre los hijos hay tres con ojos oscuros y dos con ojos claros.",
       "options": [
         {
-          "letter": "C",
-          "text": "AUG",
-          "is_correct": true,
-          "feedback": "Correcto. AUG codifica para metionina en eucariotas y formalmetionina en procariotas."
-        },
-        {
           "letter": "A",
-          "text": "UAA",
-          "is_correct": false,
-          "feedback": "Incorrecto. UAA es un codón de parada o terminación (ocre)."
+          "text": "Los padres son heterocigotos",
+          "is_correct": true,
+          "feedback": "Correcto. Los dos padres presentan el fenotipo dominante y tienen hijos con el recesivo, así que ambos portan un alelo recesivo: son heterocigotos y el cruce corresponde a una proporción de tres a uno."
         },
         {
           "letter": "B",
-          "text": "UAG",
+          "text": "Los padres son homocigotos",
           "is_correct": false,
-          "feedback": "Incorrecto. UAG es un codón de parada (ámbar)."
+          "feedback": "Incorrecto. Dos padres homocigotos dominantes solo producirían descendientes con el fenotipo dominante, y ningún hijo con ojos claros aparecería en esa familia."
+        },
+        {
+          "letter": "C",
+          "text": "Todos los hijos son heterocigotos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hijos con el fenotipo recesivo son homocigotos recesivos, y solo los de ojos oscuros pueden ser heterocigotos o homocigotos dominantes."
         },
         {
           "letter": "D",
-          "text": "UGA",
+          "text": "El rasgo lo hereda el Y",
           "is_correct": false,
-          "feedback": "Incorrecto. UGA es un codón de parada (ópalo)."
+          "feedback": "Incorrecto. La herencia ligada al cromosoma Y solo la transmiten los varones a sus hijos varones, y una hija con el rasgo recesivo descarta esa vía por completo."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "AUG marca el sitio de inicio del marco de lectura abierto en el ribosoma.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Un progenitor heterocigoto produce gametos con el alelo dominante y con el recesivo en igual proporción. Al cruzar dos heterocigotos se obtiene la proporción fenotípica tres a uno, y esa coincidencia es la evidencia de que ambos padres portan el alelo recesivo.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -683,42 +728,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v16",
-      "statement": "Si se cruzan dos plantas heterocigotas para la altura ($Tt \\times Tt$), ¿cuál es la probabilidad genotípica de obtener descendientes homocigotos recesivos ($tt$)?",
-      "context": "Un laboratorio escolar en un colegio de Iquitos realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
+      "statement": "¿Qué efecto tiene ese cambio sobre la proteína sintetizada?",
+      "context": "En un colegio de Ayacucho, un equipo estudia una mutación puntual y encuentra que una adenina fue sustituida por una timina, con lo que el codón GAA pasa a ser GTA en la hebra codificante.",
       "options": [
         {
-          "letter": "D",
-          "text": "25% (1/4)",
-          "is_correct": true,
-          "feedback": "Correcto. El cruce heterocigoto produce genotipos 1 TT : 2 Tt : 1 tt (25% tt)."
-        },
-        {
           "letter": "A",
-          "text": "50% (1/2)",
-          "is_correct": false,
-          "feedback": "Incorrecto. 50% corresponde a la frecuencia de heterocigotos Tt."
+          "text": "Sustituye un aminoácido por otro",
+          "is_correct": true,
+          "feedback": "Correcto. GAA codifica para el ácido glutámico y GTA para la valina, de modo que el cambio altera un solo residuo de la cadena y produce una sustitución de un aminoácido por otro."
         },
         {
           "letter": "B",
-          "text": "75% (3/4)",
+          "text": "Elimina un nucleótido del mensaje",
           "is_correct": false,
-          "feedback": "Incorrecto. 75% corresponde a la proporción fenotípica dominante."
+          "feedback": "Incorrecto. Una sustitución no elimina nucleótidos: la longitud del ARN mensajero no cambia y el marco de lectura se mantiene en la misma posición."
         },
         {
           "letter": "C",
-          "text": "100%",
+          "text": "Adelanta el final de la traducción",
           "is_correct": false,
-          "feedback": "Incorrecto. Ocurriría solo entre homocigotos recesivos tt x tt."
+          "feedback": "Incorrecto. Los codones de terminación son UAA, UAG y UGA, y GTA no es ninguno de ellos, así que la traducción no se interrumpe en ese punto."
+        },
+        {
+          "letter": "D",
+          "text": "Trunca por cambio de marco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cambio de marco exige ganar o perder nucleótidos, y una sustitución uno por uno conserva el marco, de modo que el efecto es el cambio de un solo aminoácido."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "El cuadro de Punnett para Tt x Tt determina 1/4 TT, 2/4 Tt y 1/4 tt.\n\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "GAA y GTA son dos codones distintos del ARN mensajero que codifican aminoácidos diferentes, el ácido glutámico y la valina. Una mutación puntual que sustituye una base sin alterar la longitud de la secuencia produce una proteína con un residuo cambiado y el resto intacto.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.31,
+      "expected_success": 0.3,
       "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",
@@ -728,37 +773,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v17",
-      "statement": "La anomalía cromosómica numérica caracterizada por la presencia de tres cromosomas en el par 21 (Trisomía 21) se conoce como:",
-      "context": "Un laboratorio escolar en un colegio de Piura realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
+      "statement": "¿Qué nombre recibe la alteración del número de cromosomas de ese paciente?",
+      "context": "En un colegio de Tumbes, un equipo analiza células de un paciente y detecta tres copias del cromosoma 21 en sus células somáticas, mientras que en las germinales hay solo una de menos.",
       "options": [
         {
           "letter": "A",
-          "text": "Síndrome de Down",
-          "is_correct": true,
-          "feedback": "Correcto. El síndrome de Down se debe a una no disyunción meiótica del cromosoma 21."
+          "text": "Poliploidía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La poliploidía es la presencia de juegos completos adicionales de cromosomas, y aquí lo que hay es un cromosoma de más, no un juego entero repetido."
         },
         {
           "letter": "B",
-          "text": "Síndrome de Turner",
+          "text": "Mutación génica",
           "is_correct": false,
-          "feedback": "Incorrecto. El síndrome de Turner es una monosomía 45,X0 en mujeres."
+          "feedback": "Incorrecto. Una mutación génica altera la secuencia de nucleótidos de un gen, y aquí el cambio no está en un gen sino en el número de cromosomas de toda la célula."
         },
         {
           "letter": "C",
-          "text": "Síndrome de Klinefelter",
-          "is_correct": false,
-          "feedback": "Incorrecto. Klinefelter es una trisomía sexual 47,XXY en varones."
+          "text": "Aneuploidía",
+          "is_correct": true,
+          "feedback": "Correcto. La aneuploidía es la variación anómala del número de cromosomas por pérdida o ganancia de uno o pocos, y la trisomía 21 es el ejemplo más frecuente, con el síndrome de Down."
         },
         {
           "letter": "D",
-          "text": "Síndrome de Edwards",
+          "text": "Alteración estructural",
           "is_correct": false,
-          "feedback": "Incorrecto. El síndrome de Edwards es la trisomía del cromosoma 18."
+          "feedback": "Incorrecto. Una alteración estructural cambia la disposición de los genes dentro de un cromosoma, como en la translocación, y aquí el cambio afecta al número total de cromosomas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La trisomía 21 es la causa genética más frecuente de discapacidad intelectual y rasgos característicos.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La aneuploidía se produce por no disyunción, es decir, cuando los cromosomas no se separan correctamente al formarse los gametos. De ese modo un gameto lleva un cromosoma 21 de más y al unirse con otro normal origina un descendiente con tres copias de ese par.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -773,37 +818,37 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v18",
-      "statement": "El proceso de eliminación de intrones y unión de exones en el ARN pre-mensajero eucariótico se llama:",
-      "context": "Un laboratorio escolar en un colegio de Huancayo realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
+      "statement": "¿Qué explica que no se produzcan proteínas nuevas aunque las anteriores sigan presentes?",
+      "context": "En un colegio de Huaraz, un equipo aplica a células de músculo esquelético un inhibidor de la transcripción y observa que se detiene la síntesis de proteínas nuevas mientras las ya existentes siguen degradándose poco a poco.",
       "options": [
         {
-          "letter": "B",
-          "text": "Empalme o Splicing",
-          "is_correct": true,
-          "feedback": "Correcto. El splicing es realizado por el espliceosoma para generar el ARNm maduro."
+          "letter": "A",
+          "text": "Se destruyen los ribosomas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El inhibidor de la transcripción no ataca a los ribosomas, que siguen intactos y funcionantes, y el problema está en un paso anterior de la síntesis proteica."
         },
         {
-          "letter": "A",
-          "text": "Traducción polipeptídica",
+          "letter": "B",
+          "text": "Se consume el ARN mensajero",
           "is_correct": false,
-          "feedback": "Incorrecto. La traducción convierte ARNm en proteína en el ribosoma."
+          "feedback": "Incorrecto. El ARN mensajero no se agota por un bloqueo de la transcripción; lo que falta son ARN mensajeros nuevos, porque el inhibidor impide que se produzcan."
         },
         {
           "letter": "C",
-          "text": "Replicación semiconservativa",
-          "is_correct": false,
-          "feedback": "Incorrecto. La replicación duplica el genoma en la fase S del ciclo celular."
+          "text": "El ADN deja de codificar",
+          "is_correct": true,
+          "feedback": "Correcto. El inhibidor bloquea la ARN polimerasa y con ella la transcripción, así que no se genera ARN mensajero a partir del ADN y el ribosoma se queda sin molde para traducir."
         },
         {
           "letter": "D",
-          "text": "Transcripción inversa",
+          "text": "Faltan aminoácidos libres",
           "is_correct": false,
-          "feedback": "Incorrecto. La transcripción inversa sintetiza ADN a partir de ARN viral mediante la transcriptasa inversa."
+          "feedback": "Incorrecto. El inhibidor de la transcripción no retira aminoácidos del medio celular, y su mecanismo de acción es únicamente sobre la síntesis de ARN a partir del ADN."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El splicing alternativo permite generar múltiples isoformas proteicas a partir de un único gen.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La síntesis de una proteína nueva requiere primero un ARN mensajero, y ese ARN lo produce la transcripción con ARN polimerasa. Sin transcripción el ribosoma se queda sin molde, aunque conserve los aminoácidos y su estructura, y por eso la producción de proteínas se detiene.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -818,87 +863,42 @@
       "country": "pe"
     },
     {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v19",
-      "statement": "La molécula encargada de transportar aminoácidos específicos hacia el ribosoma durante la traducción proteica es el:",
-      "context": "Un laboratorio escolar en un colegio de Puno realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
+      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
+      "statement": "¿Qué fenómeno explica esa diferencia de supervivencia entre las bacterias?",
+      "context": "En un colegio de Lima, un equipo irradia con luz ultravioleta una suspensión de bacterias y observa que las bacterias mutadas sobreviven mientras las normales dejan de reproducirse en ese medio.",
       "options": [
         {
           "letter": "A",
-          "text": "ARN de transferencia (ARNt)",
-          "is_correct": true,
-          "feedback": "Correcto. El ARNt posee el anticodón complementario al codón del ARNm y carga el aminoácido en su extremo 3'."
+          "text": "La reparación de fotodímeros",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reparación de fotodímeros es el mecanismo que corrige el daño tras la exposición, y no es lo que distingue a las bacterias mutadas de las normales en ese experimento."
         },
         {
           "letter": "B",
-          "text": "ARN ribosomal (ARNr)",
+          "text": "La inducción de mutaciones",
           "is_correct": false,
-          "feedback": "Incorrecto. El ARNr forma la estructura catalítica de las subunidades ribosómicas."
+          "feedback": "Incorrecto. Inducir mutaciones es el daño inicial que produce la luz ultravioleta, y no explica por qué solo las bacterias mutadas sobreviven a esa exposición."
         },
         {
           "letter": "C",
-          "text": "ARN nuclear pequeño (ARNsn)",
-          "is_correct": false,
-          "feedback": "Incorrecto. El ARNsn participa en el procesamiento del ARNm en el núcleo."
+          "text": "La selección natural",
+          "is_correct": true,
+          "feedback": "Correcto. La luz ultravioleta daña el ADN de todas las bacterias, pero las que tienen un alelo mutado que repara mejor el daño sobreviven y se reproducen más en ese medio que las portadoras del alelo normal."
         },
         {
           "letter": "D",
-          "text": "ADN polimerasa",
+          "text": "La inducción de transcripción",
           "is_correct": false,
-          "feedback": "Incorrecto. La ADN polimerasa replica el ADN y no transporta aminoácidos."
+          "feedback": "Incorrecto. La inducción de la transcripción es la respuesta de la célula a un estímulo, y no explica una diferencia de supervivencia ante la radiación ultravioleta."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "El ARNt actúa como adaptador entre el código genético y la secuencia primaria de aminoácidos.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La selección natural actúa sobre variaciones heredables: las bacterias con un alelo que confiere resistencia sobreviven y se reproducen más, mientras las portadoras del alelo menos favorable desaparecen de esa población. La radiación ultravioleta es mutagénica, pero la diferencia de supervivencia se debe a esa ventaja selectiva.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
       "expected_success": 0.15,
-      "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
-      "periodo": 3,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "pe"
-    },
-    {
-      "id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle-v20",
-      "statement": "La hipótesis que demuestra que cada hebra original de ADN sirve como molde para sintetizar una nueva hebra complementaria se conoce como replicación:",
-      "context": "Un laboratorio escolar en un colegio de Ayacucho realiza una experiencia práctica sobre Genética Mendeliana y Molecular: Replicación del ADN, Transcripción y Traducción para la preparación preuniversitaria.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Semiconservativa",
-          "is_correct": true,
-          "feedback": "Correcto. Demostrada por Meselson y Stahl, cada molécula hija conserva una hebra antigua y una hebra nueva."
-        },
-        {
-          "letter": "B",
-          "text": "Conservativa",
-          "is_correct": false,
-          "feedback": "Incorrecto. Postulaba que la hélice paterna permanecía totalmente intacta."
-        },
-        {
-          "letter": "C",
-          "text": "Dispersiva",
-          "is_correct": false,
-          "feedback": "Incorrecto. Postulaba que las hebras hijas eran mezclas fragmentadas de ADN viejo y nuevo."
-        },
-        {
-          "letter": "D",
-          "text": "Semicontinua exclusivamente",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se refiere a la forma de síntesis leading/lagging strand, no al destino de las hebras progenitoras."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "La replicación semiconservativa garantiza la fidelidad en la transmisión de la información hereditaria.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.1,
       "bundle_id": "PE-NAT-11-2026-W03-tema-w03-001-MASTERY-bundle",
       "periodo": 3,
       "protocol_version": "5.2",

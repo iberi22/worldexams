@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v1",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "¿Qué evidencia es la más directa del calentamiento global?",
+      "context": "Karla presenta un gráfico de temperatura global en la clase de geografía de Santa Tecla.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
-        },
-        {
           "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
+          "text": "El aumento sostenido de la temperatura media de la superficie del planeta",
+          "is_correct": true,
+          "feedback": "Correcto. La temperatura media global muestra una tendencia ascendente clara a lo largo de las ultimas decadas. Ese aumento sostenido es la firma directa del cambio climatico actual, y no un simple vaiven natural."
         },
         {
           "letter": "B",
-          "text": "Fermentación",
+          "text": "Un episodio puntual de lluvia intensa en una ciudad concreta",
           "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
+          "feedback": "Un episodio de lluvia intense es un fenomeno del tiempo, y no del clima. El clima se caracteriza por patrones que se mantienen durante largos periodos, y no por un solo evento aislado."
         },
         {
           "letter": "C",
-          "text": "Digestión",
+          "text": "La variacion meteorologica de un dia en invierno",
           "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
+          "feedback": "Una variacion de un dia pertenece al tiempo meteorologico y no al clima. Para hablar de cambio climatico hacen falta tendencias de largo plazo, y no la temperatura de una jornada cualquiera."
+        },
+        {
+          "letter": "D",
+          "text": "La aparicion de un nuevo tipo de nube en una region de montana",
+          "is_correct": false,
+          "feedback": "La formacion de nubes depende de la humedad y de la temperatura del momento. Ninguna nube aislada demuestra un cambio en el clima de la Tierra a escala global."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "A",
+      "explanation": "El clima se caracteriza por sus medias y sus tendencias de largo plazo. Un aumento sostenido de la temperatura media global es la evidencia directa del calentamiento, mientras que un evento aislado dice solo algo sobre el tiempo de un dia.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,40 +54,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v2",
-      "statement": "Objeto de 4 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "¿Cuál es la función del efecto invernadero en la atmosfera terrestre?",
+      "context": "Mateo lee sobre el efecto invernadero en la clase de ciencias de San Miguel.",
       "options": [
         {
-          "letter": "A",
-          "text": "16 N",
+          "letter": "C",
+          "text": "Retener parte del calor que emite la superficie terrestre y mantener la temperatura habitable",
           "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 4 \\times 4 = 16\\ N$, que es la fuerza aplicada."
+          "feedback": "Correcto. La atmosfera absorbe y reemite parte de la radiacion infrarroja que emite el suelo. Ese efecto natural mantiene la temperatura media de la Tierra en un rango que permite la vida, y su intensificacion es lo que produce el calentamiento actual."
+        },
+        {
+          "letter": "A",
+          "text": "Impedir por completo que el calor del Sol llegue a la superficie",
+          "is_correct": false,
+          "feedback": "El efecto invernadero no bloquea la radiacion solar, que es la que calienta la superficie. Lo que retiene es parte de la radiacion infrarroja que la propia Tierra emite al espacio, y no la luz que recibe del Sol."
         },
         {
           "letter": "B",
-          "text": "12 N",
+          "text": "Producir el oxígeno que respiran los seres vivos",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
-        },
-        {
-          "letter": "C",
-          "text": "20 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 20 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El oxigeno de la atmosfera proviene de la fotosintesis, y no del efecto invernadero. Ese efecto se refiere exclusivamente al calor, y no a la composicion del aire que respiramos."
         },
         {
           "letter": "D",
-          "text": "4 N",
+          "text": "Evitar que la atmosfera pierda su capa de ozono",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $4 \\times 4 = 16\\ N$; el valor 4 N correspondería a otra masa o a otra aceleración."
+          "feedback": "La capa de ozono se destruye por cloro y otros compuestos, y no por el efecto invernadero. Son dos problemas ambientales distintos, con causas distintas y con consecuencias diferentes sobre la vida en la Tierra."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 4×4 = 16 N.",
+      "correct_answer": "C",
+      "explanation": "Los gases de efecto invernadero absorben radiacion infrarroja y reemiten parte de ella hacia la superficie. Ese mecanismo natural es indispensable para la vida, y su aumento por actividades humanas es la causa del calentamiento global.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v3",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Soyapango estudiando cambio climatico.",
+      "statement": "¿Cuál es la principal fuente de emisiones de dióxido de carbono de origen humano?",
+      "context": "Lucía analiza datos de emisiones de dióxido de carbono en la clase de ciencias de Soyapango.",
       "options": [
         {
-          "letter": "C",
-          "text": "La piel",
+          "letter": "B",
+          "text": "La quema de combustibles fósiles, como el carbón, el petróleo y el gas natural",
           "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
+          "feedback": "Correcto. Al quemar esos combustibles, el carbono que estuvo almacenado durante millones de años pasa a la atmosfera en forma de dioxido de carbono. Esa es la causa principal del aumento de ese gas en las ultimas decadas."
         },
         {
           "letter": "A",
-          "text": "El hígado",
+          "text": "La respiración de los seres vivos, que emite CO2 continuamente",
           "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
+          "feedback": "La respiracion libera CO2, pero ese carbono forma parte del ciclo natural y no aumenta su cantidad neta. Lo que eleva el CO2 atmosferico es la devolucion de carbono antiguo enterrado durante millones de años."
         },
         {
-          "letter": "B",
-          "text": "El corazón",
+          "letter": "C",
+          "text": "La evaporación del agua de los océanos, que libera el gas disuelto",
           "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
+          "feedback": "La evaporacion del agua no libera CO2 en cantidades significativas. Ademas, los oceanos absorben gran parte del CO2 atmosferico, y por eso funcionan como un sumidero parcial de ese gas."
         },
         {
           "letter": "D",
-          "text": "Los pulmones",
+          "text": "Los volcanes, que liberan enormes cantidades de CO2 a diario",
           "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
+          "feedback": "Los volcanes emiten CO2, aunque en una fraccion mucho menor que la actividad humana. La erupcion del Pinatubo, por ejemplo,agia mas sobre la temperatura por el aerosol que inyecta que por el gas que libera."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "B",
+      "explanation": "La quema de combustibles fósiles libera a la atmosfera el carbono que esses combustibles liberan. Esa adicion antropica es la causa principal del aumento del CO2 atmosferico y, por tanto, del calentamiento global actual.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v4",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando cambio climatico.",
+      "statement": "Si los glaciares se reducen de forma sostenida, ¿qué efecto tiene en el ciclo del agua?",
+      "context": "Andrés observa un glaciar en la cordillera de los Andes durante un viaje de estudio.",
       "options": [
         {
-          "letter": "C",
-          "text": "La exposición a la luz",
-          "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
-        },
-        {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
-          "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "text": "Que disminuye el agua dulce disponible, porque los glaciares alimentan los ríos en época seca",
+          "is_correct": true,
+          "feedback": "Correcto. Los glaciares almacenan agua en estado solido y la liberan poco a poco, y eso sostiene el caudal de los rios cuando hay poca lluvia. Al reducirse, los cursos de agua dependen mas de la precipitacion directa y se vuelven mas irregulares."
         },
         {
           "letter": "B",
-          "text": "La temperatura ambiente",
+          "text": "Que aumenta el agua de mar, porque el hielo se convierte en agua líquida",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "El deshielo de los glaciares aporta agua dulce a los rios, y no agua salada al oceano. El aumento del nivel del mar procede de la fusion del hielo marino y de los casquetes de hielo polar."
+        },
+        {
+          "letter": "C",
+          "text": "Que no tiene efecto, porque el agua de los glaciares se renueva cada año",
+          "is_correct": false,
+          "feedback": "La renovacion de los glaciares es muy lenta, medida en siglos o milenios. Por eso, si se pierden mas rapido de lo que se replen, sus reservas de agua dulce se reducen de forma neta."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Que aumenta la evaporación, porque el hielo retiene el vapor de agua",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "El hielo no aumenta la evaporacion: el agua liquida es la que se evapora. La consequence de la reduccion de los glaciares afecta a la disponibilidad de agua dulce, y no a la cantidad de vapor que hay en el aire."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "4",
+      "correct_answer": "A",
+      "explanation": "Los glaciares funcionan como reservas de agua dulce que se vacian de forma lenta. Su reduccion reduce el caudal de los rios en epocas secas y aumenta la vulnerabilidad de las poblaciones que dependen de esos cursos de agua.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v5",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en Mejicanos estudiando cambio climatico.",
+      "statement": "¿Por qué las zonas costeras suelen tener temperaturas más suaves que el interior?",
+      "context": "Sofía compara el clima de dos ciudades, una en la costa y otra en el interior del país, en la clase de geografía de Ahuachapán.",
       "options": [
         {
-          "letter": "B",
-          "text": "La célula",
+          "letter": "A",
+          "text": "Porque el mar absorbe y libera calor muy lentamente, y modera las temperaturas",
           "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
+          "feedback": "Correcto. El agua tiene una capacidad calorica mucho mayor que la tierra, de modo que se calienta poco en verano y se enfria poco en invierno. Ese efecto de amortiguacion mantiene las zonas costeras dentro de un rango mas estrecho de temperatura."
         },
         {
-          "letter": "A",
-          "text": "El átomo",
+          "letter": "B",
+          "text": "Porque la costa recibe más lluvia y eso enfría el aire en verano",
           "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
+          "feedback": "La lluvia si puede enfriar el aire, y no es la causa principal de esa diferencia. Lo que modera la temperatura de las zonas costeras es la capacidad calorica del agua, que calienta y se enfria muy despacio."
         },
         {
           "letter": "C",
-          "text": "La molécula",
+          "text": "Porque el viento del mar siempre trae temperaturas frescas del sur",
           "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
+          "feedback": "El viento del mar transporta aire modificado por la temperatura superficial. En invierno ese aire suele ser mas calido, y en verano mas fresco, de modo que su efecto es de suavizar y no solo de enfriar."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Porque las montañas bloquean el sol que llega a la costa",
           "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
+          "feedback": "El relieve puede proteger una zona, y no es lo que explica la diferencia general entre costa e interior. El efecto dominante es la inercia termica del agua, que hace que las temperaturas costeras varien mucho menos entre el dia y la noche."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "A",
+      "explanation": "El agua necesita mucha energia para calentarse y para enfriarse. Esa inercia termica hace que las regiones costeras tengan veranos mas frescos e invierno mas templados que las del interior del continente.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v6",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Miguel estudiando cambio climatico.",
+      "statement": "¿Por qué el cambio climático aumenta el riesgo de sequías en algunas regiones?",
+      "context": "Carlos estudia cómo responde un cultivo de maíz a la sequía en la clase de ciencias de San Francisco Gotera.",
       "options": [
         {
-          "letter": "A",
-          "text": "Fotosíntesis",
+          "letter": "C",
+          "text": "Porque altera los patrones de lluvia y aumenta la variabilidad de la precipitación",
           "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
+          "feedback": "Correcto. El calentamiento modifica la circulacion atmosferica y cambia cuando y donde llueve. En muchas regiones eso significa episodios mas intenso de lluvia separados por periodos largos y secos, lo que dispara la posibilidad de sequia."
+        },
+        {
+          "letter": "A",
+          "text": "Porque el sol emite más calor al aumentar el CO2 de la atmósfera",
+          "is_correct": false,
+          "feedback": "El aumento del CO2 calienta la superficie por su efecto invernadero, y no porque el Sol emita mas. La radiacion solar que llega a la Tierra se mantiene praticamente constante en la epoca actual."
         },
         {
           "letter": "B",
-          "text": "Respiración celular",
+          "text": "Porque se evapora el agua de los ríos y no se repone con nieve",
           "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
+          "feedback": "La falta de reposicion por nieve agrava el problema en regiones de montana, y no explica la aparicion de sequias en zonas sin nieve. Lo que actua a escala general es el cambio en los patrones de precipitacion."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Porque los relojes de lluvia se adelantan una hora cada año",
           "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
+          "feedback": "No existen esos relojes. Lo que cambia con el clima es la distribucion de la precipitacion a lo largo del año, y no la hora a la que empieza a llover en un punto concreto."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
+      "correct_answer": "C",
+      "explanation": "El cambio climatico reorganiza la circulacion de la atmosfera y con ella el reparto de la lluvia. El resultado habitual es una precipitacion mas irregular, con lluvias intensas separadas por periodos secos que elevan el riesgo de sequia.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
@@ -279,40 +279,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v7",
-      "statement": "Objeto de 2 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "¿Qué efecto tiene el aumento del dióxido de carbono atmosférico sobre los océanos?",
+      "context": "Wendy investiga cómo afecta el aumento del CO2 a los océanos en la clase de ciencias de Metapán.",
       "options": [
         {
           "letter": "A",
-          "text": "8 N",
+          "text": "Que se acidifican, porque el CO2 disuelto reacciona con el agua y forma un ácido",
           "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 2 \\times 4 = 8\\ N$, que es la fuerza aplicada."
+          "feedback": "Correcto. Parte del CO2 atmosferico se disuelve en el agua del mar y forma acido carbonico. Ese aumento de protones reduce el pH del oceano, lo que dificulta que los corales y las conchas construyan su esqueleto de carbonato de calcio."
         },
         {
           "letter": "B",
-          "text": "6 N",
+          "text": "Que se vuelven más salados, porque el CO2 arrastra sales del fondo",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 4 = 8\\ N$; el valor 6 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El CO2 no trae sales al oceano. Lo que produce su aumento es la acidificacion, que afecta a los organismos que construyen estructuras de carbonato, y no la concentracion de sal."
         },
         {
           "letter": "C",
-          "text": "12 N",
+          "text": "Que pierden oxígeno disuelto, porque el CO2 ocupa el lugar del O2",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 4 = 8\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El oxigeno disuelto depende sobre todo de la temperatura y de la mezcla del agua, y no de un intercambio directo con el CO2. El efecto caracteristico del CO2 en el mar es la acidificacion, no el descenso de oxigeno."
         },
         {
           "letter": "D",
-          "text": "2 N",
+          "text": "Que se vuelven más calientes en la superficie y se hunden",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $2 \\times 4 = 8\\ N$; el valor 2 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El agua superficial si puede calentarse algo, y eso afecta a su densidad. El efecto global que se asocia al CO2 en los oceanos es el aumento de la acidez, y no la inversion de la capas superficiales."
         }
       ],
       "correct_answer": "A",
-      "explanation": "F = ma = 2×4 = 8 N.",
-      "difficulty": "6",
+      "explanation": "El CO2 disuelto en el agua del mar forma acido carbonico y libera protones. Ese descenso del pH oceanico se llama acidificacion, y dificulta la construccion de los esqueletos de corales y moluscos.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
@@ -324,216 +324,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Miguel estudiando cambio climatico.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
-        },
-        {
-          "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
-        },
-        {
-          "letter": "B",
-          "text": "El corazón",
-          "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
-        },
-        {
-          "letter": "D",
-          "text": "Los pulmones",
-          "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v9",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Mejicanos estudiando cambio climatico.",
+      "statement": "¿Por qué la deforestación agrava el problema del cambio climático?",
+      "context": "Iván prepara un informe sobre el cambio de uso del suelo en su comunidad en la clase de ciencias de La Libertad.",
       "options": [
         {
           "letter": "B",
-          "text": "La exposición a la luz",
+          "text": "Porque los árboles absorben CO2 al fotosintetizar y al talarlos se libera el almacenado",
           "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
+          "feedback": "Correcto. Cada árbol retira dioxido de carbono del aire y guarda ese carbono en su biomasa. Al talarlo, el carbono vuelve a la atmosfera, y ademas se libera algo del suelo, de modo que la deforestación suma dos efectos emisores."
         },
         {
           "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "text": "Porque los árboles no producen oxígeno cuando se los corta",
           "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "feedback": "Los arboles producen oxigeno mientras viven y realizan la fotosintesis. Al talarlos se retira esa capacidad de fijar carbono, y la razon principal es precisamente el carbono, y no el oxigeno."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Porque al cortar árboles aumenta la lluvia en la zona",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "La deforestación reduce la transpiracion de la vegetacion y altera el ciclo local del agua. Eso puede hacer mas seca la region, y no mas lluviosa, de modo que la relacion con el clima va en otro sentido."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Porque la madera cortada se convierte directamente en gas contaminante",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "La madera cortada no se convierte sola en un gas contaminante. Lo que ocurre es que al descomponerse o quemarse libera el carbono que habia estado almacenado, y ademas se pierden los arboles que lo absorbian."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v10",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
-        },
-        {
-          "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
-        },
-        {
-          "letter": "B",
-          "text": "La molécula",
-          "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
-        },
-        {
-          "letter": "D",
-          "text": "El tejido",
-          "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v11",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Fotosíntesis",
-          "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
-        },
-        {
-          "letter": "A",
-          "text": "Respiración celular",
-          "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
-        },
-        {
-          "letter": "C",
-          "text": "Fermentación",
-          "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
-        },
-        {
-          "letter": "D",
-          "text": "Digestión",
-          "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ciencias-naturales",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v12",
-      "statement": "Objeto de 6 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "18 N",
-          "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 6 \\times 3 = 18\\ N$, que es la fuerza aplicada."
-        },
-        {
-          "letter": "A",
-          "text": "12 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
-        },
-        {
-          "letter": "C",
-          "text": "21 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 21 N correspondería a otra masa o a otra aceleración."
-        },
-        {
-          "letter": "D",
-          "text": "6 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 6 N correspondería a otra masa o a otra aceleración."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "F = ma = 6×3 = 18 N.",
+      "explanation": "La vegetacion es un sumidero de carbono: retira CO2 del aire y lo almacena. La deforestación elimina ese sumidero y devuelve parte del carbono a la atmosfera, lo que refuerza el calentamiento global.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -548,42 +368,222 @@
       "country": "sv"
     },
     {
-      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v13",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en Santa Ana estudiando cambio climatico.",
+      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v9",
+      "statement": "¿Qué efecto tiene la pérdida de la nieve en el albedo de un terreno?",
+      "context": "Rosa María compara el albedo de la nieve y del suelo oscuro en la clase de ciencias de San Vicente.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
+          "text": "Que el albedo disminuye, porque el suelo oscuro absorbe más radiación solar",
+          "is_correct": true,
+          "feedback": "Correcto. La nieve refleja buena parte de la radiacion solar, y por eso es muy reflectante. Al desaparecer, el suelo oscuro queda expuesto y absorbe mas radiacion, lo que refuerza el calentamiento de forma directa."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "Que el albedo aumenta, porque el suelo oscuro refleja más luz que la nieve",
           "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
+          "feedback": "El suelo oscuro absorbe mas, y no mas reflectante que la nieve. Al perder la nieve, el albedo del terreno baja, de modo que la superficie retiene mas calor en lugar de devolverlo al espacio."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "Que el albedo no cambia, porque solo depende de la temperatura del aire",
           "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
+          "feedback": "El albedo es una propiedad de la superficie, y depende de su color y textura. La nieve y el suelo tienen reflectancias distintas, de modo que el cambio de uno a otro si modifica el albedo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el albedo se duplica, porque desaparece la capa que lo reducía",
+          "is_correct": false,
+          "feedback": "El albedo de la nieve es alto y el del suelo oscuro es bajo. Al desaparecer la nieve el albedo disminuye en lugar de aumentar, y con esa reduccion llega mas radiacion al suelo."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "A",
+      "explanation": "El albedo indica la fraccion de radiacion que una superficie devuelve al espacio. La nieve lo tiene alto y el suelo oscuro bajo, de modo que su perdida aumenta la absorcion solar y el calentamiento del terreno.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v10",
+      "statement": "Si se reemplaza una bombilla incandescent por una LED, ¿por qué se reduce el consumo?",
+      "context": "Priscilla revisa medidas de ahorro energético para su casa en la clase de ciencias de San Juan Bautista.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Porque la LED convierte más energía eléctrica en luz y menos en calor",
+          "is_correct": true,
+          "feedback": "Correcto. La incandescent dedicaba gran parte de la energia a calentar el filamento, y no a iluminar. La LED produce la misma luz con una fraccion muy menor de energia, y por eso calienta menos y consume menos."
+        },
+        {
+          "letter": "A",
+          "text": "Porque la LED produce más luz que consume energía por un proceso distinto",
+          "is_correct": false,
+          "feedback": "No hay un proceso distinto, sino una tecnologia mas eficiente. La LED entrega la misma cantidad de luz con menos potencia, y por eso su consumo es menor aunque el brillo sea identico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la bombilla incandescent ya no sirve para iluminar una habitación",
+          "is_correct": false,
+          "feedback": "La incandescent sigue iluminando, y lo que hace es hacerlo de forma poco eficiente. Su tecnologia no ha dejado de servir, de modo que la diferencia esta en el rendimiento y no en la capacidad de dar luz."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la LED no necesita electricidad para funcionar",
+          "is_correct": false,
+          "feedback": "La LED funciona con electricidad, y consume menos que la bombilla que sustituye. Lo que cambia es la cantidad de energia necesaria para producir la misma cantidad de luz, y no su fuente de alimentacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La eficiencia luminosa de una LED es mucho mayor que la de una incandescent. La mayor parte de su energia se convierte en luz visible, con un calor residual muy reducido, de modo que el consumo baja de forma notable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v11",
+      "statement": "Si el nivel del mar sube, ¿qué efecto tiene sobre las mareas y las zonas costeras?",
+      "context": "Christian estudia las mareas en la costa de El Salvador en la clase de ciencias de Antiguo Cuscatlán.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las mareas alcanzan zonas más bajas del litoral y aumenta el riesgo de inundación",
+          "is_correct": true,
+          "feedback": "Correcto. La subida del nivel del mar desplaza la linea de costa hacia tierra y hace que las mareas alcancen areas antes secas. Ese efecto aumenta la exposicion de las zonas bajas a la inundacion durante marejadas y tormentas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las mareas desaparecen, porque el agua ocupa todo el espacio disponible",
+          "is_correct": false,
+          "feedback": "Las mareas no desaparecen por la subida del nivel: siguen produciendose por la atraccion lunar y solar. Lo que cambia es hasta donde llegan y con que frecuencia inundan el litoral."
+        },
+        {
+          "letter": "C",
+          "text": "Que las mareas se reducen, porque el agua necesita menos espacio para moverse",
+          "is_correct": false,
+          "feedback": "El volumen de agua sigue siendo el mismo y la luna sigue atraeyendolo con igual fuerza. Lo que aumenta con el nivel del mar es el area inundable, y no una reduccion de la marea."
+        },
+        {
+          "letter": "D",
+          "text": "Que la marea lunar desaparece, porque la Luna queda más lejos de la Tierra",
+          "is_correct": false,
+          "feedback": "La distancia entre la Tierra y la Luna no cambia con la subida del nivel del mar. Esas dos variables no estan conectadas, de modo que la marea lunar se mantiene sin relacion con este fenomeno."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aumento del nivel del mar expande la superficie de agua sobre el litoral. Eso hace que las mareas alcancen puntos antes secos y que las zonas bajas resulten mas vulnerables a la inundacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v12",
+      "statement": "¿Por que los paises se comprometen con reducir emisiones de gases de efecto invernadero?",
+      "context": "Karla se prepara para un debate sobre el cambio climático en la clase de ciencias de Metapán.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Porque el efecto invernadero es compartido, y un país solo no puede resolverlo",
+          "is_correct": true,
+          "feedback": "Correcto. La atmosfera es un sistema común, y lo que uno emite afecta a la temperatura de todo el planeta. Por eso los acuerdos internacionales buscan compromisos conjuntos, y no solo acciones aisladas de un solo pais."
+        },
+        {
+          "letter": "A",
+          "text": "Porque las emisiones solo afectan a quien las produce, y por eso no hay un problema privado",
+          "is_correct": false,
+          "feedback": "El efecto del CO2 es global, y no se queda dentro de las fronteras del pais que lo emite. Por eso reducir emisiones en un solo lugar ayuda, aunque no resuelva por si sola la causa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los gases de efecto invernadero solo se producen en los paises industrializados",
+          "is_correct": false,
+          "feedback": "Todos los paises emiten gases de efecto invernadero, y los que tienen menos industria emiten menos. El problema es compartido, y por eso la respuesta global combina reduccion con medidas de adaptacion."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el cambio climático no afecta a los países que menos emiten",
+          "is_correct": false,
+          "feedback": "El clima no distingue entre quien emite mas y quien emite menos. Un pais que emite poco sigue expuesto a sequias, inundaciones y calor, de modo que la necesidad de actuar es universal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El clima es un sistema global compartido, de modo que la respuesta exige acuerdos entre paises. Cada nacion reduce sus propias emisiones y ademas se adapta a los efectos que ya son inevitables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v13",
+      "statement": "Si los océanos absorben la mayor parte del calor emitido por el efecto invernadero, ¿qué efecto tiene sobre su nivel?",
+      "context": "Wendy analiza un registro de la temperatura de los océanos en la clase de ciencias de La Libertad.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Que el agua se expande al calentarse y el nivel del mar sube",
+          "is_correct": true,
+          "feedback": "Correcto. El agua se dilata al subir su temperatura, ademas de que el deshielo aporta agua al oceano. Ambos efectos hacen que el nivel del mar aumente cuando el planeta se calienta."
+        },
+        {
+          "letter": "A",
+          "text": "Que el agua se contrae y el nivel del mar baja automáticamente",
+          "is_correct": false,
+          "feedback": "El agua se expande con el calor, y no se contrae. Al calentarse ocupa mas volumen, de modo que el mar ocupa mas espacio contra la costa y su nivel sube."
+        },
+        {
+          "letter": "B",
+          "text": "Que el nivel no cambia, porque el agua se evapora en lugar de calentarse",
+          "is_correct": false,
+          "feedback": "El calor del oceano calienta el agua y la expande, ademas de que parte se evapora. El efecto dominante en el aumento del nivel es la expansion termica, y no una perdida de agua por evaporacion."
+        },
+        {
+          "letter": "D",
+          "text": "Que el nivel sube solo por el deshielo de los glaciares continentales",
+          "is_correct": false,
+          "feedback": "El deshielo de los glaciares continentales aporta agua al oceano y si contribuye al aumento. Pero el mayor peso lo tiene la expansion termica del agua ya existente, y no solo el hielo que se derrite."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El agua se expande al calentarse y el deshielo de hielos terrestres anade agua al oceano. Combinados, ambos procesos explican el aumento del nivel del mar asociado al calentamiento global.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v14",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en Santa Ana estudiando cambio climatico.",
+      "statement": "¿Qué término se usa para un sistema que absorbe más carbono del que libera?",
+      "context": "Iván revisa el papel de los bosques como sumideros de carbono en la clase de ciencias de Ayutuxte.",
       "options": [
         {
-          "letter": "B",
-          "text": "La exposición a la luz",
+          "letter": "A",
+          "text": "Sumidero de carbono",
           "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
+          "feedback": "Correcto. Un sumidero de carbono es un sistema que retira CO2 de la atmosfera y lo almacena a largo plazo. Los bosques, los oceanos y los suelos cumplen ese papel, y por eso son clave en el equilibrio del clima."
         },
         {
-          "letter": "A",
-          "text": "El crecimiento de las plantas",
+          "letter": "B",
+          "text": "Fuente de carbono",
           "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "feedback": "Una fuente de carbono es lo contrario: libera mas carbono del que retira. Quemar madera o fosiles convierte a la atmosfera en una fuente, y no en un sumidero."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Reservorio finito de agua dulce",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "Ese termino describe a los glaciares y a los acuiferos. Un sistema que absorbe carbono se llama sumidero, y la distincion esta en la sustancia que retiene, y no en el agua."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Zona con una funcion especial en la biosfera",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "Un sumidero no se define por tener una funcion en la biosfera, sino por su balance de carbono. Cualquier sistema que retire mas CO2 del que libera, como un bosque joven, es un sumidero."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Un sumidero de carbono retira CO2 de la atmosfera y lo fija en su biomasa o en el suelo. Los bosques, los oceanos y los suelos son los principales sumideros naturales del planeta.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v15",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "¿Qué relación existe entre el aumento de la temperatura del mar y la intensidad de los huracanes?",
+      "context": "Christian prepara una charla sobre huracanes en la clase de ciencias de Chalatenango.",
       "options": [
         {
-          "letter": "C",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
+          "text": "Que un mar más cálido aporta más energía y puede generar tormentas más intensas",
+          "is_correct": true,
+          "feedback": "Correcto. Un huracan es una maquina termica que se alimenta del calor del oceano. Con agua mas calida hay mas energia disponible, de modo que los sistemas pueden alcanzar vientos mas fuertes y descargar mas lluvia."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Que un mar más frío genera huracanes más fuertes",
           "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
+          "feedback": "Es al reves: cuanto mas calida esta el agua, mas energia hay para alimentar la tormenta. El enfriamiento del oceano debilita el sistema, y por eso las temporadas tranquila siguen a inviernos frios."
+        },
+        {
+          "letter": "C",
+          "text": "Que la temperatura del mar no influye en la fuerza del huracán",
+          "is_correct": false,
+          "feedback": "La temperatura superficial del oceano es una de las variables que mas condiciona un huracan. Si no influyera, la prediccion de la intensidad de las tormentas seria imposible con los datos que se tienen hoy."
         },
         {
           "letter": "D",
-          "text": "El tejido",
+          "text": "Que el huracan se alimenta del viento de la tierra",
           "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
+          "feedback": "El huracan se alimenta del calor del oceano, y no del viento continental. El aire seco y el viento que seccionan la tormenta son ademas factores que la debilitan, en lugar de alimentarla."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "Los huracanes obtienen su energia del calor latente liberado cuando el vapor de agua se condensa sobre un oceano calido. Por eso un aumento de la temperatura superficial intensifica la actividad de estos sistemas.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -684,40 +684,40 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v16",
-      "statement": "¿Qué proceso conviierte luz solar en energía química en las plantas?",
-      "context": "Clase de ciencias en San Miguel estudiando cambio climatico.",
+      "statement": "Si una comunidad levanta un muro de protección contra el aumento del nivel del mar, ¿qué medida de adaptación está aplicando?",
+      "context": "Karla y su equipo revisan cómo se adaptan las comunidades costeras en la clase de ciencias de San Francisco Gotera.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fotosíntesis",
+          "letter": "B",
+          "text": "Adaptación, porque actúa sobre los efectos del cambio climático sin atacar su causa",
           "is_correct": true,
-          "feedback": "Correcto: en la fotosíntesis las plantas captan la energía de la luz y la almacenan como energía química en la glucosa."
+          "feedback": "Correcto. La adaptacion reduce el daño de un efecto que ya esta ocurriendo o que es inevitable. El muro no reduce las emisiones, de modo que no es mitigacion, sino una medida paraenya vivir con el cambio."
         },
         {
           "letter": "A",
-          "text": "Respiración celular",
+          "text": "Mitigación, porque elimina la causa del aumento del nivel del mar",
           "is_correct": false,
-          "feedback": "la respiración celular libera energía química a partir de la glucosa; no convierte la luz en energía química."
+          "feedback": "Un muro no elimina la causa del problema, que es la emision de gases de efecto invernadero. La mitigacion consiste en reducir esas emisiones, y por eso un muro no puede considerarse mitigacion."
         },
         {
-          "letter": "B",
-          "text": "Fermentación",
+          "letter": "C",
+          "text": "Prevención, porque evita que el clima cambie en el futuro",
           "is_correct": false,
-          "feedback": "la fermentación es una vía anaeróbica para obtener energía de los azúcares y no utiliza la luz."
+          "feedback": "La prevencion no puede evitar el cambio climatico, que ya esta ocurriendo. Ningun muro detiene el calentamiento, de modo que esa etiqueta no corresponde a lo que hace esta medida."
         },
         {
           "letter": "D",
-          "text": "Digestión",
+          "text": "Conservación, porque protege a las especies de la zona costera",
           "is_correct": false,
-          "feedback": "la digestión descompone los alimentos para absorberlos; no es un proceso que aproveche la luz."
+          "feedback": "Conservar especies es un objetivo ecologico distinto del que cumple un muro de proteccion. La funcion de esa obra es reducir la inundacion del litoral, y no proteger directamente a ninguna especie."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La adaptacion enfrenta los impactos que ya se producen o que son inevitables, mientras que la mitigacion ataca la causa. Un muro de proteccion es adaptacion, porque reduce el dano sin reducir las emisiones.",
+      "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
@@ -729,36 +729,36 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v17",
-      "statement": "Objeto de 6 kg acelera a 3 m/s². ¿Fuerza aplicada? (F=ma)",
-      "context": "Clase de ciencias en Soyapango estudiando cambio climatico.",
+      "statement": "Si se duplica la cantidad de metano en la atmósfera, ¿qué efecto se espera en el calentamiento?",
+      "context": "Fernando compara los gases que forman la atmósfera en la clase de ciencias de Metapán.",
       "options": [
         {
           "letter": "A",
-          "text": "18 N",
-          "is_correct": true,
-          "feedback": "Correcto: con $F = ma$ se obtiene $F = 6 \\times 3 = 18\\ N$, que es la fuerza aplicada."
+          "text": "Que disminuye el efecto invernadero, porque el metano absorbe el oxígeno del aire",
+          "is_correct": false,
+          "feedback": "El metano no absorbe el oxigeno y no actua sobre ese gas. Lo que hace es absorber radiacion infrarroja, y por eso su incremento calienta el planeta en lugar de enfriarlo."
         },
         {
           "letter": "B",
-          "text": "12 N",
+          "text": "Que no hay ningún efecto, porque el metano no absorbe radiación",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 12 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El metano absorbe radiacion infrarroja con mucha eficacia, de modo que si ejerce efecto invernadero. Su pequeña concentracion no significa que carezca de ese poder de absorcion."
         },
         {
           "letter": "C",
-          "text": "21 N",
+          "text": "Que el efecto invernadero desaparece, porque el metano reemplaza al CO2",
           "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 21 N correspondería a otra masa o a otra aceleración."
+          "feedback": "El metano no desplaza al CO2, y ademas suele anadir mas carbono a la atmosfera. El efecto invernadero aumenta cuando se incrementa cualquiera de los gases que absorben radiacion infrarroja."
         },
         {
           "letter": "D",
-          "text": "6 N",
-          "is_correct": false,
-          "feedback": "Incorrecto: al aplicar $F = ma$ la fuerza es $6 \\times 3 = 18\\ N$; el valor 6 N correspondería a otra masa o a otra aceleración."
+          "text": "Que aumenta el efecto invernadero, porque el metano absorbe bien la radiación infrarroja",
+          "is_correct": true,
+          "feedback": "Correcto. El metano es un gas de efecto invernadero muy potente por molecula, aunque su concentracion en la atmosfera es baja. Duplicarlo refuerza la retencion de calor, de modo que el planeta se calienta un poco mas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "F = ma = 6×3 = 18 N.",
+      "correct_answer": "D",
+      "explanation": "El metano pertenece a los gases de efecto invernadero y absorbe radiacion infrarroja con eficacia. Su aumento, proveniente de la ganaderia, de los residuos y de los quemadores, refuerza el calentamiento global.",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v18",
-      "statement": "¿Cuál es el órgano más grande del cuerpo humano?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "Si una sequía larga reduce la lluvia, ¿qué ecosystems son los más vulnerables a ese cambio?",
+      "context": "Priscilla revisa cómo se comportan los ecosystems ante una sequía prolongada en la clase de ciencias de San Juan Bautista.",
       "options": [
         {
-          "letter": "D",
-          "text": "La piel",
-          "is_correct": true,
-          "feedback": "Correcto: la piel es el órgano más grande del cuerpo humano, formado por la epidermis y la dermis."
-        },
-        {
           "letter": "A",
-          "text": "El hígado",
-          "is_correct": false,
-          "feedback": "el hígado es la glándula más grande del cuerpo, pero su masa es mucho menor que la de la piel."
+          "text": "Los de zonas áridas y semiáridas, que dependen de la lluvia poco frecuente",
+          "is_correct": true,
+          "feedback": "Correcto. En zonas áridas, las plantas y los animales ya viven al limite del agua. Una sequia prolongada reduce la disponibilidad por debajo de lo que necesitan, y por eso esos ecosistema son los primeros en degradarse."
         },
         {
           "letter": "B",
-          "text": "El corazón",
+          "text": "Los de selvas tropicales, que reciben lluvia todo el año",
           "is_correct": false,
-          "feedback": "el corazón bombea la sangre, pero es un órgano pequeño comparado con la piel."
+          "feedback": "Una selva tropical recibe tanto agua que una reduccion puntual no la afecta de inmediato. Su riesgo principal es la deforestacion, y no la sequía, porque el sistema ya funciona con agua abundante."
         },
         {
           "letter": "C",
-          "text": "Los pulmones",
+          "text": "Los de zonas polarares, donde el agua está congelada durante meses",
           "is_correct": false,
-          "feedback": "los pulmones son órganos pares de la respiración y su superficie es menor que la de la piel."
+          "feedback": "En los polos la limitacion principal es la baja temperatura y el hielo, y no la falta de lluvia. Un ecosistema polar no se clasifica como vulnerable a la sequía, porque el agua no es su recurso escaso."
+        },
+        {
+          "letter": "D",
+          "text": "Los de pantano y turberas, que retienen mucha humedad",
+          "is_correct": false,
+          "feedback": "Las turberas y los pantanos guardan mucha agua, de modo que soportan bien los periodos secos. Su vulnerabilidad principal es el drenaje y la emision de gases, y no la reduccion de la precipitacion."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.",
+      "correct_answer": "A",
+      "explanation": "Los ecosistema deserticos dependen de una precipitacion escasa y ya aprovechan cada milimetro. Cuando la lluvia se reduce, el balance hidrico se rompe y la vegetacion y la fauna de esas zonas son las primeras en sufrir las consecuencias.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v19",
-      "statement": "En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?",
-      "context": "Clase de ciencias en San Miguel estudiando cambio climatico.",
+      "statement": "Si dos países tienen la misma latitud, ¿por qué su clima puede ser muy distinto?",
+      "context": "Wendy prepara una comparación entre el clima de dos países en la clase de ciencias de La Libertad.",
       "options": [
         {
-          "letter": "A",
-          "text": "La exposición a la luz",
+          "letter": "B",
+          "text": "Porque la altitud, la corriente marina y la cercanía al mar modifican el clima",
           "is_correct": true,
-          "feedback": "Correcto: la exposición a la luz es la variable que el investigador modifica de forma deliberada."
+          "feedback": "Correcto. La latitud marca la cantidad de radiacion solar que recibe un lugar, pero no la determina por si sola. La altitud, el relieve y la influencia del oceano introducen diferencias grandes entre lugares de una misma latitud."
         },
         {
-          "letter": "B",
-          "text": "El crecimiento de las plantas",
+          "letter": "A",
+          "text": "Porque la latitud no influye en el clima de ningún lugar del mundo",
           "is_correct": false,
-          "feedback": "el crecimiento es lo que se mide para comprobar el efecto, por eso es la variable dependiente."
+          "feedback": "La latitud si influye: los polos son mas frios que el ecuador. Lo que no explica es por si sola las diferencias, de modo que otros factores deben considerarse para describirlas."
         },
         {
           "letter": "C",
-          "text": "La temperatura ambiente",
+          "text": "Porque un país recibe más luz que el otro sin diferencia de latitud",
           "is_correct": false,
-          "feedback": "si la temperatura se mantiene igual en los dos grupos, no es la variable que se modifica."
+          "feedback": "Si estan a la misma latitud, reciben una cantidad de radiacion solar muy parecida. Las diferencias climaticas reales provienen del relieve, del mar y de la vegetacion, y no de la cantidad de luz recibida."
         },
         {
           "letter": "D",
-          "text": "El tipo de planta",
+          "text": "Porque la temperatura depende solo de la distancia al Ecuador",
           "is_correct": false,
-          "feedback": "se usa el mismo tipo de planta en los dos grupos; lo que cambia de un grupo a otro es la luz."
+          "feedback": "La distancia al Ecuador explica una parte de la temperatura, y no la explica por completo. Por eso dos lugares de igual latitud pueden tener climas muy diferentes si se encuentran a distinta altitud o junto a distintos oceanos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La variable independiente es la que manipula el investigador: la luz.",
+      "correct_answer": "B",
+      "explanation": "La latitud es solo uno de los factores que determinan el clima. La altitud, la influencia marine, el relieve y la circulacion de las corrientes modifican esas condiciones y explican las diferencias entre lugares de igual latitud.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es la unidad básica de la vida?",
-      "context": "Clase de ciencias en San Salvador estudiando cambio climatico.",
+      "statement": "Si en un mapa dos puntos tienen la misma isoterma, ¿qué se puede afirmar?",
+      "context": "Christian revisa un mapa de isotermas en la clase de ciencias de Ayutuxte.",
       "options": [
         {
-          "letter": "D",
-          "text": "La célula",
-          "is_correct": true,
-          "feedback": "Correcto: la célula es la unidad estructural y funcional básica de todos los seres vivos."
-        },
-        {
           "letter": "A",
-          "text": "El átomo",
-          "is_correct": false,
-          "feedback": "el átomo es la unidad básica de la materia, no de la vida."
+          "text": "Que ambos tienen la misma temperatura, porque la isoterma une puntos de igual valor",
+          "is_correct": true,
+          "feedback": "Correcto. Una isoterma es la linea que une puntos con la misma temperatura. Por eso dos lugares sobre la misma isoterma comparten ese valor, y por eso sirve para visualizar la distribucion del calor sobre un mapa."
         },
         {
           "letter": "B",
-          "text": "La molécula",
+          "text": "Que ambos tienen la misma altitud, porque la temperatura solo depende de ella",
           "is_correct": false,
-          "feedback": "una molécula es un conjunto de átomos; la estructura mínima de un ser vivo es la célula."
+          "feedback": "La altitud influye mucho en la temperatura, y no es lo unico. Dos puntos pueden estar en la misma isoterma y a alturas distintas, porque tambien influyen la latitud y la influencia del mar."
         },
         {
           "letter": "C",
-          "text": "El tejido",
+          "text": "Que ambos tienen el mismo clima, porque el clima es solo temperatura",
           "is_correct": false,
-          "feedback": "el tejido es un conjunto de células del mismo tipo, un nivel por encima de la célula."
+          "feedback": "El clima incluye precipitacion, viento y humedad, y no solo la temperatura. Dos lugares pueden compartir temperatura y tener climas muy distintos por su regimen de lluvias y por su exposicion a los vientos."
+        },
+        {
+          "letter": "D",
+          "text": "Que ambos reciben la misma cantidad de radiación solar, porque la isoterma mide el sol",
+          "is_correct": false,
+          "feedback": "La isoterma mide el resultado termico, y no la radiacion recibida. La cantidad de sol depende de la latitud y de la duracion del dia, de modo que dos puntos de igual isoterma pueden recibir radiacion distinta."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La célula es la unidad estructural y funcional básica de los seres vivos.",
+      "correct_answer": "A",
+      "explanation": "Las isotermas unen puntos con igual temperatura y permiten comparar el comportamiento termico de distintas zonas. Indican el valor que se alcanza, pero no por si solas la causa que lo produce.",
       "difficulty": "10",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-CIE-11-2026-W35-cambio-climatico-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
