@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Superlatives Irregular (W22)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 1 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the sentence with the correct irregular superlative.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) That is the worst accident of the whole year.
+  <!-- feedback: Correct! 'Bad' is irregular and forms the superlative 'worst', not with -est. -->
+- [ ] B) That is the most bad accident of the whole year.
+  <!-- feedback: No. 'Bad' is one of the irregular adjectives, so 'most bad' is not its superlative form. -->
+- [ ] C) That is the badest accident of the whole year.
+  <!-- feedback: No. 'Badest' does not exist in English; the -est ending only works with regular adjectives. -->
+- [ ] D) That is the more bad accident of the whole year.
+  <!-- feedback: No. 'More bad' is a comparative, not a superlative, and the sentence names a single worst case. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Bad' is irregular and forms the superlative 'worst', not with -est. In this item the choice that works is 'That is the worst accident of the whole year.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 2 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence correctly uses the irregular superlative 'best'?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [x] B) This is the best solution we found for the problem.
+  <!-- feedback: Correct! 'Good' forms the superlative 'best', and 'the best' states that no other solution is better. -->
+- [ ] A) This is the goodest solution we found for the problem.
+  <!-- feedback: No. 'Goodest' is not a word; 'good' is irregular and does not take the -est ending. -->
+- [ ] C) This is the most good solution we found for the problem.
+  <!-- feedback: No. 'Most good' is not the superlative form of 'good'; the correct form is 'best'. -->
+- [ ] D) This is the better solution we found for the problem.
+  <!-- feedback: No. 'Better' is only the comparative, which would need 'than' to name the second term. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'Good' forms the superlative 'best', and 'the best' states that no other solution is better. In this item the choice that works is 'This is the best solution we found for the problem.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 3 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'Of the two routes, this one is ___ for saving fuel.'
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [x] C) the best
+  <!-- feedback: Correct! 'Best' is the irregular superlative of 'good', and it takes 'the' before the noun phrase. -->
+- [ ] A) the goodest
+  <!-- feedback: No. 'Goodest' is not an English word, so the option cannot be right. -->
+- [ ] B) the most good
+  <!-- feedback: No. 'Most good' does not exist as a superlative; irregular adjectives must be memorised as whole forms. -->
+- [ ] D) the better
+  <!-- feedback: No. 'Better' is a comparative and would require 'than', which is absent here. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Best' is the irregular superlative of 'good', and it takes 'the' before the noun phrase. In this item the choice that works is 'the best', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 4 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses 'best' correctly in a superlative structure?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [x] D) He is one of the best goalkeepers in the league.
+  <!-- feedback: Correct! 'One of the best' is a standard superlative phrase, and the structure needs no auxiliary 'is' at the end. -->
+- [ ] A) He is one of the best goalkeepers of the league is.
+  <!-- feedback: No. Adding 'is' at the end would create a second verb with no subject to agree with it. -->
+- [ ] B) He is one of the better goalkeepers in the league is.
+  <!-- feedback: No. 'Better' is the comparative form and would need 'than' to complete the comparison. -->
+- [ ] C) He is one of the goodest goalkeepers in the league.
+  <!-- feedback: No. 'Goodest' does not exist; 'good' is an irregular adjective whose superlative is 'best'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'One of the best' is a standard superlative phrase, and the structure needs no auxiliary 'is' at the end. In this item the choice that works is 'He is one of the best goalkeepers in the league.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 5 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence that correctly compares three people with the irregular superlative 'oldest'.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) Of the three cousins, Ramon is the oldest.
+  <!-- feedback: Correct! 'Old' is regular and takes the -est ending to form 'oldest' in the superlative. -->
+- [ ] B) Of the three cousins, Ramon is the oldester.
+  <!-- feedback: No. 'Oldester' is not a word; the ending is -est, with no extra syllable. -->
+- [ ] C) Of the three cousins, Ramon is the most old.
+  <!-- feedback: No. 'Most old' applies to longer adjectives, while short adjectives take -est directly. -->
+- [ ] D) Of the three cousins, Ramon is the elder.
+  <!-- feedback: No. 'Elder' is a comparative and takes 'than', not a superlative frame with 'the'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Old' is regular and takes the -est ending to form 'oldest' in the superlative. In this item the choice that works is 'Of the three cousins, Ramon is the oldest.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 6 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence correctly uses the irregular superlative 'furthest'?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [x] B) That is the furthest point of the trail from the entrance.
+  <!-- feedback: Correct! 'Far' has the irregular superlative 'furthest', and 'the furthest' fits a single point being identified. -->
+- [ ] A) That is the furthester point of the trail from the entrance.
+  <!-- feedback: No. 'Furthester' is not a word; the superlative is 'furthest' with no extra ending. -->
+- [ ] C) That is the most far point of the trail from the entrance.
+  <!-- feedback: No. 'Most far' does not exist as a superlative form in standard English. -->
+- [ ] D) That is the further point of the trail from the entrance.
+  <!-- feedback: No. 'Further' is the comparative and would need 'than' to introduce what it is further than. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Far' has the irregular superlative 'furthest', and 'the furthest' fits a single point being identified. In this item the choice that works is 'That is the furthest point of the trail from the entrance.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 7 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'This is the ___ film I have ever seen about the sea.'
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] C) best
+  <!-- feedback: Correct! 'Best' is the irregular superlative of 'good', and the frame 'the best ... I have ever seen' is a standard superlative pattern. -->
+- [ ] A) goodest
+  <!-- feedback: No. 'Goodest' is not part of English; irregular adjectives must be learned whole. -->
+- [ ] B) most good
+  <!-- feedback: No. 'Most good' would belong to a longer adjective, not to the one-syllable word 'good'. -->
+- [ ] D) bester
+  <!-- feedback: No. 'Bester' is not a word, because 'good' does not take the -est ending. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Best' is the irregular superlative of 'good', and the frame 'the best ... I have ever seen' is a standard superlative pattern. In this item the choice that works is 'best', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 8 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence is correct when the superlative describes the smallest member of a group?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [x] D) The kitten is the smallest of the litter.
+  <!-- feedback: Correct! 'Smallest' is the regular superlative of 'small' and correctly identifies one member of the group. -->
+- [ ] A) The kitten is the smallester of the litter.
+  <!-- feedback: No. 'Smallester' does not exist; the superlative of a short adjective ends in -est only. -->
+- [ ] B) The kitten is the most small of the litter.
+  <!-- feedback: No. 'Most small' is not used with short adjectives, which build the form with -est. -->
+- [ ] C) The kitten is the lesser of the litter.
+  <!-- feedback: No. 'Lesser' is a comparative idea that cannot stand as a superlative after 'the'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Smallest' is the regular superlative of 'small' and correctly identifies one member of the group. In this item the choice that works is 'The kitten is the smallest of the litter.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 9 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence that correctly places a superlative with the preposition 'in'.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) This clinic is the busiest one in the district.
+  <!-- feedback: Correct! 'Busiest' is the superlative and 'in the district' states the group in which the superlative holds. -->
+- [ ] B) This clinic is the most busy one in the district.
+  <!-- feedback: No. 'Most busy' is not standard for the short adjective 'busy'. -->
+- [ ] C) This clinic is the busier one in the district.
+  <!-- feedback: No. 'Busier' is only the comparative and would need 'than' to name what it is busier than. -->
+- [ ] D) This clinic is the busiest one from the district.
+  <!-- feedback: No. 'From' does not introduce the group over which a superlative applies; 'in' does that. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Busiest' is the superlative and 'in the district' states the group in which the superlative holds. In this item the choice that works is 'This clinic is the busiest one in the district.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 10 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence uses the irregular superlative 'least' correctly?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] B) That is the least expensive car in the showroom.
+  <!-- feedback: Correct! 'Least' is the superlative of 'little' in its meaning of smallest amount, and 'the least expensive' fits here. -->
+- [ ] A) That is the littlest expensive car in the showroom.
+  <!-- feedback: No. 'Littlest' describes size and cannot modify 'expensive', which describes price. -->
+- [ ] C) That is the most less expensive car in the showroom.
+  <!-- feedback: No. 'Most less' is not a grammatical combination of the two patterns. -->
+- [ ] D) That is the lesser expensive car in the showroom.
+  <!-- feedback: No. 'Lesser' is a comparative form and cannot act as a superlative before a noun. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'Least' is the superlative of 'little' in its meaning of smallest amount, and 'the least expensive' fits here. In this item the choice that works is 'That is the least expensive car in the showroom.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 11 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the sentence that correctly builds a superlative with a longer adjective.
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [x] C) This is the most expensive trip we have planned this year.
+  <!-- feedback: Correct! Adjectives of three syllables or more take 'most' plus the base form to build the superlative. -->
+- [ ] A) This is the most expensiver trip we have planned this year.
+  <!-- feedback: No. 'Expensiver' does not exist; long adjectives never take the -er ending in this form. -->
+- [ ] B) This is the expensivest trip we have planned this year.
+  <!-- feedback: No. 'Expensivest' is not a word, because the -est ending is reserved for short adjectives. -->
+- [ ] D) This is the more expensive trip we have planned this year.
+  <!-- feedback: No. 'More expensive' is a comparative and would need 'than' to introduce the second term. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Adjectives of three syllables or more take 'most' plus the base form to build the superlative. In this item the choice that works is 'This is the most expensive trip we have planned this year.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 12 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence correctly uses 'the last' with a superlative meaning?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [x] D) That was the last bus to the airport last night.
+  <!-- feedback: Correct! 'The last' is the superlative form of 'late' and identifies a single final bus. -->
+- [ ] A) That was the most last bus to the airport last night.
+  <!-- feedback: No. 'Most last' is not a valid combination, and 'last' already carries the final meaning. -->
+- [ ] B) That was the lastest bus to the airport last night.
+  <!-- feedback: No. 'Lastest' is not a word; 'late' forms its superlative irregularly as 'last'. -->
+- [ ] C) That was the last bus to the more airport last night.
+  <!-- feedback: No. 'More airport' changes a noun into an adjective and destroys the comparison structure. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'The last' is the superlative form of 'late' and identifies a single final bus. In this item the choice that works is 'That was the last bus to the airport last night.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 13 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence with the correct superlative form of the irregular adjective 'many'.
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) That shop sells the most bread in the whole market.
+  <!-- feedback: Correct! 'Bread' is uncountable, so the quantity is expressed with 'most', and the noun keeps its singular form. -->
+- [ ] B) That shop sells the manyest bread in the whole market.
+  <!-- feedback: No. 'Manyest' is not a word, and 'many' is not used to build superlatives with an -est ending. -->
+- [ ] C) That shop sells the most breads in the whole market.
+  <!-- feedback: No. 'Breads' would be a countable plural, but bread as a food is uncountable and takes no 's'. -->
+- [ ] D) That shop sells the manier bread in the whole market.
+  <!-- feedback: No. 'Manier' is not a comparative form of 'many' and cannot serve as a superlative. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Bread' is uncountable, so the quantity is expressed with 'most', and the noun keeps its singular form. In this item the choice that works is 'That shop sells the most bread in the whole market.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 14 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence correctly uses a superlative in the negative form?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [x] B) This is not the biggest apartment on the floor.
+  <!-- feedback: Correct! 'Not the biggest' keeps the superlative form 'biggest' inside a negative statement. -->
+- [ ] A) This is not the bigester apartment on the floor.
+  <!-- feedback: No. 'Bigester' does not exist; short adjectives end the superlative in -est and stop there. -->
+- [ ] C) This is not the most big apartment on the floor.
+  <!-- feedback: No. 'Most big' is not the superlative of a short adjective such as 'big'. -->
+- [ ] D) This is not the more big apartment on the floor.
+  <!-- feedback: No. 'More big' is a malformed comparative and cannot stand after 'the' in a superlative frame. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Not the biggest' keeps the superlative form 'biggest' inside a negative statement. In this item the choice that works is 'This is not the biggest apartment on the floor.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 15 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence correctly compares two different qualities with a superlative and a comparative?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [x] C) It is the coldest morning of the year and the wind is stronger than yesterday.
+  <!-- feedback: Correct! 'The coldest' is the superlative and 'stronger than' is the comparative, each in its correct frame. -->
+- [ ] A) It is the most cold morning of the year and the wind is more strong than yesterday.
+  <!-- feedback: No. 'Most cold' is not the superlative of a short adjective; the -est ending is required. -->
+- [ ] B) It is the colder morning of the year and the wind is the strongest than yesterday.
+  <!-- feedback: No. 'Colder' is only a comparative and cannot follow 'the' in a superlative frame, and superlatives never take 'than'. -->
+- [ ] D) It is the coldester morning of the year and the wind is stronger of yesterday.
+  <!-- feedback: No. 'Coldester' is not a word, and 'stronger of' does not introduce a comparison. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'The coldest' is the superlative and 'stronger than' is the comparative, each in its correct frame. In this item the choice that works is 'It is the coldest morning of the year and the wind is stronger than yesterday.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 16 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence that correctly uses the irregular superlative 'worst' in a negative sentence.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] D) That is not the worst film of the season.
+  <!-- feedback: Correct! 'Bad' is irregular and its superlative 'worst' is kept intact inside the negative phrase. -->
+- [ ] A) That is not the more bad film of the season.
+  <!-- feedback: No. 'More bad' is a comparative and cannot follow 'the' in this superlative frame. -->
+- [ ] B) That is not the most bad film of the season.
+  <!-- feedback: No. 'Most bad' is not a form of 'bad'; irregular adjectives must be learned as whole words. -->
+- [ ] C) That is not the badest film of the season.
+  <!-- feedback: No. 'Badest' does not exist in English, because 'bad' does not take the -est ending. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Bad' is irregular and its superlative 'worst' is kept intact inside the negative phrase. In this item the choice that works is 'That is not the worst film of the season.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 17 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence correctly uses 'the most' with an uncountable noun in a superlative?
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] B) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) The market had the most traffic this morning.
+  <!-- feedback: Correct! 'Traffic' is uncountable, so 'most' builds the superlative and the noun takes no plural 's'. -->
+- [ ] B) The market had the most traffics this morning.
+  <!-- feedback: No. 'Traffics' would be a countable plural, but traffic as a mass of vehicles is uncountable. -->
+- [ ] C) The market had the most traffic of morning.
+  <!-- feedback: No. 'Of morning' does not name the group over which the superlative applies; 'this morning' is the right phrase. -->
+- [ ] D) The market had the most much traffic this morning.
+  <!-- feedback: No. 'Much' cannot follow 'most' because 'most' is already the superlative quantifier. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Traffic' is uncountable, so 'most' builds the superlative and the noun takes no plural 's'. In this item the choice that works is 'The market had the most traffic this morning.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 18 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'Of all the singers, she sang the ___ song of the night.'
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [x] B) longest
+  <!-- feedback: Correct! 'Longest' is the regular superlative of 'long' and correctly identifies a single song out of the group. -->
+- [ ] A) longester
+  <!-- feedback: No. 'Longester' is not a word; the ending of the superlative is -est with no extra syllable. -->
+- [ ] C) most long
+  <!-- feedback: No. 'Most long' does not apply to a short adjective such as 'long'. -->
+- [ ] D) longer
+  <!-- feedback: No. 'Longer' is only the comparative and would require 'than' to complete the sentence. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Longest' is the regular superlative of 'long' and correctly identifies a single song out of the group. In this item the choice that works is 'longest', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 19 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence correctly distinguishes the superlative of 'little' from that of 'small'?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [x] C) The kitten is the littlest of the litter.
+  <!-- feedback: Correct! 'Littlest' is the regular superlative of 'little' and identifies a single member of the litter. -->
+- [ ] A) The kitten is the littler of the litter.
+  <!-- feedback: No. 'Littler' is a comparative form, not a superlative, and it would need 'than'. -->
+- [ ] B) The kitten is the most little of the litter.
+  <!-- feedback: No. 'Most little' is not the superlative of the short adjective 'little'. -->
+- [ ] D) The kitten is the littleester of the litter.
+  <!-- feedback: No. 'Littleester' is not an English word, because the superlative ends in -est only. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Littlest' is the regular superlative of 'little' and identifies a single member of the litter. In this item the choice that works is 'The kitten is the littlest of the litter.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W22 de ingles, grado 11: ejercicio 20 de 20 sobre irregular superlatives.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is grammatically correct when the superlative is followed by a clause beginning with 'that'?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [x] D) This is the best answer that we could find.
+  <!-- feedback: Correct! 'The best' is the superlative and the relative clause 'that we could find' restricts it in a natural way. -->
+- [ ] A) This is the most best answer that we could find.
+  <!-- feedback: No. 'Most best' duplicates the idea of superlative; 'best' is already the form. -->
+- [ ] B) This is the best answer what that we could find.
+  <!-- feedback: No. 'What that' would introduce two relative clauses at once, which is not allowed here. -->
+- [ ] C) This is the goodest answer that we could find.
+  <!-- feedback: No. 'Goodest' is not a word, and irregular adjectives do not build forms with -est. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'The best' is the superlative and the relative clause 'that we could find' restricts it in a natural way. In this item the choice that works is 'This is the best answer that we could find.', because it is the option that matches what the sentence and the task require.

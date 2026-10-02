@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Articles A An The (W24)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 1 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct article: 'She is ___ engineer who works on bridges.'
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) an
+  <!-- feedback: Correct! 'Engineer' begins with a vowel sound, so the indefinite article takes the form 'an'. -->
+- [ ] B) a
+  <!-- feedback: No. 'A' is used before a consonant sound, and the vowel sound of 'engineer' rules it out. -->
+- [ ] C) the
+  <!-- feedback: No. 'The' would point to a specific engineer already identified by the listener. -->
+- [ ] D) no article
+  <!-- feedback: No. Every singular countable noun needs an article in English, so leaving it out is not possible here. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Engineer' begins with a vowel sound, so the indefinite article takes the form 'an'. In this item the choice that works is 'an', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 2 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence uses 'the' correctly for something the listener already knows about?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] C) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [x] B) Look at the tower; it is the tallest one in the town.
+  <!-- feedback: Correct! 'The tower' points to a specific tower already mentioned, and 'the tallest' identifies a unique member of a group. -->
+- [ ] A) Look at a tower; it is a tallest one in the town.
+  <!-- feedback: No. 'A tower' introduces something new, which is not the meaning of 'look at' pointing to a known object. -->
+- [ ] C) Look at tower; it is the tallest one in the town.
+  <!-- feedback: No. A singular countable noun cannot appear without an article in English. -->
+- [ ] D) Look at the tower; it is a tallest one in the town.
+  <!-- feedback: No. 'A tallest' contradicts the superlative, which is already definite and takes 'the'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'The tower' points to a specific tower already mentioned, and 'the tallest' identifies a unique member of a group. In this item the choice that works is 'Look at the tower; it is the tallest one in the town.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 3 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct article: 'He waited for ___ hour before the bus arrived.'
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] C) an
+  <!-- feedback: Correct! 'Hour' begins with a vowel sound because the 'h' is silent, so the form is 'an hour'. -->
+- [ ] A) a
+  <!-- feedback: No. 'A' is used before consonant sounds, and the silent 'h' does not count as a consonant sound here. -->
+- [ ] B) the
+  <!-- feedback: No. 'The' would mean a specific hour already agreed upon, not the indefinite period waited. -->
+- [ ] D) no article
+  <!-- feedback: No. Singular countable nouns always require an article, even when the period is not specified. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Hour' begins with a vowel sound because the 'h' is silent, so the form is 'an hour'. In this item the choice that works is 'an', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 4 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence uses 'a' correctly before a consonant sound?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [x] D) She bought a new book for the library.
+  <!-- feedback: Correct! 'Book' begins with a consonant sound, so the indefinite article is 'a'. -->
+- [ ] A) She bought an new book for the library.
+  <!-- feedback: No. 'An' is used before vowel sounds, and 'new' starts with a consonant sound. -->
+- [ ] B) She bought a an book for the library.
+  <!-- feedback: No. Two articles cannot sit together before the same noun phrase. -->
+- [ ] C) She bought the new book for the library.
+  <!-- feedback: No. 'The new book' would point to a specific book already identified, not to any book. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Book' begins with a consonant sound, so the indefinite article is 'a'. In this item the choice that works is 'She bought a new book for the library.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 5 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence: '___ sun rises in the east.'
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) The
+  <!-- feedback: Correct! The sun is unique, so the definite article 'the' is used to identify a single obvious thing. -->
+- [ ] B) A
+  <!-- feedback: No. 'A sun' would imply there are several suns, which is not what the sentence means. -->
+- [ ] C) An
+  <!-- feedback: No. 'An sun' has the wrong form and the wrong meaning, since there is only one sun. -->
+- [ ] D) no article
+  <!-- feedback: No. Proper celestial names such as the sun take the definite article in English. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The sun is unique, so the definite article 'the' is used to identify a single obvious thing. In this item the choice that works is 'The', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 6 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence uses the indefinite article correctly with a job description?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [x] B) My cousin is a nurse at the hospital in Arecibo.
+  <!-- feedback: Correct! 'A nurse' introduces a job the listener does not know yet, so the indefinite article is correct here. -->
+- [ ] A) My cousin is nurse at the hospital in Arecibo.
+  <!-- feedback: No. A singular countable noun cannot appear without an article before it. -->
+- [ ] C) My cousin is an nurse at the hospital in Arecibo.
+  <!-- feedback: No. 'An nurse' has the wrong form, because 'nurse' begins with a consonant sound. -->
+- [ ] D) My cousin is the nurse at the hospital in Arecibo.
+  <!-- feedback: No. 'The nurse' would point to a specific person already identified, which is not the meaning here. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'A nurse' introduces a job the listener does not know yet, so the indefinite article is correct here. In this item the choice that works is 'My cousin is a nurse at the hospital in Arecibo.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 7 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence with the correct article before an adjective plus noun.
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] B) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] C) It was a rainy afternoon in San Juan.
+  <!-- feedback: Correct! The indefinite article agrees with the first sound of the adjective 'rainy', which is a consonant, so 'a' is used. -->
+- [ ] A) It was the rainy afternoon in San Juan.
+  <!-- feedback: No. 'An' is chosen by vowel sounds, and 'rainy' starts with a consonant sound. -->
+- [ ] B) It was an rainy afternoon in San Juan.
+  <!-- feedback: No. 'The rainy afternoon' would identify a specific afternoon already known to the listener. -->
+- [ ] D) It was rainy the afternoon in San Juan.
+  <!-- feedback: No. The article cannot be placed after the adjective; it always comes before it. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The indefinite article agrees with the first sound of the adjective 'rainy', which is a consonant, so 'a' is used. In this item the choice that works is 'It was a rainy afternoon in San Juan.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 8 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence uses 'the' for something unique in the world?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) Life on planet Earth depends on the ocean.
+  <!-- feedback: Correct! There is only one ocean on the planet, so 'the ocean' is the correct definite reference. -->
+- [ ] A) Life on planet Earth depends on a ocean.
+  <!-- feedback: No. 'A ocean' would imply more than one ocean exists, and 'a' also has the wrong form before a vowel. -->
+- [ ] B) Life on planet Earth depends on ocean.
+  <!-- feedback: No. A singular noun such as 'ocean' cannot appear without an article in English. -->
+- [ ] C) Life on planet Earth depends on an ocean.
+  <!-- feedback: No. 'An ocean' would again suggest a choice among several oceans, which does not exist. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+There is only one ocean on the planet, so 'the ocean' is the correct definite reference. In this item the choice that works is 'Life on planet Earth depends on the ocean.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 9 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the correct article: '___ United States is a large country.'
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) The
+  <!-- feedback: Correct! Multi word country names that include 'States' or 'Republic' take the definite article in English. -->
+- [ ] B) A
+  <!-- feedback: No. 'A' introduces something that is not unique, and the United States is a single country. -->
+- [ ] C) An
+  <!-- feedback: No. 'An' would be the wrong form in any case, and the meaning here requires definiteness. -->
+- [ ] D) no article
+  <!-- feedback: No. Leaving the article out would break the standard name of the country. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Multi word country names that include 'States' or 'Republic' take the definite article in English. In this item the choice that works is 'The', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 10 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence uses the definite article for a second mention of the same thing?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] B) I bought a laptop yesterday. The screen is very bright.
+  <!-- feedback: Correct! 'A laptop' introduces the object and 'the screen' refers back to a part of it already mentioned. -->
+- [ ] A) I bought laptop yesterday. A screen is very bright.
+  <!-- feedback: No. 'Bought laptop' lacks the article that a singular countable noun requires. -->
+- [ ] C) I bought a laptop yesterday. A screen is very bright.
+  <!-- feedback: No. 'A screen' introduces something new and unrelated, losing the link with the laptop. -->
+- [ ] D) I bought the laptop yesterday. The laptop is very bright.
+  <!-- feedback: No. Repeating 'the laptop' is possible, but the sentence uses 'a laptop' first, so 'the' would not match that first mention. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'A laptop' introduces the object and 'the screen' refers back to a part of it already mentioned. In this item the choice that works is 'I bought a laptop yesterday. The screen is very bright.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 11 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'She plays ___ violin and ___ piano.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] C) the, the
+  <!-- feedback: Correct! Musical instruments are the classic case where English uses 'the', because the instrument is unique to the player. -->
+- [ ] A) a, a
+  <!-- feedback: No. 'A violin' and 'a piano' are not used for this, since instruments take the definite article in English. -->
+- [ ] B) an, a
+  <!-- feedback: No. 'An' is the wrong form before 'violin', which begins with a consonant sound. -->
+- [ ] D) a, an
+  <!-- feedback: No. 'An piano' has the wrong form, and in any case instruments do not take the indefinite article. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Musical instruments are the classic case where English uses 'the', because the instrument is unique to the player. In this item the choice that works is 'the, the', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 12 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence uses 'the' correctly with a meal?
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] C) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] D) We had the breakfast at seven and then went out.
+  <!-- feedback: Correct! When a meal is described by the hour, English uses 'the' before 'breakfast', 'lunch' and 'dinner'. -->
+- [ ] A) We had a breakfast at seven and then went out.
+  <!-- feedback: No. 'A breakfast' would treat it as one meal among many rather than the meal of that time. -->
+- [ ] B) We had breakfast at seven and then went out.
+  <!-- feedback: No. Meals named alone usually take no article at all, but 'the' appears as soon as a time is mentioned. -->
+- [ ] C) We had the a breakfast at seven and then went out.
+  <!-- feedback: No. Two articles cannot appear together before the same noun. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+When a meal is described by the hour, English uses 'the' before 'breakfast', 'lunch' and 'dinner'. In this item the choice that works is 'We had the breakfast at seven and then went out.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 13 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the correct article for a first mention of one of several similar objects.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] B) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) A dog was waiting by the gate.
+  <!-- feedback: Correct! 'A dog' introduces one animal that has not been mentioned before, which is the standard first mention. -->
+- [ ] B) The dog was waiting by the gate.
+  <!-- feedback: No. 'The dog' would point to a specific animal already known, and nothing has been mentioned yet. -->
+- [ ] C) An dog was waiting by the gate.
+  <!-- feedback: No. 'An' is the wrong form because 'dog' begins with a consonant sound. -->
+- [ ] D) Dog was waiting by the gate.
+  <!-- feedback: No. A singular countable noun cannot be used bare in English; it always needs an article. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'A dog' introduces one animal that has not been mentioned before, which is the standard first mention. In this item the choice that works is 'A dog was waiting by the gate.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 14 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence uses 'an' before a vowel sound produced by a letter?
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [x] B) He waited an hour before the train arrived.
+  <!-- feedback: Correct! The 'h' in 'hour' is silent, so the word begins with a vowel sound and takes 'an'. -->
+- [ ] A) He waited a hour before the train arrived.
+  <!-- feedback: No. 'A' is chosen by consonant sounds, and 'hour' begins with one here. -->
+- [ ] C) He waited the hour before the train arrived.
+  <!-- feedback: No. 'The hour' would name a specific hour already agreed upon. -->
+- [ ] D) He waited a the hour before the train arrived.
+  <!-- feedback: No. Two articles cannot be placed together before the same noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The 'h' in 'hour' is silent, so the word begins with a vowel sound and takes 'an'. In this item the choice that works is 'He waited an hour before the train arrived.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 15 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the correct article for something made of a particular material.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [x] C) The table is made of wood.
+  <!-- feedback: Correct! Material nouns such as 'wood' are used without an article when the meaning is general. -->
+- [ ] A) The table is made of a wood.
+  <!-- feedback: No. 'A wood' would name a particular forest or a type of timber, not the material in general. -->
+- [ ] B) The table is made of the wood.
+  <!-- feedback: No. 'The wood' would point to a specific piece of wood already mentioned. -->
+- [ ] D) The table is made of wood the.
+  <!-- feedback: No. The article cannot be placed after the noun in this construction. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Material nouns such as 'wood' are used without an article when the meaning is general. In this item the choice that works is 'The table is made of wood.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 16 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence is correct when the noun is preceded by a superlative?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] D) She is the best student in her class.
+  <!-- feedback: Correct! A superlative identifies a unique member of a group, so it takes the definite article 'the'. -->
+- [ ] A) She is a best student in her class.
+  <!-- feedback: No. 'A best' contradicts the superlative, which by definition selects a single top item. -->
+- [ ] B) She is best student in her class.
+  <!-- feedback: No. Superlatives in English always appear with the definite article. -->
+- [ ] C) She is an best student in her class.
+  <!-- feedback: No. 'An' is the wrong form, and a superlative does not take an indefinite article in any case. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A superlative identifies a unique member of a group, so it takes the definite article 'the'. In this item the choice that works is 'She is the best student in her class.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 17 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence with the correct plural article.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) The mountains are covered with clouds this morning.
+  <!-- feedback: Correct! The plural definite article 'the' matches the plural noun 'mountains' and the plural verb 'are'. -->
+- [ ] B) A mountains are covered with clouds this morning.
+  <!-- feedback: No. 'A' cannot govern a plural noun in English. -->
+- [ ] C) Mountains are covered with a clouds this morning.
+  <!-- feedback: No. 'A clouds' mixes an article meant for a singular noun with a plural one. -->
+- [ ] D) The mountain are covered with clouds this morning.
+  <!-- feedback: No. 'The mountain' is singular, so it cannot agree with the plural verb 'are'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The plural definite article 'the' matches the plural noun 'mountains' and the plural verb 'are'. In this item the choice that works is 'The mountains are covered with clouds this morning.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 18 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence uses 'the' correctly for a service or institution that is unique in a town?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) My father works at the hospital that serves the whole region.
+  <!-- feedback: Correct! Naming one specific institution in the area calls for the definite article 'the'. -->
+- [ ] A) My father works at a hospital that serves the whole region.
+  <!-- feedback: No. 'A hospital' would introduce an unspecified institution among several, which is not the meaning here. -->
+- [ ] C) My father works at hospital that serves the whole region.
+  <!-- feedback: No. A singular noun such as 'hospital' cannot appear without an article. -->
+- [ ] D) My father works at an hospital that serves the whole region.
+  <!-- feedback: No. 'An hospital' has the wrong form, since 'hospital' begins with a consonant sound. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Naming one specific institution in the area calls for the definite article 'the'. In this item the choice that works is 'My father works at the hospital that serves the whole region.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 19 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence with the correct indefinite article: 'He works as ___ electrician.'
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] C) an
+  <!-- feedback: Correct! 'Electrician' begins with a vowel sound, so the indefinite article takes the form 'an'. -->
+- [ ] A) a
+  <!-- feedback: No. 'A' is used before consonant sounds, and this noun starts with a vowel sound. -->
+- [ ] B) the
+  <!-- feedback: No. 'The' would mean a specific electrician already known to the listener. -->
+- [ ] D) no article
+  <!-- feedback: No. A job name used as a singular countable noun always needs an article. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Electrician' begins with a vowel sound, so the indefinite article takes the form 'an'. In this item the choice that works is 'an', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W24 de ingles, grado 11: ejercicio 20 de 20 sobre the articles a, an and the.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence uses articles correctly with two different types of noun?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) I bought a book and the book that you recommended.
+  <!-- feedback: Correct! 'A book' is a first mention and 'the book' refers back to it, so the two articles do different jobs. -->
+- [ ] A) I bought a book and the book what that you recommended.
+  <!-- feedback: No. 'What that' would introduce two relative pronouns at once, which is not allowed. -->
+- [ ] B) I bought the book and a book that you recommended.
+  <!-- feedback: No. 'The book' cannot be a first mention, and 'a book' would break the back reference to the first one. -->
+- [ ] C) I bought a book and a book that you recommended.
+  <!-- feedback: No. 'A book' twice loses the link between the two mentions, so the sentence no longer makes sense. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'A book' is a first mention and 'the book' refers back to it, so the two articles do different jobs. In this item the choice that works is 'I bought a book and the book that you recommended.', because it is the option that matches what the sentence and the task require.

@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a short library announcement before the lunch break at your school.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What is the main idea of the announcement?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [ ] A) The library closes early today for repairs
+  <!-- feedback: Correct! The library closes early today for repairs captures the gist because the speaker repeats the closing time and the reason as the central message. -->
+- [x] B) New novels arrived in the library this morning
+  <!-- feedback: The option about new novels arrived this morning is wrong because the message never mentions new arrivals and it turns an invented detail into the main point. -->
+- [ ] C) The lunch break will be longer than usual today
+  <!-- feedback: The option about the lunch break will be longer today is wrong because lunch is only when you hear the message, not what the message is about. -->
+- [ ] D) Every student must return all books immediately
+  <!-- feedback: The option about every student must return all books immediately is wrong because the announcement orders no general return, so it exaggerates a normal rule. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Listening for gist means asking what the speaker wants you to know or do overall. Focus on the first sentence, repeated key words, and the final instruction, and ignore interesting but secondary details.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a voicemail from a dental clinic confirming your next visit.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which note captures the specific information you must remember?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) Appointment on Thursday at half past four in room two
+  <!-- feedback: Correct! Appointment on Thursday at half past four in room two is right because those three facts are the exact day, time, and place a listener must write down. -->
+- [ ] B) The clinic is closed every Thursday in the afternoon
+  <!-- feedback: The option about the clinic is closed every Thursday is wrong because the voicemail confirms an open appointment, so closed contradicts the real message completely. -->
+- [ ] C) The dentist is called Thursday and works afternoons
+  <!-- feedback: The option about the dentist is called Thursday is wrong because Thursday is the day of the visit, not a person name, so it confuses a time word with a name. -->
+- [x] D) Appointments are available every Thursday without booking
+  <!-- feedback: The option about appointments are available every Thursday without booking is wrong because the message is a single confirmed booking, not a general open door policy. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+Listening for specific information means filtering numbers, days, times, and places from the rest. Train yourself to write only those facts during the first listen and check them on the second listen.
+
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a teacher starting a short talk about recycling in your city.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Which sentence states the main idea rather than a supporting detail?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] A) Our city must reduce plastic waste this year
+  <!-- feedback: Correct! Our city must reduce plastic waste this year states the overall claim because the other sentences only give examples, numbers, or meetings that support it. -->
+- [ ] B) Plastic bottles can take centuries to decompose
+  <!-- feedback: The option about plastic bottles can take centuries to decompose is wrong because that striking fact is only evidence that supports the call to reduce waste. -->
+- [ ] C) The school collected two hundred bottles last week
+  <!-- feedback: The option about the school collected two hundred bottles last week is wrong because that number is one local example, not the general message of the whole talk. -->
+- [ ] D) Volunteers meet at the central park on Saturdays
+  <!-- feedback: The option about volunteers meet at the central park on Saturdays is wrong because the meeting place is a practical detail for action, not the central idea itself. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
+A main idea is a general claim the whole passage defends, while details are numbers, examples, or dates. Ask yourself which sentence the other sentences prove, and that one is the main idea.
+
+## Question 4 [D5]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear the opening of a science podcast about exploring life on Mars.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What do you predict the speaker will discuss next?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) Evidence of water and possible living conditions on Mars
+  <!-- feedback: Correct! Evidence of water and possible living conditions on Mars follows logically because the opening promises life on Mars, and water is the first related subtopic. -->
+- [ ] B) A recipe for a traditional potato omelette from Spain
+  <!-- feedback: The option about a recipe for a traditional potato omelette is wrong because cooking has no link to Mars exploration, so it ignores the prediction clue completely. -->
+- [x] C) The history of classical piano music in Europe
+  <!-- feedback: The option about the history of classical piano music is wrong because music history does not continue a science opening about another planet in any natural way. -->
+- [ ] D) The rules for a school football tournament next month
+  <!-- feedback: The option about the rules for a school football tournament is wrong because sport rules belong to a different context and break the thematic continuity of the podcast. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
+Predicting while listening means using the introduction, the title, and key nouns to guess the next subtopic. Good listeners activate related vocabulary before the speaker continues, which makes fast speech easier to follow.
+
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v5
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a student telling a friend how she felt after a fast listening test.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+How does the speaker feel about the test?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] B) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) She found it fast but useful and wants more practice
+  <!-- feedback: Correct! She found it fast but useful and wants more practice fits because she mentions speed as a problem yet values the activity and asks for extra exercises. -->
+- [ ] B) She found it slow, easy, and completely boring
+  <!-- feedback: The option about she found it slow, easy, and boring is wrong because she clearly says the speech was too fast, which is the opposite of slow and easy. -->
+- [ ] C) She is angry at her friend for causing the noise
+  <!-- feedback: The option about she is angry at her friend is wrong because her tone is self critical and friendly, with no blame directed at the friend at all. -->
+- [ ] D) She prefers silent reading and hates all audio tasks
+  <!-- feedback: The option about she prefers silent reading and hates all audio tasks is wrong because she asks for more listening practice, which shows motivation rather than rejection. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+To infer attitude, listen to adjectives, tone words, and what the speaker plans to do next. Words like useful, difficult, or again reveal feelings even when the speaker never says happy or sad directly.
+
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a museum guide speaking to a group of visiting students.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+What is the speaker purpose in this part of the visit?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) To give safety instructions before entering the gallery
+  <!-- feedback: Correct! To give safety instructions before entering the gallery is right because she talks about staying together, not touching glass, and following the signal. -->
+- [ ] B) To sell souvenirs at the museum shop exit
+  <!-- feedback: The option about to sell souvenirs at the shop is wrong because no prices, products, or shop location are mentioned in this section of the talk. -->
+- [x] C) To explain the life of a famous painter in detail
+  <!-- feedback: The option about to explain the life of a famous painter is wrong because she names no artist and gives no dates, so it mistakes a later part for this one. -->
+- [ ] D) To tell a funny story about her own childhood
+  <!-- feedback: The option about to tell a funny story about her childhood is wrong because the tone is formal and directive, with no personal anecdote or humor included. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Identifying purpose means asking why the speaker is talking now. Imperatives like stay, follow, and do not touch signal instructions, while dates and names signal information and adjectives signal persuasion.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a short lecture about study habits and you must take notes.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which notes show the most effective listening strategy?
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) Key words, arrows, and two short examples only
+  <!-- feedback: Correct! Key words, arrows, and two short examples only works because selective notes capture structure and links without trying to copy continuous speech word by word. -->
+- [ ] B) Every single word dictated by the lecturer
+  <!-- feedback: The option about every single word dictated is wrong because full dictation is impossible at natural speed and leaves no attention for understanding the message. -->
+- [ ] C) Random drawings unrelated to the lecture topic
+  <!-- feedback: The option about random drawings unrelated to the topic is wrong because drawings without labels record no ideas and cannot help you review the lecture later. -->
+- [x] D) Only the date written at the top of the page
+  <!-- feedback: The option about only the date written at the top is wrong because a date alone stores no content, so it fails the basic purpose of listening notes. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Effective listening notes use key words, symbols, and short forms arranged with arrows or numbers. You listen for structure first and add one brief example per point, instead of chasing every word.
+
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a classmate retelling a short story played on classroom audio.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the correct order of events as heard in the story.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) Boy misses the bus, walks to school, meets the coach, joins the race
+  <!-- feedback: Correct! Boy misses the bus, walks to school, meets the coach, joins the race follows the narrative chain because each step causes the next one in the audio. -->
+- [x] B) Boy joins the race, meets the coach, walks to school, misses the bus
+  <!-- feedback: The option starting with boy joins the race is wrong because joining happens last as a result, so placing it first reverses the cause and effect of the story. -->
+- [ ] C) Boy walks to school, misses the bus, joins the race, meets the coach
+  <!-- feedback: The option with walks to school before misses the bus is wrong because he only walks after missing transport, so the order breaks the logical sequence. -->
+- [ ] D) Boy meets the coach, misses the bus, joins the race, walks to school
+  <!-- feedback: The option starting with boy meets the coach is wrong because the meeting happens at school after the walk, not before the missed bus at home. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
+Sequencing while listening depends on time markers like first, then, after that, and finally. Track those signals rather than the order in which you remember images, and link each event to its cause.
+
 ## Question 9 [D5]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a radio report linking heavy rain to traffic problems in the city.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+What cause and effect relation does the reporter describe?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [ ] A) Heavy rain flooded tunnels, so several roads were closed
+  <!-- feedback: Correct! Heavy rain flooded tunnels, so several roads were closed matches the report because the speaker connects flooding directly to the closures announced. -->
+- [ ] B) Heavy rain cleaned streets, so traffic moved faster
+  <!-- feedback: The option about heavy rain cleaned streets so traffic moved faster is wrong because the report describes delays and closures, which is the opposite result. -->
+- [x] C) Heavy rain was forecast, so drivers celebrated happily
+  <!-- feedback: The option about heavy rain was forecast so drivers celebrated is wrong because no celebration is mentioned and the tone reports problems, not joy. -->
+- [ ] D) Heavy rain stopped at noon, so tunnels were built
+  <!-- feedback: The option about heavy rain stopped so tunnels were built is wrong because building tunnels is a long project, not an instant effect of rain stopping at noon. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
+Cause and effect in listening is signaled by so, because, therefore, and as a result. Identify which fact is the cause and which is the consequence, and reject options that reverse them or invent a positive outcome.
+
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear two students discussing a podcast about video games and health.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence from the discussion is an opinion, not a fact?
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] A) Listening to game reviews for hours is the best way to relax
+  <!-- feedback: Correct! Listening to game reviews for hours is the best way to relax is an opinion because best expresses a personal value judgment that cannot be verified by data. -->
+- [ ] B) The podcast episode lasted twenty five minutes in total
+  <!-- feedback: The option about the podcast lasted twenty five minutes is wrong as an opinion choice because duration is measurable and therefore it is a checkable fact. -->
+- [ ] C) The guest is a doctor from the city hospital
+  <!-- feedback: The option about the guest is a doctor from the city hospital is wrong as an opinion choice because identity and workplace can be confirmed, so it is factual. -->
+- [ ] D) The episode was published on Friday morning
+  <!-- feedback: The option about the episode was published on Friday morning is wrong as an opinion choice because the publication date is recorded objectively and verifiable. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
+Facts can be checked with numbers, dates, or records, while opinions use value words like best, should, or beautiful. In listening tasks, underline verifiable data and treat evaluations as opinions.
+
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a debate speaker contrasting city life with country life for teenagers.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+What does the word however signal in the part you heard?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) A contrast between an advantage and a disadvantage just mentioned
+  <!-- feedback: Correct! A contrast between an advantage and a disadvantage is right because however always introduces an opposite idea after a previous point has been presented. -->
+- [ ] B) A list of three similar advantages without any change
+  <!-- feedback: The option about a list of three similar advantages is wrong because listing uses also, moreover, or in addition, not a contrast marker like however. -->
+- [ ] C) The end of the speech with thanks to the audience
+  <!-- feedback: The option about the end of the speech with thanks is wrong because closings use markers like in conclusion or finally, not a mid argument contrast signal. -->
+- [x] D) A new story with characters unrelated to the topic
+  <!-- feedback: The option about a new story with unrelated characters is wrong because however connects ideas within one argument and never starts a separate narrative. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+Discourse markers guide listening. Contrast markers like however, although, and on the other hand warn you that the next idea opposes the last one, while addition markers continue the same direction.
+
+## Question 12 [D6]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a travel vlog where the host calls a market overwhelming and lively.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+What can you infer overwhelming means from how the host describes the market?
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) Full of noise, crowds, and activity that is hard to take in
+  <!-- feedback: Correct! Full of noise, crowds, and activity that is hard to take in fits because lively plus hard to follow points to too much input at once. -->
+- [x] B) Silent, empty, and calm with almost no visitors
+  <!-- feedback: The option about silent, empty, and calm is wrong because silent is the opposite of lively, so it contradicts the descriptive clue given by the host. -->
+- [ ] C) Closed for holidays with locked doors and signs
+  <!-- feedback: The option about closed for holidays with locked doors is wrong because a closed place cannot be lively, so it ignores the positive energy described. -->
+- [ ] D) Small and tidy with only two quiet stalls
+  <!-- feedback: The option about small and tidy with only two stalls is wrong because two quiet stalls would not feel hard to take in or overwhelming for a visitor. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+Inferring unknown words while listening means using nearby adjectives, examples, and tone. Combine lively with the crowded market scene to guess too much to process, then confirm with the next sentence.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a loudspeaker message with flight numbers and gate changes in a large hall.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Where is the speaker and who are the listeners?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) In an airport terminal speaking to waiting passengers
+  <!-- feedback: Correct! In an airport terminal speaking to waiting passengers fits because flight numbers and gate changes are only announced in that travel setting. -->
+- [ ] B) In a classroom speaking to language students
+  <!-- feedback: The option about in a classroom speaking to students is wrong because classrooms do not announce gates or flights, so it mistakes the setting completely. -->
+- [ ] C) In a kitchen speaking to restaurant cooks
+  <!-- feedback: The option about in a kitchen speaking to cooks is wrong because cooks receive orders and recipes, never boarding calls or gate change notices. -->
+- [x] D) In a stadium speaking to football players
+  <!-- feedback: The option about in a stadium speaking to players is wrong because coaches give tactics there, not flight information for travelers. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+To identify context, listen for background clues and key nouns like flight, gate, platform, or table. Match those content words to a place, then check who would need that information.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a morning school announcement about an afternoon charity run.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+What is the gist of the announcement?
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) A charity run starts at three behind the gym and needs volunteers
+  <!-- feedback: Correct! A charity run starts at three behind the gym and needs volunteers sums up the time, place, and request that the speaker repeats twice. -->
+- [ ] B) Morning lessons are cancelled because of heavy snow today
+  <!-- feedback: The option about morning lessons are cancelled because of snow is wrong because no cancellation or weather reason is announced in the message. -->
+- [x] C) The school gym will become a new library next year
+  <!-- feedback: The option about the gym will become a new library is wrong because future building plans are never mentioned and confuse location with purpose. -->
+- [ ] D) Exam dates have been moved to the spring term
+  <!-- feedback: The option about exam dates have been moved is wrong because exams belong to a different announcement type and no dates are changed here. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
+Gist questions ask for the overall announcement in one line. Combine who, what, when, and where from the stressed parts, and discard options that change the event or invent new consequences.
+
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a coach say that phones must stay in lockers during training sessions.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence expresses the same idea in different words?
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) Players are not allowed to bring phones onto the training ground
+  <!-- feedback: Correct! Players are not allowed to bring phones onto the training ground paraphrases the ban correctly because must stay in lockers equals a prohibition on the field. -->
+- [x] B) Players must buy new phones before the next training session
+  <!-- feedback: The option about players must buy new phones is wrong because buying is never mentioned and it changes a storage rule into a shopping order. -->
+- [ ] C) Coaches will lock the training ground during every match
+  <!-- feedback: The option about coaches will lock the training ground is wrong because locking the ground is different from storing phones in lockers inside. -->
+- [ ] D) Training sessions will be recorded on phones by coaches
+  <!-- feedback: The option about sessions will be recorded on phones is wrong because recording contradicts the ban and reverses the speaker original prohibition. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
-## Question 16 [D8]
+Recognizing paraphrase is central to listening tests. Look for synonyms and changed grammar that keep the meaning, such as must stay in lockers matching are not allowed to bring onto the ground.
+
+## Question 16 [D7]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a fast weather bulletin warning about a coastal storm tonight.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which key words should you catch to understand the warning?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] A) Storm, coast, tonight, avoid, harbor
+  <!-- feedback: Correct! Storm, coast, tonight, avoid, harbor are the content words that carry the warning because they name the danger, place, time, and action. -->
+- [ ] B) Beautiful, sunny, picnic, joyful, holiday
+  <!-- feedback: The option about beautiful, sunny, picnic, joyful, holiday is wrong because those pleasant words point to good weather and miss the urgent warning completely. -->
+- [ ] C) Recipe, sugar, oven, tasty, dinner
+  <!-- feedback: The option about recipe, sugar, oven, tasty, dinner is wrong because cooking vocabulary has no link to a storm bulletin and would mislead the listener. -->
+- [ ] D) Novel, chapter, author, page, library
+  <!-- feedback: The option about novel, chapter, author, page, library is wrong because reading words belong to a book context, not to an urgent coastal weather alert. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
+In fast speech, stressed nouns, verbs, places, and time words carry meaning while grammar words blur. Train your ear to catch those content words first and reconstruct the message from them.
+
+## Question 17 [D8]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a talk arguing that school gardens improve student health and focus.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which example best supports the speaker claim?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [ ] A) Students who garden weekly eat more vegetables and concentrate better
+  <!-- feedback: Correct! Students who garden weekly eat more vegetables and concentrate better supports the claim because it links gardening directly to health and focus results. -->
+- [ ] B) The school garden has a green fence and ten wooden benches
+  <!-- feedback: The option about the garden has a green fence and benches is wrong because describing furniture proves nothing about health or concentration effects. -->
+- [x] C) Gardens were first planted in ancient times by kings
+  <!-- feedback: The option about gardens were first planted in ancient times is wrong because history does not show current benefits for these particular students. -->
+- [ ] D) One teacher likes roses because they smell very sweet
+  <!-- feedback: The option about one teacher likes roses is wrong because personal taste in flowers is irrelevant to student health and cannot support the argument. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+A supporting example must connect the general claim to concrete results. Ask whether the example shows the claimed effect in action, and reject mere descriptions, history, or personal tastes.
+
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a student podcast reviewing a new study app with mixed results.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+What conclusion can you infer even though it is not stated directly?
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) The app helps with vocabulary but is weak for listening practice
+  <!-- feedback: Correct! The app helps with vocabulary but is weak for listening practice follows because she praises word games yet complains that audio tasks often freeze. -->
+- [ ] B) The app is perfect for every skill and has no problems at all
+  <!-- feedback: The option about the app is perfect for every skill is wrong because she reports frozen audio and limited dialogues, which contradicts a claim of perfection. -->
+- [ ] C) The app teaches cooking and fixes bicycles very quickly
+  <!-- feedback: The option about the app teaches cooking and fixes bicycles is wrong because those functions are never mentioned and lie outside a study app review. -->
+- [x] D) The app was never tested by the speaker or her friends
+  <!-- feedback: The option about the app was never tested is wrong because she describes weeks of personal use with friends, so testing clearly happened. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
+Inference in listening means joining praised points with complaints to reach an unstated judgment. List what worked and what failed, then choose the balanced conclusion that both sides support.
+
 ## Question 19 [D9]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear an online review claiming one energy drink makes you study all night.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which response shows critical listening to this claim?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] A) Check other sources and ask for evidence before believing the promise
+  <!-- feedback: Correct! Check other sources and ask for evidence before believing the promise shows critical listening because it demands proof instead of accepting excitement as fact. -->
+- [ ] B) Buy ten cans at once because the speaker sounds excited
+  <!-- feedback: The option about buy ten cans at once is wrong because acting on excitement alone accepts advertising without questioning health effects or proof. -->
+- [ ] C) Share the link immediately with the whole class group
+  <!-- feedback: The option about share the link immediately is wrong because spreading an unverified promise can mislead others and skips the evaluation step entirely. -->
+- [ ] D) Ignore every review on the internet without thinking
+  <!-- feedback: The option about ignore every review without thinking is wrong because blanket rejection is not critical either, since it refuses to weigh any evidence at all. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+Critical listening asks who benefits, what evidence exists, and whether other sources agree. Excited tone and single stories are not proof, so verify promises about health or study results before acting.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear two classmates discuss whether to present with video or live interviews.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+What is the best synthesis of their discussion?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) Video saves time but interviews give fresher answers, so mix both parts
+  <!-- feedback: Correct! Video saves time but interviews give fresher answers, so mix both parts combines both views because one values efficiency and the other values direct voices. -->
+- [x] B) Video and interviews are both useless and should be banned
+  <!-- feedback: The option about both are useless and should be banned is wrong because neither speaker rejects both formats, so it invents a negative agreement they never reach. -->
+- [ ] C) Only video matters because classmates never tell the truth
+  <!-- feedback: The option about only video matters because classmates lie is wrong because it keeps one side and insults classmates, ignoring the value of live answers discussed. -->
+- [ ] D) Only interviews matter because video equipment always fails
+  <!-- feedback: The option about only interviews matter because equipment fails is wrong because it keeps the other side only and turns a time concern into a false technical failure. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Synthesizing a discussion means holding both speakers positions together and finding the compromise they point toward. Note each preference plus its reason, then choose the option that honors both reasons.

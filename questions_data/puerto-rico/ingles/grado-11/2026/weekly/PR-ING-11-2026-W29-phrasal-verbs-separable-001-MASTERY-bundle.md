@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Phrasal Verbs Separable (W29)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 1 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct separation of the phrasal verb: 'Please turn ___ the light before you leave.'
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) off the light
+  <!-- feedback: Correct! A transitive phrasal verb can be separated, so the object 'the light' goes between the verb and the particle. -->
+- [ ] B) the light off
+  <!-- feedback: No. The object cannot come before the verb; the particle must stay attached to the verb. -->
+- [ ] C) off turn the light
+  <!-- feedback: No. 'Off turn' reverses the order of the verb and the particle. -->
+- [ ] D) the off light
+  <!-- feedback: No. 'The off light' would make 'off' part of the noun phrase, which changes the meaning entirely. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A transitive phrasal verb can be separated, so the object 'the light' goes between the verb and the particle. In this item the choice that works is 'off the light', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 2 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence correctly separates the phrasal verb 'pick up'?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [x] B) She picked the book up from the table.
+  <!-- feedback: Correct! The direct object 'the book' is placed between the verb and the particle, which is the separable pattern. -->
+- [ ] A) She picked up book the from the table.
+  <!-- feedback: No. 'Up book the' scrambles the object and the particle and breaks the sentence. -->
+- [ ] C) She picked the up book from the table.
+  <!-- feedback: No. 'The up book' would turn 'up' into part of the noun phrase instead of the particle. -->
+- [ ] D) She picked book the up from the table.
+  <!-- feedback: No. 'Book the up' puts the object before the verb, which English does not allow here. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The direct object 'the book' is placed between the verb and the particle, which is the separable pattern. In this item the choice that works is 'She picked the book up from the table.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 3 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'The teacher wrote ___ the names on the board.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] C) the names down
+  <!-- feedback: Correct! 'Write down' is separable, so the object 'the names' goes between the verb and the particle. -->
+- [ ] A) down the names
+  <!-- feedback: No. The particle cannot come before the object in a separated transitive phrasal verb. -->
+- [ ] B) the down names
+  <!-- feedback: No. 'The down names' would make 'down' part of the noun phrase instead of the particle. -->
+- [ ] D) names down the
+  <!-- feedback: No. 'Names down the' leaves no verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Write down' is separable, so the object 'the names' goes between the verb and the particle. In this item the choice that works is 'the names down', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 4 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+When can a transitive phrasal verb NOT be separated?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] D) When the particle itself is a pronoun, such as in 'pick it up'.
+  <!-- feedback: Correct! A pronoun object has to stay in front of the particle, so 'pick it up' and not 'pick up it'. -->
+- [ ] A) When the verb is followed by an article, such as in 'turn the off'.
+  <!-- feedback: No. 'Turned off the light' would separate the object, which is fully allowed for a noun object. -->
+- [ ] B) When the object is longer than two words, such as in 'clean the whole kitchen up'.
+  <!-- feedback: No. 'Clean the whole kitchen up' is a perfectly normal separation, since the object is a noun phrase. -->
+- [ ] C) When the verb is in the past tense, such as in 'looked after her up'.
+  <!-- feedback: No. The past tense of the verb has no effect on whether the object can be separated. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A pronoun object has to stay in front of the particle, so 'pick it up' and not 'pick up it'. In this item the choice that works is 'When the particle itself is a pronoun, such as in 'pick it up'.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 5 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence correctly separates 'take off'?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) The plane took the passengers off at the second stop.
+  <!-- feedback: Correct! The object 'the passengers' sits between the verb and the particle 'off', which is the separable pattern. -->
+- [ ] B) The plane took off passengers the at the second stop.
+  <!-- feedback: No. 'Off passengers the' scrambles the three parts and breaks the sentence. -->
+- [ ] C) The plane took the off passengers at the second stop.
+  <!-- feedback: No. 'The off passengers' would make 'off' part of the noun phrase instead of the particle. -->
+- [ ] D) The plane took passengers the off at the second stop.
+  <!-- feedback: No. 'Passengers the off' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The object 'the passengers' sits between the verb and the particle 'off', which is the separable pattern. In this item the choice that works is 'The plane took the passengers off at the second stop.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 6 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence with the correct separated form: 'They threw ___ the old chairs away.'
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] B) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [x] B) the old chairs
+  <!-- feedback: Correct! The object 'the old chairs' is placed between 'threw' and the particle 'away'. -->
+- [ ] A) away the old chairs
+  <!-- feedback: No. The particle cannot come before the object in a separated transitive phrasal verb. -->
+- [ ] C) the away old chairs
+  <!-- feedback: No. 'The away old chairs' would make 'away' part of the noun phrase instead of the particle. -->
+- [ ] D) old the chairs away
+  <!-- feedback: No. 'Old the chairs away' breaks the order of the adjectives in the noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The object 'the old chairs' is placed between 'threw' and the particle 'away'. In this item the choice that works is 'the old chairs', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 7 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence is correct when the object of the phrasal verb is a pronoun?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] C) She turned it off before leaving the room.
+  <!-- feedback: Correct! A pronoun object has to be placed before the particle, which gives the order 'turn it off'. -->
+- [ ] A) She turned off it before leaving the room.
+  <!-- feedback: No. 'Turned off it' separates a pronoun, which is not allowed in English. -->
+- [ ] B) She turned it before off leaving the room.
+  <!-- feedback: No. 'Turned it before off' uses a preposition in place of the particle and breaks the verb. -->
+- [ ] D) She turned before it off leaving the room.
+  <!-- feedback: No. 'Turned before it off' inserts a preposition that does not belong in this phrasal verb. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A pronoun object has to be placed before the particle, which gives the order 'turn it off'. In this item the choice that works is 'She turned it off before leaving the room.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 8 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the correct separated form of 'put off'.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] D) The manager put the meeting off until Friday.
+  <!-- feedback: Correct! 'Put off' is separable, so the object 'the meeting' goes between the verb and the particle. -->
+- [ ] A) The manager put off meeting the until Friday.
+  <!-- feedback: No. 'Put off meeting the' scrambles the object and the particle and breaks the sentence. -->
+- [ ] B) The manager put the off meeting until Friday.
+  <!-- feedback: No. 'The off meeting' would make 'off' part of the noun phrase instead of the particle. -->
+- [ ] C) The manager put meeting the off until Friday.
+  <!-- feedback: No. 'Meeting the off' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Put off' is separable, so the object 'the meeting' goes between the verb and the particle. In this item the choice that works is 'The manager put the meeting off until Friday.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 9 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence uses the phrasal verb 'fill in' correctly?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) Please fill in your name at the top of the form.
+  <!-- feedback: Correct! When the object follows the particle, the phrasal verb is in its normal joined form: 'fill in your name'. -->
+- [ ] B) Please fill your name in at the top of the form.
+  <!-- feedback: No. 'Fill your name in' would work only if the object were a pronoun; with a noun phrase the particle normally follows it. -->
+- [ ] C) Please fill in your name of at the top of the form.
+  <!-- feedback: No. 'In your name of' adds a preposition that does not belong after the object. -->
+- [ ] D) Please fill your name of in at the top of the form.
+  <!-- feedback: No. 'Fill your name of in' inserts a preposition that breaks the two word verb. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+When the object follows the particle, the phrasal verb is in its normal joined form: 'fill in your name'. In this item the choice that works is 'Please fill in your name at the top of the form.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 10 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the sentence: 'She carried ___ the heavy boxes upstairs.'
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] B) the heavy boxes
+  <!-- feedback: Correct! The object 'the heavy boxes' goes between the verb and the particle 'up'. -->
+- [ ] A) up the heavy boxes
+  <!-- feedback: No. The particle cannot come before the object in a separated transitive phrasal verb. -->
+- [ ] C) the up heavy boxes
+  <!-- feedback: No. 'The up heavy boxes' would make 'up' part of the noun phrase instead of the particle. -->
+- [ ] D) heavy the boxes up
+  <!-- feedback: No. 'Heavy the boxes up' breaks the order of the adjectives and nouns in the object. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The object 'the heavy boxes' goes between the verb and the particle 'up'. In this item the choice that works is 'the heavy boxes', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 11 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence correctly separates 'look after'?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [x] C) My neighbour looks the dog after every afternoon.
+  <!-- feedback: Correct! The direct object 'the dog' is placed between the verb and the particle 'after'. -->
+- [ ] A) My neighbour looks after dog the every afternoon.
+  <!-- feedback: No. 'Looks after dog the' scrambles the object and the particle and breaks the sentence. -->
+- [ ] B) My neighbour looks the after dog every afternoon.
+  <!-- feedback: No. 'The after dog' would make 'after' part of the noun phrase instead of the particle. -->
+- [ ] D) My neighbour looks dog the after every afternoon.
+  <!-- feedback: No. 'Dog the after' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+The direct object 'the dog' is placed between the verb and the particle 'after'. In this item the choice that works is 'My neighbour looks the dog after every afternoon.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 12 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+What is wrong with the sentence 'She picked up it from the floor'?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] D) The object is a pronoun, so it must go before the particle: 'She picked it up'.
+  <!-- feedback: Correct! Pronoun objects cannot be separated from the particle, so the correct order is 'pick it up'. -->
+- [ ] A) The sentence is correct, because any object can be placed between the verb and the particle.
+  <!-- feedback: No. Only pronoun objects are restricted; noun objects such as 'pick the book up' are perfectly normal. -->
+- [ ] B) The verb 'picked' is wrong, because a separable phrasal verb cannot be used in the past tense.
+  <!-- feedback: No. The tense has no bearing on the position of the object in this verb. -->
+- [ ] C) The particle 'up' is wrong, because 'pick' does not combine with it.
+  <!-- feedback: No. 'Pick up' is a standard separable phrasal verb, so the particle itself is correct. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Pronoun objects cannot be separated from the particle, so the correct order is 'pick it up'. In this item the choice that works is 'The object is a pronoun, so it must go before the particle: 'She picked it up'.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 13 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence correctly separates 'give back'?
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) He gave the money back to the person who found it.
+  <!-- feedback: Correct! The object 'the money' sits between the verb and the particle 'back'. -->
+- [ ] B) He gave back money the to the person who found it.
+  <!-- feedback: No. 'Gave back money the' scrambles the three parts and breaks the sentence. -->
+- [ ] C) He gave the back money to the person who found it.
+  <!-- feedback: No. 'The back money' would make 'back' part of the noun phrase instead of the particle. -->
+- [ ] D) He gave money the back to the person who found it.
+  <!-- feedback: No. 'Money the back' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The object 'the money' sits between the verb and the particle 'back'. In this item the choice that works is 'He gave the money back to the person who found it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 14 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence with the correct separated form: 'The mechanic fixed ___ the engine that morning.'
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [x] B) the engine
+  <!-- feedback: Correct! The object 'the engine' is placed between the verb and the particle 'away'. -->
+- [ ] A) away the engine
+  <!-- feedback: No. The particle cannot come before the object in a separated transitive phrasal verb. -->
+- [ ] C) the away engine
+  <!-- feedback: No. 'The away engine' would make 'away' part of the noun phrase instead of the particle. -->
+- [ ] D) engine the away
+  <!-- feedback: No. 'Engine the away' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The object 'the engine' is placed between the verb and the particle 'away'. In this item the choice that works is 'the engine', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 15 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence is correct when the object of the phrasal verb is a long noun phrase?
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] C) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [x] C) They have already cleaned the whole kitchen up twice this week.
+  <!-- feedback: Correct! A long noun phrase can be separated from the particle without any problem in English. -->
+- [ ] A) They have already cleaned up the whole kitchen of twice this week.
+  <!-- feedback: No. 'The whole kitchen of' adds a preposition that does not belong before 'twice'. -->
+- [ ] B) They have already cleaned the up whole kitchen twice this week.
+  <!-- feedback: No. 'The up whole kitchen' would make 'up' part of the noun phrase instead of the particle. -->
+- [ ] D) They have already cleaned up whole the kitchen twice this week.
+  <!-- feedback: No. 'Up whole the kitchen' scrambles the words of the object and breaks the phrase. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A long noun phrase can be separated from the particle without any problem in English. In this item the choice that works is 'They have already cleaned the whole kitchen up twice this week.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 16 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence that correctly separates 'pass on'.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] D) Please pass the message on to your mother.
+  <!-- feedback: Correct! The object 'the message' goes between the verb and the particle 'on'. -->
+- [ ] A) Please pass on message the to your mother.
+  <!-- feedback: No. 'Pass on message the' scrambles the object and the particle and breaks the sentence. -->
+- [ ] B) Please pass the on message to your mother.
+  <!-- feedback: No. 'The on message' would make 'on' part of the noun phrase instead of the particle. -->
+- [ ] C) Please pass message the on to your mother.
+  <!-- feedback: No. 'Message the on' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The object 'the message' goes between the verb and the particle 'on'. In this item the choice that works is 'Please pass the message on to your mother.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 17 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence uses 'set up' correctly with a pronoun object?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) They set it up in the corner of the room.
+  <!-- feedback: Correct! A pronoun object has to be placed before the particle, giving the order 'set it up'. -->
+- [ ] B) They set up it in the corner of the room.
+  <!-- feedback: No. 'Set up it' separates a pronoun, which is not allowed in English. -->
+- [ ] C) They set it before up in the corner of the room.
+  <!-- feedback: No. 'Set it before up' replaces the particle with a preposition and breaks the verb. -->
+- [ ] D) They set before it up in the corner of the room.
+  <!-- feedback: No. 'Set before it up' inserts a preposition that does not belong in this phrasal verb. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+A pronoun object has to be placed before the particle, giving the order 'set it up'. In this item the choice that works is 'They set it up in the corner of the room.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 18 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'The nurse wrote ___ all the names of the patients on the list.'
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [x] B) down all the names
+  <!-- feedback: Correct! The object 'all the names' is placed between the verb and the particle 'down'. -->
+- [ ] A) down the all names
+  <!-- feedback: No. 'The all names' breaks the determiner order, and 'down' cannot come first before the object. -->
+- [ ] C) the down names all
+  <!-- feedback: No. 'The down names' would make 'down' part of the noun phrase instead of the particle. -->
+- [ ] D) names all the down
+  <!-- feedback: No. 'Names all the down' leaves the sentence without a verb for the object to follow. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The object 'all the names' is placed between the verb and the particle 'down'. In this item the choice that works is 'down all the names', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 19 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence is correct when the phrasal verb means to finish something completely?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] C) We used up all the paper in the printer.
+  <!-- feedback: Correct! 'Use up' means to finish a supply completely, which is what happened to the paper. -->
+- [ ] A) We used up all the paper of in the printer.
+  <!-- feedback: No. 'Used up all the paper of' adds a preposition that does not belong at the end. -->
+- [ ] B) We used during all the paper in the printer.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a verb particle. -->
+- [ ] D) We used beside all the paper in the printer.
+  <!-- feedback: No. 'Beside' is a preposition of place and does not express finishing a supply. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Use up' means to finish a supply completely, which is what happened to the paper. In this item the choice that works is 'We used up all the paper in the printer.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W29 de ingles, grado 11: ejercicio 20 de 20 sobre separable phrasal verbs.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Why is 'She took off her coat' preferred to 'She took her coat off' in formal writing?
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [x] D) With a noun object, the particle normally follows the object in formal English.
+  <!-- feedback: Correct! Separating a noun object sounds informal, so the particle follows it in careful written English. -->
+- [ ] A) Because the particle 'off' cannot be separated from the verb in any case.
+  <!-- feedback: No. 'Take off' is fully separable, which is exactly what makes both orders possible. -->
+- [ ] B) Because a noun object must always come before the verb in a phrasal verb.
+  <!-- feedback: No. The object cannot come before the verb; the verb has to come first in English. -->
+- [ ] C) Because 'took off' can only be used with pronoun objects.
+  <!-- feedback: No. 'Take off' works with both pronoun objects and noun objects, as this sentence shows. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Separating a noun object sounds informal, so the particle follows it in careful written English. In this item the choice that works is 'With a noun object, the particle normally follows the object in formal English.', because it is the option that matches what the sentence and the task require.
