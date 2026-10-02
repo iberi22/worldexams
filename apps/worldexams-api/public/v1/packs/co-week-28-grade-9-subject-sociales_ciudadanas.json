@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "grade": 9,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-28-grade-9-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T11:47:41.539Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los siguientes es un recurso natural renovable en Colombia?",
+      "context": "En una clase de sociales en el colegio San Gil en Bucaramanga, la profesora explica que Colombia es uno de los países con mayor biodiversidad del mundo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es un recurso renovable porque se regenera naturalmente a través del ciclo hidrológico: evaporación, condensación y precipitación."
+        },
+        {
+          "letter": "B",
+          "text": "Petróleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El petróleo es un recurso no renovable porque tarda millones de años en formarse y no se regenera a escala humana."
+        },
+        {
+          "letter": "C",
+          "text": "Carbón mineral",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbón mineral es un recurso no renovable de origen fósil que no se regenera en tiempos humanos."
+        },
+        {
+          "letter": "D",
+          "text": "Gas natural",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gas natural es un combustible fósil no renovable que se formó durante millones de años bajo tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los recursos naturales renovables son aquellos que se regeneran naturalmente en un período corto de tiempo, como el agua, el aire, la flora y la fauna. En Colombia, el agua es un recurso renovable fundamental gracias a su extensa red hídrica que incluye ríos como el Magdalena, el Cauca y el Amazonas. Comprender la diferencia entre recursos renovables y no renovables es esencial para valorar la importancia de la gestión sostenible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué son las regalías en el contexto de los recursos naturales de Colombia?",
+      "context": "En Medellín, un grupo de estudiantes visita el Parque Explora y aprende sobre la minería en el departamento de Antioquia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impuestos que pagan los ciudadanos por el uso del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las regalías no son impuestos ciudadanos, son transferencias del Estado a las regiones por la explotación de recursos naturales no renovables."
+        },
+        {
+          "letter": "B",
+          "text": "Transferencias económicas a las regiones por la explotación de recursos no renovables",
+          "is_correct": true,
+          "feedback": "Correcto. Las regalías son transferencias que el Gobierno nacional hace a los departamentos y municipios productores por la explotación de recursos naturales no renovables como el petróleo y el carbón."
+        },
+        {
+          "letter": "C",
+          "text": "Donaciones internacionales para proteger la Amazonía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las regalías no son donaciones internacionales, son recursos que provienen de la explotación de minerales e hidrocarburos dentro del país."
+        },
+        {
+          "letter": "D",
+          "text": "Préstamos del Banco Mundial para proyectos ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las regalías no son préstamos internacionales, son ingresos corrientes del Estado colombiano derivados de la actividad extractiva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las regalías son un mecanismo de distribución de ingresos en Colombia mediante el cual los departamentos y municipios productores de recursos naturales no renovables reciben una proporción de los ingresos obtenidos por su explotación. Este sistema busca compensar a las regiones por el agotamiento de sus recursos y financiar proyectos de desarrollo local en educación, salud e infraestructura.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál es el principal mecanismo legal que tienen las comunidades en Colombia para participar en decisiones sobre proyectos que afectan los recursos naturales?",
+      "context": "En Cali, una comunidad del barrio Llano Verde se organiza para proteger un humedal urbano amenazado por un proyecto inmobiliario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La consulta previa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La consulta previa es un mecanismo de participación, pero no es el principal medio para que las comunidades decidan sobre proyectos específicos de explotación; su alcance es más amplio y previo."
+        },
+        {
+          "letter": "B",
+          "text": "El referendo revocatorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El referendo revocatorio es un mecanismo para destituir funcionarios elegidos, no para decidir sobre proyectos de explotación de recursos naturales."
+        },
+        {
+          "letter": "C",
+          "text": "La acción de tutela",
+          "is_correct": true,
+          "feedback": "Correcto. La acción de tutela es el mecanismo judicial que permite a las comunidades acudir directamente a los jueces para proteger sus derechos fundamentales cuando un proyecto afecta los recursos naturales de su territorio."
+        },
+        {
+          "letter": "D",
+          "text": "El cabildo abierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cabildo abierto es un mecanismo de deliberación municipal sobre temas de interés local, no el instrumento específico para consultar sobre proyectos extractivos o ambientales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La consulta previa es un derecho fundamental de las comunidades étnicas y un mecanismo de participación ciudadana establecido en la Constitución Política de Colombia. Permite que las comunidades sean informadas y puedan opinar sobre proyectos de explotación de recursos naturales que afecten sus territorios. Este mecanismo es fundamental para garantizar la participación democrática en decisiones ambientales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué el río Magdalena es estratégico para la economía colombiana?",
+      "context": "En Barranquilla, un estudiante investiga sobre la economía del departamento del Atlántico y descubre la importancia del río Magdalena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es la principal fuente de agua potable para todo el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el río Magdalena abastece a varias poblaciones, no es la principal fuente de agua potable para todo el país; cada región tiene sus propias fuentes hídricas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es la vía fluvial más importante para el transporte de mercancías",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río Magdalena es una vía fluvial importante, pero su valor estratégico principal no es el transporte de mercancías; es la conexión entre el interior y la costa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en sus orillas se encuentra la mayor reserva de petróleo del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las principales reservas de petróleo están en los Llanos Orientales y el Catatumbo, no en las orillas del río Magdalena."
+        },
+        {
+          "letter": "D",
+          "text": "Porque conecta el interior del país con el mar Caribe",
+          "is_correct": true,
+          "feedback": "Correcto. El río Magdalena conecta el interior de Colombia con el mar Caribe, lo que lo convierte en una arteria estratégica para el comercio y la integración económica del país."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El río Magdalena es el río más largo de Colombia y una vía de comunicación fundamental que conecta el interior del país con el mar Caribe. Su importancia económica radica en que permite el transporte de productos agrícolas, industriales y de consumo a menores costos que el transporte terrestre. Además, sus aguas son esenciales para la pesca, la agricultura y el abastecimiento de numerosas poblaciones ribereñas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v5",
+      "statement": "Si el concejo municipal de Pasto aprueba la licencia ambiental sin consultar a la comunidad, ¿qué principio del Estado Social de Derecho se estaría vulnerando?",
+      "context": "En Pasto, un concejo municipal debate si otorgar una licencia ambiental para una mina de oro a cielo abierto cerca de una reserva forestal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de participación ciudadana",
+          "is_correct": true,
+          "feedback": "Correcto. El principio de participación ciudadana establece que las comunidades deben ser consultadas en decisiones que afecten su entorno y calidad de vida; omitir esta consulta vulnera ese derecho."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de legalidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El principio de legalidad se refiere a que los funcionarios solo pueden hacer lo que la ley autoriza; el problema aquí es la falta de participación, no la ausencia de autorización legal."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de separación de poderes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La separación de poderes se refiere a la división entre ejecutivo, legislativo y judicial; la consulta a la comunidad no está relacionada con este principio."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de irretroactividad de la ley",
+          "is_correct": false,
+          "feedback": "Incorrecto. La irretroactividad significa que las leyes no pueden aplicarse hacia atrás en el tiempo; no tiene relación con la consulta previa a comunidades."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de participación ciudadana es un pilar del Estado Social de Derecho colombiano, que establece que las personas deben tener la oportunidad de involucrarse en las decisiones públicas que les afectan. En el caso de licencias ambientales, la consulta a las comunidades es un requisito que garantiza transparencia y permite evaluar los impactos sociales y ambientales del proyecto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la principal diferencia entre un modelo económico basado en recursos no renovables y uno basado en turismo sostenible?",
+      "context": "En Villavicencio, un analista compara la economía del Meta basada en petróleo con la de San Andrés basada en turismo sostenible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El turismo sostenible genera más ingresos a corto plazo que la explotación petrolera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La explotación petrolera suele generar ingresos más altos a corto plazo; el turismo sostenible requiere más tiempo para consolidarse como fuente de ingresos."
+        },
+        {
+          "letter": "B",
+          "text": "El modelo extractivo agota el recurso y depende de precios internacionales volátiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo extractivo sí agota el recurso, pero la diferencia principal no es la volatilidad de precios; es la capacidad de regeneración del recurso turístico."
+        },
+        {
+          "letter": "C",
+          "text": "El turismo sostenible puede mantenerse en el tiempo si se gestiona adecuadamente",
+          "is_correct": true,
+          "feedback": "Correcto. El turismo sostenible puede mantenerse en el tiempo porque aprovecha recursos renovables como paisajes y cultura, a diferencia del modelo extractivo que agota recursos finitos."
+        },
+        {
+          "letter": "D",
+          "text": "El modelo extractivo no genera empleo local ni desarrollo regional",
+          "is_correct": false,
+          "feedback": "Incorrecto. El modelo extractivo sí genera empleo y desarrollo regional, aunque a menudo de manera temporal y con impactos ambientales negativos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los modelos económicos basados en recursos no renovables, como el petróleo, dependen de un recurso finito que eventualmente se agota y cuyos precios están sujetos a la volatilidad de los mercados internacionales. En contraste, el turismo sostenible aprovecha recursos renovables como paisajes, biodiversidad y cultura, y puede generar ingresos de manera continua si se gestiona con criterios de conservación y beneficio comunitario.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué ventajas tiene el manejo comunitario de los recursos naturales frente a la explotación industrial?",
+      "context": "En Leticia, un líder indígena explica cómo su comunidad maneja los recursos del río Amazonas de manera sostenible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El manejo comunitario siempre genera más ganancias económicas que la industria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manejo comunitario no siempre genera más ganancias; su ventaja principal es la sostenibilidad y el equilibrio con el ecosistema, no la maximización de beneficios."
+        },
+        {
+          "letter": "B",
+          "text": "El manejo comunitario garantiza la conservación a largo plazo y el respeto por los ciclos naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manejo comunitario sí respeta los ciclos naturales, pero su ventaja principal no es la conservación a largo plazo; es el conocimiento tradicional que lo hace sostenible."
+        },
+        {
+          "letter": "C",
+          "text": "El manejo comunitario no requiere ninguna normativa ni control estatal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El manejo comunitario sí requiere normativas y control estatal para evitar la sobreexplotación y garantizar los derechos de las comunidades."
+        },
+        {
+          "letter": "D",
+          "text": "El manejo comunitario se basa en conocimientos tradicionales que respetan los ciclos de regeneración",
+          "is_correct": true,
+          "feedback": "Correcto. El manejo comunitario se basa en conocimientos tradicionales que respetan los ciclos de regeneración de los recursos, garantizando su disponibilidad para futuras generaciones."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El manejo comunitario de recursos naturales se basa en prácticas tradicionales y conocimientos locales que han demostrado ser sostenibles a lo largo de generaciones. A diferencia de la explotación industrial, que busca maximizar la extracción en el corto plazo, el enfoque comunitario prioriza la conservación y el uso equilibrado, respetando los ciclos naturales y asegurando el bienestar de las futuras generaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué principio económico se aplica cuando se impone un impuesto a las empresas que contaminan?",
+      "context": "En Manizales, un concejal propone crear un impuesto a las empresas que contaminen el río Chinchiná para financiar su recuperación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El principio de gratuidad de los servicios públicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gratuidad de servicios públicos se refiere a que algunos servicios básicos no tienen costo para los usuarios; no está relacionada con impuestos ambientales."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de externalización de costos ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Externalizar es lo contrario de internalizar: trasladar el daño a terceros en lugar de asumirlo. Si las empresas siguen trasladando el costo de sus emisiones al río y a la comunidad, el impuesto deja de ser necesario."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de libre competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La libre competencia se refiere a la ausencia de monopolios en el mercado; no está directamente relacionada con la tributación ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de quien contamina paga",
+          "is_correct": true,
+          "feedback": "Correcto. El principio de quien contamina paga establece que quienes generan daños ambientales deben asumir los costos de reparación y prevención, internalizando las externalidades negativas de su actividad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El principio de \"quien contamina paga\" es un instrumento de política ambiental que busca internalizar los costos externos de la contaminación. Cuando una empresa contamina un río, los costos recaen en la sociedad y el ecosistema; el impuesto la obliga a asumir esos costos, incentivando prácticas más limpias y generando recursos para la recuperación ambiental.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es el argumento más sólido para oponerse al fracking en Colombia?",
+      "context": "En Bogotá, un debate ciudadano discute si Colombia debería prohibir el fracking para proteger los recursos hídricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fracking puede contaminar acuíferos y afectar el suministro de agua potable",
+          "is_correct": true,
+          "feedback": "Correcto. El fracking implica inyectar grandes volúmenes de agua, químicos y arena a alta presión, lo que puede contaminar acuíferos subterráneos y comprometer el acceso a agua segura para las comunidades."
+        },
+        {
+          "letter": "B",
+          "text": "El fracking es una tecnología demasiado costosa para el país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo económico no es el argumento principal contra el fracking; el debate se centra en los riesgos ambientales y para la salud pública."
+        },
+        {
+          "letter": "C",
+          "text": "El fracking no genera empleo ni desarrollo regional",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fracking sí puede generar empleo temporal y regalías; el problema es su sostenibilidad ambiental, no su incapacidad de generar actividad económica."
+        },
+        {
+          "letter": "D",
+          "text": "El fracking está prohibido en todos los países del mundo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fracking no está prohibido en todos los países; Estados Unidos, Argentina y China lo practican, aunque con regulaciones variables."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El fracking o fracturación hidráulica es una técnica de extracción de gas y petróleo que ha generado controversia mundial por sus potenciales impactos ambientales. En Colombia, el debate se centra en los riesgos para los recursos hídricos, ya que la técnica requiere grandes cantidades de agua y puede generar filtraciones de químicos a los acuíferos. Evaluar este tema requiere sopesar los beneficios económicos frente a los riesgos ambientales y para la salud.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v10",
+      "statement": "¿Qué conflicto se presenta entre el desarrollo económico y la conservación ambiental en este caso?",
+      "context": "En Cartagena, un grupo de pescadores artesanales denuncia que una empresa portuaria destruyó los manglares donde reproducen los peces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El desarrollo portuario siempre beneficia a las comunidades pesqueras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El desarrollo portuario no siempre beneficia a las comunidades pesqueras; en este caso destruyó los manglares que son esenciales para la reproducción de peces."
+        },
+        {
+          "letter": "B",
+          "text": "La empresa portuaria debe indemnizar a los pescadores y restaurar los manglares",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indemnización y restauración son medidas correctivas, pero no resuelven el conflicto de fondo; la solución requiere evaluar si el proyecto debería haberse ejecutado."
+        },
+        {
+          "letter": "C",
+          "text": "Los pescadores deben participar en la decisión sobre el proyecto portuario",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando una actividad económica afecta los recursos naturales y los medios de vida de las comunidades, estas deben participar en la decisión para garantizar que sus derechos sean respetados y el proyecto sea sostenible."
+        },
+        {
+          "letter": "D",
+          "text": "Los manglares no tienen importancia ecológica ni económica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los manglares son ecosistemas fundamentales que sirven como viveros de peces, protegen la costa y almacenan carbono; su destrucción tiene graves consecuencias ecológicas y económicas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Este caso ilustra el conflicto entre el desarrollo económico y la conservación ambiental. Los manglares son ecosistemas costeros que proporcionan múltiples servicios ambientales: son viveros de peces, protegen la costa de la erosión y almacenan grandes cantidades de carbono. Cuando una empresa destruye estos ecosistemas, afecta tanto la biodiversidad como los medios de vida de las comunidades que dependen de ellos, generando un conflicto que requiere soluciones de reparación y restauración.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v11",
+      "statement": "¿Qué estrategia económica debería implementar el departamento del Casanare para reducir su dependencia del petróleo?",
+      "context": "En Yopal, un estudiante analiza cómo la economía del Casanare depende del petróleo pero también sufre cuando los precios internacionales caen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumentar la extracción de petróleo para compensar la caída de precios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aumentar la extracción no resuelve el problema de la dependencia; al contrario, profundiza la vulnerabilidad ante las fluctuaciones del mercado internacional."
+        },
+        {
+          "letter": "B",
+          "text": "Concentrar la inversión en el sector petrolero abriendo nuevas concesiones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir más campos petroleros aumenta la dependencia en vez de reducirla: si el precio internacional del crudo baja, el departamento pierde más ingresos. La diversificación es justamente la alternativa a esa concentración."
+        },
+        {
+          "letter": "C",
+          "text": "Eliminar todas las regalías que recibe del Gobierno nacional",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eliminar las regalías reduciría los ingresos del departamento sin resolver el problema de fondo; la solución es diversificar, no eliminar los recursos existentes."
+        },
+        {
+          "letter": "D",
+          "text": "Diversificar la economía hacia sectores como agricultura, turismo y servicios",
+          "is_correct": true,
+          "feedback": "Correcto. La diversificación económica reduce la dependencia de un solo recurso y crea fuentes de ingresos más estables, protegiendo al departamento de las crisis del mercado petrolero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diversificación económica es una estrategia clave para reducir la dependencia de recursos no renovables y construir economías más resilientes. Departamentos como el Casanare, cuya economía depende en gran medida del petróleo, son vulnerables a las fluctuaciones de los precios internacionales. Invertir en sectores como la agricultura sostenible, el turismo ecológico y los servicios puede crear empleo estable y reducir esa vulnerabilidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle-v12",
+      "statement": "¿Qué relación existe entre la minería ilegal y la vulneración de derechos fundamentales en las comunidades étnicas?",
+      "context": "En Quibdó, una comunidad afrocolombiana lucha por proteger sus territorios de la minería ilegal que contamina los ríos con mercurio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La minería ilegal no afecta los derechos de las comunidades porque genera empleo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería ilegal sí afecta los derechos de las comunidades al contaminar fuentes de agua, destruir territorios y generar violencia, a pesar de ofrecer algunos empleos informales."
+        },
+        {
+          "letter": "B",
+          "text": "La minería ilegal contamina el agua y afecta el derecho a la salud y al ambiente sano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación del agua es un efecto, pero la relación más directa con la vulneración de derechos es la presencia de grupos armados y el desplazamiento forzado."
+        },
+        {
+          "letter": "C",
+          "text": "La minería ilegal está regulada por el Estado y no causa daños ambientales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La minería ilegal, por definición, no está regulada por el Estado y causa graves daños ambientales como deforestación, contaminación de suelos y aguas."
+        },
+        {
+          "letter": "D",
+          "text": "La minería ilegal vulnera derechos territoriales, a la salud y a un ambiente sano",
+          "is_correct": true,
+          "feedback": "Correcto. La minería ilegal vulnera múltiples derechos fundamentales de las comunidades étnicas: contamina el agua con mercurio, destruye territorios colectivos y genera violencia, afectando su derecho a la salud, al ambiente sano y a la autonomía territorial."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La minería ilegal en Colombia está asociada a graves violaciones de derechos fundamentales, especialmente en comunidades étnicas. El uso de mercurio contamina los ríos que estas comunidades usan para consumo, pesca y actividades culturales, vulnerando sus derechos a la salud, al agua y a un ambiente sano. Además, la presencia de grupos armados vinculados a esta actividad genera violencia y desplazamiento, profundizando la vulneración de sus derechos territoriales y culturales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-9-2026-W28-los-recursos-naturales-de-colombia-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 9,
+      "country": "co"
+    }
+  ]
+}
