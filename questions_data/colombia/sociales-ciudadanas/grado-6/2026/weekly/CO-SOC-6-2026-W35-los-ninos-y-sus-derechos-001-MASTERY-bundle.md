@@ -158,7 +158,7 @@ En Manizales, una cooperativa escolar vende artesanías por internet y debe deci
   <!-- feedback: Incorrecto. El derecho a la protección exige acompañar y proteger a los niños, no privarlos de la posibilidad de expresar sus opiniones sobre decisiones que los afectan. -->
 
 ### Explicacion Pedagogica
-La participación de los niños significa poder expresar opiniones y que sean consideradas en las decisiones que los afectan. La protección de los menores no excluye su voz, sino que garantiza que puedan participar de manera segura yBuild accompanied.
+La participación de los niños significa poder expresar opiniones y que sean consideradas en las decisiones que los afectan. La protección de los menores no excluye su voz, sino que garantiza que puedan participar de manera segura y tranquila.
 
 ## Question 7 [D7-D8]
 **ID:** CO-SOC-6-2026-W35-los-ninos-y-sus-derechos-001-MASTERY-bundle-v7

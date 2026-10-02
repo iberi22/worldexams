@@ -112,7 +112,7 @@ En Bogotá, la comunidad puede participar en las decisiones del presupuesto part
   <!-- feedback: Correcto. Participar en la asamblea, analizar la información y votar la priorización permite ejercer ciudadanía participativa y hacer seguimiento a los recursos públicos. -->
 
 ### Explicacion Pedagogica
-La ciudadanía participativa permite que las personas intervengan en los asuntos públicos y adversaIr de las decisiones que afectan su comunidad. En el presupuesto participativo, la población puede estudiar, discutir y priorizar propuestas para que el gasto público responda a las necesidades identificadas.
+La ciudadanía participativa permite que las personas dialoguen sobre los asuntos públicos e intervengan en las decisiones que las afectan su comunidad. En el presupuesto participativo, la población puede estudiar, discutir y priorizar propuestas para que el gasto público responda a las necesidades identificadas.
 
 ## Question 5 [D5-D6]
 **ID:** CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v5

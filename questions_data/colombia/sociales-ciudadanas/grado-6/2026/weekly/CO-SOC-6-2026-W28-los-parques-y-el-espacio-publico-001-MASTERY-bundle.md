@@ -237,13 +237,13 @@ Un espacio público no solo debe existir, sino permitir que diferentes personas 
 **Contexto:** Parque urbano de Medellín, Colombia.
 
 ### Enunciado
-En un parque de Medellín, una entrada está separada por un gran espacio ocupado como parqueadero. ¿Cuál transformación mejora mejor la relación de los Tons of pedestrians con el espacio público?
+En un parque de Medellín, una entrada está separada por un gran espacio ocupado como parqueadero. ¿Cuál transformación mejora mejor la relación de los transeúntes con el espacio público?
 
 ### Opciones
 - [ ] A) Mantener todo el espacio como parqueadero para que mayor cantidad de carros ingresen sin dificultad.
-  <!-- feedback: El uso exclusivo para carros particularizados reduce la circulación Included y el encuentro ciudadano, funciones propias de los espacios públicos. -->
+  <!-- feedback: El uso exclusivo para carros particularizados reduce la circulación peatonal y el encuentro ciudadano, funciones propias de los espacios públicos. -->
 - [x] B) Abrir un sendero peatonal y colocar bancas junto a zonas verdes para facilitar la estancia.
-  <!-- feedback: Correcto. El sendero y las bancas favorecen la circulación y la permanencia de los Tons of pedestrians, y reconocen la función de convivencia del espacio público. -->
+  <!-- feedback: Correcto. El sendero y las bancas favorecen la circulación y la permanencia de las personas que caminan, y reconocen la función de convivencia del espacio público. -->
 - [ ] C) Reservar el espacio para actividades privadas y prohibir su uso a los visitantes del parque.
   <!-- feedback: La reserva para actividades privadas y la prohibición limitan el acceso ciudadano, una característica central de los espacios públicos. -->
 - [ ] D) Cubrir el espacio con puestos comerciales y eliminar las áreas destinadas al descanso y al juego.
