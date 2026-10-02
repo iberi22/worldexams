@@ -16,25 +16,25 @@
           "letter": "A",
           "text": "She works in a clinic in Carolina.",
           "is_correct": true,
-          "feedback": "Correct. 'She works' carries the third-person singular -s, and every other subject in the bundle would drop that ending."
+          "feedback": "Correct! 'She works' carries the -s of the third person singular, and every other option either drops that ending or builds a different tense."
         },
         {
           "letter": "B",
           "text": "She work in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. The sentence has a singular subject and a plural-looking verb; this -s is the single most tested point of the unit."
+          "feedback": "Incorrect! 'She work' leaves the verb bare while the subject 'she' is third person singular, so the -s of that person is missing."
         },
         {
           "letter": "C",
           "text": "She working in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Working' is a present participle and it needs the auxiliary 'is' in a progressive form, which this unit does not use."
+          "feedback": "Incorrect! 'Working' is a present participle, and a participle only stands on its own after the auxiliary 'is'."
         },
         {
           "letter": "D",
           "text": "She are working in a clinic in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Are working' is the progressive, and 'are' also disagrees with the singular subject 'she', so two rules fail at once."
+          "feedback": "Incorrect! 'Are working' needs a plural subject, and 'she' is singular, so two separate rules fail at once."
         }
       ],
       "correct_answer": "A",
@@ -61,25 +61,25 @@
           "letter": "A",
           "text": "go",
           "is_correct": false,
-          "feedback": "Incorrect. With no ending, the sentence reads as plural; the subject 'my brother' is singular and requires the -es form."
+          "feedback": "Incorrect! The bare 'go' is the first person form; a singular third person subject demands 'goes' in this gap."
         },
         {
           "letter": "B",
           "text": "going",
           "is_correct": false,
-          "feedback": "Incorrect. 'Going' is the -ing form, which only appears with the auxiliary 'is' in the present continuous."
+          "feedback": "Incorrect! 'Going' is the -ing form, which requires the auxiliary 'is' and can never stand alone here."
         },
         {
           "letter": "C",
           "text": "goes",
           "is_correct": true,
-          "feedback": "Correct. 'Go' ends in -o, so the third-person -s becomes -es to keep it from sounding like 'goose'."
+          "feedback": "Correct! 'Go' ends in -o, so the third person singular adds -es and the form becomes 'goes'."
         },
         {
           "letter": "D",
           "text": "gone",
           "is_correct": false,
-          "feedback": "Incorrect. 'Gone' is the past participle, which is used with 'have' and does not describe a weekly routine."
+          "feedback": "Incorrect! 'Gone' is the past participle, which needs 'have' and describes a finished action rather than a weekly routine."
         }
       ],
       "correct_answer": "C",
@@ -106,25 +106,25 @@
           "letter": "A",
           "text": "Do your sister live in Ponce?",
           "is_correct": false,
-          "feedback": "Incorrect. The auxiliary 'do' has no -s, so it cannot go with a singular subject in a question with a lexical verb."
+          "feedback": "Incorrect! 'Do' is the auxiliary of the first and second persons, so it cannot agree with the singular 'your sister'."
         },
         {
           "letter": "B",
           "text": "Does your sister live in Ponce?",
           "is_correct": true,
-          "feedback": "Correct. In questions with 'to be' and with the verb 'to live', the auxiliary 'does' is used, and it already carries the third-person -s."
+          "feedback": "Correct! 'Does' already holds the -s of the third person singular, and that is why the main verb returns to 'live'."
         },
         {
           "letter": "C",
           "text": "Is your sister live in Ponce?",
           "is_correct": false,
-          "feedback": "Incorrect. After 'is' you need the participle, not the base form of the verb as it appears in the prompt."
+          "feedback": "Incorrect! After 'is' the verb 'to be' can never be followed by 'live' in its base form, so the auxiliary is wrong here."
         },
         {
           "letter": "D",
           "text": "Your sister does lives in Ponce?",
           "is_correct": false,
-          "feedback": "Incorrect. This is not question word order: the auxiliary 'does' must open the sentence before the subject."
+          "feedback": "Incorrect! The auxiliary 'does' must open the sentence before the subject, so this is not question word order."
         }
       ],
       "correct_answer": "B",
@@ -151,25 +151,25 @@
           "letter": "A",
           "text": "don't drink",
           "is_correct": false,
-          "feedback": "Incorrect. 'Don't' is reserved for I, you, we and they; with 'he' the auxiliary must be 'does'."
+          "feedback": "Incorrect! 'Don't' is reserved for I, you, we and they; a third person singular subject requires 'doesn't'."
         },
         {
           "letter": "B",
           "text": "isn't drink",
           "is_correct": false,
-          "feedback": "Incorrect. 'Isn't' forms the negative of the verb 'to be', and the participle does not fit here either."
+          "feedback": "Incorrect! 'Isn't' is the negative of the verb 'to be', and no participle follows it in this tense."
         },
         {
           "letter": "C",
           "text": "not drink",
           "is_correct": false,
-          "feedback": "Incorrect. The auxiliary is missing entirely, and in the present simple the negative is never formed with 'not' alone."
+          "feedback": "Incorrect! A negative with an action verb always needs an auxiliary, so 'not drink' can never stand alone."
         },
         {
           "letter": "D",
           "text": "doesn't drink",
           "is_correct": true,
-          "feedback": "Correct. The negative with 'not' and an action verb is formed with 'does not' or 'doesn't' in the third person singular."
+          "feedback": "Correct! The negative of 'do' in the third person singular is 'doesn't', and it already carries the -s."
         }
       ],
       "correct_answer": "D",
@@ -196,25 +196,25 @@
           "letter": "A",
           "text": "passs",
           "is_correct": false,
-          "feedback": "Incorrect. 'Passs' has three s's and follows no rule; English never doubles the -s in this position."
+          "feedback": "Incorrect! 'Passs' has three s sounds, and no English verb in this form exists; the spelling rule allows only one."
         },
         {
           "letter": "B",
           "text": "pass",
           "is_correct": false,
-          "feedback": "Incorrect. This is the base form, and the third person singular needs a new ending, even though the final sound is similar."
+          "feedback": "Incorrect! 'Pass' is the bare form, and the third person singular of 'to pass' must show the -es ending."
         },
         {
           "letter": "C",
           "text": "passing",
           "is_correct": false,
-          "feedback": "Incorrect. The -ing form belongs to the present continuous and is not used for a routine in the present simple."
+          "feedback": "Incorrect! 'Passing' is the present participle, which belongs to the progressive after the auxiliary 'is'."
         },
         {
           "letter": "D",
           "text": "passes",
           "is_correct": true,
-          "feedback": "Correct. When the base verb ends in -ss, the third person adds only -es, so the final -s is pronounced correctly."
+          "feedback": "Correct! A verb ending in -ss takes the plain -es ending, so the third person singular here is 'passes'."
         }
       ],
       "correct_answer": "D",
@@ -241,25 +241,25 @@
           "letter": "A",
           "text": "trys",
           "is_correct": false,
-          "feedback": "Incorrect. Adding an -s after a consonant + -y produces a form that no English speaker uses."
+          "feedback": "Incorrect! 'Trys' writes the third person with a single -s, but a consonant plus -y requires -ies instead."
         },
         {
           "letter": "B",
           "text": "tries",
           "is_correct": true,
-          "feedback": "Correct. 'Try' ends in -y with a consonant before it, so the -y becomes -ies for the third person singular."
+          "feedback": "Correct! 'Try' ends in a consonant followed by -y, so the third person singular is written 'tries'."
         },
         {
           "letter": "C",
           "text": "tryes",
           "is_correct": false,
-          "feedback": "Incorrect. The -y does not turn into a vowel: it changes to -ies, and the verb does not also add an -e."
+          "feedback": "Incorrect! 'Tryes' keeps the -y and adds -es, which no English spelling rule allows."
         },
         {
           "letter": "D",
           "text": "trying",
           "is_correct": false,
-          "feedback": "Incorrect. 'Trying' is the -ing form and belongs to the present continuous, not to a routine in the present simple."
+          "feedback": "Incorrect! 'Trying' is the participle used after 'is', and this gap asks for the simple present third person."
         }
       ],
       "correct_answer": "B",
@@ -286,25 +286,25 @@
           "letter": "A",
           "text": "She has a car in Carolina.",
           "is_correct": true,
-          "feedback": "Correct. 'To have' is irregular in the third person: the correct form is 'has', not 'haves' or 'have'."
+          "feedback": "Correct! 'Has' is the third person singular of the irregular verb 'have', and no -s is added to that full form."
         },
         {
           "letter": "B",
           "text": "She haves a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Haves' does not exist in English; the irregular -s form of 'to have' replaces the entire base form."
+          "feedback": "Incorrect! 'Haves' treats the verb as if it were regular, but 'have' is irregular and its third person is 'has'."
         },
         {
           "letter": "C",
           "text": "She have a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. 'Have' is the base form and is only used with I, you, we and they in the present simple."
+          "feedback": "Incorrect! 'Have' is the bare form, and the singular subject 'she' requires the third person form instead."
         },
         {
           "letter": "D",
           "text": "She having a car in Carolina.",
           "is_correct": false,
-          "feedback": "Incorrect. The -ing form needs the auxiliary 'is', and 'having' also describes an ongoing action, not habitual possession."
+          "feedback": "Incorrect! 'Having' is the participle of the perfect progressive, so it would need 'has been' in front of it."
         }
       ],
       "correct_answer": "A",
@@ -331,25 +331,25 @@
           "letter": "A",
           "text": "lives",
           "is_correct": false,
-          "feedback": "Incorrect. The -s belongs to the third person singular, and here the subject is plural, so the ending is not needed."
+          "feedback": "Incorrect! 'Lives' carries the -s of the third person singular, and 'my parents' is a plural subject here."
         },
         {
           "letter": "B",
           "text": "live's",
           "is_correct": false,
-          "feedback": "Incorrect. An apostrophe marks possession and is never used to form the present simple of a verb."
+          "feedback": "Incorrect! English never writes a plural with an apostrophe, so 'live's' is not a possible form."
         },
         {
           "letter": "C",
           "text": "live",
           "is_correct": true,
-          "feedback": "Correct. 'My parents' is a plural subject, so the verb stays in its base form with no third-person ending."
+          "feedback": "Correct! 'My parents' is plural, and the plural of the present simple adds nothing to the base verb."
         },
         {
           "letter": "D",
           "text": "lived",
           "is_correct": false,
-          "feedback": "Incorrect. 'Lived' is the past simple; the sentence describes a habitual place of residence and calls for the present."
+          "feedback": "Incorrect! 'Lived' is the past simple, and the statement describes where they live now, not a finished past action."
         }
       ],
       "correct_answer": "C",
@@ -376,25 +376,25 @@
           "letter": "A",
           "text": "Don't he like mango?",
           "is_correct": false,
-          "feedback": "Incorrect. 'Don't' only goes with I, you, we and they; with 'he' the auxiliary has to be 'does'."
+          "feedback": "Incorrect! 'Don't' cannot pair with the third person pronoun 'he'; the auxiliary of the negative is 'doesn't'."
         },
         {
           "letter": "B",
           "text": "Isn't he likes mango?",
           "is_correct": false,
-          "feedback": "Incorrect. 'Isn't' belongs to the verb 'to be', and the main verb would also be left with the wrong -s."
+          "feedback": "Incorrect! After 'is' the verb 'to be' cannot be followed by 'likes', so 'Isn't he likes' is not a form English uses."
         },
         {
           "letter": "C",
           "text": "Doesn't he like mango?",
           "is_correct": true,
-          "feedback": "Correct. The auxiliary 'doesn't' opens the question and leaves the main verb in its base form, 'like'."
+          "feedback": "Correct! A negative question opens with 'doesn't he', and the main verb returns to the base form 'like'."
         },
         {
           "letter": "D",
           "text": "Does he not likes mango?",
           "is_correct": false,
-          "feedback": "Incorrect. After 'does' the main verb goes back to its base form, so 'does he not likes' would duplicate the ending and also reverse the order of the tag, which must be auxiliary then pronoun."
+          "feedback": "Incorrect! In a negative question the -s belongs to the auxiliary 'Does', never to the main verb, which stays in its base form after 'not'."
         }
       ],
       "correct_answer": "C",
@@ -421,25 +421,25 @@
           "letter": "A",
           "text": "Does",
           "is_correct": true,
-          "feedback": "Correct. The third-person singular auxiliary in the present simple is 'does', and the main verb stays in its base form."
+          "feedback": "Correct! 'Does' is the auxiliary that forms questions with a third person singular subject such as 'your teacher'."
         },
         {
           "letter": "B",
           "text": "Do",
           "is_correct": false,
-          "feedback": "Incorrect. 'Do' is used with I, you, we and they; since the subject is 'your teacher', the -s is missing."
+          "feedback": "Incorrect! 'Do' forms questions with I, you, we and they, and it never carries the third person ending."
         },
         {
           "letter": "C",
           "text": "Is",
           "is_correct": false,
-          "feedback": "Incorrect. 'Is' forms questions with the verb 'to be', but here the main verb is 'speak'."
+          "feedback": "Incorrect! 'Is' only works with the verb 'to be', and the main verb in this sentence is the action verb 'speak'."
         },
         {
           "letter": "D",
           "text": "Are",
           "is_correct": false,
-          "feedback": "Incorrect. 'Are' goes with plural subjects or 'you', and it does not go with a lexical verb like 'speak'."
+          "feedback": "Incorrect! 'Are' is the plural auxiliary, so it disagrees with the singular subject 'your teacher'."
         }
       ],
       "correct_answer": "A",
@@ -466,25 +466,25 @@
           "letter": "A",
           "text": "leave",
           "is_correct": false,
-          "feedback": "Incorrect. 'The train' is singular, so the base form with no ending does not match the subject."
+          "feedback": "Incorrect! 'Leave' is the bare form, and a singular subject such as 'the train' requires 'leaves'."
         },
         {
           "letter": "B",
           "text": "leaving",
           "is_correct": false,
-          "feedback": "Incorrect. The -ing form belongs to the present continuous, and this routine calls for a present simple verb."
+          "feedback": "Incorrect! 'Leaving' is the -ing form and can never stand here without the auxiliary 'is'."
         },
         {
           "letter": "C",
           "text": "is leave",
           "is_correct": false,
-          "feedback": "Incorrect. 'Leave' is not a participle, and an action verb also does not combine with 'is' in the present simple."
+          "feedback": "Incorrect! 'Is leave' mixes the auxiliary 'to be' with a base verb, which is not a form English uses."
         },
         {
           "letter": "D",
           "text": "leaves",
           "is_correct": true,
-          "feedback": "Correct. 'The train' is third person singular, and since 'leave' already ends in -e, it only adds -s."
+          "feedback": "Correct! 'The train' is a singular third person subject, so 'leaves' carries the required -s."
         }
       ],
       "correct_answer": "D",
@@ -511,25 +511,25 @@
           "letter": "A",
           "text": "have got",
           "is_correct": false,
-          "feedback": "Incorrect. 'Have got' goes with I, you, we and they; with 'she' you need the form 'has got'."
+          "feedback": "Incorrect! 'Have got' belongs to I, you, we and they, and the subject in this gap is the singular 'she'."
         },
         {
           "letter": "B",
           "text": "has got",
           "is_correct": true,
-          "feedback": "Correct. In the present simple, the contracted form of 'have got' for the third person singular is 'has got'."
+          "feedback": "Correct! 'She' is third person singular, so 'have' becomes 'has' while 'got' stays unchanged."
         },
         {
           "letter": "C",
           "text": "hav got",
           "is_correct": false,
-          "feedback": "Incorrect. 'Hav' is not a form of the verb 'to have' in English; the participle of that verb is 'had'."
+          "feedback": "Incorrect! 'Hav' drops the silent e, and English spelling keeps the full form 'have'."
         },
         {
           "letter": "D",
           "text": "having got",
           "is_correct": false,
-          "feedback": "Incorrect. The -ing form describes an ongoing action, not a possession that is permanent."
+          "feedback": "Incorrect! 'Having got' is the participle form of the perfect, and this sentence describes a permanent state."
         }
       ],
       "correct_answer": "B",
@@ -556,25 +556,25 @@
           "letter": "A",
           "text": "dos",
           "is_correct": false,
-          "feedback": "Incorrect. 'Dos' is the number two and not a verb form, so the sentence makes no grammatical sense."
+          "feedback": "Incorrect! 'Dos' is only the third person plural of 'do', and the subject 'he' is singular."
         },
         {
           "letter": "B",
           "text": "does",
           "is_correct": true,
-          "feedback": "Correct. 'To do' is irregular in the third person: it becomes 'does', and because it is irregular it does not add a regular ending."
+          "feedback": "Correct! 'Does' is the third person singular of the irregular verb 'do', used before a base form."
         },
         {
           "letter": "C",
           "text": "do",
           "is_correct": false,
-          "feedback": "Incorrect. 'Do' is the base form and only fits a subject other than he, she or it."
+          "feedback": "Incorrect! 'Do' is the bare form, which fits I, you, we and they but not the singular 'he' here."
         },
         {
           "letter": "D",
           "text": "doing",
           "is_correct": false,
-          "feedback": "Incorrect. 'Doing' belongs to the present continuous, and a routine is expressed in the present simple."
+          "feedback": "Incorrect! 'Doing' is the -ing form of the progressive, and the simple present of this statement uses no auxiliary."
         }
       ],
       "correct_answer": "B",
@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "watchs",
           "is_correct": false,
-          "feedback": "Incorrect. A bare -s after -ch produces an unlikely sound and is not a valid English form."
+          "feedback": "Incorrect! 'Watchs' adds a plain -s after a consonant, but verbs ending in -ch always take -es."
         },
         {
           "letter": "B",
           "text": "watch",
           "is_correct": false,
-          "feedback": "Incorrect. This is the base form, and the subject 'Maria' is third person singular, so it requires an ending."
+          "feedback": "Incorrect! 'Watch' is the bare form, and the singular subject 'Maria' requires the third person ending."
         },
         {
           "letter": "C",
           "text": "watching",
           "is_correct": false,
-          "feedback": "Incorrect. 'Watching' is the -ing form and belongs to the present continuous, not to a daily routine."
+          "feedback": "Incorrect! 'Watching' is the present participle, and it can only follow the auxiliary 'is'."
         },
         {
           "letter": "D",
           "text": "watches",
           "is_correct": true,
-          "feedback": "Correct. Since 'watch' ends in -ch, the third person singular adds -es so that the -s sounds like a normal s."
+          "feedback": "Correct! Verbs ending in -ch take -es in the third person singular, so the form here is 'watches'."
         }
       ],
       "correct_answer": "D",
@@ -646,25 +646,25 @@
           "letter": "A",
           "text": "doesn't like",
           "is_correct": false,
-          "feedback": "Incorrect. 'Doesn't' is third person singular, and here the subject is the first-person 'I'."
+          "feedback": "Incorrect! 'Doesn't' is the negative auxiliary of the third person singular, and the subject here is 'I'."
         },
         {
           "letter": "B",
           "text": "am not like",
           "is_correct": false,
-          "feedback": "Incorrect. 'Am' belongs to the verb 'to be', and the -ing form does not fit an opinion about the weather."
+          "feedback": "Incorrect! 'Am not' is the negative of the verb 'to be', and it cannot be followed by 'like'."
         },
         {
           "letter": "C",
           "text": "don't like",
           "is_correct": true,
-          "feedback": "Correct. With 'I' the negative auxiliary is 'do not' or 'don't', and the verb stays in its base form."
+          "feedback": "Correct! With the pronoun 'I' the auxiliary of the negative is 'don't', which never takes an -s."
         },
         {
           "letter": "D",
           "text": "not like",
           "is_correct": false,
-          "feedback": "Incorrect. The auxiliary is missing: in the present simple the negative is formed with 'do not' or 'does not'."
+          "feedback": "Incorrect! A negative in the present simple always needs an auxiliary, so 'not like' alone is impossible."
         }
       ],
       "correct_answer": "C",
@@ -691,25 +691,25 @@
           "letter": "A",
           "text": "isn't",
           "is_correct": true,
-          "feedback": "Correct. The negative of 'to be' in the third person singular is formed with 'is' plus 'not', or contracted as 'isn't'."
+          "feedback": "Correct! 'Not be' contracts to 'isn't', and that is the negative used with a single subject."
         },
         {
           "letter": "B",
           "text": "aren't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Aren't' goes with 'you' or a plural subject, and the subject of the sentence is 'he'."
+          "feedback": "Incorrect! 'Aren't' is the plural negative of the verb 'to be', and the subject 'he' is singular."
         },
         {
           "letter": "C",
           "text": "doesn't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Doesn't' is the auxiliary for action verbs, but here the main verb is 'to be'."
+          "feedback": "Incorrect! 'Doesn't' is the negative of an action verb, and the verb in this gap is 'be'."
         },
         {
           "letter": "D",
           "text": "don't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Don't' does not combine with 'to be', because the verb 'to be' has its own set of forms."
+          "feedback": "Incorrect! 'Don't' is the negative auxiliary of the action verbs, and it does not work with 'to be'."
         }
       ],
       "correct_answer": "A",
@@ -736,25 +736,25 @@
           "letter": "A",
           "text": "doesn't she",
           "is_correct": true,
-          "feedback": "Correct. A positive statement calls for a negative tag, and since the subject is third person, the tag uses 'doesn't' plus the pronoun."
+          "feedback": "Correct! The tag takes the negative auxiliary because the main clause is positive, so it reads 'doesn't she'."
         },
         {
           "letter": "B",
           "text": "isn't she",
           "is_correct": false,
-          "feedback": "Incorrect. 'Isn't' belongs to the verb 'to be', and the statement contains no form of 'to be'."
+          "feedback": "Incorrect! 'Isn't' belongs to the verb 'to be', and the main clause uses the action verb 'lives'."
         },
         {
           "letter": "C",
           "text": "don't she",
           "is_correct": false,
-          "feedback": "Incorrect. 'Don't' does not go with a third-person singular subject, so the tag is grammatically impossible."
+          "feedback": "Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it can never follow a third person singular subject."
         },
         {
           "letter": "D",
           "text": "she doesn't",
           "is_correct": false,
-          "feedback": "Incorrect. The tag repeats the structure of the statement, but the correct order is auxiliary then pronoun."
+          "feedback": "Incorrect! A tag reverses the order of subject and auxiliary, so 'she doesn't' is not a tag at all."
         }
       ],
       "correct_answer": "A",
@@ -781,25 +781,25 @@
           "letter": "A",
           "text": "need",
           "is_correct": false,
-          "feedback": "Incorrect. In English, a subject with 'every' requires a singular verb, even if the noun that goes with it is plural."
+          "feedback": "Incorrect! 'Need' is the bare form, and the singular subject 'every student' requires 'needs'."
         },
         {
           "letter": "B",
           "text": "needing",
           "is_correct": false,
-          "feedback": "Incorrect. 'Needing' is an -ing form and belongs to the present continuous, not to a general fact about the course."
+          "feedback": "Incorrect! 'Needing' is the -ing form, which belongs to the progressive after the auxiliary 'is'."
         },
         {
           "letter": "C",
           "text": "are need",
           "is_correct": false,
-          "feedback": "Incorrect. The verb 'to need' does not take 'are' in front of it, and the subject of the sentence is also singular."
+          "feedback": "Incorrect! 'Are need' mixes a plural auxiliary with a base verb, so two separate rules fail here."
         },
         {
           "letter": "D",
           "text": "needs",
           "is_correct": true,
-          "feedback": "Correct. 'Every student' is singular in English, so the verb takes the third-person singular form."
+          "feedback": "Correct! 'Every student' counts as one singular third person subject, so the verb carries the -s."
         }
       ],
       "correct_answer": "D",
@@ -826,25 +826,25 @@
           "letter": "A",
           "text": "meet",
           "is_correct": false,
-          "feedback": "Incorrect. If the committee were treated as several members, the form would be 'meet', but here the group acts as a single entity."
+          "feedback": "Incorrect! 'Meet' is the bare form, and the singular subject 'the committee' requires 'meets'."
         },
         {
           "letter": "B",
           "text": "meets",
           "is_correct": true,
-          "feedback": "Correct. A group with a single function is treated as a singular unit in English, so the verb is 'meets'."
+          "feedback": "Correct! 'The committee' is a single third person singular subject, even though its members are many."
         },
         {
           "letter": "C",
           "text": "meeting",
           "is_correct": false,
-          "feedback": "Incorrect. 'Meeting' is the -ing form and also a noun, so it cannot fill the verb slot."
+          "feedback": "Incorrect! 'Meeting' is the participle of the progressive, and the simple present here uses no auxiliary."
         },
         {
           "letter": "D",
           "text": "meet's",
           "is_correct": false,
-          "feedback": "Incorrect. The apostrophe is not used to form the present simple, and the sentence calls for a present verb form."
+          "feedback": "Incorrect! English never writes the third person singular with an apostrophe, so 'meet's' is impossible."
         }
       ],
       "correct_answer": "B",
@@ -871,25 +871,25 @@
           "letter": "A",
           "text": "don't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Don't' belongs to I, you, we and they, and the subject of the main clause is 'he'."
+          "feedback": "Incorrect! 'Don't' is the auxiliary of I, you, we and they, and it never carries the third person ending."
         },
         {
           "letter": "B",
           "text": "isn't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Isn't' is the auxiliary for the verb 'to be', and the question is built with 'forget'."
+          "feedback": "Incorrect! 'Isn't' is the negative of the verb 'to be', and the clause here uses the action verb 'forget'."
         },
         {
           "letter": "C",
           "text": "doesn't",
           "is_correct": true,
-          "feedback": "Correct. A negative question calls for a positive tag, and with 'he' that auxiliary is 'does', in the contracted form 'doesn't'."
+          "feedback": "Correct! The tag of 'he ...?' takes 'doesn't', which holds the -s of the third person singular."
         },
         {
           "letter": "D",
           "text": "hasn't",
           "is_correct": false,
-          "feedback": "Incorrect. 'Hasn't' belongs to the present perfect with 'have', not to a present simple question."
+          "feedback": "Incorrect! 'Hasn't' would need a past participle after it, and 'forget' in the tag must stay in its base form."
         }
       ],
       "correct_answer": "C",
