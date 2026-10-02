@@ -80,17 +80,16 @@ El área de un cuadrado se calcula multiplicando la longitud de un lado por sí 
 ¿Cuál es el área de un hexágono regular con lado de 4 cm y apotema de 3.5 cm?
 
 ### Opciones
-- [ ] A) 42 cm²
+- [x] A) 42 cm²
   <!-- feedback: Correcto. El área de un polígono regular es (perímetro × apotema) ÷ 2 = (24 × 3.5) ÷ 2 = 42 cm². -->
 - [ ] B) 84 cm²
   <!-- feedback: Incorrecto. 84 cm² sería el resultado de multiplicar perímetro × apotema sin dividir entre 2. La fórmula correcta divide entre 2. -->
 - [ ] C) 21 cm²
   <!-- feedback: Incorrecto. 21 cm² sería la mitad del resultado correcto. No olvides que el área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
-- [x] D) 42 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es (24 × 3.5) ÷ 2 = 42 cm². -->
+- [ ] D) 63 cm²
+  <!-- feedback: Incorrecto. 63 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El área de un polígono regular es (perímetro × apotema) ÷ 2 = (24 × 3.5) ÷ 2 = 42 cm². -->
 ### Explicacion Pedagogica
 El área de un polígono regular se calcula con la fórmula A = (P × a) ÷ 2, donde P es el perímetro y a es el apotema. Para un hexágono regular con lado de 4 cm, el perímetro es 6 × 4 = 24 cm. Si el apotema mide 3.5 cm, el área es (24 × 3.5) ÷ 2 = 42 cm². El apotema es la distancia desde el centro del polígono hasta el punto medio de un lado.
-
 ## Question 4 [D5-D6]
 **ID:** CO-MAT-4-2026-W31-area-de-poligonos-regulares-001-MASTERY-bundle-v4
 **Bloom:** Apply
@@ -102,17 +101,16 @@ El área de un polígono regular se calcula con la fórmula A = (P × a) ÷ 2, d
 ¿Cuál es el área de un octágono regular con lado de 5 cm y apotema de 6 cm?
 
 ### Opciones
-- [ ] A) 120 cm²
+- [x] A) 120 cm²
   <!-- feedback: Correcto. El perímetro es 8 × 5 = 40 cm, y el área es (40 × 6) ÷ 2 = 120 cm². -->
 - [ ] B) 240 cm²
   <!-- feedback: Incorrecto. 240 cm² sería el resultado de multiplicar 40 × 6 sin dividir entre 2. La fórmula del área siempre divide entre 2. -->
 - [ ] C) 60 cm²
   <!-- feedback: Incorrecto. 60 cm² sería la mitad del resultado correcto. Recuerda que el área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
-- [x] D) 120 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es (40 × 6) ÷ 2 = 120 cm². -->
+- [ ] D) 180 cm²
+  <!-- feedback: Incorrecto. 180 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro es 8 × 5 = 40 cm, y el área es (40 × 6) ÷ 2 = 120 cm². -->
 ### Explicacion Pedagogica
 Para calcular el área de un octágono regular, primero se encuentra el perímetro multiplicando el lado por 8: P = 8 × 5 = 40 cm. Luego se aplica la fórmula A = (P × a) ÷ 2 = (40 × 6) ÷ 2 = 120 cm². Es común olvidar dividir entre 2, lo que daría 240 cm², pero la fórmula correcta siempre incluye esa división.
-
 ## Question 5 [D5-D6]
 **ID:** CO-MAT-4-2026-W31-area-de-poligonos-regulares-001-MASTERY-bundle-v5
 **Bloom:** Apply
@@ -124,17 +122,16 @@ Para calcular el área de un octágono regular, primero se encuentra el perímet
 ¿Cuál es el área de un pentágono regular con lado de 8 cm y apotema de 5.5 cm?
 
 ### Opciones
-- [ ] A) 110 cm²
+- [x] A) 110 cm²
   <!-- feedback: Correcto. El perímetro es 5 × 8 = 40 cm, y el área es (40 × 5.5) ÷ 2 = 110 cm². -->
 - [ ] B) 220 cm²
   <!-- feedback: Incorrecto. 220 cm² sería el resultado de multiplicar 40 × 5.5 sin dividir entre 2. La fórmula del área divide entre 2. -->
 - [ ] C) 55 cm²
   <!-- feedback: Incorrecto. 55 cm² sería la mitad del resultado correcto. El área es (P × a) ÷ 2, no (P × a) ÷ 4. -->
-- [x] D) 110 cm² (ver explicación)
-  <!-- feedback: Incorrecto. Esta opción es igual a A, que es la respuesta correcta. El área es (40 × 5.5) ÷ 2 = 110 cm². -->
+- [ ] D) 165 cm²
+  <!-- feedback: Incorrecto. 165 cm² no es el resultado del problema. Es un error típico de cálculo: ese valor no aparece al aplicar bien la fórmula. El cálculo correcto es: El perímetro es 5 × 8 = 40 cm, y el área es (40 × 5.5) ÷ 2 = 110 cm². -->
 ### Explicacion Pedagogica
 El área de un pentágono regular se calcula primero encontrando el perímetro: P = 5 × 8 = 40 cm. Luego se aplica la fórmula A = (P × a) ÷ 2 = (40 × 5.5) ÷ 2 = 110 cm². Es importante recordar que el apotema es la distancia perpendicular desde el centro hasta el punto medio de un lado, y que la fórmula del área siempre divide el producto entre 2.
-
 ## Question 6 [D7-D8]
 **ID:** CO-MAT-4-2026-W31-area-de-poligonos-regulares-001-MASTERY-bundle-v6
 **Bloom:** Analyze
