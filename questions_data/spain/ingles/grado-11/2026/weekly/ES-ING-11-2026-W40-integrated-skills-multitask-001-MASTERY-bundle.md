@@ -21,462 +21,463 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Your class is preparing a science exhibition and you read the notice board before acting.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Notice: Bring your draft poster to Room 12 before Thursday lunch for printing. What must you do first?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [ ] A) Take the draft poster to Room 12 before Thursday lunch.
+  <!-- feedback: Correct! Taking the draft poster to Room 12 before Thursday lunch uses the place, the object and the deadline exactly as the notice states. -->
+- [x] B) Send the final poster by email on Friday evening.
+  <!-- feedback: This option fails because sending the final poster by email on Friday evening changes the place, the version and the deadline stated in the notice. -->
+- [ ] C) Buy printing paper at the shop after school.
+  <!-- feedback: This option fails because buying printing paper at the shop after school ignores the required object, place and deadline and invents a new shopping task. -->
+- [ ] D) Wait in Room 12 until Thursday lunch without the poster.
+  <!-- feedback: This option fails because waiting in Room 12 until Thursday lunch without the poster keeps the place and time but drops the essential object to deliver. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
----
+Integrated reading means scanning an announcement for who, where and when, then turning those facts into one correct action instead of guessing from a single word.
+
 ## Question 2 [D4]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Your exchange partner sends an email about arrival time and food needs before your meeting.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Message: My train arrives at six and I am vegetarian. Which reply uses both pieces of information correctly?
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) I will meet you at the station at six with a vegetarian dinner ready.
+  <!-- feedback: Correct! Meeting at the station at six with a vegetarian dinner ready correctly reuses both the arrival time and the vegetarian need from the message. -->
+- [ ] B) I will meet you at midnight with a meat stew ready.
+  <!-- feedback: This option fails because meeting at midnight with a meat stew ready changes the stated six o clock arrival and contradicts the vegetarian need completely. -->
+- [ ] C) I will ignore your train and cook only fish soup.
+  <!-- feedback: This option fails because ignoring the train and cooking only fish soup drops the arrival information and fish soup does not satisfy a vegetarian request. -->
+- [x] D) I will meet you at six but serve only beef burgers.
+  <!-- feedback: This option fails because meeting at six but serving only beef burgers keeps the time right yet directly violates the vegetarian need with beef burgers. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
+A good written reply proves you understood two separate facts from reading and you reuse both accurately, which is the core of reading into writing integration.
+
 ## Question 3 [D3]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You listen to a classmate describing a lost jacket and you must respond with helpful speech.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+You hear: I lost my blue jacket near the gym yesterday. Which spoken response shows you understood and helps next?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [x] A) Did you say a blue jacket near the gym yesterday, so shall we look there together?
+  <!-- feedback: Correct! Asking about the blue jacket lost near the gym yesterday repeats the color, place and time and offers concrete help to look there. -->
+- [ ] B) Did you lose a red hat in the library, so shall we buy a new one?
+  <!-- feedback: This option fails because asking about a red hat lost in the library changes the color, object and place that the classmate actually described. -->
+- [ ] C) I had pasta for lunch today and the canteen was very crowded at noon.
+  <!-- feedback: This option fails because talking about your own lunch menu ignores the lost jacket completely and offers no listening based response at all. -->
+- [ ] D) I never go to the gym, so I cannot help you with anything today.
+  <!-- feedback: This option fails because saying you never go to the gym dismisses the location detail and refuses the cooperative speaking move the task needs. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
+Listening into speaking means catching the key details of what you heard and reflecting them back in a helpful spoken turn instead of giving a generic answer.
+
+## Question 4 [D5]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v4
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You read a timetable change and a teacher note together before planning your afternoon.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Timetable: Chemistry moves to Lab 3 at three. Note: Bring your notebook to chemistry. What will you do?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) Go to Lab 3 at three with your notebook ready.
+  <!-- feedback: Correct! Going to Lab 3 at three with your notebook combines the new room and time from the timetable with the notebook order from the teacher note. -->
+- [ ] B) Go to Lab 1 at two with a novel to read.
+  <!-- feedback: This option fails because going to Lab 1 at two with a novel uses the old timetable data and replaces the notebook with an unrelated novel. -->
+- [x] C) Stay home at three with your notebook ready.
+  <!-- feedback: This option fails because staying home at three with your notebook keeps the notebook idea but disobeys the timetable change to attend Lab 3. -->
+- [ ] D) Go to Lab 3 at three without bringing anything.
+  <!-- feedback: This option fails because going to Lab 3 at three without anything respects the new timetable but drops the teacher instruction to bring your notebook. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
+Real multitask reading forces you to combine two short texts and keep only the conclusion that respects both, discarding options that use just one source.
+
+## Question 5 [D4]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Estructura
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You read a library guide while filling in your new membership card at the desk.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Guide: Member Diaz, card 4421, returns books on 12 May. Fill the card with the correct details.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] C) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) Diaz, card 4421, return date 12 May.
+  <!-- feedback: Correct! Writing Diaz, card 4421, return date 12 May copies the surname, card number and date exactly as the guide and example card show. -->
+- [ ] B) Garcia, card 4421, return date 12 May.
+  <!-- feedback: This option fails because writing Garcia, card 4421, return date 12 May keeps number and date but changes the surname from Diaz to Garcia. -->
+- [ ] C) Diaz, card 2214, return date 12 May.
+  <!-- feedback: This option fails because writing Diaz, card 2214, return date 12 May keeps name and date but copies the wrong card number 2214. -->
+- [ ] D) Diaz, card 4421, return date 20 June.
+  <!-- feedback: This option fails because writing Diaz, card 4421, return date 20 June keeps name and number but invents a June date instead of 12 May. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
+Form filling from reading trains selective transfer, copying names, numbers and dates exactly as printed while ignoring decorative information around them.
+
+## Question 6 [D5]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Sintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You watch a short video with subtitles and take notes for a class summary the next day.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Subtitles: Bees pollinate one third of our food crops. Which notebook line best summarizes the video for tomorrow?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) The video explains that bees pollinate one third of our food.
+  <!-- feedback: Correct! The video explains that bees pollinate one third of our food correctly condenses the subtitle message into one clear grammatical summary sentence. -->
+- [ ] B) The video shows bees eating one third of our food.
+  <!-- feedback: This option fails because the video shows bees eating one third of our food changes the verb pollinate to eating and reverses the scientific meaning. -->
+- [x] C) The video sells televisions to one third of bees.
+  <!-- feedback: This option fails because the video sells televisions to one third of bees invents televisions and selling, which never appeared in the subtitles at all. -->
+- [ ] D) Bees, food, third, video.
+  <!-- feedback: This option fails because bees, food, third, video lists content words without a verb or structure and therefore is not a usable summary sentence. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
+Watching with subtitles plus note taking builds the habit of turning spoken and written input together into a short grammatical sentence that keeps the main fact.
+
 ## Question 7 [D5]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Estructura
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Your group must order the steps for a class presentation that mixes reading and speaking tasks.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Steps: research the topic, make slides, rehearse aloud, present to class. Which order completes the multitask correctly?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) Research, then slides, then rehearse, then present.
+  <!-- feedback: Correct! Research, then slides, then rehearse, then present follows the only logical workflow where each step prepares the material needed for the next step. -->
+- [ ] B) Present, then research, then slides, then rehearse.
+  <!-- feedback: This option fails because present, then research, then slides, then rehearse puts delivery first when there is nothing researched or prepared to deliver. -->
+- [ ] C) Rehearse, then present, then research, then slides.
+  <!-- feedback: This option fails because rehearse, then present, then research, then slides rehearses an empty talk and researches only after the presentation is finished. -->
+- [x] D) Slides, then present, then research, then rehearse.
+  <!-- feedback: This option fails because slides, then present, then research, then rehearse makes slides before research and presents before any rehearsal has happened. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
----
+Sequencing a multitask project teaches logical workflow, research must come before slides and rehearsal must come before delivery, or the later steps have no content.
+
 ## Question 8 [D6]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Sintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You are joining two paragraphs of a blog post with a linking sentence about city bikes.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Paragraph 1 praises city bikes. Paragraph 2 lists safety rules. Which sentence best connects both paragraphs?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) This habit is useful, but riders must learn the safety rules below.
+  <!-- feedback: Correct! This habit is useful, but riders must learn the safety rules below correctly bridges the benefit idea to the rules paragraph that follows next. -->
+- [x] B) Bikes were invented a long time ago in history.
+  <!-- feedback: This option fails because bikes were invented a long time ago in history drops the benefit thread and jumps to history instead of the coming safety rules. -->
+- [ ] C) I like pizza and films on weekends.
+  <!-- feedback: This option fails because I like pizza and films on weekends abandons the bike topic entirely and connects to nothing in either surrounding paragraph. -->
+- [ ] D) The rules are boring and nobody should read them.
+  <!-- feedback: This option fails because the rules are boring and nobody should read them contradicts the purpose of the second paragraph and breaks the forward link. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
----
+Cohesive linking across paragraphs requires a bridge sentence that picks up the bike idea from paragraph one and points forward to safety rules in paragraph two.
+
 ## Question 9 [D5]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You compare a source text with a classmate summary to find the integration mistake.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Source: The school trip visited the river park. Summary: The trip visited the river park and the museum. What is the error?
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [ ] A) The summary adds a museum never mentioned in the source.
+  <!-- feedback: Correct! Pointing out that the summary adds a museum never mentioned shows you compared every detail to the source and caught the invented integration error. -->
+- [ ] B) The summary is perfect and needs no change.
+  <!-- feedback: This option fails because saying the summary is perfect and needs no change misses the invented museum detail and shows no source comparison at all. -->
+- [x] C) The summary has bad handwriting and spelling errors.
+  <!-- feedback: This option fails because complaining about handwriting and spelling focuses on appearance while ignoring the factual museum error in the content itself. -->
+- [ ] D) The source mentions a museum, so the summary is right.
+  <!-- feedback: This option fails because claiming the source mentions a museum defends the mistake and proves the comparison with the real source was not done. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
+Checking a summary against its source trains critical reading, you must spot added, missing or twisted facts rather than trusting a fluent but faulty retelling.
+
 ## Question 10 [D6]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You read a hotel review and choose the paraphrase that keeps both meaning and grammar correct.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Review: A small clean quiet hotel near the beach. Which sentence paraphrases it accurately for your travel diary?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] A) The small hotel near the beach was clean and quiet.
+  <!-- feedback: Correct! The small hotel near the beach was clean and quiet keeps small, beach location and positive evaluation with correct grammar throughout the sentence. -->
+- [ ] B) The huge hotel in the mountains was dirty and noisy.
+  <!-- feedback: This option fails because the huge hotel in the mountains was dirty and noisy changes size, location and evaluation, reversing almost every detail of the review. -->
+- [ ] C) The small hotel near the beach was dirty and noisy.
+  <!-- feedback: This option fails because the small hotel near the beach was dirty and noisy keeps size and place but flips clean and quiet into a negative judgment. -->
+- [ ] D) Hotel beach small clean quiet.
+  <!-- feedback: This option fails because hotel beach small clean quiet removes verbs and articles so the grammar collapses even though the content words look similar. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
+Paraphrasing under test conditions means preserving tense, place and evaluation together, a single changed adjective or verb can flip praise into complaint.
+
 ## Question 11 [D7]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Expresion oral
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** After reading a dialogue about weekend plans you must ask a useful follow up question.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Dialogue: Ana and Pablo will watch a film on Saturday. Which follow up question keeps the conversation going?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) Shall we bring tickets for the Saturday film with Ana?
+  <!-- feedback: Correct! Asking if you should bring tickets for the Saturday film with Ana reuses the plan details and moves the joint decision forward naturally. -->
+- [ ] B) What did Ana eat for breakfast last year?
+  <!-- feedback: This option fails because asking what Ana ate for breakfast last year drops the weekend plan and jumps to an unrelated past meal. -->
+- [ ] C) Can fish ride bicycles in winter?
+  <!-- feedback: This option fails because asking whether fish can ride bicycles ignores Ana, Saturday and the film and breaks all links to the dialogue. -->
+- [x] D) I hate cinemas and I will stay home.
+  <!-- feedback: This option fails because stating you hate cinemas and will stay home shuts down the joint plan instead of asking a cooperative follow up question. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
+A strong follow up question proves integrated listening, it reuses names, times and intentions from the dialogue and pushes the joint plan one step forward.
+
+## Question 12 [D6]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You combine a bar chart on water use with a short article before drawing a conclusion.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Chart: showers 45 percent, garden 25 percent, drinking 5 percent. Article: cut shower time. Which conclusion uses both sources?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) Showers use the most water, so shorter showers save most.
+  <!-- feedback: Correct! Showers use the most water so shorter showers save most correctly reads the tallest bar and links it to the article advice about shower time. -->
+- [x] B) Garden watering uses the most water of all uses.
+  <!-- feedback: This option fails because garden watering uses the most water misreads the chart since the shower bar is clearly taller than the garden bar. -->
+- [ ] C) Drinking water uses the most water of all uses.
+  <!-- feedback: This option fails because drinking water uses the most water confuses the smallest bar with the largest and ignores the article focus on showers. -->
+- [ ] D) Charts are useless and articles always lie.
+  <!-- feedback: This option fails because charts are useless and articles lie refuses to integrate either source and offers no evidence based conclusion at all. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
+Chart plus text synthesis is a classic integrated skill, the correct conclusion must agree with the numbers in the graphic and the causes named in the article.
+
 ## Question 13 [D7]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Vocabulario
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You must reply to a teacher request and choose the register that fits a formal email.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Task: write a formal email to your teacher asking about the project deadline. Which option fits best?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [ ] A) Dear Mrs Lopez, could you please confirm the deadline?
+  <!-- feedback: Correct! Dear Mrs Lopez, could you please confirm the deadline uses a formal greeting, polite modal and full forms suited to a teacher email. -->
+- [ ] B) Hey Lopez, gimme the deadline now!
+  <!-- feedback: This option fails because Hey Lopez, gimme the deadline now uses a rude greeting plus slang gimme, which is wrong for a formal teacher email. -->
+- [ ] C) Yo teacher, what is up with homework?
+  <!-- feedback: This option fails because Yo teacher, what is up with homework uses street greeting and vague wording that ignores formal email conventions completely. -->
+- [x] D) An emoji with no words.
+  <!-- feedback: This option fails because sending only an emoji with no words provides no greeting, request or polite structure needed for a formal written message. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
----
-## Question 14 [D8]
+Register control is part of integrated writing, you read who will receive the message and then select formal openers, polite modals and full forms accordingly.
+
+## Question 14 [D7]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You read two river cleanup reports and judge which student summary integrates both texts well.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Report 1: Forty volunteers joined. Report 2: Three tons were collected. Which summary best integrates both reports?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) Forty volunteers joined and three tons were collected.
+  <!-- feedback: Correct! Praising the summary that names forty volunteers and three tons collected rewards coverage of both reports with exact numbers and no invented facts. -->
+- [ ] B) Forty volunteers joined the river event.
+  <!-- feedback: This option fails because praising the summary that mentions only volunteers rewards partial coverage and ignores the three tons fact from the second report. -->
+- [x] C) Three tons were collected somewhere somehow.
+  <!-- feedback: This option fails because praising the summary that mentions only three tons rewards the opposite partial coverage and drops the forty volunteers fact. -->
+- [ ] D) A concert and fireworks closed the river event.
+  <!-- feedback: This option fails because praising the summary that adds a concert and fireworks rewards invented details that appear in neither of the two reports. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
----
-## Question 15 [D7]
+Judging summaries across two reports demands checking coverage, the winner mentions volunteers from report one and tons collected from report two without invention.
+
+## Question 15 [D8]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Comprension lectora
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You hear a station announcement while reading the departure board to correct a friend.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Announcement: Bilbao train moves to platform four. Board: Bilbao 18:30. Your friend says platform one at six. How do you correct him?
 
 ### Opciones
-- [x] B) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) The Bilbao train now leaves at half past six from platform four.
+  <!-- feedback: Correct! Stating the Bilbao train now leaves at half past six from platform four combines the announced platform change with the board time exactly. -->
+- [x] B) The Bilbao train left yesterday from platform one.
+  <!-- feedback: This option fails because stating the Bilbao train left yesterday from platform one uses a past day and old platform that match neither current source. -->
+- [ ] C) The Bilbao train leaves from the cafe at midnight.
+  <!-- feedback: This option fails because stating the Bilbao train leaves from the cafe at midnight invents a cafe departure and a midnight time from no source. -->
+- [ ] D) All trains are cancelled today.
+  <!-- feedback: This option fails because stating all trains are cancelled today contradicts both the announcement and the board, which both confirm the Bilbao departure. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
----
+Correcting a friend from announcement plus board models real station multitasking, listening gives the platform change and reading confirms the new time.
+
 ## Question 16 [D8]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You read a short story opening and choose the sentence that fixes a false detail for retelling.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Story: Lucia cycles to school every morning. Friend says every night. Which correction retells the fact correctly?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] A) Lucia cycles to school every morning, not every night.
+  <!-- feedback: Correct! Stating Lucia cycles to school every morning, not every night corrects only the wrong time word while keeping actor, verb and place intact. -->
+- [ ] B) Lucia flies to school every night.
+  <!-- feedback: This option fails because stating Lucia flies to school every night keeps the wrong night and replaces cycling with impossible flying. -->
+- [ ] C) Lucia never leaves her house at all.
+  <!-- feedback: This option fails because stating Lucia never leaves her house at all denies the whole true story frame instead of fixing just the time word. -->
+- [ ] D) Night cycles Lucia school morning.
+  <!-- feedback: This option fails because stating night cycles Lucia school morning scrambles word order into ungrammatical fragments despite containing some right words. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
----
-## Question 17 [D9]
+Fixing a false statement while retelling checks careful reading plus accurate grammar, you keep the true frame and swap only the wrong time, place or actor.
+
+## Question 17 [D8]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You listen to a voicemail about a dentist change while viewing a calendar to write back.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Voicemail: Your visit moves to Tuesday at five. Calendar: football training Tuesday at five. What should you write?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [ ] A) Thanks, Tuesday at five is noted, but it clashes with football training.
+  <!-- feedback: Correct! Confirming Tuesday at five and noting the football clash shows you heard the new time, read the calendar clash and wrote both into the reply. -->
+- [ ] B) Thanks, Monday at nine is perfect with no problems.
+  <!-- feedback: This option fails because confirming Monday at nine with no clash keeps an old time and misses the football clash shown on the calendar. -->
+- [x] C) Thanks, Tuesday at five is fine and I will keep both appointments.
+  <!-- feedback: This option fails because confirming Tuesday at five but promising two appointments accepts the new time yet creates a double booking instead of flagging the clash. -->
+- [ ] D) I refuse any dentist visit ever again.
+  <!-- feedback: This option fails because refusing any dentist visit ever ignores the voicemail information and the calendar and ends communication instead of integrating sources. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
----
-## Question 18 [D10]
+Voicemail into calendar into message is triple integration, you extract the new appointment fact by listening, check the clash by reading, then write politely.
+
+## Question 18 [D9]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Comprension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You follow spoken lab rules while reading the written steps to choose the safe action.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+You hear: Always wear gloves. You read: Pour the liquid next. Which action integrates listening and reading safely?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] B) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) Wait for gloves before pouring the liquid.
+  <!-- feedback: Correct! Waiting for gloves before pouring the liquid obeys both the spoken glove warning and the written pour step in the safe combined order. -->
+- [ ] B) Pour the liquid now without gloves.
+  <!-- feedback: This option fails because pouring the liquid now without gloves obeys the pour step but directly disobeys the spoken glove warning about safety. -->
+- [ ] C) Leave the lab shouting about gloves.
+  <!-- feedback: This option fails because leaving the lab shouting about gloves abandons the written task entirely instead of sequencing gloves first and then pouring. -->
+- [x] D) Taste the liquid to check its power.
+  <!-- feedback: This option fails because tasting the liquid to check its power misreads both sources dangerously and proposes an unsafe action no instruction ever allowed. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
----
+Lab safety multitasking proves why integration matters, the spoken warning plus the written step together forbid the tempting shortcut that each source alone might allow.
+
 ## Question 19 [D9]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Expresion escrita
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You compare two drafts of a class blog that should combine interview quotes and survey data.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Interviews give lively quotes. Survey: seventy percent want a garden. Which blog draft best integrates both sources?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] B) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] A) A draft with one student quote plus seventy percent survey support.
+  <!-- feedback: Correct! Choosing the draft with one student quote plus seventy percent survey support rewards true weaving of interview voice and survey number together. -->
+- [ ] B) A draft with three quotes and no numbers.
+  <!-- feedback: This option fails because choosing the draft with three quotes and no numbers rewards voice only and drops the seventy percent survey evidence entirely. -->
+- [ ] C) A draft with only numbers and no voices.
+  <!-- feedback: This option fails because choosing the draft with only numbers and no voices rewards data only and loses the human interview perspective required. -->
+- [ ] D) A draft copied from last year.
+  <!-- feedback: This option fails because choosing the draft copied from last year rewards recycling that uses neither the new quotes nor the new survey data. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
----
+Evaluating integrated drafts means rewarding the text that weaves a human quote together with a precise survey figure while rejecting drafts that use only one source.
+
 ## Question 20 [D10]
 **ID:** ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Sintaxis
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You lead a debate, a vote and a proposal that must merge arguments heard and texts read.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Debate heard pros and cons of late buses. Vote: nine to six for late transport. Which written proposal integrates hearing, voting and writing?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) We propose late buses on Fridays after a nine to six vote for late transport.
+  <!-- feedback: Correct! Proposing late buses on Fridays after a nine to six vote for late transport synthesizes the heard debate, the counted vote and formal written phrasing. -->
+- [x] B) We propose no buses ever for anyone.
+  <!-- feedback: This option fails because proposing no buses ever despite a nine to six vote for late transport ignores the counted majority and the debate outcome. -->
+- [ ] C) We propose magic carpets for all students.
+  <!-- feedback: This option fails because proposing magic carpets for all students abandons both the debate content and the vote count for a fantasy unrelated to sources. -->
+- [ ] D) Results now vote buses late Friday.
+  <!-- feedback: This option fails because shouting results now vote buses late Friday scrambles syntax into notes rather than a formal proposal sentence the council can adopt. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Leading debate into vote into proposal is the highest multitask, you must hold opposing spoken arguments, respect the majority count and phrase the decision in formal written syntax.

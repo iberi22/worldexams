@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Prepositions Movement Direction (W27)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 1 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct preposition: 'They walked ___ the park towards the river.'
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] B) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) through
+  <!-- feedback: Correct! 'Through' describes movement inside a space from one side to the other, which fits crossing the park. -->
+- [ ] B) across
+  <!-- feedback: No. 'Across' describes movement over a surface, which would fit walking on a field but not going through a park. -->
+- [ ] C) between
+  <!-- feedback: No. 'Between' describes a position between two things and does not express movement through a space. -->
+- [ ] D) behind
+  <!-- feedback: No. 'Behind' describes a position further back than something and does not express a crossing movement. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Through' describes movement inside a space from one side to the other, which fits crossing the park. In this item the choice that works is 'through', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 2 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Which sentence correctly uses 'to' for movement towards a place?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [x] B) She walked to the bus stop without stopping.
+  <!-- feedback: Correct! 'To' marks the destination of a movement, and the bus stop is where she is going. -->
+- [ ] A) She walked at the bus stop without stopping.
+  <!-- feedback: No. 'At' marks a static position, not the end point of a movement. -->
+- [ ] C) She walked in the bus stop without stopping.
+  <!-- feedback: No. 'In' describes being inside a place, which does not describe a movement towards something. -->
+- [ ] D) She walked since the bus stop without stopping.
+  <!-- feedback: No. 'Since' marks a starting point in time and has no use with a movement verb. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+'To' marks the destination of a movement, and the bus stop is where she is going. In this item the choice that works is 'She walked to the bus stop without stopping.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 3 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'The plane took off ___ the runway and flew over the coast.'
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] B) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [x] C) from
+  <!-- feedback: Correct! 'From' marks the point where a movement begins, and the runway is the starting point of the flight. -->
+- [ ] A) during
+  <!-- feedback: No. 'During' is a preposition of time and cannot mark the start of a movement. -->
+- [ ] B) into
+  <!-- feedback: No. 'Into' shows movement towards the inside of something, which is not the meaning here. -->
+- [ ] D) beside
+  <!-- feedback: No. 'Beside' describes a position next to something and does not express a starting point. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'From' marks the point where a movement begins, and the runway is the starting point of the flight. In this item the choice that works is 'from', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 4 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which sentence correctly contrasts 'across' and 'through'?
 
 ### Opciones
-- [x] B) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] C) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [x] D) He swam across the river and then walked through the village.
+  <!-- feedback: Correct! 'Across' goes over a surface and 'through' goes inside a space, so each verb takes the right preposition. -->
+- [ ] A) He swam through the river and then walked across the village.
+  <!-- feedback: No. Swimming across water uses 'across', and walking inside a village uses 'through', so this swaps them. -->
+- [ ] B) He swam across the river and then walked across the village.
+  <!-- feedback: No. 'Through the village' would mean walking inside it, not across it. -->
+- [ ] C) He swam through the river and then walked through the village.
+  <!-- feedback: No. 'Through the river' would mean swimming inside the water rather than over it from bank to bank. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Across' goes over a surface and 'through' goes inside a space, so each verb takes the right preposition. In this item the choice that works is 'He swam across the river and then walked through the village.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 5 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence correctly uses 'into' for movement towards the inside?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] C) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) The cat jumped into the box and curled up inside it.
+  <!-- feedback: Correct! 'Into' expresses movement from outside to inside, which is what the verb 'jumped' describes here. -->
+- [ ] B) The cat jumped on to the box and curled up inside it.
+  <!-- feedback: No. 'On to' expresses movement towards a surface from above, which is not what the sentence states. -->
+- [ ] C) The cat jumped in the box and curled up inside it.
+  <!-- feedback: No. 'In' describes a position inside, but it does not by itself express the movement in. -->
+- [ ] D) The cat jumped since the box and curled up inside it.
+  <!-- feedback: No. 'Since' marks a starting point in time and cannot follow a movement verb. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Into' expresses movement from outside to inside, which is what the verb 'jumped' describes here. In this item the choice that works is 'The cat jumped into the box and curled up inside it.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 6 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence with the correct preposition for movement away from a place.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [x] B) The children ran away from the dog in the park.
+  <!-- feedback: Correct! 'Away from' is the fixed expression for movement in the opposite direction from something. -->
+- [ ] A) The children ran away of the dog in the park.
+  <!-- feedback: No. 'Away of' is not a possible combination; 'away' always takes 'from'. -->
+- [ ] C) The children ran away during the dog in the park.
+  <!-- feedback: No. 'During' is a preposition of time and cannot follow 'away'. -->
+- [ ] D) The children ran away opposite the dog in the park.
+  <!-- feedback: No. 'Opposite' describes a facing position, not movement directly away from something. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Away from' is the fixed expression for movement in the opposite direction from something. In this item the choice that works is 'The children ran away from the dog in the park.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 7 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence correctly uses 'towards' or 'toward' for direction?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [x] C) The wind was blowing towards the coast all evening.
+  <!-- feedback: Correct! 'Towards' states the direction in which the wind was moving, which is what the sentence describes. -->
+- [ ] A) The wind was blowing to during the coast all evening.
+  <!-- feedback: No. 'To during' mixes a preposition of place with one of time and cannot be used here. -->
+- [ ] B) The wind was blowing near of the coast all evening.
+  <!-- feedback: No. 'Near of' adds a preposition that does not follow 'near' before a noun. -->
+- [ ] D) The wind was blowing opposite the coast all evening.
+  <!-- feedback: No. 'Opposite' describes a position facing something across a distance, not the direction the wind moves in. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Towards' states the direction in which the wind was moving, which is what the sentence describes. In this item the choice that works is 'The wind was blowing towards the coast all evening.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 8 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'They drove ___ the tunnel and stopped ___ the other side.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [x] D) through, on
+  <!-- feedback: Correct! 'Through' expresses movement inside a passage and 'on' describes a position on the far side of it. -->
+- [ ] A) during, since
+  <!-- feedback: No. 'During' is a preposition of time and 'since' marks a starting point, so neither fits here. -->
+- [ ] B) behind, beside
+  <!-- feedback: No. 'Behind' would mean hidden by the tunnel and 'beside' means next to it, which contradicts the meaning. -->
+- [ ] C) between, from
+  <!-- feedback: No. 'Between' would mean in the middle of it and 'from' marks a starting point, not a position. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Through' expresses movement inside a passage and 'on' describes a position on the far side of it. In this item the choice that works is 'through, on', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 9 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Which sentence correctly uses 'up' and 'down' for vertical movement?
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) They walked up the hill and came down the path.
+  <!-- feedback: Correct! 'Up' and 'down' express vertical direction and take the noun phrase of the slope directly. -->
+- [ ] B) They walked up of the hill and came down the path.
+  <!-- feedback: No. 'Up of' inserts a preposition that does not belong after 'up' in this use. -->
+- [ ] C) They walked up during the hill and came down the path.
+  <!-- feedback: No. 'Up during' mixes a preposition of movement with one of time. -->
+- [ ] D) They walked up beside the hill and came down the path.
+  <!-- feedback: No. 'Up beside' would mean climbing next to the hill rather than on it. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Up' and 'down' express vertical direction and take the noun phrase of the slope directly. In this item the choice that works is 'They walked up the hill and came down the path.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 10 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence correctly uses 'along' for movement following a line?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] B) They walked along the coast road until they reached the lighthouse.
+  <!-- feedback: Correct! 'Along' expresses movement following the line of a road, which is what the sentence describes. -->
+- [ ] A) They walked across of the coast road until they reached the lighthouse.
+  <!-- feedback: No. 'Across of' inserts a preposition that does not follow 'across' before a noun phrase. -->
+- [ ] C) They walked along during the coast road until they reached the lighthouse.
+  <!-- feedback: No. 'Along during' mixes a preposition of movement with one of time. -->
+- [ ] D) They walked along between the coast road until they reached the lighthouse.
+  <!-- feedback: No. 'Along between' would mean travelling between two items, which is not what the sentence states. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'Along' expresses movement following the line of a road, which is what the sentence describes. In this item the choice that works is 'They walked along the coast road until they reached the lighthouse.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 11 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence uses 'off' correctly for leaving a surface?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [x] C) The cat fell off the table and landed on the rug.
+  <!-- feedback: Correct! 'Off' expresses movement away from a surface and downwards, which is what 'fell' describes. -->
+- [ ] A) The cat fell from during the table and landed on the rug.
+  <!-- feedback: No. 'From during' mixes a preposition of place with one of time and cannot be combined. -->
+- [ ] B) The cat fell at the table and landed on the rug.
+  <!-- feedback: No. 'Fell at' would mark a point in space rather than leaving a surface. -->
+- [ ] D) The cat fell behind the table and landed on the rug.
+  <!-- feedback: No. 'Behind' describes a hidden position and does not express leaving a surface downwards. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Off' expresses movement away from a surface and downwards, which is what 'fell' describes. In this item the choice that works is 'The cat fell off the table and landed on the rug.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 12 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence that correctly uses 'back' with a movement verb.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] C) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [x] D) They walked back to the hotel after the tour.
+  <!-- feedback: Correct! 'Back to' expresses a return movement towards the place named, which is the hotel. -->
+- [ ] A) They walked back of the hotel after the tour.
+  <!-- feedback: No. 'Back of' is not a valid combination; the destination is introduced with 'to'. -->
+- [ ] B) They walked back in during the hotel after the tour.
+  <!-- feedback: No. 'Back in during' mixes two different prepositions that cannot govern the same noun phrase. -->
+- [ ] C) They walked back at the hotel after the tour.
+  <!-- feedback: No. 'Back at' would describe being at the hotel again without the idea of a return movement. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Back to' expresses a return movement towards the place named, which is the hotel. In this item the choice that works is 'They walked back to the hotel after the tour.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 13 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Which sentence correctly uses 'past' for movement beyond something?
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) The bus drove past our house without stopping.
+  <!-- feedback: Correct! 'Past' expresses movement continuing beyond a point without stopping there, which fits a bus going by. -->
+- [ ] B) The bus drove past of our house without stopping.
+  <!-- feedback: No. 'Past of' inserts a preposition that does not follow 'past' before a noun. -->
+- [ ] C) The bus drove past during our house without stopping.
+  <!-- feedback: No. 'Past during' mixes a preposition of movement with one of time. -->
+- [ ] D) The bus drove from of our house without stopping.
+  <!-- feedback: No. 'From of' inserts a preposition that does not follow 'from' before a noun. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Past' expresses movement continuing beyond a point without stopping there, which fits a bus going by. In this item the choice that works is 'The bus drove past our house without stopping.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 14 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'The train arrives ___ Ponce station ___ eight o'clock.'
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] B) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] C) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [x] B) at, at
+  <!-- feedback: Correct! 'At' marks the specific station as the place and the exact hour as the time of arrival. -->
+- [ ] A) in, on
+  <!-- feedback: No. 'In' is for towns and longer time periods, and 'on' would need a day or a date. -->
+- [ ] C) to, during
+  <!-- feedback: No. 'To' would show a destination rather than the place of arrival, and 'during' is not used for a clock time. -->
+- [ ] D) since, for
+  <!-- feedback: No. 'Since' marks a starting point in time and 'for' measures duration, neither of which fits an arrival. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'At' marks the specific station as the place and the exact hour as the time of arrival. In this item the choice that works is 'at, at', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 15 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Which sentence correctly uses 'over' for crossing a barrier or a distance?
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [x] C) A ladder was placed over the fence so the children could get down.
+  <!-- feedback: Correct! 'Over' expresses a position spanning across the top of something, which is how a ladder bridges a fence. -->
+- [ ] A) A ladder was placed inside the fence so the children could get down.
+  <!-- feedback: No. 'Inside' would place the ladder within the fence rather than spanning it. -->
+- [ ] B) A ladder was placed between of the fence so the children could get down.
+  <!-- feedback: No. 'Between of' doubles the preposition and breaks the phrase. -->
+- [ ] D) A ladder was placed since the fence so the children could get down.
+  <!-- feedback: No. 'Since' marks a starting point in time and has no spatial use here. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Over' expresses a position spanning across the top of something, which is how a ladder bridges a fence. In this item the choice that works is 'A ladder was placed over the fence so the children could get down.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 16 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence is correct when describing movement between two rows of people?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] D) She walked between the rows of chairs to reach the door.
+  <!-- feedback: Correct! 'Between' is followed directly by the plural noun phrase naming the two rows she passes. -->
+- [ ] A) She walked between of the rows of chairs to reach the door.
+  <!-- feedback: No. 'Between of' inserts a preposition that does not follow 'between' before a noun. -->
+- [ ] B) She walked between the rows of chairs of to reach the door.
+  <!-- feedback: No. 'The rows of chairs of to' breaks the noun phrase and adds a stray preposition at the end. -->
+- [ ] C) She walked during between the rows of chairs to reach the door.
+  <!-- feedback: No. 'During between' mixes a preposition of time with one of movement. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Between' is followed directly by the plural noun phrase naming the two rows she passes. In this item the choice that works is 'She walked between the rows of chairs to reach the door.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 17 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence with the correct preposition for movement towards a person.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) She walked towards him but he did not see her.
+  <!-- feedback: Correct! 'Towards' expresses the direction of a movement towards a person, which is what the sentence states. -->
+- [ ] B) She walked to after him but he did not see her.
+  <!-- feedback: No. 'To after' would mean to a later moment and does not describe a movement towards a person. -->
+- [ ] C) She walked towards of him but he did not see her.
+  <!-- feedback: No. 'Towards of' inserts a preposition that does not follow 'towards' before a pronoun. -->
+- [ ] D) She walked beside during him but he did not see her.
+  <!-- feedback: No. 'Beside during' mixes a preposition of place with one of time and cannot be combined. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Towards' expresses the direction of a movement towards a person, which is what the sentence states. In this item the choice that works is 'She walked towards him but he did not see her.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 18 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly distinguishes movement into a small space from movement into a country?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [x] B) They arrived in Puerto Rico and walked into the town hall.
+  <!-- feedback: Correct! 'In' is used with the name of a country and 'into' with a building entered from outside. -->
+- [ ] A) They arrived at Puerto Rico and walked into the town hall.
+  <!-- feedback: No. 'At' is used for a precise point or a building, not for the name of a country. -->
+- [ ] C) They arrived on Puerto Rico and walked into the town hall.
+  <!-- feedback: No. 'On' is used for islands in some meanings but not for a country entered as a destination here. -->
+- [ ] D) They arrived since Puerto Rico and walked into the town hall.
+  <!-- feedback: No. 'Since' marks a starting point in time and cannot introduce a destination. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'In' is used with the name of a country and 'into' with a building entered from outside. In this item the choice that works is 'They arrived in Puerto Rico and walked into the town hall.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 19 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence correctly uses 'out of'?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [x] C) He took the money out of the drawer and put it on the table.
+  <!-- feedback: Correct! 'Out of' expresses movement from inside a container towards the outside, which is what 'took' describes. -->
+- [ ] A) He took the money out during the drawer and put it on the table.
+  <!-- feedback: No. 'Out during' mixes a preposition of movement with one of time. -->
+- [ ] B) He took the money out from of the drawer and put it on the table.
+  <!-- feedback: No. 'Out from of' doubles the preposition and breaks the phrase. -->
+- [ ] D) He took the money out beside the drawer and put it on the table.
+  <!-- feedback: No. 'Out beside' would mean coming out beside the drawer rather than from inside it. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Out of' expresses movement from inside a container towards the outside, which is what 'took' describes. In this item the choice that works is 'He took the money out of the drawer and put it on the table.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W27 de ingles, grado 11: ejercicio 20 de 20 sobre prepositions of movement and direction.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that correctly uses 'up to' for movement ending at a limit.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] C) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [x] D) They walked up to the door and knocked twice.
+  <!-- feedback: Correct! 'Up to' expresses movement reaching a limit or stopping point, which is what happened at the door. -->
+- [ ] A) They walked up of the door and knocked twice.
+  <!-- feedback: No. 'Up of' inserts a preposition that does not follow 'up' in this use. -->
+- [ ] B) They walked up during the door and knocked twice.
+  <!-- feedback: No. 'Up during' mixes a preposition of movement with one of time. -->
+- [ ] C) They walked up from of the door and knocked twice.
+  <!-- feedback: No. 'Up from of' doubles the preposition and breaks the phrase. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Up to' expresses movement reaching a limit or stopping point, which is what happened at the door. In this item the choice that works is 'They walked up to the door and knocked twice.', because it is the option that matches what the sentence and the task require.

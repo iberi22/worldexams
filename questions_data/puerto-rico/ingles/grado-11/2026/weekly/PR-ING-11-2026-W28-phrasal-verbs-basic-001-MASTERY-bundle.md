@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Phrasal Verbs Basic (W28)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 1 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the sentence with the correct phrasal verb meaning 'to arrive'.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) The bus got to the terminal at six.
+  <!-- feedback: Correct! 'Get to' is a phrasal verb meaning to arrive at a place, which fits the sentence. -->
+- [ ] B) The bus got of the terminal at six.
+  <!-- feedback: No. 'Get of' is not a phrasal verb; 'get to' requires the particle 'to'. -->
+- [ ] C) The bus got during the terminal at six.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a verb particle. -->
+- [ ] D) The bus got beside the terminal at six.
+  <!-- feedback: No. 'Beside' is a preposition of place and does not combine with 'get' to mean arrive. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Get to' is a phrasal verb meaning to arrive at a place, which fits the sentence. In this item the choice that works is 'The bus got to the terminal at six.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] B) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] D) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] B) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] C) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 2 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Which sentence correctly uses the phrasal verb 'put off'?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] B) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] C) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [x] B) The committee put off the meeting until next week.
+  <!-- feedback: Correct! 'Put off' means to postpone something, which matches what happened to the meeting. -->
+- [ ] A) The committee put the meeting off of next week.
+  <!-- feedback: No. 'Put the meeting off of' mixes the phrasal verb with a preposition it does not use. -->
+- [ ] C) The committee put during the meeting until next week.
+  <!-- feedback: No. 'During' is a preposition of time and cannot be the particle of the verb. -->
+- [ ] D) The committee put at the meeting until next week.
+  <!-- feedback: No. 'Put at' is not a phrasal verb meaning to postpone anything. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+'Put off' means to postpone something, which matches what happened to the meeting. In this item the choice that works is 'The committee put off the meeting until next week.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 3 [D5]
+**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v3
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 3 de 20 sobre basic phrasal verbs.
+
+### Enunciado
+Complete the sentence: 'Please turn ___ the lights when you leave the room.'
+
+### Opciones
+- [x] C) off
+  <!-- feedback: Correct! 'Turn off' is the phrasal verb meaning to switch off a light or a machine. -->
+- [ ] A) of
+  <!-- feedback: No. 'Turn of' would need an 'f' at the end; the particle is 'off', not 'of'. -->
+- [ ] B) in
+  <!-- feedback: No. 'In' is a preposition of place and does not combine with 'turn' to mean switch off. -->
+- [ ] D) since
+  <!-- feedback: No. 'Since' marks a starting point in time and has no use with 'turn'. -->
+
+### Explicacion Pedagogica
+'Turn off' is the phrasal verb meaning to switch off a light or a machine. In this item the choice that works is 'off', because it is the option that matches what the sentence and the task require.
+---
+## Question 4 [D3]
+**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 4 de 20 sobre basic phrasal verbs.
+
+### Enunciado
+Which sentence correctly uses 'look after'?
+
+### Opciones
+- [x] D) Every morning she looks after her younger brother.
+  <!-- feedback: Correct! 'Look after' means to take care of someone, which is what she does for her brother. -->
+- [ ] A) Every morning she looks after of her younger brother.
+  <!-- feedback: No. 'Look after of' adds a preposition that the phrasal verb does not take. -->
+- [ ] B) Every morning she looks during her younger brother.
+  <!-- feedback: No. 'Look during' mixes a verb with a preposition of time and cannot express caring for someone. -->
+- [ ] C) Every morning she looks at her younger brother of the care.
+  <!-- feedback: No. 'Look at' only means to direct the eyes, and the extra phrase at the end breaks the structure. -->
+
+### Explicacion Pedagogica
+'Look after' means to take care of someone, which is what she does for her brother. In this item the choice that works is 'Every morning she looks after her younger brother.', because it is the option that matches what the sentence and the task require.
+---
+## Question 5 [D4]
+**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v5
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 5 de 20 sobre basic phrasal verbs.
+
+### Enunciado
+Choose the sentence with the correct phrasal verb meaning 'to discover'.
+
+### Opciones
+- [x] A) She found out the truth a week later.
+  <!-- feedback: Correct! 'Find out' means to discover or to get information about something. -->
+- [ ] B) She found of the truth a week later.
+  <!-- feedback: No. 'Found of' is not a phrasal verb; the particle must be 'out'. -->
+- [ ] C) She found during the truth a week later.
+  <!-- feedback: No. 'During' is a preposition of time and does not combine with 'find' to mean discover. -->
+- [ ] D) She found beside the truth a week later.
+  <!-- feedback: No. 'Beside' is a preposition of place and does not work as a verb particle here. -->
+
+### Explicacion Pedagogica
+'Find out' means to discover or to get information about something. In this item the choice that works is 'She found out the truth a week later.', because it is the option that matches what the sentence and the task require.
+---
+## Question 6 [D5]
+**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 6 de 20 sobre basic phrasal verbs.
+
+### Enunciado
+Which sentence correctly uses 'give up'?
+
+### Opciones
+- [x] B) He gave up smoking two years ago.
+  <!-- feedback: Correct! 'Give up' means to stop doing something, which is what happened with the habit of smoking. -->
+- [ ] A) He gave of smoking two years ago.
+  <!-- feedback: No. 'Give of' is not a phrasal verb; the particle is 'up', not 'of'. -->
+- [ ] C) He gave during smoking two years ago.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a particle after 'give'. -->
+- [ ] D) He gave from of smoking two years ago.
+  <!-- feedback: No. 'Give from of' inserts a preposition that the phrasal verb does not take. -->
+
+### Explicacion Pedagogica
+'Give up' means to stop doing something, which is what happened with the habit of smoking. In this item the choice that works is 'He gave up smoking two years ago.', because it is the option that matches what the sentence and the task require.
+---
+## Question 7 [D3]
+**ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v7
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 7 de 20 sobre basic phrasal verbs.
+
+### Enunciado
+Complete the sentence: 'The plane took ___ on time and the passengers waited only an hour.'
+
+### Opciones
+- [x] C) off
+  <!-- feedback: Correct! 'Take off' is the phrasal verb meaning to leave the ground, which fits a plane leaving on time. -->
+- [ ] A) of
+  <!-- feedback: No. 'Take of' would need an 'f' at the end; the particle is 'off'. -->
+- [ ] B) out
+  <!-- feedback: No. 'Take out' means to remove something, not to leave the ground. -->
+- [ ] D) for
+  <!-- feedback: No. 'Take for' is not a phrasal verb meaning to leave the ground. -->
+
+### Explicacion Pedagogica
+'Take off' is the phrasal verb meaning to leave the ground, which fits a plane leaving on time. In this item the choice that works is 'off', because it is the option that matches what the sentence and the task require.
+---
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 8 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence correctly uses 'run out of'?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [x] D) We ran out of milk before the guests arrived.
+  <!-- feedback: Correct! 'Run out of' means to have no more of something left, which is the situation described. -->
+- [ ] A) We ran out from milk before the guests arrived.
+  <!-- feedback: No. 'Run out from' is not the phrasal verb; the fixed form is 'run out of'. -->
+- [ ] B) We ran out during milk before the guests arrived.
+  <!-- feedback: No. 'During' is a preposition of time and cannot be the particle or complement here. -->
+- [ ] C) We ran out at milk before the guests arrived.
+  <!-- feedback: No. 'Run out at' does not mean to exhaust a supply; the correct complement is 'of'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Run out of' means to have no more of something left, which is the situation described. In this item the choice that works is 'We ran out of milk before the guests arrived.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 9 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence with the correct phrasal verb meaning 'to continue'.
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] B) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] C) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) She carried on working until the office closed.
+  <!-- feedback: Correct! 'Carry on' means to continue doing something, which matches the sentence. -->
+- [ ] B) She carried of working until the office closed.
+  <!-- feedback: No. 'Carried of' is not a phrasal verb; the particle is 'on'. -->
+- [ ] C) She carried during working until the office closed.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a verb particle. -->
+- [ ] D) She carried beside working until the office closed.
+  <!-- feedback: No. 'Beside' is a preposition of place and does not express continuation. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+'Carry on' means to continue doing something, which matches the sentence. In this item the choice that works is 'She carried on working until the office closed.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 10 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which sentence correctly uses 'look for'?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] B) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] C) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [x] B) I have been looking for my keys since this morning.
+  <!-- feedback: Correct! 'Look for' means to search for something, which is what she has been doing with the keys. -->
+- [ ] A) I have been looking since my keys since this morning.
+  <!-- feedback: No. 'Looking since my keys' removes the verb particle and breaks the phrasal verb entirely. -->
+- [ ] C) I have been looking for of my keys since this morning.
+  <!-- feedback: No. 'Look for of' adds a preposition that the phrasal verb does not take before a noun phrase. -->
+- [ ] D) I have been looking at of my keys since this morning.
+  <!-- feedback: No. 'Look at' only means to direct the eyes at something and does not mean to search for it. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'Look for' means to search for something, which is what she has been doing with the keys. In this item the choice that works is 'I have been looking for my keys since this morning.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 11 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'They worked ___ the problem until they found the answer.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] C) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [x] C) on
+  <!-- feedback: Correct! 'Work on' means to work at something in order to solve or finish it, which fits the sentence. -->
+- [ ] A) of
+  <!-- feedback: No. 'Worked of' is not the phrasal verb; the particle is 'on'. -->
+- [ ] B) in
+  <!-- feedback: No. 'Work in' would need a place or a date, not a task to be solved. -->
+- [ ] D) during
+  <!-- feedback: No. 'Worked during' mixes a verb with a preposition of time and does not express working at a problem. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+'Work on' means to work at something in order to solve or finish it, which fits the sentence. In this item the choice that works is 'on', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 12 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence correctly uses the phrasal verb 'pick up'?
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] C) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [x] D) He picked up the parcel from the front desk.
+  <!-- feedback: Correct! 'Pick up' means to lift or collect something, which is what he did with the parcel. -->
+- [ ] A) He picked during the parcel from the front desk.
+  <!-- feedback: No. 'During' is a preposition of time and cannot be the particle of the verb. -->
+- [ ] B) He picked at of the parcel from the front desk.
+  <!-- feedback: No. 'Picked at of' breaks the fixed two word verb with an extra preposition. -->
+- [ ] C) He picked since the parcel from the front desk.
+  <!-- feedback: No. 'Picked since' mixes a verb with a preposition of time and does not mean to collect something. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Pick up' means to lift or collect something, which is what he did with the parcel. In this item the choice that works is 'He picked up the parcel from the front desk.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 13 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence with the correct phrasal verb meaning 'to arrive'.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) They got on the plane after the last passengers boarded.
+  <!-- feedback: Correct! 'Get on' is the phrasal verb used for boarding a vehicle such as a plane. -->
+- [ ] B) They got of the plane after the last passengers boarded.
+  <!-- feedback: No. 'Got of' is not the phrasal verb; boarding requires the particle 'on'. -->
+- [ ] C) They got during the plane after the last passengers boarded.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a verb particle. -->
+- [ ] D) They got since the plane after the last passengers boarded.
+  <!-- feedback: No. 'Got since' mixes a verb with a preposition of time and does not express boarding. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Get on' is the phrasal verb used for boarding a vehicle such as a plane. In this item the choice that works is 'They got on the plane after the last passengers boarded.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 14 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence correctly uses 'listen to'?
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [x] B) Please listen to me for a moment.
+  <!-- feedback: Correct! 'Listen to' requires the particle 'to' before the person or thing being heard. -->
+- [ ] A) Please listen me for a moment.
+  <!-- feedback: No. 'Listen me' drops the particle, and the verb needs 'to' before its object. -->
+- [ ] C) Please listen at me for a moment.
+  <!-- feedback: No. 'Listen at' is not a phrasal verb; the correct particle is 'to'. -->
+- [ ] D) Please listen during me for a moment.
+  <!-- feedback: No. 'During' is a preposition of time and cannot be the particle of this verb. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Listen to' requires the particle 'to' before the person or thing being heard. In this item the choice that works is 'Please listen to me for a moment.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 15 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: 'They are looking forward ___ the school trip in May.'
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [x] C) to
+  <!-- feedback: Correct! 'Look forward to' is the phrasal verb meaning to await something with pleasure, and 'to' is part of it. -->
+- [ ] A) of
+  <!-- feedback: No. 'Looking forward of' replaces the particle 'to' with a preposition that the verb does not use. -->
+- [ ] B) at
+  <!-- feedback: No. 'Looking forward at' would describe the direction of the eyes, not anticipation of an event. -->
+- [ ] D) since
+  <!-- feedback: No. 'Since' marks a starting point in time and has no use as a verb particle. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Look forward to' is the phrasal verb meaning to await something with pleasure, and 'to' is part of it. In this item the choice that works is 'to', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 16 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence correctly uses the phrasal verb 'break down'?
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [x] D) The lift broke down and we had to take the stairs.
+  <!-- feedback: Correct! 'Break down' means to stop working because of a fault, which is what happened to the lift. -->
+- [ ] A) The lift broke during and we had to take the stairs.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as the particle of the verb. -->
+- [ ] B) The lift broke of and we had to take the stairs.
+  <!-- feedback: No. 'Broke of' is not the phrasal verb; the particle is 'down'. -->
+- [ ] C) The lift broke beside and we had to take the stairs.
+  <!-- feedback: No. 'Broke beside' would place the lift next to something rather than describing a mechanical failure. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+'Break down' means to stop working because of a fault, which is what happened to the lift. In this item the choice that works is 'The lift broke down and we had to take the stairs.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 17 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence that correctly uses 'pay for'.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) We paid for the tickets before we left the house.
+  <!-- feedback: Correct! 'Pay for' is the phrasal verb meaning to give money for something, which is what happened with the tickets. -->
+- [ ] B) We paid the tickets before we left the house.
+  <!-- feedback: No. 'Paid the tickets' drops the particle, and this verb normally needs 'for' before its object. -->
+- [ ] C) We paid during the tickets before we left the house.
+  <!-- feedback: No. 'During' is a preposition of time and does not combine with 'pay' in this sense. -->
+- [ ] D) We paid beside the tickets before we left the house.
+  <!-- feedback: No. 'Paid beside' would place the payment next to the tickets rather than paying for them. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Pay for' is the phrasal verb meaning to give money for something, which is what happened with the tickets. In this item the choice that works is 'We paid for the tickets before we left the house.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 18 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly uses 'turn down'?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [x] B) She turned down the invitation because she had to study.
+  <!-- feedback: Correct! 'Turn down' means to refuse or to reject something, which is what she did with the invitation. -->
+- [ ] A) She turned of the invitation because she had to study.
+  <!-- feedback: No. 'Turned of' is not the phrasal verb; the particle is 'down'. -->
+- [ ] C) She turned during the invitation because she had to study.
+  <!-- feedback: No. 'During' is a preposition of time and cannot function as a verb particle. -->
+- [ ] D) She turned since the invitation because she had to study.
+  <!-- feedback: No. 'Turned since' mixes a verb with a preposition of time and does not express refusal. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Turn down' means to refuse or to reject something, which is what she did with the invitation. In this item the choice that works is 'She turned down the invitation because she had to study.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 19 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: 'The teacher told us to hand ___ our work at the end of the class.'
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [x] C) in
+  <!-- feedback: Correct! 'Hand in' is the phrasal verb meaning to submit work to a teacher. -->
+- [ ] A) of
+  <!-- feedback: No. 'Hand of' is not the phrasal verb; the particle is 'in'. -->
+- [ ] B) at
+  <!-- feedback: No. 'Hand at' would describe throwing something at a person, not submitting work. -->
+- [ ] D) since
+  <!-- feedback: No. 'Since' marks a starting point in time and cannot be the particle of this verb. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+'Hand in' is the phrasal verb meaning to submit work to a teacher. In this item the choice that works is 'in', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W28 de ingles, grado 11: ejercicio 20 de 20 sobre basic phrasal verbs.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is correct when the phrasal verb means to separate from a group?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [x] D) He fell out with his best friend last year.
+  <!-- feedback: Correct! 'Fall out with' means to have a quarrel and become separated from someone. -->
+- [ ] A) He fell of with his best friend last year.
+  <!-- feedback: No. 'Fell of' is not the phrasal verb; the particle is 'out'. -->
+- [ ] B) He fell since his best friend last year.
+  <!-- feedback: No. 'Fell since' mixes a verb with a preposition of time and does not express a quarrel. -->
+- [ ] C) He fell during with his best friend last year.
+  <!-- feedback: No. 'During with' is not an English combination and does not express falling out with someone. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+'Fall out with' means to have a quarrel and become separated from someone. In this item the choice that works is 'He fell out with his best friend last year.', because it is the option that matches what the sentence and the task require.

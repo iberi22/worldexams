@@ -20,463 +20,462 @@ bundle_index: 1
 # MASTERY Bundle - Ingles: Reading Comprehension Main Idea (W37)
 **20 preguntas | Ingles | Curriculo de Ingles**
 
----
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 1 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Read the text: 'The coastal town of Punta Verde depends on its fishing harbour. Most families have worked with boats for three generations. However, overfishing has reduced the catch so much that the town council now limits the number of boats allowed to leave the harbour each morning.' What is the MAIN idea of the text?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) Fishing is central to Punta Verde, but the town must now control it because the sea is giving less than before.
+  <!-- feedback: Correct! The text contrasts how important fishing has been with the new limits that overfishing has forced, and that is what the whole passage is about. -->
+- [ ] B) The harbour of Punta Verde is the busiest one in the region.
+  <!-- feedback: No. The text never compares this harbour with any other harbour, so calling it the busiest in the region is not stated. -->
+- [ ] C) Boats should not be allowed to leave the harbour at all.
+  <!-- feedback: No. The council limits how many boats may leave, which is a restriction but not a total ban, so this option overstates the text. -->
+- [ ] D) Three generations of families have disagreed about fishing methods.
+  <!-- feedback: No. The text says families have worked with boats for three generations and reports no disagreement at all, so this claim invents a conflict. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The text contrasts how important fishing has been with the new limits that overfishing has forced, and that is what the whole passage is about. In this item the choice that works is 'Fishing is central to Punta Verde, but the town must now control it because the sea is giving less than before.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 2 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 2 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Read the text: 'Volunteers at the beach collect plastic every Saturday morning. In six months they have removed more than two thousand bags, and the sea turtles that nest on the eastern shore now use the beach again.' What is the MAIN idea?
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [x] B) A group of volunteers cleans the beach and the results are visible in the return of the turtles.
+  <!-- feedback: Correct! The text describes an action by volunteers and its measured result, and both halves belong to the main idea. -->
+- [ ] A) Sea turtles are endangered animals all over the world.
+  <!-- feedback: No. The turtles appear as evidence of the cleaning work; their status worldwide is never discussed. -->
+- [ ] C) Plastic bags should be banned in every country by law.
+  <!-- feedback: No. The text proposes no legal change and never mentions a ban in any country. -->
+- [ ] D) The beach on the eastern shore is the most beautiful one nearby.
+  <!-- feedback: No. The eastern shore is named as the nesting site, but no comparison of beaches appears anywhere in the passage. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The text describes an action by volunteers and its measured result, and both halves belong to the main idea. In this item the choice that works is 'A group of volunteers cleans the beach and the results are visible in the return of the turtles.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 3 [D3]
+## Question 3 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 3 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Read the text: 'When the small bakery on Calle Sol closed, its owner gave the recipe for sourdough bread to fourteen neighbours for free. Two years later, eleven of them run their own bakeries.' What is the MAIN idea of the passage?
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [x] C) Sharing a recipe freely allowed a group of neighbours to start their own businesses.
+  <!-- feedback: Correct! The text links one act of generosity to a concrete outcome for the neighbours, which is the whole point of the passage. -->
+- [ ] A) The bakery on Calle Sol failed because of its sourdough bread.
+  <!-- feedback: No. The bakery closed, but the text never blames the sourdough; the link it draws is between the free recipe and the new bakeries. -->
+- [ ] B) Sourdough bread is the most profitable product in the town.
+  <!-- feedback: No. No profit figures or comparisons of sales appear anywhere in the passage. -->
+- [ ] D) Neighbours should never give away recipes for free.
+  <!-- feedback: No. The text shows that giving the recipe away worked well, so it gives no advice against sharing. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The text links one act of generosity to a concrete outcome for the neighbours, which is the whole point of the passage. In this item the choice that works is 'Sharing a recipe freely allowed a group of neighbours to start their own businesses.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 4 [D4]
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 4 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Read the text: 'Students at the mountain school walk two hours to reach the nearest library. Last year they asked the town for a mobile library service, and now a van stops at the school every Friday.' What is the MAIN idea?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [x] D) Students asked for better access to books and the request was answered with a mobile library.
+  <!-- feedback: Correct! The passage follows a problem, a request and its result, and the result is what makes the story worth telling. -->
+- [ ] A) The mountain school is too far from any town for buses to help.
+  <!-- feedback: No. Buses are never discussed; the obstacle described is the distance students have to walk to reach a library. -->
+- [ ] B) Walking two hours is the best exercise for growing students.
+  <!-- feedback: No. The text reports what students did while waiting and never praises the walk as exercise. -->
+- [ ] C) Mobile libraries are cheaper than building new public libraries.
+  <!-- feedback: No. There is no cost comparison between mobile libraries and public buildings anywhere in the passage. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The passage follows a problem, a request and its result, and the result is what makes the story worth telling. In this item the choice that works is 'Students asked for better access to books and the request was answered with a mobile library.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 5 [D5]
+## Question 5 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 5 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Read the text: 'Coffee grown in the mountains of the interior is often roasted within a day of being picked. Roasting near the farm keeps more of the aroma and gives farmers a higher price for the same beans.' What is the MAIN idea?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) Roasting coffee close to where it grows improves its quality and its price.
+  <!-- feedback: Correct! Both benefits mentioned in the text follow from one practice, roasting near the farm, and that is the central point. -->
+- [ ] B) Coffee is grown only in the mountains of the interior.
+  <!-- feedback: No. The mountains are named as one growing area, but the text never says they are the only place coffee is grown. -->
+- [ ] C) Farmers in the interior do not know how to roast coffee.
+  <!-- feedback: No. The passage links roasting near the farm to a better aroma and price; it never says farmers cannot roast coffee. -->
+- [ ] D) Aroma is more important than price for coffee buyers.
+  <!-- feedback: No. The text lists aroma and price as two separate gains and expresses no preference between them. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Both benefits mentioned in the text follow from one practice, roasting near the farm, and that is the central point. In this item the choice that works is 'Roasting coffee close to where it grows improves its quality and its price.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 6 [D6]
+## Question 6 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 6 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Read the text: 'In the middle of the city, a narrow street used to be covered in graffiti every week. Residents formed a cleaning group and repainted it with murals of local history. Five years later the street has not been tagged once.' What is the MAIN idea?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] B) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [x] B) Giving the street a local identity through murals stopped the graffiti for good.
+  <!-- feedback: Correct! The passage connects one community action to a lasting change, and the murals are what made the difference. -->
+- [ ] A) Graffiti is a serious problem in large cities everywhere.
+  <!-- feedback: No. The graffiti problem is described only in this one street; the text draws no conclusion about cities in general. -->
+- [ ] C) The murals were painted by professional artists from abroad.
+  <!-- feedback: No. No painters or artists are mentioned at all, so their origin or profession cannot be described. -->
+- [ ] D) The residents argued about who should pay for the repainting.
+  <!-- feedback: No. The text reports the group repainting the street with no mention of any disagreement over payment. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The passage connects one community action to a lasting change, and the murals are what made the difference. In this item the choice that works is 'Giving the street a local identity through murals stopped the graffiti for good.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 7 [D5]
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 7 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read the text: 'Reading aloud for ten minutes a day helps children speak more clearly and lowers their anxiety when they perform in public. The schools that introduced this short routine report better results than those that did not.' What is the MAIN idea?
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] C) A short daily reading routine improves both clarity of speech and confidence in performance.
+  <!-- feedback: Correct! The text links a small daily habit to two separate benefits, which together make up the central claim. -->
+- [ ] A) Children should never be asked to perform in public.
+  <!-- feedback: No. The text only says performing in public becomes less frightening; it never tells schools to forbid performances. -->
+- [ ] B) Ten minutes is the ideal length for every school activity.
+  <!-- feedback: No. Ten minutes is the length of the reading routine itself; the passage never calls it ideal for other activities. -->
+- [ ] D) Schools that ignored the routine had worse results in every subject.
+  <!-- feedback: No. Schools that did not introduce the routine are compared on results in general, not on every school subject. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The text links a small daily habit to two separate benefits, which together make up the central claim. In this item the choice that works is 'A short daily reading routine improves both clarity of speech and confidence in performance.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 8 [D6]
+## Question 8 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v8
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 8 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Read the text: 'The old cinema in the town square was empty for nine years. A group of young residents offered to run it as a community hall, and this month the first film nights were held there with the original seats restored.' What is the MAIN idea?
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [x] D) Young residents brought the old cinema back to life as a place the community uses.
+  <!-- feedback: Correct! The passage describes a long abandonment, the rescue of the building and the return of people to it, which is one complete idea. -->
+- [ ] A) Cinema buildings are not worth saving in small towns.
+  <!-- feedback: No. The text shows the cinema being reused successfully, so it never argues that such buildings are worthless. -->
+- [ ] B) The town square needs more parking spaces for visitors.
+  <!-- feedback: No. The square is named only as the location of the cinema; parking is never mentioned. -->
+- [ ] C) The original seats of the cinema were of very poor quality.
+  <!-- feedback: No. The seats are said to have been restored, which says nothing about their original quality. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The passage describes a long abandonment, the rescue of the building and the return of people to it, which is one complete idea. In this item the choice that works is 'Young residents brought the old cinema back to life as a place the community uses.', because it is the option that matches what the sentence and the task require.
 ---
 ## Question 9 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 9 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Read the text: 'Many students copy homework from the internet because it is faster than thinking through the answer. Teachers who set tasks that require personal experience report far less copying, since a personal story cannot simply be downloaded.' What is the MAIN idea?
 
 ### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [x] A) Tasks based on personal experience reduce copying because they cannot be found ready made online.
+  <!-- feedback: Correct! The text sets up a cause and then gives the reason one type of task avoids the cause, and that is the whole argument. -->
+- [ ] B) The internet is a bad influence on students everywhere.
+  <!-- feedback: No. The text does not condemn the internet; it points at the kind of task that invites copying. -->
+- [ ] C) Thinking through answers is always slower than searching for them.
+  <!-- feedback: No. How long thinking takes compared with searching is never mentioned in the passage. -->
+- [ ] D) Homework should be banned from all subjects in school.
+  <!-- feedback: No. No recommendation to stop setting homework appears anywhere in the text. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+The text sets up a cause and then gives the reason one type of task avoids the cause, and that is the whole argument. In this item the choice that works is 'Tasks based on personal experience reduce copying because they cannot be found ready made online.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 10 [D6]
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 10 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Read the text: 'Rainwater that falls on the school roof used to run into the street. A new system stores it in two tanks and uses it for the garden and for cleaning, which has cut the water bill every month since it was installed.' What is the MAIN idea?
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] B) Collecting rainwater on the school roof has reduced the school's water costs.
+  <!-- feedback: Correct! The text follows one change in the water system and the measurable saving it produced, which is the central point. -->
+- [ ] A) Rain is more common in Puerto Rico than in other islands.
+  <!-- feedback: No. The passage never compares rainfall in Puerto Rico with that of other islands. -->
+- [ ] C) The school needs a new roof before the next rainy season.
+  <!-- feedback: No. Nothing suggests the roof is damaged or needs replacing; the change concerns the water system below it. -->
+- [ ] D) Two tanks are not enough to store water for a whole school.
+  <!-- feedback: No. The text states that the two tanks have been enough to cut the bill every month, so this claim contradicts it. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The text follows one change in the water system and the measurable saving it produced, which is the central point. In this item the choice that works is 'Collecting rainwater on the school roof has reduced the school's water costs.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 11 [D7]
+## Question 11 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v11
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 11 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Read the text: 'Noticing that few people knew the names of the trees in the main park, a botanist made small wooden signs for thirty of them. Now the signs have gone missing three times, and each time residents replaced them within a week.' What is the MAIN idea?
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [x] C) The park signs were removed but the community kept putting them back.
+  <!-- feedback: Correct! The passage contrasts the removal of the signs with the community response, and the persistence of the residents is the point. -->
+- [ ] A) Botanists should never work in public parks.
+  <!-- feedback: No. The botanist's work in a park is never questioned or criticised in the passage. -->
+- [ ] B) The main park has more than thirty trees.
+  <!-- feedback: No. Thirty trees received signs, but the text never states how many trees the park contains. -->
+- [ ] D) Wooden signs last longer than metal signs in parks.
+  <!-- feedback: No. Replacing the signs within a week shows the opposite of not caring about the trees. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+The passage contrasts the removal of the signs with the community response, and the persistence of the residents is the point. In this item the choice that works is 'The park signs were removed but the community kept putting them back.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 12 [D8]
+## Question 12 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 12 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Read the text: 'The hospital noticed that patients who arrived alone waited longer than those who came with someone. Staff began to phone each person the evening before admission to remind them of the time and what to bring, and the difference in waiting time disappeared within months.' What is the MAIN idea?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [x] D) A simple phone call before admission removed the difference in waiting time between patients.
+  <!-- feedback: Correct! The text presents one observation and one action, and reports that the action worked, which is the whole argument. -->
+- [ ] A) Patients who live alone should not be allowed to have visitors.
+  <!-- feedback: No. The text says nothing about restricting visitors for patients who live alone. -->
+- [ ] B) Long waits in hospitals are caused only by staff shortages.
+  <!-- feedback: No. Staff numbers are never mentioned as a cause of the longer waits. -->
+- [ ] C) Hospitals in this region receive more patients in winter than in summer.
+  <!-- feedback: No. The passage never compares the number of patients in winter with the number in summer. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The text presents one observation and one action, and reports that the action worked, which is the whole argument. In this item the choice that works is 'A simple phone call before admission removed the difference in waiting time between patients.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 13 [D7]
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 13 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Read the text: 'Birds in the hills above the town have almost disappeared in ten years. Residents planted native shrubs along the walking paths, and a survey two years later counted three times as many species as before the planting.' What is the MAIN idea?
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) Planting native shrubs brought a measurable recovery to the bird population.
+  <!-- feedback: Correct! The text links one action to a measured recovery, and the count of three times as many species is the evidence for it. -->
+- [ ] B) Native shrubs are easier to care for than other plants.
+  <!-- feedback: No. Nothing in the text compares how easy the native shrubs are to care for with other plants. -->
+- [ ] C) The hills above the town are closed to walkers today.
+  <!-- feedback: No. The text describes walking paths along which people stroll, so the hills are plainly not closed. -->
+- [ ] D) Bird populations never recover once they have fallen.
+  <!-- feedback: No. The survey reports three times as many species after the planting, which directly contradicts this claim. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The text links one action to a measured recovery, and the count of three times as many species is the evidence for it. In this item the choice that works is 'Planting native shrubs brought a measurable recovery to the bird population.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 14 [D8]
+## Question 14 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 14 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Read the text: 'The town library moved its computers to a room where students could book a place in advance. Bookings rose from four a day to more than thirty, and students now arrive knowing exactly when the machine will be free.' What is the MAIN idea?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [x] B) Allowing advance booking turned a rarely used resource into a heavily used one.
+  <!-- feedback: Correct! The passage presents a change in how the room could be used and the sharp rise in use that followed, which is the central point. -->
+- [ ] A) Most students prefer using their phones rather than library computers.
+  <!-- feedback: No. Nothing is mentioned about phones or about which device students prefer. -->
+- [ ] C) The library should buy more computers in the future.
+  <!-- feedback: No. The text reports a rise in use after bookings were allowed, not a need for more machines. -->
+- [ ] D) Students cannot learn to plan their study in advance.
+  <!-- feedback: No. The passage describes the opposite of this claim: students now arrive knowing exactly when a machine will be free. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The passage presents a change in how the room could be used and the sharp rise in use that followed, which is the central point. In this item the choice that works is 'Allowing advance booking turned a rarely used resource into a heavily used one.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 15 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Read the text: 'The kitchen at the community centre served lunch to forty people every Friday. When two volunteers left, the organisers cut the menu instead of the number of guests, and the same Friday lunch has continued for six years.' What is the MAIN idea?
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [x] C) The community lunch survived a loss of volunteers by changing the food rather than the guests.
+  <!-- feedback: Correct! The passage turns on a choice made under pressure and the outcome of that choice, which is the whole idea. -->
+- [ ] A) Community centres should never depend on volunteers for meals.
+  <!-- feedback: No. The text shows the programme continuing successfully, so it does not advise against relying on volunteers. -->
+- [ ] B) Forty people is the maximum a community centre can serve.
+  <!-- feedback: No. No capacity limit is discussed; forty is simply the usual number of guests served. -->
+- [ ] D) The volunteers left because they disliked the menu served.
+  <!-- feedback: No. Nothing in the passage suggests the volunteers disliked the menu they were helping to serve. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The passage turns on a choice made under pressure and the outcome of that choice, which is the whole idea. In this item the choice that works is 'The community lunch survived a loss of volunteers by changing the food rather than the guests.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 16 [D8]
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 16 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Read the text: 'The map of the island in the school entrance had not been updated since the road along the north coast was rebuilt. A class of students corrected it themselves, measuring the new road with a wheel and adding the side streets they had found missing.' What is the MAIN idea?
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] D) Students took responsibility for correcting an outdated map by measuring the real changes on the ground.
+  <!-- feedback: Correct! The text focuses on what the students did to fix the map and how they did it, which is the point of the passage. -->
+- [ ] A) Maps of the island are difficult to keep accurate.
+  <!-- feedback: No. The text shows one map being corrected successfully, so it does not argue that maps are hopeless to keep accurate. -->
+- [ ] B) The north coast road should never have been rebuilt.
+  <!-- feedback: No. The road was rebuilt and the students accepted it; the passage criticises no one for that decision. -->
+- [ ] C) The school entrance is in the wrong place on the map.
+  <!-- feedback: No. The students added the side streets themselves, which shows the opposite of thinking them unimportant. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+The text focuses on what the students did to fix the map and how they did it, which is the point of the passage. In this item the choice that works is 'Students took responsibility for correcting an outdated map by measuring the real changes on the ground.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 17 [D9]
+## Question 17 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 17 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Read the text: 'Plastic bottles were used for every drink sold at the school fair. After the environment club explained how much land bottles take up in a landfill, the fair switched to reusable cups, and the amount of waste dropped sharply.' What is the MAIN idea?
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) Understanding an environmental problem changed how the students organised their school fair.
+  <!-- feedback: Correct! The text links an explanation to a change in behaviour, and that is the whole argument of the passage. -->
+- [ ] B) Reusable cups are cheaper than plastic bottles in every country.
+  <!-- feedback: No. Price is never given as a reason for the change from bottles to reusable cups. -->
+- [ ] C) Landfills in the region are full and cannot take more waste.
+  <!-- feedback: No. Nothing is said about how full landfills are or whether they can take more waste. -->
+- [ ] D) The school should stop organising fairs altogether.
+  <!-- feedback: No. The text reports that the fair went ahead using reusable cups, so it gives no advice against holding it. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The text links an explanation to a change in behaviour, and that is the whole argument of the passage. In this item the choice that works is 'Understanding an environmental problem changed how the students organised their school fair.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 18 [D10]
+## Question 18 [D5]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 18 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Read the text: 'The football team lost its first six games of the season and the coach changed almost nothing about the training. They then won the next four games. She says the only real change was that the players began talking about the mistakes aloud during the breaks.' What is the MAIN idea?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [x] B) Talking openly about mistakes, rather than changing the training, was what the coach believes turned the season around.
+  <!-- feedback: Correct! The passage contrasts what the coach did not change with the one change she credits, and that belief is the central point. -->
+- [ ] A) Six losses in a row are enough to end a team's season.
+  <!-- feedback: No. The text shows the team improving after those losses, not a season ending because of them. -->
+- [ ] C) The coach changed the training routine at the start of the season.
+  <!-- feedback: No. The coach is explicit that she changed almost nothing about the training, so no training change is claimed. -->
+- [ ] D) Players should never discuss their mistakes with the coach.
+  <!-- feedback: No. The text describes players discussing their mistakes aloud, which is the opposite of this option. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+The passage contrasts what the coach did not change with the one change she credits, and that belief is the central point. In this item the choice that works is 'Talking openly about mistakes, rather than changing the training, was what the coach believes turned the season around.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 19 [D9]
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 19 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Read the text: 'Every Sunday the market hall stays open an hour later than usual. Small traders say they sell more because people arrive after work, and the extra hour costs the council very little.' What is the MAIN idea?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [x] C) Extending the market opening time by an hour brings more customers at little cost.
+  <!-- feedback: Correct! The passage weighs a small cost against a clear gain for the traders, and that balance is what the text is about. -->
+- [ ] A) Sunday markets are more important than weekday markets.
+  <!-- feedback: No. The text says nothing about the market hall operating on weekdays at all. -->
+- [ ] B) Small traders cannot afford to stay open later than they do.
+  <!-- feedback: No. Traders are described as selling more thanks to the extra hour, so they are not held back by cost. -->
+- [ ] D) The council should close the market hall on Sundays.
+  <!-- feedback: No. The council pays very little for the change, so nothing in the text argues for closing the hall. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The passage weighs a small cost against a clear gain for the traders, and that balance is what the text is about. In this item the choice that works is 'Extending the market opening time by an hour brings more customers at little cost.', because it is the option that matches what the sentence and the task require.
 ---
-## Question 20 [D10]
+## Question 20 [D4]
 **ID:** PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Reading Comprehension
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Semana W37 de ingles, grado 11: ejercicio 20 de 20 sobre reading comprehension and main idea.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Read the text: 'A short film about the town was made with help from the high school. Residents who had never spoken about their childhood now describe it in the film, and the project is being repeated with other neighbourhoods.' What is the MAIN idea?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [x] D) Making a film gave residents a way to talk about their past, and the method is now being extended.
+  <!-- feedback: Correct! The passage describes a method that worked and is now being copied, and both facts form one connected idea. -->
+- [ ] A) The high school has the best film equipment in the region.
+  <!-- feedback: No. The text says only that the high school helped; no equipment or comparison with other schools appears. -->
+- [ ] B) Most residents of the town had unhappy childhoods.
+  <!-- feedback: No. The passage describes childhoods that were never spoken about, not childhoods that were unhappy. -->
+- [ ] C) Filmmaking is easier than writing local history.
+  <!-- feedback: No. Nothing in the text compares filmmaking with writing local history. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+The passage describes a method that worked and is now being copied, and both facts form one connected idea. In this item the choice that works is 'Making a film gave residents a way to talk about their past, and the method is now being extended.', because it is the option that matches what the sentence and the task require.
