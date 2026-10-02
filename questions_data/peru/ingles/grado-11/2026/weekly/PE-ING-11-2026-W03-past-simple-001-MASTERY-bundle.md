@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student describes last weekend in a short message.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct past simple form of the verb 'to visit' in this sentence: 'Last Saturday I ___ my grandmother.'
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep. -->
-- [ ] C) entertainment
-  <!-- feedback: 'Entertainment' is the fun or activities you enjoy, not the building or room where you stay. -->
-- [ ] D) currency
-  <!-- feedback: 'Currency' is the money of a country, which has nothing to do with where you sleep. -->
+- [x] A) visited
+  <!-- feedback: Correct. A regular verb in the past simple takes the -ed ending, and 'last Saturday' fixes the action in a finished past period. -->
+- [ ] B) was visit
+  <!-- feedback: Wrong. 'Was visit' lacks the past participle required after the auxiliary 'was'. -->
+- [ ] C) visiting
+  <!-- feedback: Wrong. 'Visiting' is a gerund and cannot serve as the finite verb of a clause with 'I'. -->
+- [ ] D) visits
+  <!-- feedback: Wrong. 'Visits' is the third person singular present form, which cannot follow the pronoun 'I' in the past. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Regular verbs add -ed to the base form in the past simple, which is the form to use with a finished time expression such as 'last Saturday'.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A diarist records a journey to the coast.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'We ___ to Cusco last month and it was wonderful.'
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route. -->
-- [ ] A) baggage
-  <!-- feedback: 'Baggage' is the suitcases and bags you travel with, not the written plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan. -->
-- [ ] D) passport
-  <!-- feedback: 'Passport' is the travel document that lets you cross a border, not the schedule of your trip. -->
+- [ ] A) travel
+  <!-- feedback: Wrong. 'Travel' is the base form and cannot be the past simple of a completed journey. -->
+- [x] B) travelled
+  <!-- feedback: Correct. British and Peruvian spelling doubles the final consonant, so the past simple is 'travelled' for a single 'l' base form. -->
+- [ ] C) travelling
+  <!-- feedback: Wrong. 'Travelling' is the gerund form used in continuous structures, not in the past simple. -->
+- [ ] D) travels
+  <!-- feedback: Wrong. 'Travels' is the third person singular present and does not agree with the plural subject 'we'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Spellings that end in a single consonant plus 'l' double that consonant in the past simple and in other British-style inflections.
+
 ---
+
 ## Question 3 [D3-D4]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A museum guide describes what happened in the past.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct past simple form of the irregular verb 'to buy'.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'Departure' is the action of leaving, the opposite end of the journey from the destination. -->
-- [ ] B) arrival
-  <!-- feedback: 'Arrival' is the act of getting there; the place you arrive at is the destination. -->
-- [ ] C) journey
-  <!-- feedback: 'Journey' is the whole trip from start to finish, not the place you are heading to. -->
+- [ ] A) buied
+  <!-- feedback: Wrong. 'Buied' attempts a -ed ending and does not correspond to any standard irregular pattern. -->
+- [ ] B) buyed
+  <!-- feedback: Wrong. 'Buyed' is not an English word; the past simple of 'buy' is irregular and adds no suffix. -->
+- [x] C) bought
+  <!-- feedback: Correct. 'Buy' is irregular, and its past simple is 'bought', which must be memorised as one of the main irregular groups. -->
+- [ ] D) buy
+  <!-- feedback: Wrong. 'Buy' is the base form and would be required only after a modal or an auxiliary. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The past simple has three shapes: -ed for regular verbs, a consonant doubling and a silent -e drop, and a fully irregular set that must be learned.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A witness gives evidence about a shop robbery.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct negative past simple sentence.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself. -->
-- [ ] C) flight
-  <!-- feedback: 'Flight' is the journey by plane, or the plane itself; the bags are called luggage. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking you make for a seat or a room, not the bags you pack. -->
+- [ ] A) He not saw the thief.
+  <!-- feedback: Wrong. 'Not' cannot stand alone before a bare verb in standard English; it must follow an auxiliary. -->
+- [ ] B) He didn't saw the thief.
+  <!-- feedback: Wrong. After 'did' the verb must be the base form; 'saw' after 'did' is a double marking of the past. -->
+- [ ] C) He doesn't see the thief.
+  <!-- feedback: Wrong. 'Doesn't' is present tense negation and would place the witnessing at the present moment. -->
+- [x] D) He didn't see the thief.
+  <!-- feedback: Correct. A negative past simple uses the auxiliary 'did' plus 'not' plus the base form, so the verb stays in its original form. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The key rule is that after 'did' the verb returns to its base form, since 'did' already carries the past tense.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A classmate asks about yesterday's homework.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which past simple question is correctly formed?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case. -->
-- [ ] D) tourist
-  <!-- feedback: 'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents. -->
+- [x] A) Did you finish the report?
+  <!-- feedback: Correct. A yes/no question in the past simple begins with the auxiliary 'did' and is followed by the subject and the base form. -->
+- [ ] B) You did finish the report?
+  <!-- feedback: Wrong. As written this is a statement rather than a question, and the inversion required by a question is missing. -->
+- [ ] C) Did you finished the report?
+  <!-- feedback: Wrong. The past form 'finished' must not follow 'did'; the auxiliary already carries the tense. -->
+- [ ] D) Do you finish the report?
+  <!-- feedback: Wrong. 'Do' is the present auxiliary and cannot be used to ask about a completed past action. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Past simple questions invert the auxiliary 'did' to the front of the sentence and keep the main verb in its base form.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A weather report describes the storm.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: 'The storm ___ the roof of our house last night.' Which past simple is correct for the verb 'to break'?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'Terminal' is the whole building where passengers wait, eat and catch their flights. -->
-- [ ] D) gate
-  <!-- feedback: 'Gate' is the particular door you board through, not the place where officials inspect your luggage. -->
+- [ ] A) breaked
+  <!-- feedback: Wrong. 'Breaked' does not exist in English; the verb 'break' is fully irregular. -->
+- [x] B) broke
+  <!-- feedback: Correct. 'Break' is irregular and its past simple is 'broke', following the internal vowel change pattern. -->
+- [ ] C) broken
+  <!-- feedback: Wrong. 'Broken' is the past participle, which would appear after 'have' or 'been', not as the past simple. -->
+- [ ] D) broked
+  <!-- feedback: Wrong. 'Broked' follows no standard inflection pattern for this verb. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The pattern break, broke, broken shows a change in the stem vowel; the middle form 'broke' is what the past simple requires.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D3-D5]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A friend describes a weekend plan that never happened.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence that reports a past plan which was not carried out.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board. -->
-- [ ] A) visa
-  <!-- feedback: 'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane. -->
-- [ ] B) receipt
-  <!-- feedback: 'Receipt' is the proof of payment for a purchase, not the travel document for boarding. -->
-- [ ] D) brochure
-  <!-- feedback: 'Brochure' is a small booklet of tourist information, not the document that lets you board. -->
+- [ ] A) We were go to visit Ayacucho, but we didn't went.
+  <!-- feedback: Wrong. After 'were' the verb must be the gerund, and the second clause after 'did' must use the base form. -->
+- [ ] B) We are going to visit Ayacucho, but we don't go.
+  <!-- feedback: Wrong. 'Are going to' states a present or future intention, which does not match a plan that belongs to the past. -->
+- [x] C) We were going to visit Ayacucho, but we didn't go.
+  <!-- feedback: Correct. 'Were going to' expresses an intention formed in the past, and the second clause uses the past simple for the outcome that failed. -->
+- [ ] D) We went to visit Ayacucho, but we don't go.
+  <!-- feedback: Wrong. 'Went' states that the visit did happen, which contradicts the report of an unfulfilled plan. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Past intentions that were abandoned or not realised use the pattern 'was or were going to' followed by the base form.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A reporter gives a sequence of events in a news summary.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the sentence that correctly separates an action and a later state.
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' is the activity of visiting the places of interest in a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'Shopping' is buying things in stores, which is not the same as visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions. -->
-- [ ] D) camping
-  <!-- feedback: 'Camping' is staying outdoors in a tent, not visiting the sights of a location. -->
+- [ ] A) The class ended and then it empties.
+  <!-- feedback: Wrong. 'Empties' is present tense; a sequence of completed past events needs the past simple or past continuous. -->
+- [ ] B) The class ends and then it was empty.
+  <!-- feedback: Wrong. 'Ends' is present tense and cannot join two past events in sequence. -->
+- [ ] C) The class ended and then it was emptying.
+  <!-- feedback: Wrong. 'Was emptying' describes an action in progress rather than the resulting state of the room. -->
+- [x] D) The class ended and then it was empty.
+  <!-- feedback: Correct. The class ending is the past simple action and the resulting condition is a state described in the past, which 'was empty' expresses. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+English often marks the second element of a past sequence as a state rather than an action, so a simple adjective normally follows the verb 'was'.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A detective interview reconstructs what someone did.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the sentence that is grammatically correct in the negative past simple.
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited. -->
-- [ ] A) gift
-  <!-- feedback: 'Gift' is something you give to another person; a souvenir is kept by the person who took the trip. -->
-- [ ] B) award
-  <!-- feedback: 'Award' is a prize given for an achievement, not an object bought or kept as a memory. -->
-- [ ] D) prize
-  <!-- feedback: 'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey. -->
+- [x] A) She never went to the library on Sundays.
+  <!-- feedback: Correct. The adverb 'never' already carries the negative meaning, so no extra auxiliary is needed and the past simple follows directly. -->
+- [ ] B) She went never to the library on Sundays.
+  <!-- feedback: Wrong. Placing 'never' after the verb changes the emphasis and is not the standard word order for this negation. -->
+- [ ] C) She never gone to the library on Sundays.
+  <!-- feedback: Wrong. 'Never' cannot be followed directly by a past participle such as 'gone' in simple negative sentences. -->
+- [ ] D) She never goes to the library on Sundays.
+  <!-- feedback: Wrong. 'Never goes' is present tense, which contradicts the reconstructed past described in the interview. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Adverbs of frequency such as never, ever, always and rarely make the auxiliary unnecessary when the tense is already clear from the verb form.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A student explains what she did during a gap year.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the sentence that correctly uses a verb ending in a consonant plus 'y' in the past simple.
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra time by which something ends up late or gets postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: 'Cancellation' means the event does not happen at all, not that it happens later than planned. -->
-- [ ] C) departure
-  <!-- feedback: 'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost. -->
-- [ ] D) arrival
-  <!-- feedback: 'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination. -->
+- [ ] A) She studyed medicine in Lima.
+  <!-- feedback: Wrong. 'Studyed' keeps the -y and adds -ed, which is not how this spelling pattern inflects. -->
+- [x] B) She studied medicine in Lima.
+  <!-- feedback: Correct. When a verb ending in consonant plus 'y' is made past, the -y changes to -i and -ed is added, giving 'studied'. -->
+- [ ] C) She studies medicine in Lima.
+  <!-- feedback: Wrong. 'Studies' is the third person singular present and does not describe a completed course of study. -->
+- [ ] D) She studdied medicine in Lima.
+  <!-- feedback: Wrong. 'Studdied' doubles the final consonant, a rule that applies only after a single vowel. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The orthographic rule is simple: consonant plus y becomes -ied in the past simple, whereas vowel plus y simply adds -ed, as in 'played'.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A travel agent recounts a cancelled booking.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence with the correct past simple: 'The airline ___ our flight to Arequipa because of the storm.'
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'Check-out' is the opposite moment, when you leave the hotel or hand back the room. -->
-- [ ] B) booking
-  <!-- feedback: 'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in. -->
-- [ ] D) reservation
-  <!-- feedback: 'Reservation' is the booking document, not the act of reporting your presence at the desk. -->
+- [ ] A) canceld
+  <!-- feedback: Wrong. 'Canceld' drops the required doubling and produces a non-standard form. -->
+- [ ] B) canceled
+  <!-- feedback: Wrong. 'Cancelled' with one 'l' is a frequent error; doubling is required in this spelling of the word. -->
+- [x] C) cancelled
+  <!-- feedback: Correct. With a single 'l' and the stress on the final syllable, the -ed ending is written with a double 'l' in the standard form. -->
+- [ ] D) cancelling
+  <!-- feedback: Wrong. 'Cancelling' is the gerund, which would require an auxiliary before it. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+British and Peruvian spelling usually doubles the final consonant before -ed, so the past simple is written 'canceled' in American usage.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v12
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A news item reports a transport strike in full.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence that correctly expresses the past simple after the connector 'after'.
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: 'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting. -->
-- [ ] D) transit
-  <!-- feedback: 'Transit' is a system of moving people and goods through a city, not a break between two flights. -->
+- [ ] A) After the strike ended, the trains are starting again.
+  <!-- feedback: Wrong. 'Are starting again' is present continuous, which describes an action still in progress rather than a completed sequence. -->
+- [ ] B) After the strike is ending, the trains started again.
+  <!-- feedback: Wrong. 'Is ending' is present continuous, which cannot precede a past simple main event in a past sequence. -->
+- [ ] C) After the strike ended, the trains start again.
+  <!-- feedback: Wrong. 'Start again' is present tense and cannot continue a sequence that is entirely in the past. -->
+- [x] D) After the strike ended, the trains started again.
+  <!-- feedback: Correct. In a sequence of completed past events joined by 'after', both events take the past simple. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The simple past and the present perfect differ in sequence rules: with the past simple, 'after' can link two completed events in the same time frame.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D4-D6]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A writer contrasts a past habit with a past single event.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that correctly reports a single finished event and distinguishes it from a repeated past pattern.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'Coin' is a single metal piece of money, one item within the currency, not the whole system. -->
-- [ ] C) banknote
-  <!-- feedback: 'Banknote' is a paper bill, one item of the currency rather than the system of money itself. -->
-- [ ] D) cash
-  <!-- feedback: 'Cash' means money in the physical form you hold, not the money system of a country. -->
+- [x] A) We visited the museum twice last year; we usually visited the coast in January.
+  <!-- feedback: Correct. 'Last year' fixes the finished time for the visit and 'usually' marks the repeated January pattern, both in the past simple. -->
+- [ ] B) We have visited the museum twice last year; we usually visit the coast in January.
+  <!-- feedback: Wrong. 'Have visited' is the present perfect, which cannot be followed by 'last year' because that time is finished. -->
+- [ ] C) We visited the museum twice last year; we usually are visiting the coast in January.
+  <!-- feedback: Wrong. 'Usually are visiting' misuses the continuous, since a repeated January habit is expressed in the past simple. -->
+- [ ] D) We visit the museum twice last year; we usually visit the coast in January.
+  <!-- feedback: Wrong. 'We visit' in the simple present cannot be combined with the finished time expression 'last year'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The present perfect cannot be used with finished time expressions such as 'last year', so a single event in that period must use the past simple.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D5-D7]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A friend asks about a decision made last week.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the correct question to ask about a past decision.
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for visitors and tourists. -->
-- [ ] B) map
-  <!-- feedback: 'Map' is a single sheet or screen showing the layout of a place, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'Dictionary' is a book of word definitions of a language, not information about a place for visitors. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place. -->
+- [ ] A) Do you decide to study abroad?
+  <!-- feedback: Wrong. 'Do' asks about a present or general decision, not one taken last week. -->
+- [x] B) Did you decide to study abroad?
+  <!-- feedback: Correct. 'Did' inverts to the front of the question and 'decide' stays in its base form because the auxiliary carries the past tense. -->
+- [ ] C) You did decide to study abroad?
+  <!-- feedback: Wrong. This is a statement, and it lacks the inversion that a yes/no question requires. -->
+- [ ] D) Did you decided to study abroad?
+  <!-- feedback: Wrong. The past form 'decided' must not follow 'did' in a question any more than in a statement. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Questions and negatives with 'did' share one rule: the auxiliary does the work, so the main verb never takes a past ending.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D5-D7]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A colleague talks about a promotion she was offered.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly reports a decision taken at a precise moment in the past.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' is the bag with shoulder straps that you carry on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: 'Suitcase' is a case with a handle that you pull along, not a bag worn on the back. -->
-- [ ] C) briefcase
-  <!-- feedback: 'Briefcase' is a case for documents and a laptop, carried in the hand for work. -->
-- [ ] D) handbag
-  <!-- feedback: 'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps. -->
+- [ ] A) She accepts the offer on Friday afternoon.
+  <!-- feedback: Wrong. 'Accepts' is present tense and cannot be placed with a finished time such as Friday afternoon. -->
+- [ ] B) She was accepting the offer on Friday afternoon.
+  <!-- feedback: Wrong. 'Was accepting' describes an ongoing process rather than a decision that was completed at a stated moment. -->
+- [x] C) She accepted the offer on Friday afternoon.
+  <!-- feedback: Correct. A decision completed at a precise past moment takes the past simple, which is the standard treatment of 'on' plus a day and time. -->
+- [ ] D) She has accepted the offer on Friday afternoon.
+  <!-- feedback: Wrong. 'Has accepted' cannot be used with a finished past time; that combination belongs to the present simple for now. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+A precise past time expression in the first, as in 'on Friday afternoon', signals the past simple rather than the present perfect.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D5-D7]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v16
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exam compares the past simple and the present perfect.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the sentence that correctly uses the past simple because the time period is closed.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'Domestic' means inside your own country, the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'Local' means in the area where you are, even more restricted than domestic; it never crosses a border. -->
-- [ ] D) national
-  <!-- feedback: 'National' refers to a whole country without saying it is foreign, so it does not imply going abroad. -->
+- [ ] A) I am finishing my project last week.
+  <!-- feedback: Wrong. 'Am finishing' is present continuous and has no connection to a closed past period. -->
+- [ ] B) I had finished my project last week.
+  <!-- feedback: Wrong. The past perfect would place the completion before another past event, and there is no earlier past reference in the sentence. -->
+- [ ] C) I finished my project last week.
+  <!-- feedback: Wrong. The present perfect cannot be combined with a closed past time such as 'last week'. -->
+- [x] D) I have finished my project last week.
+  <!-- feedback: Correct. 'Last week' is a closed period, so the completed action must be expressed with the past simple. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A closed time period in the past excludes the present perfect, because that form deliberately leaves the time of the action unspecified.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D5-D7]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A researcher writes about a subject with a zero vowel in the first syllable.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the correct past simple of the verb 'to travel' in the spelling used by the newspaper.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is the estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'Expense' is a single cost already paid; the definition is the estimate for the whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'Cost' is the price of one thing, whereas a budget covers all income and all spending. -->
-- [ ] D) price
-  <!-- feedback: 'Price' is the amount a single item costs, not a plan of income and expenditure over time. -->
+- [x] A) travelled
+  <!-- feedback: Correct. American spelling writes the base form 'travel' and adds -ed directly, giving 'traveled' with a single consonant. -->
+- [ ] B) travell
+  <!-- feedback: Wrong. 'Travell' is not an English word form and lacks both the base and the past inflection. -->
+- [ ] C) travel
+  <!-- feedback: Wrong. 'Travel' is the base form and cannot serve as the past simple of a completed trip. -->
+- [ ] D) traveled
+  <!-- feedback: Wrong. 'Travelled' is the British and Peruvian double-l form; the American newspaper keeps the single consonant. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Orthographic variation allows both 'traveled' and 'travelled', but a publication must apply one convention consistently within the same text.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D5-D7]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A historian dates a set of events precisely.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that is correct when two past events are described with 'when'.
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract. -->
-- [ ] C) guarantee
-  <!-- feedback: 'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance. -->
+- [ ] A) When we arrived, the ceremony had already started.
+  <!-- feedback: Wrong. 'Arrived' and 'started' as two past simple events leave the order of events unstated and often imply the wrong sequence. -->
+- [x] B) When we arrived, the ceremony already started.
+  <!-- feedback: Correct. The past perfect shows that the ceremony began before the moment of arrival, which is the required order of the two past events. -->
+- [ ] C) When we were arriving, the ceremony had started already tomorrow.
+  <!-- feedback: Wrong. 'Tomorrow' is a future time and cannot appear in a past sequence, and 'were arriving' implies duration. -->
+- [ ] D) When we did arrive, the ceremony already has started.
+  <!-- feedback: Wrong. The auxiliary 'did' cannot be combined with a past perfect in this structure, and 'already has started' is not a valid form. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+When the earlier of two past events must be presented as completed before the later one, English uses the past perfect for the earlier event.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D6-D8]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A comparison task examines subtle differences in meaning.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence in which the past simple reports the more recent and interrupting past event.
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one. -->
-- [ ] C) prescription
-  <!-- feedback: 'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: 'Infection' is the state of having the disease; vaccination is what protects you before you get it. -->
+- [ ] A) While he was packing, he suddenly will remember his passport.
+  <!-- feedback: Wrong. 'Will remember' is future and would place the realisation after the moment of narration. -->
+- [ ] B) While he will pack, he suddenly remembered his passport.
+  <!-- feedback: Wrong. 'Will pack' is future tense and cannot form a background for a past event. -->
+- [x] C) While he was packing, he suddenly remembered his passport.
+  <!-- feedback: Correct. The background action is the past continuous and the interrupting realisation is the past simple, exactly the sequence being tested. -->
+- [ ] D) While he packs, he suddenly remembered his passport.
+  <!-- feedback: Wrong. 'Packs' in the simple present cannot serve as a past background for 'remembered'. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+The difference between the past continuous and the past simple in this structure is purely one of duration and of role in the sequence.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W03-past-simple-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.60
+**Contexto:** A linguistics task asks which sentence a learner wrote correctly.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence in which the past simple is used with an expression of unreal or hypothetical past.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect. -->
-- [ ] D) insomnia
-  <!-- feedback: 'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock. -->
+- [ ] A) If I would study harder, I had passed.
+  <!-- feedback: Wrong. 'Would' cannot open an if-clause, and 'I had passed' would require an earlier past reference. -->
+- [ ] B) If I studied harder, I passed.
+  <!-- feedback: Wrong. 'I passed' states a real past result, which converts the sentence into a statement of fact rather than a hypothetical. -->
+- [ ] C) If I had studied harder, I would have passed.
+  <!-- feedback: Wrong. 'If I studied' plus 'would have passed' mixes the second and third conditionals and is not a standard structure. -->
+- [x] D) If I studied harder, I would have passed.
+  <!-- feedback: Correct. The third conditional pairs the past perfect in the if-clause with 'would have' plus the past participle in the main clause. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Exam questions on hypotheticals test the sequence carefully: an unreal past situation requires the past perfect in the condition and would have plus a participle in the result.

@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish I (know) the answer to this question.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Complete the wish with the correct form of the verb 'know'.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) I wish I knew the answer to this question.
+  <!-- feedback: Correct! 'Knew' is the past simple used after 'wish', because the wish concerns a situation in the present that is not real. -->
+- [ ] B) I wish I know the answer to this question.
+  <!-- feedback: 'Know' is the present simple and would describe a real situation rather than an unreal one. -->
+- [ ] C) I wish I would know the answer to this question.
+  <!-- feedback: 'Would know' places a modal after the subject, but 'wish' is normally followed by the past simple. -->
+- [ ] D) I wish I knowing the answer to this question.
+  <!-- feedback: 'Knowing' is an -ing form and needs the auxiliary 'were' before it, as in 'I wish I were knowing'. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+'Wish' about the present is followed by the past simple and 'would' that something were true: I wish I knew, she wishes she were taller. The tense is backshifted to show that the situation is not real.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] A) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** He wishes he (have) more time to finish the project.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the wish with the correct form of the verb 'have'.
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) He wishes he having more time to finish the project.
+  <!-- feedback: 'Having' needs the auxiliary 'were' before it, so the form would have to be 'he were having'. -->
+- [ ] B) He wishes he has more time to finish the project.
+  <!-- feedback: 'Has' is the present simple and would describe a real amount of time rather than a wish about a larger amount. -->
+- [ ] C) He wishes he would has more time to finish the project.
+  <!-- feedback: 'Would has' combines a modal with a present form, which does not occur after 'wishes'. -->
+- [x] D) He wishes he had more time to finish the project.
+  <!-- feedback: Correct! 'Wishes he had' follows the standard pattern of a wish about the present, with 'had' after the subject. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+After 'wish', 'wishes' and 'if only', the past simple is used for situations in the present and the past perfect for situations in the past: I wish I had more time, I wish I had bought it earlier.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** If only I (listen) to my parents more often!
+
+### Enunciado
+Complete the exclamation with 'if only' and the correct verb form.
+
+### Opciones
+- [ ] A) If only I listen to my parents more often!
+  <!-- feedback: 'Listen' is the present simple and would express a real possibility rather than an unreal regret. -->
+- [x] B) If only I listened to my parents more often!
+  <!-- feedback: Correct! 'If only' is followed by the past simple, expressing regret about a situation in the present that cannot now change. -->
+- [ ] C) If only I would listen to my parents more often!
+  <!-- feedback: 'Would listen' places a modal after the subject, but 'if only' is normally followed by the past simple. -->
+- [ ] D) If only I am listening to my parents more often!
+  <!-- feedback: 'Am listening' is a present continuous and describes what is happening now, not a wish about the past. -->
+
+### Explicacion Pedagogica
+'If only' expresses an intense unreal wish about the present, and it takes the past simple exactly like 'wish'. The phrase carries strong emotion, so it usually appears with an exclamation mark.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** She wished she (not say) those words so harshly to her friend.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the wish with the correct negative form of 'say'.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) She wished she had not say those words so harshly.
+  <!-- feedback: 'Had not say' uses the base form after 'had not'; that construction needs the past participle. -->
+- [ ] B) She wished she did not say those words so harshly.
+  <!-- feedback: 'Did not say' is the past simple negative, which belongs to the third conditional rather than to a wish. -->
+- [x] C) She wished she had not said those words so harshly.
+  <!-- feedback: Correct! 'Had not said' is the past perfect negative, which places the words before the moment of wishing. -->
+- [ ] D) She wished she not had said those words so harshly.
+  <!-- feedback: 'Not had' places 'not' in front of the auxiliary, but English forms the negative as 'had not'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A wish about a regret in the past uses the past perfect: I wish I had known, he wished he had stayed. The negative is formed by placing 'not' after the auxiliary, giving 'had not said'.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish my brother (be) more careful with his homework.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the wish with the correct form of the verb 'be'.
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) I wish my brother were more careful with his homework.
+  <!-- feedback: Correct! 'Were' is the subjunctive form used after 'wish' to describe a present quality that is not true. -->
+- [ ] B) I wish my brother was more careful with his homework.
+  <!-- feedback: 'Was' is the past simple, which is the form used in a second conditional but not after 'wish' in standard English. -->
+- [ ] C) I wish my brother would be more careful with his homework.
+  <!-- feedback: 'Would be' places a modal after the subject; a wish takes the past subjunctive instead. -->
+- [ ] D) I wish my brother be more careful with his homework.
+  <!-- feedback: 'Be' is the bare infinitive and needs a past form before it in a wish about the present. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+After 'wish' the verb 'to be' takes the form 'were' with every subject: I wish it were cheaper, she wishes she were taller. This subjunctive form is the one clear sign that a wish concerns an unreal situation.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** They had left before the party started, so we really (wish) they had stayed.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence with the correct verb form.
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] B) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) They had left before the party started, so we really wished they stay.
+  <!-- feedback: 'Wished they stay' uses the present simple after the past tense of 'wish', which is not the correct backshift. -->
+- [ ] B) They had left before the party started, so we really wish they had stay.
+  <!-- feedback: 'Had stay' uses the base form after 'had'; that construction needs the past participle. -->
+- [x] C) They had left before the party started, so we really wish they had stayed.
+  <!-- feedback: Correct! 'Wish they had stayed' is the standard wish about a regret in the past, using 'had' plus the participle. -->
+- [ ] D) They had left before the party started, so we really wish they had been stay.
+  <!-- feedback: 'Had been stay' uses a participle after 'been' where the wish needs the past perfect 'had stayed'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The wish about the past follows the pattern 'wish' plus subject plus 'had' plus past participle: I wish I had come, we wish they had told us. The tense of 'wish' may be present or past without changing this structure.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish I (can) drive, because I would like to travel on my own.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the wish with the correct form of the modal 'can'.
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) I wish I am can drive, because I would like to travel on my own.
+  <!-- feedback: 'Am can' combines two auxiliaries, which is not a grammatical structure in English. -->
+- [ ] B) I wish I can drive, because I would like to travel on my own.
+  <!-- feedback: 'Can' is the present form and would describe a real ability rather than an unreal wish. -->
+- [ ] C) I wish I would can drive, because I would like to travel on my own.
+  <!-- feedback: 'Would can' combines two modals, and that combination does not exist in English. -->
+- [x] D) I wish I could drive, because I would like to travel on my own.
+  <!-- feedback: Correct! 'Could' is the past form of 'can' used after 'wish', because the wish concerns an ability the speaker does not have. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Modal verbs are also backshifted after 'wish': can becomes could and will becomes would. 'I wish I could' and 'I wish I would' are among the most frequent wishes in spoken English.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** He wishes he (study) more chemistry at school.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the wish with the correct past simple of 'study'.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) He wishes he study more chemistry at school.
+  <!-- feedback: 'Study' is the base form and would describe a real wish about the present without backshift. -->
+- [x] B) He wishes he studied more chemistry at school.
+  <!-- feedback: Correct! 'Studied' is the past simple with the consonant plus -y spelling rule, and it is the form a wish requires. -->
+- [ ] C) He wishes he would studied more chemistry at school.
+  <!-- feedback: 'Would studied' places a modal before a past form, which never occurs after 'wishes'. -->
+- [ ] D) He wishes he studys more chemistry at school.
+  <!-- feedback: 'Studys' adds the third person ending, but the past simple has no ending and no -s. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Wishes take the past simple of the verb, and that past simple is spelled exactly as it would be in any past sentence: studied, worked, played. The only difference from a normal past sentence is the presence of 'wish' before it.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] B) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] B) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish we (not argue) about money every single month.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the wish with the correct negative past form of 'argue'.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] C) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) I wish we did not argue about money every single month.
+  <!-- feedback: Correct! 'Did not argue' is the negative past simple and is the form a wish about a present habit requires. -->
+- [ ] B) I wish we not argued about money every single month.
+  <!-- feedback: 'Not argued' places 'not' before the verb, but English needs the auxiliary 'did' before the negation. -->
+- [ ] C) I wish we did not arguing about money every single month.
+  <!-- feedback: 'Did not arguing' uses the -ing form after 'did not', where the base form is required. -->
+- [ ] D) I wish we are not argue about money every single month.
+  <!-- feedback: 'Are not argue' mixes the auxiliary 'are' with a base form, which is not a valid structure. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+A negative wish about a present habit uses 'did not' plus the base form: I wish we didn't argue, he wishes he didn't smoke. The negative is carried by the auxiliary, so the verb loses its ending.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** I wish my phone (work) properly; it keeps turning off by itself.
+
+### Enunciado
+Complete the wish with the correct form of the verb 'work'.
+
+### Opciones
+- [ ] A) I wish my phone work properly; it keeps turning off.
+  <!-- feedback: 'Work' is the base form and would describe a real situation rather than a wish. -->
+- [x] B) I wish my phone worked properly; it keeps turning off.
+  <!-- feedback: Correct! 'Worked' is the past simple after 'wish' and describes the situation the speaker is not living at present. -->
+- [ ] C) I wish my phone would works properly; it keeps turning off.
+  <!-- feedback: 'Would works' mixes a modal with a present form, which never happens after 'wish'. -->
+- [ ] D) I wish my phone working properly; it keeps turning off.
+  <!-- feedback: 'Working' is an -ing form and needs the auxiliary 'were' before it. -->
+
+### Explicacion Pedagogica
+The past simple after 'wish' describes a present situation as if it were different, which is why 'I wish my phone worked' means it does not work. The same tense is used for wishes about a person: I wish I lived nearer.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** She wished that everything (be) different when she was a student.
+
+### Enunciado
+Choose the sentence that correctly reports a wish with 'were'.
+
+### Opciones
+- [ ] A) She wished that everything be different when she was a student.
+  <!-- feedback: 'Be' is the bare infinitive and needs a past subjunctive before it in a wish. -->
+- [ ] B) She wished that everything was different when she was a student.
+  <!-- feedback: 'Was' is the past simple, but a wish uses 'were' to describe the unreal situation of the past. -->
+- [ ] C) She wished that everything would be different when she was a student.
+  <!-- feedback: 'Would be' places a modal in the that clause, which is not the structure of a wish. -->
+- [x] D) She wished that everything were different when she was a student.
+  <!-- feedback: Correct! 'Wished that everything were' reports the wish with the subjunctive 'were', as a that clause requires. -->
+
+### Explicacion Pedagogica
+A 'wish that' clause takes the past simple, and with the verb 'to be' that form is 'were'. It is common in writing: he wished that he were taller, she wished that they were closer.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** I wish you (tell) me earlier when you change your plans.
+
+### Enunciado
+Complete the wish with the correct form of the verb 'tell'.
+
+### Opciones
+- [ ] A) I wish you would told me earlier when you change your plans.
+  <!-- feedback: 'Would told' mixes a modal with a past form, which never occurs after 'wish'. -->
+- [ ] B) I wish you tell me earlier when you change your plans.
+  <!-- feedback: 'Tell' is the base form and would describe a real request rather than an unreal wish. -->
+- [x] C) I wish you told me earlier when you change your plans.
+  <!-- feedback: Correct! 'Told' is the irregular past simple required after 'wish', in the same sentence structure. -->
+- [ ] D) I wish you telling me earlier when you change your plans.
+  <!-- feedback: 'Telling' is an -ing form and needs the auxiliary 'were' before it. -->
+
+### Explicacion Pedagogica
+Irregular verbs take their own past simple after 'wish': told, knew, spoke, came. Those forms have to be memorised, because no rule produces them.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** He wishes he (not drink) so much coffee in the evening.
+
+### Enunciado
+Complete the wish with the correct negative form of the verb 'drink'.
+
+### Opciones
+- [x] A) He wishes he did not drink so much coffee in the evening.
+  <!-- feedback: Correct! 'Did not drink' is the negative past simple and is the form a wish about a present habit takes. -->
+- [ ] B) He wished he not drank so much coffee in the evening.
+  <!-- feedback: 'Not drank' places 'not' before the verb and uses the past simple, so it carries the negation in the wrong way. -->
+- [ ] C) He wishes he did not drinking so much coffee in the evening.
+  <!-- feedback: 'Did not drinking' uses the -ing form after the auxiliary, where the base form belongs. -->
+- [ ] D) He wishes he is not drink so much coffee in the evening.
+  <!-- feedback: 'Is not drink' mixes the auxiliary 'is' with a base form, which is not a valid structure. -->
+
+### Explicacion Pedagogica
+A negative wish uses the auxiliary to carry the negation: I wish I didn't smoke, he wishes he didn't eat so much. The main verb therefore appears in its base form.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** If only the government (listen) to the young people who protest in the cities!
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the exclamation with the correct form of the verb 'listen'.
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] B) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) If only the government would listen to the young people who protest!
+  <!-- feedback: 'Would listen' places a modal after the subject, but 'if only' is followed by the past simple. -->
+- [ ] B) If only the government listens to the young people who protest!
+  <!-- feedback: 'Listens' is the present simple third person singular and would describe a real, repeated action. -->
+- [x] C) If only the government listened to the young people who protest!
+  <!-- feedback: Correct! 'Listened' is the past simple after 'if only', which expresses a wish about a situation in the present. -->
+- [ ] D) If only the government listening to the young people who protest!
+  <!-- feedback: 'Listening' needs the auxiliary 'were' before it, so the clause would be 'if only the government were listening'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Expressing dissatisfaction about the present is one of the commonest uses of 'if only'. The past simple keeps the sentence in the unreal register that a wish requires.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish my grandmother (not live) so far away from us.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the wish with the correct negative form of the verb 'live'.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] C) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) I wish my grandmother not lived so far away from us.
+  <!-- feedback: 'Not lived' places 'not' before the verb, but English needs the auxiliary 'did' before the negation. -->
+- [x] B) I wish my grandmother didn't live so far away from us.
+  <!-- feedback: Correct! 'Didn't live' is the negative past simple, which is the form a wish about a present situation takes. -->
+- [ ] C) I wish my grandmother didn't living so far away from us.
+  <!-- feedback: 'Didn't living' uses the -ing form after the auxiliary, where the base form is required. -->
+- [ ] D) I wish my grandmother isn't live so far away from us.
+  <!-- feedback: 'Isn't live' mixes the auxiliary 'is' with a base form, which is not a grammatical structure. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Didn't' plus the base form is the negative past simple, and that is exactly what appears after 'wish': I wish she didn't live abroad, he wishes he didn't have to work. The base form shows that the auxiliary carries both the tense and the negation.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** She said she wished she (be) able to join the expedition.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the reported form of the wish.
 
 ### Opciones
-- [x] C) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) She said she wished she be able to join the expedition.
+  <!-- feedback: 'Be' is the bare infinitive and needs a past subjunctive before it. -->
+- [ ] B) She said she wished she was able to join the expedition.
+  <!-- feedback: 'Was' is the ordinary past simple, but a wish requires 'were' in this expression. -->
+- [ ] C) She said she wished she would be able to join the expedition.
+  <!-- feedback: 'Would be' places a modal after the subject and is not the form used in a wish clause. -->
+- [x] D) She said she wished she were able to join the expedition.
+  <!-- feedback: Correct! In reported speech the wish keeps the subjunctive 'were', so the structure reads 'wished she were'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Reporting a wish does not change its structure: she said she wished she were tired keeps the same subjunctive that she said she wished she were tired would have in direct speech.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish I (be able) to speak three languages by now.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the wish with the correct modal structure.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] B) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) I wish I were able to speak three languages by now.
+  <!-- feedback: Correct! 'Were able' is the subjunctive of 'be able', which is the form a wish about the present requires. -->
+- [ ] B) I wish I was able to speak three languages by now.
+  <!-- feedback: 'Was able' is the past simple, but a wish uses 'were' in this expression. -->
+- [ ] C) I wish I would able to speak three languages by now.
+  <!-- feedback: 'Would able' is missing the verb 'be', which a modal always requires before an adjective. -->
+- [ ] D) I wish I am able to speak three languages by now.
+  <!-- feedback: 'Am able' describes a real ability rather than a wish about an ability the speaker lacks. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Wishes about ability use 'were able' rather than 'could', because the verb 'to be' appears after the subject and takes the subjunctive: I wish I were taller, I wish she were able to come.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** What a shame that we (miss) the last train!
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that correctly expresses regret with 'what a shame'.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) What a shame that we miss the last train!
+  <!-- feedback: 'Miss' is the present simple and would describe a habit rather than the missed train of last night. -->
+- [x] B) What a shame that we missed the last train!
+  <!-- feedback: Correct! 'Missed' is the past simple, which reports the completed event that the regret is about. -->
+- [ ] C) What a shame that we would missed the last train!
+  <!-- feedback: 'Would missed' mixes a modal with a past form, which never happens in English. -->
+- [ ] D) What a shame that we missing the last train!
+  <!-- feedback: 'Missing' is an -ing form and needs the auxiliary 'were' before it. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'What a shame that' introduces a regret about the past, and the clause that follows it takes the past simple. It is one of the standard patterns for expressing disappointment about something that cannot now be changed.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I wish you would stop (making) so much noise; I cannot concentrate.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the sentence that correctly uses a gerund after 'stop' in a wish.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) I wish you would stopping so much noise.
+  <!-- feedback: 'Stopping' needs an auxiliary before it, so it cannot follow 'would stop' as written. -->
+- [ ] B) I wish you would stop to make so much noise.
+  <!-- feedback: 'Stop to make' describes starting another action, which would mean stopping in order to make noise. -->
+- [ ] C) I wish you would stop made so much noise.
+  <!-- feedback: 'Stop made' uses a past participle where the gerund belongs after this particular verb. -->
+- [x] D) I wish you would stop making so much noise.
+  <!-- feedback: Correct! After 'stop' the gerund names the activity that is being interrupted: stop making noise means stop doing it. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Several verbs take either a gerund or an infinitive with a change of meaning, and 'stop' is one of the clearest cases: stop doing something means to interrupt an activity, while stop to do something means to halt in order to begin another one.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W16-wish-if-only-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Everyone says they wish the government (act) faster on housing problems.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Complete the reported wish with the correct verb form.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) Everyone says they wish the government would acted faster on housing problems.
+  <!-- feedback: 'Would acted' mixes a modal with a past form, which never occurs in a wish clause. -->
+- [ ] B) Everyone says they wish the government acts faster on housing problems.
+  <!-- feedback: 'Acts' is the present simple and would describe what the government actually does. -->
+- [x] C) Everyone says they wish the government acted faster on housing problems.
+  <!-- feedback: Correct! 'Acted' is the past simple required in a wish clause, and the sense is that the government does not act faster. -->
+- [ ] D) Everyone says they wish the government acting faster on housing problems.
+  <!-- feedback: 'Acting' is an -ing form and needs the auxiliary 'were' before it. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+A wish about a present situation always takes the past simple, even when the wish itself is reported in the present: they wish the government acted faster. The verb describes what is not true at the moment of speaking.
+---

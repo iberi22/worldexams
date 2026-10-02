@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple regular verbs, San Juan, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the past simple correctly?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) They walked to the beach yesterday.
+  <!-- feedback: Correcto. 'Walked' es el pasado simple regular, con el sufijo -ed detras de una consonante. -->
+- [ ] B) They walk to the beach yesterday.
+  <!-- feedback: Incorrecto. 'Walk' es la forma base; la marca 'yesterday' obliga al pasado simple con terminacion -ed. -->
+- [ ] C) They are walked to the beach yesterday.
+  <!-- feedback: Incorrecto. 'Are walked' mezcla el presente continuo con el pasado simple, y no corresponde a ninguna forma valida. -->
+- [ ] D) They walking to the beach yesterday.
+  <!-- feedback: Incorrecto. 'Walking' es el gerundio del presente continuo y no puede ocupar el lugar del verbo principal en pasado. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Los verbos regulares forman el pasado simple anadiendo -ed al verbo base. Es el unico tiempo verbal que se construye solo con la raiz del verbo, sin ningun auxiliar, por eso el orden sujeto mas verbo se mantiene intacto.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple regular spelling, Ponce, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'We ____ (study) for the exam all last week.'
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) studyed
+  <!-- feedback: Incorrecto. La -y consonantal se convierte en -i, de modo que escribir 'studyed' no corresponde a ninguna regla. -->
+- [ ] B) study
+  <!-- feedback: Incorrecto. 'Study' es la forma base presente y no lleva la terminacion -ed que exige el pasado simple. -->
+- [x] C) studied
+  <!-- feedback: Correcto. Un verbo terminado en consonante mas -y cambia la -y por -i antes de añadir -ed. -->
+- [ ] D) studys
+  <!-- feedback: Incorrecto. Falta la -e del sufijo: el pasado simple regular termina siempre en -ed o -d. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+La ortografia del pasado simple tiene una regla util para los verbos terminados en consonante y -y. En ese caso la -y se cambia por -i y despues se anade -ed, como en 'study' que da 'studied'. Si la vocal anterior es una a, se conserva la -y.
+
 ---
+
 ## Question 3 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
-
-### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
-
-### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
----
-## Question 4 [D4]
-**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
-
-### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
-
-### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
----
-## Question 5 [D5]
-**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
-
-### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
-
-### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
----
-## Question 6 [D6]
-**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
-
-### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] B) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] C) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
-
-### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
----
-## Question 7 [D5]
-**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple irregular verbs, Carolina, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'He ____ (go) to Ponce last Saturday.'
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) goed
+  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce una forma del ingles; 'go' debe aprenderse aparte. -->
+- [x] B) went
+  <!-- feedback: Correcto. 'To go' es irregular y su pasado simple es 'went', sin terminacion -ed. -->
+- [ ] C) gone
+  <!-- feedback: Incorrecto. 'Gone' es el participio pasado, que se usa con 'have' o en pasiva, no como verbo principal en pasado simple. -->
+- [ ] D) going
+  <!-- feedback: Incorrecto. 'Going' pertenece al presente continuo y ademas necesita el auxiliar 'was' para ser valido. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Los verbos irregulares no siguen la regla de anadir -ed y deben aprenderse de memoria. Los mas frecuentes son 'to go', 'to see' y 'to take'. Una forma como 'goed' demuestra que el verbo es irregular y no se puede derivar.
+
 ---
-## Question 8 [D6]
+
+## Question 4 [D2]
+**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Past simple negative forms, Bayamon, grado 11, W03.
+
+### Enunciado
+Choose the correct negative: 'I ____ (not / see) the doctor yesterday.'
+
+### Opciones
+- [ ] A) didn't saw
+  <!-- feedback: Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base, de modo que corresponde 'see' y no 'saw'. -->
+- [ ] B) don't see
+  <!-- feedback: Incorrecto. 'Don't' es el negativo del presente simple, y el enunciado ya situa la accion en el pasado. -->
+- [ ] C) not saw
+  <!-- feedback: Incorrecto. Falta el auxiliar 'did', que es obligatorio en toda frase negativa de pasado simple. -->
+- [x] D) didn't see
+  <!-- feedback: Correcto. El pasado simple negativo usa 'did not' o 'didn't' delante del verbo en forma base. -->
+
+### Explicacion Pedagogica
+En pasado simple el negativo se forma siempre con 'did not' o 'didn't', y el verbo principal vuelve a su forma base. Esa es la trampa principal de la unidad: el auxiliar ya marca el pasado, asi que anadir la terminacion del pasado seria incorrecto.
+
+---
+
+## Question 5 [D3]
+**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Past simple questions, Arecibo, grado 11, W03.
+
+### Enunciado
+Which question is correct?
+
+### Opciones
+- [ ] A) Do you finished the project last week?
+  <!-- feedback: Incorrecto. 'Do' es el auxiliar del presente simple y ademas el verbo lleva la terminacion incorrecta. -->
+- [ ] B) Did you finished the project last week?
+  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base, de modo que la terminacion -ed sobra y produce una frase invalida. -->
+- [ ] C) Was you finish the project last week?
+  <!-- feedback: Incorrecto. 'Was' corresponde al verbo 'to be' y no admite el verbo principal en forma base detras. -->
+- [x] D) Did you finish the project last week?
+  <!-- feedback: Correcto. La pregunta en pasado simple abre con 'Did' y el verbo principal queda en forma base. -->
+
+### Explicacion Pedagogica
+Las preguntas de pasado simple se forman con 'did' al principio y el verbo principal en forma base. Igual que en el negativo, el auxiliar ya aporta la marca de pasado y el verbo no la repite. Este patron se repite en todas las preguntas de la unidad.
+
+---
+
+## Question 6 [D2]
+**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v6
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Past simple with to be, Humacao, grado 11, W03.
+
+### Enunciado
+Complete the sentence: 'They ____ (be) at the party last night.'
+
+### Opciones
+- [ ] A) was
+  <!-- feedback: Incorrecto. 'Was' corresponde a la primera y tercera persona del singular, no al sujeto plural 'they'. -->
+- [x] B) were
+  <!-- feedback: Correcto. Con el sujeto 'they' el pasado de 'to be' es 'were', y 'last night' confirma el tiempo verbal. -->
+- [ ] C) are
+  <!-- feedback: Incorrecto. 'Are' es presente, y por lo tanto no concuerda con la marca temporal 'last night'. -->
+- [ ] D) be
+  <!-- feedback: Incorrecto. 'Be' es la forma base del verbo y necesita una forma conjugada para funcionar como verbo principal. -->
+
+### Explicacion Pedagogica
+El pasado simple de 'to be' tiene solo dos formas: 'was' para I, he, she e it, y 'were' para you, we, they. Es el verbo irregular mas frecuente del idioma y aparece en casi todos los ejercicios de pasado.
+
+---
+
+## Question 7 [D3]
+**ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
+**Expected_Success:** 0.80
+**Contexto:** Past simple spelling rules, Aguadilla, grado 11, W03.
+
+### Enunciado
+Which is the correct past simple form of the verb 'to stop'?
+
+### Opciones
+- [x] A) stopped
+  <!-- feedback: Correcto. Cuando el verbo termina en vocal breve tensa y consonante se duplica la consonante y despues se anade -ed. -->
+- [ ] B) stoped
+  <!-- feedback: Incorrecto. Sin duplicar la -p la palabra perderia la vocal breve y sonaria distinta; la regla exige la doble consonante. -->
+- [ ] C) stoppes
+  <!-- feedback: Incorrecto. 'Stoppes' duplica la -p y anade una -e final, y ninguna regla del pasado simple produce esa forma. -->
+- [ ] D) stopt
+  <!-- feedback: Incorrecto. 'Stopt' no existe; el pasado simple regular siempre termina en -ed o -d. -->
+
+### Explicacion Pedagogica
+La duplicacion de consonante en pasado simple ocurre tras vocal breve tensa, como en 'stop' que da 'stopped' o 'plan' que da 'planned'. Si la vocal es larga no se duplica, como en 'look' que da 'looked' o 'call' que da 'called'.
+
+---
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with irregular verbs, Guayanilla, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'She ____ (write) three emails last night.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) writed
+  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no forma parte del ingles, y 'wrote' es la unica forma aceptada. -->
+- [ ] B) written
+  <!-- feedback: Incorrecto. 'Written' es el participio pasado, que se usa con 'have written' y nunca solo como verbo principal en pasado. -->
+- [x] C) wrote
+  <!-- feedback: Correcto. El pasado simple de 'to write' es 'wrote', que se confunde con 'to ride' pero se escribe con -o-. -->
+- [ ] D) write
+  <!-- feedback: Incorrecto. 'Write' es la forma base y no lleva ninguna marca de pasado; falta el verbo conjugado o el auxiliar 'did'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+El pasado simple irregulares suele terminar en vocal y comparte terminacion con otros verbos. 'To write' y 'to ride' dan 'wrote' y 'rode', mientras que 'to speak' y 'to break' dan 'spoke' y 'broke'. Memorizar las familias completas es mas eficiente que aprenderlas sueltas.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple question tags, Trujillo Alto, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the correct tag: 'He finished the exam, ____?'
 
 ### Opciones
-- [x] C) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [ ] A) doesn't he
+  <!-- feedback: Incorrecto. 'Doesn't' es el auxiliar del presente simple, y la frase principal esta en pasado. -->
+- [ ] B) wasn't he
+  <!-- feedback: Incorrecto. 'Wasn't' pertenece al verbo 'to be', y aqui el verbo principal es 'finished'. -->
+- [x] C) didn't he
+  <!-- feedback: Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar 'did' es el que corresponde al pasado simple. -->
+- [ ] D) did he not
+  <!-- feedback: Incorrecto. El tag debe invertir la polaridad placing el auxiliar antes del pronombre, no despues. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+El question tag del pasado simple se construye con 'did' seguido del pronombre y de la forma contracta 'not'. En afirmativo el tag es 'did he' y en negativo es 'didn't he'. El orden siempre es auxiliar, pronombre y negacion.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with irregular verbs, Barceloneta, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the sentence: 'They ____ (eat) at the restaurant before the concert.'
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [x] A) ate
+  <!-- feedback: Correcto. El pasado simple de 'to eat' es 'ate', una forma totalmente irregular que hay que memorizar. -->
+- [ ] B) eated
+  <!-- feedback: Incorrecto. Ningun verbo del ingles forma su pasado anadiendo -ed a 'eat', porque es irregular. -->
+- [ ] C) eaten
+  <!-- feedback: Incorrecto. 'Eaten' es el participio pasado, que necesita 'have' delante para formar el pasado perfecto. -->
+- [ ] D) eat
+  <!-- feedback: Incorrecto. Es la forma base; sin 'did' ni forma conjugada la frase no expresa una accion pasada concreta. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Los verbos irregulares del pasado tienen tres familias principales. Los terminados en -t como 'eat' dan 'ate', los terminados en -o como 'go' dan 'went' y los terminados en -d como 'build' dan 'built'. Reconocer la familia acelera la memorizacion.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with to have, Maunabo, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'We ____ (have) a good time at the carnival.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) haved
+  <!-- feedback: Incorrecto. 'Haved' no existe en ingles; 'to have' es irregular y su pasado es 'had'. -->
+- [ ] B) haveed
+  <!-- feedback: Incorrecto. Anadir -ed a 'have' no produce una forma valida, aunque 'have' funcione como auxiliar en otros tiempos. -->
+- [ ] C) hade
+  <!-- feedback: Incorrecto. 'Hade' no es una forma verbal del pasado simple; el pasado de 'to have' es siempre 'had'. -->
+- [x] D) had
+  <!-- feedback: Correcto. El pasado simple de 'to have' es 'had', la misma forma que sirve para todas las personas del singular y del plural. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+El pasado simple de 'to have' es 'had', y a diferencia de 'to be' no distingue entre singular y plural. Esa misma forma 'had' aparece tambien como auxiliar del pasado perfecto, por lo que conviene reconocer el contexto para no confundirlas.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with the verb to be, Yauco, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Complete the sentence: 'It ____ (not / be) cloudy yesterday afternoon.'
 
 ### Opciones
-- [x] B) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) weren't
+  <!-- feedback: Incorrecto. 'Weren't' corresponde a un sujeto plural, y el sujeto de la oracion es 'it' en singular. -->
+- [x] B) wasn't
+  <!-- feedback: Correcto. El negativo del pasado de 'to be' con el sujeto 'it' se forma con 'was not' o 'wasn't'. -->
+- [ ] C) didn't
+  <!-- feedback: Incorrecto. 'Didn't' solo se usa con verbos de accion en forma base, nunca con 'to be'. -->
+- [ ] D) isn't
+  <!-- feedback: Incorrecto. 'Isn't' es presente; la marca 'yesterday afternoon' exige la forma del pasado. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+El pasado de 'to be' se niega con 'not' detras de la forma 'was' o 'were'. Los auxiliares 'did' no participan nunca con 'to be', porque ese verbo ya es irregular por completo y forma el pasado por sí mismo.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with spelling rules, Cayey, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'He ____ (carry) the boxes to the truck.'
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] C) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [ ] A) caried
+  <!-- feedback: Incorrecto. La vocal larga 'a' mantiene la -y en el pasado, y escribir 'caried' corresponde a un hablante no nativo. -->
+- [x] B) carried
+  <!-- feedback: Correcto. Con vocal larga antes de la -y se conserva la -y y solo se anade -ed, como en 'carried'. -->
+- [ ] C) caryed
+  <!-- feedback: Incorrecto. No se cambia la -y por -i cuando la vocal anterior es una a, y 'caryed' no es una forma del ingles. -->
+- [ ] D) carryed
+  <!-- feedback: Incorrecto. Un verbo terminado en -y nunca anade -ed de forma directa cuando la y es consonantal o va precedida de vocal larga. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+La -y del pasado simple se convierte en -i solo cuando la consonante o vocal anterior no es una 'a'. Si la -y va precedida de vocal larga se conserva, como en 'play' que da 'played' o 'enjoy' que da 'enjoyed'.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with irregular verbs, San Sebastian, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'The committee ____ (decide) the date last Tuesday.'
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] B) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) decidded
+  <!-- feedback: Incorrecto. La vocal de 'decide' es larga, de modo que no se duplica la -d al anadir -ed. -->
+- [ ] B) decied
+  <!-- feedback: Incorrecto. Falta la -d final, y el pasado simple regular siempre termina en -ed o -d. -->
+- [ ] C) decidedd
+  <!-- feedback: Incorrecto. Doble -d no corresponde a ninguna regla; el termino correcto es 'decided' con una sola -d final. -->
+- [x] D) decided
+  <!-- feedback: Correcto. 'Decided' es un pasado regular y termina en -ed, por lo que el sufijo no altera la pronunciacion de la -d. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Cuando el verbo ya termina en -e o en -d, el pasado simple solo necesita la -d del sufijo. Asi 'decide' da 'decided', 'like' da 'liked' y 'need' da 'needed'. No hay que duplicar nada en estos casos.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with the verb to do, Camuy, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: 'I ____ (do) my homework before dinner yesterday.'
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] B) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) doed
+  <!-- feedback: Incorrecto. Ninguna forma del ingles contiene 'doed'; el pasado de 'to do' es 'did'. -->
+- [ ] B) done
+  <!-- feedback: Incorrecto. 'Done' es el participio pasado y necesita 'have' delante, como en 'I have done it'. -->
+- [x] C) did
+  <!-- feedback: Correcto. El pasado simple de 'to do' es 'did', y no lleva terminacion -ed ni ningun auxiliar delante. -->
+- [ ] D) do
+  <!-- feedback: Incorrecto. Es la forma base del verbo y no expresa el pasado, ademas la frase ya lleva 'yesterday'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'To do' es uno de los verbos irregulares mas usados y su pasado simple es 'did'. Conviene no confundirlo con 'done', que es el participio pasado. La diferencia se ve en el auxiliar: solo el pasado usa 'did' como verbo principal.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple in short answers, Luquillo, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Question: 'Did you call the doctor?' Answer: '____'
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [x] A) Yes, I did.
+  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'did' de la pregunta, que es la forma esperada en pasado simple. -->
+- [ ] B) Yes, I was.
+  <!-- feedback: Incorrecto. 'Was' responde a preguntas con 'to be' y no concuerda con el auxiliar 'did' de la pregunta. -->
+- [ ] C) Yes, I called.
+  <!-- feedback: Incorrecto. Es una respuesta valida pero no es corta; la forma esperada repite el auxiliar, no el verbo principal. -->
+- [ ] D) Yes, I do.
+  <!-- feedback: Incorrecto. 'Do' es la respuesta corta del presente simple y no corresponde a una pregunta con 'did'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Las respuestas cortas en pasado simple usan el mismo auxiliar que la pregunta. Como la pregunta abre con 'did', la respuesta abre con 'did' y el verbo principal se omite. Ese es el criterio para elegir entre 'did', 'was' y 'do'.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with irregular verbs, Toa Baja, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the sentence: 'They ____ (break) the window when the ball hit it.'
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] B) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] C) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) broke
+  <!-- feedback: Correcto. El pasado simple de 'to break' es 'broke', que comparte terminacion con 'to speak', 'to drive' y 'to rise'. -->
+- [ ] B) breaked
+  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce una forma valida del ingles. -->
+- [ ] C) broken
+  <!-- feedback: Incorrecto. 'Broken' es el participio pasado, que se emplea con 'have broken' y no como verbo principal solo. -->
+- [ ] D) break
+  <!-- feedback: Incorrecto. Es la forma base y la frase no lleva 'did', de modo que no hay marca alguna de pasado. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+La terminacion -oke del pasado irregular es muy productiva. La comparten 'to break', 'to speak', 'to drive', 'to wake' y 'to choose'. Identificar la familia evita tener que memorizar cada verbo por separado.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with irregular verbs, Naguabo, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'The students ____ (take) the exam on Monday morning.'
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) takeed
+  <!-- feedback: Incorrecto. El verbo 'to take' es irregular y no admite la terminacion -ed del pasado regular. -->
+- [ ] B) taken
+  <!-- feedback: Incorrecto. 'Taken' es el participio pasado y requiere el auxiliar 'have' para construir el pasado perfecto. -->
+- [ ] C) taked
+  <!-- feedback: Incorrecto. 'Taked' no existe en ingles; la forma correcta del pasado simple es 'took'. -->
+- [x] D) took
+  <!-- feedback: Correcto. El pasado simple de 'to take' es 'took', una forma irregular que se parece al presente pero con vocal larga. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Varios verbos irregulares forman su pasado con una vocal larga en lugar de terminacion. 'To take' da 'took', 'to speak' da 'spoke' y 'to break' da 'broke'. Son las formas que mas errores producen por parecerse a las del presente.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with the verb to be, Hatillo, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence uses the past simple of the verb 'to be' correctly?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] B) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] C) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) She didn't ready for the test.
+  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base, y 'ready' es un adjetivo, no un verbo. -->
+- [x] B) She wasn't ready for the test.
+  <!-- feedback: Correcto. 'Wasn't' es la forma contracta de 'was not' y corresponde al pasado con sujeto singular. -->
+- [ ] C) She wasn't be ready for the test.
+  <!-- feedback: Incorrecto. El pasado de 'to be' ya es una forma completa, de modo que sobra la forma base 'be' detras. -->
+- [ ] D) She isn't ready for the test yesterday.
+  <!-- feedback: Incorrecto. 'Isn't' es presente y contradice la marca temporal 'yesterday' de la oracion. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Con 'to be' el pasado simple es 'was' o 'were' y no lleva auxiliar 'did' delante. El verbo 'to be' tiene su propio sistema de pasado, por eso un adjetivo como 'ready' se coloca directamente despues sin ninguna forma verbal adicional.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D2]
 **ID:** PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past simple with prepositions of time, Yabucoa, grado 11, W03.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which sentence is correct?
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) She moves to Mayaguez two years ago.
+  <!-- feedback: Incorrecto. 'Moves' es presente simple y no concuerda con una expresion que situa la accion en el pasado. -->
+- [ ] B) She is moving to Mayaguez two years ago.
+  <!-- feedback: Incorrecto. El presente continuo con 'ago' es incorrecto, porque la accion ya ocurrio y no esta en curso. -->
+- [x] C) She moved to Mayaguez two years ago.
+  <!-- feedback: Correcto. 'Two years ago' es una expresion de pasado y el verbo 'moved' responde a esa marca temporal. -->
+- [ ] D) She moved to Mayaguez two years ago tomorrow.
+  <!-- feedback: Incorrecto. 'Ago' y 'tomorrow' se contradicen; las dos expresiones de tiempo no pueden coexistir. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Las expresiones de tiempo guian la eleccion del tiempo verbal. 'Ago', 'yesterday' y 'last' exigen pasado simple, mientras que 'tomorrow' y 'next week' piden futuro. Reconocer la marca antes de conjugar evita la mayoria de los errores de esta unidad.
+
+---

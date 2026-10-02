@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You mention one thing that you have never seen before.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Complete the sentence: 'Have you ever seen ___ volcano?'
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) a
+  <!-- feedback: Correct. 'A volcano' introduces a single thing for the first time, which is exactly what the indefinite article does. -->
+- [ ] B) some
+  <!-- feedback: Wrong. 'Some' would not normally be used with a singular countable noun in this question. -->
+- [ ] C) an
+  <!-- feedback: Wrong. 'An' is required before a vowel sound and volcano begins with a consonant sound. -->
+- [ ] D) the
+  <!-- feedback: Wrong. 'The volcano' assumes the listener already knows which volcano is meant. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The indefinite article a or an introduces something new, while the definite article the points to something already identified.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You mention one thing for the first time, and its name starts with a vowel sound.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct article before the word 'orange'.
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) a orange
+  <!-- feedback: Wrong. 'A orange' would be correct before a consonant sound but not before this vowel sound. -->
+- [x] B) an orange
+  <!-- feedback: Correct. The choice between a and an depends on the sound, and orange begins with a vowel sound. -->
+- [ ] C) some orange
+  <!-- feedback: Wrong. 'Some' is normally used with plural or uncountable nouns and not with a single countable item. -->
+- [ ] D) the orange
+  <!-- feedback: Wrong. 'The orange' presupposes a specific orange already known to the listener. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The article is decided by the initial sound of the following word, not by the letter, which is why an hour and a university both take a.
+
 ---
+
 ## Question 3 [D3-D4]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You introduce a general concept.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: '___ water boils at one hundred degrees Celsius.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) A water
+  <!-- feedback: Wrong. 'A water' would treat the noun as countable, which it is not. -->
+- [ ] B) The water
+  <!-- feedback: Wrong. 'The water' refers to a specific body of water already identified in the context. -->
+- [x] C) Water
+  <!-- feedback: Correct. When a statement is true of all instances of a noun, English normally omits the article altogether. -->
+- [ ] D) Some waters
+  <!-- feedback: Wrong. 'Some waters' pluralises an uncountable noun, which is not permitted here. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+General statements about uncountable nouns such as water take no article at all, which is one of the commonest examination traps.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A classmate asks about something you do not know.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the question with the correct article.
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) What time does film start?
+  <!-- feedback: Wrong. Leaving the article out makes the sentence ungrammatical for a countable noun. -->
+- [ ] B) What time does the a film start?
+  <!-- feedback: Wrong. The two articles together contradict each other and cannot modify the same noun. -->
+- [ ] C) What time does a film start?
+  <!-- feedback: Wrong. 'A film' would introduce a different film each time, which is not the meaning of the question. -->
+- [x] D) What time does the film start?
+  <!-- feedback: Correct. 'The film' refers to a specific film that both speakers are discussing, so the definite article is required. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+A question about a mutually identified item takes the definite article, whereas asking about any instance of a class would take an indefinite one.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A description refers to something unique in the world.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence: 'The sun rises in the ___.'
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) east
+  <!-- feedback: Correct. In geographical expressions such as 'in the east', the definite article precedes the direction word. -->
+- [ ] B) east's
+  <!-- feedback: Wrong. A possessive ending cannot be attached to a direction word in this phrase. -->
+- [ ] C) an east
+  <!-- feedback: Wrong. 'An east' is not a standard expression for a direction. -->
+- [ ] D) the east
+  <!-- feedback: Wrong. Omitting the article is unusual in this fixed geographical construction. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Directions are unusual because they take the definite article when used as noun phrases, unlike most uncountable general references.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A speaker mentions meals in general.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the sentence that correctly refers to meals as a class.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) The breakfast is usually served at seven.
+  <!-- feedback: Wrong. 'The breakfast' refers to a particular meal already mentioned. -->
+- [x] B) Breakfast is usually served at seven.
+  <!-- feedback: Correct. 'Breakfast' used in this general sense takes no article, which is the standard pattern for meal names. -->
+- [ ] C) Breakfasts are usually served at seven in Peru.
+  <!-- feedback: Wrong. Pluralising meal names in this sense is not standard English and would refer to individual portions. -->
+- [ ] D) A breakfast is usually served at seven.
+  <!-- feedback: Wrong. 'A breakfast' counts a single instance rather than referring to the meal as a general category. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Meal names such as breakfast, lunch and dinner take the definite article only when referring to a specific meal, not when used generally.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D3-D5]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A sentence mentions a hospital, and the speaker wants to generalise.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the sentence that uses the correct article for a general statement about hospitals.
 
 ### Opciones
-- [x] B) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] C) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) A hospitals usually have a qualified staff.
+  <!-- feedback: Wrong. 'A hospitals' is impossible because the indefinite article cannot modify a plural noun. -->
+- [ ] B) The hospitals usually have a qualified staff.
+  <!-- feedback: Wrong. 'The hospitals' points to particular hospitals already identified. -->
+- [x] C) Hospitals usually have a qualified staff.
+  <!-- feedback: Correct. A general statement about all hospitals takes the plural noun without an article. -->
+- [ ] D) Hospital usually have a qualified staff.
+  <!-- feedback: Wrong. 'Hospital' without a determiner and with a plural verb is ungrammatical here. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+General plural references to institutions take no article, whereas specific institutions referred to individually take the definite article.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A grammar handbook explains when the zero article is used.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the statement that best describes the zero article.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) It is used only with plural nouns and never with singular ones.
+  <!-- feedback: Wrong. The zero article is also used with singular uncountable nouns and with some singular proper names. -->
+- [ ] B) It is never used with proper names in English.
+  <!-- feedback: Wrong. Many proper names, such as city names and the names of rivers, normally take no article at all. -->
+- [ ] C) It is used with any singular countable noun that has not been mentioned before.
+  <!-- feedback: Wrong. A singular countable noun requires an article; the indefinite article is exactly what this rule rules out. -->
+- [x] D) It is used with uncountable nouns in general statements and with many fixed expressions and proper names.
+  <!-- feedback: Correct. This accurately lists the main contexts, since the zero article covers general uncountables, fixed phrases and many proper names. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The zero article is defined by what it excludes, so describing it accurately requires covering both its genuine uses and the cases it cannot cover.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** An editor checks a sentence about a country.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the version with the correct article before the country name.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) Peru is in the west of South America.
+  <!-- feedback: Correct. Most country names take the zero article, so no article is needed before Peru. -->
+- [ ] B) Peru are in the west of South America.
+  <!-- feedback: Wrong. The subject is singular, so the verb must be 'is' rather than 'are'. -->
+- [ ] C) A Peru is in the west of South America.
+  <!-- feedback: Wrong. 'A Peru' would imply that Peru were one country among several unnamed ones. -->
+- [ ] D) The Peru is in the west of South America.
+  <!-- feedback: Wrong. 'The Peru' is not used; the article does not appear with the name of this country. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Country names usually take no article, though a few such as the Netherlands and the Philippines are well-known exceptions.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A grammar task tests a fixed expression that includes an article.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the sentence that uses the correct article in a fixed expression.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) I go to the school by bus every day.
+  <!-- feedback: Wrong. 'The school' would refer to a specific building and would change the meaning entirely. -->
+- [x] B) I go to school by bus every day.
+  <!-- feedback: Correct. 'Go to school' is a fixed expression meaning to attend school as a pupil, and it takes no article. -->
+- [ ] C) I go to school on bus every day.
+  <!-- feedback: Wrong. 'On bus' is not a valid prepositional phrase; transport by bus uses 'by'. -->
+- [ ] D) I go to a school by bus every day.
+  <!-- feedback: Wrong. 'A school' would introduce one unspecified school, which is not what the expression means. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Fixed expressions such as go to school, go to bed and go to church describe activities rather than places and never take an article.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A classmate asks about your family.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'I have ___ brother and ___ sister.'
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) an; a
+  <!-- feedback: Wrong. 'An brother' is incorrect because brother begins with a consonant sound. -->
+- [ ] B) a; an
+  <!-- feedback: Wrong. 'An sister' is incorrect because sister begins with a consonant sound. -->
+- [x] C) a; a
+  <!-- feedback: Correct. The indefinite article is used before both nouns because brother and the first mention of sister are both new information beginning with consonants. -->
+- [ ] D) the; a
+  <!-- feedback: Wrong. 'The brother' would imply a brother already identified, which the sentence does not establish. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Each singular countable noun needs its own determiner, so a repeated noun in the same sentence takes the article again.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v12
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A sentence refers to a sequence of institutions.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the sentence that correctly uses each and every with singular nouns.
 
 ### Opciones
-- [x] D) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] C) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) Each of the candidates and every of the panel were interviewed.
+  <!-- feedback: Wrong. 'Every of the panel' is not a valid construction, because every cannot be followed by of. -->
+- [ ] B) Each of the candidate and every members of the panel were interviewed.
+  <!-- feedback: Wrong. 'Each of the candidate' needs the plural noun, and 'every members' wrongly pluralises after every. -->
+- [ ] C) Each of the candidates and every member of the panel was interviewed.
+  <!-- feedback: Wrong. A plural verb is used where both subjects are grammatically singular, so the agreement is wrong. -->
+- [x] D) Each of the candidates and every member of the panel were interviewed.
+  <!-- feedback: Correct. 'Each of' and 'every' are both singular determiners, so the singular verb 'was' is the correct agreement. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Each and every behave like singular determiners for the purposes of subject-verb agreement, which is a standard examination point.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D4-D6]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A speaker compares two ways of travelling to school.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that correctly uses the zero article with a mode of transport.
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) I go to work by bicycle on Tuesdays.
+  <!-- feedback: Correct. Modes of transport such as bicycle, bus and train take the zero article in the phrase 'by bicycle'. -->
+- [ ] B) I go to work by a bicycle on Tuesdays.
+  <!-- feedback: Wrong. 'By a bicycle' also refers to a specific or unspecified bicycle, not to the general activity. -->
+- [ ] C) I go to work by the bicycle on Tuesdays.
+  <!-- feedback: Wrong. 'By the bicycle' would refer to a particular bicycle rather than the mode of transport. -->
+- [ ] D) I go to work on bicycle on Tuesdays.
+  <!-- feedback: Wrong. 'On bicycle' is not a valid combination of preposition and noun in this meaning. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+By plus a mode of transport refers to the activity rather than to a vehicle, so it follows the same pattern as go by train.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D5-D7]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exercise tests articles before abstract nouns.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the sentence that correctly uses the definite article with an abstract noun.
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) The music is important in Peruvian culture.
+  <!-- feedback: Wrong. 'The music' would refer to a particular piece or body of music already under discussion. -->
+- [x] B) Music is important in Peruvian culture.
+  <!-- feedback: Correct. When music refers to the whole field or activity in general, English takes the zero article. -->
+- [ ] C) Musics are important in Peruvian culture.
+  <!-- feedback: Wrong. 'Musics' pluralises an uncountable noun, which English does not allow here. -->
+- [ ] D) A music is important in Peruvian culture.
+  <!-- feedback: Wrong. 'A music' is ungrammatical because music is uncountable and has no plural form. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Abstract and mass nouns take the zero article in general statements but the definite article when a specific instance is intended.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D5-D7]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A grammar task tests possessive determiners.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly uses a possessive determiner.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] C) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) This is a notebook of mine here.
+  <!-- feedback: Wrong. 'A' cannot be inserted between a possessive determiner and the noun it accompanies. -->
+- [ ] B) This is the notebook of me.
+  <!-- feedback: Wrong. 'Of me' reverses the correct order, which requires a noun before of and a pronoun after it. -->
+- [x] C) This is my notebook.
+  <!-- feedback: Correct. 'My' is a possessive determiner that goes directly before the noun without an article. -->
+- [ ] D) This is my a notebook.
+  <!-- feedback: Wrong. 'My a notebook' stacks two determiners before one noun, which is not permitted in English. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+English allows only one determiner before a noun, and possessive determiners occupy that single slot on their own.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D5-D7]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An editor corrects an article error in a paragraph about schools.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the revision with the correct article usage.
 
 ### Opciones
-- [x] B) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) The school we attend is the nearest to the city centre's.
+  <!-- feedback: Wrong. A possessive ending cannot replace the preposition in a superlative comparison. -->
+- [ ] B) The school we attend is the nearest to a city centre.
+  <!-- feedback: Wrong. 'A city centre' would refer to some unspecified centre rather than the one being compared. -->
+- [ ] C) The school we attend is nearest to the city centre.
+  <!-- feedback: Wrong. 'Is nearest' omits the article that the superlative requires. -->
+- [x] D) The school we attend is the nearest to the city centre.
+  <!-- feedback: Correct. The superlative takes the definite article, and the comparison is completed with the preposition to plus a definite noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A superlative needs the definite article, and the phrase after the comparative preposition must also be definite for the comparison to make sense.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D5-D7]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exam tests a determiner that indicates a limited quantity.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the sentence that correctly uses a determiner of quantity.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) I have a lot of work to do this week.
+  <!-- feedback: Correct. 'A lot of' is a quantity determiner that takes an uncountable noun such as work. -->
+- [ ] B) I have the lot of work to do this week.
+  <!-- feedback: Wrong. 'The lot of' would refer to a specific known quantity and does not function as a general quantity phrase. -->
+- [ ] C) I have a lot of many work to do this week.
+  <!-- feedback: Wrong. 'A lot of many' stacks two quantifiers before a single noun, which is ungrammatical. -->
+- [ ] D) I have lot of work to do this week.
+  <!-- feedback: Wrong. 'Lot of' requires the article, since a lot of is a determiner and not a bare noun phrase. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Quantity determiners such as a lot of, a few of and plenty of each occupy the single determiner slot before their noun.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D6-D8]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.60
+**Contexto:** A semantics exercise examines article use with institution names.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which statement best describes the article in the sentence 'She has been studying at the university since 2019'?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) The article should be zero because no institution is named in the sentence.
+  <!-- feedback: Wrong. The zero article is used with general plurals such as universities, not with a single institution the speaker has in mind. -->
+- [x] B) The university is specific, because it is the one where she is registered, which is why the definite article is used.
+  <!-- feedback: Correct. Definite articles are used for institutions whose identity is fixed by context or general knowledge, not only when they are named. -->
+- [ ] C) The article is wrong because institutions are never referred to with the definite article.
+  <!-- feedback: Wrong. Institutions are routinely referred to with the definite article whenever they are identifiable. -->
+- [ ] D) The article should be an indefinite one because a new institution is being introduced.
+  <!-- feedback: Wrong. An indefinite article would suggest any university rather than the particular one the speaker means. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Definiteness depends on identifiability rather than on whether a name is spelled out, which is why institutions take the.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D6-D8]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.60
+**Contexto:** A style task asks for the most economical accurate version.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence is both grammatical and free of an unnecessary article?
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) A life of nurse involves night shifts.
+  <!-- feedback: Wrong. 'A life of nurse' lacks the article that the singular countable noun nurse requires. -->
+- [ ] B) The life of a nurse involves the night shifts.
+  <!-- feedback: Wrong. 'The night shifts' restricts the reference to particular shifts, adding an article the sentence does not need. -->
+- [x] C) The life of a nurse involves night shifts.
+  <!-- feedback: Correct. 'Night shifts' in the general sense takes no article, and 'a nurse' correctly introduces one unspecified member of the profession. -->
+- [ ] D) The life of the a nurse involves night shifts.
+  <!-- feedback: Wrong. 'The a nurse' contains two articles before one noun, which is never possible. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Economy in article use means removing the article that general and plural references do not require, without removing those they do.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W16-articles-determiners-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** An exam tests articles in a sentence with two nouns.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence in which both articles are correct.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] B) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) The head of the department the resigned yesterday.
+  <!-- feedback: Wrong. 'The department the resigned' inserts an extra article and leaves the structure with two determiners. -->
+- [ ] B) Head of the department resigned yesterday.
+  <!-- feedback: Wrong. 'Head of the department' lacks the article before the singular noun head, which is required. -->
+- [ ] C) The head of department resigned yesterday.
+  <!-- feedback: Wrong. 'Of department' lacks the article before a singular countable noun used as a role or institution. -->
+- [x] D) The head of the department resigned yesterday.
+  <!-- feedback: Correct. 'The head' takes the definite article because the role is unique, and 'the department' is also identifiable in the context. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Roles and institutions are singular countable nouns, so each one needs its own determiner and cannot share a single one.

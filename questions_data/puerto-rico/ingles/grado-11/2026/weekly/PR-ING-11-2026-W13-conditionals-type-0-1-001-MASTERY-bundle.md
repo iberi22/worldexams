@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 and 1, San Juan, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence expresses the zero conditional correctly?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) If you heat ice, it melts.
+  <!-- feedback: Correcto. El condicional cero expresa una verdad general y usa presente en ambas partes de la frase. -->
+- [ ] B) If you heated ice, it would melt.
+  <!-- feedback: Incorrecto. Esa frase es un condicional de tipo dos, que habla de una situacion hipotetica y no de una verdad general. -->
+- [ ] C) If you will heat ice, it melts.
+  <!-- feedback: Incorrecto. El condicional cero no lleva 'will' en la clausula de 'if'; en presente simple basta con 'heat'. -->
+- [ ] D) If you heat ice, it would melted.
+  <!-- feedback: Incorrecto. En el condicional cero la segunda parte tambien va en presente simple y no en forma condicional. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El condicional cero expresa hechos generales y siempre verificables, con presente simple en las dos partes. Se usa con 'if', 'when', 'every time' o 'as soon as' y describe lo que ocurre siempre que se cumpla la condicion.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1, Ponce, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'If it ____ (rain) tomorrow, we will cancel the picnic.'
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) will rain
+  <!-- feedback: Incorrecto. La clausula de 'if' no lleva 'will' en el condicional tipo uno; la forma correcta es 'rains'. -->
+- [ ] B) rained
+  <!-- feedback: Incorrecto. 'Rained' es pasado simple y corresponde al condicional tipo tres, no a una condicion futura. -->
+- [x] C) rains
+  <!-- feedback: Correcto. El condicional tipo uno usa presente simple en la clausula de 'if' y futuro con 'will' en la principal. -->
+- [ ] D) is raining
+  <!-- feedback: Incorrecto. El presente continuo no se usa en la clausula de 'if' del condicional tipo uno. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+El condicional tipo uno describe una condicion real y posible. Su estructura es fija: presente simple mas 'if' en la clausula condicional y futuro con 'will' mas infinitivo en la principal. Anadir 'will' a la clausula de 'if' es el error mas comun de esta unidad.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with scientific facts, Carolina, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'If you freeze water, it ____ (turn) into ice.'
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) will turn
+  <!-- feedback: Incorrecto. 'Will turn' corresponde al condicional tipo uno, que necesita una condicion futura posible y no un hecho general. -->
+- [x] B) turns
+  <!-- feedback: Correcto. Es un hecho general y verificable, asi que ambas partes van en presente simple, como exige el condicional cero. -->
+- [ ] C) would turn
+  <!-- feedback: Incorrecto. 'Would' pertenece a los condicionales de tipo dos y tres, no al condicional cero. -->
+- [ ] D) turned
+  <!-- feedback: Incorrecto. 'Turned' es pasado simple y describe una situacion hipotetica que no se da en el condicional cero. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+El condicional cero se emplea con hechos cientificos ypository��� reglas generales. La razon de usarlo es que el resultado es siempre el mismo, y por eso presente simple en las dos partes resulta la opcion mas natural.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with unless, Bayamon, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: 'Unless you hurry, you ____ (miss) the last boat to Vieques.'
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) miss
+  <!-- feedback: Incorrecto. Con una condicion negativa y resultado futuro, la principal necesita 'will' mas infinitivo. -->
+- [ ] B) would miss
+  <!-- feedback: Incorrecto. 'Would' corresponde a una hipotesis del condicional tipo dos, no a un resultado futuro probable. -->
+- [ ] C) missed
+  <!-- feedback: Incorrecto. 'Missed' es pasado simple y no concuerda con la consecuencia futura que expresa la frase. -->
+- [x] D) will miss
+  <!-- feedback: Correcto. 'Unless' equivale a 'if not', de modo que la frase se lee como condicional tipo uno con futuro en la principal. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Unless' significa 'si no' y siempre introduce la clausula negativa, de modo que despues se coloca el resultado. La estructura resultante es la misma que un condicional tipo uno con 'if' en positivo.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with first person, Arecibo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the correct form: 'If I ____ (have) time, I will call you tonight.'
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [ ] A) am having
+  <!-- feedback: Incorrecto. El presente continuo no aparece en la clausula de 'if' de un condicional tipo uno. -->
+- [ ] B) will have
+  <!-- feedback: Incorrecto. La clausula condicional no lleva 'will' cuando se expresa una condicion presente con consecuencia futura. -->
+- [ ] C) would have
+  <!-- feedback: Incorrecto. 'Would have' pertenece al condicional tipo tres, que se refiere a una situacion pasada ya cerrada. -->
+- [x] D) have
+  <!-- feedback: Correcto. En la primera persona el condicional tipo uno admite 'if' con presente o con pasado simple, y ambas formas son correctas. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Hay una excepcion importante: en primera persona, el condicional tipo uno admite 'if' con pasado simple. Asi, 'if I have time' y 'if I had time' son ambos naturales, y el segundo se usa para hablar de una posibilidad mas incierta.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with when and as soon as, Humacao, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) When you will switch the light on, the room lights up.
+  <!-- feedback: Incorrecto. La clausula de 'when' no lleva 'will' cuando describe una relacion habitual y general. -->
+- [x] B) When you switch the light on, the room lights up.
+  <!-- feedback: Correcto. 'When' introduce un hecho general y ambas partes van en presente simple, como en el condicional cero. -->
+- [ ] C) When you switched the light on, the room would light up.
+  <!-- feedback: Incorrecto. Esa estructura pertenece al condicional tipo dos y no describe un hecho general. -->
+- [ ] D) When you switch the light on, the room lit up.
+  <!-- feedback: Incorrecto. El pasado simple 'lit up' rompe la unidad de presente que exige el condicional cero. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'When' y 'as soon as' pueden abrir tanto el condicional cero como el tipo uno, y el tiempo verbal de cada parte decide cual es. En presente simple en las dos partes, es un condicional cero; con futuro en la principal, es tipo uno.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with first conditional order, Aguadilla, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'You ____ (pass) the exam if you study every night.'
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] A) will pass
+  <!-- feedback: Correcto. Invirtiendo el orden del condicional, la principal lleva 'will' mas infinitivo y la de 'if' queda en presente simple. -->
+- [ ] B) pass
+  <!-- feedback: Incorrecto. Consecuencia futura expresada por la frase, la principal necesita 'will' para marcarla de forma explicita. -->
+- [ ] C) would pass
+  <!-- feedback: Incorrecto. 'Would' corresponde a una hipotesis del condicional tipo dos y no a una consecuencia futura probable. -->
+- [ ] D) passed
+  <!-- feedback: Incorrecto. 'Passed' es pasado simple y no concuerda con una condicion presente ni con un resultado futuro. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+El orden de las dos partes del condicional puede intercambiarse sin cambiar el significado. Si la principal va primero, se escribe con futuro, y si la clausula de 'if' va primero, la principal conserva tambien el futuro.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 in scientific statements, Guayanilla, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which sentence expresses the zero conditional?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) If you mixed blue and yellow, you would get green.
+  <!-- feedback: Incorrecto. Esa frase es condicional tipo dos y presenta el hecho como hipotetico en lugar de general. -->
+- [ ] B) If you will mix blue and yellow, you get green.
+  <!-- feedback: Incorrecto. La clausula de 'if' no lleva 'will' en el condicional cero ni en el tipo uno. -->
+- [x] C) If you mix blue and yellow, you get green.
+  <!-- feedback: Correcto. Las dos partes van en presente simple y describen una relacion constante, que es la funcion del condicional cero. -->
+- [ ] D) If you mix blue and yellow, you would get green.
+  <!-- feedback: Incorrecto. Mezclar presente en la condicion y condicional en la principal no corresponde a ningun tipo estandar. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+El condicional cero es el mas facil de reconocer porque las dos partes van en presente simple. En cuanto aparece 'would' o 'will' en cualquiera de las dos partes, deja de ser un condicional cero.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with want to, Trujillo Alto, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the correct form: 'If you want to pass, you ____ (study) more this term.'
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) should to
+  <!-- feedback: Incorrecto. El modal 'should' no lleva 'to' detras, porque ya contiene el modo infinitivo del verbo principal. -->
+- [ ] B) must to
+  <!-- feedback: Incorrecto. 'Must' no admite 'to' intermedia, y ademas una obligacion seria demasiado fuerte para una recomendacion. -->
+- [x] C) should
+  <!-- feedback: Correcto. 'If you want to, you should' es una estructura muy frecuente en el ingles hablado y encaja como advice condition. -->
+- [ ] D) must
+  <!-- feedback: Incorrecto. 'Must' expresa una obligacion mas fuerte que la recomendacion que el enunciado pide, de modo que no responde a la intencion de la frase. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+En el condicional tipo uno la principal puede llevar futuro o un modal como 'should' o 'must'. La eleccion depende del grado de certeza y de la relacion entre las personas, y no de la estructura condicional en si misma.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 questions, Barceloneta, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Which question is correct?
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] A) What will you do if you win the scholarship?
+  <!-- feedback: Correcto. En una pregunta de condicional tipo uno el futuro abre la frase y la clausula de 'if' queda en presente simple. -->
+- [ ] B) What you will do if you will win the scholarship?
+  <!-- feedback: Incorrecto. El orden interrogativo exige que 'what' abra la frase y que la clausula de 'if' no lleve 'will'. -->
+- [ ] C) What will you do if you won the scholarship?
+  <!-- feedback: Incorrecto. 'Won' es pasado simple y corresponde a una hipotesis del condicional tipo dos, no a una condicion futura. -->
+- [ ] D) What do you will do if you win the scholarship?
+  <!-- feedback: Incorrecto. El auxiliar 'do' no puede combinarse con 'will', porque ambos cumplen la misma funcion verbal. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+En una pregunta de condicional tipo uno el futuro va delante del sujeto. La clausula de 'if' conserva el presente simple y el verbo principal despues de 'will' vuelve a su forma base, sin terminacion.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with unless, Maunabo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'You ____ (not / understand) the lesson unless you pay attention in class.'
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) don't understand
+  <!-- feedback: Incorrecto. El presente simple negativo no marca la consecuencia futura que introduce la frase. -->
+- [ ] B) will not understands
+  <!-- feedback: Incorrecto. Detras de 'will not' el verbo va en forma base 'understand' y no en tercera persona, porque los verbos modales no conjugan el principal. -->
+- [ ] C) would not understand
+  <!-- feedback: Incorrecto. 'Would' pertenece al condicional tipo dos y convierte la consecuencia en hipotetica. -->
+- [x] D) won't understand
+  <!-- feedback: Correcto. El negativo con 'will not' contracted da 'won't', y 'unless' introduce la condicion negativa equivalente a 'si no'. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+La forma contracta 'won't' y la extendida 'will not' expresan lo mismo. El condicional tipo uno se reconoce por la combinacion de presente simple en la clausula de 'if' o 'unless' y futuro en la principal, cualquier que sea la forma de ese futuro.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with warnings, Yauco, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence expresses a warning correctly?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) If you touched that plant, you would get an allergic reaction.
+  <!-- feedback: Incorrecto. 'Would' lo convierte en condicional tipo dos, que suena menos directo como advertencia. -->
+- [x] B) If you touch that plant, you will get an allergic reaction.
+  <!-- feedback: Correcto. El condicional tipo uno expresa una consecuencia probable que funciona como advertencia. -->
+- [ ] C) If you touching that plant, you will get an allergic reaction.
+  <!-- feedback: Incorrecto. El presente continuo no cabe en la clausula de 'if' del condicional tipo uno. -->
+- [ ] D) If you will touch that plant, you get an allergic reaction.
+  <!-- feedback: Incorrecto. 'Will' no va en la clausula de 'if' y el presente simple en la principal tampoco marca consecuencia futura. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+El condicional tipo uno se usa con frecuencia para advertir. La estructura presente simple mas futuro comunica un riesgo probable, y por eso aparece en carteles, folletos y conversaciones sobre salud y seguridad.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with the verb to have, Cayey, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'If she ____ (have) enough time, she will join the debate team.'
 
 ### Opciones
-- [x] B) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) have
+  <!-- feedback: Incorrecto. 'Have' corresponde a I, you, we y they, y el sujeto 'she' es de tercera persona singular. -->
+- [x] B) has
+  <!-- feedback: Correcto. 'Has' es la forma de presente simple de tercera persona y es la correcta en la clausula de 'if'. -->
+- [ ] C) will have
+  <!-- feedback: Incorrecto. La clausula de 'if' no lleva 'will' en el condicional tipo uno; ademas sobraria el futuro. -->
+- [ ] D) having
+  <!-- feedback: Incorrecto. El gerundio no ocupa el lugar del verbo principal en la clausula condicional de esta unidad. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+En el condicional tipo uno la clausula de 'if' va en presente simple y respeta la concordancia con el sujeto. Los errores mas frecuentes consisten en anadir 'will' o en conjugar mal el verbo por mirar solo la regla general y no el sujeto.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with daily routines, Arecibo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Which sentence is NOT grammatically correct?
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) If you drink coffee at night, you don't sleep well.
+  <!-- feedback: Incorrecto como distractor: 'drink' concuerda con 'you' y ambas partes en presente simple forman un condicional cero correcto. -->
+- [ ] B) If he drinks coffee at night, he doesn't sleep well.
+  <!-- feedback: Incorrecto como distractor: 'drinks' es la tercera persona singular correcta para el sujeto 'he'. -->
+- [ ] C) If they drink coffee at night, they don't sleep well.
+  <!-- feedback: Incorrecto como distractor: 'drink' concuerda con el sujeto plural 'they' y la frase es perfectamente gramatical. -->
+- [x] D) If I drinks coffee at night, I don't sleep well.
+  <!-- feedback: Correcto como respuesta: esta es la frase incorrecta, porque 'I' exige la forma base 'drink' y no 'drinks' en presente simple. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+En el condicional cero ambas partes van en presente simple y respetan la concordancia del sujeto. Olvidar la -s de la tercera persona singular en la clausula de 'if' es un error tan frecuente como anadir 'will' donde solo corresponde presente simple.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with mixed order, Camuy, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Complete the sentence: 'Will you help me ____ I explain the problem to you?'
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) that
+  <!-- feedback: Incorrecto. 'That' no introduce una condicion en esta unidad; el conector correcto para una clausula condicional es 'if'. -->
+- [ ] B) when
+  <!-- feedback: Incorrecto. 'When' pasaria a marcar una relacion temporal ya cerrada y no una condicion futura. -->
+- [x] C) if
+  <!-- feedback: Correcto. 'If' introduce la clausula condicional y el futuro 'will you' abre la frase principal. -->
+- [ ] D) what
+  <!-- feedback: Incorrecto. 'What' introduce una clausula indirecta interrogativa y no conecta dos proposiciones condicionales. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Cuando la principal va primero, el futuro abre la oracion y la clausula condicional se coloca al final, separada por una coma. El conector sigue siendo 'if' y la parte que le sigue va en presente simple.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with everyday consequences, Luquillo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Which sentence describes a constant result in the present?
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] A) If you push that button, the machine stops.
+  <!-- feedback: Correcto. Ambas partes en presente simple describen un resultado constante, que es el uso tipico del condicional cero. -->
+- [ ] B) If you pushed that button, the machine would stop.
+  <!-- feedback: Incorrecto. Esa frase es un condicional tipo dos y presenta el resultado como hipotetico. -->
+- [ ] C) If you will push that button, the machine stops.
+  <!-- feedback: Incorrecto. El condicional cero no admite 'will' en la clausula de 'if' en ningun caso. -->
+- [ ] D) If you push that button, the machine would stop.
+  <!-- feedback: Incorrecto. El condicional cero mantiene presente simple en las dos partes, nunca 'would'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+El condicional cero se apoya en la logica de causa y efecto determinista: si ocurre A, ocurre B siempre. Esa logica es la que permite usarlo para instrucciones tecnicas, recetas, normas de seguridad y reglas de funcionamiento cotidiano.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 in short answers, Toa Baja, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Question: 'If it rains, will you stay home?' Answer: '____'
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) Yes, I will.
+  <!-- feedback: Correcto. La respuesta corta al condicional tipo uno usa 'will', igual que la pregunta, sin repetir la condicion. -->
+- [ ] B) Yes, I would.
+  <!-- feedback: Incorrecto. En una respuesta corta al condicional tipo uno se repite 'will', y 'would' pertenece a otro tipo de condicional. -->
+- [ ] C) Yes, I do.
+  <!-- feedback: Incorrecto. 'Do' responde a una pregunta de presente simple y no a una construida con 'will'. -->
+- [ ] D) Yes, I am.
+  <!-- feedback: Incorrecto. 'Am' pertenece al verbo 'to be' y no corresponde a una pregunta con futuro en la principal. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+En una respuesta corta al condicional tipo uno se repite el auxiliar de la pregunta, que en presente es 'will'. Como la condicion no se repite, tambien es posible usar 'would', que aporta una lectura mas hipotetica de la respuesta.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with negative conditions, Naguabo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence correctly expresses a negative condition about the future?
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) If you will not leave now, you will miss the concert.
+  <!-- feedback: Incorrecto. La clausula de 'if' no lleva 'will not'; el futuro pertenece a la principal. -->
+- [ ] B) If you didn't leave now, you will miss the concert.
+  <!-- feedback: Incorrecto. 'Didn't' es pasado simple y pertenece al condicional tipo tres, no a una condicion presente. -->
+- [ ] C) If you not leave now, you will miss the concert.
+  <!-- feedback: Incorrecto. Falta el auxiliar 'do', que es el que construye la negacion de presente simple. -->
+- [x] D) If you don't leave now, you will miss the concert.
+  <!-- feedback: Correcto. La condicion va en presente simple negativo y la consecuencia en futuro, estructura propia del condicional tipo uno. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+La negacion en la clausula de 'if' se hace con 'do not' o 'don't' en presente simple. Igual que en cualquier otra oracion de presente, el auxiliar 'do' es obligatorio y el verbo principal conserva su forma base.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 1 with probability, Hatillo, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence expresses a probable future consequence?
 
 ### Opciones
-- [x] D) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] C) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) If she studies hard, she would probably pass the test.
+  <!-- feedback: Incorrecto. 'Would probably' pertenece al condicional tipo dos y situa la accion en un mundo hipotetico. -->
+- [x] B) If she studies hard, she will probably pass the test.
+  <!-- feedback: Correcto. 'Will probably' indica una consecuencia probable y mantiene la estructura del condicional tipo uno. -->
+- [ ] C) If she will study hard, she probably passes the test.
+  <!-- feedback: Incorrecto. La clausula de 'if' no lleva 'will', y el presente simple en la principal no marca consecuencia futura. -->
+- [ ] D) If she studied hard, she probably passed the test.
+  <!-- feedback: Incorrecto. Las dos partes en pasado simple describen una situacion pasada y no una consecuencia futura probable. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+El condicional tipo uno expresa una relacion causal real entre una condicion presente y un resultado futuro probable. Los adverbios de probabilidad como 'probably', 'maybe' o 'perhaps' pueden colocarse entre 'will' y el infinitivo sin alterar la estructura.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D2]
 **ID:** PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Conditionals type 0 with everyday routines, Yabucoa, grado 11, W13.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Complete the sentence: 'Every time I ____ (drink) coffee, I get a headache.'
 
 ### Opciones
-- [x] B) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) drinks
+  <!-- feedback: Incorrecto. 'Drinks' es tercera persona singular y el sujeto de la frase es 'I'. -->
+- [ ] B) will drink
+  <!-- feedback: Incorrecto. 'Every time' describe una repeticion y corresponde al condicional cero, sin futuro en la clausula. -->
+- [x] C) drink
+  <!-- feedback: Correcto. 'Every time' introduce un condicional cero y 'drink' concuerda con el sujeto 'I' en primera persona. -->
+- [ ] D) drank
+  <!-- feedback: Incorrecto. 'Drank' es pasado simple irregular y describe una sola vez, no una repeticion habitual. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Las expresiones que indican repeticion, como 'every time', 'whenever' o 'always', pertenecen al condicional cero. En ellas ambas partes van en presente simple porque describen algo que ocurre de manera constante.
+
+---

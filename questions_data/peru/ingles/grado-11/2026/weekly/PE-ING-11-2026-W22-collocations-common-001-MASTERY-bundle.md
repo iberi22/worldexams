@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student writes about an exam result.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the correct collocation for taking an exam.
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) sit an exam
+  <!-- feedback: Correct. 'Sit an exam' is the standard British and Peruvian collocation with the verb sit. -->
+- [ ] B) take an exam over again
+  <!-- feedback: Wrong. 'Take an exam over again' misuses take, since the collocation is with sit. -->
+- [ ] C) make an exam
+  <!-- feedback: Wrong. 'Make an exam' would mean to compose an exam paper, which is a different activity. -->
+- [ ] D) do an exam
+  <!-- feedback: Wrong. 'Do an exam' is informal and regional, and it is not the collocation expected in this register. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Collocations are fixed partnerships between words, and English offers more than one verb for some of them.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A student reports progress at school.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Choose the correct collocation for academic results.
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) do good progress
+  <!-- feedback: Wrong. 'Do progress' is not an English collocation in any variety. -->
+- [x] B) make good progress
+  <!-- feedback: Correct. 'Make progress' is the fixed collocation, and progress is uncountable so no article is used. -->
+- [ ] C) give good progress
+  <!-- feedback: Wrong. 'Give progress' would suggest distributing progress, which is not the intended sense. -->
+- [ ] D) take good progress
+  <!-- feedback: Wrong. 'Take progress' is not a standard expression in English. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+A collocation is a fixed partnership, so both the verb and the absence of an article matter when reproducing it.
+
 ---
-## Question 3 [D3-D4]
+
+## Question 3 [D3-D5]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.75
+**Contexto:** A report describes how a company began operating.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct collocation for establishing a business.
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) make up a business
+  <!-- feedback: Wrong. 'Make up' means to invent, which is the opposite of creating something real. -->
+- [ ] B) do up a business
+  <!-- feedback: Wrong. 'Do up' means to repair or to tidy, which is unrelated to establishing a business. -->
+- [x] C) set up a business
+  <!-- feedback: Correct. 'Set up' is the standard collocation for establishing a company or a system. -->
+- [ ] D) put up a business
+  <!-- feedback: Wrong. 'Put up' means to display or to erect, which does not mean to establish a company. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Several phrasal verbs share the particle up, but only one of them means to establish an organisation.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.75
+**Contexto:** A writer describes a decision.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct collocation for reaching a decision.
 
 ### Opciones
-- [x] D) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] C) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) reach a decision
+  <!-- feedback: Wrong. 'Reach a decision' is valid in English, so the sense is accurate even though make is the more common partner here. -->
+- [ ] B) take a decision over
+  <!-- feedback: Wrong. 'Take a decision over' misuses take and adds an inappropriate preposition. -->
+- [ ] C) do a decision
+  <!-- feedback: Wrong. 'Do a decision' is not an English collocation. -->
+- [x] D) make a decision
+  <!-- feedback: Correct. Both make a decision and reach a decision are standard, and this sentence uses make with the noun directly. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Some nouns accept more than one verb in English, and both partnerships are correct even though they differ in how frequent they are.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D3-D5]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A report describes the effects of an event.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the correct collocation for consequences.
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [x] A) have a serious impact on
+  <!-- feedback: Correct. 'Impact on' is the fixed prepositional partnership; something has an impact on something else. -->
+- [ ] B) have a serious impact at
+  <!-- feedback: Wrong. 'Impact at' is not a valid prepositional choice with impact. -->
+- [ ] C) make a serious impact on
+  <!-- feedback: Wrong. 'Make an impact on' is possible but 'make' is not the dominant verb with this noun in this pattern. -->
+- [ ] D) have a serious impact of
+  <!-- feedback: Wrong. 'Impact of' reverses the direction of the relationship and is not the collocation used after the verb have. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Prepositions inside collocations are as fixed as the verbs, so the pairing of the noun with its preposition must be memorised as a unit.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D3-D5]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate describes a risk.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the correct collocation for taking a risk.
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) make a risk
+  <!-- feedback: Wrong. 'Make a risk' would mean to create a danger rather than to accept one. -->
+- [x] B) take a risk
+  <!-- feedback: Correct. 'Take a risk' is the fixed collocation, and it parallels take a decision and take responsibility. -->
+- [ ] C) give a risk
+  <!-- feedback: Wrong. 'Give a risk' would suggest handing over a danger, which is not the meaning. -->
+- [ ] D) do a risk
+  <!-- feedback: Wrong. 'Do a risk' is not an English collocation. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The verb take collocates with a family of abstract nouns such as risk, responsibility and opportunity, which is why the pattern feels natural.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D3-D5]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Vocabulary
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A teacher comments on a student's behaviour.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'She has always acted ___ responsibility.'
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [ ] A) on
+  <!-- feedback: Wrong. 'Act on responsibility' would mean to act on the basis of it, which changes the meaning. -->
+- [ ] B) by
+  <!-- feedback: Wrong. 'Act by responsibility' treats responsibility as a method, which is not the intended sense. -->
+- [x] C) with
+  <!-- feedback: Correct. 'Act with responsibility' is the correct collocation, using the preposition with. -->
+- [ ] D) of
+  <!-- feedback: Wrong. 'Act of responsibility' is not a prepositional phrase that completes the verb act. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Prepositions in collocations vary with the noun, so act with responsibility must be learned rather than assembled from act plus responsibility.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v8
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Vocabulary
+**Expected_Success:** 0.70
+**Contexto:** A grammarian explains why a collocation is fixed.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the statement that best explains the concept of a collocation.
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) A collocation is a phrase that can be translated word for word without any loss of meaning.
+  <!-- feedback: Wrong. Collocations are precisely the combinations that resist word-for-word translation. -->
+- [ ] B) A collocation is a phrase in which the order of the words is fixed by the presence of a phrasal verb.
+  <!-- feedback: Wrong. Collocations include noun phrases and adjective plus noun pairings that contain no phrasal verb. -->
+- [ ] C) A collocation is any combination of words that is grammatically correct in a sentence.
+  <!-- feedback: Wrong. Grammatical correctness is necessary but not sufficient; many grammatical combinations are not collocations. -->
+- [x] D) A collocation is a conventional combination of words that native speakers use together more readily than the alternatives.
+  <!-- feedback: Correct. This captures the frequency-and-conventionality basis of collocation, which is the standard definition. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+A collocation is defined by conventional use rather than by grammar, which is why many correct sentences still sound unnatural.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Vocabulary
+**Expected_Success:** 0.70
+**Contexto:** A translator compares two options for rendering a text.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the statement that explains the risk of translating a collocation word for word.
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [x] A) The result is grammatical in the target language but may sound unnatural because the conventional partnership is different.
+  <!-- feedback: Correct. This identifies register and naturalness as the risk, rather than correctness or factual accuracy. -->
+- [ ] B) The result changes the factual content of the original, which is the main risk.
+  <!-- feedback: Wrong. A collocation choice affects style rather than the factual content of the message. -->
+- [ ] C) The result will always be correct, since collocations are universal across languages.
+  <!-- feedback: Wrong. Collocations differ between languages, so they are not universal and transfer is not always correct. -->
+- [ ] D) The result will always be ungrammatical, since collocations cannot be transferred between languages.
+  <!-- feedback: Wrong. Word-for-word transfer is often grammatical, so 'always ungrammatical' is too strong. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Translation risk with collocations is a question of conventionality, and this is the distinction that separates a fluent rendering from a literal one.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Vocabulary
+**Expected_Success:** 0.70
+**Contexto:** A report describes solving a problem.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the correct collocation for finding a solution.
 
 ### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [ ] A) find a solution of the problem
+  <!-- feedback: Wrong. 'Solution of' is used with a different sense, referring to a substance dissolved, not to a problem being solved. -->
+- [x] B) find a solution to the problem
+  <!-- feedback: Correct. 'Solution to' is the correct preposition, as in the standard phrase a solution to the problem. -->
+- [ ] C) find a solution the problem of.
+  <!-- feedback: Wrong. 'The problem of' reverses the expected order and misuses 'of' as an adjective. -->
+- [ ] D) find a solution for the problem is clear.
+  <!-- feedback: Wrong. The clause cannot be completed with 'is clear' because the object has already been placed. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+Solution takes to when it means an answer to a problem and of when it means the state of being dissolved, and the sense determines the preposition.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v11
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Vocabulary
+**Expected_Success:** 0.75
+**Contexto:** A speaker describes helping someone.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Choose the correct collocation for offering assistance.
 
 ### Opciones
-- [x] C) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] B) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) make someone help
+  <!-- feedback: Wrong. 'Make someone help' would force the person to help, which is a different meaning. -->
+- [ ] B) offer to someone help
+  <!-- feedback: Wrong. 'Offer to someone' misplaces the preposition, which would only be used in the alternative structure 'offer something to someone'. -->
+- [x] C) offer someone help
+  <!-- feedback: Correct. 'Offer someone something' is a double-object structure in which the indirect object comes before the direct one. -->
+- [ ] D) do someone help
+  <!-- feedback: Wrong. 'Do someone help' is not an English collocation. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Verbs such as offer, give and send allow both an indirect object structure and a with-preposition alternative, and both are correct.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v12
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Vocabulary
+**Expected_Success:** 0.75
+**Contexto:** A news report describes damage caused by a storm.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Choose the correct collocation for causing damage.
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) cause serious damage the building of.
+  <!-- feedback: Wrong. 'Damage the building of' misuses 'of' as if it were an adjective. -->
+- [ ] B) cause serious damage for the building.
+  <!-- feedback: Wrong. 'Damage for' would suggest damage intended for the building, which is not the sense. -->
+- [ ] C) cause serious damage of the building
+  <!-- feedback: Wrong. 'Damage of' would suggest damage belonging to the building, which reverses the direction. -->
+- [x] D) cause serious damage to the building
+  <!-- feedback: Correct. 'Cause damage to' is the standard collocation, with 'to' marking the thing that suffers the damage. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Damage collocates with to, and the preposition marks which entity receives the damage rather than which causes it.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D4-D6]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.75
+**Contexto:** A report describes improving a situation.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the correct collocation for achieving an improvement.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [x] A) improve the situation significantly
+  <!-- feedback: Correct. 'Improve' takes the noun as a direct object, and the adverb correctly follows the object phrase. -->
+- [ ] B) improve the significantly situation.
+  <!-- feedback: Wrong. 'The significantly situation' misplaces the adverb between the determiner and the noun. -->
+- [ ] C) improve for the situation significantly.
+  <!-- feedback: Wrong. 'Improve for' would suggest improving something on behalf of the situation. -->
+- [ ] D) improve of the situation significantly.
+  <!-- feedback: Wrong. 'Improve of' adds a preposition where the verb takes a direct object. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Some verbs take direct objects with no preposition at all, and adding one produces an ungrammatical or misunderstood sentence.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D5-D7]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.65
+**Contexto:** A manager describes a temporary arrangement.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the correct collocation for an arrangement between two people.
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] C) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) make an agreement of the supplier
+  <!-- feedback: Wrong. 'Agreement of' would suggest an agreement belonging to the supplier rather than one concluded with them. -->
+- [x] B) make an agreement with the supplier
+  <!-- feedback: Correct. 'Make an agreement with' is the standard collocation, with 'with' marking the other party. -->
+- [ ] C) make an agreement the supplier of.
+  <!-- feedback: Wrong. 'The supplier of' misuses 'of' to link a noun to a noun in the place of the correct preposition. -->
+- [ ] D) make an agreement for the supplier.
+  <!-- feedback: Wrong. 'Agreement for' suggests an agreement made on behalf of someone. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+The preposition in a collocation marks the relationship between the parties, so the wrong preposition changes who is involved in what way.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D5-D7]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Vocabulary
+**Expected_Success:** 0.65
+**Contexto:** An exam tests a collocation with an adjective and a noun.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the correct adjective and noun combination.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) a strong shower of rain
+  <!-- feedback: Wrong. 'A strong shower' exists but is much less conventional than heavy shower for rainfall. -->
+- [ ] B) a heavy shower from rain
+  <!-- feedback: Wrong. 'From' would mark an origin, which is not the relationship in this phrase. -->
+- [x] C) a heavy shower of rain
+  <!-- feedback: Correct. 'A heavy shower of rain' is the conventional combination, and the adjective heavy pairs naturally with shower. -->
+- [ ] D) a heavy shower with rain is likely.
+  <!-- feedback: Wrong. The clause cannot be completed with 'is likely' because the object noun is already present. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Adjective and noun pairs have conventional frequencies, and choosing the dominant adjective is what makes the phrase sound natural.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D5-D7]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.65
+**Contexto:** A writer describes a person's reaction to news.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the correct collocation for reacting to something unexpected.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [ ] A) She was taken off by the news.
+  <!-- feedback: Wrong. 'Taken off' means removed, for instance from a plane, which is unrelated to a reaction to news. -->
+- [ ] B) She was taken down by the news.
+  <!-- feedback: Wrong. 'Taken down' usually means dismantled or removed, and cannot be followed by 'by' in this sense. -->
+- [ ] C) She was taken over by the news.
+  <!-- feedback: Wrong. 'Taken over' would mean overwhelmed or replaced, neither of which matches being surprised. -->
+- [x] D) She was taken aback by the news.
+  <!-- feedback: Correct. 'Taken aback' is the fixed expression for being shocked, and it is a passive collocation. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Some collocations are built on past participles used as adjectives, so the whole fixed phrase has to be recalled as a unit.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D5-D7]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Vocabulary
+**Expected_Success:** 0.70
+**Contexto:** A study examines why a collocation is felt as correct.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the statement that best explains the standard collocation 'deeply regret an apology'.
 
 ### Opciones
-- [x] A) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] B) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) The verb deeply collocates with regret and the noun regret takes the object apology in this frame, so the whole phrase is conventional.
+  <!-- feedback: Correct. This identifies both fixed elements, the adverb with the verb and the noun with its object, which is the lexical constraint. -->
+- [ ] B) The phrase is conventional because the speaker feels regret, not because of any lexical constraint.
+  <!-- feedback: Wrong. The conventionality of a collocation is a property of the words, not of the speaker's emotional state. -->
+- [ ] C) Regret takes an apology because apologies are the only thing one can regret in English.
+  <!-- feedback: Wrong. The claim is far too strong; regret takes many objects, including a decision or a step too far. -->
+- [ ] D) Deeply is an intensifier and can be moved freely to any position in the phrase without changing the sense.
+  <!-- feedback: Wrong. Intensifiers in collocations are frequently tied to particular verbs and cannot always be repositioned freely. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Collocation constraints can operate at more than one level, and describing them accurately requires identifying each fixed element.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D5-D7]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Vocabulary
+**Expected_Success:** 0.70
+**Contexto:** A report describes a company's finances.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the correct collocation for financial results.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] C) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] D) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) do a profit last year
+  <!-- feedback: Wrong. 'Do a profit' is not an English collocation in any variety. -->
+- [x] B) make a profit last year
+  <!-- feedback: Correct. 'Make a profit' is the standard collocation, parallel to make a loss and make a decision. -->
+- [ ] C) give a profit last year.
+  <!-- feedback: Wrong. 'Give a profit' would suggest handing over a profit, which is not the meaning here. -->
+- [ ] D) take a profit last year
+  <!-- feedback: Wrong. 'Take a profit' is used in finance to mean a realised gain, but 'make' is the ordinary partner in general business English. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Where two verbs are possible with the same noun, an examination expects the dominant partner in general-purpose English.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D6-D8]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v19
 **Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Vocabulary
+**Expected_Success:** 0.60
+**Contexto:** A writing task asks for the most idiomatic version of a sentence.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which sentence uses the most conventional collocations throughout?
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) The company took a big decision and made a risk in order to enhance sales.
+  <!-- feedback: Wrong. 'Took a decision' is possible but less dominant than 'made a decision', and 'made a risk' is unidiomatic. -->
+- [ ] B) The company did a big decision and made a risk in order to increase sales.
+  <!-- feedback: Wrong. 'Did a decision' and 'made a risk' are both unidiomatic, so the sentence fails on two counts. -->
+- [x] C) The company made a big decision and took a risk in order to boost sales.
+  <!-- feedback: Correct. 'Make a decision', 'take a risk' and 'boost sales' are all the dominant collocations in this context. -->
+- [ ] D) The company made a big decision and made a risk in order to boost sales.
+  <!-- feedback: Wrong. 'Made a risk' is unidiomatic, even though the other three phrases in the sentence are conventional. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A sentence can be grammatical throughout and still sound foreign if its collocations are not the conventional ones.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D6-D8]
 **ID:** PE-ING-11-2026-W22-collocations-common-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Vocabulary
+**Expected_Success:** 0.65
+**Contexto:** An exercise tests a collocation that is easily confused with a near-synonym.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that uses the correct collocation for a sudden realisation.
 
 ### Opciones
-- [x] D) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] C) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) It suddenly hits on me that I am late.
+  <!-- feedback: Wrong. 'Hits on' is not a standard expression in this sense and sounds like an accidental contact. -->
+- [ ] B) It suddenly strikes on me that I am late.
+  <!-- feedback: Wrong. 'Strikes on' is not a valid combination; to strike is used without a preposition. -->
+- [ ] C) It suddenly occurs to me that I am late.
+  <!-- feedback: Wrong. 'Occurs to' is also correct, so this version would be acceptable but the question asks for the dominant form. -->
+- [x] D) It suddenly dawns on me that I am late.
+  <!-- feedback: Correct. 'It dawns on someone that' is the standard collocation for a sudden realisation, and 'occur to' is a valid alternative. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Several verbs share the same meaning in this frame, and the item tests knowledge of which of them are conventional rather than merely possible.

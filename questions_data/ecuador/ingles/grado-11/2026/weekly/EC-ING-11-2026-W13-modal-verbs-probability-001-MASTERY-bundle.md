@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The bag is very heavy. It ___ contain the camera equipment we brought.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the modal that expresses a reasonable deduction based on evidence.
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] B) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] D) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) It must contain the camera equipment we brought.
+  <!-- feedback: Correct! 'Must' expresses a strong deduction: the weight of the bag makes the conclusion almost certain. -->
+- [ ] B) It must containing the camera equipment we brought.
+  <!-- feedback: 'Must containing' needs the base form after the modal, so the correct form is 'must contain'. -->
+- [ ] C) It must contains the camera equipment we brought.
+  <!-- feedback: 'Must contains' adds the third person ending after a modal, which never happens in English. -->
+- [ ] D) It must to contain the camera equipment we brought.
+  <!-- feedback: 'Must to contain' adds an infinitive marker that never follows a modal verb. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A deduction with 'must' is a logical conclusion drawn from evidence: the roads are wet, so it must have rained. It expresses certainty based on reasoning, not on the speaker's personal will.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** There is no light in the room and the door is locked. She ___ be at home; she said she was going out.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the modal that expresses a guess the speaker cannot confirm.
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) She is may be at home, or she may have gone out as she said.
+  <!-- feedback: 'Is may' combines the auxiliary 'is' with the modal 'may', which is not grammatical in English. -->
+- [ ] B) She may being at home, or she may have gone out as she said.
+  <!-- feedback: 'May being' needs the base form after the modal, so the correct form is 'may be'. -->
+- [ ] C) She may to be at home, or she may have gone out as she said.
+  <!-- feedback: 'May to be' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) She may be at home, or she may have gone out as she said.
+  <!-- feedback: Correct! 'May be' presents one possibility and the repetition in 'may have gone' presents the other, which is the normal way to offer alternatives. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Alternatives are expressed by repeating the modal, as in 'she may be there or she may have left'. With 'may' and 'might' the two options can also be joined by 'or' without any extra conjunction.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Don't worry, it ___ be true; nobody in the village has a television.
+
+### Enunciado
+Complete the sentence with the modal that expresses the speaker's strong doubt.
+
+### Opciones
+- [ ] A) It can to be true, because nobody in the village has a television.
+  <!-- feedback: 'Can to be' adds an infinitive marker that never follows a modal verb. -->
+- [x] B) It can't be true, because nobody in the village has a television.
+  <!-- feedback: Correct! 'Can't be' expresses the certainty that something is not true, which the evidence supports. -->
+- [ ] C) It can being true, because nobody in the village has a television.
+  <!-- feedback: 'Can being' needs the base form after the modal, so the correct form is 'can be'. -->
+- [ ] D) It can be not true, because nobody in the village has a television.
+  <!-- feedback: 'Can be not true' puts 'not' after the verb phrase, which is not where English places the negation. -->
+
+### Explicacion Pedagogica
+'Can't' followed by the infinitive is used to reject a possibility firmly. It is different from 'needn't', which says an action is unnecessary, and from 'mustn't', which forbids it.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You did not lock the door, so the burglar ___ have entered through the garden.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence with the modal perfect that expresses a deduction about the past.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) The burglar must have to enter through the garden.
+  <!-- feedback: 'Must have to enter' adds an infinitive marker that never appears between 'have' and the participle. -->
+- [ ] B) The burglar must have entering through the garden.
+  <!-- feedback: 'Must have entering' needs the past participle after 'must have', so the correct form is 'must have entered'. -->
+- [x] C) The burglar must have entered through the garden.
+  <!-- feedback: Correct! 'Must have entered' is the modal perfect of deduction about a past event, formed with 'must have' plus the past participle. -->
+- [ ] D) The burglar must have entry through the garden.
+  <!-- feedback: 'Entry' is a noun and cannot serve as the past participle of the verb 'enter'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+'Must have' plus a past participle expresses a deduction about the past: the floor is wet, so it must have rained. The same form also criticises: you must have forgotten about the meeting.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I'm sure she did not hear the phone; she ___ have been in the garden at that hour.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Choose the sentence that correctly expresses a deduction about a past possibility.
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] B) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] C) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) She can't have been in the garden at that hour, because she was at the dentist.
+  <!-- feedback: Correct! 'Can't have been' rejects a past possibility, and the reason given supports that rejection. -->
+- [ ] B) She can't have being in the garden at that hour, because she was at the dentist.
+  <!-- feedback: 'Can't have being' needs the past participle after 'have', so the correct form is 'can't have been'. -->
+- [ ] C) She can't have to be in the garden at that hour, because she was at the dentist.
+  <!-- feedback: 'Can't have to be' adds an infinitive marker that never appears between 'have' and the participle. -->
+- [ ] D) She can't has been in the garden at that hour, because she was at the dentist.
+  <!-- feedback: 'Can't has been' mixes the negative modal with another auxiliary, which is not grammatical in English. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Can't have' plus a past participle states that a past situation is impossible, and 'might have' states that it is merely unlikely. The choice between them depends on how firm the speaker's evidence is.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** These photographs look old. They ___ be from the 1920s.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the modal that expresses a probable hypothesis about the past.
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) They might to be from the 1920s.
+  <!-- feedback: 'Might to be' adds an infinitive marker that never follows a modal verb. -->
+- [ ] B) They might being from the 1920s.
+  <!-- feedback: 'Might being' needs the base form after the modal, so the correct form is 'might be'. -->
+- [x] C) They might be from the 1920s.
+  <!-- feedback: Correct! 'Might be' presents a probable hypothesis without committing the speaker to it. -->
+- [ ] D) They are might be from the 1920s.
+  <!-- feedback: 'Are might' combines the auxiliary 'are' with the modal 'might', which is not grammatical in English. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+Hypotheses about the past use the same three modals as hypotheses about the present: 'must have' for a firm deduction, 'may have' or 'might have' for a possibility and 'could have' for something that did not happen.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Don't run in the corridor. You ___ hurt yourself.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence with the modal that expresses a probable negative consequence.
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] C) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] D) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) You might hurts yourself if you run in the corridor.
+  <!-- feedback: 'Might hurts' adds the third person ending after a modal, which never happens in English. -->
+- [ ] B) You might hurting yourself if you run in the corridor.
+  <!-- feedback: 'Might hurting' needs the base form after the modal, so the correct form is 'might hurt'. -->
+- [ ] C) You might to hurt yourself if you run in the corridor.
+  <!-- feedback: 'Might to hurt' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) You might hurt yourself if you run in the corridor.
+  <!-- feedback: Correct! 'Might hurt' expresses a probable but not certain negative consequence, which is what a warning uses. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Warnings about consequences use 'might', 'may' and 'could' followed by the base form. Adding 'you' as a subject and a clause beginning with 'if' makes the possible result explicit.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Where is Pablo? He ___ have gone to the library without telling us.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the modal that expresses a suspicion about a past action.
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] B) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] C) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) He must have going to the library without telling us.
+  <!-- feedback: 'Must have going' needs the past participle after 'must have', so the correct form is 'must have gone'. -->
+- [x] B) He must have gone to the library without telling us.
+  <!-- feedback: Correct! 'Must have gone' expresses a firm deduction about a past event that the disappearance makes likely. -->
+- [ ] C) He must have to gone to the library without telling us.
+  <!-- feedback: 'Must have to gone' adds an infinitive marker that never appears between 'have' and the participle. -->
+- [ ] D) He must has gone to the library without telling us.
+  <!-- feedback: 'Must has gone' mixes two auxiliaries and is not a structure in English. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'Must have' plus a past participle is used to express a deduction about the past and also a criticism: you must have forgotten. The subject of that construction is almost always the person whose intention or mistake is being discussed.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] A) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] B) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] C) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] D) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] B) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] B) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] A) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] B) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The meeting starts at nine, so we ___ arrive on time if we leave now.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the sentence that correctly uses a modal of deduction with a conditional clause.
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] B) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] C) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] D) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) We should arrive on time if we leave now.
+  <!-- feedback: Correct! 'Should' expresses the probable consequence of leaving now, and it is followed by the base form. -->
+- [ ] B) We should arriving on time if we leave now.
+  <!-- feedback: 'Should arriving' needs the base form after the modal, so the correct form is 'should arrive'. -->
+- [ ] C) We should to arrive on time if we leave now.
+  <!-- feedback: 'Should to arrive' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) We are should arrive on time if we leave now.
+  <!-- feedback: 'Are should' combines the auxiliary 'are' with the modal 'should', which is not grammatical in English. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Should', 'may' and 'might' combine easily with an 'if' clause to express probable consequences: if it rains, we may cancel. In all cases the modal is followed by the base form of the verb.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** She's been working here for fifteen years and knows every file, so she ___ be the right person to train the new staff.
+
+### Enunciado
+Choose the modal that expresses the obvious conclusion from the information given.
+
+### Opciones
+- [ ] A) She must being the right person to train the new staff.
+  <!-- feedback: 'Must being' needs the base form after the modal, so the correct form is 'must be'. -->
+- [x] B) She must be the right person to train the new staff.
+  <!-- feedback: Correct! 'Must be' expresses the conclusion that follows from her long experience in the company. -->
+- [ ] C) She must to be the right person to train the new staff.
+  <!-- feedback: 'Must to be' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) She must the right person to train the new staff.
+  <!-- feedback: 'Must' needs a verb after it, so a modal cannot be placed directly before an adjective. -->
+
+### Explicacion Pedagogica
+A modal of deduction must always be followed by a verb, most often the verb 'to be'. Saying 'she must the right person' is impossible, because 'must' cannot stand alone in front of an adjective.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** The lights are on and there is music playing, so they ___ be having a party tonight.
+
+### Enunciado
+Complete the sentence with the modal that expresses an obvious deduction about the present continuous.
+
+### Opciones
+- [ ] A) They must are having a party tonight.
+  <!-- feedback: 'Must are having' combines a modal with the auxiliary 'are', which cannot appear together. -->
+- [ ] B) They must having a party tonight.
+  <!-- feedback: 'Must having' needs the auxiliary 'be' before the -ing form, so the correct structure is 'must be having'. -->
+- [ ] C) They must to having a party tonight.
+  <!-- feedback: 'Must to having' adds an infinitive marker and an -ing form at once, which is not English. -->
+- [x] D) They must be having a party tonight.
+  <!-- feedback: Correct! 'Must be having' is a deduction about the present, and 'be' plus 'having' is the continuous form it requires. -->
+
+### Explicacion Pedagogica
+A deduction with a modal is followed by a complete verb phrase, which may itself be in the continuous: they must be working, we must have been waiting. The auxiliary of the main phrase comes after the modal, not before it.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** I left my passport at home, so they ___ turn us away at the border.
+
+### Enunciado
+Choose the sentence that expresses a probable future consequence.
+
+### Opciones
+- [ ] A) They will probably to turn away at the border.
+  <!-- feedback: 'Will probably to turn' adds an infinitive marker that never follows 'will'. -->
+- [ ] B) They will probably turning away at the border.
+  <!-- feedback: 'Will probably turning' needs the base form after 'will', so the correct form is 'will probably turn'. -->
+- [x] C) They will probably turn us away at the border.
+  <!-- feedback: Correct! 'Will turn' states the future action and the adverb 'probably' places the probability between the auxiliary and the verb. -->
+- [ ] D) They will probably turns away at the border.
+  <!-- feedback: 'Will probably turns' adds the third person ending after 'will', which is never the case. -->
+
+### Explicacion Pedagogica
+Adverbs of probability are placed after the auxiliary: it will probably rain, they will probably arrive. The verb keeps its base form wherever the adverb falls.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** You said you would help me and then you left. You ___ have told me you were too busy.
+
+### Enunciado
+Choose the sentence that expresses criticism about a past failure.
+
+### Opciones
+- [x] A) You should have told me you were too busy.
+  <!-- feedback: Correct! 'Should have told' criticises a past action that the speaker believes should have been done. -->
+- [ ] B) You should have tell me you were too busy.
+  <!-- feedback: 'Should have tell' uses the base form after 'should have'; that construction needs the past participle. -->
+- [ ] C) You should told me you were too busy.
+  <!-- feedback: 'Should told' uses only two forms; the third form of a modal needs 'have' between the modal and the participle. -->
+- [ ] D) You should have to told me you were too busy.
+  <!-- feedback: 'Should have to told' adds an infinitive marker that never appears between 'have' and the participle. -->
+
+### Explicacion Pedagogica
+'Should have' plus a past participle expresses regret or criticism about something not done in the past: you should have told me, you should have warned her. It is followed by a past participle, never by an infinitive.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The concert has been sold out, so we ___ not be able to get tickets at the door.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the sentence that expresses a prediction of impossibility in the future.
 
 ### Opciones
-- [x] A) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] B) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) We will not being able to get tickets at the door.
+  <!-- feedback: 'Not being' uses the -ing form after the modal, where the adjective phrase with 'be able' is needed. -->
+- [ ] B) We will not able to get tickets at the door.
+  <!-- feedback: 'Not able' is missing the verb 'be', which a modal requires before an adjective. -->
+- [x] C) We will not be able to get tickets at the door.
+  <!-- feedback: Correct! 'Will not be able' is the standard negative prediction, with the verb 'be' before the adjective 'able'. -->
+- [ ] D) We will not to able to get tickets at the door.
+  <!-- feedback: 'Not to able' adds an infinitive marker that never appears between 'be' and the adjective 'able'. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+A modal followed by an adjective always needs the verb 'be' in between: it must be cold, she will not be able, they might be wrong. This is a fixed structure and one of the easiest ways to produce a defective sentence.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Perhaps we left the tickets at home; I can't find them anywhere.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly expresses a doubt about a past action.
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] A) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] B) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) Perhaps we left the tickets at home; I cannot find it anywhere.
+  <!-- feedback: 'Find it' uses the singular pronoun, but the noun being searched for is the plural 'tickets'. -->
+- [x] B) Perhaps we left the tickets at home; I cannot find them anywhere.
+  <!-- feedback: Correct! 'Left' is the past simple of the irregular verb 'leave' and 'them' agrees with the plural noun 'tickets'. -->
+- [ ] C) Perhaps we left the tickets at home; I cannot find them anywere.
+  <!-- feedback: 'Anywere' is a misspelling; the word is 'anywhere', and a single sentence cannot carry two different spellings of the same adverb. -->
+- [ ] D) Perhaps we left the tickets at home; I no can find them anywhere.
+  <!-- feedback: 'No can' places 'no' in front of a modal, but the negative of 'can' is 'cannot' or the contraction 'can't'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+'Leave' is irregular, so its past simple is 'left' and not 'leaved'. The pronoun that refers back to 'tickets' must be plural, and the negative modal is written as one word, 'cannot'.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** He arrived without his passport, so the airline ___ not let him board the plane.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence with the modal that expresses a certainty about a refusal in the future.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] B) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] D) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) The airline will not lets him board the plane.
+  <!-- feedback: 'Will not lets' adds the third person ending after the modal, which never happens in English. -->
+- [ ] B) The airline will not letting him board the plane.
+  <!-- feedback: 'Not letting' needs the base form after the modal, so the correct form is 'will not let'. -->
+- [ ] C) The airline not will let him board the plane.
+  <!-- feedback: 'Not will' places 'not' in front of the modal, but English forms the negative as 'will not'. -->
+- [x] D) The airline will not let him board the plane.
+  <!-- feedback: Correct! 'Will not let' expresses a certain refusal and is followed by the base form of the verb. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+A prediction presented as certain is expressed with 'will not'. A deduction of that kind is stronger than 'might not', and it is often used when the outcome follows from a rule that has already been stated.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We waited an hour and the bus never came. It ___ have broken down on the mountain road.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the modal that expresses the most probable explanation of what happened.
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) It must have broken down on the mountain road.
+  <!-- feedback: Correct! 'Must have broken down' is the modal perfect of deduction with an irregular verb, whose past participle is 'broken'. -->
+- [ ] B) It must have break down on the mountain road.
+  <!-- feedback: 'Must have break' uses the base form after 'must have'; that construction needs the past participle. -->
+- [ ] C) It must have broken on the mountain road.
+  <!-- feedback: 'Broken' is the correct participle but 'break' alone is not, so the phrase as written lacks the participle the modal requires. -->
+- [ ] D) It must have to break down on the mountain road.
+  <!-- feedback: 'Must have to break' adds an infinitive marker that never appears between 'have' and the participle. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Phrasal verbs keep their particle in the modal perfect: must have broken down, must have given up, must have taken off. The past participle of 'break' is irregular and must be learned separately from its past simple.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** It's very likely to rain, so take an umbrella.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the sentence that matches the probability being described.
 
 ### Opciones
-- [x] B) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] C) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] D) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) It will probably rains, so take an umbrella with you.
+  <!-- feedback: 'Will probably rains' adds the third person ending after 'will', which never happens in English. -->
+- [x] B) It will probably rain, so take an umbrella with you.
+  <!-- feedback: Correct! 'Will probably rain' places the adverb after the auxiliary and keeps the verb in its base form. -->
+- [ ] C) It will probably to rain, so take an umbrella with you.
+  <!-- feedback: 'Will probably to rain' adds an infinitive marker that never follows 'will'. -->
+- [ ] D) It will probably raining, so take an umbrella with you.
+  <!-- feedback: 'Will probably raining' needs the base form after 'will', so the correct form is 'will probably rain'. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Adverbs of likelihood such as 'probably', 'certainly' and 'possibly' are placed after the auxiliary. Modals of possibility and prediction are often combined for a more precise statement: it will probably rain, it might possibly snow.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** She was very rude to the teacher, so she ___ apologize.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence with the modal that expresses an obligation deduced from the situation.
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] A) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) She must apologizes for what she did.
+  <!-- feedback: 'Must apologizes' adds the third person ending after a modal, which never happens in English. -->
+- [ ] B) She must apologizing for what she did.
+  <!-- feedback: 'Must apologizing' needs the base form after the modal, so the correct form is 'must apologize'. -->
+- [ ] C) She must to apologize for what she did.
+  <!-- feedback: 'Must to apologize' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) She must apologize for what she did.
+  <!-- feedback: Correct! 'Must' expresses the deduction that her behaviour obliges her to apologise, and the verb keeps its base form. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+A deduction of obligation uses 'must' followed by the base form, exactly as an obligation does. The difference lies in the reasoning of the speaker rather than in the grammatical structure, which is why both uses look identical on the page.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Have you seen my glasses? I ___ have left them at the office.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the modal that expresses a strong suspicion about a past action.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) I must have to left them at the office.
+  <!-- feedback: 'Must have to left' adds an infinitive marker that never appears between 'have' and the participle. -->
+- [ ] B) I must have leaving them at the office.
+  <!-- feedback: 'Must have leaving' needs the past participle after 'must have', so the correct form is 'must have left'. -->
+- [x] C) I must have left them at the office.
+  <!-- feedback: Correct! 'Must have left' expresses the strong suspicion that the glasses were left somewhere earlier. -->
+- [ ] D) I must has left them at the office.
+  <!-- feedback: 'Must has left' mixes the modal 'must' with the auxiliary 'has', which is not a valid combination. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Suspicions about the past use the modal perfect: I must have forgotten, he must have taken them, she must have paid. The construction always contains a modal, then 'have', then a past participle.
+---

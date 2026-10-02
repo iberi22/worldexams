@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect sequences, San Juan, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the past perfect correctly?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) When I arrived, the bus had already left.
+  <!-- feedback: Correcto. 'Had left' situa la salida del bus antes de la llegada, que es lo que expresa 'when'. -->
+- [ ] B) When I arrived, the bus already left.
+  <!-- feedback: Incorrecto. Sin 'had' la frase no expresa la diferencia de orden entre los dos hechos pasados. -->
+- [ ] C) When I had arrive, the bus left.
+  <!-- feedback: Incorrecto. El participio de 'to arrive' es 'arrived', y el pasado perfecto nunca lleva forma base. -->
+- [ ] D) When I arrived, the bus has left.
+  <!-- feedback: Incorrecto. El presente perfecto no se usa con 'when' en pasado, porque 'has' pertenece a otra unidad temporal. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El pasado perfecto se forma con 'had' mas el participio pasado y expresa una accion anterior a otra accion en pasado. Es el tiempo que se usa en las secuencias narrativas, donde hay que marcar con claridad que ocurrio primero.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with regular participles, Ponce, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'By the time we reached the beach, the sun ____ (already / set).'
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) had already sit
+  <!-- feedback: Incorrecto. 'Sit' no es un participio; el participio de 'to set' es 'set' y no lleva terminacion -ed. -->
+- [ ] B) has already set
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no puede expresar una accion anterior a otra pasada. -->
+- [x] C) had already set
+  <!-- feedback: Correcto. 'Had' mas el participio 'set' con 'already' forma el pasado perfecto y marca la accion anterior. -->
+- [ ] D) already had setting
+  <!-- feedback: Incorrecto. El pasado perfecto exige el participio pasado y no el gerundio 'setting'. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Los adverbios como 'already', 'just' y 'never' ocupan la posicion intermedia en el pasado perfecto: 'had' mas adverbio mas participio. La estructura es la misma que en presente perfecto, con 'had' en lugar de 'have' o 'has'.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to be, Carolina, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Complete the sentence: 'She couldn't enter because she ____ (lose) her keys.'
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) has lost
+  <!-- feedback: Incorrecto. 'Has' pertenece al presente perfecto y no puede colocarse dentro de una secuencia pasada. -->
+- [x] B) had lost
+  <!-- feedback: Correcto. 'Had lost' situa la perdida de las llaves antes del intento de entrar, que es la secuencia que explica la frase. -->
+- [ ] C) had lose
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'lost' y no en la forma base 'lose'. -->
+- [ ] D) had losing
+  <!-- feedback: Incorrecto. El pasado perfecto no admite el gerundio 'losing' detras de 'had'. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Cuando una accion pasada explica o impide otra accion pasada, la primera va en pasado perfecto. Esa secuencia es la funcion central de esta unidad y aparece con 'because', 'after', 'before' o 'when' como nexos.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with irregular participles, Bayamon, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Complete the sentence: 'He told us he ____ (write) the letter the night before.'
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] A) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] B) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) had wrote
+  <!-- feedback: Incorrecto. 'Wrote' es el pasado simple y no puede funcionar como participio detras de 'had'. -->
+- [ ] B) had writed
+  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce ninguna forma del ingles. -->
+- [ ] C) has written
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una secuencia de dos acciones pasadas. -->
+- [x] D) had written
+  <!-- feedback: Correcto. 'Had written' es el pasado perfecto y 'written' es el participio irregular de 'to write'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+El pasado perfecto usa el mismo participio que el presente perfecto. La diferencia esta unicamente en el auxiliar: 'had' mas participio para el pasado perfecto y 'have' o 'has' mas participio para el presente perfecto.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with before and after, Arecibo, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which sentence expresses the correct order of past events?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [ ] A) After he had left, the lights had gone out.
+  <!-- feedback: Incorrecto. 'Had gone out' situa el apagado antes de la salida, pero 'after' exige lo contrario. -->
+- [ ] B) After he left, the lights had gone out.
+  <!-- feedback: Incorrecto. Aqui las dos acciones van en pasado simple y no se marca la diferencia de orden que pide el nexo. -->
+- [ ] C) After he would left, the lights went out.
+  <!-- feedback: Incorrecto. 'Would' no expresa accion pasada anterior y la estructura no corresponde al pasado perfecto. -->
+- [x] D) After he had left, the lights went out.
+  <!-- feedback: Correcto. 'Had left' es la accion mas antigua y 'went out' ocurre despues, como indica 'after'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Los nexos temporales 'before' y 'after' determinan que tiempo verbal corresponde a cada accion. Con 'after', la accion que va en pasado perfecto es la primera; con 'before', es la segunda. Esa logica se verifica siempre antes de conjugar.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with by the time, Humacao, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Complete the sentence: 'By the time I arrived, they ____ (finish) the project.'
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] A) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] B) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) have finished
+  <!-- feedback: Incorrecto. 'Have' es presente perfecto y no puede aparecer dentro de una secuencia pasada. -->
+- [x] B) had finished
+  <!-- feedback: Correcto. 'By the time' introduce el segundo evento, de modo que lo anterior va en pasado perfecto. -->
+- [ ] C) had finish
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base. -->
+- [ ] D) were finishing
+  <!-- feedback: Incorrecto. 'Were finishing' es un condicional imposible y no expresa la accion previa que pide la frase. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+La expresion 'by the time' es la senal mas clara de que hace falta pasado perfecto. Marca el momento de referencia y todo lo que ocurrio antes de ese momento va en 'had' mas participio.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to go, Aguadilla, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'We missed the concert because the band ____ (cancel) it.'
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] C) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] A) had cancelled
+  <!-- feedback: Correcto. 'Had cancelled' expresa que la cancelacion ocurrio antes y por esogyzno llegamos al concierto. -->
+- [ ] B) had cancel
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'cancelled' y no en la forma base 'cancel'. -->
+- [ ] C) has cancelled
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una causa que ya actuo en el pasado. -->
+- [ ] D) had cancelling
+  <!-- feedback: Incorrecto. El gerundio no aparece en pasado perfecto, que siempre exige un participio pasado. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Cuando un pasado simple se explica por otro hecho anterior, la causa va en pasado perfecto. La estructura es 'because' mas 'had' mas participio, y es una de las combinaciones que mas se prueba en los exámenes de narracion.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect questions, Guayanilla, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Which question is correct?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) Did you finished the report before the meeting?
+  <!-- feedback: Incorrecto. Detras de 'did' el verbo va en forma base, de modo que sobra la terminacion -ed. -->
+- [ ] B) Have you finished the report before the meeting?
+  <!-- feedback: Incorrecto. 'Have' es presente perfecto y no corresponde a una pregunta sobre el pasado. -->
+- [x] C) Had you finished the report before the meeting?
+  <!-- feedback: Correcto. El pasado perfecto abre con 'Had' y el verbo queda en participio 'finished'. -->
+- [ ] D) Had you finish the report before the meeting?
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+En las preguntas de pasado perfecto el auxiliar 'had' va al principio y el verbo principal en participio. La misma logica que en el presente perfecto se aplica aqui cambiando 'have' o 'has' por 'had'.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect versus past simple, Trujillo Alto, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+When is the past simple enough, without 'had'?
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) Never. Every sequence of past events requires the past perfect.
+  <!-- feedback: Incorrecto. El pasado perfecto es necesario solo cuando el orden debe marcarse explicitamente con el participio. -->
+- [ ] B) Only when the events happen every day.
+  <!-- feedback: Incorrecto. La frecuencia pertenece al presente simple, no a la eleccion entre pasado simple y pasado perfecto. -->
+- [x] C) When the order of two past events is already clear from the verb forms.
+  <!-- feedback: Correcto. Si el pasado simple ya expresa el orden por la posicion de las acciones, no hace falta el pasado perfecto. -->
+- [ ] D) Only when the events take place in the future.
+  <!-- feedback: Incorrecto. El pasado perfecto describe siempre el pasado y no se usa con hechos futuros. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+El pasado perfecto no es obligatorio en toda narracion en pasado. Cuando el orden ya se entiende por el desarrollo de la historia, dos pasado simples bastan. El pasado perfecto se reserva para marcar la traslacion temporal de forma explicita.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to be, Barceloneta, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the sentence: 'The party was boring because nobody ____ (arrive) on time.'
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] A) had arrived
+  <!-- feedback: Correcto. 'Had arrived' indica que las llegadas tardias ya habian ocurrido cuando se evalua la fiesta. -->
+- [ ] B) has arrived
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una situacion evaluada en el pasado. -->
+- [ ] C) had arrive
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'arrived' y no en la forma base 'arrive'. -->
+- [ ] D) was arrive
+  <!-- feedback: Incorrecto. 'Was' es el pasado simple de 'to be' y no admite un verbo de accion detras sin 'had'. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+El pasado perfecto con verbos de movimiento como 'arrive', 'leave' o 'finish' es muy frecuente cuando la accion previa explica el estado posterior. Reconocer el patron 'porque algo ya habia ocurrido' facilita mucho la eleccion del tiempo.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to drink, Maunabo, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'He was thirsty because he ____ (not / drink) all day.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) hadn't drink
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'drunk' y no en la forma base 'drink'. -->
+- [ ] B) didn't drunk
+  <!-- feedback: Incorrecto. Se mezclan el pasado simple y el participio, de modo que la frase no es valida. -->
+- [ ] C) hasn't drunk
+  <!-- feedback: Incorrecto. 'Hasn't' es presente perfecto y no corresponde a la causa de una situacion pasada. -->
+- [x] D) hadn't drunk
+  <!-- feedback: Correcto. 'Hadn't drunk' es el negativo del pasado perfecto y expresa una accion anterior y completa. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+El participio de 'to drink' es 'drunk', que es irregular y distinto del pasado simple 'drank'. En pasado perfecto se usa siempre el participio, de modo que la forma correcta con negacion es 'had not drunk' o 'hadn't drunk'.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v12
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with although and because, Yauco, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence is correct?
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] B) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] C) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) Although she studied hard, she had failed the test.
+  <!-- feedback: Incorrecto. Asi se invierte el orden y ademas un examen fallado no puede ser anterior al esfuerzo de estudiar. -->
+- [x] B) Although she had studied hard, she failed the test.
+  <!-- feedback: Correcto. 'Had studied' situa el esfuerzo antes del examen, y 'although' introduce la contraste entre las dos acciones. -->
+- [ ] C) Although she had studied hard, she had failed the test.
+  <!-- feedback: Incorrecto. Con dos pasado perfectos seguidos la frase resulta ambigua y no expresa el orden que pide 'although'. -->
+- [ ] D) Although she studied had hard, she failed the test.
+  <!-- feedback: Incorrecto. 'Studied had' no es una estructura valida, porque el auxiliar no se coloca despues del participio. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+Los conectores como 'although', 'because' y 'so' ordenan la secuencia. Con 'although' la clausula que se presenta como concessiva suele ir en pasado perfecto o en pasado simple, y la principal en pasado simple. La logica temporal debe ser coherente con el mundo de la frase.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to see, Cayey, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'The film was confusing because I ____ (not / understand) the ending.'
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] B) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) haven't understood
+  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa ya cerrada en el pasado. -->
+- [x] B) hadn't understood
+  <!-- feedback: Correcto. 'Hadn't understood' marca la incomprension anterior que explica la confusion posterior. -->
+- [ ] C) hadn't understand
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'understood' y no en la forma base 'understand'. -->
+- [ ] D) wasn't understand
+  <!-- feedback: Incorrecto. 'Was' pertenece al pasado de 'to be' y no combina con un verbo de accion detras. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+El participio de 'to understand' es 'understood', una forma irregular con cambio de vocal y terminacion -od. Los verbos que cambian la raiz en pasado suelen hacer lo mismo en participio, y hay que conocer las dos formas.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to buy, San Sebastian, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'They couldn't enter the concert because they ____ (not / buy) a ticket.'
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) hadn't buyed
+  <!-- feedback: Incorrecto. 'Buyed' no existe en ingles, porque el participio de 'to buy' es 'bought'. -->
+- [ ] B) haven't bought
+  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa dentro de una narracion en pasado. -->
+- [ ] C) hadn't buy
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'bought' y no en la forma base 'buy'. -->
+- [x] D) hadn't bought
+  <!-- feedback: Correcto. 'Hadn't bought' es pasado perfecto negativo y explica la situacion posterior del concierto. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+En pasado perfecto negativo la estructura es 'had not' o 'hadn't' mas participio pasado. Las tres piezas deben ir juntas: si falta el auxiliar, si sobra -ed o si aparece la forma base, la frase es incorrecta.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect in short answers, Camuy, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Question: 'Had you ever eaten Spanish stew before?' Answer: '____'
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] A) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] B) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) No, I didn't.
+  <!-- feedback: Incorrecto. 'Didn't' corresponde a una pregunta de pasado simple, no a una construida con 'had'. -->
+- [ ] B) No, I hadn't eaten before.
+  <!-- feedback: Incorrecto. Es una respuesta valida pero no es corta, y la forma esperada omite el participio. -->
+- [x] C) No, I hadn't.
+  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'had' de la pregunta, con la negacion antes del pronombre. -->
+- [ ] D) No, I never.
+  <!-- feedback: Incorrecto. 'Never' es un adverbio y necesita un auxiliar 'hadn't' detras para construir la negacion. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Las respuestas cortas del pasado perfecto usan 'had' igual que la pregunta, con el adverbio de negacion en posicion intermedia. Al igual que en presente perfecto, el auxiliar es el que decide el tiempo verbal de toda la frase.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to be, Luquillo, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Complete the sentence: 'I didn't recognise her because she ____ (change) her hair completely.'
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] D) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] A) had changed
+  <!-- feedback: Correcto. 'Had changed' situa el cambio de aspecto antes del encuentro, que es lo que explica la falta de reconocimiento. -->
+- [ ] B) has changed
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no puede aparecer dentro de una secuencia de dos acciones pasadas. -->
+- [ ] C) had change
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'changed' y no en la forma base 'change'. -->
+- [ ] D) had changed her hair completely yesterday
+  <!-- feedback: Incorrecto. Anadir 'yesterday' fija una fecha concreta que contradice el caracter cerrado del pasado perfecto. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+La secuencia 'no reconoci a alguien porque algo habia cambiado' es uno de los patrones mas comunes del pasado perfecto. La causa va siempre en 'had' mas participio, sin fecha concreta que la situe en un momento cerrado.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to know, Toa Baja, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Complete the sentence: 'When she arrived, she ____ (not / know) anyone at the party.'
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) didn't know
+  <!-- feedback: Correcto. 'Didn't know' es pasado simple y basta, porque no hay ninguna accion anterior que exigiria el pasado perfecto. -->
+- [ ] B) didn't knew
+  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base 'know' y no al pasado irregular 'knew'. -->
+- [ ] C) had known
+  <!-- feedback: Incorrecto. El pasado perfecto solo se usa si hay una accion anterior que marcar, y en esta frase no hay ningun segundo evento previo. -->
+- [ ] D) hasn't known
+  <!-- feedback: Incorrecto. 'Hasn't' es presente perfecto y no corresponde a una escena ocurrida en el pasado. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+El pasado perfecto no se usa solo por hablar del pasado. Solo hace falta cuando hay una accion anterior que marcar. Si la frase no contiene un segundo evento previo, el pasado simple es suficiente y mas natural.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to find, Naguabo, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Complete the sentence: 'The exam was very easy because the teacher ____ (give) us a study guide.'
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) had give
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'given' y no en la forma base irregular 'give'. -->
+- [ ] B) has given
+  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a la causa de un examen ya realizado. -->
+- [ ] C) had given us a study guide before the term
+  <!-- feedback: Incorrecto. La expresion 'before the term' es aceptable, pero el enunciado ya no necesita ese añadido temporal. -->
+- [x] D) had given
+  <!-- feedback: Correcto. 'Had given' marca la entrega previa de la guia, que explica la facilidad del examen posterior. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+El participio de 'to give' es 'given', uno de los mas irregulares del idioma. Cuando el verbo en pasado perfecto va seguido de un complemento con articulo definido, se mantiene la estructura natural del objeto directo sin alterar el orden de las palabras.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D2]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with the verb to eat, Hatillo, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: 'The restaurant was full, so we ate somewhere else because we ____ (reserve) a table too late.'
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] B) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) hadn't reservate
+  <!-- feedback: Incorrecto. 'Reservate' no es una forma del pasado de 'to reserve', que es un verbo regular y da 'reserved'. -->
+- [x] B) hadn't reserved
+  <!-- feedback: Correcto. 'Hadn't reserved' explica la decision de comer en otro sitio: la reserva previa no se pudo completar a tiempo. -->
+- [ ] C) haven't reserved
+  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una cadena de hechos ya cerrados. -->
+- [ ] D) hadn't reserve
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'reserved' y no en la forma base 'reserve'. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Los verbos regulares forman su participio con -ed, y el pasado perfecto no exige que sean irregulares. El error tipico en esta unidad es buscar siempre una forma especial, cuando en la mayoria de los casos basta con anadir -ed al verbo base.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D3]
 **ID:** PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Past perfect with time expressions, Yabucoa, grado 11, W07.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Which time expression is most natural with the past perfect?
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) Every day after breakfast
+  <!-- feedback: Incorrecto. Esa expresion describe un habito presente y no marca un punto de referencia del pasado, que es lo que exige el pasado perfecto. -->
+- [ ] B) Nowadays people call an ambulance quickly
+  <!-- feedback: Incorrecto. La expresion 'nowadays' pertenece al presente habitual y no encaja con el pasado perfecto. -->
+- [x] C) By the time the ambulance arrived
+  <!-- feedback: Correcto. 'By the time' marca un punto de referencia y todo lo anterior va en pasado perfecto. -->
+- [ ] D) Since 2020 people have used that number
+  <!-- feedback: Incorrecto. 'Since 2020' con presente perfecto describe un periodo que llega hasta hoy, no hasta un pasado concreto. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+La expresion 'by the time' es la senal clasica del pasado perfecto, porque todo lo que ocurre antes de ese momento se situa en 'had' mas participio. Las demas expresiones propuestas pertenecen a otros tiempos verbales y no combinan con esta unidad.
+
+---
