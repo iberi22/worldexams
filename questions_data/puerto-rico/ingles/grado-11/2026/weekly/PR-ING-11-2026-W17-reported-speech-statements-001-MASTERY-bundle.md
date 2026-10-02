@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech statements, San Juan, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence reports the direct speech 'I am tired' correctly?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) She said that she was tired.
+  <!-- feedback: Correcto. El verbo 'to be' pasa a pasado, el pronombre 'I' se cambia y el complemento temporal tambien retrocede. -->
+- [ ] B) She said that she is tired.
+  <!-- feedback: Incorrecto. En discurso indirecto el verbo 'to be' debe ir en pasado, no en presente como en la frase original. -->
+- [ ] C) She said that I was tired.
+  <!-- feedback: Incorrecto. El pronombre de la primera persona se ajusta a la persona del hablante, que aqui es 'she'. -->
+- [ ] D) She say that she was tired.
+  <!-- feedback: Incorrecto. El verbo de introductory tambien retrocede a pasado: 'said', no 'say'. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+Al pasar de habla directa a discurso indirecto se operan tres cambios: el verbo principal retrocede a pasado, los pronombres y las expresiones de tiempo se ajustan, y la conjucion pasa a 'that' o se omite en la lengua hablada.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with past simple, Ponce, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'The teacher said that water ____ (boil) at 100 degrees.'
 
 ### Opciones
-- [x] C) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
+- [ ] A) boiled
+  <!-- feedback: Incorrecto. Las verdades universales suelen mantenerse en presente incluso dentro de un discurso indirecto en pasado. -->
+- [ ] B) would boil
+  <!-- feedback: Incorrecto. 'Would boil' pertenece a un condicional y no corresponde a un discurso indirecto de una afirmacion. -->
+- [x] C) boils
+  <!-- feedback: Correcto. Las verdades universales no retroceden, de modo que el verbo cientifico conserva el presente simple. -->
+- [ ] D) is boiling
+  <!-- feedback: Incorrecto. El presente continuo tampoco corresponde a la idea de una verdad general permanente. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+Hay un caso en que el tiempo verbal no cambia: las verdades universales. Frases como 'water boils at 100 degrees' o 'the Earth goes around the Sun' suelen mantenerse en presente porque describen hechos que no cambian.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with time expressions, Carolina, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Report the sentence: 'I will call you tomorrow.'
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) He said that he will call me tomorrow.
+  <!-- feedback: Incorrecto. Ni el futuro ni la expresion temporal retroceden, de modo que la frase sigue demasiado directa. -->
+- [x] B) He said that he would call me the next day.
+  <!-- feedback: Correcto. 'Will' se convierte en 'would', 'I' en 'he', 'you' en 'me' y 'tomorrow' en 'the next day'. -->
+- [ ] C) He said that he called me the next day.
+  <!-- feedback: Incorrecto. El futuro 'will call' debe convertirse en 'would call' y no en pasado simple 'called'. -->
+- [ ] D) He told me that he would call the next day.
+  <!-- feedback: Incorrecto. 'Told' requiere un objeto indirecto explicito, y ademas falta el 'me' del complemento del nombre. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+Las expresiones de tiempo Tambien retroceden cuando el discurso indirecto va en pasado. 'Now' pasa a 'then', 'tomorrow' a 'the next day', 'yesterday' a 'the day before' y 'tonight' a 'that night'.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with present continuous, Bayamon, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Report the sentence: 'She is studying for the exam.'
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) He said that she is studying for the exam.
+  <!-- feedback: Incorrecto. El presente continuo debe retroceder a pasado continuo para mantener la coherencia temporal. -->
+- [ ] B) He said that she studied for the exam.
+  <!-- feedback: Incorrecto. El pasado simple corresponde a un presente simple original, no a un presente continuo. -->
+- [ ] C) He said that she would study for the exam.
+  <!-- feedback: Incorrecto. 'Would study' corresponde a un futuro o a un condicional, no a un presente continuo. -->
+- [x] D) He said that she was studying for the exam.
+  <!-- feedback: Correcto. El presente continuo se convierte en pasado continuo cuando el discurso indirecto va en pasado. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+El desplazamiento temporal es sistematico: presente continuo pasa a pasado continuo, presente simple a pasado simple y futuro a futuro con 'would'. La coherencia del tiempo entre la parte introductoria y el discurso indirecto es la clave para acertar.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with modals, Arecibo, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Report the sentence: 'I can swim very well.'
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [ ] A) She said that she can swim very well.
+  <!-- feedback: Incorrecto. 'Can' pertenece al discurso directo y no retrocede cuando el marco esta en pasado. -->
+- [ ] B) would be able to swim very well
+  <!-- feedback: Incorrecto. 'Would be able to' expresa una capacidad futura hipotetica y no traduce la capacidad declarada en el discurso directo. -->
+- [ ] C) She said that she may swim very well.
+  <!-- feedback: Incorrecto. 'May' expresa permiso o posibilidad y no traduce la capacidad declarada con 'can'. -->
+- [x] D) She said that she could swim very well.
+  <!-- feedback: Correcto. 'Can' retrocede a 'could' en discurso indirecto y el pronombre se ajusta a 'she'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Los verbos modales tambien retroceden: 'can' a 'could', 'will' a 'would', 'may' puede permanecer igual o pasar a 'might'. Lo que no cambia es la relacion entre el sentido original y el adaptado.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with say and tell, Humacao, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct?
 
 ### Opciones
-- [x] B) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) My friend said me that she was moving to Ponce.
+  <!-- feedback: Incorrecto. 'Say' no lleva objeto indirecto; si se quiere dar el destinatario se usa 'tell me'. -->
+- [x] B) My friend told me that she was moving to Ponce.
+  <!-- feedback: Correcto. 'Tell' exige un objeto indirecto explicito, y 'me' cumple esa funcion con 'that' introduciendo la oracion. -->
+- [ ] C) My friend told that she was moving to Ponce.
+  <!-- feedback: Incorrecto. 'Tell' requiere el objeto indirecto, y sin el la frase es incompleta. -->
+- [ ] D) My friend said me she moving to Ponce.
+  <!-- feedback: Incorrecto. Aparte del error de 'say me', falta el verbo principal 'was' y la estructura no es gramatical. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+La diferencia entre 'say' y 'tell' es un punto que se prueba con frecuencia. 'Say' no lleva objeto indirecto y 'tell' lo exige. Con 'that' el objeto indirecto es opcional en el registro formal, pero el enunciado lo da.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with location changes, Aguadilla, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Report the sentence: 'I will meet you here tomorrow.'
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [x] A) She said that she would meet me there the next day.
+  <!-- feedback: Correcto. 'Here' se convierte en 'there' porque el lugar de referencia cambia al del hablante que reporta. -->
+- [ ] B) She said that she would meet me here the next day.
+  <!-- feedback: Incorrecto. Al cambiar de hablante, las palabras de lugar tambien deben ajustarse: 'here' pasa a 'there'. -->
+- [ ] C) She said that she would meet me there tomorrow.
+  <!-- feedback: Incorrecto. 'Tomorrow' debe retroceder a 'the next day' porque el marco temporal ya es pasado. -->
+- [ ] D) She said that she will meet me there the next day.
+  <!-- feedback: Incorrecto. 'Will' no retrocede y ademas aparece con una referencia temporal ya convertida al pasado. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Las palabras de lugar y de movimiento se ajustan segun la perspectiva del nuevo hablante. 'Here' se convierte en 'there', 'this' en 'that' y 'come' en 'go'. Ese ajuste es lo que hace que el discurso indirecto suene natural.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with past perfect, Guayanilla, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Report the sentence: 'I had already finished the report before you arrived.'
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) She said that she has already finished the report before I arrived.
+  <!-- feedback: Incorrecto. El pasado perfecto no retrocede a presente perfecto; se mantiene en su propio nivel temporal. -->
+- [ ] B) She said that she would have finished the report before I arrived.
+  <!-- feedback: Incorrecto. 'Would have' es condicional tipo tres y no corresponde a un discurso indirecto de un hecho pasado. -->
+- [x] C) She said that she had already finished the report before I arrived.
+  <!-- feedback: Correcto. El pasado perfecto ya estaba en pasado y se mantiene; el pronombre 'you' se ajusta a 'I'. -->
+- [ ] D) She said that she had already finish the report before I arrived.
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'finished' y no en la forma base 'finish'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+El pasado perfecto ya es un tiempo pasado, asi que no retrocede mas al pasar al discurso indirecto. Lo unico que se ajusta son los pronombres, las expresiones de tiempo y las palabras de lugar.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v9
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with present perfect, Trujillo Alto, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Report the sentence: 'I have visited Ponce three times.'
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] B) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] C) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] D) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
+- [ ] A) She said that she has visited Ponce three times.
+  <!-- feedback: Incorrecto. 'Has visited' es presente perfecto y no retrocede, de modo que el tiempo queda incoherente. -->
+- [ ] B) She said that she would visit Ponce three times.
+  <!-- feedback: Incorrecto. 'Would visit' expresa una accion futura hipotetica y no una experiencia pasada ya ocurrida. -->
+- [x] C) She said that she had visited Ponce three times.
+  <!-- feedback: Correcto. El presente perfecto retrocede a pasado perfecto cuando el discurso indirecto va en pasado simple. -->
+- [ ] D) She said that she visited Ponce three times ago.
+  <!-- feedback: Incorrecto. 'Ago' fue introducido por el hablante que reporta y no estaba en la frase original. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+El presente perfecto retrocede a pasado perfecto. Esa es una de las conversiones mas utiles para memorizar, porque se repite con frecuencia en las noticias y en los informes oficiales.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v10
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with that, Barceloneta, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+When is 'that' optional in reported speech?
 
 ### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
+- [x] A) In informal speech when reporting a statement, not a question or command.
+  <!-- feedback: Correcto. 'That' se omite con frecuencia al informar de una afirmacion en el registro coloquial. -->
+- [ ] B) Only when the reported speech is a question.
+  <!-- feedback: Incorrecto. En las preguntas el 'that' se convierte en un interrogativo y nunca se omite. -->
+- [ ] C) Whenever the main verb is in the present tense.
+  <!-- feedback: Incorrecto. La presencia o ausencia de 'that' depende del tipo de oracion que se informa, no de la conjugacion. -->
+- [ ] D) Never in any register of the language.
+  <!-- feedback: Incorrecto. 'That' es imprescindible en el registro formal y en los textos escritos Academicamente. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+'That' funciona como conector entre el verbo de habla y la oracion informada. Puede omitirse cuando se informa de una afirmacion y el registro es coloquial, pero es obligatorio en el registro escrito formal.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with reporting verbs, Maunabo, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which reporting verb fits best? 'She told me she had won a scholarship.'
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
+- [ ] A) mumble
+  <!-- feedback: Incorrecto. 'Mumble' describe hablar de forma poco clara y no es apropiado para una noticia academica. -->
+- [ ] B) complain
+  <!-- feedback: Incorrecto. 'Complain' implica malestar o dissatisfied y no corresponde a la comunicacion de una buena noticia. -->
+- [ ] C) mister
+  <!-- feedback: Incorrecto. 'Mister' no es un verbo de habla y por eso no puede introducir discurso indirecto. -->
+- [x] D) announce
+  <!-- feedback: Correcto. 'Announce' transmite una noticia formal y encaja con un logro academico como una beca. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Los verbos de habla aportan el tono de la informacion. 'Announce', 'declare' y 'reveal' sugieren una noticia formal, mientras que 'admit', 'confess' y 'complain' indican una revelacion o una queja.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with going to, Yauco, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Report the sentence: 'I am going to study medicine.'
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] B) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
+- [ ] A) He said that he is going to study medicine.
+  <!-- feedback: Incorrecto. 'Going to' debe retroceder a pasado cuando el marco del discurso indirecto esta en 'said'. -->
+- [x] B) He said that he was going to study medicine.
+  <!-- feedback: Correcto. 'Going to' se convierte en 'was going to' y el pronombre se ajusta a 'he'. -->
+- [ ] C) He said that he will go to study medicine.
+  <!-- feedback: Incorrecto. 'Going to' expresa una intencion planificada y no se sustituye por 'will' en el discurso indirecto. -->
+- [ ] D) He said that he went to study medicine.
+  <!-- feedback: Incorrecto. El pasado simple 'went' corresponde a un presente simple original y no a una intencion futura. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+'Going to' expresa un plan o una intencion y se convierte en 'was going to' en discurso indirecto. Es un caso distinto de 'will', que expresa una decision mas espontanea y se convierte en 'would'.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with used to, Cayey, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Report the sentence: 'I used to live in Mayaguez.'
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] C) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [ ] A) She said that she would live in Mayaguez.
+  <!-- feedback: Incorrecto. 'Would live' expresa una hipotesis futura y no un estado que existio en el pasado. -->
+- [x] B) She said that she used to live in Mayaguez.
+  <!-- feedback: Correcto. 'Used to' describe un estado pasado y permanece igual dentro del discurso indirecto. -->
+- [ ] C) She said that she lives in Mayaguez.
+  <!-- feedback: Incorrecto. El presente simple 'lives' contradice el sentido de 'used to', que ya no es verdad. -->
+- [ ] D) She said that she lived to Mayaguez.
+  <!-- feedback: Incorrecto. 'Live' no lleva 'to' detras; la preposicion correcta con un lugar es 'in'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Used to' es una forma especial que ya situa la accion en el pasado, asi que no retrocede al pasarlo a discurso indirecto. Describe una costumbre o un estado que ya no se cumple.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with past continuous, San Sebastian, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Report the sentence: 'We were waiting for the bus when it started to rain.'
 
 ### Opciones
-- [x] D) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] C) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) They said that they were waiting for the bus when it started raining.
+  <!-- feedback: Incorrecto. Es una variante aceptable con el gerundio simple, pero el enunciado pide el pasado continuo, que es la conversion estandar. -->
+- [ ] B) They said that they waited for the bus when it started to rain.
+  <!-- feedback: Incorrecto. El pasado continuo debe mantenerse, ya que describe una accion que estaba en curso. -->
+- [ ] C) They said that they would wait for the bus when it started to rain.
+  <!-- feedback: Incorrecto. 'Would wait' es condicional y no corresponde a una escena que ya estaba ocurrir en pasado. -->
+- [x] D) They said that they were waiting for the bus when it started to rain.
+  <!-- feedback: Correcto. 'We' se cambia a 'they' y los dos verbos en pasado se mantienen en su tiempo. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Los verbos que ya estan en pasado no retroceden. Solo cambian los pronombres y las palabras de lugar. Los participios simples pueden alternarse con el gerundio en muchos verbos sin alterar el sentido.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v15
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with backshift not applied, Camuy, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+When can the tense NOT be shifted back?
 
 ### Opciones
-- [x] C) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) When the reported speech contains a modal verb.
+  <!-- feedback: Incorrecto. Los modales si retroceden en la mayoria de los casos, y solo permanecen iguales cuando su sentido no cambia con el tiempo. -->
+- [ ] B) Only when the sentence is a question.
+  <!-- feedback: Incorrecto. Las preguntas cambian de estructura, pero la regla de no retroceder depende del tiempo del marco. -->
+- [x] C) When the reporting verb is already in the present.
+  <!-- feedback: Correcto. Si el marco esta en presente, el discurso conserva el tiempo original del enunciado. -->
+- [ ] D) Only when the statement refers to the future.
+  <!-- feedback: Incorrecto. Las afirmaciones futuras sí retroceden, de 'will' a 'would', aunque la frase se formule en presente. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+El desplazamiento al pasado no es obligatorio cuando el marco ya esta en presente o cuando el contenido sigue siendo verdad. Los examenes suelen aceptar ambas formas si el sentido no cambia, pero la coherencia es siempre la opcion mas segura.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with the verb to be, Luquillo, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Report the sentence: 'The exam was very difficult.'
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [x] A) She said that the exam had been very difficult.
+  <!-- feedback: Correcto. El pasado simple retrocede a pasado perfecto cuando el discurso indirecto va en pasado. -->
+- [ ] B) She said that the exam was very difficult.
+  <!-- feedback: Incorrecto. El pasado simple debe retroceder a pasado perfecto cuando el marco de 'said' ya esta en pasado. -->
+- [ ] C) She said that the exam would be very difficult.
+  <!-- feedback: Incorrecto. 'Would be' es condicional y no corresponde a un hecho que ya ocurrio en el pasado. -->
+- [ ] D) She said that the exam has been very difficult.
+  <!-- feedback: Incorrecto. 'Has been' es presente perfecto y contradice el hecho ya ocurrido que la persona estaba contando en pasado. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+El pasado simple retrocede a pasado perfecto, de modo que 'was' pasa a 'had been'. Cuando la afirmacion sigue siendo cierta en el presente, el tiempo original puede conservarse sin que el sentido cambie.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with possessives, Toa Baja, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Report the sentence: 'I will bring my sister, because she knows the place.'
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] C) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) He said that he would bring his sister because she knew the place.
+  <!-- feedback: Correcto. Los posesivos 'my' y 'my' se ajustan a 'his', y el futuro pasa a 'would'. -->
+- [ ] B) He said that I would bring my sister because she knew the place.
+  <!-- feedback: Incorrecto. El pronombre sujeto de la frase original no se conserva, porque pasa a referido al hablante que reporta. -->
+- [ ] C) He said that he would bring her sister because she knew the place.
+  <!-- feedback: Incorrecto. El posesivo debe ser 'his', porque el referente es el hermano que hablo, y no 'her'. -->
+- [ ] D) He said that he would bring my sister because she knew the place.
+  <!-- feedback: Incorrecto. El posesivo 'my' solo es valido si la frase sigue siendo narrada desde la perspectiva del hablante original. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Los posesivos se ajustan igual que los pronombres: 'my' pasa a 'your', 'his' o 'her' segun quien tome el relevo del relato. Ese cambio es uno de los que mas se olvidan al resumir una conversacion.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech in short answers, Naguabo, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Why does the tense of reported speech shift back to the past?
 
 ### Opciones
-- [x] C) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] B) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) She said that she have lost her notebook.
+  <!-- feedback: Incorrecto. 'Have' es presente y no concuerda con el marco de discurso indirecto en pasado. -->
+- [ ] B) She said that she had lose her notebook.
+  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'lost' y no en la forma base 'lose'. -->
+- [ ] C) She said she had lose her notebook.
+  <!-- feedback: Incorrecto. Aunque omitir 'that' es posible en el habla, el participio sigue siendo obligatorio en este caso. -->
+- [x] D) She said that she had lost her notebook.
+  <!-- feedback: Correcto. 'Had lost' es pasado perfecto y reproduce correctamente el pasado simple original 'lost'. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+El discurso indirecto exige un participio pasado detras de 'had' o 'have'. Olvidar esa terminacion es un error muy frecuente entre estudiantes que dominan la regla del pasado simple pero no la del participio irregular.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D3]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with the verb to know, Hatillo, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Report the sentence: 'I don't know where the library is.'
 
 ### Opciones
-- [x] B) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] C) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) He said that he doesn't know where the library is.
+  <!-- feedback: Incorrecto. Ni la negacion ni el verbo principal retroceden, y la frase permanece demasiado directa. -->
+- [x] B) He said that he didn't know where the library was.
+  <!-- feedback: Correcto. 'Don't' pasa a 'didn't', el verbo principal retrocede a pasado y 'is' pasa a 'was'. -->
+- [ ] C) He said that he didn't knew where the library was.
+  <!-- feedback: Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base 'know' y no al pasado 'knew'. -->
+- [ ] D) He said that where the library was, he didn't know.
+  <!-- feedback: Incorrecto. La clausula interrogativa indirecta no puede ocupar el lugar de la oracion principal del discurso indirecto. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+En una clausula indirecta interrogativa el orden ya no es de pregunta: no hay inversion de sujeto ni auxiliar. La estructura es 'he said that he didn't know where...' con el verbo en su forma normal dentro de la subordinada.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D2]
 **ID:** PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Reported speech with adverbs of place and time, Yabucoa, grado 11, W17.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Report the sentence: 'We can meet here this afternoon.'
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) She said that they could meet here this afternoon.
+  <!-- feedback: Incorrecto. Las palabras de lugar y tiempo deben ajustarse porque la perspectiva del relato es ahora la de ella. -->
+- [ ] B) She said that they can meet there that afternoon.
+  <!-- feedback: Incorrecto. 'Can' no retrocede a 'could' cuando el marco de la oracion esta en pasado. -->
+- [x] C) She said that they could meet there that afternoon.
+  <!-- feedback: Correcto. 'Can' pasa a 'could', 'we' a 'they', 'here' a 'there' y 'this afternoon' a 'that afternoon'. -->
+- [ ] D) She said that they could meet there that afternoon ago.
+  <!-- feedback: Incorrecto. 'Ago' pertenece al pasado distant y no puede acompanar a 'that afternoon'. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+El ajuste de deicticos es esencial para que el relato sea coherente. Si quien informa esta en otro lugar, 'here' debe convertirse en 'there'; si el relato ocurre ese mismo dia, 'this afternoon' pasa a 'that afternoon'.
+
+---

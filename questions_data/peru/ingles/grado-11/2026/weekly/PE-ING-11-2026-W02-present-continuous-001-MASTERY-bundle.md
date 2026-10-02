@@ -22,462 +22,505 @@ creador: "Jules-Agent"
 **20 preguntas | Ingles | CNEB - MINEDU**
 
 ---
+
+---
+
+---
+
 ## Question 1 [D3-D4]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** A classmate asks what you are doing right now.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Your friend phones you at 3 p.m. and asks what you are up to. Which sentence answers the question correctly?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home. -->
-- [ ] A) transportation
-  <!-- feedback: Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep. -->
-- [ ] C) currency
-  <!-- feedback: Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging. -->
+- [x] A) She reads a novel right now.
+  <!-- feedback: Correct. The present continuous describes an action in progress at the moment of speaking, so 'is reading' is the form the question needs. -->
+- [ ] B) She reading a novel right now.
+  <!-- feedback: Wrong. 'Is' and the verb must agree, so a bare 'reading' is not a complete clause; the continuous needs is plus the gerund. -->
+- [ ] C) She read a novel right now.
+  <!-- feedback: Wrong. The past simple would place the action at a finished moment in the past, but the phone call is happening now. -->
+- [ ] D) She is reading a novel right now.
+  <!-- feedback: Wrong. The simple present states a repeated or permanent habit, not an action happening at this exact moment. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+A fixed time expression such as 'right now' asks about an action in progress at that moment, so the present continuous is required: 'She is reading'.
+
 ---
+
 ## Question 2 [D3-D4]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v2
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Grammar
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You step outside and the sky is dark.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Look out of the window and complete the observation.
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way. -->
-- [ ] A) baggage
-  <!-- feedback: Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route. -->
-- [ ] D) passport
-  <!-- feedback: Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey. -->
+- [ ] A) It rains again.
+  <!-- feedback: Wrong. The simple present would describe rain as a general recurring pattern, not the rain you can actually see from the window. -->
+- [x] B) It is raining again.
+  <!-- feedback: Correct. 'Look' signals that the situation is visible right now, and visible now plus a present participle gives the present continuous. -->
+- [ ] C) It rain again.
+  <!-- feedback: Wrong. 'Rain' cannot agree with 'it' in this construction; the continuous requires the auxiliary 'is' before the gerund. -->
+- [ ] D) It rained again.
+  <!-- feedback: Wrong. The past simple would be used for rain that finished earlier, but here the evidence is happening in front of you. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The verb 'look' followed by a description of what is happening at that instant signals the present continuous: 'It is raining'.
+
 ---
-## Question 3 [D3-D4]
+
+## Question 3 [D3-D5]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v3
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A project report says the team is off on Sunday.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+A report states: 'The team ___ on Sunday, because everyone is on holiday.' Choose the correct form.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! A 'destination' is the place someone or something is going to or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip. -->
-- [ ] C) arrival
-  <!-- feedback: Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to. -->
-- [ ] D) journey
-  <!-- feedback: Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it. -->
+- [ ] A) did not work
+  <!-- feedback: Wrong. 'Did not work' belongs to the past, but the arrangement described is still ahead and is a settled plan. -->
+- [ ] B) do not work
+  <!-- feedback: Wrong. 'Do not work' states a general rule about Sundays rather than this particular week's plan. -->
+- [x] C) are not working
+  <!-- feedback: Correct. A negative present continuous is formed with the auxiliary plus 'not' plus the gerund, which fits a fixed arrangement for Sunday. -->
+- [ ] D) are not work
+  <!-- feedback: Wrong. After 'are not' the verb must be the gerund 'working'; 'are not work' is not a valid negative form. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The report describes a settled arrangement, not a habit, and the negation therefore needs the present continuous: 'are not working'.
+
 ---
-## Question 4 [D3-D4]
+
+## Question 4 [D3-D5]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A classmate is standing beside you and wants your attention.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which question correctly asks what your classmate is doing at this moment?
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in. -->
-- [ ] A) ticket
-  <!-- feedback: Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack. -->
-- [ ] B) flight
-  <!-- feedback: Wrong. A 'flight' is the journey by plane itself, not the bags carried on it. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself. -->
+- [ ] A) What you are doing?
+  <!-- feedback: Wrong. A direct question with a wh-word still needs the auxiliary and the inverted order; this version has no question structure. -->
+- [ ] B) What did you do now?
+  <!-- feedback: Wrong. 'Did' places the action in a completed past moment, which contradicts the idea of the current instant. -->
+- [ ] C) What do you do now?
+  <!-- feedback: Wrong. 'What do you do now' asks about a habit; 'now' requires the continuous form for the action in progress. -->
+- [x] D) What are you doing now?
+  <!-- feedback: Correct. A question in the present continuous is built with the auxiliary am/is/are first, then the subject, then the gerund. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Wh- questions in the present continuous keep the auxiliary before the subject: 'What are you doing now?' This is the standard order.
+
 ---
-## Question 5 [D5-D6]
+
+## Question 5 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A student is preparing an oral exam.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+A classmate interviews her. She says: 'I ___ the answer, so I did not have to guess.' Which form is correct with the verb 'know'?
 
 ### Opciones
-- [x] C) passenger
-  <!-- feedback: Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it. -->
-- [ ] A) pedestrian
-  <!-- feedback: Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all. -->
-- [ ] B) commuter
-  <!-- feedback: Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general. -->
-- [ ] D) tourist
-  <!-- feedback: Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle. -->
+- [x] A) know
+  <!-- feedback: Correct. 'Know' is a state verb, not an action verb, so it takes the simple present and never the continuous in standard usage. -->
+- [ ] B) knowing
+  <!-- feedback: Wrong. A bare 'knowing' is not a clause on its own and cannot follow 'I' as a finite verb. -->
+- [ ] C) am know
+  <!-- feedback: Wrong. 'Am know' is missing the gerund; the continuous would require 'am knowing', which is the other option. -->
+- [ ] D) am knowing
+  <!-- feedback: Wrong. Using the continuous with a state verb is ungrammatical here; states do not progress, they simply hold. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Stative verbs such as know, want, like and believe describe states rather than actions, so English uses the simple form even mid-presentation.
+
 ---
-## Question 6 [D5-D6]
+
+## Question 6 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A teacher comments on a colleague's behaviour in the staff room.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which sentence is correct when 'always' describes an annoying habit?
 
 ### Opciones
-- [x] C) customs
-  <!-- feedback: Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad. -->
-- [ ] A) security
-  <!-- feedback: Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods. -->
-- [ ] B) terminal
-  <!-- feedback: Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports. -->
-- [ ] D) gate
-  <!-- feedback: Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself. -->
+- [ ] A) He always makes the same mistake.
+  <!-- feedback: Wrong. The continuous with 'always' is reserved for a habit that is annoying or surprising as it happens; here the criticism is about a repeated behaviour. -->
+- [x] B) He is always making the same mistake.
+  <!-- feedback: Correct. With 'always' plus a criticism of a habit, English uses the simple present, not the continuous. -->
+- [ ] C) He is always make the same mistake.
+  <!-- feedback: Wrong. The auxiliary and the verb must agree, so the gerund 'making' is mandatory after 'is always'. -->
+- [ ] D) He always is make the same mistake.
+  <!-- feedback: Wrong. Placing 'always' in the middle of the continuous leaves the wrong participle, since the form must be 'is always making'. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The rule is that 'always' with an irritating or predictable habit takes the simple present; this is a classic exam contrast.
+
 ---
-## Question 7 [D5-D6]
+
+## Question 7 [D5-D7]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v7
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A traveller is booking a flight for next year.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Read the sentence: 'This time tomorrow I ___ to Lima for a two-week course.' Which form fits the fixed future moment?
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel. -->
-- [ ] B) receipt
-  <!-- feedback: Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft. -->
-- [ ] C) brochure
-  <!-- feedback: Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding. -->
+- [ ] A) am flying
+  <!-- feedback: Wrong. 'Am flying' is the present continuous, which describes now or an arrangement without the future reference. -->
+- [ ] B) will fly
+  <!-- feedback: Wrong. 'Will fly' states the future as a simple prediction and loses the sense of an activity already under way tomorrow. -->
+- [x] C) will be flying
+  <!-- feedback: Correct. The future continuous with a future time reference describes an activity in progress at that future moment. -->
+- [ ] D) flying
+  <!-- feedback: Wrong. A bare 'flying' is a gerund and cannot complete the clause 'This time tomorrow I'. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+A fixed future time such as 'this time tomorrow' is typically tested with the future continuous to stress the activity in progress.
+
 ---
-## Question 8 [D5-D6]
+
+## Question 8 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** Your car is in the workshop and a friend lends you a vehicle.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'I ___ my brother's car while mine is at the garage.' Which form expresses a temporary arrangement?
 
 ### Opciones
-- [x] B) sightseeing
-  <!-- feedback: Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor. -->
-- [ ] A) shopping
-  <!-- feedback: Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest. -->
-- [ ] C) hiking
-  <!-- feedback: Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location. -->
-- [ ] D) camping
-  <!-- feedback: Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest. -->
+- [ ] A) have used
+  <!-- feedback: Wrong. 'Have used' is the present perfect, which would show the action as finished with present relevance, not an ongoing arrangement. -->
+- [ ] B) used
+  <!-- feedback: Wrong. 'Used' is the past simple, but the borrowing is happening now and is still going on. -->
+- [ ] C) use
+  <!-- feedback: Wrong. 'Use' in the simple present states a permanent or general arrangement, which is not the situation described. -->
+- [x] D) am using
+  <!-- feedback: Correct. A borrowed vehicle for a limited period is a temporary arrangement, and English expresses temporary use with the present continuous. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+Temporary arrangements, such as borrowing something for a while, are expressed with the present continuous in standard English usage.
+
 ---
-## Question 9 [D5-D6]
+
+## Question 9 [D3-D5]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Remember
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** A student is asked about her hobbies in a survey.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Choose the form that correctly completes the sentence 'She enjoys ___ long novels on the train.'
 
 ### Opciones
-- [x] A) souvenir
-  <!-- feedback: Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it. -->
-- [ ] B) gift
-  <!-- feedback: Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller. -->
-- [ ] C) award
-  <!-- feedback: Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip. -->
-- [ ] D) prize
-  <!-- feedback: Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey. -->
+- [x] A) reading
+  <!-- feedback: Correct. 'Enjoy' is followed by a gerund in the standard pattern enjoy plus verb-ing. -->
+- [ ] B) reads
+  <!-- feedback: Wrong. The third person plural 'reads' would be correct only if 'enjoys' were the verb, but here 'enjoy' is the main verb. -->
+- [ ] C) to reading
+  <!-- feedback: Wrong. A gerund never takes 'to'; if the verb took an infinitive you would need 'to read' without the -ing. -->
+- [ ] D) read
+  <!-- feedback: Wrong. 'Enjoy' is not one of the verbs that takes an infinitive after it; 'enjoy read' is ungrammatical. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Several verbs, among them enjoy, avoid and finish, require a gerund as their second element, which is why the -ing form is tested here.
+
 ---
-## Question 10 [D5-D6]
+
+## Question 10 [D3-D5]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v10
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.75
+**Contexto:** Students are seated and facing the front of the classroom.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Complete the sentence: 'Be quiet! They ___ the teacher and nobody understands a word.'
 
 ### Opciones
-- [x] A) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed. -->
-- [ ] B) cancellation
-  <!-- feedback: Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours. -->
-- [ ] C) departure
-  <!-- feedback: Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it. -->
-- [ ] D) arrival
-  <!-- feedback: Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late. -->
+- [ ] A) are listening at
+  <!-- feedback: Wrong. 'Listen at' is not a standard combination in English; the preposition that follows listen is 'to'. -->
+- [x] B) are listening to
+  <!-- feedback: Correct. 'Listen to' takes the preposition 'to', and the plural subject requires 'are' with the gerund. -->
+- [ ] C) is listening to
+  <!-- feedback: Wrong. The singular auxiliary 'is' does not agree with the plural subject 'they', so the sentence would be ungrammatical. -->
+- [ ] D) are listening
+  <!-- feedback: Wrong. A verb that requires a complement needs that complement here, and 'listening' alone leaves the sentence incomplete. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+The verb 'listen' is followed by 'to', and subject-verb agreement in the present continuous requires 'they are listening'.
+
 ---
-## Question 11 [D7-D8]
+
+## Question 11 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A diary entry mentions a completed phone call.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Which sentence correctly states a completed action with a clear past time reference?
 
 ### Opciones
-- [x] B) check-in
-  <!-- feedback: Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass. -->
-- [ ] A) check-out
-  <!-- feedback: Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving. -->
-- [ ] C) booking
-  <!-- feedback: Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival. -->
-- [ ] D) reservation
-  <!-- feedback: Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival. -->
+- [ ] A) I call you yesterday.
+  <!-- feedback: Wrong. 'Yesterday' belongs to the past, so a simple present verb cannot be used with that time expression. -->
+- [ ] B) I was calling you yesterday.
+  <!-- feedback: Wrong. The past continuous would imply a longer ongoing call being interrupted, which the sentence does not describe. -->
+- [x] C) I called you yesterday.
+  <!-- feedback: Correct. 'Yesterday' is a finished past time, so the past simple is the correct choice for a single completed call. -->
+- [ ] D) I am calling you yesterday.
+  <!-- feedback: Wrong. The present continuous describes the present or a near future and is incompatible with 'yesterday'. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+A finished time expression such as 'yesterday' demands the past simple for a single completed event, never the continuous.
+
 ---
-## Question 12 [D7-D8]
+
+## Question 12 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v12
 **Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A receptionist explains where your classmate has gone.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Complete the reply: 'She isn't in the classroom right now because she ___ her tutor.'
 
 ### Opciones
-- [x] A) layover
-  <!-- feedback: Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue. -->
-- [ ] B) stopover
-  <!-- feedback: Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights. -->
-- [ ] C) transfer
-  <!-- feedback: Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself. -->
-- [ ] D) transit
-  <!-- feedback: Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages. -->
+- [ ] A) has meeting
+  <!-- feedback: Wrong. The verb 'meet' is not one of those that takes a gerund; if a gerund were needed the wording would be different. -->
+- [ ] B) met
+  <!-- feedback: Wrong. 'Met' refers to a meeting that is already over, which would contradict the idea that she is away right now. -->
+- [ ] C) meets
+  <!-- feedback: Wrong. 'Meets' describes a repeated or scheduled arrangement in general, not the activity happening at this moment. -->
+- [x] D) is meeting
+  <!-- feedback: Correct. 'Right now' calls for an action in progress, so the present continuous 'is meeting' explains her absence. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+The time expression 'right now' is the signal for the present continuous, because the situation is still continuing at the moment of speaking.
+
 ---
-## Question 13 [D7-D8]
+
+## Question 13 [D5-D7]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v13
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A grammar task asks you to build the correct spelling of the -ing form.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the form that completes the sentence: 'The bus ___ at seven tonight, so do not miss it.'
 
 ### Opciones
-- [x] D) currency
-  <!-- feedback: Correct! 'Currency' is the whole monetary system a country uses, not any single object. -->
-- [ ] A) coin
-  <!-- feedback: Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system. -->
-- [ ] B) banknote
-  <!-- feedback: Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country. -->
-- [ ] C) cash
-  <!-- feedback: Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system. -->
+- [x] A) is getting
+  <!-- feedback: Correct. The subject 'the bus' is singular, so 'is getting off' is the correctly spelled third person continuous form. -->
+- [ ] B) am get
+  <!-- feedback: Wrong. 'Am get' is missing both the singular agreement and the -ing ending required in the continuous. -->
+- [ ] C) gett
+  <!-- feedback: Wrong. A truncated spelling without the -ing ending is not a verb form at all and cannot follow an auxiliary. -->
+- [ ] D) are getting
+  <!-- feedback: Wrong. 'Are getting' would be the form for a plural subject or for 'you', but here the subject is the singular 'bus'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+The spelling rule for the present continuous requires am, is or are followed by the gerund, and the auxiliary must agree with the subject.
+
 ---
-## Question 14 [D7-D8]
+
+## Question 14 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v14
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** Two friends rush because the last bus is about to leave.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'Hurry up! They ___ to catch the last bus.'
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book written about a place to help visitors find their way around it. -->
-- [ ] A) map
-  <!-- feedback: Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place. -->
-- [ ] C) dictionary
-  <!-- feedback: Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination. -->
-- [ ] D) encyclopedia
-  <!-- feedback: Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place. -->
+- [ ] A) hurry
+  <!-- feedback: Wrong. 'Hurry' in the simple present gives a general instruction, not the action in progress right now. -->
+- [x] B) are hurrying
+  <!-- feedback: Correct. The plural subject 'they' takes 'are hurrying', and the action is happening at this moment. -->
+- [ ] C) hurrying
+  <!-- feedback: Wrong. 'Hurrying' on its own is a gerund and cannot function as the finite verb of the clause. -->
+- [ ] D) is hurry
+  <!-- feedback: Wrong. 'Is hurry' combines a singular auxiliary with a bare infinitive, which is not a valid form. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+An action unfolding at the moment of speaking requires the plural continuous form, are plus the gerund 'hurrying'.
+
 ---
-## Question 15 [D7-D8]
+
+## Question 15 [D5-D7]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v15
 **Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A security camera description mentions repeated movement in one place.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the sentence that correctly describes movement up and down in one area at the moment of observation.
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back. -->
-- [ ] B) suitcase
-  <!-- feedback: Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you. -->
-- [ ] C) briefcase
-  <!-- feedback: Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work. -->
-- [ ] D) handbag
-  <!-- feedback: Wrong. A 'handbag' is held in the hand and has no straps at all. -->
+- [ ] A) She walk up and down the corridor.
+  <!-- feedback: Wrong. A bare 'walk' with a third person singular subject cannot follow the pronoun 'she' in the present. -->
+- [ ] B) She walks up and down the corridor.
+  <!-- feedback: Wrong. The simple present would turn the movement into a repeated routine or a general pattern of behaviour. -->
+- [x] C) She is walking up and down the corridor.
+  <!-- feedback: Correct. Movement limited to one area and continuing at the moment is described with the present continuous. -->
+- [ ] D) She walked up and down the corridor.
+  <!-- feedback: Wrong. 'Walked' places the movement in a finished past moment, which does not match the ongoing observation. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+The verb 'walk' in 'up and down' signals movement within a limited area, which is a classic present continuous situation.
+
 ---
-## Question 16 [D7-D8]
+
+## Question 16 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A friend confirms a fixed appointment for later today.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Your friend confirms: 'We ___ the head teacher at five; it is already in the diary.' Which form is correct?
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means to or in another country reached by crossing the sea. -->
-- [ ] A) domestic
-  <!-- feedback: Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: Wrong. 'Local' means in a particular small area or town, which may well be inside your own country. -->
-- [ ] C) national
-  <!-- feedback: Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea. -->
+- [ ] A) met
+  <!-- feedback: Wrong. 'Met' refers to a meeting that has already taken place, so it contradicts the future appointment. -->
+- [ ] B) will meet
+  <!-- feedback: Wrong. 'Will meet' can suggest a spontaneous decision, whereas a diary entry signals a prearranged appointment. -->
+- [ ] C) meet
+  <!-- feedback: Wrong. 'Meet' in the simple present would describe a general habit of meeting the head teacher. -->
+- [x] D) are meeting
+  <!-- feedback: Correct. A fixed future arrangement between people is expressed with the present continuous, not the future 'will'. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+English marks personal arrangements with the present continuous, which is why 'we are meeting at five' is preferred to 'we will meet'.
+
 ---
-## Question 17 [D9-D10]
+
+## Question 17 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A tourist in August is surprised by the weather.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Which sentence reports the unusual situation correctly?
 
 ### Opciones
-- [x] B) budget
-  <!-- feedback: Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year. -->
-- [ ] A) expense
-  <!-- feedback: Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period. -->
-- [ ] C) cost
-  <!-- feedback: Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it. -->
-- [ ] D) price
-  <!-- feedback: Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances. -->
+- [x] A) Look, it is snowing in August.
+  <!-- feedback: Correct. 'Look' points to what is visible at this moment, and the surprising weather makes the present continuous appropriate. -->
+- [ ] B) Look, it snow in August.
+  <!-- feedback: Wrong. 'Snow' without an auxiliary or proper agreement is not a finite verb and cannot complete this clause. -->
+- [ ] C) Look, it snowed in August.
+  <!-- feedback: Wrong. 'Snowed' reports a past event, but the speaker is observing the snow as it falls. -->
+- [ ] D) Look, it snows in August.
+  <!-- feedback: Wrong. 'Snows' would present the snowfall as a normal repeated pattern, which loses the sense of surprise. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+The combination of 'look' with an unusual present event is the standard trigger for the present continuous in examination questions.
+
 ---
-## Question 18 [D9-D10]
+
+## Question 18 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Apply
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** A colleague goes to the lobby to meet a visitor.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Your colleague leaves her desk. Which sentence best explains where she has gone?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death. -->
-- [ ] B) guarantee
-  <!-- feedback: Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium. -->
-- [ ] C) policy
-  <!-- feedback: Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself. -->
+- [ ] A) She waits for you in the lobby.
+  <!-- feedback: Wrong. 'Waits' describes her general routine rather than her current activity, which is what the report needs. -->
+- [x] B) She is waiting for you in the lobby.
+  <!-- feedback: Correct. The action is still continuing at the time of speaking, so the present continuous reports where she is now. -->
+- [ ] C) She is wait for you in the lobby.
+  <!-- feedback: Wrong. 'Is wait' lacks the gerund; the continuous must be 'is waiting'. -->
+- [ ] D) She wait for you in the lobby.
+  <!-- feedback: Wrong. A third person singular subject requires 'waits', 'wait' or the auxiliary 'is'; a bare 'wait' is not correct. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+When you explain someone's current activity, the present continuous is the form that locates the action in the present moment.
+
 ---
-## Question 19 [D9-D10]
+
+## Question 19 [D4-D6]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.70
+**Contexto:** Two classmates compare what they are doing at the moment of the conversation.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Which pair of sentences is correct at the moment the two friends speak?
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease. -->
-- [ ] B) medication
-  <!-- feedback: Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand. -->
-- [ ] C) prescription
-  <!-- feedback: Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself. -->
-- [ ] D) infection
-  <!-- feedback: Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it. -->
+- [ ] A) I read and she is writing a letter.
+  <!-- feedback: Wrong. Only the second clause is in the continuous; the first uses a simple present that does not match the moment. -->
+- [ ] B) I read and she write a letter.
+  <!-- feedback: Wrong. 'I read' and 'she write' are simple present forms that describe habits, not what is happening now. -->
+- [x] C) I am reading and she is writing a letter.
+  <!-- feedback: Correct. Both actions are in progress at the moment of speaking, so each clause uses the present continuous with correct agreement. -->
+- [ ] D) I am read and she writing a letter.
+  <!-- feedback: Wrong. 'Am read' and a bare 'writing' both lack the required gerund and agreement. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+When both actions happen at the moment of speaking, both clauses need the present continuous, with the auxiliary agreeing to each subject.
+
 ---
-## Question 20 [D9-D10]
+
+## Question 20 [D5-D7]
 **ID:** PE-ING-11-2026-W02-present-continuous-001-MASTERY-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Bloom:** Analyze
+**EJE:** Grammar
+**Expected_Success:** 0.65
+**Contexto:** A report compares what is happening now with a general habit.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that correctly contrasts a temporary action with a habit.
 
 ### Opciones
-- [x] A) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight. -->
-- [ ] B) fatigue
-  <!-- feedback: Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones. -->
-- [ ] C) exhaustion
-  <!-- feedback: Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone. -->
-- [ ] D) insomnia
-  <!-- feedback: Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying. -->
+- [ ] A) She cook usually at home, but today she is eating out.
+  <!-- feedback: Wrong. 'She cook usually' misplaces the adverb and uses a bare infinitive after a third person singular subject. -->
+- [ ] B) She usually is cooking at home, but today she eating out.
+  <!-- feedback: Wrong. The continuous cannot sit before 'usually' in this order, and 'she eating out' lacks the auxiliary. -->
+- [ ] C) She usually cooks at home, but today she eats out.
+  <!-- feedback: Wrong. Using the simple present for the temporary case removes the contrast between a habit and a one-off activity. -->
+- [x] D) She usually cooks at home, but today she is eating out.
+  <!-- feedback: Correct. 'Usually' introduces the habit with the simple present while 'today' introduces the temporary action with the present continuous. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+The systematic contrast in English is simple present for habits and present continuous for temporary or changing situations.
