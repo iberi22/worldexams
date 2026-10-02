@@ -28,457 +28,457 @@ creador: "Jules-Agent"
 **Bloom:** Understand
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Contexto:** Karla anota la posición de un carrito en una mesa de experiments en la clase de física de Santa Tecla.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+¿Qué describe mejor el movimiento rectilíneo uniforme?
 
 ### Opciones
-- [x] B) Fotosíntesis
-  <!-- feedback: Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa. -->
-- [ ] A) Respiración celular
-  <!-- feedback: La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química. -->
+- [x] A) Que recorre una línea recta con velocidad constante
+  <!-- feedback: Correcto. En un movimiento rectilíneo uniforme la trayectoria es una recta y la rapidez no cambia. La aceleración es cero en todo el recorrido, y por eso la distancia por tiempo se mantiene igual. -->
+- [ ] B) Que recorre una recta acelerando de forma constante
+  <!-- feedback: Accelerar de forma constante describe un movimiento rectilíneo uniformemente acelerado, no uniforme. En ese caso la rapidez aumenta a ritmo constante, y la distancia por tiempo no se mantiene. -->
+- [ ] C) Que describe una circunferencia con rapidez constante
+  <!-- feedback: Una trayectoria circular es curvilinea, y no rectilinea. Aunque la rapidez sea constante, la direccion del vector velocidad cambia en cada instante, y eso ya es una aceleracion. -->
+- [ ] D) Que cae verticalmente bajo la accion de la gravedad
+  <!-- feedback: La caida libre es un caso de movimiento uniformemente acelerado, con aceleracion constante cercana a 10 metros por segundo cuadrado. No es un movimiento uniforme, porque la rapidez va en aumento. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+En el movimiento rectilíneo uniforme la aceleración es cero: la rapidez y el sentido del movimiento permanecen constantes. Por eso el espacio recorrido es directamente proporcional al tiempo transcurrido.
 
 ## Question 2 [D3-D4]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v2
 **Bloom:** Apply
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Contexto:** Mateo cronometra a un corredor en la pista del estadio de San Miguel.
 
 ### Enunciado
-Objeto de 6 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
+Si un corredor recorre 100 metros en 10 segundos, ¿cuál es su rapidez media?
 
 ### Opciones
-- [x] B) 30 N
-  <!-- feedback: Correcto. $F = ma = 6 \times 5 = 30$ N. -->
-- [ ] A) 24 N
-  <!-- feedback: 24 N corresponde a $6 \times 4$ y la aceleración del enunciado es de 5 m/s². -->
-- [ ] C) 35 N
-  <!-- feedback: 35 N sería $6 \times 6$, pero el 6 es la masa y no un valor de la aceleración. -->
-- [ ] D) 6 N
-  <!-- feedback: 6 N es la masa: la fuerza se obtiene al multiplicarla por los 5 m/s². -->
+- [x] B) 10 metros por segundo
+  <!-- feedback: Correcto. La rapidez media es la distancia dividida entre el tiempo: 100 metros entre 10 segundos dan 10 metros por segundo. Es el promedio de todo el recorrido, y no su valor maximo. -->
+- [ ] A) 1000 metros por segundo
+  <!-- feedback: Esa cifra sale de multiplicar en lugar de dividir. Multiplicar distancia por tiempo no tiene significado fisico, y por eso no puede ser la rapidez de nadie. -->
+- [ ] C) 0,10 metros por segundo
+  <!-- feedback: Dividir al reves, tomando el tiempo sobre la distancia, da 0,1. La rapidez se obtiene al revés: primero la distancia y despues el tiempo en el denominador. -->
+- [ ] D) 10 segundos por metro
+  <!-- feedback: Esa unidad mide tiempo por distancia, es decir, ritmo, y no rapidez. La rapidez se expresa en metros por segundo, que es distancia dividida entre tiempo. -->
 
 ### Explicacion Pedagogica
-F = ma = 6×5 = 30 N.
+La rapidez media se calcula dividiendo la distancia recorrida entre el tiempo empleado. Aqui, 100 metros en 10 segundos, equivalen a 10 metros por segundo.
 
 ## Question 3 [D3-D4]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v3
-**Bloom:** Remember
+**Bloom:** Apply
 **EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Salvador estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Lucía suelta una pelota desde el borde de una mesa en la clase de física de Soyapango.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+Si se deja caer una pelota desde el reposo, ¿cómo cambia su rapidez durante la caída?
 
 ### Opciones
-- [x] A) La piel
-  <!-- feedback: Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total. -->
-- [ ] B) El hígado
-  <!-- feedback: El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel. -->
-- [ ] C) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel. -->
+- [x] C) Aumenta de manera uniforme, unos 10 metros por segundo cada segundo
+  <!-- feedback: Correcto. La gravedad imprime una aceleracion constante cercana a 10 metros por segundo cuadrado. Por eso la rapidez crece a ritmo constante, y no de forma proporcional al tiempo ya transcurrido. -->
+- [ ] A) Se mantiene constante, porque la pelota cae a la misma altura
+  <!-- feedback: Caer desde una misma altura no implica caer a rapideces iguales. La altura fija el punto de llegada, mientras la rapidez va en aumento por la aceleracion de la gravedad. -->
+- [ ] B) Disminuye, porque el aire frena cada vez más a la pelota
+  <!-- feedback: El aire ofrece una resistencia pequeña, pero no frena hasta el punto de reducir la rapidez. La pelota acelera hacia abajo porque la fuerza de gravedad supera a esa resistencia. -->
+- [ ] D) Aumenta cada vez más rápido, porque la aceleración se duplica con el tiempo
+  <!-- feedback: La aceleracion gravitatoria es constante y no se duplica. Lo que crece es la rapidez, de forma lineal con el tiempo, mientras la distancia recorrida aumenta de forma cuadrada. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+La caida libre es un movimiento uniformemente acelerado. La gravedad aporta una aceleracion constante, de modo que cada segundo la rapidez aumenta aproximadamente en 10 metros por segundo.
 
-## Question 4 [D3-D4]
+## Question 4 [D5-D6]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v4
-**Bloom:** Analyze
+**Bloom:** Apply
 **EJE:** cinematica
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Salvador estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Andrés coloca dos vehiculos de juguete en una rampa de la clase de San Salvador.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+Un objeto recorre 20 metros en 4 segundos desde el reposo con aceleración constante. ¿Qué aceleración tiene?
 
 ### Opciones
-- [x] A) La exposición a la luz
-  <!-- feedback: Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas. -->
-- [ ] B) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz. -->
-- [ ] C) La temperatura ambiente
-  <!-- feedback: La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente. -->
-- [ ] D) El tipo de planta
-  <!-- feedback: El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar. -->
+- [x] A) 2,5 metros por segundo cuadrado
+  <!-- feedback: Correcto. Con salida desde el reposo se cumple d = a t al cuadrado, y al despejar la aceleracion queda 20 entre 16, es decir 2,5 metros por segundo cuadrado. -->
+- [ ] B) 5 metros por segundo cuadrado
+  <!-- feedback: Cinco sale de dividir 20 entre 4, que es la relacion distancia por tiempo. Ese calculo da una rapidez media, y no una aceleracion, que exige considerar el cuadrado del tiempo. -->
+- [ ] C) 80 metros por segundo cuadrado
+  <!-- feedback: Ese valor sale de multiplicar 20 por 4, en lugar de dividir. La aceleracion se obtiene de una division, y el producto de distancia por tiempo no significa nada en fisica. -->
+- [ ] D) 16 metros por segundo cuadrado
+  <!-- feedback: Dieciseis es el cuadrado del tiempo, que aparece en la formula. Como ese valor va en el denominador, al despejar la aceleracion la distancia se divide entre el, y no se multiplica. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+Para un objeto que parte del reposo, la distancia recorrida cumple d igual a a por t al cuadrado. Al despejar la aceleracion, 20 metros entre 16 segundos al cuadrado, se obtiene 2,5 metros por segundo cuadrado.
 
 ## Question 5 [D5-D6]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v5
-**Bloom:** Remember
+**Bloom:** Analyze
 **EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Mejicanos estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Sofía ve desde la ventana un autobús que pasa por la avenida principal de Ahuachapán.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+Si el autobús va y viene por la misma calle, ¿qué diferencia hay entre su velocidad y su rapidez?
 
 ### Opciones
-- [x] D) La célula
-  <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo. -->
-- [ ] B) La molécula
-  <!-- feedback: La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida. -->
-- [ ] C) El tejido
-  <!-- feedback: El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo. -->
+- [x] B) Que la rapidez es un escalar y la velocidad es un vector con dirección
+  <!-- feedback: Correcto. La rapidez indica solo cuánto se mueve un cuerpo por segundo, mientras la velocidad indica también hacia dónde. En ir y venir por la misma calle, la rapidez puede ser alta y la velocidad cambiar de signo. -->
+- [ ] A) Que son la misma magnitud y siempre dan valores iguales
+  <!-- feedback: No son la misma magnitud. Cuando un objeto va en una dirección y luego vuelve, su rapidez es la misma en los dos tramos, pero su velocidad cambia de signo al hacerlo. -->
+- [ ] C) Que la velocidad no existe para los objetos que cambian de dirección
+  <!-- feedback: La velocidad existe siempre, y queda definida por sus dos componentes. Lo que cambia es su valor, y también su dirección, cuando el objeto gira o se detiene. -->
+- [ ] D) Que la rapidez solo se puede medir en los movimientos rectilíneos
+  <!-- feedback: La rapidez se puede calcular en cualquier trayectoria, porque solo depende de la distancia y del tiempo. Lo que necesita una direccion para definirse por completo es la velocidad, y no la rapidez. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+La rapidez es una magnitud escalar que mide cuanto recorre un cuerpo por unidad de tiempo. La velocidad es vectorial: incluye además la dirección, de modo que un trayecto de ida y vuelta conserva la rapidez pero invierte la velocidad.
 
 ## Question 6 [D5-D6]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v6
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Mejicanos estudiando cinematica.
+**Contexto:** Carlos consulta el manual de la experimentacion de la clase de física de San Francisco Gotera.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+Si una pelota es golpeada hacia arriba y vuelve a la mano del jugador, ¿cuántas veces su velocidad cambia de signo?
 
 ### Opciones
-- [x] C) Fotosíntesis
-  <!-- feedback: Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa. -->
-- [ ] A) Respiración celular
-  <!-- feedback: La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz. -->
-- [ ] B) Fermentación
-  <!-- feedback: La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química. -->
+- [x] C) Una vez, en el punto más alto de la trayectoria
+  <!-- feedback: Correcto. Al subir, la velocidad apunta hacia arriba; en el punto más alto vale cero; al bajar, apunta hacia abajo. Ese unico instante es donde la velocidad pasa de positiva a negativa. -->
+- [ ] A) Ninguna, porque la rapidez se mantiene durante toda la vuelta
+  <!-- feedback: La rapidez si cambia: es maxima al salir y nula en el punto alto. Ademas, aunque la rapidez se conservase, la dirección seguiria invirtiendo el signo de la velocidad. -->
+- [ ] B) Dos veces, una al subir y otra al bajar
+  <!-- feedback: El cambio de signo ocurre una sola vez. Al inicio y al final del recorrido la velocidad tiene el mismo signo, y el punto unico de inversion esta en el maxima altura. -->
+- [ ] D) Tres veces, contando el punto deCaída en el suelo
+  <!-- feedback: Caer de vuelta al suelo completa el trayecto, pero no introduce un nuevo cambio de signo. El unico punto en que la vertical se invierte es el punto mas alto de la parabola. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+En el tiro vertical, la velocidad vertical cambia de signo en un solo instante, cuando alcanza su maximo valor absoluto, que es cero. Ese punto es el vertice de la parabola descrita por la trayectoria.
 
 ## Question 7 [D5-D6]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Contexto:** Wendy observa el tablero de un tren que va desde San Salvador hasta Santa Ana.
 
 ### Enunciado
-Objeto de 2 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
+Si el tren recorre 110 kilómetros en hora y media, ¿cuál es su rapidez media?
 
 ### Opciones
-- [x] B) 10 N
-  <!-- feedback: Correcto. $F = ma = 2 \times 5 = 10$ N. -->
-- [ ] A) 8 N
-  <!-- feedback: 8 N sale de $2 \times 4$, pero la aceleración es de 5 m/s² y no de 4. -->
-- [ ] C) 15 N
-  <!-- feedback: 15 N sería $2 \times 7.5$ o $3 \times 5$, y los datos del enunciado son 2 kg y 5 m/s². -->
-- [ ] D) 2 N
-  <!-- feedback: 2 N es solo la masa, y falta multiplicarla por la aceleración. -->
+- [x] A) Algo menos de 75 kilómetros por hora
+  <!-- feedback: Correcto. Hora y media son 1,5 horas, y al dividir 110 entre 1,5 se obtienen unos 73,3 kilómetros por hora. Esa es la rapidez media durante todo el trayecto, paradas incluidas. -->
+- [ ] B) 165 kilómetros por hora
+  <!-- feedback: Esa cifra sale de multiplicar 110 por 1,5. La rapidez se obtiene dividiendo la distancia entre el tiempo, y un producto entre esas dos unidades no significa nada. -->
+- [ ] C) Exactamente 75 kilómetros por hora
+  <!-- feedback: Setenta y cinco seria el resultado de dividir entre 110 por 1,5 mal colocadas. Como el tiempo es 1,5 horas, el cociente queda ligeramente por debajo de 75. -->
+- [ ] D) 1,5 kilómetros por hora
+  <!-- feedback: Ese valor confunde el tiempo total con la rapidez. Un viaje de hora y media con 110 kilómetros recorridos no puede dar una rapidez tan baja, y por eso el calculo esta mal planteado. -->
 
 ### Explicacion Pedagogica
-F = ma = 2×5 = 10 N.
+Rapidez media es distancia entre tiempo. Con 110 kilómetros en 1,5 horas, el resultado es 73,3 kilómetros por hora, que es el promedio del viaje completo.
 
-## Question 8 [D5-D6]
+## Question 8 [D7-D8]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v8
-**Bloom:** Remember
-**EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando cinematica.
-
-### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
-
-### Opciones
-- [x] D) La piel
-  <!-- feedback: Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total. -->
-- [ ] A) El hígado
-  <!-- feedback: El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel. -->
-- [ ] B) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal. -->
-- [ ] C) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel. -->
-
-### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
-
-## Question 9 [D5-D6]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v9
 **Bloom:** Analyze
 **EJE:** cinematica
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Miguel estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Ivan represento en una hoja el grafico de posicion y tiempo de una persona que camina por la calle en Metapán.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+En un grafico de posición contra tiempo, ¿qué pendiente corresponde a la rapidez del movimiento?
 
 ### Opciones
-- [x] A) La exposición a la luz
-  <!-- feedback: Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas. -->
-- [ ] B) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz. -->
-- [ ] C) La temperatura ambiente
-  <!-- feedback: La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente. -->
-- [ ] D) El tipo de planta
-  <!-- feedback: El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar. -->
+- [x] C) La pendiente de la recta, porque relaciona el cambio de posición con el tiempo
+  <!-- feedback: Correcto. En ese grafico, la pendiente de la recta es la relacion entre distancia recorrida y tiempo empleado. Por eso una linea muy inclinada representa un movimiento mas rapido que una suave. -->
+- [ ] A) La altura máxima de la recta, porque marca la distancia total
+  <!-- feedback: La altura indica la posicion final alcanzada, y no la rapidez. Para saber lo rapido que se movio hay que mirar la inclinacion de la recta, y no su punto mas alto. -->
+- [ ] B) La longitud del eje horizontal, porque es el tiempo medido
+  <!-- feedback: La longitud del eje es un dato del dibujo y no una caracteristica del movimiento. La rapidez depende de la relacion entre las dos variables, y esa relacion es precisamente la pendiente. -->
+- [ ] D) El angulo que forma la recta con el eje de tiempo
+  <!-- feedback: El angulo depende de la escala elegida en cada eje, de modo que varia al cambiar las unidades. La pendiente, en cambio, conserva su valor porque relaciona las dos magnitudes medidas. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+En un grafico de posicion contra tiempo, la pendiente de la recta es la rapidez. Si la recta es horizontal la rapidez es cero, y si es muy inclinada el movimiento es rapido, porque mucha distancia se recorre en poco tiempo.
 
-## Question 10 [D5-D6]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v10
-**Bloom:** Remember
+## Question 9 [D7-D8]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v9
+**Bloom:** Apply
 **EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Fernando mide la rapidez de uniproducto en una cinta transportadora de la clase de física de Chaltenango.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+Un móvil pasa de 5 a 15 metros por segundo en 4 segundos. ¿Cuál es su aceleración?
 
 ### Opciones
-- [x] D) La célula
-  <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo. -->
-- [ ] B) La molécula
-  <!-- feedback: La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida. -->
-- [ ] C) El tejido
-  <!-- feedback: El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo. -->
+- [x] A) 2,5 metros por segundo cuadrado
+  <!-- feedback: Correcto. La aceleracion es el cambio de velocidad dividido entre el tiempo: 15 menos 5 da 10 metros por segundo, y 10 entre 4 deja 2,5 metros por segundo cuadrado. -->
+- [ ] B) 10 metros por segundo cuadrado
+  <!-- feedback: Diez es el cambio total de velocidad, en metros por segundo, y no la aceleracion. Para obtenerla hay que dividir ademas entre el tiempo empleado en ese cambio. -->
+- [ ] C) 3,75 metros por segundo cuadrado
+  <!-- feedback: Ese valor sale de dividir los 15 metros por segundo entre 4 segundos, tomando la velocidad final. La aceleracion exige tomar la diferencia entre velocidad final y velocidad inicial. -->
+- [ ] D) 20 metros por segundo cuadrado
+  <!-- feedback: Veinte seria el resultado de sumar las dos velocidades antes de dividir entre el tiempo. La aceleracion se calcula con la diferencia y no con la suma de las velocidades. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+La aceleracion media se obtiene restando la velocidad inicial a la velocidad final y dividiendo entre el tiempo. En este caso, 10 metros por segundo entre 4 segundos, da 2,5 metros por segundo cuadrado.
+
+## Question 10 [D7-D8]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v10
+**Bloom:** Analyze
+**EJE:** cinematica
+**Expected_Success:** 0.80
+**Contexto:** Elena observa un péndulo en el laboratorio de la clase de San Vicente.
+
+### Enunciado
+Si un péndulo oscila, ¿qué se puede afirmar sobre su trayectoria?
+
+### Opciones
+- [x] B) Que es curvilínea, porque el péndulo describe un arco
+  <!-- feedback: Correcto. La cuerda gira alrededor del punto de suspension y la esfera recorre un arco de circunferencia. Esa forma describe una trayectoria curvilinea, aunque siga siendo periodica. -->
+- [ ] A) Que es recta, porque el péndulo siempre cae hacia abajo
+  <!-- feedback: El péndulo vuelve al punto de partida y no cae en linea recta. Su trajetória es un arco, y por eso se clasifica como movimiento curvilíneo y no rectilíneo. -->
+- [ ] C) Que es circular, porque la cuerda da vueltas completas cada vez
+  <!-- feedback: La cuerda oscila entre dos extremos y no describe una circunferencia completa. El recorrido es un arco de un solo sector, y por eso la trayectoria no es circular. -->
+- [ ] D) Que no tiene trayectoria, porque el péndulo se queda quieto
+  <!-- feedback: El péndulo se mueve de un lado a otro de forma repetida y regular. Ese movimiento describe un arco definido, que es la trayectoria que ocupa en cada instante. -->
+
+### Explicacion Pedagogica
+La trayectoria es la linea que describe un cuerpo en su movimiento. En el péndulo esa linea es un arco, de modo que el movimiento se clasifica como curvilíneo y periódico a la vez.
 
 ## Question 11 [D7-D8]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v11
-**Bloom:** Understand
+**Bloom:** Analyze
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Contexto:** Rosa María dibuja la trayectoria de una pelota en el campo de juego de San Miguel.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+Si un jugador lanza una pelota con un ángulo de 45 grados, ¿qué forma describe su trayectoria en el aire?
 
 ### Opciones
-- [x] A) Fotosíntesis
-  <!-- feedback: Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa. -->
-- [ ] B) Respiración celular
-  <!-- feedback: La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química. -->
+- [x] C) Una parábola, por la combinación del movimiento horizontal y el vertical
+  <!-- feedback: Correcto. La pelota avanza a velocidad constante en horizontal mientras cae con aceleración en vertical. Esa combinación de dos movimientos independientes produce una curva llamada parabola. -->
+- [ ] A) Una recta, porque la velocidad no cambia durante el vuelo
+  <!-- feedback: La velocidad cambia de dirección en todo momento del vuelo, y por eso la trayectoria no puede ser una recta. El tiro oblicuo es un caso claro de movimiento curvilíneo. -->
+- [ ] B) Una circunferencia, porque gira alrededor del punto de lanzamiento
+  <!-- feedback: La pelota no gira alrededor de un centro, sino que avanza y cae a la vez. El resultado de esa combinacion no es un arco, sino una curva abierta, que es la parábola. -->
+- [ ] D) Una espiral, porque el viento la desvía de forma continua
+  <!-- feedback: En el modelo ideal no interviene el viento, y la trayectoria sigue una parabola. La forma de la curva se explica solo por los dos movimientos superpuestos, sin que ningún agente externo la desvíe. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+En el tiro oblicuo el movimiento horizontal es uniforme y el vertical es uniformemente acelerado. La superposicion de ambos produce una parabola, con su punto mas alto a mitad de camino si el lanzamiento y la caida son simetricos.
 
 ## Question 12 [D7-D8]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Mejicanos estudiando cinematica.
+**Contexto:** Priscilla y Josué calculan el tiempo que tarda un móvil en alcanzar una rapidez dada en la clase de física de San Juan Bautista.
 
 ### Enunciado
-Objeto de 3 kg acelera a 5 m/s². ¿Fuerza aplicada? (F=ma)
+Si un móvil parte del reposo y acelera a 2 metros por segundo cuadrado, ¿cuánto tarda en alcanzar 10 metros por segundo?
 
 ### Opciones
-- [x] D) 15 N
-  <!-- feedback: Correcto. $F = ma = 3 \times 5 = 15$ N. -->
-- [ ] A) 12 N
-  <!-- feedback: 12 N sería $3 \times 4$, pero la aceleración indicada es de 5 m/s². -->
-- [ ] B) 20 N
-  <!-- feedback: 20 N corresponde a $4 \times 5$, y la masa del objeto es 3 kg y no 4. -->
-- [ ] C) 3 N
-  <!-- feedback: 3 N es la masa, no el producto con la aceleración de 5 m/s². -->
+- [x] A) 5 segundos, porque el tiempo es la velocidad dividida entre la aceleración
+  <!-- feedback: Correcto. Con la relacion v igual a a por t, al despejar el tiempo se obtiene 10 entre 2, que da 5 segundos. Es el tiempo necesario para pasar de cero a esa rapidez. -->
+- [ ] B) 20 segundos, porque el tiempo es el producto de ambas magnitudes
+  <!-- feedback: El producto de velocidad y aceleracion no tiene unidades de tiempo. El tiempo se obtiene con una division, y por eso 20 no puede ser la respuesta a esta pregunta. -->
+- [ ] C) 0,2 segundos, porque el tiempo es la aceleración dividida entre la velocidad
+  <!-- feedback: Al invertir la division se obtiene 0,2, que no corresponde al tiempo esperado. La rapidez dividida entre la aceleracion es justamente el tiempo, y no su reciproco. -->
+- [ ] D) 12 segundos, porque hay que sumar la velocidad y la aceleración
+  <!-- feedback: La suma de 10 y 2 da 12, pero sumar magnitudes de unidades distintas no tiene significado. El tiempo se calcula con la division, y no se obtiene sumando la rapidez con la aceleracion. -->
 
 ### Explicacion Pedagogica
-F = ma = 3×5 = 15 N.
+Cuando un móvil parte del reposo con aceleracion constante, la rapidez cumple v igual a a por t. De esa relacion, el tiempo resulta de dividir la rapidez entre la aceleracion.
 
-## Question 13 [D7-D8]
+## Question 13 [D9-D10]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v13
-**Bloom:** Remember
-**EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Miguel estudiando cinematica.
-
-### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
-
-### Opciones
-- [x] A) La piel
-  <!-- feedback: Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total. -->
-- [ ] B) El hígado
-  <!-- feedback: El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel. -->
-- [ ] C) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel. -->
-
-### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
-
-## Question 14 [D7-D8]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** cinematica
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Salvador estudiando cinematica.
-
-### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
-
-### Opciones
-- [x] D) La exposición a la luz
-  <!-- feedback: Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas. -->
-- [ ] A) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz. -->
-- [ ] B) La temperatura ambiente
-  <!-- feedback: La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente. -->
-- [ ] C) El tipo de planta
-  <!-- feedback: El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar. -->
-
-### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
-
-## Question 15 [D7-D8]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Santa Ana estudiando cinematica.
-
-### Enunciado
-¿Cuál es la unidad básica de la vida?
-
-### Opciones
-- [x] C) La célula
-  <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo. -->
-- [ ] B) La molécula
-  <!-- feedback: La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo. -->
-
-### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
-
-## Question 16 [D7-D8]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v16
-**Bloom:** Understand
+**Bloom:** Evaluate
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Contexto:** Guadalupe compara el movimiento de una hoja que cae con el de una piedra en la clase de física de Sonsonate.
 
 ### Enunciado
-¿Qué proceso conviierte luz solar en energía química en las plantas?
+Si se sueltan a la vez una piedra y una hoja, ¿por qué la piedra llega antes al suelo en un día sin viento?
 
 ### Opciones
-- [x] A) Fotosíntesis
-  <!-- feedback: Correcto. La fotosíntesis convierte la energía de la luz solar en energía química almacenada como glucosa. -->
-- [ ] B) Respiración celular
-  <!-- feedback: La respiración celular libera energía química a partir de la glucosa ya formada, no captura la energía de la luz. -->
-- [ ] C) Fermentación
-  <!-- feedback: La fermentación produce energía a partir de azúcares sin usar la luz como fuente, así que no corresponde a este proceso. -->
-- [ ] D) Digestión
-  <!-- feedback: La digestión es la degradación de los alimentos para absorberlos, no la conversión de luz solar en energía química. -->
+- [x] B) Porque la resistencia del aire frena más a la hoja, que tiene mucha superficie y poco peso
+  <!-- feedback: Correcto. Ambas cosas caen con la misma aceleracion gravitatoria, pero la hoja experimenta una fuerza de arrastre mucho mayor. Esa fuerza es la que la retrasa respecto de la piedra. -->
+- [ ] A) Porque la piedra pesa más y por eso la gravedad la atrae con más fuerza
+  <!-- feedback: La gravitacion es la misma para todos los cuerpos, con independencia de su masa. Si el peso hiciera caer mas rapido a lo pesado, no existiria la caida libre con igual aceleracion. -->
+- [ ] C) Porque la hoja es más ligera y la gravedad solo actúa sobre lo pesado
+  <!-- feedback: La gravedad actua por igual, y la hoja no esta exenta de ella. La diferencia la marca el aire, que frena mucho mas a la hoja por su gran superficie en relacion con su peso. -->
+- [ ] D) Porque la piedra es más densa y por eso ocupa menos espacio
+  <!-- feedback: La densidad explica algo de la diferencia, pero no la explica por si sola. La causa directa es la fuerza de arrastre, que depende de la forma y del area que se opone al movimiento del aire. -->
 
 ### Explicacion Pedagogica
-La fotosíntesis usa luz, agua y CO₂ para producir glucosa y oxígeno.
+Todos los cuerpos caen con la misma aceleracion gravitatoria si no hayrozamiento. En el aire, la diferencia aparece por el arrastre, que es proporcional a la superficie y mucho mas intenso en objetos ligeros y extendidos como una hoja.
 
-## Question 17 [D9-D10]
-**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v17
+## Question 14 [D9-D10]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v14
 **Bloom:** Apply
 **EJE:** cinematica
 **Expected_Success:** 0.80
-**Contexto:** Clase de ciencias en Santa Ana estudiando cinematica.
+**Contexto:** Christian revisa las gráficas de posición de varios móviles en la clase de física de Chalchuapa.
 
 ### Enunciado
-Objeto de 5 kg acelera a 4 m/s². ¿Fuerza aplicada? (F=ma)
+En un gráfico de posición contra tiempo, ¿qué forma corresponde a un móvil en reposo?
 
 ### Opciones
-- [x] A) 20 N
-  <!-- feedback: Correcto. $F = ma = 5 \times 4 = 20$ N. -->
-- [ ] B) 15 N
-  <!-- feedback: 15 N sería $5 \times 3$, y el enunciado da una aceleración de 4 m/s². -->
-- [ ] C) 24 N
-  <!-- feedback: 24 N corresponde a $6 \times 4$, y la masa del objeto es 5 kg y no 6. -->
-- [ ] D) 5 N
-  <!-- feedback: 5 N es la masa: la fuerza exige multiplicarla por los 4 m/s². -->
+- [x] C) Una recta horizontal, porque la posición no cambia con el tiempo
+  <!-- feedback: Correcto. Si el móvil permanece en el mismo punto, su posición es constante y la recta queda horizontal. Como la pendiente es cero, la rapidez deducida del grafico tambien es cero. -->
+- [ ] A) Una recta muy inclinada, porque se mueve muy rápido
+  <!-- feedback: Una recta inclinada indica una rapidez alta, y no un reposo. Cuanto mayor es la inclinacion, mas distancia recorre el movil en cada intervalo de tiempo, hasta el punto de no moverse. -->
+- [ ] B) Una curva que sube y baja, porque oscila como un pendulo
+  <!-- feedback: Esa forma describe un movimiento periodico, como el de un pendulo. Un movil en reposo no oscila: mantiene la misma posicion, y su grafico es una simple recta horizontal. -->
+- [ ] D) Una recta que pasa por el origen y se inclina poco
+  <!-- feedback: Toda recta inclinada representa desplazamiento, por pequeño que sea. Lo unico que da una posicion constante es una pendiente exactamente igual a cero, es decir, una recta horizontal. -->
 
 ### Explicacion Pedagogica
-F = ma = 5×4 = 20 N.
+La pendiente de un grafico de posicion contra tiempo es la rapidez. Un movil en reposo no cambia de posicion, asi que su grafico es una recta horizontal, de pendiente nula y rapidez cero.
+
+## Question 15 [D9-D10]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v15
+**Bloom:** Analyze
+**EJE:** cinematica
+**Expected_Success:** 0.80
+**Contexto:** Sandra y Fernando discuten el concepto de rapidez en la clase de física de Ayutuxte.
+
+### Enunciado
+Si un móvil recorre 60 metros en el primer segundo y 120 en el segundo, ¿qué movimiento describe?
+
+### Opciones
+- [x] A) Uniformemente acelerado, porque duplica la distancia en cada segundo igual
+  <!-- feedback: Correcto. Recorrer el doble de distancia en cada segundo igual es la firma clasica de la aceleracion constante. En un movimiento uniforme, cada segundo se recorreria la misma distancia. -->
+- [ ] B) Uniforme, porque avanza sin cambiar de dirección
+  <!-- feedback: La falta de cambios en la direccion no basta para que el movimiento sea uniforme. Aqui la distancia por segundo aumenta, de modo que la rapidez si esta cambiando de manera constante. -->
+- [ ] C) Curvilíneo, porque la trayectoria describe una curva
+  <!-- feedback: No se menciona ninguna curva en el enunciado. Lo que se observa es un cambio en la rapidez a ritmo constante, que es la caracteristica de un movimiento uniformemente acelerado. -->
+- [ ] D) Periodico, porque repite el mismo patrón cada segundo
+  <!-- feedback: Para que un movimiento sea periodico debe repetirse el ciclo completo, y no solo aumentar la distancia recorrida. El enunciado no habla de repeticiones, sino de una aceleración sostenida. -->
+
+### Explicacion Pedagogica
+En un movimiento uniformemente acelerado, la distancia recorrida en cada segundo sucesivo aumenta en cantidades iguales. En este caso, de 60 a 120 metros, la distancia se duplica en cada intervalo, lo que revela una aceleración constante.
+
+## Question 16 [D9-D10]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v16
+**Bloom:** Evaluate
+**EJE:** cinematica
+**Expected_Success:** 0.80
+**Contexto:** Karla prepara un informe de la practica de fisica sobre cinematica en la clase de la zona sur del país.
+
+### Enunciado
+¿Qué información necesita un móvil para quedar completamente descrito en un instante dado?
+
+### Opciones
+- [x] B) Su posición y su velocidad, con la dirección incluida
+  <!-- feedback: Correcto. La posición indica donde esta y la velocidad indica hacia donde se mueve y a que rapidez. Con esos dos datos, las ecuaciones del movimiento permiten saber su estado un instante después. -->
+- [ ] A) Solo su posición, porque el lugar ya lo define todo
+  <!-- feedback: La posicion no basta, porque un movil puede estar en el mismo punto moviendose en direcciones distintas. Para describir el movimiento hace falta tambien el vector velocidad, con su sentido y magnitud. -->
+- [ ] C) Solo su rapidez, porque la posición se deduce de la distancia
+  <!-- feedback: La rapidez no indica donde esta el cuerpo, y si, ademas, no dice hacia donde se dirige. La rapidez sola no alcanza para predecir el movimiento, y por eso se necesita tambien la posicion. -->
+- [ ] D) Su masa y su peso, porque determinan cómo se mueve
+  <!-- feedback: La masa y el peso influyen en las fuerzas, pero no definen el estado de movimiento de un movil. Para describir como se mueve en un instante hacen falta la posicion y la velocidad vectorial. -->
+
+### Explicacion Pedagogica
+El estado de un movil queda descrito por su posicion y su velocidad, que es un vector con magnitud y direccion. Con esos dos datos se pueden calcular las posiciones y velocidades en instantes posteriores.
+
+## Question 17 [D9-D10]
+**ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v17
+**Bloom:** Evaluate
+**EJE:** cinematica
+**Expected_Success:** 0.80
+**Contexto:** Wendy observa en la clase de física de Metapán cómo un vehículo frena antes de una curva cerrada.
+
+### Enunciado
+Si un vehículo mantiene su rapidez pero cambia de dirección, ¿qué afirmación es correcta?
+
+### Opciones
+- [x] A) Que tiene aceleración, porque la dirección de la velocidad sí cambia
+  <!-- feedback: Correcto. La aceleracion no es solo un cambio de rapidez: tambien aparece cuando la rapidez se mantiene y lo que cambia es la dirección. Por eso girar en una curva es acelerar. -->
+- [ ] B) Que no tiene aceleración, porque la rapidez se conserva
+  <!-- feedback: Mantener la rapidez no elimina la aceleracion. Al cambiar la direccion del vector velocidad, este sigue cambiando aunque su magnitud no cambie, y por eso hay aceleracion. -->
+- [ ] C) Que su velocidad es cero, porque está girando
+  <!-- feedback: Girar no pone el velocidad a cero. El vehiculo sigue avanzando, de modo que su rapidez es la misma, y lo unico que se modifica es hacia donde apunta el vector velocidad. -->
+- [ ] D) Que frena, porque toda curva implica una disminución de la rapidez
+  <!-- feedback: Una curva puede recorrerse a la misma rapidez que un tramo recto. El frenado es un caso aparte, y no es necesario para que la direccion del movimiento cambie. -->
+
+### Explicacion Pedagogica
+La aceleracion es el cambio de la velocidad, y esta es un vector. Si cambia su dirección, aunque no cambie su magnitud, sigue habiendo aceleración, que en una curva se llama aceleración centripeta.
 
 ## Question 18 [D9-D10]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v18
-**Bloom:** Remember
+**Bloom:** Evaluate
 **EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en San Salvador estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Iván prepara una demostración con dos bolas en el laboratorio de la clase de Ayutuxte.
 
 ### Enunciado
-¿Cuál es el órgano más grande del cuerpo humano?
+Si dos bolas de distinto tamaño caen en un tubo con mucho vacio, ¿qué se espera que ocurra?
 
 ### Opciones
-- [x] A) La piel
-  <!-- feedback: Correcto. La piel es el órgano más grande del cuerpo humano: en un adulto ronda los 2 m² y aporta cerca del 15 % del peso total. -->
-- [ ] B) El hígado
-  <!-- feedback: El hígado es la glándula más grande del cuerpo, pero es un órgano interno que pesa cerca de 1,5 kg, muy por debajo de la piel. -->
-- [ ] C) El corazón
-  <!-- feedback: El corazón es una bomba muscular pequeña que late en la cavidad torácica, y no llega al 15 % del peso corporal. -->
-- [ ] D) Los pulmones
-  <!-- feedback: Los pulmones son órganos pares que ocupan la cavidad torácica: su superficie es amplia, pero su masa no supera la de la piel. -->
+- [x] A) Que ambas caigan con la misma aceleración, cerca de 10 metros por segundo cuadrado
+  <!-- feedback: Correcto. Al extraer el aire no queda casi ninguna resistencia que las frene. En el vacio todos los cuerpos caen con igual aceleracion, sin importar su masa, forma ni tamaño. -->
+- [ ] B) Que la bola grande caiga más rápido por tener más masa
+  <!-- feedback: En el vacio la masa no altera la caida. Si el aire no frena a ninguna de las dos, ambas descienden con igual aceleracion, y esa fue justamente la conclusion de Galileo. -->
+- [ ] C) Que la bola pequena tarde mas por su menor peso
+  <!-- feedback: El peso no determina la rapidez de caida en ausencia de rozamiento. La conclusion de Galileo es que todos los cuerpos caen igual en el vacio, y la pequena no es la excepcion. -->
+- [ ] D) Que las dos bolas caigan en tiempos distintos por su forma
+  <!-- feedback: La forma solo importa cuando hay un medio que frena. En el vacio no hay aire que las retrase, asi que su forma deja de influir y ambas caen con igual aceleracion. -->
 
 ### Explicacion Pedagogica
-La piel es el órgano más grande, cubriendo y protegiendo todo el cuerpo.
+El experimento de Galileo en la torre de Pisa y su version en el vacio demostraron que la caida de los cuerpos no depende de su peso cuando se elimina la resistencia del aire. Todos los cuerpos caen con igual aceleracion gravitatoria.
 
 ## Question 19 [D9-D10]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v19
-**Bloom:** Analyze
+**Bloom:** Evaluate
 **EJE:** cinematica
-**Expected_Success:** 0.70
-**Contexto:** Clase de ciencias en San Miguel estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Rosa María mide cuánto tarda un móvil en recorrer 30 metros arrancando desde el reposo en la clase de física de San Vicente.
 
 ### Enunciado
-En un experimento, plantas con luz crecen más que sin luz. ¿Variable independiente?
+Si el móvil recorre 30 metros en 5 segundos partiendo del reposo con aceleración constante, ¿qué rapidez alcanza al final?
 
 ### Opciones
-- [x] B) La exposición a la luz
-  <!-- feedback: Correcto. La variable independiente es la que el investigador modifica a propósito, y aquí es la cantidad de luz que reciben las plantas. -->
-- [ ] A) El crecimiento de las plantas
-  <!-- feedback: El crecimiento es la variable dependiente: es la respuesta que se mide cuando cambia la luz. -->
-- [ ] C) La temperatura ambiente
-  <!-- feedback: La temperatura no se manipuló en el experimento descrito, así que no puede ser la variable independiente. -->
-- [ ] D) El tipo de planta
-  <!-- feedback: El tipo de planta se mantuvo constante en el experimento, de modo que no es la variable que se hizo variar. -->
+- [x] A) 12 metros por segundo, porque duplica la rapidez media de 6
+  <!-- feedback: Correcto. En un movimiento uniformemente acelerado desde el reposo, la rapidez media es la mitad de la final. Si la media es 30 entre 5, es decir 6 metros por segundo, la final vale el doble. -->
+- [ ] B) 6 metros por segundo, que es simplemente la distancia dividida entre el tiempo
+  <!-- feedback: Esa division da la rapidez media, y no la final. Como el movil acelera durante todo el recorrido, su rapidez al final es el doble de ese promedio, y por eso la respuesta no basta. -->
+- [ ] C) 3 metros por segundo, que sería la mitad de la rapidez media
+  <!-- feedback: Dividir otra vez el promedio entre dos no describe ningún caso del problema. La relacion correcta entre rapidez media y final es un factor de dos, y no una division sucesiva. -->
+- [ ] D) 30 metros por segundo, que es la suma de la distancia y el tiempo
+  <!-- feedback: Sumar distancia con tiempo mezcla dos magnitudes de unidades distintas, y eso no tiene significado. La rapidez final sale de la relacion entre distancia y tiempo, y no de esa suma. -->
 
 ### Explicacion Pedagogica
-La variable independiente es la que manipula el investigador: la luz.
+En un movimiento uniformemente acelerado desde el reposo, la rapidez media es la mitad de la final. Por eso, si la media es 6 metros por segundo, la rapidez alcanzada al cabo de 5 segundos es unos 12.
 
 ## Question 20 [D9-D10]
 **ID:** SV-CIE-11-2026-W25-cinematica-001-MASTERY-bundle-v20
-**Bloom:** Remember
+**Bloom:** Evaluate
 **EJE:** cinematica
-**Expected_Success:** 0.85
-**Contexto:** Clase de ciencias en Soyapango estudiando cinematica.
+**Expected_Success:** 0.80
+**Contexto:** Fernando y su equipo de la clase de física de La Libertad analizan los datos de una caída libre registrada con un sensor.
 
 ### Enunciado
-¿Cuál es la unidad básica de la vida?
+Si un móvil cae libremente y duplica su rapidez en 2 segundos, ¿cuál es su aceleración?
 
 ### Opciones
-- [x] B) La célula
-  <!-- feedback: Correcto. La célula es la unidad estructural y funcional de todos los seres vivos. -->
-- [ ] A) El átomo
-  <!-- feedback: El átomo es la unidad básica de la materia en química, no de la vida, y ningún ser vivo es un solo átomo. -->
-- [ ] C) La molécula
-  <!-- feedback: La molécula es una combinación química de átomos: es un nivel anterior al biológico, no la unidad de la vida. -->
-- [ ] D) El tejido
-  <!-- feedback: El tejido es un conjunto de células con una función común, es decir un nivel superior dentro del organismo. -->
+- [ ] A) 10 metros por segundo al cuadrado, que es el doble de la rapidez alcanzada
+  <!-- feedback: La aceleracion y la rapidez son magnitudes distintas, aunque compartan el 10 como numero. Duplicar la rapidez no significa duplicar la aceleracion, y por eso esa respuesta confunde las dos. -->
+- [ ] B) 2,5 metros por segundo cuadrado, que es la mitad de la aceleración esperada
+  <!-- feedback: La caida libre no tiene una aceleracion de 2,5, sino cercana a 10 metros por segundo cuadrado. Esa cifra correspondria a un cuerpo en un planeta con una gravedad mucho mas debil que el nuestro. -->
+- [ ] C) 20 metros por segundo cuadrado, porque hay que duplicar la aceleración con el tiempo
+  <!-- feedback: La aceleracion gravitatoria no se duplica con el tiempo: es constante en toda la caida. El tiempo solo determina cuanto aumenta la rapidez, y no modifica la aceleración que la produce. -->
+- [x] D) 5 metros por segundo cuadrado, porque la rapidez aumenta unos 10 metros por segundo cada segundo
+  <!-- feedback: Correcto. La caida libre tiene una aceleracion constante cercana a 10 metros por segundo cuadrado. En 2 segundos la rapidez se habria duplicado desde unos 5 hasta unos 10 metros por segundo, lo que coincide con esa misma aceleracion. -->
 
 ### Explicacion Pedagogica
-La célula es la unidad estructural y funcional básica de los seres vivos.
+La gravedad imprime una aceleración constante de unos 10 metros por segundo cuadrado. Por eso la rapidez en la caida libre aumenta de forma uniforme con el tiempo, sin que esa aceleración cambie en ningún instante.
