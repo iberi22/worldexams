@@ -21,462 +21,464 @@ bundle_index: 1
 **20 preguntas | Ingles | BGU - Ministerio de Educacion**
 
 ---
+
 ## Question 1 [D3]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v1
 **Bloom:** Remember
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** This task is really difficult. I ___ finish it before Friday.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Choose the modal that expresses ability in the present.
 
 ### Opciones
-- [x] C) accommodation
-  <!-- feedback: 'accommodation' is the word for a place where you live or stay, including on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' means the way you travel, such as buses or planes, not where you stay. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is the activity of enjoying shows, films or games, not a place to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money of a country, such as the colon; a place to stay is not money. -->
+- [x] A) I can't finish it before Friday, so I need more time.
+  <!-- feedback: Correct! 'Can't' is the contracted negative of 'cannot' and is followed by the base form of the verb. -->
+- [ ] B) I not can finish it before Friday, so I need more time.
+  <!-- feedback: A modal verb is already negative in form, so 'not' cannot be placed in front of it. -->
+- [ ] C) I can't to finish it before Friday, so I need more time.
+  <!-- feedback: 'Can't to' adds an infinitive marker that never follows a modal; modals are always followed by the base form. -->
+- [ ] D) I am can finish it before Friday, so I need more time.
+  <!-- feedback: 'Am can' combines two auxiliaries that cannot appear together in the same verb phrase. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The modals 'can', 'could', 'may', 'might', 'must', 'should' and 'will' are followed by the base form of the verb with no infinitive marker and no ending. They are already negative in their contracted forms, which is why 'can not' never appears beside 'not'.
 ---
-## Question 2 [D4]
+## Question 2 [D3]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v2
-**Bloom:** Remember
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
-
-### Opciones
-- [x] B) itinerary
-  <!-- feedback: 'itinerary' is a detailed plan of a journey, listing the route and the stops along the way. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' is only the place you are going to; the plan of the route is the itinerary. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the travel document you show at the border, not the plan of a journey. -->
-
-### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
----
-## Question 3 [D3]
-**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v3
 **Bloom:** Understand
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** When I was ten, I ___ swim across the river, but now I can't.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the modal that expresses past ability.
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: 'destination' names the place a person or thing is going or being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the action of leaving, not the place you leave for. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the moment of reaching a place, not the place itself. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, not the place at the end of it. -->
+- [ ] A) When I was ten, I was could swim across the river.
+  <!-- feedback: 'Was could' combines the auxiliary 'was' with the modal 'could', which is not a valid combination. -->
+- [ ] B) When I was ten, I can swim across the river.
+  <!-- feedback: 'Can' describes a present ability, so it contradicts the later statement that the speaker cannot swim now. -->
+- [ ] C) When I was ten, I could to swim across the river.
+  <!-- feedback: 'Could to' needs the base form after the modal, so the correct form is 'could swim'. -->
+- [x] D) When I was ten, I could swim across the river.
+  <!-- feedback: Correct! 'Could' is the past form of 'can' and describes an ability that existed in the past. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+'Could' is the past of 'can' and is used both for past ability and for polite requests in the present. It never takes an infinitive marker, so 'could to swim' is not English.
+---
+## Question 3 [D4]
+**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v3
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** You ___ drive without a licence; the police will fine you if they catch you.
+
+### Enunciado
+Complete the sentence with the modal that expresses prohibition.
+
+### Opciones
+- [ ] A) You must not to drive without a licence.
+  <!-- feedback: 'Must not to' adds an infinitive marker that never follows a modal verb. -->
+- [x] B) You must not drive without a licence.
+  <!-- feedback: Correct! 'Must not' expresses a prohibition, which is the opposite of the obligation carried by 'must' alone. -->
+- [ ] C) You not must drive without a licence.
+  <!-- feedback: 'Not must' places 'not' before the modal, but a modal already carries its own negation with 'must not'. -->
+- [ ] D) You must driving without a licence.
+  <!-- feedback: 'Must driving' needs the base form after the modal, so the correct form is 'must not drive'. -->
+
+### Explicacion Pedagogica
+'Must' expresses strong obligation, 'must not' expresses a total prohibition and 'don't have to' expresses the absence of any obligation. Confusing the last two is the most frequent error with this trio.
 ---
 ## Question 4 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Could you open the window? It's very hot in here.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Choose the correct form of the polite request.
 
 ### Opciones
-- [x] C) luggage
-  <!-- feedback: 'luggage' is the collective word for the suitcases and bags you pack for a trip. -->
-- [ ] A) ticket
-  <!-- feedback: 'ticket' is the document you buy that admits you to the journey. -->
-- [ ] B) flight
-  <!-- feedback: 'flight' is the plane or the scheduled trip itself, not the bags you carry. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you hold for a seat or a room. -->
+- [ ] A) Could you open the window? No, you could not.
+  <!-- feedback: The second line turns the request into a statement about an impossibility and does not answer the question. -->
+- [ ] B) Could you opening the window, please?
+  <!-- feedback: 'Could you opening' needs the base form after the modal, so the correct form is 'could you open'. -->
+- [x] C) Could you open the window, please?
+  <!-- feedback: Correct! 'Could you' is the most polite way to ask for something, and the modal is followed by the base form. -->
+- [ ] D) Can you opened the window, please?
+  <!-- feedback: 'Can you opened' places a past participle after 'can', which is not the form a modal requires. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Requests are made polite by using 'could', 'would' or 'might' together with 'you' and the base form. 'Could you send me the file?' is the standard polite version of 'Can you send me the file?' in both speech and writing.
 ---
 ## Question 5 [D5]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** It's raining and we have no umbrella. We ___ walk home.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Complete the sentence with the modal that expresses a strong possibility in the present.
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: 'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, not on a bus, a train or a plane. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' is someone who travels regularly between home and work, a narrower idea than passenger. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew. -->
+- [x] A) We might have to walk home if it keeps raining.
+  <!-- feedback: Correct! 'Might' plus 'have to' reports a possible obligation in the future, which fits the situation described. -->
+- [ ] B) We might has to walk home if it keeps raining.
+  <!-- feedback: 'Might has' mixes a modal with another auxiliary; 'might' already carries the modal meaning on its own. -->
+- [ ] C) We might to walk home if it keeps raining.
+  <!-- feedback: 'Might to' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) We are might to walk home if it keeps raining.
+  <!-- feedback: 'Are might' combines the auxiliary 'are' with the modal 'might', which is not grammatical in English. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+'Might', 'may' and 'could' all express possibility, and each one can be followed by another verb phrase such as 'have to go', 'be late' or 'need to leave'. A modal of possibility combined with an obligation modal is a frequent construction in spoken English.
 ---
-## Question 6 [D6]
+## Question 6 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** We have to be there by eight, so we really ___ leave now.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Choose the modal that expresses the speaker's opinion about what is necessary.
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: 'customs' is the office where officials check the goods, the luggage and the travellers entering a country. -->
-- [ ] A) security
-  <!-- feedback: 'security' refers to the staff and the measures that keep the airport safe, not to the goods check. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for and board your flight. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door you board the plane through, not the place where officials check luggage. -->
+- [ ] A) We really should leaving now, because we have to be there by eight.
+  <!-- feedback: 'Should leaving' needs the base form after the modal rather than the -ing form. -->
+- [ ] B) We really should to leave now, because we have to be there by eight.
+  <!-- feedback: 'Should to' needs the base form after the modal, so the correct form is 'should leave'. -->
+- [x] C) We really should leave now, because we have to be there by eight.
+  <!-- feedback: Correct! 'Should' expresses advice based on the situation, while 'have to' states the external requirement. -->
+- [ ] D) We really are should leave now, because we have to be there by eight.
+  <!-- feedback: 'Are should' combines the auxiliary 'are' with the modal 'should', which is not a valid combination. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+'Should' gives advice, 'must' and 'have to' give rules or requirements and 'ought to' is a formal alternative to 'should'. All of them are followed by the base form of the verb.
 ---
 ## Question 7 [D5]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v7
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The instructions say that we ___ use the laboratory without a supervisor.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Choose the modal that expresses a formal obligation in written rules.
 
 ### Opciones
-- [x] D) boarding pass
-  <!-- feedback: 'boarding pass' is the slip the airline hands over at check-in that lets you board the plane. -->
-- [ ] A) visa
-  <!-- feedback: 'visa' is the official permission to enter and stay in a foreign country. -->
-- [ ] B) receipt
-  <!-- feedback: 'receipt' is the proof of payment for the ticket, not the document that lets you board. -->
-- [ ] C) brochure
-  <!-- feedback: 'brochure' is a small booklet with tourist information, not a travel document. -->
+- [ ] A) We must to not use the laboratory without a supervisor.
+  <!-- feedback: 'Must to not' inserts a second infinitive marker after the modal, which is not English. -->
+- [ ] B) We must not using the laboratory without a supervisor.
+  <!-- feedback: 'Must not using' needs the base form after the modal, so the correct form is 'must not use'. -->
+- [ ] C) We not must use the laboratory without a supervisor.
+  <!-- feedback: 'Not must' places 'not' before the modal, which is not how English forms a negative with modals. -->
+- [x] D) We must not use the laboratory without a supervisor.
+  <!-- feedback: Correct! 'Must not' states a formal prohibition written in the rules of the laboratory. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+Written instructions and regulations are usually expressed with 'must', 'must not' and 'should'. These modals describe obligations that come from outside the speaker, unlike 'can' and 'might', which describe possibility.
 ---
-## Question 8 [D6]
+## Question 8 [D3]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I'm not sure, but she ___ be at home now; her car is in the driveway.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Choose the modal that expresses a possible situation that the speaker cannot confirm.
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: 'sightseeing' is visiting the places of interest of a location in order to look at them. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things, which is a different activity from visiting sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking in the countryside along a trail, usually for exercise. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means spending the night outdoors in a tent. -->
+- [ ] A) She may being at home now, because her car is in the driveway.
+  <!-- feedback: 'May being' needs the base form after the modal, so the correct form is 'may be'. -->
+- [x] B) She may be at home now, because her car is in the driveway.
+  <!-- feedback: Correct! 'May be' expresses a possibility that the speaker cannot confirm, and the evidence supports it. -->
+- [ ] C) She may to be at home now, because her car is in the driveway.
+  <!-- feedback: 'May to be' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) She is may be at home now, because her car is in the driveway.
+  <!-- feedback: 'Is may' combines the auxiliary 'is' with the modal 'may', which is not grammatical in English. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+'May', 'might' and 'could' all express uncertainty about a present situation. 'May' is the most formal of the three, 'might' is the most common in speech and 'could' is often used for a possibility the speaker would rather not think about.
 ---
-## Question 9 [D5]
+## Question 9 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v9
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
-
-### Opciones
-- [x] D) souvenir
-  <!-- feedback: 'souvenir' is an object kept because it reminds you of a person, a place or an event. -->
-- [ ] A) gift
-  <!-- feedback: 'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder. -->
-- [ ] B) award
-  <!-- feedback: 'award' is a distinction given for a merit or an achievement. -->
-- [ ] C) prize
-  <!-- feedback: 'prize' is what is won in a competition, not an object bought to remember a trip. -->
-
-### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
----
-## Question 10 [D6]
-**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v10
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
-
-### Opciones
-- [x] C) delay
-  <!-- feedback: 'delay' is the extra period of time by which something becomes late or is postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: 'cancellation' ends the booking or the trip altogether rather than pushing it back. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the time a vehicle is scheduled to leave, not a postponement. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment you reach the destination, not the waiting time. -->
-
-### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
----
-## Question 11 [D7]
-**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v11
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
-
-### Opciones
-- [x] B) check-in
-  <!-- feedback: 'check-in' is reporting your presence at the airport or the hotel and registering. -->
-- [ ] A) check-out
-  <!-- feedback: 'check-out' is the opposite moment: leaving the hotel and settling the bill. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is reserving the room or the seat in advance, which happens before you arrive. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the record of that booking, not the act of reporting your presence. -->
-
-### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
----
-## Question 12 [D8]
-**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v12
-**Bloom:** Apply
-**EJE:** Lexico
-**Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
-
-### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
-
-### Opciones
-- [x] B) layover
-  <!-- feedback: 'layover' is the rest or the waiting period between two stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is a break in a journey during which you leave the vehicle, often overnight. -->
-- [ ] C) transfer
-  <!-- feedback: 'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means passage through a place or the system that carries people, not the pause itself. -->
-
-### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
----
-## Question 13 [D7]
-**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v13
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The plane will take off in twenty minutes. We ___ go to the gate now.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Choose the modal that expresses obligation deduced from the situation.
 
 ### Opciones
-- [x] C) currency
-  <!-- feedback: 'currency' is the whole money system in general use in a particular country. -->
-- [ ] A) coin
-  <!-- feedback: 'coin' is a single round piece of metal money, only one part of a currency. -->
-- [ ] B) banknote
-  <!-- feedback: 'banknote' is a paper note, again only one part of a country's money system. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' is money in coins and notes seen as a form of payment, not the system a country has. -->
+- [x] A) We must go to the gate now, because the flight is about to leave.
+  <!-- feedback: Correct! 'Must' expresses the strong deduction that the situation leaves no other possibility. -->
+- [ ] B) We must going to the gate now, because the flight is about to leave.
+  <!-- feedback: 'Must going' needs the base form after the modal, so the correct form is 'must go'. -->
+- [ ] C) We must to go to the gate now, because the flight is about to leave.
+  <!-- feedback: 'Must to' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) We musts go to the gate now, because the flight is about to leave.
+  <!-- feedback: 'Musts' is not a form of the modal; the third person singular of 'must' is the same 'must'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+'Must' has two uses: strong obligation and strong deduction about what is certainly true. In both cases it is followed by the base form and never changes for the third person singular.
 ---
-## Question 14 [D8]
+## Question 10 [D5]
+**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v10
+**Bloom:** Evaluate
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** You ___ touch the paintings; some of them are two hundred years old.
+
+### Enunciado
+Complete the sentence with the modal that expresses a clear prohibition.
+
+### Opciones
+- [ ] A) You must not to touch the paintings.
+  <!-- feedback: 'Must not to' adds an infinitive marker that never follows a modal verb. -->
+- [x] B) You must not touch the paintings.
+  <!-- feedback: Correct! 'Must not' expresses a total prohibition, which is what the age of the paintings requires. -->
+- [ ] C) You not must touch the paintings.
+  <!-- feedback: 'Not must' places 'not' before the modal, but the negative form of 'must' is 'must not'. -->
+- [ ] D) You must touches the paintings.
+  <!-- feedback: 'Must touches' carries the third person ending after the modal, which is never the case in English. -->
+
+### Explicacion Pedagogica
+'Must not' is the strongest prohibition available and is used in warnings, signs and instructions. For a softer version, 'shouldn't' or 'better not' can be used instead, all with the base form of the verb.
+---
+## Question 11 [D3]
+**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v11
+**Bloom:** Remember
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** He studied medicine, so he ___ be able to help with that injury.
+
+### Enunciado
+Choose the modal that expresses a deduction based on evidence.
+
+### Opciones
+- [ ] A) He musts be able to help, because he studied medicine.
+  <!-- feedback: 'Musts' is not a form of the modal; 'must' is identical for every person of the present. -->
+- [ ] B) He must be able to helping, because he studied medicine.
+  <!-- feedback: 'Must be helping' is the past continuous plus a modal and does not express a deduction about ability. -->
+- [ ] C) He must to be able to help, because he studied medicine.
+  <!-- feedback: 'Must to be' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) He must be able to help, because he studied medicine.
+  <!-- feedback: Correct! 'Must be' expresses a deduction that follows logically from the study he completed. -->
+
+### Explicacion Pedagogica
+A deduction with 'must' is followed by the base form, so the verb that comes next may itself be a form of 'be': he must be tired, he must be at home, she must be reading. The evidence in the sentence makes the conclusion strong.
+---
+## Question 12 [D3]
+**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v12
+**Bloom:** Understand
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Where are the keys? They ___ be in my bag, but I can't find them.
+
+### Enunciado
+Choose the modal that expresses a guess about a present situation.
+
+### Opciones
+- [ ] A) They may to be in my bag, but I can't find them.
+  <!-- feedback: 'May to be' adds an infinitive marker that never follows a modal verb. -->
+- [ ] B) They may being in my bag, but I can't find them.
+  <!-- feedback: 'May being' needs the base form after the modal, so the correct form is 'may be'. -->
+- [x] C) They may be in my bag, but I can't find them.
+  <!-- feedback: Correct! 'May be' presents a reasonable hypothesis about the present that the speaker cannot confirm. -->
+- [ ] D) They are may be in my bag, but I can't find them.
+  <!-- feedback: 'Are may' combines the auxiliary 'are' with the modal 'may', which is not grammatical in English. -->
+
+### Explicacion Pedagogica
+Hypotheses about the present are expressed with 'may', 'might' or 'could'. When the modal is followed by the verb 'to be', the sequence is 'may be', which is often heard as a single word in fast speech.
+---
+## Question 13 [D4]
+**ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v13
+**Bloom:** Apply
+**EJE:** Gramatica
+**Expected_Success:** 0.80
+**Contexto:** Don't worry about the exam. You ___ be able to do much better than you think.
+
+### Enunciado
+Choose the sentence that correctly reassures the listener with a modal.
+
+### Opciones
+- [x] A) You must be able to do much better than you think.
+  <!-- feedback: Correct! 'Must be able' expresses a confident prediction about what the listener is capable of doing. -->
+- [ ] B) You must being able to do much better than you think.
+  <!-- feedback: 'Must being' needs the base form after the modal, so the correct form is 'must be'. -->
+- [ ] C) You must to be able to do much better than you think.
+  <!-- feedback: 'Must to be' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) You must able to do much better than you think.
+  <!-- feedback: 'Must able' is missing the verb 'be' between the modal and the adjective 'able'. -->
+
+### Explicacion Pedagogica
+A modal is always followed by a verb, so 'must' requires 'be' before an adjective: it must be cold. Modal combinations such as 'must be able', 'should have' and 'can't have' are fixed phrases built with that same structure.
+---
+## Question 14 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v14
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You have been working for nine hours. You ___ go home and rest now.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Choose the modal that gives a strong recommendation.
 
 ### Opciones
-- [x] B) guidebook
-  <!-- feedback: 'guidebook' is a book of information about a place written for the use of visitors. -->
-- [ ] A) map
-  <!-- feedback: 'map' is a drawing of the area, not a book of information. -->
-- [ ] C) dictionary
-  <!-- feedback: 'dictionary' explains the words of a language, not the places of a region. -->
-- [ ] D) encyclopedia
-  <!-- feedback: 'encyclopedia' covers all branches of knowledge, not one destination for tourists. -->
+- [ ] A) You had better going home and rest now.
+  <!-- feedback: 'Had better going' needs the base form after the modal, so the correct form is 'had better go'. -->
+- [ ] B) You had better stay home and rest now.
+  <!-- feedback: 'Stay home' is a different recommendation from going out; the situation calls for going home and resting, not for staying in. -->
+- [x] C) You had better go home and rest now.
+  <!-- feedback: Correct! 'Had better' is the standard form for a strong recommendation and is followed by the base form. -->
+- [ ] D) You had better to going home and rest now.
+  <!-- feedback: 'Better to going' mixes an infinitive marker with an -ing form, which is not a construction in English. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+'Had better' is used to warn somebody about the consequences of continuing: you had better leave now. It is followed by the base form and is slightly less strong than 'must' but stronger than 'should'.
 ---
-## Question 15 [D7]
+## Question 15 [D5]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Evaluate
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Visitors ___ use their own food in the dormitory; the kitchen is shared.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the modal that expresses a rule in an institutional notice.
 
 ### Opciones
-- [x] D) backpack
-  <!-- feedback: 'backpack' has shoulder straps and is carried on the back. -->
-- [ ] A) suitcase
-  <!-- feedback: 'suitcase' is a case with a handle that is pulled along, not one worn on the back. -->
-- [ ] B) briefcase
-  <!-- feedback: 'briefcase' is a flat case for documents that you carry by hand at work. -->
-- [ ] C) handbag
-  <!-- feedback: 'handbag' is a small bag held in the hand, usually for personal items. -->
+- [ ] A) Visitors must not using their own food in the dormitory.
+  <!-- feedback: 'Must not using' needs the base form after the modal, so the correct form is 'must not use'. -->
+- [x] B) Visitors must not use their own food in the dormitory.
+  <!-- feedback: Correct! 'Must not' is the phrasing used in a formal notice to state a rule that is not permitted. -->
+- [ ] C) Visitors not must use their own food in the dormitory.
+  <!-- feedback: 'Not must' places 'not' in front of the modal instead of after it, which is not the word order of English. -->
+- [ ] D) Visitors must to not use their own food in the dormitory.
+  <!-- feedback: 'Must to not' adds a second infinitive marker after the modal and is not grammatical. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+Institutional English relies on 'must', 'must not' and 'should'. These modals are chosen by the writer according to how firm the rule is, and they never change form for the third person singular.
 ---
-## Question 16 [D8]
+## Question 16 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v16
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Remember
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** It ___ rain tomorrow, but I am not sure; the forecast is uncertain.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+Choose the modal that expresses an uncertain prediction about the weather.
 
 ### Opciones
-- [x] A) overseas
-  <!-- feedback: 'overseas' means in or to a foreign country, especially one across the sea. -->
-- [ ] B) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] C) local
-  <!-- feedback: 'local' means belonging to a small area nearby, not to a foreign country. -->
-- [ ] D) national
-  <!-- feedback: 'national' means concerning the whole nation and says nothing about being abroad. -->
+- [ ] A) It might raining tomorrow, but I am not sure.
+  <!-- feedback: 'Might raining' needs the base form after the modal, so the correct form is 'might rain'. -->
+- [ ] B) It might rains tomorrow, but I am not sure.
+  <!-- feedback: 'Might rains' adds the third person ending, but after a modal the verb keeps its base form. -->
+- [ ] C) It might to rain tomorrow, but I am not sure.
+  <!-- feedback: 'Might to rain' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) It might rain tomorrow, but I am not sure.
+  <!-- feedback: Correct! 'Might' plus the base form expresses a probable but uncertain prediction about tomorrow. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+Weather predictions are frequently hedged with 'might', 'could' or 'may'. The choice between them depends on how confident the speaker is: 'will' for certainty, 'probably' for a firm expectation and 'might' for a real doubt.
 ---
-## Question 17 [D9]
+## Question 17 [D5]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Understand
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** She ___ speak three languages, which is why she got the job at the embassy.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Choose the modal that explains a past success by an existing ability.
 
 ### Opciones
-- [x] C) budget
-  <!-- feedback: 'budget' is an estimate of income and expenditure planned for a set period. -->
-- [ ] A) expense
-  <!-- feedback: 'expense' is a single amount of money that is spent, not the plan for a whole period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is what one item or one service costs, again not an estimate for a period. -->
-- [ ] D) price
-  <!-- feedback: 'price' is the sum a customer pays for one product; a budget covers income and spending together. -->
+- [x] A) She can speak three languages, which is why she got the job.
+  <!-- feedback: Correct! 'Can speak' expresses the ability that explains the success, and the verb stays in the base form. -->
+- [ ] B) She cans speak three languages, which is why she got the job.
+  <!-- feedback: 'Cans' is not a form of the modal; 'can' is identical for every person of the present. -->
+- [ ] C) She can to speak three languages, which is why she got the job.
+  <!-- feedback: 'Can to speak' adds an infinitive marker that never follows a modal verb. -->
+- [ ] D) She can speaking three languages, which is why she got the job.
+  <!-- feedback: 'Can speaking' needs the base form after the modal, so the correct form is 'can speak'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+'Can' describes ability in the present and 'could' describes ability in the past or a polite possibility. Neither takes the -s of the third person singular, because modals have no inflection for person or number.
 ---
-## Question 18 [D10]
+## Question 18 [D3]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** You have been on the phone for an hour. You ___ have called me if you needed help.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Choose the modal that expresses what the speaker expected in the past.
 
 ### Opciones
-- [x] A) insurance
-  <!-- feedback: 'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium. -->
-- [ ] B) warranty
-  <!-- feedback: 'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge. -->
-- [ ] C) guarantee
-  <!-- feedback: 'guarantee' is a general promise of quality and does not involve paying a premium. -->
-- [ ] D) policy
-  <!-- feedback: 'policy' is the written document that states what an insurance contract covers. -->
+- [ ] A) You should have call me if you had needed help.
+  <!-- feedback: 'Should have call' needs the past participle 'called' after 'should have'. -->
+- [x] B) You should have called me if you had needed help.
+  <!-- feedback: Correct! 'Should have called' expresses an expectation about the past, and 'had needed' is the third form of 'need'. -->
+- [ ] C) You should called me if you had needed help.
+  <!-- feedback: 'Should called' uses only two forms; the third form needs 'have' between the modal and the participle. -->
+- [ ] D) You should have to called me if you had needed help.
+  <!-- feedback: 'Should have to called' adds an infinitive marker that never appears after 'have' in this structure. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+'Should have' plus the past participle criticises or advises about a past situation, while 'if you had needed' is the third form of 'need' and describes a situation that did not turn out to exist. Both forms appear together whenever the speaker is speculating about the past.
 ---
-## Question 19 [D9]
+## Question 19 [D4]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** The manager said that all the students ___ submit the form before Friday.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Choose the modal that reports an instruction in indirect speech.
 
 ### Opciones
-- [x] C) vaccination
-  <!-- feedback: 'vaccination' is the treatment with a vaccine that makes the body immune to a disease. -->
-- [ ] A) medication
-  <!-- feedback: 'medication' is a drug taken to treat an illness, not to prevent one. -->
-- [ ] B) prescription
-  <!-- feedback: 'prescription' is the written order that authorises a medicine, not the treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: 'infection' is the disease itself, the opposite of the protection a vaccination gives. -->
+- [ ] A) The manager said that all the students must submitting the form before Friday.
+  <!-- feedback: 'Must submitting' needs the base form after the modal, so the correct form is 'must submit'. -->
+- [ ] B) The manager said that all the students must submits the form before Friday.
+  <!-- feedback: 'Must submits' adds the third person ending after a modal, which never happens in English. -->
+- [ ] C) The manager said that all the students must to submit the form before Friday.
+  <!-- feedback: 'Must to submit' adds an infinitive marker that never follows a modal verb. -->
+- [x] D) The manager said that all the students must submit the form before Friday.
+  <!-- feedback: Correct! 'Must submit' is the original instruction and it survives the change of speaker without any alteration. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Modals such as 'must', 'can' and 'will' do not change when a sentence is reported, because they carry meaning rather than time. What can change in indirect speech is the tense of ordinary verbs, as in 'he said he was tired'.
 ---
-## Question 20 [D10]
+## Question 20 [D5]
 **ID:** EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-v20
 **Bloom:** Evaluate
-**EJE:** Lexico
+**EJE:** Gramatica
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** I'm afraid I ___ help you with the luggage; my bag is already full.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the sentence that politely declines an offer with a modal.
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: 'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness that can come from any long effort, not specifically from a flight. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the inability to fall asleep, which has many causes besides travel. -->
+- [ ] A) I'm afraid I can't to help you with the luggage; my bag is already full.
+  <!-- feedback: 'Can't to help' adds an infinitive marker that never follows a modal verb. -->
+- [ ] B) I'm afraid I not help you with the luggage; my bag is already full.
+  <!-- feedback: 'Not help' places 'not' before the main verb, but a modal carries its own negation. -->
+- [x] C) I'm afraid I can't help you with the luggage; my bag is already full.
+  <!-- feedback: Correct! 'I'm afraid I can't' is the standard polite way to decline, with the modal followed by the base form. -->
+- [ ] D) I'm afraid I am not can help you with the luggage; my bag is already full.
+  <!-- feedback: 'Am not can' combines two auxiliaries and is not a grammatical structure in English. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+Modal verbs make refusals sound softer because they frame the statement as a limitation rather than a decision. 'I can't', 'I am afraid I can't' and 'I'm afraid it's not possible' all decline without sounding abrupt.
+---

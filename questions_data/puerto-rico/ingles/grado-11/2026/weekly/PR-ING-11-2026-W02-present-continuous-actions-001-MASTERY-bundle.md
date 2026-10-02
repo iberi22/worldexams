@@ -21,462 +21,503 @@ bundle_index: 1
 **20 preguntas | Ingles | Curriculo de Ingles**
 
 ---
+
 ## Question 1 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v1
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous, San Juan, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+Which sentence uses the present continuous correctly?
 
 ### Opciones
-- [x] B) accommodation
-  <!-- feedback: Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay. -->
+- [x] A) She is studying for the biology test right now.
+  <!-- feedback: Correcto. 'Am, is' o 'are' seguido del gerundio forma el presente continuo, y 'right now' confirma que la accion esta en curso. -->
+- [ ] B) She study for the biology test right now.
+  <!-- feedback: Incorrecto. Sin el auxiliar 'is' la frase queda en presente simple, y 'right now' exige el progresiva. -->
+- [ ] C) She is study for the biology test right now.
+  <!-- feedback: Incorrecto. Despues de 'is' hace falta el gerundio 'studying', no la forma base del verbo. -->
+- [ ] D) She studying for the biology test right now.
+  <!-- feedback: Incorrecto. Falta por completo el auxiliar, y el gerundio nunca sustituye al verbo auxiliar en esta unidad. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+El presente continuo se forma con el verbo 'to be' en presente mas el gerundio. Sirve para acciones que estan ocurriendo ahora mismo o que estan de forma temporal. Reconocer los marcadores 'now', 'currently' o 'at the moment' es la via rapida para identificar el tiempo verbal.
+
 ---
-## Question 2 [D4]
+
+## Question 2 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v2
-**Bloom:** Remember
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to be, Ponce, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+Complete the sentence: 'They ____ (wait) for the bus in Caguas.'
 
 ### Opciones
-- [x] D) itinerary
-  <!-- feedback: Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' means the suitcases and bags you travel with, not the plan that organises the trip. -->
-- [ ] B) destination
-  <!-- feedback: 'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself. -->
-- [ ] C) passport
-  <!-- feedback: 'passport' is the official travel document you show at the border, not a description of the journey route. -->
+- [ ] A) is waiting
+  <!-- feedback: Incorrecto. 'Is' concuerda con he, she o it, no con 'they', que es plural en esta frase. -->
+- [ ] B) waits
+  <!-- feedback: Incorrecto. 'Waits' es presente simple y describe una rutina, mientras que esperar el bus es una situacion puntual. -->
+- [x] C) are waiting
+  <!-- feedback: Correcto. Con el sujeto plural 'they' el verbo 'to be' es 'are' y el gerundio 'waiting' completa el progresiva. -->
+- [ ] D) wait
+  <!-- feedback: Incorrecto. Es la forma base sin gerundio y sin auxiliar, de modo que la frase no expresa la accion en curso. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+En el presente continuo el auxiliar y el gerundio deben concordar con el sujeto. Es el error mas comun de la unidad: escribir 'is waiting' con 'they' o 'are waiting' con 'he'. Revisar siempre el sujeto antes de conjugar.
+
 ---
-## Question 3 [D3]
+
+## Question 3 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v3
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous negatives, Carolina, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+Choose the correct negative form: 'He ____ (not / read) the newspaper at the moment.'
 
 ### Opciones
-- [x] A) destination
-  <!-- feedback: Correct! A 'destination' is the place to which someone or something is going or being sent. -->
-- [ ] B) departure
-  <!-- feedback: 'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from one place to another, whereas the definition names only where it ends. -->
+- [ ] A) don't read
+  <!-- feedback: Incorrecto. 'Don't' corresponde al presente simple, no al progresiva, y ademas 'at the moment' pide el continuo. -->
+- [x] B) isn't reading
+  <!-- feedback: Correcto. El negativo del presente continuo se forma con el auxiliar 'is' mas 'not', y el gerundio no cambia. -->
+- [ ] C) isn't read
+  <!-- feedback: Incorrecto. Despues de 'is' el verbo va en gerundio, nunca en su forma base como aparece aqui. -->
+- [ ] D) not reads
+  <!-- feedback: Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales en una sola oracion. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+El negativo del presente continuo sigue el mismo esquema que el afirmativo: auxiliar 'to be' mas 'not' mas gerundio. La forma contracta mas frecuente es "isn't, aren't" y "am not" aunque tambien se admite la forma completa.
+
 ---
-## Question 4 [D4]
+
+## Question 4 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v4
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous questions, Bayamon, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+Which question is correct?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling. -->
-- [ ] B) ticket
-  <!-- feedback: a 'ticket' is the document that gives you the right to travel; it carries nothing at all. -->
-- [ ] C) flight
-  <!-- feedback: a 'flight' is the trip itself by plane, not the bags you pack for it. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the booking held for a seat or a room, not the container where clothes go. -->
+- [ ] A) Do you use the library room now?
+  <!-- feedback: Incorrecto. 'Do' forma preguntas de presente simple, y 'now' pide la accion en curso. -->
+- [ ] B) Are you use the library room now?
+  <!-- feedback: Incorrecto. El verbo principal queda en forma base detras de 'are', lo cual es incorrecto en progresiva. -->
+- [ ] C) You are using the library room now?
+  <!-- feedback: Incorrecto. El orden no es interrogativo: el auxiliar debe abrir la frase antes del sujeto. -->
+- [x] D) Are you using the library room now?
+  <!-- feedback: Correcto. La pregunta progresiva invierte el orden a auxiliar, sujeto y gerundio, con 'are' por el sujeto 'you'. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+Para preguntar por lo que esta pasando se invierte el orden del presente continuo: el auxiliar 'to be' abre la frase, luego va el sujeto y despues el gerundio. El gerundio nunca lleva auxiliar al final.
+
 ---
-## Question 5 [D5]
+
+## Question 5 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v5
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous spelling, Arecibo, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+Which is the correct gerund form of the verb 'to run'?
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance. -->
-- [ ] D) tourist
-  <!-- feedback: a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle. -->
+- [ ] A) runing
+  <!-- feedback: Incorrecto. Perder la -e final produce una forma mal escrita, y ese es el error tipico al formar gerundios. -->
+- [ ] B) runnning
+  <!-- feedback: Incorrecto. 'Run' ya termina en -n y no se dobla la consonante, porque solo se duplica tras vocal breve tensa. -->
+- [ ] C) runeing
+  <!-- feedback: Incorrecto. La -e no se convierte en otra vocal ni se desplaza: simplemente se elimina antes de añadir -ing. -->
+- [x] D) running
+  <!-- feedback: Correcto. Cuando el verbo termina en vocal más -e se elimina la -e y se añade -ing, salvo excepciones como 'to be'. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+Hay tres reglas para formar el gerundio. Si el verbo termina en -e se quita la -e, si termina en vocal breve tensa se duplica la consonante final, y en los demas casos se añade -ing directamente. 'To be' da 'being' y es la excepcion a la primera regla.
+
 ---
-## Question 6 [D6]
+
+## Question 6 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v6
-**Bloom:** Understand
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous spelling, Humacao, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Which is the correct gerund form of the verb 'to swim'?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage. -->
-- [ ] B) security
-  <!-- feedback: 'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs. -->
-- [ ] C) terminal
-  <!-- feedback: a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done. -->
-- [ ] D) gate
-  <!-- feedback: a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings. -->
+- [ ] A) swiming
+  <!-- feedback: Incorrecto. Con vocal breve tensa la -m final debe duplicarse, porque una sola produce una sílaba incorrecta. -->
+- [x] B) swimming
+  <!-- feedback: Correcto. 'Swim' termina en vocal breve tensa con -m, y en ese caso la consonante final se duplica antes de -ing. -->
+- [ ] C) swimm ing
+  <!-- feedback: Incorrecto. No se puede separar la consonante con un espacio: la palabra es una sola unidad silabica. -->
+- [ ] D) swuming
+  <!-- feedback: Incorrecto. 'Swum' es una forma del pasado simple, no la base a la que se le anade el gerundio. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+La duplicacion de la consonante ocurre tras vocal breve tensa, como en 'swim', 'run', 'sit' o 'begin'. El objetivo es que la palabra conserve dos sílabas en el gerundio. Si el sonido ya es largo, no se duplica, como en 'open' o 'travel'.
+
 ---
-## Question 7 [D5]
+
+## Question 7 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v7
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with third person, Aguadilla, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+Complete the sentence: 'My sister ____ (make) a cake for the party right now.'
 
 ### Opciones
-- [x] C) boarding pass
-  <!-- feedback: Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board. -->
-- [ ] A) visa
-  <!-- feedback: a 'visa' is the permission to enter a country, obtained before the trip and not from the airline. -->
-- [ ] B) receipt
-  <!-- feedback: a 'receipt' only proves that you paid; it does not let you board the plane. -->
-- [ ] D) brochure
-  <!-- feedback: a 'brochure' is printed information about the airline or the destination, not a travel document. -->
+- [x] A) is making
+  <!-- feedback: Correcto. El sujeto es tercera persona singular, de modo que el auxiliar es 'is' seguido del gerundio 'making'. -->
+- [ ] B) are making
+  <!-- feedback: Incorrecto. 'Are' corresponde a un sujeto plural, y 'my sister' es singular en esta frase. -->
+- [ ] C) is make
+  <!-- feedback: Incorrecto. El verbo principal debe ir en gerundio detras del auxiliar, no en su forma base. -->
+- [ ] D) makes
+  <!-- feedback: Incorrecto. 'Makes' es presente simple y ademas la marca 'right now' pide el progresiva. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+El presente continuo tiene el mismo auxiliar que el presente simple: 'am', 'is' o 'are' segun el sujeto. Lo que cambia es el verbo principal, que siempre pasa a gerundio. Revisar la concordancia del auxiliar es la mitad del trabajo.
+
 ---
-## Question 8 [D6]
+
+## Question 8 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v8
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to be, Guayanilla, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+Complete the sentence: 'I ____ (study) for the test at the moment.'
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' is the activity of visiting the places of interest of a location. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, not the general activity of visiting a place's sights. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is one specific outdoor walk in nature, only one kind of activity out of many. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark. -->
+- [ ] A) is studying
+  <!-- feedback: Incorrecto. 'Is' se usa con he, she o it, y el sujeto de esta frase es la primera persona del singular. -->
+- [ ] B) am study
+  <!-- feedback: Incorrecto. Detras de 'am' el verbo va en gerundio, no en la forma base 'study'. -->
+- [x] C) am studying
+  <!-- feedback: Correcto. Con el sujeto 'I' el auxiliar es 'am' y el gerundio 'studying' completa la estructura progresiva. -->
+- [ ] D) study
+  <!-- feedback: Incorrecto. La forma base sola describe una rutina y no encaja con la expresion 'at the moment'. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+La conjugacion de 'to be' en presente es I am, you are, he, she e it is, y nosotros, ustedes y ellos son are. Solo el auxiliar cambia de forma; el gerundio del verbo principal se mantiene igual en todas las personas.
+
 ---
-## Question 9 [D5]
+
+## Question 9 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v9
-**Bloom:** Apply
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to be, Trujillo Alto, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A thing that is kept as a reminder of a person, place, or event."
+Complete the sentence: 'The children ____ (play) in the park every afternoon.'
 
 ### Opciones
-- [x] D) souvenir
-  <!-- feedback: Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event. -->
-- [ ] A) gift
-  <!-- feedback: a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event. -->
-- [ ] B) award
-  <!-- feedback: an 'award' is an honour granted by an institution for merit, not a keepsake. -->
-- [ ] C) prize
-  <!-- feedback: a 'prize' is the reward of a competition; the definition describes an object kept as a memento. -->
+- [ ] A) is playing
+  <!-- feedback: Incorrecto. 'Is' no concuerda con el sujeto plural 'the children', y esa discordancia marca la frase como incorrecta. -->
+- [ ] B) plays
+  <!-- feedback: Incorrecto. 'Plays' es presente simple y no concorda con la idea de una accion en curso que implica el progresiva. -->
+- [x] C) are playing
+  <!-- feedback: Correcto. La construccion es gramaticalmente posible, aunque 'every afternoon' normalmente pide presente simple para una rutina habitual. -->
+- [ ] D) play
+  <!-- feedback: Incorrecto. Falta el gerundio y el auxiliar, de modo que la frase no expresa la accion progresiva. -->
 
 ### Explicacion Pedagogica
-The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.
+Hay que distinguir el uso habitual del uso actual. El presente continuo con 'every afternoon' suena poco natural porque esa expresion marca repeticion; aun asi la frase no es incorrecta si el hablante quiere decir que estan jugando en este momento. El contexto decide cual es la opcion mas natural.
+
 ---
-## Question 10 [D6]
+
+## Question 10 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v10
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous question tags, Barceloneta, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A period of time by which something is late or postponed."
+Choose the correct tag: 'They are coming tonight, ____?'
 
 ### Opciones
-- [x] B) delay
-  <!-- feedback: Correct! A 'delay' is the extra period of time by which something ends up late or postponed. -->
-- [ ] A) cancellation
-  <!-- feedback: a 'cancellation' means the trip or event will not happen at all, not that it happens later. -->
-- [ ] C) departure
-  <!-- feedback: 'departure' is simply the moment of leaving, which can be perfectly punctual. -->
-- [ ] D) arrival
-  <!-- feedback: 'arrival' is the moment of reaching the place, and it says nothing about being late. -->
+- [x] A) aren't they
+  <!-- feedback: Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar del tag es el mismo 'are' de la frase principal. -->
+- [ ] B) isn't they
+  <!-- feedback: Incorrecto. 'Isn't' es la tercera persona singular y la frase principal usa 'are', de modo que el tag debe repetir ese auxiliar. -->
+- [ ] C) don't they
+  <!-- feedback: Incorrecto. 'Don't' pertenece al presente simple, no al presente continuo que lleva la frase principal. -->
+- [ ] D) they are not
+  <!-- feedback: Incorrecto. El tag invierte la polaridad pero mantiene el orden auxiliar mas pronombre, no sujeto mas verbo. -->
 
 ### Explicacion Pedagogica
-The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.
+El question tag reutiliza el auxiliar de la frase principal e invierte la polaridad. En presente continuo el tag se construye con el mismo 'to be' del enunciado: 'isn't he', 'aren't they', 'am not I' en las formas contractas mas usadas.
+
 ---
-## Question 11 [D7]
+
+## Question 11 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with spelling changes, Maunabo, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "The act of reporting one's presence and registering, typically at an airport or hotel."
+Complete the sentence: 'They ____ (lie) on the beach this afternoon.'
 
 ### Opciones
-- [x] A) check-in
-  <!-- feedback: Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter. -->
-- [ ] B) check-out
-  <!-- feedback: 'check-out' is the opposite moment, when you pay and hand the room key back before leaving. -->
-- [ ] C) booking
-  <!-- feedback: 'booking' is the reservation made beforehand; check-in is what you do on arrival. -->
-- [ ] D) reservation
-  <!-- feedback: a 'reservation' is the earlier record of your booking, not the act of registering your presence. -->
+- [ ] A) are lieing
+  <!-- feedback: Incorrecto. El gerundio correcto es 'lying' y no admite la -e intercalada que aqui se ha colocado. -->
+- [ ] B) are lain
+  <!-- feedback: Incorrecto. 'lain' es el participio pasado, y el presente continuo exige la forma -ing. -->
+- [ ] C) is lying
+  <!-- feedback: Incorrecto. El sujeto es plural, de modo que el auxiliar debe ser 'are' y no 'is'. -->
+- [x] D) are lying
+  <!-- feedback: Correcto. El gerundio de 'to lie' es 'lying', con la -y conservada y la vocal anterior breve tensa. -->
 
 ### Explicacion Pedagogica
-The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.
+Algunos verbos cambian de forma al pasar al gerundio. 'To lie' da 'lying', 'to die' da 'dying' e 'to tie' da 'tying'. En estos casos la vocal breve tensa se convierte en una vocal larga y la -y se mantiene sin duplicar la consonante.
+
 ---
-## Question 12 [D8]
+
+## Question 12 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v12
 **Bloom:** Apply
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with adverbs of frequency, Yauco, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A period of rest or waiting before a further stage in a journey."
+Which sentence is correct?
 
 ### Opciones
-- [x] C) layover
-  <!-- feedback: Correct! A 'layover' is a period of rest or waiting between two further stages of a journey. -->
-- [ ] A) stopover
-  <!-- feedback: 'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey. -->
-- [ ] B) transfer
-  <!-- feedback: a 'transfer' is the change from one vehicle or flight to another, not the pause itself. -->
-- [ ] D) transit
-  <!-- feedback: 'transit' means the action of passing through a place, with no idea of resting between stages. -->
+- [ ] A) He never is late for class.
+  <!-- feedback: Incorrecto. En inglés el adverbio de negacion se coloca despues del verbo auxiliar, no delante. -->
+- [x] B) He is never late for class.
+  <!-- feedback: Correcto. 'Never' admite el presente continuo y la frase describe una situacion del presente, no una rutina pasada. -->
+- [ ] C) He is late never for class.
+  <!-- feedback: Incorrecto. El adverbio 'never' va inmediatamente despues de 'is', y en ningun caso al final de la oracion. -->
+- [ ] D) He never late for class.
+  <!-- feedback: Incorrecto. Falta una segunda forma verbal, porque la construccion negativa necesita 'not' o el adverbio 'never' con el auxiliar 'is'. -->
 
 ### Explicacion Pedagogica
-The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.
+La negacion del presente continuo se puede hacer de dos maneras equivalentes: con el auxiliar 'not' o con adverbios como 'never', 'always' o 'often'. En ambos casos el orden es auxiliar, adverbio y gerundio, con el adverbio pegado al auxiliar.
+
 ---
-## Question 13 [D7]
+
+## Question 13 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to be, Cayey, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A system of money in general use in a particular country."
+Complete the sentence: 'She ____ (teach) biology at the high school.'
 
 ### Opciones
-- [x] A) currency
-  <!-- feedback: Correct! 'Currency' is the money system in general use in a particular country. -->
-- [ ] B) coin
-  <!-- feedback: a 'coin' is one single piece of money, not the whole system used in the country. -->
-- [ ] C) banknote
-  <!-- feedback: a 'banknote' is one single paper note of that system, not the system itself. -->
-- [ ] D) cash
-  <!-- feedback: 'cash' means money in coins and notes in general, not the specific monetary system of a country. -->
+- [ ] A) is teach ing
+  <!-- feedback: Incorrecto. El gerundio no lleva espacio y no conserva la -e final del verbo base. -->
+- [x] B) is teaching
+  <!-- feedback: Correcto. El gerundio de 'to teach' es 'teaching', con la -e final eliminada antes de anadir -ing. -->
+- [ ] C) teaches
+  <!-- feedback: Incorrecto. 'Teaches' es presente simple; la frase no lleva ninguna marca temporal que fuerce el progresiva. -->
+- [ ] D) is teatching
+  <!-- feedback: Incorrecto. No se duplica la -t despues de una vocal larga como 'ea', de modo que la forma correcta es 'teaching'. -->
 
 ### Explicacion Pedagogica
-The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.
+Cuando el verbo termina en vocal mas -e la -e desaparece antes de -ing, como en 'teach' que da 'teaching' o 'dance' que da 'dancing'. La duplicacion de consonante se reserva para vocal breve tensa, por lo que 'teaching' lleva una sola -t.
+
 ---
-## Question 14 [D8]
+
+## Question 14 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v14
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to write, San Sebastian, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A book of information about a place designed for the use of visitors or tourists."
+Complete the sentence: 'He ____ (write) an email to his teacher right now.'
 
 ### Opciones
-- [x] C) guidebook
-  <!-- feedback: Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists. -->
-- [ ] A) map
-  <!-- feedback: a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information. -->
-- [ ] B) dictionary
-  <!-- feedback: a 'dictionary' gives the meaning of words, not details about a destination for travellers. -->
-- [ ] D) encyclopedia
-  <!-- feedback: an encyclopedia covers all branches of knowledge rather than one particular place for visitors. -->
+- [ ] A) is writeing
+  <!-- feedback: Incorrecto. Un verbo terminado en -w no pierde la -e antes de -ing, y la forma correcta duplica la consonante. -->
+- [ ] B) is writting
+  <!-- feedback: Incorrecto. No se anade una -t extra: 'write' no termina en -t, de modo que el gerundio no lleva doble -t. -->
+- [ ] C) writes
+  <!-- feedback: Incorrecto. 'Writes' es presente simple, mientras que 'right now' describe una accion que esta ocurriendo. -->
+- [x] D) is writing
+  <!-- feedback: Correcto. 'Write' termina en -e y la vocal 'i' es breve tensa, por lo que la -w final se duplica antes de -ing. -->
 
 ### Explicacion Pedagogica
-The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.
+Los verbos terminados en -w con vocal breve tensa forman el gerundio duplicando la consonante: 'write' da 'writing'. En cambio los terminados en -e como 'dance' o 'smile' solo pierden la -e y no duplican nada. Reconocer la vocal evita confundir ambos grupos.
+
 ---
-## Question 15 [D7]
+
+## Question 15 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v15
-**Bloom:** Analyze
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous in the negative question, Camuy, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A bag with shoulder straps that allow it to be carried on one's back."
+Choose the correct form: '____ you waiting for the results?'
 
 ### Opciones
-- [x] A) backpack
-  <!-- feedback: Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back. -->
-- [ ] B) suitcase
-  <!-- feedback: a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps. -->
-- [ ] C) briefcase
-  <!-- feedback: a 'briefcase' is a case for documents and a laptop that is carried in the hand. -->
-- [ ] D) handbag
-  <!-- feedback: a 'handbag' is a small bag held in the hand, not carried on the back. -->
+- [ ] A) Do
+  <!-- feedback: Incorrecto. 'Do' pertenece al presente simple y no admite el gerundio 'waiting' detras. -->
+- [ ] B) Is
+  <!-- feedback: Incorrecto. 'Is' corresponde a he, she o it y no concuerda con el sujeto 'you'. -->
+- [x] C) Are
+  <!-- feedback: Correcto. Con el sujeto 'you' el auxiliar es 'are', y la negacion ya viene expresada por el verbo principal 'waiting' en la pregunta. -->
+- [ ] D) Am
+  <!-- feedback: Incorrecto. 'Am' se usa con 'I' en primera persona del singular, nunca con 'you'. -->
 
 ### Explicacion Pedagogica
-The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.
+En una pregunta el auxiliar 'to be' abre la frase y decide la concordancia con el sujeto. El gerundio no lleva auxiliar propio y simplemente sigue al verbo 'to be'. Cualquier otra forma de auxiliar rompe la estructura del presente continuo.
+
 ---
-## Question 16 [D8]
+
+## Question 16 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v16
 **Bloom:** Analyze
-**EJE:** Lexico
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with future meaning, Luquillo, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "In or to a foreign country, especially one across the sea."
+What does this sentence express? 'We are meeting the teacher tomorrow at ten.'
 
 ### Opciones
-- [x] D) overseas
-  <!-- feedback: Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea. -->
-- [ ] A) domestic
-  <!-- feedback: 'domestic' means inside the same country, which is the opposite of overseas. -->
-- [ ] B) local
-  <!-- feedback: 'local' means belonging to the area where you already are, again the opposite meaning. -->
-- [ ] C) national
-  <!-- feedback: 'national' refers to the nation as a whole, but it does not mean being abroad. -->
+- [x] A) An arrangement for a future time.
+  <!-- feedback: Correcto. El presente continuo con referencia al futuro expresa un plan o acuerdo ya organizado. -->
+- [ ] B) An action that is happening right now.
+  <!-- feedback: Incorrecto. La marca 'tomorrow at ten' situa la accion en el futuro, de modo que la lectura de algo que ocurre ahora mismo no encaja con el enunciado. -->
+- [ ] C) A habit from the past.
+  <!-- feedback: Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, no con esta estructura. -->
+- [ ] D) A prediction about the future.
+  <!-- feedback: Incorrecto. Las predicciones usan 'will' o 'going to', mientras que el presente continuo anuncia planes ya decididos. -->
 
 ### Explicacion Pedagogica
-The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.
+El presente continuo tiene un uso especial con el futuro: un acuerdo o plan definido. Cuando hay una hora exacta y un compromiso asumido, como 'we are meeting tomorrow at ten', la frase describe algo futuro pero seguro y ya organizado.
+
 ---
-## Question 17 [D9]
+
+## Question 17 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v17
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous in short answers, Toa Baja, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "An estimate of income and expenditure for a set period of time."
+Question: 'Are you eating lunch now?' Answer: '____'
 
 ### Opciones
-- [x] D) budget
-  <!-- feedback: Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time. -->
-- [ ] A) expense
-  <!-- feedback: an 'expense' is a single cost; a budget gathers all income and spending over a period. -->
-- [ ] B) cost
-  <!-- feedback: 'cost' is the amount paid for one thing, not an estimate for a whole period. -->
-- [ ] C) price
-  <!-- feedback: 'price' is the figure written on a product, not a plan of income and expenditure. -->
+- [x] A) Yes, I am.
+  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'to be' y el sujeto, y es la forma esperada en presente continuo. -->
+- [ ] B) Yes, I eat.
+  <!-- feedback: Incorrecto. 'I eat' es presente simple y no repite el auxiliar que abre la pregunta. -->
+- [ ] C) Yes, I am eating.
+  <!-- feedback: Incorrecto. Es una respuesta valida pero no es una respuesta corta: la pregunta pide solo 'Yes, I am'. -->
+- [ ] D) Yes, I do.
+  <!-- feedback: Incorrecto. 'Do' responde a preguntas de presente simple, no a una pregunta construida con 'are'. -->
 
 ### Explicacion Pedagogica
-The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.
+Las respuestas cortas siguen el mismo auxiliar que la pregunta. Si la pregunta abre con 'are', la respuesta abre con 'am' para 'I'; si abre con 'do', la respuesta abre con 'do'. Ignorar el auxiliar cambia el tiempo verbal de la respuesta.
+
 ---
-## Question 18 [D10]
+
+## Question 18 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v18
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with state verbs, Naguabo, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium."
+Which sentence is not natural in English?
 
 ### Opciones
-- [x] D) insurance
-  <!-- feedback: Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium. -->
-- [ ] A) warranty
-  <!-- feedback: a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only. -->
-- [ ] B) guarantee
-  <!-- feedback: a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement. -->
-- [ ] C) policy
-  <!-- feedback: a 'policy' is the written document of the contract, not the practice of insuring itself. -->
+- [ ] A) An action that is happening right now.
+  <!-- feedback: Incorrecto. La marca 'tomorrow at ten' situa la frase en el futuro, no en este momento, asi que la lectura de ahora es incorrecta. -->
+- [ ] B) A habit from the past.
+  <!-- feedback: Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, nunca con 'are meeting'. -->
+- [ ] C) A prediction about the future.
+  <!-- feedback: Incorrecto. Las predicciones usan 'will' o 'going to'; el presente continuo anuncia un acuerdo, no una prediccion. -->
+- [x] D) An arrangement for a future time.
+  <!-- feedback: Correcto. Con fecha y hora concretas el presente continuo anuncia un plan ya organizado, que es su uso futuro mas caracteristico. -->
 
 ### Explicacion Pedagogica
-The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.
+Ciertos verbos de estado, como 'to know', 'to love', 'to want' o 'to believe', no se usan normalmente en presente continuo. Se expresan con presente simple, porque describen una situacion permanente y no una actividad en curso.
+
 ---
-## Question 19 [D9]
+
+## Question 19 [D2]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v19
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Apply
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous with the verb to go, Hatillo, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "Treatment with a vaccine to produce immunity against a disease."
+Complete the sentence: 'Look! The bus ____ (come) around the corner.'
 
 ### Opciones
-- [x] A) vaccination
-  <!-- feedback: Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease. -->
-- [ ] B) medication
-  <!-- feedback: 'medication' treats the symptoms of a disease; it does not create immunity against it. -->
-- [ ] C) prescription
-  <!-- feedback: a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself. -->
-- [ ] D) infection
-  <!-- feedback: an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease. -->
+- [ ] A) comes
+  <!-- feedback: Incorrecto. 'Comes' es presente simple, y la exclamacion 'Look' apunta a algo que ocurre en este instante. -->
+- [x] B) is coming
+  <!-- feedback: Correcto. 'Look' es la marca clasica del presente continuo y senala algo que esta sucediendo en este momento. -->
+- [ ] C) is come
+  <!-- feedback: Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales. -->
+- [ ] D) is comming
+  <!-- feedback: Incorrecto. 'Come' ya termina en -e, de modo que se pierde la -e y no se duplica la -m final. -->
 
 ### Explicacion Pedagogica
-The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.
+Verbos como 'look', 'listen' y 'now' indican que algo esta pasando en el momento en que se habla. En esos casos el presente continuo es obligatorio, y el gerundio se forma quitando la -e final del verbo cuando existe.
+
 ---
-## Question 20 [D10]
+
+## Question 20 [D3]
 **ID:** PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle-v20
-**Bloom:** Evaluate
-**EJE:** Lexico
+**Bloom:** Analyze
+**EJE:** Grammatical Knowledge
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Present continuous question tags, Yabucoa, grado 11, W02.
 
 ### Enunciado
-What is the English word for: "Extreme tiredness and other physical effects felt by a person after a long flight across several time zones."
+Choose the correct tag: 'I am not tired yet, ____?'
 
 ### Opciones
-- [x] C) jet lag
-  <!-- feedback: Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones. -->
-- [ ] A) fatigue
-  <!-- feedback: 'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones. -->
-- [ ] B) exhaustion
-  <!-- feedback: 'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones. -->
-- [ ] D) insomnia
-  <!-- feedback: 'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight. -->
+- [ ] A) aren't I
+  <!-- feedback: Incorrecto. 'Aren't' corresponde a 'you' o a un sujeto plural, y el sujeto del enunciado es 'I'. -->
+- [ ] B) do I not
+  <!-- feedback: Incorrecto. 'Do' pertenece al presente simple, no al presente continuo que aparece en la frase principal. -->
+- [x] C) am I not
+  <!-- feedback: Correcto. Una frase negativa pide un tag positivo, y el auxiliar 'am' se mantiene con 'I' como sujeto. -->
+- [ ] D) isn't I
+  <!-- feedback: Incorrecto. 'Isn't' es la tercera persona singular y no concuerda con el sujeto 'I' de la oracion. -->
 
 ### Explicacion Pedagogica
-The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.
+En presente continuo el tag se construye con el mismo auxiliar de la frase principal. Con 'I' ese auxiliar es 'am', de modo que la forma contracta mas usual es "aren't I" en la afirmacion y "am I" en la negacion, que es la unica combinacion posible.
+
+---
