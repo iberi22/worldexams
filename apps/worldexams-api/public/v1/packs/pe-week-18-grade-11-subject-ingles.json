@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The keys are ___ the table.'",
+      "context": "A student describes where a book belongs.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct. 'On' is the preposition used for a surface that an object rests upon."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "of",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Wrong. 'Of' expresses possession or relationship between nouns rather than physical position."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Wrong. 'In' describes something inside a volume or an enclosed area, which does not apply to a table top."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Wrong. 'At' is used for a point or a location considered as a place or event, not for a surface."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Prepositions of place divide into on for surfaces, in for enclosed spaces and at for points or specific locations.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,41 +54,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The post office is ___ the corner of the main square.'",
+      "context": "A speaker gives directions in a city.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Wrong. 'In' describes an enclosed space and is not used for a point in the open air."
         },
         {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct. 'At' is used for a specific point of location such as a corner, where the two streets meet."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Wrong. 'Under' describes a position beneath something, which is not the relationship described."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Wrong. 'On' describes a surface, and a corner is a point rather than a surface."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Prepositions of place correspond to the geometry of the location, and a point such as a corner is expressed with at.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the question that correctly asks for a meeting point.",
+      "context": "A classmate asks where to meet.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "letter": "A",
+          "text": "Where you are waiting for me?",
+          "is_correct": false,
+          "feedback": "Wrong. The subject and verb are not inverted, so this is not a well-formed direct question."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "Where are you waiting me for?",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Wrong. 'Waiting me for' splits the preposition from its object and misplaces the word order."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "text": "Where are you waiting for me?",
+          "is_correct": true,
+          "feedback": "Correct. 'Waiting for' is the correct verb plus preposition combination, and the word order forms a well-made question."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Where are you waiting for me at now?",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Wrong. 'Waiting' cannot take two prepositional phrases describing the same wait, and 'at now' is redundant."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "Prepositions that follow a verb stay with their object in standard English word order, which is the point this question tests.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -144,40 +144,40 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'There is a small lamp ___ the desk.'",
+      "context": "A description refers to position above something.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "letter": "A",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "Wrong. 'Since' expresses a starting point in time and cannot describe a location."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "between",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Wrong. 'Between' requires two reference points, and only the desk is mentioned."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "during",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Wrong. 'During' expresses a period of time and cannot describe a physical position."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "above",
+          "is_correct": true,
+          "feedback": "Correct. 'Above' describes a position higher than something and is the natural preposition here."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Prepositions differ in whether they describe space, time or movement, and only the spatial ones can describe physical position.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes staying at a hotel in a city.",
+      "context": "A traveller reports where they are staying during a trip.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "text": "We are staying in Cusco for a week.",
+          "is_correct": true,
+          "feedback": "Correct. A city or country name is treated as a point of location, so 'in Cusco' is the standard form in this usage."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "We are staying on Cusco for a week.",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Wrong. 'On' describes a surface or a day and cannot be used with a place name in this sense."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "We are staying in at Cusco for a week.",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "Wrong. 'Staying in at' is not used with a city name; the phrase belongs to the expression 'stay in at home'."
+        },
+        {
+          "letter": "D",
+          "text": "We are staying at Cusco for a week.",
+          "is_correct": false,
+          "feedback": "Wrong. 'At' would normally require a specific building or venue rather than the name of a city used as a destination."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Place names are frequently treated as points, so at is used with a specific address while in is used with the name of a city or country.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The library stands ___ the museum and the park.'",
+      "context": "A grammar task tests a preposition that describes a position between two things.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
+          "letter": "A",
+          "text": "among",
+          "is_correct": false,
+          "feedback": "Wrong. 'Among' is used with a group of more than two, which does not match the two items named here."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "letter": "B",
+          "text": "between",
+          "is_correct": true,
+          "feedback": "Correct. 'Between' is used with two distinct items that are named explicitly."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "besides",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "Wrong. 'Besides' means 'in addition to' and is an adverb, not a preposition describing position."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "beneath",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Wrong. 'Beneath' describes a position below something and not a position between two things."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
+      "explanation": "Between and among are a standard pair: between takes two named items and among takes an indefinite group.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses the verb plus preposition combination correctly.",
+      "context": "A grammarian explains a verb plus preposition combination.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "text": "She is looking at her keys for.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Looking at' would describe the act of glancing at something, not the act of searching for it."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "She is looking her keys for.",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Wrong. 'Look her keys for' misplaces the object and breaks the fixed verb plus preposition pattern."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "text": "She is looking for her keys.",
+          "is_correct": true,
+          "feedback": "Correct. 'Look for' is a fixed combination in which the preposition for follows the verb and precedes its object."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "She is looking her at keys.",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Wrong. 'Look her at keys' separates the preposition from its object and is not a well-formed phrase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Some verbs fix their preposition, as in look for, listen to and wait for, and those combinations cannot be rearranged.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes the position of a picture.",
+      "context": "A writer describes a position directly above a bed.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "text": "There is a picture in above the bed.",
+          "is_correct": false,
+          "feedback": "Wrong. 'In above' also stacks prepositions and is not a valid English phrase."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "There is a picture on over the bed.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Wrong. 'On over' stacks two position prepositions before a single noun."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "There is a picture above of the bed.",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Wrong. 'Above of' adds a second preposition where only one is needed, which is ungrammatical."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "text": "There is a picture over the bed.",
+          "is_correct": true,
+          "feedback": "Correct. 'Over' describes a position directly above something and is a natural alternative to 'above'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Only one positional preposition can modify a single relationship, so alternatives such as over and above are chosen, never combined.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The health centre is ___ the new residential area.'",
+      "context": "A report locates a service within a neighbourhood.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct. 'In the area' describes a location inside that district, which is what the sentence intends."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "into",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "Wrong. 'Into' expresses movement from outside to inside, whereas the centre is already located there."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Wrong. 'On the area' would describe a surface relationship and does not fit a district."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Wrong. 'At the area' treats the district as a single point rather than as something containing the centre."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "In expresses static location within an area, while into is reserved for movement in the direction of that area.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You can find the list of participants ___ the first page of the report.'",
+      "context": "A guide explains where to find a document.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "Wrong. 'In the page' would imply containment inside the page as a physical object, which is not the intended sense."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "letter": "B",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct. 'On the page' describes a location on the flat surface of a page, which is the correct preposition."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "to",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Wrong. 'To the page' expresses movement towards it rather than the location where something can be found."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Wrong. 'At the page' treats the page as a point and is not idiomatic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "Text located on a page or a board takes on, since a page is treated as a surface that carries printed material.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes a position beyond a border.",
+      "context": "A classmate asks about a position relative to a boundary.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "They live cross the river from us.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Wrong. 'Cross' without a preposition cannot express position in this construction."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "They live across the river to us.",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Wrong. 'To us' replaces the required preposition and makes the phrase incomplete."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "They live across the river from us.",
+          "is_correct": true,
+          "feedback": "Correct. 'Across from' is the fixed expression for a position on the opposite side of something."
+        },
+        {
+          "letter": "D",
+          "text": "They live over the river from us.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Wrong. 'Over the river' describes a position above the water, which is a different relationship."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Expressions such as across from, next to and opposite to form fixed position phrases and cannot be reorganised.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses beside.",
+      "context": "A grammar task tests the difference between beside and besides.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
+          "text": "Sit be beside me and I will explain the plan.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Be beside' inserts an extra verb and breaks the phrase that the imperative requires."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Sit besides of me and I will explain the plan.",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Wrong. 'Besides of' combines an adverb with a preposition, which is not a valid combination."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Sit besides me and I will explain the plan.",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Wrong. 'Besides' is an adverb meaning in addition to and cannot introduce a place."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "text": "Sit beside me and I will explain the plan.",
+          "is_correct": true,
+          "feedback": "Correct. 'Beside' is the preposition meaning at the side of, which is the relationship intended here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Beside and besides look similar but belong to different word classes and cannot substitute for one another.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The boat is floating ___ the lake.'",
+      "context": "A description locates something relative to the surface of water.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
+          "letter": "A",
+          "text": "on",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
+          "feedback": "Correct. A boat floating on water rests on the surface, so 'on the lake' is the correct preposition."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "under",
           "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "feedback": "Wrong. 'Under the lake' describes a position below the water, which is the opposite of the situation."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "at",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Wrong. 'At the lake' treats the lake as a point and does not describe the surface relationship."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "in",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Wrong. 'In the lake' would describe something submerged, which is not what floating means."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The choice between on and in depends on whether something is at the surface of a liquid or inside it.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly describes a position alongside something.",
+      "context": "A speaker locates two people in relation to each other.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "The chemist's shop is next the bank.",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "Wrong. 'Next' without a preposition cannot express position before a noun in standard English."
         },
         {
           "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "text": "The chemist's shop is next to the bank.",
+          "is_correct": true,
+          "feedback": "Correct. 'Next to' is the prepositional phrase meaning immediately beside, and to is part of it."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "The chemist's shop is next of the bank.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Wrong. 'Next of' would be correct only with an abstract singular noun such as 'the next of kin', which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "The chemist's shop is next at the bank.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Next at' is not a valid combination in English."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Most position phrases require the preposition to before a noun, as in next to, close to and according to.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the prepositions describe containment and support correctly.",
+      "context": "An editor checks a sentence about spatial relations in a diagram.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "The battery sits at the case, and the manual rests on top at it.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Wrong. 'At' treats both the container and the surface as points and cannot describe either relationship."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "The battery sits in inside the case, and the manual rests on of it.",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "Wrong. 'In inside' and 'on of' each stack a preposition where only one is required."
+        },
+        {
+          "letter": "C",
+          "text": "The battery sits inside the case, and the manual rests on top of it.",
+          "is_correct": true,
+          "feedback": "Correct. 'Inside' describes containment within an enclosed object and 'on top of' describes support by a surface."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The battery sits inside the case, and the manual rests at of it.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Wrong. 'At of' is not a valid prepositional combination in English."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Containment and support are two distinct relationships, and each has its own preposition that cannot be combined with another.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The post office is ___ front of the station.'",
+      "context": "A writer locates a service in relation to a public facility.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "to",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "Wrong. 'To front of' leaves the phrase unfinished because the noun cannot follow the preposition on its own here."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "on",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Wrong. 'On front of' is not the standard expression; in front of is the correct form."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "Wrong. 'At front of' omits the second part of the fixed phrase and is incomplete."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct. The fixed expression 'in front of' describes a position on the side facing something, and it requires in."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Fixed spatial phrases such as in front of, in spite of and instead of are memorisable units that cannot be altered.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the preposition correctly introduces a non-physical location.",
+      "context": "A semantics exercise examines preposition choice with abstract locations.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "He is at the airport because his flight was cancelled.",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
+          "feedback": "Correct. 'At the airport' treats the airport as a single identifiable location, which is the normal choice for buildings and venues."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "He is to the airport because his flight was cancelled.",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Wrong. 'To the airport' expresses direction towards it and cannot describe a location the person is already at."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "He is on the airport because his flight was cancelled.",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Wrong. 'On the airport' is not a valid combination because on describes surfaces, not buildings."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "He is in the airport because his flight was cancelled.",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "Wrong. 'In the airport' would suggest the person is inside a particular part of the building, which is more specific than the sentence implies."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Buildings and venues normally take at, while in is reserved for clearly bounded interior spaces when greater specificity is intended.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses prepositions consistently and idiomatically?",
+      "context": "A style task asks the learner to choose the sentence with the most appropriate preposition usage.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "The museum is situated at the historic centre, next at the main cathedral.",
           "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "feedback": "Wrong. 'At the centre' treats the district as a point and 'next at' is not a valid combination."
         },
         {
           "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "text": "The museum is situated in the historic centre, next to the main cathedral.",
+          "is_correct": true,
+          "feedback": "Correct. 'In the centre' describes location within a district and 'next to' is the standard prepositional phrase for a neighbouring position."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "The museum is situated in the historic centre, next of the main cathedral.",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "Wrong. 'Next of' is reserved for abstract singular nouns and does not express physical adjacency."
+        },
+        {
+          "letter": "D",
+          "text": "The museum is situated on the historic centre, next the main cathedral.",
+          "is_correct": false,
+          "feedback": "Wrong. 'On the centre' describes a surface and 'next' without a preposition cannot introduce a noun here."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Consistent preposition use means choosing the right preposition type for each relationship rather than reusing one form indiscriminately.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly uses a preposition with an abstract idea.",
+      "context": "An exam tests a preposition used with an abstract concept.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "She has an interest at sustainable design.",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "Wrong. 'Interest at' would suggest a location, which does not fit an abstract idea."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "She has an interest on sustainable design.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "Wrong. 'Interest on' is not used; the preposition is fixed by the noun in this collocation."
+        },
+        {
+          "letter": "C",
+          "text": "She has an interest in sustainable design.",
+          "is_correct": true,
+          "feedback": "Correct. 'Interest in' is the standard collocation and takes the preposition in with the thing that interests someone."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "She has an interest for sustainable design.",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Wrong. 'Interest for' is used only in the phrase 'an interest for the market', which is not the meaning here."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Nouns frequently collocate with one fixed preposition, and interest is a standard case where that preposition must be learned.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that best explains the sentence 'He is in hospital.'",
+      "context": "An exercise examines an exception to the usual preposition choice.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "'In hospital' is only used in American English and is incorrect in British usage.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Wrong. This idiom is used in British and other varieties as well as in American English."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "The phrase means the patient is physically inside the building, as opposed to being a patient.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "Wrong. The phrase means being treated as an inpatient, not merely standing inside the building."
+        },
+        {
+          "letter": "C",
+          "text": "The sentence is wrong, because hospitals always take the definite article when named.",
+          "is_correct": false,
+          "feedback": "Wrong. The article is deliberately omitted in this idiom, which is precisely the point of the item."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "'In hospital' describes being admitted as a patient, which is why the article is normally omitted in this phrase.",
+          "is_correct": true,
+          "feedback": "Correct. This identifies the idiomatic sense and the article omission that go with being admitted as a patient."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "English has a small number of fixed phrases where a preposition or article behaves unusually, and hospital is a well-known case.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle",
       "periodo": 18,
       "protocol_version": "5.2",

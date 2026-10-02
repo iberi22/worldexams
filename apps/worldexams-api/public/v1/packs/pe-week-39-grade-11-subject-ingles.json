@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Announcement: 'Due to roadworks on Avenida Universitaria, services towards the centre will be diverted along Calle España for the next three weeks. Delays of up to ten minutes should be expected.' Which statement is true?",
+      "context": "A recorded announcement at a bus station. Listen for the key detail.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "Services towards the centre are diverted for three weeks because of roadworks.",
+          "is_correct": true,
+          "feedback": "Correct. The announcement states the direction, the cause and the duration exactly as this option does."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "Services towards the centre are diverted for three weeks because of a parade.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Wrong. The cause given is roadworks, not a parade."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "Services away from the centre are diverted for three days because of roadworks.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Wrong. The diversion lasts three weeks, not three days, and it concerns services towards the centre."
+        },
+        {
+          "letter": "D",
+          "text": "Services towards the centre are suspended for three weeks because of roadworks.",
+          "is_correct": false,
+          "feedback": "Wrong. The announcement says diverted, not suspended; the services continue on a different route."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A listening answer must match the direction, the cause and the duration exactly as they were spoken.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Message: 'Hi Rosa, it is Alan. Sorry I missed you this morning. Can you call me back on the office number before the two o'clock meeting? Thanks.' What time must Rosa call Alan back?",
+      "context": "A phone message left by a colleague. Listen for the time.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "text": "After the two o'clock meeting.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Before' is stated explicitly, so the call is not to be made afterwards."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "text": "Before the two o'clock meeting.",
+          "is_correct": true,
+          "feedback": "Correct. The message sets the deadline relative to the meeting, which is 'before the two o'clock meeting'."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "As soon as possible, without a deadline.",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Wrong. The message does give a deadline, so it is not open-ended."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "At two o'clock exactly.",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Wrong. 'Before' excludes the meeting time itself."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A deadline given relative to another event must be reported exactly, including the word before or after.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Presenter: 'Fairs like this one are dying out, and yet here they are, three days of noise and sugar and arguments in good faith. We should be glad.' What is the speaker's attitude to the fair?",
+      "context": "A radio feature about a village fair. Listen for the speaker's attitude.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "Indifferent, since the presenter lists details without evaluating them.",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Wrong. The presenter gives a clear evaluative view, so the tone is not indifferent."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "Critical, since 'dying out' suggests the fair should be preserved at all costs.",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "Wrong. 'Dying out' describes a trend and does not indicate criticism of the fair itself."
+        },
+        {
+          "letter": "C",
+          "text": "Supportive, since 'we should be glad' states approval of the event.",
+          "is_correct": true,
+          "feedback": "Correct. The closing phrase states approval directly, which settles the attitude."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Anxious, since the presenter describes the fair as an argument waiting to happen.",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Wrong. The arguments are described as good-natured and the presenter welcomes them."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "An attitude is usually settled by an explicit evaluative phrase near the end of a spoken segment.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Operator: 'For recorded messages press one. For billing enquiries press two. To speak to an adviser press three. To report a fault with the line, press four.' Which number should a customer with a broken line press?",
+      "context": "A recorded telephone menu. Listen for the option number.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
+          "text": "One.",
+          "is_correct": false,
+          "feedback": "Wrong. One is for recorded messages and involves no adviser at all."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Three.",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Wrong. Three is for speaking to an adviser, which is not required to report a fault."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Two.",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Wrong. Two is for billing enquiries, which is a different matter."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "Four.",
+          "is_correct": true,
+          "feedback": "Correct. Reporting a fault with the line is the fourth option given."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Each menu option must be matched to its own request, since the numbers and the purposes are listed in parallel.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -189,37 +189,37 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'From next month the library will close at seven rather than eight on weekdays, and the reading room will be available on Saturdays. Saturday opening hours are unchanged.' What remains unchanged?",
+      "context": "A speaker explains a change in a schedule. Listen for what has not changed.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "The Saturday opening hours.",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
+          "feedback": "Correct. The speaker states explicitly that Saturday hours are unchanged."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "The number of days the library opens.",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "Wrong. The number of opening days increases, so it does change."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "The availability of the reading room.",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Wrong. The reading room becomes available on Saturdays, which is a change."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "The weekday closing time.",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "Wrong. The weekday closing time is exactly what changes, from eight to seven."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A listening task may ask what is unchanged, and the answer is the item the speaker explicitly marks as unchanged.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'The workshop was going to be on Thursday, or rather, sorry, Friday, at four in the afternoon in room twelve.' When is the workshop?",
+      "context": "A speaker corrects themselves mid-sentence. Listen for the final information.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "Thursday at four in the afternoon in room twelve.",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "feedback": "Wrong. Thursday is the version the speaker withdrew with 'or rather'."
         },
         {
           "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "text": "Friday at four in the afternoon in room twelve.",
+          "is_correct": true,
+          "feedback": "Correct. The speaker replaces Thursday with Friday and keeps the rest of the information intact."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "Friday at four in the evening in room twelve.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Wrong. The speaker says afternoon, not evening."
+        },
+        {
+          "letter": "D",
+          "text": "Friday at four in the afternoon, with the room to be confirmed.",
+          "is_correct": false,
+          "feedback": "Wrong. The speaker gives room twelve, not a room still to be confirmed."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "When a speaker corrects themselves, the later version replaces the earlier one while the surrounding details carry over.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "First speaker: 'We should keep the old containers; replacing them now would cost more than it saves.' Second speaker: 'The old containers leak, so the real cost is the damage they cause.' What is the main disagreement?",
+      "context": "Two speakers disagree about a plan. Listen for the reason.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "letter": "A",
+          "text": "Whether the containers belong to the council or to the factory.",
+          "is_correct": false,
+          "feedback": "Wrong. Ownership of the containers is not raised by either speaker."
         },
         {
-          "letter": "A",
-          "text": "visa",
+          "letter": "B",
+          "text": "Whether the containers should be painted a different colour.",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Wrong. Colour is not mentioned at any point in the exchange."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "text": "Whether the cost of replacing the containers outweighs the cost of the damage they cause.",
+          "is_correct": true,
+          "feedback": "Correct. One speaker counts only the replacement cost while the other counts the damage, which is the point of disagreement."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Whether the new containers can be bought second-hand.",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Wrong. Buying second-hand is not mentioned, so it cannot be the disagreement."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "The disagreement between two speakers is located in the competing reasons they give, not in any detail they both ignore.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'Seventy per cent of the people we asked said they would support the change, but only forty per cent of the total electorate voted in the last election.' What does the seventy per cent figure describe?",
+      "context": "A speaker reports a survey result. Listen for what the figure refers to.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "text": "The people who oppose the change.",
+          "is_correct": false,
+          "feedback": "Wrong. Seventy per cent is a level of support, so it does not describe opponents."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "The people who voted in the last election.",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Wrong. The turnout figure is given separately as forty per cent."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The whole electorate, since it is the larger figure.",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Wrong. The speaker distinguishes the sample from the electorate, so the figure is not about the whole electorate."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "text": "The people who were asked, not the whole electorate.",
+          "is_correct": true,
+          "feedback": "Correct. The speaker limits the figure to 'the people we asked' and contrasts it with the turnout."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A figure must be attached to the population the speaker named, and a stated contrast usually signals that the sample is limited.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Lecturer: 'A deadline is the moment by which something must be finished, whereas a milestone is simply a point in the project that we note as we reach it.' What is the key difference between the two terms?",
+      "context": "A lecture explains a technical distinction. Listen for the contrast.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
           "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "text": "A deadline imposes a requirement, while a milestone only records progress.",
+          "is_correct": true,
+          "feedback": "Correct. The lecturer's contrast is between an obligation and a point of reference, which this option states."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "A deadline can be moved, while a milestone can never be moved.",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "Wrong. Nothing in the lecture says a milestone can never be moved."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "A deadline refers to people, while a milestone refers to dates.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Wrong. Neither term is defined in terms of people or dates as such."
+        },
+        {
+          "letter": "D",
+          "text": "A deadline is optional, while a milestone is compulsory.",
+          "is_correct": false,
+          "feedback": "Wrong. The lecturer says a deadline marks what must be done by a moment, which is the opposite of optional."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A lecture that says whereas is marking the precise contrast the student must be able to reproduce.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Interviewee: 'The crops failed three seasons running. The rain never came when we needed it, and the river that used to water the lower fields was diverted upstream.' What caused the crop failures?",
+      "context": "An interview mentions a problem and its cause. Listen for the cause.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "letter": "A",
+          "text": "The loss of the river alone, since the rain was never a factor.",
+          "is_correct": false,
+          "feedback": "Wrong. The interviewee names the missing rain as well as the diverted river."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "letter": "B",
+          "text": "The absence of rain at the critical time combined with the loss of river irrigation.",
+          "is_correct": true,
+          "feedback": "Correct. Both causes the interviewee gives are reported in this option and they act together."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The lower fields were abandoned before the crops failed.",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Wrong. Nothing in the passage says the fields were abandoned."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The failure of the crops caused the river to be diverted upstream.",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Wrong. The direction of causation is the other way round in this option."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "When a speaker lists two contributing causes, a listening answer should report both rather than selecting one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Presenter: 'Tickets can be bought at the box office or online. Online sales close on the day of the performance, except that online sales remain open until two hours before the start.' When do online sales close on the day itself?",
+      "context": "An announcement gives conditions and exceptions. Listen for the exception.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "At the end of the performance.",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Wrong. There is no provision for sales continuing to the end."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "At the moment the performance begins.",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Wrong. Sales close before the performance, not at the moment it begins."
+        },
+        {
+          "letter": "C",
+          "text": "Two hours before the performance begins.",
+          "is_correct": true,
+          "feedback": "Correct. The exception states that sales stay open until two hours before the start, which is when they close."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "They do not close on the day of the performance.",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Wrong. The exception states a closing time, so sales do close on the day."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "An exception introduced by except overrides the general rule, so the reported time comes from the exception.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'First the team surveyed the river, then they took samples over three months, and only after that did they write the report.' What happened immediately before the report was written?",
+      "context": "A speaker describes a sequence. Listen for the order.",
       "options": [
         {
-          "letter": "D",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "The funding was approved.",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Wrong. Funding is not mentioned at all in the sequence the speaker gives."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The team presented its findings.",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Wrong. No presentation is mentioned anywhere in the sequence."
         },
         {
           "letter": "C",
-          "text": "transit",
+          "text": "The river was surveyed.",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "Wrong. The survey came first of all, so it is not immediately before the report."
+        },
+        {
+          "letter": "D",
+          "text": "The samples were taken.",
+          "is_correct": true,
+          "feedback": "Correct. The sequence puts the sampling immediately before the report, since 'only after that' marks the last step before writing."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Adverbs of sequence such as first, then and only after that fix the order, and 'immediately before' means the last step listed.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'It seems that the new system might, in some cases, be slightly slower, though I would not go as far as to say it is a serious problem.' How strongly does the speaker assert that the system is slower?",
+      "context": "A speaker hedges a claim. Listen for how strongly it is asserted.",
       "options": [
         {
-          "letter": "B",
-          "text": "currency",
+          "letter": "A",
+          "text": "Weakly, since the speaker hedges twice and then explicitly rejects the serious reading.",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
+          "feedback": "Correct. The two hedges and the explicit rejection of the serious reading together indicate a weak assertion."
         },
         {
-          "letter": "A",
-          "text": "coin",
+          "letter": "B",
+          "text": "Moderately, since the speaker treats the problem as serious but reluctantly.",
           "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "feedback": "Wrong. The speaker explicitly declines to call it a serious problem."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "Not at all, since the speaker says nothing about the system's speed.",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "Wrong. The speaker does mention speed, though in a hedged way."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "Strongly, since the speaker presents the claim as a fact.",
           "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "feedback": "Wrong. The claim is hedged and not presented as a fact."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The strength of an assertion is judged by the cumulative hedges and by what the speaker explicitly rules out.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'The app crashed twice while I was trying to book the ticket, and the confirmation arrived by text ten minutes after the flight departed.' What does the speaker imply?",
+      "context": "A speaker uses irony. Listen for the intended meaning.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "That the confirmation arrived in a reasonably short time.",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "Wrong. The speaker notes that the confirmation came after the departure, which is not reasonable timing."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "That the booking system did not work reliably and the speaker is annoyed about it.",
+          "is_correct": true,
+          "feedback": "Correct. The flat recital of two failures, with the ten minutes stated precisely, conveys frustration without any direct complaint."
+        },
+        {
+          "letter": "C",
+          "text": "That the speaker had sufficient time to board the flight.",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Wrong. The confirmation arriving ten minutes after departure implies the speaker missed the flight."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "That the flight was delayed for technical reasons.",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Wrong. The flight's departure is timed normally; no delay is mentioned."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Irony in speech is carried by flat delivery and by precise unflattering detail rather than by any direct complaint.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'As you can see from the photograph behind me, the damage is confined to the roof tiles.' What does the reference to a photograph imply?",
+      "context": "A speaker refers to something the audience cannot see. Listen for what the reference implies.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "letter": "A",
+          "text": "That the speaker is referring to a photograph held in their hand.",
+          "is_correct": false,
+          "feedback": "Wrong. The reference is to something behind the speaker, not in their hand."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
+          "letter": "B",
+          "text": "That the photograph was taken after the damage had been repaired.",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Wrong. The speaker describes visible damage, not a repair."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "text": "That the speaker is describing something visual and the audience cannot see it directly.",
+          "is_correct": true,
+          "feedback": "Correct. Referring to what is behind the speaker and out of view tells the audience the evidence is visual and not available to them."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "That the audience has already seen the roof themselves.",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Wrong. 'As you can see' indicates the audience cannot see it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "References to what is visible to the speaker but not to the audience mark the limit of what the listening can confirm.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker A: 'The plan costs too much for the benefit.' Speaker B: 'The cost is spread over five years and the benefit continues indefinitely.' Speaker C: 'Neither of you has mentioned what happens if the plan fails.' Which speaker raises a concern that neither of the others addresses?",
+      "context": "A discussion contains three contributions. Listen for who holds which position.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
+          "text": "Speaker C, because C is the only speaker who agrees with A.",
           "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "feedback": "Wrong. C raises a new concern rather than agreeing with A, and nothing indicates A and C are aligned."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Speaker B, because B is the only speaker who mentions a period of time.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Wrong. B does mention a period, but C's point about failure is the one left unaddressed."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Speaker A, because A is the only speaker who mentions a cost.",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "Wrong. B also refers to a cost, and mentioning cost is not what distinguishes A here."
+        },
+        {
+          "letter": "D",
+          "text": "Speaker C, because the others discuss cost and benefit while C raises the consequences of failure.",
+          "is_correct": true,
+          "feedback": "Correct. A and B argue about cost against benefit, while C introduces the possibility of failure, which neither raises."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Tracking which point each speaker makes is what allows the listener to identify the contribution no one else has covered.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'We compared the two methods over a full year and the newer one produced less waste. Our sample covered only three kitchens, so we would treat the finding as promising rather than settled.' What limitation does the speaker acknowledge?",
+      "context": "A speaker gives a reason and then a limitation. Listen for the limitation.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The sample was small and confined to three kitchens.",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
+          "feedback": "Correct. The speaker names the sample size and its scope as the reason for treating the result as provisional."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The study was repeated by another team with different results.",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "Wrong. No repetition by another team is mentioned."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The newer method produced more waste than the older one.",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "Wrong. The speaker says the newer method produced less waste."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The study ran for a full year, which was too short.",
           "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "feedback": "Wrong. A year is presented as a strength of the study rather than a limitation."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "A limitation is the qualification the speaker attaches to their own evidence, and it is usually stated immediately after the finding.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Interviewer: 'You rebuilt the whole system yourself, did you not?' Interviewee: 'I led the team of four. The architecture was already in place, and two of the other members wrote most of the code.' What does the interviewee establish?",
+      "context": "An interview asks a leading question. Listen for the answer given.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
+          "letter": "A",
+          "text": "The interviewee designed the architecture and wrote the whole system alone.",
+          "is_correct": false,
+          "feedback": "Wrong. The interviewee states the architecture already existed and did not write most of the code."
         },
         {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
+          "letter": "B",
+          "text": "The interviewee led the work but shares the credit for the design and the coding.",
+          "is_correct": true,
+          "feedback": "Correct. The answer accepts leadership while correcting the premise that the work was done alone."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "The interviewee accepts that they rebuilt everything single-handedly.",
           "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
+          "feedback": "Wrong. The interviewer offers that framing and the interviewee corrects it."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The interviewee disputes having led the team at all.",
           "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
+          "feedback": "Wrong. The interviewee accepts leading the team rather than disputing it."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "A leading question contains a premise that the interviewee is expected to accept, and the reply shows which parts they confirm and which they reject.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Message: 'Rafael here. The keys are with my sister as I said this morning. Oh, and the documents are in the safe, not on the table where I left them.' Where are the documents?",
+      "context": "A recorded voicemail gives two pieces of information. Listen for the second.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "With Rafael's sister.",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "Wrong. The sister holds the keys, which is a separate item mentioned earlier in the message."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "On the table.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "Wrong. The table is the place the speaker corrects rather than the place they are now."
+        },
+        {
+          "letter": "C",
+          "text": "In the safe.",
+          "is_correct": true,
+          "feedback": "Correct. The correction at the end of the message moves the documents from the table into the safe."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "In the office.",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Wrong. The office is not mentioned anywhere in the message."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "A correction delivered as an afterthought at the end of a message carries the most recent and reliable information.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Speaker: 'The service works well on weekdays, though weekends have been unreliable, so overall I would not call it dependable yet.' How does the speaker assess the service overall?",
+      "context": "A speaker states a fact and then qualifies it. Listen for the final position.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "text": "The speaker gives no overall assessment of the service.",
+          "is_correct": false,
+          "feedback": "Wrong. The phrase 'overall I would not call it dependable' is an explicit assessment."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "The speaker considers it dependable only on weekends.",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Wrong. It is the weekends, not the weekdays, that the speaker describes as unreliable."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "The speaker considers it dependable because weekdays work well.",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "Wrong. The speaker treats the weekday performance as an exception rather than as the basis for an overall judgement."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "text": "The speaker does not consider it dependable yet.",
+          "is_correct": true,
+          "feedback": "Correct. The final clause states the overall judgement directly and the qualification leads into it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A speaker's final clause carries the overall judgement, while the earlier detail explains why it was reached.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle",
       "periodo": 39,
       "protocol_version": "5.2",

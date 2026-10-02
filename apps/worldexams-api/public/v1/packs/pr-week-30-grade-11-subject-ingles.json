@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation: 'We need to ___ a decision before Friday.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 1 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "text": "make",
+          "is_correct": true,
+          "feedback": "Correct! In English the collocation is 'make a decision', and not 'do a decision'."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "do",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "No. 'Do' collocates with tasks and jobs, but decisions are made, not done."
+        },
+        {
+          "letter": "C",
+          "text": "take",
+          "is_correct": false,
+          "feedback": "No. 'Pay' collocates with money, sums and bills, not with decisions."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "pay",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "No. 'Take a decision' is not the standard collocation in everyday English."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "In English the collocation is 'make a decision', and not 'do a decision'. In this item the choice that works is 'make', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -54,36 +54,36 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb correctly collocates with the noun 'decision'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 2 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "B",
-          "text": "itinerary",
+          "text": "She made the right decision in the end.",
           "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "feedback": "Correct! 'Make a decision' is the fixed collocation in English for reaching a choice."
         },
         {
           "letter": "A",
-          "text": "baggage",
+          "text": "She did the right decision in the end.",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "No. 'Do a decision' does not exist; 'do' goes with tasks, exercises and jobs."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "She took the right decision in the end.",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "No. 'Take a decision' sounds foreign; the standard pair in English is 'make'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "She said the right decision in the end.",
           "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "feedback": "No. 'Say a decision' would mean speaking the words, not reaching the choice."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "'Make a decision' is the fixed collocation in English for reaching a choice. In this item the choice that works is 'She made the right decision in the end.', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the collocation: 'We need to ___ research on the topic before the deadline.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 3 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "C",
+          "text": "do",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "feedback": "Correct! The collocation is 'do research', which is an exception to the usual 'make' pattern."
         },
         {
           "letter": "A",
-          "text": "departure",
+          "text": "make",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "No. 'Make research' is not used; research is done or carried out, not made."
         },
         {
-          "letter": "C",
-          "text": "arrival",
+          "letter": "B",
+          "text": "take",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "No. 'Take research' is not an English collocation."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "say",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "No. 'Say research' would mean speaking the word aloud, which is not what the sentence means."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "The collocation is 'do research', which is an exception to the usual 'make' pattern. In this item the choice that works is 'do', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct verb and noun collocation?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 4 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "D",
+          "text": "She made a mistake on the first question and learned from it.",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
+          "feedback": "Correct! 'Make a mistake' is the standard collocation for an error in English."
         },
         {
           "letter": "A",
-          "text": "ticket",
+          "text": "She did a mistake on the first question and learned from it.",
           "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
+          "feedback": "No. 'Do a mistake' does not exist; errors are made, not done."
+        },
+        {
+          "letter": "B",
+          "text": "She took a mistake on the first question and learned from it.",
+          "is_correct": false,
+          "feedback": "No. 'Take a mistake' is not a collocation in English."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "She said a mistake on the first question and learned from it.",
           "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
+          "feedback": "No. 'Say a mistake' would mean to speak an apology rather than to commit an error."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "'Make a mistake' is the standard collocation for an error in English. In this item the choice that works is 'She made a mistake on the first question and learned from it.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation: 'They will ___ the train that leaves at six.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 5 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "catch",
           "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
+          "feedback": "Correct! 'Catch a train' is the standard collocation for boarding a departure in time."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "take",
           "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
+          "feedback": "No. 'Take a train' is used for a longer journey, not for catching a specific departure in time."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "make",
           "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
+          "feedback": "No. 'Make a train' would mean to build the vehicle, not to board it."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "bring",
           "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
+          "feedback": "No. 'Bring a train' would mean to fetch it, which is not what the sentence describes."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "'Catch a train' is the standard collocation for boarding a departure in time. In this item the choice that works is 'catch', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb correctly collocates with the noun 'homework'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 6 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
+          "letter": "B",
+          "text": "He does his homework after dinner.",
           "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
+          "feedback": "Correct! 'Do homework' is the fixed pair in English for school work done at home."
         },
         {
           "letter": "A",
-          "text": "security",
+          "text": "He makes his homework after dinner.",
           "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
+          "feedback": "No. 'Make homework' is not used; work is done rather than made."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "He takes his homework after dinner.",
           "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
+          "feedback": "No. 'Take homework' would mean to carry it somewhere, not to complete it."
+        },
+        {
+          "letter": "D",
+          "text": "He says his homework after dinner.",
+          "is_correct": false,
+          "feedback": "No. 'Say homework' would mean to speak about it, not to complete the assignment."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'Do homework' is the fixed pair in English for school work done at home. In this item the choice that works is 'He does his homework after dinner.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the collocation: 'We had to ___ the decision until we had more information.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 7 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "postpone",
           "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
+          "feedback": "Correct! 'Postpone a decision' means to delay it until later, which is what the sentence describes."
         },
         {
           "letter": "A",
-          "text": "visa",
+          "text": "cancel",
           "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
+          "feedback": "No. 'Cancel a decision' would mean to call it off entirely, not to delay it."
         },
         {
-          "letter": "C",
-          "text": "receipt",
+          "letter": "B",
+          "text": "announce",
           "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
+          "feedback": "No. 'Announce a decision' means to make it public, which does not match the delay described."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "enter",
           "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
+          "feedback": "No. 'Enter a decision' is not a collocation; decisions are recorded, not entered in that sense."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'Postpone a decision' means to delay it until later, which is what the sentence describes. In this item the choice that works is 'postpone', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,40 +324,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a correct collocation with the noun 'advice'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 8 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "She gave me some useful advice about the course.",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "feedback": "Correct! 'Give advice' is the standard collocation, and 'advice' is uncountable so it keeps its singular form."
         },
         {
           "letter": "A",
-          "text": "shopping",
+          "text": "She did me some useful advice about the course.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "No. 'Do advice' is not a collocation in English."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "She made me some useful advice about the course.",
           "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "feedback": "No. 'Make advice' is not used; advice is given rather than manufactured."
         },
         {
-          "letter": "D",
-          "text": "camping",
+          "letter": "C",
+          "text": "She said me some useful advice about the course.",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "No. 'Say advice' would mean to speak the words, but advice is normally given to someone."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "'Give advice' is the standard collocation, and 'advice' is uncountable so it keeps its singular form. In this item the choice that works is 'She gave me some useful advice about the course.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -369,40 +369,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the verb that collocates correctly with 'a suggestion'.",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 9 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "make",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
+          "feedback": "Correct! 'Make a suggestion' is the standard collocation in English."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "say",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "No. 'Say a suggestion' would mean to speak the words aloud, not to propose an idea."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "bring",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "No. 'Bring a suggestion' would mean to fetch it from somewhere else."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "put",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "No. 'Put a suggestion' is not a collocation; suggestions are made."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "'Make a suggestion' is the standard collocation in English. In this item the choice that works is 'make', because it is the option that matches what the sentence and the task require.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct collocation with the noun 'progress'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 10 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "B",
-          "text": "delay",
+          "text": "The team has made great progress since the last meeting.",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
+          "feedback": "Correct! 'Make progress' is the standard collocation in English."
         },
         {
           "letter": "A",
-          "text": "cancellation",
+          "text": "The team has done great progress since the last meeting.",
           "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "feedback": "No. 'Do progress' is not used; 'progress' is a noun that is made."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The team has said great progress since the last meeting.",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "No. 'Say progress' would mean to speak the word aloud."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The team has taken great progress since the last meeting.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "No. 'Take progress' would mean to receive it, which is not the meaning here."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "'Make progress' is the standard collocation in English. In this item the choice that works is 'The team has made great progress since the last meeting.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the collocation: 'The police are going to ___ the case next week.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 11 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "C",
-          "text": "check-in",
+          "text": "investigate",
           "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
+          "feedback": "Correct! 'Investigate a case' means to look into it in order to find out what happened."
         },
         {
           "letter": "A",
-          "text": "check-out",
+          "text": "enter",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
+          "feedback": "No. 'Enter a case' would mean to record it formally, not to examine the facts."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "pay",
           "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
+          "feedback": "No. 'Pay a case' has no meaning in English."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "attend",
           "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
+          "feedback": "No. 'Attend a case' would mean to be present at it, not to examine it officially."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Investigate a case' means to look into it in order to find out what happened. In this item the choice that works is 'investigate', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct collocation with the verb 'take'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 12 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "layover",
+          "letter": "D",
+          "text": "I take the bus to school every morning.",
           "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
+          "feedback": "Correct! 'Take a bus' is the standard collocation for travelling on a scheduled vehicle."
         },
         {
           "letter": "A",
-          "text": "stopover",
+          "text": "I do the bus to school every morning.",
           "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
+          "feedback": "No. 'Do the bus' is not a collocation; 'do' goes with tasks and jobs."
+        },
+        {
+          "letter": "B",
+          "text": "I make the bus to school every morning.",
+          "is_correct": false,
+          "feedback": "No. 'Make the bus' would mean to build the vehicle, not to travel on it."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "I carry the bus to school every morning.",
           "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
+          "feedback": "No. 'Carry the bus' would mean to lift or transport the vehicle itself."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Take a bus' is the standard collocation for travelling on a scheduled vehicle. In this item the choice that works is 'I take the bus to school every morning.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,37 +549,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which verb correctly collocates with the noun 'breathing'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 13 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "He has difficulty breathing after running uphill.",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Correct! 'Breathing' is a gerund used as a noun here, and 'do' takes gerunds, so 'difficulty breathing' is correct."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "He has difficulty made breathing after running uphill.",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "No. 'Made breathing' would mean the act of manufacturing air, which is not what the sentence means."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "He has difficulty taken breathing after running uphill.",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "No. 'Taken breathing' would require 'take', which does not go with this noun in this structure."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "He has difficulty said breathing after running uphill.",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "No. 'Said breathing' would mean speaking about it, not experiencing difficulty with it."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "'Breathing' is a gerund used as a noun here, and 'do' takes gerunds, so 'difficulty breathing' is correct. In this item the choice that works is 'He has difficulty breathing after running uphill.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the collocation: 'The company will ___ a new policy next month.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 14 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "B",
-          "text": "guidebook",
+          "text": "introduce",
           "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
+          "feedback": "Correct! 'Introduce a policy' means to put a new rule into use, which is what the sentence states."
         },
         {
           "letter": "A",
-          "text": "map",
+          "text": "enter",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "No. 'Enter a policy' would mean to write it down in a list, not to put it into effect."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "attend",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "No. 'Attend a policy' would mean to be present at it, which makes no sense here."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "reach",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "No. 'Reach a policy' would mean to arrive at it after discussion, not to put it into use."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "'Introduce a policy' means to put a new rule into use, which is what the sentence states. In this item the choice that works is 'introduce', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a correct verb and noun pair?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 15 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
+          "letter": "C",
+          "text": "They solved the maths problem without any help.",
           "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
+          "feedback": "Correct! 'Solve a problem' is the standard collocation, and the verb 'solved' is used before it."
         },
         {
           "letter": "A",
-          "text": "suitcase",
+          "text": "They solved the maths problem without any solve.",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "No. Repeating 'solve' as a noun after 'any' is wrong, because the verb already appears earlier in the sentence."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "They solved the maths problem without any solving.",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "No. 'Solving' as a noun after 'any' would need a different verb such as 'with'."
         },
         {
-          "letter": "C",
-          "text": "handbag",
+          "letter": "D",
+          "text": "They solved the maths problem without any solved.",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "No. 'Solved' is a past participle and cannot act as a noun after 'any'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'Solve a problem' is the standard collocation, and the verb 'solved' is used before it. In this item the choice that works is 'They solved the maths problem without any help.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation: 'They will ___ the meeting until next Monday.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 16 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
+          "letter": "D",
+          "text": "put off",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "feedback": "Correct! 'Put off' means to postpone something to a later time, which fits the sentence."
         },
         {
           "letter": "A",
-          "text": "domestic",
+          "text": "put out",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "No. 'Put out' means to extinguish a fire or to place something outside."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "put up",
           "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "feedback": "No. 'Put up' means to display a notice or to build something."
         },
         {
-          "letter": "D",
-          "text": "national",
+          "letter": "C",
+          "text": "put in",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "No. 'Put in' means to insert something or to submit a request."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "'Put off' means to postpone something to a later time, which fits the sentence. In this item the choice that works is 'put off', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct collocation with the noun 'effect'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 17 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "The new rule had an immediate effect on the whole school.",
           "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
+          "feedback": "Correct! 'Have an effect on' is the standard collocation, and the noun 'effect' is used after the verb 'have'."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "The new rule had a doing effect on the whole school.",
           "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
+          "feedback": "No. 'Doing effect' would mean the act of doing, not a result produced by a rule."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The new rule had a saying effect on the whole school.",
           "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
+          "feedback": "No. 'Saying effect' would mean speaking it aloud, not a result."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The new rule had a paying effect on the whole school.",
           "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
+          "feedback": "No. 'Paying effect' would mean a result given in money, which is not what the sentence describes."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "'Have an effect on' is the standard collocation, and the noun 'effect' is used after the verb 'have'. In this item the choice that works is 'The new rule had an immediate effect on the whole school.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the collocation: 'She was asked to ___ a short report before leaving the office.'",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 18 de 20 sobre common verb and noun collocations.",
       "options": [
         {
           "letter": "B",
-          "text": "insurance",
+          "text": "write",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
+          "feedback": "Correct! 'Write a report' is the standard collocation in English."
         },
         {
           "letter": "A",
-          "text": "warranty",
+          "text": "make the",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "No. 'Make a report' is possible in some contexts, but 'write' is the verb expected with a report of this kind."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "do the",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "No. 'Do a report' is not used; reports are written, not done."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "say the",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "No. 'Say a report' would mean to speak it aloud, not to prepare a written document."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "'Write a report' is the standard collocation in English. In this item the choice that works is 'write', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the correct collocation with the verb 'do' and the noun 'research'?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 19 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "She did a lot of research on the history of the island.",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
+          "feedback": "Correct! 'Do research' is the standard pair, an exception to the general use of 'make'."
         },
         {
           "letter": "A",
-          "text": "medication",
+          "text": "She made a lot of research on the history of the island.",
           "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "feedback": "No. 'Make research' is not used in English."
         },
         {
-          "letter": "C",
-          "text": "prescription",
+          "letter": "B",
+          "text": "She took a lot of research on the history of the island.",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "No. 'Take research' would mean to receive or carry it, not to carry it out."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "She said a lot of research on the history of the island.",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "No. 'Say research' would mean to speak the word aloud, not to perform a study."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "'Do research' is the standard pair, an exception to the general use of 'make'. In this item the choice that works is 'She did a lot of research on the history of the island.', because it is the option that matches what the sentence and the task require.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a correct noun and adjective collocation?",
+      "context": "Semana W30 de ingles, grado 11: ejercicio 20 de 20 sobre common verb and noun collocations.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "The film was such a disappointment that we left early.",
           "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "feedback": "Correct! 'Disappointment' is a noun, and it fits after the determiner 'such a' in this structure."
         },
         {
           "letter": "A",
-          "text": "fatigue",
+          "text": "The film was such a disappoint that we left early.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "feedback": "No. 'Disappoint' is a verb and cannot follow the determiner 'such a' in this pattern."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "The film was such a disappointed that we left early.",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "No. 'Disappointed' is an adjective describing a person, and it cannot follow 'such a' here."
         },
         {
-          "letter": "D",
-          "text": "insomnia",
+          "letter": "C",
+          "text": "The film was such a disappointing that we left early.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "No. 'Disappointing' is an adjective describing a thing, but it needs no article in this structure."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Disappointment' is a noun, and it fits after the determiner 'such a' in this structure. In this item the choice that works is 'The film was such a disappointment that we left early.', because it is the option that matches what the sentence and the task require.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle",
       "periodo": 30,

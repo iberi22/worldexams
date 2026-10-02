@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Scan the notice. On which day and at what time does the library open on weekends?",
+      "context": "Lucia is practising scanning a short notice about Saturday library hours.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
+          "text": "Saturday at ten o clock",
+          "is_correct": false,
+          "feedback": "Correct! Saturday at ten o clock is the exact opening detail stated in the notice, so it answers the scanning question precisely."
         },
         {
           "letter": "B",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "Friday at six o clock",
+          "is_correct": true,
+          "feedback": "The option Friday at six o clock is wrong because the notice assigns that time to a weekday closing detail, not to the Saturday opening."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Sunday at noon",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "The option Sunday at noon is wrong because the notice lists Sunday as a closed day, so it cannot supply the Saturday opening detail."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Monday at nine o clock",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "The option Monday at nine o clock is wrong because that detail belongs to the regular weekday schedule, not to the special Saturday timetable."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Scanning means moving your eyes quickly to find one specific detail such as a time or date, without reading every word of the whole passage first.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Where does the announcement say students must meet at eight in the morning?",
+      "context": "Marco reads a school trip announcement to find the exact meeting place.",
       "options": [
         {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "In front of the main entrance",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "The option in front of the main entrance is wrong because that place belongs to the afternoon return point, not to the morning meeting detail."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "In front of the sports hall",
           "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "feedback": "Correct! In front of the sports hall is the stated morning meeting place, so it matches the explicit location detail in the announcement."
         },
         {
           "letter": "C",
-          "text": "passport",
+          "text": "Inside the school cafeteria",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "The option inside the school cafeteria is wrong because the cafeteria is mentioned only as the lunch room, not as the meeting place detail."
+        },
+        {
+          "letter": "D",
+          "text": "Beside the bus station ticket office",
+          "is_correct": true,
+          "feedback": "The option beside the bus station ticket office is wrong because that office appears in a sentence about lost tickets, not about the meeting place."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "explanation": "Detail questions ask for explicit facts stated in the text, such as places and names, and the correct answer repeats that fact using the same or similar words.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,81 +99,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is a supporting detail from the paragraph, not the main idea?",
+      "context": "Sofia reads a paragraph about a school recycling project and its results.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
+          "text": "The project teaches students to protect the environment",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
+          "feedback": "The option the project teaches students to protect the environment is wrong because that sentence expresses the whole main idea, not one concrete supporting detail."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Students collected four hundred plastic bottles in October",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "The option students collected four hundred plastic bottles in October is wrong in the opposite way because it is only background context about the month, not the measured result."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Students recycled two hundred kilos of paper in November",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "Correct! Students recycled two hundred kilos of paper in November states one measurable supporting detail that proves the project worked in that month."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Recycling is important for modern schools",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "The option recycling is important for modern schools is wrong because it is a general opinion that could fit any text, not a specific detail from this paragraph."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
-          "letter": "A",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
-        },
-        {
-          "letter": "B",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
-        },
-        {
-          "letter": "C",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "explanation": "A main idea states what the whole text is about, while a detail is one small proof or example, and tests often ask you to tell one supporting fact apart.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -188,37 +143,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v4",
+      "statement": "According to the biography, in which year did she receive the national science prize?",
+      "context": "Diego reads a short biography of a Spanish scientist for homework.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "In 2015",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "The option in 2015 is wrong because that year marks when she finished university, not when she received the national science prize detail."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "In 2019",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Correct! In 2019 is the year the biography gives for the national science prize, so it links the correct date detail to the correct award event."
+        },
+        {
+          "letter": "C",
+          "text": "In 2021",
+          "is_correct": true,
+          "feedback": "The option in 2021 is wrong because that year refers to her move to a new laboratory, not to the prize ceremony detail."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "In 2012",
           "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "feedback": "The option in 2012 is wrong because that year describes her first scholarship, which is an earlier and different detail in her life story."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "explanation": "Dates and numbers carry precise detail meaning in reading, so you must match each figure to the correct event instead of mixing two similar figures together.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -233,38 +188,83 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v5",
+      "statement": "Which option gives the correct order of the main events in the story?",
+      "context": "Carmen practises ordering events after reading a story about a lost backpack.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
           "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "text": "She called the bus office, then retraced her steps, then found it",
+          "is_correct": true,
+          "feedback": "The option she called the bus office, then retraced her steps, then found it is wrong because that order reverses the middle steps given in the story."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "She retraced her steps, then waited at home, then called the office",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "The option she retraced her steps, then waited at home, then called the office is wrong because waiting at home never appears as a story detail."
+        },
+        {
+          "letter": "C",
+          "text": "She found the backpack, then lost it, then called for help",
+          "is_correct": false,
+          "feedback": "The option she found the backpack, then lost it, then called for help is wrong because that chain places the finding detail before the losing detail."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "She noticed the loss, then retraced her steps, then called the bus office and recovered it",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Correct! She noticed the loss, then retraced her steps, then called the bus office and recovered it follows the exact sequence of details in the story."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Sequence details answer when or in what order things happened, and time markers such as first, then, after that and finally show you the correct chain.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v6",
+      "statement": "The text says: There is a five euro charge for the Saturday workshop, and places must be reserved. Which option restates this detail correctly?",
+      "context": "Pablo reads a text about urban bees for his English portfolio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Visitors must pay five euros to enter the rooftop garden",
+          "is_correct": false,
+          "feedback": "The option visitors must pay five euros to enter the rooftop garden is wrong because the text says entry is free and only the workshop has a charge."
+        },
+        {
+          "letter": "B",
+          "text": "Workshops take place every day during the summer holidays",
+          "is_correct": false,
+          "feedback": "The option workshops take place every day during the summer holidays is wrong because the text limits the workshop detail to Saturdays, not to every day."
+        },
+        {
+          "letter": "C",
+          "text": "The Saturday workshop costs five euros and requires booking",
+          "is_correct": true,
+          "feedback": "Correct! The Saturday workshop costs five euros and requires booking restates the price detail accurately while paraphrasing charge as costs and reserve as booking."
+        },
+        {
+          "letter": "D",
+          "text": "The garden closes completely during the winter season",
+          "is_correct": false,
+          "feedback": "The option the garden closes completely during the winter season is wrong because the text only reduces winter hours and never states a full closure detail."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Paraphrase means saying the same detail with different words, so a correct option keeps the facts identical while changing vocabulary such as fee to charge.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -279,36 +279,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "According to the article, why do many teenagers feel tired in morning classes?",
+      "context": "Elena reads an article about teenage sleep habits and screen time.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
+          "text": "Because schools now start lessons much later in the morning",
+          "is_correct": false,
+          "feedback": "The option because schools now start lessons much later in the morning is wrong because later start times are never given as a cause detail in this article."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Because late night screen use delays their sleep",
           "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "feedback": "Correct! Because late night screen use delays their sleep is the cause detail the researchers state to explain tired mornings among the teenagers studied."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "Because teenagers need less sleep than small children",
           "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "The option because teenagers need less sleep than small children is wrong because the article states the opposite scientific detail about sleep needs."
         },
         {
           "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "text": "Because homework has completely disappeared from secondary schools",
+          "is_correct": true,
+          "feedback": "The option because homework has completely disappeared from secondary schools is wrong because homework load is never mentioned as a cause detail in the text."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Cause detail questions ask why something happened in the text, and the answer is the reason the author gives, not a reason you invent from general knowledge.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What comparison detail does the review state about the two phones?",
+      "context": "Andres compares two smartphones in a product review for class.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "Model A is heavier and more expensive than Model B",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "The option Model A is heavier and more expensive than Model B is wrong because it reverses both comparison details given in the review table."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "Both models share exactly the same weight and price",
+          "is_correct": true,
+          "feedback": "The option both models share exactly the same weight and price is wrong because the review stresses a clear difference in both details."
+        },
+        {
+          "letter": "C",
+          "text": "Model B is lighter but has a shorter battery life than Model A",
           "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "feedback": "Correct! Model B is lighter but has a shorter battery life than Model A captures both comparison details exactly as the review table presents them."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Model A has a smaller screen but a better camera than Model B",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "The option Model A has a smaller screen but a better camera than Model B is wrong because screen and camera details are described as identical for both models."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Comparison details use structures such as lighter than, the cheapest or twice as fast, and you must check which product each adjective really describes.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The report says: The local organisers cancelled the parade because they feared heavy rain. What does they refer to?",
+      "context": "Lucia reads a short news report about a town festival.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "They refers to the visiting musicians",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "The option they refers to the visiting musicians is wrong because the musicians appear later in the sentence and cannot be the antecedent of that pronoun."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "They refers to the food stalls in the square",
           "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "feedback": "The option they refers to the food stalls in the square is wrong because the stalls are objects managed by sellers, not the people who cancelled."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "They refers to the festival posters on the walls",
+          "is_correct": true,
+          "feedback": "The option they refers to the festival posters on the walls is wrong because posters are things that cannot decide to cancel an event detail."
+        },
+        {
+          "letter": "D",
+          "text": "They refers to the local organisers",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Correct! They refers to the local organisers captures the correct antecedent detail, since the organisers are the people who cancelled the parade because of rain."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Pronoun references such as they, it or this point back to a specific noun detail, and finding the antecedent proves you followed the meaning across sentences.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
       "periodo": 27,
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Three statements match the text details. Which statement is NOT true according to the text?",
+      "context": "Jorge reads four short texts about transport and must spot the false summary.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
+          "letter": "A",
+          "text": "The night bus runs every thirty minutes",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "feedback": "The option the night bus runs every thirty minutes is wrong as an answer because that frequency detail is explicitly confirmed in the timetable paragraph."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
+          "letter": "B",
+          "text": "Students receive a twenty percent discount with a card",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "feedback": "The option students receive a twenty percent discount with a card is wrong as an answer because that discount detail appears clearly in the second paragraph."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The new cycle lane connects the station to the airport",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Correct! The new cycle lane connects the station to the airport is the false detail, since the text says the lane connects the station to the university campus."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Tickets can be bought on the official mobile app",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "The option tickets can be bought on the official mobile app is wrong as an answer because that purchase detail is stated directly in the final paragraph."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "NOT true questions require checking every option against the text details, and the correct answer is the one detail that contradicts or never appears in the passage.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
       "periodo": 27,
@@ -459,126 +459,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
-        },
-        {
-          "letter": "B",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
-          "letter": "A",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why does the chef mention cooking beside her grandmother as a child?",
+      "context": "Ana reads an interview with a young chef about her restaurant.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
+          "text": "To prove that her menu uses only local ingredients",
+          "is_correct": false,
+          "feedback": "The option to prove that her menu uses only local ingredients is wrong because local sourcing is never presented as an exclusive detail in the interview."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "To show that cooking competitions are unfair to women",
           "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
+          "feedback": "The option to show that cooking competitions are unfair to women is wrong because competition fairness is never discussed as a detail in her answers."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "To complain about the high rent of city restaurants",
           "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
+          "feedback": "The option to complain about the high rent of city restaurants is wrong because rent prices never appear among the interview details."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
+          "text": "To illustrate how childhood memories shape her recipes",
+          "is_correct": true,
+          "feedback": "Correct! To illustrate how childhood memories shape her recipes explains why the detail about her grandmother kitchen appears, since it shows the origin of her cooking style."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Authors include small details for a purpose such as giving proof, showing contrast or explaining a cause, and purpose questions ask you to name that function.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -593,38 +503,128 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v12",
+      "statement": "According to the messages, which detail about the plan is correct?",
+      "context": "Raul reads a message exchange between two friends planning a hike.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "Marta suggests bringing extra water for the group",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "The option Marta suggests bringing extra water for the group is wrong because the extra water detail comes from Diego message at the end."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "Diego changes the meeting time from nine to eight thirty",
+          "is_correct": true,
+          "feedback": "Correct! Diego changes the meeting time from nine to eight thirty is the detail supported by his second message, where he moves the start earlier."
+        },
+        {
+          "letter": "C",
+          "text": "Marta cancels the hike because of bad weather",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "The option Marta cancels the hike because of bad weather is wrong because neither friend cancels and weather is never mentioned as a detail."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Diego offers to drive everyone to the trail",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "The option Diego offers to drive everyone to the trail is wrong because transport details never appear in any message of the exchange."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dialogue detail questions test whether you tracked who said what, so you must attach each plan change to the correct speaker and message.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v13",
+      "statement": "Which statement correctly describes a detail shown in the chart?",
+      "context": "Nora studies a bar chart about water use at home.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cooking uses more water than laundry",
+          "is_correct": false,
+          "feedback": "The option cooking uses more water than laundry is wrong because the chart bars show laundry clearly higher than the cooking detail."
+        },
+        {
+          "letter": "B",
+          "text": "Garden watering is the smallest category of all",
+          "is_correct": false,
+          "feedback": "The option garden watering is the smallest category of all is wrong because the smallest bar detail belongs to cleaning, not to garden watering."
+        },
+        {
+          "letter": "C",
+          "text": "Showering accounts for the largest share at forty percent",
+          "is_correct": false,
+          "feedback": "Correct! Showering accounts for the largest share at forty percent matches the tallest bar detail and the percentage label shown in the chart."
+        },
+        {
+          "letter": "D",
+          "text": "Laundry and cleaning together reach seventy percent",
+          "is_correct": true,
+          "feedback": "The option laundry and cleaning together reach seventy percent is wrong because their combined bars total only thirty five percent in the chart detail."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Visual details in charts must be read exactly, checking labels and units, because a small shift in numbers or categories changes the factual answer completely.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v14",
+      "statement": "A classmate wrote: Dolphins fall into a deep full sleep every night. Which option corrects the false detail?",
+      "context": "Iker reads a passage about dolphins for a science and English task.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dolphins sleep with half their brain awake while floating near the surface",
+          "is_correct": false,
+          "feedback": "The option dolphins sleep with half their brain awake while floating near the surface is wrong as a correction because it adds an unverified floating detail."
+        },
+        {
+          "letter": "B",
+          "text": "Dolphins rest one brain half at a time while continuing to swim slowly",
+          "is_correct": false,
+          "feedback": "Correct! Dolphins rest one brain half at a time while continuing to swim slowly fixes the false detail by replacing full sleep with the half brain rest described."
+        },
+        {
+          "letter": "C",
+          "text": "Dolphins never sleep because they must breathe consciously",
+          "is_correct": true,
+          "feedback": "The option dolphins never sleep because they must breathe consciously is wrong because the passage explicitly rejects that never sleep detail as a myth."
+        },
+        {
+          "letter": "D",
+          "text": "Dolphins sleep eight hours on the sea floor",
+          "is_correct": false,
+          "feedback": "The option dolphins sleep eight hours on the sea floor is wrong because the sea floor detail contradicts the swimming and breathing facts in the passage."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Correcting a false statement means keeping its topic but fixing the wrong detail, so the right option changes only the inaccurate number, name or place.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Original detail: The town council provided funds, and then volunteers planted fifty trees. Which paraphrase keeps all details accurate?",
+      "context": "Sara must choose the sentence that best paraphrases a detail.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
+          "letter": "A",
+          "text": "The volunteers planted the trees after the funds arrived from nowhere",
+          "is_correct": false,
+          "feedback": "The option the volunteers planted the trees after the funds arrived is wrong because it reverses the cause detail and makes funding the later event."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "letter": "B",
+          "text": "The town council donated the funds and the tools together",
+          "is_correct": true,
+          "feedback": "The option the town council donated the funds and the tools together is wrong because the council detail covers only funds, not tools."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "The schoolchildren collected the funds for new trees",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "The option the schoolchildren collected the funds for new trees is wrong because it changes the agent detail from council to schoolchildren."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "After receiving council funds, the volunteers planted fifty trees",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Correct! After receiving council funds, the volunteers planted fifty trees preserves the agent, quantity and sequence details while restructuring the original sentence."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A good paraphrase of a detail keeps every fact the same, including agents and quantities, while swapping sentence structure and synonyms for key terms.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
       "periodo": 27,
@@ -684,36 +684,81 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The label says: Clean the wound, apply a thin layer once daily, then cover. Which option follows every detail?",
+      "context": "Tomas reads instructions for a first aid kit in the school lab.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "text": "Apply the gel twice daily after cleaning the wound",
+          "is_correct": true,
+          "feedback": "The option apply the gel twice daily after cleaning the wound is wrong because the label restricts use to once daily, not twice daily."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "Clean the wound, apply a thin layer once daily and cover it",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Correct! Clean the wound, apply a thin layer once daily and cover it reproduces all three instruction details of cleaning, quantity and frequency accurately."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "Mix the gel with hot water before application",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "The option mix the gel with hot water before application is wrong because mixing introduces a step detail that never appears in the instructions."
+        },
+        {
+          "letter": "D",
+          "text": "Use the gel only when the wound bleeds heavily",
+          "is_correct": false,
+          "feedback": "The option use the gel only when the wound bleeds heavily is wrong because that condition detail limits use in a way the label never states."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Instructional details tell you the exact steps, quantities and warnings, and one missed word such as before or only can make an answer dangerously wrong.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v17",
+      "statement": "Which detail do both film reviews share?",
+      "context": "Alba reads two short reviews of the same film for a comparison task.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both reviewers praise the musical soundtrack highly",
+          "is_correct": false,
+          "feedback": "The option both reviewers praise the musical soundtrack highly is wrong because only the second review mentions music as a positive detail."
+        },
+        {
+          "letter": "B",
+          "text": "Both reviewers criticise the slow opening twenty minutes",
+          "is_correct": false,
+          "feedback": "The option both reviewers criticise the slow opening twenty minutes is wrong because only the first review complains about that pacing detail."
+        },
+        {
+          "letter": "C",
+          "text": "Both reviewers agree the ending felt rushed and unclear",
+          "is_correct": true,
+          "feedback": "The option both reviewers agree the ending felt rushed and unclear is wrong because the second reviewer calls the ending the strongest part."
+        },
+        {
+          "letter": "D",
+          "text": "Both reviewers note the lead actor gives a strong performance",
+          "is_correct": false,
+          "feedback": "Correct! Both reviewers note the lead actor gives a strong performance is the one detail repeated in both texts, even though their overall verdicts differ."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "When two texts describe the same topic, the shared detail is the fact both mention, while differences show each writer selected separate supporting evidence.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,37 +773,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v18",
+      "statement": "Which summary includes all the key factual details of the original text?",
+      "context": "Mario evaluates two summaries of a text about solar schools.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "Panels were installed in twelve rural schools in Andalusia last spring",
           "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
+          "feedback": "The option panels were installed in twelve rural schools in Andalusia last spring is wrong for completeness because it omits the savings result detail entirely."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Electricity bills fell by thirty percent after installation",
           "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
+          "feedback": "The option electricity bills fell by thirty percent after installation is wrong for completeness because it omits the who and where details of the schools."
+        },
+        {
+          "letter": "C",
+          "text": "Solar panels produce clean energy for many buildings",
+          "is_correct": false,
+          "feedback": "The option solar panels produce clean energy for many buildings is wrong for completeness because it is too general and drops every specific detail."
         },
         {
           "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
+          "text": "Twelve rural schools in Andalusia installed panels last spring and cut bills by thirty percent",
+          "is_correct": true,
+          "feedback": "Correct! Twelve rural schools in Andalusia installed panels last spring and cut bills by thirty percent includes the who, where, when and result details together."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A complete summary must include all key details such as who, what, where and result, and an option missing one of those pillars is incomplete.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -773,82 +818,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: Which weekday train departs from platform four at seven fifteen? Which option answers it with correct details?",
+      "context": "Julia analyses a tricky exam question about a train timetable.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "The seven forty five train arrives at eight thirty",
           "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "feedback": "The option the seven forty five train arrives at eight thirty is wrong as the question asks, because that detail answers arrival, not the required departure platform."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The eight fifteen train leaves from platform two",
           "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "feedback": "The option the eight fifteen train leaves from platform two is wrong because that platform detail belongs to the Sunday service, not to the weekday timetable asked."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "The seven thirty train is cancelled on Fridays",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "The option the seven thirty train is cancelled on Fridays is wrong because cancellation is a footnote detail for holidays, not for regular Fridays."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The seven fifteen train departs from platform four on weekdays",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Correct! The seven fifteen train departs from platform four on weekdays is the only option whose train time, platform and weekday condition all match the timetable details."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "Good detail questions have one answer supported by a stated line, whiledistractor options refer to nearby lines that look similar but answer a different question.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which strategy best helps a student answer reading detail questions accurately and quickly?",
+      "context": "Hugo reviews his own strategy for detail questions before the final test.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "letter": "A",
+          "text": "Read the whole passage slowly and memorise every sentence",
+          "is_correct": false,
+          "feedback": "The option read the whole passage slowly and memorise every sentence is wrong because memorising everything wastes time and ignores targeted scanning as a detail strategy."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "letter": "B",
+          "text": "Choose the option with the most difficult vocabulary words",
+          "is_correct": true,
+          "feedback": "The option choose the option with the most difficult vocabulary words is wrong because word difficulty never signals which detail correctly answers the question stem."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Always select the longest option as the correct detail",
           "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "feedback": "The option always select the longest option as the correct detail is wrong because length is a test design accident, not evidence that the details match the passage."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Read the stem first, underline detail anchors, then scan for them",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "Correct! Read the stem first, underline detail anchors, then scan for them describes the efficient strategy because it directs attention to names, dates and numbers before answering."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "explanation": "Expert readers first read the question stem, underline key detail words such as names and figures, then scan the passage for those anchors before choosing an answer.",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She ___ come to the party, but she hasn't decided.'",
+      "context": "A classmate asks about a possibility.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "might",
           "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
+          "feedback": "Correct. 'Might' expresses a possibility in the present or future without committing either way."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "shall",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "Wrong. 'Shall' is used mainly in offers and suggestions, which is not the meaning required here."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "can't",
           "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "feedback": "Wrong. 'Can't' expresses prohibition or impossibility, the opposite of an open possibility."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "must",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "Wrong. 'Must' expresses strong obligation or logical certainty, which contradicts the uncertainty described."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Modal verbs of possibility are might, may, could and perhaps, and they are selected according to how open the possibility is.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses obligation from an external rule.",
+      "context": "A student reports a personal obligation.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "text": "You might wear a helmet when you ride a motorcycle.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Might' expresses possibility, which is entirely wrong for a safety rule."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "text": "You must wear a helmet when you ride a motorcycle.",
+          "is_correct": true,
+          "feedback": "Correct. 'Must' expresses a strong external obligation imposed by a rule or law."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "You would wear a helmet when you ride a motorcycle.",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "Wrong. 'Would' is the conditional form and does not convey obligation in this context."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "You should wear a helmet when you ride a motorcycle.",
           "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "feedback": "Wrong. 'Should' expresses advice or recommendation rather than a binding requirement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The distinction is between external rules, which require must, and personal recommendation, which requires should.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,40 +99,40 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that offers advice rather than a rule.",
+      "context": "A friend gives personal advice.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "You can see a doctor before it gets worse.",
           "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
+          "feedback": "Wrong. 'Can' expresses ability or permission, which is unrelated to medical advice."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "You must see a doctor before it gets worse.",
           "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
+          "feedback": "Wrong. 'Must' turns advice into a binding requirement, which changes the relationship between the speakers."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "You should see a doctor before it gets worse.",
+          "is_correct": true,
+          "feedback": "Correct. 'Should' expresses personal advice or recommendation and leaves the final decision to the listener."
+        },
+        {
+          "letter": "D",
+          "text": "You might see a doctor before it gets worse.",
           "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
+          "feedback": "Wrong. 'Might' expresses the possibility of an action, not a recommendation to perform it."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Should is the modal of advice, and it is chosen precisely because the speaker recommends without obliging.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses prohibition.",
+      "context": "A rule forbids students from using phones in class.",
       "options": [
         {
-          "letter": "D",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "You shouldn't use your phone during the exam.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "Wrong. 'Shouldn't' is advice not to do something, which is weaker than a prohibition."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "You needn't use your phone during the exam.",
           "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "feedback": "Wrong. 'Needn't' also removes an obligation rather than forbidding an action."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "You don't have to use your phone during the exam.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "Wrong. 'Don't have to' removes an obligation, which is the opposite of prohibition."
+        },
+        {
+          "letter": "D",
+          "text": "You mustn't use your phone during the exam.",
+          "is_correct": true,
+          "feedback": "Correct. 'Mustn't' expresses prohibition, telling the student that using the phone is forbidden."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Prohibition is expressed with mustn't or by the formal equivalent must not, while not having to and needn't both remove obligations.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -189,41 +189,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses certainty that something is not the case.",
+      "context": "An examiner states that an answer is definitely not true.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "text": "That can't be right; the data clearly show the opposite.",
+          "is_correct": true,
+          "feedback": "Correct. 'Can't' conveys a confident rejection of the statement, which matches the evidence cited."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "That needn't be right; the data clearly show the opposite.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Wrong. 'Needn't' removes an obligation and has no bearing on whether a statement is true."
+        },
+        {
+          "letter": "C",
+          "text": "That may not be right; the data clearly show the opposite.",
+          "is_correct": false,
+          "feedback": "Wrong. 'May not' is a weaker and more hedged rejection than the confident 'can't' in this context."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "That might be right; the data clearly show the opposite.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "Wrong. 'Might be right' expresses possibility and contradicts the certainty in the second clause."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "Strong negative certainty is expressed with cannot or can't, while may not softens the same judgement considerably.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The ground is wet, so she ___ at home. Her shoes are still outside.'",
+      "context": "A speaker makes a deduction from evidence about the past.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
+          "letter": "A",
+          "text": "must be",
+          "is_correct": false,
+          "feedback": "Wrong. 'Must be' expresses certainty about the present, not about a past situation."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "letter": "B",
+          "text": "must have been",
+          "is_correct": true,
+          "feedback": "Correct. 'Must have been' expresses a deduction in the past based on present evidence."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "must to be",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "Wrong. 'Must to be' inserts an infinitive marker that modal auxiliaries do not take."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "must been",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Wrong. 'Must been' lacks the participle that the perfect form requires."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Modal plus perfect combines the modality of must with the past reference of the perfect, producing a deduction about a past event.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement correctly compares 'must' and 'should'?",
+      "context": "A grammarian compares obligation and advice.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "Must is used only for the past and should is used only for the future.",
           "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
+          "feedback": "Wrong. Both modals are used in the present and in the past with perfect forms; neither is restricted to one time."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "Must and should are exactly synonymous in every context and can be interchanged freely.",
           "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
+          "feedback": "Wrong. The two modals differ in strength and in the origin of the obligation, so they are not freely interchangeable."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "Must presents the obligation as external and unavoidable, while should presents it as the speaker's personal recommendation.",
+          "is_correct": true,
+          "feedback": "Correct. This captures the conventional distinction between externally imposed obligation and personal recommendation."
+        },
+        {
+          "letter": "D",
+          "text": "Should is stronger than must because it leaves no room for personal judgement.",
           "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
+          "feedback": "Wrong. Should is weaker precisely because it leaves the decision to the listener."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Modal choice in English depends on the source and strength of the obligation, which is what distinguishes must from should.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses a deduction that the opposite is certainly true?",
+      "context": "An exam tests certainty about a past action.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
+          "text": "He mustn't have finished the report; the office is still lit and he's still working.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Mustn't have' expresses prohibition rather than a deduction about a past event."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "He may have finished the report; the office is still lit and he's still working.",
           "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "feedback": "Wrong. 'May have' is a possible deduction but it is weaker than the certainty expressed by the evidence."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "He might have finished the report; the office is still lit and he's still working.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "Wrong. 'Might have' leaves the question open and contradicts the confident reasoning in the second clause."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "text": "He can't have finished the report; the office is still lit and he's still working.",
+          "is_correct": true,
+          "feedback": "Correct. 'Can't have' plus participle expresses certainty that a past action did not happen, which the evidence supports."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Modal plus perfect also works with cannot, giving a confident negative deduction about a past situation.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly explains the absence of an obligation.",
+      "context": "A student asks about a rule that does not require a particular action.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "You don't have to pay a deposit if you bring your own tent.",
           "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
+          "feedback": "Correct. 'Don't have to' states that an obligation does not exist, which is different from forbidding the action."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "You shouldn't pay a deposit if you bring your own tent.",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "Wrong. 'Shouldn't' advises against paying, which is not the same as saying payment is unnecessary."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "You can't pay a deposit if you bring your own tent.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "Wrong. 'Can't' expresses inability or impossibility, neither of which is meant here."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "You mustn't pay a deposit if you bring your own tent.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "Wrong. 'Mustn't' prohibits the deposit, which is the opposite of what the sentence intends to convey."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "The distinction between mustn't and don't have to is one of the most tested points, because the first forbids and the second merely removes the requirement.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If only I ___ harder, I would have passed the test.'",
+      "context": "A speaker expresses regret about something that was true in the past.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
+          "text": "studied",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "Wrong. 'Studied' with 'if only' is not the standard form for an unreal past condition."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "had studied",
+          "is_correct": true,
+          "feedback": "Correct. 'Had studied' forms the third conditional with 'would have passed', expressing an unreal situation in the past."
+        },
+        {
+          "letter": "C",
+          "text": "would study",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "Wrong. 'Would study' belongs to an unreal present condition and does not match the 'would have passed' clause."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "have studied",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "Wrong. 'Have studied' is the present perfect and does not create an unreal past condition."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The phrase if only carries an unreal meaning, and with would have in the main clause it requires had plus participle in the condition.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that refers to a past obligation which is no longer in force.",
+      "context": "A report deals with an obligation that no longer exists.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
+          "letter": "A",
+          "text": "Visitors must register at the gate before the new system was introduced.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Must' likewise states a present obligation rather than a past one."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "Visitors have to register at the gate before the new system was introduced.",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Wrong. 'Have to' states a present obligation, which contradicts the reference to a superseded system."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "text": "Visitors had to register at the gate before the new system was introduced.",
+          "is_correct": true,
+          "feedback": "Correct. 'Had to' refers to an obligation that applied in the past and no longer applies."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Visitors had better register at the gate before the new system was introduced.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "feedback": "Wrong. 'Had better' is an advisory expression and does not describe an obligation that has ended."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Had to is the past of have to and is the correct form when the obligation itself belongs to a past period.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses a possibility with the greatest degree of caution.",
+      "context": "A formal letter uses hedged language.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
+          "text": "The samples may have contaminated during transport.",
+          "is_correct": false,
+          "feedback": "Wrong. 'May have contaminated' uses the wrong participle and describes the samples as the agents of the action."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "The samples can't have been contaminated during transport.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "Wrong. 'Can't have' confidently denies the contamination, which is a stronger claim than caution allows."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "The samples must have been contaminated during transport.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "Wrong. 'Must have' asserts the contamination as certain, which is the opposite of caution."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "text": "The samples could have been contaminated during transport.",
+          "is_correct": true,
+          "feedback": "Correct. 'Could have' plus participle is the most tentative of these options and fits the cautious register of the letter."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Modality in English has a wide strength range, and could plus perfect is at the tentative end of it.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that combines advice with a warning about the consequences.",
+      "context": "A speaker advises strongly but leaves the decision open.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "You should see a specialist; if you leave it too long, it gets much harder to treat.",
           "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
+          "feedback": "Correct. 'Should' gives advice without compelling, and the conditional clause warns about delay."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "You could see a specialist; if you leave it too long, it gets much harder to treat.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "Wrong. 'Could' expresses possibility or permission here and does not function as advice."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "You might see a specialist; if you leave it too long, it gets much harder to treat.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "Wrong. 'Might' expresses possibility of the action and gives the listener no recommendation at all."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "You must see a specialist; if you leave it too long, it gets much harder to treat.",
           "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "feedback": "Wrong. 'Must' compels rather than advises, which removes the speaker's own nuance from the message."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Advice is conventionally expressed with should so that the listener retains the freedom to decide, which matters when consequences are also being described.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly expresses that someone was not obliged to do something in the past.",
+      "context": "An exam tests the negative meaning of modals in the past.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "They mustn't have attended the briefing, which was optional that year.",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "Wrong. 'Mustn't have' states that attending was forbidden, which contradicts the fact that it was optional."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "They didn't have to attend the briefing, which was optional that year.",
+          "is_correct": true,
+          "feedback": "Correct. 'Didn't have to' is the past form of the absence of an obligation, which matches the note that it was optional."
+        },
+        {
+          "letter": "C",
+          "text": "They can't have attended the briefing, which was optional that year.",
           "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "feedback": "Wrong. 'Can't have' denies the attendance entirely, which is a different claim from saying it was not required."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "They didn't need to have attended the briefing, which was optional that year.",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "Wrong. 'Didn't need to have' mixes two structures and adds an unnecessary perfect to the requirement."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "When the absence of an obligation belongs to the past, the ordinary past form is used without any additional perfect.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses possibility in a formal proposal.",
+      "context": "A speaker describes what is possible in a hypothetical situation.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "The committee would extend the deadline if the funding is approved on time.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "Wrong. 'Would extend' describes a hypothetical outcome rather than a possibility open to decision."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "The committee must extend the deadline if the funding is approved on time.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "Wrong. 'Must' asserts that the extension is inevitable, which the condition does not guarantee."
+        },
+        {
+          "letter": "C",
+          "text": "The committee could extend the deadline if the funding is approved on time.",
+          "is_correct": true,
+          "feedback": "Correct. 'Could' expresses a real possibility in a conditional context without asserting that it will happen."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "The committee shall extend the deadline if the funding is approved on time.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "Wrong. 'Shall' is used for formal offers and suggestions, not for expressing possibility."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "In proposals, could is preferred because it keeps the outcome open and avoids presenting a conditional as a certainty.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the option that best explains the author's attitude in the sentence 'This policy could reduce emissions substantially.'",
+      "context": "A reading text uses a modal to signal the author's own attitude.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "letter": "A",
+          "text": "The author denies that the policy could have any effect on emissions.",
+          "is_correct": false,
+          "feedback": "Wrong. Denial would require cannot or mustn't, so the sentence does not take the meaning attributed to it."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "The author states that the policy is obliged to reduce emissions by law.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "Wrong. Obligation would be expressed with must or shall, neither of which appears in the sentence."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The author asserts that the policy will certainly reduce emissions.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Wrong. 'Certainly' would require a stronger modal such as must or will, and that is not what the sentence says."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "text": "The author presents the effect as genuinely possible without committing to it.",
+          "is_correct": true,
+          "feedback": "Correct. Could is the modal of possibility, so it presents the outcome as feasible without guaranteeing it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Readers are often asked to identify an author's degree of commitment, and the modal chosen encodes exactly that degree.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence gives the strongest advice, while still leaving the final decision to the client?",
+      "context": "A lawyer is advising a client.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "text": "You had better check the contract before you sign it.",
+          "is_correct": true,
+          "feedback": "Correct. 'Had better' conveys a strong recommendation without removing the listener's freedom to act differently."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "You might check the contract before you sign it.",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "Wrong. 'Might' is too weak for a situation in which serious consequences are at stake."
+        },
+        {
+          "letter": "C",
+          "text": "You could check the contract before you sign it.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Could' and 'might' both present the action as merely possible, which is far weaker than a strong warning."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "You must check the contract before you sign it.",
           "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "feedback": "Wrong. 'Must' imposes an obligation and eliminates any choice on the client's part."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Had better sits between must and should: it warns firmly about consequences while preserving the listener's autonomy.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which both modal perfect forms are used correctly and consistently.",
+      "context": "An exam item tests modal perfect deductions in both directions.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "text": "She can't have left without her keys, and she must have lock the door behind her.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Must have lock' lacks the past participle after the auxiliary 'have'."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "text": "She can't have left without her keys, and she must have locked the door behind her.",
+          "is_correct": true,
+          "feedback": "Correct. Both clauses use the modal plus perfect pattern with the correct past participle, and both express confident deduction."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "She can't have left without her keys, and she must locked the door behind her.",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "Wrong. 'Must locked' places a past form directly after the modal, omitting the auxiliary that carries the perfect."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "She can't have left without her keys, and she must has locked the door behind her.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Wrong. 'Must has' combines a modal with a present form of the auxiliary, which is not valid."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Modals combine with have plus the past participle to reason about the past, and the structure must be identical in both clauses for consistency.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence applies pressure while formally leaving the other side free to decline?",
+      "context": "A negotiation task requires distinguishing commitment from pressure.",
       "options": [
         {
-          "letter": "D",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "We shall receive an answer by Friday, though we recognise your schedule may not allow it.",
           "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
+          "feedback": "Wrong. 'Shall' is used for official announcements rather than for a negotiator's own preference."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "We must have an answer by Friday, though we recognise your schedule may not allow it.",
           "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
+          "feedback": "Wrong. 'Must have an answer' makes the deadline a requirement and contradicts the concession in the second clause."
         },
         {
           "letter": "C",
-          "text": "infection",
+          "text": "We would prefer an answer by Friday, though we recognise your schedule may not allow it.",
+          "is_correct": true,
+          "feedback": "Correct. 'Would prefer' registers a strong preference without turning it into an obligation, which is tactful in a negotiation."
+        },
+        {
+          "letter": "D",
+          "text": "We can have an answer by Friday, though we recognise your schedule may not allow it.",
           "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
+          "feedback": "Wrong. 'Can' expresses the possibility of receiving an answer, which conveys no pressure at all."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Negotiation register depends on the precise strength of the modal, and would prefer is the conventional form for a firm but non-binding request.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly expresses a past obligation which has since been removed.",
+      "context": "A company explains an old policy that no longer applies.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "Under the old policy, staff must have submit timesheets every Friday.",
           "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "feedback": "Wrong. 'Must have submit' lacks the past participle after the auxiliary 'have'."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "Under the old policy, staff are required submitting timesheets every Friday.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "Wrong. 'Are required submitting' mixes present passive with a gerund and does not locate the rule in the past."
+        },
+        {
+          "letter": "C",
+          "text": "Under the old policy, staff must to submit timesheets every Friday.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Must to submit' cannot follow a modal, and the sentence also lacks any reference to the past."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "text": "Under the old policy, staff were required to submit timesheets every Friday.",
+          "is_correct": true,
+          "feedback": "Correct. 'Were required' is the past passive form of a rule that applied in that period and no longer does."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Describing a superseded requirement calls for a past form such as were required, since the rule belongs to a closed period.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle",
       "periodo": 8,
       "protocol_version": "5.2",

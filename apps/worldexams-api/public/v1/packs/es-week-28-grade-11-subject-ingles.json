@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: He pushed his food around the plate and glanced at his phone every minute. What can be inferred?",
+      "context": "Lucia reads a short story passage in English class where a boy keeps checking his phone at dinner.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay when you are on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "He is anxious about an expected message.",
           "is_correct": false,
-          "feedback": "'Transportation' is the way you move from one place to another (buses, trains, planes), not the place where you sleep."
+          "feedback": "Correct! Checking his phone repeatedly during dinner shows he is distracted and worried about a message, which strongly supports the conclusion that he is anxious."
         },
         {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'Entertainment' is the fun or activities you enjoy, not the building or room where you stay."
+          "text": "He is calmly enjoying the family dinner.",
+          "is_correct": true,
+          "feedback": "The idea that he is enjoying dinner calmly fails because calm enjoyment contradicts the restless habit of checking his phone again and again."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "He is angry at his parents for cooking late.",
           "is_correct": false,
-          "feedback": "'Currency' is the money of a country, which has nothing to do with where you sleep."
+          "feedback": "The idea that he is angry at his family fails because the passage shows no argument or complaint, only the repeated and nervous phone checking."
+        },
+        {
+          "letter": "D",
+          "text": "He has already finished all his homework.",
+          "is_correct": false,
+          "feedback": "The idea that he has finished all his homework fails because homework completion is never mentioned and cannot be inferred from checking a phone."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Inference means combining stated clues with background knowledge to reach a logical conclusion that the text supports but never states directly in words.",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -54,36 +54,81 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: Marta grabbed her umbrella even though the morning was bright. The radio had warned of afternoon storms. What is the best conclusion?",
+      "context": "Diego reads a paragraph about a girl who takes an umbrella although the sky looks clear.",
       "options": [
         {
-          "letter": "B",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is a detailed plan of a journey, listing the places and times along the route."
+          "letter": "A",
+          "text": "She expects rain later despite the clear sky.",
+          "is_correct": false,
+          "feedback": "Correct! Taking an umbrella under a clear sky suggests she trusts the forecast she heard, so the conclusion that she expects later rain is strongly supported."
         },
         {
-          "letter": "A",
-          "text": "baggage",
+          "letter": "B",
+          "text": "She simply enjoys carrying heavy objects around.",
           "is_correct": false,
-          "feedback": "'Baggage' is the suitcases and bags you travel with, not the written plan of the trip."
+          "feedback": "The idea that she likes carrying heavy objects fails because nobody enjoys extra weight, and the umbrella choice clearly connects to weather expectations."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "She plans to use the umbrella as a walking stick.",
           "is_correct": false,
-          "feedback": "'Destination' is the place you are going to, a single place, while an itinerary is the whole route plan."
+          "feedback": "The idea that she wants to use it as a walking stick fails because nothing describes walking difficulty, while the weather motive explains the action."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'Passport' is the travel document that lets you cross a border, not the schedule of your trip."
+          "text": "She is trying to protect herself from sunshine.",
+          "is_correct": true,
+          "feedback": "The idea that she is afraid of sunshine fails because sunscreen or a hat would solve sunshine, while an umbrella points specifically to expected rain."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A good conclusion follows the strongest evidence chain, not a single word. Look for repeated clues about weather, habits, or warnings that point to one outcome.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v3",
+      "statement": "Read: The final twist surprised me, yet every clue pointed to it. What does the reviewer conclude about the book?",
+      "context": "Sara reads a book review excerpt where the reviewer praises the ending as surprising but logical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The reviewer disliked the book completely.",
+          "is_correct": true,
+          "feedback": "The idea that the reviewer hated the book fails because praising the ending as surprising but logical expresses clear admiration, not hatred or disappointment."
+        },
+        {
+          "letter": "B",
+          "text": "The reviewer thinks the book ending works well.",
+          "is_correct": false,
+          "feedback": "Correct! Calling the ending surprising but logical shows the reviewer believes the conclusion works well, which supports overall approval of the book."
+        },
+        {
+          "letter": "C",
+          "text": "The reviewer only liked the book cover design.",
+          "is_correct": false,
+          "feedback": "The idea that the reviewer only liked the cover fails because the comment focuses on plot logic and the ending, not on pictures or cover design."
+        },
+        {
+          "letter": "D",
+          "text": "The reviewer found the book far too long.",
+          "is_correct": false,
+          "feedback": "The idea that the reviewer found the book too long fails because length is never mentioned, while the praise clearly addresses story quality."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conclusions in reviews often hide in evaluative adjectives. Words like surprising, logical, moving, or flat tell you the reviewer judgment without stating it plainly.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,86 +143,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'Departure' is the action of leaving, the opposite end of the journey from the destination."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'Arrival' is the act of getting there; the place you arrive at is the destination."
-        },
-        {
-          "letter": "C",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'Journey' is the whole trip from start to finish, not the place you are heading to."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: After the council built protected bike lanes, cycling to school doubled in one year. What conclusion follows?",
+      "context": "Pablo reads a news paragraph about a town where bike use doubled after new lanes opened.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' means suitcases and bags in which you pack your belongings for a trip."
+          "text": "Residents now hate bicycles and avoid them.",
+          "is_correct": false,
+          "feedback": "The idea that people hate bicycles now fails because doubled bike use proves growing interest, which directly contradicts any claim of hatred."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "The new lanes had no effect on anyone.",
           "is_correct": false,
-          "feedback": "'Ticket' is the paper that gives you the right to travel on a bus, train or plane, not the bag itself."
+          "feedback": "The idea that the lanes had no effect fails because the sharp rise right after opening strongly suggests the lanes encouraged more cycling."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'Flight' is the journey by plane, or the plane itself; the bags are called luggage."
+          "text": "Safe lanes encouraged more people to cycle.",
+          "is_correct": true,
+          "feedback": "Correct! The doubling of bike use right after the lanes opened supports the conclusion that safe lanes encouraged residents to cycle more."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Cars in the town became much faster.",
           "is_correct": false,
-          "feedback": "'Reservation' is the booking you make for a seat or a room, not the bags you pack."
+          "feedback": "The idea that cars became faster fails because the paragraph gives no speed data for cars and focuses entirely on increased bicycle use."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "When a text shows a change after an action, infer causation carefully. Check whether the timing, numbers, and context make the link reasonable before concluding.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -189,36 +189,81 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: This soup is certainly interesting, she said, sliding the bowl aside untouched. What is implied?",
+      "context": "Carmen reads a dialogue where a customer says the soup is interesting while pushing the bowl away.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a person who travels on a vehicle without being the driver, pilot or crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'Pedestrian' is someone who travels on foot, so they are not on a conveyance at all."
+          "text": "She loves the soup very much.",
+          "is_correct": true,
+          "feedback": "The idea that she loves the soup fails because pushing the bowl away contradicts love, showing rejection rather than enjoyment of the dish."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "She politely implies she dislikes the soup.",
           "is_correct": false,
-          "feedback": "'Commuter' is someone who travels regularly between home and work; the definition here is any traveller on board, not only that daily case."
+          "feedback": "Correct! Saying interesting while pushing the bowl away is polite code for dislike, so the inference that she dislikes it is correct."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "She wants a much larger portion now.",
           "is_correct": false,
-          "feedback": "'Tourist' is someone visiting for pleasure or sightseeing, but the definition covers every traveller on board, including commuters and residents."
+          "feedback": "The idea that she wants a larger portion fails because pushing food away signals refusal, which is the opposite of asking for more soup."
+        },
+        {
+          "letter": "D",
+          "text": "She thinks the soup is simply too hot.",
+          "is_correct": false,
+          "feedback": "The idea that she finds the soup too hot fails because she does not wait or blow on it, she rejects it, which points to taste not temperature."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Polite language often hides true meaning. Combine the words with body language and actions to infer whether interesting means delicious or a gentle complaint.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v6",
+      "statement": "Fill the gap with the best conclusion. The house was dark, voices were whispers, and everyone tiptoed to bed. It was ___.",
+      "context": "Hugo reads a passage where lights are off everywhere and the family speaks in whispers.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is late at night and everyone is going to sleep.",
+          "is_correct": false,
+          "feedback": "Correct! Dark rooms, whispers, and everyone heading to bed all point to late night, so the conclusion about time is firmly supported."
+        },
+        {
+          "letter": "B",
+          "text": "It is early morning and everyone is waking up.",
+          "is_correct": false,
+          "feedback": "The idea that it is early morning fails because mornings bring light and waking routines, not dark rooms and whispers before sleep."
+        },
+        {
+          "letter": "C",
+          "text": "A loud birthday party is about to start.",
+          "is_correct": true,
+          "feedback": "The idea that a party is starting fails because parties are noisy and bright, while this house is dark, quiet, and sleepy."
+        },
+        {
+          "letter": "D",
+          "text": "The family is doing a deep house cleaning.",
+          "is_correct": false,
+          "feedback": "The idea that they are cleaning the house fails because cleaning involves noise and light, not whispers and turning lights off for bed."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Setting details like light, sound, and movement imply time and situation. Dark quiet houses with sleeping actions usually signal late night without saying it.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -233,82 +278,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v7",
+      "statement": "Read: Due to budget cuts, the central library will close on Sundays from March. Which consequence is most logical?",
+      "context": "Elena reads an article excerpt saying a library will close on Sundays due to budget cuts.",
       "options": [
         {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office at a port, airport or border where officials check goods, travellers and luggage."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "All students will suddenly read more books.",
           "is_correct": false,
-          "feedback": "'Security' is the staff who control safety and boarding inside the airport; it does not check the goods you bring in."
+          "feedback": "The idea that all students will read more books fails because reduced opening hours normally decrease access, not magically increase reading."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "The library will buy many more new books.",
           "is_correct": false,
-          "feedback": "'Terminal' is the whole building where passengers wait, eat and catch their flights."
+          "feedback": "The idea that the library will buy more books fails because budget cuts mean less money, which contradicts any expansion of purchases."
         },
         {
           "letter": "C",
-          "text": "gate",
+          "text": "Weekend readers will be most affected by closure.",
           "is_correct": false,
-          "feedback": "'Gate' is the particular door you board through, not the place where officials inspect your luggage."
+          "feedback": "Correct! Closing on Sundays logically hurts weekend visitors most, so workers and busy students lose their main visiting day."
+        },
+        {
+          "letter": "D",
+          "text": "Nobody will ever visit on Mondays again.",
+          "is_correct": true,
+          "feedback": "The idea that Monday visits will disappear fails because weekday opening remains, so Monday readers keep their usual access to the library."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! The 'boarding pass' is the document the airline gives you at check-in that authorises you to board."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'Visa' is the official permission to enter and stay in a country, requested before the trip, not the document that lets you board a plane."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'Receipt' is the proof of payment for a purchase, not the travel document for boarding."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'Brochure' is a small booklet of tourist information, not the document that lets you board."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "To infer consequences, link the stated fact to real life effects. A Sunday closure most affects the readers who can only visit on weekends.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,40 +324,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: The turtle practised each morning while the hare boasted and napped. The turtle won. What moral is implied?",
+      "context": "Marco reads a fable where a turtle trains daily while a hare naps confidently.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' is the activity of visiting the places of interest in a location."
+          "text": "Natural talent alone always guarantees victory.",
+          "is_correct": false,
+          "feedback": "The idea that talent alone guarantees victory fails because the talented hare loses through laziness, proving talent without effort is insufficient."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'Shopping' is buying things in stores, which is not the same as visiting the sights of a place."
+          "text": "Steady effort matters more than overconfidence.",
+          "is_correct": true,
+          "feedback": "Correct! The daily training turtle beating the napping hare teaches that steady effort beats overconfidence, which is the fable moral."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Sleeping during a contest is good strategy.",
           "is_correct": false,
-          "feedback": "'Hiking' is walking in the countryside on trails, not the general activity of visiting a location's attractions."
+          "feedback": "The idea that sleeping is the best training fails because the nap directly causes the defeat, so the story clearly criticizes that choice."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Running races should be banned as dangerous.",
           "is_correct": false,
-          "feedback": "'Camping' is staying outdoors in a tent, not visiting the sights of a location."
+          "feedback": "The idea that racing is dangerous fails because nobody is hurt, and the focus is on preparation and attitude rather than physical danger."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Fables teach morals through contrast. Compare the steady character with the overconfident one to infer which behavior the author wants readers to copy.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the better conclusion. For three months he skipped snacks and kept coins in a jar labelled BIKE. Which fits best?",
+      "context": "Lucia examines two possible conclusions for a passage about a boy saving lunch money for a bike.",
       "options": [
         {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object you keep afterwards as a reminder of a person, place or event you visited."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "He is patient and responsible with money.",
           "is_correct": false,
-          "feedback": "'Gift' is something you give to another person; a souvenir is kept by the person who took the trip."
+          "feedback": "Correct! Skipping snacks for months to buy a bike proves patience and planning, so the conclusion about being responsible fits every clue."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "He hates all kinds of food and snacks.",
           "is_correct": false,
-          "feedback": "'Award' is a prize given for an achievement, not an object bought or kept as a memory."
+          "feedback": "The idea that he dislikes food fails because he skips snacks for a savings goal, not from dislike, and he still eats regular meals."
         },
         {
           "letter": "C",
-          "text": "prize",
+          "text": "His parents force him to skip lunch.",
+          "is_correct": true,
+          "feedback": "The idea that he is forced by parents fails because the text shows a voluntary personal goal, with no parental order mentioned anywhere."
+        },
+        {
+          "letter": "D",
+          "text": "He is careless and wastes his money.",
           "is_correct": false,
-          "feedback": "'Prize' is the reward you win in a competition, so it comes from winning rather than from a journey."
+          "feedback": "The idea that he is careless with money fails because saving consistently for months is the opposite of careless spending behavior."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Evaluating conclusions means testing each against all evidence. The best choice explains every clue, while weaker ones ignore savings, patience, or goals.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: What a week! Unforgettable sunsets! I attach ten photos. What can be inferred about the writer attitude?",
+      "context": "Andres reads an email where a friend writes that the beach trip was unforgettable and attaches ten photos.",
       "options": [
         {
-          "letter": "B",
-          "text": "delay",
+          "letter": "A",
+          "text": "The beach trip was a terrible experience.",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra time by which something ends up late or gets postponed."
+          "feedback": "The idea that the trip was terrible fails because unforgettable with ten shared photos signals joy, which contradicts a terrible experience."
         },
         {
-          "letter": "A",
-          "text": "cancellation",
+          "letter": "B",
+          "text": "The friend lost the camera on the trip.",
           "is_correct": false,
-          "feedback": "'Cancellation' means the event does not happen at all, not that it happens later than planned."
+          "feedback": "The idea that the friend lost the camera fails because attaching ten photos proves the camera worked and the moments were captured."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "The friend loved the trip very much.",
           "is_correct": false,
-          "feedback": "'Departure' is the scheduled time or the act of leaving; the definition is about the extra time lost."
+          "feedback": "Correct! Calling the trip unforgettable and sending ten photos shows genuine enthusiasm, so the positive inference is correct."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "The friend never wants to travel again.",
           "is_correct": false,
-          "feedback": "'Arrival' is getting there, the opposite moment. Here we want the time lost, not the time you reach the destination."
+          "feedback": "The idea that the friend will never travel again fails because happy travellers usually want more trips, not fewer future journeys."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Tone plus action reveals attitude. Enthusiastic adjectives combined with sharing many photos signal a highly positive experience, not a neutral report.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: Streets flood whenever heavy rain lasts over an hour. Rain has fallen for two hours. What follows logically?",
+      "context": "Noa reads a science text stating that streets flood whenever heavy rain lasts more than an hour.",
       "options": [
         {
-          "letter": "C",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your arrival and registering at the airport or hotel counter."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "The streets will probably be flooded.",
           "is_correct": false,
-          "feedback": "'Check-out' is the opposite moment, when you leave the hotel or hand back the room."
+          "feedback": "Correct! Two hours exceeds the one hour limit stated, so flooding is the certain logical prediction from the given condition."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "The streets will remain perfectly dry.",
           "is_correct": false,
-          "feedback": "'Booking' is the reservation you made earlier; the act of registering your presence on arrival is check-in."
+          "feedback": "The idea that streets will stay perfectly dry fails because it directly contradicts the stated rule linking long rain to flooding."
+        },
+        {
+          "letter": "C",
+          "text": "The rain will stop within five minutes.",
+          "is_correct": false,
+          "feedback": "The idea that rain will suddenly stop fails because the forecast predicts continuation, and no clue suggests an early stop."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'Reservation' is the booking document, not the act of reporting your presence at the desk."
+          "text": "Traffic in the city will improve greatly.",
+          "is_correct": true,
+          "feedback": "The idea that traffic will improve fails because flooded streets normally slow traffic, which is the opposite of improvement."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Conditional statements support predictive inferences. If heavy rain over one hour always floods streets, then two hours of rain guarantees flooding.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -504,37 +504,37 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: Every evening he dusted the empty chair by the window, as he had for ten years. What is implied?",
+      "context": "Irene reads a story where an old man keeps a window seat free for someone who never arrives.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "He runs a small ticket office daily.",
           "is_correct": false,
-          "feedback": "'Stopover' usually means a deliberate visit in the middle of a trip, not just the wait between flights."
+          "feedback": "The idea that he runs a ticket office fails because keeping one personal seat free is emotional, not a commercial selling activity."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "He dislikes visitors and avoids people.",
+          "is_correct": true,
+          "feedback": "The idea that he dislikes visitors fails because saving a place shows longing for company, which contradicts dislike of visitors."
+        },
+        {
+          "letter": "C",
+          "text": "He simply forgot the bus schedule.",
           "is_correct": false,
-          "feedback": "'Transfer' is the change of vehicle itself, the movement; the definition is about the time of waiting."
+          "feedback": "The idea that he forgot the schedule fails because daily repetition over years shows memory and devotion, not forgetfulness about time."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "He misses someone who will not return.",
           "is_correct": false,
-          "feedback": "'Transit' is a system of moving people and goods through a city, not a break between two flights."
+          "feedback": "Correct! Saving the seat daily for someone absent strongly implies loyal remembrance, most naturally of a lost friend or relative."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Repeated symbolic actions imply emotion. Keeping an empty seat for years suggests loyalty and missing someone, a classic literary signal of loss.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Identify the most logical ending. Only the maid knew the safe code and she cleaned the study that morning. Who likely took the jewels?",
+      "context": "Tomas compares two endings for a mystery story where the maid knew the safe code all along.",
       "options": [
         {
-          "letter": "C",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "The gardener stole the jewels at noon.",
           "is_correct": false,
-          "feedback": "'Coin' is a single metal piece of money, one item within the currency, not the whole system."
+          "feedback": "The idea that the gardener did it fails because he lacks code knowledge and was outside, so evidence against him is much weaker."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "The wind blew the safe door open.",
           "is_correct": false,
-          "feedback": "'Banknote' is a paper bill, one item of the currency rather than the system of money itself."
+          "feedback": "The idea that the wind opened the safe fails because safes need codes, and wind cannot explain the missing jewels logically."
+        },
+        {
+          "letter": "C",
+          "text": "The owner simply lost the jewels outside.",
+          "is_correct": false,
+          "feedback": "The idea that the owner lost the jewels fails because the forced absence of force plus insider knowledge points away from accident."
         },
         {
           "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'Cash' means money in the physical form you hold, not the money system of a country."
+          "text": "The maid used the code to take jewels.",
+          "is_correct": true,
+          "feedback": "Correct! The maid knew the code and cleaned that room, so concluding she took the jewels best uses every planted clue."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "The most logical story ending is the one that uses planted clues. Prior knowledge of the code plus presence at the scene makes one suspect stand out.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -594,37 +594,37 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: Battery weak, camera average, but at this price ideal for a first phone. What does the reviewer conclude?",
+      "context": "Julia reads a product review that lists many faults but ends by recommending the phone for teenagers.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for visitors and tourists."
+          "letter": "A",
+          "text": "The phone is perfect in every way.",
+          "is_correct": false,
+          "feedback": "The idea that the phone is perfect fails because the long fault list contradicts perfection, even though the final verdict is positive."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "It is cheap and good enough for teens.",
           "is_correct": false,
-          "feedback": "'Map' is a single sheet or screen showing the layout of a place, not a book of information."
+          "feedback": "Correct! Recommending a faulty but cheap phone for teenagers implies it is affordable and good enough for basic young user needs."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'Dictionary' is a book of word definitions of a language, not information about a place for visitors."
+          "text": "Teenagers will surely hate this phone.",
+          "is_correct": true,
+          "feedback": "The idea that teenagers hate cheap phones fails because the recommendation assumes they will accept it, showing expected satisfaction."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The reviewer was paid to praise it.",
           "is_correct": false,
-          "feedback": "'Encyclopedia' is a general reference work with entries on every topic, not a guide written for tourists about one place."
+          "feedback": "The idea that the reviewer was paid fails because honest fault listing suggests independence, not hidden payment for praise."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Recommendations after criticism imply a balance of needs. A cheap but weak device can still suit users who value price over power and cameras.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: When merchants spread word of their golden harvests, the village raised high stone walls. What is the likely reason?",
+      "context": "Alba reads a historical passage where a village builds walls right after traders describe rich harvests.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' is the bag with shoulder straps that you carry on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "The walls were built as decoration.",
           "is_correct": false,
-          "feedback": "'Suitcase' is a case with a handle that you pull along, not a bag worn on the back."
+          "feedback": "The idea that walls were decoration fails because urgent building after harvest news signals protection, not artistic decoration of villages."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "Villagers simply loved hard physical work.",
+          "is_correct": true,
+          "feedback": "The idea that villagers loved hard work fails because motive matters more than effort, and fear explains the sudden timing better."
+        },
+        {
+          "letter": "C",
+          "text": "They feared raids after showing wealth.",
           "is_correct": false,
-          "feedback": "'Briefcase' is a case for documents and a laptop, carried in the hand for work."
+          "feedback": "Correct! Raising walls right after boasting about harvests implies fear of attack, so protection is the logical inferred motive."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Travelling traders built the walls alone.",
           "is_correct": false,
-          "feedback": "'Handbag' is a bag for personal items carried on the arm or in the hand, with no back straps."
+          "feedback": "The idea that traders built the walls fails because villagers are the builders in the text, while traders only brought the news."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "Infer motive from sequence. Building defences immediately after news of wealth spreads suggests fear of envy and raids, a common historical pattern.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
       "periodo": 28,
@@ -684,36 +684,81 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Read: From Monday, mobiles must remain in lockers during all lessons. What problem does this rule imply?",
+      "context": "Bruno reads a school notice saying phones must stay in lockers during lessons.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "Phones help students concentrate better.",
           "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "The idea that phones improve concentration fails because the ban during lessons shows they harmed focus, which is why lockers are required."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "School lockers are too small for books.",
           "is_correct": false,
-          "feedback": "'Domestic' means inside your own country, the opposite of overseas."
+          "feedback": "The idea that lockers are too small fails because size is never discussed, while lesson distraction is the clear stated concern."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "Phones distracted students during lessons.",
           "is_correct": false,
-          "feedback": "'Local' means in the area where you are, even more restricted than domestic; it never crosses a border."
+          "feedback": "Correct! Requiring phones in lockers during lessons implies they distracted students, so the rule aims to restore classroom concentration."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "Teachers want to borrow student phones.",
           "is_correct": false,
-          "feedback": "'National' refers to a whole country without saying it is foreign, so it does not imply going abroad."
+          "feedback": "The idea that teachers want to borrow phones fails because the notice orders storage, not collection for teacher personal use."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Rules imply problems they aim to fix. A locker rule for lesson time strongly suggests past distraction and a desire to improve focus and learning.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
+      "periodo": 28,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v17",
+      "statement": "Read: The house feels too quiet now. I keep your drawings on the fridge. What feeling is inferred?",
+      "context": "Vega reads a letter where a grandmother says the house feels too quiet since the grandchildren left.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "She enjoys the peaceful silence now.",
+          "is_correct": false,
+          "feedback": "The idea that she enjoys silence fails because too quiet after happy visits expresses loss, not contentment with peaceful solitude."
+        },
+        {
+          "letter": "B",
+          "text": "She plans to sell the house soon.",
+          "is_correct": false,
+          "feedback": "The idea that she wants to sell the house fails because no sale is mentioned, while emotion focuses on missing the children."
+        },
+        {
+          "letter": "C",
+          "text": "She feels lonely and misses the children.",
+          "is_correct": true,
+          "feedback": "Correct! Describing the house as too quiet after the visit implies loneliness and sadness because she misses the grandchildren."
+        },
+        {
+          "letter": "D",
+          "text": "She disliked having visitors at all.",
+          "is_correct": false,
+          "feedback": "The idea that she disliked the visit fails because quiet sadness afterwards proves the visit brought joy that she now misses."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Emotional inference links quiet houses to loneliness. When joy leaves and silence remains, the implied feeling is sadness and missing loved ones.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,37 +773,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v18",
+      "statement": "Correct the false statement. Passage implies hard work caused success. Which option states the valid inference?",
+      "context": "Dario faces a test trap where one option repeats passage words but twists the meaning.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is the estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "Hard daily training led to her victory.",
           "is_correct": false,
-          "feedback": "'Expense' is a single cost already paid; the definition is the estimate for the whole period."
+          "feedback": "Correct! It captures the real implication that extra training caused the win, without copying sentences or twisting their logical sense."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "Her easy victory needed no training at all.",
           "is_correct": false,
-          "feedback": "'Cost' is the price of one thing, whereas a budget covers all income and all spending."
+          "feedback": "The idea with copied words about easy victory fails because it reuses passage vocabulary yet reverses the hard work message completely."
+        },
+        {
+          "letter": "C",
+          "text": "Extra practice always harms final performance.",
+          "is_correct": false,
+          "feedback": "The idea that practice harms performance fails because the victory proves practice helped, making this opposite claim logically impossible."
         },
         {
           "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'Price' is the amount a single item costs, not a plan of income and expenditure over time."
+          "text": "The coach alone won the race for her.",
+          "is_correct": true,
+          "feedback": "The idea that the coach did everything fails because the text credits the athlete effort, not a coach doing the work alone."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Beware word match traps in inference tests. The correct conclusion paraphrases the idea correctly, while wrong options copy words but reverse logic.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -773,82 +818,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v19",
+      "statement": "Read: Shops will revive, children will play safely, and air will improve. What is the author main purpose?",
+      "context": "Nora reads a complex editorial arguing that a new park will help shops, families, and air quality.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
+          "text": "To describe different types of trees.",
           "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which an insurer promises compensation for loss, damage, illness or death in exchange for a premium."
+          "feedback": "The idea that the author only describes trees fails because shops, families, and air together show a persuasive case, not mere botanical description."
         },
         {
           "letter": "B",
-          "text": "warranty",
+          "text": "To oppose building the park strongly.",
           "is_correct": false,
-          "feedback": "'Warranty' covers a product against defects for a limited period and is free of charge, not a premium-based contract."
+          "feedback": "The idea that the author opposes the park fails because every listed effect is positive, which contradicts any opposition to construction."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "To explain the history of old parks.",
           "is_correct": false,
-          "feedback": "'Guarantee' is the promise itself; 'insurance' is the whole contract arranged with an insurer for a premium."
+          "feedback": "The idea that the author explains park history fails because no dates or past events appear, only future benefits to persuade readers."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "To persuade readers to support the park.",
           "is_correct": false,
-          "feedback": "'Policy' is the document that proves the insurance contract; the arrangement itself is the insurance."
+          "feedback": "Correct! Listing economic, social, and environmental benefits together reveals a clear intent to persuade readers to support the park plan."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle",
-      "periodo": 28,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! A 'vaccination' is the application of a vaccine that makes the body produce immunity against a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'Medication' is a medicine you take to treat an illness, not the vaccine that prevents one."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'Prescription' is the written order a doctor gives for a medicine, not the vaccine itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'Infection' is the state of having the disease; vaccination is what protects you before you get it."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "Author purpose questions ask why evidence is gathered. Multiple benefits listed together signal persuasion, urging readers to support a proposal or decision.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Order the logic and conclude. She watered the dry stem for weeks. One morning a green shoot appeared and she smiled. What does it symbolize?",
+      "context": "Iker reads a subtle story where a girl waters a dead plant for weeks and smiles at the green shoot.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock you feel after a flight across several time zones."
+          "text": "She enjoys wasting water every day.",
+          "is_correct": false,
+          "feedback": "The idea that she loves wasting water fails because her joy at the shoot proves purposeful care, not wasteful use of water resources."
         },
         {
           "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'Fatigue' is tiredness after effort or a long day, not specifically caused by crossing time zones."
+          "text": "Plants grow best without any care.",
+          "is_correct": true,
+          "feedback": "The idea that plants grow without care fails because weeks of watering caused the shoot, proving care was essential to revival."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Smiling at plants harms their growth.",
           "is_correct": false,
-          "feedback": "'Exhaustion' is extreme tiredness from overwork or lack of sleep, which is not the same as the time zone effect."
+          "feedback": "The idea that smiling harms plants fails because smiling accompanies success and has no botanical effect on plant growth at all."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Patience and hope can bring new life.",
           "is_correct": false,
-          "feedback": "'Insomnia' is the inability to sleep, whereas jet lag comes with tiredness during the day and a shifted body clock."
+          "feedback": "Correct! Patient watering rewarded by new life symbolizes hope and persistence, making this the richest conclusion supported by the ending."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Literary conclusions synthesize symbol and change. A reviving plant after patient care stands for hope and persistence rewarded, the deepest valid reading.",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -8,132 +8,42 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
-          "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v1",
+      "statement": "The student ___ won a national award will present the results.",
+      "context": "Only one of the students in the group has won a national award.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' refers to things or animals in defining clauses, so it cannot stand in for a person such as the student here."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "No. 'Whose' expresses possession, and it would mean the award belongs to the student rather than that the student won it."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "No. 'Where' introduces a clause about a place, and there is no place named in the sentence for it to refer to."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
+          "text": "who",
           "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Correct! 'Who' introduces a defining relative clause referring to a person, and the clause is essential to identify which student is meant."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Defining relative clauses use who for people, which for things, and whose for possession. The clause is not optional: remove it and the sentence no longer identifies anyone, which is exactly what makes it defining rather than non-defining.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -143,42 +53,132 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v2",
+      "statement": "The laptop ___ Pedro bought last week has a broken screen.",
+      "context": "The laptop that Pedro bought last week has a broken screen.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "No. 'Who' is only used for people, and the subject of this sentence is a laptop, which is a thing."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "No. 'Whose' would claim that the laptop belongs to Pedro, when in fact Pedro is the one who bought it."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "No. 'What' cannot follow a noun, so it cannot close a phrase such as 'the laptop' and start a relative clause."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' can introduce a defining relative clause about a thing, and it is the neutral pronoun used when no other relationship applies."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "In defining clauses 'that' and 'which' are both possible for things in standard usage, with 'that' preferred when the clause follows a noun rather than a comma. The other pronouns are restricted by their own meanings, so only one of the four fits the relationship described.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v3",
+      "statement": "The house ___ I grew up has been painted with green paint.",
+      "context": "The house where I grew up has been painted with green paint.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where",
+          "is_correct": true,
+          "feedback": "Correct! 'Where' introduces a clause of place with an understood 'in which', and it identifies which house the sentence is about."
+        },
+        {
+          "letter": "B",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people and would leave the sentence with a house as the subject of 'grew up', which is impossible."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' cannot introduce a clause with an omitted subject here, because there is no verb to attach it to after 'grew up'."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "No. 'When' introduces a clause of time, and the sentence describes a location rather than a moment."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Place in defining clauses is expressed with 'where', which is short for 'in which' or 'at which'. Time uses 'when' instead, and the choice between them depends on the question the clause answers about the noun it follows.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v4",
+      "statement": "The engineer ___ proposal was approved received an award last night.",
+      "context": "The engineer whose proposal was approved received an award last night.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' would make the proposal the subject of 'was approved', but a proposal is not a person who can be approved."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' is used for things, yet the clause that follows it has the engineer as its subject and the proposal as its object."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "No. 'Where' would ask about the place of the approval, and the sentence gives no location at all."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! 'Whose' expresses possession and creates the relationship between the engineer and the proposal he wrote, which the rest of the clause then develops."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Possessive relative pronouns turn a noun into the possessor of another noun. 'Whose proposal' means the proposal that belongs to the engineer, and this construction is very frequent in academic and news English when authorship or ownership has to be stated.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -188,132 +188,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v5",
+      "statement": "The exam ___ she passed last June opened a door to a scholarship in Europe.",
+      "context": "The exam that she passed last June opened a door to a scholarship in Europe.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "No. 'What' cannot be used after a noun such as 'exam', so the phrase 'the exam what' is not grammatical."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "whom",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "No. 'Whom' is the object form for people, but the object of 'passed' is the exam, not a person."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
+          "feedback": "No. 'Where' would require a place to be named in the sentence, and no location appears in either the noun phrase or the clause."
+        },
         {
           "letter": "D",
-          "text": "customs",
+          "text": "that",
           "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Correct! 'That' introduces a defining clause about the exam, and the object pronoun 'she' replaces the repeated subject inside the clause."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "B",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
-        },
-        {
-          "letter": "C",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "When the relative clause has its own object, the relative pronoun can be omitted entirely, as in 'the exam she passed'. Both the full form with 'that' and the reduced form are correct, and the choice is one of style rather than accuracy.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -323,42 +233,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v6",
+      "statement": "The students ___ travel from the coast arrive a day earlier.",
+      "context": "The students who travel from the coast arrive a day earlier than the ones from the highlands.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "letter": "A",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' refers to things, and the antecedent here is a group of people who travel, not an object."
         },
         {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "letter": "B",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! 'Who' is the defining relative pronoun for people, and the clause restricts the group to the members who come from the coast."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "No. 'Whose' would claim that the coast belongs to the students, which reverses the direction of the relationship in the sentence."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "what",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "No. 'What' expresses the thing itself and cannot follow a noun, so it cannot open a clause attached to 'the students'."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "A defining clause narrows the meaning of the noun it follows, and for people the pronoun is 'who', with 'that' as an accepted alternative. The clause is essential information: without it, the sentence would describe every student in the school.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -368,132 +278,87 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
-        },
-        {
-          "letter": "C",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v7",
+      "statement": "The road ___ leads to the coast is closed for repairs.",
+      "context": "The road that leads to the coast is closed for repairs during the rainy season.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people and would make the road the one who leads, which is not a possible meaning."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
-        },
-        {
-          "letter": "C",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
-        },
-        {
-          "letter": "D",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
+          "text": "that",
           "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Correct! 'That' introduces the defining clause about the road, and the subject of 'leads' is understood to be 'the road' itself."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "No. 'Whose' claims possession, and the road does not own the route that leads to the coast."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "No. 'When' introduces a time clause and would connect the road to a moment rather than to a destination."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Relative clauses about objects or abstract things most often use 'that' or 'which'. In this sentence the clause has no explicit subject, so the relative pronoun must be able to stand as the subject of 'leads', which both 'that' and 'which' can do.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v8",
+      "statement": "The village ___ sits beside the lake is famous for its woven textiles.",
+      "context": "The village that sits beside the lake is famous for its woven textiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "No. 'Whom' is an object pronoun for people and cannot be used as the subject of a clause describing a place."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "No. 'Whose' would mean that the lake belongs to the village, and the sentence says nothing about ownership."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces a defining clause about the village and works as the subject of 'sits', so the sentence is complete and correct."
+        },
+        {
+          "letter": "D",
+          "text": "why",
+          "is_correct": false,
+          "feedback": "No. 'Why' introduces a reason clause, and the sentence gives a location rather than an explanation."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A relative clause can function as the subject of its own verb, in which case the pronoun is in its subject form. That is why 'that sits' and 'who sits' are correct while their object forms are not, and the choice of pronoun depends on this grammatical role.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -503,42 +368,177 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v9",
+      "statement": "The book ___ you recommended has been translated into three languages.",
+      "context": "The book which you recommended has been translated into three languages.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people, so it cannot be attached to 'the book' as the subject of the following clause."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "No. 'Where' needs a place, and the clause 'you recommended' has no reference to any location."
         },
         {
           "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! 'Which' introduces a defining clause about a thing and can be omitted when the object role is clear, as in 'the book you recommended'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "No. 'When' needs a moment, and the clause about recommending carries a time reference of its own instead."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "When the pronoun would be the object of the clause verb, English allows it to be left out, which is why the sentence also works with no pronoun at all. The defining character remains the same: the clause tells the reader which book is meant.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v10",
+      "statement": "The woman ___ organised the conference has received a scholarship abroad.",
+      "context": "The woman who organised the conference has received a scholarship abroad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": true,
+          "feedback": "Correct! 'Who' is the defining relative pronoun for people and acts as the subject of 'organised' inside the clause."
+        },
+        {
+          "letter": "B",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' is used for things, and the conference cannot be the one who organised anything."
+        },
+        {
+          "letter": "C",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "No. 'Whom' is the object form and cannot serve as the subject of 'organised', which is why the sentence is ungrammatical with it."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "No. 'Whose' would turn the conference into something the woman owns, and no such possession is expressed in the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Subject relative pronouns and object relative pronouns are not interchangeable. When the pronoun names the doer inside the clause, English requires the subject form 'who'; the object form 'whom' would leave the clause without a subject of its own.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v11",
+      "statement": "The film ___ we watched last night was directed by a young filmmaker.",
+      "context": "The film which we watched last night was directed by a young filmmaker.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people, and a film is not a person who can watch anything."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "No. 'Whose' would claim that the film owns the act of watching, and the sentence gives no such relation."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces a defining clause about the film and is the most natural pronoun before the object pronoun 'we'."
+        },
+        {
+          "letter": "D",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "No. 'What' expresses a thing and cannot follow a noun, so 'the film what' cannot be a grammatical phrase."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Defining clauses about objects are commonly opened with 'that' when the clause follows a noun directly. The pronoun may also be left out here, since 'we' already marks the object role, and both versions are accepted in ordinary English.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v12",
+      "statement": "The tool ___ handle is broken belongs to the workshop next door.",
+      "context": "The tool whose handle is broken belongs to the workshop next door.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' would make the handle the person doing the breaking, which is impossible for a manufactured part."
+        },
+        {
+          "letter": "B",
+          "text": "whose",
+          "is_correct": true,
+          "feedback": "Correct! 'Whose' links the tool to the handle it owns, and the clause that follows describes that handle rather than the whole tool."
+        },
+        {
+          "letter": "C",
+          "text": "which",
+          "is_correct": false,
+          "feedback": "No. 'Which' could act as the subject of a following verb, but it cannot express the possessive link that 'handle is broken' requires here."
+        },
+        {
+          "letter": "D",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "No. 'Where' asks about a place and the sentence contains no location to which the handle could be attached."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Possessive clauses are formed with 'whose' plus the noun that is possessed, and the clause then describes that second noun. This structure is common with objects and parts of objects, where the point of the sentence is to specify which component is involved.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -548,42 +548,132 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v13",
+      "statement": "The reasons ___ the project failed were discussed at the meeting.",
+      "context": "The reasons why the project failed were discussed at the meeting.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people and would attach the clause to a person, while the sentence names an abstract plural noun as its head."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "No. 'Which' would work as the subject or object of the clause, but it cannot introduce an abstract clause of reason beginning with a verb."
         },
         {
           "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "text": "why",
+          "is_correct": true,
+          "feedback": "Correct! 'Why' introduces a defining clause of reason after an abstract noun such as 'the reasons', completing the meaning of that noun."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "No. 'When' introduces a clause of time, and the sentence is about the causes of a failure rather than about a moment."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Abstract nouns of reason, cause and purpose are completed by their own relative clauses: the reason why, the way in which, the purpose for which. In these cases the pronoun does not replace a noun but expresses the type of clause the head noun requires.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v14",
+      "statement": "The problem ___ worried the teachers has been solved with new methods.",
+      "context": "The problem which worried the teachers has been solved with new methods.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people and cannot attach the clause about worrying to a problem, which is not a person."
+        },
+        {
+          "letter": "B",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "No. 'Where' would require a place, and neither the problem nor the teachers is identified as a location in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces the defining clause and acts as the object of 'worried', with the teachers as its subject."
+        },
+        {
+          "letter": "D",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "No. 'Whose' would say that the problem owns the teachers, and the relationship in the clause is one of affecting, not possession."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "When the relative clause has a subject of its own and the pronoun is the object of the verb, 'that' is the safest choice in defining clauses. The construction is unambiguous and avoids the heavy sound that a longer pronoun can produce in speech.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v15",
+      "statement": "The museum ___ opened last month holds a very old collection of coins.",
+      "context": "The museum which opened last month holds a very old collection of coins.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which",
+          "is_correct": true,
+          "feedback": "Correct! 'Which' introduces a defining clause about the museum and acts as the subject of 'opened' inside the clause."
+        },
+        {
+          "letter": "B",
+          "text": "whom",
+          "is_correct": false,
+          "feedback": "No. 'Whom' is an object pronoun for people and cannot be the subject of 'opened', even with the verb in the active."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "is_correct": false,
+          "feedback": "No. 'What' cannot follow a definite noun, so it cannot stand in the slot required by 'the museum'."
+        },
+        {
+          "letter": "D",
+          "text": "why",
+          "is_correct": false,
+          "feedback": "No. 'Why' introduces a clause of reason, while the clause here reports a simple past action with no explanation given."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "A defining clause may simply add information that is needed to identify the noun, and it does not have to express place, time, possession or reason. In those neutral cases 'that' or 'which' is used, with the pronoun taking the grammatical role required inside the clause.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -593,177 +683,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
-      "periodo": 21,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v16",
+      "statement": "The children ___ parents attend the meetings show more interest in the project.",
+      "context": "The children whose parents attend the meetings show more interest in the project.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "feedback": "Correct! 'Whose parents' expresses the relationship of belonging, and the clause 'attend the meetings' has the parents as its subject."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "No. 'Which' would make the parents the subject of a clause attached to the children, and the sentence actually refers to the parents of the children."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "No. 'Who' would mean the children attend the meetings, when the sentence states that their parents do."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "that",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "No. 'That' cannot express possession, and the sentence is specifically about a relationship of belonging between children and adults."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "The possessive pronoun is the only one that reverses the grammatical subject between the head noun and the clause. In 'children whose parents attend', the children appear in the main clause while the parents carry the meaning inside the relative clause.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -773,42 +728,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v17",
+      "statement": "The result ___ surprised everyone was published in the national press.",
+      "context": "The result that surprised everyone was published in the national press on Friday.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "No. 'Who' refers to people, and a result is not a person who can be surprised."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "whose",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "No. 'Whose' would claim that the result owns the surprise, and no possession is expressed in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "where",
+          "is_correct": false,
+          "feedback": "No. 'Where' would require a place inside the clause, while the clause here only carries a verb and its object."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces a defining clause whose verb 'surprised' has the result as its object and everyone as its subject."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "In a defining clause with a transitive verb, the pronoun can be the object, as here, or it can be the subject. What the clause must do is narrow the reference of the head noun, and 'that' is the pronoun that performs that function most widely.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -818,42 +773,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v18",
+      "statement": "The city ___ hosted the international event invested in public transport.",
+      "context": "The city which hosted the international event invested in public transport.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "No. 'Who' would treat the city as a person able to host an event, and English reserves that pronoun for human referents."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces the defining clause and stands as the subject of 'hosted', which is the role the clause requires."
+        },
+        {
+          "letter": "C",
+          "text": "when",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "No. 'When' introduces a time clause, and the sentence offers no moment that could be attached to the city."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "why",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "No. 'Why' would introduce an explanation of the hosting, which the sentence does not give."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "Organisation and place names are treated as things, so the pronoun is 'that' or 'which' rather than 'who'. The clause remains defining because it selects one city out of all the cities in the country.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",
@@ -863,42 +818,87 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v19",
+      "statement": "The team ___ players trained all summer won the regional championship.",
+      "context": "The team whose players trained all summer won the regional championship.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
+          "text": "whose",
           "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
+          "feedback": "Correct! 'Whose players' identifies the players as belonging to the team, and the clause describes their training rather than the team's."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "which",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "No. 'Which' would make the players the subject of the clause as a thing, and the sentence needs a possessive link to the team."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "who",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "No. 'Who' would mean the team trained all summer, whereas the training was done by the players belonging to the team."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "where",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "No. 'Where' would ask about the place of training, and the sentence mentions a season but no location."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "Possessive clauses also work with collective nouns and groups. The head of the clause and the head of the main clause are then different entities, and the possessive pronoun is the element that connects them without repeating the noun.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle-v20",
+      "statement": "The device ___ measures humidity is installed in every classroom of the school.",
+      "context": "The device which measures humidity is installed in every classroom of the school.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who",
+          "is_correct": false,
+          "feedback": "No. 'Who' refers to people and would give the device human qualities, which the sentence does not claim."
+        },
+        {
+          "letter": "B",
+          "text": "that",
+          "is_correct": true,
+          "feedback": "Correct! 'That' introduces a defining clause about the device and acts as the subject of the verb 'measures'."
+        },
+        {
+          "letter": "C",
+          "text": "whose",
+          "is_correct": false,
+          "feedback": "No. 'Whose' would imply that the device owns the humidity, and there is no possessive relationship between them."
+        },
+        {
+          "letter": "D",
+          "text": "when",
+          "is_correct": false,
+          "feedback": "No. 'When' introduces a time clause and would need a moment of measurement, which the sentence does not provide."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "The simplest defining clause is the one that only identifies the thing and adds no place, time, possession or reason. In that case English uses 'that' or 'which' freely, and the clause can even be shortened by omitting the pronoun.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W21-relative-clauses-defining-001-MASTERY-bundle",
       "periodo": 21,
       "protocol_version": "5.2",

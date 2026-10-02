@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence works best as a thesis statement in an opinion essay?",
+      "context": "Lucia is starting her opinion essay about school canteens with a clear position.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "This essay argues that canteens should serve healthy food.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Correct! This essay argues that canteens should serve healthy food correctly states a clear position, so it works perfectly as a thesis for the introduction."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "I had lunch at noon.",
+          "is_correct": true,
+          "feedback": "The option I had lunch at noon is wrong because I had lunch at noon merely reports a personal fact, which takes no position and cannot guide an argument."
+        },
+        {
+          "letter": "C",
+          "text": "Canteens are rooms with tables.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "The option Canteens are rooms with tables is wrong because Canteens are rooms with tables only defines a place factually, which offers no opinion to argue."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Many students eat every day.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "The option Many students eat every day is wrong because Many students eat every day states a general habit without stance, so it cannot anchor an opinion essay."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "A thesis statement presents the writer position clearly in the introduction, usually in one sentence. It guides the whole essay and previews reasons. Without a thesis, readers cannot follow the argument direction.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,37 +54,82 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which structure best organizes an argumentative opinion essay about phones?",
+      "context": "Diego is organizing his essay about phones into introduction, body, and conclusion.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "joke, song, drawing, goodbye",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "The option joke, song, drawing, goodbye is wrong because joke, song, drawing, goodbye lists unrelated creative pieces, which provides no logical frame for building an argument."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "date, name, signature only",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "The option date, name, signature only is wrong because date, name, signature only describes letter formatting, which misses introduction, reasons, and conclusion entirely."
+        },
+        {
+          "letter": "C",
+          "text": "introduction, arguments, counterargument, conclusion",
+          "is_correct": false,
+          "feedback": "Correct! Introduction, arguments, counterargument, conclusion correctly orders the essay, so it gives Diego a logical frame for presenting phone views persuasively."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "text": "title plus ten random facts",
+          "is_correct": true,
+          "feedback": "The option title plus ten random facts is wrong because title plus ten random facts piles unconnected data, which lacks stance, links, and paragraph purpose."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A standard opinion essay uses introduction with thesis, two or three body paragraphs with one idea each, and conclusion restating the position. This frame keeps arguments ordered and easy to follow for B2 readers.",
       "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v3",
+      "statement": "Which option lists FORMAL linkers suitable for an argumentative essay? Note the question asks for formal register.",
+      "context": "Carmen is choosing formal linking words for her essay about tourism.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Moreover",
+          "is_correct": true,
+          "feedback": "The option Moreover is wrong as informal because Moreover is actually formal and academic, so it cannot serve as an example of casual spoken linking."
+        },
+        {
+          "letter": "B",
+          "text": "stuff and things",
+          "is_correct": false,
+          "feedback": "The option stuff and things is wrong for formal writing because stuff and things is vague spoken vocabulary, which lowers the academic tone required in essays."
+        },
+        {
+          "letter": "C",
+          "text": "plus more ideas",
+          "is_correct": false,
+          "feedback": "The option plus more ideas is wrong because plus more ideas is conversational and loose, which fails to link sentences with the precision expected formally."
+        },
+        {
+          "letter": "D",
+          "text": "However and Furthermore",
+          "is_correct": false,
+          "feedback": "Correct! However and Furthermore correctly exemplify formal essay linkers, so they perfectly suit Carmen academic paragraph about tourism effects."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Formal essay linkers include Moreover, Furthermore, However, In contrast, Consequently. They connect ideas between sentences and show addition, contrast, or result. Informal fillers like plus or stuff weaken academic tone.",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -98,86 +143,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
-        },
-        {
-          "letter": "D",
-          "text": "journey",
-          "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence works best as a topic sentence for a paragraph about library benefits?",
+      "context": "Pablo writes a body paragraph about libraries and needs a strong topic sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "text": "Libraries first opened long ago.",
+          "is_correct": false,
+          "feedback": "The option Libraries first opened long ago is wrong because Libraries first opened long ago gives history only, which does not state the paragraph argument about present benefits."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Libraries improve learning by offering free resources.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Correct! Libraries improve learning by offering free resources correctly states the paragraph main idea, so every later sentence can support it with reasons and examples."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "text": "I like the blue chairs inside.",
+          "is_correct": true,
+          "feedback": "The option I like the blue chairs inside is wrong because I like the blue chairs inside offers a tiny personal detail, which is too narrow to control a full paragraph."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "This essay has four paragraphs.",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "The option This essay has four paragraphs is wrong because This essay has four paragraphs describes overall structure, which belongs in planning rather than opening a body paragraph."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "A topic sentence states the main idea of one paragraph clearly at its start. All later sentences support it with reasons and examples. General thesis or tiny detail sentences cannot control a single paragraph.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
       "periodo": 37,
@@ -189,37 +189,37 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best supports the claim that sport helps students? Choose evidence.",
+      "context": "Sara must add a reason with evidence to support her claim about sport.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "Sport is good because it is good.",
+          "is_correct": true,
+          "feedback": "The option Sport is good because it is good is wrong because Sport is good because it is good merely repeats the claim in a circle, which provides no evidence at all."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "Sport reduces stress, for example a school study found calmer pupils.",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Correct! Sport reduces stress, for example a school study found calmer pupils correctly adds concrete evidence, so it strongly supports the claim about sport benefits."
+        },
+        {
+          "letter": "C",
+          "text": "Everyone knows sport is nice.",
+          "is_correct": false,
+          "feedback": "The option Everyone knows sport is nice is wrong because Everyone knows sport is nice appeals to vague popularity, which offers no verifiable data or concrete example."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "I love sport very much indeed.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "The option I love sport very much indeed is wrong because I love sport very much indeed states personal feeling only, which cannot prove a general benefit for readers."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Strong support pairs a reason with concrete evidence like data, expert voice, or observed example. Bare repetition of the claim proves nothing. For example plus a specific study result makes argument credible at B2.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -234,81 +234,36 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best introduces a counterargument about school uniforms fairly?",
+      "context": "Jorge must present an opposing view fairly before answering it in his essay.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "Some argue uniforms remove style, which is a valid concern.",
+          "is_correct": false,
+          "feedback": "Correct! Some argue uniforms remove style, which is a valid concern correctly states the opposition fairly, so Jorge can then answer it with a respectful rebuttal."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "Opponents are fools with bad ideas.",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "The option Opponents are fools with bad ideas is wrong because Opponents are fools with bad ideas insults people instead of ideas, which destroys fair and balanced argument."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
-        },
-        {
-          "letter": "D",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "boarding pass",
+          "text": "Nobody ever disagrees with me.",
           "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
-          "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "The option Nobody ever disagrees with me is wrong because Nobody ever disagrees with me denies that opposition exists, which removes any chance to show balance."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Uniforms are blue and cheap.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "The option Uniforms are blue and cheap is wrong because Uniforms are blue and cheap lists neutral facts, which presents no opposing argument to address."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "A counterargument paragraph fairly states the other side with Some argue that or Critics claim. It shows balance before rebuttal. Ignoring or insulting the opposition weakens credibility and argument depth.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -323,41 +278,86 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v7",
+      "statement": "Which sentence best rebuts the worry that exams create too much pressure?",
+      "context": "Elena writes a reply that answers the counterargument about exam pressure.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "text": "Exams are hard, so I quit.",
+          "is_correct": false,
+          "feedback": "The option Exams are hard, so I quit is wrong because Exams are hard, so I quit surrenders to the counterargument completely, which abandons the writer original position."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Although pressure exists, clear schedules reduce it effectively.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Correct! Although pressure exists, clear schedules reduce it effectively correctly concedes then overturns, so it forms a strong rebuttal that answers the concern with a solution."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Exams are exams and that is that.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "The option Exams are exams and that is that is wrong because Exams are exams and that is that merely repeats the noun without reasoning, which refutes nothing at all."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "text": "Pressure is bad, exams are bad.",
+          "is_correct": true,
+          "feedback": "The option Pressure is bad, exams are bad is wrong because Pressure is bad, exams are bad only restates negativity in parallel, which offers no contrasting solution or evidence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "A rebuttal concedes partly then overturns with However or Nevertheless plus stronger reason. Pattern: admit plus contrast plus evidence. Pure surrender or pure repetition misses the refutation move taught for opinion essays.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v8",
+      "statement": "Which sentence works best as a concluding restatement for the parks essay?",
+      "context": "Raul must close his essay about parks with a strong final paragraph.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parks have trees and benches.",
+          "is_correct": false,
+          "feedback": "The option Parks have trees and benches is wrong because Parks have trees and benches only describes features factually, which restates no position and summarizes no argument."
+        },
+        {
+          "letter": "B",
+          "text": "I will visit the park tomorrow.",
+          "is_correct": true,
+          "feedback": "The option I will visit the park tomorrow is wrong because I will visit the park tomorrow announces a personal plan, which adds new action rather than closing the argument."
+        },
+        {
+          "letter": "C",
+          "text": "In short, parks deserve funding because they improve health.",
+          "is_correct": false,
+          "feedback": "Correct! In short, parks deserve funding because they improve health correctly restates the stance and summarizes the benefit, so it closes the essay about parks strongly."
+        },
+        {
+          "letter": "D",
+          "text": "Parks were built in nineteen ninety.",
+          "is_correct": false,
+          "feedback": "The option Parks were built in nineteen ninety is wrong because Parks were built in nineteen ninety gives historical data only, which neither restates the thesis nor concludes persuasively."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A conclusion restates the thesis in new words, summarizes main points briefly, and may add a recommendation. It introduces no new argument. Copying the introduction word for word or adding fresh claims weakens closure.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
       "periodo": 37,
@@ -369,36 +369,36 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses a formal register appropriate for an essay about phones?",
+      "context": "Nora must fix an informal sentence so it suits a formal opinion essay.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "text": "School is gonna be cool stuff.",
+          "is_correct": false,
+          "feedback": "The option School is gonna be cool stuff is wrong because School is gonna be cool stuff uses slang gonna and cool stuff, which is chatty and unsuitable for formal essays."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "I dunno, exams whatever, bye.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "The option I dunno, exams whatever, bye is wrong because I dunno, exams whatever, bye mixes slang and indifference, which violates formal academic tone completely."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "Kids gotta chill with phones lol.",
+          "is_correct": true,
+          "feedback": "The option Kids gotta chill with phones lol is wrong because Kids gotta chill with phones lol uses slang gotta and lol, which belongs in messages rather than essays."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Schools should therefore limit phone use.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Correct! Schools should therefore limit phone use correctly uses formal vocabulary and structure, so it perfectly suits the academic tone of an opinion essay."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Formal register avoids contractions, slang, and chat fillers. Replace gonna with going to, kids with children, plus with Moreover. Formal vocabulary plus full forms raises the essay tone to academic B2 standard.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -414,36 +414,126 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening hook best catches readers for an essay on screen time?",
+      "context": "Iker reviews four hooks and keeps the one that opens an essay best.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "Hi, how are you today?",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "The option Hi, how are you today is wrong because Hi, how are you today is a casual greeting, which catches no interest and suits chat rather than essay openings."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "Did you know teens spend four hours daily online?",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "Correct! Did you know teens spend four hours daily online correctly opens with a striking fact as a question, so it hooks readers before the thesis on screen time."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "This essay has five paragraphs.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "The option This essay has five paragraphs is wrong because This essay has five paragraphs merely counts structure, which bores readers and wastes the opening impact."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "I will write about phones now.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "The option I will write about phones now is wrong because I will write about phones now announces intent flatly, which lacks surprise or curiosity to engage readers."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "A hook opens with a striking fact, question, or scenario to catch interest before the thesis. Rhetorical questions or surprising data work well. Greetings or thesis copies waste the opening impact.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v11",
+      "statement": "Which statement correctly describes the function of essay linkers?",
+      "context": "Alba compares linkers that show contrast versus linkers that show cause.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "However signals contrast while Consequently signals result.",
+          "is_correct": false,
+          "feedback": "Correct! However signals contrast while Consequently signals result correctly separates functions, so Alba can classify linkers by logical meaning rather than mere position."
+        },
+        {
+          "letter": "B",
+          "text": "However means because exactly.",
+          "is_correct": false,
+          "feedback": "The option However means because exactly is wrong because However means because exactly confuses contrast with cause, which mislabels the core logical function completely."
+        },
+        {
+          "letter": "C",
+          "text": "Consequently contrasts two ideas.",
+          "is_correct": false,
+          "feedback": "The option Consequently contrasts two ideas is wrong because Consequently contrasts two ideas mistakes a result marker for opposition, which reverses its true function."
+        },
+        {
+          "letter": "D",
+          "text": "Because shows sharp contrast.",
+          "is_correct": true,
+          "feedback": "The option Because shows sharp contrast is wrong because Because shows sharp contrast claims a cause word opposes ideas, which contradicts its explanatory purpose."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Contrast linkers include However, Although, In contrast, Despite. Cause linkers include Because, Since, Consequently, Due to. Mixing the sets confuses logic. Identifying function by meaning, not position, ensures coherence.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v12",
+      "statement": "Which order best builds a body paragraph about daily reading benefits?",
+      "context": "Hugo must order four sentences into a logical body paragraph about reading.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "example, conclusion, topic, explanation",
+          "is_correct": false,
+          "feedback": "The option example, conclusion, topic, explanation is wrong because example, conclusion, topic, explanation buries the main idea in third place, which confuses the reader progression badly."
+        },
+        {
+          "letter": "B",
+          "text": "conclusion first then all details",
+          "is_correct": true,
+          "feedback": "The option conclusion first then all details is wrong because conclusion first then all details closes before arguing, which leaves explanation and example without a guiding claim."
+        },
+        {
+          "letter": "C",
+          "text": "topic, explanation, example, concluding link",
+          "is_correct": false,
+          "feedback": "Correct! Topic, explanation, example, concluding link correctly sequences the paragraph, so the claim about reading leads naturally through support to closure."
+        },
+        {
+          "letter": "D",
+          "text": "random facts without any link",
+          "is_correct": false,
+          "feedback": "The option random facts without any link is wrong because random facts without any link piles disconnected data, which provides no hierarchy or logical movement at all."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Logical paragraph order runs topic sentence, explanation, example, concluding link. Claim first, then why, then proof, then tie back. Random orders bury the main idea and confuse the reader progression.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,131 +548,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v13",
+      "statement": "Which paragraph best shows unity around the idea of home recycling? It must stay focused.",
+      "context": "Leire must spot which paragraph stays on one idea about recycling.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "paragraph about buses, lunch, games",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "The option paragraph about buses, lunch, games is wrong because paragraph about buses, lunch, games mixes three topics, which breaks unity and confuses the recycling focus."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "paragraph where all sentences explain sorting waste",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "Correct! Paragraph where all sentences explain sorting waste correctly keeps unity, because every sentence supports the single idea of sorting waste at home."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "paragraph with jokes and song lyrics",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "The option paragraph with jokes and song lyrics is wrong because paragraph with jokes and song lyrics adds entertaining digressions, which drift away from the stated recycling idea."
+        },
+        {
+          "letter": "D",
+          "text": "paragraph listing random city names",
+          "is_correct": true,
+          "feedback": "The option paragraph listing random city names is wrong because paragraph listing random city names piles unrelated geography, which offers no support for the recycling claim."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
+      "explanation": "Unity means every sentence supports the single topic sentence idea. Digressions about lunch or football break unity even if grammatical. Checking each sentence against the main idea keeps paragraphs focused and persuasive.",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
       "periodo": 37,
@@ -594,37 +594,37 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the formal linker Moreover correctly in an essay about bikes?",
+      "context": "Mario checks four uses of Moreover to find the only correct placement.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "text": "Bikes help health, moreover cheap.",
+          "is_correct": false,
+          "feedback": "The option Bikes help health, moreover cheap is wrong because Bikes help health, moreover cheap joins clauses with only a comma and drops grammar, which misuses the formal linker."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "Moreover cheap bikes good for all.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "The option Moreover cheap bikes good for all is wrong because Moreover cheap bikes good for all omits the verb and comma, which makes the sentence fragmentary and incorrect."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "text": "Bikes cut pollution. Moreover, they save money.",
+          "is_correct": true,
+          "feedback": "Correct! Bikes cut pollution. Moreover, they save money correctly places Moreover at a new sentence with a comma, so it adds the second benefit formally and grammatically."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Bikes moreover because cheap health.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "The option Bikes moreover because cheap health is wrong because Bikes moreover because cheap health stacks linkers without logic, which creates a confused and ungrammatical string."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "Moreover starts a new sentence or follows a semicolon to add a formal point, always with a comma after it. It cannot join two clauses with only a comma. Moreover plus comma signals continuation of the same argument.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrase best replaces vague language with precise essay vocabulary about health?",
+      "context": "Clara must replace vague wording with precise academic vocabulary in her draft.",
       "options": [
         {
-          "letter": "B",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
+          "letter": "A",
+          "text": "nice good cool stuff",
+          "is_correct": false,
+          "feedback": "The option nice good cool stuff is wrong because nice good cool stuff piles vague praise words, which lack precision and lower the academic tone badly."
         },
         {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "letter": "B",
+          "text": "very very big problem indeed",
+          "is_correct": true,
+          "feedback": "The option very very big problem indeed is wrong because very very big problem indeed stacks intensifiers without exactness, which sounds spoken rather than academic."
         },
         {
           "letter": "C",
-          "text": "briefcase",
+          "text": "bad things are bad stuff",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "The option bad things are bad stuff is wrong because bad things are bad stuff repeats vagueness in a circle, which conveys no precise evaluation for readers."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "significant benefit for public health",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Correct! Significant benefit for public health correctly uses precise academic vocabulary, so it sharpens the claim and raises the essay formality appropriately."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Precise essay vocabulary replaces vague nice, bad, big with beneficial, harmful, significant. Exact adjectives sharpen claims and raise formality. Vague intensifiers like very very add length without meaning.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
       "periodo": 37,
@@ -684,36 +684,81 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "An essay argued for banning cars downtown. Which conclusion move is correct?",
+      "context": "Adrian compares two conclusions to see which avoids adding new arguments.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "text": "restates ban plus summarizes health and cost",
+          "is_correct": true,
+          "feedback": "Correct! Restates ban plus summarizes health and cost correctly closes without novelty, because every word traces back to arguments already developed in the body."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "adds solar panels never discussed",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "The option adds solar panels never discussed is wrong as a model because adds solar panels never discussed introduces a fresh topic at the end, which breaks the closure rule badly."
+        },
+        {
+          "letter": "C",
+          "text": "asks ten new questions at end",
+          "is_correct": false,
+          "feedback": "The option asks ten new questions at end is wrong because asks ten new questions at end opens fresh inquiry rather than summarizing, which leaves the essay unresolved."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "apologizes and says forget essay",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "The option apologizes and says forget essay is wrong because apologizes and says forget essay abandons the stance entirely, which neither restates nor summarizes the argument."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Strong conclusions summarize without new claims. Introducing solar panels in the last line breaks closure rules. The test is whether each conclusion word traces back to body ideas already argued.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v17",
+      "statement": "Which version correctly fixes the run on sentence about social media effects?",
+      "context": "Aitor must fix a run on sentence in his draft about social media.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Social media connects us it harms sleep.",
+          "is_correct": false,
+          "feedback": "The option Social media connects us it harms sleep is wrong because Social media connects us it harms sleep jams two clauses without punctuation, which forms a classic run on error."
+        },
+        {
+          "letter": "B",
+          "text": "Social media connects us, it harms sleep too.",
+          "is_correct": false,
+          "feedback": "The option Social media connects us, it harms sleep too is wrong in formal writing because the comma alone cannot join two main clauses, so the splice remains incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Social media connects us. However, it harms sleep.",
+          "is_correct": true,
+          "feedback": "Correct! Social media connects us. However, it harms sleep correctly splits with a period and linker, so it fixes the run on while showing contrast clearly."
+        },
+        {
+          "letter": "D",
+          "text": "Social media sleep connects harms us it.",
+          "is_correct": false,
+          "feedback": "The option Social media sleep connects harms us it is wrong because Social media sleep connects harms us it scrambles word order, which destroys both grammar and meaning."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "explanation": "Run on sentences jam two main clauses without proper punctuation or linker. Split with a period or join with However plus comma or Because. Correct sentence boundaries keep complex arguments readable for examiners.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -728,37 +773,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v18",
+      "statement": "Which ordering principle makes three uniform arguments most persuasive in an essay?",
+      "context": "Nerea must choose the most persuasive order for three arguments about uniforms.",
       "options": [
         {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
           "letter": "A",
-          "text": "expense",
+          "text": "weakest last so essay fades",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "The option weakest last so essay fades is wrong because weakest last so essay fades ends on the least convincing point, which lets persuasive energy collapse before the conclusion."
         },
         {
           "letter": "B",
-          "text": "cost",
+          "text": "strongest argument last for climax",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "The option random order without any plan is wrong because random order without any plan scatters impact unpredictably, which prevents building toward a memorable climax."
+        },
+        {
+          "letter": "C",
+          "text": "random order without any plan",
+          "is_correct": false,
+          "feedback": "The option longest sentence always first is wrong because longest sentence always first confuses length with strength, which misorders logic and buries the best point early."
         },
         {
           "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "text": "longest sentence always first",
+          "is_correct": true,
+          "feedback": "Correct! Strongest argument last for climax correctly saves the best point for the end, so the essay builds momentum and peaks just before the conclusion."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Persuasive order often saves the strongest argument for last, creating a climax before the conclusion. Weaker points open, mid points build, strongest closes. Ending weakly lets the essay fade instead of peaking.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -773,82 +818,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "C",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle",
-      "periodo": 37,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which description shows a complete and well controlled opinion essay? Choose the full set.",
+      "context": "Unai must decide which essay shows full argumentative control at B2 level.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
+          "text": "single paragraph of slang jokes",
           "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "feedback": "The option single paragraph of slang jokes is wrong because single paragraph of slang jokes lacks thesis, structure, evidence, and formality, so it shows almost no argumentative control."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "list of dates without opinion",
           "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "feedback": "The option list of dates without opinion is wrong because list of dates without opinion reports facts only, which contains no stance, reasons, or persuasive organization at all."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "copied chat messages as essay",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "The option copied chat messages as essay is wrong because copied chat messages as essay imports informal fragments, which ignore structure, evidence, and academic register completely."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "thesis plus reasons plus counterargument plus conclusion",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Correct! Thesis plus reasons plus counterargument plus conclusion correctly names all pillars, so it demonstrates full argumentative control expected at B2 level writing."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "Full control combines clear thesis, linked paragraphs, evidence, counterargument plus rebuttal, formal tone, and restated conclusion. Missing any pillar weakens the whole. Holistic checklists train self revision better than single rule focus.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the best revision move to turn the chatty draft into a formal essay?",
+      "context": "Ane edits a weak draft where every sentence starts with And then into academic form.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "keep every And then forever",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "The option keep every And then forever is wrong because keep every And then forever preserves monotonous spoken chaining, which keeps the draft chatty and unstructured."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "text": "add ten exclamation marks instead",
+          "is_correct": true,
+          "feedback": "The option add ten exclamation marks instead is wrong because add ten exclamation marks instead substitutes punctuation for structure, which adds noise without building logical argument."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "delete all verbs from draft",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "The option delete all verbs from draft is wrong because delete all verbs from draft destroys grammatical sentences entirely, which makes revision impossible and meaning collapse."
+        },
+        {
+          "letter": "D",
+          "text": "replace with Firstly, In addition, Consequently",
+          "is_correct": false,
+          "feedback": "Correct! Replace with Firstly, In addition, Consequently correctly varies formal connectors, so it transforms repetitive narration into structured academic argument."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Academic revision replaces repetitive And then with varied linkers like Firstly, In addition, Consequently, In conclusion. Sentence variety plus formal connectors transforms chatty narration into structured argument. This final polish separates basic from mastery writing.",
       "difficulty": "10",
       "images": [],
       "tags": [],

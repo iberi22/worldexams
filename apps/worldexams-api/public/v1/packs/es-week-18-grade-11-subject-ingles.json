@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: My uncle finally \"gave ___ smoking\" after ten years.",
+      "context": "Marta is talking about her uncle who stopped smoking last year.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'accommodation' is the place where you live or stay, especially on holiday, and it is the word the definition asks for."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "gave up",
           "is_correct": false,
-          "feedback": "'transportation' is the system that moves people or goods (buses, trains, taxis), not a place where you live or stay."
+          "feedback": "Correct! Gave up correctly means stopped a habit, so it perfectly describes quitting smoking after many years of trying."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "gave back",
+          "is_correct": true,
+          "feedback": "The phrase gave back is wrong for this sentence because gave back means returned an object to someone, which cannot describe stopping the habit of smoking."
+        },
+        {
+          "letter": "C",
+          "text": "gave away",
           "is_correct": false,
-          "feedback": "'entertainment' means the shows, music and activities that amuse you, so it names an experience rather than a place."
+          "feedback": "The phrase gave away is wrong here because gave away means donated something or revealed a secret, which does not express the idea of quitting smoking."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "gave in",
           "is_correct": false,
-          "feedback": "'currency' is the money system of a country, such as the dollar or the colon, so it has nothing to do with a place to stay."
+          "feedback": "The phrase gave in is wrong here because gave in means surrendered after resisting pressure, which misses the specific meaning of voluntarily stopping a long term habit."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "The phrasal verb give up means to stop a habit. It is inseparable in this sense, so the object habit comes before no particle split. Memorizing the fixed meaning prevents confusing it with give back or give away.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,40 +54,40 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which phrasal verb means: to meet someone unexpectedly? \"I ___ Pablo at the station.\"",
+      "context": "Diego met an old primary school friend at the bus station yesterday.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the detailed plan or route of a journey: it lists the places, stops and times in order."
+          "text": "met by chance",
+          "is_correct": false,
+          "feedback": "The option met by chance is wrong because although it paraphrases the idea, the question asks for the phrasal verb label and met by chance is not a phrasal verb."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "ran into",
           "is_correct": false,
-          "feedback": "'baggage' means the suitcases and bags you travel with, not the plan that organises the trip."
+          "feedback": "Correct! Ran into correctly expresses an unexpected meeting, so it perfectly captures meeting an old friend suddenly at the bus station."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "ran after",
           "is_correct": false,
-          "feedback": "'destination' is the place you are travelling to, one single stop of the plan rather than the plan itself."
+          "feedback": "The option ran after is wrong because ran after means chased someone on foot, which describes pursuit and not a surprising and friendly meeting."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the official travel document you show at the border, not a description of the journey route."
+          "text": "ran over",
+          "is_correct": true,
+          "feedback": "The option ran over is wrong because ran over means hit with a vehicle or exceeded time, which has a negative meaning totally unrelated to meeting."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "Run into means to meet someone unexpectedly. It is intransitive with the person as object of into and cannot take a direct object split. Recognizing chance encounters helps separate it from run after or run over.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
       "periodo": 18,
@@ -99,217 +99,37 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct sentence about caring for children.",
+      "context": "Carmen stays with her little cousins every Friday evening.",
       "options": [
         {
-          "letter": "B",
-          "text": "destination",
+          "letter": "A",
+          "text": "Carmen looks for her cousins.",
           "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place to which someone or something is going or being sent."
+          "feedback": "The sentence with look for is wrong because look for means try to find something lost, which does not describe the care Carmen gives."
         },
         {
-          "letter": "A",
-          "text": "departure",
+          "letter": "B",
+          "text": "Carmen looks up her cousins.",
           "is_correct": false,
-          "feedback": "'departure' is the act of leaving, the opposite side of the trip; the definition asks for the place, not the action."
+          "feedback": "The sentence with look up is wrong because look up means search for information in a book or online, which is unrelated to caring for children."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "Carmen looks down her cousins.",
           "is_correct": false,
-          "feedback": "'arrival' is the event of getting there, but a definition needs the place itself, not the moment of reaching it."
+          "feedback": "The sentence with look down is wrong because look down on means consider someone inferior, which is negative and opposite to caring for cousins."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Carmen looks after her cousins.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, whereas the definition names only where it ends."
+          "feedback": "Correct! Look after correctly means take care of, so the sentence about staying with little cousins every Friday is perfectly accurate."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Look after means to take care of someone. The particle after is fixed and the verb needs no extra preposition. Learners should contrast it with look for, which means search, and look up, which means check information.",
       "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' is the collective word for the suitcases and bags in which personal belongings are packed for travelling."
-        },
-        {
-          "letter": "B",
-          "text": "ticket",
-          "is_correct": false,
-          "feedback": "a 'ticket' is the document that gives you the right to travel; it carries nothing at all."
-        },
-        {
-          "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "a 'flight' is the trip itself by plane, not the bags you pack for it."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the booking held for a seat or a room, not the container where clothes go."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is a traveller on a public or private conveyance who is neither the driver, the pilot nor the crew."
-        },
-        {
-          "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "a 'pedestrian' travels on foot, so there is no driver, pilot or crew in the vehicle at all."
-        },
-        {
-          "letter": "C",
-          "text": "commuter",
-          "is_correct": false,
-          "feedback": "a 'commuter' is defined by the regular trip to work or study, not by riding any conveyance."
-        },
-        {
-          "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "a 'tourist' travels for pleasure and visits places of interest; the definition here is about the role on the vehicle."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' is the place at a port, airport or frontier where officials check incoming goods, travellers and luggage."
-        },
-        {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' staff prevent accidents and crime inside the building; the officials who check goods and travellers are customs."
-        },
-        {
-          "letter": "B",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "a 'terminal' is the building where passengers wait for a departure, not the office where the checks are done."
-        },
-        {
-          "letter": "C",
-          "text": "gate",
-          "is_correct": false,
-          "feedback": "a 'gate' is the door or boarding point on the aircraft, not the place where officials inspect your belongings."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline issues at check-in that gives the passenger permission to board."
-        },
-        {
-          "letter": "B",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "a 'visa' is the permission to enter a country, obtained before the trip and not from the airline."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "a 'receipt' only proves that you paid; it does not let you board the plane."
-        },
-        {
-          "letter": "D",
-          "text": "brochure",
-          "is_correct": false,
-          "feedback": "a 'brochure' is printed information about the airline or the destination, not a travel document."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -323,37 +143,217 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v4",
+      "statement": "One sentence is correct about refusing the offer. Which one is it?",
+      "context": "Pablo received a job offer with a low salary and refused it.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' is the activity of visiting the places of interest of a location."
+          "letter": "A",
+          "text": "He turned up the offer.",
+          "is_correct": false,
+          "feedback": "The sentence He turned up the offer is wrong because turned up means arrived or increased volume, so it cannot describe rejecting a low salary."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "He turned into the offer.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things in stores, not the general activity of visiting a place's sights."
+          "feedback": "The sentence He turned into the offer is wrong because turned into means transformed from one thing to another, which makes no sense with a job offer."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is one specific outdoor walk in nature, only one kind of activity out of many."
+          "text": "He turned down the offer.",
+          "is_correct": true,
+          "feedback": "Correct! He turned down the offer correctly uses the phrasal verb for rejecting, so it accurately describes refusing the low salary job."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "He turned on the offer.",
           "is_correct": false,
-          "feedback": "'camping' means staying outdoors in a tent, which is not what a visitor does in a city or landmark."
+          "feedback": "The sentence He turned on the offer is wrong because turned on means switched on a device or attacked, which has no connection to refusing work."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Turn down means to reject an offer. It is separable, so both turned the offer down and turned down the offer are correct. The error in the faulty sentence is the wrong particle that changes rejection into acceptance.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v5",
+      "statement": "Fill the gap: Lucia has to \"___\" to the library this afternoon.",
+      "context": "Lucia must return her history books to the school library today.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "give the books back",
+          "is_correct": true,
+          "feedback": "Correct! Give the books back correctly expresses returning borrowed items to the library, which matches the obligation to restore what was lent."
+        },
+        {
+          "letter": "B",
+          "text": "give the books away",
+          "is_correct": false,
+          "feedback": "The option give the books away is wrong because give away means donate to a new owner, which contradicts returning them to the original library."
+        },
+        {
+          "letter": "C",
+          "text": "give the books off",
+          "is_correct": false,
+          "feedback": "The option give the books off is wrong because give off is not used with books and it means emit smell or light, so it is completely unnatural here."
+        },
+        {
+          "letter": "D",
+          "text": "give the books down",
+          "is_correct": false,
+          "feedback": "The option give the books down is wrong because give down is not a real phrasal verb for returning, so the sentence would be ungrammatical and meaningless."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Give back means to return something to its owner. It is separable, so give the books back is natural. It contrasts with give up, which means quit, and give out, which means distribute or stop working.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v6",
+      "statement": "Choose the phrasal verb for postponing: Andres \"___\" his appointment until next week.",
+      "context": "Andres delayed his dentist appointment because of football training.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "put on",
+          "is_correct": false,
+          "feedback": "The option put on is wrong because put on means wear clothes or gain weight, which cannot describe moving an appointment to another day."
+        },
+        {
+          "letter": "B",
+          "text": "put out",
+          "is_correct": false,
+          "feedback": "The option put out is wrong because put out means extinguish a fire or annoy someone, which has no relation to delaying a dentist visit."
+        },
+        {
+          "letter": "C",
+          "text": "put off",
+          "is_correct": true,
+          "feedback": "Correct! Put off correctly means postponed to a later date, which exactly explains moving the dentist appointment because of football training."
+        },
+        {
+          "letter": "D",
+          "text": "put over",
+          "is_correct": false,
+          "feedback": "The option put over is wrong because put over is not used for postponing appointments and it suggests communicating an idea, so it fails here."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Put off means to postpone to a later time. It is separable, so put the appointment off works too. Do not confuse it with put on, which means wear, or put out, which means extinguish.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v7",
+      "statement": "Sofia \"took ___ the guitar\" in January. What does the sentence mean?",
+      "context": "Sofia started playing the guitar again after a long break.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "took after",
+          "is_correct": false,
+          "feedback": "The option took after is wrong because took after means resembled a family member in looks or character, which cannot describe starting guitar lessons."
+        },
+        {
+          "letter": "B",
+          "text": "took up",
+          "is_correct": false,
+          "feedback": "Correct! Took up correctly means started as a new hobby, so it perfectly describes Sofia beginning guitar again after a long pause."
+        },
+        {
+          "letter": "C",
+          "text": "took off",
+          "is_correct": false,
+          "feedback": "The option took off is wrong because took off means removed clothing or left the ground, which does not express beginning a musical hobby."
+        },
+        {
+          "letter": "D",
+          "text": "took over",
+          "is_correct": true,
+          "feedback": "The option took over is wrong because took over means gained control of a company or place, which is unrelated to starting to play guitar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Take up means to start a hobby or activity. It is separable with objects like guitar or painting. Contrast it with take after, which means resemble a relative, and take off, which means remove or depart.",
+      "difficulty": "5",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v8",
+      "statement": "Fill the gap: Jorge \"brought ___\" politics and the mood changed.",
+      "context": "Jorge mentioned a sensitive topic during dinner and everyone went quiet.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "brought up",
+          "is_correct": false,
+          "feedback": "Correct! Brought up correctly means introduced into conversation, which explains why mentioning a sensitive topic suddenly silenced the whole dinner table."
+        },
+        {
+          "letter": "B",
+          "text": "brought back",
+          "is_correct": true,
+          "feedback": "The option brought back is wrong because brought back means returned something or reminded of the past, which does not describe introducing a new topic."
+        },
+        {
+          "letter": "C",
+          "text": "brought down",
+          "is_correct": false,
+          "feedback": "The option brought down is wrong because brought down means lowered a price or made sad, which fails to capture the act of mentioning a subject."
+        },
+        {
+          "letter": "D",
+          "text": "brought about",
+          "is_correct": false,
+          "feedback": "The option brought about is wrong because brought about means caused something to happen, which focuses on results rather than simply mentioning a topic."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
+      "explanation": "Bring up means to introduce a topic into conversation. It is separable, so bring it up is common with pronouns. It differs from bring back, which means return, and bring down, which means lower or sadden.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,40 +369,40 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the grammatically correct sentence about the London trip.",
+      "context": "Elena is excited about her school trip to London next month.",
       "options": [
         {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is the object that is kept as a reminder of a person, place or event."
-        },
-        {
           "letter": "A",
-          "text": "gift",
+          "text": "look forward to go",
           "is_correct": false,
-          "feedback": "a 'gift' is something given to someone, but it is not necessarily kept as a reminder of a place or an event."
+          "feedback": "The option look forward to go is wrong because after to in this fixed phrase a gerund is required, so the base verb go breaks the grammar rule."
         },
         {
           "letter": "B",
-          "text": "award",
+          "text": "looking forward to going",
           "is_correct": false,
-          "feedback": "an 'award' is an honour granted by an institution for merit, not a keepsake."
+          "feedback": "Correct! Looking forward to going correctly uses the gerund after to, which is the mandatory pattern for expressing excited anticipation about London."
+        },
+        {
+          "letter": "C",
+          "text": "look forward to gone",
+          "is_correct": true,
+          "feedback": "The option look forward to gone is wrong because gone is a past participle that cannot follow the preposition to, so the structure becomes completely ungrammatical."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "look forward to be going",
           "is_correct": false,
-          "feedback": "a 'prize' is the reward of a competition; the definition describes an object kept as a memento."
+          "feedback": "The option look forward to be going is wrong in this context because the extra be makes the phrase wordy and unnatural, though the core error is the missing gerund form."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "explanation": "Look forward to uses the gerund, not the infinitive, because to is a preposition here. The full pattern is look forward to doing something. This fixed prepositional use surprises learners who expect to plus base verb.",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
       "periodo": 18,
@@ -414,36 +414,126 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "They really \"get ___\" well. Which particle completes the idea of a good relationship?",
+      "context": "Two classmates share a flat and never argue about cleaning.",
       "options": [
         {
-          "letter": "D",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which something ends up late or postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "a 'cancellation' means the trip or event will not happen at all, not that it happens later."
+          "text": "get over",
+          "is_correct": true,
+          "feedback": "The option get over is wrong because get over means recover from illness or shock, which does not describe a peaceful and friendly flat sharing relationship."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "get through",
           "is_correct": false,
-          "feedback": "'departure' is simply the moment of leaving, which can be perfectly punctual."
+          "feedback": "The option get through is wrong because get through means finish a task or contact by phone, which misses the idea of friendly coexistence."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "get along",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching the place, and it says nothing about being late."
+          "feedback": "Correct! Get along correctly means have a good relationship, so it perfectly explains why the flatmates never argue about cleaning duties."
+        },
+        {
+          "letter": "D",
+          "text": "get across",
+          "is_correct": false,
+          "feedback": "The option get across is wrong because get across means communicate an idea clearly, which describes explanation rather than friendly personal relations."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Get along means to have a friendly relationship. With is often added before the other person, as in get along with. Do not mix it with get over, which means recover, or get through, which means finish or contact.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v11",
+      "statement": "The bus \"broke ___\" on the highway. What happened to the bus? It stopped working.",
+      "context": "The old bus stopped in the middle of the road this morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "broke down",
+          "is_correct": false,
+          "feedback": "Correct! Broke down correctly means the engine stopped working suddenly, which precisely explains why the old bus halted in the middle of the road."
+        },
+        {
+          "letter": "B",
+          "text": "broke up",
+          "is_correct": false,
+          "feedback": "The option broke up is wrong because broke up means ended a romantic relationship or dispersed, which cannot describe a mechanical failure of a bus."
+        },
+        {
+          "letter": "C",
+          "text": "broke in",
+          "is_correct": false,
+          "feedback": "The option broke in is wrong because broke in means entered illegally or softened new shoes, which is absurd when applied to an engine failure."
+        },
+        {
+          "letter": "D",
+          "text": "broke out",
+          "is_correct": true,
+          "feedback": "The option broke out is wrong because broke out means escaped or started suddenly like a fire, which does not convey a vehicle malfunction."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "Break down means a machine stops working. It is intransitive and needs no object. Compare it with break up, which ends a relationship, and break in, which means enter by force or wear new shoes.",
+      "difficulty": "7",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v12",
+      "statement": "Raul \"set ___\" an online shop last spring. Choose the right particle.",
+      "context": "Raul created a small online shop to sell handmade bracelets.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "set off",
+          "is_correct": false,
+          "feedback": "The option set off is wrong because set off means started a journey or triggered an alarm, which does not describe creating a new online shop."
+        },
+        {
+          "letter": "B",
+          "text": "set up",
+          "is_correct": true,
+          "feedback": "Correct! Set up correctly means established a new business, so it exactly describes Raul creating his online shop for handmade bracelets."
+        },
+        {
+          "letter": "C",
+          "text": "set aside",
+          "is_correct": false,
+          "feedback": "The option set aside is wrong because set aside means saved money or time for later, which misses the idea of founding and organizing a shop."
+        },
+        {
+          "letter": "D",
+          "text": "set back",
+          "is_correct": false,
+          "feedback": "The option set back is wrong because set back means delayed progress or cost money, which is negative and opposite to launching a business."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Set up means to start or arrange something like a business. It is separable, so set it up is frequent. Contrast it with set off, which means begin a journey, and set out, which means start with a goal.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -458,127 +548,37 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is the act of reporting your presence and registering at an airport or hotel counter."
-        },
-        {
-          "letter": "A",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment, when you pay and hand the room key back before leaving."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "'booking' is the reservation made beforehand; check-in is what you do on arrival."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "a 'reservation' is the earlier record of your booking, not the act of registering your presence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is a period of rest or waiting between two further stages of a journey."
-        },
-        {
-          "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is used mainly for trains and usually for a longer, often overnight, break on a rail journey."
-        },
-        {
-          "letter": "C",
-          "text": "transfer",
-          "is_correct": false,
-          "feedback": "a 'transfer' is the change from one vehicle or flight to another, not the pause itself."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means the action of passing through a place, with no idea of resting between stages."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We must \"carry ___\" the survey before Friday. Which version is correct and formal?",
+      "context": "The teacher asked the class to do a survey about recycling habits.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "carry on",
           "is_correct": false,
-          "feedback": "a 'coin' is one single piece of money, not the whole system used in the country."
+          "feedback": "The option carry on is wrong because carry on means continue doing something, which fails to express the idea of performing and completing the assigned survey."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "carry away",
           "is_correct": false,
-          "feedback": "a 'banknote' is one single paper note of that system, not the system itself."
+          "feedback": "The option carry away is wrong because carry away means become overexcited and lose control, which is emotional and unrelated to executing a school task."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "carry out",
           "is_correct": false,
-          "feedback": "'cash' means money in coins and notes in general, not the specific monetary system of a country."
+          "feedback": "Correct! Carry out correctly means perform and complete the survey task, which matches the formal instruction to execute the recycling research properly."
+        },
+        {
+          "letter": "D",
+          "text": "carry off",
+          "is_correct": true,
+          "feedback": "The option carry off is wrong because carry off means succeed in a difficult situation or win, which does not mean to systematically perform a survey."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "Carry out means to perform or complete a task like a survey. It is formal and separable, so carry it out is standard. It contrasts with carry on, which means continue, and carry away, which means overexcite.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Ana \"pointed ___\" an error in the graph. Choose the verb that means highlighted.",
+      "context": "During the debate, Ana highlighted an important mistake in the data.",
       "options": [
         {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book of information about a place written for the use of visitors and tourists."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "pointed out",
           "is_correct": false,
-          "feedback": "a 'map' shows the layout of streets and places, but it is a drawing rather than a book of information."
+          "feedback": "Correct! Pointed out correctly means drew attention to the mistake, so it exactly describes Ana highlighting the important error in the data."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "pointed at",
           "is_correct": false,
-          "feedback": "a 'dictionary' gives the meaning of words, not details about a destination for travellers."
+          "feedback": "The option pointed at is wrong because pointed at describes a physical finger gesture toward something, not the verbal act of highlighting an idea."
+        },
+        {
+          "letter": "C",
+          "text": "pointed to",
+          "is_correct": true,
+          "feedback": "The option pointed to is wrong in this context because pointed to suggests indicating direction or evidence vaguely, not explicitly calling attention to an error."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "pointed over",
           "is_correct": false,
-          "feedback": "an encyclopedia covers all branches of knowledge rather than one particular place for visitors."
+          "feedback": "The option pointed over is wrong because pointed over is not a standard phrasal verb for highlighting, so the sentence becomes unnatural and incorrect."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Point out means to draw attention to a fact or error. It is separable, so pointed it out is typical. Learners confuse it with point at, which is physical gesture, rather than verbal highlighting.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
       "periodo": 18,
@@ -639,36 +639,81 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Carlos \"found ___\" about the party yesterday. Which particle means discovered?",
+      "context": "Carlos finally learned the truth about the surprise party.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has shoulder straps and is designed to be carried on one's back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "found in",
           "is_correct": false,
-          "feedback": "a 'suitcase' is dragged by a handle beside the body; it has no shoulder straps."
+          "feedback": "The option found in is wrong because found in is not a phrasal verb of discovery and it merely locates something inside a place, not learning news."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "found out",
+          "is_correct": true,
+          "feedback": "Correct! Found out correctly means discovered the hidden information, which perfectly explains how Carlos learned the truth about the surprise party."
+        },
+        {
+          "letter": "C",
+          "text": "found over",
           "is_correct": false,
-          "feedback": "a 'briefcase' is a case for documents and a laptop that is carried in the hand."
+          "feedback": "The option found over is wrong because found over is not an accepted discovery phrasal verb, so it makes the sentence ungrammatical and meaningless."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "found across",
           "is_correct": false,
-          "feedback": "a 'handbag' is a small bag held in the hand, not carried on the back."
+          "feedback": "The option found across is wrong because the correct form with across is came across, while found across mixes two different verbs and sounds unnatural."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Find out means to discover information after searching. It takes a clause with what or that and is intransitive in particle use. Contrast it with find for or invent, which do not encode discovery.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v16",
+      "statement": "Sara cannot \"keep ___\" her brother. Complete the comparison correctly.",
+      "context": "Sara runs every morning but struggles to stay at the same speed as her brother.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "keep up with",
+          "is_correct": true,
+          "feedback": "Correct! Keep up with correctly expresses staying at the same speed, so it perfectly captures Sara struggling to match her faster brother."
+        },
+        {
+          "letter": "B",
+          "text": "keep on",
+          "is_correct": false,
+          "feedback": "The option keep on is wrong because keep on means continue doing something without stopping, which lacks the comparative idea of matching another person."
+        },
+        {
+          "letter": "C",
+          "text": "keep off",
+          "is_correct": false,
+          "feedback": "The option keep off is wrong because keep off means avoid stepping on something or stay away, which is about avoidance rather than matching pace."
+        },
+        {
+          "letter": "D",
+          "text": "keep out",
+          "is_correct": false,
+          "feedback": "The option keep out is wrong because keep out means prevent entry or stay outside, which has nothing to do with running at equal speed."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Keep up with means to stay at the same level or speed. With is obligatory before the person or standard. Without with the meaning shifts toward continuing generally, losing the comparison sense tested here.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -683,86 +728,41 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v17",
+      "statement": "Choose the sentence that correctly asks students to submit work.",
+      "context": "The teacher asked the students to submit their essays before Friday.",
       "options": [
         {
-          "letter": "B",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means in or to a foreign country, especially one reached across the sea."
+          "letter": "A",
+          "text": "hand out",
+          "is_correct": false,
+          "feedback": "The option hand out is wrong because hand out means distribute copies to many people, which is opposite to submitting work to the teacher."
         },
         {
-          "letter": "A",
-          "text": "domestic",
+          "letter": "B",
+          "text": "hand over",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "The option hand over is wrong because hand over means surrender control or give to authority under pressure, which is too forceful for submitting essays."
         },
         {
           "letter": "C",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to the area where you already are, again the opposite meaning."
+          "text": "hand back",
+          "is_correct": true,
+          "feedback": "The option hand back is wrong in this context because hand back means return to the previous holder, which describes the teacher returning work, not students submitting."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "hand in",
           "is_correct": false,
-          "feedback": "'national' refers to the nation as a whole, but it does not mean being abroad."
+          "feedback": "Correct! Hand in correctly means submit work formally, so it exactly matches the instruction to deliver essays to the teacher before Friday."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Hand in means to submit work to an authority. It is separable, so hand it in is required with pronouns. Do not confuse it with hand out, which means distribute, or hand over, which means surrender.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
-      "periodo": 18,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' is an estimate of income and expenditure planned for a set period of time."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "an 'expense' is a single cost; a budget gathers all income and spending over a period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is the amount paid for one thing, not an estimate for a whole period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the figure written on a product, not a plan of income and expenditure."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Remember",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
       "periodo": 18,
@@ -774,37 +774,37 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Nora \"picked ___\" her friend at arrivals. Which particle means collected by car?",
+      "context": "Nora collected her friend from the airport after a long flight.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement by which a company or agency guarantees compensation for specified loss, damage, illness or death in return for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "picked up",
           "is_correct": false,
-          "feedback": "a 'warranty' is the maker's guarantee of a product, normally for a short period and against defects only."
+          "feedback": "Correct! Picked up correctly means collected by car from a place, which perfectly fits Nora meeting her friend at the airport after the flight."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "picked on",
           "is_correct": false,
-          "feedback": "a 'guarantee' is the promise itself, without the payment of a premium that defines an insurance arrangement."
+          "feedback": "The option picked on is wrong because picked on means teased or treated unfairly over time, which is cruel and unrelated to airport collection."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "picked at",
           "is_correct": false,
-          "feedback": "a 'policy' is the written document of the contract, not the practice of insuring itself."
+          "feedback": "The option picked at is wrong because picked at means ate only small amounts of food, which cannot describe collecting a traveller from arrivals."
+        },
+        {
+          "letter": "D",
+          "text": "picked over",
+          "is_correct": true,
+          "feedback": "The option picked over is wrong because picked over means searched through items for the best ones, which applies to goods rather than collecting a person."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "explanation": "Pick up has many senses, including collect someone by car. Context decides between lift, learn, or collect. Here the airport setting signals collect, unlike pick on, which means tease unfairly.",
+      "difficulty": "9",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,40 +819,40 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The kiosk has \"run ___ paper\". Choose the form that means it has none left.",
+      "context": "The kiosk cannot print tickets because it has no paper left.",
       "options": [
         {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the treatment with a vaccine that produces immunity against a disease."
-        },
-        {
           "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' treats the symptoms of a disease; it does not create immunity against it."
+          "text": "ran into",
+          "is_correct": true,
+          "feedback": "The option ran into is wrong because ran into means met unexpectedly, which cannot explain why a kiosk without paper fails to print tickets."
         },
         {
           "letter": "B",
-          "text": "prescription",
+          "text": "ran over",
           "is_correct": false,
-          "feedback": "a 'prescription' is the doctor's written order for a medicine, not the vaccine treatment itself."
+          "feedback": "The option ran over is wrong because ran over means hit or exceeded limits, which has no logical link to an empty paper supply."
+        },
+        {
+          "letter": "C",
+          "text": "ran across",
+          "is_correct": false,
+          "feedback": "The option ran across is wrong because ran across means found by chance while searching, which describes discovery rather than total depletion of stock."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "ran out of",
           "is_correct": false,
-          "feedback": "an 'infection' is the invasion of the body by a pathogen, the opposite of being protected against disease."
+          "feedback": "Correct! Ran out of correctly means exhausted its supply, so it precisely explains why the kiosk cannot print tickets without any paper."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "Run out of means to have none left of a supply. The structure needs of before the noun, unlike run into or run over. Noticing the empty supply context helps select the depletion sense quickly.",
       "difficulty": "9",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle",
       "periodo": 18,
@@ -864,36 +864,36 @@
     },
     {
       "id": "ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence shows correct pronoun placement with a separable phrasal verb?",
+      "context": "Two friends argue about separable verbs and pronoun placement in class.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the extreme tiredness and other physical effects felt after a long flight across several time zones."
+          "text": "She picked up it yesterday.",
+          "is_correct": false,
+          "feedback": "The option She picked up it yesterday is wrong because the pronoun it cannot follow the particle, so She picked up it violates the mandatory middle placement rule."
         },
         {
           "letter": "B",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness from any cause, such as a lack of sleep or effort, not specifically from time zones."
+          "text": "She picked it up yesterday.",
+          "is_correct": true,
+          "feedback": "Correct! She picked it up yesterday correctly places the pronoun it between verb and particle, which obeys the strict separable phrasal verb word order."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "She picked up yesterday it.",
           "is_correct": false,
-          "feedback": "'exhaustion' is a total lack of energy from any cause, more general and more severe than the effect of crossing time zones."
+          "feedback": "The option She picked up yesterday it is wrong because it separates the time adverb awkwardly and still leaves the pronoun after the particle, breaking natural syntax."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "She picked yesterday up it.",
           "is_correct": false,
-          "feedback": "'insomnia' is the difficulty of falling or staying asleep, only one symptom and not the whole set of effects after a long flight."
+          "feedback": "The option She picked yesterday up it is wrong because it splits the adverb inside the verb phrase and misplaces both yesterday and it, creating completely scrambled word order."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "B",
+      "explanation": "Separable phrasal verbs force the pronoun between verb and particle, so pick it up is mandatory and pick up it is wrong. This syntactic rule overrides meaning and is a classic B2 error with it and them. Mastering placement guarantees natural word order.",
       "difficulty": "10",
       "images": [],
       "tags": [],

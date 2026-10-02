@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence reports the direct speech 'I am tired' correctly?",
+      "context": "Reported speech statements, San Juan, grado 11, W17.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She said that she was tired.",
           "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
+          "feedback": "Correcto. El verbo 'to be' pasa a pasado, el pronombre 'I' se cambia y el complemento temporal tambien retrocede."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She said that she is tired.",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "Incorrecto. En discurso indirecto el verbo 'to be' debe ir en pasado, no en presente como en la frase original."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She said that I was tired.",
           "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "feedback": "Incorrecto. El pronombre de la primera persona se ajusta a la persona del hablante, que aqui es 'she'."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She say that she was tired.",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "Incorrecto. El verbo de introductory tambien retrocede a pasado: 'said', no 'say'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "explanation": "Al pasar de habla directa a discurso indirecto se operan tres cambios: el verbo principal retrocede a pasado, los pronombres y las expresiones de tiempo se ajustan, y la conjucion pasa a 'that' o se omite en la lengua hablada.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'The teacher said that water ____ (boil) at 100 degrees.'",
+      "context": "Reported speech with past simple, Ponce, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "boiled",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "Incorrecto. Las verdades universales suelen mantenerse en presente incluso dentro de un discurso indirecto en pasado."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "would boil",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Incorrecto. 'Would boil' pertenece a un condicional y no corresponde a un discurso indirecto de una afirmacion."
+        },
+        {
+          "letter": "C",
+          "text": "boils",
+          "is_correct": true,
+          "feedback": "Correcto. Las verdades universales no retroceden, de modo que el verbo cientifico conserva el presente simple."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "is boiling",
           "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "feedback": "Incorrecto. El presente continuo tampoco corresponde a la idea de una verdad general permanente."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "explanation": "Hay un caso en que el tiempo verbal no cambia: las verdades universales. Frases como 'water boils at 100 degrees' o 'the Earth goes around the Sun' suelen mantenerse en presente porque describen hechos que no cambian.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I will call you tomorrow.'",
+      "context": "Reported speech with time expressions, Carolina, grado 11, W17.",
       "options": [
         {
-          "letter": "D",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "He said that he will call me tomorrow.",
           "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "feedback": "Incorrecto. Ni el futuro ni la expresion temporal retroceden, de modo que la frase sigue demasiado directa."
         },
         {
           "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "text": "He said that he would call me the next day.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Will' se convierte en 'would', 'I' en 'he', 'you' en 'me' y 'tomorrow' en 'the next day'."
         },
         {
           "letter": "C",
-          "text": "journey",
+          "text": "He said that he called me the next day.",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "Incorrecto. El futuro 'will call' debe convertirse en 'would call' y no en pasado simple 'called'."
+        },
+        {
+          "letter": "D",
+          "text": "He told me that he would call the next day.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Told' requiere un objeto indirecto explicito, y ademas falta el 'me' del complemento del nombre."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "Las expresiones de tiempo Tambien retroceden cuando el discurso indirecto va en pasado. 'Now' pasa a 'then', 'tomorrow' a 'the next day', 'yesterday' a 'the day before' y 'tonight' a 'that night'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'She is studying for the exam.'",
+      "context": "Reported speech with present continuous, Bayamon, grado 11, W17.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "text": "He said that she is studying for the exam.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presente continuo debe retroceder a pasado continuo para mantener la coherencia temporal."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "He said that she studied for the exam.",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Incorrecto. El pasado simple corresponde a un presente simple original, no a un presente continuo."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "He said that she would study for the exam.",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "Incorrecto. 'Would study' corresponde a un futuro o a un condicional, no a un presente continuo."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "text": "He said that she was studying for the exam.",
+          "is_correct": true,
+          "feedback": "Correcto. El presente continuo se convierte en pasado continuo cuando el discurso indirecto va en pasado."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "El desplazamiento temporal es sistematico: presente continuo pasa a pasado continuo, presente simple a pasado simple y futuro a futuro con 'would'. La coherencia del tiempo entre la parte introductoria y el discurso indirecto es la clave para acertar.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I can swim very well.'",
+      "context": "Reported speech with modals, Arecibo, grado 11, W17.",
       "options": [
         {
-          "letter": "D",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "She said that she can swim very well.",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Incorrecto. 'Can' pertenece al discurso directo y no retrocede cuando el marco esta en pasado."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "would be able to swim very well",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "Incorrecto. 'Would be able to' expresa una capacidad futura hipotetica y no traduce la capacidad declarada en el discurso directo."
         },
         {
           "letter": "C",
-          "text": "tourist",
+          "text": "She said that she may swim very well.",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "Incorrecto. 'May' expresa permiso o posibilidad y no traduce la capacidad declarada con 'can'."
+        },
+        {
+          "letter": "D",
+          "text": "She said that she could swim very well.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Can' retrocede a 'could' en discurso indirecto y el pronombre se ajusta a 'she'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "Los verbos modales tambien retroceden: 'can' a 'could', 'will' a 'would', 'may' puede permanecer igual o pasar a 'might'. Lo que no cambia es la relacion entre el sentido original y el adaptado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Reported speech with say and tell, Humacao, grado 11, W17.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "My friend said me that she was moving to Ponce.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Say' no lleva objeto indirecto; si se quiere dar el destinatario se usa 'tell me'."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "letter": "B",
+          "text": "My friend told me that she was moving to Ponce.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Tell' exige un objeto indirecto explicito, y 'me' cumple esa funcion con 'that' introduciendo la oracion."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "My friend told that she was moving to Ponce.",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "Incorrecto. 'Tell' requiere el objeto indirecto, y sin el la frase es incompleta."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "My friend said me she moving to Ponce.",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "Incorrecto. Aparte del error de 'say me', falta el verbo principal 'was' y la estructura no es gramatical."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "La diferencia entre 'say' y 'tell' es un punto que se prueba con frecuencia. 'Say' no lleva objeto indirecto y 'tell' lo exige. Con 'that' el objeto indirecto es opcional en el registro formal, pero el enunciado lo da.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I will meet you here tomorrow.'",
+      "context": "Reported speech with location changes, Aguadilla, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "text": "She said that she would meet me there the next day.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Here' se convierte en 'there' porque el lugar de referencia cambia al del hablante que reporta."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "She said that she would meet me here the next day.",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "Incorrecto. Al cambiar de hablante, las palabras de lugar tambien deben ajustarse: 'here' pasa a 'there'."
+        },
+        {
+          "letter": "C",
+          "text": "She said that she would meet me there tomorrow.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Tomorrow' debe retroceder a 'the next day' porque el marco temporal ya es pasado."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "She said that she will meet me there the next day.",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "Incorrecto. 'Will' no retrocede y ademas aparece con una referencia temporal ya convertida al pasado."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Las palabras de lugar y de movimiento se ajustan segun la perspectiva del nuevo hablante. 'Here' se convierte en 'there', 'this' en 'that' y 'come' en 'go'. Ese ajuste es lo que hace que el discurso indirecto suene natural.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I had already finished the report before you arrived.'",
+      "context": "Reported speech with past perfect, Guayanilla, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
           "letter": "A",
-          "text": "shopping",
+          "text": "She said that she has already finished the report before I arrived.",
           "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "feedback": "Incorrecto. El pasado perfecto no retrocede a presente perfecto; se mantiene en su propio nivel temporal."
         },
         {
           "letter": "B",
-          "text": "hiking",
+          "text": "She said that she would have finished the report before I arrived.",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "Incorrecto. 'Would have' es condicional tipo tres y no corresponde a un discurso indirecto de un hecho pasado."
+        },
+        {
+          "letter": "C",
+          "text": "She said that she had already finished the report before I arrived.",
+          "is_correct": true,
+          "feedback": "Correcto. El pasado perfecto ya estaba en pasado y se mantiene; el pronombre 'you' se ajusta a 'I'."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "She said that she had already finish the report before I arrived.",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'finished' y no en la forma base 'finish'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "El pasado perfecto ya es un tiempo pasado, asi que no retrocede mas al pasar al discurso indirecto. Lo unico que se ajusta son los pronombres, las expresiones de tiempo y las palabras de lugar.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I have visited Ponce three times.'",
+      "context": "Reported speech with present perfect, Trujillo Alto, grado 11, W17.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "text": "She said that she has visited Ponce three times.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Has visited' es presente perfecto y no retrocede, de modo que el tiempo queda incoherente."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "She said that she would visit Ponce three times.",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Incorrecto. 'Would visit' expresa una accion futura hipotetica y no una experiencia pasada ya ocurrida."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "She said that she had visited Ponce three times.",
+          "is_correct": true,
+          "feedback": "Correcto. El presente perfecto retrocede a pasado perfecto cuando el discurso indirecto va en pasado simple."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "She said that she visited Ponce three times ago.",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "Incorrecto. 'Ago' fue introducido por el hablante que reporta y no estaba en la frase original."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "El presente perfecto retrocede a pasado perfecto. Esa es una de las conversiones mas utiles para memorizar, porque se repite con frecuencia en las noticias y en los informes oficiales.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When is 'that' optional in reported speech?",
+      "context": "Reported speech with that, Barceloneta, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
-        },
-        {
           "letter": "A",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "text": "In informal speech when reporting a statement, not a question or command.",
+          "is_correct": true,
+          "feedback": "Correcto. 'That' se omite con frecuencia al informar de una afirmacion en el registro coloquial."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Only when the reported speech is a question.",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "Incorrecto. En las preguntas el 'that' se convierte en un interrogativo y nunca se omite."
+        },
+        {
+          "letter": "C",
+          "text": "Whenever the main verb is in the present tense.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia o ausencia de 'that' depende del tipo de oracion que se informa, no de la conjugacion."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Never in any register of the language.",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "Incorrecto. 'That' es imprescindible en el registro formal y en los textos escritos Academicamente."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "'That' funciona como conector entre el verbo de habla y la oracion informada. Puede omitirse cuando se informa de una afirmacion y el registro es coloquial, pero es obligatorio en el registro escrito formal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which reporting verb fits best? 'She told me she had won a scholarship.'",
+      "context": "Reported speech with reporting verbs, Maunabo, grado 11, W17.",
       "options": [
         {
-          "letter": "B",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "letter": "A",
+          "text": "mumble",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Mumble' describe hablar de forma poco clara y no es apropiado para una noticia academica."
         },
         {
-          "letter": "A",
-          "text": "check-out",
+          "letter": "B",
+          "text": "complain",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "Incorrecto. 'Complain' implica malestar o dissatisfied y no corresponde a la comunicacion de una buena noticia."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "mister",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "Incorrecto. 'Mister' no es un verbo de habla y por eso no puede introducir discurso indirecto."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "text": "announce",
+          "is_correct": true,
+          "feedback": "Correcto. 'Announce' transmite una noticia formal y encaja con un logro academico como una beca."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "Los verbos de habla aportan el tono de la informacion. 'Announce', 'declare' y 'reveal' sugieren una noticia formal, mientras que 'admit', 'confess' y 'complain' indican una revelacion o una queja.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I am going to study medicine.'",
+      "context": "Reported speech with going to, Yauco, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "He said that he is going to study medicine.",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "Incorrecto. 'Going to' debe retroceder a pasado cuando el marco del discurso indirecto esta en 'said'."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "He said that he was going to study medicine.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Going to' se convierte en 'was going to' y el pronombre se ajusta a 'he'."
+        },
+        {
+          "letter": "C",
+          "text": "He said that he will go to study medicine.",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "Incorrecto. 'Going to' expresa una intencion planificada y no se sustituye por 'will' en el discurso indirecto."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "He said that he went to study medicine.",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "Incorrecto. El pasado simple 'went' corresponde a un presente simple original y no a una intencion futura."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Going to' expresa un plan o una intencion y se convierte en 'was going to' en discurso indirecto. Es un caso distinto de 'will', que expresa una decision mas espontanea y se convierte en 'would'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I used to live in Mayaguez.'",
+      "context": "Reported speech with used to, Cayey, grado 11, W17.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "She said that she would live in Mayaguez.",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "Incorrecto. 'Would live' expresa una hipotesis futura y no un estado que existio en el pasado."
         },
         {
           "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "text": "She said that she used to live in Mayaguez.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Used to' describe un estado pasado y permanece igual dentro del discurso indirecto."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "She said that she lives in Mayaguez.",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Incorrecto. El presente simple 'lives' contradice el sentido de 'used to', que ya no es verdad."
+        },
+        {
+          "letter": "D",
+          "text": "She said that she lived to Mayaguez.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Live' no lleva 'to' detras; la preposicion correcta con un lugar es 'in'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Used to' es una forma especial que ya situa la accion en el pasado, asi que no retrocede al pasarlo a discurso indirecto. Describe una costumbre o un estado que ya no se cumple.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -594,40 +594,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'We were waiting for the bus when it started to rain.'",
+      "context": "Reported speech with past continuous, San Sebastian, grado 11, W17.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "They said that they were waiting for the bus when it started raining.",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "Incorrecto. Es una variante aceptable con el gerundio simple, pero el enunciado pide el pasado continuo, que es la conversion estandar."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "They said that they waited for the bus when it started to rain.",
           "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "feedback": "Incorrecto. El pasado continuo debe mantenerse, ya que describe una accion que estaba en curso."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "They said that they would wait for the bus when it started to rain.",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "Incorrecto. 'Would wait' es condicional y no corresponde a una escena que ya estaba ocurrir en pasado."
+        },
+        {
+          "letter": "D",
+          "text": "They said that they were waiting for the bus when it started to rain.",
+          "is_correct": true,
+          "feedback": "Correcto. 'We' se cambia a 'they' y los dos verbos en pasado se mantienen en su tiempo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "Los verbos que ya estan en pasado no retroceden. Solo cambian los pronombres y las palabras de lugar. Los participios simples pueden alternarse con el gerundio en muchos verbos sin alterar el sentido.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -639,37 +639,37 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When can the tense NOT be shifted back?",
+      "context": "Reported speech with backshift not applied, Camuy, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "When the reported speech contains a modal verb.",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "Incorrecto. Los modales si retroceden en la mayoria de los casos, y solo permanecen iguales cuando su sentido no cambia con el tiempo."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "Only when the sentence is a question.",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "Incorrecto. Las preguntas cambian de estructura, pero la regla de no retroceder depende del tiempo del marco."
+        },
+        {
+          "letter": "C",
+          "text": "When the reporting verb is already in the present.",
+          "is_correct": true,
+          "feedback": "Correcto. Si el marco esta en presente, el discurso conserva el tiempo original del enunciado."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Only when the statement refers to the future.",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "Incorrecto. Las afirmaciones futuras sí retroceden, de 'will' a 'would', aunque la frase se formule en presente."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "El desplazamiento al pasado no es obligatorio cuando el marco ya esta en presente o cuando el contenido sigue siendo verdad. Los examenes suelen aceptar ambas formas si el sentido no cambia, pero la coherencia es siempre la opcion mas segura.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'The exam was very difficult.'",
+      "context": "Reported speech with the verb to be, Luquillo, grado 11, W17.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "She said that the exam had been very difficult.",
           "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
+          "feedback": "Correcto. El pasado simple retrocede a pasado perfecto cuando el discurso indirecto va en pasado."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "She said that the exam was very difficult.",
           "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "feedback": "Incorrecto. El pasado simple debe retroceder a pasado perfecto cuando el marco de 'said' ya esta en pasado."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "She said that the exam would be very difficult.",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "Incorrecto. 'Would be' es condicional y no corresponde a un hecho que ya ocurrio en el pasado."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "She said that the exam has been very difficult.",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "Incorrecto. 'Has been' es presente perfecto y contradice el hecho ya ocurrido que la persona estaba contando en pasado."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El pasado simple retrocede a pasado perfecto, de modo que 'was' pasa a 'had been'. Cuando la afirmacion sigue siendo cierta en el presente, el tiempo original puede conservarse sin que el sentido cambie.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -729,40 +729,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I will bring my sister, because she knows the place.'",
+      "context": "Reported speech with possessives, Toa Baja, grado 11, W17.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
+          "letter": "A",
+          "text": "He said that he would bring his sister because she knew the place.",
           "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "feedback": "Correcto. Los posesivos 'my' y 'my' se ajustan a 'his', y el futuro pasa a 'would'."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "He said that I would bring my sister because she knew the place.",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "Incorrecto. El pronombre sujeto de la frase original no se conserva, porque pasa a referido al hablante que reporta."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "He said that he would bring her sister because she knew the place.",
           "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "feedback": "Incorrecto. El posesivo debe ser 'his', porque el referente es el hermano que hablo, y no 'her'."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "He said that he would bring my sister because she knew the place.",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "Incorrecto. El posesivo 'my' solo es valido si la frase sigue siendo narrada desde la perspectiva del hablante original."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Los posesivos se ajustan igual que los pronombres: 'my' pasa a 'your', 'his' o 'her' segun quien tome el relevo del relato. Ese cambio es uno de los que mas se olvidan al resumir una conversacion.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -774,40 +774,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Why does the tense of reported speech shift back to the past?",
+      "context": "Reported speech in short answers, Naguabo, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "She said that she have lost her notebook.",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "Incorrecto. 'Have' es presente y no concuerda con el marco de discurso indirecto en pasado."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "She said that she had lose her notebook.",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "Incorrecto. Detras de 'had' el verbo va en participio 'lost' y no en la forma base 'lose'."
+        },
+        {
+          "letter": "C",
+          "text": "She said she had lose her notebook.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque omitir 'that' es posible en el habla, el participio sigue siendo obligatorio en este caso."
         },
         {
           "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "text": "She said that she had lost her notebook.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had lost' es pasado perfecto y reproduce correctamente el pasado simple original 'lost'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "El discurso indirecto exige un participio pasado detras de 'had' o 'have'. Olvidar esa terminacion es un error muy frecuente entre estudiantes que dominan la regla del pasado simple pero no la del participio irregular.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -819,40 +819,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'I don't know where the library is.'",
+      "context": "Reported speech with the verb to know, Hatillo, grado 11, W17.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
+          "letter": "A",
+          "text": "He said that he doesn't know where the library is.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni la negacion ni el verbo principal retroceden, y la frase permanece demasiado directa."
         },
         {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
+          "letter": "B",
+          "text": "He said that he didn't know where the library was.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Don't' pasa a 'didn't', el verbo principal retrocede a pasado y 'is' pasa a 'was'."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "He said that he didn't knew where the library was.",
           "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
+          "feedback": "Incorrecto. Detras de 'didn't' el verbo vuelve a la forma base 'know' y no al pasado 'knew'."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "He said that where the library was, he didn't know.",
           "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
+          "feedback": "Incorrecto. La clausula interrogativa indirecta no puede ocupar el lugar de la oracion principal del discurso indirecto."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "En una clausula indirecta interrogativa el orden ya no es de pregunta: no hay inversion de sujeto ni auxiliar. La estructura es 'he said that he didn't know where...' con el verbo en su forma normal dentro de la subordinada.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Report the sentence: 'We can meet here this afternoon.'",
+      "context": "Reported speech with adverbs of place and time, Yabucoa, grado 11, W17.",
       "options": [
         {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
+          "text": "She said that they could meet here this afternoon.",
           "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "Incorrecto. Las palabras de lugar y tiempo deben ajustarse porque la perspectiva del relato es ahora la de ella."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "She said that they can meet there that afternoon.",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Incorrecto. 'Can' no retrocede a 'could' cuando el marco de la oracion esta en pasado."
+        },
+        {
+          "letter": "C",
+          "text": "She said that they could meet there that afternoon.",
+          "is_correct": true,
+          "feedback": "Correcto. 'Can' pasa a 'could', 'we' a 'they', 'here' a 'there' y 'this afternoon' a 'that afternoon'."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "She said that they could meet there that afternoon ago.",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "Incorrecto. 'Ago' pertenece al pasado distant y no puede acompanar a 'that afternoon'."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "explanation": "El ajuste de deicticos es esencial para que el relato sea coherente. Si quien informa esta en otro lugar, 'here' debe convertirse en 'there'; si el relato ocurre ese mismo dia, 'this afternoon' pasa a 'that afternoon'.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle",
       "periodo": 17,

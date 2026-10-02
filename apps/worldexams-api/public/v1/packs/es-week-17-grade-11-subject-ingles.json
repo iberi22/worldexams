@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which preposition correctly completes the sentence: \"The 8:15 train is leaving ____ the station.\"",
+      "context": "Look at the departure board at a busy railway station before a long trip.",
       "options": [
         {
-          "letter": "D",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "to",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
+          "feedback": "'to' marks a destination or an arrival, so the sentence would say the train is arriving somewhere, which is the opposite of what the board announces."
         },
         {
           "letter": "B",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
+          "text": "from",
+          "is_correct": true,
+          "feedback": "Correct! 'from' marks the point where a movement begins, and the station is where the train starts its journey."
         },
         {
           "letter": "C",
-          "text": "currency",
+          "text": "off",
           "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
+          "feedback": "'off' also marks a departure, but it is used with vehicles a person boards by hand, as in 'get off the bus', and not with a train leaving a station."
+        },
+        {
+          "letter": "D",
+          "text": "across",
+          "is_correct": false,
+          "feedback": "'across' describes crossing over a surface from one side to the other, as in 'walk across the road', so it does not fit a train and a station."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
+      "correct_answer": "B",
+      "explanation": "Prepositions of movement divide into two families: 'to', 'into' and 'onto' point at a destination, while 'from', 'out of', 'off' and 'away from' point at a starting point. 'from' is the standard preposition for the place a vehicle or person begins its journey, and it never carries the idea of crossing or boarding.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -54,40 +54,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We drove ____ the tunnel and then came out ____ the city near the hotel.\" Which pair of prepositions is correct?",
+      "context": "A visitor describes how she got from the airport to her hotel without a taxi.",
       "options": [
         {
-          "letter": "C",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
           "letter": "A",
-          "text": "baggage",
+          "text": "across / into",
           "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "'across / into' would mean the car crossed the tunnel and then entered the city as a whole, but 'into the city' does not describe leaving a tunnel."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "through / out of",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "Correct! 'through' marks movement inside a confined space from one side to the other, and 'out of' marks leaving a bounded place."
+        },
+        {
+          "letter": "C",
+          "text": "over / from",
+          "is_correct": false,
+          "feedback": "'over / from' would mean the car passed above the tunnel and then started from the city, which reverses the direction of both stages."
         },
         {
           "letter": "D",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
+          "text": "along / off",
+          "is_correct": true,
+          "feedback": "'along / off' would mean the car followed the length of the tunnel and then left the city, so the second half of the sentence does not fit."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "D",
+      "explanation": "'through' is used with enclosed spaces such as tunnels, forests and crowds, where the movement happens inside the space. 'out of' is the complement: it marks movement from inside a bounded place to the outside. Choosing them together is what makes the sentence describe a complete route.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -99,36 +99,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We climbed ____ the mountain for six hours and finally arrived ____ the top at noon.\" Which prepositions are correct?",
+      "context": "A hiker writes a short note about reaching the summit of a mountain in the Alps.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
+          "text": "into / at",
+          "is_correct": true,
+          "feedback": "'into / at' would say the climbers entered the mountain and then reached a time rather than a place, so the second preposition is wrong."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "to / on",
           "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "Correct! 'to' marks the destination of a movement, and 'arrive at' is the fixed collocation for reaching a specific point such as a summit."
+        },
+        {
+          "letter": "C",
+          "text": "over / in",
+          "is_correct": false,
+          "feedback": "'over / in' would describe passing above the mountain and then arriving inside a larger area, which is not what the note says."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "up / at",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "'up / at' is wrong because 'climb up the mountain' is not used in standard English; the correct collocation is 'climb to the top'."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "'arrive' takes 'at' for a small or precise place and 'in' for a city or a country. 'to' marks a destination reached, while 'into' means entering a bounded interior. Mixing 'up' with 'climb' is a common Spanish-speaker error because 'subir' already carries the idea of ascending.",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -144,40 +144,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We carried the box ____ the corridor, opened the door and took it ____ the empty classroom.\" Which prepositions are correct?",
+      "context": "Two students are discussing how to move a heavy box from one classroom to the one next door.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "text": "along / in",
+          "is_correct": false,
+          "feedback": "'along / in' would mean the box travelled the length of the corridor and then landed inside the classroom without the act of entering it."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "across / into",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "Correct! 'across' marks crossing a space from one side to the other, and 'into' marks the entry into an enclosed space."
         },
         {
           "letter": "C",
-          "text": "flight",
-          "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "text": "through / to",
+          "is_correct": true,
+          "feedback": "'through / to' would work only if the corridor were a bounded space to pass inside, and 'to' would not describe entering the room."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "over / at",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "'over / at' would describe passing above the corridor and then reaching a point, so the sentence loses the idea of entering the new room."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "'across' expresses a movement that crosses a surface or a space from side to side, while 'into' expresses entry into a closed space. The two prepositions therefore describe the two halves of the same action: crossing the corridor, then entering the room.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -189,40 +189,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"I ride ____ my street, turn left and go ____ the bridge every day.\" Which prepositions are correct?",
+      "context": "A cyclist describes a morning ride through the city from her house to the riverside park.",
       "options": [
         {
-          "letter": "B",
-          "text": "passenger",
+          "letter": "A",
+          "text": "on / across",
           "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
+          "feedback": "'on / across' would mean she rides the street as an object and then passes above the bridge, so the second choice does not fit the route."
         },
         {
-          "letter": "A",
-          "text": "pedestrian",
+          "letter": "B",
+          "text": "in / along",
           "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "feedback": "Correct! 'along' marks movement following the length or line of a path, and 'across' marks crossing a bridge from one bank to the other."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "by / over",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "'by / over' would mean the movement is done next to the street and above the bridge, which does not describe where a bicycle travels."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "from / to",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "'from / to' only states the starting point and the destination, so the sentence loses the shape of the path she follows."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "'along' is the preposition of linear routes: a road, a river, a coast, a line. 'across' is the preposition of crossing: a bridge, a square, a field. A route description is more precise when it combines them, because 'along the street' and 'across the bridge' describe different kinds of movement.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -234,40 +234,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We walked ____ the park and had to run ____ the rain all the way home.\" Which prepositions are correct?",
+      "context": "A teenager describes walking home from school with a friend while the rain begins to fall.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "over / under",
+          "is_correct": false,
+          "feedback": "'over / under' would mean they walked above the park and then sheltered beneath the rain, so neither half matches the described action."
         },
         {
-          "letter": "A",
-          "text": "security",
+          "letter": "B",
+          "text": "through / out of",
           "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "feedback": "Correct! 'through' marks movement inside a bounded space such as a park, and 'away from' marks movement in the direction opposite to something."
         },
         {
           "letter": "C",
-          "text": "terminal",
-          "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "text": "along / away from",
+          "is_correct": true,
+          "feedback": "'along / away from' would say they followed the length of the park, which is not what walking through a park means."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "across / from",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "'across / from' would say they crossed the park and then moved from the rain, whereas the text says they ran to escape the rain."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "'away from' describes movement that increases the distance from something, and it is the natural way to describe escaping a condition. 'through' describes an interior route. Notice that 'out of the rain' is also correct in English; 'away from the rain' is the version that emphasises distance rather than enclosure.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -279,36 +279,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The van drove ____ the industrial estate and turned ____ the roundabout to reach the warehouse.\" Which prepositions are correct?",
+      "context": "A delivery driver describes the last kilometres of a route with many roundabouts.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
+          "text": "in / at",
           "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "feedback": "'in / at' would mean the van drove inside the estate and then reached a time or a price at the roundabout, so the pair fails."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "on / in",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "Correct! 'through' marks passage inside a bounded area, and 'around' is the usual preposition for a circular movement such as a roundabout."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "through / at",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "'on / in' would say the van drove along a surface of the estate and then entered a roundabout, which is not the described action."
+        },
+        {
+          "letter": "D",
+          "text": "over / round",
+          "is_correct": true,
+          "feedback": "'over / round' would mean the van passed above the estate and circled the roundabout twice, so the first preposition is wrong."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
+      "explanation": "Roundabouts are described with 'around', 'round', 'over' or 'the first/second exit', because the movement is circular. By contrast, 'through' is for bounded areas and corridors. Choosing the right preposition in each half is what makes a route description intelligible to a listener.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,37 +324,37 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Normally we go ____ the tunnel, but this winter we have to drive ____ the mountain pass.\" Which prepositions are correct?",
+      "context": "A family explains how they reach their summer house when the mountain road is blocked by snow.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
+          "text": "through / over",
+          "is_correct": false,
+          "feedback": "'across / above' would say the tunnel was crossed on its surface and the pass was driven over, so the second preposition is not the usual collocation."
         },
         {
           "letter": "B",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
+          "text": "across / above",
+          "is_correct": true,
+          "feedback": "Correct! 'through' describes passage inside an enclosed space, and 'over' describes crossing a high point such as a mountain pass."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "along / over",
           "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
+          "feedback": "'along / over' would replace the tunnel by its length, but a tunnel is not followed lengthwise; the vehicle goes inside it."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "into / through",
           "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
+          "feedback": "'into / through' would say the family entered the tunnel and then came out through the pass, which reverses the meaning of both stages."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "'over' is the preposition of high points: mountains, passes, hills and walls. 'through' is the preposition of enclosed spaces: tunnels, buildings, forests. When a route offers two alternatives that contrast inside with height, the writer must switch between the two prepositions, not reuse one.",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,36 +369,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The ball went ____ the heads of the defenders and landed ____ the goal.\" Which prepositions are correct?",
+      "context": "A teenager describes a football match from the stands of a full stadium.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
+          "text": "over / in",
+          "is_correct": false,
+          "feedback": "'over / in' would say the ball passed above the defenders and then entered the goal, which is close, but 'into the goal' is the natural collocation for scoring."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "through / into",
           "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
+          "feedback": "Correct! 'through' marks passage between the bodies, and 'into' marks the entry into the goal mouth."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
+          "text": "across / at",
+          "is_correct": true,
+          "feedback": "'across / at' would suggest the ball travelled over the whole pitch and stopped at the goal line, losing the idea of entering the goal."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "under / on",
           "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
+          "feedback": "'under / on' would describe the ball passing below the defenders and landing on top of the goal, which is the opposite of what happened."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "'into' is the preposition of entry into a space, and it is the standard collocation in 'into the goal', 'into the net' and 'into the box'. 'through' marks passage between elements that block the path. Sports commentary depends on this contrast, because 'over' and 'into' describe very different plays.",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -414,40 +414,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We got ____ the square by a side street to avoid the crowds.\" Which preposition is correct?",
+      "context": "A tourist describes leaving a crowded square during a festival by taking a side street.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "out of",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "Correct! 'out of' marks the transition from inside a bounded space such as a square to the outside of it."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "away from",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "'away from' describes increasing distance, but it does not express the moment of leaving a place, which is what 'got' requires here."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "off from",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "'off from' is not a standard combination in English; 'off' alone would be used, as in 'get off the bus', but not before a place of this kind."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "away of",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "'away of' is not an English preposition at all; 'of' is used after nouns, never to introduce the second element of a phrasal preposition."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
+      "explanation": "'out of' is a phrasal preposition: the two words work as a unit and cannot be separated or replaced by a synonym. 'get out of' is the fixed expression for leaving an enclosed or crowded place, and it is not interchangeable with 'get away from', which only reports a change of distance.",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -459,40 +459,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"To avoid the steep slope, the path goes ____ the mountain and along the river valley.\" Which preposition is correct?",
+      "context": "A hiker plans a route that avoids the steep part of the mountain.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "text": "around",
+          "is_correct": false,
+          "feedback": "Correct! 'around' describes a movement that curves round the outside of a place instead of crossing it."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "through",
           "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "feedback": "'through' would mean the path passes inside the mountain, which is impossible for a walking route."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "above",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "'above' is an adverb here rather than a preposition of route, and it would leave the sentence without a second element."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "text": "over",
+          "is_correct": true,
+          "feedback": "'over' would mean the path crosses the top of the mountain, which is exactly the steep part the hiker wants to avoid."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "'around', 'round' and 'about' mark a movement that skirts a place; 'over' marks a crossing at height; 'through' marks passage inside. Choosing 'around' here expresses a detour, which is the whole point of the sentence, and it contrasts with the 'over' reading the hiker rejected.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -504,40 +504,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The workers moved the boxes ____ the shelves and then carried them ____ the loading bay.\" Which prepositions are correct?",
+      "context": "A shop assistant describes how a delivery van is moving goods inside a warehouse.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "between / to",
+          "is_correct": false,
+          "feedback": "'between / to' would say the boxes were moved between the shelves, which is possible, but 'to the loading bay' only names a destination and loses the act of entering it."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "text": "among / into",
+          "is_correct": true,
+          "feedback": "Correct! 'among' marks a position within a group of more than two, and 'into' marks entry into a bounded area."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "in / through",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "'in / through' would describe the boxes being inside the shelves and passing through the loading bay, so the second preposition is wrong."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "from / out of",
           "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
+          "feedback": "'from / out of' would mean the boxes left the shelves and then left the loading bay, which is the opposite of the delivery described."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'between' normally takes two elements, as in 'between the shelves and the wall', while 'among' takes a group of three or more, as in 'among the boxes'. 'into' marks entry into a space, so 'carry something into the loading bay' describes the delivery, not the departure.",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -549,36 +549,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Try not to put your full weight ____ your injured leg, and keep the crutches ____ your side.\" Which prepositions are correct?",
+      "context": "A nurse explains to an elderly patient how to move safely after an operation.",
       "options": [
         {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
           "letter": "A",
-          "text": "coin",
+          "text": "on / on",
           "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
+          "feedback": "Correct! Both phrases use 'on': weight is placed on a limb, and the crutches are held or kept on the opposite side of the body."
         },
         {
           "letter": "B",
-          "text": "banknote",
+          "text": "in / in",
           "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
+          "feedback": "'in' would mean the weight is inside the leg and the crutches are inside the patient's side, which is not how either is used."
         },
         {
           "letter": "C",
-          "text": "cash",
+          "text": "at / at",
           "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "'at' would describe a point of contact but not the distribution of body weight, so the medical instruction would be unclear."
+        },
+        {
+          "letter": "D",
+          "text": "by / by",
+          "is_correct": true,
+          "feedback": "'by' would mean the weight is measured next to the leg and the crutches are next to the side, which describes proximity rather than function."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
+      "explanation": "'on' is the general preposition of contact and support: weight rests on a surface, and an object is held on a side. Health-care instructions depend on it, because a wrong preposition here does not sound odd, it simply gives the patient the wrong physical instruction.",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,40 +594,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"Route A goes ____ the fjords and Route B goes ____ the coastal highway, so they are not interchangeable.\" Which prepositions are correct?",
+      "context": "A travel writer compares two routes offered by a tour company in northern Norway.",
       "options": [
         {
-          "letter": "B",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
+          "letter": "A",
+          "text": "through / along",
+          "is_correct": false,
+          "feedback": "Correct! 'through' describes passage inside the fjords, while 'along' describes following the length of a highway."
         },
         {
-          "letter": "A",
-          "text": "map",
+          "letter": "B",
+          "text": "across / over",
           "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
+          "feedback": "'across / over' would describe a crossing of the fjords and a passage over the highway, so neither matches the geography."
         },
         {
           "letter": "C",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
+          "text": "along / across",
+          "is_correct": true,
+          "feedback": "'along / across' reverses the meanings, so the fjords would be followed lengthwise and the highway crossed."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "over / through",
           "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
+          "feedback": "'over / through' would place the route above the fjords and inside the highway, which is the opposite of both landscapes."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "'through' and 'along' are both used for routes but describe different relations: 'through' is an interior passage, 'along' is a linear path beside or on top of a feature. 'over' adds the idea of height, which is why a route over a mountain is not a route through it.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -639,40 +639,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The plot shifts ____ three different time zones in a single chapter, which often leaves readers disoriented.\" Which preposition is correct?",
+      "context": "A writer explains why a certain paragraph of a novel is hard for some readers to follow.",
       "options": [
         {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "between",
           "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
+          "feedback": "'between' usually relates two elements, as in 'between the past and the present', so it is less natural with a list of three time zones."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "among",
+          "is_correct": true,
+          "feedback": "Correct! 'among' relates a larger set of elements, here the three time zones the narrative moves between."
+        },
+        {
+          "letter": "C",
+          "text": "over",
           "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
+          "feedback": "'over' would describe the plot passing above the zones, which is not a spatial relation that narrative structure can have."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "through",
           "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
+          "feedback": "'through' would mean the plot passes inside the zones, and while this can describe immersion, it does not convey the shifts between them."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'between' normally relates two items and 'among' relates three or more, so a list of three time zones takes 'among'. The distinction is one of number rather than meaning: both prepositions express an undirected relation, and only 'among' fits a group.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -684,40 +684,40 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"We moved ____ the rope, climbed ____ the wall and finally reached ____ the ridge before dark.\" Which prepositions are correct?",
+      "context": "A climber recounts the final metres of a route up a rock face at dusk.",
       "options": [
         {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
+          "text": "down / up / on",
+          "is_correct": true,
+          "feedback": "Correct! The three prepositions form a sequence: 'down the rope' for the descent, 'up the wall' for the ascent, and 'on the ridge' for the flat summit surface."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "away / over / to",
           "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
+          "feedback": "'away / over / to' would say the climbers moved away from the rope, passed above the wall and reached a point on the ridge, which loses the vertical logic."
+        },
+        {
+          "letter": "C",
+          "text": "off / along / at",
+          "is_correct": false,
+          "feedback": "'off / along / at' would describe leaving the rope, following the length of the wall and reaching a time or price, so the sentence collapses."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "back / past / under",
           "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
+          "feedback": "'back / past / under' would describe returning past the wall and reaching the space below the ridge, which is the opposite of the climb."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "A narrative of climbing uses a small set of prepositions with fixed spatial senses: 'up' and 'down' for vertical movement, 'along' and 'past' for a horizontal progression, and 'on' for a surface that is not vertical. Stacking them in order makes the ascent intelligible.",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
       "periodo": 17,
@@ -729,36 +729,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The conclusions do not follow ____ the data, even though the report moves ____ from evidence to interpretation.\" Which prepositions are correct?",
+      "context": "An editor reviews a report whose conclusions do not follow from the evidence presented.",
       "options": [
         {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
+          "letter": "A",
+          "text": "from / to",
+          "is_correct": false,
+          "feedback": "Correct! 'Conclusions follow from evidence' is the fixed English expression, and 'from X to Y' marks the transition the report performs."
         },
         {
-          "letter": "A",
-          "text": "expense",
+          "letter": "B",
+          "text": "off / on",
           "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
+          "feedback": "'off / on' would say the conclusions move off the data and rest on the interpretation, which reverses the logical direction."
         },
         {
           "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
+          "text": "out of / into",
+          "is_correct": true,
+          "feedback": "'out of / into' would describe physical entry and exit, so it does not express the logical link the editor is judging."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "with / by",
           "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
+          "feedback": "'with / by' would mean the conclusions travel with the data and are produced by the interpretation, which is vague rather than precise."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "Abstract relations take prepositions too: conclusions follow from evidence, a conclusion is based on a study, an argument leads to a decision. 'from X to Y' marks a transition in a process, and it is the natural choice when describing how a text moves from one stage to the next.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,81 +774,36 @@
     },
     {
       "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "\"The container is loaded ____ the ship, unloaded ____ the port and finally driven ____ the warehouse.\" Which prepositions are correct?",
+      "context": "A logistics manager explains how a container leaves a port and reaches a warehouse inland.",
       "options": [
         {
-          "letter": "D",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "on / at / to",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
+          "feedback": "Correct! The three prepositions match three different relations: cargo sits 'on' a ship, is handled 'at' a port and is transported 'to' a destination."
         },
         {
           "letter": "B",
-          "text": "guarantee",
+          "text": "in / by / from",
           "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
+          "feedback": "'in / by / from' would place the container inside the ship, have the port do the unloading and start the journey from the warehouse, which reverses the sequence."
         },
         {
           "letter": "C",
-          "text": "policy",
+          "text": "off / of / at",
           "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
+          "feedback": "'off / of / at' would suggest the container leaves the ship and comes from the port, losing the destination that the sentence needs."
+        },
+        {
+          "letter": "D",
+          "text": "over / for / with",
+          "is_correct": true,
+          "feedback": "'over / for / with' would describe the container passing above the ship, being loaded for the port and travelling with the warehouse, which is not a standard chain."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
-      "periodo": 17,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "es"
-    },
-    {
-      "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "B",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
+      "explanation": "Logistics vocabulary is built from a small set of prepositions: 'on' for the carrier, 'at' for the place of handling, 'to' for the destination, 'from' for the origin. A description of a supply chain is precise only when each stage is introduced by the preposition that matches its relation.",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -863,37 +818,82 @@
       "country": "es"
     },
     {
-      "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v19",
+      "statement": "\"The ball moves ____ the track and then leaves it ____ the rails, so the two prepositions describe different states.\" Which prepositions are correct?",
+      "context": "A physics teacher checks whether a student has understood the difference between two ways of describing motion.",
       "options": [
         {
-          "letter": "D",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
           "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "text": "on / from",
+          "is_correct": true,
+          "feedback": "'on / from' would say the ball moves on top of the track and then starts from the rails, but the second clause describes leaving, not starting."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "along / off",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "Correct! 'along' marks movement following the length of the track, and 'off' marks a departure from a surface."
         },
         {
           "letter": "C",
-          "text": "insomnia",
+          "text": "over / out",
           "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "feedback": "'over / out' would mean the ball passes above the track and then leaves a place, which is a less precise description of the same movement."
+        },
+        {
+          "letter": "D",
+          "text": "in / away",
+          "is_correct": false,
+          "feedback": "'in / away' would place the ball inside the track and describe a change of distance, so neither preposition matches a physical surface."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
+      "correct_answer": "A",
+      "explanation": "'along' describes a trajectory that follows a path, and 'off' describes the moment a body stops being supported by a surface: 'the ball rolled along the track and fell off it'. Because the two prepositions encode different geometric relations, substituting one for the other changes the physics being described.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.8,
+      "bundle_id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "es"
+    },
+    {
+      "id": "ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle-v20",
+      "statement": "\"Trade moved ____ the port and then outwards ____ the Atlantic, changing the town's economy completely.\" Which prepositions are correct?",
+      "context": "A historian reflects on how a coastal town's trade shifted over two centuries.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "away from / to",
+          "is_correct": false,
+          "feedback": "Correct! 'away from' marks the loss of a position, and 'outwards to' marks the direction of a new expansion, so the sentence describes two stages of the same change."
+        },
+        {
+          "letter": "B",
+          "text": "away of / in",
+          "is_correct": true,
+          "feedback": "'away of' is not an English combination; the second half of a phrasal preposition cannot be 'of'."
+        },
+        {
+          "letter": "C",
+          "text": "off from / towards to",
+          "is_correct": false,
+          "feedback": "'off from / towards to' contains two invalid forms, so the sentence would not be grammatical English."
+        },
+        {
+          "letter": "D",
+          "text": "out from / at",
+          "is_correct": false,
+          "feedback": "'out from' is a rare regional form used with 'from' rather than 'of', and 'at' would name a place rather than a direction."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Describing change of direction needs two different tools: phrasal prepositions such as 'away from' for the loss of a position, and 'to' or 'towards' for the new direction. The pair 'away from X to Y' is the standard frame for a relocation, and it is not interchangeable with 'out of'.",
       "difficulty": "10",
       "images": [],
       "tags": [],

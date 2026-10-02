@@ -8,132 +8,42 @@
   },
   "questions": [
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v1",
+      "statement": "The national exam begins ___ eight in the morning.",
+      "context": "The national exam begins at eight in the morning on a Monday.",
       "options": [
         {
-          "letter": "B",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "'accommodation' is the word for a place where you live or stay, including on holiday."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'transportation' means the way you travel, such as buses or planes, not where you stay."
-        },
-        {
-          "letter": "C",
-          "text": "entertainment",
-          "is_correct": false,
-          "feedback": "'entertainment' is the activity of enjoying shows, films or games, not a place to live."
-        },
-        {
-          "letter": "D",
-          "text": "currency",
-          "is_correct": false,
-          "feedback": "'currency' is the money of a country, such as the colon; a place to stay is not money."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "'itinerary' is a detailed plan of a journey, listing the route and the stops along the way."
-        },
-        {
-          "letter": "A",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "'baggage' is the suitcases and bags you travel with, not the plan of the trip."
+          "feedback": "No. 'in' is used with periods of time such as the morning, the afternoon or the year, not with a clock time."
         },
         {
           "letter": "B",
-          "text": "destination",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'destination' is only the place you are going to; the plan of the route is the itinerary."
+          "feedback": "No. 'on' is used with days and dates, so it cannot introduce an hour of the day in this sentence."
         },
         {
           "letter": "C",
-          "text": "passport",
-          "is_correct": false,
-          "feedback": "'passport' is the travel document you show at the border, not the plan of a journey."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "destination",
+          "text": "at",
           "is_correct": true,
-          "feedback": "'destination' names the place a person or thing is going or being sent to."
-        },
-        {
-          "letter": "A",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "'departure' is the action of leaving, not the place you leave for."
-        },
-        {
-          "letter": "B",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "'arrival' is the moment of reaching a place, not the place itself."
+          "feedback": "Correct! A clock time takes the preposition 'at', because the expression names a precise point within the day rather than a duration."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'journey' is the whole trip from one place to another, not the place at the end of it."
+          "feedback": "No. 'for' expresses a duration of time, and the sentence names a starting point rather than a length of time."
         }
       ],
       "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
+      "explanation": "English uses at for clock times, on for days and dates, in for months, seasons and parts of the day, and for durations. Deciding which one applies is a matter of what kind of time expression is being named.\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -143,42 +53,132 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v2",
+      "statement": "The children return to school ___ September after the summer holidays.",
+      "context": "The children return to school in September after the summer holidays.",
       "options": [
         {
-          "letter": "B",
-          "text": "luggage",
+          "letter": "A",
+          "text": "in",
           "is_correct": true,
-          "feedback": "'luggage' is the collective word for the suitcases and bags you pack for a trip."
+          "feedback": "Correct! Months, years, seasons and parts of the day all take the preposition 'in', which is the widest of the time prepositions."
         },
         {
-          "letter": "A",
-          "text": "ticket",
+          "letter": "B",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'ticket' is the document you buy that admits you to the journey."
+          "feedback": "No. 'at' is used with clock times and with specific points, not with a month of the calendar."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'flight' is the plane or the scheduled trip itself, not the bags you carry."
+          "feedback": "No. 'on' is used with days and dates, and September is a month rather than a day."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'reservation' is the booking you hold for a seat or a room."
+          "feedback": "No. 'since' marks a starting point that continues up to the present, and the sentence names a recurring event rather than that stretch of time."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
+      "correct_answer": "A",
+      "explanation": "The preposition in covers the largest category of time expressions, from months and years to parts of the day such as the morning. It contrasts with at for clock times and on for days and dates.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v3",
+      "statement": "The library is ___ the corner of the plaza.",
+      "context": "The library is on the corner of the plaza, next to the cathedral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' is used for enclosed space such as a room or a city, and a corner on a plaza is described with 'on'."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'at' is used for a precise point such as a single building or a meeting place, not for a surface position."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct! 'on' is the preposition for a surface or a line, and it is also used for a location within a street or a square."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "No. 'to' shows movement towards a place and cannot describe where a building stands."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Place prepositions divide the physical space differently: in for interiors, on for surfaces and lines, at for points. Corners, walls, floors and squares all take on, while rooms, cities and countries take in.\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v4",
+      "statement": "The conference will be held ___ the main auditorium of the university.",
+      "context": "The conference will be held at the main auditorium of the university.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' would place the event inside an enclosed or bounded area, but the sentence treats the auditorium as a single venue."
+        },
+        {
+          "letter": "B",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "No. 'on' describes a surface such as a wall or a street, and an auditorium is a location rather than a surface."
+        },
+        {
+          "letter": "C",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! 'At' is the preposition of a single point of location, which is how a venue such as an auditorium is named in English."
+        },
+        {
+          "letter": "D",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "No. 'to' shows the direction of a movement and has no use in a statement about where an event takes place."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "At is used when a place is treated as one point, typically a building or a venue. It is also the preposition of addresses, of public transport destinations and of events, which is why it appears with held, met and born.\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -188,42 +188,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v5",
+      "statement": "He has lived in the same neighbourhood ___ he was a child.",
+      "context": "He has lived in the same neighbourhood since he was a child.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "'passenger' is anyone travelling on a vehicle who is not the driver, the pilot or the crew."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
-          "is_correct": false,
-          "feedback": "'pedestrian' is a person who travels on foot, not on a bus, a train or a plane."
+          "text": "since",
+          "is_correct": true,
+          "feedback": "Correct! 'Since' marks the starting point of a situation that continues up to the present, which is the case with the present perfect here."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'commuter' is someone who travels regularly between home and work, a narrower idea than passenger."
+          "feedback": "No. 'for' expresses a length of time, and the sentence gives a starting point rather than a duration."
+        },
+        {
+          "letter": "C",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "No. 'during' is used with a defined period or event, and it does not mark a continuation up to the present moment."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "while",
           "is_correct": false,
-          "feedback": "'tourist' is defined by travelling for pleasure and may also be the driver of a rented car; 'passenger' covers every rider who is not crew."
+          "feedback": "No. 'while' introduces a subordinate time clause and needs a main clause, which the sentence does not provide."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "Since names a starting point and for names a duration, and the two are frequently confused. With a perfect tense such as has lived, since he was a child says when the situation began, while for ten years says how long it has lasted.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -233,42 +233,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v6",
+      "statement": "The repair work continued ___ three weeks.",
+      "context": "The repair work continued for three weeks during the wettest months of the year.",
       "options": [
         {
-          "letter": "B",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "'customs' is the office where officials check the goods, the luggage and the travellers entering a country."
+          "letter": "A",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "No. 'since' requires a starting point and marks a continuation to the present, while this sentence describes a completed period in the past."
         },
         {
-          "letter": "A",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "'security' refers to the staff and the measures that keep the airport safe, not to the goods check."
+          "letter": "B",
+          "text": "for",
+          "is_correct": true,
+          "feedback": "Correct! 'For' is followed by a length of time, so 'for three weeks' states how long the work lasted."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'terminal' is the building where you wait for and board your flight."
+          "feedback": "No. 'at' is the preposition of clock times and of precise points, not of durations."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'gate' is the door you board the plane through, not the place where officials check luggage."
+          "feedback": "No. 'in' is used with months, years and parts of the day, and 'three weeks' is a duration rather than one of those."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Durations are always introduced by for, whether the tense is perfect or not. The expression after for names a quantity of time such as three weeks, two hours or a long time, and never a calendar point.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -278,42 +278,177 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v7",
+      "statement": "The bus stop is ___ the hospital on the main avenue.",
+      "context": "The bus stop is opposite the hospital on the main avenue.",
       "options": [
         {
-          "letter": "D",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "'boarding pass' is the slip the airline hands over at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "'visa' is the official permission to enter and stay in a foreign country."
+          "text": "opposite",
+          "is_correct": true,
+          "feedback": "Correct! 'Opposite' is a preposition of relative position, and it describes the bus stop as facing the other side of the street from the hospital."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "to",
           "is_correct": false,
-          "feedback": "'receipt' is the proof of payment for the ticket, not the document that lets you board."
+          "feedback": "No. 'to' marks a direction of movement and would require a verb of motion, which the sentence does not contain."
         },
         {
           "letter": "C",
-          "text": "brochure",
+          "text": "between",
           "is_correct": false,
-          "feedback": "'brochure' is a small booklet with tourist information, not a travel document."
+          "feedback": "No. 'between' requires two elements with the bus stop in the middle, and only one building is named in the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "No. 'under' describes a position below something and does not fit the horizontal arrangement of two buildings on a street."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "English has a group of prepositions of relative position: opposite, behind, in front of, beside, between, above and below. They describe how one thing is placed with respect to another, and they need no verb of movement to work.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v8",
+      "statement": "The test will take place ___ the fifteenth of December.",
+      "context": "The test will take place on the fifteenth of December in the main hall.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' is used with months and years, but a day with its ordinal number takes 'on' in standard English."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'at' is the preposition of clock times and of a single point, and a full date is expressed differently."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": true,
+          "feedback": "Correct! Days and dates take the preposition 'on', including the fifteenth of December, which is a day of the month."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "No. 'by' marks a deadline or an agent, and the sentence states when the test happens rather than how late it may be."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The rule for dates is that on goes with a day and in goes with the rest of the date. When the day is spelled out, as in the fifteenth of December, the whole expression is treated as a day and takes on.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v9",
+      "statement": "She arrived ___ the airport two hours before her flight to Madrid.",
+      "context": "She arrived at the airport two hours before her flight to Madrid.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' would place her inside a country or a room, and the sentence treats the airport as one arrival point."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! 'At' is the preposition for a single point of destination such as an airport, a station or a venue."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "No. 'on' describes a surface, and an airport is a location rather than a surface where something rests."
+        },
+        {
+          "letter": "D",
+          "text": "into",
+          "is_correct": false,
+          "feedback": "No. 'into' marks movement from outside to inside, which is not the simple arrival described in the sentence."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A place that is regarded as one point takes at: at the airport, at the station, at school and at home. This is different from in, which is used when the destination is an area such as a city or a region.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v10",
+      "statement": "The instruments are kept ___ a cabinet near the entrance of the laboratory.",
+      "context": "The instruments are kept in a cabinet near the entrance of the laboratory.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "No. 'on' would place them on the surface of the cabinet, while the sentence says they are stored inside a container."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'at' is used for a single point, and a cabinet is a bounded interior rather than a single spot."
+        },
+        {
+          "letter": "C",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "No. 'under' would place them below the cabinet, which is not what the sentence describes."
+        },
+        {
+          "letter": "D",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! 'In' marks an enclosed interior, and a cabinet is the kind of container that requires the preposition 'in'."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "explanation": "In is the preposition of interiors and containers, and it also covers cities, regions and periods of time. The choice between in and on is really a question of whether the reference point is a boundary or a surface.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -323,132 +458,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "'sightseeing' is visiting the places of interest of a location in order to look at them."
-        },
-        {
-          "letter": "A",
-          "text": "shopping",
-          "is_correct": false,
-          "feedback": "'shopping' is buying things, which is a different activity from visiting sights."
-        },
-        {
-          "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "'hiking' is walking in the countryside along a trail, usually for exercise."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "'camping' means spending the night outdoors in a tent."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "'souvenir' is an object kept because it reminds you of a person, a place or an event."
-        },
-        {
-          "letter": "A",
-          "text": "gift",
-          "is_correct": false,
-          "feedback": "'gift' is anything given to someone else; a souvenir is kept by the buyer as a reminder."
-        },
-        {
-          "letter": "B",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "'award' is a distinction given for a merit or an achievement."
-        },
-        {
-          "letter": "D",
-          "text": "prize",
-          "is_correct": false,
-          "feedback": "'prize' is what is won in a competition, not an object bought to remember a trip."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v11",
+      "statement": "The pupils must be ___ school before eight every morning this term.",
+      "context": "The pupils must be at school before eight every morning this term.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "at",
           "is_correct": true,
-          "feedback": "'delay' is the extra period of time by which something becomes late or is postponed."
+          "feedback": "Correct! The fixed expression 'at school' treats the institution as one point of location, and it is the standard form in this context."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "in",
           "is_correct": false,
-          "feedback": "'cancellation' ends the booking or the trip altogether rather than pushing it back."
+          "feedback": "No. 'in school' would suggest being inside a building for some purpose, and the sentence refers to being present at the place of study as such."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "to",
           "is_correct": false,
-          "feedback": "'departure' is the time a vehicle is scheduled to leave, not a postponement."
+          "feedback": "No. 'to' marks a direction of movement and would need a verb such as go, which the sentence does not use."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "on",
           "is_correct": false,
-          "feedback": "'arrival' is the moment you reach the destination, not the waiting time."
+          "feedback": "No. 'on' describes a surface and has no fixed use with school as a place of study."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Several places have a fixed preposition in English: at school, at home, at work, in prison and in hospital. These expressions describe the activity or condition rather than the geometry of the location.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -458,42 +503,312 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v12",
+      "statement": "The examination will last ___ two hours.",
+      "context": "The examination will last two hours and it cannot be extended.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "'check-in' is reporting your presence at the airport or the hotel and registering."
+          "text": "since",
+          "is_correct": false,
+          "feedback": "No. 'since' marks a starting point in a continuing situation, and a scheduled length of time is expressed with 'for'."
         },
         {
           "letter": "B",
-          "text": "check-out",
-          "is_correct": false,
-          "feedback": "'check-out' is the opposite moment: leaving the hotel and settling the bill."
+          "text": "for",
+          "is_correct": true,
+          "feedback": "Correct! 'For' introduces the duration of an event, and two hours is exactly the kind of length of time it can follow."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "during",
           "is_correct": false,
-          "feedback": "'booking' is reserving the room or the seat in advance, which happens before you arrive."
+          "feedback": "No. 'during' is used with a defined period or event and does not introduce a bare duration such as 'two hours'."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "while",
           "is_correct": false,
-          "feedback": "'reservation' is the record of that booking, not the act of reporting your presence."
+          "feedback": "No. 'while' introduces a time clause and needs a main clause, so it cannot stand in the slot of this preposition here."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "For introduces durations in both perfect and non-perfect contexts, and it is the only preposition that can be followed directly by a phrase such as two hours or a long time. Since, by contrast, always needs a starting point.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v13",
+      "statement": "The market on Plaza Grande opens every Saturday ___ the early morning.",
+      "context": "The market on Plaza Grande opens every Saturday in the early morning.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'at' is used with a clock time, and 'the early morning' names a period of the day rather than an hour."
+        },
+        {
+          "letter": "B",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! Parts of the day such as the morning, the afternoon and the evening take the preposition 'in'."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "No. 'on' belongs to the day itself, which is already expressed by 'every Saturday' in the same sentence."
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "No. 'for' would require a duration, and the sentence names a part of the day rather than a length of time."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Parts of the day are treated as containers of time and take in: in the morning, in the afternoon, in the evening. The exceptions are the fixed phrases at night and at noon, which are so established that they are treated as single points.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v14",
+      "statement": "The bell rings ___ the end of each lesson.",
+      "context": "The bell rings at the end of each lesson and the pupils go out into the corridor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "during",
+          "is_correct": false,
+          "feedback": "No. 'during' is followed by a noun naming a period or event, and here the phrase is itself a point rather than the surrounding period."
+        },
+        {
+          "letter": "B",
+          "text": "within",
+          "is_correct": false,
+          "feedback": "No. 'within' marks a limit that something stays inside, and the sentence names a moment rather than a boundary."
+        },
+        {
+          "letter": "C",
+          "text": "since",
+          "is_correct": false,
+          "feedback": "No. 'since' marks the start of a situation that continues to the present, which has no role in a daily timetable."
+        },
+        {
+          "letter": "D",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! 'At' is the preposition of a point in time, and the end of a lesson is such a point rather than a duration."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Expressions that name a moment, such as the end, the start, noon and midnight, take at. This is a small but very consistent family, and it is the reason a sentence about the end of a lesson never uses in.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v15",
+      "statement": "The bridge ___ the river was closed for repairs during the whole of August.",
+      "context": "The bridge over the river was closed for repairs during the whole of August.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' would place the bridge inside a space such as a room, but the sentence describes a crossing above a river."
+        },
+        {
+          "letter": "B",
+          "text": "under",
+          "is_correct": false,
+          "feedback": "No. 'under' would place the bridge below the river, which is the opposite of what a bridge does."
+        },
+        {
+          "letter": "C",
+          "text": "over",
+          "is_correct": true,
+          "feedback": "Correct! 'Over' expresses a position above something and at the same time the crossing relationship that defines a bridge."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": false,
+          "feedback": "No. 'between' requires two named elements on either side, and the sentence names only the river."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Over, under, above and below describe vertical position, and they are used constantly with bridges, roads and other structures that cross a space. In this sentence over also carries the idea of extending across.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v16",
+      "statement": "The students will receive their certificates ___ the end of the academic year.",
+      "context": "The students will receive their certificates at the end of the academic year.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": false,
+          "feedback": "No. 'in' can be used with the year but not normally with a point such as the end of a period, which is named with 'at'."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": true,
+          "feedback": "Correct! A point in time, such as the end of a period or a named moment, takes the preposition 'at'."
+        },
+        {
+          "letter": "C",
+          "text": "to",
+          "is_correct": false,
+          "feedback": "No. 'to' can follow an end to indicate a range, but here it would need a second time expression to close the interval."
+        },
+        {
+          "letter": "D",
+          "text": "by",
+          "is_correct": false,
+          "feedback": "No. 'by' marks a deadline no later than the moment mentioned, and the sentence names an exact point rather than a limit."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "At covers both clock times and abstract points in a period, which is why at the end, at the beginning and at noon all behave in the same way. End expressions are a small but very reliable family in the use of at.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v17",
+      "statement": "The old theatre stands ___ the cathedral and the government palace.",
+      "context": "The old theatre stands between the cathedral and the government palace.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "among",
+          "is_correct": false,
+          "feedback": "No. 'among' refers to a group of more than two items, and the sentence places the theatre between exactly two buildings."
+        },
+        {
+          "letter": "B",
+          "text": "behind",
+          "is_correct": false,
+          "feedback": "No. 'behind' would place the theatre at the back of one of the buildings, which the sentence does not claim."
+        },
+        {
+          "letter": "C",
+          "text": "beside",
+          "is_correct": false,
+          "feedback": "No. 'Beside' means next to a single element, and the sentence gives two elements with the theatre in the middle."
+        },
+        {
+          "letter": "D",
+          "text": "between",
+          "is_correct": true,
+          "feedback": "Correct! 'Between' takes exactly two elements and places the subject in the middle of them, which is the arrangement described."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Between names a position in the middle of two elements, while among names a position inside a group of three or more. Both are prepositions of relative position and work without a verb of movement.\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.85,
+      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v18",
+      "statement": "The reading list for the term includes three novels written ___ the twentieth century.",
+      "context": "The reading list for the term includes three novels written in the twentieth century.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in",
+          "is_correct": true,
+          "feedback": "Correct! Centuries, decades and long historical periods take the preposition 'in', like months and years."
+        },
+        {
+          "letter": "B",
+          "text": "at",
+          "is_correct": false,
+          "feedback": "No. 'at' is the preposition of a precise point in time, and a century is a span of years rather than a point."
+        },
+        {
+          "letter": "C",
+          "text": "on",
+          "is_correct": false,
+          "feedback": "No. 'on' is used with days and dates, and the century here functions more like a year or a season."
+        },
+        {
+          "letter": "D",
+          "text": "for",
+          "is_correct": false,
+          "feedback": "No. 'for' would require a duration to measure, and the century is used as the period in which the novels were written."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "Long periods of time, from decades to eras, behave like years and take in. The difference between these and clock times is one of span, and English signals it through the choice of preposition.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -503,267 +818,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v19",
+      "statement": "The new stadium is next ___ the old railway station on the north side of the city.",
+      "context": "The new stadium is next to the old railway station on the north side of the city.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "'layover' is the rest or the waiting period between two stages of a journey."
+          "text": "of",
+          "is_correct": false,
+          "feedback": "No. 'of' expresses belonging or origin and cannot describe a position next to another building."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "for",
           "is_correct": false,
-          "feedback": "'stopover' is a break in a journey during which you leave the vehicle, often overnight."
+          "feedback": "No. 'for' marks a purpose or a destination and has no spatial use in a statement about position."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'transfer' is the change from one vehicle or flight to another, the act rather than the waiting time."
+          "feedback": "No. 'since' is a preposition of time and cannot describe the spatial relation between two buildings."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "'transit' means passage through a place or the system that carries people, not the pause itself."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "currency",
+          "text": "to",
           "is_correct": true,
-          "feedback": "'currency' is the whole money system in general use in a particular country."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "'coin' is a single round piece of metal money, only one part of a currency."
-        },
-        {
-          "letter": "B",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "'banknote' is a paper note, again only one part of a country's money system."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "'cash' is money in coins and notes seen as a form of payment, not the system a country has."
+          "feedback": "Correct! 'Next to' is the standard expression for adjacency, and 'to' is the preposition that carries that meaning of nearness."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "'guidebook' is a book of information about a place written for the use of visitors."
-        },
-        {
-          "letter": "A",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "'map' is a drawing of the area, not a book of information."
-        },
-        {
-          "letter": "B",
-          "text": "dictionary",
-          "is_correct": false,
-          "feedback": "'dictionary' explains the words of a language, not the places of a region."
-        },
-        {
-          "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "'encyclopedia' covers all branches of knowledge, not one destination for tourists."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "'backpack' has shoulder straps and is carried on the back."
-        },
-        {
-          "letter": "A",
-          "text": "suitcase",
-          "is_correct": false,
-          "feedback": "'suitcase' is a case with a handle that is pulled along, not one worn on the back."
-        },
-        {
-          "letter": "B",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "'briefcase' is a flat case for documents that you carry by hand at work."
-        },
-        {
-          "letter": "D",
-          "text": "handbag",
-          "is_correct": false,
-          "feedback": "'handbag' is a small bag held in the hand, usually for personal items."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "'overseas' means in or to a foreign country, especially one across the sea."
-        },
-        {
-          "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "'domestic' means inside the same country, which is the opposite of overseas."
-        },
-        {
-          "letter": "B",
-          "text": "local",
-          "is_correct": false,
-          "feedback": "'local' means belonging to a small area nearby, not to a foreign country."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "'national' means concerning the whole nation and says nothing about being abroad."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "'budget' is an estimate of income and expenditure planned for a set period."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "'expense' is a single amount of money that is spent, not the plan for a whole period."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "'cost' is what one item or one service costs, again not an estimate for a period."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "'price' is the sum a customer pays for one product; a budget covers income and spending together."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "correct_answer": "D",
+      "explanation": "Words such as next, close, near and opposite all take the preposition to. They describe distance between two points, and English expresses the relation with a preposition rather than with a comparative adjective in these fixed collocations.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",
@@ -773,132 +863,42 @@
       "country": "ec"
     },
     {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle-v20",
+      "statement": "The seminar will not begin ___ the dean arrives at the faculty building.",
+      "context": "The seminar will not begin until the dean arrives at the faculty building.",
       "options": [
         {
-          "letter": "B",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "'insurance' is the arrangement in which a company pays compensation for a loss in exchange for a premium."
-        },
-        {
           "letter": "A",
-          "text": "warranty",
+          "text": "as",
           "is_correct": false,
-          "feedback": "'warranty' is the maker's promise to repair or replace a faulty product, normally free of charge."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "'guarantee' is a general promise of quality and does not involve paying a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "'policy' is the written document that states what an insurance contract covers."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "'vaccination' is the treatment with a vaccine that makes the body immune to a disease."
-        },
-        {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "'medication' is a drug taken to treat an illness, not to prevent one."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "'prescription' is the written order that authorises a medicine, not the treatment itself."
-        },
-        {
-          "letter": "D",
-          "text": "infection",
-          "is_correct": false,
-          "feedback": "'infection' is the disease itself, the opposite of the protection a vaccination gives."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
-      "periodo": 27,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "'jet lag' is the tiredness and the disturbed sleep caused by crossing several time zones on a flight."
-        },
-        {
-          "letter": "A",
-          "text": "fatigue",
-          "is_correct": false,
-          "feedback": "'fatigue' is tiredness that can come from any long effort, not specifically from a flight."
+          "feedback": "No. 'as' introduces a comparison of two actions happening at the same time, and the sentence states a delay rather than a coincidence."
         },
         {
           "letter": "B",
-          "text": "exhaustion",
+          "text": "since",
           "is_correct": false,
-          "feedback": "'exhaustion' is the extreme form of tiredness after hard work or a lack of sleep."
+          "feedback": "No. 'since' marks the beginning of a situation that continues to the present, and no such continuing situation appears in the sentence."
+        },
+        {
+          "letter": "C",
+          "text": "while",
+          "is_correct": false,
+          "feedback": "No. 'while' introduces a time clause and needs a main clause, whereas 'until' is followed by a complete clause on its own."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "'insomnia' is the inability to fall asleep, which has many causes besides travel."
+          "text": "until",
+          "is_correct": true,
+          "feedback": "Correct! 'Until' marks the point at which a negative or limiting clause stops being in effect, which is the sense of 'not begin until' here."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Until marks an end point, so it is common with not, no longer and hardly, all of which place an action before a limit. Since marks a starting point instead, and the two words answer different questions about time.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.85,
       "bundle_id": "EC-ING-11-2026-W27-prepositions-time-place-001-MASTERY-bundle",
       "periodo": 27,
       "protocol_version": "5.2",

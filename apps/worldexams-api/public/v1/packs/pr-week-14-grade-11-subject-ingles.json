@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the second conditional correctly?",
+      "context": "Conditionals type 2, San Juan, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "accommodation",
-          "is_correct": true,
-          "feedback": "Correct! 'Accommodation' is the word for a place where you live or stay temporarily while you are away from home."
-        },
-        {
           "letter": "A",
-          "text": "transportation",
-          "is_correct": false,
-          "feedback": "Wrong. 'Transportation' names the way you travel, such as buses, trains or planes, not the place where you stay."
+          "text": "If I lived closer to San Juan, I would walk to school every day.",
+          "is_correct": true,
+          "feedback": "Correcto. El tipo dos expresa una hipotesis presente e irreal: pasado simple mas 'would' mas infinitivo."
         },
         {
           "letter": "B",
-          "text": "entertainment",
+          "text": "If I will live closer to San Juan, I would walk to school every day.",
           "is_correct": false,
-          "feedback": "Wrong. 'Entertainment' is the activity of enjoying shows, films or games, not a place where you sleep."
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will'; en el tipo dos va en pasado simple."
+        },
+        {
+          "letter": "C",
+          "text": "If I had lived closer to San Juan, I would walk to school every day.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Had lived' corresponde al condicional tipo tres, que se refiere al pasado en lugar del presente."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "If I live closer to San Juan, I would walk to school every day.",
           "is_correct": false,
-          "feedback": "Wrong. 'Currency' is the money used in a country, which has nothing to do with lodging."
+          "feedback": "Incorrecto. El presente simple en la clausula de 'if' corresponde al tipo uno, no a una hipotesis presente del tipo dos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "El condicional tipo dos habla del presente con una condicion irreal. Su estructura es pasado simple en la clausula de 'if' y 'would' mas infinitivo en la principal, y casi siempre se usa con 'were' en lugar de 'was' con los sujetos de primera y tercera persona.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If I ____ (be) taller, I would play basketball professionally.'",
+      "context": "Conditionals type 2 with were, Ponce, grado 11, W14.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! An 'itinerary' is the planned route of a journey together with the places and times along the way."
+          "text": "was",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Was' es posible en lenguaje coloquial, pero en el condicional tipo dos la forma formal y esperada es 'were'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Wrong. 'Baggage' is the suitcases and bags themselves, not the plan of the trip."
+          "feedback": "Incorrecto. 'Am' es presente y no corresponde a la hipotesis irreal que plantea el tipo dos."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Wrong. A 'destination' is only the place where the journey ends, while an itinerary lists the whole route."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correcto. En el condicional tipo dos el verbo 'to be' toma la forma 'were' con cualquier sujeto, incluso con 'I'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Wrong. A 'passport' is the travel document that proves who you are, not the plan of the journey."
+          "feedback": "Incorrecto. 'Will be' pertenece a un futuro y no a la hipotesis presente del condicional tipo dos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\n---",
+      "correct_answer": "C",
+      "explanation": "El uso de 'were' en lugar de 'was' en el condicional tipo dos es un rasgo distintivo de la lengua escrita formal. Se aplica con 'I', 'he', 'she' e 'it', aunque en el habla cotidiana se usa 'was' con la misma frecuencia.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If she ____ (study) harder last year, she would have passed the exam.'",
+      "context": "Conditionals type 3, Carolina, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! A 'destination' is the place someone or something is going to or being sent to."
-        },
-        {
           "letter": "A",
-          "text": "departure",
+          "text": "studied",
           "is_correct": false,
-          "feedback": "Wrong. A 'departure' is the act of leaving and the place you leave from, the opposite end of the trip."
+          "feedback": "Incorrecto. 'Studied' es pasado simple simple y corresponderia al tipo dos, no a una hipotesis pasada."
         },
         {
           "letter": "B",
-          "text": "arrival",
+          "text": "had studied",
+          "is_correct": true,
+          "feedback": "Correcto. El tipo tres expresa una hipotesis pasada: 'had' mas participio en la clausula de 'if'."
+        },
+        {
+          "letter": "C",
+          "text": "has studied",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the event of getting there, not the place that is being travelled to."
+          "feedback": "Incorrecto. 'Has' es presente perfecto y no corresponde a una accion pasada que se cumplio."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "would study",
           "is_correct": false,
-          "feedback": "Wrong. A 'journey' is the whole trip from start to finish, not the place at the end of it."
+          "feedback": "Incorrecto. 'Would study' es el resultado de un condicional y no la condicion; la colocacion seria incorrecta."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "El condicional tipo tres se refiere a acciones pasadas que no ocurrieron. Su estructura es 'had' mas participio en la clausula de 'if' y 'would have' mas participio en la principal, y sirve para expresar disputas y reproches sobre decisiones pasadas.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If we ____ (have) more free time, we would travel more often.'",
+      "context": "Conditionals type 2 with the verb to have, Bayamon, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'Luggage' is the collective word for the suitcases and bags you pack your belongings in."
-        },
-        {
           "letter": "A",
-          "text": "ticket",
+          "text": "have",
           "is_correct": false,
-          "feedback": "Wrong. A 'ticket' is the document that pays for and authorises a journey, not the bag you pack."
+          "feedback": "Incorrecto. 'Have' es presente y pertenece al condicional tipo uno, que expresa una condicion real y posible."
         },
         {
           "letter": "B",
-          "text": "flight",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "Wrong. A 'flight' is the journey by plane itself, not the bags carried on it."
+          "feedback": "Incorrecto. 'Will have' es futuro y no corresponde a la hipotesis irreal del tipo dos."
+        },
+        {
+          "letter": "C",
+          "text": "would have",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would have' es el resultado del condicional tipo tres y va en la principal, no en la de 'if'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Wrong. A 'reservation' is the booking you make for a seat or a room, not the baggage itself."
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had' es el pasado de 'to have' y corresponde a la hipotesis presente del condicional tipo dos."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "En el condicional tipo dos el pasado simple se usa con cualquier verbo, y en 'to have' ese pasado es 'had'. La confusion aparece porque 'had' tambien figura en el tipo tres, pero alli siempre va seguido de un participio.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If I ____ (know) the answer, I would have told you yesterday.'",
+      "context": "Conditionals type 3 in regrets, Arecibo, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! A 'passenger' is anyone travelling in a vehicle who is not the one driving or piloting it."
-        },
-        {
           "letter": "A",
-          "text": "pedestrian",
+          "text": "knew",
           "is_correct": false,
-          "feedback": "Wrong. A 'pedestrian' travels on foot, so they are not aboard any conveyance at all."
+          "feedback": "Incorrecto. 'Knew' es pasado simple y corresponde al condicional tipo dos, que habla del presente."
         },
         {
           "letter": "B",
-          "text": "commuter",
+          "text": "have known",
           "is_correct": false,
-          "feedback": "Wrong. A 'commuter' is defined by making the same trip regularly to work or school, not by being a passenger in general."
+          "feedback": "Incorrecto. 'Have known' es presente perfecto y no corresponde a una hipotesis pasada no cumplida."
+        },
+        {
+          "letter": "C",
+          "text": "would know",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would know' es el resultado de un condicional y no la condicion de la frase."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Wrong. A 'tourist' is defined by travelling for pleasure, not simply by riding in a vehicle."
+          "text": "had known",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had known' es el pasado perfecto y expresa la hipotesis pasada del condicional tipo tres."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "El tipo tres tiene una sola diferencia formal con el tipo dos: 'had' mas participio en lugar de pasado simple. Todo lo demas, incluido 'would have' mas participio en la principal, permanece igual.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence mixes the two conditional types correctly?",
+      "context": "Conditionals type 2 and 3 comparison, Humacao, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'Customs' is the office where officials check the goods and the people coming in from abroad."
-        },
-        {
           "letter": "A",
-          "text": "security",
+          "text": "If I had studied medicine, I would have worked in a hospital now.",
           "is_correct": false,
-          "feedback": "Wrong. 'Security' is the police or staff who keep order, while customs staff collect duties on goods."
+          "feedback": "Incorrecto. Con las dos partes en tipo tres la frase suena redundante y no expresa el cambio de estado actual."
         },
         {
           "letter": "B",
-          "text": "terminal",
+          "text": "If I had studied medicine, I would be working in a hospital now.",
+          "is_correct": true,
+          "feedback": "Correcto. Es la estructura mixta clasica: tipo tres en la clausula de 'if' y tipo dos en la principal."
+        },
+        {
+          "letter": "C",
+          "text": "If I studied medicine, I had been working in a hospital now.",
           "is_correct": false,
-          "feedback": "Wrong. A 'terminal' is the building where you arrive or depart, not the office that checks imports."
+          "feedback": "Incorrecto. El orden esta invertido: el tipo dos pertenece a la principal y el tipo tres a la clausula de 'if'."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "If I would have studied medicine, I would be working in a hospital now.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gate' is the door you pass through to reach the plane; customs is the check itself."
+          "feedback": "Incorrecto. 'Would' no aparece nunca en la clausula de 'if' de un condicional estandar."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La estructura mixta expresa una situacion pasada que determino el presente: una causa en el condicional tipo tres y una consecuencia en el tipo dos. Se reconoce porque 'if' lleva 'had' mas participio y la principal lleva 'would' mas infinitivo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'If I ____ rich, I would buy a house near the beach.'",
+      "context": "Conditionals type 2 with the verb to be, Aguadilla, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! A 'boarding pass' is the document the airline hands you at check-in that lets you board the plane."
-        },
-        {
           "letter": "A",
-          "text": "visa",
-          "is_correct": false,
-          "feedback": "Wrong. A 'visa' is the official permission a government gives to enter a country, granted before you travel."
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correcto. 'Were' es la forma del condicional tipo dos con 'I' y expresa una hipotesis presente irreal."
         },
         {
           "letter": "B",
-          "text": "receipt",
+          "text": "am",
           "is_correct": false,
-          "feedback": "Wrong. A 'receipt' only proves that you paid for something; it does not admit you to the aircraft."
+          "feedback": "Incorrecto. 'Am' es presente real y pertenece al condicional tipo cero o al uno, segun el resto de la frase."
+        },
+        {
+          "letter": "C",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will be' es futuro y no corresponde a la hipotesis presente e irreal del tipo dos."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Wrong. A 'brochure' is advertising material about destinations, not a travel document for boarding."
+          "feedback": "Incorrecto. 'Had been' corresponde al condicional tipo tres, que se refiere a una hipotesis pasada."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "A",
+      "explanation": "En el condicional tipo dos el verbo 'to be' es 'were' con cualquier sujeto, y esa uniformidad es una de las marcas mas reconocibles de este tipo. 'Was' se acepta en el habla, pero 'were' es la forma que se espera por escrito.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'We are sorry; we ____ (not / break) the vase if we had been more careful.'",
+      "context": "Conditionals type 3 with regrets and apologies, Guayanilla, grado 11, W14.",
       "options": [
         {
-          "letter": "B",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'Sightseeing' means going round and looking at the famous sights of a place as a visitor."
+          "letter": "A",
+          "text": "would not have break",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'would have' el verbo va en participio 'broken' y no en la forma base 'break'."
         },
         {
-          "letter": "A",
-          "text": "shopping",
+          "letter": "B",
+          "text": "didn't broke",
           "is_correct": false,
-          "feedback": "Wrong. 'Shopping' is buying things in a city, a different activity from visiting its places of interest."
+          "feedback": "Incorrecto. Se mezclan el pasado simple con el pasado irregular y la frase no corresponde a un condicional."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Wrong. 'Hiking' is walking long distances in the countryside on marked trails, not touring the sights of a location."
+          "text": "wouldn't have broken",
+          "is_correct": true,
+          "feedback": "Correcto. 'Wouldn't have' mas participio expresa el arrepentimiento por una accion pasada no realizada."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "don't have broken",
           "is_correct": false,
-          "feedback": "Wrong. 'Camping' means staying the night outdoors in a tent, not a day of visiting places of interest."
+          "feedback": "Incorrecto. 'Don't have' es presente y no corresponde a una hipotesis pasada del condicional tipo tres."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "El arrepentimiento se expresa con 'would have' mas participio en positivo o negativo. La estructura es siempre la misma y el participio es obligatorio, incluso cuando el verbo es irregular como 'to break'.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is correct?",
+      "context": "Conditionals type 2 in unreal situations, Trujillo Alto, grado 11, W14.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! A 'souvenir' is an object kept afterwards as a reminder of the trip and of the people or places on it."
+          "text": "If I will be you, I would talk to the principal.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will be' es futuro y no corresponde a la hipotesis irreal de esta formula."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "If I am you, I would talk to the principal.",
           "is_correct": false,
-          "feedback": "Wrong. A 'gift' is chosen to be given to somebody else, while a souvenir is kept by the traveller."
+          "feedback": "Incorrecto. 'Am' es presente real y la formula exige la forma 'were' para marcar la hipotesis."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Wrong. An 'award' is a distinction given for an achievement, not a keepsake bought on a trip."
+          "text": "If I were you, I would talk to the principal.",
+          "is_correct": true,
+          "feedback": "Correcto. 'If I were you' es una formula del condicional tipo dos que da consejo sobre una hipotesis irreal."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "If I had been you, I would talk to the principal.",
           "is_correct": false,
-          "feedback": "Wrong. A 'prize' is what a competitor wins in a contest; it says nothing about remembering a journey."
+          "feedback": "Incorrecto. 'Had been' es tipo tres y situaria la hipotesis en el pasado, que no es el sentido de la frase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'If I were you' es una de las estructuras mas frecuentes del condicional tipo dos. Se usa para dar consejo suponiendo una situacion hipotetica, y por eso casi siempre aparece seguida de 'I would' mas infinitivo.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If she ____ (tell) me the truth earlier, everything would have been different.'",
+      "context": "Conditionals type 3 with the verb to tell, Barceloneta, grado 11, W14.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "had told",
           "is_correct": true,
-          "feedback": "Correct! A 'delay' is the extra period of time by which a departure or arrival is postponed."
+          "feedback": "Correcto. 'Had told' es el pasado perfecto y expresa la hipotesis pasada del condicional tipo tres."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "would have told",
           "is_correct": false,
-          "feedback": "Wrong. A 'cancellation' calls the plan off entirely, whereas a delay only postpones it by some hours."
+          "feedback": "Incorrecto. 'Would have told' es la consecuencia y pertenece a la oracion principal, no a la clausula de 'if'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "told",
           "is_correct": false,
-          "feedback": "Wrong. 'Departure' is simply the moment of leaving; the lateness is measured separately from it."
+          "feedback": "Incorrecto. 'Told' es pasado simple y corresponde al condicional tipo dos, que se refiere al presente."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "has told",
           "is_correct": false,
-          "feedback": "Wrong. An 'arrival' is the moment of getting there, not the amount of time a plan runs late."
+          "feedback": "Incorrecto. 'Has told' es presente perfecto y no corresponde a una hipotesis pasada que no llego a ocurrir."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\n---",
-      "difficulty": "6",
+      "explanation": "Los verbos de accion del condicional tipo tres siguen siempre el patron 'had' mas participio. Si la frase ya contiene 'would have' en la principal, la clausula de 'if' no puede repetir esa estructura porque las dos partes son distintas.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Conditionals type 2 with questions, Maunabo, grado 11, W14.",
       "options": [
         {
-          "letter": "D",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'Check-in' is when you arrive and register, and the desk records your presence and gives you your pass."
-        },
-        {
           "letter": "A",
-          "text": "check-out",
+          "text": "Where you would live if you would win the lottery?",
           "is_correct": false,
-          "feedback": "Wrong. 'Check-out' is the opposite moment, when you pay and hand back the room key before leaving."
+          "feedback": "Incorrecto. El orden interrogativo exige que 'where' abra la frase y que 'if' no lleve 'would'."
         },
         {
           "letter": "B",
-          "text": "booking",
+          "text": "Where do you would live if you won the lottery?",
           "is_correct": false,
-          "feedback": "Wrong. A 'booking' is the reservation made earlier, while check-in is the reporting of your arrival."
+          "feedback": "Incorrecto. 'Do' no puede preceder a 'would', porque ambos son auxiliares verbales."
         },
         {
           "letter": "C",
-          "text": "reservation",
+          "text": "Where would you live if you will win the lottery?",
           "is_correct": false,
-          "feedback": "Wrong. A 'reservation' holds a room or a seat for you in advance, not the act of registering on arrival."
+          "feedback": "Incorrecto. La clausula de 'if' no lleva 'will'; en un condicional tipo dos va en pasado simple."
+        },
+        {
+          "letter": "D",
+          "text": "Where would you live if you won the lottery?",
+          "is_correct": true,
+          "feedback": "Correcto. El 'would' abre la pregunta de tipo dos y la clausula de 'if' va en pasado simple."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "explanation": "En las preguntas de condicional tipo dos el 'would' se coloca delante del sujeto, igual que en cualquier otra oracion interrogativa. La clausula de 'if' mantiene el pasado simple y nunca recibe un auxiliar.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,82 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the difference between the second and the third conditional?",
+      "context": "Conditionals type 2 versus type 3, Yauco, grado 11, W14.",
       "options": [
         {
-          "letter": "C",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! A 'layover' is the wait between two flights, usually at the connecting airport, before you continue."
-        },
-        {
           "letter": "A",
-          "text": "stopover",
+          "text": "The second is for questions and the third for statements.",
           "is_correct": false,
-          "feedback": "Wrong. A 'stopover' is a deliberate break in a long journey to spend extra time at a place, not a wait between flights."
+          "feedback": "Incorrecto. Los dos tipos aparecen en preguntas y en afirmaciones por igual; el orden de las palabras no es lo que los distingue."
         },
         {
           "letter": "B",
-          "text": "transfer",
+          "text": "The second refers to an unreal present and the third to an unreal past.",
+          "is_correct": true,
+          "feedback": "Correcto. El tipo dos proyecta una hipotesis al presente y el tipo tres a una accion pasada que no ocurrio."
+        },
+        {
+          "letter": "C",
+          "text": "The second uses 'would' and the third uses 'will'.",
           "is_correct": false,
-          "feedback": "Wrong. A 'transfer' is the flight or vehicle that moves you from one place to another, not the waiting itself."
+          "feedback": "Incorrecto. Los dos usan 'would'; lo que cambia es el pasado simple frente a 'had' mas participio en la clausula de 'if'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "The second is formal and the third is informal.",
           "is_correct": false,
-          "feedback": "Wrong. 'Transit' names the general passing through an area or a country, not a specific rest between stages."
+          "feedback": "Incorrecto. No hay diferencia de registro: los dos son estructuras formales propias de la lengua escrita y academica."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "La distincion es temporal, no de registro ni de estructura sintactica. El tipo dos razona sobre el presente con pasado simple y el tipo tres sobre el pasado con 'had' mas participio, y en ambos casos la principal lleva 'would'.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v13",
+      "statement": "Complete the sentence: 'If I ____ (write) the email sooner, you would have received it yesterday.'",
+      "context": "Conditionals type 3 with the verb to write, Cayey, grado 11, W14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would have written",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would have written' es la consecuencia hipotetica y va en la oracion principal."
+        },
+        {
+          "letter": "B",
+          "text": "had written",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had written' expresa la accion pasada hipotetica y el participio irregular es obligatorio en el tipo tres."
+        },
+        {
+          "letter": "C",
+          "text": "wrote",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Wrote' es pasado simple y corresponde al condicional tipo dos."
+        },
+        {
+          "letter": "D",
+          "text": "have written",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Have written' es presente perfecto y no expresa una hipotesis pasada no cumplida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El condicional tipo tres conserva la misma irregularidad de los verbos que el presente y el pasado. 'To write' da 'wrote' en pasado simple y 'written' en participio, y el tipo tres siempre exige la segunda forma.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -548,86 +593,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'Currency' is the whole monetary system a country uses, not any single object."
-        },
-        {
-          "letter": "A",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Wrong. A 'coin' is one round metal piece of money, while the definition covers the entire money system."
-        },
-        {
-          "letter": "C",
-          "text": "banknote",
-          "is_correct": false,
-          "feedback": "Wrong. A 'banknote' is a single paper note, while the definition is about the money system of a whole country."
-        },
-        {
-          "letter": "D",
-          "text": "cash",
-          "is_correct": false,
-          "feedback": "Wrong. 'Cash' is the money in coins and notes that you are holding, regardless of any country's system."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct form: 'If you ____ (be) me, you would apologise right away.'",
+      "context": "Conditionals type 2 with second person advice, San Sebastian, grado 11, W14.",
       "options": [
         {
-          "letter": "D",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! A 'guidebook' is a book written about a place to help visitors find their way around it."
-        },
-        {
           "letter": "A",
-          "text": "map",
+          "text": "are",
           "is_correct": false,
-          "feedback": "Wrong. A 'map' is a single drawing of an area, not the book of practical information about the place."
+          "feedback": "Incorrecto. 'Are' es presente real y corresponde al condicional tipo cero o al uno, no a una hipotesis."
         },
         {
           "letter": "B",
-          "text": "dictionary",
+          "text": "will be",
           "is_correct": false,
-          "feedback": "Wrong. A 'dictionary' lists words and their meanings, not practical details about a destination."
+          "feedback": "Incorrecto. 'Will be' es futuro y no expresa la hipotesis irreal del condicional tipo dos."
         },
         {
           "letter": "C",
-          "text": "encyclopedia",
+          "text": "had been",
           "is_correct": false,
-          "feedback": "Wrong. An 'encyclopedia' covers all knowledge on a subject, while a guidebook is written about one specific place."
+          "feedback": "Incorrecto. 'Had been' es tipo tres y situaria la hipotesis en un pasado remoto que el enunciado no menciona."
+        },
+        {
+          "letter": "D",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "Correcto. Con 'you' la forma 'were' es la del condicional tipo dos y mantiene la uniformidad de todo el tipo."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "El condicional tipo dos tiene una sola forma del pasado de 'to be', y esa forma es 'were' con todos los sujetos. Esa uniformidad es precisamente lo que distingue al tipo dos del tipo tres, donde 'to be' da 'had been'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She would have apologised ____ you had explained the situation.'",
+      "context": "Conditionals type 3 with unless, Camuy, grado 11, W14.",
       "options": [
         {
-          "letter": "D",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! A 'backpack' has two shoulder straps and is designed to be carried on your back."
-        },
-        {
           "letter": "A",
-          "text": "suitcase",
+          "text": "unless",
           "is_correct": false,
-          "feedback": "Wrong. A 'suitcase' is a flat box with a handle that you pull along beside you."
+          "feedback": "Incorrecto. 'Unless' significa 'si no', de modo que cambiaria por completo el significado de la condicion hipotetica."
         },
         {
           "letter": "B",
-          "text": "briefcase",
+          "text": "although",
           "is_correct": false,
-          "feedback": "Wrong. A 'briefcase' is a stiff case for papers that you carry in your hand at work."
+          "feedback": "Incorrecto. 'Although' introduce una concession, no una condicion, y por eso no construye un condicional."
         },
         {
           "letter": "C",
-          "text": "handbag",
+          "text": "if",
+          "is_correct": true,
+          "feedback": "Correcto. 'If' introduce la hipotesis pasada y la principal con 'would have' mas participio completa el tipo tres."
+        },
+        {
+          "letter": "D",
+          "text": "because",
           "is_correct": false,
-          "feedback": "Wrong. A 'handbag' is held in the hand and has no straps at all."
+          "feedback": "Incorrecto. 'Because' introduce una causa presente o pasada real, no la hipotesis que exige el tipo tres."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "El condicional tipo tres se construye con 'if' y nunca con 'unless' cuando se quiere expresar una hipotesis. 'Unless' es posible, pero entonces cambia a una condicion real: 'she would have apologised unless you had explained' ya no es una hipotesis.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is grammatically correct in the second conditional?",
+      "context": "Conditionals type 2 with professional goals, Luquillo, grado 11, W14.",
       "options": [
         {
-          "letter": "D",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'Overseas' means to or in another country reached by crossing the sea."
-        },
-        {
           "letter": "A",
-          "text": "domestic",
-          "is_correct": false,
-          "feedback": "Wrong. 'Domestic' means inside the borders of your own country, which is the opposite of overseas."
+          "text": "If she studied architecture, she would work in her hometown.",
+          "is_correct": true,
+          "feedback": "Correcto. Ambas partes corresponden al tipo dos: pasado simple en 'if' y 'would' mas infinitivo en la principal."
         },
         {
           "letter": "B",
-          "text": "local",
+          "text": "If she will study architecture, she would work in her hometown.",
           "is_correct": false,
-          "feedback": "Wrong. 'Local' means in a particular small area or town, which may well be inside your own country."
+          "feedback": "Incorrecto. 'Will' no aparece en la clausula de 'if' de un condicional tipo dos."
         },
         {
           "letter": "C",
-          "text": "national",
+          "text": "If she studies architecture, she would work in her hometown.",
           "is_correct": false,
-          "feedback": "Wrong. 'National' means concerning the nation as a whole, not travelling away from it across the sea."
+          "feedback": "Incorrecto. El presente simple en 'if' corresponde al condicional tipo uno, de caracter real y no hipotetico."
+        },
+        {
+          "letter": "D",
+          "text": "If she had studied architecture, she would have worked in her hometown.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos partes en tipo tres suenan a arrepentimiento y no a hipotesis sobre el presente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El condicional tipo dos se emplea para hablar de planes, metas y situaciones que serian realidad bajo una condicion falsa. El pasado simple en 'if' es la senal inequivoca de que se trata de una hipotesis presente y no de una condicion real.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v17",
+      "statement": "Complete the sentence: 'If you had studied last night, you ____ (pass) the test easily.'",
+      "context": "Conditionals type 3 with past obligations, Toa Baja, grado 11, W14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "would have passed",
+          "is_correct": true,
+          "feedback": "Correcto. 'Would have' mas participio es la consecuencia hipotetica del condicional tipo tres."
+        },
+        {
+          "letter": "B",
+          "text": "would pass",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would pass' es la consecuencia del tipo dos y no encaja con una clausula en pasado perfecto."
+        },
+        {
+          "letter": "C",
+          "text": "will have passed",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will have' es futuro perfecto y no corresponde a una hipotesis pasada."
+        },
+        {
+          "letter": "D",
+          "text": "would passing",
+          "is_correct": false,
+          "feedback": "Incorrecto. Detras de 'would have' el verbo va en participio 'passed' y nunca en gerundio."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El condicional tipo tres exige siempre 'would have' mas participio en la principal. La forma 'would' mas infinitivo corresponde al tipo dos, y combinar las dos estructuras produce una frase ajena a los condicionales estandar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v18",
+      "statement": "Question: 'If you had studied, would you have passed?' Answer: '____'",
+      "context": "Conditionals type 2 and 3 in short answers, Naguabo, grado 11, W14.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes, I would have been.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma contracta de la respuesta corta al tipo tres es 'would have' y el resto de la oracion no aporta el auxiliar correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, I will have.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will have' es futuro perfecto y no responde a una pregunta sobre una hipotesis pasada."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, I did.",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Did' responde a una pregunta de pasado simple y no a una construida con 'would have'."
+        },
+        {
+          "letter": "D",
+          "text": "Yes, I would have.",
+          "is_correct": true,
+          "feedback": "Correcto. La respuesta corta repite 'would have' de la pregunta, que es la forma propia del tipo tres."
         }
       ],
       "correct_answer": "D",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\n---",
-      "difficulty": "8",
+      "explanation": "En una respuesta corta al condicional tipo dos basta 'would', y al tipo tres 'would have'. Como la condicion no se repite, ambas lecturas son posibles y las dos formas se consideran correctas en un examen.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! A 'budget' estimates planned income and spending over a set period such as a month or a year."
-        },
-        {
-          "letter": "A",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Wrong. An 'expense' is a single outgoing payment, not a plan covering a whole period."
-        },
-        {
-          "letter": "B",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Wrong. The 'cost' is the price of one thing or service, with no timeframe attached to it."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Wrong. A 'price' is the amount a single item sells for, not an estimate of a period's finances."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'Insurance' is the arrangement where a company pays compensation for a specified loss in exchange for a premium."
-        },
-        {
-          "letter": "A",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Wrong. A 'warranty' covers a defective product for a limited time and is given by the maker, not for illness or death."
-        },
-        {
-          "letter": "B",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Wrong. A 'guarantee' is a promise about the quality of a product or service, with no payment of a premium."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Wrong. A 'policy' is the written document that records an insurance contract, not the practice of compensation itself."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
-      "periodo": 14,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If he ____ (have) a car, he would not spend so much on taxis.'",
+      "context": "Conditionals type 2 with the verb to have, Hatillo, grado 11, W14.",
       "options": [
         {
-          "letter": "B",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'Vaccination' is the administration of a vaccine that makes the immune system ready against a disease."
+          "letter": "A",
+          "text": "will have",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Will have' es futuro y no corresponde a la hipotesis irreal que plantea la frase."
         },
         {
-          "letter": "A",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Wrong. 'Medication' treats the symptoms of an illness you already have; it does not create immunity beforehand."
+          "letter": "B",
+          "text": "had",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had' es el pasado de 'to have' y forma la hipotesis presente del condicional tipo dos."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "has",
           "is_correct": false,
-          "feedback": "Wrong. A 'prescription' is the doctor's written order for a medicine, not the vaccine itself."
+          "feedback": "Incorrecto. 'Has' es presente y construye un condicional tipo uno con una condicion real."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "had had",
           "is_correct": false,
-          "feedback": "Wrong. An 'infection' is the invasion of the body by a pathogen, which is the opposite of preventing it."
+          "feedback": "Incorrecto. La forma 'had had' corresponde al tipo tres con 'to have' y no al tipo dos, que solo pide el pasado simple."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\n---",
-      "difficulty": "9",
+      "explanation": "El tipo dos pide el pasado simple de cualquier verbo, y en 'to have' ese pasado es 'had'. La forma 'had had' solo aparece en el tipo tres, y ese tipo exigiria ademas 'would have' en la oracion principal.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'If we ____ (go) to Ponce last year, we would have visited the museum.'",
+      "context": "Conditionals type 3 with the verb to go, Yabucoa, grado 11, W14.",
       "options": [
         {
-          "letter": "B",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'Jet lag' is the tiredness and disturbed body clock caused by crossing several time zones in a flight."
+          "letter": "A",
+          "text": "would have gone",
+          "is_correct": false,
+          "feedback": "Incorrecto. 'Would have gone' es la consecuencia hipotetica y va en la oracion principal."
         },
         {
-          "letter": "A",
-          "text": "fatigue",
+          "letter": "B",
+          "text": "went",
           "is_correct": false,
-          "feedback": "Wrong. 'Fatigue' is general tiredness from any cause, such as hard work, not specifically from time zones."
+          "feedback": "Incorrecto. 'Went' es pasado simple y corresponde al condicional tipo dos, que se refiere al presente."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Wrong. 'Exhaustion' is extreme tiredness from physical effort or illness, not from a change of time zone."
+          "text": "had gone",
+          "is_correct": true,
+          "feedback": "Correcto. 'Had gone' es pasado perfecto y forma la hipotesis pasada del condicional tipo tres."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "have gone",
           "is_correct": false,
-          "feedback": "Wrong. 'Insomnia' is simply difficulty sleeping, which can come from many causes unrelated to flying."
+          "feedback": "Incorrecto. 'Have gone' es presente perfecto y no expresa una hipotesis pasada no cumplida."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "El participio de 'to go' es 'gone', y el condicional tipo tres lo exige siempre. Igual que en los demas verbos irregulares, la forma del pasado simple 'went' no puede aparecer en la clausula de 'if' de un tipo tres.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle",
       "periodo": 14,
