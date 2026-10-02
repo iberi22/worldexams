@@ -154,13 +154,40 @@ try {
     assert(r.offenders.some((o) => o.word.toLowerCase() === 'recounts'));
   });
 
-  test('only reports a bundle when the majority of its feedback is the wrong language', () => {
-    // One Spanish feedback among three English ones is a slip, not a bundle
-    // written in the wrong language, and flagging it would be noise.
+  test('flags a bundle as offender when 5% or more of its feedback is in spanish', () => {
+    // One Spanish feedback out of 4 (25%) exceeds the 5% threshold and is flagged as offender.
     const d = path.join(tmp, 'e');
     makeBundle(d, 'delta', ['L comes before M in the alphabet, because the order goes L, M, then N.', 'in significa dentro de algo.', 'O comes two letters after M.', 'K is three places before M.']);
     const r = run(d);
+    assert.equal(r.offenders.length, 1);
+    assert.equal(r.offenders[0].type, 'spanish-feedback');
+    assert.equal(r.offenders[0].spanish, 1);
+  });
+
+  test('reports a warning rather than an offender when spanish feedback ratio is under 5%', () => {
+    const d = path.join(tmp, 'warn');
+    const feedbacks = Array(79).fill('L comes before M in the alphabet, because the order goes L, M, then N.');
+    feedbacks.push('in significa dentro de algo y el gato no esta dentro del sofa.');
+    makeBundle(d, 'warnbundle', feedbacks);
+    const r = run(d);
     assert.equal(r.offenders.length, 0);
+    assert.equal(r.warnings.length, 1);
+    assert.equal(r.warnings[0].type, 'spanish-feedback-warning');
+    assert.equal(r.warnings[0].spanish, 1);
+  });
+
+  test('does not flag valid english feedback containing "no", "No.", or grammar rules referencing "-es"', () => {
+    const d = path.join(tmp, 'no_false_positives');
+    const englishFeedbacks = [
+      'No profit figures or comparisons of sales appear anywhere in the passage.',
+      'Incorrect. No movement.',
+      'Incorrect. Verbs ending in "sh" need "es".',
+      'Correct! Verbs ending in -ch, -sh, -s, -x, or -z add -es.',
+    ];
+    makeBundle(d, 'clean_english', englishFeedbacks);
+    const r = run(d);
+    assert.equal(r.offenders.length, 0);
+    assert.equal((r.warnings || []).length, 0);
   });
 } finally {
   fs.rmSync(tmp, { recursive: true, force: true });
