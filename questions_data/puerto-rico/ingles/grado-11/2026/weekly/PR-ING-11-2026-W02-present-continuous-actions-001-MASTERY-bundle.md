@@ -34,13 +34,13 @@ Which sentence uses the present continuous correctly?
 
 ### Opciones
 - [x] A) She is studying for the biology test right now.
-  <!-- feedback: Correcto. 'Am, is' o 'are' seguido del gerundio forma el presente continuo, y 'right now' confirma que la accion esta en curso. -->
+  <!-- feedback: Correct. 'Am, is' or 'are' followed by the -ing form makes the present continuous, and 'right now' confirms that the action is in progress. -->
 - [ ] B) She study for the biology test right now.
-  <!-- feedback: Incorrecto. Sin el auxiliar 'is' la frase queda en presente simple, y 'right now' exige el progresiva. -->
+  <!-- feedback: Incorrect. Without the auxiliary 'is' the sentence stays in the present simple, and 'right now' requires the progressive. -->
 - [ ] C) She is study for the biology test right now.
-  <!-- feedback: Incorrecto. Despues de 'is' hace falta el gerundio 'studying', no la forma base del verbo. -->
+  <!-- feedback: Incorrect. After 'is' you need the -ing form 'studying', not the base form of the verb. -->
 - [ ] D) She studying for the biology test right now.
-  <!-- feedback: Incorrecto. Falta por completo el auxiliar, y el gerundio nunca sustituye al verbo auxiliar en esta unidad. -->
+  <!-- feedback: Incorrect. The auxiliary is missing entirely, and the -ing form never replaces the auxiliary verb in this unit. -->
 
 ### Explicacion Pedagogica
 El presente continuo se forma con el verbo 'to be' en presente mas el gerundio. Sirve para acciones que estan ocurriendo ahora mismo o que estan de forma temporal. Reconocer los marcadores 'now', 'currently' o 'at the moment' es la via rapida para identificar el tiempo verbal.
@@ -59,13 +59,13 @@ Complete the sentence: 'They ____ (wait) for the bus in Caguas.'
 
 ### Opciones
 - [ ] A) is waiting
-  <!-- feedback: Incorrecto. 'Is' concuerda con he, she o it, no con 'they', que es plural en esta frase. -->
+  <!-- feedback: Incorrect. 'Is' agrees with he, she or it, not with 'they', which is plural in this sentence. -->
 - [ ] B) waits
-  <!-- feedback: Incorrecto. 'Waits' es presente simple y describe una rutina, mientras que esperar el bus es una situacion puntual. -->
+  <!-- feedback: Incorrect. 'Waits' is present simple and describes a routine, while waiting for the bus is a one-off situation. -->
 - [x] C) are waiting
-  <!-- feedback: Correcto. Con el sujeto plural 'they' el verbo 'to be' es 'are' y el gerundio 'waiting' completa el progresiva. -->
+  <!-- feedback: Correct. With the plural subject 'they' the verb 'to be' is 'are', and the -ing form 'waiting' completes the progressive. -->
 - [ ] D) wait
-  <!-- feedback: Incorrecto. Es la forma base sin gerundio y sin auxiliar, de modo que la frase no expresa la accion en curso. -->
+  <!-- feedback: Incorrect. This is the base form with no -ing and no auxiliary, so the sentence does not express an action in progress. -->
 
 ### Explicacion Pedagogica
 En el presente continuo el auxiliar y el gerundio deben concordar con el sujeto. Es el error mas comun de la unidad: escribir 'is waiting' con 'they' o 'are waiting' con 'he'. Revisar siempre el sujeto antes de conjugar.
@@ -84,13 +84,13 @@ Choose the correct negative form: 'He ____ (not / read) the newspaper at the mom
 
 ### Opciones
 - [ ] A) don't read
-  <!-- feedback: Incorrecto. 'Don't' corresponde al presente simple, no al progresiva, y ademas 'at the moment' pide el continuo. -->
+  <!-- feedback: Incorrect. 'Don't' belongs to the present simple, not the progressive, and 'at the moment' also calls for the continuous. -->
 - [x] B) isn't reading
-  <!-- feedback: Correcto. El negativo del presente continuo se forma con el auxiliar 'is' mas 'not', y el gerundio no cambia. -->
+  <!-- feedback: Correct. The negative of the present continuous is formed with the auxiliary 'is' plus 'not', and the -ing form does not change. -->
 - [ ] C) isn't read
-  <!-- feedback: Incorrecto. Despues de 'is' el verbo va en gerundio, nunca en su forma base como aparece aqui. -->
+  <!-- feedback: Incorrect. After 'is' the verb takes the -ing form, never its base form as it appears here. -->
 - [ ] D) not reads
-  <!-- feedback: Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales en una sola oracion. -->
+  <!-- feedback: Incorrect. The auxiliary 'to be' is missing and the verb keeps its present simple ending, mixing two tenses in a single sentence. -->
 
 ### Explicacion Pedagogica
 El negativo del presente continuo sigue el mismo esquema que el afirmativo: auxiliar 'to be' mas 'not' mas gerundio. La forma contracta mas frecuente es "isn't, aren't" y "am not" aunque tambien se admite la forma completa.
@@ -109,13 +109,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) Do you use the library room now?
-  <!-- feedback: Incorrecto. 'Do' forma preguntas de presente simple, y 'now' pide la accion en curso. -->
+  <!-- feedback: Incorrect. 'Do' forms present simple questions, and 'now' calls for an action in progress. -->
 - [ ] B) Are you use the library room now?
-  <!-- feedback: Incorrecto. El verbo principal queda en forma base detras de 'are', lo cual es incorrecto en progresiva. -->
+  <!-- feedback: Incorrect. The main verb stays in its base form after 'are', which is wrong in the progressive. -->
 - [ ] C) You are using the library room now?
-  <!-- feedback: Incorrecto. El orden no es interrogativo: el auxiliar debe abrir la frase antes del sujeto. -->
+  <!-- feedback: Incorrect. This is not question word order: the auxiliary must open the sentence before the subject. -->
 - [x] D) Are you using the library room now?
-  <!-- feedback: Correcto. La pregunta progresiva invierte el orden a auxiliar, sujeto y gerundio, con 'are' por el sujeto 'you'. -->
+  <!-- feedback: Correct. A progressive question inverts the order to auxiliary, subject and -ing form, with 'are' for the subject 'you'. -->
 
 ### Explicacion Pedagogica
 Para preguntar por lo que esta pasando se invierte el orden del presente continuo: el auxiliar 'to be' abre la frase, luego va el sujeto y despues el gerundio. El gerundio nunca lleva auxiliar al final.
@@ -134,13 +134,13 @@ Which is the correct gerund form of the verb 'to run'?
 
 ### Opciones
 - [ ] A) runing
-  <!-- feedback: Incorrecto. Perder la -e final produce una forma mal escrita, y ese es el error tipico al formar gerundios. -->
+  <!-- feedback: Incorrect. Dropping the final -e produces a misspelled form, and that is the typical mistake when forming the -ing form. -->
 - [ ] B) runnning
-  <!-- feedback: Incorrecto. 'Run' ya termina en -n y no se dobla la consonante, porque solo se duplica tras vocal breve tensa. -->
+  <!-- feedback: Incorrect. 'Run' already ends in -n and the consonant is not doubled, because it is only doubled after a short stressed vowel. -->
 - [ ] C) runeing
-  <!-- feedback: Incorrecto. La -e no se convierte en otra vocal ni se desplaza: simplemente se elimina antes de añadir -ing. -->
+  <!-- feedback: Incorrect. The -e doesn't change into another vowel or move: it is simply dropped before adding -ing. -->
 - [x] D) running
-  <!-- feedback: Correcto. Cuando el verbo termina en vocal más -e se elimina la -e y se añade -ing, salvo excepciones como 'to be'. -->
+  <!-- feedback: Correct. When the verb ends in a vowel plus -e, the -e is dropped and -ing is added, except in cases like 'to be'. -->
 
 ### Explicacion Pedagogica
 Hay tres reglas para formar el gerundio. Si el verbo termina en -e se quita la -e, si termina en vocal breve tensa se duplica la consonante final, y en los demas casos se añade -ing directamente. 'To be' da 'being' y es la excepcion a la primera regla.
@@ -159,13 +159,13 @@ Which is the correct gerund form of the verb 'to swim'?
 
 ### Opciones
 - [ ] A) swiming
-  <!-- feedback: Incorrecto. Con vocal breve tensa la -m final debe duplicarse, porque una sola produce una sílaba incorrecta. -->
+  <!-- feedback: Incorrect. With a short stressed vowel, the final -m must be doubled, because a single one produces an incorrect syllable. -->
 - [x] B) swimming
-  <!-- feedback: Correcto. 'Swim' termina en vocal breve tensa con -m, y en ese caso la consonante final se duplica antes de -ing. -->
+  <!-- feedback: Correct. 'Swim' ends in a short stressed vowel plus -m, and in that case the final consonant is doubled before -ing. -->
 - [ ] C) swimm ing
-  <!-- feedback: Incorrecto. No se puede separar la consonante con un espacio: la palabra es una sola unidad silabica. -->
+  <!-- feedback: Incorrect. The consonant can't be separated with a space: the word is a single syllabic unit. -->
 - [ ] D) swuming
-  <!-- feedback: Incorrecto. 'Swum' es una forma del pasado simple, no la base a la que se le anade el gerundio. -->
+  <!-- feedback: Incorrect. 'Swum' is a past simple form, not the base to which the -ing ending is added. -->
 
 ### Explicacion Pedagogica
 La duplicacion de la consonante ocurre tras vocal breve tensa, como en 'swim', 'run', 'sit' o 'begin'. El objetivo es que la palabra conserve dos sílabas en el gerundio. Si el sonido ya es largo, no se duplica, como en 'open' o 'travel'.
@@ -184,13 +184,13 @@ Complete the sentence: 'My sister ____ (make) a cake for the party right now.'
 
 ### Opciones
 - [x] A) is making
-  <!-- feedback: Correcto. El sujeto es tercera persona singular, de modo que el auxiliar es 'is' seguido del gerundio 'making'. -->
+  <!-- feedback: Correct. The subject is third person singular, so the auxiliary is 'is' followed by the -ing form 'making'. -->
 - [ ] B) are making
-  <!-- feedback: Incorrecto. 'Are' corresponde a un sujeto plural, y 'my sister' es singular en esta frase. -->
+  <!-- feedback: Incorrect. 'Are' goes with a plural subject, and 'my sister' is singular in this sentence. -->
 - [ ] C) is make
-  <!-- feedback: Incorrecto. El verbo principal debe ir en gerundio detras del auxiliar, no en su forma base. -->
+  <!-- feedback: Incorrect. The main verb must be in the -ing form after the auxiliary, not in its base form. -->
 - [ ] D) makes
-  <!-- feedback: Incorrecto. 'Makes' es presente simple y ademas la marca 'right now' pide el progresiva. -->
+  <!-- feedback: Incorrect. 'Makes' is present simple, and the time marker 'right now' calls for the progressive. -->
 
 ### Explicacion Pedagogica
 El presente continuo tiene el mismo auxiliar que el presente simple: 'am', 'is' o 'are' segun el sujeto. Lo que cambia es el verbo principal, que siempre pasa a gerundio. Revisar la concordancia del auxiliar es la mitad del trabajo.
@@ -209,13 +209,13 @@ Complete the sentence: 'I ____ (study) for the test at the moment.'
 
 ### Opciones
 - [ ] A) is studying
-  <!-- feedback: Incorrecto. 'Is' se usa con he, she o it, y el sujeto de esta frase es la primera persona del singular. -->
+  <!-- feedback: Incorrect. 'Is' is used with he, she or it, and the subject of this sentence is first person singular. -->
 - [ ] B) am study
-  <!-- feedback: Incorrecto. Detras de 'am' el verbo va en gerundio, no en la forma base 'study'. -->
+  <!-- feedback: Incorrect. After 'am' the verb takes the -ing form, not the base form 'study'. -->
 - [x] C) am studying
-  <!-- feedback: Correcto. Con el sujeto 'I' el auxiliar es 'am' y el gerundio 'studying' completa la estructura progresiva. -->
+  <!-- feedback: Correct. With the subject 'I' the auxiliary is 'am', and the -ing form 'studying' completes the progressive structure. -->
 - [ ] D) study
-  <!-- feedback: Incorrecto. La forma base sola describe una rutina y no encaja con la expresion 'at the moment'. -->
+  <!-- feedback: Incorrect. The base form alone describes a routine and doesn't fit the expression 'at the moment'. -->
 
 ### Explicacion Pedagogica
 La conjugacion de 'to be' en presente es I am, you are, he, she e it is, y nosotros, ustedes y ellos son are. Solo el auxiliar cambia de forma; el gerundio del verbo principal se mantiene igual en todas las personas.
@@ -234,13 +234,13 @@ Complete the sentence: 'The children ____ (play) in the park every afternoon.'
 
 ### Opciones
 - [ ] A) is playing
-  <!-- feedback: Incorrecto. 'Is' no concuerda con el sujeto plural 'the children', y esa discordancia marca la frase como incorrecta. -->
+  <!-- feedback: Incorrect. 'Is' doesn't agree with the plural subject 'the children', and that mismatch makes the sentence incorrect. -->
 - [ ] B) plays
-  <!-- feedback: Incorrecto. 'Plays' es presente simple y no concorda con la idea de una accion en curso que implica el progresiva. -->
+  <!-- feedback: Incorrect. 'Plays' is present simple and doesn't fit the idea of an action in progress implied by the progressive. -->
 - [x] C) are playing
-  <!-- feedback: Correcto. La construccion es gramaticalmente posible, aunque 'every afternoon' normalmente pide presente simple para una rutina habitual. -->
+  <!-- feedback: Correct. The construction is grammatically possible, although 'every afternoon' normally calls for the present simple for a habitual routine. -->
 - [ ] D) play
-  <!-- feedback: Incorrecto. Falta el gerundio y el auxiliar, de modo que la frase no expresa la accion progresiva. -->
+  <!-- feedback: Incorrect. The -ing form and the auxiliary are missing, so the sentence doesn't express the progressive action. -->
 
 ### Explicacion Pedagogica
 Hay que distinguir el uso habitual del uso actual. El presente continuo con 'every afternoon' suena poco natural porque esa expresion marca repeticion; aun asi la frase no es incorrecta si el hablante quiere decir que estan jugando en este momento. El contexto decide cual es la opcion mas natural.
@@ -259,13 +259,13 @@ Choose the correct tag: 'They are coming tonight, ____?'
 
 ### Opciones
 - [x] A) aren't they
-  <!-- feedback: Correcto. Una afirmacion en positivo pide un tag negativo, y el auxiliar del tag es el mismo 'are' de la frase principal. -->
+  <!-- feedback: Correct. A positive statement takes a negative tag, and the tag's auxiliary is the same 'are' as in the main clause. -->
 - [ ] B) isn't they
-  <!-- feedback: Incorrecto. 'Isn't' es la tercera persona singular y la frase principal usa 'are', de modo que el tag debe repetir ese auxiliar. -->
+  <!-- feedback: Incorrect. 'Isn't' is third person singular and the main clause uses 'are', so the tag must repeat that auxiliary. -->
 - [ ] C) don't they
-  <!-- feedback: Incorrecto. 'Don't' pertenece al presente simple, no al presente continuo que lleva la frase principal. -->
+  <!-- feedback: Incorrect. 'Don't' belongs to the present simple, not to the present continuous used in the main clause. -->
 - [ ] D) they are not
-  <!-- feedback: Incorrecto. El tag invierte la polaridad pero mantiene el orden auxiliar mas pronombre, no sujeto mas verbo. -->
+  <!-- feedback: Incorrect. The tag reverses the polarity but keeps the auxiliary-plus-pronoun order, not subject plus verb. -->
 
 ### Explicacion Pedagogica
 El question tag reutiliza el auxiliar de la frase principal e invierte la polaridad. En presente continuo el tag se construye con el mismo 'to be' del enunciado: 'isn't he', 'aren't they', 'am not I' en las formas contractas mas usadas.
@@ -284,13 +284,13 @@ Complete the sentence: 'They ____ (lie) on the beach this afternoon.'
 
 ### Opciones
 - [ ] A) are lieing
-  <!-- feedback: Incorrecto. El gerundio correcto es 'lying' y no admite la -e intercalada que aqui se ha colocado. -->
+  <!-- feedback: Incorrect. The correct -ing form is 'lying', and it doesn't take the -e that has been inserted here. -->
 - [ ] B) are lain
-  <!-- feedback: Incorrecto. 'lain' es el participio pasado, y el presente continuo exige la forma -ing. -->
+  <!-- feedback: Incorrect. 'lain' is the past participle, and the present continuous requires the -ing form. -->
 - [ ] C) is lying
-  <!-- feedback: Incorrecto. El sujeto es plural, de modo que el auxiliar debe ser 'are' y no 'is'. -->
+  <!-- feedback: Incorrect. The subject is plural, so the auxiliary must be 'are', not 'is'. -->
 - [x] D) are lying
-  <!-- feedback: Correcto. El gerundio de 'to lie' es 'lying', con la -y conservada y la vocal anterior breve tensa. -->
+  <!-- feedback: Correct. The -ing form of 'to lie' is 'lying', keeping the -y, with the preceding vowel short and stressed. -->
 
 ### Explicacion Pedagogica
 Algunos verbos cambian de forma al pasar al gerundio. 'To lie' da 'lying', 'to die' da 'dying' e 'to tie' da 'tying'. En estos casos la vocal breve tensa se convierte en una vocal larga y la -y se mantiene sin duplicar la consonante.
@@ -309,13 +309,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) He never is late for class.
-  <!-- feedback: Incorrecto. En inglés el adverbio de negacion se coloca despues del verbo auxiliar, no delante. -->
+  <!-- feedback: Incorrect. In English the negative adverb goes after the auxiliary verb, not before it. -->
 - [x] B) He is never late for class.
-  <!-- feedback: Correcto. 'Never' admite el presente continuo y la frase describe una situacion del presente, no una rutina pasada. -->
+  <!-- feedback: Correct. 'Never' works with the present continuous, and the sentence describes a present situation, not a past routine. -->
 - [ ] C) He is late never for class.
-  <!-- feedback: Incorrecto. El adverbio 'never' va inmediatamente despues de 'is', y en ningun caso al final de la oracion. -->
+  <!-- feedback: Incorrect. The adverb 'never' goes immediately after 'is', and never at the end of the sentence. -->
 - [ ] D) He never late for class.
-  <!-- feedback: Incorrecto. Falta una segunda forma verbal, porque la construccion negativa necesita 'not' o el adverbio 'never' con el auxiliar 'is'. -->
+  <!-- feedback: Incorrect. A second verb form is missing, because the negative construction needs 'not' or the adverb 'never' with the auxiliary 'is'. -->
 
 ### Explicacion Pedagogica
 La negacion del presente continuo se puede hacer de dos maneras equivalentes: con el auxiliar 'not' o con adverbios como 'never', 'always' o 'often'. En ambos casos el orden es auxiliar, adverbio y gerundio, con el adverbio pegado al auxiliar.
@@ -334,13 +334,13 @@ Complete the sentence: 'She ____ (teach) biology at the high school.'
 
 ### Opciones
 - [ ] A) is teach ing
-  <!-- feedback: Incorrecto. El gerundio no lleva espacio y no conserva la -e final del verbo base. -->
+  <!-- feedback: Incorrect. The -ing form has no space and doesn't keep the final -e of the base verb. -->
 - [x] B) is teaching
-  <!-- feedback: Correcto. El gerundio de 'to teach' es 'teaching', con la -e final eliminada antes de anadir -ing. -->
+  <!-- feedback: Correct. The -ing form of 'to teach' is 'teaching', with the final -e dropped before adding -ing. -->
 - [ ] C) teaches
-  <!-- feedback: Incorrecto. 'Teaches' es presente simple; la frase no lleva ninguna marca temporal que fuerce el progresiva. -->
+  <!-- feedback: Incorrect. 'Teaches' is present simple; the sentence has no time marker that forces the progressive. -->
 - [ ] D) is teatching
-  <!-- feedback: Incorrecto. No se duplica la -t despues de una vocal larga como 'ea', de modo que la forma correcta es 'teaching'. -->
+  <!-- feedback: Incorrect. The -t is not doubled after a long vowel like 'ea', so the correct form is 'teaching'. -->
 
 ### Explicacion Pedagogica
 Cuando el verbo termina en vocal mas -e la -e desaparece antes de -ing, como en 'teach' que da 'teaching' o 'dance' que da 'dancing'. La duplicacion de consonante se reserva para vocal breve tensa, por lo que 'teaching' lleva una sola -t.
@@ -359,13 +359,13 @@ Complete the sentence: 'He ____ (write) an email to his teacher right now.'
 
 ### Opciones
 - [ ] A) is writeing
-  <!-- feedback: Incorrecto. Un verbo terminado en -w no pierde la -e antes de -ing, y la forma correcta duplica la consonante. -->
+  <!-- feedback: Incorrect. A verb ending in -w doesn't lose the -e before -ing, and the correct form doubles the consonant. -->
 - [ ] B) is writting
-  <!-- feedback: Incorrecto. No se anade una -t extra: 'write' no termina en -t, de modo que el gerundio no lleva doble -t. -->
+  <!-- feedback: Incorrect. No extra -t is added: 'write' doesn't end in -t, so the -ing form doesn't have a double -t. -->
 - [ ] C) writes
-  <!-- feedback: Incorrecto. 'Writes' es presente simple, mientras que 'right now' describe una accion que esta ocurriendo. -->
+  <!-- feedback: Incorrect. 'Writes' is present simple, whereas 'right now' describes an action that is happening. -->
 - [x] D) is writing
-  <!-- feedback: Correcto. 'Write' termina en -e y la vocal 'i' es breve tensa, por lo que la -w final se duplica antes de -ing. -->
+  <!-- feedback: Correct. 'Write' ends in -e and the vowel 'i' is short and stressed, so the final -w is doubled before -ing. -->
 
 ### Explicacion Pedagogica
 Los verbos terminados en -w con vocal breve tensa forman el gerundio duplicando la consonante: 'write' da 'writing'. En cambio los terminados en -e como 'dance' o 'smile' solo pierden la -e y no duplican nada. Reconocer la vocal evita confundir ambos grupos.
@@ -384,13 +384,13 @@ Choose the correct form: '____ you waiting for the results?'
 
 ### Opciones
 - [ ] A) Do
-  <!-- feedback: Incorrecto. 'Do' pertenece al presente simple y no admite el gerundio 'waiting' detras. -->
+  <!-- feedback: Incorrect. 'Do' belongs to the present simple and can't be followed by the -ing form 'waiting'. -->
 - [ ] B) Is
-  <!-- feedback: Incorrecto. 'Is' corresponde a he, she o it y no concuerda con el sujeto 'you'. -->
+  <!-- feedback: Incorrect. 'Is' goes with he, she or it and doesn't agree with the subject 'you'. -->
 - [x] C) Are
-  <!-- feedback: Correcto. Con el sujeto 'you' el auxiliar es 'are', y la negacion ya viene expresada por el verbo principal 'waiting' en la pregunta. -->
+  <!-- feedback: Correct. With the subject 'you' the auxiliary is 'are', and the negation is already expressed by the main verb 'waiting' in the question. -->
 - [ ] D) Am
-  <!-- feedback: Incorrecto. 'Am' se usa con 'I' en primera persona del singular, nunca con 'you'. -->
+  <!-- feedback: Incorrect. 'Am' is used with 'I' in the first person singular, never with 'you'. -->
 
 ### Explicacion Pedagogica
 En una pregunta el auxiliar 'to be' abre la frase y decide la concordancia con el sujeto. El gerundio no lleva auxiliar propio y simplemente sigue al verbo 'to be'. Cualquier otra forma de auxiliar rompe la estructura del presente continuo.
@@ -409,13 +409,13 @@ What does this sentence express? 'We are meeting the teacher tomorrow at ten.'
 
 ### Opciones
 - [x] A) An arrangement for a future time.
-  <!-- feedback: Correcto. El presente continuo con referencia al futuro expresa un plan o acuerdo ya organizado. -->
+  <!-- feedback: Correct. The present continuous with future reference expresses a plan or arrangement that has already been made. -->
 - [ ] B) An action that is happening right now.
-  <!-- feedback: Incorrecto. La marca 'tomorrow at ten' situa la accion en el futuro, de modo que la lectura de algo que ocurre ahora mismo no encaja con el enunciado. -->
+  <!-- feedback: Incorrect. The marker 'tomorrow at ten' places the action in the future, so reading it as something happening right now doesn't fit the sentence. -->
 - [ ] C) A habit from the past.
-  <!-- feedback: Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, no con esta estructura. -->
+  <!-- feedback: Incorrect. Past habits are expressed with the past simple or the past continuous, not with this structure. -->
 - [ ] D) A prediction about the future.
-  <!-- feedback: Incorrecto. Las predicciones usan 'will' o 'going to', mientras que el presente continuo anuncia planes ya decididos. -->
+  <!-- feedback: Incorrect. Predictions use 'will' or 'going to', whereas the present continuous announces plans that have already been decided. -->
 
 ### Explicacion Pedagogica
 El presente continuo tiene un uso especial con el futuro: un acuerdo o plan definido. Cuando hay una hora exacta y un compromiso asumido, como 'we are meeting tomorrow at ten', la frase describe algo futuro pero seguro y ya organizado.
@@ -434,13 +434,13 @@ Question: 'Are you eating lunch now?' Answer: '____'
 
 ### Opciones
 - [x] A) Yes, I am.
-  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'to be' y el sujeto, y es la forma esperada en presente continuo. -->
+  <!-- feedback: Correct. The short answer repeats the auxiliary 'to be' and the subject, and it is the expected form in the present continuous. -->
 - [ ] B) Yes, I eat.
-  <!-- feedback: Incorrecto. 'I eat' es presente simple y no repite el auxiliar que abre la pregunta. -->
+  <!-- feedback: Incorrect. 'I eat' is present simple and doesn't repeat the auxiliary that opens the question. -->
 - [ ] C) Yes, I am eating.
-  <!-- feedback: Incorrecto. Es una respuesta valida pero no es una respuesta corta: la pregunta pide solo 'Yes, I am'. -->
+  <!-- feedback: Incorrect. It's a valid answer but not a short answer: the question calls for just 'Yes, I am'. -->
 - [ ] D) Yes, I do.
-  <!-- feedback: Incorrecto. 'Do' responde a preguntas de presente simple, no a una pregunta construida con 'are'. -->
+  <!-- feedback: Incorrect. 'Do' answers present simple questions, not a question built with 'are'. -->
 
 ### Explicacion Pedagogica
 Las respuestas cortas siguen el mismo auxiliar que la pregunta. Si la pregunta abre con 'are', la respuesta abre con 'am' para 'I'; si abre con 'do', la respuesta abre con 'do'. Ignorar el auxiliar cambia el tiempo verbal de la respuesta.
@@ -459,13 +459,13 @@ Which sentence is not natural in English?
 
 ### Opciones
 - [ ] A) An action that is happening right now.
-  <!-- feedback: Incorrecto. La marca 'tomorrow at ten' situa la frase en el futuro, no en este momento, asi que la lectura de ahora es incorrecta. -->
+  <!-- feedback: Incorrect. The marker 'tomorrow at ten' places the sentence in the future, not at this moment, so the "right now" reading is incorrect. -->
 - [ ] B) A habit from the past.
-  <!-- feedback: Incorrecto. Los habitos del pasado se expresan con el pasado simple o el pasado continuo, nunca con 'are meeting'. -->
+  <!-- feedback: Incorrect. Past habits are expressed with the past simple or the past continuous, never with 'are meeting'. -->
 - [ ] C) A prediction about the future.
-  <!-- feedback: Incorrecto. Las predicciones usan 'will' o 'going to'; el presente continuo anuncia un acuerdo, no una prediccion. -->
+  <!-- feedback: Incorrect. Predictions use 'will' or 'going to'; the present continuous announces an arrangement, not a prediction. -->
 - [x] D) An arrangement for a future time.
-  <!-- feedback: Correcto. Con fecha y hora concretas el presente continuo anuncia un plan ya organizado, que es su uso futuro mas caracteristico. -->
+  <!-- feedback: Correct. With a specific date and time, the present continuous announces a plan that has already been arranged, which is its most typical future use. -->
 
 ### Explicacion Pedagogica
 Ciertos verbos de estado, como 'to know', 'to love', 'to want' o 'to believe', no se usan normalmente en presente continuo. Se expresan con presente simple, porque describen una situacion permanente y no una actividad en curso.
@@ -484,13 +484,13 @@ Complete the sentence: 'Look! The bus ____ (come) around the corner.'
 
 ### Opciones
 - [ ] A) comes
-  <!-- feedback: Incorrecto. 'Comes' es presente simple, y la exclamacion 'Look' apunta a algo que ocurre en este instante. -->
+  <!-- feedback: Incorrect. 'Comes' is present simple, and the exclamation 'Look' points to something happening at this very moment. -->
 - [x] B) is coming
-  <!-- feedback: Correcto. 'Look' es la marca clasica del presente continuo y senala algo que esta sucediendo en este momento. -->
+  <!-- feedback: Correct. 'Look' is the classic marker of the present continuous and signals something happening at this moment. -->
 - [ ] C) is come
-  <!-- feedback: Incorrecto. Falta el auxiliar 'to be' y el verbo queda con la terminacion de presente simple, mezclando dos tiempos verbales. -->
+  <!-- feedback: Incorrect. The auxiliary 'to be' is missing and the verb keeps the present simple ending, mixing two tenses. -->
 - [ ] D) is comming
-  <!-- feedback: Incorrecto. 'Come' ya termina en -e, de modo que se pierde la -e y no se duplica la -m final. -->
+  <!-- feedback: Incorrect. 'Come' already ends in -e, so the -e is dropped and the final -m is not doubled. -->
 
 ### Explicacion Pedagogica
 Verbos como 'look', 'listen' y 'now' indican que algo esta pasando en el momento en que se habla. En esos casos el presente continuo es obligatorio, y el gerundio se forma quitando la -e final del verbo cuando existe.
@@ -509,13 +509,13 @@ Choose the correct tag: 'I am not tired yet, ____?'
 
 ### Opciones
 - [ ] A) aren't I
-  <!-- feedback: Incorrecto. 'Aren't' corresponde a 'you' o a un sujeto plural, y el sujeto del enunciado es 'I'. -->
+  <!-- feedback: Incorrect. 'Aren't' goes with 'you' or a plural subject, and the subject of the sentence is 'I'. -->
 - [ ] B) do I not
-  <!-- feedback: Incorrecto. 'Do' pertenece al presente simple, no al presente continuo que aparece en la frase principal. -->
+  <!-- feedback: Incorrect. 'Do' belongs to the present simple, not to the present continuous used in the main clause. -->
 - [x] C) am I not
-  <!-- feedback: Correcto. Una frase negativa pide un tag positivo, y el auxiliar 'am' se mantiene con 'I' como sujeto. -->
+  <!-- feedback: Correct. A negative sentence takes a positive tag, and the auxiliary 'am' is kept with 'I' as the subject. -->
 - [ ] D) isn't I
-  <!-- feedback: Incorrecto. 'Isn't' es la tercera persona singular y no concuerda con el sujeto 'I' de la oracion. -->
+  <!-- feedback: Incorrect. 'Isn't' is third person singular and doesn't agree with the subject 'I' of the sentence. -->
 
 ### Explicacion Pedagogica
 En presente continuo el tag se construye con el mismo auxiliar de la frase principal. Con 'I' ese auxiliar es 'am', de modo que la forma contracta mas usual es "aren't I" en la afirmacion y "am I" en la negacion, que es la unica combinacion posible.

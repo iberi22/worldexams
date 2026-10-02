@@ -34,13 +34,13 @@ Which sentence uses 'can' for ability correctly?
 
 ### Opciones
 - [x] A) She can speak three languages.
-  <!-- feedback: Correcto. 'Can' expresa habilidad y le sigue directamente la forma base del verbo, sin terminacion. -->
+  <!-- feedback: Correct. 'Can' expresses ability and is followed directly by the base form of the verb, with no ending. -->
 - [ ] B) She cans speak three languages.
-  <!-- feedback: Incorrecto. El modal 'can' nunca lleva -s, porque no es un verbo principal con sujeto propio. -->
+  <!-- feedback: Incorrect. The modal 'can' never takes -s, because it is not a main verb with its own subject. -->
 - [ ] C) She can speaking three languages.
-  <!-- feedback: Incorrecto. Detras de un modal la forma base es obligatoria; el gerundio pertenece al modo indicativo con 'to be'. -->
+  <!-- feedback: Incorrect. After a modal, the base form is required; the gerund is used with 'to be' in the indicative. -->
 - [ ] D) She can speaks three languages.
-  <!-- feedback: Incorrecto. Detras de 'can' el verbo va en forma base 'speak' y no en tercera persona 'speaks'. -->
+  <!-- feedback: Incorrect. After 'can', the verb takes the base form 'speak', not the third-person form 'speaks'. -->
 
 ### Explicacion Pedagogica
 Los verbos modales no cambian de forma: no llevan -s, ni terminacion de pasado, ni infinitivo. Siempre van seguidos de la forma base del verbo principal y forman el mismo esquema con cualquier sujeto.
@@ -59,13 +59,13 @@ Complete the sentence: 'He ____ (not / be) able to come to the rehearsal.'
 
 ### Opciones
 - [ ] A) don't able to
-  <!-- feedback: Incorrecto. 'Do' no combina con 'to be', y la forma larga de 'can' exige 'to be' mas 'able'. -->
+  <!-- feedback: Incorrect. 'Do' does not combine with 'to be', and the long form of 'can' requires 'to be' plus 'able'. -->
 - [ ] B) isn't able
-  <!-- feedback: Incorrecto. Falta el 'to' antes de 'able' y antes del infinitivo, que es obligatorio en esta estructura. -->
+  <!-- feedback: Incorrect. 'to' is missing before 'able' and before the infinitive, and this structure requires it. -->
 - [x] C) isn't able to
-  <!-- feedback: Correcto. 'Be able to' es la forma larga de 'can' y admite negacion con 'not' detras de 'to be'. -->
+  <!-- feedback: Correct. 'Be able to' is the long form of 'can', and it is made negative by putting 'not' after 'to be'. -->
 - [ ] D) not is able to
-  <!-- feedback: Incorrecto. El orden es 'to be' mas 'not' mas 'able to', y no 'not' antes del verbo 'to be'. -->
+  <!-- feedback: Incorrect. The correct order is 'to be' plus 'not' plus 'able to', not 'not' before the verb 'to be'. -->
 
 ### Explicacion Pedagogica
 'Can' y 'be able to' significan lo mismo, pero la forma larga es mas formal y admite tiempos que 'can' no tiene. En negacion y en preguntas la estructura es 'to be' mas 'not' mas 'able to' mas infinitivo.
@@ -84,13 +84,13 @@ Which sentence asks for permission correctly?
 
 ### Opciones
 - [ ] A) May I coming in?
-  <!-- feedback: Incorrecto. Detras de un modal la forma base es obligatoria, de modo que el gerundio 'coming' es incorrecto. -->
+  <!-- feedback: Incorrect. A modal must be followed by the base form, so the gerund 'coming' is wrong. -->
 - [x] B) May I come in?
-  <!-- feedback: Correcto. 'May I' es la forma mas formal y educada de pedir permiso para entrar o sentarse. -->
+  <!-- feedback: Correct. 'May I' is the most formal and polite way to ask permission to come in or sit down. -->
 - [ ] C) May I comes in?
-  <!-- feedback: Incorrecto. El verbo principal queda en forma base 'come' y no en tercera persona 'comes'. -->
+  <!-- feedback: Incorrect. The main verb stays in the base form 'come', not the third-person form 'comes'. -->
 - [ ] D) I may to come in?
-  <!-- feedback: Incorrecto. La estructura de la oracion es invertida, con el modal delante del sujeto y sin 'to' despues. -->
+  <!-- feedback: Incorrect. The sentence structure is inverted, with the modal before the subject and no 'to' after it. -->
 
 ### Explicacion Pedagogica
 'May' es el modal mas formal para pedir permiso y se usa casi siempre con I o we. 'Can' tambien pide permiso, pero con un tono menos formal, y esa distincion aparece a menudo en los examenes de la unidad.
@@ -109,13 +109,13 @@ Which sentence gives permission?
 
 ### Opciones
 - [ ] A) You cans leave early today.
-  <!-- feedback: Incorrecto. Los verbos modales no se conjugan con -s, porque no tienen marca de persona gramatical. -->
+  <!-- feedback: Incorrect. Modal verbs do not take -s, because they are not marked for grammatical person. -->
 - [ ] B) You can leaving early today.
-  <!-- feedback: Incorrecto. Detras de 'can' solo cabe la forma base del verbo, no el gerundio. -->
+  <!-- feedback: Incorrect. After 'can', only the base form of the verb is possible, not the gerund. -->
 - [ ] C) You can leaves early today.
-  <!-- feedback: Incorrecto. La forma base 'leave' sustituye a 'leaves' detras de cualquier modal. -->
+  <!-- feedback: Incorrect. After any modal, the base form 'leave' is used instead of 'leaves'. -->
 - [x] D) You can leave early today.
-  <!-- feedback: Correcto. 'Can' con afirmacion concede permiso y es el registro natural en el aula. -->
+  <!-- feedback: Correct. Affirmative 'can' grants permission and is the natural choice in the classroom. -->
 
 ### Explicacion Pedagogica
 Los verbos modales son invariables en todas las formas: can, may, must, should y shall no cambian segun el sujeto ni el tiempo. Ese rasgo es la diferencia mas visible entre un modal y un verbo auxiliar como 'do' o 'have'.
@@ -134,13 +134,13 @@ Which sentence is the most polite request?
 
 ### Opciones
 - [ ] A) Open the window.
-  <!-- feedback: Incorrecto. Es una orden directa y no constituye una peticion cortés. -->
+  <!-- feedback: Incorrect. It is a direct command, not a polite request. -->
 - [ ] B) You open the window.
-  <!-- feedback: Incorrecto. El orden de la frase no es de peticion y suena como una afirmacion sobre el oyente. -->
+  <!-- feedback: Incorrect. The word order is not that of a request, so it sounds like a statement about the listener. -->
 - [ ] C) Can you opening the window?
-  <!-- feedback: Incorrecto. Detras de 'can' el verbo va en forma base 'open' y no en gerundio 'opening'. -->
+  <!-- feedback: Incorrect. After 'can', the verb takes the base form 'open', not the gerund 'opening'. -->
 - [x] D) Could you open the window, please?
-  <!-- feedback: Correcto. 'Could' es la forma mas cortés del ingles para pedir, y 'please' refuerza la cortesía. -->
+  <!-- feedback: Correct. 'Could' is the most polite way to make a request in English, and 'please' adds to the politeness. -->
 
 ### Explicacion Pedagogica
 Para pedir con cortesia se usa 'could', 'would you' o 'can you' seguido de un verbo principal infinitivo. La adicion de 'please' aumenta la cortesia, y el gerundio despues de un modal es siempre un error de esta unidad.
@@ -159,13 +159,13 @@ Complete the sentence: 'You ____ wear a uniform at the school; it is a rule.'
 
 ### Opciones
 - [ ] A) must to
-  <!-- feedback: Incorrecto. El modal 'must' no lleva 'to' detras, porque los modales van seguidos de la forma base directamente. -->
+  <!-- feedback: Incorrect. The modal 'must' is not followed by 'to', because a modal is followed directly by the base form. -->
 - [x] B) have to
-  <!-- feedback: Correcto. 'Have to' expresa una obligacion externa que proviene de una regla o disposicion ajena al hablante. -->
+  <!-- feedback: Correct. 'Have to' expresses an external obligation that comes from a rule or regulation, not from the speaker. -->
 - [ ] C) should to
-  <!-- feedback: Incorrecto. 'Should' expresa recomendacion y ademas no admite 'to' entre el modal y el verbo principal. -->
+  <!-- feedback: Incorrect. 'Should' expresses a recommendation, and it cannot take 'to' between the modal and the main verb. -->
 - [ ] D) can to
-  <!-- feedback: Incorrecto. 'Can' expresa habilidad o permiso, no obligacion, y la estructura con 'to' detras tampoco es valida. -->
+  <!-- feedback: Incorrect. 'Can' expresses ability or permission, not obligation, and it cannot be followed by 'to' either. -->
 
 ### Explicacion Pedagogica
 La diferencia entre 'must' y 'have to' es un punto fino que los examenes suelen explorar. 'Must' expresa obligacion del hablante, mientras que 'have to' expresa una obligacion impuesta por una regla externa, como el reglamento de un centro.
@@ -184,13 +184,13 @@ Which sentence expresses past ability?
 
 ### Opciones
 - [x] A) She could swim when she was five.
-  <!-- feedback: Correcto. 'Could' es la forma pasada de 'can' y expresa una habilidad que se tenia en el pasado. -->
+  <!-- feedback: Correct. 'Could' is the past form of 'can' and expresses an ability someone had in the past. -->
 - [ ] B) She can swim when she was five.
-  <!-- feedback: Incorrecto. 'Can' describe una capacidad del presente y no encaja con 'when she was five'. -->
+  <!-- feedback: Incorrect. 'Can' describes a present ability and does not fit with 'when she was five'. -->
 - [ ] C) She can swimming when she was five.
-  <!-- feedback: Incorrecto. Detras de un modal nunca aparece el gerundio, sea cual sea el tiempo verbal. -->
+  <!-- feedback: Incorrect. A modal is never followed by a gerund, whatever the tense. -->
 - [ ] D) She could swim when she is five.
-  <!-- feedback: Incorrecto. 'Is' describe el presente y contradice la marca temporal 'was' de la oracion. -->
+  <!-- feedback: Incorrect. 'Is' describes the present and contradicts the time marker 'was' in the sentence. -->
 
 ### Explicacion Pedagogica
 'Can' tiene una sola forma pasada, 'could', que no expresa una capacidad perdida sino una que se tenia. Esa caracteristica lo diferencia de otros modales, donde el pasado suele implicar cambio de estado.
@@ -209,13 +209,13 @@ Choose the correct question: '____ I use your dictionary?'
 
 ### Opciones
 - [ ] A) Do
-  <!-- feedback: Incorrecto. 'Do' es un auxiliar del presente simple y no expresa peticion de permiso. -->
+  <!-- feedback: Incorrect. 'Do' is a present simple auxiliary and does not express a request for permission. -->
 - [ ] B) Must
-  <!-- feedback: Incorrecto. 'Must' expresa obligacion y la frase seria una imposicion, no una peticion. -->
+  <!-- feedback: Incorrect. 'Must' expresses obligation, so the sentence would impose something instead of making a request. -->
 - [x] C) May
-  <!-- feedback: Correcto. 'May I' es la estructura formal para pedir permiso sobre algo que pertenece a otra persona. -->
+  <!-- feedback: Correct. 'May I' is the formal structure for asking permission to use something that belongs to someone else. -->
 - [ ] D) Am
-  <!-- feedback: Incorrecto. 'Am' pertenece al verbo 'to be' en primera persona y no se usa para pedir permiso. -->
+  <!-- feedback: Incorrect. 'Am' is the first-person form of 'to be' and is not used to ask permission. -->
 
 ### Explicacion Pedagogica
 Las dos estructuras para pedir permiso son 'may I' y 'can I'. La primera es la mas cuidada y aparece en situaciones formales, y la segunda es la habitual en el dia a dia entre compañeros de clase.
@@ -234,13 +234,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) Can she plays the saxophone?
-  <!-- feedback: Incorrecto. Detras de 'can' la tercera persona no lleva -s, de modo que corresponde 'play'. -->
+  <!-- feedback: Incorrect. After 'can', the third person does not take -s, so the correct form is 'play'. -->
 - [ ] B) Does she can play the saxophone?
-  <!-- feedback: Incorrecto. 'Can' ya es un modal y no admite el auxiliar 'does' delante. -->
+  <!-- feedback: Incorrect. 'Can' is already a modal, so it cannot have the auxiliary 'does' before it. -->
 - [x] C) Can she play the saxophone?
-  <!-- feedback: Correcto. 'Can' abre la pregunta y el verbo principal queda en forma base 'play'. -->
+  <!-- feedback: Correct. 'Can' opens the question and the main verb stays in the base form 'play'. -->
 - [ ] D) Is she can play the saxophone?
-  <!-- feedback: Incorrecto. Un modal no puede combinarse con 'to be' en la misma frase como auxiliar. -->
+  <!-- feedback: Incorrect. A modal cannot be combined with 'to be' as an auxiliary in the same sentence. -->
 
 ### Explicacion Pedagogica
 Una pregunta con modal no lleva ningun auxiliar adicional. El propio 'can', 'may', 'must' o 'should' abre la frase y el verbo principal va en forma base. Anadir 'do', 'does' o 'to be' produce siempre una estructura incorrecta.
@@ -259,13 +259,13 @@ What is the difference between 'must' and 'have to'?
 
 ### Opciones
 - [x] A) 'Must' shows the speaker's obligation and 'have to' an external rule.
-  <!-- feedback: Correcto. Los dos expresan obligacion, pero 'must' proviene del hablante y 'have to' de una disposicion externa. -->
+  <!-- feedback: Correct. Both express obligation, but 'must' comes from the speaker and 'have to' from an external rule. -->
 - [ ] B) 'Must' is past and 'have to' is present.
-  <!-- feedback: Incorrecto. Los dos son formas presentes; el pasado de 'must' es 'had to' y el de 'have to' es 'had to'. -->
+  <!-- feedback: Incorrect. Both are present forms; the past of 'must' is 'had to', and the past of 'have to' is also 'had to'. -->
 - [ ] C) 'Must' is more polite than 'have to'.
-  <!-- feedback: Incorrecto. La relacion de cortesia es la inversa: 'have to' suena mas suave porque la obligacion no proviene del propio hablante. -->
+  <!-- feedback: Incorrect. The politeness relationship is the reverse: 'have to' sounds softer because the obligation does not come from the speaker. -->
 - [ ] D) 'Must' can be negated with 'not' in every context.
-  <!-- feedback: Incorrecto. En sentido de obligacion fuerte 'must not' no admite negacion, y en el sentido de prohibicion significa precisamente 'prohibido'. -->
+  <!-- feedback: Incorrect. In the sense of strong obligation, 'must not' does not allow negation, and in the sense of prohibition it means precisely 'prohibido'. -->
 
 ### Explicacion Pedagogica
 La obligacion tiene dos fuentes: la propia y la externa. 'Must' expresa la primera y 'have to' la segunda. Esa distincion tambien explica por que 'must not' significa 'prohibido' mientras que 'don't have to' significa 'no hace falta'.
@@ -284,13 +284,13 @@ Which sentence offers permission correctly?
 
 ### Opciones
 - [ ] A) You may using my car this weekend.
-  <!-- feedback: Incorrecto. Detras de 'may' el verbo va en forma base 'use' y no en gerundio 'using'. -->
+  <!-- feedback: Incorrect. After 'may' the verb goes in the base form 'use', not the gerund 'using'. -->
 - [ ] B) You may uses my car this weekend.
-  <!-- feedback: Incorrecto. El modal 'may' no cambia segun el sujeto y el verbo principal queda en forma base. -->
+  <!-- feedback: Incorrect. The modal 'may' does not change with the subject, and the main verb stays in the base form. -->
 - [ ] C) You may to use my car this weekend.
-  <!-- feedback: Incorrecto. No se anade 'to' entre el modal y el verbo principal, porque el modal ya marca el modo infinitivo. -->
+  <!-- feedback: Incorrect. No 'to' is added between the modal and the main verb, because the modal already marks the infinitive. -->
 - [x] D) You may use my car this weekend.
-  <!-- feedback: Correcto. 'May' en afirmacion concede permiso de manera formal y cordial. -->
+  <!-- feedback: Correct. Affirmative 'May' grants permission in a formal and courteous way. -->
 
 ### Explicacion Pedagogica
 El modal ya contiene la idea de infinitivo, de modo que el verbo principal va directamente en forma base sin 'to'. Anadir 'to' entre el modal y el verbo es uno de los errores mas frecuentes de esta unidad entre estudiantes hispanohablantes.
@@ -309,13 +309,13 @@ Complete the sentence: 'Would you mind ____ the window? The room is hot.'
 
 ### Opciones
 - [ ] A) to open
-  <!-- feedback: Incorrecto. En el enunciado se pide una sola forma, y la estructura con gerundio es la que corresponde a una peticion de accion. -->
+  <!-- feedback: Incorrect. The prompt asks for a single form, and the gerund structure is the one used to request an action. -->
 - [x] B) opening
-  <!-- feedback: Correcto. En 'would you mind' seguido de gerundio se pide permiso para una accion, y aqui la accion es abrir la ventana. -->
+  <!-- feedback: Correct. With 'would you mind' followed by a gerund, you ask permission for an action, and here the action is opening the window. -->
 - [ ] C) open
-  <!-- feedback: Incorrecto. El gerundio o el infinitivo son las dos unicas formas admitidas detras de 'would you mind'. -->
+  <!-- feedback: Incorrect. The gerund and the infinitive are the only two forms allowed after 'would you mind'. -->
 - [ ] D) opened
-  <!-- feedback: Incorrecto. El participio no aparece en ninguna de las dos estructuras de 'would you mind'. -->
+  <!-- feedback: Incorrect. The participle does not appear in either of the two 'would you mind' structures. -->
 
 ### Explicacion Pedagogica
 'Would you mind' admite gerundio para pedir permiso sobre una accion e infinitivo para una peticion de estilo mas formal. Ambas formas son aceptables, pero el ejercicio pide una unica respuesta.
@@ -334,13 +334,13 @@ Choose the correct negative: 'He ____ (not / be) able to drive yet; he is only s
 
 ### Opciones
 - [ ] A) don't
-  <!-- feedback: Incorrecto. 'Don't' es el auxiliar del presente simple y no niega la capacidad. -->
+  <!-- feedback: Incorrect. 'Don't' is the present simple auxiliary and does not negate ability. -->
 - [x] B) can't
-  <!-- feedback: Correcto. 'Can't' es la forma contracta de 'cannot' y es la negacion mas natural para la habilidad. -->
+  <!-- feedback: Correct. 'Can't' is the contracted form of 'cannot' and is the most natural negation for ability. -->
 - [ ] C) doesn't can
-  <!-- feedback: Incorrecto. 'Can' es un modal y no admite auxiliares como 'does' delante. -->
+  <!-- feedback: Incorrect. 'Can' is a modal and does not take auxiliaries like 'does' in front of it. -->
 - [ ] D) isn't able
-  <!-- feedback: Incorrecto. Falta el 'to' antes del infinitivo, que es obligatorio en 'be able to'. -->
+  <!-- feedback: Incorrect. The 'to' before the infinitive is missing, and it is mandatory in 'be able to'. -->
 
 ### Explicacion Pedagogica
 'Cannot' se contracted como 'can't' en la lengua escrita y hablada. Es la unica negacion posible para la capacidad con 'can', y por eso cualquier auxiliar adicional convierte la frase en incorrecta.
@@ -359,13 +359,13 @@ What does 'You must not use the phone during the exam' mean?
 
 ### Opciones
 - [ ] A) It is not necessary.
-  <!-- feedback: Incorrecto. Para expresar que no es necesario se usa 'don't have to', no 'must not'. -->
+  <!-- feedback: Incorrect. To express that something is not necessary, use 'don't have to', not 'must not'. -->
 - [ ] B) It is optional.
-  <!-- feedback: Incorrecto. Una accion opcional se expresa con 'can' o 'may', nunca con 'must not'. -->
+  <!-- feedback: Incorrect. An optional action is expressed with 'can' or 'may', never with 'must not'. -->
 - [ ] C) It is not possible.
-  <!-- feedback: Incorrecto. 'Must not' habla de permiso y obligacion, mientras que la imposibilidad se expresa con 'cannot'. -->
+  <!-- feedback: Incorrect. 'Must not' is about permission and obligation, whereas impossibility is expressed with 'cannot'. -->
 - [x] D) It is prohibited.
-  <!-- feedback: Correcto. 'Must not' expresa prohibicion y significa que la accion no esta permitida bajo ninguna circunstancia. -->
+  <!-- feedback: Correct. 'Must not' expresses prohibition and means the action is not allowed under any circumstances. -->
 
 ### Explicacion Pedagogica
 La diferencia entre 'must not' y 'don't have to' es de las mas importantes de la unidad. 'Must not' prohibe de forma absoluta, mientras que 'don't have to' indica que algo no es obligatorio y por tanto queda libre.
@@ -384,13 +384,13 @@ Question: 'May I sit here?' Answer: '____'
 
 ### Opciones
 - [ ] A) Yes, you can.
-  <!-- feedback: Incorrecto. 'Can' tambien concede permiso, pero la respuesta a una pregunta con 'may' se formula con 'may'. -->
+  <!-- feedback: Incorrect. 'Can' also grants permission, but the answer to a question with 'may' is formed with 'may'. -->
 - [ ] B) Yes, you must.
-  <!-- feedback: Incorrecto. 'Must' expresa obligacion y no es la respuesta a una pregunta de permiso. -->
+  <!-- feedback: Incorrect. 'Must' expresses obligation and is not the answer to a permission question. -->
 - [x] C) Yes, you may.
-  <!-- feedback: Correcto. La respuesta corta repite el modal 'may' de la pregunta, que es la forma esperada. -->
+  <!-- feedback: Correct. The short answer repeats the modal 'may' from the question, which is the expected form. -->
 - [ ] D) Yes, you do.
-  <!-- feedback: Incorrecto. 'Do' es el auxiliar del presente simple y no corresponde a una pregunta con modal. -->
+  <!-- feedback: Incorrect. 'Do' is the present simple auxiliary and does not fit a question with a modal. -->
 
 ### Explicacion Pedagogica
 En una respuesta corta se repite el mismo modal que aparece en la pregunta. Si la pregunta usa 'may', la respuesta usa 'may', y si usa 'can', la respuesta usa 'can'. Los modales no se sustituyen entre si.
@@ -409,13 +409,13 @@ Complete the sentence: 'She has ____ swim since she was a child.'
 
 ### Opciones
 - [x] A) been able to
-  <!-- feedback: Correcto. 'Has been able to' es la estructura del presente perfecto con 'be able to', y expresses una capacidad que se conserva. -->
+  <!-- feedback: Correct. 'Has been able to' is the present perfect structure with 'be able to', and it expresses an ability that is still retained. -->
 - [ ] B) be able to
-  <!-- feedback: Incorrecto. 'Has' exige el participio 'been' antes de 'able to' para poder funcionar como presente perfecto. -->
+  <!-- feedback: Incorrect. 'Has' requires the participle 'been' before 'able to' to work as present perfect. -->
 - [ ] C) can
-  <!-- feedback: Incorrecto. 'Can' no tiene forma de presente perfecto, de modo que no puede combinarse con 'has' ni con 'since'. -->
+  <!-- feedback: Incorrect. 'Can' has no present perfect form, so it cannot be combined with 'has' or 'since'. -->
 - [ ] D) being able to
-  <!-- feedback: Incorrecto. El gerundio no forma el presente perfecto con 'has', que exige siempre el participio pasado. -->
+  <!-- feedback: Incorrect. The gerund does not form the present perfect with 'has', which always requires the past participle. -->
 
 ### Explicacion Pedagogica
 'Be able to' tiene la ventaja de que se conjuga en todos los tiempos, incluido el presente perfecto. 'Can' solo tiene presente y pasado, de modo que para expressing una capacidad que se mantiene desde el pasado se necesita la forma larga.
@@ -434,13 +434,13 @@ Which sentence is the most formal request?
 
 ### Opciones
 - [x] A) Would you be so kind as to open the door?
-  <!-- feedback: Correcto. Es la estructura de peticion mas formal del ingles, con 'would' y una formula de cortesía elaborate. -->
+  <!-- feedback: Correct. It is the most formal request structure in English, with 'would' and an elaborate politeness formula. -->
 - [ ] B) Open the door, please.
-  <!-- feedback: Incorrecto. Es correcta y cortes en el dia a dia, pero no es la forma mas formal de las propuestas. -->
+  <!-- feedback: Incorrect. It is correct and polite in everyday use, but it is not the most formal of the options given. -->
 - [ ] C) Can you open the door?
-  <!-- feedback: Incorrecto. Es una peticion de cortesia normal entre compañeros, no la opcion mas formal. -->
+  <!-- feedback: Incorrect. It is a normal polite request between peers, not the most formal option. -->
 - [ ] D) You open the door now.
-  <!-- feedback: Incorrecto. Es una orden y no una peticion, por lo que no encaja en este ejercicio. -->
+  <!-- feedback: Incorrect. It is an order, not a request, so it does not fit this exercise. -->
 
 ### Explicacion Pedagogica
 El grado de cortesia se construye con 'would' mas la estructura 'be so kind as to'. Es la formula mas formal disponible y aparece con frecuencia en situaciones de servicio o en la correspondencia oficial.
@@ -465,7 +465,7 @@ Which sentence is NOT correct?
 - [ ] C) He could play the guitar when he was a child.
   <!-- feedback: Esta frase si es correcta, porque 'could' expresa la habilidad que se tenia en el pasado. -->
 - [x] D) He cans play the guitar very well.
-  <!-- feedback: Correcto. Esta es la frase incorrecta: los modales no llevan -s, de modo que no puede existir la forma 'cans'. -->
+  <!-- feedback: Correct. This is the incorrect sentence: modals do not take -s, so the form 'cans' cannot exist. -->
 
 ### Explicacion Pedagogica
 Los verbos modales son la unica clase de verbos del ingles que no tienen forma de tercera persona singular. Esa caracteristica es tan marcada que anadir una -s a 'can' es siempre un error, sin excepcion.
@@ -484,13 +484,13 @@ Which sentence asks for permission in a polite and correct way?
 
 ### Opciones
 - [ ] A) Do you mind if I opening the window?
-  <!-- feedback: Incorrecto. Despues de 'if' la frase va en presente simple y no en gerundio. -->
+  <!-- feedback: Incorrect. After 'if' the clause goes in the present simple, not the gerund. -->
 - [x] B) Do you mind if I open the window?
-  <!-- feedback: Correcto. 'Do you mind if' seguido de presente simple es una de las estructuras mas usadas para pedir permiso. -->
+  <!-- feedback: Correct. 'Do you mind if' followed by the present simple is one of the most common structures for asking permission. -->
 - [ ] C) Do you mind if I opened the window?
-  <!-- feedback: Incorrecto. Con 'if' se usa presente simple, porque la condicion se presenta como algo posible y no pasado. -->
+  <!-- feedback: Incorrect. With 'if' the present simple is used, because the condition is presented as something possible, not past. -->
 - [ ] D) Do you mind me open the window?
-  <!-- feedback: Incorrecto. La estructura lleva 'if' mas una clausula completa, no un infinitivo suelto tras 'me'. -->
+  <!-- feedback: Incorrect. The structure takes 'if' plus a full clause, not a bare infinitive after 'me'. -->
 
 ### Explicacion Pedagogica
 'Do you mind if' se construye con presente simple en la clausula de if, porque se trata de una condicion posible en el presente o en el futuro inmediato. El gerundio y el pasado simple producen estructuras incorrectas.
@@ -509,13 +509,13 @@ Complete the sentence: '____ you able to help me with this project?'
 
 ### Opciones
 - [ ] A) Do
-  <!-- feedback: Incorrecto. 'Do' no combina con 'to be' mas 'able', porque esa forma es un verbo 'to be' y no un verbo de accion. -->
+  <!-- feedback: Incorrect. 'Do' does not combine with 'to be' plus 'able', because that form is built on the verb 'to be', not an action verb. -->
 - [ ] B) Can
   <!-- feedback: En esta oracion no cabe 'can' porque la palabra 'able' ya aparece en el enunciado y no puede duplicarse. -->
 - [x] C) Are
-  <!-- feedback: Correcto. 'Are you able to' es la forma interrogativa de 'be able to' y el infinitivo 'to help' completa la estructura. -->
+  <!-- feedback: Correct. 'Are you able to' is the question form of 'be able to', and the infinitive 'to help' completes the structure. -->
 - [ ] D) Are you able helping me with this project?
-  <!-- feedback: Incorrecto. Detras de 'able' hace falta la preposicion 'to' antes del infinitivo 'help'. -->
+  <!-- feedback: Incorrect. After 'able' you need the preposition 'to' before the infinitive 'help'. -->
 
 ### Explicacion Pedagogica
 En una pregunta, 'can you' y 'are you able to' significan lo mismo, pero no pueden aparecer juntas porque la palabra 'able' ya esta incluida en una de las dos. Elegir una u otra depende de la estructura que se da en el enunciado.

@@ -34,13 +34,13 @@ Which sentence uses the past perfect correctly?
 
 ### Opciones
 - [x] A) When I arrived, the bus had already left.
-  <!-- feedback: Correcto. 'Had left' situa la salida del bus antes de la llegada, que es lo que expresa 'when'. -->
+  <!-- feedback: Correct. 'Had left' places the bus's departure before the arrival, which is what 'when' expresses. -->
 - [ ] B) When I arrived, the bus already left.
-  <!-- feedback: Incorrecto. Sin 'had' la frase no expresa la diferencia de orden entre los dos hechos pasados. -->
+  <!-- feedback: Incorrect. Without 'had', the sentence does not show which of the two past events happened first. -->
 - [ ] C) When I had arrive, the bus left.
-  <!-- feedback: Incorrecto. El participio de 'to arrive' es 'arrived', y el pasado perfecto nunca lleva forma base. -->
+  <!-- feedback: Incorrect. The participle of 'to arrive' is 'arrived', and the past perfect never uses the base form. -->
 - [ ] D) When I arrived, the bus has left.
-  <!-- feedback: Incorrecto. El presente perfecto no se usa con 'when' en pasado, porque 'has' pertenece a otra unidad temporal. -->
+  <!-- feedback: Incorrect. The present perfect is not used with a past-tense 'when' clause, because 'has' belongs to a different time frame. -->
 
 ### Explicacion Pedagogica
 El pasado perfecto se forma con 'had' mas el participio pasado y expresa una accion anterior a otra accion en pasado. Es el tiempo que se usa en las secuencias narrativas, donde hay que marcar con claridad que ocurrio primero.
@@ -59,13 +59,13 @@ Complete the sentence: 'By the time we reached the beach, the sun ____ (already 
 
 ### Opciones
 - [ ] A) had already sit
-  <!-- feedback: Incorrecto. 'Sit' no es un participio; el participio de 'to set' es 'set' y no lleva terminacion -ed. -->
+  <!-- feedback: Incorrect. 'Sit' is not a participle; the participle of 'to set' is 'set' and has no -ed ending. -->
 - [ ] B) has already set
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no puede expresar una accion anterior a otra pasada. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and cannot express an action that happened before another past action. -->
 - [x] C) had already set
-  <!-- feedback: Correcto. 'Had' mas el participio 'set' con 'already' forma el pasado perfecto y marca la accion anterior. -->
+  <!-- feedback: Correct. 'Had' plus the participle 'set' with 'already' forms the past perfect and marks the earlier action. -->
 - [ ] D) already had setting
-  <!-- feedback: Incorrecto. El pasado perfecto exige el participio pasado y no el gerundio 'setting'. -->
+  <!-- feedback: Incorrect. The past perfect requires the past participle, not the gerund 'setting'. -->
 
 ### Explicacion Pedagogica
 Los adverbios como 'already', 'just' y 'never' ocupan la posicion intermedia en el pasado perfecto: 'had' mas adverbio mas participio. La estructura es la misma que en presente perfecto, con 'had' en lugar de 'have' o 'has'.
@@ -84,13 +84,13 @@ Complete the sentence: 'She couldn't enter because she ____ (lose) her keys.'
 
 ### Opciones
 - [ ] A) has lost
-  <!-- feedback: Incorrecto. 'Has' pertenece al presente perfecto y no puede colocarse dentro de una secuencia pasada. -->
+  <!-- feedback: Incorrect. 'Has' belongs to the present perfect and cannot be placed within a past sequence. -->
 - [x] B) had lost
-  <!-- feedback: Correcto. 'Had lost' situa la perdida de las llaves antes del intento de entrar, que es la secuencia que explica la frase. -->
+  <!-- feedback: Correct. 'Had lost' places the loss of the keys before the attempt to get in, which is the sequence the sentence explains. -->
 - [ ] C) had lose
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'lost' y no en la forma base 'lose'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the past participle 'lost', not the base form 'lose'. -->
 - [ ] D) had losing
-  <!-- feedback: Incorrecto. El pasado perfecto no admite el gerundio 'losing' detras de 'had'. -->
+  <!-- feedback: Incorrect. The past perfect does not allow the gerund 'losing' after 'had'. -->
 
 ### Explicacion Pedagogica
 Cuando una accion pasada explica o impide otra accion pasada, la primera va en pasado perfecto. Esa secuencia es la funcion central de esta unidad y aparece con 'because', 'after', 'before' o 'when' como nexos.
@@ -109,13 +109,13 @@ Complete the sentence: 'He told us he ____ (write) the letter the night before.'
 
 ### Opciones
 - [ ] A) had wrote
-  <!-- feedback: Incorrecto. 'Wrote' es el pasado simple y no puede funcionar como participio detras de 'had'. -->
+  <!-- feedback: Incorrect. 'Wrote' is the past simple and cannot function as a participle after 'had'. -->
 - [ ] B) had writed
-  <!-- feedback: Incorrecto. Anadir -ed a un verbo irregular no produce ninguna forma del ingles. -->
+  <!-- feedback: Incorrect. Adding -ed to an irregular verb does not produce any valid English form. -->
 - [ ] C) has written
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una secuencia de dos acciones pasadas. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and does not fit a sequence of two past actions. -->
 - [x] D) had written
-  <!-- feedback: Correcto. 'Had written' es el pasado perfecto y 'written' es el participio irregular de 'to write'. -->
+  <!-- feedback: Correct. 'Had written' is the past perfect, and 'written' is the irregular participle of 'to write'. -->
 
 ### Explicacion Pedagogica
 El pasado perfecto usa el mismo participio que el presente perfecto. La diferencia esta unicamente en el auxiliar: 'had' mas participio para el pasado perfecto y 'have' o 'has' mas participio para el presente perfecto.
@@ -134,13 +134,13 @@ Which sentence expresses the correct order of past events?
 
 ### Opciones
 - [ ] A) After he had left, the lights had gone out.
-  <!-- feedback: Incorrecto. 'Had gone out' situa el apagado antes de la salida, pero 'after' exige lo contrario. -->
+  <!-- feedback: Incorrect. 'Had gone out' places the switching off before the leaving, but 'after' requires the opposite. -->
 - [ ] B) After he left, the lights had gone out.
-  <!-- feedback: Incorrecto. Aqui las dos acciones van en pasado simple y no se marca la diferencia de orden que pide el nexo. -->
+  <!-- feedback: Incorrect. Here both actions are in the past simple, so the order the connector calls for is not marked. -->
 - [ ] C) After he would left, the lights went out.
-  <!-- feedback: Incorrecto. 'Would' no expresa accion pasada anterior y la estructura no corresponde al pasado perfecto. -->
+  <!-- feedback: Incorrect. 'Would' does not express an earlier past action, and the structure does not match the past perfect. -->
 - [x] D) After he had left, the lights went out.
-  <!-- feedback: Correcto. 'Had left' es la accion mas antigua y 'went out' ocurre despues, como indica 'after'. -->
+  <!-- feedback: Correct. 'Had left' is the earlier action and 'went out' happens afterward, as 'after' indicates. -->
 
 ### Explicacion Pedagogica
 Los nexos temporales 'before' y 'after' determinan que tiempo verbal corresponde a cada accion. Con 'after', la accion que va en pasado perfecto es la primera; con 'before', es la segunda. Esa logica se verifica siempre antes de conjugar.
@@ -159,13 +159,13 @@ Complete the sentence: 'By the time I arrived, they ____ (finish) the project.'
 
 ### Opciones
 - [ ] A) have finished
-  <!-- feedback: Incorrecto. 'Have' es presente perfecto y no puede aparecer dentro de una secuencia pasada. -->
+  <!-- feedback: Incorrect. 'Have' is present perfect and cannot appear within a past sequence. -->
 - [x] B) had finished
-  <!-- feedback: Correcto. 'By the time' introduce el segundo evento, de modo que lo anterior va en pasado perfecto. -->
+  <!-- feedback: Correct. 'By the time' introduces the second event, so the earlier one goes in the past perfect. -->
 - [ ] C) had finish
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the past participle 'finished', not the base form. -->
 - [ ] D) were finishing
-  <!-- feedback: Incorrecto. 'Were finishing' es un condicional imposible y no expresa la accion previa que pide la frase. -->
+  <!-- feedback: Incorrect. 'Were finishing' is an impossible conditional and does not express the earlier action the sentence calls for. -->
 
 ### Explicacion Pedagogica
 La expresion 'by the time' es la senal mas clara de que hace falta pasado perfecto. Marca el momento de referencia y todo lo que ocurrio antes de ese momento va en 'had' mas participio.
@@ -184,13 +184,13 @@ Complete the sentence: 'We missed the concert because the band ____ (cancel) it.
 
 ### Opciones
 - [x] A) had cancelled
-  <!-- feedback: Correcto. 'Had cancelled' expresa que la cancelacion ocurrio antes y por esogyzno llegamos al concierto. -->
+  <!-- feedback: Correct. 'Had cancelled' shows that the cancellation happened first, which is why we didn't make it to the concert. -->
 - [ ] B) had cancel
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'cancelled' y no en la forma base 'cancel'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'cancelled', not the base form 'cancel'. -->
 - [ ] C) has cancelled
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una causa que ya actuo en el pasado. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and does not fit a cause that already took effect in the past. -->
 - [ ] D) had cancelling
-  <!-- feedback: Incorrecto. El gerundio no aparece en pasado perfecto, que siempre exige un participio pasado. -->
+  <!-- feedback: Incorrect. The gerund is not used in the past perfect, which always requires a past participle. -->
 
 ### Explicacion Pedagogica
 Cuando un pasado simple se explica por otro hecho anterior, la causa va en pasado perfecto. La estructura es 'because' mas 'had' mas participio, y es una de las combinaciones que mas se prueba en los exámenes de narracion.
@@ -209,13 +209,13 @@ Which question is correct?
 
 ### Opciones
 - [ ] A) Did you finished the report before the meeting?
-  <!-- feedback: Incorrecto. Detras de 'did' el verbo va en forma base, de modo que sobra la terminacion -ed. -->
+  <!-- feedback: Incorrect. After 'did', the verb takes the base form, so the -ed ending is wrong. -->
 - [ ] B) Have you finished the report before the meeting?
-  <!-- feedback: Incorrecto. 'Have' es presente perfecto y no corresponde a una pregunta sobre el pasado. -->
+  <!-- feedback: Incorrect. 'Have' is present perfect and does not fit a question about the past. -->
 - [x] C) Had you finished the report before the meeting?
-  <!-- feedback: Correcto. El pasado perfecto abre con 'Had' y el verbo queda en participio 'finished'. -->
+  <!-- feedback: Correct. The past perfect begins with 'Had', and the verb stays in the participle form 'finished'. -->
 - [ ] D) Had you finish the report before the meeting?
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio pasado 'finished' y no en forma base. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the past participle 'finished', not the base form. -->
 
 ### Explicacion Pedagogica
 En las preguntas de pasado perfecto el auxiliar 'had' va al principio y el verbo principal en participio. La misma logica que en el presente perfecto se aplica aqui cambiando 'have' o 'has' por 'had'.
@@ -234,13 +234,13 @@ When is the past simple enough, without 'had'?
 
 ### Opciones
 - [ ] A) Never. Every sequence of past events requires the past perfect.
-  <!-- feedback: Incorrecto. El pasado perfecto es necesario solo cuando el orden debe marcarse explicitamente con el participio. -->
+  <!-- feedback: Incorrect. The past perfect is needed only when the order must be marked explicitly with the participle. -->
 - [ ] B) Only when the events happen every day.
-  <!-- feedback: Incorrecto. La frecuencia pertenece al presente simple, no a la eleccion entre pasado simple y pasado perfecto. -->
+  <!-- feedback: Incorrect. Frequency belongs to the present simple, not to the choice between past simple and past perfect. -->
 - [x] C) When the order of two past events is already clear from the verb forms.
-  <!-- feedback: Correcto. Si el pasado simple ya expresa el orden por la posicion de las acciones, no hace falta el pasado perfecto. -->
+  <!-- feedback: Correct. If the past simple already shows the order through the position of the actions, the past perfect is not needed. -->
 - [ ] D) Only when the events take place in the future.
-  <!-- feedback: Incorrecto. El pasado perfecto describe siempre el pasado y no se usa con hechos futuros. -->
+  <!-- feedback: Incorrect. The past perfect always describes the past and is not used with future events. -->
 
 ### Explicacion Pedagogica
 El pasado perfecto no es obligatorio en toda narracion en pasado. Cuando el orden ya se entiende por el desarrollo de la historia, dos pasado simples bastan. El pasado perfecto se reserva para marcar la traslacion temporal de forma explicita.
@@ -259,13 +259,13 @@ Complete the sentence: 'The party was boring because nobody ____ (arrive) on tim
 
 ### Opciones
 - [x] A) had arrived
-  <!-- feedback: Correcto. 'Had arrived' indica que las llegadas tardias ya habian ocurrido cuando se evalua la fiesta. -->
+  <!-- feedback: Correct. 'Had arrived' indicates that the late arrivals had already happened by the time the party is being judged. -->
 - [ ] B) has arrived
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a una situacion evaluada en el pasado. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and does not fit a situation judged in the past. -->
 - [ ] C) had arrive
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'arrived' y no en la forma base 'arrive'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'arrived', not the base form 'arrive'. -->
 - [ ] D) was arrive
-  <!-- feedback: Incorrecto. 'Was' es el pasado simple de 'to be' y no admite un verbo de accion detras sin 'had'. -->
+  <!-- feedback: Incorrect. 'Was' is the past simple of 'to be' and cannot be followed by an action verb without 'had'. -->
 
 ### Explicacion Pedagogica
 El pasado perfecto con verbos de movimiento como 'arrive', 'leave' o 'finish' es muy frecuente cuando la accion previa explica el estado posterior. Reconocer el patron 'porque algo ya habia ocurrido' facilita mucho la eleccion del tiempo.
@@ -284,13 +284,13 @@ Complete the sentence: 'He was thirsty because he ____ (not / drink) all day.'
 
 ### Opciones
 - [ ] A) hadn't drink
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'drunk' y no en la forma base 'drink'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'drunk', not the base form 'drink'. -->
 - [ ] B) didn't drunk
-  <!-- feedback: Incorrecto. Se mezclan el pasado simple y el participio, de modo que la frase no es valida. -->
+  <!-- feedback: Incorrect. The option mixes the past simple and the participle, so the sentence is not valid. -->
 - [ ] C) hasn't drunk
-  <!-- feedback: Incorrecto. 'Hasn't' es presente perfecto y no corresponde a la causa de una situacion pasada. -->
+  <!-- feedback: Incorrect. 'Hasn't' is present perfect and does not fit the cause of a past situation. -->
 - [x] D) hadn't drunk
-  <!-- feedback: Correcto. 'Hadn't drunk' es el negativo del pasado perfecto y expresa una accion anterior y completa. -->
+  <!-- feedback: Correct. 'Hadn't drunk' is the negative past perfect and expresses an earlier, completed action. -->
 
 ### Explicacion Pedagogica
 El participio de 'to drink' es 'drunk', que es irregular y distinto del pasado simple 'drank'. En pasado perfecto se usa siempre el participio, de modo que la forma correcta con negacion es 'had not drunk' o 'hadn't drunk'.
@@ -309,13 +309,13 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) Although she studied hard, she had failed the test.
-  <!-- feedback: Incorrecto. Asi se invierte el orden y ademas un examen fallado no puede ser anterior al esfuerzo de estudiar. -->
+  <!-- feedback: Incorrect. This reverses the order, and a failed exam cannot come before the effort of studying for it. -->
 - [x] B) Although she had studied hard, she failed the test.
-  <!-- feedback: Correcto. 'Had studied' situa el esfuerzo antes del examen, y 'although' introduce la contraste entre las dos acciones. -->
+  <!-- feedback: Correct. 'Had studied' places the effort before the exam, and 'although' introduces the contrast between the two actions. -->
 - [ ] C) Although she had studied hard, she had failed the test.
-  <!-- feedback: Incorrecto. Con dos pasado perfectos seguidos la frase resulta ambigua y no expresa el orden que pide 'although'. -->
+  <!-- feedback: Incorrect. With two past perfects in a row, the sentence becomes ambiguous and does not express the order 'although' requires. -->
 - [ ] D) Although she studied had hard, she failed the test.
-  <!-- feedback: Incorrecto. 'Studied had' no es una estructura valida, porque el auxiliar no se coloca despues del participio. -->
+  <!-- feedback: Incorrect. 'Studied had' is not a valid structure, because the auxiliary never comes after the participle. -->
 
 ### Explicacion Pedagogica
 Los conectores como 'although', 'because' y 'so' ordenan la secuencia. Con 'although' la clausula que se presenta como concessiva suele ir en pasado perfecto o en pasado simple, y la principal en pasado simple. La logica temporal debe ser coherente con el mundo de la frase.
@@ -334,13 +334,13 @@ Complete the sentence: 'The film was confusing because I ____ (not / understand)
 
 ### Opciones
 - [ ] A) haven't understood
-  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa ya cerrada en el pasado. -->
+  <!-- feedback: Incorrect. 'Haven't' is present perfect and does not fit a cause that was already over in the past. -->
 - [x] B) hadn't understood
-  <!-- feedback: Correcto. 'Hadn't understood' marca la incomprension anterior que explica la confusion posterior. -->
+  <!-- feedback: Correct. 'Hadn't understood' marks the earlier lack of understanding that explains the later confusion. -->
 - [ ] C) hadn't understand
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'understood' y no en la forma base 'understand'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'understood', not the base form 'understand'. -->
 - [ ] D) wasn't understand
-  <!-- feedback: Incorrecto. 'Was' pertenece al pasado de 'to be' y no combina con un verbo de accion detras. -->
+  <!-- feedback: Incorrect. 'Was' is a past form of 'to be' and cannot be followed by an action verb. -->
 
 ### Explicacion Pedagogica
 El participio de 'to understand' es 'understood', una forma irregular con cambio de vocal y terminacion -od. Los verbos que cambian la raiz en pasado suelen hacer lo mismo en participio, y hay que conocer las dos formas.
@@ -359,13 +359,13 @@ Complete the sentence: 'They couldn't enter the concert because they ____ (not /
 
 ### Opciones
 - [ ] A) hadn't buyed
-  <!-- feedback: Incorrecto. 'Buyed' no existe en ingles, porque el participio de 'to buy' es 'bought'. -->
+  <!-- feedback: Incorrect. 'Buyed' does not exist in English, because the participle of 'to buy' is 'bought'. -->
 - [ ] B) haven't bought
-  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una causa dentro de una narracion en pasado. -->
+  <!-- feedback: Incorrect. 'Haven't' is present perfect and does not fit a cause within a past narrative. -->
 - [ ] C) hadn't buy
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'bought' y no en la forma base 'buy'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'bought', not the base form 'buy'. -->
 - [x] D) hadn't bought
-  <!-- feedback: Correcto. 'Hadn't bought' es pasado perfecto negativo y explica la situacion posterior del concierto. -->
+  <!-- feedback: Correct. 'Hadn't bought' is the negative past perfect and explains the later situation at the concert. -->
 
 ### Explicacion Pedagogica
 En pasado perfecto negativo la estructura es 'had not' o 'hadn't' mas participio pasado. Las tres piezas deben ir juntas: si falta el auxiliar, si sobra -ed o si aparece la forma base, la frase es incorrecta.
@@ -384,13 +384,13 @@ Question: 'Had you ever eaten Spanish stew before?' Answer: '____'
 
 ### Opciones
 - [ ] A) No, I didn't.
-  <!-- feedback: Incorrecto. 'Didn't' corresponde a una pregunta de pasado simple, no a una construida con 'had'. -->
+  <!-- feedback: Incorrect. 'Didn't' belongs to a past simple question, not to one built with 'had'. -->
 - [ ] B) No, I hadn't eaten before.
-  <!-- feedback: Incorrecto. Es una respuesta valida pero no es corta, y la forma esperada omite el participio. -->
+  <!-- feedback: Incorrect. It is a valid answer but not a short one, and the expected form leaves out the participle. -->
 - [x] C) No, I hadn't.
-  <!-- feedback: Correcto. La respuesta corta repite el auxiliar 'had' de la pregunta, con la negacion antes del pronombre. -->
+  <!-- feedback: Correct. The short answer repeats the auxiliary 'had' from the question, with the negation before the pronoun. -->
 - [ ] D) No, I never.
-  <!-- feedback: Incorrecto. 'Never' es un adverbio y necesita un auxiliar 'hadn't' detras para construir la negacion. -->
+  <!-- feedback: Incorrect. 'Never' is an adverb and needs the auxiliary 'hadn't' after it to form the negative. -->
 
 ### Explicacion Pedagogica
 Las respuestas cortas del pasado perfecto usan 'had' igual que la pregunta, con el adverbio de negacion en posicion intermedia. Al igual que en presente perfecto, el auxiliar es el que decide el tiempo verbal de toda la frase.
@@ -409,13 +409,13 @@ Complete the sentence: 'I didn't recognise her because she ____ (change) her hai
 
 ### Opciones
 - [x] A) had changed
-  <!-- feedback: Correcto. 'Had changed' situa el cambio de aspecto antes del encuentro, que es lo que explica la falta de reconocimiento. -->
+  <!-- feedback: Correct. 'Had changed' places the change in appearance before the meeting, which explains why there was no recognition. -->
 - [ ] B) has changed
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no puede aparecer dentro de una secuencia de dos acciones pasadas. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and cannot appear within a sequence of two past actions. -->
 - [ ] C) had change
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'changed' y no en la forma base 'change'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'changed', not the base form 'change'. -->
 - [ ] D) had changed her hair completely yesterday
-  <!-- feedback: Incorrecto. Anadir 'yesterday' fija una fecha concreta que contradice el caracter cerrado del pasado perfecto. -->
+  <!-- feedback: Incorrect. Adding 'yesterday' sets a specific date, which contradicts the completed nature of the past perfect. -->
 
 ### Explicacion Pedagogica
 La secuencia 'no reconoci a alguien porque algo habia cambiado' es uno de los patrones mas comunes del pasado perfecto. La causa va siempre en 'had' mas participio, sin fecha concreta que la situe en un momento cerrado.
@@ -434,13 +434,13 @@ Complete the sentence: 'When she arrived, she ____ (not / know) anyone at the pa
 
 ### Opciones
 - [x] A) didn't know
-  <!-- feedback: Correcto. 'Didn't know' es pasado simple y basta, porque no hay ninguna accion anterior que exigiria el pasado perfecto. -->
+  <!-- feedback: Correct. 'Didn't know' is past simple and is enough, because no earlier action requires the past perfect. -->
 - [ ] B) didn't knew
-  <!-- feedback: Incorrecto. Detras de 'did' el verbo vuelve a la forma base 'know' y no al pasado irregular 'knew'. -->
+  <!-- feedback: Incorrect. After 'did', the verb goes back to the base form 'know', not the irregular past 'knew'. -->
 - [ ] C) had known
-  <!-- feedback: Incorrecto. El pasado perfecto solo se usa si hay una accion anterior que marcar, y en esta frase no hay ningun segundo evento previo. -->
+  <!-- feedback: Incorrect. The past perfect is used only when there is an earlier action to mark, and this sentence has no second, earlier event. -->
 - [ ] D) hasn't known
-  <!-- feedback: Incorrecto. 'Hasn't' es presente perfecto y no corresponde a una escena ocurrida en el pasado. -->
+  <!-- feedback: Incorrect. 'Hasn't' is present perfect and does not fit a scene that took place in the past. -->
 
 ### Explicacion Pedagogica
 El pasado perfecto no se usa solo por hablar del pasado. Solo hace falta cuando hay una accion anterior que marcar. Si la frase no contiene un segundo evento previo, el pasado simple es suficiente y mas natural.
@@ -459,13 +459,13 @@ Complete the sentence: 'The exam was very easy because the teacher ____ (give) u
 
 ### Opciones
 - [ ] A) had give
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'given' y no en la forma base irregular 'give'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'given', not the irregular base form 'give'. -->
 - [ ] B) has given
-  <!-- feedback: Incorrecto. 'Has' es presente perfecto y no corresponde a la causa de un examen ya realizado. -->
+  <!-- feedback: Incorrect. 'Has' is present perfect and does not fit the cause of an exam that was already taken. -->
 - [ ] C) had given us a study guide before the term
-  <!-- feedback: Incorrecto. La expresion 'before the term' es aceptable, pero el enunciado ya no necesita ese añadido temporal. -->
+  <!-- feedback: Incorrect. The expression 'before the term' is acceptable, but the sentence does not need that extra time reference. -->
 - [x] D) had given
-  <!-- feedback: Correcto. 'Had given' marca la entrega previa de la guia, que explica la facilidad del examen posterior. -->
+  <!-- feedback: Correct. 'Had given' marks the earlier handing out of the guide, which explains why the later exam was easy. -->
 
 ### Explicacion Pedagogica
 El participio de 'to give' es 'given', uno de los mas irregulares del idioma. Cuando el verbo en pasado perfecto va seguido de un complemento con articulo definido, se mantiene la estructura natural del objeto directo sin alterar el orden de las palabras.
@@ -484,13 +484,13 @@ Complete the sentence: 'The restaurant was full, so we ate somewhere else becaus
 
 ### Opciones
 - [ ] A) hadn't reservate
-  <!-- feedback: Incorrecto. 'Reservate' no es una forma del pasado de 'to reserve', que es un verbo regular y da 'reserved'. -->
+  <!-- feedback: Incorrect. 'Reservate' is not a past form of 'to reserve', which is a regular verb and becomes 'reserved'. -->
 - [x] B) hadn't reserved
-  <!-- feedback: Correcto. 'Hadn't reserved' explica la decision de comer en otro sitio: la reserva previa no se pudo completar a tiempo. -->
+  <!-- feedback: Correct. 'Hadn't reserved' explains the decision to eat elsewhere: the earlier reservation was not made in time. -->
 - [ ] C) haven't reserved
-  <!-- feedback: Incorrecto. 'Haven't' es presente perfecto y no corresponde a una cadena de hechos ya cerrados. -->
+  <!-- feedback: Incorrect. 'Haven't' is present perfect and does not fit a chain of events that are already over. -->
 - [ ] D) hadn't reserve
-  <!-- feedback: Incorrecto. Detras de 'had' el verbo va en participio 'reserved' y no en la forma base 'reserve'. -->
+  <!-- feedback: Incorrect. After 'had', the verb takes the participle 'reserved', not the base form 'reserve'. -->
 
 ### Explicacion Pedagogica
 Los verbos regulares forman su participio con -ed, y el pasado perfecto no exige que sean irregulares. El error tipico en esta unidad es buscar siempre una forma especial, cuando en la mayoria de los casos basta con anadir -ed al verbo base.
@@ -509,13 +509,13 @@ Which time expression is most natural with the past perfect?
 
 ### Opciones
 - [ ] A) Every day after breakfast
-  <!-- feedback: Incorrecto. Esa expresion describe un habito presente y no marca un punto de referencia del pasado, que es lo que exige el pasado perfecto. -->
+  <!-- feedback: Incorrect. That expression describes a present habit and does not mark a past reference point, which is what the past perfect requires. -->
 - [ ] B) Nowadays people call an ambulance quickly
-  <!-- feedback: Incorrecto. La expresion 'nowadays' pertenece al presente habitual y no encaja con el pasado perfecto. -->
+  <!-- feedback: Incorrect. The expression 'nowadays' belongs to the habitual present and does not fit the past perfect. -->
 - [x] C) By the time the ambulance arrived
-  <!-- feedback: Correcto. 'By the time' marca un punto de referencia y todo lo anterior va en pasado perfecto. -->
+  <!-- feedback: Correct. 'By the time' marks a reference point, and everything before it goes in the past perfect. -->
 - [ ] D) Since 2020 people have used that number
-  <!-- feedback: Incorrecto. 'Since 2020' con presente perfecto describe un periodo que llega hasta hoy, no hasta un pasado concreto. -->
+  <!-- feedback: Incorrect. 'Since 2020' with the present perfect describes a period that lasts until today, not until a specific point in the past. -->
 
 ### Explicacion Pedagogica
 La expresion 'by the time' es la senal clasica del pasado perfecto, porque todo lo que ocurre antes de ese momento se situa en 'had' mas participio. Las demas expresiones propuestas pertenecen a otros tiempos verbales y no combinan con esta unidad.

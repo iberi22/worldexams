@@ -34,13 +34,13 @@ Which sentence uses the third person singular of the verb 'to work' correctly?
 
 ### Opciones
 - [x] A) She works in a clinic in Carolina.
-  <!-- feedback: Correcto. 'She works' carries the -s of the third person singular, and every other subject in the bundle would drop that ending. -->
+  <!-- feedback: Correct. 'She works' carries the third-person singular -s, and every other subject in the bundle would drop that ending. -->
 - [ ] B) She work in a clinic in Carolina.
-  <!-- feedback: Incorrecto. The sentence has a singular subject and a plural-looking verb; this -s is the single most tested point of the unit. -->
+  <!-- feedback: Incorrect. The sentence has a singular subject and a plural-looking verb; this -s is the single most tested point of the unit. -->
 - [ ] C) She working in a clinic in Carolina.
-  <!-- feedback: Incorrecto. 'Working' is a present participle and it needs the auxiliary 'is' in a progressive form, which this unit does not use. -->
+  <!-- feedback: Incorrect. 'Working' is a present participle and it needs the auxiliary 'is' in a progressive form, which this unit does not use. -->
 - [ ] D) She are working in a clinic in Carolina.
-  <!-- feedback: Incorrecto. 'Are working' is the progressive, and 'are' also disagrees with the singular subject 'she', so two rules fail at once. -->
+  <!-- feedback: Incorrect. 'Are working' is the progressive, and 'are' also disagrees with the singular subject 'she', so two rules fail at once. -->
 
 ### Explicacion Pedagogica
 En presente simple la tercera persona singular añade -s al verbo, salvo cuando ya termina en -s, -sh, -ch, -x, -z o -o. Las otras personas no añaden nada. Revisar el sujeto antes que el verbo es el método más seguro para no equivocarse.
@@ -59,13 +59,13 @@ Complete the sentence: 'My brother ____ (go) to the plaza every Sunday.'
 
 ### Opciones
 - [ ] A) go
-  <!-- feedback: Incorrecto. Sin terminación la frase queda en plural; el sujeto 'my brother' es singular y exige la forma en -es. -->
+  <!-- feedback: Incorrect. With no ending, the sentence reads as plural; the subject 'my brother' is singular and requires the -es form. -->
 - [ ] B) going
-  <!-- feedback: Incorrecto. 'Going' es la forma -ing, que solo aparece con el auxiliar 'is' en el presente continuo. -->
+  <!-- feedback: Incorrect. 'Going' is the -ing form, which only appears with the auxiliary 'is' in the present continuous. -->
 - [x] C) goes
-  <!-- feedback: Correcto. 'Go' termina en -o, así que la -s de la tercera persona se convierte en -es para evitar que suene 'goose'. -->
+  <!-- feedback: Correct. 'Go' ends in -o, so the third-person -s becomes -es to keep it from sounding like 'goose'. -->
 - [ ] D) gone
-  <!-- feedback: Incorrecto. 'Gone' es el participio pasado, que se usa con 'have' y no describe una rutina semanal. -->
+  <!-- feedback: Incorrect. 'Gone' is the past participle, which is used with 'have' and does not describe a weekly routine. -->
 
 ### Explicacion Pedagogica
 La tercera persona singular tiene su propia terminación. Con los verbos terminados en -o el inglés añade -es para que la palabra no termine en -s a secas, igual que ocurre con 'go' y 'does'. El resto de personas no cambia.
@@ -84,13 +84,13 @@ Which question is formed correctly?
 
 ### Opciones
 - [ ] A) Do your sister live in Ponce?
-  <!-- feedback: Incorrecto. El auxiliar 'do' no lleva la -s y por eso no puede acompañar a un sujeto singular en una pregunta con verbo léxico. -->
+  <!-- feedback: Incorrect. The auxiliary 'do' has no -s, so it cannot go with a singular subject in a question with a lexical verb. -->
 - [x] B) Does your sister live in Ponce?
-  <!-- feedback: Correcto. En preguntas con 'to be' y con el verbo 'to live' se usa el auxiliar 'does', que ya lleva la -s de la tercera persona. -->
+  <!-- feedback: Correct. In questions with 'to be' and with the verb 'to live', the auxiliary 'does' is used, and it already carries the third-person -s. -->
 - [ ] C) Is your sister live in Ponce?
-  <!-- feedback: Incorrecto. Después de 'is' hace falta el participio, no el verbo en su forma base como aparece en el enunciado. -->
+  <!-- feedback: Incorrect. After 'is' you need the participle, not the base form of the verb as it appears in the prompt. -->
 - [ ] D) Your sister does lives in Ponce?
-  <!-- feedback: Incorrecto. El orden no es de pregunta: el auxiliar 'does' debe abrir la frase antes del sujeto. -->
+  <!-- feedback: Incorrect. This is not question word order: the auxiliary 'does' must open the sentence before the subject. -->
 
 ### Explicacion Pedagogica
 En presente simple la pregunta con verbos de acción se forma con 'do' o 'does'. Cuando se usa 'does', el verbo principal vuelve a su forma base, porque la -s ya está en el auxiliar. Ese es el error típico: 'does she lives' en lugar de 'does she live'.
@@ -109,13 +109,13 @@ Choose the correct negative form: 'He ____ (not / drink) coffee after dinner.'
 
 ### Opciones
 - [ ] A) don't drink
-  <!-- feedback: Incorrecto. 'Don't' se reserva para I, you, we y they; con 'he' el auxiliar debe ser 'does'. -->
+  <!-- feedback: Incorrect. 'Don't' is reserved for I, you, we and they; with 'he' the auxiliary must be 'does'. -->
 - [ ] B) isn't drink
-  <!-- feedback: Incorrecto. 'Isn't' forma el negativo del verbo 'to be', y el participio tampoco corresponde aquí. -->
+  <!-- feedback: Incorrect. 'Isn't' forms the negative of the verb 'to be', and the participle does not fit here either. -->
 - [ ] C) not drink
-  <!-- feedback: Incorrecto. Falta por completo el auxiliar, y en presente simple el negativo nunca se construye solo con 'not'. -->
+  <!-- feedback: Incorrect. The auxiliary is missing entirely, and in the present simple the negative is never formed with 'not' alone. -->
 - [x] D) doesn't drink
-  <!-- feedback: Correcto. El negativo con 'not' y verbo de acción se forma con 'does not' o 'doesn't' en tercera persona singular. -->
+  <!-- feedback: Correct. The negative with 'not' and an action verb is formed with 'does not' or 'doesn't' in the third person singular. -->
 
 ### Explicacion Pedagogica
 El negativo del presente simple tiene dos formas: 'do not / don't' para I, you, we y they, y 'does not / doesn't' para he, she y it. El verbo principal se queda en su forma base detrás del auxiliar, con o sin negación.
@@ -134,13 +134,13 @@ Which is the correct third person singular form of the verb 'to pass'?
 
 ### Opciones
 - [ ] A) passs
-  <!-- feedback: Incorrecto. 'Passs' tiene tres eses y no corresponde a ninguna regla; el inglés nunca dobla la -s en esta posición. -->
+  <!-- feedback: Incorrect. 'Passs' has three s's and follows no rule; English never doubles the -s in this position. -->
 - [ ] B) pass
-  <!-- feedback: Incorrecto. Esta es la forma base y la tercera persona singular necesita una terminación nueva, aunque el sonido final sea similar. -->
+  <!-- feedback: Incorrect. This is the base form, and the third person singular needs a new ending, even though the final sound is similar. -->
 - [ ] C) passing
-  <!-- feedback: Incorrecto. La forma -ing pertenece al presente continuo y no se usa para la rutina en presente simple. -->
+  <!-- feedback: Incorrect. The -ing form belongs to the present continuous and is not used for a routine in the present simple. -->
 - [x] D) passes
-  <!-- feedback: Correcto. Cuando el verbo base termina en -ss la tercera persona añade solo -es, de modo que la -s final se oye correctamente. -->
+  <!-- feedback: Correct. When the base verb ends in -ss, the third person adds only -es, so the final -s is pronounced correctly. -->
 
 ### Explicacion Pedagogica
 La ortografía de la -s de la tercera persona tiene reglas fijas. Si la base ya acaba en -s, -sh, -ch, -x o -z se añade solo -es. Si acaba en consonante más -o se añade -es. Si termina en -y precedida de consonante, la -y pasa a -ies.
@@ -159,13 +159,13 @@ Complete the sentence: 'The committee ____ (try) to finish the project on time.'
 
 ### Opciones
 - [ ] A) trys
-  <!-- feedback: Incorrecto. Añadir una -s detrás de una -y consonantal produce una forma que ningún hablante usa en inglés. -->
+  <!-- feedback: Incorrect. Adding an -s after a consonant + -y produces a form that no English speaker uses. -->
 - [x] B) tries
-  <!-- feedback: Correcto. 'Try' termina en -y con consonante antes, así que la -y se convierte en -ies para la tercera persona singular. -->
+  <!-- feedback: Correct. 'Try' ends in -y with a consonant before it, so the -y becomes -ies for the third person singular. -->
 - [ ] C) tryes
-  <!-- feedback: Incorrecto. La -y no se convierte en vocal: se cambia por -ies, y el verbo no añade además una -e. -->
+  <!-- feedback: Incorrect. The -y does not turn into a vowel: it changes to -ies, and the verb does not also add an -e. -->
 - [ ] D) trying
-  <!-- feedback: Incorrecto. 'Trying' es la forma del gerundio y pertenece al presente continuo, no a una rutina en presente simple. -->
+  <!-- feedback: Incorrect. 'Trying' is the -ing form and belongs to the present continuous, not to a routine in the present simple. -->
 
 ### Explicacion Pedagogica
 Cuando el verbo termina en -y y la consonante anterior no es una vocal, la -y se cambia por -ies: try, tries. Si la -y está precedida de vocal, el verbo es monosilábico y solo añade -s: play, plays. Reconocer la vocal precedente evita el error más común de esta unidad.
@@ -184,13 +184,13 @@ Which sentence uses the verb 'to have' correctly in the third person singular?
 
 ### Opciones
 - [x] A) She has a car in Carolina.
-  <!-- feedback: Correcto. 'To have' es irregular en la tercera persona: la forma correcta es 'has' y no 'haves' ni 'have'. -->
+  <!-- feedback: Correct. 'To have' is irregular in the third person: the correct form is 'has', not 'haves' or 'have'. -->
 - [ ] B) She haves a car in Carolina.
-  <!-- feedback: Incorrecto. 'Haves' no existe en inglés; la -s irregular de 'to have' sustituye a la forma base completa. -->
+  <!-- feedback: Incorrect. 'Haves' does not exist in English; the irregular -s form of 'to have' replaces the entire base form. -->
 - [ ] C) She have a car in Carolina.
-  <!-- feedback: Incorrecto. 'Have' es la forma base y solo se emplea con I, you, we y they en presente simple. -->
+  <!-- feedback: Incorrect. 'Have' is the base form and is only used with I, you, we and they in the present simple. -->
 - [ ] D) She having a car in Carolina.
-  <!-- feedback: Incorrecto. La forma -ing necesita el auxiliar 'is', y además 'having' describe una acción en curso y no una posesión habitual. -->
+  <!-- feedback: Incorrect. The -ing form needs the auxiliary 'is', and 'having' also describes an ongoing action, not habitual possession. -->
 
 ### Explicacion Pedagogica
 El presente simple tiene un puñado de verbos irregulares que no siguen la regla de añadir -s. Los más frecuentes son 'to have', que da 'has', y 'to do', que da 'does'. Estos dos aparecen en casi todos los exámenes de la unidad.
@@ -209,13 +209,13 @@ Complete the sentence: 'My parents ____ (live) in Aguadilla.'
 
 ### Opciones
 - [ ] A) lives
-  <!-- feedback: Incorrecto. La -s corresponde a la tercera persona singular, y aquí el sujeto es plural, por lo que sobra la terminación. -->
+  <!-- feedback: Incorrect. The -s belongs to the third person singular, and here the subject is plural, so the ending is not needed. -->
 - [ ] B) live's
-  <!-- feedback: Incorrecto. Un apóstrofo marca posesión y no se usa nunca para formar el presente simple de un verbo. -->
+  <!-- feedback: Incorrect. An apostrophe marks possession and is never used to form the present simple of a verb. -->
 - [x] C) live
-  <!-- feedback: Correcto. 'My parents' es un sujeto plural, así que el verbo queda en su forma base sin terminación de tercera persona. -->
+  <!-- feedback: Correct. 'My parents' is a plural subject, so the verb stays in its base form with no third-person ending. -->
 - [ ] D) lived
-  <!-- feedback: Incorrecto. 'Lived' es el pasado simple; la frase describe un lugar de residencia habitual y pide presente. -->
+  <!-- feedback: Incorrect. 'Lived' is the past simple; the sentence describes a habitual place of residence and calls for the present. -->
 
 ### Explicacion Pedagogica
 La -s de la tercera persona depende del sujeto, no del significado de la frase. Un sujeto plural o plural conceptual como 'my parents', 'people' o 'the team' exige la forma base. El error más común es poner la -s por costumbre y no por análisis del sujeto.
@@ -234,13 +234,13 @@ Which negative question is correct?
 
 ### Opciones
 - [ ] A) Don't he like mango?
-  <!-- feedback: Incorrecto. 'Don't' solo acompaña a I, you, we y they; con 'he' el auxiliar tiene que ser 'does'. -->
+  <!-- feedback: Incorrect. 'Don't' only goes with I, you, we and they; with 'he' the auxiliary has to be 'does'. -->
 - [ ] B) Isn't he likes mango?
-  <!-- feedback: Incorrecto. 'Isn't' pertenece al verbo 'to be' y además el verbo principal quedaría con la -s incorrecta. -->
+  <!-- feedback: Incorrect. 'Isn't' belongs to the verb 'to be', and the main verb would also be left with the wrong -s. -->
 - [x] C) Doesn't he like mango?
-  <!-- feedback: Correcto. El auxiliar 'doesn't' abre la pregunta y deja el verbo principal en su forma base, que es 'like'. -->
+  <!-- feedback: Correct. The auxiliary 'doesn't' opens the question and leaves the main verb in its base form, 'like'. -->
 - [ ] D) Does he not likes mango?
-  <!-- feedback: Incorrecto. Detras de 'does' el verbo principal vuelve a la forma base, de modo que 'does he not likes' duplicaria la terminacion y ademas invierte el orden del tag, que debe ser auxiliar y luego pronombre. -->
+  <!-- feedback: Incorrect. After 'does' the main verb goes back to its base form, so 'does he not likes' would duplicate the ending and also reverse the order of the tag, which must be auxiliary then pronoun. -->
 
 ### Explicacion Pedagogica
 En las preguntas negativas el orden es siempre el mismo: auxiliar, sujeto y verbo en forma base. Con 'does' el auxiliar ya aporta la -s, asi que escribir el verbo con terminacion duplicaria la marca de tercera persona.
@@ -259,13 +259,13 @@ Choose the correct auxiliary: '____ your teacher speak Spanish during class?'
 
 ### Opciones
 - [x] A) Does
-  <!-- feedback: Correcto. El auxiliar de la tercera persona singular en presente simple es 'does', y el verbo principal queda en forma base. -->
+  <!-- feedback: Correct. The third-person singular auxiliary in the present simple is 'does', and the main verb stays in its base form. -->
 - [ ] B) Do
-  <!-- feedback: Incorrecto. 'Do' se usa con I, you, we y they; como el sujeto es 'your teacher', falta la -s. -->
+  <!-- feedback: Incorrect. 'Do' is used with I, you, we and they; since the subject is 'your teacher', the -s is missing. -->
 - [ ] C) Is
-  <!-- feedback: Incorrecto. 'Is' forma preguntas del verbo 'to be', pero aquí el verbo principal es 'speak'. -->
+  <!-- feedback: Incorrect. 'Is' forms questions with the verb 'to be', but here the main verb is 'speak'. -->
 - [ ] D) Are
-  <!-- feedback: Incorrecto. 'Are' corresponde al plural o a 'you', y no acompaña a un verbo léxico como 'speak'. -->
+  <!-- feedback: Incorrect. 'Are' goes with plural subjects or 'you', and it does not go with a lexical verb like 'speak'. -->
 
 ### Explicacion Pedagogica
 Paraforming preguntas en presente simple hay que mirar primero el sujeto. Si es I, you, we o they se usa 'do'; si es he, she o it se usa 'does'. Solo con el verbo 'to be' aparecen 'am', 'is' y 'are'.
@@ -284,13 +284,13 @@ Complete the sentence: 'The train ____ (leave) from San Juan at seven every morn
 
 ### Opciones
 - [ ] A) leave
-  <!-- feedback: Incorrecto. 'The train' es singular, de modo que la forma base sin terminación no corresponde al sujeto. -->
+  <!-- feedback: Incorrect. 'The train' is singular, so the base form with no ending does not match the subject. -->
 - [ ] B) leaving
-  <!-- feedback: Incorrecto. El gerundio pertenece al presente continuo y aquí la rutina pide un verbo en presente simple. -->
+  <!-- feedback: Incorrect. The -ing form belongs to the present continuous, and this routine calls for a present simple verb. -->
 - [ ] C) is leave
-  <!-- feedback: Incorrecto. 'Leave' no es un participio, y además un verbo de acción no se combina con 'is' en presente simple. -->
+  <!-- feedback: Incorrect. 'Leave' is not a participle, and an action verb also does not combine with 'is' in the present simple. -->
 - [x] D) leaves
-  <!-- feedback: Correcto. 'The train' es tercera persona singular y además 'leave' ya termina en -e, así que solo añade -s. -->
+  <!-- feedback: Correct. 'The train' is third person singular, and since 'leave' already ends in -e, it only adds -s. -->
 
 ### Explicacion Pedagogica
 Cuando el verbo base termina en -e, la tercera persona singular anade unicamente -s, sin -(e)s. Las expresiones de tiempo como 'every morning' o 'always' suelen acompanarse de presente simple, y conviene reconocerlas antes de elegir la forma verbal.
@@ -309,13 +309,13 @@ Complete the sentence: 'She ____ (have got) two brothers and one sister.'
 
 ### Opciones
 - [ ] A) have got
-  <!-- feedback: Incorrecto. 'Have got' corresponde a I, you, we y they; con 'she' hace falta la forma 'has got'. -->
+  <!-- feedback: Incorrect. 'Have got' goes with I, you, we and they; with 'she' you need the form 'has got'. -->
 - [x] B) has got
-  <!-- feedback: Correcto. En presente simple la forma contracted de 'have got' con tercera persona singular es 'has got'. -->
+  <!-- feedback: Correct. In the present simple, the contracted form of 'have got' for the third person singular is 'has got'. -->
 - [ ] C) hav got
-  <!-- feedback: Incorrecto. 'Hav' no es una forma del verbo 'to have' en inglés; el participio de ese verbo es 'had'. -->
+  <!-- feedback: Incorrect. 'Hav' is not a form of the verb 'to have' in English; the participle of that verb is 'had'. -->
 - [ ] D) having got
-  <!-- feedback: Incorrecto. La forma -ing describe una acción en curso y no una posesión que se mantiene siempre. -->
+  <!-- feedback: Incorrect. The -ing form describes an ongoing action, not a possession that is permanent. -->
 
 ### Explicacion Pedagogica
 British English usa con frecuencia 'have got' para hablar de posesión, y ese verbo también es irregular en la tercera persona singular. La estructura es 'have got' en el resto de personas y 'has got' con he, she o it.
@@ -334,13 +334,13 @@ Complete the sentence: 'He ____ (do) his homework after dinner every day.'
 
 ### Opciones
 - [ ] A) dos
-  <!-- feedback: Incorrecto. 'Dos' es el número dos y no una forma verbal, así que la frase no tiene sentido gramatical. -->
+  <!-- feedback: Incorrect. 'Dos' is the number two and not a verb form, so the sentence makes no grammatical sense. -->
 - [x] B) does
-  <!-- feedback: Correcto. 'To do' es irregular en tercera persona: da 'does', y al ser irregular no añade una terminación normal. -->
+  <!-- feedback: Correct. 'To do' is irregular in the third person: it becomes 'does', and because it is irregular it does not add a regular ending. -->
 - [ ] C) do
-  <!-- feedback: Incorrecto. 'Do' es la forma base y solo encaja con un sujeto distinto de he, she o it. -->
+  <!-- feedback: Incorrect. 'Do' is the base form and only fits a subject other than he, she or it. -->
 - [ ] D) doing
-  <!-- feedback: Incorrecto. 'Doing' pertenece al presente continuo y además la rutina se expresa en presente simple. -->
+  <!-- feedback: Incorrect. 'Doing' belongs to the present continuous, and a routine is expressed in the present simple. -->
 
 ### Explicacion Pedagogica
 Los verbos irregulares en presente simple se memorizan, no se derivan. 'To do' da 'does', 'to have' da 'has' y 'to go' da 'goes'. Reconocerlos rápido evita construir formas como 'doos' o 'haves'.
@@ -359,13 +359,13 @@ Complete the sentence: 'Maria ____ (watch) the news at nine every night.'
 
 ### Opciones
 - [ ] A) watchs
-  <!-- feedback: Incorrecto. Una -s a secas detrás de -ch produce un sonido improbable y no es una forma válida del inglés. -->
+  <!-- feedback: Incorrect. A bare -s after -ch produces an unlikely sound and is not a valid English form. -->
 - [ ] B) watch
-  <!-- feedback: Incorrecto. Es la forma base y el sujeto 'Maria' es tercera persona singular, así que exige terminación. -->
+  <!-- feedback: Incorrect. This is the base form, and the subject 'Maria' is third person singular, so it requires an ending. -->
 - [ ] C) watching
-  <!-- feedback: Incorrecto. 'Watching' es la forma del gerundio y pertenece al presente continuo, no a una rutina diaria. -->
+  <!-- feedback: Incorrect. 'Watching' is the -ing form and belongs to the present continuous, not to a daily routine. -->
 - [x] D) watches
-  <!-- feedback: Correcto. Como 'watch' termina en -ch, la tercera persona singular añade -es para que la -s suene como una s normal. -->
+  <!-- feedback: Correct. Since 'watch' ends in -ch, the third person singular adds -es so that the -s sounds like a normal s. -->
 
 ### Explicacion Pedagogica
 Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe sonar como una s normal, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.
@@ -384,13 +384,13 @@ Choose the correct negative: 'I ____ (not / like) the rain in San Sebastian.'
 
 ### Opciones
 - [ ] A) doesn't like
-  <!-- feedback: Incorrecto. 'Doesn't' es la tercera persona singular, y aquí el sujeto es 'I' en primera persona. -->
+  <!-- feedback: Incorrect. 'Doesn't' is third person singular, and here the subject is the first-person 'I'. -->
 - [ ] B) am not like
-  <!-- feedback: Incorrecto. 'Am' pertenece al verbo 'to be' y el gerundio no corresponde a una opinión sobre el clima. -->
+  <!-- feedback: Incorrect. 'Am' belongs to the verb 'to be', and the -ing form does not fit an opinion about the weather. -->
 - [x] C) don't like
-  <!-- feedback: Correcto. Con 'I' el auxiliar del negativo es 'do not' o 'don't', y el verbo queda en forma base. -->
+  <!-- feedback: Correct. With 'I' the negative auxiliary is 'do not' or 'don't', and the verb stays in its base form. -->
 - [ ] D) not like
-  <!-- feedback: Incorrecto. Falta el auxiliar: en presente simple el negativo se forma con 'do not' o 'does not'. -->
+  <!-- feedback: Incorrect. The auxiliary is missing: in the present simple the negative is formed with 'do not' or 'does not'. -->
 
 ### Explicacion Pedagogica
 La elección entre 'don't' y 'doesn't' depende únicamente del sujeto. Con I, you, we y they se usa 'don't'; con he, she o it se usa 'doesn't'. En ambos casos el verbo principal permanece en su forma base detrás del auxiliar.
@@ -409,13 +409,13 @@ Complete the sentence: 'He ____ (not / be) ready for the exam yet.'
 
 ### Opciones
 - [x] A) isn't
-  <!-- feedback: Correcto. El negativo de 'to be' en tercera persona singular se forma con 'is' más 'not', o contraído como 'isn't'. -->
+  <!-- feedback: Correct. The negative of 'to be' in the third person singular is formed with 'is' plus 'not', or contracted as 'isn't'. -->
 - [ ] B) aren't
-  <!-- feedback: Incorrecto. 'Aren't' corresponde a 'you' o a un sujeto plural, y el sujeto de la frase es 'he'. -->
+  <!-- feedback: Incorrect. 'Aren't' goes with 'you' or a plural subject, and the subject of the sentence is 'he'. -->
 - [ ] C) doesn't
-  <!-- feedback: Incorrecto. 'Doesn't' es el auxiliar de los verbos de acción, pero aquí el verbo principal es 'to be'. -->
+  <!-- feedback: Incorrect. 'Doesn't' is the auxiliary for action verbs, but here the main verb is 'to be'. -->
 - [ ] D) don't
-  <!-- feedback: Incorrecto. 'Don't' no combina con 'to be', porque el verbo 'to be' ya tiene su propio sistema de formas. -->
+  <!-- feedback: Incorrect. 'Don't' does not combine with 'to be', because the verb 'to be' has its own set of forms. -->
 
 ### Explicacion Pedagogica
 El presente simple de 'to be' es un sistema aparte: I am, you are, he, she e it is, y nosotros, ustedes y ellos son 'are'. El negativo se forma con 'not' detrás del verbo. Los auxiliares 'do' y 'does' nunca participan con 'to be'.
@@ -434,13 +434,13 @@ Choose the correct question tag: 'Your cousin lives in Caguas, ____?'
 
 ### Opciones
 - [x] A) doesn't she
-  <!-- feedback: Correcto. Una afirmación en positivo pide un tag negativo, y como el sujeto es tercera persona el tag usa 'doesn't' más el pronombre. -->
+  <!-- feedback: Correct. A positive statement calls for a negative tag, and since the subject is third person, the tag uses 'doesn't' plus the pronoun. -->
 - [ ] B) isn't she
-  <!-- feedback: Incorrecto. 'Isn't' pertenece al verbo 'to be', y la afirmación no contiene ninguna forma de 'to be'. -->
+  <!-- feedback: Incorrect. 'Isn't' belongs to the verb 'to be', and the statement contains no form of 'to be'. -->
 - [ ] C) don't she
-  <!-- feedback: Incorrecto. 'Don't' no acompaña a un sujeto de tercera persona singular, así que el tag es gramaticalmente imposible. -->
+  <!-- feedback: Incorrect. 'Don't' does not go with a third-person singular subject, so the tag is grammatically impossible. -->
 - [ ] D) she doesn't
-  <!-- feedback: Incorrecto. El tag repite la estructura de la afirmación, pero el orden correcto es auxiliar y luego pronombre. -->
+  <!-- feedback: Incorrect. The tag repeats the structure of the statement, but the correct order is auxiliary then pronoun. -->
 
 ### Explicacion Pedagogica
 Las reglas ortograficas de la -s de la tercera persona se aprenden como una sola tabla. La clave fonica es que la -s final debe pronunciarse de manera clara, y por eso se escribe -es detras de -ch, -sh, -s, -x y -z.
@@ -459,13 +459,13 @@ Complete the sentence: 'Every student ____ (need) a notebook for the course.'
 
 ### Opciones
 - [ ] A) need
-  <!-- feedback: Incorrecto. En inglés el sujeto 'every' exige un verbo singular, aunque el sustantivo que lo acompaña sea plural. -->
+  <!-- feedback: Incorrect. In English, a subject with 'every' requires a singular verb, even if the noun that goes with it is plural. -->
 - [ ] B) needing
-  <!-- feedback: Incorrecto. 'Needing' es un gerundio y pertenece al presente continuo, no a un hecho general del curso. -->
+  <!-- feedback: Incorrect. 'Needing' is an -ing form and belongs to the present continuous, not to a general fact about the course. -->
 - [ ] C) are need
-  <!-- feedback: Incorrecto. El verbo 'to need' no acepta 'are' delante, y además el sujeto de la frase es singular. -->
+  <!-- feedback: Incorrect. The verb 'to need' does not take 'are' in front of it, and the subject of the sentence is also singular. -->
 - [x] D) needs
-  <!-- feedback: Correcto. 'Every student' es singular en inglés, de modo que el verbo vuelve a la forma de tercera persona singular. -->
+  <!-- feedback: Correct. 'Every student' is singular in English, so the verb takes the third-person singular form. -->
 
 ### Explicacion Pedagogica
 En ingles los cuantificadores como 'every', 'each' y 'either' governs el verbo en singular. La concordancia se hace con el cuantificador y no con el sustantivo, por lo que 'every student needs' es la estructura correcta.
@@ -484,13 +484,13 @@ Complete the sentence: 'The committee ____ (meet) on Mondays to plan the fair.'
 
 ### Opciones
 - [ ] A) meet
-  <!-- feedback: Incorrecto. Si el comité se tratara como varios miembros, la forma sería 'meet', pero el grupo actúa aquí como una sola entidad. -->
+  <!-- feedback: Incorrect. If the committee were treated as several members, the form would be 'meet', but here the group acts as a single entity. -->
 - [x] B) meets
-  <!-- feedback: Correcto. Un grupo con una sola función se trata como unidad singular en inglés, de modo que el verbo va en 'meets'. -->
+  <!-- feedback: Correct. A group with a single function is treated as a singular unit in English, so the verb is 'meets'. -->
 - [ ] C) meeting
-  <!-- feedback: Incorrecto. 'Meeting' es la forma -ing y además un sustantivo, así que no puede ocupar el hueco del verbo. -->
+  <!-- feedback: Incorrect. 'Meeting' is the -ing form and also a noun, so it cannot fill the verb slot. -->
 - [ ] D) meet's
-  <!-- feedback: Incorrecto. El apóstrofo no se usa para formar el presente simple, y la frase pide una forma verbal presente. -->
+  <!-- feedback: Incorrect. The apostrophe is not used to form the present simple, and the sentence calls for a present verb form. -->
 
 ### Explicacion Pedagogica
 Los sustantivos colectivos como 'committee', 'team' o 'family' pueden concordar en singular o en plural segun el contexto. Cuando el grupo actua como una unidad con una sola funcion, el verbo va en singular; cuando se habla de cada miembro por separado, va en plural.
@@ -509,13 +509,13 @@ Choose the tag that completes the question: 'He ____ he forget the keys?'
 
 ### Opciones
 - [ ] A) don't
-  <!-- feedback: Incorrecto. 'Don't' pertenece a I, you, we y they, y el sujeto de la frase principal es 'he'. -->
+  <!-- feedback: Incorrect. 'Don't' belongs to I, you, we and they, and the subject of the main clause is 'he'. -->
 - [ ] B) isn't
-  <!-- feedback: Incorrecto. 'Isn't' es el auxiliar del verbo 'to be', y la pregunta se construye con 'forget'. -->
+  <!-- feedback: Incorrect. 'Isn't' is the auxiliary for the verb 'to be', and the question is built with 'forget'. -->
 - [x] C) doesn't
-  <!-- feedback: Correcto. Una pregunta negativa pide un tag positivo, y con 'he' ese auxiliar es 'does' en forma contracted 'doesn't'. -->
+  <!-- feedback: Correct. A negative question calls for a positive tag, and with 'he' that auxiliary is 'does', in the contracted form 'doesn't'. -->
 - [ ] D) hasn't
-  <!-- feedback: Incorrecto. 'Hasn't' pertenece al presente perfecto con 'have', no a la pregunta en presente simple. -->
+  <!-- feedback: Incorrect. 'Hasn't' belongs to the present perfect with 'have', not to a present simple question. -->
 
 ### Explicacion Pedagogica
 El tag confirma o matiza lo que dice la frase principal. Si la frase es negativa el tag es positivo, y si es positiva el tag es negativo. En presente simple el auxiliar disponible para 'he' es 'does', y el verbo principal queda en forma base.
