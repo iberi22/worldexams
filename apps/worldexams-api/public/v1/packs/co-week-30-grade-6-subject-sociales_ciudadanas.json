@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-30-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.780Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de las siguientes medidas es la más adecuada para prevenir la dengue en Cartagena?",
+      "context": "En una familia de Cartagena, durante la temporada de lluvias, se busca prevenir la dengue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Eliminar cada semana el agua acumulada en ollas, baldes y bebederos de la casa.",
+          "is_correct": true,
+          "feedback": "Correcto. La dengue se previene eliminando los criaderos del mosquito Aedes, que se reproduce en agua acumulada."
+        },
+        {
+          "letter": "B",
+          "text": "Tomar antibióticos ante cualquier fiebre para evitar que los mosquitos transmitan el virus.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos no sirven para prevenir ni tratar la dengue, porque es causada por un virus."
+        },
+        {
+          "letter": "C",
+          "text": "Vacunarse contra la fiebre amarilla para impedir que el mosquito transmita la dengue.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vacuna contra la fiebre amarilla previene esa enfermedad, pero no previene la dengue."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que aparezca la fiebre para limpiar los recipientes y eliminar los mosquitos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La limpieza debe hacerse de forma preventiva y constante; esperar a la fiebre no elimina los criaderos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La dengue se previene principalmente reduciendo la exposición al mosquito Aedes, que se reproduce en agua acumulada. Por eso, es importante eliminar semanalmente los criaderos y mantener limpios los recipientes del hogar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de las siguientes acciones es la medida más adecuada para prevenir la contaminación de los alimentos durante su preparación?",
+      "context": "Una familia de Medellín prepara alimentos en casa y busca reducir el riesgo de enfermedades gastrointestinales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lavarse las manos solamente después de terminar de comer.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavarse las manos únicamente después de comer no elimina los microorganismos que pueden contaminar los alimentos durante su preparación."
+        },
+        {
+          "letter": "B",
+          "text": "Lavarse las manos con agua y jabón antes de manipular los alimentos.",
+          "is_correct": true,
+          "feedback": "Correcto. El lavado de manos con agua y jabón antes de preparar alimentos reduce la transmisión de microorganismos y es una medida de prevención."
+        },
+        {
+          "letter": "C",
+          "text": "Tomar antibióticos al sentir un dolor abdominal para evitar Commodities.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos solo actúan contra algunas bacterias y no deben tomarse sin indicación médica para prevenir Commodities."
+        },
+        {
+          "letter": "D",
+          "text": "Mantener los alimentos preparados durante varias horas a temperatura ambiente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mantener alimentos a temperatura ambiente favorece el crecimiento de microorganismos y aumenta el riesgo de intoxicación alimentaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prevención de enfermedades incluye acciones que reducen la exposición a agentes dañinos antes de que se presente una enfermedad. Lavarse las manos con agua y jabón antes de manipular alimentos ayuda a evitar la contaminación y la transmisión de microorganismos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v3",
+      "statement": "Además de recibir el tratamiento indicado, ¿qué medida ayuda mejor a evitar que contagie a los miembros de su familia?",
+      "context": "Medellín, Colombia. Una niña de 12 años tiene síntomas de gripa y vive con su familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cubrirse la nariz con la mano cada vez que tosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mano puede contaminarse con virus; es mejor usar un pañuelo o el codo y luego lavarse las manos."
+        },
+        {
+          "letter": "B",
+          "text": "Compartir sus utensilios de comida mientras esté enferma.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los virus respiratorios pueden transmitirse por utensillos que se contaminan con secreciones de la niña."
+        },
+        {
+          "letter": "C",
+          "text": "Lavarse las manos con agua y jabón después de toser.",
+          "is_correct": true,
+          "feedback": "Correcto. El lavado de manos con agua y jabón elimina microorganismos y ayuda a prevenir el contagio."
+        },
+        {
+          "letter": "D",
+          "text": "Estar en contacto cercano con familiares en lugares mal ventilados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El contacto cercano en lugares mal ventilados favorece la transmisión de enfermedades respiratorias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La prevención incluye acciones que reducen la propagación de las enfermedades. Lavarse las manos y mantener una higiene adecuada ayudan a romper la cadena de transmisión del virus.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v4",
+      "statement": "En Pereira, una familia quiere reducir el riesgo de que sus hijos se enfermen. ¿Cuál de las siguientes acciones corresponde a una medida de prevención primaria?",
+      "context": "Escenario real de una ciudad colombiana: en Pereira, una familia busca prevenir enfermedades antes de que aparezcan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acudir al médico únicamente después de que ocurra un accidente grave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acudir al médico después de un accidente corresponde a una atención curativa, porque la lesión ya ocurrió."
+        },
+        {
+          "letter": "B",
+          "text": "Iniciar un tratamiento cuando ya se haya diagnosticado una enfermedad grave.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Iniciar un tratamiento después del diagnóstico corresponde a prevención secundaria, porque la enfermedad ya se presentó."
+        },
+        {
+          "letter": "C",
+          "text": "Realizar rehabilitación después de una lesión que haya dejado movilidad reducida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rehabilitación después de una lesión es prevención terciaria, porque busca recuperar funciones que ya fueron afectadas."
+        },
+        {
+          "letter": "D",
+          "text": "Vacunarse contra enfermedades infecciosas según el calendario de salud de Colombia.",
+          "is_correct": true,
+          "feedback": "Correcto. La vacunación antes de la enfermedad es prevención primaria, porque disminuye el riesgo de infección y protege la salud."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La prevención primaria se realiza antes de que aparezca una enfermedad, por ejemplo, mediante la vacunación. La prevención secundaria atiende enfermedades ya diagnosticadas, mientras que la terciaria ayuda a recuperar la funcionalidad después de un daño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué medida aplica mejor la prevención primaria y la responsabilidad compartida por la salud pública?",
+      "context": "En Cali, durante la temporada de lluvias, una junta vecinal sabe que el agua estancada favorece la aparición de mosquitos que transmiten dengue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Organizar jornadas comunitarias para eliminar criaderos de mosquitos.",
+          "is_correct": true,
+          "feedback": "Correcto. La eliminación de criaderos es una medida de prevención primaria porque evita la reproducción del mosquito transmisor; realizarla comunitariamente refleja la responsabilidad compartida por la salud pública."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que haya casos graves antes de limpiar los espacios comunes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar casos graves equivale a actuar después de la enfermedad; la prevención primaria debe anticiparse y controlar las condiciones de riesgo."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar insecticida en todas las casas sin revisar sus posibles riesgos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aplicar insecticida sin revisión puede afectar el ambiente y no sustituye la eliminación de criaderos; una medida preventiva debe justificarse y valuarse."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar la limpieza de patios y zonas comunes solo a las familias enfermas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar la limpieza solo a las familias enfermas reduce la participación comunitaria y mantiene el riesgo en patios y zonas comunes; la prevención exige acción colectiva."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prevención primaria busca evitar que aparezca una enfermedad mediante acciones sobre sus causas y condiciones de riesgo. Eliminar criaderos de mosquitos y acordar jornadas comunitarias protege a la población y demuestra que la salud pública requiere responsabilidad compartida.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v6",
+      "statement": "En Cartagena, durante la temporada de lluvias, aumenta el riesgo de dengue porque el mosquito Aedes se reproduce en agua acumulada. ¿Cuál de las siguientes acciones es la más adecuada para prevenir la reproducción de este mosquito?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Beber agua hervida todos los días.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Beber agua hervida ayuda a prevenir enfermedades de origen hídrico, pero no controla la reproducción del mosquito Aedes."
+        },
+        {
+          "letter": "B",
+          "text": "Vaciar y limpiar los recipientes de agua.",
+          "is_correct": true,
+          "feedback": "Correcto. La eliminación de agua estancada impide que el mosquito Aedes se reproduzca; esta es una medida de prevención del dengue."
+        },
+        {
+          "letter": "C",
+          "text": "Lavar frutas y verduras con agua limpia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavar frutas y verduras ayuda a prevenir enfermedades alimentarias, pero no elimina los criaderos del mosquito Aedes."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar antibióticos al presentar fiebre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los antibióticos no previenen ni tratan el dengue, porque esta enfermedad es causada por un virus."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prevención consiste en actuar antes de que aparezca una enfermedad. El dengue se transmite por el mosquito Aedes, que puede reproducirse en recipientes con agua acumulada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál de las siguientes acciones representa mejor una medida de prevención para reducir los daños del consumo de tabaco en la comunidad escolar?",
+      "context": "En un colegio de Bogotá, los estudiantes de grado 6/organizan una semana de prevención del consumo de tabaco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esperar a que aparezca una enfermedad para consultar al médico.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La prevención consiste en actuar antes de que aparezca una enfermedad, no solo después de su aparición."
+        },
+        {
+          "letter": "B",
+          "text": "Recomendar productos de tabaco para eliminar el estrés de los estudiantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tabaco no es una medida de prevención y consumo aumenta el riesgo de enfermedades."
+        },
+        {
+          "letter": "C",
+          "text": "Informar sobre los riesgos del tabaco y promover decisiones para no consumirlo.",
+          "is_correct": true,
+          "feedback": "Correcto. La prevención incluye educación y medidas que eviten la exposición a factores de riesgo, como el tabaco."
+        },
+        {
+          "letter": "D",
+          "text": "Usar bebidas Planeta para protegerse del humo de tabaco.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las bebidas no eliminan los daños del tabaco; la medida efectiva es evitar su consumo y la exposición al humo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Prevenir es tomar acciones antes de que aparezca una enfermedad o un daño. En este caso, informar sobre los riesgos del tabaco y promover decisiones saludables ayuda a reducir la exposición a este factor de riesgo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v8",
+      "statement": "En Cali, las lluvias dejaron agua acumulada en varios canales y maceteros. Ante el aumento de casos de dengue, ¿qué acción ayudaría a prevenir la aparición de más casos?",
+      "context": "Cali, Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Administrar antibióticos a todos los vecinos que presentan fiebre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dengue es una enfermedad viral; los antibióticos actúan contra bacterias y no eliminan al mosquito transmisor."
+        },
+        {
+          "letter": "B",
+          "text": "Acudir al hospital únicamente cuando una persona tenga hemorragia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Acudir al hospital cuando hay hemorragia sirve para atender una complicación, pero no elimina los criaderos ni evita la transmisión del dengue."
+        },
+        {
+          "letter": "C",
+          "text": "Aplicar repelente solo después de que una persona tenga fiebre.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El repelente protege frente a las picaduras cuando se usa antes, no después de que aparece la fiebre; la fiebre puede indicar infección."
+        },
+        {
+          "letter": "D",
+          "text": "Eliminar cada semana el agua acumulada en canales y maceteros.",
+          "is_correct": true,
+          "feedback": "Correcto. El agua acumulada es un criadero; retirarla cada semana interrumpe el ciclo de vida del mosquito y reduce la propagación del dengue."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La prevención busca reducir la aparición o propagación de enfermedades antes de que se causen daños graves. En el dengue, eliminar el agua estancada disminuye los criaderos del mosquito transmisor y corta su ciclo de vida.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v9",
+      "statement": "En un barrio de Cali, las lluvias dejan agua estancada en floreros, recipientes y patios. ¿Cuál medida previene mejor la reproducción del mosquito que transmite el dengue?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vaciar y limpiar semanalmente los recipientes con agua estancada en patios y terrazas.",
+          "is_correct": true,
+          "feedback": "Correcto. Eliminar el agua estancada reduce los criaderos del mosquito transmisor del dengue."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar agua limpia y descubierta en floreros cerca de las ventanas del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua descubierta puede convertirse en un criadero del mosquito transmisor del dengue."
+        },
+        {
+          "letter": "C",
+          "text": "Fumigar las habitaciones solo cuando aparecen casos de dengue en el sector.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fumigar sin eliminar los criaderos no impide que el mosquito se reproduzca."
+        },
+        {
+          "letter": "D",
+          "text": "Tirar los recipientes averiados a lotes baldíos sin revisar si conservan agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los recipientes desechados pueden retener agua y seguir formando criaderos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La prevención del dengue incluye eliminar los lugares donde se acumula agua, porque allí se reproduce el mosquito transmisor. Las medidas preventivas son másssi eficaces cuando se realizan antes de que aparezcan casos de dengue.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál de las siguientes acciones ayuda a prevenir complicaciones de la hipertensión y demuestra seguimiento de la recomendación médica?",
+      "context": "En Medellín, don José, de 58 años, fue diagnosticado con hipertensión arterial. Su médico indicó controles periódicos y un tratamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esperar a que la hipertensión provoque síntomas graves.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que aparezcan síntomas graves permite que la enfermedad avance, en lugar de prevenir sus complicaciones."
+        },
+        {
+          "letter": "B",
+          "text": "Acudir a controles médicos y seguir el tratamiento indicado.",
+          "is_correct": true,
+          "feedback": "Correcto. El control médico y el seguimiento del tratamiento permiten mantener controlada la hipertensión y prevenir complicaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Suspender los medicamentos cuando la presión arterial se normalice.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Suspender el tratamiento sin indicación médica puede hacer que la presión arterial aumente nuevamente."
+        },
+        {
+          "letter": "D",
+          "text": "Tomar medicamentos de otras personas para aliviar el malestar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los medicamentos deben ser recetados para cada paciente, pues tomarlos sin indicación puede causar daños."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prevención busca reducir el riesgo dehebilidad o de sus complicaciones. En una persona con hipertensión, acudir periódicamente al médico y seguir el tratamiento indicado permite controlar la enfermedad a tiempo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}

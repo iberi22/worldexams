@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 6,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-37-grade-6-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-02T08:16:06.783Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v1",
+      "statement": "En Bogotá, ¿cómo puede ejercer la ciudadanía su derecho a participar en la gestión pública, según el artículo 40 de la Constitución, mediante el presupuesto participativo?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Presentando propuestas y estableciendo prioridades para proyectos de interés general.",
+          "is_correct": true,
+          "feedback": "Correcto. El presupuesto participativo permite proponer, priorizar y hacer seguimiento a proyectos que se financian con recursos públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Administrando personalmente todos los fondos distritales sin ningún tipo de control.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana no reemplaza la administración pública ni permite disponer libremente de los recursos del distrito."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir a todos los funcionarios distritales sin pasar por una votación popular.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presupuesto participativo no sustituye los procesos electorales ni permite elegir a todos los funcionarios del distrito."
+        },
+        {
+          "letter": "D",
+          "text": "Aprobando directamente las normas distritales sin la intervención del Consejo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación en el presupuesto no equivale a aprobar normas; la discusión y aprobación distrital siguen sus procedimientos legales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El artículo 40 de la Constitución reconoce el derecho de toda persona a participar en la gestión pública. El presupuesto participativo es un mecanismo mediante el cual la ciudadanía puede proponer, priorizar y seguir proyectos de interés general dentro de las reglas del presupuesto distrital.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v2",
+      "statement": "En un ejercicio de presupuesto participativo de Bogotá, la ciudadanía discute cómo se usará una parte del presupuesto público. ¿Cuál actuación manifiesta ciudadanía participativa?",
+      "context": "En un ejercicio de presupuesto participativo de Bogotá, la ciudadanía se reúne para discutir y priorizar el uso de una parte de los recursos públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "presentar una petición individual sin discutir el presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una petición individual puede generar una respuesta administrativa, pero no implica deliberar ni priorizar colectivamente los recursos públicos."
+        },
+        {
+          "letter": "B",
+          "text": "deliberar con la ciudadanía y priorizar una partida del gasto.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación es un derecho constitucional y el presupuesto participativo la concreta en la propuesta, deliberación y priorización de recursos públicos."
+        },
+        {
+          "letter": "C",
+          "text": "pagar un impuesto sin conocer el destino de los fondos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cumplir una obligación tributaria no equivale a intervenir en la decisión, el control o la vigilancia del presupuesto público."
+        },
+        {
+          "letter": "D",
+          "text": "delegar en el alcalde toda la decisión sobre el gasto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Delegar completamente la decisión quita a la ciudadanía la posibilidad de proponer prioridades y ejercer control sobre los recursos públicos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución colombiana garantiza la participación de la ciudadanía en la vida pública en su artículo 40. En el presupuesto participativo, ese derecho se ejerce proponiendo, deliberando y priorizando el destino de los recursos públicos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.89,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v3",
+      "statement": "En Bogotá, el presupuesto distrital financia obras y servicios públicos. Un grupo de estudiantes de grado 6 identifica la necesidad de mejorar un parque. ¿Qué acción representa mejor el ejercicio de la ciudadanía participativa frente al presupuesto?",
+      "context": "Bogotá administra sus recursos públicos mediante un presupuesto distrital denominado en pesos colombianos (COP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir en privado una obra y exigir que se pague, sin consultar a la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana se construye mediante diálogo; los asuntos públicos no se deciden de manera privada."
+        },
+        {
+          "letter": "B",
+          "text": "Gestionar fondos sin conocer el presupuesto distrital, los costos ni las prioridades comunitarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gestión responsable de recursos públicos requiere conocer los ingresos, los gastos, los costos y las prioridades."
+        },
+        {
+          "letter": "C",
+          "text": "Dialogar con la comunidad, comparar los costos y presentar una propuesta para el presupuesto.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación ciudadana permite influencing las decisiones sobre el presupuesto mediante una propuesta basada en diálogo, necesidades y costos."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar la ejecución del presupuesto y evaluar después si se gastó bien el dinero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vigilancia del gasto también participa, pero esperar sin intervenir impide influir en la planeación y en las prioridades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ciudadanía participativa permite proponer, decidir y vigilar asuntos de interés público. Aplicada al presupuesto, requiere reconocer que los recursos son limitados yJS priorizar las necesidades colectivas mediante diálogo y comparación de costos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.87,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v4",
+      "statement": "En Bogotá, la comunidad puede participar en las decisiones del presupuesto participativo del distrito. ¿Cuál de las siguientes acciones respeta mejor este proceso y ejerce ciudadanía participativa?",
+      "context": "Bogotá, Colombia; presupuesto del distrito expresado en pesos colombianos (COP).",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Elegir una obra solo porque es popular, sin revisar sus costos ni las necesidades del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir un proyecto por popularidad, sin estudiar sus costos y necesidades, no garantiza una decisión informada sobre los recursos públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar que la administración gaste los fondos, sin participar en las asambleas comunitarias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta acción evita el derecho a participar y la posibilidad de hacer control social sobre el uso del presupuesto público."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir dinero privado y usarlo para decidir sobre un proyecto que ya financia el distrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los aportes privados no hacen parte del presupuesto público; mezclarlos impide diferenciar el dinero comunitario del dinero distrital."
+        },
+        {
+          "letter": "D",
+          "text": "Revisar los costos, discutir las necesidades y votar la priorización de un proyecto distrital.",
+          "is_correct": true,
+          "feedback": "Correcto. Participar en la asamblea, analizar la información y votar la priorización permite ejercer ciudadanía participativa y hacer seguimiento a los recursos públicos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ciudadanía participativa permite que las personas dialoguen sobre los asuntos públicos e intervengan en las decisiones que las afectan su comunidad. En el presupuesto participativo, la población puede estudiar, discutir y priorizar propuestas para que el gasto público responda a las necesidades identificadas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v5",
+      "statement": "En un proceso del presupuesto participativo de Bogotá, se destinan $80.000.000 COP a un proyecto para un barrio. ¿Cuál actuación representa mejor el ejercicio de la ciudadanía participativa?",
+      "context": "En Bogotá, el presupuesto participativo es un mecanismo para que la población proponga, analice y elija prioridades de inversión de los recursos públicos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deliberar con los vecinos y votar por el proyecto que más beneficie a todo el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. La ciudadanía participativa permite intervenir de manera informada y colectiva en las decisiones sobre los recursos públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Pagar el impuesto predial a tiempo, pero delegar la elección del proyecto sin conocerla.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagar impuestos es una obligación tributaria, pero por sí solo no garantiza la participación en la decisión sobre el gasto público."
+        },
+        {
+          "letter": "C",
+          "text": "Votar por un proyecto para un familiar, sin considerar las necesidades generales del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Priorizar un interés particular sin valorar el beneficio colectivo contradice el carácter democrático del presupuesto participativo."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir al azar entre los proyectos, sin leer la información ni hablar con la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Votar sin información ni deliberación produce una decisión arbitraria; la participación exige conocer las opciones y sus consecuencias."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ciudadanía participativa permite que la comunidad intervenga de forma informada y colectiva en las decisiones que afectan los recursos públicos. El presupuesto participativo fortalece este derecho porque incorpora las necesidades ciudadanas en la priorización del gasto público.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.84,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v6",
+      "statement": "En Medellín, la comunidad participa en la elaboración de un presupuesto participativo. ¿Cuál de las siguientes acciones ejerce mejor la ciudadanía participativa en este proceso?",
+      "context": "Medellín, Colombia",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pedir una obra local sin consultar a los vecinos ni priorizar sus necesidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciudadanía participativa en el presupuesto requiere una discusión colectiva; pedir una obra unilateralmente omite la participación de la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Proponer y discutir con vecinos qué necesidades se financiarán con el presupuesto participativo.",
+          "is_correct": true,
+          "feedback": "Correcto. El presupuesto participativo permite que la ciudadanía proponga, discuta y priorice las necesidades o proyectos que se financiarán con recursos públicos."
+        },
+        {
+          "letter": "C",
+          "text": "Solicitar una exención de impuestos para fortalecer los ingresos del municipio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una exención de impuestos es una petición fiscal individual y no participar en la distribución del presupuesto mediante recomendaciones colectivas."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir un representante en el Concejo para que defienda sus prioridades ante el distrito.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir un representante corresponde a la democracia representativa, mientras que el presupuesto participativo permite intervenir directamente en sus decisiones."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciudadanía participativa permite influir directamente en las decisiones que afectan a una comunidad. En el presupuesto participativo, los ciudadanos proponen, discuten y priorizan las necesidades o proyectos que serán financiados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Globalización y comercio",
+      "expected_success": 0.83,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v7",
+      "statement": "En un barrio de Bogotá, la comunidad participa en la elaboración del presupuesto participativo y señala las necesidades más importantes. ¿Qué análisis explica mejor cómo este proceso favorece la convivencia y la paz?",
+      "context": "En Bogotá, el presupuesto participativo permite que la comunidad proponga y priorice obras para los barrios de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La comunidad solo elige al alcalde y, con esa decisión, el presupuesto participativo cumple su función sin que la población proponga obras.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir una autoridad electoral no reemplaza la participación ciudadana en la priorización de obras y recursos."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad paga sus impuestos y, con ese aporte, el presupuesto participativo deja de necesitar decisiones colectivas sobre las necesidades del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago de impuestos es una obligación tributaria, pero no sustituye la deliberación sobre las prioridades del presupuesto."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad analiza sus necesidades y acuerda prioridades, de modo que los recursos públicos se orienten a las obras más importantes para el barrio.",
+          "is_correct": true,
+          "feedback": "Correcto. El presupuesto participativo incorpora la participación ciudadana para acordar obras y distribuir recursos según necesidades identificadas."
+        },
+        {
+          "letter": "D",
+          "text": "La administración municipal decide sola qué obras realizar y, por tanto, la población puede informar sus necesidades, pero no participa en la elaboración del presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Excluir a la comunidad de las decisiones contradice la participación ciudadana, que incluye proponer, discutir y priorizar necesidades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El presupuesto participativo es un mecanismo de participación ciudadana en el que la comunidad propone, discute y prioriza proyectos. Sus acuerdos ayudan a orientar los recursos públicos y a construir convivencia al buscar soluciones colectivas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.81,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v8",
+      "statement": "En Bogotá, la comunidad busca que una parte del presupuesto anual se destine a los parques de los niños. ¿Cuál es la mejor forma de proponer esa prioridad y ejercer ciudadanía participativa de manera responsable?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar una queja general en redes sociales, sin datos ni ideas para resolver el problema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una queja general, sin evidencia ni propuesta, no permite incidir de manera efectiva en la elaboración del presupuesto."
+        },
+        {
+          "letter": "B",
+          "text": "Asistir a la reunión y pedir dinero, sin explicar costos ni beneficios para la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solicitar recursos sin justificar costos, prioridades y beneficios carece de responsabilidad en el uso del presupuesto público."
+        },
+        {
+          "letter": "C",
+          "text": "Exigir que suban los impuestos, sin conocer las necesidades del barrio ni los límites del presupuesto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación ciudadana no consiste en exigir más impuestos; estos deben analizarse según la ley y la sostenibilidad fiscal."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar con los vecinos una propuesta de $60.000.000 COP, con justificación de la necesidad y beneficios comunes.",
+          "is_correct": true,
+          "feedback": "Correcto. La propuesta colectiva, con monto, necesidad y beneficio, permite participar de manera informada en las prioridades del presupuesto y ejercer control social."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ciudadanía participativa permite que la comunidad proponga prioridades y vigile el uso de los recursos públicos. Una propuesta responsable debe reconocer una necesidad, precisar un monto en COP y explicar sus beneficios para la población.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v9",
+      "statement": "En Pereira, el presupuesto participativo se usará para atender necesidades de diferentes barrios. ¿Cuál actuación respeta mejor la ciudadanía participativa?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los habitantes analizan las necesidades de los barrios y acuerdan qué obras deben recibir recursos del presupuesto participativo.",
+          "is_correct": true,
+          "feedback": "Correcto. El presupuesto participativo permite que la comunidad analice las necesidades territoriales y acuerde las prioridades de inversión."
+        },
+        {
+          "letter": "B",
+          "text": "El alcalde decide de forma individual qué obras se financian, porque cree que su criterio representa mejor a toda la ciudad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elrepresentante elegido debe considerar las decisiones exprésadas por la comunidad mediante los mecanismos de participación."
+        },
+        {
+          "letter": "C",
+          "text": "Una empresa privada escoge las obras y administra todo el presupuesto participativo del municipio, sin consultar a los habitantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El presupuesto participativo es un recurso público que administra el municipio; una empresa privada no decide sus prioridades."
+        },
+        {
+          "letter": "D",
+          "text": "Los habitantes solo observan la ejecución del presupuesto, porque, una vez aprobado, ya no pueden proponer cambios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La participación permite proponer y priorizar necesidades antes de la aprobación del presupuesto, no solamente observarlo después."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El presupuesto participativo permite que la población proponga, analice y priorice obras según las necesidades de cada territorio. En Pereira, las decisiones ciudadanas deben relacionar las características de los barrios con el destino de los recursos públicos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle-v10",
+      "statement": "En Bogotá, la comunidad de una escuela pública quiere decidir cómo se invierte una partida de $20.000.000 del presupuesto participativo. ¿Cuál procedimiento permite ejercer mejor la ciudadanía participativa y construir el presupuesto de la escuela?",
+      "context": "<escenario real de una ciudad colombiana: Bogota, Medellin, Cali, Barranquilla, Cartagena, Bucaramanga, Pereira o Manizales. Si hablas de dinero, pesos colombianos COP.>",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los estudiantes eligen un proyecto sin escuchar a los demás y la dirección ejecuta la compra inmediatamente.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ciudadanía participativa exige diálogo y que se consideren las necesidades de toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad analiza sus necesidades, discute las propuestas, vota un proyecto y la dirección informa sobre su ejecución.",
+          "is_correct": true,
+          "feedback": "Correcto. La participación ciudadana combina deliberación, votación y seguimiento transparente del presupuesto asignado."
+        },
+        {
+          "letter": "C",
+          "text": "La dirección compra un proyecto, los estudiantes lo conocen después y solo pueden aceptar o rechazar la decisión.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Informar una decisión después de tomarla no garantiza la participación; la comunidad debe intervenir antes y durante la ejecución."
+        },
+        {
+          "letter": "D",
+          "text": "Los estudiantes elaboran un proyecto, pero la comunidad no lo debate porque la administracion decide si será incluido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elaborar una propuesta sin deliberación reduce la ciudadanía participativa a una simple presentación de ideas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciudadanía participativa permite que las personas discutan y dialoguen sobre los asuntos que las afectan, especialmente el uso de recursos públicos. Un presupuesto participativo incorpora sus necesidades, prioriza propuestas y acompaña la ejecución para asegurar transparencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.77,
+      "bundle_id": "CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle",
+      "periodo": 37,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 6,
+      "country": "co"
+    }
+  ]
+}
