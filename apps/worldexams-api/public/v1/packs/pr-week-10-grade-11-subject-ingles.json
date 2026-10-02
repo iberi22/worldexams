@@ -781,19 +781,19 @@
           "letter": "A",
           "text": "He can play the guitar very well.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'can' expresa habilidad con la forma base del verbo."
+          "feedback": "This sentence is correct, because 'can' expresses ability with the base form of the verb."
         },
         {
           "letter": "B",
           "text": "He is able to play the guitar very well.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'be able to' es la forma larga de la misma capacidad."
+          "feedback": "This sentence is correct, because 'be able to' is the long form of that same ability."
         },
         {
           "letter": "C",
           "text": "He could play the guitar when he was a child.",
           "is_correct": false,
-          "feedback": "Esta frase si es correcta, porque 'could' expresa la habilidad que se tenia en el pasado."
+          "feedback": "This sentence is correct, because 'could' expresses the ability someone had in the past."
         },
         {
           "letter": "D",
@@ -877,7 +877,7 @@
           "letter": "B",
           "text": "Can",
           "is_correct": false,
-          "feedback": "En esta oracion no cabe 'can' porque la palabra 'able' ya aparece en el enunciado y no puede duplicarse."
+          "feedback": "'Can' does not fit in this sentence, because the word 'able' already appears in the prompt and cannot be duplicated."
         },
         {
           "letter": "C",

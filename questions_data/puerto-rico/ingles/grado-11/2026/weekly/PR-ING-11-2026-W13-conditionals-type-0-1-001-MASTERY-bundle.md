@@ -359,13 +359,13 @@ Which sentence is NOT grammatically correct?
 
 ### Opciones
 - [ ] A) If you drink coffee at night, you don't sleep well.
-  <!-- feedback: Incorrecto como distractor: 'drink' concuerda con 'you' y ambas partes en presente simple forman un condicional cero correcto. -->
+  <!-- feedback: Not the answer here: 'drink' agrees with 'you', and both halves in the present simple form a correct zero conditional. -->
 - [ ] B) If he drinks coffee at night, he doesn't sleep well.
-  <!-- feedback: Incorrecto como distractor: 'drinks' es la tercera persona singular correcta para el sujeto 'he'. -->
+  <!-- feedback: Not the answer here: 'drinks' is the correct third person singular form for the subject 'he'. -->
 - [ ] C) If they drink coffee at night, they don't sleep well.
-  <!-- feedback: Incorrecto como distractor: 'drink' concuerda con el sujeto plural 'they' y la frase es perfectamente gramatical. -->
+  <!-- feedback: Not the answer here: 'drink' agrees with the plural subject 'they', and the sentence is perfectly grammatical. -->
 - [x] D) If I drinks coffee at night, I don't sleep well.
-  <!-- feedback: Correcto como respuesta: esta es la frase incorrecta, porque 'I' exige la forma base 'drink' y no 'drinks' en presente simple. -->
+  <!-- feedback: This is the answer: it is the incorrect sentence, because 'I' requires the base form 'drink' and not 'drinks' in the present simple. -->
 
 ### Explicacion Pedagogica
 En el condicional cero ambas partes van en presente simple y respetan la concordancia del sujeto. Olvidar la -s de la tercera persona singular en la clausula de 'if' es un error tan frecuente como anadir 'will' donde solo corresponde presente simple.

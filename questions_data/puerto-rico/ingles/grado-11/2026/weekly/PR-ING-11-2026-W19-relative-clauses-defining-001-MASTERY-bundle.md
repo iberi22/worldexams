@@ -36,7 +36,7 @@ Which sentence contains a defining relative clause?
 - [x] A) The student whose brother lives in Carolina won the scholarship.
   <!-- feedback: Correct. 'whose brother lives in Carolina' identifies the student through their brother, so the clause is strictly defining. -->
 - [ ] B) The student who lives in Carolina won the scholarship.
-  <!-- feedback: Esta oracion lleva una clausula entre comas, y por tanto es explicativa: anade un dato extra en lugar de identificar cual de los estudiantes es. -->
+  <!-- feedback: This sentence has a clause between commas, so it is non-defining: it adds extra information instead of identifying which student is meant. -->
 - [ ] C) The student, who lives in Carolina, won the scholarship.
   <!-- feedback: Incorrect. Commas signal an optional non-defining clause, which is not needed to identify the student. -->
 - [ ] D) The student lives in Carolina and won the scholarship.
@@ -88,7 +88,7 @@ Complete the sentence: 'The book ____ I bought at the fair is very interesting.'
 - [x] B) that
   <!-- feedback: Correct. 'That' can be the object of the relative clause and takes no comma in its defining use. -->
 - [ ] C) which
-  <!-- feedback: Este es el unico hueco de la oracion, de modo que 'which' no puede hacer de sujeto ni de objeto dentro de una clausula relativa. -->
+  <!-- feedback: This is the only gap in the sentence, so 'which' can be neither the subject nor the object inside a relative clause. -->
 - [ ] D) where
   <!-- feedback: Incorrect. 'Where' introduces an adverb of place and cannot be the direct object of 'bought'. -->
 
@@ -111,7 +111,7 @@ Complete the sentence: 'The house ____ I grew up in is near the beach.'
 - [ ] A) which
   <!-- feedback: Incorrect. 'Which' works as a subject or object, but it cannot express a place without the preposition 'in'. -->
 - [ ] B) that
-  <!-- feedback: 'That' no puede expresar el lugar por si solo, de modo que la oracion queda incompleta sin la preposicion 'in' que el pronombre 'where' ya incorpora. -->
+  <!-- feedback: 'That' cannot express place on its own, so the sentence is incomplete without the preposition 'in' that 'where' already includes. -->
 - [ ] C) when
   <!-- feedback: Incorrect. 'When' introduces time, not place, so it does not fit the idea of the house. -->
 - [x] D) where
@@ -159,7 +159,7 @@ Which sentence is correct?
 
 ### Opciones
 - [ ] A) The woman who I spoke to is the new principal.
-  <!-- feedback: 'Who' con preposicion delante pertenece al registro coloquial, y el enunciado pide la construccion formal con 'whom'. -->
+  <!-- feedback: 'Who' with a preposition in front of it belongs to the informal register, and the question asks for the formal construction with 'whom'. -->
 - [x] B) The woman whom I spoke to is the new principal.
   <!-- feedback: Correct. In formal usage, the preposition is placed before the pronoun 'whom'. -->
 - [ ] C) The woman which I spoke to is the new principal.
@@ -211,7 +211,7 @@ Complete the sentence: 'The exam ____ I studied so hard for took three hours.'
 - [ ] A) what
   <!-- feedback: Incorrect. 'What' is not used as an object relative pronoun followed by a time preposition. -->
 - [ ] B) which is
-  <!-- feedback: Una clausula relativa necesita un pronombre relativo y un verbo, y no admite 'which' seguido de 'is' en el hueco indicado. -->
+  <!-- feedback: A relative clause needs a relative pronoun and a verb, and it does not accept 'which' followed by 'is' in the gap shown. -->
 - [x] C) that
   <!-- feedback: Correct. 'That' functions as the object of the preposition 'for', and the preposition can stay at the end of the clause. -->
 - [ ] D) where
@@ -309,7 +309,7 @@ Complete the sentence: 'The day ____ we received the results is finally here.'
 
 ### Opciones
 - [ ] A) which
-  <!-- feedback: 'Which' no puede sustituir a un adverbio de tiempo, porque para el tiempo existe el pronombre relativo 'when'. -->
+  <!-- feedback: 'Which' cannot replace an adverb of time, because for time there is the relative pronoun 'when'. -->
 - [x] B) when
   <!-- feedback: Correct. 'When' replaces an adverb of time and cannot be replaced by 'that' in this case. -->
 - [ ] C) that
@@ -334,7 +334,7 @@ Complete the sentence: 'That is the reason ____ we had to cancel the trip.'
 
 ### Opciones
 - [ ] A) which
-  <!-- feedback: 'Which' introduce una clausula de objeto y no expresa razon, que es la funcion que cumple 'why' en este caso. -->
+  <!-- feedback: 'Which' introduces an object clause and does not express reason, which is the function 'why' has in this case. -->
 - [x] B) why
   <!-- feedback: Correct. 'Why' introduces a clause of reason and is the relative pronoun that replaces 'the reason'. -->
 - [ ] C) what
@@ -363,7 +363,7 @@ Complete the sentence: 'The island ____ we visited last summer has the best beac
 - [ ] B) where
   <!-- feedback: Incorrect. 'Where' expresses place, but 'visited' is a transitive verb, so the pronoun must be an object. -->
 - [ ] C) which
-  <!-- feedback: 'Which' funciona como objeto relativo, pero el enunciado pide el pronombre relativo neutro para un antecedente no humano. -->
+  <!-- feedback: 'Which' works as a relative object, but the question asks for the neuter relative pronoun for a non-human antecedent. -->
 - [x] D) that
   <!-- feedback: Correct. 'That' is the object of 'visited', and the clause identifies which of the islands is meant. -->
 
@@ -438,7 +438,7 @@ Complete the sentence: 'The film ____ I watched last night was terrifying.'
 - [ ] B) what
   <!-- feedback: Incorrect. 'What' cannot act as the direct object of a transitive verb. -->
 - [ ] C) which
-  <!-- feedback: 'Which' es posible con Peliculas, pero el enunciado pide expresamente el pronombre relativo neutro 'that'. -->
+  <!-- feedback: 'Which' is possible with films, but the question explicitly asks for the neuter relative pronoun 'that'. -->
 - [ ] D) who
   <!-- feedback: Incorrect. 'Who' is reserved for people, and the antecedent in this sentence is a movie. -->
 
