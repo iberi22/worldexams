@@ -26,459 +26,440 @@ creador: "Jules-Agent"
 ## Question 1 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v1
 **Bloom:** Apply
-**EJE:** speaking opinions
-**Expected_Success:** 0.80
-**Contexto:** English class in Santa Ana, SV.
+**EJE:** speaking-opinions
+**Expected_Success:** 0.85
+**Contexto:** A speaking lesson in a school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the best way to begin an opinion in a spoken answer: '___ mobile phones should be banned in class.'
 
 ### Opciones
-- [x] A) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] B) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] C) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] D) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [x] A) In my opinion,
+  <!-- feedback: The phrase introduces a personal view and is the standard way to open an opinion. -->
+- [ ] B) Yesterday I bought,
+  <!-- feedback: That phrase describes a past action and gives no signal that a view follows. -->
+- [ ] C) The colour red means,
+  <!-- feedback: That introduces a definition of a word, not an opinion about a policy. -->
+- [ ] D) Run quickly and,
+  <!-- feedback: That is part of an instruction, which gives a command rather than a view. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
+To introduce a personal position in speech, English uses a phrase such as 'In my opinion' or 'I believe', which frames what follows as a view.
 ## Question 2 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v2
-**Bloom:** Understand
-**EJE:** speaking opinions
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.85
+**Contexto:** A speaking exercise in a secondary school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which phrase adds a reason to an opinion?
 
 ### Opciones
-- [x] D) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] B) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] C) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [ ] A) and then she left
+  <!-- feedback: That reports a sequence of events and gives no justification for a view. -->
+- [x] B) because they distract everyone
+  <!-- feedback: 'Because' introduces the reason that supports the opinion just expressed. -->
+- [ ] C) but the lesson was long
+  <!-- feedback: 'But' introduces a contrast, which is a different relationship between two ideas. -->
+- [ ] D) in the same way
+  <!-- feedback: 'In the same way' introduces a comparison or an addition, not a cause. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
+A reason can be introduced with a connector such as 'because', 'since' or 'as', which links the view to its justification.
 ## Question 3 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v3
-**Bloom:** Analyze
-**EJE:** speaking opinions
-**Expected_Success:** 0.70
-**Contexto:** English class in San Salvador, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking activity in a school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Complete the spoken opinion: 'In my view, the best way to learn English is ___.'
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) locked away in a cupboard
+  <!-- feedback: That is not something a speaker could defend as the best way to learn a language. -->
+- [ ] B) written in large letters on a wall
+  <!-- feedback: That has no connection to language learning practice. -->
+- [x] C) to practise it every day with someone else
+  <!-- feedback: This is a specific practice the speaker can defend as the most effective one. -->
+- [ ] D) a heavy stone on the desk
+  <!-- feedback: That is unrelated to learning and could not follow a claim about methods. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
+The phrase 'In my view' signals that a personal judgement is coming, so the sentence must continue with something the speaker considers best.
 ## Question 4 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v4
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
-
-### Enunciado
-Which is the correct past form of 'go'?
-
-### Opciones
-- [x] D) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] B) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] C) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
-
-### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 5 [D5-D6]
-**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v5
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in San Salvador, SV.
-
-### Enunciado
-Which sentence uses the present simple correctly?
-
-### Opciones
-- [x] D) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] C) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
-
-### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 6 [D5-D6]
-**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v6
 **Bloom:** Apply
-**EJE:** speaking opinions
+**EJE:** speaking-opinions
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Which connector introduces a contrast with what was just said?
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] C) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) moreover,
+  <!-- feedback: 'Moreover' adds extra information that supports the previous point. -->
+- [ ] B) therefore,
+  <!-- feedback: 'Therefore' introduces a result that follows from what was said. -->
+- [ ] C) firstly,
+  <!-- feedback: 'Firstly' introduces an item in a list and marks no contrast. -->
+- [x] D) however,
+  <!-- feedback: 'However' signals that the next clause opposes what came before it. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 7 [D5-D6]
-**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v7
-**Bloom:** Understand
-**EJE:** speaking opinions
-**Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+To mark an opposing idea, English uses a contrast connector such as 'however', 'on the other hand' or 'although'.
+## Question 5 [D3-D4]
+**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.85
+**Contexto:** A speaking practice in a school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Choose the best way to disagree politely with an opinion.
 
 ### Opciones
-- [x] C) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] B) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [ ] A) That is completely stupid.
+  <!-- feedback: An insult is aggressive rather than polite and closes the conversation. -->
+- [ ] B) I completely disagree and you are wrong.
+  <!-- feedback: This rejects the other speaker's view without any softening phrase. -->
+- [ ] C) You never understand anything.
+  <!-- feedback: A sweeping personal attack is neither polite nor focused on the point being made. -->
+- [x] D) I see what you mean, but I think the opposite.
+  <!-- feedback: The opening phrase acknowledges the other speaker before presenting a different view. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 8 [D5-D6]
-**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v8
+A polite disagreement softens the opposition with a phrase such as 'I see what you mean, but' before giving a different view.
+## Question 6 [D3-D4]
+**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v6
 **Bloom:** Analyze
-**EJE:** speaking opinions
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking assessment in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which sentence gives a clear opinion with a supporting reason?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) The library is a place with books in it.
+  <!-- feedback: That is a definition of the building and takes no position on opening hours. -->
+- [ ] B) I walked past the library on Tuesday.
+  <!-- feedback: Reporting a past action gives no view about how long the library should open. -->
+- [x] C) I believe the library should stay open later because students finish class at two.
+  <!-- feedback: The position comes first and 'because' supplies the reason that supports it. -->
+- [ ] D) The library closed and the lights went off inside.
+  <!-- feedback: That narrates two events and expresses no opinion about opening hours. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+A complete opinion states a position and then justifies it, so both elements must appear for the answer to score well.
+## Question 7 [D3-D4]
+**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v7
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.85
+**Contexto:** A speaking lesson in a school in San Salvador, SV.
 
-## Question 9 [D5-D6]
+### Enunciado
+Choose the best way to introduce a second reason for your opinion.
+
+### Opciones
+- [ ] A) The first reason was,
+  <!-- feedback: That introduces the first point and would not signal a second one. -->
+- [x] B) Another reason is that the library is often crowded in the evening.
+  <!-- feedback: The phrase signals an additional reason and introduces a new supporting point. -->
+- [ ] C) But the floor was,
+  <!-- feedback: 'But' marks a contrast, so it would introduce an opposing idea rather than support. -->
+- [ ] D) Because the door was,
+  <!-- feedback: 'Because' introduces a single reason, which would repeat the earlier justification. -->
+
+### Explicacion Pedagogica
+A second supporting point is signalled with a connector such as 'also', 'another reason is' or 'in addition'.
+## Question 8 [D3-D4]
+**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v8
+**Bloom:** Understand
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking exercise in a secondary school in San Salvador, SV.
+
+### Enunciado
+What is the purpose of the phrase 'that is why' in a spoken argument?
+
+### Opciones
+- [x] A) To introduce a result that follows from the reason given
+  <!-- feedback: The phrase links a cause to its consequence, which is its function in speech. -->
+- [ ] B) To introduce a completely unrelated topic
+  <!-- feedback: Such a connector would not be used to shift to an unrelated subject. -->
+- [ ] C) To end the speaker's turn immediately
+  <!-- feedback: It introduces a further clause rather than closing the point. -->
+- [ ] D) To repeat exactly the same words again
+  <!-- feedback: It adds the consequence rather than restating the reason word for word. -->
+
+### Explicacion Pedagogica
+'That is why' introduces a result, connecting a reason just given to its consequence.
+## Question 9 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v9
-**Bloom:** Remember
-**EJE:** speaking opinions
+**Bloom:** Apply
+**EJE:** speaking-opinions
 **Expected_Success:** 0.85
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A speaking practice in a school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the best way to end a spoken opinion politely.
 
 ### Opciones
-- [x] A) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] B) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) Whatever, I am done talking.
+  <!-- feedback: 'Whatever' dismisses the discussion and sounds dismissive of the listener. -->
+- [x] B) So that is why I believe the change is worth making.
+  <!-- feedback: The closing restates the view and links it to the reasons given earlier. -->
+- [ ] C) I said it once and I will not say it again.
+  <!-- feedback: This sounds irritated and does not close the argument politely. -->
+- [ ] D) Now stop talking about it.
+  <!-- feedback: An imperative of that kind shuts down the exchange instead of ending it kindly. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 10 [D5-D6]
+A polite closing acknowledges the audience, and a phrase such as 'so that is why I believe it' gives the point a calm finish.
+## Question 10 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v10
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A discussion activity in a school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which question best invites others to agree with your opinion?
 
 ### Opciones
-- [x] B) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) Why do you always disagree with me?
+  <!-- feedback: The question assumes disagreement and sounds like an accusation. -->
+- [ ] B) Don't you think I am right about this?
+  <!-- feedback: The form leans on agreement and can sound confrontational rather than inviting. -->
+- [ ] C) Do you ever listen to anyone else?
+  <!-- feedback: That is a challenge to the other speaker, not an invitation to share a view. -->
+- [x] D) Do you see it the same way?
+  <!-- feedback: The question invites the listener to share the opinion without pressuring them. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 11 [D7-D8]
+A question asking whether others share the view invites agreement while keeping the floor open for the group.
+## Question 11 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v11
 **Bloom:** Apply
-**EJE:** speaking opinions
+**EJE:** speaking-opinions
 **Expected_Success:** 0.80
-**Contexto:** English class in San Salvador, SV.
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Choose the best way to give a reason for an opinion about a longer school day.
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] C) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) I think a longer school day is unfair, so I closed my eyes for a moment.
+  <!-- feedback: The clause after 'so' should be a consequence, not an unrelated action. -->
+- [ ] B) I think a longer school day is unfair, in the morning before lessons.
+  <!-- feedback: The expression after the comma is a time, not a justification. -->
+- [x] C) I think a longer school day is unfair, because it leaves no time for sport.
+  <!-- feedback: The opinion comes first and 'because' supplies the reason behind it. -->
+- [ ] D) I think a longer school day is unfair, at the end of a long list.
+  <!-- feedback: That trailing phrase adds nothing that explains the view. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 12 [D7-D8]
+A reason is introduced by a connector that links it to the view, so 'because' is the natural choice after a stated opinion.
+## Question 12 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v12
-**Bloom:** Understand
-**EJE:** speaking opinions
+**Bloom:** Apply
+**EJE:** speaking-opinions
 **Expected_Success:** 0.80
-**Contexto:** English class in Mejicanos, SV.
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-What does 'benevolent' mean?
+Which sentence closes a spoken argument most effectively?
 
 ### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
+- [x] A) For these reasons, I still believe that the change is not justified yet.
+  <!-- feedback: It ties the position to the reasons already given and leaves the argument settled. -->
+- [ ] B) Anyway, you can do what you want with the decision.
+  <!-- feedback: The phrase dismisses the discussion instead of concluding it. -->
+- [ ] C) That was my point and there is nothing more to add to it.
+  <!-- feedback: The sentence refuses to develop the argument any further. -->
+- [ ] D) The next speaker should give the final answer instead of me.
+  <!-- feedback: The speaker hands over the conclusion rather than reaching one. -->
 
 ### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 13 [D7-D8]
+A strong close restates the position and links it back to the reason given, so the listener remembers what was argued.
+## Question 13 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v13
-**Bloom:** Analyze
-**EJE:** speaking opinions
-**Expected_Success:** 0.70
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+What should you do if you run out of time during a spoken answer?
 
 ### Opciones
-- [x] C) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] B) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) Read the question again five times before you start
+  <!-- feedback: Repeating the question uses time without adding content to the answer. -->
+- [ ] B) Speak very quickly so that you finish everything
+  <!-- feedback: Speed destroys intelligibility and the listener will not follow the content. -->
+- [ ] C) Wait silently until more time is given to you
+  <!-- feedback: Silence adds nothing to the answer and leaves the listener with no content. -->
+- [x] D) State the main idea and give the strongest reason you can
+  <!-- feedback: Delivering the key content clearly is worth more than an unfinished set of points. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
-
-## Question 14 [D7-D8]
+A structured answer prioritises the key points, so the best strategy is to state the main idea and give one clear reason.
+## Question 14 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v14
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in Mejicanos, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the connector that introduces an example in a spoken answer.
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) Otherwise,
+  <!-- feedback: The word introduces an alternative or a contrast, not an illustration. -->
+- [x] B) For instance,
+  <!-- feedback: The phrase introduces a specific illustration of the preceding idea. -->
+- [ ] C) Even so,
+  <!-- feedback: The phrase signals a concession, which is a different relationship between ideas. -->
+- [ ] D) Above all,
+  <!-- feedback: The phrase marks the most important point, which is not the same as giving an example. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 15 [D7-D8]
+An example is signalled by a phrase that announces an illustration of the point just made.
+## Question 15 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v15
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+What is the best way to disagree with a classmate in a discussion?
 
 ### Opciones
-- [x] C) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] A) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] B) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [x] A) I understand your point, but I read the data differently.
+  <!-- feedback: It acknowledges the other view before offering a reasoned difference. -->
+- [ ] B) Your reading of the data is completely wrong.
+  <!-- feedback: The statement rejects the person rather than engaging with the argument. -->
+- [ ] C) Nobody who understands the data agrees with you.
+  <!-- feedback: The claim about other people adds pressure without giving any reason. -->
+- [ ] D) You always get these things wrong in discussion.
+  <!-- feedback: A repeated personal criticism damages the exchange instead of answering it. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
-
-## Question 16 [D7-D8]
+A respectful disagreement names what the other speaker said and then explains the different view, which keeps the exchange cooperative.
+## Question 16 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v16
 **Bloom:** Apply
-**EJE:** speaking opinions
+**EJE:** speaking-opinions
 **Expected_Success:** 0.80
-**Contexto:** English class in Soyapango, SV.
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Choose the correct option: 'I ___ reading a book right now.'
+Complete the spoken sentence: 'In my opinion, the most important quality in a team player is ___.'
 
 ### Opciones
-- [x] D) am
-  <!-- feedback: Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'. -->
-- [ ] A) is
-  <!-- feedback: 'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'. -->
-- [ ] B) are
-  <!-- feedback: 'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical. -->
-- [ ] C) be
-  <!-- feedback: 'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'. -->
+- [ ] A) a large cupboard kept in the gym store room
+  <!-- feedback: That is an object, not a quality, so it cannot complete the sentence. -->
+- [ ] B) the heavy bag that was left in the corridor
+  <!-- feedback: The noun phrase names an object rather than a personal quality. -->
+- [x] C) the ability to keep working with others through difficulty
+  <!-- feedback: This names a specific quality the speaker can then support with reasons. -->
+- [ ] D) a rule that only the captain is allowed to make
+  <!-- feedback: That describes a privilege, not a quality that makes a good team player. -->
 
 ### Explicacion Pedagogica
-Present continuous: I am + verb-ing.
-
-## Question 17 [D9-D10]
+A phrase such as 'In my opinion' calls for the quality the speaker values most, and the answer must be a trait that can be defended.
+## Question 17 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v17
-**Bloom:** Understand
-**EJE:** speaking opinions
-**Expected_Success:** 0.80
-**Contexto:** English class in San Miguel, SV.
-
-### Enunciado
-What does 'benevolent' mean?
-
-### Opciones
-- [x] B) Kind and generous
-  <!-- feedback: Correct! 'Benevolent' means well-meaning, kindly and generous towards other people. -->
-- [ ] A) Mean and cruel
-  <!-- feedback: that is the exact opposite of benevolent, which is a quality of kindness. -->
-- [ ] C) Quick and fast
-  <!-- feedback: that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others. -->
-- [ ] D) Slow and lazy
-  <!-- feedback: that describes laziness and slowness; 'benevolent' means kindly and generous, not idle. -->
-
-### Explicacion Pedagogica
-'Benevolent' means kind, generous, or charitable.
-
-## Question 18 [D9-D10]
-**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v18
 **Bloom:** Analyze
-**EJE:** speaking opinions
-**Expected_Success:** 0.70
-**Contexto:** English class in San Miguel, SV.
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'
+Which sentence uses hedging to make an opinion sound less forceful?
 
 ### Opciones
-- [x] B) Bees are important for pollination and honey
-  <!-- feedback: Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea. -->
-- [ ] A) Bees are dangerous insects
-  <!-- feedback: the text never says that bees are dangerous; it describes the useful work they do for flowers. -->
-- [ ] C) Honey is the only product bees make
-  <!-- feedback: the text also mentions pollination, so honey is not presented as the only product. -->
-- [ ] D) Flowers don't need bees
-  <!-- feedback: pollination depends on bees, so the text implies that flowers do need them. -->
+- [ ] A) The hours must be reduced immediately without any doubt.
+  <!-- feedback: The absolutes 'must' and 'without doubt' make the claim forceful rather than hedged. -->
+- [x] B) It could perhaps be argued that the hours should be reduced.
+  <!-- feedback: The hedges soften the claim without removing the point being made. -->
+- [ ] C) Nobody could ever claim that the hours should change.
+  <!-- feedback: The absolute negative forces the point instead of softening it. -->
+- [ ] D) Everyone knows perfectly well what should happen to the hours.
+  <!-- feedback: The certainty of 'perfectly well' leaves no room for hedging at all. -->
 
 ### Explicacion Pedagogica
-The main idea summarizes the key points about bees: pollination and honey.
+Hedging softens a claim with words such as 'perhaps', 'it seems' or 'could', which protects the speaker from being too absolute.
+## Question 18 [D3-D4]
+**ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v18
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
-## Question 19 [D9-D10]
+### Enunciado
+What should a speaker include at the start of a presentation to orient the audience?
+
+### Opciones
+- [x] A) A short statement of the topic and the main point
+  <!-- feedback: It tells the audience what the talk is about before the detail begins. -->
+- [ ] B) A long anecdote that has no link to the subject
+  <!-- feedback: An unrelated story leaves the audience unsure what the presentation is for. -->
+- [ ] C) An apology for not having prepared the slides
+  <!-- feedback: An apology at the start weakens the presentation without orienting anyone. -->
+- [ ] D) A list of every detail that will be covered later
+  <!-- feedback: A detailed list before the main point delays the frame the audience needs. -->
+
+### Explicacion Pedagogica
+An opening statement of the topic and the main point gives the audience a frame for everything that follows.
+## Question 19 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v19
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in San Miguel, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which is the correct past form of 'go'?
+Choose the best way to summarise your answer before it ends.
 
 ### Opciones
-- [x] B) went
-  <!-- feedback: Correct! 'Went' is the irregular past simple form of the verb 'go'. -->
-- [ ] A) goed
-  <!-- feedback: 'goed' is not an English word; a past form is either regular or an irregular form already known. -->
-- [ ] C) gone
-  <!-- feedback: 'gone' is the past participle used after 'have' or 'has', not the past simple form. -->
-- [ ] D) going
-  <!-- feedback: 'going' is the -ing form used in the continuous, not a past form at all. -->
+- [ ] A) To read every answer you have given from the beginning
+  <!-- feedback: Repeating the whole answer wastes the listener's time instead of summarising. -->
+- [ ] B) To apologise for taking up so much of the lesson
+  <!-- feedback: An apology is not a summary and gives the listener nothing to retain. -->
+- [x] C) To repeat the main point in one short sentence
+  <!-- feedback: The repetition in brief form is exactly what a summary does for the listener. -->
+- [ ] D) To translate your answer into another language
+  <!-- feedback: A translation changes the audience rather than condensing the content. -->
 
 ### Explicacion Pedagogica
-'Go' is an irregular verb: go → went (past simple).
-
-## Question 20 [D9-D10]
+A summary repeats the key point in fewer words so that the audience retains it after the detail has faded.
+## Question 20 [D3-D4]
 **ID:** SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v20
-**Bloom:** Remember
-**EJE:** speaking opinions
-**Expected_Success:** 0.85
-**Contexto:** English class in Santa Ana, SV.
+**Bloom:** Apply
+**EJE:** speaking-opinions
+**Expected_Success:** 0.80
+**Contexto:** A speaking lesson in a secondary school in San Salvador, SV.
 
 ### Enunciado
-Which sentence uses the present simple correctly?
+Which question would you ask a partner to check whether they understood your opinion?
 
 ### Opciones
-- [x] A) She goes to school every day.
-  <!-- feedback: Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form. -->
-- [ ] B) She go to school every day.
-  <!-- feedback: after 'she' the verb needs the -s form, so this sentence is missing that ending. -->
-- [ ] C) She going to school every day.
-  <!-- feedback: 'going' belongs to the continuous form, but 'every day' requires the simple present. -->
-- [ ] D) She gone to school every day.
-  <!-- feedback: 'gone' is a past participle, and the sentence describes a habit, so the simple present is needed. -->
+- [ ] A) Do you like hearing opinions from other people?
+  <!-- feedback: That asks about their attitude rather than about your own content. -->
+- [ ] B) Will you speak more often in the next discussion?
+  <!-- feedback: It asks about future behaviour and checks nothing about understanding. -->
+- [ ] C) Was my voice loud enough for you to hear me?
+  <!-- feedback: It checks the volume rather than the content of what was said. -->
+- [x] D) What reason did I give for my view?
+  <!-- feedback: The question asks the partner to retrieve the substance of the argument. -->
 
 ### Explicacion Pedagogica
-Present simple: subject + verb(-s for he/she/it).
+A comprehension check invites the partner to restate the content, which reveals whether the argument actually landed.
