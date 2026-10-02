@@ -384,13 +384,13 @@ Which sentence is NOT correct?
 
 ### Opciones
 - [ ] A) You must arrive on time.
-  <!-- feedback: Esta frase si es correcta, porque 'must' expresa obligacion sin necesitar 'to' detras. -->
+  <!-- feedback: This sentence is correct, because 'must' expresses obligation without needing 'to' after it. -->
 - [ ] B) You have to arrive on time.
-  <!-- feedback: Esta frase si es correcta, porque 'have to' expresa la misma obligacion desde una regla externa. -->
+  <!-- feedback: This sentence is correct, because 'have to' expresses the same obligation coming from an external rule. -->
 - [x] C) You must to arrive on time.
   <!-- feedback: Correct. This is the incorrect sentence: the modal 'must' does not take 'to' before the main verb. -->
 - [ ] D) You should arrive on time.
-  <!-- feedback: Esta frase si es correcta, porque 'should' expresa una recomendacion suave. -->
+  <!-- feedback: This sentence is correct, because 'should' expresses a gentle recommendation. -->
 
 ### Explicacion Pedagogica
 La presencia del infinitivo 'to' despues de un modal es un error de interlengua muy frecuente entre estudiantes hispanohablantes. Los modales ya contienen el modo infinitivo, de modo que el verbo principal se mantiene en forma base.

@@ -284,11 +284,11 @@ Which sentence is NOT correct?
 
 ### Opciones
 - [ ] A) I have finished my homework already.
-  <!-- feedback: Esta frase si es correcta, porque 'already' es una marca de presente perfecto. -->
+  <!-- feedback: This sentence is correct, because 'already' is a present perfect marker. -->
 - [ ] B) I have finished my homework at nine o'clock.
   <!-- feedback: Incorrect. An exact time also marks a finished past, so the sentence should use 'finished' in the past simple. -->
 - [ ] C) I have just finished my homework.
-  <!-- feedback: Esta frase si es correcta, porque 'just' es tipico del presente perfecto. -->
+  <!-- feedback: This sentence is correct, because 'just' is typical of the present perfect. -->
 - [x] D) I have finished my homework last night.
   <!-- feedback: Correct. This is the incorrect sentence: 'last night' is a finished past time and requires the past simple. -->
 

@@ -22,7 +22,7 @@
           "letter": "B",
           "text": "The student who lives in Carolina won the scholarship.",
           "is_correct": false,
-          "feedback": "Esta oracion lleva una clausula entre comas, y por tanto es explicativa: anade un dato extra en lugar de identificar cual de los estudiantes es."
+          "feedback": "This sentence has a clause between commas, so it is non-defining: it adds extra information instead of identifying which student is meant."
         },
         {
           "letter": "C",
@@ -118,7 +118,7 @@
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "Este es el unico hueco de la oracion, de modo que 'which' no puede hacer de sujeto ni de objeto dentro de una clausula relativa."
+          "feedback": "This is the only gap in the sentence, so 'which' can be neither the subject nor the object inside a relative clause."
         },
         {
           "letter": "D",
@@ -157,7 +157,7 @@
           "letter": "B",
           "text": "that",
           "is_correct": false,
-          "feedback": "'That' no puede expresar el lugar por si solo, de modo que la oracion queda incompleta sin la preposicion 'in' que el pronombre 'where' ya incorpora."
+          "feedback": "'That' cannot express place on its own, so the sentence is incomplete without the preposition 'in' that 'where' already includes."
         },
         {
           "letter": "C",
@@ -241,7 +241,7 @@
           "letter": "A",
           "text": "The woman who I spoke to is the new principal.",
           "is_correct": false,
-          "feedback": "'Who' con preposicion delante pertenece al registro coloquial, y el enunciado pide la construccion formal con 'whom'."
+          "feedback": "'Who' with a preposition in front of it belongs to the informal register, and the question asks for the formal construction with 'whom'."
         },
         {
           "letter": "B",
@@ -337,7 +337,7 @@
           "letter": "B",
           "text": "which is",
           "is_correct": false,
-          "feedback": "Una clausula relativa necesita un pronombre relativo y un verbo, y no admite 'which' seguido de 'is' en el hueco indicado."
+          "feedback": "A relative clause needs a relative pronoun and a verb, and it does not accept 'which' followed by 'is' in the gap shown."
         },
         {
           "letter": "C",
@@ -511,7 +511,7 @@
           "letter": "A",
           "text": "which",
           "is_correct": false,
-          "feedback": "'Which' no puede sustituir a un adverbio de tiempo, porque para el tiempo existe el pronombre relativo 'when'."
+          "feedback": "'Which' cannot replace an adverb of time, because for time there is the relative pronoun 'when'."
         },
         {
           "letter": "B",
@@ -556,7 +556,7 @@
           "letter": "A",
           "text": "which",
           "is_correct": false,
-          "feedback": "'Which' introduce una clausula de objeto y no expresa razon, que es la funcion que cumple 'why' en este caso."
+          "feedback": "'Which' introduces an object clause and does not express reason, which is the function 'why' has in this case."
         },
         {
           "letter": "B",
@@ -613,7 +613,7 @@
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "'Which' funciona como objeto relativo, pero el enunciado pide el pronombre relativo neutro para un antecedente no humano."
+          "feedback": "'Which' works as a relative object, but the question asks for the neuter relative pronoun for a non-human antecedent."
         },
         {
           "letter": "D",
@@ -748,7 +748,7 @@
           "letter": "C",
           "text": "which",
           "is_correct": false,
-          "feedback": "'Which' es posible con Peliculas, pero el enunciado pide expresamente el pronombre relativo neutro 'that'."
+          "feedback": "'Which' is possible with films, but the question explicitly asks for the neuter relative pronoun 'that'."
         },
         {
           "letter": "D",

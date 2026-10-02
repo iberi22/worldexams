@@ -601,25 +601,25 @@
           "letter": "A",
           "text": "If you drink coffee at night, you don't sleep well.",
           "is_correct": false,
-          "feedback": "Incorrecto como distractor: 'drink' concuerda con 'you' y ambas partes en presente simple forman un condicional cero correcto."
+          "feedback": "Not the answer here: 'drink' agrees with 'you', and both halves in the present simple form a correct zero conditional."
         },
         {
           "letter": "B",
           "text": "If he drinks coffee at night, he doesn't sleep well.",
           "is_correct": false,
-          "feedback": "Incorrecto como distractor: 'drinks' es la tercera persona singular correcta para el sujeto 'he'."
+          "feedback": "Not the answer here: 'drinks' is the correct third person singular form for the subject 'he'."
         },
         {
           "letter": "C",
           "text": "If they drink coffee at night, they don't sleep well.",
           "is_correct": false,
-          "feedback": "Incorrecto como distractor: 'drink' concuerda con el sujeto plural 'they' y la frase es perfectamente gramatical."
+          "feedback": "Not the answer here: 'drink' agrees with the plural subject 'they', and the sentence is perfectly grammatical."
         },
         {
           "letter": "D",
           "text": "If I drinks coffee at night, I don't sleep well.",
           "is_correct": true,
-          "feedback": "Correcto como respuesta: esta es la frase incorrecta, porque 'I' exige la forma base 'drink' y no 'drinks' en presente simple."
+          "feedback": "This is the answer: it is the incorrect sentence, because 'I' requires the base form 'drink' and not 'drinks' in the present simple."
         }
       ],
       "correct_answer": "D",

@@ -459,11 +459,11 @@ Which sentence is NOT correct?
 
 ### Opciones
 - [ ] A) He can play the guitar very well.
-  <!-- feedback: Esta frase si es correcta, porque 'can' expresa habilidad con la forma base del verbo. -->
+  <!-- feedback: This sentence is correct, because 'can' expresses ability with the base form of the verb. -->
 - [ ] B) He is able to play the guitar very well.
-  <!-- feedback: Esta frase si es correcta, porque 'be able to' es la forma larga de la misma capacidad. -->
+  <!-- feedback: This sentence is correct, because 'be able to' is the long form of that same ability. -->
 - [ ] C) He could play the guitar when he was a child.
-  <!-- feedback: Esta frase si es correcta, porque 'could' expresa la habilidad que se tenia en el pasado. -->
+  <!-- feedback: This sentence is correct, because 'could' expresses the ability someone had in the past. -->
 - [x] D) He cans play the guitar very well.
   <!-- feedback: Correct. This is the incorrect sentence: modals do not take -s, so the form 'cans' cannot exist. -->
 
@@ -511,7 +511,7 @@ Complete the sentence: '____ you able to help me with this project?'
 - [ ] A) Do
   <!-- feedback: Incorrect. 'Do' does not combine with 'to be' plus 'able', because that form is built on the verb 'to be', not an action verb. -->
 - [ ] B) Can
-  <!-- feedback: En esta oracion no cabe 'can' porque la palabra 'able' ya aparece en el enunciado y no puede duplicarse. -->
+  <!-- feedback: 'Can' does not fit in this sentence, because the word 'able' already appears in the prompt and cannot be duplicated. -->
 - [x] C) Are
   <!-- feedback: Correct. 'Are you able to' is the question form of 'be able to', and the infinitive 'to help' completes the structure. -->
 - [ ] D) Are you able helping me with this project?

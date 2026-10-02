@@ -196,13 +196,13 @@ Why is the Present Continuous important for real communication in English?
 
 ### Opciones
 - [x] D) Because it allows us to describe what is happening right now in daily life and share clear observations with others.
-  <!-- feedback: El Presente Continuo es clave para comunicar acciones del momento presente. -->
+  <!-- feedback: The present continuous is key for describing actions happening right now. -->
 - [ ] A) Because it is only used in very formal academic writing.
-  <!-- feedback: Se usa en la conversación diaria, no solo en textos académicos formales. -->
+  <!-- feedback: It is used in everyday conversation, not only in formal academic writing. -->
 - [ ] B) Because it replaces the present simple in all situations.
-  <!-- feedback: El Presente Continuo no reemplaza al simple; ambos cumplen funciones distintas. -->
+  <!-- feedback: The present continuous does not replace the present simple; each one has a different function. -->
 - [ ] C) Because it is not useful for talking about the present.
-  <!-- feedback: Precisamente, es el tiempo más útil para hablar del presente en curso. -->
+  <!-- feedback: Quite the opposite: it is the tense most useful for talking about the present in progress. -->
 
 ### Explicacion Pedagogica
 Evaluar la importancia del Presente Continuo para comunicar acciones del momento en inglés.
