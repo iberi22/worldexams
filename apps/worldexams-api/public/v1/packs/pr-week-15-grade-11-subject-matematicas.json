@@ -103,32 +103,32 @@
       "context": "En Humacao, Ana diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
       "options": [
         {
+          "letter": "D",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $2x + 3x + 4x = 9x = 180$ y $x = 20$, que produce los ángulos $40^{\\circ}$, $60^{\\circ}$ y $80^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $3$ en la suma de los tres ángulos."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "36",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Ese valor sale de dividir $180^{\\circ}$ solo entre $2$ y $3$, como si el término $4x$ no representara ningun ángulo."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$. Los ángulos resultantes miden $40^{\\circ}$, $60^{\\circ}$ y $80^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -144,36 +144,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v4",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $3x$, $4x$ y $5x$. Determina el valor numérico de $x$.",
       "context": "Como parte de las olimpiades científicas en Ponce, Mateo aplica conceptos algebraicos en la Escuela Superior Ponce High.",
       "options": [
         {
+          "letter": "A",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $3x + 4x + 5x = 12x = 180$ y $x = 15$, que produce los ángulos $45^{\\circ}$, $60^{\\circ}$ y $75^{\\circ}$."
+        },
+        {
           "letter": "B",
-          "text": "$10$",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $3$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$15$",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "A",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $3x + 4x + 5x = 180 \\implies 12x = 180 \\implies x = 15$. Los ángulos resultantes miden $45^{\\circ}$, $60^{\\circ}$ y $75^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v5",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $4x$, $5x$ y $6x$. Determina el valor numérico de $x$.",
       "context": "En Isabela, Mateo analiza un problema de modelación matemática para un proyecto de la Escuela Superior Francisco Mendoza.",
       "options": [
         {
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $4x + 5x + 6x = 15x = 180$ y $x = 12$, que produce los ángulos $48^{\\circ}$, $60^{\\circ}$ y $72^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $5$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$15$",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "B",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Ese valor sale de dividir $180^{\\circ}$ solo entre $4$ y $5$, como si el término $6x$ no representara ningun ángulo."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $4x + 5x + 6x = 180 \\implies 15x = 180 \\implies x = 12$. Los ángulos resultantes miden $48^{\\circ}$, $60^{\\circ}$ y $72^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v6",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $5x$, $6x$ y $7x$. Determina el valor numérico de $x$.",
       "context": "Como parte de las olimpiades científicas en Toa Baja, Carmen aplica conceptos algebraicos en la Escuela Superior Adolfina Irizarry de Puig.",
       "options": [
         {
+          "letter": "C",
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $5x + 6x + 7x = 18x = 180$ y $x = 10$, que produce los ángulos $50^{\\circ}$, $60^{\\circ}$ y $70^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "15",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $6$ en la suma de los tres ángulos."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
-        },
-        {
-          "letter": "C",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $5x + 6x + 7x = 180 \\implies 18x = 180 \\implies x = 10$. Los ángulos resultantes miden $50^{\\circ}$, $60^{\\circ}$ y $70^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v7",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $7x$, $7x$ y $6x$. Determina el valor numérico de $x$.",
       "context": "Como parte de las olimpiades científicas en Caguas, Gabriel aplica conceptos algebraicos en la Escuela Superior José Gautier Benítez.",
       "options": [
         {
+          "letter": "D",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $7x + 7x + 6x = 20x = 180$ y $x = 9$, que produce los ángulos $63^{\\circ}$, $63^{\\circ}$ y $54^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         },
         {
           "letter": "C",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
-        },
-        {
-          "letter": "D",
-          "text": "$25$",
+          "text": "14",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Es la suma de dos de los coeficientes; en la ecuación de los ángulos los tres términos se suman a la vez."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $7x + 7x + 6x = 180 \\implies 20x = 180 \\implies x = 9$. Los ángulos resultantes miden $63^{\\circ}$, $63^{\\circ}$ y $54^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v8",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $10x$, $11x$ y $9x$. Determina el valor numérico de $x$.",
       "context": "Un grupo de estudiantes de la Escuela Superior Juan Suárez Pelegrina en Aguadilla realiza una investigación guiada por Sofía.",
       "options": [
         {
           "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "text": "6",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $10x + 11x + 9x = 30x = 180$ y $x = 6$, que produce los ángulos $60^{\\circ}$, $66^{\\circ}$ y $54^{\\circ}$."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "9",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $10$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
+        },
+        {
+          "letter": "D",
+          "text": "180",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $10x + 11x + 9x = 180 \\implies 30x = 180 \\implies x = 6$. Los ángulos resultantes miden $60^{\\circ}$, $66^{\\circ}$ y $54^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v9",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $12x$, $13x$ y $11x$. Determina el valor numérico de $x$.",
       "context": "En San Juan, Valentina estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior de la Universidad de Puerto Rico.",
       "options": [
         {
           "letter": "B",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
-        },
-        {
-          "letter": "C",
-          "text": "$15$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "text": "5",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $12x + 13x + 11x = 36x = 180$ y $x = 5$, que produce los ángulos $60^{\\circ}$, $65^{\\circ}$ y $55^{\\circ}$."
         },
         {
           "letter": "A",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "10",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
+        },
+        {
+          "letter": "C",
+          "text": "180",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Es la suma de dos de los coeficientes; en la ecuación de los ángulos los tres términos se suman a la vez."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $12x + 13x + 11x = 180 \\implies 36x = 180 \\implies x = 5$. Los ángulos resultantes miden $60^{\\circ}$, $65^{\\circ}$ y $55^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v10",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $15x$, $16x$ y $14x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Adolfina Irizarry de Puig de Toa Baja, Alondra resuelve un ejercicio propuesto.",
       "options": [
         {
+          "letter": "C",
+          "text": "4",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $15x + 16x + 14x = 45x = 180$ y $x = 4$, que produce los ángulos $60^{\\circ}$, $64^{\\circ}$ y $56^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $15$ en la suma de los tres ángulos."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "8",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "C",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $15x + 16x + 14x = 180 \\implies 45x = 180 \\implies x = 4$. Los ángulos resultantes miden $60^{\\circ}$, $64^{\\circ}$ y $56^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v11",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $20x$, $21x$ y $19x$. Determina el valor numérico de $x$.",
       "context": "En Trujillo Alto, Gabriel estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Medardo Carazo.",
       "options": [
         {
+          "letter": "D",
+          "text": "3",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $20x + 21x + 19x = 60x = 180$ y $x = 3$, que produce los ángulos $60^{\\circ}$, $63^{\\circ}$ y $57^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "41",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Es la suma de dos de los coeficientes; en la ecuación de los ángulos los tres términos se suman a la vez."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $20x + 21x + 19x = 180 \\implies 60x = 180 \\implies x = 3$. Los ángulos resultantes miden $60^{\\circ}$, $63^{\\circ}$ y $57^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v12",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $30x$, $32x$ y $28x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Marín de Arecibo, Gabriel resuelve un ejercicio propuesto.",
       "options": [
         {
           "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "text": "2",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $30x + 32x + 28x = 90x = 180$ y $x = 2$, que produce los ángulos $60^{\\circ}$, $64^{\\circ}$ y $56^{\\circ}$."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "3",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $30$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
+        },
+        {
+          "letter": "D",
+          "text": "180",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $30x + 32x + 28x = 180 \\implies 90x = 180 \\implies x = 2$. Los ángulos resultantes miden $60^{\\circ}$, $64^{\\circ}$ y $56^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v13",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $6x$, $6x$ y $3x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Monserrate León de Irizarry de Cabo Rojo, Sebastián resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "letter": "B",
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $6x + 6x + 3x = 15x = 180$ y $x = 12$, que produce los ángulos $72^{\\circ}$, $72^{\\circ}$ y $36^{\\circ}$."
         },
         {
-          "letter": "B",
-          "text": "$15$",
+          "letter": "A",
+          "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $6$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor sale de dividir $180^{\\circ}$ solo entre $6$ y $6$, como si el término $3x$ no representara ningun ángulo."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $6x + 6x + 3x = 180 \\implies 15x = 180 \\implies x = 12$. Los ángulos resultantes miden $72^{\\circ}$, $72^{\\circ}$ y $36^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v14",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $7x$, $5x$ y $3x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior José Gautier Benítez de Caguas, Keylor resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "B",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
-        },
-        {
           "letter": "C",
-          "text": "$15$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "text": "12",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $7x + 5x + 3x = 15x = 180$ y $x = 12$, que produce los ángulos $84^{\\circ}$, $60^{\\circ}$ y $36^{\\circ}$."
         },
         {
           "letter": "A",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $5$ en la suma de los tres ángulos."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor sale de dividir $180^{\\circ}$ solo entre $7$ y $5$, como si el término $3x$ no representara ningun ángulo."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "24",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $7x + 5x + 3x = 180 \\implies 15x = 180 \\implies x = 12$. Los ángulos resultantes miden $84^{\\circ}$, $60^{\\circ}$ y $36^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v15",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $5x$ y $5x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, Carmen resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "B",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
-        },
-        {
-          "letter": "C",
-          "text": "$15$",
-          "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "letter": "D",
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $2x + 5x + 5x = 12x = 180$ y $x = 15$, que produce los ángulos $30^{\\circ}$, $75^{\\circ}$ y $75^{\\circ}$."
         },
         {
           "letter": "A",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "18",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $2$ en la suma de los tres ángulos."
         },
         {
-          "letter": "D",
-          "text": "$25$",
+          "letter": "B",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
+        },
+        {
+          "letter": "C",
+          "text": "180",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $2x + 5x + 5x = 180 \\implies 12x = 180 \\implies x = 15$. Los ángulos resultantes miden $30^{\\circ}$, $75^{\\circ}$ y $75^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v16",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $4x$, $4x$ y $4x$. Determina el valor numérico de $x$.",
       "context": "En Cabo Rojo, Carmen diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
       "options": [
         {
           "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "text": "15",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $4x + 4x + 4x = 12x = 180$ y $x = 15$, que produce los ángulos $60^{\\circ}$, $60^{\\circ}$ y $60^{\\circ}$."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de dos de los coeficientes; en la ecuación de los ángulos los tres términos se suman a la vez."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $4x + 4x + 4x = 180 \\implies 12x = 180 \\implies x = 15$. Los ángulos resultantes miden $60^{\\circ}$, $60^{\\circ}$ y $60^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v17",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $3x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
       "context": "En Río Piedras, Diego analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ramón Power y Giralt.",
       "options": [
         {
-          "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "letter": "B",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $3x + 3x + 4x = 10x = 180$ y $x = 18$, que produce los ángulos $54^{\\circ}$, $54^{\\circ}$ y $72^{\\circ}$."
         },
         {
-          "letter": "B",
-          "text": "$15$",
+          "letter": "A",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "feedback": "Incorrecto. Ese valor sale de dividir $180^{\\circ}$ solo entre $3$ y $3$, como si el término $4x$ no representara ningun ángulo."
         },
         {
           "letter": "C",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $3x + 3x + 4x = 180 \\implies 10x = 180 \\implies x = 18$. Los ángulos resultantes miden $54^{\\circ}$, $54^{\\circ}$ y $72^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v18",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $4x$ y $4x$. Determina el valor numérico de $x$.",
       "context": "En Aguadilla, Yaritza diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Juan Suárez Pelegrina.",
       "options": [
         {
-          "letter": "A",
-          "text": "$10$",
-          "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "letter": "C",
+          "text": "18",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $2x + 4x + 4x = 10x = 180$ y $x = 18$, que produce los ángulos $36^{\\circ}$, $72^{\\circ}$ y $72^{\\circ}$."
         },
         {
-          "letter": "C",
-          "text": "$15$",
+          "letter": "A",
+          "text": "30",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $4$ en la suma de los tres ángulos."
         },
         {
           "letter": "B",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "text": "36",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $2x + 4x + 4x = 180 \\implies 10x = 180 \\implies x = 18$. Los ángulos resultantes miden $36^{\\circ}$, $72^{\\circ}$ y $72^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v19",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $1x$, $4x$ y $4x$. Determina el valor numérico de $x$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Ponce High de Ponce, Valentina resuelve un ejercicio propuesto.",
       "options": [
         {
+          "letter": "D",
+          "text": "20",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $1x + 4x + 4x = 9x = 180$ y $x = 20$, que produce los ángulos $20^{\\circ}$, $80^{\\circ}$ y $80^{\\circ}$."
+        },
+        {
           "letter": "A",
-          "text": "$10$",
+          "text": "36",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $4$ en la suma de los tres ángulos."
         },
         {
           "letter": "B",
-          "text": "$15$",
+          "text": "40",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "D",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "C",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $1x + 4x + 4x = 180 \\implies 9x = 180 \\implies x = 20$. Los ángulos resultantes miden $20^{\\circ}$, $80^{\\circ}$ y $80^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W15-tema-w15-001-MASTERY-bundle-v20",
-      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $2x$, $3x$ y $4x$. Determina el valor numérico de $x$.",
+      "statement": "En un triángulo acutángulo, las medidas de sus ángulos interiores están dadas en términos de $x$ por las expresiones $5x$, $9x$ y $6x$. Determina el valor numérico de $x$.",
       "context": "En Mayagüez, Valentina diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior de Mayagüez (SILA).",
       "options": [
         {
+          "letter": "A",
+          "text": "9",
+          "is_correct": true,
+          "feedback": "Correcto. Los tres ángulos suman $180^{\\circ}$, luego $5x + 9x + 6x = 20x = 180$ y $x = 9$, que produce los ángulos $45^{\\circ}$, $81^{\\circ}$ y $54^{\\circ}$."
+        },
+        {
           "letter": "B",
-          "text": "$10$",
+          "text": "12",
           "is_correct": false,
-          "feedback": "Incorrecto. Error al dividir los términos de la ecuación."
+          "feedback": "Incorrecto. Ese valor corresponde a omitir el coeficiente $5$ en la suma de los tres ángulos."
         },
         {
           "letter": "C",
-          "text": "$15$",
+          "text": "18",
           "is_correct": false,
-          "feedback": "Incorrecto. No satisface la suma de ángulos de 180."
-        },
-        {
-          "letter": "A",
-          "text": "$20$",
-          "is_correct": true,
-          "feedback": "Correcto. Ya que $2x + 3x + 4x = 180 \\implies 9x = 180 \\implies x = 20$."
+          "feedback": "Incorrecto. Usaste $360^{\\circ}$, la suma de los ángulos interiores de un cuadrilátero, en lugar de $180^{\\circ}$."
         },
         {
           "letter": "D",
-          "text": "$25$",
+          "text": "180",
           "is_correct": false,
-          "feedback": "Incorrecto. Valor que sobrepasa el límite de suma de ángulos."
+          "feedback": "Incorrecto. Ese es el total de los ángulos interiores, no el valor de $x$; falta dividir entre la suma de los coeficientes."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La suma de los ángulos interiores de un triángulo es $180^{\\circ}$. Planteamos la ecuación: $2x + 3x + 4x = 180 \\implies 9x = 180$. Dividiendo ambos lados por 9, hallamos que $x = 20$.\n\n---",
+      "explanation": "En todo triángulo la suma de los ángulos interiores es $180^{\\circ}$. Sustituyendo las expresiones: $5x + 9x + 6x = 180 \\implies 20x = 180 \\implies x = 9$. Los ángulos resultantes miden $45^{\\circ}$, $81^{\\circ}$ y $54^{\\circ}$, y los tres son menores de $90^{\\circ}$, como exige un triángulo acutángulo.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,41 +9,41 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is the English word for a person who teaches in a school?",
+      "context": "A job description task in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "text": "teacher",
+          "is_correct": true,
+          "feedback": "'Teacher' is the person who teaches, and it is formed from the verb 'teach'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "studier",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "A studier is not an English word; the noun for someone who studies is 'student'."
+        },
+        {
+          "letter": "C",
+          "text": "learner",
+          "is_correct": false,
+          "feedback": "'Learner' means someone who learns, which is the person doing the studying, not the teaching."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "lesson",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Lesson' is the thing taught, not the person who teaches it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "The word for a person whose job is to teach students at a school is 'teacher', which comes from the verb 'to teach'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.9,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -54,41 +54,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct word: a book with pages and a cover that you read.",
+      "context": "A description of objects in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "notebook",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'Notebook' is used for a book with blank pages used for writing, not for reading."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "book",
+          "is_correct": true,
+          "feedback": "'Book' is the standard word for a bound set of pages meant to be read."
+        },
+        {
+          "letter": "C",
+          "text": "paper",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "'Paper' names the material itself rather than the object made of bound pages."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "copybook",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Copybook' is a book for copying handwriting, which is a much narrower object."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "correct_answer": "B",
+      "explanation": "The object described is a 'book', the standard word for a set of printed pages read for study or pleasure.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.9,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -99,41 +99,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which word means a room in a school where students sit in rows to learn?",
+      "context": "A description of school buildings in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "hallway",
           "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "feedback": "'Hallway' is a corridor used for walking between rooms, not for lessons."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "playground",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Playground' is the outdoor area used for recreation and sport."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "classroom",
+          "is_correct": true,
+          "feedback": "'Classroom' combines 'class' and 'room' and names the space where lessons take place."
+        },
+        {
+          "letter": "D",
+          "text": "library",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Library' is the room that holds books, which is not what the question describes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "C",
+      "explanation": "A 'classroom' is the room where a class meets, while a 'class' is the group of students themselves.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Understand",
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -144,36 +144,36 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct word: the person who leads a school or a department.",
+      "context": "A conversation about school administration in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "principle",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Principle' is a general rule or belief, a different word with a similar spelling."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "president",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'President' heads a country, an organisation or a company, not a school."
+        },
+        {
+          "letter": "C",
+          "text": "professor",
+          "is_correct": false,
+          "feedback": "'Professor' is a university teacher, not the person who administers a school."
         },
         {
           "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "text": "principal",
+          "is_correct": true,
+          "feedback": "'Principal' is the head of a school, in charge of the teachers and the programme."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
+      "correct_answer": "D",
+      "explanation": "The leader of a school is called the 'principal', the word used for the person in charge of the whole school.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,41 +189,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does the word 'homework' refer to?",
+      "context": "An explanation of school routines in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "The lesson a teacher gives in class",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "That is a 'lesson' or a 'class', which happens inside the school."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "The record of a student's grades",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "That is a 'report card', which lists marks rather than assigned tasks."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "The cleaning done in a classroom",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "That is a chore, unrelated to what a teacher assigns as schoolwork."
+        },
+        {
+          "letter": "D",
+          "text": "Schoolwork assigned to be done at home",
+          "is_correct": true,
+          "feedback": "'Homework' is precisely the work a teacher assigns for the student to do outside class."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "'Homework' is the schoolwork a student is given to do at home, and it always takes the word 'do' rather than 'make'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.9,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -234,41 +234,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct word for a place where students borrow and read books.",
+      "context": "A description of school facilities in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "text": "bookstore",
+          "is_correct": false,
+          "feedback": "'Bookstore' is a shop where books are bought, not a place where they are borrowed."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "bookshelf",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Bookshelf' is the piece of furniture that holds the books, not the room itself."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "library",
+          "is_correct": true,
+          "feedback": "'Library' is the place where books are collected and can be borrowed for reading."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "laboratory",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Laboratory' is where science experiments are carried out."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "A 'library' is the room or building where books are kept and where students can borrow and read them.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Remember",
+      "expected_success": 0.9,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which word means a test given at the end of a term to measure what was learned?",
+      "context": "A conversation about assessment in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "examss",
           "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "feedback": "'Exam' is one word; writing it with two s characters at the end is a misspelling."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "text": "exam",
+          "is_correct": true,
+          "feedback": "'Exam' names the test that measures what a student has learned over a period."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "exercise",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "'Exercise' is a task practised during a lesson, not the final test of the term."
+        },
+        {
+          "letter": "D",
+          "text": "lesson",
+          "is_correct": false,
+          "feedback": "'Lesson' is the teaching session itself rather than the assessment at the end."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "An 'exam' is the written or oral test given at the end of a period of study, while a 'lesson' is a teaching session.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct word: a thing students use to write, with ink or graphite.",
+      "context": "A vocabulary lesson in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "pencil",
+          "is_correct": true,
+          "feedback": "'Pencil' is the graphite writing instrument used for writing and drawing at school."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "pen",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'Pen' writes with ink, which is also correct but is a different instrument."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "crayon",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Crayon' is a wax colouring stick, which is not the usual writing tool."
+        },
+        {
+          "letter": "D",
+          "text": "marker",
+          "is_correct": false,
+          "feedback": "'Marker' is a thick pen used for lettering, not the standard writing instrument."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "The word for a writing instrument used in school is 'pencil' when it has graphite, and 'pen' when it uses ink.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Remember",
+      "expected_success": 0.9,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -369,40 +369,40 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the sentence: 'The students put their bags ___ their lockers.'",
+      "context": "A school routine described in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
+          "text": "on",
+          "is_correct": false,
+          "feedback": "'On their lockers' would mean on top of the cabinets, not inside them."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "text": "in",
+          "is_correct": true,
+          "feedback": "'In their lockers' places the bags inside the storage compartments."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "at",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'At' names a point, which does not describe the interior of a locker."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "under",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Under' would place the bags below the lockers, which is not the meaning."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A locker is a small storage cupboard, so the objects placed inside it take the preposition 'in'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
@@ -414,37 +414,172 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does 'subject' mean in the sentence 'Maths is my favourite subject'?",
+      "context": "A conversation about studies in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "letter": "A",
+          "text": "The teacher of a class",
+          "is_correct": false,
+          "feedback": "The teacher is a 'teacher' or 'instructor', not the subject of study."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "A page of a book",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "A page is called a 'page', while a 'subject' is an area of knowledge."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The main topic of a text",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "In reading, 'topic' or 'main idea' names that, but in a school context 'subject' means a field."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "An area of knowledge that is studied",
+          "is_correct": true,
+          "feedback": "'Subject' names a field of study within the school curriculum."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "In a school context, a 'subject' is an area of knowledge studied in the curriculum, such as maths or history.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v11",
+      "statement": "Choose the correct word: a person who studies at a school or university.",
+      "context": "A vocabulary lesson in an English class in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "teacher",
+          "is_correct": false,
+          "feedback": "'Teacher' is the person who instructs the students, not the one studying."
+        },
+        {
+          "letter": "B",
+          "text": "professor",
+          "is_correct": false,
+          "feedback": "'Professor' is a university teacher who holds a senior academic post."
+        },
+        {
+          "letter": "C",
+          "text": "student",
+          "is_correct": true,
+          "feedback": "'Student' is the person enrolled in a course of study at a school."
+        },
+        {
+          "letter": "D",
+          "text": "graduate",
+          "is_correct": false,
+          "feedback": "'Graduate' is someone who has already completed a degree."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "A 'student' is a person who is enrolled in a school or university and follows its courses of study.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "expected_success": 0.9,
+      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v12",
+      "statement": "What does 'grade' mean in the sentence 'She is in the eleventh grade'?",
+      "context": "A conversation about school levels in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A level of schooling in the school system",
+          "is_correct": true,
+          "feedback": "'Grade' names the year or level of a student's education."
+        },
+        {
+          "letter": "B",
+          "text": "A mark given for an exercise",
+          "is_correct": false,
+          "feedback": "A mark given for an exercise is a 'score', not the level of schooling."
+        },
+        {
+          "letter": "C",
+          "text": "The material stored in a warehouse",
+          "is_correct": false,
+          "feedback": "'Goods' or 'stock' name stored materials, unrelated to schooling."
+        },
+        {
+          "letter": "D",
+          "text": "The surface quality of paper",
+          "is_correct": false,
+          "feedback": "Paper quality is described by 'grade' too, but not in this school context."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A 'grade' is a level of schooling based on the student's age and stage, which is what the eleventh grade refers to.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v13",
+      "statement": "Choose the correct word: the books and materials a student uses for a course.",
+      "context": "A classroom description in an English class in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "notebook",
+          "is_correct": false,
+          "feedback": "'Notebook' is used for writing notes rather than for reading a course from."
+        },
+        {
+          "letter": "B",
+          "text": "novel",
+          "is_correct": false,
+          "feedback": "'Novel' is a long fictional story, not a study resource."
+        },
+        {
+          "letter": "C",
+          "text": "dictionary",
+          "is_correct": false,
+          "feedback": "'Dictionary' gives definitions and spellings, which is a tool rather than the course book."
+        },
+        {
+          "letter": "D",
+          "text": "textbook",
+          "is_correct": true,
+          "feedback": "'Textbook' is the official book adopted for study in a course."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A 'textbook' is the main book a student uses for a particular subject during a course.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -458,38 +593,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v14",
+      "statement": "Complete the sentence: 'The lesson begins when the teacher ___ the class.'",
+      "context": "A classroom routine in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "starts to",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Start' does not take 'to' before its object in this construction."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "starts",
+          "is_correct": true,
+          "feedback": "'Starts' takes the class as its object, which describes the teacher beginning the lesson."
+        },
+        {
+          "letter": "C",
+          "text": "starts for",
           "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "feedback": "'Start for' would point to a destination, which is not what happens here."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "starts with",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Start with' would need a second element named after 'with', such as a topic."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "To 'start' a class is to begin it, and the verb 'begin' takes the object 'the class' directly.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -503,173 +638,38 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
-        },
-        {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
-        },
-        {
-          "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
-        },
-        {
-          "letter": "C",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
-        },
-        {
-          "letter": "C",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
-        },
-        {
-          "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
-      "periodo": 23,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which word means the period of the day when classes take place?",
+      "context": "A timetabling conversation in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "text": "timetable",
+          "is_correct": true,
+          "feedback": "'Timetable' is the schedule that sets when each class of the day takes place."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "calendar",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "'Calendar' shows days and months of the year rather than individual class periods."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "syllabus",
           "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "feedback": "'Syllabus' is the list of topics covered in a course, not the timing of lessons."
+        },
+        {
+          "letter": "D",
+          "text": "register",
+          "is_correct": false,
+          "feedback": "'Register' is the official record of attendance, not the schedule of classes."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A 'timetable' or 'schedule' lists when each class meets, and 'lesson time' is the name for the school day itself.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -684,41 +684,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct word: to leave school temporarily, for example to finish a task later.",
+      "context": "A conversation about attendance in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "'I' always takes the verb 'am' in the present continuous, so the sentence needs 'am reading'."
+          "text": "unite",
+          "is_correct": false,
+          "feedback": "'Unite' means to join things together, the opposite of delaying an event."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "expose",
           "is_correct": false,
-          "feedback": "'is' goes with a third-person singular subject such as 'he' or 'she'; the subject here is 'I'."
+          "feedback": "'Expose' means to make something visible or known to the public."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' is used with 'you', 'we' and 'they', never with the singular 'I'."
+          "text": "postpone",
+          "is_correct": true,
+          "feedback": "'Postpone' means to move something planned to a later moment."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "repeat",
           "is_correct": false,
-          "feedback": "After the pronoun 'I' the verb is already conjugated, so the bare infinitive 'be' does not fit."
+          "feedback": "'Repeat' means to do something again, which does not necessarily change its timing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'Postpone' means to move a planned event to a later time, which is what 'postpone the class' describes.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "What does 'attend' mean in 'Every student must attend the assembly'?",
+      "context": "A reading task in an English class in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "'Benevolent' describes a person who is kind and ready to give help to others."
+          "text": "To arrive late without entering",
+          "is_correct": false,
+          "feedback": "Attending requires being present and participating, not merely passing by."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "That is the opposite of benevolent, whose root means well-wishing."
+          "text": "To be present at and take part in an event",
+          "is_correct": true,
+          "feedback": "'Attend' marks presence at a scheduled event such as a class, a meeting or an assembly."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "To organise the event for others",
           "is_correct": false,
-          "feedback": "Those describe speed; benevolent refers to character and generosity."
+          "feedback": "Organising is a different role; attending is being among those present."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "To make a written record of the event",
           "is_correct": false,
-          "feedback": "Those describe laziness, the opposite of a generous attitude towards others."
+          "feedback": "Recording is what a minute-taker does, which is not the meaning of attending."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "To 'attend' an event is to be present at it and take part in it, which is what the assembly rule requires.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
-      "expected_success": 0.8,
+      "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct sentence about school life.",
+      "context": "A reading comprehension exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "The text names exactly two things bees do: pollinating flowers and making honey."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "Nothing in the text says bees are dangerous; it describes useful work they do."
+          "text": "The students have to attend every lesson.",
+          "is_correct": true,
+          "feedback": "'Have to attend' expresses the obligation correctly for every lesson."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "The students have to attending every lesson.",
           "is_correct": false,
-          "feedback": "The text gives pollination as another thing bees do, so honey is not the only product."
+          "feedback": "'To' must be followed by a base form, never by the -ing form 'attending'."
+        },
+        {
+          "letter": "C",
+          "text": "The students have to attends every lesson.",
+          "is_correct": false,
+          "feedback": "'Have to' takes the base form 'attend' and never the third person form 'attends'."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "The students have to attend every homeworks.",
           "is_correct": false,
-          "feedback": "The text says bees help pollinate flowers, so flowers do rely on them."
+          "feedback": "'Every lesson' is singular here, so the plural 'homeworks' changes the meaning."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "Only one sentence uses the school vocabulary with the right verb and a meaningful combination of words.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",
@@ -819,37 +819,37 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct word: a school where students can study and sleep during term time.",
+      "context": "A conversation about boarding in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "'Went' is the irregular past simple of 'go'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "language school",
           "is_correct": false,
-          "feedback": "English does not add -ed to spell the past of 'go'; the past form is irregular."
+          "feedback": "'Language school' teaches languages, and students normally attend as day pupils."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "primary school",
           "is_correct": false,
-          "feedback": "'Gone' is the past participle used after 'have', not the past simple."
+          "feedback": "'Primary school' refers to the first stage of education, not to where pupils live."
+        },
+        {
+          "letter": "C",
+          "text": "boarding school",
+          "is_correct": true,
+          "feedback": "'Boarding school' names an institution where students live and study together during term."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "public school",
           "is_correct": false,
-          "feedback": "'Going' is the -ing form, used with 'is' or 'are', not the past simple."
+          "feedback": "'Public school' describes a school funded by the state, which says nothing about boarding."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "explanation": "A 'boarding school' is one where pupils live on the premises during term time and take their meals there as well.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What does 'discipline' mean in 'Good discipline helps a class learn'?",
+      "context": "A question about classroom behaviour in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "The third person singular of 'go' takes -s, and 'every day' asks for the present simple."
+          "text": "A physical punishment given as a penalty",
+          "is_correct": false,
+          "feedback": "That is one narrow meaning; in modern usage discipline means orderly behaviour."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "A subject studied only at university",
           "is_correct": false,
-          "feedback": "After 'she' the verb needs the -s form; writing 'go' is the classic subject-verb agreement error."
+          "feedback": "Some academic fields are called disciplines, which is a different sense of the word."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "The total number of students in a class",
           "is_correct": false,
-          "feedback": "That is the -ing form, which needs 'is' or 'are' before it; the sentence shown is missing that auxiliary."
+          "feedback": "The number of students is the 'enrolment', unrelated to discipline."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'Gone' is a participle and needs 'has' or 'have'; it cannot stand alone after the subject."
+          "text": "The ordered behaviour that makes learning possible",
+          "is_correct": true,
+          "feedback": "'Discipline' is the calm and rule-respecting conduct the question describes."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'Discipline' in a school context means the calm, rule-bound behaviour that allows teaching and learning to take place.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle",
       "periodo": 23,
       "protocol_version": "5.2",

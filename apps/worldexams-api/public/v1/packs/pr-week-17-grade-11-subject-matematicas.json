@@ -99,36 +99,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v3",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior Luis Muñoz Rivera de Utuado, José resuelve un ejercicio propuesto.",
       "options": [
         {
           "letter": "C",
-          "text": "17",
+          "text": "5",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+          "feedback": "Correcto. $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$."
         },
         {
           "letter": "A",
-          "text": "23",
+          "text": "7",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "289",
+          "text": "25",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(3, 4)$ es la hipotenusa de un triángulo rectángulo con catetos $|3|$ y $|4|$. Por el teorema de Pitágoras: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
@@ -148,32 +148,32 @@
       "context": "Durante un taller de preparación académica en la Escuela Superior Margarita Janer Palacios de Guaynabo, Camila resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "C",
+          "letter": "D",
           "text": "13",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$."
         },
         {
           "letter": "A",
-          "text": "169",
+          "text": "17",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "17",
+          "text": "169",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "7",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El segmento que une el origen con $S(5, 12)$ es la hipotenusa de un triángulo rectángulo con catetos $|5|$ y $|12|$. Por el teorema de Pitágoras: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -189,36 +189,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v5",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
       "context": "Un grupo de estudiantes de la Escuela Superior Ponce High en Ponce realiza una investigación guiada por Mateo.",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "text": "17",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$."
         },
         {
           "letter": "B",
-          "text": "25",
+          "text": "23",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
-        },
-        {
-          "letter": "D",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
+          "text": "289",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
+        },
+        {
+          "letter": "D",
           "text": "7",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El segmento que une el origen con $S(8, 15)$ es la hipotenusa de un triángulo rectángulo con catetos $|8|$ y $|15|$. Por el teorema de Pitágoras: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v6",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(7, 24)$.",
       "context": "En Fajardo, Mariana estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Dr. Santiago Veve Calzada.",
       "options": [
         {
-          "letter": "A",
-          "text": "13",
+          "letter": "B",
+          "text": "25",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$."
         },
         {
-          "letter": "B",
-          "text": "169",
+          "letter": "A",
+          "text": "31",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "17",
+          "text": "625",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "17",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El segmento que une el origen con $S(7, 24)$ es la hipotenusa de un triángulo rectángulo con catetos $|7|$ y $|24|$. Por el teorema de Pitágoras: $d = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25$.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v7",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(20, 21)$.",
       "context": "Como parte de las olimpiades científicas en Cayey, Yaritza aplica conceptos algebraicos en la Escuela Superior Miguel Meléndez Muñoz.",
       "options": [
         {
-          "letter": "A",
-          "text": "13",
+          "letter": "C",
+          "text": "29",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{20^2 + 21^2} = \\sqrt{400 + 441} = \\sqrt{841} = 29$."
+        },
+        {
+          "letter": "A",
+          "text": "41",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "169",
+          "text": "841",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
-        },
-        {
-          "letter": "C",
-          "text": "17",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El segmento que une el origen con $S(20, 21)$ es la hipotenusa de un triángulo rectángulo con catetos $|20|$ y $|21|$. Por el teorema de Pitágoras: $d = \\sqrt{20^2 + 21^2} = \\sqrt{400 + 441} = \\sqrt{841} = 29$.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v8",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(12, 35)$.",
       "context": "En Aguadilla, Keylor diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Juan Suárez Pelegrina.",
       "options": [
         {
           "letter": "D",
-          "text": "13",
+          "text": "37",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{12^2 + 35^2} = \\sqrt{144 + 1225} = \\sqrt{1369} = 37$."
         },
         {
           "letter": "A",
-          "text": "169",
+          "text": "47",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "17",
+          "text": "1369",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "C",
-          "text": "7",
+          "text": "23",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(12, 35)$ es la hipotenusa de un triángulo rectángulo con catetos $|12|$ y $|35|$. Por el teorema de Pitágoras: $d = \\sqrt{12^2 + 35^2} = \\sqrt{144 + 1225} = \\sqrt{1369} = 37$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v9",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(9, 40)$.",
       "context": "En Cayey, Sebastián analiza un problema de modelación matemática para un proyecto de la Escuela Superior Miguel Meléndez Muñoz.",
       "options": [
         {
           "letter": "A",
-          "text": "13",
+          "text": "41",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{9^2 + 40^2} = \\sqrt{81 + 1600} = \\sqrt{1681} = 41$."
         },
         {
           "letter": "B",
-          "text": "169",
+          "text": "49",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "17",
+          "text": "1681",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "31",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(9, 40)$ es la hipotenusa de un triángulo rectángulo con catetos $|9|$ y $|40|$. Por el teorema de Pitágoras: $d = \\sqrt{9^2 + 40^2} = \\sqrt{81 + 1600} = \\sqrt{1681} = 41$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v10",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(28, 45)$.",
       "context": "En Cabo Rojo, Keylor diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Monserrate León de Irizarry.",
       "options": [
         {
           "letter": "B",
-          "text": "17",
+          "text": "53",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+          "feedback": "Correcto. $d = \\sqrt{28^2 + 45^2} = \\sqrt{784 + 2025} = \\sqrt{2809} = 53$."
         },
         {
           "letter": "A",
-          "text": "23",
+          "text": "73",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "289",
+          "text": "2809",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "17",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(28, 45)$ es la hipotenusa de un triángulo rectángulo con catetos $|28|$ y $|45|$. Por el teorema de Pitágoras: $d = \\sqrt{28^2 + 45^2} = \\sqrt{784 + 2025} = \\sqrt{2809} = 53$.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v11",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(5, 12)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(11, 60)$.",
       "context": "En Río Piedras, José diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Ramón Power y Giralt.",
       "options": [
         {
-          "letter": "A",
-          "text": "13",
+          "letter": "C",
+          "text": "61",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{5^2 + 12^2} = 13$."
+          "feedback": "Correcto. $d = \\sqrt{11^2 + 60^2} = \\sqrt{121 + 3600} = \\sqrt{3721} = 61$."
+        },
+        {
+          "letter": "A",
+          "text": "71",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "169",
+          "text": "3721",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
-        },
-        {
-          "letter": "C",
-          "text": "17",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "49",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(5, 12)$: $d = \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El segmento que une el origen con $S(11, 60)$ es la hipotenusa de un triángulo rectángulo con catetos $|11|$ y $|60|$. Por el teorema de Pitágoras: $d = \\sqrt{11^2 + 60^2} = \\sqrt{121 + 3600} = \\sqrt{3721} = 61$.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v12",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(16, 63)$.",
       "context": "Como parte de las olimpiades científicas en Fajardo, Isabella aplica conceptos algebraicos en la Escuela Superior Dr. Santiago Veve Calzada.",
       "options": [
         {
-          "letter": "B",
-          "text": "17",
+          "letter": "D",
+          "text": "65",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+          "feedback": "Correcto. $d = \\sqrt{16^2 + 63^2} = \\sqrt{256 + 3969} = \\sqrt{4225} = 65$."
         },
         {
           "letter": "A",
-          "text": "23",
+          "text": "79",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
+        },
+        {
+          "letter": "B",
+          "text": "4225",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "C",
-          "text": "289",
+          "text": "47",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
-        },
-        {
-          "letter": "D",
-          "text": "7",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El segmento que une el origen con $S(16, 63)$ es la hipotenusa de un triángulo rectángulo con catetos $|16|$ y $|63|$. Por el teorema de Pitágoras: $d = \\sqrt{16^2 + 63^2} = \\sqrt{256 + 3969} = \\sqrt{4225} = 65$.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v13",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(6, 8)$.",
       "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por Sofía.",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "text": "10",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$."
         },
         {
           "letter": "B",
-          "text": "25",
+          "text": "14",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "text": "100",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "2",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El segmento que une el origen con $S(6, 8)$ es la hipotenusa de un triángulo rectángulo con catetos $|6|$ y $|8|$. Por el teorema de Pitágoras: $d = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10$.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v14",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(8, 15)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(10, 24)$.",
       "context": "En Humacao, Camila diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
       "options": [
         {
           "letter": "B",
-          "text": "17",
+          "text": "26",
           "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{8^2 + 15^2} = 17$."
+          "feedback": "Correcto. $d = \\sqrt{10^2 + 24^2} = \\sqrt{100 + 576} = \\sqrt{676} = 26$."
         },
         {
           "letter": "A",
-          "text": "23",
+          "text": "34",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "289",
+          "text": "676",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "14",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(8, 15)$: $d = \\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(10, 24)$ es la hipotenusa de un triángulo rectángulo con catetos $|10|$ y $|24|$. Por el teorema de Pitágoras: $d = \\sqrt{10^2 + 24^2} = \\sqrt{100 + 576} = \\sqrt{676} = 26$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v15",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(16, 30)$.",
       "context": "Durante un taller de preparación académica en la Escuela Superior de Mayagüez (SILA) de Mayagüez, Francisco resuelve un ejercicio propuesto.",
       "options": [
         {
-          "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "letter": "C",
+          "text": "34",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{16^2 + 30^2} = \\sqrt{256 + 900} = \\sqrt{1156} = 34$."
         },
         {
-          "letter": "C",
-          "text": "25",
+          "letter": "A",
+          "text": "46",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "text": "1156",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "14",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El segmento que une el origen con $S(16, 30)$ es la hipotenusa de un triángulo rectángulo con catetos $|16|$ y $|30|$. Por el teorema de Pitágoras: $d = \\sqrt{16^2 + 30^2} = \\sqrt{256 + 900} = \\sqrt{1156} = 34$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v16",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(14, 48)$.",
       "context": "En Carolina, Carmen estudia la optimización de recursos y diseño estructural con sus compañeros de la Escuela Superior Ana Roque de Duprey.",
       "options": [
         {
-          "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "letter": "D",
+          "text": "50",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{14^2 + 48^2} = \\sqrt{196 + 2304} = \\sqrt{2500} = 50$."
         },
         {
-          "letter": "C",
-          "text": "25",
+          "letter": "A",
+          "text": "62",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "text": "2500",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
-          "letter": "D",
-          "text": "7",
+          "letter": "C",
+          "text": "34",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "D",
+      "explanation": "El segmento que une el origen con $S(14, 48)$ es la hipotenusa de un triángulo rectángulo con catetos $|14|$ y $|48|$. Por el teorema de Pitágoras: $d = \\sqrt{14^2 + 48^2} = \\sqrt{196 + 2304} = \\sqrt{2500} = 50$.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v17",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(40, 42)$.",
       "context": "Un grupo de estudiantes de la Escuela Superior Dra. Concepción Aponte en Bayamón realiza una investigación guiada por María.",
       "options": [
         {
           "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
-        },
-        {
-          "letter": "C",
-          "text": "25",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "text": "58",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{40^2 + 42^2} = \\sqrt{1600 + 1764} = \\sqrt{3364} = 58$."
         },
         {
           "letter": "B",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "text": "82",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
+        },
+        {
+          "letter": "C",
+          "text": "3364",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "7",
+          "text": "2",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "A",
+      "explanation": "El segmento que une el origen con $S(40, 42)$ es la hipotenusa de un triángulo rectángulo con catetos $|40|$ y $|42|$. Por el teorema de Pitágoras: $d = \\sqrt{40^2 + 42^2} = \\sqrt{1600 + 1764} = \\sqrt{3364} = 58$.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v18",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(24, 70)$.",
       "context": "En Humacao, Gabriel diseña una maqueta a escala y realiza mediciones en los terrenos de la Escuela Superior Patria Latorre Ramírez.",
       "options": [
         {
-          "letter": "A",
-          "text": "1",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
-        },
-        {
           "letter": "B",
-          "text": "25",
-          "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "text": "74",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{24^2 + 70^2} = \\sqrt{576 + 4900} = \\sqrt{5476} = 74$."
         },
         {
-          "letter": "D",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "letter": "A",
+          "text": "94",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "C",
-          "text": "7",
+          "text": "5476",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
+        },
+        {
+          "letter": "D",
+          "text": "46",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El segmento que une el origen con $S(24, 70)$ es la hipotenusa de un triángulo rectángulo con catetos $|24|$ y $|70|$. Por el teorema de Pitágoras: $d = \\sqrt{24^2 + 70^2} = \\sqrt{576 + 4900} = \\sqrt{5476} = 74$.\n\n---",
       "difficulty": "9",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v19",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(18, 80)$.",
       "context": "Como parte de las olimpiades científicas en Carolina, Sofía aplica conceptos algebraicos en la Escuela Superior Ana Roque de Duprey.",
       "options": [
         {
+          "letter": "C",
+          "text": "82",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{18^2 + 80^2} = \\sqrt{324 + 6400} = \\sqrt{6724} = 82$."
+        },
+        {
           "letter": "A",
-          "text": "1",
+          "text": "98",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "25",
+          "text": "6724",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "D",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
-        },
-        {
-          "letter": "C",
-          "text": "7",
+          "text": "62",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El segmento que une el origen con $S(18, 80)$ es la hipotenusa de un triángulo rectángulo con catetos $|18|$ y $|80|$. Por el teorema de Pitágoras: $d = \\sqrt{18^2 + 80^2} = \\sqrt{324 + 6400} = \\sqrt{6724} = 82$.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "PR-MAT-11-2026-W17-tema-w17-001-MASTERY-bundle-v20",
-      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(3, 4)$.",
+      "statement": "Calcula la distancia en el plano cartesiano entre el origen de coordenadas $(0,0)$ y el punto $S(36, 77)$.",
       "context": "En Ponce, Alondra analiza un problema de modelación matemática para un proyecto de la Escuela Superior Ponce High.",
       "options": [
         {
+          "letter": "D",
+          "text": "85",
+          "is_correct": true,
+          "feedback": "Correcto. $d = \\sqrt{36^2 + 77^2} = \\sqrt{1296 + 5929} = \\sqrt{7225} = 85$."
+        },
+        {
           "letter": "A",
-          "text": "1",
+          "text": "113",
           "is_correct": false,
-          "feedback": "Incorrecto. Se restaron las coordenadas."
+          "feedback": "Incorrecto. Es la suma de las coordenadas; la distancia no se obtiene sumando, sino sumando sus cuadrados."
         },
         {
           "letter": "B",
-          "text": "25",
+          "text": "7225",
           "is_correct": false,
-          "feedback": "Incorrecto. Se olvidó aplicar la raíz cuadrada."
-        },
-        {
-          "letter": "D",
-          "text": "5",
-          "is_correct": true,
-          "feedback": "Correcto. La distancia es $\\sqrt{3^2 + 4^2} = 5$."
+          "feedback": "Incorrecto. Ese es el cuadrado de la distancia; el teorema de Pitágoras entrega la raíz cuadrada."
         },
         {
           "letter": "C",
-          "text": "7",
+          "text": "41",
           "is_correct": false,
-          "feedback": "Incorrecto. Se sumaron las coordenadas de forma lineal."
+          "feedback": "Incorrecto. Es la diferencia entre las coordenadas; restar no mide la distancia al origen."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La distancia desde el origen a un punto $(x, y)$ se calcula mediante la fórmula $d = \\sqrt{x^2 + y^2}$. Sustituyendo las coordenadas del punto $S(3, 4)$: $d = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.\n\n---",
+      "explanation": "El segmento que une el origen con $S(36, 77)$ es la hipotenusa de un triángulo rectángulo con catetos $|36|$ y $|77|$. Por el teorema de Pitágoras: $d = \\sqrt{36^2 + 77^2} = \\sqrt{1296 + 5929} = \\sqrt{7225} = 85$.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "What is a topic sentence?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "A sentence that states the main idea of a paragraph",
           "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "feedback": "The topic sentence carries the paragraph's central idea for the reader."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "The last sentence of a paragraph, always",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "A topic sentence usually comes first, though it can appear at the end."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "A sentence that contains the longest word",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "Nothing in the definition depends on the length of the words used."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "A question that the paragraph answers",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "A topic sentence states an idea; it does not need to be a question."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "A topic sentence states the main idea of a paragraph and tells the reader what that paragraph is about.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
@@ -54,217 +54,37 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best topic sentence for a paragraph about the benefits of walking to school.",
+      "context": "A paragraph writing exercise in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "text": "My neighbour walks to school every single day without fail.",
+          "is_correct": false,
+          "feedback": "This is a narrow anecdote about one person, too specific to govern a whole paragraph."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
-        },
-        {
-          "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
-        },
-        {
-          "letter": "D",
-          "text": "Slow and lazy",
-          "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
-      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
-      "periodo": 36,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "text": "Walking to school has real benefits for health and the environment.",
           "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "The sentence names the subject and the two fields it will cover, which the rest can develop."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Yesterday afternoon was sunny and warm.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "The sentence is about the weather and would lead the paragraph in the wrong direction."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "Buses are common in cities.",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "This introduces a different subject, and 'common' adds nothing that can be explained."
         }
       ],
       "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "explanation": "A good topic sentence announces the subject of the paragraph in general terms and can be developed into several supporting sentences.",
       "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
-      "periodo": 36,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
-      "periodo": 36,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
-          "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
-      "periodo": 36,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
-          "letter": "B",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
-        },
-        {
-          "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
-        },
-        {
-          "letter": "D",
-          "text": "be",
-          "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -278,38 +98,83 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v3",
+      "statement": "Which sentence is a suitable supporting sentence for a paragraph about the benefits of walking to school?",
+      "context": "A paragraph writing task in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The sky above the road was blue that morning.",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "A description of the weather adds nothing to the benefits being developed."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Paragraphs are made of several sentences.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "That is a definition of a paragraph and does not support the stated topic."
+        },
+        {
+          "letter": "C",
+          "text": "Walking adds gentle exercise without any need for a gym membership.",
+          "is_correct": true,
+          "feedback": "The sentence expands the health benefit named in the topic sentence."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Some people prefer to walk very slowly.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "The speed of walking is not one of the benefits the paragraph set out to explain."
         }
       ],
       "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "explanation": "A supporting sentence develops one of the ideas announced by the topic sentence and explains it further.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v4",
+      "statement": "What is the purpose of a concluding sentence in a paragraph?",
+      "context": "A writing lesson in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To introduce an entirely new topic for the next paragraph",
+          "is_correct": false,
+          "feedback": "New topics belong in a new paragraph, usually with a clear link."
+        },
+        {
+          "letter": "B",
+          "text": "To repeat the title word for no reason at all",
+          "is_correct": false,
+          "feedback": "A conclusion must add meaning, not merely echo a word from the title."
+        },
+        {
+          "letter": "C",
+          "text": "To ask the reader a question they cannot answer",
+          "is_correct": false,
+          "feedback": "An unanswerable question adds confusion rather than closing the argument."
+        },
+        {
+          "letter": "D",
+          "text": "To close the paragraph by summarising its main point",
+          "is_correct": true,
+          "feedback": "The last sentence wraps up what the paragraph has developed."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "A concluding sentence closes the paragraph by summarising its idea or leaving the reader with a final thought on the topic.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -323,42 +188,177 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v5",
+      "statement": "Choose the best concluding sentence for a paragraph about why libraries matter.",
+      "context": "A paragraph writing exercise in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "text": "The word library begins with the letter l and has seven letters.",
+          "is_correct": false,
+          "feedback": "Counting letters adds nothing to the argument about why libraries matter."
         },
         {
           "letter": "B",
-          "text": "Bees are dangerous insects",
+          "text": "There are no other places with books in the city.",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "The claim is false and would damage the paragraph's credibility."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Paragraphs should always end with a question.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "That is a rule that is not true and does not suit this paragraph."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "text": "For all their quiet rooms and long shelves, libraries remain open to anyone who wants to learn.",
+          "is_correct": true,
+          "feedback": "The sentence gathers the ideas and closes with a broader statement about access."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A strong conclusion pulls the paragraph's points together and restates their importance in a fresh way.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v6",
+      "statement": "Which sentence belongs in the body of a paragraph rather than in its conclusion?",
+      "context": "A writing lesson in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In short, libraries remain valuable to the whole community.",
+          "is_correct": false,
+          "feedback": "The phrase 'in short' marks a summary, which belongs in a conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "To sum up, access to books should be treated as a public good.",
+          "is_correct": false,
+          "feedback": "The phrase 'to sum up' signals a closing summary of the argument."
+        },
+        {
+          "letter": "C",
+          "text": "For example, the branch library lends materials to people who have no internet at home.",
+          "is_correct": true,
+          "feedback": "The sentence gives a concrete example that develops the idea, which is the work of the body."
+        },
+        {
+          "letter": "D",
+          "text": "All in all, these places matter more than ever before.",
+          "is_correct": false,
+          "feedback": "The expression 'all in all' marks a wrap-up, so this is a concluding sentence."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Body sentences develop the main idea with details and examples, while a conclusion summarises what has already been developed.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v7",
+      "statement": "Why should a paragraph contain only one main idea?",
+      "context": "A writing skills lesson in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Because paragraphs must always be exactly five sentences long",
+          "is_correct": false,
+          "feedback": "A paragraph has no fixed length; the number of sentences depends on the idea."
+        },
+        {
+          "letter": "B",
+          "text": "So that the paragraph stays focused and easy to follow",
+          "is_correct": true,
+          "feedback": "One idea per paragraph gives the reader a clear thread through the text."
+        },
+        {
+          "letter": "C",
+          "text": "Because teachers reduce the marks for long paragraphs",
+          "is_correct": false,
+          "feedback": "Marks depend on content and accuracy, not on how long a paragraph is."
+        },
+        {
+          "letter": "D",
+          "text": "Because shorter paragraphs use less ink when printed",
+          "is_correct": false,
+          "feedback": "Practical printing costs are not the reason writers organise paragraphs as they do."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A single idea keeps the paragraph focused, so the reader can follow the argument without the writer jumping between subjects.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v8",
+      "statement": "Choose the best way to order ideas in a body paragraph.",
+      "context": "A paragraph writing exercise in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "From the main point to the supporting examples that explain it",
+          "is_correct": true,
+          "feedback": "Starting with the general idea and following with details gives the reader a clear structure."
+        },
+        {
+          "letter": "B",
+          "text": "From the most surprising detail to the main point at the end",
+          "is_correct": false,
+          "feedback": "Leaving the main idea to the end can leave the reader unsure what the paragraph was for."
+        },
+        {
+          "letter": "C",
+          "text": "In random order, because each idea stands on its own",
+          "is_correct": false,
+          "feedback": "Random order hides the connection between the point and its examples."
+        },
+        {
+          "letter": "D",
+          "text": "In strict chronological order of when you thought of them",
+          "is_correct": false,
+          "feedback": "The order in which ideas come to mind is not the order in which they explain each other."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ideas are usually arranged from the most general or important point to the supporting details, which keeps the reader oriented.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which transition helps a reader follow a contrast between two ideas?",
+      "context": "A writing lesson in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "text": "Moreover,",
+          "is_correct": false,
+          "feedback": "'Moreover' adds a further supporting point rather than an opposing one."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "text": "However,",
+          "is_correct": true,
+          "feedback": "The word signals that the following sentence will oppose what came before."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "For example,",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "That phrase introduces an illustration of the previous point."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "In other words,",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "That phrase restates the same idea in different words."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A contrast transition signals that the next idea opposes the previous one, and examples are 'however', 'in contrast' or 'on the other hand'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What is a topic sentence for a paragraph about the reasons people volunteer?",
+      "context": "A paragraph planning task in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Maria volunteers at the library on Tuesdays and Fridays.",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "One person's routine is too narrow to serve as the idea of a whole paragraph."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Volunteering is something.",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "The statement is too vague to be developed, and it names no idea at all."
+        },
+        {
+          "letter": "C",
+          "text": "I do not volunteer at all myself.",
+          "is_correct": false,
+          "feedback": "That is a personal remark, not an idea about why other people volunteer."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "People volunteer for a variety of reasons.",
+          "is_correct": true,
+          "feedback": "The sentence announces the topic without committing to a single narrow example, leaving room to develop it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A topic sentence must name the subject of the paragraph and be broad enough to be explained by several following sentences.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best concluding sentence for a paragraph about the benefits of walking to school.",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "text": "Some people also drive to school when the weather is cold.",
+          "is_correct": false,
+          "feedback": "The sentence adds a new point rather than closing the paragraph."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Walking is a form of movement that people do every day.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "The sentence is a definition, which restates nothing the paragraph developed."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "text": "For all its effort, walking to school turns out to benefit both health and the local air.",
+          "is_correct": true,
+          "feedback": "It gathers the two points into a final judgement about their combined value."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "The number of cars on the road was counted last year.",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "The statistic is a new detail and does not summarise the argument."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A conclusion must wrap up the points the paragraph developed and restate their significance without introducing new material.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,40 +504,40 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Which sentence would make the best topic sentence for a paragraph about the effects of noise on study?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "text": "Noise in a study space reduces concentration and lowers the quality of work produced.",
+          "is_correct": true,
+          "feedback": "It states the subject and a claim that details about concentration and work can develop."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "The reading room has fifty seats and four windows.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "It gives the setting's measurements rather than a claim about the effects of noise."
+        },
+        {
+          "letter": "C",
+          "text": "The window nearest the road was replaced last spring.",
+          "is_correct": false,
+          "feedback": "The sentence gives a maintenance detail that develops no argument at all."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Some students wear headphones while they work.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "The observation concerns coping behaviour, not the paragraph's stated topic."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A topic sentence must name the subject and offer a claim that the following sentences can support with evidence.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which connector should introduce the second supporting sentence in a paragraph about public transport?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
+          "letter": "A",
+          "text": "For instance,",
+          "is_correct": false,
+          "feedback": "The additive connector introduces a further point that supports the same idea."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "Nevertheless,",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "The word introduces an alternative condition, not a second supporting detail."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "Otherwise,",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "The word marks a substitution, which does not fit an additional supporting point."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "text": "Furthermore,",
+          "is_correct": true,
+          "feedback": "A contrastive connector would signal an opposing point instead of an additional one."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A connector shows the reader how the new sentence relates to the previous one, and an additive connector adds to the point already made.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "How should a writer choose which details to include in a paragraph?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "By including every fact that comes to mind about the topic",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "Extra facts dilute the paragraph and hide the main point from the reader."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "By keeping only those that support the topic sentence",
+          "is_correct": true,
+          "feedback": "Relevance to the stated idea is the criterion for including a detail."
+        },
+        {
+          "letter": "C",
+          "text": "By choosing the shortest details available",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "Brevity alone does not make a detail relevant to the topic sentence."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "By adding details that contradict the topic sentence",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "A contradiction would confuse the reader instead of developing the idea."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Only details that explain or prove the topic sentence belong in the paragraph; the rest distract from it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Complete the paragraph: 'Volunteering takes time and sometimes involves real expense. ___ it also builds skills that employers value.'",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "text": "However, it",
+          "is_correct": true,
+          "feedback": "'However' introduces a contrast between the cost and the benefit, which the sentence then develops."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Because of that, it",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "A causal connector would claim the benefit is the result of the cost, which is not the relationship."
+        },
+        {
+          "letter": "C",
+          "text": "In short, it",
+          "is_correct": false,
+          "feedback": "The phrase marks a summary and belongs at the end of the paragraph."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "In other words, it",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "The phrase restates the same idea in different words rather than adding a new one."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The second clause adds a benefit to the costs already listed, so an additive connector is the right choice.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What is the purpose of a concluding sentence that begins with 'In conclusion'?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "letter": "A",
+          "text": "To introduce a completely new topic",
+          "is_correct": false,
+          "feedback": "A new topic would normally begin a new paragraph with its own topic sentence."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "To repeat an earlier sentence word for word",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "Copying wording rather than summarising adds no value to the reader."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "text": "To summarise the main point of the paragraph",
+          "is_correct": true,
+          "feedback": "The phrase signals the closing summary the reader should retain."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "To ask the reader to write the conclusion",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "The paragraph belongs to the writer, not to the reader."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "The phrase announces that the paragraph is ending and that the writer is about to summarise what has been developed.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,37 +729,82 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the paragraph in which every sentence serves the same main idea.",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "text": "School gardens are pleasant. The weather last week was warm. Some students prefer novels to films. Lunch is served at one o'clock.",
+          "is_correct": false,
+          "feedback": "The sentences move between unrelated subjects and serve no single idea."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "text": "School gardens give students a practical lesson in care. They learn to prepare soil and to notice when a plant is failing. Several classes now sell what they grow to raise money.",
+          "is_correct": true,
+          "feedback": "Each sentence develops the idea of what the garden teaches and what results from it."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "School gardens need funding, as explained in the paragraph above, which is not really present.",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "The paragraph refers to an explanation it never provides, so it develops nothing."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Nobody knows why gardens exist, although many are built and are used every day.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "The opening and the closing contradict each other and no idea is developed."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A coherent paragraph is one in which each sentence develops the single idea stated in the topic sentence.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.8,
+      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
+      "periodo": 36,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v18",
+      "statement": "Why is a topic sentence usually placed at the beginning of a paragraph?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "So the reader knows the point before the supporting details begin",
+          "is_correct": true,
+          "feedback": "An early statement of the idea gives the reader a frame for everything after it."
+        },
+        {
+          "letter": "B",
+          "text": "So the paragraph always begins with the longest sentence",
+          "is_correct": false,
+          "feedback": "Position has nothing to do with the length of the sentences involved."
+        },
+        {
+          "letter": "C",
+          "text": "Because English grammar forbids the topic sentence elsewhere",
+          "is_correct": false,
+          "feedback": "The topic sentence can also appear at the end; it is not forbidden there."
+        },
+        {
+          "letter": "D",
+          "text": "Because supporting details cannot follow a statement of the idea",
+          "is_correct": false,
+          "feedback": "Details follow the topic sentence all the time, which is the normal pattern."
         }
       ],
       "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "Placing the main idea first tells the reader what the paragraph is about before the supporting detail begins.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -773,87 +818,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
-        },
-        {
-          "letter": "C",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
-      "periodo": 36,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best supporting detail for the topic sentence 'Regular reading improves writing skills'.",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "text": "Many people enjoy reading books in a quiet room.",
+          "is_correct": false,
+          "feedback": "The sentence is a general statement of preference rather than evidence for the claim."
         },
         {
           "letter": "B",
-          "text": "goed",
+          "text": "Reading is a hobby that some families share together.",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "The sentence discusses the activity socially and does not support the claim about writing."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "text": "Students who read every week produced longer and better organised essays in the same term.",
+          "is_correct": true,
+          "feedback": "The detail offers concrete evidence that connects the reading habit to the writing skill."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Some bookshops open earlier on Saturdays than on weekdays.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "The detail is about shop hours and has no bearing on writing skills at all."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "A supporting detail must provide evidence or an example for the claim in the topic sentence.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "What should a writer do to make a paragraph's ending feel purposeful?",
+      "context": "A paragraph writing lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "letter": "A",
+          "text": "End with a question that the paragraph never prepared the reader for",
+          "is_correct": false,
+          "feedback": "An unexpected question leaves the reader puzzled rather than satisfied."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "End with a fact about a completely unrelated subject",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "An unrelated final sentence disconnects the ending from the rest of the paragraph."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "End abruptly with a single word and no full sentence",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "An abrupt fragment gives the reader no sense of closure at all."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "End with a sentence that follows from the paragraph's own points",
+          "is_correct": true,
+          "feedback": "A closing derived from the earlier detail gives the paragraph logical completeness."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "An ending that follows from what came before it closes the paragraph logically and signals to the reader that it is finished.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",

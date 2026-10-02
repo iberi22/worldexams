@@ -9,36 +9,36 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct option: 'If I ___ (have) time, I will help you.'",
+      "context": "A student answers a request in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
+          "letter": "A",
+          "text": "have",
           "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "feedback": "The 'if' clause takes the present simple for a real future condition, so 'have' is correct."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Will have' in the 'if' clause would make the condition sound less natural and less standard."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "had",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Had' is the past form and belongs to the third conditional, not to the first."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "having",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Having' is the -ing form, which cannot open an 'if' clause of the first conditional."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "correct_answer": "A",
+      "explanation": "In the first conditional the 'if' clause describes a real future condition, so the present simple 'have' is used and not 'will have'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -54,36 +54,81 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Complete the conditional: 'If you heat ice, it ___ (turn) into water.'",
+      "context": "A science demonstration in a bilingual school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "letter": "A",
+          "text": "turns",
+          "is_correct": false,
+          "feedback": "'Turns' is the present simple, which belongs in the 'if' clause rather than in the consequence."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "letter": "B",
+          "text": "will turn",
+          "is_correct": true,
+          "feedback": "'Will turn' is the consequence clause of the first conditional."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "turned",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "'Turned' is the past simple and would describe a completed past event."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "would turn",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Would turn' belongs to the second conditional, used for unreal or hypothetical situations."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "The consequence of a real future condition is expressed with 'will' plus the base form, so the blank needs 'will turn'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v3",
+      "statement": "What does the second conditional describe?",
+      "context": "A grammar handout about conditionals in an English class in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A real and probable future condition",
+          "is_correct": false,
+          "feedback": "That is the first conditional, which uses the present simple in the 'if' clause."
+        },
+        {
+          "letter": "B",
+          "text": "A past action that did not happen",
+          "is_correct": false,
+          "feedback": "That is the third conditional, which uses 'had' plus the past participle."
+        },
+        {
+          "letter": "C",
+          "text": "An imaginary or unlikely situation",
+          "is_correct": true,
+          "feedback": "'If' plus past simple with 'would' presents a situation that is not expected to happen."
+        },
+        {
+          "letter": "D",
+          "text": "A habit in the past",
+          "is_correct": false,
+          "feedback": "A past habit would use the past simple alone, with no 'would'."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The second conditional with 'if' plus past simple and 'would' plus base form describes unreal or unlikely situations in the present or future.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -98,87 +143,42 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v4",
+      "statement": "Choose the correct sentence.",
+      "context": "A writing exercise about imaginary plans in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "If I will live abroad, I speak two languages.",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "'Will' in the 'if' clause and the present simple in the main clause do not form the second conditional."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "If I lived abroad, I will speak two languages.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "Mixing past simple in the 'if' clause with 'will' in the main clause breaks the second conditional."
+        },
+        {
+          "letter": "C",
+          "text": "If I would live abroad, I spoke two languages.",
+          "is_correct": false,
+          "feedback": "'Would' cannot open the 'if' clause and the past simple in the main clause does not match it."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "text": "If I lived abroad, I would speak two languages.",
+          "is_correct": true,
+          "feedback": "'Lived' in the 'if' clause and 'would speak' in the main clause form the second conditional."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
+      "correct_answer": "D",
+      "explanation": "The second conditional joins an 'if' clause with the past simple and a main clause with 'would' plus the base form.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
-        },
-        {
-          "letter": "D",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -189,82 +189,37 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the correct question: '___ you help me if I asked you?'",
+      "context": "A classmate makes a polite request during a lesson in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "Will",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
-        },
-        {
-          "letter": "C",
-          "text": "She going to school every day.",
-          "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
-        },
-        {
-          "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
-        },
-        {
-          "letter": "A",
-          "text": "is",
-          "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Will' opens a first conditional question, which would be 'Will you help me if I ask you?'."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "Did",
           "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "feedback": "'Did' opens a past simple question and needs the base form 'help' after it."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "Do",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Do' opens a present simple question and requires the base form 'help'."
+        },
+        {
+          "letter": "D",
+          "text": "Would",
+          "is_correct": true,
+          "feedback": "'Would' opens the question and matches the second conditional structure of the sentence."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "explanation": "In the second conditional the auxiliary 'would' comes first in the question, before the subject and the infinitive 'to help'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -278,41 +233,86 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v6",
+      "statement": "Choose the correct zero conditional sentence.",
+      "context": "A discussion about rules in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "text": "If you would heat water to 100 degrees, it boiled.",
+          "is_correct": false,
+          "feedback": "'Would' and the past simple create a second and a past form that do not express a general truth."
         },
         {
           "letter": "B",
-          "text": "Mean and cruel",
+          "text": "If you heat water to 100 degrees, it will boiled.",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "'Will' must be followed by the base form, so 'will boiled' is ungrammatical."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "text": "If you heat water to 100 degrees, it boils.",
+          "is_correct": true,
+          "feedback": "Both clauses use the present simple for a general truth, which is the zero conditional."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "If you heated water to 100 degrees, it will boil.",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "Mixing past simple with 'will' breaks the zero conditional, which needs present simple twice."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "The zero conditional uses the present simple in both clauses for facts that are always true, such as rules and scientific results.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v7",
+      "statement": "Choose the correct option: 'If I ___ (be) you, I would take the job.'",
+      "context": "A student gives advice to a friend in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was",
+          "is_correct": false,
+          "feedback": "'Was' is the usual past form of 'be' but not the one the second conditional uses for 'I'."
+        },
+        {
+          "letter": "B",
+          "text": "were",
+          "is_correct": true,
+          "feedback": "The second conditional uses 'were' for all subjects, so 'If I were you' is the standard expression."
+        },
+        {
+          "letter": "C",
+          "text": "am",
+          "is_correct": false,
+          "feedback": "'Am' is the present form of 'be' and does not belong in a second conditional clause."
+        },
+        {
+          "letter": "D",
+          "text": "will be",
+          "is_correct": false,
+          "feedback": "'Will be' is a future form and cannot open the 'if' clause of a second conditional."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "In the second conditional the verb 'to be' takes its past form 'were' for every subject, including 'I'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
@@ -324,41 +324,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct conditional for a real possibility: 'If you heat the metal, it ___ (melt).'",
+      "context": "A demonstration in a science lesson in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "text": "will melt",
+          "is_correct": true,
+          "feedback": "'Will melt' pairs with the present simple condition to express a real future result."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "would melt",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "'Would melt' would make the result hypothetical, which is not what the sentence states."
+        },
+        {
+          "letter": "C",
+          "text": "melted",
+          "is_correct": false,
+          "feedback": "'Melted' is the past simple and describes a finished action rather than a future result."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "melts",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "'Melts' belongs in the condition clause, not in the result clause of the first conditional."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "When the condition is real and the result is expected, the first conditional is used: present simple plus 'will' plus base form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct third conditional sentence.",
+      "context": "A discussion about regrets in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
-        },
-        {
           "letter": "A",
-          "text": "goed",
+          "text": "If I would study, I passed.",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "'Would' cannot open an 'if' clause and the past simple in the main clause is inconsistent."
         },
         {
           "letter": "B",
-          "text": "gone",
+          "text": "If I had studied, I would have passed.",
+          "is_correct": true,
+          "feedback": "'Had studied' and 'would have passed' are the two halves of the third conditional."
+        },
+        {
+          "letter": "C",
+          "text": "If I had studied, I would pass.",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "The main clause needs 'would have' plus the past participle, not 'would' plus base form."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "If I studied, I would have passed.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "The 'if' clause of the third conditional needs 'had' plus the past participle."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The third conditional for an unreal past situation joins 'if' plus 'had' plus the past participle with 'would have' plus the past participle.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the correct option: 'If you don't water the plant, it ___ (die).'",
+      "context": "A gardening explanation in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "will die",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Will die' belongs to the first conditional, which is used for one particular real situation."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "would die",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Would die' would make the result hypothetical, which the sentence does not suggest."
+        },
+        {
+          "letter": "C",
+          "text": "died",
+          "is_correct": false,
+          "feedback": "'Died' is the past simple and describes a finished past event."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "dies",
+          "is_correct": true,
+          "feedback": "Zero conditional conditionals join two present simple clauses for facts that always hold."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "In the zero conditional both clauses use the present simple for a general truth, so the result is 'it dies'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct mixed conditional: 'If I had studied medicine, I ___ (work) in a hospital now.'",
+      "context": "A reflection on career choices in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "text": "will work",
+          "is_correct": false,
+          "feedback": "'Will work' is the future simple and cannot follow an unreal past condition."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "worked",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Worked' is the past simple and would make the result part of the unreal past."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "text": "would work",
+          "is_correct": true,
+          "feedback": "'Would work' gives the present result of an unreal past condition."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "have worked",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Have worked' is the present perfect, which links the past to the present, not to a hypothetical."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A mixed conditional with a past unreal condition and a present result joins 'had studied' with 'would work' plus the base form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,40 +504,40 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Complete the sentence: 'If I ___ (have) a car, I would drive to the coast every weekend.'",
+      "context": "A discussion about future plans in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
+          "letter": "A",
+          "text": "had",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
+          "feedback": "'If I had a car' is the standard second conditional condition for an unreal situation."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "have",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "'Have' is the present simple and would give a first conditional instead."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "will have",
           "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "feedback": "'Will have' belongs to a future time clause, not to a second conditional condition."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "would have",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Would have' cannot open the 'if' clause of a conditional sentence."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "The second conditional uses the past simple 'had' for the unreal condition, because the sentence imagines a situation that is not real now.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Which sentence describes a situation that is always true?",
+      "context": "A quiz on the zero conditional in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "If you would mix blue and yellow, you got green.",
           "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "feedback": "'Would' and the past simple would make the sentence hypothetical rather than general."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "If you had mixed blue and yellow, you would have got green.",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "That is the third conditional, which describes an unreal situation in the past."
+        },
+        {
+          "letter": "C",
+          "text": "If you mix blue and yellow, you will got green.",
+          "is_correct": false,
+          "feedback": "'Will' must be followed by the base form 'get', so 'will got' is ungrammatical."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "text": "If you mix blue and yellow, you get green.",
+          "is_correct": true,
+          "feedback": "Both clauses are present simple and state a general fact about colours."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "The zero conditional presents general truths with the present simple in both clauses, without any modal auxiliary.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.7,
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct option: 'Unless it rains, we ___ (go) to the beach.'",
+      "context": "A weekend plan discussed in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "text": "go",
+          "is_correct": false,
+          "feedback": "'Go' alone is the present simple and would leave the sentence without a future result."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "text": "will go",
+          "is_correct": true,
+          "feedback": "'Unless it rains' is a negative condition, and 'will go' is its future consequence."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "would go",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "feedback": "'Would go' would present the beach trip as hypothetical rather than planned."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "went",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "'Went' is the past simple and cannot describe a plan for the coming weekend."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Unless' means 'if not', so it introduces a first conditional whose main clause uses 'will' plus the base form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the correct conditional for a real present condition: 'If you heat the metal, it ___ (expand).'",
+      "context": "A physics demonstration in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
+          "text": "expands",
           "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "feedback": "'Expands' is present simple and completes the zero conditional with the condition clause."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "will expand",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "'Will expand' would belong to the first conditional, used for one particular situation."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "would expand",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "'Would expand' would make the result hypothetical, which the fact does not require."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "expanded",
           "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "feedback": "'Expanded' is the past simple and describes a single finished experiment."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "explanation": "The zero conditional is used when both the condition and the result are general facts, which is the case for the physical behaviour of metals.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Complete the sentence: 'If I were you, I ___ (take) the scholarship.'",
+      "context": "Advice given to a classmate in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! With the subject 'I', the present continuous is built with 'am' followed by the -ing form."
+          "letter": "A",
+          "text": "will take",
+          "is_correct": false,
+          "feedback": "'Will take' is the future simple and would belong to a first conditional sentence."
         },
         {
-          "letter": "A",
-          "text": "is",
+          "letter": "B",
+          "text": "took",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, but the subject here is 'I', which takes 'am'."
+          "feedback": "'Took' is the past simple and cannot complete a second conditional sentence."
         },
         {
           "letter": "C",
-          "text": "are",
-          "is_correct": false,
-          "feedback": "'are' goes with you, we and they, while 'I' is the first person singular and takes 'am'."
+          "text": "would take",
+          "is_correct": true,
+          "feedback": "'Would take' is the main clause of the second conditional that starts with 'If I were you'."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "would took",
           "is_correct": false,
-          "feedback": "'be' is the bare infinitive used in the dictionary form; the present continuous needs the auxiliary 'am' before 'reading'."
+          "feedback": "'Would' must be followed by the base form 'take', never by the past form."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "'If I were you' is the classic second conditional condition, so the advice follows with 'would' plus the base form.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,41 +729,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the correct negative conditional: 'If you do not leave now, you ___ (miss) the last bus.'",
+      "context": "A warning given to a student in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means kind, charitable and willing to give help to others."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "would miss",
           "is_correct": false,
-          "feedback": "'Mean and cruel' is the opposite of benevolent, a word built from bene- for well and volens for wishing."
+          "feedback": "'Would miss' would present the consequence as hypothetical rather than real."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
-          "is_correct": false,
-          "feedback": "'Quick and fast' describes speed, which says nothing about kindness or giving."
+          "text": "will miss",
+          "is_correct": true,
+          "feedback": "'Will miss' is the future simple result of the first conditional condition."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "missed",
           "is_correct": false,
-          "feedback": "'Slow and lazy' describes someone's effort or pace, not their generosity towards other people."
+          "feedback": "'Missed' is the past simple and would state that the bus was already missed."
+        },
+        {
+          "letter": "D",
+          "text": "will missed",
+          "is_correct": false,
+          "feedback": "'Will' must be followed by the base form 'miss', not by the past form 'missed'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "The condition is negative in the present simple and the consequence is a real future one, so the main clause takes 'will miss'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the correct question: 'If you won the prize, ___ you travel?'",
+      "context": "A hypothetical question in an English class in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text links bees to two jobs, pollinating flowers and producing honey, and that is its central idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "The text never claims that bees are dangerous; it focuses on the useful work they do for flowering plants."
+          "text": "would",
+          "is_correct": true,
+          "feedback": "'Would you travel' inverts the auxiliary to form the second conditional question."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "will",
           "is_correct": false,
-          "feedback": "The word 'only' overstates the text, which mentions pollination as well as honey, so bees do more than make honey."
+          "feedback": "'Will' would create a first conditional question, which requires 'if you win the prize'."
         },
         {
           "letter": "C",
-          "text": "Flowers don't need bees",
+          "text": "did",
           "is_correct": false,
-          "feedback": "The text says that bees pollinate flowers, so it presents flowering plants as depending on them."
+          "feedback": "'Did' would create a past simple question needing the base form 'travel'."
+        },
+        {
+          "letter": "D",
+          "text": "do",
+          "is_correct": false,
+          "feedback": "'Do' would create a present simple question, which does not match 'if you won'."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "With a second conditional 'if' clause, the question puts 'would' in front of the subject 'you'.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Identify the only well-formed third conditional sentence.",
+      "context": "An exercise on the third conditional in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Go' is an irregular verb, so its simple past is 'went' and not 'goed'."
+          "letter": "A",
+          "text": "If she would call, I would have helped her.",
+          "is_correct": false,
+          "feedback": "'Would' cannot open the 'if' clause, and the main clause alone cannot carry the whole conditional."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "If she had called, I would help her.",
           "is_correct": false,
-          "feedback": "'goed' only looks like the past of 'go' because of the German spelling; no English verb takes that form."
+          "feedback": "The main clause of the third conditional needs 'would have' plus the participle, not 'would'."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have', as in 'has gone', and not the simple past."
+          "text": "If she had called, I would have helped her.",
+          "is_correct": true,
+          "feedback": "'Had called' and 'would have helped' are the two standard halves of the third conditional."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "If she called, I would have helped her.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form, which builds the present continuous rather than the simple past."
+          "feedback": "The 'if' clause of the third conditional needs 'had' plus the past participle."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "Only the sentence with 'had' plus the past participle in the 'if' clause and 'would have' plus the past participle in the main clause is correct.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Analyze",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What does 'if' mean in the sentence 'If it is sunny, we will walk to school'?",
+      "context": "A comprehension question about a conditional sentence in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple with 'she' the verb takes the -s ending, so 'goes' is the right form here."
+          "letter": "A",
+          "text": "It introduces a reason.",
+          "is_correct": false,
+          "feedback": "A reason is normally expressed with 'because', not with 'if'."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "It introduces a contrast.",
           "is_correct": false,
-          "feedback": "With 'she' in the present simple the verb must carry the -s ending, so 'go' is not correct in this sentence."
+          "feedback": "A contrast uses 'although', 'though' or 'but', which signal opposition rather than a condition."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "It introduces a comparison.",
           "is_correct": false,
-          "feedback": "This follows the present continuous pattern, which needs 'is' before 'going' rather than the present simple."
+          "feedback": "Comparisons use 'like', 'as' or 'than', none of which appear in this sentence."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "This mixes two forms, because 'gone' is a past participle and does not fit the present simple sentence."
+          "text": "It introduces a condition.",
+          "is_correct": true,
+          "feedback": "'If' sets the situation that has to be true for the main clause to happen."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "'If' introduces the condition that must be met for the result to happen, so the sentence states a real condition and its likely result.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Understand",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle",
       "periodo": 10,
       "protocol_version": "5.2",

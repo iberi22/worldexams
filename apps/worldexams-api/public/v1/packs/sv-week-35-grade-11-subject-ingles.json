@@ -9,36 +9,126 @@
   "questions": [
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v1",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Choose the best way to begin an opinion in a spoken answer: '___ mobile phones should be banned in class.'",
+      "context": "A speaking lesson in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "am",
+          "text": "In my opinion,",
           "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
+          "feedback": "The phrase introduces a personal view and is the standard way to open an opinion."
         },
         {
           "letter": "B",
-          "text": "is",
+          "text": "Yesterday I bought,",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "That phrase describes a past action and gives no signal that a view follows."
         },
         {
           "letter": "C",
-          "text": "are",
+          "text": "The colour red means,",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "That introduces a definition of a word, not an opinion about a policy."
         },
         {
           "letter": "D",
-          "text": "be",
+          "text": "Run quickly and,",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "That is part of an instruction, which gives a command rather than a view."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Present continuous: I am + verb-ing.",
+      "explanation": "To introduce a personal position in speech, English uses a phrase such as 'In my opinion' or 'I believe', which frames what follows as a view.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v2",
+      "statement": "Which phrase adds a reason to an opinion?",
+      "context": "A speaking exercise in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "and then she left",
+          "is_correct": false,
+          "feedback": "That reports a sequence of events and gives no justification for a view."
+        },
+        {
+          "letter": "B",
+          "text": "because they distract everyone",
+          "is_correct": true,
+          "feedback": "'Because' introduces the reason that supports the opinion just expressed."
+        },
+        {
+          "letter": "C",
+          "text": "but the lesson was long",
+          "is_correct": false,
+          "feedback": "'But' introduces a contrast, which is a different relationship between two ideas."
+        },
+        {
+          "letter": "D",
+          "text": "in the same way",
+          "is_correct": false,
+          "feedback": "'In the same way' introduces a comparison or an addition, not a cause."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A reason can be introduced with a connector such as 'because', 'since' or 'as', which links the view to its justification.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v3",
+      "statement": "Complete the spoken opinion: 'In my view, the best way to learn English is ___.'",
+      "context": "A speaking activity in a school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "locked away in a cupboard",
+          "is_correct": false,
+          "feedback": "That is not something a speaker could defend as the best way to learn a language."
+        },
+        {
+          "letter": "B",
+          "text": "written in large letters on a wall",
+          "is_correct": false,
+          "feedback": "That has no connection to language learning practice."
+        },
+        {
+          "letter": "C",
+          "text": "to practise it every day with someone else",
+          "is_correct": true,
+          "feedback": "This is a specific practice the speaker can defend as the most effective one."
+        },
+        {
+          "letter": "D",
+          "text": "a heavy stone on the desk",
+          "is_correct": false,
+          "feedback": "That is unrelated to learning and could not follow a claim about methods."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "The phrase 'In my view' signals that a personal judgement is coming, so the sentence must continue with something the speaker considers best.",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -53,41 +143,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v2",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v4",
+      "statement": "Which connector introduces a contrast with what was just said?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "moreover,",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "'Moreover' adds extra information that supports the previous point."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "therefore,",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'Therefore' introduces a result that follows from what was said."
         },
         {
           "letter": "C",
-          "text": "Slow and lazy",
+          "text": "firstly,",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Firstly' introduces an item in a list and marks no contrast."
+        },
+        {
+          "letter": "D",
+          "text": "however,",
+          "is_correct": true,
+          "feedback": "'However' signals that the next clause opposes what came before it."
         }
       ],
       "correct_answer": "D",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
+      "explanation": "To mark an opposing idea, English uses a contrast connector such as 'however', 'on the other hand' or 'although'.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -98,131 +188,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v3",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Salvador, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
-      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v4",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
-      "options": [
-        {
-          "letter": "D",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
-        },
-        {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
-        },
-        {
-          "letter": "B",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
-        },
-        {
-          "letter": "C",
-          "text": "going",
-          "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "4",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
-      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v5",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best way to disagree politely with an opinion.",
+      "context": "A speaking practice in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
+          "text": "That is completely stupid.",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "An insult is aggressive rather than polite and closes the conversation."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "I completely disagree and you are wrong.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "This rejects the other speaker's view without any softening phrase."
         },
         {
           "letter": "C",
-          "text": "She gone to school every day.",
+          "text": "You never understand anything.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "A sweeping personal attack is neither polite nor focused on the point being made."
+        },
+        {
+          "letter": "D",
+          "text": "I see what you mean, but I think the opposite.",
+          "is_correct": true,
+          "feedback": "The opening phrase acknowledges the other speaker before presenting a different view."
         }
       ],
       "correct_answer": "D",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "explanation": "A polite disagreement softens the opposition with a phrase such as 'I see what you mean, but' before giving a different view.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -234,40 +234,40 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v6",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence gives a clear opinion with a supporting reason?",
+      "context": "A speaking assessment in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "The library is a place with books in it.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "That is a definition of the building and takes no position on opening hours."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "I walked past the library on Tuesday.",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "Reporting a past action gives no view about how long the library should open."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "I believe the library should stay open later because students finish class at two.",
+          "is_correct": true,
+          "feedback": "The position comes first and 'because' supplies the reason that supports it."
+        },
+        {
+          "letter": "D",
+          "text": "The library closed and the lights went off inside.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "That narrates two events and expresses no opinion about opening hours."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "A complete opinion states a position and then justifies it, so both elements must appear for the answer to score well.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -279,37 +279,82 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v7",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the best way to introduce a second reason for your opinion.",
+      "context": "A speaking lesson in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
-        },
-        {
           "letter": "A",
-          "text": "Mean and cruel",
+          "text": "The first reason was,",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "That introduces the first point and would not signal a second one."
         },
         {
           "letter": "B",
-          "text": "Quick and fast",
+          "text": "Another reason is that the library is often crowded in the evening.",
+          "is_correct": true,
+          "feedback": "The phrase signals an additional reason and introduces a new supporting point."
+        },
+        {
+          "letter": "C",
+          "text": "But the floor was,",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "'But' marks a contrast, so it would introduce an opposing idea rather than support."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Because the door was,",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "'Because' introduces a single reason, which would repeat the earlier justification."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A second supporting point is signalled with a connector such as 'also', 'another reason is' or 'in addition'.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.85,
+      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "sv"
+    },
+    {
+      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v8",
+      "statement": "What is the purpose of the phrase 'that is why' in a spoken argument?",
+      "context": "A speaking exercise in a secondary school in San Salvador, SV.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To introduce a result that follows from the reason given",
+          "is_correct": true,
+          "feedback": "The phrase links a cause to its consequence, which is its function in speech."
+        },
+        {
+          "letter": "B",
+          "text": "To introduce a completely unrelated topic",
+          "is_correct": false,
+          "feedback": "Such a connector would not be used to shift to an unrelated subject."
+        },
+        {
+          "letter": "C",
+          "text": "To end the speaker's turn immediately",
+          "is_correct": false,
+          "feedback": "It introduces a further clause rather than closing the point."
+        },
+        {
+          "letter": "D",
+          "text": "To repeat exactly the same words again",
+          "is_correct": false,
+          "feedback": "It adds the consequence rather than restating the reason word for word."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "'That is why' introduces a result, connecting a reason just given to its consequence.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -323,86 +368,41 @@
       "country": "sv"
     },
     {
-      "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v8",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
-      "options": [
-        {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
-          "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
-        },
-        {
-          "letter": "B",
-          "text": "Honey is the only product bees make",
-          "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
-        },
-        {
-          "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
-      "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
-      "periodo": 35,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "sv"
-    },
-    {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v9",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Choose the best way to end a spoken opinion politely.",
+      "context": "A speaking practice in a school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "text": "Whatever, I am done talking.",
+          "is_correct": false,
+          "feedback": "'Whatever' dismisses the discussion and sounds dismissive of the listener."
         },
         {
           "letter": "B",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "text": "So that is why I believe the change is worth making.",
+          "is_correct": true,
+          "feedback": "The closing restates the view and links it to the reasons given earlier."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "I said it once and I will not say it again.",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "This sounds irritated and does not close the argument politely."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Now stop talking about it.",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "An imperative of that kind shuts down the exchange instead of ending it kindly."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A polite closing acknowledges the audience, and a phrase such as 'so that is why I believe it' gives the point a calm finish.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.85,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -414,41 +414,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v10",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which question best invites others to agree with your opinion?",
+      "context": "A discussion activity in a school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "letter": "A",
+          "text": "Why do you always disagree with me?",
+          "is_correct": false,
+          "feedback": "The question assumes disagreement and sounds like an accusation."
         },
         {
-          "letter": "A",
-          "text": "She go to school every day.",
+          "letter": "B",
+          "text": "Don't you think I am right about this?",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "The form leans on agreement and can sound confrontational rather than inviting."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "Do you ever listen to anyone else?",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "That is a challenge to the other speaker, not an invitation to share a view."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "text": "Do you see it the same way?",
+          "is_correct": true,
+          "feedback": "The question invites the listener to share the opinion without pressuring them."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A question asking whether others share the view invites agreement while keeping the floor open for the group.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -459,37 +459,37 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v11",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in San Salvador, SV.",
+      "statement": "Choose the best way to give a reason for an opinion about a longer school day.",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "I think a longer school day is unfair, so I closed my eyes for a moment.",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "The clause after 'so' should be a consequence, not an unrelated action."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "I think a longer school day is unfair, in the morning before lessons.",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "The expression after the comma is a time, not a justification."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "I think a longer school day is unfair, because it leaves no time for sport.",
+          "is_correct": true,
+          "feedback": "The opinion comes first and 'because' supplies the reason behind it."
+        },
+        {
+          "letter": "D",
+          "text": "I think a longer school day is unfair, at the end of a long list.",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "That trailing phrase adds nothing that explains the view."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A reason is introduced by a connector that links it to the view, so 'because' is the natural choice after a stated opinion.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,40 +504,40 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v12",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Which sentence closes a spoken argument most effectively?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
+          "letter": "A",
+          "text": "For these reasons, I still believe that the change is not justified yet.",
           "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "feedback": "It ties the position to the reasons already given and leaves the argument settled."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
+          "letter": "B",
+          "text": "Anyway, you can do what you want with the decision.",
           "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "feedback": "The phrase dismisses the discussion instead of concluding it."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "That was my point and there is nothing more to add to it.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "The sentence refuses to develop the argument any further."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "The next speaker should give the final answer instead of me.",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The speaker hands over the conclusion rather than reaching one."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A strong close restates the position and links it back to the reason given, so the listener remembers what was argued.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -549,41 +549,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v13",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "What should you do if you run out of time during a spoken answer?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "Bees are important for pollination and honey",
-          "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
-        },
-        {
           "letter": "A",
-          "text": "Bees are dangerous insects",
+          "text": "Read the question again five times before you start",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "Repeating the question uses time without adding content to the answer."
         },
         {
           "letter": "B",
-          "text": "Honey is the only product bees make",
+          "text": "Speak very quickly so that you finish everything",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "Speed destroys intelligibility and the listener will not follow the content."
+        },
+        {
+          "letter": "C",
+          "text": "Wait silently until more time is given to you",
+          "is_correct": false,
+          "feedback": "Silence adds nothing to the answer and leaves the listener with no content."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
-          "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "text": "State the main idea and give the strongest reason you can",
+          "is_correct": true,
+          "feedback": "Delivering the key content clearly is worth more than an unfinished set of points."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A structured answer prioritises the key points, so the best strategy is to state the main idea and give one clear reason.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v14",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in Mejicanos, SV.",
+      "statement": "Choose the connector that introduces an example in a spoken answer.",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "letter": "A",
+          "text": "Otherwise,",
+          "is_correct": false,
+          "feedback": "The word introduces an alternative or a contrast, not an illustration."
         },
         {
-          "letter": "A",
-          "text": "goed",
-          "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "letter": "B",
+          "text": "For instance,",
+          "is_correct": true,
+          "feedback": "The phrase introduces a specific illustration of the preceding idea."
         },
         {
           "letter": "C",
-          "text": "gone",
+          "text": "Even so,",
           "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "feedback": "The phrase signals a concession, which is a different relationship between ideas."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "Above all,",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "The phrase marks the most important point, which is not the same as giving an example."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "8",
+      "explanation": "An example is signalled by a phrase that announces an illustration of the point just made.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v15",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What is the best way to disagree with a classmate in a discussion?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "C",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
-        },
-        {
           "letter": "A",
-          "text": "She go to school every day.",
-          "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "text": "I understand your point, but I read the data differently.",
+          "is_correct": true,
+          "feedback": "It acknowledges the other view before offering a reasoned difference."
         },
         {
           "letter": "B",
-          "text": "She going to school every day.",
+          "text": "Your reading of the data is completely wrong.",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "The statement rejects the person rather than engaging with the argument."
+        },
+        {
+          "letter": "C",
+          "text": "Nobody who understands the data agrees with you.",
+          "is_correct": false,
+          "feedback": "The claim about other people adds pressure without giving any reason."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
+          "text": "You always get these things wrong in discussion.",
           "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "feedback": "A repeated personal criticism damages the exchange instead of answering it."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "8",
+      "correct_answer": "A",
+      "explanation": "A respectful disagreement names what the other speaker said and then explains the different view, which keeps the exchange cooperative.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -684,37 +684,37 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v16",
-      "statement": "Choose the correct option: 'I ___ reading a book right now.'",
-      "context": "English class in Soyapango, SV.",
+      "statement": "Complete the spoken sentence: 'In my opinion, the most important quality in a team player is ___.'",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "D",
-          "text": "am",
-          "is_correct": true,
-          "feedback": "Correct! The subject of the sentence is 'I', and in the continuous form 'I' is always followed by 'am'."
-        },
-        {
           "letter": "A",
-          "text": "is",
+          "text": "a large cupboard kept in the gym store room",
           "is_correct": false,
-          "feedback": "'is' goes with he, she, it and singular nouns, as in 'he is reading', so it does not fit 'I'."
+          "feedback": "That is an object, not a quality, so it cannot complete the sentence."
         },
         {
           "letter": "B",
-          "text": "are",
+          "text": "the heavy bag that was left in the corridor",
           "is_correct": false,
-          "feedback": "'are' goes with you, we, they and plural nouns, so 'I are reading' is not grammatical."
+          "feedback": "The noun phrase names an object rather than a personal quality."
         },
         {
           "letter": "C",
-          "text": "be",
+          "text": "the ability to keep working with others through difficulty",
+          "is_correct": true,
+          "feedback": "This names a specific quality the speaker can then support with reasons."
+        },
+        {
+          "letter": "D",
+          "text": "a rule that only the captain is allowed to make",
           "is_correct": false,
-          "feedback": "'be' is the base form used after modals and in the infinitive; the continuous here needs the finite 'am'."
+          "feedback": "That describes a privilege, not a quality that makes a good team player."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "Present continuous: I am + verb-ing.",
-      "difficulty": "8",
+      "correct_answer": "C",
+      "explanation": "A phrase such as 'In my opinion' calls for the quality the speaker values most, and the answer must be a trait that can be defended.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -729,40 +729,40 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v17",
-      "statement": "What does 'benevolent' mean?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Which sentence uses hedging to make an opinion sound less forceful?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Kind and generous",
-          "is_correct": true,
-          "feedback": "Correct! 'Benevolent' means well-meaning, kindly and generous towards other people."
+          "letter": "A",
+          "text": "The hours must be reduced immediately without any doubt.",
+          "is_correct": false,
+          "feedback": "The absolutes 'must' and 'without doubt' make the claim forceful rather than hedged."
         },
         {
-          "letter": "A",
-          "text": "Mean and cruel",
-          "is_correct": false,
-          "feedback": "that is the exact opposite of benevolent, which is a quality of kindness."
+          "letter": "B",
+          "text": "It could perhaps be argued that the hours should be reduced.",
+          "is_correct": true,
+          "feedback": "The hedges soften the claim without removing the point being made."
         },
         {
           "letter": "C",
-          "text": "Quick and fast",
+          "text": "Nobody could ever claim that the hours should change.",
           "is_correct": false,
-          "feedback": "that describes speed, while 'benevolent' refers to the kind of treatment a person gives to others."
+          "feedback": "The absolute negative forces the point instead of softening it."
         },
         {
           "letter": "D",
-          "text": "Slow and lazy",
+          "text": "Everyone knows perfectly well what should happen to the hours.",
           "is_correct": false,
-          "feedback": "that describes laziness and slowness; 'benevolent' means kindly and generous, not idle."
+          "feedback": "The certainty of 'perfectly well' leaves no room for hedging at all."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Benevolent' means kind, generous, or charitable.",
-      "difficulty": "10",
+      "explanation": "Hedging softens a claim with words such as 'perhaps', 'it seems' or 'could', which protects the speaker from being too absolute.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
@@ -774,41 +774,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v18",
-      "statement": "Identify the main idea: 'The text describes how bees help pollinate flowers and produce honey.'",
-      "context": "English class in San Miguel, SV.",
+      "statement": "What should a speaker include at the start of a presentation to orient the audience?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "Bees are important for pollination and honey",
+          "letter": "A",
+          "text": "A short statement of the topic and the main point",
           "is_correct": true,
-          "feedback": "Correct! The text names the two useful jobs of bees, pollinating flowers and producing honey, so that is its main idea."
+          "feedback": "It tells the audience what the talk is about before the detail begins."
         },
         {
-          "letter": "A",
-          "text": "Bees are dangerous insects",
+          "letter": "B",
+          "text": "A long anecdote that has no link to the subject",
           "is_correct": false,
-          "feedback": "the text never says that bees are dangerous; it describes the useful work they do for flowers."
+          "feedback": "An unrelated story leaves the audience unsure what the presentation is for."
         },
         {
           "letter": "C",
-          "text": "Honey is the only product bees make",
+          "text": "An apology for not having prepared the slides",
           "is_correct": false,
-          "feedback": "the text also mentions pollination, so honey is not presented as the only product."
+          "feedback": "An apology at the start weakens the presentation without orienting anyone."
         },
         {
           "letter": "D",
-          "text": "Flowers don't need bees",
+          "text": "A list of every detail that will be covered later",
           "is_correct": false,
-          "feedback": "pollination depends on bees, so the text implies that flowers do need them."
+          "feedback": "A detailed list before the main point delays the frame the audience needs."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "The main idea summarizes the key points about bees: pollination and honey.",
-      "difficulty": "10",
+      "correct_answer": "A",
+      "explanation": "An opening statement of the topic and the main point gives the audience a frame for everything that follows.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.7,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v19",
-      "statement": "Which is the correct past form of 'go'?",
-      "context": "English class in San Miguel, SV.",
+      "statement": "Choose the best way to summarise your answer before it ends.",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
-          "letter": "B",
-          "text": "went",
-          "is_correct": true,
-          "feedback": "Correct! 'Went' is the irregular past simple form of the verb 'go'."
+          "letter": "A",
+          "text": "To read every answer you have given from the beginning",
+          "is_correct": false,
+          "feedback": "Repeating the whole answer wastes the listener's time instead of summarising."
         },
         {
-          "letter": "A",
-          "text": "goed",
+          "letter": "B",
+          "text": "To apologise for taking up so much of the lesson",
           "is_correct": false,
-          "feedback": "'goed' is not an English word; a past form is either regular or an irregular form already known."
+          "feedback": "An apology is not a summary and gives the listener nothing to retain."
         },
         {
           "letter": "C",
-          "text": "gone",
-          "is_correct": false,
-          "feedback": "'gone' is the past participle used after 'have' or 'has', not the past simple form."
+          "text": "To repeat the main point in one short sentence",
+          "is_correct": true,
+          "feedback": "The repetition in brief form is exactly what a summary does for the listener."
         },
         {
           "letter": "D",
-          "text": "going",
+          "text": "To translate your answer into another language",
           "is_correct": false,
-          "feedback": "'going' is the -ing form used in the continuous, not a past form at all."
+          "feedback": "A translation changes the audience rather than condensing the content."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Go' is an irregular verb: go → went (past simple).",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "A summary repeats the key point in fewer words so that the audience retains it after the detail has faded.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle-v20",
-      "statement": "Which sentence uses the present simple correctly?",
-      "context": "English class in Santa Ana, SV.",
+      "statement": "Which question would you ask a partner to check whether they understood your opinion?",
+      "context": "A speaking lesson in a secondary school in San Salvador, SV.",
       "options": [
         {
           "letter": "A",
-          "text": "She goes to school every day.",
-          "is_correct": true,
-          "feedback": "Correct! In the present simple the third person singular of 'go' takes -es, so 'she goes' is the correct form."
+          "text": "Do you like hearing opinions from other people?",
+          "is_correct": false,
+          "feedback": "That asks about their attitude rather than about your own content."
         },
         {
           "letter": "B",
-          "text": "She go to school every day.",
+          "text": "Will you speak more often in the next discussion?",
           "is_correct": false,
-          "feedback": "after 'she' the verb needs the -s form, so this sentence is missing that ending."
+          "feedback": "It asks about future behaviour and checks nothing about understanding."
         },
         {
           "letter": "C",
-          "text": "She going to school every day.",
+          "text": "Was my voice loud enough for you to hear me?",
           "is_correct": false,
-          "feedback": "'going' belongs to the continuous form, but 'every day' requires the simple present."
+          "feedback": "It checks the volume rather than the content of what was said."
         },
         {
           "letter": "D",
-          "text": "She gone to school every day.",
-          "is_correct": false,
-          "feedback": "'gone' is a past participle, and the sentence describes a habit, so the simple present is needed."
+          "text": "What reason did I give for my view?",
+          "is_correct": true,
+          "feedback": "The question asks the partner to retrieve the substance of the argument."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "Present simple: subject + verb(-s for he/she/it).",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "A comprehension check invites the partner to restate the content, which reveals whether the argument actually landed.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.85,
+      "bloom": "Apply",
+      "expected_success": 0.8,
       "bundle_id": "SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle",
       "periodo": 35,
       "protocol_version": "5.2",

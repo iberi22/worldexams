@@ -189,36 +189,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v5",
-      "statement": "¿En qué fase específica de la interfase del ciclo celular ocurre la duplicación del material genético?",
-      "context": "En el taller de Ciencias Naturales en Rocha, Gastón observa un modelo experimental de la replicación del adn en el ciclo celular.",
+      "statement": "Que razon explica que los cromosomas solo se hagan visibles cuando la celula esta en division?",
+      "context": "En el laboratorio del Liceo N. 5 de Maldonado, Joaquin observa una preparacion de raiz de cebolla en la que los cromosomas se alcanzan a ver de forma individual.",
       "options": [
         {
-          "letter": "D",
-          "text": "Fase S (Síntesis).",
-          "is_correct": true,
-          "feedback": "Correcto. Durante la fase S se replica fielmente el ADN, de modo que cada cromosoma queda constituido por dos cromátidas hermanas."
-        },
-        {
           "letter": "A",
-          "text": "Fase G1 (Primer intervalo).",
-          "is_correct": false,
-          "feedback": "Incorrecto. En G1 ocurre el crecimiento celular general y la síntesis intensiva de ARN y proteínas."
+          "text": "Porque durante la division el ADN se condensa en estructuras compactas que pueden observarse al microscopio.",
+          "is_correct": true,
+          "feedback": "Correcto. Fuera de la division el ADN esta disperso en forma de cromatina delgada y la fibra es demasiado tenue para distinguirse; al condensarse forma los cromosomas visibles."
         },
         {
           "letter": "B",
-          "text": "Fase G2 (Segundo intervalo).",
+          "text": "Porque fuera de la division el cromosoma se rompe y dentro de la fase se reconstruye.",
           "is_correct": false,
-          "feedback": "Incorrecto. G2 es la fase de preparación final para la condensación cromosómica y ensamblaje del huso mitótico."
+          "feedback": "Incorrecto. El cromosoma no se rompe ni se reconstruye, sino que la misma fibra de ADN se compacta de forma ordenada durante la division."
         },
         {
           "letter": "C",
-          "text": "Fase M (Mitosis o división nuclear).",
+          "text": "Porque los colorantes solo reaccionan cuando la celula se divide.",
           "is_correct": false,
-          "feedback": "Incorrecto. La fase M es la segregación física del material ya duplicado, no su síntesis."
+          "feedback": "Incorrecto. Los colorantes reaccionan con el ADN en cualquier momento, y lo que cambia es el grado de compactacion que hace visible la fibra."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el numero de cromosomas aumenta justo al empezar la division.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El numero de cromosomas no aumenta durante la division, porque la duplicacion del ADN no cambia la cantidad de cromosomas sino la cantidad de cromatidas."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La replicación precisa en la fase S garantiza que las células hijas resultantes de la mitosis reciban una copia exacta del genoma. En este contexto, Gastón de Rocha determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La cromatina y el cromosoma son la misma sustancia en dos estados de organizacion. Durante la profase la fibra se enrolla sobre si misma formando espirales cada vez mas cerradas, y esa compactacion es lo que hace posible contarla y seguirla al microscopio.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -234,36 +234,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v6",
-      "statement": "¿En qué fase de la mitosis los cromosomas se alinean de manera individual a lo largo del plano ecuatorial celular?",
-      "context": "Durante una actividad de laboratorio en el Liceo Piloto de Melo, Nicolás analiza mitosis y segregación cromosómica.",
+      "statement": "A que se debe que todas esas celulas muestren el mismo numero de cromosomas?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 3 de Salto, Sofia cuenta los cromosomas en 20 celulas de la raiz de una planta de guiso.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafase.",
+          "letter": "B",
+          "text": "El numero de cromosomas es caracteristico de la especie y se mantiene constante en todas las celulas somáticas.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la metafase, el grado de condensación es máximo y los centrómeros se disponen en la placa ecuatorial."
+          "feedback": "Correcto. El numero cromosomico es una propiedad de la especie: todas las celulas somaticas lo comparten porque se originan por mitosis a partir de una misma celula madre."
         },
         {
           "letter": "A",
-          "text": "Profase.",
+          "text": "Cada celula duplica sus cromosomas en ladivision, de modo que todas terminan con el mismo numero.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina se condensa y empieza a desintegrarse la envoltura nuclear."
+          "feedback": "Incorrecto. La duplicacion del ADN durante la fase S produce cromatidas hermanas dentro de un mismo cromosoma y no aumenta el numero de cromosomas."
         },
         {
-          "letter": "B",
-          "text": "Anafase.",
+          "letter": "C",
+          "text": "El numero depende del tamano de la celula, por eso las de igual tamano muestran igual cantidad.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan y migran a polos opuestos."
+          "feedback": "Incorrecto. El numero de cromosomas no depende del tamano celular, y dentro de una misma especie es constante con independencia del organo de origen."
         },
         {
           "letter": "D",
-          "text": "Telofase.",
+          "text": "Las celulas se dividen al mismo tiempo, por eso los cromosomas se cuentan por igual.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas llegan a los polos y se reorganiza la membrana nuclear alrededor de cada juego."
+          "feedback": "Incorrecto. Aunque las celulas se dividan de forma sincronizada, el numero cromosomico resulta de la organizacion de la especie y no del momento de la division."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El correcto alineamiento en metafase es verificado por el punto de control del huso antes de iniciar la separación irreversible en anafase. En este contexto, Nicolás de Melo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "El numero haploide n se define por el numero de cromosomas de los gametos, y el diploide 2n es el de las celulas somaticas. La mitosis conserva ese numero, mientras que la meiosis lo reduce a la mitad.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -279,36 +279,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v7",
-      "statement": "¿Qué evento meiótico único permite la recombinación física de segmentos entre cromátidas no hermanas homólogas?",
-      "context": "En la clase práctica del Liceo N° 1 Departamental en Artigas, Belén y sus compañeros debaten sobre meiosis y variabilidad genética.",
+      "statement": "Que caracteristica permite asegurar que los pares de cromosomas homologos se han separado correctamente en anafase?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 4 de Fray Bentos, Lucia observa los cromosomas de una celula en metafase en un corte de testiculo.",
       "options": [
         {
-          "letter": "A",
-          "text": "El entrecruzamiento (crossing-over) durante la profase I.",
+          "letter": "C",
+          "text": "Que cada cromosoma conserva sus dos cromatidas hermanas unidas por el centromero al desplazarse al polo.",
           "is_correct": true,
-          "feedback": "Correcto. El crossing-over ocurre en el paquiteno de la profase I mediante el complejo sinaptonémico, mezclando alelos maternos y paternos."
+          "feedback": "Correcto. En la anafase las cromatidas hermanas se separan y cada una pasa a formar un cromosoma independiente, de modo que un error se detectaria si una celula recibiera mas de un cromosoma del mismo par."
+        },
+        {
+          "letter": "A",
+          "text": "Que los cromosomas se ordenan en el plano ecuatorial antes de separarse.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese ordenamiento ocurre en la metafase y precede a la separacion, pero no es lo que verifica que la distribucion haya sido correcta."
         },
         {
           "letter": "B",
-          "text": "La segregación de cromátidas hermanas durante la anafase II.",
+          "text": "Que el nucleo se disuelve y deja libres los cromosomas en el citoplasma.",
           "is_correct": false,
-          "feedback": "Incorrecto. La separación de cromátidas hermanas conserva la información genética individual previamente recombinada."
-        },
-        {
-          "letter": "C",
-          "text": "La alineación de bivalentes en el plano ecuatorial en la metafase II.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La alineación en metafase II distribuye los cromosomas recombinados pero no genera nuevas combinaciones intragénicas."
+          "feedback": "Incorrecto. La disolucion de la envoltura nuclear ocurre en la profase, y en la anafase los cromosomas ya se desplazan hacia los polos opuestos."
         },
         {
           "letter": "D",
-          "text": "La descondensación parcial de los cromosomas en la telofase I.",
+          "text": "Que se forman dos nucleos nuevos con el mismo numero de cromosomas que el nucleo original.",
           "is_correct": false,
-          "feedback": "Incorrecto. La telofase I solo reorganiza los núcleos haploides intermedios sin alterar el genoma."
+          "feedback": "Correcto pero describe el resultado final y no el criterio de verificacion."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La recombinación genética por crossing-over junto a la segregación independiente de cromosomas homólogos sustentan la variabilidad en la reproducción sexual. En este contexto, Belén de Artigas determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "La anafase es la fase en que se verifica la correcta distribucion de los cromosomas. Si un cromosoma no se separa, una de las celulas hijas recibe tres de un par y la otra recibe uno, y esa asimetria del numero se hace visible en la metafase siguiente.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -324,36 +324,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v8",
-      "statement": "¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 2 de Paysandú, Felipe investiga acerca de diferencias ploidía mitosis vs meiosis.",
+      "statement": "En que fase se separan las cromatidas hermanas de cada cromosoma?",
+      "context": "En la clase practica del Liceo N. 2 de Tacuarembó, Martin dibuja las cuatro fases de la mitosis a partir de micrografias de raiz de cebolla.",
       "options": [
         {
           "letter": "D",
-          "text": "La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.",
+          "text": "En la anafase, cuando el centromero se divide y las cromatidas se desplazan a polos opuestos.",
           "is_correct": true,
-          "feedback": "Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis."
+          "feedback": "Correcto. La separacion de las cromatidas hermanas define la anafase, y desde ese momento cada cromatida se considera un cromosoma independiente de una sola cromatida."
         },
         {
           "letter": "A",
-          "text": "La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.",
+          "text": "En la profase, cuando los cromosomas se hacen visibles dentro del nucleo.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides."
+          "feedback": "Incorrecto. En la profase los cromosomas se condensan y se forma el husillo, pero las cromatidas hermanas siguen unidas por el centromero."
         },
         {
           "letter": "B",
-          "text": "Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.",
+          "text": "En la metafase, cuando los cromosomas se alinean en el plano ecuatorial.",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica."
+          "feedback": "Incorrecto. La metafase organiza los cromosomas en el ecuador de la celula y es el momento en que se comprueba su numero, pero no es cuando se separan."
         },
         {
           "letter": "C",
-          "text": "La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.",
+          "text": "En la telofase, cuando se forman los nucleos nuevos alrededor de los cromosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal."
+          "feedback": "Incorrecto. En la telofase los cromosomas ya llegaron a los polos y la separacion de las cromatidas ocurrio antes, en la anafase."
         }
       ],
       "correct_answer": "D",
-      "explanation": "La reducción del número de cromosomas a la mitad ($2n \\rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Felipe de Paysandú determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "La secuencia de la mitosis ordena las fases por lo que ocurre con los cromosomas: se condensan, se alinean, se separan y se descondensan. Situar cada fase por su evento cromosomico evita confundirlas entre si.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -369,36 +369,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v9",
-      "statement": "¿En qué fase específica de la interfase del ciclo celular ocurre la duplicación del material genético?",
-      "context": "Mientras repasa para el examen parcial en Mercedes, Juana estudia detenidamente la replicación del adn en el ciclo celular.",
+      "statement": "Que consecuencia tiene la no separacion de un par de cromosomas homologos durante la meiosis I?",
+      "context": "Mientras repasa para el examen parcial en Paysandu, Camila estudia los errores que pueden producirse durante la division celular.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fase S (Síntesis).",
+          "letter": "B",
+          "text": "Se forman gametos con un cromosoma de mas y otros con uno de menos, es decir, con un complemento alterado.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la fase S se replica fielmente el ADN, de modo que cada cromosoma queda constituido por dos cromátidas hermanas."
+          "feedback": "Correcto. La no segregacion en la primera division meiotica produce cuatro gametos, dos con n mas un cromosoma y dos con n menos uno, y esa anomalia puede gerar trisomias o monosomias al fecundar."
         },
         {
           "letter": "A",
-          "text": "Fase G1 (Primer intervalo).",
+          "text": "Todos los gametos conservan el numero normal de cromosomas y solo cambia su distribucion.",
           "is_correct": false,
-          "feedback": "Incorrecto. En G1 ocurre el crecimiento celular general y la síntesis intensiva de ARN y proteínas."
-        },
-        {
-          "letter": "B",
-          "text": "Fase G2 (Segundo intervalo).",
-          "is_correct": false,
-          "feedback": "Incorrecto. G2 es la fase de preparación final para la condensación cromosómica y ensamblaje del huso mitótico."
+          "feedback": "Incorrecto. Si un par no se separa, los gametos no pueden conservar el numero normal, porque la mitad recibiran un cromosoma extra y la otra mitad uno de menos."
         },
         {
           "letter": "D",
-          "text": "Fase M (Mitosis o división nuclear).",
+          "text": "Los gametos afectados suelen ser viables y el error se manifiesta en el embrion resultante.",
           "is_correct": false,
-          "feedback": "Incorrecto. La fase M es la segregación física del material ya duplicado, no su síntesis."
+          "feedback": "Incorrecto. La fecundacion puede ocurrir igual, porque los gametos anormales suelen ser viables, y la anomalia aparece en la primera celula del embrion."
+        },
+        {
+          "letter": "C",
+          "text": "Se duplica el numero de cromosomas del organismo y la meiosis se repite.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El fallo no aumenta el numero cromosomico de la especie ni provoca otra ronda de meiosis, sino que distribuye mal los cromosomas ya existentes."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La replicación precisa en la fase S garantiza que las células hijas resultantes de la mitosis reciban una copia exacta del genoma. En este contexto, Juana de Mercedes determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La correcta distribucion de los homologos en la primera division meiotica es la garantia de que cada gameto reciba una sola copia de cada cromosoma. Cuando esa garantia falla, el error se traduce en un complemento cromosomico anomalo en la descendencia.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -414,36 +414,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v10",
-      "statement": "¿En qué fase de la mitosis los cromosomas se alinean de manera individual a lo largo del plano ecuatorial celular?",
-      "context": "En el taller de Ciencias Naturales en Minas, Ignacio observa un modelo experimental de mitosis y segregación cromosómica.",
+      "statement": "Que diferencia fundamental separa a la mitosis de la meiosis en cuanto al numero de cromosomas de las celulas resultantes?",
+      "context": "En el taller de Ciencias Naturales de Las Piedras, Nicolas compara una celula en division con una celula en reposo del mismo tejido.",
       "options": [
         {
-          "letter": "B",
-          "text": "Metafase.",
+          "letter": "C",
+          "text": "La mitosis conserva el numero de cromosomas y la meiosis lo reduce a la mitad.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la metafase, el grado de condensación es máximo y los centrómeros se disponen en la placa ecuatorial."
+          "feedback": "Correcto. La mitosis es una division equipartitiva que mantiene la ploidia, mientras que la meiosis es reduccional porque separa cromosomas homologos y entrega celulas haploides."
         },
         {
           "letter": "A",
-          "text": "Profase.",
+          "text": "La mitosis reduce el numero de cromosomas y la meiosis lo mantiene.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina se condensa y empieza a desintegrarse la envoltura nuclear."
+          "feedback": "Incorrecto. Esa asignacion esta invertida, porque la mitosis conserva el numero y la division que lo reduce es la meiosis."
         },
         {
-          "letter": "C",
-          "text": "Anafase.",
+          "letter": "B",
+          "text": "Ambas producen celulas con la mitad de los cromosomas, pero en fases distintas.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan y migran a polos opuestos."
+          "feedback": "Incorrecto. Solo la meiosis reduce el numero de cromosomas, y la mitosis mantiene el complemento completo del cromosoma duplicado en cada celula hija."
         },
         {
           "letter": "D",
-          "text": "Telofase.",
+          "text": "La mitosis produce cuatro celulas haploides y la meiosis produce dos celulas diploides.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas llegan a los polos y se reorganiza la membrana nuclear alrededor de cada juego."
+          "feedback": "Incorrecto. Los numeros estan intercambiados, y ademas la mitosis no forma celulas haploides porque conserva la ploidia."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El correcto alineamiento en metafase es verificado por el punto de control del huso antes de iniciar la separación irreversible en anafase. En este contexto, Ignacio de Minas determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "Mitosis y meiosis comparten el mecanismo basico de separacion de cromatidas hermanas, pero se diferencian en un paso previo: la meiosis separa homologos en la primera division. Toda la diferencia en el resultado se deriva de ahi.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -459,36 +459,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v11",
-      "statement": "¿Qué evento meiótico único permite la recombinación física de segmentos entre cromátidas no hermanas homólogas?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 5 de Salto, Paula analiza meiosis y variabilidad genética.",
+      "statement": "Que ocurre en la primera division meiotica que no ocurre en la mitosis?",
+      "context": "En la clase practica del Liceo N. 3 de Rocha, Lucia prepara un corte de ovario de langosta y observa los gametos en formacion.",
       "options": [
         {
-          "letter": "C",
-          "text": "El entrecruzamiento (crossing-over) durante la profase I.",
-          "is_correct": true,
-          "feedback": "Correcto. El crossing-over ocurre en el paquiteno de la profase I mediante el complejo sinaptonémico, mezclando alelos maternos y paternos."
-        },
-        {
           "letter": "A",
-          "text": "La segregación de cromátidas hermanas durante la anafase II.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La separación de cromátidas hermanas conserva la información genética individual previamente recombinada."
+          "text": "Los cromosomas homologos se aparean formando parejas y se separan reduciéndose el numero de cromosomas.",
+          "is_correct": true,
+          "feedback": "Correcto. El apareamiento de los homologos en la profase I y su separacion en la anafase I son pasos exclusivos de la meiosis y son la causa directa de la reduccion del numero."
         },
         {
           "letter": "B",
-          "text": "La alineación de bivalentes en el plano ecuatorial en la metafase II.",
+          "text": "Los cromosomas se condensan y se vuelven visibles.",
           "is_correct": false,
-          "feedback": "Incorrecto. La alineación en metafase II distribuye los cromosomas recombinados pero no genera nuevas combinaciones intragénicas."
+          "feedback": "Incorrecto. La condensacion ocurre tanto en la mitosis como en la meiosis, porque en ambas el ADN se organiza para poder separarse."
+        },
+        {
+          "letter": "C",
+          "text": "Se forma el husillo polaire y las cromatidas se desplazan a los polos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La formacion del husillo y el desplazamiento de las cromatidas son comunes a las dos division, con la diferencia de que en la meiosis I se separan homologos."
         },
         {
           "letter": "D",
-          "text": "La descondensación parcial de los cromosomas en la telofase I.",
+          "text": "Se forma una nueva envoltura nuclear alrededor de cada conjunto de cromosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. La telofase I solo reorganiza los núcleos haploides intermedios sin alterar el genoma."
+          "feedback": "Incorrecto. La formacion de envolturas nucleares ocurre en la telofase de ambas divisiones y no es un rasgo exclusivo de la meiosis."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La recombinación genética por crossing-over junto a la segregación independiente de cromosomas homólogos sustentan la variabilidad en la reproducción sexual. En este contexto, Paula de Salto determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La meiosis tiene dos divisiones sucesivas porque la primera separa homologos. El apareamiento en la profase I y la separacion en la anafase I son el unico rasgo que distingue de verdad las dos vias, y de ahi surge la reduccion del numero de cromosomas.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -504,36 +504,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v12",
-      "statement": "¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?",
-      "context": "En la clase práctica del Liceo Piloto en Tacuarembó, Diego y sus compañeros debaten sobre diferencias ploidía mitosis vs meiosis.",
+      "statement": "Que efecto tiene el entrecruzamiento de los cromosomas homologos sobre la variabilidad de los gametos?",
+      "context": "Para el proyecto final de ciencias en el Liceo N. 5 de Montevideo, Agustin estudia el entrecruzamiento durante la profase I de la meiosis.",
       "options": [
         {
-          "letter": "A",
-          "text": "La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.",
+          "letter": "C",
+          "text": "Genera nuevas combinaciones de alelos en los cromosomas, aumentando la variabilidad genetica de los gametos.",
           "is_correct": true,
-          "feedback": "Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis."
+          "feedback": "Correcto. El intercambio de segmentos entre cromosomas homologos crea combinaciones de alelos nuevas que no existian en los cromosomas de los padres, y esa es una fuente mayor de variabilidad."
+        },
+        {
+          "letter": "A",
+          "text": "Duplica el numero de cromosomas de la celula antes de la primera division.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El entrecruzamiento no altera el numero de cromosomas, sino que redistribuye los segmentos de ADN entre cromatidas no hermanas."
         },
         {
           "letter": "B",
-          "text": "La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.",
+          "text": "Reduce a la mitad el numero de cromosomas que pasan a cada gameto.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides."
-        },
-        {
-          "letter": "C",
-          "text": "Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica."
+          "feedback": "Incorrecto. La reduccion a la mitad se debe a la separacion de los homologos en la anafase I y no al entrecruzamiento."
         },
         {
           "letter": "D",
-          "text": "La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.",
+          "text": "Elimina los alelos recesivos que aparecen en las celulas que se dividen.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal."
+          "feedback": "Incorrecto. El entrecruzamiento reordena los alelos y puede acercarlos o separarlos, pero no elimina ninguno de ellos."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La reducción del número de cromosomas a la mitad ($2n \\rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Diego de Tacuarembó determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El entrecruzamiento es una de las dos fuentes de variabilidad de la meiosis, junto con la distribucion independiente de los homologos. Sin el, cada cromosoma conservaria siempre la misma combinacion de alelos que recibio de sus padres.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -549,36 +549,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v13",
-      "statement": "¿En qué fase específica de la interfase del ciclo celular ocurre la duplicación del material genético?",
-      "context": "Para el proyecto final de ciencias en el Liceo N° 1 Departamental de Punta del Este, Clara investiga acerca de la replicación del adn en el ciclo celular.",
+      "statement": "Que organo verifica los puntos de control del ciclo celular antes de permitir el paso a la fase siguiente?",
+      "context": "En el Liceo Piloto de Florida, Valentina sigue con el microscopio una celula en division que parece detenida.",
       "options": [
         {
           "letter": "A",
-          "text": "Fase S (Síntesis).",
+          "text": "El centrosoma, que comprueba que el ADN este replicado antes de autorizar la division.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la fase S se replica fielmente el ADN, de modo que cada cromosoma queda constituido por dos cromátidas hermanas."
+          "feedback": "Correcto. Los centrosomas y los puntos de control del ciclo, entre ellos el control del dano del ADN, detienen el ciclo cuando detectan un problema antes de que la celula se divida."
         },
         {
           "letter": "B",
-          "text": "Fase G1 (Primer intervalo).",
+          "text": "El nucleolo, que fabrica los ribosomas necesarios para la sintesis proteica.",
           "is_correct": false,
-          "feedback": "Incorrecto. En G1 ocurre el crecimiento celular general y la síntesis intensiva de ARN y proteínas."
+          "feedback": "Incorrecto. El nucleolo produce ribosomas y no participa en la verificacion del estado del ADN antes de la division."
         },
         {
           "letter": "C",
-          "text": "Fase G2 (Segundo intervalo).",
+          "text": "El aparato de Golgi, que prepara las vesiculas que distribuiran los cromosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. G2 es la fase de preparación final para la condensación cromosómica y ensamblaje del huso mitótico."
+          "feedback": "Incorrecto. El Golgi organiza el transporte interno y no realiza el control del ciclo celular."
         },
         {
           "letter": "D",
-          "text": "Fase M (Mitosis o división nuclear).",
+          "text": "La membrana plasmatica, que comprueba que la celula tenga suficiente volumen para dividirse.",
           "is_correct": false,
-          "feedback": "Incorrecto. La fase M es la segregación física del material ya duplicado, no su síntesis."
+          "feedback": "Incorrecto. El volumen celular puede influir en el crecimiento, pero el control de la integridad del ADN ocurre en puntos de control internos."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La replicación precisa en la fase S garantiza que las células hijas resultantes de la mitosis reciban una copia exacta del genoma. En este contexto, Clara de Punta del Este determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Los puntos de control del ciclo celular son G1, M y G2. Si detectan ADN danado, detienen la division y disparan la apoptosis, de modo que una celula con material genetico alterado no llega a transmitir ese defecto a sus descendientes.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -594,36 +594,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v14",
-      "statement": "¿En qué fase de la mitosis los cromosomas se alinean de manera individual a lo largo del plano ecuatorial celular?",
-      "context": "Mientras repasa para el examen parcial en Florida, Agustín estudia detenidamente mitosis y segregación cromosómica.",
+      "statement": "Por que el ovulo es mucho mas grande que el espermatozoide si ambos proceden de la misma division?",
+      "context": "Durante una actividad de laboratorio en el Liceo N. 4 de San Jose de Mayo, Belen compara el tamaño de un ovulo humano con el de un espermatozoide.",
       "options": [
         {
-          "letter": "C",
-          "text": "Metafase.",
+          "letter": "B",
+          "text": "Porque el citoplasma se reparte de forma desigual durante la meiosis, y la mayor parte queda en un solo gameto.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la metafase, el grado de condensación es máximo y los centrómeros se disponen en la placa ecuatorial."
+          "feedback": "Correcto. La division meiotica es funcionalmente unequivoca: una sola division citoplasmatica deja un gameto con casi todo el citoplasma y otro reducido a un resto mínimo."
         },
         {
           "letter": "A",
-          "text": "Profase.",
+          "text": "Porque el ovulo se produce por mitosis y el espermatozoide por meiosis.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina se condensa y empieza a desintegrarse la envoltura nuclear."
+          "feedback": "Incorrecto. Ambos proceden de la meiosis, con la diferencia de que en el hombre el gameto que aporta citoplasma es el espermatozoide."
         },
         {
-          "letter": "B",
-          "text": "Anafase.",
+          "letter": "C",
+          "text": "Porque el ovulo recibe mas alimento del medio interno.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan y migran a polos opuestos."
+          "feedback": "Incorrecto. Los gametos no se nutren del medio con esa diferencia; la disparidad de tamaño se explica por la distribucion desigual del citoplasma."
         },
         {
           "letter": "D",
-          "text": "Telofase.",
+          "text": "Porque el ovulo contiene el doble de cromosomas que el espermatozoide.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas llegan a los polos y se reorganiza la membrana nuclear alrededor de cada juego."
+          "feedback": "Incorrecto. Los dos tienen el mismo numero haploide de cromosomas, de modo que la diferencia de tamaño no se explica por la cantidad de ADN."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El correcto alineamiento en metafase es verificado por el punto de control del huso antes de iniciar la separación irreversible en anafase. En este contexto, Agustín de Florida determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La misma division puede dar gametos de tallas muy distintas segun como se reparta el citoplasma. Esa asimetria es funcional, porque un gameto grande acumula las reservas de ARN y de nutrientes que el embrión necesitara al principio de su desarrollo.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -639,36 +639,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v15",
-      "statement": "¿Qué evento meiótico único permite la recombinación física de segmentos entre cromátidas no hermanas homólogas?",
-      "context": "En el taller de Ciencias Naturales en Maldonado, Sebastián observa un modelo experimental de meiosis y variabilidad genética.",
+      "statement": "Cuantas celulas haploides con cromosomas no recombinados se forman al terminar la segunda division meiotica?",
+      "context": "En el Liceo N. 2 de Melo, Felipe cuenta los gametos producidos por una sola celula que completa la meiosis.",
       "options": [
         {
-          "letter": "A",
-          "text": "El entrecruzamiento (crossing-over) durante la profase I.",
+          "letter": "C",
+          "text": "Cuatro, dos de un tipo y dos del otro, porque cada division meiotica separa cromatidas y multiplica por dos el numero de productos.",
           "is_correct": true,
-          "feedback": "Correcto. El crossing-over ocurre en el paquiteno de la profase I mediante el complejo sinaptonémico, mezclando alelos maternos y paternos."
+          "feedback": "Correcto. Una meiosis completa produce cuatro gametos haploides: en ausencia de entrecruzamiento, dos conservan el material de un progenitor y dos el del otro."
+        },
+        {
+          "letter": "A",
+          "text": "Dos, porque la meiosis solo separa los cromosomas homologos una vez.",
+          "is_correct": false,
+          "feedback": "Correcto pero incompleto, porque la segunda division separa las cromatidas y multiplica el numero de productos."
         },
         {
           "letter": "B",
-          "text": "La segregación de cromátidas hermanas durante la anafase II.",
+          "text": "Ocho, porque cada una de las dos divisiones genera por si sola cuatro productos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La separación de cromátidas hermanas conserva la información genética individual previamente recombinada."
-        },
-        {
-          "letter": "C",
-          "text": "La alineación de bivalentes en el plano ecuatorial en la metafase II.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La alineación en metafase II distribuye los cromosomas recombinados pero no genera nuevas combinaciones intragénicas."
+          "feedback": "Incorrecto. Cada division meiotica produce dos celulas, de modo que dos divisiones sucesivas dan cuatro productos y no ocho."
         },
         {
           "letter": "D",
-          "text": "La descondensación parcial de los cromosomas en la telofase I.",
+          "text": "Una sola, porque la primera division incorpora y la segunda separa los productos.",
           "is_correct": false,
-          "feedback": "Incorrecto. La telofase I solo reorganiza los núcleos haploides intermedios sin alterar el genoma."
+          "feedback": "Incorrecto. La primera division separa los homologos y la segunda separa las cromatidas, de modo que el resultado son cuatro celulas distintas."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "La recombinación genética por crossing-over junto a la segregación independiente de cromosomas homólogos sustentan la variabilidad en la reproducción sexual. En este contexto, Sebastián de Maldonado determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El resultado numerico de la meiosis se entiende como una operacion de elevar al cuadrado la primera division. Una division de la celula madre da dos celulas, y la division de cada una de ellas completa el proceso hasta cuatro gametos haploides.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -684,36 +684,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v16",
-      "statement": "¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?",
-      "context": "Durante una actividad de laboratorio en el Liceo N° 4 de Fray Bentos, Valentina analiza diferencias ploidía mitosis vs meiosis.",
+      "statement": "Que sindrome aparece cuando una celula tiene tres copias de un cromosoma en lugar de dos?",
+      "context": "En el taller de Ciencias Naturales de Canelones, Paula analiza las consecuencias de la alteracion del numero cromosomico en el desarrollo embrionario.",
       "options": [
         {
           "letter": "B",
-          "text": "La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.",
+          "text": "Trisomia, que se debe a la no separacion de un par de cromosomas durante la division celular.",
           "is_correct": true,
-          "feedback": "Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis."
+          "feedback": "Correcto. La trisomia se produce cuando la no segregacion deja tres copias de un cromosoma en lugar de dos, y de ahi el nombre del sindrome de Down en la trisomia del 21."
         },
         {
           "letter": "A",
-          "text": "La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.",
+          "text": "Monosomia, que aparece cuando un cromosoma sobra en lugar de faltar.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides."
+          "feedback": "Incorrecto. La monosomia es la perdida de un cromosoma, y en ella hay una copia donde deberia haber dos y no tres."
         },
         {
           "letter": "C",
-          "text": "Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.",
+          "text": "Poliploidia, que consiste en tener varias copias de todo el juego cromosomico.",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica."
+          "feedback": "Incorrecto. La poliploidia afecta al juego completo de cromosomas y no a un par concreto, como ocurre en la trisomia."
         },
         {
           "letter": "D",
-          "text": "La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.",
+          "text": "Aneuploidia por deleccion, que se debe a la perdida de un segmento cromosomico.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal."
+          "feedback": "Incorrecto. Una deleccion es la perdida de un segmento del cromosoma, y no el aumento del numero de copias enteras de uno de ellos."
         }
       ],
       "correct_answer": "B",
-      "explanation": "La reducción del número de cromosomas a la mitad ($2n \\rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Valentina de Fray Bentos determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Las anomalias numericas del cromosoma se agrupan bajo el termino aneuploidia. La monosomia es la perdida de un cromosoma y la trisomia su ganancia, y ambas se originan por fallos de la segregacion durante la division.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -729,36 +729,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v17",
-      "statement": "¿En qué fase específica de la interfase del ciclo celular ocurre la duplicación del material genético?",
-      "context": "En la clase práctica del Liceo N° 5 en San José de Mayo, Santiago y sus compañeros debaten sobre la replicación del adn en el ciclo celular.",
+      "statement": "Como se explica que esas dos celulas tengan numeros de cromosomas tan distintos?",
+      "context": "En el Liceo N. 4 de Montevideo, Nicolas compara el numero de cromosomas de un espermatozoide humano y de una celula de la piel.",
       "options": [
         {
-          "letter": "C",
-          "text": "Fase S (Síntesis).",
-          "is_correct": true,
-          "feedback": "Correcto. Durante la fase S se replica fielmente el ADN, de modo que cada cromosoma queda constituido por dos cromátidas hermanas."
-        },
-        {
           "letter": "A",
-          "text": "Fase G1 (Primer intervalo).",
-          "is_correct": false,
-          "feedback": "Incorrecto. En G1 ocurre el crecimiento celular general y la síntesis intensiva de ARN y proteínas."
+          "text": "Porque el espermatozoide es haploide y la celula de la piel diploide, resultado de las dos divisiones que suffer los gametos.",
+          "is_correct": true,
+          "feedback": "Correcto. Las celulas de la piel se originan por mitosis, que conserva la ploidia, mientras que el gameto se produce por meiosis, que reduce el numero a la mitad."
         },
         {
           "letter": "B",
-          "text": "Fase G2 (Segundo intervalo).",
+          "text": "Porque el espermatozoide tiene cromosomas mas pequenos que los de la piel.",
           "is_correct": false,
-          "feedback": "Incorrecto. G2 es la fase de preparación final para la condensación cromosómica y ensamblaje del huso mitótico."
+          "feedback": "Incorrecto. El tamano de los cromosomas no explica un numero distinto, porque ambos proceden de la misma especie con el mismo juego cromosomico."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la piel pierde cromosomas con la edad y el espermatozoide los conserva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las celulas de la piel mantienen su complemento cromosomico, y la diferencia entre gameto y somatico se establece desde la meiosis."
         },
         {
           "letter": "D",
-          "text": "Fase M (Mitosis o división nuclear).",
+          "text": "Porque el espermatozoide se divide una vez mas que la celula de la piel.",
           "is_correct": false,
-          "feedback": "Incorrecto. La fase M es la segregación física del material ya duplicado, no su síntesis."
+          "feedback": "Incorrecto. Ambas derivan del mismo zigoto y el espermatozoide no undergo mas divisiones que la celula somatica en ese sentido."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La replicación precisa en la fase S garantiza que las células hijas resultantes de la mitosis reciban una copia exacta del genoma. En este contexto, Santiago de San José de Mayo determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "A",
+      "explanation": "La ploidia es el numero de juegos de cromosomas que tiene una celula. El ser humano tiene 2n mas de 46 cromosomas en sus celulas somaticas y n mas de 23 en sus gametos, y esa diferencia la establece la division reduccional.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -774,36 +774,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v18",
-      "statement": "¿En qué fase de la mitosis los cromosomas se alinean de manera individual a lo largo del plano ecuatorial celular?",
-      "context": "Para el proyecto final de ciencias en el Liceo Piloto de Montevideo, Florencia investiga acerca de mitosis y segregación cromosómica.",
+      "statement": "Que se espera que ocurra si una celula diploide pierde un cromosoma y queda con un solo cromosoma X?",
+      "context": "Mientras repasa para el examen parcial en Minas, Ignacio resume el papel de los cromosomas sexuales en la determinacion del sexo.",
       "options": [
         {
           "letter": "D",
-          "text": "Metafase.",
+          "text": "Se produce un fenotipo turno que normalmente resulta inviable, porque faltan genes que compensen la ausencia del segundo cromosoma.",
           "is_correct": true,
-          "feedback": "Correcto. Durante la metafase, el grado de condensación es máximo y los centrómeros se disponen en la placa ecuatorial."
+          "feedback": "Correcto. La mayoria de los genes del cromosoma X tienen su equivalente en el Y, de modo que la mayoria de los varones con un solo X presentan sindrome de Turner, con su fertilidad reducida."
         },
         {
           "letter": "A",
-          "text": "Profase.",
+          "text": "La celula se convierte automaticamente en diploide por duplicacion del cromosoma X.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la profase la cromatina se condensa y empieza a desintegrarse la envoltura nuclear."
+          "feedback": "Incorrecto. La perdida de un cromosoma no se corrige sola por duplicacion, porque la copia que falta no puede replicarse a partir de si misma."
         },
         {
           "letter": "B",
-          "text": "Anafase.",
+          "text": "El fenotipo no cambia, porque el sexo depende solo del numero de cromosomas.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la anafase las cromátidas hermanas se separan y migran a polos opuestos."
+          "feedback": "Incorrecto. El sexo depende del conjunto de cromosomas sexuales presentes y de los genes que contienen, de modo que perder uno si altera el resultado."
         },
         {
           "letter": "C",
-          "text": "Telofase.",
+          "text": "La celula se divide por meiosis y produce gametos normales.",
           "is_correct": false,
-          "feedback": "Incorrecto. En la telofase los cromosomas llegan a los polos y se reorganiza la membrana nuclear alrededor de cada juego."
+          "feedback": "Incorrecto. La meiosis requiere un juego diploide completo para separar homologos, y sin el segundo cromosoma sexual el proceso se altera o fracasa."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El correcto alineamiento en metafase es verificado por el punto de control del huso antes de iniciar la separación irreversible en anafase. En este contexto, Florencia de Montevideo determinó correctamente la respuesta correcta.\n\n---",
+      "explanation": "Los cromosomas sexuales presentan una region pseudoautosomal cuyos genes se expresan igual en ambos, y una region no emparejada que explica las diferencias de fenotipo. La perdida de un cromosoma X deja sin cubrir los genes propios de esa region.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -819,36 +819,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v19",
-      "statement": "¿Qué evento meiótico único permite la recombinación física de segmentos entre cromátidas no hermanas homólogas?",
-      "context": "Mientras repasa para el examen parcial en Rivera, Joaquín estudia detenidamente meiosis y variabilidad genética.",
+      "statement": "Que diferencia cualitativa existe entre las dos divisiones en cuanto al tipo de celulas que producen?",
+      "context": "En la discusion final del proyecto en el Liceo N. 5 de Montevideo, Florencia compara la mitosis con la meiosis en un esquema.",
       "options": [
         {
-          "letter": "D",
-          "text": "El entrecruzamiento (crossing-over) durante la profase I.",
-          "is_correct": true,
-          "feedback": "Correcto. El crossing-over ocurre en el paquiteno de la profase I mediante el complejo sinaptonémico, mezclando alelos maternos y paternos."
-        },
-        {
-          "letter": "A",
-          "text": "La segregación de cromátidas hermanas durante la anafase II.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La separación de cromátidas hermanas conserva la información genética individual previamente recombinada."
-        },
-        {
           "letter": "B",
-          "text": "La alineación de bivalentes en el plano ecuatorial en la metafase II.",
-          "is_correct": false,
-          "feedback": "Incorrecto. La alineación en metafase II distribuye los cromosomas recombinados pero no genera nuevas combinaciones intragénicas."
+          "text": "La mitosis produce celulas geneticamente iguales a la madre y la meiosis produce gametos con nueva combinacion de alelos.",
+          "is_correct": true,
+          "feedback": "Correcto. La mitosis conserva la identidad genetica de la celula madre, mientras que la meiosis reorganiza los alelos por el entrecruzamiento y la distribucion independiente, generando variabilidad."
         },
         {
           "letter": "C",
-          "text": "La descondensación parcial de los cromosomas en la telofase I.",
+          "text": "La mitosis produce celulas con la mitad de cromosomas y la meiosis produce celulas con el doble.",
           "is_correct": false,
-          "feedback": "Incorrecto. La telofase I solo reorganiza los núcleos haploides intermedios sin alterar el genoma."
+          "feedback": "Incorrecto. La relacion entre mitosis y meiosis esta al reves, porque la primera conserva el numero y la segunda lo reduce."
+        },
+        {
+          "letter": "D",
+          "text": "Ambas producen celulas identicas a la madre, y la diferencia entre ellas es solo el numero de veces que ocurre la division.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia no es cuantitativa sino cualitativa, porque la meiosis genera combinaciones de alelos nuevas que la mitosis no produce."
+        },
+        {
+          "letter": "A",
+          "text": "La mitosis solo produce celulas somaticas y la meiosis solo produce gametos en los animales.",
+          "is_correct": false,
+          "feedback": "Correcto en cuanto al resultado habitual, pero no describe la diferencia mecanica que las distingue."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "La recombinación genética por crossing-over junto a la segregación independiente de cromosomas homólogos sustentan la variabilidad en la reproducción sexual. En este contexto, Joaquín de Rivera determinó correctamente la respuesta correcta.\n\n---",
+      "correct_answer": "B",
+      "explanation": "La mitosis multiplica un tipo celular y la meiosis prepara la formacion de gametos. En las plantas, ademas, la meiosis produce esporas y luego gametos por mitosis, de modo que la secuencia no siempre va directa de la meiosis al gameto.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
@@ -864,36 +864,36 @@
     },
     {
       "id": "UY-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle-v20",
-      "statement": "¿Cuál es el resultado final respecto a la ploidía y número celular al comparar mitosis con meiosis en humanos?",
-      "context": "En el taller de Ciencias Naturales en Las Piedras, Camila observa un modelo experimental de diferencias ploidía mitosis vs meiosis.",
+      "statement": "Cual es la relacion correcta entre las fases del ciclo celular en orden?",
+      "context": "En la evaluacion final del Liceo N. 1 Departamental de Artigas, Camila redacta la conclusion de su trabajo sobre el ciclo celular.",
       "options": [
         {
           "letter": "A",
-          "text": "La mitosis produce 2 células diploides ($2n$) idénticas; la meiosis genera 4 gametos haploides ($n$) modificados.",
+          "text": "Fase G1, fase S, fase G2 y fase M, en ese orden, con una G0 opcional antes de volver a empezar.",
           "is_correct": true,
-          "feedback": "Correcto. La mitosis conserva el número de cromosomas para crecimiento y reparación; la meiosis lo reduce a la mitad para gametogénesis."
+          "feedback": "Correcto. El ciclo se recorre desde G1, donde la celula crece, pasando por S, donde se replica el ADN, hasta G2, que prepara la division, y luego M, que realiza la mitosis."
         },
         {
           "letter": "B",
-          "text": "La mitosis produce 4 células haploides de origen somático; la meiosis da 2 células diploides totipotentes.",
+          "text": "Fase M, fase G1, fase S y fase G2, empezando siempre por la division celular.",
           "is_correct": false,
-          "feedback": "Incorrecto. La mitosis humana produce dos células idénticas con 46 cromosomas diploides."
+          "feedback": "Incorrecto. La division celular es la ultima fase del ciclo y no la primera, porque cada ciclo comienza con una etapa de crecimiento."
         },
         {
           "letter": "C",
-          "text": "Ambos procesos resultan en 2 células diploides idénticas con idéntica tasa mutacional.",
+          "text": "Fase S, fase G1, fase M y fase G2, con la replicacion del ADN en primer lugar.",
           "is_correct": false,
-          "feedback": "Incorrecto. La meiosis difiere profundamente de la mitosis en ploidía (haploide) y diversidad genómica."
+          "feedback": "Incorrecto. La fase S va despues de G1 y antes de G2, de modo que ese orden situa mal las tres primeras fases."
         },
         {
           "letter": "D",
-          "text": "La mitosis duplica la ploidía originando células tetraploides ($4n$) necesarias para la masa de tejidos.",
+          "text": "Fase G2, fase S, fase M y fase G1, terminando siempre por la replicacion del ADN.",
           "is_correct": false,
-          "feedback": "Incorrecto. No se producen células tetraploides funcionales en la división somática humana normal."
+          "feedback": "Incorrecto. La replicacion del ADN ocurre en S, en el segundo tramo del ciclo, y no al final, de modo que ese orden es incorrecto."
         }
       ],
       "correct_answer": "A",
-      "explanation": "La reducción del número de cromosomas a la mitad ($2n \\rightarrow n$) en la meiosis evita la duplicación indefinida del genoma tras la fecundación. En este contexto, Camila de Las Piedras determinó correctamente la respuesta correcta.",
+      "explanation": "El ciclo celular alterna una etapa de crecimiento con una de duplicacion del ADN y termina con la division. Reconocer el orden permite localizar en que punto se detiene una celula cuyo ciclo se ha alterado, y por eso los farmacos anticancerosos apuntan a fases concretas.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],
