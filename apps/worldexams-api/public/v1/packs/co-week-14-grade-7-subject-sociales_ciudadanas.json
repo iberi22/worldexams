@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T23:20:28.795Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un partido político?",
+      "context": "En un colegio de Bogotá, el profesor pregunta qué es un partido político.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Una organización que agrupa personas con ideas políticas para participar en la vida pública",
+          "is_correct": true,
+          "feedback": "Es correcta porque un partido reúne a quienes comparten ideas y los organiza para presentar candidatos, proponer soluciones y vigilar al Gobierno."
+        },
+        {
+          "letter": "A",
+          "text": "Un grupo que vende productos a bajo precio",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un partido es una organización política, y su objetivo no es el comercio sino participar en la vida pública del país."
+        },
+        {
+          "letter": "C",
+          "text": "Una institución que administra los municipios",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los municipios están a cargo de las alcaldías y de los concejos, y esas son instituciones del Estado, no partidos."
+        },
+        {
+          "letter": "D",
+          "text": "Una asociación de clubes deportivos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los clubes deportivos se ocupan del deporte, y un partido se ocupa de la competencia por el poder y de las decisiones públicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un partido político es una organización que agrupa a personas con ideas sobre el país y las convierte en propuestas y en candidatos. En Colombia los partidos hacen parte de la vida democrática porque permiten presentar candidatos, organizar debates y vigilar la gestión del Gobierno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v2",
+      "statement": "Según la Constitución de 1991, ¿qué significa ser ciudadano en Colombia?",
+      "context": "En Bucaramanga, dos estudiantes discuten si basta con haber votado para ser ciudadano.",
+      "options": [
+        {
+          "letter": "C",
+          "text": "Tener la calidad de colombiano y ejercer los derechos y los deberes que asigna la Constitución",
+          "is_correct": true,
+          "feedback": "Es correcta porque la ciudadanía es una calidad que se adquiere con la nacionalidad y que incluye ejercer derechos políticos y cumplir deberes como respetar la ley."
+        },
+        {
+          "letter": "A",
+          "text": "Haber votado por lo menos una vez",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque votar es una forma de participación y no el origen de la ciudadanía; hay ciudadanos que nunca han votado y siguen siendo ciudadanos."
+        },
+        {
+          "letter": "B",
+          "text": "Tener la mayoría de edad solamente",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mayoría de edad es una condición importante, pero no agota la ciudadanía, que incluye la nacionalidad y el ejercicio de derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Dominar por completo los temas políticos del país",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ciudadanía no exige un conocimiento perfecto de la política; exige respetar la Constitución, participar y asumir responsabilidades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La ciudadanía es la calidad de ser colombiano y de ejercer los derechos y deberes que fija la Constitución. Votar es una de las formas de ejercerla, pero existen otras, como afiliarse a un partido, conformar una organización, protestar de forma pacífica y vigilar al Gobierno.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v3",
+      "statement": "¿Qué acción de participación política puede iniciar esta comunidad para conseguir lo que pide?",
+      "context": "En Rionegro, varios vecinos quieren mejorar la iluminación del parque de su barrio y no saben por dónde empezar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reunirse en una asamblea, definir la petición y llevarla formalmente a la alcaldía",
+          "is_correct": true,
+          "feedback": "Es correcta porque participar también es organizarse, acordar una petición y usar los canales institucionales, que es el camino democrático para conseguir un cambio local."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a las próximas elecciones sin hacer nada más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esperar tres años sin organizar ninguna acción pierde la oportunidad de resolver ahora un problema que afecta a todo el barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir en redes sociales sin formular una propuesta concreta",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque criticar sin presentar una petición no genera un cambio; la participación efectiva necesita una propuesta y un canal institucional."
+        },
+        {
+          "letter": "D",
+          "text": "Ocupar las instalaciones del municipio",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ocupar instalaciones no garantiza una respuesta y puede convertirse en un delito de perturbación, en lugar de una petición legítima."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La participación política no se limita al voto. Una comunidad puede organizarse, reunir una asamblea, definir una petición concreta y usar los canales institucionales, como el derecho de petición, las veeduría ciudadana o los concejos, para obtener una respuesta del municipio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v4",
+      "statement": "Según la Constitución de 1991, ¿bajo qué condición un partido puede cambiar sus reglas internas?",
+      "context": "En Manizales, un miembro de un partido propone cambiar la forma en que se eligen sus candidatos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cuando su líder lo decida, porque es una asociación privada",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ley regula a los partidos y exige que su organización interna sea democrática, así que un solo líder no puede decidir todo."
+        },
+        {
+          "letter": "B",
+          "text": "Cuando la ley no menciona esos asuntos internos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el silencio de la ley no equivale a libertad absoluta; los partidos siguen sujeitos a la Constitución y a las normas que exigen democracia interna."
+        },
+        {
+          "letter": "C",
+          "text": "Solo cuando ese cambio se vota en asamblea y respeta la igualdad entre los miembros",
+          "is_correct": true,
+          "feedback": "Es correcta porque la libertad de asociación política permite organizarse, siempre que la decisión se tome de manera democrática y con igualdad entre quienes integran el partido."
+        },
+        {
+          "letter": "D",
+          "text": "Cuando el Estado lo autorice expresamente en cada caso",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el Estado no autoriza cada regla interna; lo que hace es vigilar que esos partidos respeten la Constitución y la democracia interna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución reconoce la libertad de asociación política y, al mismo tiempo, exige que los partidos respeten la democracia interna. Por eso un partido puede cambiar sus reglas, pero esa decisión debe tomarse en asamblea o con la participación de sus miembros, nunca por la voluntad de un solo líder.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v5",
+      "statement": "Según la Constitución de 1991, ¿qué le falta a esta forma de actuar para ser democrática?",
+      "context": "En Cali, un líder comunitario reparte los recursos del barrio sin consultar a los demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le falta el apoyo de otro partido que lo respalde",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el problema no es la falta de apoyo de otro partido, sino que él decide sin consultar a la comunidad a la que representa."
+        },
+        {
+          "letter": "B",
+          "text": "Le falta usar el voto secreto en sus decisiones",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el voto secreto es clave en las elecciones, pero lo que falta en este caso es el diálogo con las personas afectadas."
+        },
+        {
+          "letter": "C",
+          "text": "Le falta la participación y el diálogo con la comunidad",
+          "is_correct": true,
+          "feedback": "Es correcta porque decidir sobre los demás sin escucharlos contradice la democracia participativa que la Constitución garantiza a todo miembro de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Le falta obtener un permiso del municipio",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el asunto central no es un permiso administrativo, sino la manera de decidir: sobre lo que Affecta a otros se consulta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución garantiza la participación de la ciudadanía en los asuntos públicos. Cuando alguien decide sobre los intereses de una comunidad sin escucharla, incluso si es un líder respetado, se contradice el principio de democracia participativa y se debilita la confianza en las instituciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué es importante que un partido realice reuniones abiertas con la ciudadanía?",
+      "context": "Un grupo de estudiantes de Pereira compara un partido que solo se presenta a elecciones con otro que además realiza asambleas abiertas.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Porque permiten conocer sus propuestas, pedir explicaciones y vigilar a sus representantes",
+          "is_correct": true,
+          "feedback": "Es correcta porque los espacios de diálogo permiten que la ciudadanía conozca las propuestas, discuta y exija explicaciones a quienes la representan."
+        },
+        {
+          "letter": "A",
+          "text": "Porque así el partido puede cobrar una cuota a sus adherentes",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las reuniones abiertas no implican cobrar dinero; son un espacio de participación y de rendición de cuentas ante los ciudadanos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las reuniones abiertas sustituyen a las elecciones",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las reuniones abiertas no reemplazan las elecciones; complementan la democracia al fortalecer el diálogo entre votantes y representantes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque eximen al partido de cumplir su programa de gobierno",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el punto es el contrario: las reuniones abiertas permiten verificar si el partido está cumpliendo lo que prometió."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los partidos que abren espacios de diálogo permiten que la ciudadanía conozca sus propuestas y pueda pedir cuentas. Eso mejora la democracia porque el electorado no decide a ciegas y los representantes quedan obligados a responder por su gestión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v7",
+      "statement": "¿Qué aporta estudiar los cambios que ha tenido un territorio a lo largo del tiempo?",
+      "context": "Un líder comunitario de Apartadó compara cómo cambió su barrio entre dos décadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite conocer la realidad del barrio y tomar decisiones mejor fundamentadas",
+          "is_correct": true,
+          "feedback": "Es correcta porque comparar el barrio en dos momentos revela qué cambió y qué no, y eso permite pedir soluciones concretas y evaluar la respuesta del Gobierno."
+        },
+        {
+          "letter": "B",
+          "text": "Sirve para elegir a alguien para un cargo público",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en este caso no se está eligiendo a nadie; estudiar la evolución del territorio es una forma de participación no electoral."
+        },
+        {
+          "letter": "C",
+          "text": "Sustituye la necesidad de organizar a la comunidad",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque estudiar los cambios no reemplaza la organización; por el contrario, sus resultados son más útiles cuando la comunidad se organiza para usarlos."
+        },
+        {
+          "letter": "D",
+          "text": "No aporta nada, porque solo cuenta lo que ocurre en las elecciones",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la participación no se limita al voto; conocer la realidad del territorio también es ejercer ciudadanía y vigilar la gestión pública."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Estudiar cómo cambia un territorio con el paso de los años permite reconocer problemas, comparar períodos y pedir cuentas con argumentos. Esa es una participación informada, y por eso suele ser más eficaz que una queja sin datos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué los espacios de diálogo como un foro pueden favorecer la convivencia?",
+      "context": "En una universidad de Bogotá, dos grupos de estudiantes con ideas diferentes organizan un foro abierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque evitan que las personas tengan opiniones distintas",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque evitar el desacuerdo no es construir convivencia; un foro justamente permite expresar opiniones diferentes de manera ordenada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque terminan siempre con quien tiene la razón y los demás callan",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diálogo no consiste en que una parte calle, sino en que todos tengan espacio para hablar y escuchar con respeto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque permiten expresar desacuerdos sin violencia y construir acuerdos respetados por todos",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diálogo ofrece una salida pacífica al conflicto de opiniones, y de ahí pueden salir acuerdos que las partes respetan porque fueron escuchadas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque permiten decidir con una sola persona la respuesta de todos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque decidir con una sola persona es autoritarismo; el valor del foro es que la decisión se construya entre todos los participantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los espacios de diálogo permiten expresar desacuerdos de manera pacífica y ordenada. Esa es una de las formas en que la Constitución construye la paz como derecho y como deber, porque evita que las diferencias entre las personas terminen en violencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v9",
+      "statement": "Evalúe esta afirmación desde los principios de la Constitución de 1991.",
+      "context": "Un líder afirma en Tunja que en una democracia todos los candidatos deben pensar igual para no dividirse.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque los candidatos deben llegar a un mismo acuerdo para evitar conflictos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la posibilidad de tener varios partidos es una protección constitucional; obligar a pensar igual elimina la competencia y el control ciudadano."
+        },
+        {
+          "letter": "B",
+          "text": "Es parcialmente correcta, porque al menos todos deben respetar las mismas normas",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa es una obligación mínima que no justifica la afirmación; el problema está en exigir uniformidad de pensamiento entre los candidatos."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque la Constitución protege la libertad de opinión y el derecho a organizar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mencionar la libertad de opinión no explica bien el fundamento; la razón central es que la competencia entre propuestas distintas está protegida."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque obligar a pensar igual terminaría con el pluripartidismo, que la Constitución protege",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución reconoce el pluripartidismo como una garantía, y la competencia entre ideas distintas es lo que permite renovar la vida política."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Constitución de 1991 garantiza la libertad de opinión y reconoce el pluripartidismo como una protección institucional. La competencia entre ideas distintas no es un problema: es lo que permite renovar la vida política y que la ciudadanía pueda elegir entre alternativas reales.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle-v10",
+      "statement": "¿Qué evaluación hace esta comparación sobre la participación ciudadana?",
+      "context": "En Bello, un líder compara dos situaciones: una Registraduría sin observadores y una Registraduría con ellos.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "Que la vigilancia ciudadana protege la democracia, porque permite verificar la limpieza del proceso",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución garantiza procesos transparentes, y la vigilancia ciudadana ayuda a que el resultado refleje la voluntad popular y no una manipulación."
+        },
+        {
+          "letter": "A",
+          "text": "Que la Registraduría con observadores es un obstáculo para la democracia",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la vigilancia a los procesos electorales es una garantía de transparencia, y no un obstáculo para la democracia."
+        },
+        {
+          "letter": "C",
+          "text": "Que ambas situaciones son iguales, porque el resultado no depende de la vigilancia",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la diferencia entre un proceso transparente y uno opaco cambia la confianza en el resultado y, con ella, la calidad de la democracia."
+        },
+        {
+          "letter": "D",
+          "text": "Que la vigilancia solo importa en las elecciones",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la vigilancia ciudadana también es importante en la gestión del Gobierno y en el control de las decisiones públicas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución garantiza procesos electorales transparentes y el derecho de la ciudadanía a vigilarlos. Cuando los ciudadanos observan un proceso, hay menos posibilidades de fraude o de manipulación, y por eso la vigilancia ciudadana es una garantía de la democracia y no un trámite.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-7-2026-W14-los-partidos-y-la-participacion-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

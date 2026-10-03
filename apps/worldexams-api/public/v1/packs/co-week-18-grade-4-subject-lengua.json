@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v1",
+      "statement": "Lee el diálogo: \"MARÍA: ¿Trajiste el cuaderno? JUAN: Sí, y también el lápiz\". ¿Quién pregunta por el cuaderno?",
+      "context": "En el teatro escolar de Medellín, los niños representaron una escena con dos personajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "María.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la línea que pregunta por el cuaderno empieza con el nombre de María."
+        },
+        {
+          "letter": "B",
+          "text": "Juan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque Juan es quien responde, no quien pregunta."
+        },
+        {
+          "letter": "C",
+          "text": "El maestro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el maestro no aparece en ese diálogo."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno de los dos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque María sí pregunta, así que esa respuesta no es correcta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un diálogo, el nombre que aparece antes de los dos puntos indica quién habla. Reconocer eso permite seguir la conversación y saber quién dice cada cosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v2",
+      "statement": "El diálogo dice: \"VOZ UNO: No corras en el pasillo. VOZ DOS: Corro porque tengo prisa\". ¿Qué muestra el diálogo sobre la segunda voz?",
+      "context": "En clase de cuarto de Pereira, la profesora usó un diálogo para explicar una regla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la segunda voz quiere correr.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa opción solo dice que quiere correr y el texto muestra que da una razón."
+        },
+        {
+          "letter": "B",
+          "text": "Que la segunda voz da una razón para no correr.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la segunda voz da una razón para correr, no para dejarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Que la segunda voz justifica lo que hace.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la segunda voz explica que corre porque tiene prisa, es decir, justifica su acción."
+        },
+        {
+          "letter": "D",
+          "text": "Que la segunda voz está de acuerdo con la regla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque correr en el pasillo rompe la regla, así que no está de acuerdo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un diálogo muestra lo que los personajes dicen y hacen. Reconocer cuándo un personaje da una razón para su conducta ayuda a entender mejor la escena.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v3",
+      "statement": "Un personaje debe decir con tristeza: \"Me voy de casa\". ¿Cómo debe poner la voz para que la escena se entienda?",
+      "context": "En el taller de teatro de Neiva, los niños prepararon una escena corta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gritando, porque así se escucha más.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque gritar no indica tristeza y además cambia lo que el personaje quiere sentir."
+        },
+        {
+          "letter": "B",
+          "text": "Riendo, porque la escena es un cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque reír contradice la tristeza que pide la escena."
+        },
+        {
+          "letter": "C",
+          "text": "Con voz baja y lenta, como se habla cuando se está triste.",
+          "is_correct": true,
+          "feedback": "Es correcta porque una voz baja y lenta comunica tristeza y deja ver lo que siente el personaje."
+        },
+        {
+          "letter": "D",
+          "text": "Sin decir nada, porque el público ya sabe la historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa frase es parte del diálogo y el público no conoce esa situación."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En el teatro la voz también cuenta algo. Vincular el tono de voz con el sentimiento del personaje ayuda a que la escena se entienda mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v4",
+      "statement": "El vendedor decía: \"¿Le sirvo dos empanadas, don Hernando? Solo quedan\". ¿Cuál es su intención al decirlo así?",
+      "context": "En una función escolar de Villavicencio, un niño actuó como vendedor de empanadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saludar y despedirse.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pregunta es para ofrecer empanadas, no para saludar ni para despedirse."
+        },
+        {
+          "letter": "B",
+          "text": "Ofrecerle empanadas y apurarlo para que decida.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la pregunta ofrece el producto y el \"solo quedan\" empuja al cliente a comprar enseguida."
+        },
+        {
+          "letter": "C",
+          "text": "Avisar que ya cerró el puesto.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice que el puesto cerró, solo que quedan pocas empanadas."
+        },
+        {
+          "letter": "D",
+          "text": "Preguntar el nombre del cliente.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la pregunta es por las empanadas, no por el nombre de quien compra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La intención de un personaje se reconoce en cómo pide las cosas. Una pregunta junto a la escasez de producto busca persuadir al cliente rápido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v5",
+      "statement": "Línea uno: \"LA MAMÁ: Ya guardé las llaves\". Línea dos: \"PAPÁ: Entonces salimos\". Línea tres: \"HIJA: ¿Salimos a dónde?\". ¿En qué orden se dice la escena?",
+      "context": "En el club de teatro de Montería, los niños recibieron tres líneas revueltas de una escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos, tres y uno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la mamá guarda las llaves antes de que el papá diga que salen."
+        },
+        {
+          "letter": "B",
+          "text": "Tres, uno y dos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la hija pregunta al final, cuando ya se sabía que iban a salir."
+        },
+        {
+          "letter": "C",
+          "text": "Uno, dos y tres.",
+          "is_correct": true,
+          "feedback": "Es correcta porque primero la mamá avisa, luego el papá decide y al final la hija pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "Uno, tres y dos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la hija pregunta adónde van solo después de saber que salen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ordenar un diálogo es reconocer la relación entre lo que se dice y lo que ya se sabe. Cada línea depende de la anterior, y por eso el orden importa para entender la escena.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué entiende el lector de esa frase?",
+      "context": "En una obra escolar de Cúcuta, un personaje dijo: \"Claro, no tengo miedo. Solo temblan mis piernas\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el personaje no teme nada de verdad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las piernas temblorosas contradicen la frase de que no tiene miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Que al personaje sí le da miedo aunque lo niegue.",
+          "is_correct": true,
+          "feedback": "Es correcta porque temblar las piernas revela el miedo que el personaje intenta esconder."
+        },
+        {
+          "letter": "C",
+          "text": "Que al personaje le duele una pierna.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto habla de temblor, no de dolor en la pierna."
+        },
+        {
+          "letter": "D",
+          "text": "Que el personaje está muy tranquilo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el temblor de las piernas indica que no está tranquilo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es descubrir lo que el texto esconde detrás de las palabras. Cuando lo que se dice y lo que se siente no coinciden, el lector entiende que hay algo que el personaje no reconoce.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v7",
+      "statement": "La obra termina con el personaje diciendo \"ya no quiero tener miedo\". La canción invita a seguir un camino. ¿Qué relación se puede ver entre los dos textos?",
+      "context": "En Palmira, los niños compararon el final de una obra con una canción conocida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos no tienen relación.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los dos hablan de dejar el miedo y de seguir adelante."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos textos dicen lo mismo con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada texto usa palabras distintas, uno con miedo y el otro con un camino."
+        },
+        {
+          "letter": "C",
+          "text": "La canción contradice la obra de teatro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay contradicción, los dos textos hablan de avanzar sin miedo."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos invitan a seguir hacia adelante.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el personaje deja el miedo y la canción invita a continuar el camino."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relacionar dos textos permite ver ideas que se repiten con distintas imágenes. Reconocer esa idea compartida ayuda a conectar lo aprendido con la vida real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle-v8",
+      "statement": "En la escena el personaje entra y sale tres veces sin decir nada y sin motivo. ¿Qué se evalúa de esa escena?",
+      "context": "En un festival escolar de teatro en Tunja, un grupo presentó una escena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la escena necesita hablar de un tema.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no habla del tema de la obra, sino de los movimientos sin motivo."
+        },
+        {
+          "letter": "B",
+          "text": "Que el actor debe estar listo para entrar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no trata de la preparación del actor."
+        },
+        {
+          "letter": "C",
+          "text": "Que los movimientos del personaje no tienen explicación.",
+          "is_correct": true,
+          "feedback": "Es correcta porque si el personaje entra y sale sin decir nada ni tener motivo, la escena no explica nada."
+        },
+        {
+          "letter": "D",
+          "text": "Que la obra necesita música de fondo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no menciona música en ningún momento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una escena significa revisar si cada acción y cada palabra tienen sentido. Un movimiento sin motivo deja al público sin saber qué pasó realmente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W18-el-teatro-y-los-dialogos-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
