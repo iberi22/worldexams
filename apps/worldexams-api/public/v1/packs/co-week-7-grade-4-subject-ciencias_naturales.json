@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-7-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.156Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una fuerza?",
+      "context": "En un patio de Medellín, un niño empuja una caja y luego la arrastra con una cuerda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una acción capaz de cambiar el movimiento o la forma de un cuerpo",
+          "is_correct": true,
+          "feedback": "Correcto. Una fuerza es una acción que puede poner en movimiento un cuerpo, detenerlo o deformarlo."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de materia que tiene un cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de materia es la masa; la fuerza, en cambio, es una acción que se aplica sobre un cuerpo."
+        },
+        {
+          "letter": "C",
+          "text": "La distancia que recorre un cuerpo al moverse",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia recorrida mide el trayecto; no es una fuerza, aunque una fuerza pueda provocar ese movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo que tarda un cuerpo en detenerse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo es una medida de duración, no una fuerza; una fuerza puede cambiar ese tiempo, pero no es lo mismo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una fuerza es una acción que se ejerce sobre un cuerpo y que puede cambiar su movimiento o su forma. Empujar una caja, halar una cuerda o patear un balón son ejemplos de fuerzas. Las fuerzas no se ven, pero se reconocen por sus efectos. Distinguir una fuerza de magnitudes como la masa, la distancia o el tiempo ayuda a describir correctamente lo que ocurre.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v2",
+      "statement": "¿Qué afirmación sobre empujar y halar es correcta?",
+      "context": "En una casa de Cúcuta, una familia mueve una mesa pesada: unos empujan por un lado y otros halan de una cuerda amarrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empujar no es una fuerza; solamente halar lo es",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empujar también es una fuerza; tanto empujar como halar pueden mover o deformar un cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Las fuerzas solo actúan sobre cuerpos que ya están en movimiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas también actúan sobre cuerpos quietos: empujar una caja detenida es lo que la pone a andar."
+        },
+        {
+          "letter": "C",
+          "text": "Empujar y halar son fuerzas que pueden mover un objeto en direcciones diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. Empujar y halar son dos formas de aplicar fuerza, y cada una puede mover el objeto en una dirección distinta."
+        },
+        {
+          "letter": "D",
+          "text": "Las fuerzas solo deforman los cuerpos, nunca los mueven",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas pueden deformar un cuerpo y también ponerlo en movimiento o detenerlo, según cómo se apliquen."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fuerzas se aplican de distintas maneras. Empujar aleja el cuerpo de quien aplica la fuerza, y halar lo acerca. Ambas son fuerzas y ambas pueden cambiar el estado de reposo o de movimiento de un objeto. La dirección de la fuerza influye en la dirección en que el cuerpo se mueve. Reconocer esto permite describir con precisión las acciones cotidianas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v3",
+      "statement": "El bloque se detiene antes en la tabla con lija. ¿Por qué?",
+      "context": "En el patio de un colegio de Duitama, un grupo desliza el mismo bloque por una tabla lisa y por una tabla cubierta de lija.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la superficie lisa produce más fricción que la rugosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al contrario: la superficie lisa tiene menos fricción, y por eso el bloque se desliza más lejos en ella."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la superficie rugosa produce más fricción y frena más el bloque",
+          "is_correct": true,
+          "feedback": "Correcto. La lija es rugosa y genera más fricción, que se opone al movimiento y detiene el bloque más pronto."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la fricción no depende del tipo de superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción sí depende de la superficie: cuanto más rugosa es, mayor es la fuerza que frena el objeto."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la lija empuja el bloque hacia adelante y lo detiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción se opone al movimiento, no empuja hacia adelante; por eso el bloque se frena en la lija."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La fricción es la fuerza que se opone al movimiento cuando dos superficies se rozan. Depende del tipo de superficie: cuanto más rugosa, mayor es la fricción y más rápido se frena el objeto. Por eso un bloque se desliza más lejos sobre una tabla lisa que sobre una cubierta de lija. Comprender la fricción explica por qué a veces conviene alisar o engrasar una superficie.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v4",
+      "statement": "¿Cuál es la velocidad del ciclista?",
+      "context": "En una ciclovía de Bogotá, un ciclista recorre 60 kilómetros en 3 horas manteniendo una velocidad constante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "180 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado sale de multiplicar 60 por 3; la velocidad se calcula dividiendo la distancia entre el tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "3 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese valor es el tiempo en horas, no la velocidad; hay que dividir los 60 km entre las 3 horas."
+        },
+        {
+          "letter": "C",
+          "text": "63 km/h",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese resultado sale de sumar 60 más 3; la velocidad se obtiene dividiendo, no sumando, las dos cantidades."
+        },
+        {
+          "letter": "D",
+          "text": "20 km/h, porque se divide la distancia entre el tiempo: 60 ÷ 3 = 20",
+          "is_correct": true,
+          "feedback": "Correcto. La velocidad se calcula como distancia dividida entre tiempo, y 60 km ÷ 3 h = 20 km/h."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La velocidad indica qué tan rápido se mueve un cuerpo y se calcula dividiendo la distancia recorrida entre el tiempo empleado. Si un ciclista recorre 60 kilómetros en 3 horas, su velocidad es 60 ÷ 3 = 20 kilómetros por hora. Este cálculo permite comparar movimientos y predecir cuánto tardará un recorrido. Es importante usar las unidades correctas y no confundir la velocidad con la distancia o el tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v5",
+      "statement": "La pelota cae primero porque el papel se frena con el aire. ¿Qué fuerza hace caer ambos objetos?",
+      "context": "En un edificio de Pereira, un niño deja caer una pelota y una hoja de papel desde la misma altura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La gravedad, que atrae los cuerpos hacia el centro de la Tierra",
+          "is_correct": true,
+          "feedback": "Correcto. La gravedad es la fuerza que atrae todos los cuerpos hacia el centro de la Tierra, y por eso ambos caen."
+        },
+        {
+          "letter": "B",
+          "text": "El magnetismo, que atrae todos los objetos metálicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El magnetismo solo actúa sobre algunos metales; la pelota y el papel no son atraídos por un imán."
+        },
+        {
+          "letter": "C",
+          "text": "La fricción del aire, que empuja los cuerpos hacia el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fricción del aire se opone al movimiento y frena, no empuja hacia abajo; la fuerza que atrae es la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "La fuerza del viento, que sopla siempre hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no sopla siempre hacia abajo; la fuerza que hace caer los cuerpos es la gravedad, no el viento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La gravedad es la fuerza que atrae todos los cuerpos hacia el centro de la Tierra. Gracias a ella, una pelota o una hoja caen cuando se sueltan. La diferencia en el tiempo de caída no se debe a que la gravedad actúe solo sobre uno, sino a que el aire frena más al papel por su forma. Comprender la gravedad explica por qué los objetos siempre caen hacia el suelo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué los pasajeros se van hacia adelante al frenar?",
+      "context": "En una vía de Barranquilla, un bus frena de repente y los pasajeros sienten que se van hacia adelante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el bus los empuja con una fuerza invisible hacia adelante",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bus frena, no empuja hacia adelante; lo que ocurre es que los pasajeros tienden a seguir moviéndose."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los cuerpos tienden a seguir en movimiento y el bus frena antes que ellos",
+          "is_correct": true,
+          "feedback": "Correcto. Por inercia, los pasajeros continúan moviéndose aunque el bus frene, y por eso se van hacia adelante."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la gravedad cambia de dirección cuando el bus frena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La gravedad sigue apuntando hacia abajo; el movimiento hacia adelante se debe a que el cuerpo tiende a seguir en movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire dentro del bus se mueve hacia adelante y los empuja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no es la causa principal; la sensación se explica porque los pasajeros siguen moviéndose al frenar el bus."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los cuerpos tienden a mantener su estado de movimiento o de reposo, y esa propiedad se llama inercia. Cuando un bus frena, los pasajeros que iban en movimiento tienden a seguir avanzando, y por eso se sienten impulsados hacia adelante. Lo mismo ocurre al arrancar, cuando el cuerpo tiende a quedarse atrás. Entender la inercia explica por qué es tan importante usar el cinturón de seguridad.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v7",
+      "statement": "La pelota casi no se mueve. ¿Cuál es la mejor explicación?",
+      "context": "En un partido de fútbol en Manizales, dos niños empujan una pelota al mismo tiempo, cada uno desde un lado, con la misma fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las fuerzas desaparecen cuando se aplican al mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las fuerzas no desaparecen; siguen actuando, pero al ser opuestas se equilibran entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "La pelota pesa menos y por eso se queda quieta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no es la causa aquí; la pelota no se mueve porque las dos fuerzas opuestas se equilibran."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos fuerzas son opuestas y se equilibran, por eso la pelota no cambia de movimiento",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando dos fuerzas de igual tamaño actúan en sentidos opuestos, se anulan y el cuerpo no cambia su movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La pelota se mueve solo si una fuerza es más grande, así las dos sean iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las fuerzas son iguales y opuestas, no se mueve; para moverla, una de las dos debe ser mayor que la otra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando sobre un cuerpo actúan dos fuerzas de igual tamaño pero en sentidos opuestos, se dice que las fuerzas están equilibradas. En ese caso, el cuerpo no cambia su estado de movimiento y permanece quieto o sigue a velocidad constante. Si una fuerza es mayor que la otra, el cuerpo se mueve hacia donde apunta la fuerza mayor. Analizar el equilibrio de fuerzas permite explicar muchas situaciones cotidianas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál experimento responde mejor a esa pregunta?",
+      "context": "En un colegio de Florencia, un equipo quiere averiguar cómo cambia la fricción según el tipo de superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Medir cuánto pesa un bloque con una balanza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pesar el bloque mide su masa, no la fricción; el experimento no compara superficies ni mide el efecto del roce."
+        },
+        {
+          "letter": "B",
+          "text": "Empujar el bloque una sola vez sobre una mesa y anotar lo que pasa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con una sola superficie y una sola prueba no se puede comparar cómo cambia la fricción entre superficies diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar bloques de distintos colores deslizándose sobre la misma superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del bloque no afecta la fricción; para compararla hay que variar la superficie, no el color del objeto."
+        },
+        {
+          "letter": "D",
+          "text": "Deslizar el mismo bloque con la misma fuerza por varias superficies y medir cuánto avanza en cada una",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar solo la superficie y medir la distancia recorrida, se compara directamente cómo influye cada tipo de superficie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un experimento controlado cambia una sola condición a la vez para saber cuál es su efecto. Para estudiar la fricción, conviene usar el mismo bloque, la misma fuerza y varias superficies, y medir cuánto avanza en cada una. Así se comparan los resultados sin confundir el efecto de otras variables. Cambiar el color del bloque o pesar sin deslizar no responde a la pregunta planteada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W07-la-fuerza-y-el-movimiento-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

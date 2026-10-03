@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v1",
+      "statement": "Lee el texto informativo.\n\n\"Para preparar chocolate en casa se necesita cacao en polvo, azúcar y leche. Primero se mezcla el cacao con el azúcar. Luego se agrega la leche despacio mientras se revuelve con una cuchara de madera. El chocolate queda listo cuando ya no se ven grumos.\"\n\nSegún el texto, ¿con qué se mezcla el cacao y el azúcar?",
+      "context": "Ficha informativa sobre la preparación de chocolate.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con las manos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato dice que se revuelve con cuchara, así que el cacao y el azúcar no se mezclan con las manos."
+        },
+        {
+          "letter": "B",
+          "text": "Con un vaso de cristal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca menciona un vaso de cristal; la única herramienta nombrada para revolver es la cuchara de madera."
+        },
+        {
+          "letter": "C",
+          "text": "Con una cuchara de madera",
+          "is_correct": true,
+          "feedback": "Correcto. La última oración dice que se revuelve \"con una cuchara de madera\", así que esa es la herramienta que se usa para mezclar."
+        },
+        {
+          "letter": "D",
+          "text": "Con una licuadora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La licuadora no aparece en ningún paso del texto, que describe una mezcla hecha poco a poco con cuchara."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un texto informativo, cada paso de un proceso se apoya en un verbo y en un objeto concreto. Cuando el texto dice \"se revuelve con una cuchara de madera\", esa es la respuesta literal a la pregunta. Reconocer el instrumento que el texto nombra evita inventar utensilios. Leer los pasos uno por uno es la base para seguir bien cualquier procedimiento escrito.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v2",
+      "statement": "Lee el texto informativo.\n\n\"El mono aullador vive en zonas de la Amazonía colombiana. Come hojas tiernas, frutos y flores. Durante el día descansa en las ramas altas y se mueve poco. Cuando oscurece, empieza a hacer ruidos fuertes que se oyen a varios kilómetros.\"\n\n¿De qué se alimenta el mono aullador?",
+      "context": "Ficha informativa sobre un animal de la Amazonía colombiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De semillas y raíces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las semillas y las raíces no aparecen en el texto, que describe una comida de hojas, frutos y flores."
+        },
+        {
+          "letter": "B",
+          "text": "De peces del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mono está en las ramas altas y el texto nunca dice que coma peces; su alimento está escrito en la segunda oración."
+        },
+        {
+          "letter": "C",
+          "text": "De insectos y carne",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona insectos ni carne; su comida son hojas tiernas, frutos y flores."
+        },
+        {
+          "letter": "D",
+          "text": "De hojas tiernas, frutos y flores\n  \nntación. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda oración dice que come hojas tiernas, frutos y flores, así que esa es su alimentación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos informativos responden preguntas de hecho: qué come, dónde vive, cómo se hace. Por eso basta con localizar la oración que contiene el dato buscado y leerla completa. Un lector entrenado distingue entre lo que el texto afirma y lo que él imagina que come un animal. Esa disciplina evita completar la ficha con suposiciones propias.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v3",
+      "statement": "Lee el texto informativo.\n\n\"El agua de lluvia que cae sobre el Nevado del Ruiz se recoge en los cauces. Durante muchos años esa agua ha llenado las lagunas. Cuando el terreno se mueve, el agua se desplaza y baja por los cauces. Este proceso se llama aluvionamiento.\"\n\nSegún el texto, ¿qué nombre recibe el proceso por el que el agua baja por los cauces después de que el terren",
+      "context": "Ficha informativa sobre un proceso natural de la cordillera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Evaporación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evaporación es cuando el agua sube a la atmósfera por el calor, y el texto describe lo contrario: agua que baja por los cauces."
+        },
+        {
+          "letter": "B",
+          "text": "Aluvionamiento",
+          "is_correct": true,
+          "feedback": "Correcto. La última oración dice \"Este proceso se llama aluvionamiento\", así que ese es el nombre del proceso descrito."
+        },
+        {
+          "letter": "C",
+          "text": "Filtración",
+          "is_correct": false,
+          "feedback": "Incorrecto. La filtración no aparece en el texto ni corresponde a lo que se cuenta; el nombre que el propio texto da es aluvionamiento."
+        },
+        {
+          "letter": "D",
+          "text": "Precipitación\n  \nes tiene otro nombre. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La precipitación es la lluvia que cae sobre el nevado, un paso anterior; el proceso de bajar por los cauces tiene otro nombre."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los textos informativos suelen definir sus términos principales al final del párrafo. Cuando el texto dice \"este proceso se llama así\", esa frase es la que entrega el nombre buscado. Reconocer que una palabra es una definición evita confundirla con el fenómeno que se menciona antes. Esa estrategia sirve para leer textos de ciencia, de salud y de medio ambiente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v4",
+      "statement": "Lee el texto informativo.\n\n\"Para sembrar una huerta escolar en Bogotá se siguen cuatro pasos. Primero se escoge un terreno que reciba sol. Segundo se prepara el suelo con una pala. Tercero se siembran las semillas a dos centímetros de profundidad. Cuarto se riega sin encharcar la tierra.\"\n\nSegún el texto, ¿en qué",
+      "context": "Ficha informativa con la información ordenada en pasos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el segundo paso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El segundo paso es preparar el suelo con una pala, no regar, así que ese dato no corresponde."
+        },
+        {
+          "letter": "B",
+          "text": "En el primer paso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El primer paso es escoger el terreno que reciba sol; el riego está claramente en el cuarto."
+        },
+        {
+          "letter": "C",
+          "text": "En el cuarto paso",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice \"Cuarto se riega sin encharcar la tierra\", así que el riego corresponde al cuarto de los cuatro pasos."
+        },
+        {
+          "letter": "D",
+          "text": "En el tercer paso\n  \nel riego viene después de sembrar. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tercer paso es sembrar las semillas a dos centímetros de profundidad; el riego viene después de sembrar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto informativo ordena información, usa señales de enumeración como \"primero\", \"segundo\", \"tercero\" y \"cuarto\". Estas palabras ayudan a ubicar cada dato en su lugar. Reconocer el orden permite responder preguntas sobre un paso concreto sin perder el hilo. Esa misma estructura aparece en recetas, en manuales y en las instrucciones de un juego.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v5",
+      "statement": "Lee el texto informativo.\n\n\"La madera de un árbol está formada por capas. La capa de afuera se llama corteza. Debajo está la savia, que lleva el agua y los minerales desde las raíces hasta las hojas. La parte de adentro, más dura, se llama duramen.\"\n\nSegú",
+      "context": "Ficha informativa sobre las partes de un árbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para transportar el agua y los minerales desde las raíces hasta las hojas",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que la savia \"lleva el agua y los minerales desde las raíces hasta las hojas\", así que esa es su función."
+        },
+        {
+          "letter": "B",
+          "text": "Para darle color verde al árbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que la savia dé color verde; su función escrita es llevar agua y minerales, que es otra cosa."
+        },
+        {
+          "letter": "C",
+          "text": "Para formar la corteza exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. La corteza es la capa de afuera, y el texto no dice que la savia la forme ni que tenga esa función."
+        },
+        {
+          "letter": "D",
+          "text": "Para endurecer el centro del tronco\n  \no algo que transporta, no como lo que endurece. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La parte dura del centro se llama duramen en el texto, y la savia está descrita como algo que transporta, no como lo que endurece."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto informativo explica además de describir. En este caso, la savia no solo aparece nombrada, sino que se explica lo que hace dentro del árbol. Comprender la función de cada parte ayuda a organizar mentalmente la información del texto. Reconocer el propósito de cada elemento es lo que convierte un dato suelto en conocimiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v6",
+      "statement": "Lee el texto informativo.\n\n\"La luna llena sale al atardecer y se ve mejor cuando no hay nubes. Por eso, en muchas regiones del país la gente la observa de noche. Cuando está llena, su luz ilumina el paisaje y permite ver mejor las calles.\"\n\n¿Qué puede deducirse del texto s",
+      "context": "Deducción a partir de la hora y el lugar descritos en un texto informativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al mediodía, porque la luz del sol hace brillar la superficie",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto explica que la luz de la luna llena ilumina el paisaje, así que observarla al mediodía no es lo que indica."
+        },
+        {
+          "letter": "B",
+          "text": "Cualquier hora sirve igual porque la luz es la misma",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que la luna llena se ve mejor al atardecer y sin nubes, así que el momento sí importa."
+        },
+        {
+          "letter": "C",
+          "text": "A la mañana, cuando sale el sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sitúa la salida de la luna llena al atardecer y la observación de noche, no a la mañana con luz del sol."
+        },
+        {
+          "letter": "D",
+          "text": "Por la noche, al atardecer, cuando el cielo está despejado\n  \n la gente la observa de noche: de ahí se deduce ese momento. -->",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que sale al atardecer, que se ve mejor sin nubes y que la gente la observa de noche: de ahí se deduce ese momento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Deducir es unir dos o más datos del texto para llegar a una conclusión que no está escrita de forma literal. Aquí, salir al atardecer, verse mejor sin nubes y observarse de noche se combinan en una sola conclusión. Reconocer cuándo un dato es una pista y cuándo es la respuesta es una habilidad de lectura inferencial. Esa lógica también se usa en textos de salud, de seguridad y de normas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v7",
+      "statement": "Lee el texto informativo.\n\n\"El cusco es un ave que vive en la cordillera. Anida en los riscos. La hembra pone dos huevos. El polluelo sale del huevo y espera dos semanas en el nido hasta que puede volar.\"\n\nUn compañero afirma: \"Según el texto, los cuscos siempre anidan en los árboles de los bos",
+      "context": "Detección de un dato que contradice lo que dice el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque los riscos son una parte del bosque",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que los riscos formen parte de un bosque; describe el risco como el lugar donde anida y nada más."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque el texto dice que los cuscos anidan en los riscos y no menciona bosques de tierra baja",
+          "is_correct": true,
+          "feedback": "Correcto. La segunda oración dice que el cusco anida en los riscos, y los bosques de tierra baja no aparecen en el texto, así que la afirmación lo contradice."
+        },
+        {
+          "letter": "C",
+          "text": "Es parcialmente correcta, porque el polluelo aprende a volar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el polluelo vuele después de dos semanas no dice nada sobre dónde anidan los adultos, así que no respalda la afirmación."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque el texto habla de la cordillera\n  \nneral no autoriza a inventar un tipo de bosque que el texto nunca nombra. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar la cordillera como zona general no autoriza a inventar un tipo de bosque que el texto nunca nombra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un lector crítico revisa si cada palabra de una afirmación tiene respaldo en el texto. Aquí, el lugar del nido está escrito de manera clara, y la afirmación lo cambia por otro. Detectar el cambio exacto es lo que permite calificar la afirmación como incorrecta. Un lector evaluador no acepta que un dato general, como el nombre de una región, sustituya a un dato específico del texto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle-v8",
+      "statement": "Lee el texto informativo.\n\n\"El jaguar es un felino que vive en zonas selváticas del país. Caza cuando hay poca luz. Su mancha no es negra, es un tono más oscuro que el fondo de su pelaje. Se reproduce pocas",
+      "context": "Evaluación de la falta de precisión de un dato en un texto informativo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es claro, porque \"pocas veces\" significa una vez al año",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Pocas veces\" no equivale a una vez al año; el texto no da esa cantidad, y ahí está justamente la falta de claridad."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecto, porque ningún animal se reproduce pocas veces al año",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase no es falsa en sí misma; lo que falta es precisión en la cantidad y en el momento, no la veracidad del dato."
+        },
+        {
+          "letter": "C",
+          "text": "Es poco claro, porque no dice cuántas veces se reproduce al año ni en qué meses",
+          "is_correct": true,
+          "feedback": "Correcto. \"Pocas veces al año\" no da una cantidad ni un período concreto, así que el lector no puede saber con exactitud cuándo ocurre la reproducción."
+        },
+        {
+          "letter": "D",
+          "text": "Es innecesario, porque la reproducción no tiene relación con el felino\n  \nión sobre el animal; el problema es que está escrita de forma imprecisa, no que sobre. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La reproducción sí es información sobre el animal; el problema es que está escrita de forma imprecisa, no que sobre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la calidad de un texto informativo incluye preguntar si los datos son suficientemente precisos. Expresiones vagas como \"pocas veces\" o \"mucho\" no permiten aprovechar la información como debería. Un dato que obliga al lector a completar con suposiciones cumple peor su función. Exigir claridad en los números y en los tiempos es una forma de respetar a quien lee.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
