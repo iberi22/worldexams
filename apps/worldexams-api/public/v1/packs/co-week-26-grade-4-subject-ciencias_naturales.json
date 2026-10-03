@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T05:18:14.703Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v1",
+      "statement": "En una mina del Chocó, un trabajador separa del terreno pequeñas partículas brillantes y duras. ¿Qué nombre tienen esas partículas si son partes puras y sólidas de la tierra?",
+      "context": "En una mina del Chocó, un trabajador separa del terreno pequeñas partículas brillantes y duras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rocas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas son mezclas de varios minerales; una parte pura y sólida como la que describe el enunciado es un mineral."
+        },
+        {
+          "letter": "B",
+          "text": "Minerales",
+          "is_correct": true,
+          "feedback": "Correcto. Los minerales son sustancias puras, sólidas y naturales que forman parte de las rocas y tienen composición definida."
+        },
+        {
+          "letter": "C",
+          "text": "Suelos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suelo es una mezcla de tierra, aire, agua y materia orgánica, no una parte pura de la tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Arenas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena es una mezcla de granos de distintos minerales y de otros materiales, no una sustancia pura."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los minerales son sustancias naturales, puras y sólidas con una composición química definida. Por ejemplo, el quartz está hecho de sílice y el feldespato de otros elementos. Las rocas se forman por la unión de uno o varios minerales, por eso una roca no es una sustancia pura sino una mezcla. En los yacimientos del Chocó, el oro aparece asociado a minerales que los geólogos estudian para entender el terreno.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v2",
+      "statement": "Un bloque de granito muestra puntos de color blanco, rosado y negro al mismo tiempo. ¿Qué explica esa variedad de colores en una sola roca?",
+      "context": "En un museo de Bogotá, una vitrina muestra un bloque de granito con puntos blancos, rosados y negros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La roca es una mezcla de varios minerales, y cada uno refleja un color distinto de la luz",
+          "is_correct": true,
+          "feedback": "Correcto. Los granos de colores diferentes son minerales diferentes unidos en la misma roca de origen ígneo."
+        },
+        {
+          "letter": "B",
+          "text": "La roca es una sola sustancia que cambia de color con la luz del día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si fuera una sola sustancia, todos los granos se verían iguales; los colores distintos son la evidencia de la mezcla."
+        },
+        {
+          "letter": "C",
+          "text": "La roca se pintó de varios colores antes de secarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas naturales no se pintan; sus colores provienen de los minerales que las componen."
+        },
+        {
+          "letter": "D",
+          "text": "La roca tiene huecos internos que devuelven colores diferentes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los huecos no producen colores en una roca como el granito; la explicación está en los minerales que la forman."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una roca puede estar formada por uno o varios minerales, y cada mineral refleja la luz de manera distinta. Cuando varios minerales se unen al enfriarse una mezcla fundida, cada grano conserva su color y así aparecen manchas de tonos diferentes. Por eso el granito muestra feldespato blanco, feldespato rosado y quartz oscuro al mismo tiempo. Observar los granos de una roca es una forma sencilla de conocer su composición.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v3",
+      "statement": "Una profesora entrega pedazos de roca, un poco de arena, un clavo de hierro y un pedazo de madera. ¿Cuál es el mejor plan para distinguir cuál material es un mineral?",
+      "context": "En un colegio de Pasto, la profesora entrega a los estudiantes pedazos de roca, arena, madera y un clavo de hierro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pesar cada material y anotar cuál pesa menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso depende del volumen y de la densidad, y por sí solo no identifica a un mineral."
+        },
+        {
+          "letter": "B",
+          "text": "Acercar un imán a cada material y anotar cuál se pega",
+          "is_correct": false,
+          "feedback": "Incorrecto. La atracción magnética solo distingue a unos pocos minerales de hierro y no identifica a los demás."
+        },
+        {
+          "letter": "C",
+          "text": "Rascar cada material con la uña y anotar cuál se marca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dureza sirve para comparar minerales entre sí, pero no para distinguir un mineral de la roca que lo contiene."
+        },
+        {
+          "letter": "D",
+          "text": "Revisar si el material es sólido, natural y de composición definida, sin poder separarse en otras sustancias",
+          "is_correct": true,
+          "feedback": "Correcto. Esas son las características que definen un mineral: sólido, natural y de composición química definida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para reconocer un mineral hay que verificar sus propiedades características y no solo su aspecto. La arena está formada por muchos granos y por eso no es una sustancia pura; la madera es de origen vegetal y no es un mineral; el clavo de hierro es un metal elaborado y no un mineral en su estado natural. Solo el pedazo que es sólido, natural y de composición definida cumple las condiciones de un mineral.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v4",
+      "statement": "En la costa de Santa Marta, unas rocas formadas por arena compactada se desmoronan con el golpe de las olas. ¿Qué tipo de roca es y por qué se rompe con facilidad?",
+      "context": "En la costa de Santa Marta, las olas rompen contra unas rocas oscuras formadas por arena compactada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una roca ígnea, porque se formó al enfriarse la lava",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas ígneas se forman al enfriarse magma o lava muy caliente, no por compactación de arena."
+        },
+        {
+          "letter": "B",
+          "text": "Es una roca sedimentaria, porque sus granos de arena están pegados con un material débil",
+          "is_correct": true,
+          "feedback": "Correcto. La arena compactada forma una roca sedimentaria, y el agua separa con facilidad esos granos unidos."
+        },
+        {
+          "letter": "C",
+          "text": "Es una roca metamórfica, porque las olas la cambiaron de forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las olas desgastan la roca, pero no la transforman en metamórfica; ese cambio ocurre bajo calor y presión."
+        },
+        {
+          "letter": "D",
+          "text": "Es una roca magnética, porque las olas la atraen hacia la orilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las olas empujan el agua y no atraen rocas; ese enunciado mezcla el magnetismo con el movimiento del mar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las rocas sedimentarias se forman cuando se acumulan y se compactan sedimentos como arena, arcilla o restos de organismos. Los granos quedan pegados por un material que los une, pero ese pegamento es más débil que los granos de una roca ígnea. Por eso una roca de arena compactada se desmorona con el golpe continuo de las olas, mientras que una roca ígnea como el granito resiste mucho más.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v5",
+      "statement": "Un geólogo observa que una roca se enfrió muy despacio y quedó con cristales grandes y visibles. ¿Qué tipo de roca es y qué dice ese rasgo?",
+      "context": "En la cordillera Central, un geólogo compara una roca oscura con otra que tiene cristales grandes y brillantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una roca sedimentaria, y el enfriamiento lento dejó tiempo para formar cristales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas sedimentarias no se enfrían; se forman por acumulación y compactación de sedimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Es una roca metamórfica, y el enfriamiento lento cambió la composición del material",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rocas metamórficas cambian bajo calor y presión dentro de la tierra, no por enfriamiento lento."
+        },
+        {
+          "letter": "C",
+          "text": "Es una roca ígnea, y el enfriamiento lento dejó tiempo para que los cristales crecieran",
+          "is_correct": true,
+          "feedback": "Correcto. Si la roca fundida tardó mucho en enfriarse, los minerales tuvieron tiempo de formar cristales grandes."
+        },
+        {
+          "letter": "D",
+          "text": "Es una roca ígnea, y el enfriamiento rápido dejó tiempo para que los cristales crecieran",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enunciado dice que la roca se enfrió despacio; un enfriamiento rápido produce cristales pequeños."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La velocidad de enfriamiento de una roca fundida determina el tamaño de sus cristales. Cuando el magma se enfría lentamente en el interior de la tierra, los minerales tienen tiempo de crecer y forman cristales grandes que se ven a simple vista. Si el enfriamiento es rápido, como ocurre en la superficie, la roca queda con grano fino. Por eso el granito bien formado se usa en pisos y en construcciones que duran muchos años.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v6",
+      "statement": "En el valle del Magdalena, la erosión dejó a la vista una roca que antes estaba cubierta por otra. ¿Cómo se llama el cambio de una roca en una roca nueva por calor y presión?",
+      "context": "En el valle del Magdalena, una erosión profunda dejó al descubierto un contacto antiguo entre dos tipos de roca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fusión ocurre cuando una roca se derrite por calor intenso, no cuando se transforma sin derretirse."
+        },
+        {
+          "letter": "B",
+          "text": "Erosión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La erosión es el desgaste y el arrastre de material por el agua o el viento; no cambia la composición de la roca."
+        },
+        {
+          "letter": "C",
+          "text": "Sedimentación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sedimentación es la acumulación de partículas en el fondo de un río o un mar; tampoco transforma una roca."
+        },
+        {
+          "letter": "D",
+          "text": "Metamorfismo",
+          "is_correct": true,
+          "feedback": "Correcto. El metamorfismo es la transformación de una roca en otra por calor y presión, sin que llegue a fundirse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El metamorfismo ocurre cuando una roca cambia por la acción del calor y de la presión en el interior de la tierra, sin fundirse. Por ejemplo, la arena compactada puede transformarse en cuarcita y la caliza en mármol bajo esas condiciones. Las rocas que cambian así se llaman metamórficas. Reconocer este proceso ayuda a explicar por qué en el valle del Magdalena afloran rocas de distintos tipos y colores.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v7",
+      "statement": "Un equipo de Arauca documenta qué materiales usan las familias para construir sus casas. ¿Cuál de estos materiales es un ejemplo claro de roca de construcción?",
+      "context": "En un proyecto escolar de Arauca, un equipo documenta los materiales que usa su comunidad para construir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una mesa de madera pintada de blanco",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera proviene de un árbol y es un material de origen vegetal, no una roca."
+        },
+        {
+          "letter": "B",
+          "text": "Una baldosa hecha de arcilla cocida en un horno",
+          "is_correct": true,
+          "feedback": "Correcto. La arcilla cocida se vuelve dura y conserva su origen mineral, como las rocas que se usan para construir."
+        },
+        {
+          "letter": "C",
+          "text": "Una botella de vidrio vacía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio se fabrica a partir de sílice, pero es un producto elaborado y no una roca natural."
+        },
+        {
+          "letter": "D",
+          "text": "Un balde metálico de aluminio para la basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aluminio es un metal que se obtiene de un mineral, pero el balde ya no es una roca natural."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Al clasificar materiales hay que distinguir entre lo que es natural y lo que fue fabricado. La roca es un conjunto de minerales formado de manera natural. La arcilla cocida en un horno comparte ese origen mineral y por eso se parece a una roca en su uso, aunque su textura cambió por el calor. La madera, el vidrio y el aluminio de un balde tienen otros orígenes y no sirven como ejemplo de roca.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle-v8",
+      "statement": "Un equipo escolar del Huila recoge muestras y consulta fichas de referencia. ¿Cuál de estos procedimientos les da información más confiable sobre los minerales que presentan?",
+      "context": "En un municipio del Huila, un equipo escolar recoge muestras y consulta fichas sobre los minerales de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Romper el pedazo con un martillo y anotar si se hizo pedacitos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las rocas se pueden romper en pedazos; ese dato no dice nada sobre los minerales que contienen."
+        },
+        {
+          "letter": "B",
+          "text": "Pesar la muestra y anotar que pesa más que un palo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso depende del tamaño de la muestra y no identifica qué minerales hay dentro de ella."
+        },
+        {
+          "letter": "C",
+          "text": "Sumergir el pedazo en agua y anotar si se deshizo por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Casi ninguna roca se disuelve en agua, así que ese resultado no aporta información sobre su composición."
+        },
+        {
+          "letter": "D",
+          "text": "Comparar el color, el brillo y la dureza de la muestra con los de la ficha de referencia",
+          "is_correct": true,
+          "feedback": "Correcto. Esas tres propiedades son características de los minerales y permiten compararlos con una descripción conocida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Describir un mineral exige observar sus propiedades características: el color, el brillo, la dureza y la forma del cristal. Si el equipo anota esas características y las compara con las que aparecen en una ficha de referencia de minerales de la región, puede identificarlo con fundamento. Comparar en lugar de deducir por el peso o por lo que pasa en el agua convierte una impresión en un dato verificable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-4-2026-W26-las-rocas-y-los-minerales-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

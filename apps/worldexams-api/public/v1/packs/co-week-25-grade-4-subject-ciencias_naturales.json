@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-25-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T05:18:14.702Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué forma de energía permite que una estufa a leña caliente el arroz y las manos de quien cocina?",
+      "context": "En una finca de Boyacá, una familia cocina en una estufa a leña y siente el calor cerca de las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía luminosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía luminosa sirve para ver; el calor que siente la persona no viene de la luz."
+        },
+        {
+          "letter": "B",
+          "text": "La energía térmica",
+          "is_correct": true,
+          "feedback": "Correcto. La leña se quema y libera energía térmica, que calienta el aire, el arroz y las manos del cocinero."
+        },
+        {
+          "letter": "C",
+          "text": "La energía eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estufa funciona con leña y no está conectada a la red eléctrica, así que esa forma de energía no interviene."
+        },
+        {
+          "letter": "D",
+          "text": "La energía química de los alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los alimentos sí almacenan energía química, pero no son la fuente que calienta en esta estufa a leña."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía térmica se produce cuando la materia cambia o se quema y libera calor. En una estufa a leña, la madera contiene energía química que se libera al quemarse, y esa energía se convierte en calor que calienta la olla, el agua y el arroz. El calor que llega a las manos es energía térmica en movimiento. Comprender que el calor es una transferencia de energía ayuda a explicar por qué la olla caliente tarda en enfriarse.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v2",
+      "statement": "Una niña empuja un carrito con fuerza y siente que este se resiste al movimiento. ¿Qué forma de energía se opone al avance del carrito?",
+      "context": "En un parque de Medellín, una niña empuja un carrito con fuerza y siente resistencia en las manos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía nuclear",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía nuclear se libera en reacciones de los núcleos y no tiene relación con el carrito."
+        },
+        {
+          "letter": "B",
+          "text": "La energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía química está en el combustible o en los alimentos, no en la resistencia al movimiento del carrito."
+        },
+        {
+          "letter": "C",
+          "text": "La energía mecánica",
+          "is_correct": true,
+          "feedback": "Correcto. La energía mecánica está en el movimiento y en la fricción, y por eso el carrito ofrece resistencia al empujarlo."
+        },
+        {
+          "letter": "D",
+          "text": "La energía eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía eléctrica alimenta motores y bombillos; no es lo que se opone al avance de un carrito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía mecánica se relaciona con el movimiento y con las fuerzas que lo producen o lo frenan. Cuando empujamos un carrito, le entregamos energía mecánica para ponerlo en marcha. Al mismo tiempo, la fricción de las ruedas con el suelo disipa parte de esa energía, y por eso el carrito se resiste y termina deteniéndose sin que nadie lo empuje más.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v3",
+      "statement": "Un grupo de estudiantes quiere investigar qué ocurre con la energía cuando un péndulo se suelta desde una posición alta. ¿Cuál de estos materiales le sirve para la prueba?",
+      "context": "En una escuela de Neiva, un grupo de cuarto grado prepara un experimento sobre la energía para la feria de ciencias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una bola unida a una cuerda, una regla para medir la altura y un cronómetro",
+          "is_correct": true,
+          "feedback": "Correcto. La bola reproduce el péndulo, la regla mide la altura inicial y el cronómetro permite comparar el tiempo de oscilación."
+        },
+        {
+          "letter": "B",
+          "text": "Un ventilador pequeño para soplar la bola y medir cuánto empuja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ventilador sirve para medir una fuerza, no para observar cómo se comporta un péndulo en movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Una bolsa con agua fría para enfriar la bola antes de soltarla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfriar la bola no es necesario para observar la oscilación y solo agrega una variable que no se estudia."
+        },
+        {
+          "letter": "D",
+          "text": "Una ventana grande para que la bola se mueva al aire libre durante la prueba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire libre no es lo que se quiere medir; el montaje necesita una referencia de altura y un tiempo medido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen material de laboratorio sirve para reproducir el fenómeno y para medir las dos cosas que importan: la altura de partida y el tiempo de la oscilación. Una bola con cuerda reproduce el péndulo, la regla da la medida de la altura y el cronómetro registra el tiempo. Si además se anota la altura máxima y la distancia que la bola recorre, la explicación queda apoyada en datos y no en suposiciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v4",
+      "statement": "Un niño cubre con una servilleta la lámpara del techo y al poco tiempo la bombilla se fundió. ¿Qué explica lo ocurrido?",
+      "context": "En un apartamento de Bogotá, un niño cubre la lámpara del techo encendida con una servilleta de tela y la bombilla se daña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El papel estaba tan frío que congeló la bombilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El papel no estaba frío, y una temperatura baja nunca fundiría el filamento caliente de una bombilla."
+        },
+        {
+          "letter": "B",
+          "text": "El papel interrumpió la corriente hasta apagar la bombilla por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con la servilleta puesta la bombilla siguió encendida; no se apagó en ningún momento."
+        },
+        {
+          "letter": "C",
+          "text": "El papel absorbió la luz y por eso la bombilla se dañó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz no es lo que daña el filamento; el daño lo produce el calor acumulado bajo el papel."
+        },
+        {
+          "letter": "D",
+          "text": "La energía térmica se acumuló bajo el papel y alcanzó una temperatura muy alta",
+          "is_correct": true,
+          "feedback": "Correcto. El papel impide que el calor escape, la temperatura sube y el filamento de la bombilla llega a fundirse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La bombilla convierte la energía eléctrica en luz y en energía térmica. El filamento se pone muy caliente para producir luz, y casi todo el calor que saldría hacia afuera queda bloqueado por la tela. Entonces el aire queda atrapado en un espacio cerrado y caliente, la temperatura sube todavía más y el filamento se daña. Por eso no se debe cubrir una lámpara encendida, porque la tela también puede quemarse.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v5",
+      "statement": "En una finca de Córdoba, un molino de viento genera energía que por cable llega hasta una vereda lejana. ¿Qué formas de energía aparecen en esa cadena?",
+      "context": "En una finca de Córdoba, un molino de viento genera energía que por cable llega hasta una vereda lejana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo energía térmica, porque el generador se calienta con el Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El generador no funciona con el calor del Sol, sino con el giro producido por el viento."
+        },
+        {
+          "letter": "B",
+          "text": "Solo energía eléctrica, porque el viento y las aspas no producen energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento en movimiento sí aporta energía cinética y las aspas producen energía mecánica al girar."
+        },
+        {
+          "letter": "C",
+          "text": "Energía cinética del viento, energía mecánica de las aspas y energía eléctrica transmitida por el cable",
+          "is_correct": true,
+          "feedback": "Correcto. El viento mueve las aspas, esas aspas hacen girar el generador y la energía llega como electricidad por el cable."
+        },
+        {
+          "letter": "D",
+          "text": "Energía luminosa del Sol, energía química del carbón y energía nuclear del generador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un molino de viento no usa carbón ni energía nuclear; su fuente es el movimiento del aire."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La energía cambia de forma a lo largo de un proceso, aunque la cantidad total se conserva. En un molino de viento, el aire en movimiento aporta energía cinética, las aspas que giran tienen energía mecánica, y el generador convierte ese giro en energía eléctrica que se transporta por los cables. Nombrar cada forma y el momento en que aparece es lo que hace completa la explicación.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v6",
+      "statement": "En una clase de Tunja, cada estudiante recibe una bola de acero. ¿Cuál de estos planes investiga mejor cómo se transforma la energía en una bola que rueda?",
+      "context": "En una clase de ciencias de Tunja, la profesora entrega a cada estudiante una bola de acero, un hilo y una mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rodar la bola con distinta fuerza y medir solo cuánto tarda en detenerse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medir el tiempo sin registrar la altura inicial ni la distancia deja el resultado sin una explicación completa."
+        },
+        {
+          "letter": "B",
+          "text": "Soltar la bola desde una altura conocida y medir cuánto avanza al llegar al suelo y qué tan lejos rueda después",
+          "is_correct": true,
+          "feedback": "Correcto. Al soltar desde una altura conocida se sabe la energía de partida, y al medir el avance y el rodar se ve la transformación."
+        },
+        {
+          "letter": "C",
+          "text": "Comparar la distancia antes y después de pasar por un tramo con arena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena frena la bola por fricción, pero sin medir la altura inicial no se sabe qué energía se estaba evaluando."
+        },
+        {
+          "letter": "D",
+          "text": "Pegar la bola a un imán y tratar de moverla con la mano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imán mantiene la bola quieta y eso mide una fuerza magnética, no la transformación de energía de una rueda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para estudiar la energía de una bola que rueda hay que conocer su punto de partida y medir lo que ocurre después. Si la bola se suelta desde una altura conocida, al tocar el suelo tiene la energía que se convirtió al caer; si luego avanza y rueda, esa energía sigue transformándose y se disipa por la fricción. Registrar la altura inicial y la distancia final permite describir toda la secuencia con datos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v7",
+      "statement": "Una familia anota cuántos días dejó encendido el televisor y compara esa cifra con lo que registró en el medidor. ¿Qué relación Investigable muestra mejor ese dato?",
+      "context": "En un municipio del Meta, una familia revisa el recibo de la luz y anota cuántas horas deja encendido el televisor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Si el televisor está encendido más tiempo, el consumo eléctrico baja, porque la energía se gasta sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía eléctrica no se gasta sola; el medidor registra cuánta energía se usó en el tiempo que el aparato estuvo encendido."
+        },
+        {
+          "letter": "B",
+          "text": "Si el televisor está encendido más tiempo, el consumo eléctrico aumenta, porque las dos cosas cambian juntas",
+          "is_correct": true,
+          "feedback": "Correcto. Al registrar la energía usada y el tiempo de uso, se observa que el consumo total depende de las horas de funcionamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Si el televisor está encendido más tiempo, el consumo eléctrico no cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin importar el uso diario, un aparato encendido más tiempo siempre registra más energía en el medidor."
+        },
+        {
+          "letter": "D",
+          "text": "Si el televisor está encendido más tiempo, el consumo eléctrico baja, porque el aparato se enfría",
+          "is_correct": false,
+          "feedback": "Incorrecto. El enfriamiento de un aparato no reduce la energía que consume mientras está encendido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un medidor de consumo registra la energía eléctrica usada en un periodo de tiempo. Si se anota el tiempo que estuvo encendido un bombillo y el de un televisor, y después se comparan las dos lecturas, se observa que el consumo depende de las horas de uso. Esa relación permite decidir con datos cómo reducir el gasto sin incómodos para la vida diaria.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle-v8",
+      "statement": "Una estudiante afirma que la Luna llena ilumina tanto como el Sol porque las dos son esferas del espacio. ¿Cuál afirmación explica mejor por qué esa comparación es incorrecta?",
+      "context": "En la costa de Santa Marta, una estudiante compara el resplandor del Sol al mediodía con la Luna llena de la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La Luna es un planeta que gira más rápido que el Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Luna es un satélite natural de la Tierra, no un planeta, y su brillo no depende de su tamaño."
+        },
+        {
+          "letter": "B",
+          "text": "La Luna es mucho más lejana que el Sol, y por eso brilla menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia ayuda a reducir la luz que llega, pero la razón principal es que la Luna no emite luz propia."
+        },
+        {
+          "letter": "C",
+          "text": "La Luna no tiene luz propia, solo refleja la luz del Sol que recibe",
+          "is_correct": true,
+          "feedback": "Correcto. Como la Luna no emite luz, lo que vemos es un reflejo y por eso la luz que llega es mucho más débil."
+        },
+        {
+          "letter": "D",
+          "text": "La Luna es mucho más pequeña que el Sol, por eso brilla más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la Luna sea más pequeña es cierto, pero eso no hace que brille más, porque no tiene luz propia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Luna es un satélite natural que no produce luz propia. Lo que vemos en su superficie es la luz del Sol que rebota en ella. Como solo devuelve una parte pequeña de esa luz y además está mucho más lejos que el Sol, la luz que llega a la Tierra desde la Luna es muchísimo más débil. Reconocer qué cuerpos emiten luz y cuáles solo la reflejan evita comparaciones falsas entre el Sol y la Luna.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-4-2026-W25-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T05:18:14.702Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v1",
+      "statement": "¿De qué tipo de material está hecho un imán de barra, como los que sujetan papeles en la pizarra?",
+      "context": "En una tienda de Villavicencio, un vendedor junta el papel del recibo a una tablilla magnética de color distinto al papel.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De madera, porque la madera atrae los objetos de metal",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera no tiene propiedad magnética; por eso un objeto de madera no sujetaría ningún papel."
+        },
+        {
+          "letter": "B",
+          "text": "De plástico, porque el plástico se puede magnetizar con un imán",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no es un material magnético y no se convierte en imán al frotarlo con otro imán."
+        },
+        {
+          "letter": "C",
+          "text": "De vidrio, porque el vidrio limpio atrae el metal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio es un material no magnético, por eso un objeto de vidrio no se pega a un imán."
+        },
+        {
+          "letter": "D",
+          "text": "De un material que se magnetiza, como el hierro o sus aleaciones",
+          "is_correct": true,
+          "feedback": "Correcto. Los imanes se hacen de hierro o de aleaciones como el níquel y el cobalto, materiales que sí se magnetizan."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un imán es un objeto capaz de atraer ciertos metales, sobre todo hierro, níquel y cobalto. Esos materiales tienen la propiedad de magnetizarse: sus partículas internas se ordenan y quedan polarizadas, y eso produce dos extremos, el norte y el sur. Esa es la razón por la que un imán de barra hecho con metal magnético puede sostener los papeles de la pizarra o la tapa de una olla.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v2",
+      "statement": "Dos imanes de barra con el mismo extremo hacia abajo se rechazan cuando se acercan. ¿Qué explica ese comportamiento?",
+      "context": "En un taller de Armenia, un niño acerca dos imanes de barra con el mismo extremo hacia abajo y siente que se separan con fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos extremos que se enfrentan son de distinto tipo de polo y se atraen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polos distintos se atraen y no se rechazan, de modo que esa opción no corresponde a lo observado."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos extremos que se enfrentan son del mismo tipo de polo y se repelen",
+          "is_correct": true,
+          "feedback": "Correcto. Los polos iguales se rechazan entre sí, por eso al acercar dos extremos iguales los imanes se separan con fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "El metal de los imanes se calienta al acercarlos y por eso se separan",
+          "is_correct": false,
+          "feedback": "Incorrecto. A temperatura normal el rechazo se debe a la acción de los polos, no a un cambio de temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Los imanes se rechazan porque son muy pesados",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no interviene: dos imanes pequeños y ligeros también se repelen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Todo imán tiene dos polos, norte y sur. La regla es sencilla: los polos iguales se rechazan y los polos distintos se atraen. Al colocar dos imanes de barra con los mismos extremos uno frente al otro, esos extremos son del mismo tipo de polo y por eso aparece una fuerza de repulsión que los separa. Si se voltea uno de los imanes, el extremo norte queda frente al sur y entonces sí se atraen.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v3",
+      "statement": "Una madre intenta recoger con un imán un clavo de hierro caído en el suelo. ¿Cuál hecho demuestra mejor que ese objeto es de verdad un imán?",
+      "context": "En una cocina de Pereira, una madre intenta recoger con un imán un clavo que se cayó al suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El clavo se levanta y queda pegado al imán al acercarlo",
+          "is_correct": true,
+          "feedback": "Correcto. Solo un imán real atrae y sostiene un clavo de hierro; ese resultado es la evidencia directa de la propiedad magnética."
+        },
+        {
+          "letter": "B",
+          "text": "El imán tiene una forma alargada y brillante",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma y el brillo son características externas; muchos objetos con esa forma no atraen nada."
+        },
+        {
+          "letter": "C",
+          "text": "El imán pesa más que una moneda del mismo tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso depende del material y del volumen, no de que el objeto tenga la propiedad magnética."
+        },
+        {
+          "letter": "D",
+          "text": "El imán está hecho de un metal gris y brillante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Otros metales grises y brillantes, como el aluminio o el cobre, no son magnéticos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para demostrar una propiedad hay que mostrar su efecto y no su apariencia. La forma, el color y el peso no distinguen a un imán de otros objetos metálicos, porque muchos los tienen. Lo que sí es propio de un imán es atraer otro material magnético y sostenerlo. Por eso la prueba correcta consiste en acercar el clavo y observar si queda pegado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v4",
+      "statement": "Una brújula colgada de un hilo gira sola y siempre queda señalando el norte. ¿Qué propiedad del imán que tiene dentro explica ese comportamiento?",
+      "context": "En Popayán, una brújula cuelga de un cordón y siempre termina orientada hacia el norte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su peso, porque el peso lo empuja hacia el norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso solo hace que la brújula tienda a colgar hacia abajo, no que gire hacia una dirección cardinal."
+        },
+        {
+          "letter": "B",
+          "text": "Su longitud, porque mientras más larga sea más lejos llega el norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud del cuerpo de la brújula no explica la orientación de la aguja que está dentro."
+        },
+        {
+          "letter": "C",
+          "text": "Es una aguja magnética, atraída por el campo magnético de la Tierra",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra tiene un campo magnético y la aguja imantada se alinea con él, por eso señala el norte."
+        },
+        {
+          "letter": "D",
+          "text": "Su dureza, porque la superficie dura marca la dirección del norte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dureza del material no tiene relación con la alineación de la aguja dentro de la brújula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Tierra se comporta como un imán gigante y genera un campo magnético en su superficie. La aguja de una brújula es un pequeño imán que puede girar libremente, y por eso se alinea con ese campo: un extremo apunta hacia el norte geográfico y el otro hacia el sur. Este principio se usa en mapas, en la navegación marítima y en algunos objetos que llevan una brújula incluida.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v5",
+      "statement": "En Girardot, una madre envuelve un imán con una bolsa plástica y nota que el clavo ya no se pega. ¿Qué explica mejor ese cambio?",
+      "context": "En una casa de campo de Girardot, una madre envuelve un imán con una bolsa plástica y nota que el clavo ya no se pega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bolsa cambia los polos norte y sur del imán",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los polos del imán no cambian por una bolsa; lo que cambia es si el campo magnético puede llegar al clavo."
+        },
+        {
+          "letter": "B",
+          "text": "La bolsa es un material no magnético que se interpone y evita que el imán llegue al clavo",
+          "is_correct": true,
+          "feedback": "Correcto. La bolsa se coloca entre el imán y el clavo, y ese material deja pasar muy poca parte del campo magnético."
+        },
+        {
+          "letter": "C",
+          "text": "La bolsa convierte el clavo de hierro en un objeto de madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plástico no cambia el clavo de hierro a otro material, y una bolsa no puede hacer eso."
+        },
+        {
+          "letter": "D",
+          "text": "La bolsa aumenta la distancia entre el imán y la mano del niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bolsa no separa la mano del imán; lo que interpone es una capa de material no magnético."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La atracción magnética disminuye cuando entre el imán y el objeto metálico hay otro material que no conduce el campo magnético, como el plástico o la madera. Esa capa actúa como una barrera: la fuerza magnética sigue existiendo, pero debilitada. Por eso un imán envuelto en plástico todavía puede levantar un clavo si se le quita la capa que lo separa. Conocer este límite es útil para guardar y transportar imanes sin que se peguen entre sí.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v6",
+      "statement": "Un grupo de cuarto grado quiere comprobar qué materiales se pegan a un imán. ¿Cuál de estos planes les da un resultado válido?",
+      "context": "En un colegio de Sincelejo, un grupo de cuarto grado prepara una maqueta con imanes pequeños pegados en una lámina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aproximar el imán a un solo objeto y decir que ese material representa a todos los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo objeto no permite generalizar; el resultado de un metal no dice nada sobre el papel o la madera."
+        },
+        {
+          "letter": "B",
+          "text": "Aproximar el imán a varios objetos, registrar cuáles se pegan y cuáles no, y repetir la prueba dos veces",
+          "is_correct": true,
+          "feedback": "Correcto. Usar la misma prueba con varios materiales y repetirla permite comparar resultados y sacar una conclusión firme."
+        },
+        {
+          "letter": "C",
+          "text": "Acercar el imán a cada objeto con las manos para sentir cuánto jalan",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sensibilidad de la mano varía mucho entre personas, así que ese resultado no es confiable como prueba."
+        },
+        {
+          "letter": "D",
+          "text": "Poner todos los objetos en una caja cerrada con el imán y ver qué suenan al mover la caja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sonido de un objeto golpeado no indica si fue atraído por el imán, y la caja impide ver la evidencia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una prueba válida necesita una fuente de evidencia clara, la misma forma de medición y más de un caso. Aproximar el imán a objetos de metal, madera, plástico y tela, y anotar cuáles quedan pegados, da información directa y comparable. Repetir la prueba descarta que un resultado haya sido casualidad. Con una tabla sencilla, el grupo puede afirmar con confianza qué materiales son atraídos por el imán.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v7",
+      "statement": "Un vecino ofrece un imán para recoger los fragmentos de un celular roto. ¿Cuál de estas afirmaciones le explica mejor por qué no le va a servir?",
+      "context": "En un apartamento de Bogotá, un celular cae al suelo y la pantalla se rompe; un vecino ofrece un imán para recoger los fragmentos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El imán es muy pequeño para recoger los fragmentos del celular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño del imán no es el punto, porque los fragmentos del celular no son de un material que él pueda atraer."
+        },
+        {
+          "letter": "B",
+          "text": "El imán solo funciona con la madera, y el celular no es de madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los imanes atraen metales y no madera; esa explicación está al revés de lo que ocurre en realidad."
+        },
+        {
+          "letter": "C",
+          "text": "El celular tiene una pantalla de vidrio, y el vidrio es muy duro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dureza del vidrio no es lo que impide la atracción magnética; el material del celular no es magnético."
+        },
+        {
+          "letter": "D",
+          "text": "Los fragmentos del celular son de materiales que no son atraídos por el imán",
+          "is_correct": true,
+          "feedback": "Correcto. La carcasa, los circuitos y el vidrio no son materiales magnéticos, así que el imán no puede recogerlos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El imán solo atrae materiales ferromagnéticos, es decir, metales como el hierro, el níquel y el cobalto. Las partes de un celular están hechas de aluminio, cobre, plástico, vidrio y circuitos de cobre. Ninguno de esos materiales es atraído por un imán común, por eso los fragmentos no se quedan pegados. Conocer los límites de la propiedad magnética evita esperar de un imán resultados que nunca va a dar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle-v8",
+      "statement": "Un niño en Cúcuta envuelve un imán en una lámina de plástico y después ya no logra pegarlo a la tapa metálica de su estuche. ¿Qué explicación es la correcta?",
+      "context": "En Cúcuta, un niño envuelve un imán en una lámina de plástico y después ya no logra pegarlo en la tapa metálica de su estuche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tapa metálica dejó de ser magnética cuando el niño la tocó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lámina de plástico no cambia las propiedades de la tapa metálica; el metal sigue siendo el mismo."
+        },
+        {
+          "letter": "B",
+          "text": "La lámina de plástico destruyó el imán y por eso ya no atrae nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lámina es delgada y no daña el imán; lo que hace es impedir que el campo magnético llegue a la tapa."
+        },
+        {
+          "letter": "C",
+          "text": "La tapa metálica está demasiado lejos del imán para que la atracción se note",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lámina es muy delgada y apenas aumenta la separación; el problema principal no es la distancia."
+        },
+        {
+          "letter": "D",
+          "text": "El plástico se interpuso y el campo magnético no alcanza la tapa metálica",
+          "is_correct": true,
+          "feedback": "Correcto. La capa de plástico deja pasar muy poco campo magnético, así que la fuerza queda insuficiente para pegar el imán."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La fuerza de atracción de un imán disminuye cuando hay un material que no conduce el campo magnético entre él y el metal. Una lámina de plástico delgada sí alcanza para impedir una buena sujeción, aunque el imán siga siendo perfectamente magnético. Si el niño retira la lámina y lo pega directamente contra la tapa, el imán vuelve a sujetarse con fuerza. Concluir que el imán se dañó sería una conclusión equivocada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-4-2026-W24-el-magnetismo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
