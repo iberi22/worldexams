@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v1",
+      "statement": "La noticia decía: \"Ayer abrieron una nueva biblioteca en la comuna 13. Tiene dos mil libros y atiende de lunes a sábado\". ¿Cuál es la idea principal?",
+      "context": "En clase de cuarto en Medellín, la profesora pidió identificar la idea principal de una noticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biblioteca tiene dos mil libros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el número de libros es un detalle, no la idea central de la noticia."
+        },
+        {
+          "letter": "B",
+          "text": "La biblioteca atiende de lunes a sábado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el horario es un dato de apoyo, no la idea central."
+        },
+        {
+          "letter": "C",
+          "text": "Abrieron una nueva biblioteca en la comuna 13.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el hecho principal de la noticia es la apertura de esa biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "El periódico tiene una página nueva.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la noticia habla de una biblioteca, no de cambios en el periódico."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idea principal es lo más importante que cuenta el texto. Los demás datos sirven para completarla, pero no la reemplazan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v2",
+      "statement": "Escucharon este resumen: \"Un perro perdido encontró el camino de su casa y llegó con su familia\". ¿Qué cuenta ese resumen?",
+      "context": "En Tunja, los niños escucharon el resumen de un cuento sobre un perro perdido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el perro se perdió y nunca volvió.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen dice que el perro llegó a su casa."
+        },
+        {
+          "letter": "B",
+          "text": "Que el perro encontró una familia nueva.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen dice que llegó con su familia, no con una familia nueva."
+        },
+        {
+          "letter": "C",
+          "text": "Que la familia perdió al perro en el mercado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen no menciona ningún mercado."
+        },
+        {
+          "letter": "D",
+          "text": "Que el perro volvió a casa con su familia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el resumen cuenta que el perro se perdió, encontró el camino y llegó con su familia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un resumen recoge lo esencial de un texto en pocas palabras. Reconocer qué se conserva y qué se omite ayuda a escribir resúmenes claros.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v3",
+      "statement": "El párrafo describe cómo reciclar cuatro materiales: papel, vidrio, plástico y tela. También explica el horario y el lugar donde se hace. ¿Qué debe quitar el niño para resumir?",
+      "context": "En el taller de lectura de Pereira, los niños trabajaron con un párrafo largo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El horario y el lugar donde se hace el reciclaje.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el horario y el lugar son detalles de apoyo y el resumen conserva los materiales."
+        },
+        {
+          "letter": "B",
+          "text": "Los cuatro materiales, porque son muchos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los materiales son el contenido central del párrafo y no se quitan."
+        },
+        {
+          "letter": "C",
+          "text": "La lista completa de materiales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa lista es justamente lo que el resumen debe conservar."
+        },
+        {
+          "letter": "D",
+          "text": "El título del párrafo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el título se conserva en el resumen, no se quita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Resumir es decidir qué se conserva y qué se quita. Los datos de apoyo se eliminan y el contenido principal se mantiene para decir lo mismo con menos palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v4",
+      "statement": "El aviso decía: \"Hoy no se recoge la basura porque los camiones vinieron mañana\". ¿Por qué el aviso informa lo que no se hará hoy?",
+      "context": "En un taller de lectura de Cali, los niños leyeron un aviso del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para decir que la basura se recoge más tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso dice que hoy no se recoge y que los camiones vienen mañana."
+        },
+        {
+          "letter": "B",
+          "text": "Para que la gente se entere y no espere el camión.",
+          "is_correct": true,
+          "feedback": "Es correcta porque avisar que hoy no hay recolección evita que los vecinos esperen en la calle."
+        },
+        {
+          "letter": "C",
+          "text": "Para pedir que la gente pague el servicio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso no habla de pagos, solo del cambio de día de recolección."
+        },
+        {
+          "letter": "D",
+          "text": "Para informar que los camiones se dañaron.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso dice que los camiones vienen mañana, no que se dañaron."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto escrito para el público busca una reacción concreta. Reconocer para qué se escribe un aviso permite usarlo bien y entenderlo mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v5",
+      "statement": "El texto dice: \"La empresa del barrio abrió un parque para niños el sábado. Entraron veinte niños a las nueve\". ¿Cuál es la idea principal?",
+      "context": "En cuarto grado de Armenia, los niños eligieron la mejor idea principal de un texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que veinte niños entraron a las nueve.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ese dato apoya la noticia, pero no explica de qué trata."
+        },
+        {
+          "letter": "B",
+          "text": "Que el parque queda lejos del barrio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice nada sobre la distancia del parque."
+        },
+        {
+          "letter": "C",
+          "text": "Que la empresa abrió un parque para niños.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el hecho central es la apertura del parque para niños del barrio."
+        },
+        {
+          "letter": "D",
+          "text": "Que a los niños les gustó el parque nuevo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice que a los niños les haya gustado el parque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir la idea principal es distinguir el hecho central de los datos que lo apoyan. Esa habilidad sirve para estudiar mejor cualquier texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v6",
+      "statement": "¿Qué deja entender esa frase sobre el mercado?",
+      "context": "En un texto de cuarto grado de Villavicencio, una frase decía: \"Por fin alguien llegó temprano al mercado\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mercado abre muy tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase sugiere que llegar temprano es raro, no que la apertura sea tarde."
+        },
+        {
+          "letter": "B",
+          "text": "Que la persona se perdió en el mercado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que por fin llegó, así que no se perdió."
+        },
+        {
+          "letter": "C",
+          "text": "Que el mercado estaba vacío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase habla de llegar temprano, no de que no hubiera nadie."
+        },
+        {
+          "letter": "D",
+          "text": "Que esa persona llegó antes que los demás.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la frase muestra que llegar temprano fue algo poco común para ella."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inferir es deducir una idea a partir de lo que el texto sugiere. Las palabras que muestran sorpresa o alivio permiten entender situaciones que el autor no explica de forma directa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v7",
+      "statement": "El texto tenía veinte líneas sobre una visita a una granja. El resumen del grupo tenía tres líneas y solo contaba que se visitó una granja y se vio una cosa. ¿Qué se evalúa del resumen?",
+      "context": "En la clase de cuarto de Popayán, los niños compararon un texto largo con su propio resumen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el resumen dejó fuera lo esencial.",
+          "is_correct": true,
+          "feedback": "Es correcta porque quitó el lugar de la granja y lo demás que pasó, y solo conservó parte de lo visto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el resumen es demasiado largo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque tres líneas es corto, así que el problema no es la extensión."
+        },
+        {
+          "letter": "C",
+          "text": "Que el resumen copió el texto entero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen no copió el texto, lo redujo a tres líneas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el resumen está escrito en otra lengua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen está escrito en español, así que ese problema no existe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un resumen es comparar qué se conservó y qué se quitó. Un buen resumen deja el contenido central y solo retira los detalles que no cambian el sentido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle-v8",
+      "statement": "El resumen que escribió decía: \"El libro habla de un país, tiene capítulos y termina con una pregunta\". ¿Qué se evalúa de ese resumen?",
+      "context": "En una tarea de lectura de Cartagena, un niño escribió el resumen de un libro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el resumen usa demasiadas palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen es corto, así que el problema no es la extensión."
+        },
+        {
+          "letter": "B",
+          "text": "Que el resumen no sirve para saber de qué trata el libro.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el resumen solo dice que el libro tiene capítulos y no cuenta qué pasa en él."
+        },
+        {
+          "letter": "C",
+          "text": "Que el resumen debe estar escrito en pasado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no señala ningún problema de tiempo verbal en el resumen."
+        },
+        {
+          "letter": "D",
+          "text": "Que el resumen no menciona ningún capítulo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el resumen sí menciona que el libro tiene capítulos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un resumen debe decir de qué trata el texto en pocas palabras. Cuando solo describe la forma del libro y no su contenido, el lector se queda sin la información principal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W19-el-resumen-y-las-ideas-principales-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

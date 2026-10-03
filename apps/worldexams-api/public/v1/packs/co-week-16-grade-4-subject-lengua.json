@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v1",
+      "statement": "Lee: \"El zorro le dijo al pato: bájate del estanque, que aquí no te van a molestar\". ¿A quién intenta engañar el zorro?",
+      "context": "En una granja cerca de Montería, la profesora leyó una fábula a los niños de cuarto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al pato.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el zorro le habla al pato y busca que se baje del estanque."
+        },
+        {
+          "letter": "B",
+          "text": "Al granjero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el zorro no le habla al granjero en esa frase, sino al pato."
+        },
+        {
+          "letter": "C",
+          "text": "A las gallinas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las gallinas no aparecen en la frase que da el enunciado."
+        },
+        {
+          "letter": "D",
+          "text": "Al perro del granjero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el perro no aparece en la frase, solo están el zorro y el pato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión literal recupera quién habla con quién en una fábula. Reconocer a los personajes y la intención de cada uno es el punto de partida para entender la enseñanza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v2",
+      "statement": "La moraleja decía: \"Con la fuerza no se gana cualquiera\". ¿Qué quiere decir esa frase?",
+      "context": "En el salón de cuarto de Florencia, Caquetá, la profesora escribió la moraleja al final de una fábula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fuerza no sirve para todo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la frase enseña que no todo se resuelve con fuerza o con violencia."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fuerza siempre resuelve todo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice lo contrario: no cualquiera gana con fuerza."
+        },
+        {
+          "letter": "C",
+          "text": "Que hay que usar la fuerza para todo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la enseñanza rechaza esa idea y por eso dice que no cualquiera gana."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay que pedir ayuda siempre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa opción habla de pedir ayuda y no explica lo que significa la fuerza en la frase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La moraleja es la enseñanza que deja una fábula. Entenderla es identificar la idea general que el autor quiere transmitir más allá de la historia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v3",
+      "statement": "La fábula dice: \"La zorra se llevó el huevo sin que nadie lo notara\". ¿Qué expresión de la frase significa \"sin que nadie lo notara\"?",
+      "context": "En el taller de lectura de Quibdó, los niños buscaron el significado de las palabras de una fábula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se llevó.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"se llevó\" indica el movimiento, no la falta de atención de los demás."
+        },
+        {
+          "letter": "B",
+          "text": "La zorra.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"la zorra\" nombra al personaje que realiza la acción."
+        },
+        {
+          "letter": "C",
+          "text": "A escondidas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa expresión significa justamente hacer algo sin que nadie lo note."
+        },
+        {
+          "letter": "D",
+          "text": "El huevo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"el huevo\" es lo que se llevó la zorra, no el modo de hacerlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender una frase equivale a saber qué palabra reemplaza una expresión. Reconocer el sentido de cada palabra ayuda a entender mejor el cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v4",
+      "statement": "Si una fábula termina con \"no descuides a tus amigos\", ¿cuál es la intención del texto?",
+      "context": "En clase de cuarto en Barrancabermeja, la profesora preguntó a los niños para qué se cuentan fábulas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contar una noticia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una noticia informa hechos y la fábula enseña algo sobre las amistades."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar algo usando personajes animales.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa es la manera de las fábulas: enseñar una idea con personajes y ejemplos."
+        },
+        {
+          "letter": "C",
+          "text": "Describir un paisaje.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no busca describir un paisaje, sino enseñar con la moraleja."
+        },
+        {
+          "letter": "D",
+          "text": "Hacer reír sin enseñar nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la moraleja sí enseña, así que el objetivo no es solo hacer reír."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un texto narrativo puede tener una intención que va más allá de contar eventos. Las fábulas usan la historia para dejar una enseñanza sobre cómo actuar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v5",
+      "statement": "La fábula cuenta que el león empezó a rugir y todos los animales le tuvieron miedo. ¿Qué explica ese miedo?",
+      "context": "En la clase de cuarto de Arauca, los niños leyeron una fábula y después le preguntaron al profesor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el león era el más fuerte del bosque.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no dice que el león sea el más fuerte, solo que empezó a rugir."
+        },
+        {
+          "letter": "B",
+          "text": "Que todos sabían que podía hacer daño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el miedo se explica porque todos sabían que el rugido del león podía hacer daño."
+        },
+        {
+          "letter": "C",
+          "text": "Que los animales no lo conocían.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los animales sabían quién era el león, por eso le tenían miedo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el león no comía carne.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no menciona qué come el león, así que esa opción no explica nada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Explicar un hecho de una fábula es conectar la causa con el efecto. El enunciado da el efecto y el lector deduce la causa a partir de lo que el texto cuenta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v6",
+      "statement": "El loro pensaba: \"Si no digo nada, nadie se fija en mí\". ¿Qué revela esa frase sobre el loro?",
+      "context": "En un concurso de fábulas de Cúcuta, un niño escribió sobre un loro que repetía todo lo que oía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el loro era muy alegre.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase no habla de alegría, sino del deseo de pasar inadvertido."
+        },
+        {
+          "letter": "B",
+          "text": "Que el loro quería que todos lo miraran.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice lo contrario: no quiere que se fijen en él."
+        },
+        {
+          "letter": "C",
+          "text": "Que el loro temía que lo descubrieran.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la frase muestra que el loro tiene miedo de que lo descubran y por eso se esconde."
+        },
+        {
+          "letter": "D",
+          "text": "Que el loro no podía volar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice nada sobre si el loro puede volar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un personaje puede revelar algo sobre sí mismo en una sola frase. Analizar esa frase permite ver cómo el texto muestra los sentimientos del animal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v7",
+      "statement": "Una fábula dice: \"El lobo llegó hasta el corral de las gallinas\". La otra dice: \"El zorro llegó hasta el gallinero\". ¿Qué se puede comparar entre las dos?",
+      "context": "En Palmira, los niños compararon dos fábulas en las que un animal entra donde no debe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el lobo es el único que engañó a alguien.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las dos fábulas muestran a un animal que engaña, el lobo y el zorro."
+        },
+        {
+          "letter": "B",
+          "text": "Que en las dos un animal trata de alcanzar comida.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las dos historias cuentan un animal que busca alimento en un sitio donde no debe entrar."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos fábulas tienen el mismo final escrito igual.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los animales y los lugares son distintos en cada fábula."
+        },
+        {
+          "letter": "D",
+          "text": "Que el zorro y el lobo son el mismo animal.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque son dos animales distintos, aunque los dos aparecen en las fábulas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos fábulas permite encontrar la estructura que comparten. Cuando varias historias tienen el mismo orden de acciones, se reconoce un esquema que ayuda a anticipar el final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle-v8",
+      "statement": "El grupo escribió: \"El loro dijo que no iba a decir nada y luego contó el secreto de su amigo\". ¿Qué se evalúa de esa fábula?",
+      "context": "En una plaza de mercado de Barranco, un grupo de cuarto escribió su propia fábula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fábula no tiene personajes animales.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el loro es un personaje animal, así que sí hay personaje de ese tipo."
+        },
+        {
+          "letter": "B",
+          "text": "Que la fábula enseña algo sobre la confianza.",
+          "is_correct": true,
+          "feedback": "Es correcta porque contar el secreto de un amigo enseña que no conviene confiar en quien habla de más."
+        },
+        {
+          "letter": "C",
+          "text": "Que la fábula es muy larga para cuarto grado.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no mide la extensión de la fábula."
+        },
+        {
+          "letter": "D",
+          "text": "Que la fábula termina sin ninguna moraleja.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no dice que la fábula termine sin moraleja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una fábula escrita por uno mismo es comprobar si su historia deja una enseñanza clara. Si los personajes hacen algo que contradice la moraleja, el texto necesita revisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W16-la-fabula-y-la-moraleja-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

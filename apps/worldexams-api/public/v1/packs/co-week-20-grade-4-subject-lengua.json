@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-20-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v1",
+      "statement": "Lee: \"La biblioteca de mi barrio tiene mil libros. A mí me parece el mejor lugar para leer\". ¿Cuál de las dos frases es una opinión?",
+      "context": "En clase de cuarto en Bogotá, la profesora leyó dos frases cortas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La segunda frase, porque dice qué siente quien habla.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"me parece el mejor lugar\" expresa lo que piensa la persona y no se puede medir."
+        },
+        {
+          "letter": "B",
+          "text": "La primera frase, porque menciona un número.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un dato que se puede contar no es una opinión."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos frases son opiniones.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la cantidad de libros es un dato comprobable y no una opinión."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna de las dos frases es opinión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la segunda frase sí expresa lo que piensa quien habla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una opinión dice lo que alguien piensa o siente y no se puede comprobar con una cuenta. Reconocerla permite distinguirla de los datos que informan algo verificable.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v2",
+      "statement": "La hoja mostraba cuatro textos: un periódico, una receta, un cuento y una carta. ¿Cuál tiene como principal intención informar un hecho?",
+      "context": "En la clase de Cali, los niños recibieron una hoja con varios tipos de texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La receta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una receta indica cómo hacer algo, no informa un hecho."
+        },
+        {
+          "letter": "B",
+          "text": "El cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un cuento narra algo y su intención no es informar un hecho real."
+        },
+        {
+          "letter": "C",
+          "text": "El periódico.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el periódico informa hechos del día, como la noticia de una biblioteca."
+        },
+        {
+          "letter": "D",
+          "text": "La carta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una carta se escribe para comunicarle algo a una persona concreta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada tipo de texto tiene una intención distinta: informar, contar, explicar o pedir. Reconocer esa intención ayuda a elegir el texto adecuado para cada situación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v3",
+      "statement": "Un niño escribió: \"Mi barrio es el más tranquilo de la ciudad\". ¿Qué palabra expresa una opinión?",
+      "context": "En el taller de escritura de Pereira, los niños escribieron opiniones sobre su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mi.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"mi\" indica posesión y no expresa lo que el niño piensa."
+        },
+        {
+          "letter": "B",
+          "text": "El más tranquilo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa expresión compara su barrio con otros y por eso es una opinión."
+        },
+        {
+          "letter": "C",
+          "text": "De la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa parte dice dónde está el barrio, no qué piensa el niño."
+        },
+        {
+          "letter": "D",
+          "text": "Es.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"es\" solo une el sujeto con lo que se dice de él."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una opinión se apoya en la palabra o en la expresión que compara y juzga. Reconocer esa parte de la frase ayuda a saber qué está pensando el autor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v4",
+      "statement": "El aviso decía: \"Hoy no se recoge la basura porque los camiones vinieron mañana\". ¿Por qué el aviso informa lo que no se hará hoy?",
+      "context": "En un taller de lectura de Cali, los niños leyeron un aviso del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que la gente se entere y no espere el camión.",
+          "is_correct": true,
+          "feedback": "Es correcta porque avisar que hoy no hay recolección evita que los vecinos esperen en la calle."
+        },
+        {
+          "letter": "B",
+          "text": "Para decir que la basura se recoge más tarde.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso dice que hoy no se recoge y que los camiones vienen mañana."
+        },
+        {
+          "letter": "C",
+          "text": "Para pedir que la gente pague el servicio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso no habla de pagos, solo del cambio de día de recolección."
+        },
+        {
+          "letter": "D",
+          "text": "Para informar que los camiones se dañaron.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el aviso dice que los camiones vienen mañana, no que se dañaron."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto escrito para el público busca una reacción concreta. Reconocer para qué se escribe un aviso permite usarlo bien y entenderlo mejor.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v5",
+      "statement": "Un texto dice: \"El parque de la esquina tiene cien árboles y bancas para todos. Hoy hay veinte niños jugando\". ¿De qué trata principalmente?",
+      "context": "En cuarto grado de Armenia, los niños compararon un texto con su propósito.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De los veinte niños que juegan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los niños son un dato del día, no el tema central."
+        },
+        {
+          "letter": "B",
+          "text": "De un parque con árboles y bancas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa opción describe solo parte, y el texto también habla de los niños que juegan."
+        },
+        {
+          "letter": "C",
+          "text": "De un parque con árboles donde hay niños jugando.",
+          "is_correct": true,
+          "feedback": "Es correcta porque reúne lo esencial del texto: el parque, sus árboles y la actividad de los niños."
+        },
+        {
+          "letter": "D",
+          "text": "De las bancas del parque.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no trata solo de las bancas, también menciona los árboles y los niños."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer de qué trata un texto es reunir sus ideas principales. Un buen título o resumen no deja por fuera ninguna idea central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v6",
+      "statement": "¿Qué deja entender esa frase sobre el bus?",
+      "context": "En un texto de cuarto grado de Villavicencio, alguien escribió: \"El bus llega temprano, casi nunca lo veo lleno\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el bus casi nunca va.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice que el bus llega temprano, no que casi no pase."
+        },
+        {
+          "letter": "B",
+          "text": "Que a esa persona le gusta viajar en ese bus.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase no expresa gusto, solo informa que llega temprano y casi no lleno."
+        },
+        {
+          "letter": "C",
+          "text": "Que a esa hora temprana casi no hay gente en el bus.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto sugiere que a esa hora casi no hay pasajeros porque casi nadie lo toma."
+        },
+        {
+          "letter": "D",
+          "text": "Que el bus es muy caro.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona precios ni costos del pasaje."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Inferir es deducir una idea a partir de lo que el texto sugiere. Cuando un dato aparece junto a una consecuencia, el lector puede deducir lo que el autor dejó por debajo de las palabras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v7",
+      "statement": "El texto informativo dice: \"El parque tiene 60 árboles y una pista de deportes\". La opinión dice: \"Es el mejor parque de la ciudad\". ¿Qué relación hay entre los dos textos?",
+      "context": "En la clase de cuarto de Popayán, los niños compararon un texto informativo y una opinión sobre el mismo tema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos dan el mismo tipo de información.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque uno da datos que se pueden contar y el otro expresa un juicio personal."
+        },
+        {
+          "letter": "B",
+          "text": "La opinión repite los datos del texto informativo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la opinión no repite cifras, sino que compara el parque con otros lugares."
+        },
+        {
+          "letter": "C",
+          "text": "El texto informativo contradice la opinión.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un texto con datos y una opinión pueden convivir sin contradecirse."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos textos hablan del parque con distinta intención.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el primero informa datos del parque y el segundo expresa lo que piensa el autor sobre él."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar textos permite ver que un mismo tema puede trabajarse de manera distinta. Saber si un texto informa o opina ayuda a no confundir los dos tipos de información.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle-v8",
+      "statement": "Él escribió: \"Mi barrio tiene muchas tiendas y yo pienso que es el mejor de todos\". ¿Qué se evalúa de ese texto?",
+      "context": "En una tarea de lectura de Cartagena, un niño escribió sobre su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el texto es incorrecto porque mezcla dos tipos de frase.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un dato seguido de una opinión es normal y no hace que el texto sea incorrecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el texto dice qué piensa quien escribe.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque eso es justamente lo que hace bien, y por eso no se evalúa como un defecto."
+        },
+        {
+          "letter": "C",
+          "text": "Que el texto necesita corregir su ortografía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no señala ningún problema de ortografía en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Que el texto mezcla un dato y una opinión sin distinguirlos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el dato y el juicio personal aparecen juntos y el lector no sabe dónde acaba uno y empieza el otro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un texto propio es revisar si el lector distingue los datos de las opiniones. Cuando ambos se mezclan sin aviso, el texto necesita una revisión para quedar más claro.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W20-la-opinion-y-los-tipos-de-texto-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

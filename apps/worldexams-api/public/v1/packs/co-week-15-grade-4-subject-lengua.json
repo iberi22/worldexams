@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v1",
+      "statement": "Lee la entrada: \"Sábado 14. Hoy llovió toda la mañana y nos quedamos en la casa con mi mamá\". ¿Qué día escribió esa entrada?",
+      "context": "En Tunja, una niña de cuarto grado escribió en su diario la entrada de un sábado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El domingo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada dice \"Sábado 14\", no domingo."
+        },
+        {
+          "letter": "B",
+          "text": "El viernes.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada dice \"Sábado 14\", no viernes."
+        },
+        {
+          "letter": "C",
+          "text": "Un día sin fecha.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada sí tiene día y fecha: sábado 14."
+        },
+        {
+          "letter": "D",
+          "text": "El sábado 14.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la entrada empieza con \"Sábado 14\", que es el día y la fecha."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comprensión literal recupera los datos escritos de manera explícita. En un diario, el día y la fecha aparecen al comienzo de cada entrada y son el primer dato que se reconoce.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v2",
+      "statement": "La anotación dice: \"Lunes: compré pan por 12.000 y huevos por 18.000. Mi mamá me dio 40.000\". ¿Para qué sirve esta anotación?",
+      "context": "En Ibagué, un cuaderno de notas guardaba las cuentas de una familia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para recordar lo que se compró y cuánto se gastó.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las anotaciones sirven justamente para llevar la cuenta de las compras."
+        },
+        {
+          "letter": "B",
+          "text": "Para escribir un cuento de la familia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto es una lista de compras con sus valores, no una narración."
+        },
+        {
+          "letter": "C",
+          "text": "Para llevar el registro de lo comprado y el dinero gastado.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la anotación nombra dos productos con sus precios y el dinero recibido."
+        },
+        {
+          "letter": "D",
+          "text": "Para aprenderse los números de la escuela.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anotación sirve para un registro de gastos, no como ejercicio de números."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender una anotación es reconocer para qué se escribió. Las notas de compras y de dinero sirven para llevar un registro y revisar después lo que se gastó.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v3",
+      "statement": "La anotación dice: \"Traer el cuaderno de lectura y el mapa del municipio\". ¿Qué debe traer al colegio?",
+      "context": "En el cuaderno de tareas de Bucaramanga, un niño anotó lo que debía llevar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo el cuaderno de lectura.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anotación pide dos cosas: el cuaderno de lectura y el mapa."
+        },
+        {
+          "letter": "B",
+          "text": "El mapa y un lápiz.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anotación no menciona ningún lápiz, sino el cuaderno de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Un cuaderno nuevo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto pide el cuaderno de lectura, no un cuaderno nuevo."
+        },
+        {
+          "letter": "D",
+          "text": "El cuaderno de lectura y el mapa del municipio.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la anotación enumera exactamente esos dos objetos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar lo que dice una anotación es convertirla en una lista de acciones. Aquí la lista tiene dos elementos y ambos deben estar listos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v4",
+      "statement": "Ella anotó: \"Hoy le hice un reclamo a mi abuelo por dejar la mesa sucia, pero me sentí mal después\". ¿Qué nos dice esa frase sobre lo que pasó?",
+      "context": "En el diario de una niña de cuarto grado en Manizales, ella escribió sobre su abuelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reclamó a su abuelo y luego se arrepintió.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la frase dice que pidió cuentas y que después se sintió mal por eso."
+        },
+        {
+          "letter": "B",
+          "text": "Su abuelo le pidió perdón.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase no menciona ninguna disculpa del abuelo."
+        },
+        {
+          "letter": "C",
+          "text": "Ella se enojó y no volvió a hablar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice que se sintió mal, no que dejara de hablar con su abuelo."
+        },
+        {
+          "letter": "D",
+          "text": "No dijo nada y se quedó callada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el diario dice que le hizo un reclamo, así que sí dijo algo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los diarios cuentan lo que el autor hizo y sintió. Reconocer las dos partes de una frase, la acción y el sentimiento posterior, ayuda a entender la experiencia completa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v5",
+      "statement": "Entrada del martes: \"Hoy llovió y no salí a jugar\". Entrada del sábado: \"Hoy salí a jugar con mi primo\". ¿Qué conclusión es correcta?",
+      "context": "En clase de cuarto grado de Rionegro, los niños compararon dos entradas de un diario.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño nunca juega.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada del sábado muestra que sí salió a jugar con su primo."
+        },
+        {
+          "letter": "B",
+          "text": "El niño juega todos los días.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el martes no salió a jugar, así que no juega todos los días."
+        },
+        {
+          "letter": "C",
+          "text": "La lluvia cambió su plan de juego.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la entrada del martes explica que no salió por la lluvia y el sábado sí salió a jugar."
+        },
+        {
+          "letter": "D",
+          "text": "El niño no tiene primos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada del sábado dice que jugó con su primo, así que sí tiene."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comparar dos entradas permite ver cómo cambian las cosas de un día a otro. Un mismo personaje actúa distinto según lo que ocurre, y el texto lo cuenta en cada fecha.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v6",
+      "statement": "¿Qué se puede inferir de esa anotación?",
+      "context": "En el cuaderno de una niña de Cartagena, hay una anotación que dice: \"No le dije a mi mamá que reprobé\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su mamá no se entera de nada nunca.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anotación habla de ese caso concreto, no de que la madre nunca se entere."
+        },
+        {
+          "letter": "B",
+          "text": "Que a ella le daba vergüenza que la mamá supiera.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ocultar el resultado indica que no quería que su madre lo supiera."
+        },
+        {
+          "letter": "C",
+          "text": "Que ella perdió el examen a propósito.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice que ella quiso perder, solo que no contó el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "Que la madre ya lo sabía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la anotación dice que no le dijo, así que la madre no lo sabía por ella."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Inferir es deducir lo que el texto no escribe pero deja entender. Cuando alguien esconde una noticia, se puede deducir que no quería que esa persona la supiera.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v7",
+      "statement": "El diario dice: \"Hoy llovió y la plaza se mojó\". La crónica del pueblo dice: \"El martes hubo lluvia y el agua cubrió las losas de la plaza\". ¿Qué relación hay entre los dos textos?",
+      "context": "En Villa del Rosario, los niños compararon un diario personal con una crónica del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos textos no se parecen en nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos mencionan la lluvia y el agua en un espacio público."
+        },
+        {
+          "letter": "B",
+          "text": "La crónica contradice el diario.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las dos descripciones dicen lo mismo: llovió y el agua llegó a la plaza."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el diario menciona la lluvia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la crónica también menciona la lluvia del martes."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos registran el mismo hecho visto por dos personas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el diario y la crónica cuentan la misma lluvia desde el registro personal y desde el registro del pueblo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relacionar textos permite ver que distintos tipos de escritura pueden registrar el mismo hecho. Un diario lo cuenta desde lo personal y una crónica desde lo colectivo del pueblo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle-v8",
+      "statement": "La entrada decía: \"Hoy fue un día horrible, el más horrible de todos los días, horrible y horrible otra vez\". ¿Qué se evalúa de esa entrada?",
+      "context": "En un taller de escritura de Popayán, los niños leyeron la entrada de un diario de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la entrada usa la misma palabra muchas veces sin decir más.",
+          "is_correct": true,
+          "feedback": "Es correcta porque repite \"horrible\" cuatro veces y no añade ningún hecho nuevo sobre su día."
+        },
+        {
+          "letter": "B",
+          "text": "Que la entrada está mal porque es negativa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un diario puede contar un día malo, eso no la hace incorrecta."
+        },
+        {
+          "letter": "C",
+          "text": "Que la entrada no tiene fecha.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no dice que falte la fecha, solo que repite la misma palabra."
+        },
+        {
+          "letter": "D",
+          "text": "Que la entrada cuenta muchos hechos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la entrada no da ningún hecho concreto, solo repite una palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una entrada de diario es medir si comunica algo concreto. Repetir un adjetivo sin explicar qué pasó hace que el lector no pueda imaginarse el día.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W15-el-diario-y-las-anotaciones-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

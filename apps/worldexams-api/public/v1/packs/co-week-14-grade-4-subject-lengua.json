@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-14-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v1",
+      "statement": "Lee el verso: \"El río baja desde la montaña y riega mi pueblo sin pedir nada\". ¿Qué hace el río en el segundo verso?",
+      "context": "En el festival de poesía de Armenia, los niños de cuarto recitaron un poema sobre el río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Riega el pueblo sin pedir nada.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el segundo verso dice exactamente que riega el pueblo sin pedir nada."
+        },
+        {
+          "letter": "B",
+          "text": "Sube desde el pueblo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río baja desde la montaña, no sube desde el pueblo."
+        },
+        {
+          "letter": "C",
+          "text": "Pide agua a la montaña.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río no pide agua, y el verso dice que no pide nada."
+        },
+        {
+          "letter": "D",
+          "text": "Seca los campos del pueblo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río riega los campos, no los seca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La comprensión literal recupera lo que el poema dice de manera explícita. Reconocer la acción de cada verso es lo primero para comprender el conjunto del poema.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v2",
+      "statement": "El poema dice: \"Llueve la lluvia en el potrero y el café crece sin ruido\". ¿Qué efecto produce la lluvia en el café?",
+      "context": "En la clase de literatura de Rionegro, la profesora leyó un poema sobre la lluvia en el campo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo daña.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el verso dice que el café crece con la lluvia, así que no lo daña."
+        },
+        {
+          "letter": "B",
+          "text": "Lo hace crecer.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el verso dice que el café crece cuando llueve en el potrero."
+        },
+        {
+          "letter": "C",
+          "text": "No cambia nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema muestra un cambio: el café crece gracias a la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Lo seca por completo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque secar es lo contrario de crecer, y el verso dice que crece."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comprender un poema es reconocer la relación entre dos imágenes. En este caso, la lluvia y el crecimiento del café están unidos por la palabra \"crece\".",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v3",
+      "statement": "Si un poema termina el verso con la palabra \"montaña\", ¿cuál de estas palabras rima con ella?",
+      "context": "En el taller de poesía de Pereira, los niños buscaron palabras que riman entre sí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"río\" no rima con \"montaña\", solo se parecen las primeras letras."
+        },
+        {
+          "letter": "B",
+          "text": "Caña.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"caña\" y \"montaña\" comparten el mismo sonido final de la vocal acentuada y la ene."
+        },
+        {
+          "letter": "C",
+          "text": "Cielo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"cielo\" no comparte el sonido final con \"montaña\"."
+        },
+        {
+          "letter": "D",
+          "text": "Suelo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"suelo\" tampoco termina con el mismo sonido que \"montaña\"."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Reconocer una rima es comparar el final de dos palabras. Dos palabras riman cuando sus últimos sonidos coinciden, como ocurre con \"montaña\" y \"caña\".",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v4",
+      "statement": "Él escribió: \"Tienes las manos hechas de trabajo y el cuidado de todas mis mañanas\". ¿Qué expresa de su abuela?",
+      "context": "En el concurso de poesía de Cartagena, un niño escribió un poema sobre su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que le da miedo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema muestra cariño y respeto, no miedo."
+        },
+        {
+          "letter": "B",
+          "text": "Que no lo quiere.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema destaca el cuidado que ella tiene por él, así que sí hay cariño."
+        },
+        {
+          "letter": "C",
+          "text": "Que admira su trabajo y su cariño.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las dos imágenes, las manos de trabajo y el cuidado, muestran admiración y cariño."
+        },
+        {
+          "letter": "D",
+          "text": "Que siempre está enojada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema no habla de enojo, sino del esfuerzo de la abuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un poema las imágenes expresan lo que el autor siente. Reconocer el sentimiento de cada imagen permite entender el mensaje más allá de las palabras sueltas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v5",
+      "statement": "En la pizarra hay cuatro líneas separadas con una barra: \"Canta el amanecer\", \"late la luz\", \"vuelve el silencio\", \"y se va el calor\". ¿Cuántos versos tiene el poema?",
+      "context": "En cuarto grado de Sincelejo, los niños contaron las líneas de un poema de la pizarra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos versos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema tiene cuatro líneas, y cada línea es un verso."
+        },
+        {
+          "letter": "B",
+          "text": "Cuatro versos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el poema presenta cuatro líneas y cada una corresponde a un verso."
+        },
+        {
+          "letter": "C",
+          "text": "Seis versos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque solo hay cuatro líneas escritas en la pizarra."
+        },
+        {
+          "letter": "D",
+          "text": "Un solo verso.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada línea separada por una barra es un verso distinto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Contar versos es reconocer cada línea con su barra como una unidad del poema. Ese conteo permite medir la extensión del texto y ayuda a construirlo al escribir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v6",
+      "statement": "El poema dice: \"El sol es panadero: pone el horno de la mañana y reparte pan para todos\". ¿Qué enseña esa comparación?",
+      "context": "En el recital de Villavicencio, un poema comparó el sol con un panadero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el sol es un panadero de verdad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque es una comparación del poema, no una descripción real de una persona."
+        },
+        {
+          "letter": "B",
+          "text": "Que el sol calienta y alimenta a todos por igual.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen del panadero muestra que el sol da calor y alimento a todo el mundo."
+        },
+        {
+          "letter": "C",
+          "text": "Que en la mañana hay un horno en la casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el horno solo existe en la imagen del poema, no en la realidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sol se va a dormir temprano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema no habla de dormir, sino de repartir calor y alimento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una comparación poética une dos imágenes para transmitir una idea. Entender qué se quiere decir con esa unión es pasar de lo que dice el poema a lo que enseña.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v7",
+      "statement": "El primer poema dice: \"Bogotá respira entre cerros\". El segundo dice: \"Bogotá, ciudad que nadie duerme\". ¿Cuál es la relación entre los dos textos?",
+      "context": "En la clase de cuarto grado de Bogotá compararon dos poemas sobre la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El segundo contradice al primero.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ambos poemas hablan de Bogotá con imágenes que no se oponen entre sí."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos dicen lo mismo con las mismas palabras.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque cada poema usa imágenes distintas: los cerros en uno y las noches sin dormir en el otro."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el primer poema habla de la ciudad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el segundo también nombra la ciudad, solo usa otra imagen."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos muestran la ciudad de manera distinta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque un poema usa la imagen de los cerros y el otro la de la ciudad que no duerme."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos textos sobre el mismo tema revela que cada autor elige imágenes diferentes. Reconocer esas imágenes muestra que un mismo asunto puede contarse de varias maneras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle-v8",
+      "statement": "En ese poema hay dos versos que no se entienden: \"El sol brilla con color raro\" y \"el mar cubre mis pies\". ¿Qué se evalúa del poema?",
+      "context": "En un taller de poesía de Neiva, un grupo leyó un poema que ellos mismos escribieron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el poema está bien porque menciona el mar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque mencionar el mar no garantiza que el poema sea claro ni correcto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el poema necesita rimas en todas las líneas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un poema puede existir sin rimas en todas sus líneas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el poema no dice de qué animal habla.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el poema habla del sol y del mar, y no menciona ningún animal."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay palabras que entorrecen el significado de los versos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esas palabras no son claras y por eso el lector no entiende lo que el poema quiere decir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un poema escrito por uno mismo es comprobar que las palabras elegidas comuniquen la imagen. Si hay palabras que estorban el sentido, el poema necesita una revisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W14-la-poesia-y-los-versos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

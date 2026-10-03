@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T23:20:28.795Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v1",
+      "statement": "¿De qué trata principalmente la Constitución Política de Colombia?",
+      "context": "En una clase de séptimo grado en Bogotá, el profesor pregunta qué documento reúne las normas más importantes del país.",
+      "options": [
+        {
+          "letter": "B",
+          "text": "De las normas más importantes del país, que organizan al Estado y reconocen los derechos de las personas",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución es la norma superior del país: en ella se organizan las instituciones del Estado y se escriben los derechos fundamentales de la población."
+        },
+        {
+          "letter": "A",
+          "text": "De las multas que se cobran por exceso de velocidad",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las multas por exceso de velocidad pertenecen al código de tránsito, y no al texto que fija los principios y los derechos de la nación."
+        },
+        {
+          "letter": "C",
+          "text": "De los alimentos que se venden en los mercados",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución no trata de productos ni de mercados; su contenido son las normas políticas, los derechos y las instituciones del Estado."
+        },
+        {
+          "letter": "D",
+          "text": "Del precio de la gasolina y de los combustibles",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el precio de los combustibles no está en la Constitución, sino en decisiones del mercado o en medidas administrativas del Gobierno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución Política de Colombia es el conjunto de normas más importantes del país. En ella se define cómo se organiza el Estado, qué funciones tienen sus instituciones y qué derechos tienen las personas. Todas las demás normas deben ajustarse a lo que establece la Constitución.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v2",
+      "statement": "En la Constitución de 1991, ¿cómo se llaman los derechos que puede exigir cualquier persona por el solo hecho de ser humana?",
+      "context": "En Medellín, una estudiante pregunta cómo se llama en la Constitución el conjunto de derechos que puede exigir cualquier persona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Derechos subjetivos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los derechos subjetivos son un concepto de la teoría jurídica, no el nombre que usa la Constitución colombiana para los derechos inherentes a toda persona."
+        },
+        {
+          "letter": "B",
+          "text": "Derechos económicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los derechos económicos y sociales buscan condiciones materiales dignas, pero no son el nombre del conjunto de derechos que tiene toda persona."
+        },
+        {
+          "letter": "C",
+          "text": "Derechos fundamentales",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución llama fundamentales a los derechos que corresponden a toda persona sin ninguna distinción, como la vida, la igualdad y la libertad."
+        },
+        {
+          "letter": "D",
+          "text": "Derecho de petición",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el derecho de petición es una garantía concreta: permite pedir información, copias o explicaciones a una autoridad pública."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución de 1991 distingue varias clases de derechos. Los fundamentales pertenecen a todas las personas, los sociales y económicos buscan condiciones de vida dignas, y los colectivos protegen intereses de grupos. Conocer la diferencia ayuda a entender qué se puede exigir y ante quién.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué derecho fundamental está ejerciendo el joven al presentar esa solicitud?",
+      "context": "En Villavicencio, un joven escribe a la alcaldía para solicitar información sobre el presupuesto de obras de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho de reunión",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el derecho de reunión protege el hecho de reunirse con otras personas, y el joven no está pidiendo permiso para una reunión."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a la propiedad privada",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque pedir datos sobre el presupuesto municipal no es reclamar un bien propio, sino hacer valer una garantía constitucional diferente."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a la libertad de circulación",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la libertad de circulación protege el derecho a moverse libremente por el territorio, no a pedir información a una entidad pública."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho de petición",
+          "is_correct": true,
+          "feedback": "Es correcta porque este derecho permite solicitar información, copias o explicaciones a una autoridad pública, y obliga a la institución a responder por escrito."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El derecho de petición está reconocido en la Constitución y permite pedir información, copias, explicaciones o la adopción de una medida ante una autoridad pública. Es una de las formas más concretas de participación ciudadana, porque obliga a la institución a dar respuesta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v4",
+      "statement": "Una estudiante afirma que ninguna otra norma puede contradecir la Constitución. ¿Tiene razón?",
+      "context": "En Tunja, una estudiante explica por qué la Constitución es la norma que no puede contradecir ninguna otra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene razón, porque todas las normas tienen la misma importancia",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las normas no tienen el mismo valor: la Constitución ocupa el primer lugar y las demás deben ajustarse a lo que ella establece."
+        },
+        {
+          "letter": "B",
+          "text": "Sí tiene razón, porque la Constitución es la norma superior y las demás se subordinan a ella",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución política es la norma suprema del ordenamiento interno, de modo que ninguna ley ni reglamento puede apartarse de sus principios."
+        },
+        {
+          "letter": "C",
+          "text": "No tiene razón, porque solo el Congreso puede modificar la Constitución",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el argumento no respondió la pregunta central: lo importante es que la Constitución es la norma superior del país."
+        },
+        {
+          "letter": "D",
+          "text": "Sí tiene razón, pero solo porque es el documento más largo del país",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su supremacía no se debe a la extensión del texto, sino a que en él se fija la estructura del Estado y los derechos de las personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución es la norma superior del ordenamiento colombiano. Si una ley o un reglamento se contradice con ella, cualquier persona puede pedir que se revise esa contradicción, y la autoridad judicial debe apartar la norma que se opone al texto constitucional.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v5",
+      "statement": "Según la Constitución de 1991, ¿qué debería hacer el dueño del local en lugar de tomar represalias?",
+      "context": "En Apartadó, dos vecinos discuten por un ruido y el dueño del local decide tomar represalias por su cuenta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acudir a las autoridades o a un mecanismo de diálogo para resolver el conflicto sin violencia",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución considera la paz un derecho y un deber, y promueve la resolución pacífica de los conflictos por medio de las instituciones y del diálogo."
+        },
+        {
+          "letter": "B",
+          "text": "Contratar a alguien para golpear al vecino que lo molestó",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque contratar violencia empeora la situación original y contradice el derecho a la convivencia y el deber del Estado de promover la paz."
+        },
+        {
+          "letter": "C",
+          "text": "Ignorar lo ocurrido, porque los conflictos privados no terminan nada",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ignorar la violencia no la resuelve; la Constitución promueve una salida pacífica y efectiva, no el silencio."
+        },
+        {
+          "letter": "D",
+          "text": "Amenazar al vecino con demandarlo por todos los daños posibles",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque amenazar no resuelve un conflicto entre vecinos; la Constitución garantiza el acceso a la justicia, pero también promueve el arreglo pacífico."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La Constitución de 1991 considera la paz como un derecho y como un deber. Por eso, ante un conflicto entre personas, la respuesta indicada es acudir a las autoridades o a mecanismos de diálogo que permitan resolverlo sin violencia, y no usar represalias que generan un problema nuevo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera protege la Constitución de 1991 a un pueblo indígena que vive en una zona rural?",
+      "context": "En Quibdó, un proyecto educativo busca incluir a estudiantes indígenas que viven en una zona rural del Chocó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No lo protege, porque los derechos solo se aplican en las ciudades",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución reconoce derechos a toda la población, incluyendo a los pueblos indígenas que viven en zonas rurales del país."
+        },
+        {
+          "letter": "B",
+          "text": "Lo protege solo en la esfera económica, mediante subsidios",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la protección constitucional de los pueblos indígenas va más allá de lo económico e incluye su territorio, su identidad y su forma de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Lo protege igual que a cualquier otra persona, sin ninguna diferencia",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución establece una protección especial para los pueblos indígenas, y sus derechos no son los mismos que los de la población general."
+        },
+        {
+          "letter": "D",
+          "text": "Lo protege mediante derechos territoriales, la identidad cultural y el respeto a su organización",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución reconoce a las comunidades indígenas como sujetos con derechos especiales, entre ellos el territorio, la diversidad cultural y su autonomía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Constitución de 1991 reconoce la diversidad étnica y cultural de la nación colombiana y por eso protege a los pueblos indígenas con derechos especiales sobre su territorio, su identidad, su lengua y su organización política. Esta protección adicional responde a que estos grupos han cargado históricamente con discriminaciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v7",
+      "statement": "¿Por qué se dice que Colombia es un Estado unitario y democrático?",
+      "context": "Un grupo de estudiantes de Popayán compara la organización del Estado colombiano con la de otros países.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la forma de Estado mantiene unido el país, y la forma de gobierno reconoce la participación del pueblo",
+          "is_correct": true,
+          "feedback": "Es correcta porque el Estado unitario mantiene unidas las regiones bajo un mismo ordenamiento, y el carácter democrático permite la participación y el respeto de los derechos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el país se organiza en estados que tienen leyes propias e independientes",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque eso corresponde a un Estado federal, no a uno unitario como el colombiano, donde las regiones no son estados soberanos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el poder se concentra en una sola persona que decide todos los asuntos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la concentración del poder en una sola persona contradice el carácter democrático del ordenamiento colombiano y el respeto a los derechos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la población no tiene derecho a participar en los asuntos públicos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el carácter democrático existe precisamente para reconocer la participación de la ciudadanía, y no para excluirla de los asuntos públicos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia es un Estado unitario porque sus regiones forman un solo ordenamiento jurídico y el Estado tiene la misma autoridad en todo el territorio. Al mismo tiempo, es democrático porque reconoce el voto, la participación y el respeto a los derechos de la ciudadanía.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué garantía constitucional explica esa decisión y en qué principio se apoya?",
+      "context": "En Montería, un hombre sale libre de un proceso porque no había pruebas suficientes de su responsabilidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la vivienda, porque toda persona necesita un lugar donde vivir",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el derecho a la vivienda protege las condiciones de habitación y no explica la decisión de un proceso judicial."
+        },
+        {
+          "letter": "B",
+          "text": "El principio de la igualdad, porque todas las personas reciben el mismo trato",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la igualdad es un principio importante, pero la garantía que explica por qué no se puede condenar sin pruebas es la presunción de inocencia."
+        },
+        {
+          "letter": "C",
+          "text": "El principio de la presunción de inocencia, porque nadie es responsable hasta que un juez lo demuestre",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución garantiza que toda persona se presume inocente y que nadie puede ser sancionado sin pruebas suficientes y sin un juicio justo."
+        },
+        {
+          "letter": "D",
+          "text": "El principio de la seguridad social, porque protege a las personas ante los riesgos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la seguridad social protege frente a riesgos como la enfermedad y la vejez, y no interviene en la valoración de una prueba en un juicio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución protege el debido proceso y la presunción de inocencia. Quien es acusado tiene derecho a un juicio público donde pueda defenderse, y la carga de la prueba recae sobre el Estado. Si no hay pruebas suficientes, la persona no puede ser sancionada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v9",
+      "statement": "¿Tiene razón este hombre? Evalúe su afirmación desde el texto constitucional.",
+      "context": "En una plaza pública de Bogotá, un hombre afirma que la Constitución solo sirve para quienes viven en las capitales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sí tiene razón, porque los derechos son un privilegio de las ciudades grandes",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución garantiza sus derechos a toda la población sin importar dónde viva, y esa es la diferencia entre un derecho y un privilegio."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene razón, porque los derechos reconocidos en la Constitución se aplican en todo el territorio nacional",
+          "is_correct": true,
+          "feedback": "Es correcta porque el alcance de la Constitución es todo el país: un estudiante de una vereda del Chocó tiene los mismos derechos fundamentales que uno de Bogotá."
+        },
+        {
+          "letter": "C",
+          "text": "Sí tiene razón, porque el Estado solo tiene oficinas en las capitales",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el Estado colombiano tiene presencia en todo el territorio mediante gobernaciones, alcaldías y autoridades locales, y sus servicios llegan a todo el país."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene razón, pero solo porque la Constitución aplica únicamente dentro del perímetro urbano",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque su vigencia no depende de la zona urbana; el texto constitucional rige en el campo, en las ciudades y en todas las cabeceras municipales del país."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El alcance de la Constitución es todo el territorio nacional. No existe una categoría de ciudadanos con más derechos por vivir en una capital. Entender que los derechos son iguales en todo el país ayuda a comprender la igualdad como un principio central de la Constitución de 1991.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál sería el problema de fondo de la propuesta de este líder comunitario?",
+      "context": "En Sincelejo, un líder comunitario propone que la Constitución debería proteger solo a quienes cambian de residencia con frecuencia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es incorrecta, porque una protección así excluiría a millones de personas que no cambian de residencia",
+          "is_correct": true,
+          "feedback": "Es correcta porque restringir la protección a un grupo pequeño contradice el principio de igualdad, ya que dejaría sin protección a la mayoría de la población del país."
+        },
+        {
+          "letter": "B",
+          "text": "Que es correcta, porque la Constitución debería proteger a las personas más activas",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los derechos fundamentales no dependen de la actividad política ni de la movilidad de las personas; son inherentes a toda persona."
+        },
+        {
+          "letter": "C",
+          "text": "Que es parcialmente correcta, pero debería incluir también a quienes viven en ciudades",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la restricción por lugar de residencia es la misma lógica equivocada: los derechos son iguales sin importar dónde viva la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Que es incorrecta, pero solo porque la Constitución ya protege a los extranjeros",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el fundamento de esta crítica no es la situación de los extranjeros, sino que la propuesta reduciría la protección a un grupo pequeño."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos fundamentales no pueden reservarse a un grupo. Cualquier propuesta que limite la protección constitucional a un sector de la población contradice el principio de igualdad. Por eso la Constitución garantiza sus derechos a todas las personas sin importar su actividad política, su residencia o su condición económica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-7-2026-W12-la-constitucion-y-los-derechos-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T23:20:28.795Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v1",
+      "statement": "¿Qué significa la palabra democracia?",
+      "context": "En una clase de séptimo grado en Pasto, el profesor pregunta qué significa la palabra democracia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gobierno de una sola persona",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el gobierno de una sola persona es una monarquía o una tiranía, y en una democracia el poder se reparte y se ejerce con la participación del pueblo."
+        },
+        {
+          "letter": "B",
+          "text": "Mando de las fuerzas armadas",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el mando militar no es democracia; la democracia se caracteriza por la participación ciudadana y el respeto a los derechos."
+        },
+        {
+          "letter": "C",
+          "text": "Gobierno del pueblo, con participación y respeto a la decisión de la mayoría",
+          "is_correct": true,
+          "feedback": "Es correcta porque democracia viene de una palabra griega que significa pueblo, y se caracteriza porque los ciudadanos participan y se respeta la decisión de la mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "Gobierno según la opinión de un solo líder",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque decidir según la opinión de un solo líder quita la participación, y eso contradice directamente el sentido de la palabra democracia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra democracia significa gobierno del pueblo. En un sistema democrático los ciudadanos participan en las decisiones, se elige a las autoridades por voto y se respetan los derechos de todos, incluso los de quienes votaron por la opción que perdió.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál es la diferencia entre democracia directa y democracia representativa?",
+      "context": "En Ibagué, un estudiante compara una asamblea donde votan todos los presentes con una elección donde cada persona escoge un candidato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La directa es la de un país grande y la representativa la de un país pequeño",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la diferencia no está en el tamaño del país, sino en quién decide: los ciudadanos directamente o los que ellos eligieron."
+        },
+        {
+          "letter": "B",
+          "text": "La directa entrega el poder a un tirano y la representativa a un congreso",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la democracia directa no entrega el poder a un tirano; en ella los propios ciudadanos deliberan y votan cada asunto."
+        },
+        {
+          "letter": "C",
+          "text": "La representativa no incluye la elección popular",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la democracia representativa se basa justamente en elegir representantes por medio del voto, como ocurre en Colombia."
+        },
+        {
+          "letter": "D",
+          "text": "En la directa deciden los ciudadanos, y en la representativa deciden los elegidos por voto",
+          "is_correct": true,
+          "feedback": "Es correcta porque la democracia directa decide en la fuente y la representativa delega la decisión en personas elegidas mediante voto popular."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En la democracia directa los ciudadanos deciden sin intermediarios, algo dificultoso en países grandes. En la democracia representativa, que es la que existe en Colombia, los ciudadanos eligen representantes y estos toman las decisiones en nombre del pueblo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v3",
+      "statement": "¿Qué mecanismo democrático se está usando en esta situación?",
+      "context": "En Cartagena, unos vecinos eligen a la persona que los representará en el consejo municipal del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una elección popular",
+          "is_correct": true,
+          "feedback": "Es correcta porque la elección popular es el procedimiento mediante el cual la ciudadanía escoge a las personas que ocuparán los cargos públicos."
+        },
+        {
+          "letter": "B",
+          "text": "Una consulta popular",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una consulta popular es una votación específica sobre un tema, y no la selección de una persona para un cargo."
+        },
+        {
+          "letter": "C",
+          "text": "Una iniciativa legislativa",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la iniciativa legislativa permite presentar proyectos de ley, y no es la forma de elegir una autoridad."
+        },
+        {
+          "letter": "D",
+          "text": "Una protesta",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una protesta es una manifestación para expresar un desacuerdo, y no un procedimiento para elegir representantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La elección popular es el mecanismo central de la democracia representativa. Mediante el voto los ciudadanos eligen a sus representantes, y por eso la calidad de la democracia depende de la participación, de la información y de la honestidad de quienes participan en el proceso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v4",
+      "statement": "Según la Constitución colombiana, ¿qué condiciones debe cumplir una persona para votar?",
+      "context": "En Neiva, un joven de 17 años pregunta si puede votar en las elecciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener 21 años o más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ley no fija los 21 años como requisito único; la Constitución reconoce el voto a los adolescentes que cumplen la edad exigida por la ley."
+        },
+        {
+          "letter": "B",
+          "text": "Ser ciudadano, cumplir la edad de la ley y estar inscrito en el registro electoral",
+          "is_correct": true,
+          "feedback": "Es correcta porque el voto es un derecho político y la ley define la edad, la ciudadanía y la inscripción en el registro electoral como condiciones para ejercerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Vivir en el país, sin ninguna otra condición",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la ley establece condiciones específicas, como la edad requerida y la inscripción previa en el registro electoral, además de la ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Tener un empleo formal",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el trabajo formal no es una condición para votar; la ley no pide tener ingresos, sino cumplir los requisitos ciudadanos generales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Colombia el voto es un derecho político. La Constitución lo garantiza a los ciudadanos que cumplen la edad exigida por la ley y que están inscritos en el registro electoral que administra el registrador del municipio. La participación responsable de la ciudadanía empieza con esa inscripción.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v5",
+      "statement": "Según la Constitución, ¿qué características debe tener el voto de cada ciudadano?",
+      "context": "En Armenia, una familia entera vota en un puesto de votación y una vecina se queja de la fila.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el proceso sea lo más rápido posible",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rapidez no es un principio constitucional; lo que se garantiza es que el voto sea libre, voluntario, informado, secreto e igualitario."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo voten las personas que ya están inscritas en un partido",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque limitar el voto a los miembros de un partido contradice la Constitución, que reconoce el voto como un derecho de toda la ciudadanía."
+        },
+        {
+          "letter": "C",
+          "text": "Que cada candidato pague una suma por aparecer en el tarjetón",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la Constitución garantiza un voto libre y secreto, no la posibilidad de que los candidatos compren apoyo con dinero."
+        },
+        {
+          "letter": "D",
+          "text": "Que el voto sea libre, voluntario, secreto, informado e igualitario",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución garantiza esas características, de modo que nadie pueda ser obligado, comprado ni engañado al votar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La Constitución de 1991 garantiza que el voto sea libre, voluntario, secreto, informado, igualitario e impersonal. Estas características protegen al votante: sin ellas la democracia se debilita porque el resultado puede reflejar presiones o engaños en lugar de la voluntad de la ciudadanía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v6",
+      "statement": "Si en una votación gana la opción que tiene menos votos, ¿qué problema tiene esa decisión?",
+      "context": "En Manizales, dos estudiantes discuten por qué en una votación la decisión se toma con los votos de la mayoría.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tiene un problema, porque contradice el principio de que la mayoría de los votos decide",
+          "is_correct": true,
+          "feedback": "Es correcta porque en un sistema democrático el resultado debe reflejar la voluntad mayoritaria, y ganar con menos votos rompe esa regla básica del juego."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno, porque lo importante es que la decisión se tome rápido",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rapidez no resuelve el problema: si gana la opción con menos votos, se vulnera el principio de que la mayoría decide."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene un problema, porque las votaciones solo valen con dos candidatos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el número de candidatos no determina la validez del resultado; lo decisivo es que se respete la voluntad de la mayoría."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque en una democracia las minorías pueden decidir",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las minorías tienen derecho a organizarse y a proponer, pero no a decidir en lugar de la mayoría."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El principio de mayoría indica que la opción con más votos es la que gana. Cuando eso no ocurre se rompe una regla esencial del juego democrático. Las minorías sí tienen un papel importante: proponer, vigilar y defender sus derechos, pero no sustituir la decisión de la mayoría.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v7",
+      "statement": "Si un ciudadano recibe una oferta de dinero para cambiar su voto, ¿qué debe hacer y por qué?",
+      "context": "En Tunja, un ciudadano recibe una llamada que promete dinero a cambio de cambiar su voto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aceptar el dinero, porque su voto le pertenece a él",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el voto se ejerce en interés de toda la ciudadanía, y aceptar una paga vulnera la garantía de voto libre y secreto."
+        },
+        {
+          "letter": "B",
+          "text": "Guardar el dinero y no votar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no aceptar la oferta ni participar en ese delito está bien, pero lo correcto es denunciar la presión y votar libremente."
+        },
+        {
+          "letter": "C",
+          "text": "Denunciar el hecho y votar según su libre criterio",
+          "is_correct": true,
+          "feedback": "Es correcta porque aceptar dinero por un voto rompe la garantía de voto libre, y denunciar esa presión protege a la ciudadanía y a los candidatos."
+        },
+        {
+          "letter": "D",
+          "text": "Votar por el candidato que paga más",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la competencia política se basa en propuestas y no en compras; votar por quien paga más destruye la igualdad entre los candidatos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Constitución garantiza que el voto sea libre y secreto. Aceptar una paga por un voto rompe esa garantía y convierte la decisión en una compra, en perjuicio de toda la ciudadanía. Por eso lo correcto es denunciar la presión y ejercer el voto con criterio propio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué el conteo de votos es una etapa tan importante en una elección?",
+      "context": "Un observador explica a un grupo de estudiantes cómo se hace el conteo de votos en un puesto de votación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es el paso más rápido de toda la jornada electoral",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la rapidez no es lo que hace importante el conteo; su relevancia está en que allí los votos se convierten en resultados oficiales."
+        },
+        {
+          "letter": "B",
+          "text": "Porque es donde se decide a quién se le reconoce el derecho a votar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el derecho a votar se adquiere antes, con la inscripción; el conteo no modifica ese derecho, sino que calcula el resultado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es donde los votos depositados se convierten en resultados verificados",
+          "is_correct": true,
+          "feedback": "Es correcta porque el conteo es el momento en que los votos registrados se suman y se vuelven resultados oficiales, y por eso se hace con formatos definidos y observadores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es la única etapa donde pueden participar los candidatos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los candidatos participan en la campaña y en otras instancias, pero no dirigen el conteo; ese trabajo lo realiza el personal autorizado."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El conteo de votos es el paso que convierte las papeletas depositadas en resultados oficiales. Por eso se hace con formatos establecidos, con la presencia de observadores y con la posibilidad de que cualquier ciudadano impugne el resultado si encuentra irregularidades.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.68,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v9",
+      "statement": "Evalúe esta afirmación desde los principios de la Constitución de 1991.",
+      "context": "Un candidato afirma en un debate en Córdoba que la democracia funciona mejor si solo votan quienes pagan impuestos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque quien no paga impuestos no tiene derecho a opinar",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el voto no depende de los impuestos; esa propuesta reduce la ciudadanía y contradice el principio de igualdad política."
+        },
+        {
+          "letter": "B",
+          "text": "Que el voto es un derecho de toda la ciudadanía, sin condiciones",
+          "is_correct": true,
+          "feedback": "Es correcta porque la Constitución reconoce el voto como derecho político de los ciudadanos, y ese derecho no se condiciona al pago de impuestos ni al nivel de ingresos."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque quien más paga tiene más intereses en el país",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque los derechos políticos no son un premio por pagar más; así se eliminaría de la democracia a las personas con menos recursos."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, pero solo porque la Constitución prohíbe pagar impuestos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el fundamento de esta crítica no es que la Constitución prohíba los impuestos, sino que el voto es igual para todos los ciudadanos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El voto en Colombia es un derecho de la ciudadanía y no un premio económico. Limitar el voto a quien paga impuestos reduciría la democracia a una cuestión de dinero y dejaría fuera a millones de personas, en contra de la igualdad que garantiza la Constitución.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.65,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle-v10",
+      "statement": "¿Tiene razón este líder? Argumente su respuesta desde la Constitución de 1991.",
+      "context": "En Villavicencio, un líder afirma que en una democracia quien no vota también tiene derecho a que se respeten sus derechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene razón, porque solo quien vota es ciudadano",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque en Colombia la ciudadanía no depende de haber votado en una elección concreta; los derechos son de todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Sí tiene razón, pero solo si votó en la última elección",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el respeto a los derechos no depende de la última votación; incluso quienes votan por opciones perdedoras mantienen todos sus derechos."
+        },
+        {
+          "letter": "C",
+          "text": "Sí tiene razón, porque la democracia respeta los derechos de todos, voten o no voten",
+          "is_correct": true,
+          "feedback": "Es correcta porque el voto es un medio de participación y no un requisito para tener derechos; la democracia protege a toda la población, empezando por las minorías."
+        },
+        {
+          "letter": "D",
+          "text": "No tiene razón, porque quien no vota pierde todos sus derechos políticos",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque nadie pierde sus derechos por no votar; lo que puede ocurrir es que su candidato no gane, pero nunca se pierde la dignidad de sus derechos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La democracia no se define por la cantidad de votos sino por el respeto a los derechos de todos, incluso de quienes votan en contra o no votan. Las minorías tienen derecho a estar protegidas, a organizarse y a pedir que se respeten sus derechos, y esa protección es uno de los rasgos principales de un sistema democrático.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.62,
+      "bundle_id": "CO-SOC-7-2026-W13-la-democracia-y-el-voto-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

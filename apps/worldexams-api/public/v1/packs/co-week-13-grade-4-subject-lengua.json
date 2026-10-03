@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-13-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v1",
+      "statement": "Lee este inicio: \"La ardilla guardaba bellotas en el hueco de un árbol cerca de su casa\". ¿Dónde guardaba la ardilla las bellotas?",
+      "context": "En la biblioteca de Florencia, Caquetá, hay un cuento sobre una ardilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En una bolsa de tela.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que las bellotas estaban en el hueco de un árbol, no en una bolsa."
+        },
+        {
+          "letter": "B",
+          "text": "En una cueva del bosque.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona ninguna cueva, solo el hueco de un árbol."
+        },
+        {
+          "letter": "C",
+          "text": "Debajo de una piedra grande.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no habla de piedras, el lugar indicado es un árbol."
+        },
+        {
+          "letter": "D",
+          "text": "En el hueco de un árbol.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el inicio dice de manera directa que las bellotas estaban en el hueco de un árbol."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La comprensión literal recupera los datos que el cuento cuenta de forma explícita. Reconocer el lugar donde un personaje guarda algo es el primer paso para seguir el argumento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v2",
+      "statement": "El final dice: \"Cuando llegó el invierno, la ardilla abrió su hueco y encontró todas sus bellotas\". ¿Qué encontró la ardilla al abrir el hueco?",
+      "context": "La profesora de cuarto grado de Ibagué leyó en voz alta el final del cuento de la ardilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un nido de pájaros.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final habla de bellotas guardadas, no de un nido de pájaros."
+        },
+        {
+          "letter": "B",
+          "text": "Nieve y agua congelada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el invierno aparece solo como motivo de la búsqueda, no como hallazgo."
+        },
+        {
+          "letter": "C",
+          "text": "Todas sus bellotas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el final dice que encontró todas las bellotas que había guardado."
+        },
+        {
+          "letter": "D",
+          "text": "Una carta de la ardilla vecina.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no hay cartas en el cuento, el objeto guardado son las bellotas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Comprender el final de un cuento es reconocer qué resolvió la narración. El último párrafo indica si el personaje alcanzó lo que buscaba y con qué resultado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v3",
+      "statement": "En el cuento, la ardilla junta bellotas en otoño y las come en invierno. ¿Qué estación corresponde a cada acción?",
+      "context": "En el aula de Tuluá, los estudiantes de cuarto hicieron un mapa de las acciones del cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bellotas en invierno y comida en verano.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa opción invierte las estaciones que da el texto."
+        },
+        {
+          "letter": "B",
+          "text": "Bellotas en invierno y comida en otoño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto dice que las bellotas se juntan en otoño y se comen en invierno."
+        },
+        {
+          "letter": "C",
+          "text": "Bellotas en otoño y comida en invierno.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el texto ubica la recolección en otoño y el consumo en invierno."
+        },
+        {
+          "letter": "D",
+          "text": "Bellotas y comida en otoño.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento separa las acciones: juntar en otoño y comer en invierno."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Clasificar información de un texto significa organizar lo que se lee. Reconocer qué acción corresponde a cada momento del año ayuda a ordenar la secuencia del cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v4",
+      "statement": "Ella dijo: \"El texto enseña que conviene preparar las cosas antes de necesitarlas\". ¿Qué enseñanza deja el cuento?",
+      "context": "En una jornada de lectura en Manizales, una niña contó a sus compañeros lo que entendió del cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que conviene preparar las cosas antes de necesitarlas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque esa es la idea central del cuento: la ardilla se preparó antes del invierno."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ardilla era muy perezosa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento no la muestra perezosa, al contrario, ella trabajó para guardar."
+        },
+        {
+          "letter": "C",
+          "text": "Que las bellotas no sirven para nada.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el final muestra que las bellotas sí sirvieron de alimento en el invierno."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay que salir de casa cuando llega el invierno.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento no habla de salir de casa, sino de guardar alimento para esa estación."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un texto narrativo suele comunicar una enseñanza. Reconocer esa enseñanza es entender la intención del autor más allá de lo que pasó en la historia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v5",
+      "statement": "Parte uno: \"Llegó el invierno y el árbol quedó sin hojas\". Parte dos: \"La ardilla abrió su hueco\". Parte tres: \"La ardilla había juntado bellotas en otoño\". ¿En qué orden va el texto?",
+      "context": "En el taller de lectura de Sincelejo, los niños recibieron tres partes del cuento en desorden.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos, uno y tres.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque abrir el hueco no puede ocurrir antes de que llegue el invierno."
+        },
+        {
+          "letter": "B",
+          "text": "Tres, uno y dos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque primero se juntan las bellotas en otoño, luego llega el invierno y al final la ardilla abre el hueco."
+        },
+        {
+          "letter": "C",
+          "text": "Uno, tres y dos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque no se pueden juntar bellotas en otoño después de que ya llegó el invierno."
+        },
+        {
+          "letter": "D",
+          "text": "Uno, dos y tres.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el inicio del cuento debe contar la preparación en otoño, no la llegada del invierno."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ordenar los hechos de una narración es reconocer la relación de tiempo y de causa entre ellos. La preparación viene antes de la necesidad, por eso el orden correcto empieza en otoño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v6",
+      "statement": "¿Qué muestra esa frase sobre la ardilla?",
+      "context": "En el concurso de comprensión lectora de Villavicencio, el cuento de la ardilla tuvo esta frase: \"Nadie le había visto guardar tanto\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la ardilla guardaba pocos alimentos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice que guardó mucho, no pocos alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Que los vecinos observaban todo lo que ella hacía.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase dice que nadie la vio guardar, es decir, que nadie se fijó."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ardilla solo guardaba bellotas bonitas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la frase habla de cuánto guardó, no del aspecto de las bellotas."
+        },
+        {
+          "letter": "D",
+          "text": "Que preparaba su comida sin que nadie se fijara.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"nadie le había visto guardar tanto\" muestra que su preparación pasó inadvertida."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Inferir un rasgo de un personaje es deducirlo de lo que el texto insinúa. La frase \"nadie le había visto\" da a conocer que la ardilla actuaba sin hacer ruido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v7",
+      "statement": "El cuento termina con la ardilla abriendo su hueco y comiendo sus bellotas. El proverbio dice: \"Quien prepara hoy, come mañana\". ¿Qué relación hay entre los dos textos?",
+      "context": "En cuarto grado de Popayán, los estudiantes compararon el final del cuento con un proverbio conocido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Expresan cosas distintas y no se relacionan.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento y el proverbio dicen la misma idea, uno con ejemplo y otro como resumen."
+        },
+        {
+          "letter": "B",
+          "text": "El proverbio contradice el final del cuento.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento y el proverbio coinciden, ninguno se opone al otro."
+        },
+        {
+          "letter": "C",
+          "text": "El cuento sirve para explicar el significado del proverbio.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento muestra la idea con un ejemplo y el proverbio la resume de forma general."
+        },
+        {
+          "letter": "D",
+          "text": "El cuento es un ejemplo de lo que el proverbio afirma.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la historia de la ardilla es el caso concreto de la idea general que expresa el proverbio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relacionar dos textos permite ver que una frase general puede tener ejemplos en un cuento. Saber cuál es el ejemplo y cuál es la idea ayuda a llevar lo aprendido a la vida diaria.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle-v8",
+      "statement": "El grupo dijo: \"La ardilla escondió las bellotas porque los niños del colegio se las quitaban\". ¿Qué se evalúa de esa versión?",
+      "context": "En una feria de lectura de Quibdó, un grupo presentó su versión del cuento sobre la ardilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la versión es correcta porque los niños roban.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa razón no aparece en el cuento original, así que no puede sostenerse."
+        },
+        {
+          "letter": "B",
+          "text": "Que la versión no menciona ningún lugar.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento sí menciona el hueco de un árbol como lugar del escondite."
+        },
+        {
+          "letter": "C",
+          "text": "Que la versión no cuenta cómo termina la historia.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el cuento sí termina con la ardilla comiendo sus bellotas en invierno."
+        },
+        {
+          "letter": "D",
+          "text": "Que la versión inventó una razón que el texto no da.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el cuento explica que la ardilla guardó para el invierno, no porque alguien le quitara las bellotas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una versión de un cuento significa comparar lo que se cuenta con lo que el texto original dice. Añadir causas que no aparecen en el texto cambia el significado de la historia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W13-el-cuento-de-la-ardilla-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
