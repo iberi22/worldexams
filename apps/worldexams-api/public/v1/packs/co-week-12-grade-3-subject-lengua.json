@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.007Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v1",
+      "statement": "La cabeza está arriba. En la cabeza están los ojos, la nariz y la boca. Los brazos están a los lados. Las piernas sirven para caminar. ¿Con qué parte caminamos según el texto?",
+      "context": "En un colegio de Manizales, la profesora muestra una lámina del cuerpo para la clase de ciencias y lengua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con los ojos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los ojos sirven para ver, no para caminar, porque el texto dice que están en la cabeza para mirar."
+        },
+        {
+          "letter": "B",
+          "text": "Con las piernas",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que las piernas sirven para caminar y corresponde al dato literal del final."
+        },
+        {
+          "letter": "C",
+          "text": "Con la nariz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nariz sirve para oler, no para caminar, porque el texto la ubica en la cabeza junto a los ojos."
+        },
+        {
+          "letter": "D",
+          "text": "Con la boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La boca sirve para hablar y comer, no para caminar, porque el texto la describe como parte de la cabeza."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la localización de información explícita. El estudiante reconoce la función de las piernas en un texto descriptivo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v2",
+      "statement": "El juego dice: toco mi cabeza, toco mis hombros, aplaudo con mis manos y zapateo con mis pies. Los niños se ríen y repiten la canción dos veces. ¿Con qué aplauden los niños?",
+      "context": "En un parque de Pereira, los niños juegan a señalar las partes del cuerpo mientras cantan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con los pies",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con los pies zapatean, no aplauden, porque la canción dice que zapatean con los pies."
+        },
+        {
+          "letter": "B",
+          "text": "Con los hombros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los hombros solo se tocan en el juego, porque la canción dice toco mis hombros al inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Con la cabeza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cabeza solo se toca, no aplaude, porque la canción dice toco mi cabeza primero."
+        },
+        {
+          "letter": "D",
+          "text": "Con las manos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la canción dice que aplauden con las manos y significa que las palmas producen el aplauso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Trabaja la comprensión de acciones con el cuerpo. El niño asocia cada parte con su acción en la canción.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v3",
+      "statement": "Lávate las manos con agua y jabón. La palabra lavarse significa limpiar con agua y jabón. El niño se lava y luego come tranquilo. ¿Qué significa lavarse en este texto?",
+      "context": "En una casa en Ibagué, la mamá le dice al niño que se lave las manos antes de comer bandeja paisa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limpiar con agua y jabón",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto define lavarse como limpiar con agua y jabón y el niño lo hace antes de comer."
+        },
+        {
+          "letter": "B",
+          "text": "Ensucar con tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ensucar es lo contrario de lavar, porque lavarse significa quitar la suciedad con agua y jabón."
+        },
+        {
+          "letter": "C",
+          "text": "Secar con la camisa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Secar es otro paso diferente, porque lavarse significa usar agua y jabón para limpiar."
+        },
+        {
+          "letter": "D",
+          "text": "Jugar con el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar no es limpiar, porque lavarse significa limpiar las manos para comer tranquilo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el significado de palabras de higiene. El estudiante aplica la definición de lavarse en una situación diaria.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v4",
+      "statement": "El niño se tapó los ojos con las manos. No vio el gol de su equipo. Sus amigos gritaron de alegría. Él preguntó qué pasó. ¿Por qué no vio el gol?",
+      "context": "En Cúcuta, un niño se tapa los ojos con las manos durante un partido de fútbol en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque estaba dormido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no estaba dormido, porque el texto dice que se tapó los ojos con las manos durante el partido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque se fue a la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no se fue, porque seguía en el patio y preguntó a sus amigos qué había pasado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque tenía los ojos tapados",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque si tiene las manos sobre los ojos no puede ver, lo que explica que se perdió el gol."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cerró los oídos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los oídos sirven para oír, no para ver, porque el texto dice que se tapó los ojos y por eso no vio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Trabaja la causa y el efecto en un relato. El estudiante infiere que taparse los ojos impide ver el gol.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v5",
+      "statement": "Aviso: Cepilla tus dientes tres veces al día. Usa un cepillo suave. Visita al dentista cada año. El aviso tiene tres consejos seguidos. ¿Cuál es el segundo consejo del aviso?",
+      "context": "En Santa Marta, la enfermera del colegio pega un aviso sobre cómo cuidar los dientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cepilla tus dientes tres veces al día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el primer consejo del aviso, no el segundo, porque aparece en la primera línea del texto."
+        },
+        {
+          "letter": "B",
+          "text": "Come dulces todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no dice eso, porque recomienda cepillarse y usar cepillo suave para cuidar los dientes."
+        },
+        {
+          "letter": "C",
+          "text": "No vayas al dentista",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso dice lo contrario, porque pide visitar al dentista cada año para revisar los dientes."
+        },
+        {
+          "letter": "D",
+          "text": "Usa un cepillo suave",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque esa frase aparece en segundo lugar y corresponde al segundo consejo del aviso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analiza el orden de un texto instructivo. El estudiante identifica el segundo consejo dentro de una lista de tres.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v6",
+      "statement": "La niña corría muy rápido. Se tropezó con una piedra y cayó al suelo. Se sobó la rodilla y lloró. La profesora le puso hielo y la abrazó. ¿Qué parte del cuerpo se lastimó?",
+      "context": "En Armenia, una niña corre en el recreo, se cae y se soba la rodilla llorando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La mano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña no se soba la mano, porque el texto dice que se sobó la rodilla después de caer."
+        },
+        {
+          "letter": "B",
+          "text": "La rodilla",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que se sobó la rodilla y allí le pusieron hielo por el golpe."
+        },
+        {
+          "letter": "C",
+          "text": "El hombro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hombro no se menciona en la caída, porque la parte sobada y cuidada fue la rodilla."
+        },
+        {
+          "letter": "D",
+          "text": "La oreja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oreja no tiene relación con la caída, porque el golpe fue en la pierna a la altura de la rodilla."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la identificación de detalles en un accidente. El estudiante relaciona la acción de sobarse con la rodilla lastimada.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v7",
+      "statement": "Juan dice que prestar el cepillo de dientes no hace daño. Ana dice que cada uno debe usar su propio cepillo para no enfermarse. La profesora apoya a Ana. ¿Quién tiene la razón?",
+      "context": "En Montería, dos amigos discuten si es bueno compartir el cepillo de dientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juan, porque prestar todo es bueno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prestar el cepillo pasa microbios, no es bueno, porque cada boca tiene bacterias distintas que enferman."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno, los dientes no se cuidan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dientes sí se cuidan, porque cepillarse y usar cepillo propio evita caries y enfermedades."
+        },
+        {
+          "letter": "C",
+          "text": "Ana, porque el cepillo es personal",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el cepillo guarda bacterias y significa que usar uno propio evita contagios entre amigos."
+        },
+        {
+          "letter": "D",
+          "text": "Juan, porque el jabón limpia el cepillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jabón no reemplaza la higiene personal, porque el cepillo sigue guardando microbios aunque se enjuague."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Forma el criterio sobre higiene personal. El estudiante juzga por qué el cepillo de dientes no debe compartirse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v8",
+      "statement": "La cartelera invita a lavarse las manos antes de comer y después de ir al baño. Tiene dibujos de niños lavándose. Está pegada a la entrada del comedor. ¿Qué quiere lograr la cartelera?",
+      "context": "En Neiva, el curso hace una cartelera que dice: Mis manos limpias cuidan a todos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Convencer de lavarse las manos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la cartelera invita con dibujos y mensajes a lavarse, lo que busca cambiar el hábito por salud."
+        },
+        {
+          "letter": "B",
+          "text": "Enseñar a jugar fútbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cartelera no habla de fútbol, porque sus dibujos y mensajes son sobre manos limpias en el comedor."
+        },
+        {
+          "letter": "C",
+          "text": "Vender jabones de colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cartelera no vende nada, porque su intención es cuidar la salud y no ofrecer un producto con precio."
+        },
+        {
+          "letter": "D",
+          "text": "Contar un cuento del baño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cartelera no narra un cuento, porque es un aviso con una invitación clara a lavarse las manos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la intención de un texto publicitario escolar. El estudiante reconoce que la cartelera busca convencer de un hábito sano.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

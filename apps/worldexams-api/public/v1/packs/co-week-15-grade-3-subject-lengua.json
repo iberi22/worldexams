@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-15-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.008Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v1",
+      "statement": "La raíz está debajo de la tierra. El tallo sostiene la planta. Las hojas respiran. La flor da el fruto. ¿Qué parte está debajo de la tierra?",
+      "context": "En una huerta escolar de Duitama, los niños siembran fríjol en vasos con algodón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tallo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tallo sostiene la planta por encima, no debajo, porque el texto dice que la raíz está debajo."
+        },
+        {
+          "letter": "B",
+          "text": "La raíz",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que la raíz está debajo de la tierra y corresponde al dato literal."
+        },
+        {
+          "letter": "C",
+          "text": "Las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas respiran arriba en la planta, no debajo, porque están sobre el tallo según el texto."
+        },
+        {
+          "letter": "D",
+          "text": "La flor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor da el fruto en la parte alta, no debajo, porque el texto la ubica fuera de la tierra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuerda las partes de la planta. El estudiante ubica la raíz como la parte subterránea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v2",
+      "statement": "La niña riega la rosa cada mañana. La rosa tiene pétalos rojos. Tiene espinas en el tallo. Huele muy rico. ¿De qué color son los pétalos?",
+      "context": "En un jardín de Medellín, una niña riega una rosa roja que sembró con su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amarillos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Amarillos no aparece en el texto, porque la rosa descrita tiene pétalos rojos."
+        },
+        {
+          "letter": "B",
+          "text": "Blancos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Blancos no corresponde a esta rosa, porque el texto dice que los pétalos son rojos."
+        },
+        {
+          "letter": "C",
+          "text": "Azules",
+          "is_correct": false,
+          "feedback": "Incorrecto. Azules no es el color nombrado, porque la niña riega una rosa de pétalos rojos."
+        },
+        {
+          "letter": "D",
+          "text": "Rojos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que la rosa tiene pétalos rojos y significa su color visible."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Identifica detalles de color en la descripción. El niño asocia los pétalos rojos con la rosa regada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v3",
+      "statement": "Sembrar significa poner semillas en la tierra para que nazcan plantas. El papá abre huecos. El niño pone dos granos en cada hueco. Tapan con tierra suave. ¿Qué significa sembrar?",
+      "context": "En Tolima, el papá dice que van a sembrar maíz antes de que lleguen las lluvias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner semillas en la tierra",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque sembrar significa colocar granos en huecos tapados con tierra para que nazcan plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Cortar árboles grandes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cortar es tumbar, no sembrar, porque sembrar significa poner semillas para que nazcan."
+        },
+        {
+          "letter": "C",
+          "text": "Recoger frutos maduros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recoger es cosechar al final, no sembrar, porque sembrar es el inicio con semillas en la tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Regar el piso de cemento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cemento no deja nacer plantas, porque sembrar necesita tierra suave donde poner los granos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplica vocabulario agrícola. El estudiante define sembrar como poner semillas en la tierra.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v4",
+      "statement": "El cafeto no recibió agua en ocho días. Sus hojas se doblaron hacia abajo. El tallo se veía débil. El niño le puso agua y al día siguiente se levantó. ¿Por qué estaba triste el cafeto?",
+      "context": "En Quindío, un cafeto se pone triste y con hojas caídas porque nadie lo riega.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tenía mucha agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cafeto no tenía agua, porque el texto dice que no recibió agua en ocho días seguidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque le cortaron las flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las flores no se mencionan cortadas, porque el problema fue la falta de agua que dobló las hojas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque le faltaba agua",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque ocho días sin agua doblan las hojas y significa sed en la planta que se alivia al regar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque cantaban muy fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cantar no afecta al cafeto, porque su mejoría llegó justo después de ponerle agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere la causa del marchitamiento. El estudiante conecta la falta de agua con las hojas caídas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v5",
+      "statement": "Ficha: Nombre: girasol. Tallo: alto y grueso. Flor: grande y amarilla. Necesita: sol y agua. ¿Qué dice la ficha sobre el tallo?",
+      "context": "En un vivero de Bucaramanga, una ficha describe el girasol para los visitantes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es corto y delgado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Corto y delgado es lo contrario, porque la ficha dice que el tallo es alto y grueso."
+        },
+        {
+          "letter": "B",
+          "text": "Que es una flor amarilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor amarilla es otra parte, no el tallo, porque el tallo se describe aparte como alto y grueso."
+        },
+        {
+          "letter": "C",
+          "text": "Que necesita sombra total",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ficha pide sol y agua, no sombra, porque el girasol necesita sol para crecer."
+        },
+        {
+          "letter": "D",
+          "text": "Que es alto y grueso",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la ficha dice tallo alto y grueso y corresponde a la descripción exacta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Lee fichas informativas por partes. El estudiante distingue la descripción del tallo de las demás.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v6",
+      "statement": "La mata estaba pálida junto a la puerta oscura. El niño la pasó a la ventana con sol. La regó cada dos días. En una semana sacó hojas verdes nuevas. ¿Qué ayudó a la mata?",
+      "context": "En Leticia, un niño pone una mata en la ventana donde entra el sol de la mañana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La oscuridad de la puerta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oscuridad la tenía pálida, no la ayudó, porque mejoró al pasarla a la ventana con sol."
+        },
+        {
+          "letter": "B",
+          "text": "El sol y el agua constante",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el sol de la ventana y el riego cada dos días significan cuidado y por eso salieron hojas verdes."
+        },
+        {
+          "letter": "C",
+          "text": "No regarla nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. No regar la marchita, no la ayuda, porque el niño la regó cada dos días para verla mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Guardarla en una caja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guardarla le quitaría luz y aire, porque lo que la revivió fue el sol y el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analiza cuidados que reviven una planta. El estudiante concluye que sol y riego constante producen hojas nuevas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v7",
+      "statement": "Felipe arranca hojas de las matas por diversión. Camila dice que no lo haga porque las hojas ayudan a respirar. La profesora apoya a Camila. ¿Quién actúa mejor?",
+      "context": "En Pasto, dos niños discuten: uno arranca hojas por juego, otro dice que eso daña la planta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Felipe, porque jugar es primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arrancar hojas daña, no es buen juego, porque las hojas ayudan a la planta a respirar y vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos, da igual arrancar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da igual, porque arrancar deja a la planta sin hojas que significan su respiración y alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Camila, porque protege las hojas",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque cuidar las hojas protege la respiración de la planta y significa respeto por la vida."
+        },
+        {
+          "letter": "D",
+          "text": "Felipe, porque salen más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arrancar no acelera nada, porque la planta sufre y tarda más en sacar hojas nuevas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzga acciones frente a las plantas. El estudiante valora proteger las hojas como órgano vital.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v8",
+      "statement": "El cartel invita a cada niño a adoptar una planta. Pide regarla y ponerla al sol. Muestra fotos de matas sanas. Está en la entrada del salón. ¿Qué busca el cartel?",
+      "context": "En Santa Marta, el curso hace un cartel: Adopta una planta y cuídala todo el año.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cuiden una planta todo el año",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el cartel invita a adoptar, regar y dar sol, lo que significa un compromiso de cuidado largo."
+        },
+        {
+          "letter": "B",
+          "text": "Que vendan matas caras",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no vende nada, porque invita a adoptar y cuidar sin hablar de precios en pesos."
+        },
+        {
+          "letter": "C",
+          "text": "Que corten todas las flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel pide cuidar, no cortar, porque muestra matas sanas que necesitan hojas y flores."
+        },
+        {
+          "letter": "D",
+          "text": "Que dibujen sin regar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dibujar no reemplaza regar, porque el cartel pide acciones reales de riego y sol."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la intención de una campaña escolar. El estudiante reconoce el compromiso de adoptar y cuidar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

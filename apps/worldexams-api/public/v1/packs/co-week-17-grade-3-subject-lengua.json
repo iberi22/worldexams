@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-17-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.008Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v1",
+      "statement": "La panadera se levanta a las cuatro. Hornea pan dulce y almojábanas. Las vende en su tienda. Los vecinos compran felices. ¿Qué hornea la panadera?",
+      "context": "En un barrio de Cali, la panadera hornea pan dulce desde muy temprano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zapatos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Zapatos los hace el zapatero, no la panadera, porque ella hornea pan dulce y almojábanas."
+        },
+        {
+          "letter": "B",
+          "text": "Pan dulce y almojábanas",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que hornea pan dulce y almojábanas y corresponde a su oficio."
+        },
+        {
+          "letter": "C",
+          "text": "Camisas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Camisas las cose la modista, no la panadera, porque su trabajo es hornear en la madrugada."
+        },
+        {
+          "letter": "D",
+          "text": "Ollas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ollas las vende otro comercio, porque la panadera hornea y vende pan en su tienda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuerda el producto de un oficio. El estudiante asocia a la panadera con el pan dulce.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v2",
+      "statement": "El pescador sale en lancha. Lanza su red al mar. Recoge pescados frescos. Los vende en la playa. ¿Con qué pesca el pescador?",
+      "context": "En Santa Marta, el pescador sale en lancha al amanecer y vuelve con pescado fresco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con un martillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El martillo es del carpintero, no del pescador, porque él lanza su red al mar."
+        },
+        {
+          "letter": "B",
+          "text": "Con una escoba",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escoba sirve para barrer, no para pescar, porque el pescador usa su red en la lancha."
+        },
+        {
+          "letter": "C",
+          "text": "Con un lápiz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lápiz sirve para escribir, no para pescar, porque el texto dice que lanza su red."
+        },
+        {
+          "letter": "D",
+          "text": "Con una red",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que lanza su red al mar y con ella recoge pescados frescos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Relaciona oficio con herramienta. El niño identifica la red como instrumento del pescador.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v3",
+      "statement": "Curar significa limpiar una herida y cuidarla para que sane. La enfermera lava la rodilla. Pone una curita. Le dice que descanse. ¿Qué significa curar?",
+      "context": "En Popayán, la enfermera cura la rodilla de un niño que se cayó en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limpiar y cuidar una herida",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque curar significa lavar la rodilla y poner curita para que sane con descanso."
+        },
+        {
+          "letter": "B",
+          "text": "Regañar al enfermo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regañar es reprochar, no curar, porque la enfermera lava y cuida con amabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Esconder la herida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder no sana, porque curar significa limpiar y cuidar para que la herida sane."
+        },
+        {
+          "letter": "D",
+          "text": "Pintar la rodilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pintar es colorear, no curar, porque la enfermera lava y protege con una curita."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Define vocabulario de cuidado. El estudiante aplica curar como limpiar y cuidar heridas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v4",
+      "statement": "El carpintero mide la madera. La corta con serrucho. La lija con cuidado. Arma una silla fuerte. ¿Qué hace el carpintero?",
+      "context": "En Tunja, el carpintero hace una silla pequeña para la escuela rural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cocina arepas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cocinar arepas es de la cocinera, no del carpintero, porque él mide y corta madera."
+        },
+        {
+          "letter": "B",
+          "text": "Siembra papas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar papas es del agricultor, no del carpintero, porque él arma una silla con madera."
+        },
+        {
+          "letter": "C",
+          "text": "Construye muebles de madera",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque medir, cortar y lijar madera para armar una silla significa construir muebles."
+        },
+        {
+          "letter": "D",
+          "text": "Arregla zapatos rotos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arreglar zapatos es del zapatero, no del carpintero, porque su material es la madera."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere el oficio por sus acciones. El estudiante concluye que trabajar madera es construir muebles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v5",
+      "statement": "Tarjeta: Para: profe Marta. Mensaje: gracias por enseñarme a leer. De: Julián. La tarjeta tiene destinatario, mensaje y remitente. ¿Quién es el remitente?",
+      "context": "En Ibagué, una tarjeta del Día del Maestro dice quién la escribe y para quién es.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Profe Marta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Profe Marta es la destinataria, no quien escribe, porque aparece después de Para en la tarjeta."
+        },
+        {
+          "letter": "B",
+          "text": "Gracias por enseñarme",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es el mensaje, no el remitente, porque explica el motivo de agradecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "La escuela rural",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escuela no firma la tarjeta, porque quien escribe y firma es el niño agradecido."
+        },
+        {
+          "letter": "D",
+          "text": "Julián",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque Julián firma después de De y corresponde al remitente que envía la tarjeta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distingue partes de una tarjeta. El estudiante identifica al remitente tras la marca De.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v6",
+      "statement": "El niño llevó un pantalón para arreglar. También llevó una camisa para pegar un botón. La modista sumó las dos cuentas. El niño pagó con 20000 pesos. ¿Cuánto costó todo?",
+      "context": "En Cúcuta, la modista cobra 10000 pesos por arreglar un pantalón y 5000 por pegar un botón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "5000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5000 es solo el botón, no el total, porque falta sumar los 10000 del pantalón arreglado."
+        },
+        {
+          "letter": "B",
+          "text": "15000 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque 10000 más 5000 son 15000, lo que corresponde a la suma de los dos arreglos."
+        },
+        {
+          "letter": "C",
+          "text": "20000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 20000 fue lo que pagó, no el costo, porque el costo es menor y recibe vueltas en pesos."
+        },
+        {
+          "letter": "D",
+          "text": "10000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 10000 es solo el pantalón, no el total, porque debe añadir los 5000 del botón."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Suma precios de un oficio en pesos. El estudiante totaliza dos servicios de modistería.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v7",
+      "statement": "El niño dice que solo es trabajo si pagan plata. Su mamá barre, cocina y cuida sin recibir sueldo. La abuela dice que ese cuidado sostiene la casa. ¿Qué opinas?",
+      "context": "En Riohacha, un niño dice que barrer la casa no es trabajo porque no pagan por hacerlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el niño tiene razón total",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuidado sin sueldo sí es trabajo, porque barrer y cocinar sostienen la casa cada día."
+        },
+        {
+          "letter": "B",
+          "text": "Que barrer no sirve para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Barrer sí sirve, porque una casa limpia cuida la salud y significa bienestar para todos."
+        },
+        {
+          "letter": "C",
+          "text": "Que cuidar la casa también es trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque barrer, cocinar y cuidar sostienen el hogar y significa trabajo aunque no paguen plata."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo pagan por jugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar no es un oficio pagado, porque el trabajo real incluye cuidar la casa con esfuerzo diario."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Valora el trabajo del hogar. El estudiante juzga que cuidar sin sueldo también es trabajo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v8",
+      "statement": "El letrero busca un ayudante para los sábados. Dice que debe ser puntual y amable. Deja un número para llamar. Está en la puerta de la tienda. ¿Para qué sirve el letrero?",
+      "context": "En Villavicencio, un letrero en la tienda dice: Se busca ayudante para empacar mercado los sábados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para ofrecer un trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque busca ayudante con requisitos y número, lo que significa una oferta de empleo."
+        },
+        {
+          "letter": "B",
+          "text": "Para vender empanadas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El letrero no vende comida, porque busca una persona para empacar mercado los sábados."
+        },
+        {
+          "letter": "C",
+          "text": "Para contar un chiste",
+          "is_correct": false,
+          "feedback": "Incorrecto. El letrero no hace reír, porque pide puntualidad y deja un número para llamar."
+        },
+        {
+          "letter": "D",
+          "text": "Para felicitar a un amigo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No felicita a nadie, porque su mensaje es buscar ayudante para la tienda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconoce avisos de empleo sencillo. El estudiante comprende que el letrero ofrece trabajo de ayudante.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

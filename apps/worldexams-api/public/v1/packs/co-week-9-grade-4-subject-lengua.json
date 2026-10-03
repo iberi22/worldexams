@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.011Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v1",
+      "statement": "Ana dice: “Cuando mi mamá llega de casa, sonrío y quiero abrazarla”. ¿Qué emoción siente Ana?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegría",
+          "is_correct": true,
+          "feedback": "Correcto. Las expresiones “sonrío” y “quiero abrazarla” muestran que Ana se siente alegre."
+        },
+        {
+          "letter": "B",
+          "text": "Miedo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “miedo” no corresponde a la llegadaBounds de su mamá ni a los gestos alegres que describe Ana."
+        },
+        {
+          "letter": "C",
+          "text": "Tristeza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ana no llora, se queja ni dice que quiere estar sola; por eso, la frase no indica tristeza."
+        },
+        {
+          "letter": "D",
+          "text": "Enojo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No aparecen palabras como “gritar”, “enojarme” o “golpear”, que podrían señalar enojo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La pregunta evalúa la identificación literal de una emoción. Las palabras “sonrío” y “quiero abrazarla” son pistas directas de alegría.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de estas frases explica mejor qué son las emociones y los sentimientos?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son objetos que usamos para cambiar de lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “objetos” se refiere a cosas materiales, no a las respuestas emocionales que sentimos."
+        },
+        {
+          "letter": "B",
+          "text": "Son respuestas que nos ayudan a saber cómo nos sentimos ante lo que ocurre.",
+          "is_correct": true,
+          "feedback": "Correcto. La frase relaciona las emociones con “cómo nos sentimos” y con las cosas que nos ocurren."
+        },
+        {
+          "letter": "C",
+          "text": "Son preguntas que hacemos para conocer un lugar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “preguntas” no explica una emoción, porque una pregunta seeks información y no indica cómo nos sentimos."
+        },
+        {
+          "letter": "D",
+          "text": "Son números que servem para contar personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “números” sirve para contar o medir, mientras que las emociones expresan nuestros sentimientos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las emociones son respuestas interiores y personales que aparecen frente a situaciones, personas o hechos. pueden ser alegría, tristeza, miedo, enojo u otras, y nos ayudan a reconocer cómo nos sentimos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v3",
+      "statement": "Una estudiante dice: “Antes de presentar, me tiemblan las manos y el corazón me late rápido. Después de que la profesora dice ‘bien’, sonrío y respiro tranquila”. ¿Cómo cambian sus emociones en la narración?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De alegría a miedo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción invierte el orden, porque el miedo aparece antes de presentar y la alegría después del elogio."
+        },
+        {
+          "letter": "B",
+          "text": "De miedo a tristeza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “bien”, junto con “sonrío”, indica alegría y no tristeza al final de la narración."
+        },
+        {
+          "letter": "C",
+          "text": "De miedo a alegría.",
+          "is_correct": true,
+          "feedback": "Correcto. El temblor y los latidos rápidos indican miedo antes de presentar; la sonrisa y la tranquilidad indican alegría después."
+        },
+        {
+          "letter": "D",
+          "text": "De miedo a miedo durante toda la presentación.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión “respiro tranquila” muestra que el miedo cambia y da lugar a una emoción alegre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La estudiante interpreta clues para reconocer dos emociones. Las reacciones del cuerpo muestran miedo antes de la presentación, mientras que la sonrisa y la tranquilidad después de recibir un elogio muestran alegría.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v4",
+      "statement": "Dos estudiantes se discuten por un dibujo. Una grita: “Estoy muy enojada”. La otra responde: “Yo también, pero voy a parar, respirar y hablar con la profesora”. ¿Qué hace mejor la segunda estudiante para manejar su emoción?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Golpear el dibujo para mostrar que está enojada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción “golpear” aumenta la discriminacion y el daño en lugar de ayudar a controlar el enojo."
+        },
+        {
+          "letter": "B",
+          "text": "Negar que está enojada y seguir gritándole a la otra estudiante.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra “negar” y la acción “seguir gritándole” impiden reconocer la emoción y empeoran el conflicto."
+        },
+        {
+          "letter": "C",
+          "text": "Quedarse callada y no contar lo ocurrido a nadie.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase “no contar a nadie” evita la comunicación y no permite pedir ayuda para resolver el problema."
+        },
+        {
+          "letter": "D",
+          "text": "Reconoce el enojo y busca calmarse para resolver el conflicto sin dañar a nadie.",
+          "is_correct": true,
+          "feedback": "Correcto. Las acciones “parar”, “respirar” y “hablar con la profesora” ayudan a controlar el enojo y a buscar una solución segura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Reconocer una emoción y elegir una conducta segura ayuda a manejarla. En esta situación, parar, respirar y hablar con la profesora permiten controlar el enojo y resolver la discriminacion sin hacerse daño.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v5",
+      "statement": "La estudiante dice: «Después de un día difícil, el abrazo de su mamá le dejó una sensación de alivio». ¿Qué palabra nombra esa sensación?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrazo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «abrazo» describe una acción de cariño, no la emoción que siente la estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «día» indica un periodo de tiempo y no expresa cómo se siente la estudiante."
+        },
+        {
+          "letter": "C",
+          "text": "Alivio",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra «alivio» nombra la sensación de sentirse menos preocupada después de un momento difícil."
+        },
+        {
+          "letter": "D",
+          "text": "Madrugada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «madrugada» nombra otra hora del día, pero no aparece en el texto ni expresa una emoción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El texto usa la palabra «alivio» para nombrar una emoción. Esta aparece cuando dejamos de sentirnos tan preocupados o incómodos después de algo difícil.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v6",
+      "statement": "La estudiante cuenta: «Estaba nerviosa antes de la prueba. Cuando la terminó, respiró y dijo que se sentía feliz». ¿Qué cambio de emoción se puede inferir?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasó de estar nerviosa a sentirse feliz.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión «pasó de... a...» recoge el cambio de «nerviosa» antes de la prueba a «feliz» después de terminarla."
+        },
+        {
+          "letter": "B",
+          "text": "Siempre estuvo feliz.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «siempre» ignora que la estudiante dice que estaba nerviosa antes de la prueba."
+        },
+        {
+          "letter": "C",
+          "text": "Pasó de sentirse feliz a estar nerviosa.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción invierte el orden, porque primero estaba nerviosa y después se sintió feliz."
+        },
+        {
+          "letter": "D",
+          "text": "Estuvo cansada y luego enojada.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras «cansada» y «enojada» no aparecen en el texto y sustituyen las emociones de nerviosa y feliz."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para inferir el cambio, comparamos las emociones antes y después de la prueba. La estudiante pasa de sentirse nerviosa a sentirse feliz.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v7",
+      "statement": "Julián dice: «Estoy muy nervioso porque mañana presentaré un dibujo ante mis compañeros». ¿Qué puede hacer para manejar esa emoción antes de presentar?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Esconder el dibujo hasta que termine la clase.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La acción «esconder» evita la presentación, pero no ayuda a Julián a manejar los nervios."
+        },
+        {
+          "letter": "B",
+          "text": "Decir que no tiene miedo y no preparar el dibujo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La frase «no tiene miedo» no reconoce su emoción y la decisión de «no preparar» aumenta la incertidumbre."
+        },
+        {
+          "letter": "C",
+          "text": "Correr y gritar para que todos lo miren.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las acciones «correr» y «gritar» pueden aumentar el nerviosismo de Julián antes de presentar."
+        },
+        {
+          "letter": "D",
+          "text": "Respirar profundo, imaginarse que le irá bien y pedir ayuda a su maestra.",
+          "is_correct": true,
+          "feedback": "Correcto. Las acciones «respirar», «imaginarse» y «pedir ayuda」 ayudan a Julián a controlar sus nervios y preparar la presentación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una persona puede manejar el nerviosismo con acciones tranquille y prepare, como respirar profundo, pensar en algo positivo y pedir apoyo. Esconder el dibujo, negar el miedo o gritar no solve el problema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle-v8",
+      "statement": "Mateo se sintió nervioso durante una lectura, pero se sintió orgulloso cuando sus compañeros lo felicitaron. Camila se decepcionó cuando su equipo no ganó, pero se sintió contenta cuando sus amigos la apoyaron. ¿Qué relación entre las experiencias y las emociones muestran los dos textos?",
+      "context": "En el salón de clase de Cali, una estudiante de cuarto grado habla de sus emociones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las emociones se quedan iguales aunque cambien las experiencias.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «iguales» contradice que las emociones de Mateo y Camila cambien durante sus experiencias."
+        },
+        {
+          "letter": "B",
+          "text": "Las emociones pueden cambiar según lo que viven y el apoyo que reciben.",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra «cambiar» explica que Mateo pasa de nervioso a orgulloso y Camila pasa de decepcionada a contenta."
+        },
+        {
+          "letter": "C",
+          "text": "Cada evento debe producir la misma emoción para todas las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión «para todas las personas» es demasiado general, porque una misma situación puede provocar emociones diferentes."
+        },
+        {
+          "letter": "D",
+          "text": "El apoyo de los amigos nunca cambia una emoción.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «nunca» contradice el texto de Camila, cuya decepción cambió cuando sus amigos le apoyaron."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los dos textos muestran que las emociones pueden cambiar según las experiencias y el apoyo. Mateo cambia de nervioso a orgulloso, mientras Camila cambia de decepcionada a contenta. Palabras absolutas como «nunca» o «para todas las personas» no corresponden a lo contado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
