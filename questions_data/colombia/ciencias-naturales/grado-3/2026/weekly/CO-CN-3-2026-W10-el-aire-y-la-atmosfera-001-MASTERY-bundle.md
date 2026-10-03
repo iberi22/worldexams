@@ -47,14 +47,14 @@ El aire es una mezcla de gases y los dos mas abundantes son el nitrogeno y el ox
 **Bloom:** Understand
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.85
-**Contexto:** En un parque de Medellin, los ninos corren y despues se detienen en un mirador para mirar el cielo azul y, por la tarde, rojizo.
+**Contexto:** En un parque de Medellin, los ninos corren y después se detienen en un mirador para mirar el cielo azul y, por la tarde, rojizo.
 ### Enunciado
 El cielo se ve azul de día y rojizo en las tardes. ¿qué explica ese cambio de color?
 
 ### Opciones
 - [ ] A) Que el aire del parque cambia de color entre la mañana y la tarde
-  <!-- feedback: Incorrecto. El aire es transparente y no cambia de color. Lo que cambia es la forma en que la luz del Sol atraviesa el aire segun la hora del día. -->
-- [x] B) Que la luz del Sol se descompone en colores y la atmosfera los reparte distinto segun la hora
+  <!-- feedback: Incorrecto. El aire es transparente y no cambia de color. Lo que cambia es la forma en que la luz del Sol atraviesa el aire según la hora del día. -->
+- [x] B) Que la luz del Sol se descompone en colores y la atmosfera los reparte distinto según la hora
   <!-- feedback: Correcto. La luz blanca del Sol se descompone en colores al pasar por el aire. De día predomina el azul y al atardecer la luz atraviesa mas aire y predomina el rojo. -->
 - [ ] C) Que las nubes del parque se vuelven rojas y pintan el cielo
   <!-- feedback: Incorrecto. Las nubes pueden verse rosadas al atardecer, pero el color del cielo se debe a la luz descompuesta por los gases de la atmosfera. -->
@@ -137,7 +137,7 @@ La neblina aparece de noche y desaparece al medio día. ¿qué explicación es l
 
 ### Opciones
 - [ ] A) Que el agua del rio sube a la nube y por eso la neblina desaparece al medio día
-  <!-- feedback: Incorrecto. Aqui la neblina esta junto al suelo, no en una nube. Lo que ocurre es un cambio de estado del vapor por enfriamiento de noche y calentamiento de día. -->
+  <!-- feedback: Incorrecto. aquí la neblina esta junto al suelo, no en una nube. Lo que ocurre es un cambio de estado del vapor por enfriamiento de noche y calentamiento de día. -->
 - [ ] B) Que el Sol se come la neblina porque sus rayos la destruyen
   <!-- feedback: Incorrecto. El Sol no destruye la neblina: aporta el calor que hace evaporar las gotas de agua. Por eso desaparece cuando sube la temperatura del aire. -->
 - [x] C) Que el aire frio de la noche condensa el vapor de agua y con el calor de día ese vapor vuelve a evaporarse
@@ -166,7 +166,7 @@ La neblina es una nube que se forma junto al suelo cuando el aire se enfria lo s
 - [ ] D) Pesar los recipientes vacios y después de las muestras y restar
   <!-- feedback: Incorrecto. El aire tiene un peso muy pequeño y la balanza no mide bien esas diferencias. El procedimiento debe usar una prueba que reaccione solo al gas buscado. -->
 ### Explicacion Pedagogica
-Un experimento bien disenado necesita una variable que cambie segun lo que se quiere medir y un control para comparar. Para estudiar el dioxido de carbono se usa una solucion que reacciona de forma visible con ese gas. Definir la variable y el control antes de recoger los datos es lo que separa una investigacion de una simple actividad.
+Un experimento bien disenado necesita una variable que cambie según lo que se quiere medir y un control para comparar. Para estudiar el dioxido de carbono se usa una solucion que reacciona de forma visible con ese gas. Definir la variable y el control antes de recoger los datos es lo que separa una investigacion de una simple actividad.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v8
