@@ -28,6 +28,7 @@ Leemos textos sobre alegría, tristeza y enojo y cómo actuar con respeto.
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un colegio de Pereira, la niña Laura salta de alegría porque ganó el concurso de lectura.
 ### Enunciado
 Laura ganó el concurso. Saltó de alegría. Abrazó a su mamá. Dijo gracias a su profe. ¿Cómo se sintió Laura?
@@ -48,6 +49,7 @@ Identifica la alegría en acciones. El estudiante relaciona saltar y abrazar con
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Neiva, el niño Diego llora porque se le perdió su trompo en el recreo.
 ### Enunciado
 Diego perdió su trompo. Buscó debajo de la banca. Preguntó a sus amigos. Se puso a llorar en silencio. ¿Por qué llora Diego?
@@ -68,6 +70,7 @@ Comprende la causa del llanto. El niño conecta perder el trompo con la tristeza
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Bogotá, la mamá dice que pedir perdón es reconocer un error con palabras amables.
 ### Enunciado
 Pedir perdón significa decir lo siento cuando nos equivocamos. El niño rompió el vaso. Dijo lo siento mamá. La mamá lo abrazó. ¿Qué significa pedir perdón?
@@ -88,6 +91,7 @@ Define pedir perdón en contexto. El estudiante aplica decir lo siento como reco
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Sincelejo, una niña respira hondo y cuenta hasta diez cuando se enoja en el juego.
 ### Enunciado
 Sofía perdió en el juego de la cuerda. Sintió rabia y apretó los puños. Respiró hondo y contó hasta diez. Después felicitó a la ganadora. ¿Qué hizo Sofía con su enojo?
@@ -108,6 +112,7 @@ Infiere estrategias para el enojo. El estudiante reconoce respirar y contar como
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Quibdó, una carta de un amigo dice cómo se siente tras mudarse de casa.
 ### Enunciado
 Carta: Hola amigo, te extraño mucho. Mi casa nueva es bonita. Ya tengo un amigo vecino. Ven a visitarme pronto. ¿Qué sentimiento muestra la primera frase?
@@ -128,6 +133,7 @@ Analiza sentimientos en cartas. El estudiante distingue extrañar como tristeza 
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Armenia, un niño ayuda a otro que se cayó y le presta su pañuelo limpio.
 ### Enunciado
 El niño vio caer a su amigo. Corrió a ayudarlo. Le prestó su pañuelo limpio. Le dijo no te preocupes, ya pasa. ¿Cómo se sintió el amigo caído?
@@ -148,6 +154,7 @@ Infiere el efecto del consuelo. El estudiante concluye que ayudar con palabras c
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Cartagena, un niño se burla de otro por su acento pastuso y todos se ríen.
 ### Enunciado
 Andrés se burla del acento de su compañero. Todos se ríen menos el niño burlado, que baja la cabeza. La profesora dice que burlarse lastima. ¿Qué opinas de la burla?
@@ -168,6 +175,7 @@ Juzga la burla entre compañeros. El estudiante valora que burlarse lastima y de
 **ID:** CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Medellín, un mural del salón dice: Si estás triste, dilo; siempre hay quien te escucha.
 ### Enunciado
 El mural invita a hablar cuando hay tristeza. Tiene dibujos de niños abrazándose. Está frente a la puerta para verlo al entrar. ¿Qué busca el mural?

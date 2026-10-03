@@ -28,6 +28,7 @@ Leemos textos sobre buses, bicis y calles de las ciudades de Colombia.
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Bogotá, los niños toman el bus del colegio en el paradero de la esquina.
 ### Enunciado
 El bus es grande y amarillo. Tiene muchas sillas. El conductor saluda en la puerta. Los niños suben en fila. ¿De qué color es el bus?
@@ -48,6 +49,7 @@ Recuerda detalles visibles de un texto. El estudiante ubica el color amarillo de
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Medellín, una niña va al parque en bicicleta con su casco rosado.
 ### Enunciado
 La niña usa casco rosado. Monta su bicicleta azul. Pasa por la ciclorruta. Llega feliz al parque. ¿Por dónde pasa la niña?
@@ -68,6 +70,7 @@ Comprende rutas urbanas en un relato. El niño identifica la ciclorruta como ví
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Cali, el semáforo del colegio cambia de rojo a verde para cruzar la calle.
 ### Enunciado
 El semáforo en rojo significa detenerse. El semáforo en verde significa avanzar. Los niños esperan el verde para cruzar. ¿Qué significa el rojo?
@@ -88,6 +91,7 @@ Aplica el significado de señales de tránsito. El estudiante relaciona el rojo 
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Barranquilla, un niño llega tarde porque el bus pasó lleno y no paró.
 ### Enunciado
 El bus pasó a las siete. Iba tan lleno que no paró. El niño esperó otro bus. Llegó tarde al colegio. ¿Por qué llegó tarde?
@@ -108,6 +112,7 @@ Infiere causas en la vida urbana. El estudiante conecta el bus lleno con la lleg
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Cartagena, un aviso del puerto explica el orden para subir a la lancha.
 ### Enunciado
 Aviso: 1. Haz la fila. 2. Ponte el chaleco. 3. Sube con cuidado. 4. Siéntate y no te pares. ¿Cuál es el segundo paso para subir?
@@ -128,6 +133,7 @@ Sigue instrucciones de transporte seguro. El estudiante ubica el segundo paso en
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Manizales, una niña paga el pasaje del bus con 3000 pesos y recibe vueltas.
 ### Enunciado
 El pasaje cuesta 2500 pesos. La niña paga con 3000 pesos. El conductor le devuelve 500 pesos. Ella guarda las monedas en su bolsillo. ¿Cuánto le devolvieron?
@@ -148,6 +154,7 @@ Analiza una compra de pasaje con pesos. El estudiante resta para hallar las vuel
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Pereira, dos compañeros cruzan la calle: uno por la cebra, otro corriendo entre los carros.
 ### Enunciado
 Laura cruza por la cebra mirando a ambos lados. Andrés corre entre los carros sin mirar. La profesora felicita a Laura. ¿Quién actúa bien?
@@ -168,6 +175,7 @@ Juzga conductas viales seguras. El estudiante valora cruzar por la cebra frente 
 **ID:** CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Discursivo
+**Expected_Success:** 0.68
 **Contexto:** En Bogotá, un cartel del TransMilenio dice: Cede la silla azul a quien la necesita.
 ### Enunciado
 El cartel muestra sillas azules para personas mayores y mujeres embarazadas. Pide ceder el puesto con amabilidad. Está pegado dentro del bus. ¿Qué busca el cartel?

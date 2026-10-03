@@ -28,6 +28,7 @@ Leemos textos sobre tiendas, parques y escuelas que hay en el barrio.
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un barrio de Bogotá, la tienda de don José queda al lado de la panadería.
 ### Enunciado
 La tienda de don José vende leche y huevos. Queda al lado de la panadería. Abre a las seis de la mañana. Cierra a las ocho de la noche. ¿Qué vende don José?
@@ -48,6 +49,7 @@ Recuerda productos de la tienda barrial. El estudiante ubica leche y huevos como
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Envigado, el parque tiene columpios, rodadero y una cancha pequeña.
 ### Enunciado
 El parque tiene columpios altos. Tiene un rodadero azul. Tiene una cancha para jugar fútbol. Los niños van en la tarde. ¿Cuándo van los niños al parque?
@@ -68,6 +70,7 @@ Ubica el tiempo de una actividad barrial. El niño reconoce la tarde como moment
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Soacha, la biblioteca presta libros gratis para leer en casa.
 ### Enunciado
 Prestar significa entregar algo por un tiempo y luego devolverlo. La biblioteca presta cuentos. El niño lleva dos cuentos. Los devuelve el viernes. ¿Qué significa prestar?
@@ -88,6 +91,7 @@ Define prestar en la biblioteca. El estudiante aplica entregar y devolver como p
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Bello, el puesto de salud vacuna gratis a los niños del barrio.
 ### Enunciado
 El puesto de salud anunció jornada de vacunas. La fila era larga desde las ocho. Los niños salían con una curita en el brazo. Todos sonreían tranquilos. ¿Qué pasó en el puesto de salud?
@@ -108,6 +112,7 @@ Infiere un servicio barrial por pistas. El estudiante deduce vacunación por fil
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Florencia, un mapa dibujado muestra la escuela entre la iglesia y la tienda.
 ### Enunciado
 Mapa: a la izquierda está la iglesia. En el centro está la escuela. A la derecha está la tienda. El niño marca su ruta con color. ¿Qué lugar está en el centro?
@@ -128,6 +133,7 @@ Lee un mapa sencillo por posiciones. El estudiante ubica la escuela en el centro
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Palmira, una niña compra dos panes de 1000 pesos con una moneda de 5000.
 ### Enunciado
 Cada pan cuesta 1000 pesos. La niña compra dos panes. Paga con 5000 pesos. El tendero le devuelve dinero. ¿Cuánto le devuelven?
@@ -148,6 +154,7 @@ Calcula vueltas en la tienda con pesos. El estudiante resta el costo del pago re
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Dosquebradas, unos niños rayan las paredes del parque mientras otros los invitan a cuidarlo.
 ### Enunciado
 Unos niños rayan las paredes del parque con marcador. Otros les dicen que así se ve feo y se daña. El celador pide borrar lo rayado. ¿Qué opinas?
@@ -168,6 +175,7 @@ Juzga el cuidado del espacio público. El estudiante valora no rayar y proteger 
 **ID:** CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Girón, un aviso en la iglesia dice: Mañana bazar para arreglar el techo. Trae tu vaso.
 ### Enunciado
 El aviso invita a un bazar mañana. Dice que es para arreglar el techo. Pide traer vaso para no usar desechables. Está en la puerta de la iglesia. ¿Para qué es el bazar?

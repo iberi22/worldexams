@@ -28,6 +28,7 @@ Leemos textos cortos sobre la familia y reconocemos quién hace qué en cada his
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En una casa del barrio Laureles en Medellín, la familia Ríos desayuna junta antes de ir al colegio.
 ### Enunciado
 Mi mamá se llama Luz. Mi papá se llama Pedro. Mi hermana Ana tiene seis años. Yo me llamo Tomás y tengo ocho años. ¿Quién es la mamá de Tomás?
@@ -48,6 +49,7 @@ Evalúa la comprensión literal de un texto familiar. El estudiante ubica un dat
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un patio de una casa en Bucaramanga, el abuelo cuenta cuentos a sus nietos en la tarde.
 ### Enunciado
 El abuelo Jorge vive con sus nietos. En la tarde les lee un cuento en el patio. Después toman jugo de maracuyá. Los niños aplauden felices. ¿Dónde les lee el cuento el abuelo?
@@ -68,6 +70,7 @@ Trabaja la ubicación de lugares explícitos en el texto. El niño relaciona la 
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En un apartamento en Cali, la niña Valeria ayuda a su hermano menor a guardar los juguetes.
 ### Enunciado
 Valeria recoge los carros y los pone en una caja azul. Su hermano menor llora porque perdió su oso. Valeria le dice que no llore y le ayuda a buscarlo debajo de la cama. Al fin lo encuentran y el niño sonríe. ¿Cómo es Valeria con su hermano?
@@ -88,6 +91,7 @@ Evalúa la inferencia de cualidades de un personaje. El estudiante deduce cómo 
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En una finca cerca de Villavicencio, la familia celebra el cumpleaños de la tía Marta con un sancocho.
 ### Enunciado
 Toda la familia llegó a la fiesta. La palabra familia significa un grupo de personas unidas por cariño y parentesco. En la fiesta estaban los primos, los tíos y los abuelos. ¿Qué palabra significa lo mismo que familia en este texto?
@@ -108,6 +112,7 @@ Trabaja el significado de palabras en contexto. El estudiante reconoce que famil
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Barranquilla, dos hermanos escriben una carta corta para su mamá por el Día de la Madre.
 ### Enunciado
 Querida mamá: gracias por cuidarnos y por llevarnos al colegio. Te queremos mucho. Tus hijos, Luis y Sara. La carta tiene un saludo, un mensaje y una firma. ¿Cuál es la firma de la carta?
@@ -128,6 +133,7 @@ Analiza las partes de una carta familiar. El estudiante distingue el saludo, el 
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Tunja, el papá llega cansado del trabajo y la hija le ofrece agua y le pregunta cómo está.
 ### Enunciado
 El papá llegó con los zapatos llenos de barro. Suspiró y se sentó en silencio. La niña le llevó un vaso de agua y le dijo: papá, cuéntame tu día. El papá sonrió por primera vez. ¿Qué sintió el papá con el gesto de la niña?
@@ -148,6 +154,7 @@ Evalúa la lectura de emociones en un relato. El estudiante infiere el cambio de
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Cartagena, dos primos discuten porque uno no quiere prestar sus colores para una tarea.
 ### Enunciado
 Diego no prestó sus colores a su prima. Ella se puso triste y no pudo terminar el dibujo. La abuela les dijo que en familia se comparte. Diego pensó y al final prestó los colores. ¿Qué opinas de lo que dijo la abuela?
@@ -168,6 +175,7 @@ Forma el juicio crítico sobre valores familiares. El estudiante valora la impor
 **ID:** CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Pasto, la familia deja una nota en la nevera para recordar quién recoge al bebé en el jardín.
 ### Enunciado
 Nota: Hoy recoge a Samuel a las 3 en el jardín la tía Rosa. Por favor no olviden la maleta azul. La nota está en la nevera para que todos la vean. ¿Para qué sirve esta nota en la familia?

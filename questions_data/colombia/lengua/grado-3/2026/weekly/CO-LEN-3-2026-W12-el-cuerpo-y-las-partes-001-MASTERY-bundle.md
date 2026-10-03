@@ -28,6 +28,7 @@ Leemos textos sobre el cuerpo humano y aprendemos los nombres de sus partes.
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un colegio de Manizales, la profesora muestra una lámina del cuerpo para la clase de ciencias y lengua.
 ### Enunciado
 La cabeza está arriba. En la cabeza están los ojos, la nariz y la boca. Los brazos están a los lados. Las piernas sirven para caminar. ¿Con qué parte caminamos según el texto?
@@ -48,6 +49,7 @@ Evalúa la localización de información explícita. El estudiante reconoce la f
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un parque de Pereira, los niños juegan a señalar las partes del cuerpo mientras cantan.
 ### Enunciado
 El juego dice: toco mi cabeza, toco mis hombros, aplaudo con mis manos y zapateo con mis pies. Los niños se ríen y repiten la canción dos veces. ¿Con qué aplauden los niños?
@@ -68,6 +70,7 @@ Trabaja la comprensión de acciones con el cuerpo. El niño asocia cada parte co
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En una casa en Ibagué, la mamá le dice al niño que se lave las manos antes de comer bandeja paisa.
 ### Enunciado
 Lávate las manos con agua y jabón. La palabra lavarse significa limpiar con agua y jabón. El niño se lava y luego come tranquilo. ¿Qué significa lavarse en este texto?
@@ -88,6 +91,7 @@ Evalúa el significado de palabras de higiene. El estudiante aplica la definici�
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Cúcuta, un niño se tapa los ojos con las manos durante un partido de fútbol en el patio.
 ### Enunciado
 El niño se tapó los ojos con las manos. No vio el gol de su equipo. Sus amigos gritaron de alegría. Él preguntó qué pasó. ¿Por qué no vio el gol?
@@ -108,6 +112,7 @@ Trabaja la causa y el efecto en un relato. El estudiante infiere que taparse los
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Santa Marta, la enfermera del colegio pega un aviso sobre cómo cuidar los dientes.
 ### Enunciado
 Aviso: Cepilla tus dientes tres veces al día. Usa un cepillo suave. Visita al dentista cada año. El aviso tiene tres consejos seguidos. ¿Cuál es el segundo consejo del aviso?
@@ -128,6 +133,7 @@ Analiza el orden de un texto instructivo. El estudiante identifica el segundo co
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Armenia, una niña corre en el recreo, se cae y se soba la rodilla llorando.
 ### Enunciado
 La niña corría muy rápido. Se tropezó con una piedra y cayó al suelo. Se sobó la rodilla y lloró. La profesora le puso hielo y la abrazó. ¿Qué parte del cuerpo se lastimó?
@@ -148,6 +154,7 @@ Evalúa la identificación de detalles en un accidente. El estudiante relaciona 
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Montería, dos amigos discuten si es bueno compartir el cepillo de dientes.
 ### Enunciado
 Juan dice que prestar el cepillo de dientes no hace daño. Ana dice que cada uno debe usar su propio cepillo para no enfermarse. La profesora apoya a Ana. ¿Quién tiene la razón?
@@ -168,6 +175,7 @@ Forma el criterio sobre higiene personal. El estudiante juzga por qué el cepill
 **ID:** CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Discursivo
+**Expected_Success:** 0.68
 **Contexto:** En Neiva, el curso hace una cartelera que dice: Mis manos limpias cuidan a todos.
 ### Enunciado
 La cartelera invita a lavarse las manos antes de comer y después de ir al baño. Tiene dibujos de niños lavándose. Está pegada a la entrada del comedor. ¿Qué quiere lograr la cartelera?
