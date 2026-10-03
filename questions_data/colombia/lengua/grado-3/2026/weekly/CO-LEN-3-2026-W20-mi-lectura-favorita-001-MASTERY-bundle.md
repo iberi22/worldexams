@@ -28,6 +28,7 @@ Leemos textos sobre cuentos favoritos y por qué nos gusta leer.
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En una escuela de Tunja, el niño Samuel lee un cuento de un conejo en la biblioteca.
 ### Enunciado
 El cuento es de un conejo blanco. Vive en una huerta verde. Come zanahorias dulces. Corre con sus amigos. ¿De qué animal es el cuento?
@@ -48,6 +49,7 @@ Recuerda el personaje principal. El estudiante ubica al conejo blanco como prota
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Rionegro, la niña Ana lee su libro favorito bajo un árbol de mango.
 ### Enunciado
 Ana lee bajo un árbol. Su libro tiene dibujos grandes. Cuenta la historia de una niña pescadora. Ana lee una hora cada tarde. ¿Dónde lee Ana?
@@ -68,6 +70,7 @@ Ubica el lugar de lectura. El niño reconoce bajo el árbol como espacio favorit
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Valledupar, el profe dice que el título es el nombre del cuento y va arriba.
 ### Enunciado
 El título es el nombre del cuento. Va escrito arriba con letras grandes. El cuento se llama El pez dorado. Los niños lo leen en voz alta. ¿Cuál es el título?
@@ -88,6 +91,7 @@ Aplica la noción de título. El estudiante identifica El pez dorado como nombre
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Ipiales, un niño relee tres veces su cuento de piratas porque le encanta.
 ### Enunciado
 El niño leyó el cuento una vez. Lo leyó otra vez al día siguiente. Lo pidió de regalo para su cumpleaños. Lo lleva a todas partes. ¿Qué siente por su cuento?
@@ -108,6 +112,7 @@ Infiere el gusto por releer. El estudiante conecta repetir y llevar el libro con
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Yopal, una ficha de préstamo muestra quién sacó cada libro de la biblioteca.
 ### Enunciado
 Ficha: Libro: La tortuga veloz. Lector: María. Fecha: lunes. Devuelve: viernes. La ficha ordena libro, lector, fecha y entrega. ¿Qué libro sacó María?
@@ -128,6 +133,7 @@ Lee fichas de biblioteca por campos. El estudiante distingue libro, lector y fec
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Ocaña, una niña elige un libro con dibujos de estrellas porque quiere ser astronauta.
 ### Enunciado
 La niña quiere ser astronauta. Vio un libro sin dibujos y otro con estrellas brillantes. Eligió el de estrellas. Lo abraza feliz. ¿Por qué eligió ese libro?
@@ -148,6 +154,7 @@ Analiza motivos de elección lectora. El estudiante vincula estrellas con el sue
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Critico-Intertextual
+**Expected_Success:** 0.68
 **Contexto:** En Popayán, dos amigos comparan un cuento triste y uno alegre para la hora del cuento.
 ### Enunciado
 El cuento uno habla de un perrito perdido que llora. El cuento dos habla de amigos que juegan y ríen. El curso quiere reír hoy. ¿Qué cuento recomiendas?
@@ -168,6 +175,7 @@ Recomienda lecturas según el ánimo. El estudiante elige el cuento alegre para 
 **ID:** CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Tumaco, un cartel de la escuela dice: Trae tu cuento favorito el viernes y cuéntalo en dos minutos.
 ### Enunciado
 El cartel invita a traer el cuento favorito. Pide contarlo en dos minutos. Es para compartir en clase el viernes. Está pegado en la cartelera. ¿Qué invita a hacer el cartel?

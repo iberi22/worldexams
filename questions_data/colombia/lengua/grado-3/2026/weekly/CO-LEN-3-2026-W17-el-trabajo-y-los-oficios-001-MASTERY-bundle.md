@@ -28,6 +28,7 @@ Leemos textos sobre oficios de Colombia y lo que hace cada trabajador.
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un barrio de Cali, la panadera hornea pan dulce desde muy temprano.
 ### Enunciado
 La panadera se levanta a las cuatro. Hornea pan dulce y almojábanas. Las vende en su tienda. Los vecinos compran felices. ¿Qué hornea la panadera?
@@ -48,6 +49,7 @@ Recuerda el producto de un oficio. El estudiante asocia a la panadera con el pan
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En Santa Marta, el pescador sale en lancha al amanecer y vuelve con pescado fresco.
 ### Enunciado
 El pescador sale en lancha. Lanza su red al mar. Recoge pescados frescos. Los vende en la playa. ¿Con qué pesca el pescador?
@@ -68,6 +70,7 @@ Relaciona oficio con herramienta. El niño identifica la red como instrumento de
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Popayán, la enfermera cura la rodilla de un niño que se cayó en el recreo.
 ### Enunciado
 Curar significa limpiar una herida y cuidarla para que sane. La enfermera lava la rodilla. Pone una curita. Le dice que descanse. ¿Qué significa curar?
@@ -88,6 +91,7 @@ Define vocabulario de cuidado. El estudiante aplica curar como limpiar y cuidar 
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Tunja, el carpintero hace una silla pequeña para la escuela rural.
 ### Enunciado
 El carpintero mide la madera. La corta con serrucho. La lija con cuidado. Arma una silla fuerte. ¿Qué hace el carpintero?
@@ -108,6 +112,7 @@ Infiere el oficio por sus acciones. El estudiante concluye que trabajar madera e
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Ibagué, una tarjeta del Día del Maestro dice quién la escribe y para quién es.
 ### Enunciado
 Tarjeta: Para: profe Marta. Mensaje: gracias por enseñarme a leer. De: Julián. La tarjeta tiene destinatario, mensaje y remitente. ¿Quién es el remitente?
@@ -128,6 +133,7 @@ Distingue partes de una tarjeta. El estudiante identifica al remitente tras la m
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Cúcuta, la modista cobra 10000 pesos por arreglar un pantalón y 5000 por pegar un botón.
 ### Enunciado
 El niño llevó un pantalón para arreglar. También llevó una camisa para pegar un botón. La modista sumó las dos cuentas. El niño pagó con 20000 pesos. ¿Cuánto costó todo?
@@ -148,6 +154,7 @@ Suma precios de un oficio en pesos. El estudiante totaliza dos servicios de modi
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Riohacha, un niño dice que barrer la casa no es trabajo porque no pagan por hacerlo.
 ### Enunciado
 El niño dice que solo es trabajo si pagan plata. Su mamá barre, cocina y cuida sin recibir sueldo. La abuela dice que ese cuidado sostiene la casa. ¿Qué opinas?
@@ -168,6 +175,7 @@ Valora el trabajo del hogar. El estudiante juzga que cuidar sin sueldo también 
 **ID:** CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Villavicencio, un letrero en la tienda dice: Se busca ayudante para empacar mercado los sábados.
 ### Enunciado
 El letrero busca un ayudante para los sábados. Dice que debe ser puntual y amable. Deja un número para llamar. Está en la puerta de la tienda. ¿Para qué sirve el letrero?

@@ -28,6 +28,7 @@ Leemos textos sobre el agua, su cuidado y su uso en casa y en el campo.
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En una vereda de Antioquia, la quebrada lleva agua limpia para las casas.
 ### Enunciado
 El agua baja por la quebrada. Las familias la usan para beber. También la usan para cocinar. La guardan en ollas tapadas. ¿Para qué usan el agua primero?
@@ -48,6 +49,7 @@ Ubica información explícita sobre el agua. El estudiante reconoce el primer us
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un colegio de Villavicencio, los niños cierran la llave mientras se cepillan.
 ### Enunciado
 El niño abre la llave. Se moja el cepillo. Cierra la llave. Se cepilla los dientes. Al final enjuaga rápido. ¿Cuándo cierra la llave el niño?
@@ -68,6 +70,7 @@ Comprende una secuencia de ahorro de agua. El niño identifica cuándo se cierra
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En La Guajira, la maestra dice que hay que ahorrar el agua porque a veces llueve poco.
 ### Enunciado
 Ahorrar significa gastar menos y cuidar lo que tenemos. En casa ahorran agua con duchas cortas. También recogen agua lluvia en baldes. ¿Qué significa ahorrar agua?
@@ -88,6 +91,7 @@ Aplica el significado de ahorrar al agua. El estudiante reconoce acciones que ga
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Chocó llueve fuerte y el río crece; los niños no pueden cruzar para ir a la escuela.
 ### Enunciado
 Llovió toda la noche en el pueblo. El río amaneció grande y ruidoso. La maestra dijo que no cruzaran solos. Los niños se quedaron en casa leyendo. ¿Por qué no fueron a la escuela?
@@ -108,6 +112,7 @@ Infiere causas en un texto sobre la lluvia. El estudiante conecta el río crecid
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Boyacá, un cartel de la escuela dice cómo lavarse las manos con poca agua.
 ### Enunciado
 Cartel: 1. Moja tus manos. 2. Cierra la llave. 3. Enjabona bien. 4. Enjuaga rápido. El cartel ayuda a ahorrar agua en el colegio. ¿Cuál es el segundo paso?
@@ -128,6 +133,7 @@ Sigue instrucciones en orden. El estudiante identifica el segundo paso de un car
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Huila, una niña riega las matas con el agua que sobró de lavar las verduras.
 ### Enunciado
 La mamá lavó la papa y la yuca en un platón. El agua quedó un poco turbia pero sin jabón. La niña usó esa agua para las matas del solar. Las matas se vieron contentas. ¿Qué hizo la niña?
@@ -148,6 +154,7 @@ Analiza el reuso del agua en casa. El estudiante reconoce que regar con agua de 
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
+**Expected_Success:** 0.68
 **Contexto:** En Cali, un vecino lava el carro con manguera abierta por una hora mientras otro usa balde.
 ### Enunciado
 Don Luis lava su carro con la manguera abierta una hora. Doña Carmen lava el suyo con un balde y un trapo. El barrio tiene poca agua esta semana. ¿Qué opinas?
@@ -168,6 +175,7 @@ Juzga comportamientos frente a la escasez. El estudiante valora el uso del balde
 **ID:** CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Nariño, la junta deja una nota: Mañana cortan el agua de 8 a 12. Guarden agua en ollas.
 ### Enunciado
 La nota avisa del corte de agua en la mañana. Pide guardar agua en ollas tapadas. Está pegada en la tienda para que todos la lean. ¿Para qué sirve la nota?
