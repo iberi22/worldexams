@@ -199,5 +199,5 @@ El acuerdo posee una estructura que guía la conducta. Primero explica la intenc
 - [ ] D) Darle a Daniel un turno permanente porque fue el primero en hablar.
  <!-- feedback: Incorrecto. La frase «esperamos el turno» anuncia una rotación y no concede a Daniel una prioridad permanente. -->
 
-### Explicacion Pedagica
+### Explicacion Pedagogica
 La intervención combina reconocimiento y orientación. La profesora valora la idea de Daniel, pero explica por qué debe pedir la palabra antes de hablar, para que el resto del grupo pueda entenderlo. La conducta posterior confirma esa intención: Daniel levanta la mano, el grupo lo escucha y la profesora le da su turno de participación.

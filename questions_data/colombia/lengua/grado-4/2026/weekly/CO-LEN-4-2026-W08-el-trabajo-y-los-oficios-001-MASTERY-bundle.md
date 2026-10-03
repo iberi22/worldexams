@@ -109,7 +109,7 @@ En Tunja, la feria incluye una médica, un agricultor y una artesana. El equipo 
 - [ ] D) Los tres oficios son importantes porque sus trabajos no ayudan a ninguna necesidad de la comunidad.
   <!-- feedback: Incorrecto. La expresión «no ayudan» es incorrecta: la medicina cuida la salud, la agricultura suministra alimentos y la artesana crea productos con valor de uso. -->
 
-### Explicacion Pedagica
+### Explicacion Pedagogica
 Los oficios pueden producir bienes, como alimentos y objetos, o prestar servicios, como la atención médica. Aunque sus tareas son diferentes, todos requieren conocimientos y habilidades y ayudan a satisfacer necesidades de la comunidad.
 
 ## Question 5 [D5-D6]
