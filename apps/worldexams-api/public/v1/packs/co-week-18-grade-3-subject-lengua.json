@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-18-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.008Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v1",
+      "statement": "Laura ganó el concurso. Saltó de alegría. Abrazó a su mamá. Dijo gracias a su profe. ¿Cómo se sintió Laura?",
+      "context": "En un colegio de Pereira, la niña Laura salta de alegría porque ganó el concurso de lectura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Triste",
+          "is_correct": false,
+          "feedback": "Incorrecto. Triste es llorar con pena, no saltar, porque Laura saltó de alegría al ganar."
+        },
+        {
+          "letter": "B",
+          "text": "Alegre",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque saltar, abrazar y dar gracias significa alegría por ganar el concurso."
+        },
+        {
+          "letter": "C",
+          "text": "Enojada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enojada es gritar con rabia, no abrazar, porque Laura abrazó feliz a su mamá."
+        },
+        {
+          "letter": "D",
+          "text": "Asustada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Asustada es temblar de miedo, no saltar, porque Laura celebra con alegría su triunfo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Identifica la alegría en acciones. El estudiante relaciona saltar y abrazar con sentirse alegre.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v2",
+      "statement": "Diego perdió su trompo. Buscó debajo de la banca. Preguntó a sus amigos. Se puso a llorar en silencio. ¿Por qué llora Diego?",
+      "context": "En Neiva, el niño Diego llora porque se le perdió su trompo en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque tiene hambre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hambre no se menciona, porque Diego llora tras buscar su trompo perdido."
+        },
+        {
+          "letter": "B",
+          "text": "Porque ganó un premio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ganar da alegría, no llanto, porque Diego perdió su juguete favorito en el recreo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cantó una canción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cantar no causa su llanto, porque el texto dice que buscó el trompo y no lo halló."
+        },
+        {
+          "letter": "D",
+          "text": "Porque perdió su trompo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque perder su trompo tras buscarlo significa tristeza y por eso llora en silencio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprende la causa del llanto. El niño conecta perder el trompo con la tristeza de Diego.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v3",
+      "statement": "Pedir perdón significa decir lo siento cuando nos equivocamos. El niño rompió el vaso. Dijo lo siento mamá. La mamá lo abrazó. ¿Qué significa pedir perdón?",
+      "context": "En Bogotá, la mamá dice que pedir perdón es reconocer un error con palabras amables.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decir lo siento al equivocarse",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque decir lo siento tras romper el vaso significa reconocer el error con amabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Esconder el vaso roto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder es ocultar, no pedir perdón, porque pedir perdón significa decir lo siento con verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Culpar a otro niño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Culpar es señalar a otro, no reconocer, porque pedir perdón significa aceptar el propio error."
+        },
+        {
+          "letter": "D",
+          "text": "Gritar más fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gritar no arregla nada, porque pedir perdón significa hablar con calma y decir lo siento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Define pedir perdón en contexto. El estudiante aplica decir lo siento como reconocimiento del error.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v4",
+      "statement": "Sofía perdió en el juego de la cuerda. Sintió rabia y apretó los puños. Respiró hondo y contó hasta diez. Después felicitó a la ganadora. ¿Qué hizo Sofía con su enojo?",
+      "context": "En Sincelejo, una niña respira hondo y cuenta hasta diez cuando se enoja en el juego.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pegó a sus amigas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sofía no pegó a nadie, porque respiró hondo y felicitó a la ganadora con respeto."
+        },
+        {
+          "letter": "B",
+          "text": "Rompió la cuerda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sofía no rompió nada, porque controló su rabia contando hasta diez en calma."
+        },
+        {
+          "letter": "C",
+          "text": "Lo calmó respirando",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque respirar hondo y contar significa calmar la rabia y por eso pudo felicitar."
+        },
+        {
+          "letter": "D",
+          "text": "Se fue llorando sin volver",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sofía no se fue, porque se quedó y felicitó a la ganadora tras calmarse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere estrategias para el enojo. El estudiante reconoce respirar y contar como forma de calmarse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v5",
+      "statement": "Carta: Hola amigo, te extraño mucho. Mi casa nueva es bonita. Ya tengo un amigo vecino. Ven a visitarme pronto. ¿Qué sentimiento muestra la primera frase?",
+      "context": "En Quibdó, una carta de un amigo dice cómo se siente tras mudarse de casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alegría total sin falta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera frase habla de extrañar, no de alegría plena, porque dice te extraño mucho al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Enojo con el vecino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vecino es un nuevo amigo, no un enojo, porque dice ya tengo un amigo vecino con cariño."
+        },
+        {
+          "letter": "C",
+          "text": "Miedo a la casa nueva",
+          "is_correct": false,
+          "feedback": "Incorrecto. La casa nueva le parece bonita, no da miedo, porque la describe como bonita en la carta."
+        },
+        {
+          "letter": "D",
+          "text": "Tristeza por extrañar",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque te extraño mucho significa sentir tristeza por la distancia del amigo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analiza sentimientos en cartas. El estudiante distingue extrañar como tristeza por la distancia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v6",
+      "statement": "El niño vio caer a su amigo. Corrió a ayudarlo. Le prestó su pañuelo limpio. Le dijo no te preocupes, ya pasa. ¿Cómo se sintió el amigo caído?",
+      "context": "En Armenia, un niño ayuda a otro que se cayó y le presta su pañuelo limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo y burlado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amigo recibió ayuda, no burlas, porque el niño corrió y le habló con cariño."
+        },
+        {
+          "letter": "B",
+          "text": "Consolado y tranquilo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque recibir el pañuelo y escuchar no te preocupes significa consuelo que calma el llanto."
+        },
+        {
+          "letter": "C",
+          "text": "Enojado y gritón",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amigo no grita de rabia, porque el gesto amable le da tranquilidad tras la caída."
+        },
+        {
+          "letter": "D",
+          "text": "Asustado sin ayuda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El amigo sí recibió ayuda rápida, porque el niño corrió a ayudarlo con su pañuelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Infiere el efecto del consuelo. El estudiante concluye que ayudar con palabras calma a quien se cae.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v7",
+      "statement": "Andrés se burla del acento de su compañero. Todos se ríen menos el niño burlado, que baja la cabeza. La profesora dice que burlarse lastima. ¿Qué opinas de la burla?",
+      "context": "En Cartagena, un niño se burla de otro por su acento pastuso y todos se ríen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que es divertida y buena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Burlarse no es diversión sana, porque el niño baja la cabeza y muestra que le duele la burla."
+        },
+        {
+          "letter": "B",
+          "text": "Que da igual reírse o no",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da igual, porque reírse de otro significa lastimar sus sentimientos frente a todos."
+        },
+        {
+          "letter": "C",
+          "text": "Que está mal porque lastima",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque burlarse del acento baja la cabeza del compañero y significa dolor que debemos evitar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el niño debe irse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no debe irse, porque quien debe cambiar es quien se burla y aprende respeto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzga la burla entre compañeros. El estudiante valora que burlarse lastima y debe evitarse.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle-v8",
+      "statement": "El mural invita a hablar cuando hay tristeza. Tiene dibujos de niños abrazándose. Está frente a la puerta para verlo al entrar. ¿Qué busca el mural?",
+      "context": "En Medellín, un mural del salón dice: Si estás triste, dilo; siempre hay quien te escucha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que hablemos si estamos tristes",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el mural invita a decir la tristeza y significa que hablar ayuda a sentirse mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Que escondamos todo siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder aumenta la tristeza, no la alivia, porque el mural pide hablar con quien escucha."
+        },
+        {
+          "letter": "C",
+          "text": "Que compremos juguetes nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mural no vende juguetes, porque invita a hablar y abrazar cuando hay pena."
+        },
+        {
+          "letter": "D",
+          "text": "Que pintemos sin leer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mural sí se debe leer, porque su mensaje escrito invita a hablar de los sentimientos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa un mensaje de apoyo emocional. El estudiante reconoce que hablar alivia la tristeza.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.010Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v1",
+      "statement": "En la feria, la señora Rosa amasa y hornea pan para venderlo. ¿Qué profesión tiene?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panadera",
+          "is_correct": true,
+          "feedback": "Correcto. Las palabras «amasa» y «hornea» describen el trabajo de preparar pan, por lo que la profesión es panadera."
+        },
+        {
+          "letter": "B",
+          "text": "Bibliotecaria",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bibliotecaria lending y organiza libros; el texto no menciona ninguna de esas acciones."
+        },
+        {
+          "letter": "C",
+          "text": "Agricultora",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agricultora cultiva plantas, pero la señora Rosa transforma harina en pan."
+        },
+        {
+          "letter": "D",
+          "text": "Dentista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dentista atiende la salud de los dientes, no prepara pan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La panadera es la profesional que prepara pan mediante procesos como amasar, dar forma y hornear. La respuesta se obtiene directamente de las acciones que realiza la señora Rosa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v2",
+      "statement": "Julián llega a la clínica porque le duele la garganta. La profesional revisa sus síntomas, le hace un examen y le receta un medicamento. ¿Qué profesión tiene esa persona?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Farmacéutica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La farmacéutica prepara y entrega medicamentos, pero el texto no dice que examine al paciente ni le haga el diagnóstico."
+        },
+        {
+          "letter": "B",
+          "text": "Médica",
+          "is_correct": true,
+          "feedback": "Correcto. Revisar síntomas, hacer un examen y recetar un medicamento son acciones propias de una médica."
+        },
+        {
+          "letter": "C",
+          "text": "Enfermera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La enfermera assists y cuida a los pacientes, aunque aquí la profesional realiza la evaluación y receta el medicamento."
+        },
+        {
+          "letter": "D",
+          "text": "Dentista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dentista trata principalmente los dientes y la boca, no una garganta dolorida mediante un examen general."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La médica evalúa las enfermedades del paciente y determina el tratamiento adecuado. Las otras profesionales también trabajan en la salud, pero sus funciones no corresponden exactamente a las acciones descritas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v3",
+      "statement": "Sebastián recoge papa, la selecciona y la lleva al mercado. Camila corta tela, la cose y termina un vestido. Aunque trabajan con materiales diferentes, sus oficios tienen una relación parecida. ¿Cuál es?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ambos producen exactamente el mismo producto.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «exactamente» es incorrecta porque Sebastián obtiene papa y Camila obtiene un vestido."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno necesita herramientas para realizar su trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Seleccionar papa y cortar o coser tela requieren operaciones y herramientas que el texto y la descripción del trabajo hacen necesarias."
+        },
+        {
+          "letter": "C",
+          "text": "Ambos usan conocimientos y herramientas para transformar materiales en productos útiles.",
+          "is_correct": true,
+          "feedback": "Correcto. Sebastián transforma la papa en alimento comercializable y Camila transforma la tela en un vestido, por lo que sus trabajos producen bienes útiles."
+        },
+        {
+          "letter": "D",
+          "text": "Su trabajo consiste únicamente en recibir dinero, sin obtener productos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recibir dinero puede ser el resultado de vender, pero las descripciones muestran que ambos realizan un trabajo para obtener alimentos o ropa."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sebastián y Camila realizan oficios distintos, pero en ambos casos aplican conocimientos, herramientas y trabajo para transformar materiales. El primero produce alimento y la segunda produce una prenda de vestir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v4",
+      "statement": "En Tunja, la feria incluye una médica, un agricultor y una artesana. El equipo debe explicar por qué los tres oficios son importantes. ¿Cuál justificación está mejor sustentada?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres oficios son importantes porque todas las personas que los realizan solo fabrican objetos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión «solo fabrican objetos» ignora que la médica presta un servicio de salud y que el agricultor obtiene alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres oficios son importantes porque realizan exactamente la misma labor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra «exactamente» contradice las diferencias entre atender pacientes, cultivar productos y transformar materiales con técnicasLimitedLtd artesanas."
+        },
+        {
+          "letter": "C",
+          "text": "Los tres oficios son distintos, pero todos aplican conocimientos y habilidades para obtener productos o prestar servicios que ayudan a la comunidad.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación entre «conocimientos y habilidades» y «productos o servicios» demuestra que los tres oficios son distintos y, al mismo tiempo, útiles."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres oficios son importantes porque sus trabajos no ayudan a ninguna necesidad de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La expresión «no ayudan» es incorrecta: la medicina cuida la salud, la agricultura suministra alimentos y la artesana crea productos con valor de uso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los oficios pueden producir bienes, como alimentos y objetos, o prestar servicios, como la atención médica. Aunque sus tareas son diferentes, todos requieren conocimientos y habilidades y ayudan a satisfacer necesidades de la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v5",
+      "statement": "¿Qué persona prepara y vende pan?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ingestora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una ingestora prepara alimentos para que otras personas los consuman, pero no se ocupa principalmente de hacer pan."
+        },
+        {
+          "letter": "B",
+          "text": "Etiquetadora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una etiquetadora coloca etiquetas en productos, no prepara ni vende pan."
+        },
+        {
+          "letter": "C",
+          "text": "Panadera",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra «pan» se relaciona directamente con el oficio de preparar y vender pan."
+        },
+        {
+          "letter": "D",
+          "text": "Constructora",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una constructora edifica casas u otros constructions, porque trabaja con materiales como cemento y ladrillo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La palabra «pan» permite identificar el oficio de panadero o panadera. Cada profesión se relaciona con una actividad específica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v6",
+      "statement": "En una finca de Sogamoso, don Luis cultiva papas y lleva la cosecha al mercado. ¿Qué profesión corresponde al trabajo que realiza?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agricultor",
+          "is_correct": true,
+          "feedback": "Correcto. La acción «cultiva papas» corresponde a quien trabaja la tierra y produce cultivos."
+        },
+        {
+          "letter": "B",
+          "text": "Carnicero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un carnicero prepara y vende carne, pero don Luis cultiva papas."
+        },
+        {
+          "letter": "C",
+          "text": "Carpintero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un carpintero fabrica objetos con madera, mientras que don Luis trabaja cultivando la tierra."
+        },
+        {
+          "letter": "D",
+          "text": "Panadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un panadero prepara pan, pero la actividad descrita es el cultivo de papas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Don Luis es agricultor porque cultiva la tierra y obtiene productos de una finca. Su profesión se deduce de la acción principal que realiza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v7",
+      "statement": "En una feria de oficios, Mariana preparará arepas, Camilo construirá una estantería y Diana reparará un pantalón. ¿Cuál distribución relaciona correctamente cada persona con su oficio?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mariana: carpintera; Camilo: cocinera; Diana: modista.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción cambia dos oficios: Mariana prepara alimentos y Camilo construye un mueble, no al contrario."
+        },
+        {
+          "letter": "B",
+          "text": "Mariana: cocinera; Camilo: modista; Diana: carpintero.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción confunde las tareas de Camilo y Diana, porque un mueble se construye con madera y un pantalón se repara con tela."
+        },
+        {
+          "letter": "C",
+          "text": "Mariana: modista; Camilo: carpintero; Diana: cocinera.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta opción cambia los oficios de Mariana y Diana, aunque ubica correctamente a Camilo como carpintero."
+        },
+        {
+          "letter": "D",
+          "text": "Mariana: cocinera; Camilo: carpintero; Diana: modista.",
+          "is_correct": true,
+          "feedback": "Correcto. Preparar arepas corresponde a una cocinera, construir una estantería a un carpintero y reparar un pantalón a una modista."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada oficio se identifica por el producto o la tarea relacionada con sus conocimientos. Las arepas exigen preparar alimentos, la estantería requiere trabajo con madera y el pantalón necesita arreglos de tela.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle-v8",
+      "statement": "En la feria, Pedro vende pan, Luisa fabrica vasijas de arcilla y Andrés cose ropa. ¿Cuál afirmación explica mejor que los tres realizan oficios distintos?",
+      "context": "En una feria de oficios en Tunja, los estudiantes de cuarto grado conocen profesiones de su región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los tres son agricultores porque realizan cualquier tipo de trabajo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser agricultor significa cultivar la tierra, pero Pedro, Luisa y Andrés realization otras actividades."
+        },
+        {
+          "letter": "B",
+          "text": "Cada uno aplica los conocimientos y las habilidades de una profesión para realizar un trabajo diferente.",
+          "is_correct": true,
+          "feedback": "Correcto. Pedro prepara pan, Luisa trabaja la arcilla y Andrés cose tela; estas tareas requieren habilidades propias de oficios distintos."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la fabricación de vasijas es un trabajo, porque los otros productos se venden.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Preparar pan, fabricar vasijas y coser ropa son trabajos legítimos; none deja de ser trabajo por venderse."
+        },
+        {
+          "letter": "D",
+          "text": "Los tres oficios son distintos porque utilizan exactamente la misma herramienta.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pan, cerámica y confección de ropa requieren herramientas diferentes, no la misma herramienta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los oficios se distinguen por los conocimientos, las habilidades y el tipo de trabajo que realiza cada persona. Preparar pan, fabricar cerámica y coser ropa cumplen funciones diferentes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-4-2026-W08-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

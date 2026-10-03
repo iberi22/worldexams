@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.007Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v1",
+      "statement": "Mi mamá se llama Luz. Mi papá se llama Pedro. Mi hermana Ana tiene seis años. Yo me llamo Tomás y tengo ocho años. ¿Quién es la mamá de Tomás?",
+      "context": "En una casa del barrio Laureles en Medellín, la familia Ríos desayuna junta antes de ir al colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ana es la hermana de seis años, no la mamá, porque el texto dice que Ana tiene seis años y es la hermana."
+        },
+        {
+          "letter": "B",
+          "text": "Luz",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice claramente que la mamá se llama Luz y corresponde al dato literal del inicio."
+        },
+        {
+          "letter": "C",
+          "text": "Pedro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedro es el papá, no la mamá, porque el texto lo presenta como el papá de la familia Ríos."
+        },
+        {
+          "letter": "D",
+          "text": "Tomás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tomás es el niño de ocho años que cuenta la historia, no la mamá, porque él mismo se presenta como el hijo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la comprensión literal de un texto familiar. El estudiante ubica un dato explícito sobre los miembros de la familia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v2",
+      "statement": "El abuelo Jorge vive con sus nietos. En la tarde les lee un cuento en el patio. Después toman jugo de maracuyá. Los niños aplauden felices. ¿Dónde les lee el cuento el abuelo?",
+      "context": "En un patio de una casa en Bucaramanga, el abuelo cuenta cuentos a sus nietos en la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocina no se menciona en el texto, porque la lectura ocurre en el patio donde están sentados juntos."
+        },
+        {
+          "letter": "B",
+          "text": "En el colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El colegio no aparece en la historia, porque todo sucede en la casa del abuelo Jorge en la tarde."
+        },
+        {
+          "letter": "C",
+          "text": "En el parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque es otro lugar distinto, porque el texto dice que les lee en el patio de la casa."
+        },
+        {
+          "letter": "D",
+          "text": "En el patio",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que en la tarde les lee un cuento en el patio y allí toman jugo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Trabaja la ubicación de lugares explícitos en el texto. El niño relaciona la acción de leer con el patio de la casa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v3",
+      "statement": "Valeria recoge los carros y los pone en una caja azul. Su hermano menor llora porque perdió su oso. Valeria le dice que no llore y le ayuda a buscarlo debajo de la cama. Al fin lo encuentran y el niño sonríe. ¿Cómo es Valeria con su hermano?",
+      "context": "En un apartamento en Cali, la niña Valeria ayuda a su hermano menor a guardar los juguetes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cariñosa y servicial",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque Valeria consuela al niño y le ayuda a buscar el oso, lo que demuestra cariño y ayuda."
+        },
+        {
+          "letter": "B",
+          "text": "Enojada y gritona",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valeria no grita ni se enoja, porque el texto dice que le dice con calma que no llore y lo ayuda."
+        },
+        {
+          "letter": "C",
+          "text": "Distraída y olvidadiza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valeria no olvida nada, porque ella ordena los carros y busca con atención debajo de la cama."
+        },
+        {
+          "letter": "D",
+          "text": "Miedosa y callada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valeria no muestra miedo ni se queda callada, porque habla con su hermano y actúa para resolver el problema."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa la inferencia de cualidades de un personaje. El estudiante deduce cómo es Valeria a partir de sus acciones de ayuda.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v4",
+      "statement": "Toda la familia llegó a la fiesta. La palabra familia significa un grupo de personas unidas por cariño y parentesco. En la fiesta estaban los primos, los tíos y los abuelos. ¿Qué palabra significa lo mismo que familia en este texto?",
+      "context": "En una finca cerca de Villavicencio, la familia celebra el cumpleaños de la tía Marta con un sancocho.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vecinos son quienes viven cerca, no los parientes, porque familia significa personas unidas por parentesco y cariño."
+        },
+        {
+          "letter": "B",
+          "text": "Amigos del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los amigos del colegio no son la familia, porque el texto habla de primos, tíos y abuelos reunidos."
+        },
+        {
+          "letter": "C",
+          "text": "Parientes",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque parientes significa lo mismo que familia en este texto, ya que incluye primos, tíos y abuelos."
+        },
+        {
+          "letter": "D",
+          "text": "Desconocidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Desconocidos significa personas que no se conocen, lo contrario de familia, porque aquí todos se conocen y se quieren."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Trabaja el significado de palabras en contexto. El estudiante reconoce que familia y parientes comparten el mismo significado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v5",
+      "statement": "Querida mamá: gracias por cuidarnos y por llevarnos al colegio. Te queremos mucho. Tus hijos, Luis y Sara. La carta tiene un saludo, un mensaje y una firma. ¿Cuál es la firma de la carta?",
+      "context": "En Barranquilla, dos hermanos escriben una carta corta para su mamá por el Día de la Madre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Querida mamá",
+          "is_correct": false,
+          "feedback": "Incorrecto. Querida mamá es el saludo inicial, no la firma, porque la firma va al final y dice quién escribe."
+        },
+        {
+          "letter": "B",
+          "text": "Gracias por cuidarnos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es parte del mensaje central, no la firma, porque el mensaje explica el motivo de la carta."
+        },
+        {
+          "letter": "C",
+          "text": "Te queremos mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase es la despedida cariñosa, no la firma, porque no dice los nombres de quienes escriben."
+        },
+        {
+          "letter": "D",
+          "text": "Luis y Sara",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque Luis y Sara son quienes escriben y su nombre al final corresponde a la firma de la carta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analiza las partes de una carta familiar. El estudiante distingue el saludo, el mensaje y la firma en un texto real.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v6",
+      "statement": "El papá llegó con los zapatos llenos de barro. Suspiró y se sentó en silencio. La niña le llevó un vaso de agua y le dijo: papá, cuéntame tu día. El papá sonrió por primera vez. ¿Qué sintió el papá con el gesto de la niña?",
+      "context": "En Tunja, el papá llega cansado del trabajo y la hija le ofrece agua y le pregunta cómo está.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enojo porque tenía barro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El papá no se enoja con la niña, porque su sonrisa final muestra que el gesto le dio alegría y alivio."
+        },
+        {
+          "letter": "B",
+          "text": "Alivio y alegría",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el papá suspiraba cansado y sonríe al recibir el agua, lo que significa alivio y alegría por el cariño."
+        },
+        {
+          "letter": "C",
+          "text": "Miedo a la oscuridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de oscuridad ni de miedo, porque la escena muestra cansancio que se alivia con el cariño."
+        },
+        {
+          "letter": "D",
+          "text": "Hambre de sancocho",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona hambre ni sancocho, porque lo que cambia su ánimo es el agua y la atención de su hija."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la lectura de emociones en un relato. El estudiante infiere el cambio de ánimo del papá por el gesto de cuidado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v7",
+      "statement": "Diego no prestó sus colores a su prima. Ella se puso triste y no pudo terminar el dibujo. La abuela les dijo que en familia se comparte. Diego pensó y al final prestó los colores. ¿Qué opinas de lo que dijo la abuela?",
+      "context": "En Cartagena, dos primos discuten porque uno no quiere prestar sus colores para una tarea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está mal, cada uno guarda lo suyo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guardar todo sin compartir rompe la unión, porque en familia compartir ayuda a que todos terminen sus tareas."
+        },
+        {
+          "letter": "B",
+          "text": "Que da igual prestar o no prestar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da igual, porque no prestar dejó a la prima triste y sin terminar su dibujo para el colegio."
+        },
+        {
+          "letter": "C",
+          "text": "Que tiene razón, compartir une a la familia",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque compartir los colores permitió terminar el dibujo y significa que la ayuda fortalece el cariño familiar."
+        },
+        {
+          "letter": "D",
+          "text": "Que los colores no sirven para dibujar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores sí sirven para dibujar, porque la prima los necesitaba justo para terminar su tarea del colegio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Forma el juicio crítico sobre valores familiares. El estudiante valora la importancia de compartir en la vida familiar.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle-v8",
+      "statement": "Nota: Hoy recoge a Samuel a las 3 en el jardín la tía Rosa. Por favor no olviden la maleta azul. La nota está en la nevera para que todos la vean. ¿Para qué sirve esta nota en la familia?",
+      "context": "En Pasto, la familia deja una nota en la nevera para recordar quién recoge al bebé en el jardín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para avisar y organizar una tarea",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la nota avisa quién recoge a Samuel y a qué hora, lo que organiza a toda la familia."
+        },
+        {
+          "letter": "B",
+          "text": "Para contar un cuento de miedo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no cuenta ningún cuento, porque solo da una instrucción clara sobre recoger al niño y la maleta."
+        },
+        {
+          "letter": "C",
+          "text": "Para felicitar a la tía Rosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no es una felicitación, porque su propósito es avisar de una tarea y no celebrar nada."
+        },
+        {
+          "letter": "D",
+          "text": "Para dibujar al bebé Samuel",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota no es un dibujo, porque está escrita con palabras que indican una hora, un lugar y una persona."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el uso real de los textos en casa. El estudiante reconoce que la nota sirve para avisar y organizar a la familia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-20-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.009Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v1",
+      "statement": "El cuento es de un conejo blanco. Vive en una huerta verde. Come zanahorias dulces. Corre con sus amigos. ¿De qué animal es el cuento?",
+      "context": "En una escuela de Tunja, el niño Samuel lee un cuento de un conejo en la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De un perro negro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perro no aparece en el cuento, porque el texto dice que es de un conejo blanco."
+        },
+        {
+          "letter": "B",
+          "text": "De un conejo blanco",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que el cuento es de un conejo blanco y corresponde al dato literal."
+        },
+        {
+          "letter": "C",
+          "text": "De un gato gris",
+          "is_correct": false,
+          "feedback": "Incorrecto. El gato no se menciona en la historia, porque el animal descrito es el conejo de la huerta."
+        },
+        {
+          "letter": "D",
+          "text": "De un pájaro azul",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pájaro no aparece en el cuento, porque el texto habla del conejo que come zanahorias."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuerda el personaje principal. El estudiante ubica al conejo blanco como protagonista del cuento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v2",
+      "statement": "Ana lee bajo un árbol. Su libro tiene dibujos grandes. Cuenta la historia de una niña pescadora. Ana lee una hora cada tarde. ¿Dónde lee Ana?",
+      "context": "En Rionegro, la niña Ana lee su libro favorito bajo un árbol de mango.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la cocina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocina no se menciona en el texto, porque Ana lee bajo un árbol de mango."
+        },
+        {
+          "letter": "B",
+          "text": "En el bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bus no aparece en la historia, porque su lugar de lectura es bajo el árbol."
+        },
+        {
+          "letter": "C",
+          "text": "En la piscina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piscina no corresponde al relato, porque Ana lee tranquila bajo el árbol cada tarde."
+        },
+        {
+          "letter": "D",
+          "text": "Bajo un árbol",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que lee bajo un árbol y significa su rincón favorito de lectura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ubica el lugar de lectura. El niño reconoce bajo el árbol como espacio favorito de Ana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v3",
+      "statement": "El título es el nombre del cuento. Va escrito arriba con letras grandes. El cuento se llama El pez dorado. Los niños lo leen en voz alta. ¿Cuál es el título?",
+      "context": "En Valledupar, el profe dice que el título es el nombre del cuento y va arriba.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pez dorado",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque El pez dorado es el nombre escrito arriba y significa el título del cuento."
+        },
+        {
+          "letter": "B",
+          "text": "Los niños leen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños leen es la acción, no el título, porque el título es el nombre del cuento arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Letras grandes negras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Letras grandes es el tamaño, no el título, porque el título son las palabras El pez dorado."
+        },
+        {
+          "letter": "D",
+          "text": "Voz alta y clara",
+          "is_correct": false,
+          "feedback": "Incorrecto. Voz alta es cómo leen, no el título, porque el título nombra al pez dorado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplica la noción de título. El estudiante identifica El pez dorado como nombre del cuento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v4",
+      "statement": "El niño leyó el cuento una vez. Lo leyó otra vez al día siguiente. Lo pidió de regalo para su cumpleaños. Lo lleva a todas partes. ¿Qué siente por su cuento?",
+      "context": "En Ipiales, un niño relee tres veces su cuento de piratas porque le encanta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aburrimiento total",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aburrido no lo relee tres veces, porque el niño lo pide de regalo y lo lleva a todas partes."
+        },
+        {
+          "letter": "B",
+          "text": "Miedo a los piratas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El miedo aleja del libro, no acerca, porque él lo relee con gusto cada día."
+        },
+        {
+          "letter": "C",
+          "text": "Cariño y gusto por leerlo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque releer y pedirlo de regalo significa cariño y gusto por su lectura favorita."
+        },
+        {
+          "letter": "D",
+          "text": "Enojo con el autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enojado no lo llevaría a todas partes, porque lo trata como su cuento favorito."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere el gusto por releer. El estudiante conecta repetir y llevar el libro con cariño lector.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v5",
+      "statement": "Ficha: Libro: La tortuga veloz. Lector: María. Fecha: lunes. Devuelve: viernes. La ficha ordena libro, lector, fecha y entrega. ¿Qué libro sacó María?",
+      "context": "En Yopal, una ficha de préstamo muestra quién sacó cada libro de la biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "María",
+          "is_correct": false,
+          "feedback": "Incorrecto. María es la lectora, no el libro, porque aparece en la casilla de lector de la ficha."
+        },
+        {
+          "letter": "B",
+          "text": "Lunes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lunes es la fecha de préstamo, no el libro, porque el libro va en la primera casilla."
+        },
+        {
+          "letter": "C",
+          "text": "Viernes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Viernes es la devolución, no el libro, porque indica cuándo debe devolverlo María."
+        },
+        {
+          "letter": "D",
+          "text": "La tortuga veloz",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque La tortuga veloz aparece en la casilla de libro y corresponde al préstamo de María."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Lee fichas de biblioteca por campos. El estudiante distingue libro, lector y fechas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v6",
+      "statement": "La niña quiere ser astronauta. Vio un libro sin dibujos y otro con estrellas brillantes. Eligió el de estrellas. Lo abraza feliz. ¿Por qué eligió ese libro?",
+      "context": "En Ocaña, una niña elige un libro con dibujos de estrellas porque quiere ser astronauta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque era el más caro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no se menciona en el texto, porque la niña elige por los dibujos de estrellas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque tiene estrellas y sueña viajar",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque las estrellas conectan con su sueño de astronauta y significa elección por ilusión."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no sabe leer nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña sí lee y elige, porque abraza feliz el libro que habla de su sueño."
+        },
+        {
+          "letter": "D",
+          "text": "Porque odia los dibujos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niña ama los dibujos, no los odia, porque eligió justo el que tiene estrellas brillantes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analiza motivos de elección lectora. El estudiante vincula estrellas con el sueño de ser astronauta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v7",
+      "statement": "El cuento uno habla de un perrito perdido que llora. El cuento dos habla de amigos que juegan y ríen. El curso quiere reír hoy. ¿Qué cuento recomiendas?",
+      "context": "En Popayán, dos amigos comparan un cuento triste y uno alegre para la hora del cuento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El uno, porque llorar divierte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llorar no divierte al curso hoy, porque quieren reír y el perrito perdido da tristeza."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno, no leer nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. No leer deja sin hora del cuento, porque el curso quiere reír con una historia alegre."
+        },
+        {
+          "letter": "C",
+          "text": "El dos, porque alegra con risas",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque amigos que juegan y ríen significa alegría y corresponde a lo que busca el curso."
+        },
+        {
+          "letter": "D",
+          "text": "El uno, porque se pierde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perderse da pena, no risa, porque el cuento uno habla de un perrito que llora perdido."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Recomienda lecturas según el ánimo. El estudiante elige el cuento alegre para hacer reír.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle-v8",
+      "statement": "El cartel invita a traer el cuento favorito. Pide contarlo en dos minutos. Es para compartir en clase el viernes. Está pegado en la cartelera. ¿Qué invita a hacer el cartel?",
+      "context": "En Tumaco, un cartel de la escuela dice: Trae tu cuento favorito el viernes y cuéntalo en dos minutos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A compartir el cuento favorito",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque traer y contar en dos minutos significa compartir la lectura favorita con la clase."
+        },
+        {
+          "letter": "B",
+          "text": "A esconder los libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder es lo contrario de compartir, porque el cartel pide traer el cuento para contarlo."
+        },
+        {
+          "letter": "C",
+          "text": "A comprar cuentos caros",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no vende nada, porque invita a traer el que ya tienen en casa sin costo."
+        },
+        {
+          "letter": "D",
+          "text": "A romper las páginas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Romper daña los libros, no comparte, porque el cartel busca contar historias con cuidado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Comprende invitaciones lectoras. El estudiante reconoce compartir como propósito del cartel del viernes.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle",
+      "periodo": 20,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.009Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v1",
+      "statement": "La tienda de don José vende leche y huevos. Queda al lado de la panadería. Abre a las seis de la mañana. Cierra a las ocho de la noche. ¿Qué vende don José?",
+      "context": "En un barrio de Bogotá, la tienda de don José queda al lado de la panadería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ropa y zapatos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ropa y zapatos se venden en otro local, porque don José vende leche y huevos en su tienda."
+        },
+        {
+          "letter": "B",
+          "text": "Leche y huevos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que vende leche y huevos y corresponde al dato literal inicial."
+        },
+        {
+          "letter": "C",
+          "text": "Libros y colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Libros se venden en la papelería, no en la tienda, porque aquí vende leche y huevos."
+        },
+        {
+          "letter": "D",
+          "text": "Juguetes y dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Juguetes no se nombran en la tienda, porque el texto solo habla de leche y huevos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuerda productos de la tienda barrial. El estudiante ubica leche y huevos como venta de don José.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v2",
+      "statement": "El parque tiene columpios altos. Tiene un rodadero azul. Tiene una cancha para jugar fútbol. Los niños van en la tarde. ¿Cuándo van los niños al parque?",
+      "context": "En Envigado, el parque tiene columpios, rodadero y una cancha pequeña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la mañana temprano",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mañana no se menciona como visita, porque el texto dice que los niños van en la tarde."
+        },
+        {
+          "letter": "B",
+          "text": "A medianoche",
+          "is_correct": false,
+          "feedback": "Incorrecto. A medianoche el parque está cerrado y oscuro, porque los niños van en la tarde a jugar."
+        },
+        {
+          "letter": "C",
+          "text": "Nunca van al parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños sí van, porque el texto dice que van en la tarde a los columpios y la cancha."
+        },
+        {
+          "letter": "D",
+          "text": "En la tarde",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que van en la tarde y significa su momento de juego diario."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ubica el tiempo de una actividad barrial. El niño reconoce la tarde como momento de ir al parque.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v3",
+      "statement": "Prestar significa entregar algo por un tiempo y luego devolverlo. La biblioteca presta cuentos. El niño lleva dos cuentos. Los devuelve el viernes. ¿Qué significa prestar?",
+      "context": "En Soacha, la biblioteca presta libros gratis para leer en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entregar por un tiempo y devolver",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque llevar dos cuentos y devolverlos el viernes significa préstamo con devolución."
+        },
+        {
+          "letter": "B",
+          "text": "Regalar para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regalar es dar sin devolver, no prestar, porque el niño devuelve los cuentos el viernes."
+        },
+        {
+          "letter": "C",
+          "text": "Vender por muchos pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender pide dinero, no es préstamo, porque la biblioteca presta gratis para leer en casa."
+        },
+        {
+          "letter": "D",
+          "text": "Esconder bajo la cama",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder es guardar sin permiso, no prestar, porque prestar significa llevar y devolver a tiempo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Define prestar en la biblioteca. El estudiante aplica entregar y devolver como préstamo de cuentos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v4",
+      "statement": "El puesto de salud anunció jornada de vacunas. La fila era larga desde las ocho. Los niños salían con una curita en el brazo. Todos sonreían tranquilos. ¿Qué pasó en el puesto de salud?",
+      "context": "En Bello, el puesto de salud vacuna gratis a los niños del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vendieron helados caros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Helados no se mencionan en la jornada, porque los niños salían con curita de vacuna en el brazo."
+        },
+        {
+          "letter": "B",
+          "text": "Cerraron por fiesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puesto estaba abierto con fila larga, no cerrado, porque anunciaron jornada de vacunas."
+        },
+        {
+          "letter": "C",
+          "text": "Vacunaron a los niños",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la curita en el brazo y la fila larga significan jornada de vacunas gratis."
+        },
+        {
+          "letter": "D",
+          "text": "Prestaron balones de fútbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Balones no aparecen en el puesto, porque lo que recibieron fue una vacuna con curita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere un servicio barrial por pistas. El estudiante deduce vacunación por fila y curita en el brazo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v5",
+      "statement": "Mapa: a la izquierda está la iglesia. En el centro está la escuela. A la derecha está la tienda. El niño marca su ruta con color. ¿Qué lugar está en el centro?",
+      "context": "En Florencia, un mapa dibujado muestra la escuela entre la iglesia y la tienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La iglesia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La iglesia está a la izquierda, no en el centro, porque el mapa la ubica al inicio de la ruta."
+        },
+        {
+          "letter": "B",
+          "text": "La tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tienda está a la derecha, no en el centro, porque cierra la ruta del mapa dibujado."
+        },
+        {
+          "letter": "C",
+          "text": "El parque lejano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque no aparece en este mapa, porque solo muestra iglesia, escuela y tienda seguidas."
+        },
+        {
+          "letter": "D",
+          "text": "La escuela",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el mapa dice que en el centro está la escuela y corresponde al punto medio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Lee un mapa sencillo por posiciones. El estudiante ubica la escuela en el centro del recorrido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v6",
+      "statement": "Cada pan cuesta 1000 pesos. La niña compra dos panes. Paga con 5000 pesos. El tendero le devuelve dinero. ¿Cuánto le devuelven?",
+      "context": "En Palmira, una niña compra dos panes de 1000 pesos con una moneda de 5000.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 1000 es un solo pan, no las vueltas, porque dos panes cuestan 2000 y sobra más."
+        },
+        {
+          "letter": "B",
+          "text": "3000 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque dos panes son 2000 y 5000 menos 2000 son 3000, que significa las vueltas."
+        },
+        {
+          "letter": "C",
+          "text": "5000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 5000 fue el pago, no las vueltas, porque debe restar los 2000 de los dos panes."
+        },
+        {
+          "letter": "D",
+          "text": "2000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2000 es el costo de los panes, no las vueltas, porque las vueltas son 5000 menos 2000."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Calcula vueltas en la tienda con pesos. El estudiante resta el costo del pago recibido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v7",
+      "statement": "Unos niños rayan las paredes del parque con marcador. Otros les dicen que así se ve feo y se daña. El celador pide borrar lo rayado. ¿Qué opinas?",
+      "context": "En Dosquebradas, unos niños rayan las paredes del parque mientras otros los invitan a cuidarlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que rayar es arte bueno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rayar paredes ajenas no es arte cuidado, porque daña el parque y significa irrespeto por lo común."
+        },
+        {
+          "letter": "B",
+          "text": "Que da igual rayar o no",
+          "is_correct": false,
+          "feedback": "Incorrecto. No da igual, porque rayar deja feo el parque que todos usan para jugar en la tarde."
+        },
+        {
+          "letter": "C",
+          "text": "Que deben cuidar y no rayar",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque cuidar las paredes mantiene bonito el parque y significa respeto por el barrio."
+        },
+        {
+          "letter": "D",
+          "text": "Que el parque no sirve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El parque sí sirve para columpios y fútbol, porque el daño es de quienes rayan y no del lugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzga el cuidado del espacio público. El estudiante valora no rayar y proteger el parque barrial.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle-v8",
+      "statement": "El aviso invita a un bazar mañana. Dice que es para arreglar el techo. Pide traer vaso para no usar desechables. Está en la puerta de la iglesia. ¿Para qué es el bazar?",
+      "context": "En Girón, un aviso en la iglesia dice: Mañana bazar para arreglar el techo. Trae tu vaso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para recoger fondos del techo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el aviso dice que es para arreglar el techo, lo que significa recoger fondos con el bazar."
+        },
+        {
+          "letter": "B",
+          "text": "Para jugar un partido final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso no habla de fútbol, porque invita a un bazar para arreglar el techo de la iglesia."
+        },
+        {
+          "letter": "C",
+          "text": "Para vender vasos nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. No vende vasos, porque pide traer el vaso propio para evitar basura desechable."
+        },
+        {
+          "letter": "D",
+          "text": "Para cerrar la iglesia",
+          "is_correct": false,
+          "feedback": "Incorrecto. No es un cierre, porque es una invitación a ayudar con el arreglo del techo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Interpreta avisos comunitarios. El estudiante reconoce el bazar como recolección para el techo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

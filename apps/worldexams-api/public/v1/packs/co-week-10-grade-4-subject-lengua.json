@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.011Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v1",
+      "statement": "La descripción comienza así: «Mi barrio tiene una plaza, una tienda y una biblioteca». ¿Qué palabra nombra el lugar donde viven muchas personas de la ciudad?",
+      "context": "En la clase de sociales de Barranquilla, los estudiantes de cuarto grado escriben una descripción de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "barrio",
+          "is_correct": true,
+          "feedback": "Correcto. \"barrio\" nombra el lugar donde viven muchas personas y donde se comparten servicios."
+        },
+        {
+          "letter": "B",
+          "text": "tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"tienda\" nombra un lugar para comprar, no el conjunto de calles y casas donde vive la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "biblioteca",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"biblioteca\" nombra un espacio para leer o estudiar, no el lugar general donde viven las familias."
+        },
+        {
+          "letter": "D",
+          "text": "plaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"plaza\" nombra un espacio abierto para encontrarse, no el territorio donde se vive la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La respuesta correcta es A) «barrio». La palabra aparece en la descripción y se refiere al conjunto de calles, casas y servicios donde viven muchas personas. «Plaza», «tienda» y «biblioteca» designan espacios concretos dentro de ese conjunto; por eso no sustituyen la palabra «barrio». La pregunta permite distinguir un término general de un lugar particular.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué idea expresa mejor esta frase?",
+      "context": "Sara dice: «En mi barrio, los vecinos comparten la plaza y se ayudan cuando alguien lo necesita».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las personas del barrio solo se encuentran para comprar.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"solo se encuentran para comprar\" contradice \"comparten la plaza\", porque la frase también describe ayuda."
+        },
+        {
+          "letter": "B",
+          "text": "Las personas que viven en el barrio viven cerca y colaboran entre sí.",
+          "is_correct": true,
+          "feedback": "Correcto. \"comparten la plaza\" y \"se ayudan\" muestran colaboración entre personas que viven cerca."
+        },
+        {
+          "letter": "C",
+          "text": "La comunidad está formada por una familia lejana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"una familia lejana\" no aparece en el enunciado; \"vecinos\" indica personas que viven cerca."
+        },
+        {
+          "letter": "D",
+          "text": "Los vecinos se ayudan únicamente cuando reciben un premio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"únicamente cuando reciben un premio\" contradice \"cuando alguien lo necesita\", porque la ayuda no depende de un premio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La respuesta correcta es A). «Comparten la plaza» muestra una actividad común y «se ayudan» indica que las personas colaboran. La frase no habla de una familia lejana, de compras ni de premios; describe la convivencia de los vecinos. Reconocer estas palabras ayuda a comprender cómo se relacionan las personas de una comunidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué se puede inferir a partir de este texto?",
+      "context": "En el barrio La Esperanza de Medellín, una biblioteca abre de lunes a viernes. Los niños leen allí por las tardes y los adultos conversan en la misma sala.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La biblioteca permanece abierta todos los fines de semana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice \"de lunes a viernes\", pero no afirma que la biblioteca abra los fines de semana."
+        },
+        {
+          "letter": "B",
+          "text": "Los adultos no hablan con los niños en la biblioteca.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"los adultos conversan en la misma sala\" no permite concluir que eviten hablar con los niños; la negación es injustificada."
+        },
+        {
+          "letter": "C",
+          "text": "La biblioteca reúne a niños y adultos en un mismo espacio durante varios días.",
+          "is_correct": true,
+          "feedback": "Correcto. \"de lunes a viernes\" y \"en la misma sala\" muestran que niños y adultos comparten un espacio durante varios días."
+        },
+        {
+          "letter": "D",
+          "text": "La biblioteca es el único lugar de encuentro del barrio.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"una biblioteca\" no demuestra que sea el único lugar de encuentro; el texto solo informa de ese espacio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La respuesta correcta es A). El texto menciona que la biblioteca abre de lunes a viernes y que allí leen los niños mientras los adultos conversan. Por eso se puede inferir que el espacio reúne a personas de distintas edades durante varios días. Las otras opciones añaden afirmaciones que el texto no permite sostener.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué acción responde mejor a lo que necesitan las familias?",
+      "context": "En el barrio Santa Rosa de Cali, el parque tiene basura y los juegos están deteriorados. Las familias quieren recuperarlo para jugar y caminar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar la basura y cerrar los juegos, porque así el parque tendrá menos usuarios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"cerrar los juegos\" y \"menos usuarios\" no responden a \"familias quieren recuperarlo\", porque reducen el acceso al parque."
+        },
+        {
+          "letter": "B",
+          "text": "Construir una tienda dentro del parque, porque cambiar el uso del espacio evita limpiarlo.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"construir una tienda\" cambia el uso del parque y no quita la basura ni repara los juegos deteriorados."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar a que el parque se limpie solo, porque no hay nadie dispuesto a cuidar un espacio público.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"esperar a que el parque se limpie solo\" no propone una acción y contradice \"familias quieren recuperarlo\", que requiere cooperación."
+        },
+        {
+          "letter": "D",
+          "text": "Organizar una limpieza y el cuidado de los juegos, porque el parque es un espacio común que debe estar seguro y ordenado.",
+          "is_correct": true,
+          "feedback": "Correcto. \"basura\" y \"juegos están deteriorados\" muestran los problemas; \"familias quieren recuperarlo\" indica que hay que limpiar y cuidar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La opción A responde directamente a los dos problemas del texto: la basura y el deterioro de los juegos. Además, considera que el parque es un espacio común y que las familias quieren recuperarlo para usarlo con seguridad. Las otras opciones no resuelven los problemas descritos o reducen el uso del espacio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la idea principal del texto?",
+      "context": "En un barrio de Bogotá, hay una plaza, una tienda, una biblioteca y una escuela. Los niños estudian por la mañana y los vecinos conversan en la plaza por la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El barrio solo sirve para comprar, porque sus otros lugares no se mencionan.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"solo sirve para comprar\" es falso: el texto también menciona \"escuela\" y \"plaza\", así que el barrio ofrece otras actividades."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad está abandonada, porque no hay personas que usen los espacios.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"comunidad abandonada\" contradice \"los niños estudian\" y \"los vecinos conversan\", porque hay uso del espacio."
+        },
+        {
+          "letter": "C",
+          "text": "El barrio ofrece varios lugares y actividades para vivir, aprender y encontrarse.",
+          "is_correct": true,
+          "feedback": "Correcto. \"plaza\", \"tienda\", \"biblioteca\" y \"escuela\" aparecen como lugares que los habitantes usan para aprender, comprar y conversar."
+        },
+        {
+          "letter": "D",
+          "text": "El barrio es igual a una ciudad grande, porque tiene todos los servicios imaginables.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"todos los servicios imaginables\" no aparece; el texto solo describe cuatro lugares y no permite compararlos con una ciudad grande."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La idea principal reúne lasarious ideas del párrafo: el barrio tiene diferentes lugares y sus habitantes los utilizan para estudiar, comprar y conversar. No se trata de un lugar abandonado ni de un espacio dedicado únicamente a las compras. Analizar la idea principal ayuda a quitar detalles aislados y conservar el mensaje central.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál propuesta de análisis es más adecuada para decidir con responsabilidad?",
+      "context": "En un terreno baldío de Pereira, tres vecinos proponen usos. Ana quiere construir un parque con juegos porque los niños necesitan moverse. Beto quiere un jardín porque las plantas ayudan a refrescar el ambiente. Camila propone ampliar la calle porque algunos carros pasan con dificultad. No se informa el costo ni se ha tomado una decisión definitiva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Escuchar las tres necesidades, comparar beneficios y riesgos, y averiguar sobre costos y seguridad antes de elegir, porque las opiniones aisladas no bastan.",
+          "is_correct": true,
+          "feedback": "Correcto. \"tres vecinos\" y \"no se informa el costo\" exigen comparar necesidades y datos antes de tomar una decisión definitiva."
+        },
+        {
+          "letter": "B",
+          "text": "Elegir el parque solo porque Ana dice que los niños necesitan moverse, sin considerar las otras necesidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir \"solo porque Ana\" ignora a Beto y Camila, cuyas propuestas también responden a necesidades del terreno."
+        },
+        {
+          "letter": "C",
+          "text": "Elegir el jardín solo porque Beto dice que las plantas ayudan, sin comprobar quién las cuidará ni cuánto costará.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"solo porque Beto\" no considera la pregunta por el cuidado de las plantas ni el costo, datos que faltan en el texto."
+        },
+        {
+          "letter": "D",
+          "text": "Elegir la ampliación solo porque Camila menciona los carros, sin pensar en la seguridad de los niños ni en el espacio de la comunidad.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"solo porque Camila\" deja fuera a Ana y Beto y no responde por la seguridad de los niños ni por el espacio común."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La opción A es la más adecuada porque tiene en cuenta las tres propuestas y reconoce que el texto no ofrece todos los datos necesarios. Una decisión responsable requiere comparar beneficios, riesgos, costos y seguridad antes de actuar. Las otras opciones toman una sola opinión y, además de eso, ignoran las necesidades o las dudas expresadas por los demás vecinos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué relación organiza el texto entre las actividades descritas?",
+      "context": "En un barrio de Cartagena, los vecinos se reúnen los sábados en la plaza. Allí, los niños juegan y los adultos conversan. Después de un rato, todos recogen los papeles y dejan el espacio limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El texto presenta actividades simultáneas y contradictorias, porque jugar y conversar no pueden realizarse en la misma plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Después de un rato\" indica una etapa posterior, no actividades contradictorias; por eso no se puede afirmar que jugar y conversar sean incompatibles."
+        },
+        {
+          "letter": "B",
+          "text": "El texto sustituye la convivencia por el trabajo, porque la limpieza ocurre desde el principio y no tiene relación con el encuentro.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La limpieza aparece \"Después de un rato\", no desde el principio, y reemplaza una etapa final sin borrar la convivencia anterior."
+        },
+        {
+          "letter": "C",
+          "text": "El texto solo enumera nombres de lugares, porque no incluye acciones de las personas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto incluye acciones como \"se reúnen\", \"juegan\" y \"conversan\"; no es una lista de nombres de lugares."
+        },
+        {
+          "letter": "D",
+          "text": "El texto presenta una secuencia: primero los vecinos se reúnen, luego juegan o conversan y, al final, recogen los papeles.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Los sábados\", \"Después de un rato\" y \"todos recogen\" ordenan el encuentro, las actividades y la limpieza en una secuencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La opción A identifica la organización temporal del texto. La expresión «Los sábados» presenta la costumbre, «Después de un rato» marca el paso del tiempo y «todos recogen» cierra la descripción con una acción de cuidado. Reconocer conectores y acciones permite explicar cómo el texto construye una secuencia y valorar la convivencia comunitaria.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál conclusión se apoya mejor en las afirmaciones y los datos?",
+      "context": "En una reunión de barrio en Cúcuta, Laura dijo: «Falta un espacio para los niños». Andrés dijo: «La plaza está oscura por las noches». Una encuesta a 30 familias, que podían escoger más de una opción, registró 18 peticiones de juegos, 14 de iluminación y 8 de árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La iluminación puede descartarse, porque la palabra «noche» no demuestra que falte luz en la plaza.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"La plaza está oscura por las noches\" sí plantea una dificultad; descartar la iluminación por la palabra \"noche\" contradice el dato."
+        },
+        {
+          "letter": "B",
+          "text": "La comunidad debe considerar conjuntamente los juegos, la iluminación y los árboles, porque las cifras registran necesidades distintas que deben compararse.",
+          "is_correct": true,
+          "feedback": "Correcto. \"18 peticiones de juegos\", \"14 de iluminación\" y \"8 de árboles\" muestran necesidades distintas que la comunidad debe comparar."
+        },
+        {
+          "letter": "C",
+          "text": "Las familias están en desacuerdo, porque las cifras 18, 14 y 8 son distintas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cifras \"18\", \"14\" y \"8\" pueden marcar opciones diferentes y no demuestran desacuerdo entre las familias."
+        },
+        {
+          "letter": "D",
+          "text": "Deben priorizarse únicamente los juegos, porque 18 es el dato más alto y una sola cifra basta para conocer todas las necesidades.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Elegir solo \"18\" ignora \"14\" y \"8\"; una cifra más alta no describe todas las necesidades del barrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La opción A integra las dos Interventiones y los resultados de la encuesta. Las familias pudieron escoger más de una opción, por lo que las cifras no expresan necesariamente desacuerdo; muestran diferentes necesidades que la comunidad debe estudiar. Descartar la iluminación, afirmar un desacuerdo o considerar únicamente los juegos sería reducir información importante y tomar una decisión poco equilibrada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
