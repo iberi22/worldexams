@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-4-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v1",
+      "statement": "Lee el texto.\n\n\"Doña Marta tenía el pelo blanco y largo. Usaba un delantal azul con flores. Todas las mañanas vendía frutas en el mercado de Bogotá. Cuando saludaba a sus clientes, sonreía mucho.\"\n\n¿Cómo era el delantal de doña Marta?",
+      "context": "Descripción de una señora en un mercado de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo y a rayas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que el delantal era azul con flores; el color rojo y las rayas no aparecen en ninguna parte de la descripción."
+        },
+        {
+          "letter": "B",
+          "text": "Blanco y largo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pelo blanco y largo es de doña Marta, no el delantal: le asignaste a la prenda un rasgo que describe a la persona."
+        },
+        {
+          "letter": "C",
+          "text": "Azul y con flores",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice \"un delantal azul con flores\", así que el delantal era de color azul y llevaba flores."
+        },
+        {
+          "letter": "D",
+          "text": "Sin estampado y de tela oscura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción dice explícitamente que el delantal era azul y tenía flores, así que no era liso ni oscuro."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto describe a un personaje, cada detalle corresponde a una parte concreta del cuerpo o a una prenda. Reconocer que el pelo blanco pertenece a doña Marta y que el azul con flores pertenece al delantal evita mezclar los rasgos. Leer descripciones exige el mismo cuidado con los sustantivos que nombran cada elemento. Un lector atento puede después describir a alguien con la misma precisión.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v2",
+      "statement": "Lee el texto.\n\n\"El señor Giraldo era carpintero. Trabajaba desde las seis de la mañana en su taller de Pereira. Usaba un delantal de color azul y siempre barría el piso de aserrín antes de salir.\"\n\n¿De qué oficio era el señor Giraldo?",
+      "context": "Descripción de un oficio en un taller de Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sastrero",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay costuras ni prendas en la descripción; el único oficio mencionado es el de carpintero."
+        },
+        {
+          "letter": "B",
+          "text": "Pintor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque barría el piso y usaba un delantal, el texto nunca dice que pintara; su trabajo era la madera en el taller."
+        },
+        {
+          "letter": "C",
+          "text": "Panadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no menciona pan ni panadería; el oficio escrito de forma explícita es la carpintería."
+        },
+        {
+          "letter": "D",
+          "text": "Carpintero\n  \n oficio. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración del texto dice \"El señor Giraldo era carpintero\", así que ese es su oficio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una descripción, el primer rasgo que se menciona suele ser el más importante para identificar al personaje. Aquí, la primera oración presenta el oficio y las siguientes dan detalles que lo confirman. Reconocer el dato principal y usar los demás como respaldo es una estrategia de lectura eficaz. También evita confundir objetos que aparecen cerca con la profesión del personaje.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v3",
+      "statement": "Lee el texto.\n\n\"Julián tenía siete años y era muy tímido. En el recreo se quedaba cerca de su profesora. Cuando otros niños gritaban, él bajaba la cabeza. Un día un compañero lo invitó a jugar y Julián, después de pensarlo, aceptó.\"\n\n¿Qué rasgo del carácter de Julián se nota mejor en la últi",
+      "context": "Descripción de un niño con rasgos que se deducen de su comportamiento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es muy alegre y ruidoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julián nunca es descrito como ruidoso; al contrario, el texto muestra que bajaba la cabeza cuando otros gritaban."
+        },
+        {
+          "letter": "B",
+          "text": "Es tímido, pero puede vencerse y decidir cuando decide hacerlo",
+          "is_correct": true,
+          "feedback": "Correcto. La última oración muestra que aceptó jugar después de pensarlo: esa decisión revela que su timidez lo hace dudar, pero no lo paraliza."
+        },
+        {
+          "letter": "C",
+          "text": "Le gusta hablar en público",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto indica que le gustara hablar en frente de otros; su rasgo central es la timidez."
+        },
+        {
+          "letter": "D",
+          "text": "Es perezoso y no quiere jugar\n  \ntible con su timidez. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al final aceptó jugar, así que no es perezoso; aceptó después de pensarlo, y eso es compatible con su timidez."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El carácter de un personaje se conoce por lo que hace, no solo por lo que se dice de él. Aquí, el rasgo que más se revela es la timidez junto con la capacidad de decidir. Cuando el lector detecta que el niño duda pero actúa, está leyendo entre líneas. Esa forma de inferir el carácter es más profunda que repetir un adjetivo del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v4",
+      "statement": "Lee el texto.\n\n\"La señora Piedad no llevaba vendas ni agujas en la mano. Cada mañana revisaba las plantas del jardín de su casa en Manizales. Cuando una planta se veía amarilla, la cambiaba de matera y le ponía agua. Sus vecinos le decían que tenía buena mano para la jardinería.\"\n\n¿Qué ac",
+      "context": "Descripción de un oficio que se deduce de los objetos que usa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cocinar para toda la familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocina no aparece en el texto; su trabajo diario está descrito con plantas, materas y agua."
+        },
+        {
+          "letter": "B",
+          "text": "Coser ropa para sus vecinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este relato no aparecen agujas ni costuras; los objetos que usa son materas y agua para las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "Cuidar plantas, regarlas y cambiarlas de matera cuando se veían enfermas",
+          "is_correct": true,
+          "feedback": "Correcto. El texto cuenta que revisaba las plantas, las cambiaba de matera y les ponía agua cuando se veían amarillas, así que su actividad era la jardinería."
+        },
+        {
+          "letter": "D",
+          "text": "Enseñar plantas en una escuela\n  \ndmiraban su jeito con las plantas. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que ella enseñara ni que tuviera estudiantes; solo menciona que sus vecinos admiraban su jeito con las plantas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un texto no nombra la actividad pero enumera sus acciones, el lector puede deducirla. Revisar plantas, cambiar la matera y regar son tareas propias de la jardinería, así que esa es la respuesta correcta. Inferir a partir de los verbos y de los objetos que aparecen es una competencia lectora muy útil. Evita que el lector se quede solo con las palabras explícitas del texto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v5",
+      "statement": "Lee el texto.\n\n\"Don Anselmo era un señor muy apacible. Todos los días acomodaba las sillas de la plaza de Armenia y conversaba con quien pasaba. Nunca levantaba la voz, aunque mucha gente le pedía cosas.\"\n\nSegún el texto,",
+      "context": "Lectura del significado de la palabra \"apacible\" en una descripción.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tranquilo y amable, que habla bajo y no se enoja",
+          "is_correct": true,
+          "feedback": "Correcto. El texto aclara el significado: don Anselmo nunca levantaba la voz y conversaba con quien pasaba, así que apacible significa tranquilo y amable."
+        },
+        {
+          "letter": "B",
+          "text": "Rápido y ruidoso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo contrario de apacible es rápido y ruidoso, y el texto dice justamente que nunca levantaba la voz."
+        },
+        {
+          "letter": "C",
+          "text": "Distraído y ausente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no muestra que estuviera distraído; atendía a quienes le pedían cosas, así que no es lo que significa apacible."
+        },
+        {
+          "letter": "D",
+          "text": "Orgulloso y distante\n  \nue hablaba con quien pasaba, nada de distancia. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra significa tranquilo y amable; además el texto muestra que hablaba con quien pasaba, nada de distancia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una descripción, muchas palabras describen el carácter del personaje. \"Apacible\" es un adjetivo que el texto explica con hechos concretos, y el lector debe reconstruirlo con esas pistas. Entender el vocabulario de una descripción permite nombrar mejor a las personas. Comprender una palabra por su contexto es una habilidad que sirve para toda la lectura.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v6",
+      "statement": "Lee el texto.\n\n\"Mi mamá llegaba cansada del trabajo en Callao. Aun así, siempre preguntaba cómo nos había ido en el colegio y escuchaba hasta el final. Un día llegó muy tarde y no alcanzó la cena. Dejó una nota que decía: coman y descansen, yo como mañana.\"\n\n¿Qué rasgo del per",
+      "context": "Análisis de un rasgo que no se dice de forma directa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está enojada con sus hijos por el trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca dice que esté enojada; la nota es de cuidado y preocupación, no de reclamo."
+        },
+        {
+          "letter": "B",
+          "text": "Que no sabe escribir cartas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nota está escrita con un mensaje completo y claro, así que no hay ningún indicio de que no supiera escribir."
+        },
+        {
+          "letter": "C",
+          "text": "Que ya no le importa su familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no le importara, no habría dejado esa nota pidiendo que comieran y descansaran; el texto muestra lo contrario."
+        },
+        {
+          "letter": "D",
+          "text": "Que antepone a su familia y busca cuidarla aun cuando ella misma está cansada\n  \nel cuidado hacia los demás por encima de su propio descanso. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La nota pide que coman y descansen mientras ella come después, así que el rasgo que revela es el cuidado hacia los demás por encima de su propio descanso."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar una descripción significa detectar lo que el texto sugiere sin decirlo de manera directa. Aquí, un gesto pequeño, dejar una nota antes de comer, revela el carácter del personaje. Los detalles pequeños suelen decir más del carácter que los grandes discursos. Reconocer esas pistas es lo que permite describe a alguien sin usar adjetivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v7",
+      "statement": "Lee el texto.\n\n\"Los niños de Cartagena le tenían mucho cariño a don Emilio. Donde iba, los saludaba a todos con su sombrero grande. Cuando un niño no tenía para el almuerzo, le daba una bolsa con comida. Al final del día, revisaba los cuadernos de los más nuevos.\"\n\n¿Qué cambio se",
+      "context": "Contraste de dos descripciones del mismo personaje.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pasa de ser generoso a volverse egoísta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al final del día don Emilio sigue ayudando, incluso con los cuadernos de los más nuevos: no hay ningún cambio hacia el egoísmo."
+        },
+        {
+          "letter": "B",
+          "text": "Pasa de un gesto general con todos los niños a un gesto concreto de ayuda a quien más lo necesitaba",
+          "is_correct": true,
+          "feedback": "Correcto. Empieza saludando a todos con su sombrero y termina ayudando con cuadernos y comida; ese recorrido muestra que su afecto pasa de lo general a lo concreto."
+        },
+        {
+          "letter": "C",
+          "text": "Pasa de ignorar a los niños a conocer bien sus problemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca dice que don Emilio fuera ignorado al principio; los niños ya lo querían mucho desde el comienzo."
+        },
+        {
+          "letter": "D",
+          "text": "Pasa de tener mucho tiempo a no tener nada\n  \n que dejara de tener recursos, así que ese cambio no existe en el relato. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que perdiera sus cosas ni que dejara de tener recursos, así que ese cambio no existe en el relato."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos momentos de una descripción permite ver cómo se revela el carácter con el paso del tiempo. En este texto, el gesto inicial es amplio, saludar a todos, y el gesto final es preciso, ayudar a quien lo necesita. Notar esa diferencia muestra que el lector está siguiendo la evolución del personaje. Esa lectura de proceso es más profunda que la lectura de un solo rasgo aislado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle-v8",
+      "statement": "Lee el texto.\n\n\"Señora Claudia vive en el campo, cerca de Ibagué. Desde temprano trabaja la tierra con su hermano. Viste ropa sencilla y lleva un sombrero de paja. Dice que no le gusta el ruido de la ciudad y que prefiere vivir donde se oiga el gallo.\"\n\nUn compañero describe a la señora Claudia así: \"Es una señora elegante que usa ropa fina y vive en u",
+      "context": "Evaluación de una descripción que contradice el texto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es parcialmente correcta, porque ella sí vive cerca de una ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vivir cerca de Ibagué no equivale a vivir en un apartamento del centro, y el texto dice que ella prefiere el campo por el ruido."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el texto menciona que ella trabaja la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Trabajar la tierra no demuestra que sea elegante ni que viva en un apartamento; ese dato solo confirma que su vida es rural."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque contradice varios datos del texto: la ropa sencilla, el sombrero de paja y la vida en el campo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que viste ropa sencilla, lleva sombrero de paja y vive en el campo; la descripción propuesta inventa lujo y apartamento, así que no tiene respaldo."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque ella usa un sombrero\n  \nno evidencia elegancia; usarlo no respalda en absoluto la descripción del apartamento. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sombrero que menciona el texto es de paja, no evidencia elegancia; usarlo no respalda en absoluto la descripción del apartamento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una descripción consiste en confrontar cada rasgo con lo que el texto dice, uno por uno. Cuando la descripción cambia el lugar, la ropa o el modo de vida, deja de ser una descripción y se convierte en una invención. Un lector evaluador puede señalar exactamente qué datos contradice. Esa capacidad de indicar el punto exacto del desacuerdo es una habilidad de lectura crítica.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

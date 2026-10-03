@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.157Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué son las nubes?",
+      "context": "En una mañana de Bogotá, el cielo se cubre de nubes grises y empieza a llover.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Masas de humo que salen de las fábricas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes no son humo de fábricas; están formadas por gotas de agua o cristales de hielo muy pequeños."
+        },
+        {
+          "letter": "B",
+          "text": "Bolsas de aire caliente que flotan en el cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire caliente puede subir, pero una nube se forma sobre todo por gotitas de agua, no por aire solo."
+        },
+        {
+          "letter": "C",
+          "text": "Conjuntos de gotitas de agua o cristales de hielo suspendidos en el aire",
+          "is_correct": true,
+          "feedback": "Correcto. Las nubes están hechas de gotitas de agua o cristales de hielo tan pequeños que flotan en el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Capas de polvo que se elevan desde el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polvo puede viajar en el aire, pero las nubes se forman principalmente de agua condensada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las nubes se forman cuando el vapor de agua del aire se enfría y se condensa en gotitas o cristales de hielo muy pequeños. Como son tan livianos, quedan suspendidos y flotan. Cuando las gotitas se juntan y crecen, pueden caer como lluvia. Por eso las nubes son parte fundamental del ciclo del agua.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué ocurre con el agua de los charcos cuando se secan?",
+      "context": "En una casa de Cali, una familia ve que después de la lluvia aparecen charcos y, al día siguiente, algunos se secan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua desaparece para siempre del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no desaparece; se evapora, sube como vapor y sigue en el ciclo del agua."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se evapora y pasa al aire como vapor",
+          "is_correct": true,
+          "feedback": "Correcto. Con el calor del Sol, el agua líquida se evapora y se convierte en vapor que sube al aire."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se convierte en tierra y se mezcla con el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se transforma en tierra; solo cambia de estado y pasa al aire como vapor."
+        },
+        {
+          "letter": "D",
+          "text": "El agua se esconde debajo de las piedras del patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se esconde; se evapora y sube al aire, aunque algo pueda filtrarse en el suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El calor del Sol hace que el agua líquida se evapore y se convierta en vapor, que sube al aire. Ese proceso es parte del ciclo del agua, junto con la condensación que forma las nubes y la precipitación que produce la lluvia. Por eso los charcos se secan sin que el agua desaparezca. Comprender el ciclo explica por qué la lluvia se repite.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v3",
+      "statement": "¿Qué relación hay entre las nubes oscuras y la lluvia?",
+      "context": "En una tarde de Popayán, el cielo se oscurece, el viento sopla fuerte y luego cae un aguacero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las nubes oscuras reflejan el Sol y por eso llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes oscuras no producen lluvia por reflejar el Sol; se ven grises porque son gruesas y bloquean la luz."
+        },
+        {
+          "letter": "B",
+          "text": "Las nubes oscuras son más livianas y por eso sueltan agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una nube oscura suele ser densa, no liviana; la lluvia cae cuando las gotas crecen y pesan demasiado."
+        },
+        {
+          "letter": "C",
+          "text": "Las nubes oscuras producen viento, y el viento produce la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento y la lluvia acompañan a las nubes, pero la lluvia cae cuando las gotas aumentan de tamaño y peso."
+        },
+        {
+          "letter": "D",
+          "text": "Las nubes se ven oscuras porque son gruesas y, al crecer sus gotas, estas caen como lluvia",
+          "is_correct": true,
+          "feedback": "Correcto. Una nube gruesa bloquea la luz y se ve oscura; cuando sus gotas crecen lo suficiente, caen como lluvia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las nubes se ven oscuras cuando son muy gruesas y dejan pasar poca luz del Sol. Dentro de ellas, las gotitas chocan y se unen hasta formar gotas más grandes y pesadas. Cuando el aire ya no puede sostenerlas, caen como lluvia. Por eso las nubes oscuras suelen anunciar un aguacero.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué hace más frío en las zonas altas de las montañas?",
+      "context": "En un viaje escolar de Valledupar, los estudiantes observan que en el páramo hace mucho más frío que en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque a mayor altura el aire es menos denso y retiene menos calor",
+          "is_correct": true,
+          "feedback": "Correcto. En las zonas altas el aire es más delgado, guarda menos calor y por eso la temperatura baja."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en las montañas nunca llega la luz del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz del Sol sí llega a las montañas; el frío se debe a la altura y a la menor densidad del aire."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cerca de las nubes el calor aumenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes no aumentan el calor en las montañas; a mayor altura el aire retiene menos calor."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el viento sopla solo en las ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento sopla también en las montañas; el frío no se debe a la ausencia de viento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La temperatura disminuye a medida que aumenta la altura. En las zonas altas el aire es menos denso y retiene menos calor, así que hace más frío que en las ciudades. Por eso los páramos son fríos aunque reciban luz del Sol. Esta relación entre altura y temperatura explica los distintos climas de Colombia.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué la lluvia favorece el crecimiento de las plantas?",
+      "context": "En una granja de Montería, un agricultor observa que en la época de lluvias sus cultivos crecen más.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la lluvia trae tierra nueva desde el cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia no trae tierra; lo que aporta es agua, que las plantas necesitan para vivir."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la lluvia calienta el suelo y las raíces",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia suele enfriar el suelo; su beneficio principal es el agua, no el calor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque aporta agua, que las plantas necesitan para crecer",
+          "is_correct": true,
+          "feedback": "Correcto. El agua de lluvia llega al suelo y las raíces la absorben, y así la planta puede crecer."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la lluvia elimina la luz del Sol que daña las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas necesitan luz del Sol; la lluvia no favorece su crecimiento por quitar la luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas necesitan agua, luz y nutrientes para crecer. La lluvia aporta el agua que las raíces absorben y que la planta usa para fabricar su alimento. Por eso, en la época de lluvias, los cultivos crecen más si no hay exceso que los inunde. La cantidad de lluvia influye directamente en la agricultura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor explicación de estas épocas?",
+      "context": "En una región de Colombia se presentan dos épocas: una con lluvias frecuentes y otra con días secos y soleados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de lluvia cambia a lo largo del año y forma épocas secas y lluviosas",
+          "is_correct": true,
+          "feedback": "Correcto. Las épocas se deben a que la cantidad de lluvia varía durante el año, con meses más húmedos y otros más secos."
+        },
+        {
+          "letter": "B",
+          "text": "La lluvia depende solo de la cantidad de árboles del lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles influyen, pero las épocas secas y lluviosas se deben a los cambios en la lluvia a lo largo del año."
+        },
+        {
+          "letter": "C",
+          "text": "En la época seca el agua deja de existir en el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la época seca hay menos lluvia, pero el agua sigue en el ambiente, en ríos, lagos y en el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Las épocas cambian porque el Sol se apaga y se enciende",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol no se apaga; lo que cambia es la cantidad de lluvia que cae durante el año."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A lo largo del año, la cantidad de lluvia no es constante. Hay meses con muchas precipitaciones y otros más secos, y esa variación da origen a las épocas lluviosa y seca. En Colombia, esto se relaciona con los vientos y la posición del país en el trópico. Reconocer las épocas ayuda a planear cultivos y el uso del agua.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál instrumento y registro son los más adecuados?",
+      "context": "En un colegio de Yopal, un grupo quiere saber cuánta lluvia cae en su municipio durante una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un termómetro para medir la temperatura cada hora",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide temperatura, no cantidad de lluvia; no responde a la pregunta planteada."
+        },
+        {
+          "letter": "B",
+          "text": "Una brújula para registrar la dirección del viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brújula indica direcciones, no mide la lluvia, así que no sirve para este registro."
+        },
+        {
+          "letter": "C",
+          "text": "Una regla para medir la altura de las nubes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Medir la altura de las nubes no indica cuánta agua cayó; para eso se mide la lluvia recogida."
+        },
+        {
+          "letter": "D",
+          "text": "Un pluviómetro para recoger y medir los milímetros de agua que caen",
+          "is_correct": true,
+          "feedback": "Correcto. El pluviómetro recoge el agua de lluvia y permite medir cuántos milímetros cayeron."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El pluviómetro es el instrumento que recoge el agua de lluvia y permite medir cuántos milímetros cayeron en un lugar y un tiempo determinados. Con ese registro diario se puede calcular el total de la semana. Otros instrumentos miden temperatura, viento o presión, pero no la cantidad de lluvia. Elegir el instrumento correcto es esencial para responder la pregunta.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál opción es mejor y por qué?",
+      "context": "En un pueblo de La Guajira, una comunidad necesita guardar agua para la época seca y evalúa dos opciones: tanques descubiertos o tanques tapados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tanques descubiertos, porque el agua se llena más rápido con la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se llenan rápido, pero el agua se evapora y se contamina; no es la mejor opción para guardarla."
+        },
+        {
+          "letter": "B",
+          "text": "Tanques tapados, porque evitan la evaporación y mantienen el agua limpia",
+          "is_correct": true,
+          "feedback": "Correcto. La tapa reduce la evaporación y evita que caigan suciedad e insectos, así se conserva mejor el agua."
+        },
+        {
+          "letter": "C",
+          "text": "Tanques descubiertos, porque el Sol purifica el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol puede calentar el agua, pero no la purifica; además, con el calor se evapora más."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguna opción sirve, porque en la época seca no se puede guardar agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí se puede guardar agua; con tanques tapados se conserva durante la época seca."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para almacenar agua conviene evitar su pérdida y su contaminación. Un tanque tapado reduce la evaporación, que aumenta con el calor, y evita que entren suciedad e insectos. Por eso es mejor que un tanque descubierto. Evaluar ventajas y desventajas permite elegir la solución más adecuada para la comunidad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W10-los-fenomenos-del-tiempo-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.472Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v1",
+      "statement": "Lee las instrucciones.\n\n\"Salida al río de Sincelejo. Primero: lleva el uniforme y el carné. Segundo: forma equipo con un compañero. Tercero: no te apartes del grupo. Cuarto: al volver, entrega tu cartilla.\"\n\nSegún las instrucciones, ¿qué debes hacer primero?",
+      "context": "Instrucciones para una salida de campo en Sincelejo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No apartarte del grupo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa instrucción aparece en tercer lugar, cuando ya estás en el recorrido, y no antes de salir."
+        },
+        {
+          "letter": "B",
+          "text": "Formar equipo con un compañero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Formar equipo es el segundo punto de la lista, así que va después de llevar el uniforme y el carné."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar el uniforme y el carné",
+          "is_correct": true,
+          "feedback": "Correcto. El primer punto dice \"Primero: lleva el uniforme y el carné\", así que esa es la primera instrucción del día."
+        },
+        {
+          "letter": "D",
+          "text": "Entregar la cartilla al volver",
+          "is_correct": false,
+          "feedback": "Incorrecto. Entregar la cartilla es la última instrucción y ocurre al final de la salida, cuando ya se volvió."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las instrucciones aparecen en una lista ordenada y cada línea tiene su lugar. La palabra \"primero\" es la señal que marca el inicio de la secuencia. Reconocer esas señales permite saber qué hacer antes y qué hacer después. Seguir el orden correcto es lo que hace que una instrucción se cumpla bien.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v2",
+      "statement": "Lee las instrucciones del parque.\n\n\"En este parque no se puede correr. Está prohibido entrar con perros. Se permite caminar por los senderos, ver los árboles y usar el parque de diversiones. Arrojar basura al suelo no está permitido.\"\n\nSegún las instrucciones, ¿qué se puede hacer en este parque?",
+      "context": "Instrucciones para el uso de un parque en Medellín.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entrar con un perro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que está prohibido entrar con perros, así que esa opción no corresponde a lo permitido."
+        },
+        {
+          "letter": "B",
+          "text": "Arrojar basura al suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que arrojar basura al suelo no está permitido, así que no es una acción autorizada."
+        },
+        {
+          "letter": "C",
+          "text": "Correr por los senderos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera línea del texto dice que en este parque no se puede correr, así que esa acción queda prohibida."
+        },
+        {
+          "letter": "D",
+          "text": "Caminar por los senderos y ver los árboles\n  \norizado. -->",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice \"Se permite caminar por los senderos, ver los árboles y usar el parque de diversiones\", así que caminar por los senderos está autorizado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Leer instrucciones bien significa distinguir entre lo permitido y lo prohibido. En este caso hay tres acciones vetadas y una sola autorizada. Identificar cuál es la única que el texto permite exige leer las cuatro líneas completas. Esa distinción es la base para cumplir cualquier norma escrita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v3",
+      "statement": "Lee las instrucciones.\n\n\"Para hacer chocolate caliente: mezcla la leche con el azúcar y caliéntala a fuego bajo. Cuando esté tibia, agrega el chocolate rallado y revuelve hasta que se derrita. Sirve en vasos pequeños.\"\n\nSegún las instrucciones, ¿qué se ha",
+      "context": "Instrucciones de una receta sencilla de bebida caliente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregar el chocolate rallado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El chocolate se agrega cuando la leche ya está tibia, así que no puede ser el primer paso del proceso."
+        },
+        {
+          "letter": "B",
+          "text": "Mezclar la leche con el azúcar y calentarla a fuego bajo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto indica que se mezcla la leche con el azúcar y se calienta a fuego bajo, y solo después se agrega el chocolate."
+        },
+        {
+          "letter": "C",
+          "text": "Revolver hasta que el chocolate se derrita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Revolver hasta derretir el chocolate es el paso posterior a agregar el chocolate, es decir el segundo de la lista."
+        },
+        {
+          "letter": "D",
+          "text": "Servir en vasos pequeños\n  \npuede ser el primero. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Servir en vasos es el último paso, cuando la bebida ya está lista, así que no puede ser el primero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las instrucciones de una receta dependen del orden: si un paso se adelanta, el resultado cambia. En este texto, calentar la leche con el azúcar es la condición para poder agregar el chocolate. Un lector que sigue la secuencia evita errores y obtiene el resultado esperado. Respetar el orden escrito es la idea central de la lectura de instrucciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v4",
+      "statement": "Lee las instrucciones del laboratorio.\n\n\"En el laboratorio de Cartagena: ponte la bata antes de entrar. No pruebes sustancias con la boca. Lava tus manos al terminar la práctica. Si algo se derrama, avisa al profesor.\"\n\nSegún las instrucciones, ¿qué debes hacer",
+      "context": "Manual de seguridad para un laboratorio escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abrir la ventana y salir del laboratorio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir la ventana no aparece en ninguna línea del texto, así que esa acción no está en las instrucciones."
+        },
+        {
+          "letter": "B",
+          "text": "Limpiarlo de inmediato sin avisar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que hay que avisar al profesor, no que el estudiante limpie por su cuenta sin dar aviso."
+        },
+        {
+          "letter": "C",
+          "text": "Avisar al profesor",
+          "is_correct": true,
+          "feedback": "Correcto. La última instrucción del texto dice \"Si algo se derrama, avisa al profesor\", así que esa es la conducta indicada."
+        },
+        {
+          "letter": "D",
+          "text": "Lavarse las manos y terminar la práctica\n  \nque se indica frente a un derrame. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavarse las manos es lo que se hace al terminar la práctica, no lo que se indica frente a un derrame."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las instrucciones suelen usar la estructura \"si ocurre tal cosa, haz esto\". Reconocer esa relación entre causa y respuesta permite encontrar rápido lo que se debe hacer en una situación concreta. Aquí, ante un derrame, la acción correcta es avisar. Esa lógica de \"si pasa esto, responde así\" se usa en las normas de seguridad y en los reglamentos escolares.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v5",
+      "statement": "Lee el texto.\n\n\"Normas de la biblioteca de Popayán. Debes respetar el silencio en la sala de lectura. Turno: los primeros quince minutos son para estudiar y después se puede pedir un puesto en la sala de espera. Respetar el silencio significa hablar en voz muy baja.\"\n\n¿Qué significa",
+      "context": "Significado de un término usado en un conjunto de normas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumplir y considerar con seriedad lo que el texto indica",
+          "is_correct": true,
+          "feedback": "Correcto. El texto usa \"respetar el silencio\" y luego explica que eso quiere decir hablar en voz muy baja, así que respetar es cumplir lo indicado."
+        },
+        {
+          "letter": "B",
+          "text": "Temer algo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de miedo ni de temor; \"respetar\" aquí significa tener en cuenta y cumplir la norma de silencio."
+        },
+        {
+          "letter": "C",
+          "text": "Rechazar lo que dicen los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el texto menciona rechazo ni desprecio; la palabra se usa en el sentido de cumplir una norma, no de rechazar."
+        },
+        {
+          "letter": "D",
+          "text": "Olvidar la norma después de un tiempo\n  \narla, y el texto no dice eso en ningún momento. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Olvidar la norma sería lo contrario de respetarla, y el texto no dice eso en ningún momento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los textos de normas usan palabras que hay que entender bien para cumplir lo que piden. Cuando el texto aclara que \"respetar\" significa hablar en voz muy baja, el lector ya sabe cómo comportarse. Ese es un ejemplo de cómo un texto se explica a sí mismo. Entender el vocabulario de las normas evita confusiones al obedecer.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v6",
+      "statement": "Lee el texto.\n\n\"Reglas de la cancha de Tunja: entra por la portería lateral. Usa el balón del parque. Si alguien se lesiona, todos se quedan quietos hasta que llegue el profesor.\"\n\n¿Qué norma se puede deducir que existe en la",
+      "context": "Deducción de una norma que el texto no escribe de forma directa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en la cancha no se puede correr nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no prohíbe correr; lo que menciona es entrar por la portería lateral y usar el balón del parque."
+        },
+        {
+          "letter": "B",
+          "text": "Que el balón del parque es más grande que los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que hay que usar el balón del parque, pero nada sobre su tamaño, así que ese detalle no permite deducir ninguna norma."
+        },
+        {
+          "letter": "C",
+          "text": "Que la portería principal está cerrada todos los días",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo dice que se entra por la portería lateral; no dice que la principal esté cerrada ni que exista esa norma."
+        },
+        {
+          "letter": "D",
+          "text": "Que los estudiantes deben esperar la indicación del profesor antes de seguir jugando\n  \na sobre la reanudación del juego, y eso es lo que se deduce. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La instrucción de quedarse quietos hasta que llegue el profesor deja ver que su decisión manda sobre la reanudación del juego, y eso es lo que se deduce."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los textos de normas no siempre escriben todas las reglas que se aplican. En este caso, la instrucción de esperar al profesor deja ver que su llegada decide cuándo se sigue. Reconocer lo que un texto implica y no dice es una forma de lectura crítica. Ese mismo razonamiento se aplica en reglamentos de tránsito, en reglas de juego y en normas de convivencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v7",
+      "statement": "Lee el texto.\n\n\"Preparación de sopa de papa en Montería. Corta la papa en cubos. Échale agua y sal. Cocina hasta que la papa se ablande. Sirve en un plato hondo y come caliente. Agrega la leche descre",
+      "context": "Evaluación de la redacción de un texto de instrucciones desordenado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No menciona ningún ingrediente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto sí nombra papa, agua, sal y leche descremada, así que los ingredientes sí aparecen."
+        },
+        {
+          "letter": "B",
+          "text": "El paso de agregar la leche aparece después de servir la sopa, cuando ya no surtiría efecto",
+          "is_correct": true,
+          "feedback": "Correcto. El texto ordena servir y comer antes de agregar la leche, así que ese paso llega demasiado tarde y el lector no puede seguirlo tal como está."
+        },
+        {
+          "letter": "C",
+          "text": "Usa palabras difíciles de entender",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario es sencillo y comprensible; lo que falla en este texto es el orden de los pasos."
+        },
+        {
+          "letter": "D",
+          "text": "No dice cuánto tiempo hay que cocinar la papa\n  \nse ablande, que es una indicación válida para saber cuándo ya está lista. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice cocinar hasta que la papa se ablande, que es una indicación válida para saber cuándo ya está lista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un buen texto de instrucciones ordena los pasos de manera que cada uno sirva para el siguiente. Si un paso aparece después del final, el lector no puede cumplir el texto tal como está escrito. Reconocer ese desorden ayuda a quien escribe a corregir su texto. El orden no es un detalle menor: es lo que hace posible seguir la instrucción.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle-v8",
+      "statement": "Lee el texto.\n\n\"Para un paseo en Bogotá: lleva una botella con agua, un sombrero y bloqueador solar. Ponte zapatos que sirvan para caminar en la montaña. Sal temprano, porque en las tardes se nublan los cerros.\"\n\nUna profesora afirma: \"Estas instrucciones garantizan que el paseo s",
+      "context": "Evaluación de la utilidad real de un conjunto de instrucciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque el texto dice que hay que salir temprano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salir temprano es un consejo sobre el clima, no una garantía de seguridad ni de comodidad para todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta, porque el texto menciona el bloqueador solar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mencionar el bloqueador es una recomendación de protección al sol, pero eso por sí solo no vuelve seguro ni cómodo el paseo."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque el texto da objetos y un consejo sobre la hora, pero no incluye medidas de seguridad",
+          "is_correct": true,
+          "feedback": "Correcto. El texto solo lista objetos y recomienda salir temprano; no dice nada sobre riesgos ni sobre cómo cuidar el cuerpo, así que la garantía que promete la profesora no aparece."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente correcta, porque el texto habla de ropa y de comida\n  \n son objetos puntuales, así que tampoco sostienen la promesa de comodidad y seguridad. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de ropa cómoda ni de comida; son objetos puntuales, así que tampoco sostienen la promesa de comodidad y seguridad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un texto de instrucciones significa preguntar si cumple lo que promete y si alcanza para lo que se le pide. Una lista de objetos útiles no se convierte en garantía de seguridad por estar escrita. Reconocer la diferencia entre una recomendación y una garantía es un criterio de lectura crítica. Ese criterio se aplica en manuales, en etiquetas y en prospectos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
