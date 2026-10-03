@@ -118,7 +118,7 @@ La planta al sol tiene hojas más pequeñas y la de la sombra tiene hojas más g
 - [x] A) Que en la sombra la planta pierde menos agua por transpiración y por eso mantiene hojas más grandes
   <!-- feedback: Correcto. A menos luz la planta transpira menos y usa menos agua, por eso desarrolla hojas mas grandes para captar la poca luz disponible. Es una respuesta al ambiente. -->
 - [ ] B) Que en la sombra la hoja se hincha con agua y por eso queda más grande
-  <!-- feedback: Incorrecto. Las hojas no se hinchan de agua como un globo. La diferencia de tamaño se debe a como la planta usa su agua segun la luz que recibe. -->
+  <!-- feedback: Incorrecto. Las hojas no se hinchan de agua como un globo. La diferencia de tamaño se debe a como la planta usa su agua según la luz que recibe. -->
 - [ ] C) Que al sol la hoja se seca y por eso se mide más pequeña
   <!-- feedback: Incorrecto. La hoja al sol no se mide mas pequena por secarse. Es mas pequeña porque la planta necesita economizar agua con mas calor y mas viento. -->
 - [ ] D) Que las dos plantas son de especies distintas aunque parezcan iguales
@@ -166,7 +166,7 @@ Los estudiantes comparan el peso de las hojas, las raices y los tallos ya secos.
 - [ ] D) Que las raíces pesan más porque el horno les quita el agua y al tallo no
   <!-- feedback: Incorrecto. El horno le quita el agua a todas las partes por igual. La conclusion se basa en comparar los pesos secos de las tres partes de la planta. -->
 ### Explicacion Pedagogica
-Pesar una planta antes y despues de secarla permite saber cuanta agua tenia cada parte. Esa informacion ayuda a entender el reparto de funciones: las raices absorben agua, el tallo la conduce y las hojas la pierden. Los datos de peso seco son una forma sencilla y objetiva de estudiar el transporte de agua en las plantas.
+Pesar una planta antes y después de secarla permite saber cuanta agua tenia cada parte. Esa informacion ayuda a entender el reparto de funciones: las raices absorben agua, el tallo la conduce y las hojas la pierden. Los datos de peso seco son una forma sencilla y objetiva de estudiar el transporte de agua en las plantas.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-3-2026-W14-la-transpiracion-y-las-plantas-001-MASTERY-bundle-v8
@@ -179,7 +179,7 @@ El niño cree que el árbol es grande solo porque tiene mucha tierra alrededor. 
 
 ### Opciones
 - [ ] A) Porque el árbol crece solo con la lluvia que cae directamente sobre él
-  <!-- feedback: Incorrecto. El arbol no crece solo con la lluvia directa. Sus raices toman agua y minerales de la tierra y ademas usa luz, aire y agua traida desde otros lugares. -->
+  <!-- feedback: Incorrecto. El arbol no crece solo con la lluvia directa. Sus raices toman agua y minerales de la tierra y además usa luz, aire y agua traida desde otros lugares. -->
 - [ ] B) Porque las hojas del árbol no hacen nada por el crecimiento
   <!-- feedback: Incorrecto. Las hojas son la fabrica de la planta: con luz y aire producen azucares que alimentan el crecimiento de todo el arbol. Sin ellas el arbol no crece. -->
 - [ ] C) Porque ningún árbol alcanza un tamaño grande en una finca
