@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T15:35:07.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v1",
+      "statement": "¿Por dónde empieza el camino de los alimentos en el cuerpo?",
+      "context": "En el almuerzo escolar de Tunja, Valentina mira su plato de arroz, fríjoles, jugo y fruta y se pregunta por donde empieza el camino de esa comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por la boca",
+          "is_correct": true,
+          "feedback": "Correcto. El camino empieza en la boca, donde la lengua mezcla la comida con la saliva y los dientes la trituran para formar el bolo alimenticio."
+        },
+        {
+          "letter": "B",
+          "text": "Por el estomago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estomago viene despues de la boca. La digestion empieza en la boca con la masticacion y la saliva, antes de llegar al estomago."
+        },
+        {
+          "letter": "C",
+          "text": "Por los intestinos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los intestinos son la ultima parte del camino. Los alimentos pasan primero por la boca, el esofago y el estomago antes de llegar a ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Por el recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El recto es la parte final por donde se expulsan los restos. El proceso de digestion empieza mucho antes, en la boca."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema digestivo es el conjunto de organos que procesa los alimentos y permite aprovechar sus nutrientes. El recorrido empieza en la boca, donde la saliva y los dientes inician la digestion mecanica y química. Conocer el orden del recorrido ayuda a entender por que masticar bien facilita todo lo que viene despues.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v2",
+      "statement": "La sopa se sintio muy caliente en la boca de Sofia. ¿qué hace la boca para proteger al resto del cuerpo?",
+      "context": "En un restaurante de Medellin, Sofia pide una sopa muy caliente y prueba una cucharada antes de tragarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calienta la comida con el aliento para proteger el estomago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La boca no calienta la comida: la enfria y la humedece. El problema de la sopa caliente es precisamente que llega con mucha temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "Mezcla la comida con la saliva y la mueve para que baje algo de su temperatura antes de tragar",
+          "is_correct": true,
+          "feedback": "Correcto. La saliva y la lengua mezclan y enfrian un poco la comida. Al bajar de temperatura en la boca, el esofago y el estomago reciben algo mas tibio."
+        },
+        {
+          "letter": "C",
+          "text": "Convierte la sopa en solido para que no queme el estomago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La boca no convierte la sopa en solido. La saliva inicia la digestion de los almidones, pero la comida no cambia de estado por enfriarse."
+        },
+        {
+          "letter": "D",
+          "text": "Impide que la comida llegue al esofago filtrando el calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La comida si pasa por el esofago. Lo que reduce el calor es la mezcla con la saliva y el tiempo que pasa en la boca antes de tragar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La boca es la primera defensa del cuerpo frente a los alimentos muy calientes o muy duros. La lengua mezcla la comida con la saliva y eso reduce un poco la temperatura y la hace mas fácil de digerir. Por eso conviene esperar antes de tragar cuando algo esta demasiado caliente para comer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v3",
+      "statement": "¿Para qué sirve masticar el pan durante largo tiempo antes de tragar?",
+      "context": "En un taller de ciencias de Bogota, un estudiante muerde un trozo de pan y lo mastica durante un minuto antes de tragar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que el pan se vuelva más pesado y llene más el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Masticar no aumenta el peso del pan ni el espacio que ocupa. Su funcion es reducir el tamano de las partes y mezclarlas con saliva."
+        },
+        {
+          "letter": "B",
+          "text": "Para que el pan pierda toda su agua antes de llegar al estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saliva humedece el pan, no lo seca. Masticar no elimina el agua del alimento: la agrega y comienza la digestion del almidon."
+        },
+        {
+          "letter": "C",
+          "text": "Para partirlo en trozos pequeños y mezclarlo con la saliva que inicia la digestión",
+          "is_correct": true,
+          "feedback": "Correcto. Masticar divide el pan en trozos pequenos y lo mezcla con la saliva, que empieza a digerir el almidon. Asi el estomago trabaja mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Para que los dientes gasten la energía que el pan traía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dientes no gastan la energía del pan: al comer liberan energía para trabajar. Su funcion es triturar, no consumir el alimento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La digestion mecanica y la química empiezan juntas en la boca. Los dientes trituran y la saliva humedece y comienza a digerir los almidones con una enzima llamada amilasa. Cuanto mas tiempo se mastica, mas pequeño queda el alimento y mejor preparado llega al estomago y a los intestinos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v4",
+      "statement": "Los estudiantes anotan que al masticar el pan su sabor se vuelve mas dulce. ¿qué explica ese cambio de sabor?",
+      "context": "En un laboratorio escolar de Pereira, un grupo de estudiantes muerde una rebanada de pan, la mastica un rato y nota que sabe mas dulce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los dientes convierten el almidón en azúcar por el calor de la fricción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dientes trituran pero no producen azucar por calor. El cambio de sabor lo produce la enzima de la saliva, que es un proceso quimico."
+        },
+        {
+          "letter": "B",
+          "text": "Que el pan se endulza porque se mezcla con agua pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclarse con agua no convierte el almidon en azucar. El sabor dulce viene de la digestion química que hace la saliva."
+        },
+        {
+          "letter": "C",
+          "text": "Que el cerebro percibe el sabor dulce cuando el pan ya está en el estómago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pan sigue estando en la boca mientras se mastica. El sabor dulce aparece alli mismo por la accion de la saliva, antes de tragar."
+        },
+        {
+          "letter": "D",
+          "text": "Que la saliva empieza a digerir el almidón del pan y lo convierte en azúcar",
+          "is_correct": true,
+          "feedback": "Correcto. La amilasa de la saliva rompe el almidon y forma azucares simples. Por eso el pan masticado un tiempo sabe mas dulce que el pan recien mordido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La digestion es un proceso quimico ademas de mecanico. La amilasa de la saliva transforma el almidon, que es un azucar complejo, en azucares mas simples que se perciben como sabor dulce. Este ejemplo muestra que el cuerpo produce sus propias enzimas digestivas y que ellas empiezan a trabajar apenas el alimento entra en la boca.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v5",
+      "statement": "¿Qué diferencia hay entre la digestión en la boca y la que ocurre en el estomago?",
+      "context": "En un restaurante de Cartagena, una familia pide sopa y jugo y nota que el jugo pasa mucho mas rápido que la sopa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la boca hay trituración con los dientes y acción de la saliva; en el estomago el alimento se mezcla con acidos y enzimas",
+          "is_correct": true,
+          "feedback": "Correcto. La boca tritura y usa saliva, que es neutra. En el estomago el bolo se mezcla con acido clorhidrico y enzimas que deshacen mas el alimento."
+        },
+        {
+          "letter": "B",
+          "text": "En la boca solo pasa agua y en el estomago se hace todo el trabajo de digestión",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la boca ya hay digestion: los dientes trituran y la saliva empieza a digerir el almidon. No es solo paso de agua."
+        },
+        {
+          "letter": "C",
+          "text": "En la boca y en el estomago se usa exactamente el mismo líquido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saliva es neutra y el liquido del estomago es acido. La diferencia entre esos liquidos es lo que permite que la digestion avance en cada organo."
+        },
+        {
+          "letter": "D",
+          "text": "En la boca el alimento se disuelve y en el estomago se vuelve sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El alimento no se vuelve solido en el estomago. Alli se mezcla con liquidos acidos y enzimas hasta formar una pasta semiliquida llamada quimo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cada organo del sistema digestivo aporta algo distinto. La boca tritura y empieza la digestion con la saliva, el estomago mezcla con acido y enzimas y forma el quimo, y los intestinos absorben los nutrientes. Conocer la funcion de cada parte ayuda a entender por que una falla digestiva se siente en un organo especifico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v6",
+      "statement": "La enfermedad del nino impide aprovechar los nutrientes. ¿por qué la inflamación del intestino delgado afecta esa función?",
+      "context": "En un hospital de Medellin, un nino con enfermedad de Crohn tiene inflamada una parte del intestino delgado y por eso no absorbe bien los nutrientes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el intestino delgado guarda los alimentos antes de que lleguen al estomago",
+          "is_correct": false,
+          "feedback": "Incorrecto. El intestino delgado no guarda alimentos: es donde se absorben los nutrientes despues de pasar por el estomago. Guardar alimentos es funcion de otros organos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el intestino delgado produce la saliva que empieza la digestión en la boca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La saliva se produce en las glandulas salivales de la boca. El intestino delgado absorbe nutrientes y no fabrica saliva."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el intestino delgado es donde los nutrientes pasan a la sangre y esa vía está dañada",
+          "is_correct": true,
+          "feedback": "Correcto. El intestino delgado tiene vellosidades que absorben los nutrientes y los pasan a la sangre. Si esa pared se inflama, la absorcion baja y el cuerpo queda sin nutrientes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el intestino delgado es el órgano que produce el aire que respiramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire que respiramos se produce en los pulmones. El intestino delgado pertenece al sistema digestivo y su funcion principal es absorber nutrientes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El intestino delgado es la parte mas larga del tubo digestivo y en su pared hay unos pelucos llamados vellosidades que aumentan la superficie de absorcion. A traves de ellas los nutrientes pasan a la sangre y llegan a todo el cuerpo. Cuando esa pared se daña, la absorcion falla aunque el alimento se haya digerido bien.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v7",
+      "statement": "La planta con compost crece más alto y tiene las hojas más verdes. ¿qué relación se puede establecer con la absorcion de nutrientes?",
+      "context": "En una finca de Boyaca, un grupo de estudiantes compara dos plantas, una sembrada en tierra con mucho compost y otra en tierra sin compost.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el compost se convierte en alimento para los animales de la finca",
+          "is_correct": false,
+          "feedback": "Incorrecto. El compost alimenta a las plantas por sus minerales, no a los animales directamente. La comparacion correcta es con las raices de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el compost aporta los nutrientes que las plantas absorben del suelo para crecer",
+          "is_correct": true,
+          "feedback": "Correcto. El compost contiene minerales y nutrientes que las plantas absorben por sus raices. Es la misma idea de absorcion de nutrientes que ocurre en los intestinos."
+        },
+        {
+          "letter": "C",
+          "text": "Que la planta con compost digiere mejor el aire que las otras plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no digieren aire: toman dioxido de carbono por las hojas. La diferencia de crecimiento se explica por los nutrientes del suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el compost reemplaza al agua en el crecimiento de la planta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El compost no reemplaza el agua: aporta minerales. Las dos plantas necesitan agua y luz ademas de los nutrientes que hay en la tierra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas y los animales dependen de los nutrientes, pero los toman de fuentes distintas. Las plantas los toman del suelo por sus raices y los animales los toman de los alimentos que digieren. Comparar el caso de la planta con compost y el caso del intestino delgado muestra que la absorcion es un proceso comun a los seres vivos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v8",
+      "statement": "El mesero dice que ese plato es una alimentación completa. ¿qué debe tener una alimentación completa?",
+      "context": "En un restaurante de Barranquilla, el mesero recomienda a la señora Paez un plato con verduras, legumbres y pescado para una alimentacion completa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo comida que le guste a la persona, sin importar los grupos de alimentos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un alimento guste no lo hace completo. Si solo se come lo que gusta, pueden faltar nutrientes esenciales como vitaminas o proteinas."
+        },
+        {
+          "letter": "B",
+          "text": "Mucha comida en cada comida hasta sentirse lleno por completo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sentirse lleno no garantiza una alimentacion completa. Lo importante es la variedad de grupos de alimentos, no la cantidad en cada comida."
+        },
+        {
+          "letter": "C",
+          "text": "Solo alimentos de la región, sin incluir nada del exterior",
+          "is_correct": false,
+          "feedback": "Incorrecto. El origen de los alimentos no define la calidad de la dieta. Lo que importa es que aporten todos los nutrientes, sin importar de donde vengan."
+        },
+        {
+          "letter": "D",
+          "text": "Nutrientes de todos los grupos: carbohidratos, proteinas, grasas, vitaminas, sales y agua",
+          "is_correct": true,
+          "feedback": "Correcto. Una alimentacion completa combina alimentos de todos los grupos para aportar todos los nutrientes que el cuerpo necesita. Por eso se varya lo que se come."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los alimentos que comemos aportan agua, sales, vitaminas, fibra, carbohidratos, proteinas y grasas en distintas proporciones. Ningun alimento por si solo aporta todo, por eso una alimentacion completa combina varios grupos de alimentos. Esa idea conecta directamente la digestion y la absorcion con la salud y el crecimiento de las personas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

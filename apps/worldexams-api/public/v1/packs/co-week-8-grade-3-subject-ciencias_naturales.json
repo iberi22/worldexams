@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T15:35:07.203Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v1",
+      "statement": "Cuando Diana pasa el arroz de la bolsa a la olla, ¿que le pasa a la cantidad de arroz?",
+      "context": "En la cocina de la casa de los Herrera en Medellin, Diana vacia una bolsa de arroz en una olla y nota que el arroz ocupa un lugar distinto al de la bolsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de arroz sigue siendo la misma, solo cambia el espacio que ocupa",
+          "is_correct": true,
+          "feedback": "Correcto. La materia no aparece ni desaparece al cambiar de recipiente: la misma cantidad de arroz pasa de la bolsa a la olla y por eso ocupa otro espacio."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de arroz aumenta porque la olla es mas grande que la bolsa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un recipiente mas grande solo ofrece mas espacio, no agrega arroz nuevo. El espacio disponible cambio, la cantidad de materia no."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de arroz disminuye porque al vaciar la bolsa se pierde parte del arroz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no hubo derrame, todos los granos pasaron de la bolsa a la olla y la cantidad de arroz se conservo."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de arroz queda igual porque el arroz es un alimento sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el arroz sea solido no interviene aqui. Los solidos también conservan su cantidad al cambiar de recipiente; lo que cambia es el espacio que ocupan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La materia es todo lo que ocupa un lugar y tiene una cantidad, como el arroz de Diana. Al pasar de la bolsa a la olla el arroz conserva su masa: ni se crea ni se destruye. Lo unico que cambia es el espacio que ocupa, porque la olla tiene otra forma y otro tamaño. Entender esta diferencia ayuda a no confundir cantidad con espacio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v2",
+      "statement": "El señor Alvarez separa las latas, las botellas y las cajas en estantes diferentes. ¿para que le sirve esa separacion?",
+      "context": "En una tienda del barrio de Bogota, el señor Alvarez separa los productos en estantes: las latas en una, las botellas de plastico en otra y las cajas de papel en una tercera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los productos duren mas tiempo en la tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La duracion de un producto depende de su estado y de su envoltura, no del estante donde se coloque. Aqui se organiza el material, no el tiempo de vida."
+        },
+        {
+          "letter": "B",
+          "text": "Para distinguir que tipo de sustancia o material tiene cada producto",
+          "is_correct": true,
+          "feedback": "Correcto. Separar por estante permite diferenciar el material de cada objeto: metal en la lata, plastico en la botella y papel en la caja."
+        },
+        {
+          "letter": "C",
+          "text": "Para que las latas y las botellas se vuelvan del mismo material",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada cambia el material de un objeto por moverlo de estante. La lata sigue siendo metal y la botella sigue siendo plastico."
+        },
+        {
+          "letter": "D",
+          "text": "Para pesar mejor cada tipo de producto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso se mide con una balanza, no con la separacion en estantes. Lo que se organiza aqui es el tipo de material de cada producto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los objetos del diario vivir estan hechos de materiales distintos: metal, plastico, papel, vidrio, madera. Cada material es una sustancia con propiedades propias que se pueden describir y comparar. Agrupar los productos por material ayuda a los estudiantes a reconocer que sustancias diferentes pueden verse parecidas pero comportarse de manera distinta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v3",
+      "statement": "Sofia coloca cada material delante de una linterna encendida y mira si la luz pasa. ¿que material deja pasar la luz?",
+      "context": "En el taller de artes de un colegio de Cali, Sofia tiene una tabla de madera, una placa de metal y un vaso de vidrio, y quiere saber cual de los tres materiales deja pasar la luz de una linterna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La madera, porque las tablas de madera dejan ver las cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera es opaca: no deja pasar la luz, por eso no se ve nada a traves de la tabla."
+        },
+        {
+          "letter": "B",
+          "text": "La placa de metal, porque el metal refleja mucho la luz y por eso la deja pasar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El metal es opaco y ademas refleja la luz en vez de dejarla pasar. Reflejar y ser transparente son dos comportamientos distintos."
+        },
+        {
+          "letter": "C",
+          "text": "El vidrio, porque es un material transparente",
+          "is_correct": true,
+          "feedback": "Correcto. El vidrio es transparente, por eso la luz de la linterna lo atraviesa y Sofia puede ver al otro lado. Esa propiedad se llama transparencia."
+        },
+        {
+          "letter": "D",
+          "text": "Ningun material deja pasar la luz, porque la luz siempre se detiene en los objetos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz si pasa a traves de materiales transparentes como el vidrio. Decir que ninguno la deja pasar contradice el experimento que Sofia realizo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las sustancias se pueden clasificar segun como se comportan con la luz: transparentes, translucidas u opacas. El vidrio y el agua son transparentes, y el vidrio es de los materiales mas usados en las ventanas. Con este experimento el estudiante conecta una propiedad observable, ver la luz al otro lado, con el nombre cientifico de esa propiedad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v4",
+      "statement": "La familia Gomez hierve el agua del jagibe porque sabe que al calentarla cambian sus propiedades. ¿que cambia en el agua cuando la hierven?",
+      "context": "En una finca en el valle del Cauca, la familia Gomez recoge agua de un jagibe en un balde de metal y luego la hierve en una olla del mismo material para poder tomarla con seguridad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua pasa de liquido a solido porque el calor la hace endurecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor no endurece el agua: al calentarla se vuelve gas, no solido. El estado solido se obtiene enfriando, que es lo contrario de calentar."
+        },
+        {
+          "letter": "B",
+          "text": "El agua desaparece por completo y por eso la olla queda vacia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no desaparece: se transforma en vapor, que sigue siendo agua pero en estado gaseoso. Por eso la olla no queda sin agua."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se vuelve un material diferente, como el metal de la olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque el agua hierva en una olla de metal, no se convierte en metal. Sigue siendo agua y lo unico que cambia es su estado fisico."
+        },
+        {
+          "letter": "D",
+          "text": "El agua pasa de liquido a gas porque el calor la hace subir de temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. Al hervir, el agua alcanza su punto de ebullicion y pasa de liquido a vapor: el calor calienta sus particulas hasta que se separan."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El estado de la materia depende de la temperatura. Al recibir calor, las particulas del agua se mueven mas rápido y se separan hasta que la sustancia pasa de liquido a gas. Ese cambio se llama ebullicion y es reversible, porque al enfriar el vapor vuelve a ser liquido. El ejemplo de la olla permite observar el cambio de estado de forma directa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v5",
+      "statement": "Las gotitas de agua aparecen por fuera de la nevera aunque nadie abrio la puerta. ¿de donde sale esa agua?",
+      "context": "En un puesto de mercado de Barranquilla, la señora Carmen saca queso fresco de una nevera de vidrio y nota que por fuera del recipiente se forman gotitas de agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del vapor de agua del ambiente que se enfria al tocar la superficie fria de la nevera",
+          "is_correct": true,
+          "feedback": "Correcto. El aire contiene vapor de agua. Al tocar el vidrio frio de la nevera, ese vapor se enfria y se vuelve gotitas liquidas: es la condensacion."
+        },
+        {
+          "letter": "B",
+          "text": "De una fuga interna del refrigerador que sale por la pared de vidrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una nevera bien cerrada no pierde agua por dentro. Lo que se ve en la pared es vapor del ambiente que se enfria, no una fuga."
+        },
+        {
+          "letter": "C",
+          "text": "Del agua congelada que hay dentro del refrigerador y sale por las paredes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua congelada se queda dentro del congelador. Las gotitas del vidrio exterior son vapor del aire convertido en liquido por el frio."
+        },
+        {
+          "letter": "D",
+          "text": "Del polvo que seueve en la superficie y se vuelve agua por el frio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polvo no se convierte en agua. Aqui ocurre un cambio de estado fisico: el vapor del aire pasa a liquido al enfriarse."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aire contiene vapor de agua en forma invisible. Cuando ese vapor toca una superficie fria, como el vidrio de una nevera, pierde calor y se condensa en gotas liquidas. Este fenomeno explica por que las ventanas se empañan en días de lluvia y por que los vasos frios se cubren de gotas. Es un cambio de estado por enfriamiento.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v6",
+      "statement": "El techo de la maqueta debe dejar pasar la mayor cantidad de luz posible. ¿que material deberian usar?",
+      "context": "Un equipo de estudiantes de Bucaramanga prepara una maqueta de techo para la feria de ciencias y dispone de carton, papel aluminio, un trozo de madera y una lamina delgada de plastico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El carton, porque el carton es transparente y deja pasar la luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carton es opaco: no deja pasar la luz. Elegirlo suponiendo que es transparente muestra que no conoces esa propiedad."
+        },
+        {
+          "letter": "B",
+          "text": "La lamina de plastico delgada, porque todo plastico es completamente transparente",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todo plastico es transparente: hay plasticos opacos y translucidos. La lamina delgada puede deformar la luz, no la deja pasar limpia."
+        },
+        {
+          "letter": "C",
+          "text": "El papel aluminio, porque es el material que mas luz refleja hacia el interior",
+          "is_correct": true,
+          "feedback": "Correcto. Entre los materiales de la lista, el papel aluminio es el mas brillante y devuelve mayor cantidad de luz hacia el interior de la maqueta."
+        },
+        {
+          "letter": "D",
+          "text": "La madera, porque la madera refleja mas luz que el papel aluminio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La madera es opaca y absorbe gran parte de la luz. El aluminio, por su brillo, devuelve mucho mas de la luz que recibe."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir un material para un uso concreto exige conocer sus propiedades y no solo su apariencia. En este caso hay que razonar sobre el comportamiento frente a la luz: opacidad, transparencia y capacidad de reflejo. El estudiante que elige bien puede justificar su decision con una propiedad cientifica y no con una costumbre visual.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v7",
+      "statement": "Unos estudiantes colocan el aire en el grupo de los liquidos porque pueden sentirlo en la cara. ¿que error de razonamiento cometen?",
+      "context": "En la clase de ciencias de Medellin, los estudiantes deben separar objetos en tres grupos: solidos, liquidos y gases, y justificar cada grupo con ejemplos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acertaron, porque el aire fluye y los liquidos también fluyen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el aire fluya no lo hace liquido. Los gases y los liquidos fluyen los dos, asi que fluir es una propiedad compartida y no sirve para distinguirlos."
+        },
+        {
+          "letter": "B",
+          "text": "Confunden como se sienten las sustancias con su estado fisico",
+          "is_correct": true,
+          "feedback": "Correcto. Sentir el aire en la cara no lo convierte en liquido: el aire es un gas. La razón debe basarse en el estado fisico y no en la sensacion."
+        },
+        {
+          "letter": "C",
+          "text": "Acertaron, porque el aire ocupa siempre toda la caja donde se guarda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocupar todo el espacio disponible es justo la caracteristica de los gases. Por eso el aire pertenece al grupo de los gases, no al de los liquidos."
+        },
+        {
+          "letter": "D",
+          "text": "No hay error, pero les falta agregar mas ejemplos de cada estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la cantidad de ejemplos: es que el aire quedo en el grupo equivocado. El aire es un gas, no un liquido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Clasificar exige definir criterios claros antes de ordenar. Si el criterio es el estado fisico, el aire pertenece al grupo de los gases porque no tiene forma fija y ocupa todo el recipiente. Si el criterio fuera la sensacion, el criterio seria ambiguo. El ejercicio muestra por que en ciencia hay que elegir bien la propiedad que se usa para clasificar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v8",
+      "statement": "El hielo y el agua son la misma sustancia. ¿que diferencia existe entre ellos?",
+      "context": "En una consulta sobre materiales, un nino de tercer grado de Bogota pregunta por que el hielo se derrite si el agua fria también es agua. La pregunta pide comparar dos sustancias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son sustancias distintas porque el hielo tiene una forma completamente diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La forma depende del recipiente, no de la sustancia. Un mismo solido puede tomar muchas formas; lo que define al hielo es ser agua solida."
+        },
+        {
+          "letter": "B",
+          "text": "Son sustancias distintas porque el hielo es mas pesado que el agua liquida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hielo y agua son la misma sustancia y eso vale para cualquier cantidad. Ademas el hielo es menos denso que el agua liquida, no mas pesado."
+        },
+        {
+          "letter": "C",
+          "text": "Son sustancias distintas porque una esta fria y la otra esta tibia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura explica el estado, no la sustancia. Si calientas el hielo vuelve a ser agua, y eso demuestra que siempre fue la misma sustancia."
+        },
+        {
+          "letter": "D",
+          "text": "Solo cambia el estado fisico: el hielo es solido y el agua es liquida",
+          "is_correct": true,
+          "feedback": "Correcto. Hielo y agua son la misma sustancia, el agua. Lo unico que cambia es su estado fisico: solido en el hielo y liquido en el agua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una sustancia conserva su identidad aunque cambie de estado fisico. El hielo y el agua tienen la misma composicion, pero distinta temperatura y por eso distinto estado. Esta idea prepara el concepto de sustancia pura y muestra que los cambios de estado son fisicos: no producen sustancias nuevas, solo reorganizan las mismas particulas.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
