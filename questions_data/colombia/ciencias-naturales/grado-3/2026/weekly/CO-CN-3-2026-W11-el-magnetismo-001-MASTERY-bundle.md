@@ -137,7 +137,7 @@ El equipo usa un iman para separar la sangre del resto del contenido del tubo. �
 
 ### Opciones
 - [ ] A) La repulsión entre el iman y la sangre, que empuja la muestra a la pared
-  <!-- feedback: Incorrecto. La muestra se pega a la pared por atraccion, no por repulsion. La repulsion ocurre entre dos polos iguales y aqui la fuerza acerca la sangre al iman. -->
+  <!-- feedback: Incorrecto. La muestra se pega a la pared por atraccion, no por repulsion. La repulsion ocurre entre dos polos iguales y aquí la fuerza acerca la sangre al iman. -->
 - [ ] B) El peso del iman, que empuja la sangre hasta la pared del tubo
   <!-- feedback: Incorrecto. El iman se usa por su campo magnetico y no por su peso. Un iman pequeno separa la sangre sin necesidad de empujarla. -->
 - [x] C) La atracción magnética, que permite separar un material ferromagnético del resto

@@ -143,7 +143,7 @@ El suelo del bosque denso se mantiene más fresco que el del bosque con pocos á
 - [x] C) Que el dosel de árboles da sombra y conserva la humedad, y eso permite que vivan más especies en el suelo
   <!-- feedback: Correcto. Las hojas detienen los rayos del Sol y el suelo pierde menos agua. Esa humedad y esa sombra permiten que vivan plantas e insectos en el suelo. -->
 - [ ] D) Que la temperatura del suelo no tiene nada que ver con los seres vivos
-  <!-- feedback: Incorrecto. La temperatura y la humedad del suelo condicionan que organismos pueden vivir ahi. Cambiar esas condiciones cambia la comunidad que sostiene el ecosistema. -->
+  <!-- feedback: Incorrecto. La temperatura y la humedad del suelo condicionan que organismos pueden vivir ahí. Cambiar esas condiciones cambia la comunidad que sostiene el ecosistema. -->
 ### Explicacion Pedagogica
 Los factores no vivos, como la luz, el agua y la temperatura, determinan que seres vivos pueden instalarse en un lugar. Un bosque con dosel cerrado altera esas condiciones y por eso sostiene una comunidad mas rica. Conectar mediciones de esas condiciones con la presencia de seres vivos es el centro del estudio de los ecosistemas.
 
@@ -152,7 +152,7 @@ Los factores no vivos, como la luz, el agua y la temperatura, determinan que ser
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.70
-**Contexto:** En una finca del Tolima, los estudiantes cuentan aves antes de quitar unos matorrales, vuelven a contar un mes despues y otra vez a los seis meses.
+**Contexto:** En una finca del Tolima, los estudiantes cuentan aves antes de quitar unos matorrales, vuelven a contar un mes después y otra vez a los seis meses.
 ### Enunciado
 Después de quitar los matorrales, el número de aves cambió. ¿qué conclusión es la más adecuada con esos datos?
 
@@ -166,7 +166,7 @@ Después de quitar los matorrales, el número de aves cambió. ¿qué conclusió
 - [ ] D) Que el número de aves depende solo de la comida que hay en el suelo
   <!-- feedback: Incorrecto. Los datos no permiten separar el efecto del alimento del efecto del refugio. Lo que si se puede concluir es que las aves y las plantas estan relacionadas. -->
 ### Explicacion Pedagogica
-Investigar un ecosistema implica comparar antes y despues de cambiar una condicion. Medir el número de aves antes y despues de quitar matorrales es un ejemplo de comparacion antes y despues. Ese tipo de comparacion ayuda a deducir relaciones entre los seres vivos y a explicar como se sostiene el ecosistema.
+Investigar un ecosistema implica comparar antes y después de cambiar una condicion. Medir el número de aves antes y después de quitar matorrales es un ejemplo de comparacion antes y después. Ese tipo de comparacion ayuda a deducir relaciones entre los seres vivos y a explicar como se sostiene el ecosistema.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-3-2026-W16-ecosistemas-de-colombia-001-MASTERY-bundle-v8

@@ -143,7 +143,7 @@ El edificio ilumina sus espacios con luz solar de día y con bombillas de noche.
 - [x] C) La luz del Sol es gratuita y la de las bombillas consume energía que se paga
   <!-- feedback: Correcto. La luz solar llega sin gastar energía comprada, mientras que la bombilla transforma energía eléctrica en luz y esa energía aparece en el recibo. -->
 - [ ] D) La luz de las bombillas es mas ordenada que la luz que entra por las ventanas
-  <!-- feedback: Incorrecto. Aqui no se compara la calidad de la luz sino su origen. La diferencia relevante es que una fuente es natural y gratis y la otra consume energía comprada. -->
+  <!-- feedback: Incorrecto. aquí no se compara la calidad de la luz sino su origen. La diferencia relevante es que una fuente es natural y gratis y la otra consume energía comprada. -->
 ### Explicacion Pedagogica
 Comparar formas de iluminar exige mirar el origen de la energía y no solo el efecto. La luz solar es una fuente gratuita y renovable, mientras que la bombilla necesita energía eléctrica que se transforma y se paga. Razonar sobre esta diferencia ayuda a tomar decisiones sobre ahorro de energía y uso responsable de la tecnologia en casa y en la escuela.
 
@@ -164,7 +164,7 @@ Los estudiantes ponen agua caliente en las dos cajas, las tapan y miden la tempe
 - [ ] C) Que las dos cajas pierdan exactamente la misma temperatura
   <!-- feedback: Incorrecto. Si las dos cajas pierden lo mismo, ningun material seria mejor que el otro. El experimento no distinguiria entre los dos materiales y no responderia la pregunta. -->
 - [ ] D) Que el agua de la caja con hierva y el agua de la caja con lana no hierva
-  <!-- feedback: Incorrecto. Una ebullicion exige una fuente de calor continua. Aqui solo se mide el enfriamiento del agua caliente: no hay fuego ni hervor en ninguna caja. -->
+  <!-- feedback: Incorrecto. Una ebullicion exige una fuente de calor continua. aquí solo se mide el enfriamiento del agua caliente: no hay fuego ni hervor en ninguna caja. -->
 ### Explicacion Pedagogica
 Un buen aislante es un material que deja pasar muy poco calor. La forma correcta de comprobarlo es comparar datos: si una caja pierde menos temperatura en el mismo tiempo, su material aísla mejor. Elegir la variable adecuada, la temperatura del agua, y mantener todo lo demas igual es lo que hace valido un experimento comparativo.
 
