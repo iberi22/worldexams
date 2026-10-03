@@ -244,10 +244,10 @@ La Constitución de 1991 garantiza los derechos fundamentales a todas las person
   <!-- feedback: Es incorrecta porque los particulares también están obligados por la ley y por el principio de no discriminación, y negarse por motivos como la etnia, la religión o el origen vulnera la igualdad. -->
 - [ ] B) Que es parcialmente correcta, porque solo los negocios grandes tienen obligaciones legales
   <!-- feedback: Es incorrecta porque el principio de no discriminación alcanza a todos los que ofrecen un servicio, sin importar el tamaño del negocio ni su forma de organización. -->
-- [ ] C) Que es incorrecta, porque los derechos no dependen de la voluntad de los particulares y deben respetarse siempre
-  <!-- feedback: Es correcta porque los derechos no son favores que se otorgan por buena voluntad; la Constitución obliga al Estado a garantizarlos y también limita la conducta de los particulares frente a la igualdad y la dignidad humana. -->
-- [x] D) Que es incorrecta, porque la libertad económica del comerciante no puede usarse para discriminar a una persona
-  <!-- feedback: Es correcta porque la Constitución protege la igualdad por encima de cualquier interés económico, de modo que la libertad de contratar del comerciante tiene un límite claro: no discriminar. -->
+- [x] C) Que es incorrecta, porque los derechos no dependen de la voluntad de los particulares y deben respetarse siempre
+  <!-- feedback: Es correcta porque los derechos no son favores que se otorgan por buena voluntad; la Constitución obliga al Estado a garantizarlos y también limita la conducta de los particulares frente a la igualdad y la dignidad humana. La opción marcada es la única que responde al "con base en la Constitución" del enunciado, porque ubica el origen de los derechos en la norma y no en la decisión de un privado. -->
+- [ ] D) Que es incorrecta, porque la libertad económica del comerciante no puede usarse para discriminar a una persona
+  <!-- feedback: Es incorrecta porque esa frase sí señala un problema real, pero se queda solo en el ámbito del comerciante: evalúa una conducta privada y no menciona que los derechos ni siquiera dependen de la voluntad de los particulares. Por eso es menos completa que la opción marcada. -->
 
 ### Explicacion Pedagogica
 Los derechos humanos no dependen de la buena voluntad de los particulares. La Constitución obliga al Estado a garantizarlos y, al mismo tiempo, impone límites a todos, incluidos los comerciantes privados, para que ninguna persona sea discriminada por su origen, sus creencias o su condición social.
