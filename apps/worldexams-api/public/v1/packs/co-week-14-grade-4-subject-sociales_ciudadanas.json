@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué parte de esa planta absorbe el agua del suelo?",
+      "context": "En el patio de un colegio de Armenia hay un árbol de aguacatilla con raíces en la tierra, tronco, ramas y hojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hojas, porque reciben la lluvia y la beben",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas reciben agua de la lluvia y ayudan a liberar vapor, pero no toman agua de la tierra. El agua del suelo entra por otra parte."
+        },
+        {
+          "letter": "B",
+          "text": "El tronco, porque conduce el agua por dentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tronco sí conduce el agua y el alimento hacia arriba, pero no la absorbe del suelo. Absorber es una función de las raíces."
+        },
+        {
+          "letter": "C",
+          "text": "Las ramas, porque están cerca del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ramas sostienen las hojas y acercan el árbol a la luz, pero no absorben agua de la tierra. Ese trabajo lo hacen las raíces."
+        },
+        {
+          "letter": "D",
+          "text": "Las raíces, porque están debajo de la tierra y toman agua de ella",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces están bajo la tierra y absorben el agua y las sales minerales del suelo. Luego esa agua sube por el tronco hasta las hojas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las plantas tienen raíz, tronco, ramas, hojas, flores y frutos. Cada parte cumple una función: la raíz toma agua del suelo, el tronco conduce, la hoja prepara el alimento y la flor da fruto. Conocer esas funciones ayuda a regar y podar bien una planta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v2",
+      "statement": "¿Cuál de esas características diferencia a los seres vivos de las cosas que no viven?",
+      "context": "Un maestro de quinto grado explica a sus estudiantes que todos los seres vivos nacen, comen, crecen, se reproducen y mueren.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tienen cuerpo, porque las mesas también tienen cuerpo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener cuerpo no sirve para distinguir: una mesa tiene forma y también ocupa un lugar. Lo que define a un ser vivo es su capacidad de reproducirse."
+        },
+        {
+          "letter": "B",
+          "text": "Que se reproducen, porque solo los seres vivos pueden crear seres de su misma especie",
+          "is_correct": true,
+          "feedback": "Correcto. La reproducción es una característica propia de los seres vivos. Solo ellos pueden crear otros seres de su misma especie."
+        },
+        {
+          "letter": "C",
+          "text": "Que pesan, porque las piedras también pesan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las piedras tienen peso, pero eso no significa que sean seres vivos. Un ser vivo se define por otras capacidades, no por su masa."
+        },
+        {
+          "letter": "D",
+          "text": "Que ocupan un lugar, porque una mesa ocupa un lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ocupar un lugar es algo que también hacen los objetos sin vida. Eso no distingue a los seres vivos de las cosas inanimadas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los seres vivos tienen características propias: nacen, comen, respiran, crecen, se reproducen, se mueven y mueren. La reproducción es una de las más claras, porque solo los seres vivos crean otros seres iguales a ellos. Las cosas sin vida no pueden hacerlo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v3",
+      "statement": "Si una planta de una casa recibe mucha agua pero casi ninguna luz, ¿qué le pasa?",
+      "context": "En una cartilla de Neiva se explica que una planta necesita agua, luz del sol, aire y tierra para crecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crece muy bien, porque el agua es lo único que necesita",
+          "is_correct": false,
+          "feedback": "Incorrecto. La planta necesita cuatro cosas: agua, luz, aire y tierra. Si le sobra agua y le falta luz, no puede crecer bien."
+        },
+        {
+          "letter": "B",
+          "text": "Se muere en el acto, porque el agua le hace daño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no le hace daño; lo que le falta es la luz para hacer su alimento. Por eso la planta no crece, en lugar de morir de inmediato."
+        },
+        {
+          "letter": "C",
+          "text": "No crece bien, porque sin luz no puede preparar su alimento",
+          "is_correct": true,
+          "feedback": "Correcto. Con la luz del sol la hoja prepara el alimento de la planta. Sin luz, aunque haya mucha agua, la planta no puede crecer bien."
+        },
+        {
+          "letter": "D",
+          "text": "Se convierte en un árbol grande en poco tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin luz la planta no crece, y menos se convierte en árbol. Para crecer necesita las cuatro cosas al mismo tiempo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas necesitan agua, luz, aire y tierra para crecer bien. Si falta una de esas cuatro cosas, la planta no se desarrolla como debería. Por eso una planta junto a una ventana con luz crece mejor que una en un rincón oscuro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué relación hay entre la hoja, la mariposa y el pájaro?",
+      "context": "En el campo de Villavicencio una hoja verde hace su alimento con la luz del sol. Esa hoja es comida para una mariposa, y la mariposa es comida para un pájaro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forman una cadena de alimento, porque uno come al que está antes",
+          "is_correct": true,
+          "feedback": "Correcto. Esa secuencia es una cadena de alimento. La hoja se convierte en alimento de la mariposa, y la mariposa es alimento del pájaro."
+        },
+        {
+          "letter": "B",
+          "text": "Son competencia, porque los tres quieren la misma hoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay competencia. La mariposa come la hoja y el pájaro come la mariposa. Cada uno ocupa un lugar distinto en esa cadena."
+        },
+        {
+          "letter": "C",
+          "text": "Son depredadores, porque la hoja ataca al pájaro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja es una planta, no un depredador. Lo que describe esta relación es quién se come a quién, que es una cadena de alimento."
+        },
+        {
+          "letter": "D",
+          "text": "Son familia, porque los tres viven en el mismo árbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vivir en el mismo lugar no hace que sean familia. Aquí lo que los une es quién se alimenta de quién, es decir, la cadena de alimento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una cadena de alimento muestra quién se come a quién en un ecosistema. Las plantas son los productores, los animales herbívoros comen las plantas y los carnívoros comen a otros animales. Conocer esas cadenas ayuda a entender qué pasa cuando se desaparece un eslabón.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v5",
+      "statement": "Si esa familia siembra a tiempo y saca la cosecha en su momento, ¿qué ventaja tiene?",
+      "context": "Una familia de Boyacá siembra una parcela de papa y la recoge en el momento en que la cosecha está lista.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tendrá menos comida para guardar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar a tiempo y cosechar en el momento da más producción, no menos. La familia tendrá comida para guardar durante el resto del año."
+        },
+        {
+          "letter": "B",
+          "text": "Que no tendrá que pagar por la comida del año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar a tiempo no elimina todos los gastos de la familia. El agua y las herramientas siguen costando dinero."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tierra se vuelve más fértil cada año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar a tiempo no hace que la tierra sea más fértil cada año. La tierra se mantiene fértil con abonos y con el cuidado del cultivo."
+        },
+        {
+          "letter": "D",
+          "text": "Que tendrá una buena cosecha y podrá guardar comida para el resto del año",
+          "is_correct": true,
+          "feedback": "Correcto. Sembrar a tiempo y cosechar bien da una cosecha abundante. Con esa producción la familia puede guardar comida y no tener que comprarla."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La agricultura depende del clima y del momento de la siembra y la cosecha. Sembrar en la época correcta saca más provecho de la tierra y del agua. Esa buena producción permite guardar comida y mejorar la economía de la familia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué está mostrando ese pelaje grueso?",
+      "context": "En la alta montaña de Nariño un animal tiene un pelaje grueso que lo protege del frío de las noches.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ese animal no se puede mover de un sitio a otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pelaje grueso no impide el movimiento. Ese animal se desplaza bien por su territorio, solo que está protegido del frío."
+        },
+        {
+          "letter": "B",
+          "text": "Que el animal se adaptó a un lugar muy frío",
+          "is_correct": true,
+          "feedback": "Correcto. El pelaje grueso es una adaptación: una característica que ayuda al animal a vivir en un lugar muy frío, como la alta montaña."
+        },
+        {
+          "letter": "C",
+          "text": "Que ese animal se alimenta de plantas de altura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La alimentación no tiene que ver con el pelaje. El pelaje protege del frío, no indica de qué se alimenta el animal."
+        },
+        {
+          "letter": "D",
+          "text": "Que ese animal necesita vivir en la ciudad para sobrevivir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pelaje grueso es útil en lugares fríos de la naturaleza, como la montaña. En una ciudad caliente no le daría ninguna ventaja."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los seres vivos se adaptan a las condiciones del lugar donde viven. En sitios muy fríos, muchos animales tienen pelo grueso y grasa en el cuerpo para no perder calor. Reconocer esas adaptaciones ayuda a entender por qué los seres vivos se ven distintos en cada región.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v7",
+      "statement": "Antes de talar un bosque, ¿qué conviene tener en cuenta?",
+      "context": "En una zona del Chocó están talando árboles para abrir campos de cultivo, y con esa tala se han perdido muchas aves que vivían en el bosque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en ese bosque viven seres vivos que necesitan esos árboles",
+          "is_correct": true,
+          "feedback": "Correcto. Un bosque es el hogar de muchos seres vivos. Talarlo sin planificación les quita el alimento y el refugio, como pasó con las aves de esa zona."
+        },
+        {
+          "letter": "B",
+          "text": "Que la tala no cambia nada en el bosque porque los animales se van y listo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los animales no se pueden ir a cualquier sitio: dependen de los árboles para comer y para protegerse. Perder el bosque significa perderlos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los árboles no tienen ninguna relación con los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles son el alimento y el refugio de muchos animales. Por eso perderlos afecta a toda la comunidad de seres vivos del bosque."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo importa cuánto dinero se gana con la venta de la madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dinero de la madera es una parte, pero no lo único. Lo que se pierde con la tala son árboles, animales y aire limpio para todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un bosque es un ecosistema: en él hay árboles, plantas, animales, agua y aire. Todos se necesitan unos a otros. Por eso decidir sobre el uso de un bosque exige saber qué seres vivos dependen de él y buscar alternativas que no los dejen sin hogar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué es valiosa esa decisión para la comunidad escolar?",
+      "context": "En un barrio de Medellín una escuela primaria decide convertir un terreno vacío en un bosque escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque es la forma más barata de construir un edificio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar un bosque no es una obra barata de construcción. Es una decisión a largo plazo que necesita preparación del terreno y cuidado de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el terreno vacío no servía para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un terreno vacío sí puede servir para otros usos, como un parque o un patio de recreo. Decir que no servía para nada no explica el valor de sembrar árboles."
+        },
+        {
+          "letter": "C",
+          "text": "Porque enseña a cuidar seres vivos y mejora el aire que respiran los estudiantes",
+          "is_correct": true,
+          "feedback": "Correcto. Un bosque escolar enseña a los estudiantes a cuidar plantas y animales. Además, los árboles limpian el aire y dan sombra al patio de la escuela."
+        },
+        {
+          "letter": "D",
+          "text": "Porque con la venta de la madera la escuela obtiene más ingresos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bosque escolar no se hace para vender madera. Al contrario, ese terreno deja de estar disponible para vender y se usa para cuidar la naturaleza."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un bosque escolar es un espacio donde se aprende a cuidar la vida. Los estudiantes ven cómo crece una planta y qué seres vivos llegan al terreno. Además, los árboles limpian el aire y dan sombra, así que el beneficio es también para toda la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

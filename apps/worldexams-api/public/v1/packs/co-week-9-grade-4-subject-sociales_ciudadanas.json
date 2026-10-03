@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-9-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.191Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué señal del cuerpo de Mateo indicaba que estaba enfermo?",
+      "context": "En Tunja, Mateo tiene diez años y desde ayer le duele la garganta y le sale fiebre por las noches.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que le gustaba correr en el parque por la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Querer correr es una señal de que el cuerpo está bien, no de enfermedad. Las señales de enfermedad son la fiebre, el dolor y la debilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que le dolía la garganta y le salía fiebre por las noches",
+          "is_correct": true,
+          "feedback": "Correcto. La fiebre y el dolor de garganta son señales del cuerpo de que algo no anda bien. Cuando aparecen, hay que consultar al médico."
+        },
+        {
+          "letter": "C",
+          "text": "Que dormía ocho horas todas las noches",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dormir bien es una costumbre sana. La señal de enfermedad no es el sueño, sino la fiebre, el dolor o la falta de apetito."
+        },
+        {
+          "letter": "D",
+          "text": "Que le gustaba el jugo de mandarina",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que a alguien le guste un alimento no dice nada sobre su salud. Las señales del cuerpo son la fiebre, el dolor y la tos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El cuerpo envía señales cuando algo anda mal: fiebre, dolor, tos o falta de apetito. Reconocerlas es el primer paso para pedir ayuda a tiempo. En el caso de Mateo, la fiebre y el dolor de garganta son dos señales claras de enfermedad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué las personas se enferman menos cuando se lavan las manos con frecuencia?",
+      "context": "En Quibdó una enfermera explica a unos padres cómo pueden evitar que sus hijos se enfermen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el jabón les quita el apetito y así comen menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jabón no quita el apetito. Lo que hace es retirar de las manos los microorganismos que pasan a la boca y a los ojos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua caliente les sube la temperatura y baja la fiebre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavarse las manos no sube ni baja la fiebre. El efecto real es retirar los microorganismos que causan enfermedades."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el jabón retira los microorganismos que entran al cuerpo y causan enfermedad",
+          "is_correct": true,
+          "feedback": "Correcto. El jabón quita de las manos los microorganismos que, al llegar a la boca o a los ojos, causan enfermedades. Por eso lavarse las manos reduce las infecciones."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las manos limpias hacen que el cuerpo necesite más descanso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavarse las manos no aumenta el descanso ni mejora el sueño. Su único efecto es reducir los microorganismos que entran al cuerpo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las enfermedades infecciosas se transmiten por microorganismos que viajan de una persona a otra. Lavarse las manos con jabón y agua limpia esos microorganismos y baja el riesgo de enfermar de gripe o de diarrea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué ese desayuno le da energía para toda la mañana?",
+      "context": "En Armenia una niña desayuna arepas con queso, huevo y jugo de naranja antes de ir al colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque le da los nutrientes que el cuerpo necesita para moverse y pensar",
+          "is_correct": true,
+          "feedback": "Correcto. Las arepas, el huevo y el jugo aportan carbohidratos, proteína y vitaminas. Esos nutrientes dan energía para caminar y para pensar en clase."
+        },
+        {
+          "letter": "B",
+          "text": "Porque los alimentos siempre curan las enfermedades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un desayuno no cura enfermedades: solo aporta nutrientes. La enfermedad se trata con médico y con medicina, no con comida."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el jugo de naranja sustituye las horas de sueño",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún alimento reemplaza el sueño. El desayuno aporta energía por un rato, pero descansar bien sigue siendo necesario para crecer."
+        },
+        {
+          "letter": "D",
+          "text": "Porque comer en la casa hace que el cuerpo no necesite agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuerpo necesita agua todos los días. La comida y el agua cumplen papeles distintos, y las dos hacen falta para estar bien."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una alimentación variada aporta los nutrientes que el cuerpo necesita para crecer, moverse y pensar. Los carbohidratos dan energía, las proteínas ayudan a construir tejidos y las vitaminas protegen de enfermedades. Desayunar bien es una forma de cuidar la salud desde la mañana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué conviene llevar a un estudiante que se siente mal a la enfermería y no dejarlo en el salón de clases?",
+      "context": "En un colegio de Villavicencio hay una enfermería donde una enfermera atiende a los estudiantes que se sienten mal durante el día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la enfermería tiene más sillas que el salón de clases",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de sillas no tiene nada que ver. La enfermería sirve para revisar a quien se siente mal, no para acomodar más estudiantes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en el salón de clases los estudiantes no pueden aprender nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el salón de clases sí se puede aprender. El problema es que un estudiante enfermo necesita atención y no puede seguir la clase mientras se siente mal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque allí lo puede revisar una enfermera que sabe qué tiene y cómo تساعدlo",
+          "is_correct": true,
+          "feedback": "Correcto. La enfermera puede revisar al estudiante, reconocer la enfermedad y avisarle a la familia. Eso es una atención que el salón de clases no puede dar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el estudiante se curaría solo si lo dejo mucho tiempo solo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna enfermedad se cura con soledad ni con esperar. Lo que ayuda es la revisión de un profesional de la salud."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La salud se atiende con información sencilla y con profesionales de la salud. Reconocer una señal de enfermedad y consultar a tiempo evita que la enfermedad avance. En el colegio, la enfermería cumple esa función para los estudiantes.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v5",
+      "statement": "¿Para qué son útiles las vacunas que aplica ese centro de salud?",
+      "context": "En Cali un centro de salud llega cada mes a un barrio lejano a aplicar las vacunas a los niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para que los niños crezcan más alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El crecimiento depende de la alimentación y de otros cuidados. Las vacunas no cambian la estatura: protegen contra enfermedades peligrosas."
+        },
+        {
+          "letter": "B",
+          "text": "Para que los niños no tengan que ir al colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las vacunas no tienen nada que ver con la asistencia al colegio. Su función es proteger el cuerpo contra enfermedades."
+        },
+        {
+          "letter": "C",
+          "text": "Para que el niño se sienta con más energía en clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía en clase depende del sueño y de la alimentación. Las vacunas no dan energía: preparan al cuerpo para resistir una enfermedad concreta."
+        },
+        {
+          "letter": "D",
+          "text": "Para que el cuerpo quede preparado para resistir una enfermedad concreta",
+          "is_correct": true,
+          "feedback": "Correcto. Una vacuna prepara al cuerpo para reconocer y resistir una enfermedad concreta. Por eso las vacunas son una forma de prevenir y no de curar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Prevenir es actuar antes de que la enfermedad aparezca. Las vacinas son una medida de prevención: preparan al cuerpo para que resista una enfermedad concreta. La higiene, la alimentación y la vacunación son las tres formas más importantes de cuidar la salud.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v6",
+      "statement": "Si una familia puede llegar al médico en diez minutos y la otra tarda dos horas, ¿qué dice esa diferencia?",
+      "context": "Una familia de Bogotá vive cerca de un hospital grande y puede ir a la cita a pie. Otra familia de una zona rural de Boyacá tarda dos horas en bus para llegar al centro de salud más cercano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la segunda familia no se interesa por la salud de sus hijos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El interés por la salud se demuestra con el esfuerzo de cuidar, no con la cercanía de la casa. La familia que tarda dos horas sí quiere ir al médico."
+        },
+        {
+          "letter": "B",
+          "text": "Que en las zonas rurales no hay necesidad de médico",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las zonas rurales hay más necesidad de atención médica, no menos. Lo que falta son centros de salud cercanos a las viviendas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el acceso a la salud es distinto y esa diferencia se convierte en desigualdad",
+          "is_correct": true,
+          "feedback": "Correcto. Una familia llega al médico en diez minutos y la otra en dos horas. Esa diferencia en el acceso a la atención es una desigualdad que afecta la salud de los niños."
+        },
+        {
+          "letter": "C",
+          "text": "Que el hospital de la ciudad sirve para toda Colombia por igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un hospital grande no sirve igual a quien vive lejos. La distancia y el tiempo de viaje cambian por completo el acceso a la atención."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El acceso a la salud depende de la cercanía de los centros de atención y de los recursos de cada familia. Cuando unos viven a diez minutos del hospital y otros a dos horas, aparece una desigualdad en el cuidado de la salud. Llevar servicios médicos a las zonas rurales reduce esa brecha.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto tiene esa diferencia de hábitos en los dientes de cada uno?",
+      "context": "En Medellín un niño se cepilla los dientes dos veces al día y una niña se los cepilla una vez cada varios días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño que se cepilla a diario tiene menos riesgo de caries y de dolor de muelas",
+          "is_correct": true,
+          "feedback": "Correcto. Cepillarse a diario retira los restos de comida y la placa que causan las caries. Por eso ese niño tiene menos riesgo de tener caries y de muelas."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos niños tendrán exactamente la misma salud dental",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hábito de cepillarse cambia la salud de los dientes. El niño que lo hace a diario tiene menos riesgo de caries que el otro."
+        },
+        {
+          "letter": "C",
+          "text": "El niño que se cepilla a diario no necesitará ir al dentista nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cepillarse bien baja el riesgo de caries, pero nadie queda exento de necesitar revisión. La prevención reduce el daño, no lo elimina."
+        },
+        {
+          "letter": "D",
+          "text": "El niño que se cepilla menos veces tendrá menos muelas y por eso está más sano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Perder una muela es un daño, no una ventaja. Cepillarse poco aumenta el riesgo de caries y de pérdida de dientes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los hábitos diarios se notan con el tiempo en la salud. Cepillarse los dientes a diario retira los restos de comida que ayudan a formar caries. Cuando el hábito se repite, la diferencia en la salud de los dientes se nota con el tiempo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle-v8",
+      "statement": "¿Qué es lo más correcto que puede hacer esa estudiante?",
+      "context": "En Montería una estudiante ve un anuncio que promete un remedio casero que, según el anuncio, cura cualquier gripa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comprarlo y tomarlo porque el anuncio dice que cura la gripa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un anuncio no es una fuente médica. Tomar un remedio sin indicación puede hacer daño en lugar de curar la gripa."
+        },
+        {
+          "letter": "B",
+          "text": "Consultar a un profesional de la salud antes de tomar ese remedio",
+          "is_correct": true,
+          "feedback": "Correcto. Un profesional de la salud sabe si ese remedio sirve, si hace daño o si sobra. Consultar antes de tomar es la decisión más segura y responsable."
+        },
+        {
+          "letter": "C",
+          "text": "Comprarlo y tomarlo junto con las pastillas del médico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mezclar un remedio casero con medicamentos puede ser peligroso porque se pueden combinar mal. Lo seguro es seguir solo las indicaciones del médico."
+        },
+        {
+          "letter": "D",
+          "text": "Contarle a sus compañeros que funciona, porque si le sirvió a ella sirve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar que un remedio sirve sin saberlo anima a otros a tomarlo. Compartir un remedio sin revisión puede hacer daño a más personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La publicidad a veces promete curas que no existen. El camino seguro es consultar a un profesional de la salud, que es la persona preparada para decir si un remedio sirve o no. Elegir con información confiable es una decisión responsable sobre el propio cuerpo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W09-la-salud-y-el-cuidado-del-cuerpo-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-13-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.193Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v1",
+      "statement": "¿De dónde viene el agua que usa esa niña?",
+      "context": "En Pasto una niña se baña por la mañana, toma agua en la escuela y lava los platos en la casa después del almuerzo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De un río que pasa por el patio de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. En una ciudad el agua no llega de un río al patio. Llega por tuberías desde un río o un embalse, y esa es la razón de que exista el acueducto."
+        },
+        {
+          "letter": "B",
+          "text": "Del acueducto, que la recoge de un río o un embalse y la lleva por tuberías",
+          "is_correct": true,
+          "feedback": "Correcto. El acueducto recoge el agua de un río o de un embalse y la lleva hasta las casas por tuberías. Por eso hay tanques de almacenamiento en las ciudades."
+        },
+        {
+          "letter": "C",
+          "text": "De las lluvias que caen directamente en el techo de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llueve en casi todo el país, pero el agua potable de una casa no viene del techo. Viene del acueducto, que la recoge en otro lugar."
+        },
+        {
+          "letter": "D",
+          "text": "De un pozo que cada familia cava en su terreno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un pozo solo tiene agua si el terreno da agua. La mayoría de las familias colombianas no cava pozos: reciben el agua de la empresa de acueducto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua potable llega a las ciudades por el acueducto, que la recoge de ríos o embalses y la distribuye por tuberías. Ese recorrido explica por qué en las ciudades hay tanques y plantas de tratamiento. Reconocer el camino del agua ayuda a valorar el servicio.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v2",
+      "statement": "¿A qué se llama ese camino que sigue el agua?",
+      "context": "Un profesor explica a sus estudiantes de Villavicencio que el agua de la lluvia se evapora del suelo y del río, sube como vapor y después vuelve a caer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Al ciclo del agua",
+          "is_correct": true,
+          "feedback": "Correcto. Se llama ciclo del agua. El agua se evapora, sube como vapor, se condensa en las nubes, cae como lluvia y vuelve a los ríos y al mar."
+        },
+        {
+          "letter": "B",
+          "text": "Al ahorro del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ahorro del agua es un hábito de uso, no un camino que siga el agua. El nombre de ese camino es el ciclo del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Al acueducto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acueducto es la red de tuberías que lleva el agua a las casas. El camino del agua por la naturaleza tiene otro nombre."
+        },
+        {
+          "letter": "D",
+          "text": "A la contaminación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La contaminación es el daño que se le hace al agua con basura o con sustancias químicas. No es el nombre del recorrido del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua de la tierra se evapora con el calor del sol, sube como vapor, forma nubes y cae de nuevo como lluvia. Ese recorrido continuo se llama el ciclo del agua. Entenderlo muestra que el agua se puede usar varias veces, si se limpia y se cuida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v3",
+      "statement": "¿Qué está haciendo bien la segunda señora?",
+      "context": "En Neiva una señora lava los platos dejando la llave abierta y otra señora cierra la llave mientras los enjabona.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar la llave, porque así usa menos agua y paga menos en la factura",
+          "is_correct": true,
+          "feedback": "Correcto. Cerrar la llave mientras los enjabona evita que corra agua sin necesidad. Con ese hábito se usa menos agua y la factura de acueducto baja."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar la llave abierta, porque el agua se necesita para lavar los platos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua se necesita, pero no es necesario dejarla corriendo. Cerrar la llave no impide lavar: solo evita el desperdicio."
+        },
+        {
+          "letter": "C",
+          "text": "Lavar los platos antes de que lleguen los invitados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lavar antes o después no cambia la cantidad de agua que se usa. Lo que cambia la cantidad es cerrar la llave, no el momento del lavado."
+        },
+        {
+          "letter": "D",
+          "text": "Lavar los platos con agua de lluvia, porque es gratis",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua de lluvia no se puede usar para lavar platos porque puede estar sucia. Sin embargo, el agua potable sí llega a la casa y hay que pagarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ahorrar agua significa usarla solo lo necesario. Cerrar la llave mientras se enjabona o se afeita es un ejemplo sencillo de ahorro. Ese hábito baja el consumo del hogar y reduce el pago de la factura del acueducto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v4",
+      "statement": "¿Qué efecto tiene esa contaminación sobre el agua del río?",
+      "context": "Después de una lluvia fuerte en Armenia se vierten aguas sucias y basura a un río del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque el río se limpia solo con el agua que trae",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un río puede limpiarse con el tiempo, pero la basura y las aguas sucias dañan esa limpieza. Además, contaminan la vida de los peces y de las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua se limpia más rápido por la lluvia que cayó",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia fuerte arrastra basura y aguas servidas al río. Eso no limpia: llena el río de todo lo que se quería sacar de la calle."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua se vuelve sucia y ya no sirve para uso humano ni para los peces",
+          "is_correct": true,
+          "feedback": "Correcto. Con basura y aguas sucias el agua pierde su calidad. Eso afecta la salud de las personas que la usan y la vida de los peces y las aves del río."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua se vuelve potable y se puede beber sin problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un agua sucia no se puede beber. Para volver a ser potable necesita un tratamiento completo que solo puede hacer una planta de tratamiento del municipio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando se tira basura o agua sucia a un río, el agua pierde su calidad. Eso afecta a los seres vivos que viven en él y a las personas que la usan. Proteger el agua significa no arrojar basura y tratar las aguas antes de devolverlas a la naturaleza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué es importante que esa familia pague esa factura?",
+      "context": "En una casa de Bogotá llega cada mes la factura del acueducto con el valor del agua que la familia usó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el pago sostiene a los trabajadores que limpian el agua y mantienen las tuberías",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pago sí paga a los trabajadores del acueducto, pero el motivo más importante para la familia es que así sigue llegando agua limpia a su casa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque con ese pago la familia asegura que siga llegando agua limpia a su casa",
+          "is_correct": true,
+          "feedback": "Correcto. El acueducto usa ese dinero para tratar el agua y mantener las tuberías. Si nadie paga, el servicio se cae y la familia se queda sin agua limpia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al pagar el agua la familia la hace más limpia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagar no lava el agua: esa limpieza la hace la planta de tratamiento del acueducto. El pago solo financia el servicio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sin pagar el agua la familia recibe más agua en la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin pagar no llega más agua, al contrario: el acueducto puede cortar el servicio. El pago no aumenta la cantidad, sostiene el servicio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua potable es un servicio público que se paga con una tarifa. Ese dinero permite tratar el agua y mantener las tuberías en buen estado. Por eso pagar la factura es un deber que asegura el agua limpia de toda la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v6",
+      "statement": "Si el río baja de caudal y hay menos agua disponible, ¿qué problema aparece primero?",
+      "context": "En una región de Boyacá el río baja con muy poco caudal durante varios meses del verano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua del río sube por las casas de las familias",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua del río no sube a las casas. Lo que pasa es que hay menos agua disponible, y por eso las familias reciben menos en sus casas."
+        },
+        {
+          "letter": "B",
+          "text": "Que cambia el nombre de los ríos de la región",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sequía no cambia el nombre de los ríos. Lo que cambia es la cantidad de agua que tienen, y eso es un problema para las personas y los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Que desaparece la lluvia en el departamento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un río tenga menos agua no significa que desaparezca la lluvia. La sequía es una época seca, no la desaparición total del agua del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Que hay escasez de agua en las casas de esa región",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el río baja de caudal hay menos agua disponible, y eso se convierte en escasez en las casas. La sequía afecta primero el uso diario del agua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un río baja de caudal, la cantidad de agua disponible disminuye. Eso produce escasez en las casas, en las fincas y en los proyectos que necesitan agua. Ahorrar agua y proteger los bosques ayudan a que los ríos conserven más caudal.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v7",
+      "statement": "Si una familia tiene agua en su casa y la otra tiene que caminar dos horas, ¿qué dice esa diferencia?",
+      "context": "Una familia de Bogotá tiene agua potable todos los días en su casa. Una familia de una zona rural de La Guajira tiene que caminar dos horas para traer agua de un río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua de la ciudad vale más que el agua del campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es el mismo recurso natural en los dos casos. Lo que cambia es el acceso al servicio, no el valor del agua."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo las ciudades tienen derecho a agua potable",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho al agua potable es de todas las personas del país. El problema es que en algunas zonas el servicio todavía no llega."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua del campo no sirve para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua del campo sirve para muchas cosas, como beber, regar y criar animales. No sirve de menos que el agua de la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Que el acceso al agua es desigual y eso afecta las condiciones de vida",
+          "is_correct": true,
+          "feedback": "Correcto. Una familia tiene agua en su casa y la otra tiene que caminarla. Esa diferencia en el acceso al agua es una desigualdad que afecta la salud y el trabajo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El acceso al agua potable no es igual para todos en Colombia. Hay hogares conectados a la red de acueducto y zonas donde el agua llega por otros medios o no llega. Esa diferencia en el acceso se convierte en desigualdad en la salud y en el trabajo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle-v8",
+      "statement": "¿Qué le aporta a la comunidad esa campaña del colegio?",
+      "context": "En un colegio de Montería una campaña propone que los estudiantes cierren el grifo mientras se cepillan los dientes y que reporten las fugas de agua de su casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, porque el agua de la ciudad no se puede cuidar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua de la ciudad sí se puede cuidar. El ahorro en las casas y el reporte de fugas son acciones que sí bajan el consumo."
+        },
+        {
+          "letter": "B",
+          "text": "Aplica la ley solo a las familias que tienen menos recursos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La campaña no distingue entre familias. Cerrar el grifo y reportar fugas son acciones que puede hacer cualquier persona, sin importar su situación."
+        },
+        {
+          "letter": "C",
+          "text": "Enseña a cuidar un recurso que usa toda la ciudad y reduce el consumo",
+          "is_correct": true,
+          "feedback": "Correcto. La campaña enseña un hábito de ahorro y permite detectar fugas. Eso reduce el consumo del agua en el colegio y en las casas, y beneficia a toda la ciudad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo sirve para ganar dinero en el hospital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una campaña escolar de ahorro no busca dinero. Su valor está en formar hábitos de cuidado del agua para toda la comunidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El agua es un recurso limitado que hay que usar con cuidado. Enseñar a cerrar el grifo y a reportar fugas desde el colegio forma hábitos que se llevan a la casa. Cuidar el agua en pequeño se convierte en un ahorro grande para toda la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W13-el-agua-y-la-vida-diaria-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

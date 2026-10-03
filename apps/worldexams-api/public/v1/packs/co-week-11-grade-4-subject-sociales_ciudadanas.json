@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.192Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué relación existe entre la niña, su abuela y su hermana?",
+      "context": "En Bucaramanga una niña ayuda a su abuela con la bolsa del mercado y después juega con su hermana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación familiar, porque las tres son de la misma familia",
+          "is_correct": true,
+          "feedback": "Correcto. La niña, su abuela y su hermana están unidas por el parentesco. Esa es la base de una relación familiar, y por eso comparten el mismo hogar."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación de amistad, porque juegan juntas todos los días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar juntas no crea una relación de amistad: la amistad se construye entre personas que no son de la misma familia. Ellas están unidas por el parentesco."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de trabajo, porque ayudan en la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ayudar en la casa es un deber familiar, no un trabajo. Las tres están unidas por el parentesco, que es lo que hace que sean familia."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de vecindario, porque viven en la misma cuadra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vivir en la misma cuadra crea una relación de vecindario. Aquí lo que las une es el parentesco, porque la abuela es la madre de la mamá de la niña."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las relaciones entre personas pueden ser familiares, de amistad, de trabajo o de vecindario. La familia se construye por el parentesco: padres, hermanos, abuelos y tíos. Saber distinguir esas relaciones ayuda a entender con quién se comparte el cuidado y la responsabilidad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué está mostrando ese niño con esa reacción?",
+      "context": "En un colegio de Popayán un niño ve que un compañero llora porque perdió su cuaderno y le ofrece el suyo para trabajar juntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Egoísmo, porque no quiere perder su propio cuaderno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño sí arriesga su cuaderno al prestarlo. Eso es ayudar a un compañero, no egoísmo. El egoísmo sería no hacer nada por el otro."
+        },
+        {
+          "letter": "B",
+          "text": "Rivalidad, porque los dos discuten por el mismo cuaderno",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay competencia entre ellos. El niño comparte lo que tiene para ayudar a quien está triste, y en ese caso no hay ganador ni perdedor."
+        },
+        {
+          "letter": "C",
+          "text": "Empatía, porque entiende la tristeza del otro y quiere ayudarlo",
+          "is_correct": true,
+          "feedback": "Correcto. La empatía es ponerse en el lugar del otro y sentir lo que esa persona siente. Al ofrecer su cuaderno, el niño muestra que entiende la tristeza de su compañero."
+        },
+        {
+          "letter": "D",
+          "text": "Indiferencia, porque solo le importa a los demás hablar de sus problemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indiferencia es no hacer nada frente al dolor de otra persona. El niño sí hizo algo: le ofreció su cuaderno para que pudiera trabajar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La empatía es la capacidad de entender lo que siente otra persona. La solidaridad es convertir esa comprensión en ayuda concreta, como prestar un cuaderno o acompañar a alguien. Estas dos acciones son la base de la convivencia pacífica en el aula.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué pueden hacer esos cuatro estudiantes para incluir a la compañera nueva?",
+      "context": "En una clase de Ibagué hay un grupo de cuatro estudiantes que ya tiene listo el trabajo y una compañera nueva que no conoce a nadie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejarla sola hasta que ella encuentre con quién hablar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar sola a la compañera nueva la hace sentir rechazada. La mejor forma de incluir es acercarse y ofrecerle compañía desde el primer día."
+        },
+        {
+          "letter": "B",
+          "text": "Explicarle de qué trata el trabajo, presentarla al grupo y guardarle un lugar",
+          "is_correct": true,
+          "feedback": "Correcto. Incluir a alguien significa explicarle el trabajo, presentarla ante el grupo y hacerle un espacio. Esas tres acciones hacen que pase a ser parte del grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Terminar el trabajo rápido para que ella no alcance a preguntar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Terminar antes no ayuda a nadie. Lo amistoso es ofrecerle tiempo y aclararle las dudas que tenga sobre el trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Decirle que se cambie de salón porque ahí no es bienvenida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar a la compañera de salón la castiga por algo que ella no hizo. Un grupo que recibe bien a sus miembros se acerca y la incluye."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La convivencia se construye con gestos de inclusión. Cuando alguien nuevo llega, el grupo puede darle información, presentarla y hacerle un lugar. Ese tipo de acciones evita que la persona se sienta sola y construye un grupo más unido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué muestra esa situación sobre el trabajo de las mujeres?",
+      "context": "En Neiva una familia perdió el trabajo del papá y la mamá prepara y vende empanadas en la casa para sostener el hogar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el trabajo de las mujeres no sirve para sostener un hogar",
+          "is_correct": false,
+          "feedback": "Incorrecto. En esta situación el trabajo de la mamá es lo que sostiene la comida y los gastos. Ese trabajo sí sirve, y es un aporte fundamental para el hogar."
+        },
+        {
+          "letter": "B",
+          "text": "Que las mujeres no deberían trabajar porque su lugar es la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún trabajo le quita a nadie su lugar en la familia. Las mujeres trabajan y sostienen los hogares con la misma responsabilidad con que trabajan los hombres."
+        },
+        {
+          "letter": "C",
+          "text": "Que vender empanadas en casa no cuenta como trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender empanadas es trabajo, y produce ingresos y alimentos. Que se haga en casa no lo vuelve menos importante que cualquier otro trabajo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el trabajo de las mujeres sostiene a la familia cuando falta otro ingreso",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando se pierde un trabajo, el ingreso de la mamá cubre la comida y los gastos del hogar. El trabajo de las mujeres muchas veces es el que mantiene a la familia en pie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En Colombia las mujeres hacen una parte importante del trabajo del hogar y de la economía. Muchas veces su ingreso es el que cubre los gastos básicos cuando falta otro. Reconocer ese aporte es reconocer que el trabajo de la casa también es trabajo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué relación se construye cuando los vecinos llegan a ayudar a esas familias?",
+      "context": "Después de un aguacero fuerte en Manizales varias familias perdieron sus casas y los vecinos llegan a sus puertas para preguntar qué necesitan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una relación de solidaridad, porque se unen para apoyarse en un momento difícil",
+          "is_correct": true,
+          "feedback": "Correcto. La solidaridad es ayudar a otra persona en un momento difícil sin esperar un pago. Los vecinos que llegan a las casas de las familias damnificadas hacen exactamente eso."
+        },
+        {
+          "letter": "B",
+          "text": "Una relación comercial, porque se espera que la gente pague por la ayuda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una relación comercial ocurre cuando alguien da un servicio a cambio de dinero. En esta visita los vecinos llegan a ayudar y no a cobrar."
+        },
+        {
+          "letter": "C",
+          "text": "Una relación de competencia, porque todos quieren llegar primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. La competencia es una pelea por ganar algo. Aquí los vecinos llegan a ayudar, sin rivalidad entre ellos, y eso es lo contrario de competir."
+        },
+        {
+          "letter": "D",
+          "text": "Una relación de confianza entre vecinos, porque llegan a apoyar a las familias sin un pago",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ayuda sin pago es justamente la solidaridad, que es lo que ocurre aquí. La confianza se construye con el tiempo, no en un solo visita de ayuda."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La solidaridad es la ayuda que se da a otra persona cuando lo necesita. No es competencia ni comercio: no hay rivalidad ni hay pago. Cuando una comunidad entera ayuda a una familia, se construye un lazo de confianza que beneficia a toda la comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué están entendiendo mal esos dos niños sobre la relación entre ellos?",
+      "context": "En un salón de clase de Villavicencio dos niños se pelean por un lápiz y se empujan. La profesora separa el problema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creen que ganar el lápiz les da derecho a mandar en el salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños no buscan mandar: están compitiendo por un objeto. El derecho a respeto no depende de ganar un lápiz."
+        },
+        {
+          "letter": "B",
+          "text": "Creen que la profesora siempre tiene razón en separarlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separar a tiempo evita que el golpe sea mayor, pero eso no significa que todo se resuelva con castigos. También hay que enseñar a conversar."
+        },
+        {
+          "letter": "C",
+          "text": "Creen que todo se resuelve con fuerza y no con conversación",
+          "is_correct": true,
+          "feedback": "Correcto. Empujarse muestra que el niño resuelve el conflicto con la fuerza. Un acuerdo se logra hablando y turnándose el lápiz, no peleando."
+        },
+        {
+          "letter": "D",
+          "text": "Creen que el lápiz no le pertenece a ninguno de los dos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la propiedad del lápiz, sino la forma de resolver la disputa. Ninguno estaba equivocado en querer usarlo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un conflicto se puede resolver de dos maneras: con violencia o con diálogo. La convivencia pacífica consiste en hablar, escuchar y llegar a un acuerdo. Empujarse daña a las personas y no resuelve el problema de fondo, que es decidir quién usa el lápiz primero.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v7",
+      "statement": "Si un niño de una comunidad convive con niños de otra que tienen otras costumbres, ¿qué puede aportar esa convivencia?",
+      "context": "En Armenia dos comunidades vecinas tienen costumbres diferentes y estudian en la misma escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nada, porque las costumbres diferentes siempre causan problemas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las costumbres diferentes no siempre causan problemas. Lo que las convierte en problema es no respetarlas ni conocerlas, no que sean distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Que uno de los dos grupos tiene que cambiar de costumbres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie tiene que abandonar sus costumbres. La convivencia no exige dejar de ser quien se es, sino aprender a respetar lo del otro."
+        },
+        {
+          "letter": "C",
+          "text": "Que se copien las costumbres del grupo más grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Copiar las costumbres del grupo más grande es imponer una cultura sobre otra. La convivencia justa reconoce que ambas tienen el mismo valor."
+        },
+        {
+          "letter": "D",
+          "text": "Que ambos grupos aprendan las costumbres del otro y respeten la diferencia",
+          "is_correct": true,
+          "feedback": "Correcto. Convivir con personas de otras costumbres permite aprender de ellas y reconocer que la diferencia no es un problema. Así la comunidad se enriquece."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En Colombia viven personas de muchas regiones, etnias y culturas. Convivir con otras costumbres permite aprender y construir relaciones más ricas. La diferencia cultural se respeta y se valora: no se elimina ni se impone una sobre otra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle-v8",
+      "statement": "¿Por qué esta forma de prevención es valiosa para la comunidad?",
+      "context": "En Quibdó una auxiliar de salud visita las comunidades del río y explica a las familias cómo prevenir el dengue.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque obliga a cada familia a pagar una consulta al médico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La visita no obliga a pagar: es un servicio de prevención que busca cuidar a la comunidad. El costo no es lo que hace valiosa la visita."
+        },
+        {
+          "letter": "B",
+          "text": "Porque acerca el conocimiento de salud hasta las casas de la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. Llevar el conocimiento hasta las casas hace que las personas puedan actuar a tiempo, por ejemplo tomando agua limpia y eliminando los criaderos del mosquito."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se hace lejos del lugar donde viven las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La visita es valiosa precisamente porque se hace en el lugar donde viven las personas. Llegar hasta sus casas permite que la información llegue a ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque solo sirve para ganar dinero en el hospital",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una visita de prevención no es un negocio. Su valor está en que la comunidad se enferme menos, no en el dinero del hospital."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La prevención en salud consiste en informar antes de que la enfermedad aparezca. Cuando los profesionales llevan ese conocimiento hasta las comunidades más lejanas, la información llega a tiempo. Esa cercanía salva vidas y demuestra el valor de la solidaridad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W11-las-relaciones-y-la-solidaridad-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

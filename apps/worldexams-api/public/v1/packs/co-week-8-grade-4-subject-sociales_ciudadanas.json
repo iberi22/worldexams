@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.190Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estos medios de transporte no consume gasolina?",
+      "context": "Cada mañana los estudiantes de un colegio de Popayán llegan en bus, a pie o en bicicleta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La bicicleta, porque se mueve con la fuerza de quien la pedalea",
+          "is_correct": true,
+          "feedback": "Correcto. La bicicleta no tiene motor ni necesita gasolina: avanza con la fuerza de las piernas de quien la pedalea. Por eso no consume combustible."
+        },
+        {
+          "letter": "B",
+          "text": "El bus, porque es un vehículo grande que usa diésel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bus es un vehículo grande y necesita diésel para mover su motor. Por eso sí consume combustible."
+        },
+        {
+          "letter": "C",
+          "text": "El carro particular, porque se desplaza por la calle con motor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carro particular tiene motor y funciona con gasolina o diésel. Por eso sí consume combustible."
+        },
+        {
+          "letter": "D",
+          "text": "El taxi, porque lleva personas de un sitio a otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. El taxi tiene motor y quema gasolina para moverse. Llevar pasajeros no significa que sea un medio sin combustible."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los medios de transporte se pueden agrupar según usen combustible o no. El bus, el carro y el taxi necesitan gasolina o diésel para funcionar. La bicicleta y el transporte a pie no usan combustible, por eso no gastan combustible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué la ubicación de la estación de buses y la del centro ayuda a organizar el transporte de la ciudad?",
+      "context": "En Bogotá la estación de buses queda al norte y el centro queda al sur, con varias rutas entre los dos lugares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque sin conocer la ubicación de los sitios no hace falta ningún transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nadie sabe dónde están los sitios, es más difícil mover personas y cosas. Conocer la ubicación es justamente lo que hace posible el transporte."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así las personas no necesitan moverse por la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber dónde queda cada lugar no evita moverse: hace que el movimiento sea más ordenado y más rápido entre un sitio y otro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la estación de buses solo sirve para salir de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estación de buses sirve para entrar y para salir de la ciudad, y también para conectar viajes locales. No tiene un solo uso."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la ubicación de la estación y la del centro permite trazar rutas para los viajeros",
+          "is_correct": true,
+          "feedback": "Correcto. Saber dónde está la estación y dónde está el centro permite trazar rutas que llevan a las personas de un sitio al otro. Esa es la base para organizar el transporte de la ciudad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ubicación de los sitios es una información espacial clave porque dice dónde está cada lugar. Con esa información se pueden trazar rutas que conecten a las personas con los servicios que necesitan. En una ciudad grande como Bogotá, esa conexión entre lugares es la base del sistema de transporte.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v3",
+      "statement": "Si el señor cambia la ruta y pasa por calles donde no se puede andar en bicicleta, ¿qué problema va a tener?",
+      "context": "En Cali un señor lleva sus verduras del mercado a las casas de tres barrios usando una bicicleta con canasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No podrá cargar las verduras porque la bicicleta no tiene motor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bicicleta sí puede cargar verduras en el canasto: lo que cambia con la ruta es el tiempo del viaje, no la capacidad de carga."
+        },
+        {
+          "letter": "B",
+          "text": "Tardará más tiempo en llegar porque esa ruta es más larga",
+          "is_correct": true,
+          "feedback": "Correcto. Si la ruta pasa por calles donde no se puede ir en bicicleta, el camino es más largo y por eso el señor tarda más en llegar a sus clientes."
+        },
+        {
+          "letter": "C",
+          "text": "Los clientes van a comprar el doble de verduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la ruta no cambia la cantidad que compran los clientes. Cada familia sigue comprando la misma cantidad de verduras."
+        },
+        {
+          "letter": "D",
+          "text": "El mercado va a cerrar antes de que el señor llegue",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horario del mercado no depende de la ruta que el señor elija. La ruta solamente cambia el tiempo del recorrido."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Elegir una ruta es un problema espacial: hay que relacionar el punto de partida, el punto de llegada y las calles intermedias. Una ruta más larga toma más tiempo. Cuando el camino se alarga, también se alarga el tiempo de entrega y eso afecta el trabajo del comerciante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué ese lugar es un buen sitio para vender empanadas?",
+      "context": "En Montería una señora vende empanadas cerca de una estación de buses por donde pasan muchas personas todos los días.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que por ahí pasan muchas personas que necesitan comprar algo para comer durante el viaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí pasan muchas personas por una estación de buses, pero eso solo no garantiza la venta. Lo que asegura la venta es que tengan algo para comprar y poco tiempo para cocinar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en la estación de buses no hay ninguna persona que tenga hambre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Justamente pasa lo contrario: quien viaja en bus suele necesitar comer algo. Por eso hay tantas ventas de comida cerca de las estaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque en ese lugar las empanadas se venden más caras sin motivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio de las empanadas no sube porque el lugar sea una estación. Lo que hace ese sitio favorable es la cantidad de personas que pasa por él."
+        },
+        {
+          "letter": "D",
+          "text": "Porque por ahí pasan muchas personas con poco tiempo para cocinar durante el viaje",
+          "is_correct": true,
+          "feedback": "Correcto. En una estación de buses pasan muchas personas cada día, y durante el viaje hay poco tiempo para cocinar. Por eso las empanadas se venden bien ahí."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una ciudad los lugares de trabajo y los mercados se conectan con los medios de transporte. Cerca de una estación de buses hay mucho público, y eso genera ventas de comida rápida. Elegir dónde poner un negocio tiene que ver con la circulación de personas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v5",
+      "statement": "Si una familia cambia del carro al bus y a la bicicleta para sus trayectos diarios, ¿qué efecto tiene sobre el aire de la ciudad?",
+      "context": "En Barranquilla las personas se desplazan en bus y en bicicleta, mientras el humo de los carros baja a la calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Empeora el aire, porque el bus y la bicicleta echan más humo que el carro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bicicleta no echa humo y el bus lleva muchas personas con un solo vehículo. Al combinar los dos medios, la cantidad de carros baja y el humo disminuye."
+        },
+        {
+          "letter": "B",
+          "text": "No cambia nada, porque el aire de una ciudad grande no se puede mejorar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire de una ciudad sí cambia cuando baja el número de vehículos que echan humo. Si menos personas usan carro, menos humo hay."
+        },
+        {
+          "letter": "C",
+          "text": "Mejora el aire, porque baja el número de carros que echan humo",
+          "is_correct": true,
+          "feedback": "Correcto. El humo de los carros es una contaminación del aire. Si menos personas usan carro y usan bus o bicicleta, hay menos humo y el aire de la ciudad mejora."
+        },
+        {
+          "letter": "D",
+          "text": "Mejora el aire solo si la familia deja de usar el bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bus también es una forma de reducir el número de carros. No hace falta abandonar el transporte público, basta con usarlo más."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los carros producen contaminación del aire porque echan humo. El transporte público y la bicicleta no necesitan un carro por persona, así que reducen ese humo. Por eso moverse en bus o en bicicleta ayuda a que el aire de la ciudad sea más limpio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v6",
+      "statement": "Si esa avenida está llena de carros y los peatones caminan por un borde estrecho, ¿qué problema de convivencia aparece?",
+      "context": "En Pereira una avenida muy transitada tiene tres carriles, muchos carros y poco espacio para los peatones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El espacio público queda casi todo para los carros y los peatones van apretados, lo que genera conflictos",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando casi toda la vía es para los carros, los peatones tienen poco espacio y eso genera roces y conflictos entre quienes se desplazan. El espacio público debe repartirse mejor."
+        },
+        {
+          "letter": "B",
+          "text": "Los peatones están bien porque a ellos no les importa el espacio",
+          "is_correct": false,
+          "feedback": "Incorrecto. A los peatones sí les importa el espacio: caminan ahí, cruzan la calle y llevan a los niños. Un espacio estrecho es un riesgo para ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Los carros son los únicos que pueden usar el espacio público",
+          "is_correct": false,
+          "feedback": "Incorrecto. El espacio público no es solo de los carros: también es de los peatones, de los vendedores y de quienes trabajan en la calle. No se puede reducir a un solo uso."
+        },
+        {
+          "letter": "D",
+          "text": "No hay ningún problema, porque en las avenidas todos conviven bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando el espacio no alcanza, la convivencia se vuelve difícil: hay congestión, ruido y conflictos entre quienes se desplazan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El espacio público es compartido y su reparto genera convivencia o conflicto. Si casi toda la vía queda para los carros, los peatones quedan sin espacio suficiente para caminar con seguridad. Una ciudad que mejora su convivencia reparte mejor ese espacio entre todos.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v7",
+      "statement": "Si las rutas de buses están más cerca de unos barrios que de otros, ¿qué consecuencia trae esa diferencia?",
+      "context": "En Soacha unas familias se mueven en buses de operadores privados y hay barrios donde las rutas de la ciudad pasan lejos de las casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los barrios mejor atendidos están más desarrollados y los demás no existen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los barrios bien atendidos no son los únicos que existen: los demás sí tienen habitantes. Lo que cambia es la cercanía con la que cada barrio cuenta del servicio de transporte."
+        },
+        {
+          "letter": "B",
+          "text": "Que todas las familias viajan igual de bien, porque el bus pasa por todas partes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un bus no pasa por todos los barrios por igual: hay calles sin ruta. Por eso el acceso al transporte es distinto para cada familia."
+        },
+        {
+          "letter": "C",
+          "text": "Que unas familias llegan más rápido a su trabajo y a su escuela que otras",
+          "is_correct": true,
+          "feedback": "Correcto. Si un barrio tiene una ruta cercana, sus habitantes llegan antes al trabajo o a la escuela. Esa diferencia de tiempo es una desigualdad en el acceso al transporte."
+        },
+        {
+          "letter": "D",
+          "text": "Que el precio del pasaje debería ser el mismo en todos los barrios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio del pasaje depende de la distancia, no de la persona. La desigualdad que hay aquí está en el tiempo de viaje, no en el precio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El acceso al transporte no es igual para todos: depende de si hay ruta cerca y de cuánto se demora el viaje. Cuando unas familias llegan rápido y otras demoran horas, aparece una desigualdad que afecta el trabajo y el estudio. Planificar rutas para todos ayuda a reducir esa brecha.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle-v8",
+      "statement": "¿Qué medida sería la más justa para mejorar esa situación?",
+      "context": "En un municipio de Córdoba las calles se encharcan en temporada de lluvias y los estudiantes llegan tarde al colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cerrar las calles del municipio hasta que termine la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerrar las calles no quita el agua acumulada y además impide que la gente llegue al trabajo y al colegio. Solo empeora el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Invertir en obras de drenaje y en rutas de transporte que no se detengan con el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Un sistema de desagües quita el agua de las calles, y unas rutas que no se detienen permiten llegar al colegio a tiempo. Las dos cosas atacan el problema."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir a los estudiantes que caminen más tiempo para compensar las lluvias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedir más esfuerzo a los estudiantes no quita el agua de la calle y solo les quita tiempo. La solución debe cambiar la infraestructura."
+        },
+        {
+          "letter": "D",
+          "text": "Mudar la escuela a otra ciudad mientras llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mudar la escuela es una medida exagerada para un problema de lluvias. La respuesta razonable es mejorar el drenaje y las rutas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando un problema afecta a toda una comunidad, la respuesta justa es una medida que mejore las condiciones comunes. En el caso de las lluvias, el drenaje y un transporte que no se detenga atacan la causa. Pedirle más esfuerzo a las personas no resuelve un problema de infraestructura.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W08-la-vida-urbana-y-el-transporte-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
