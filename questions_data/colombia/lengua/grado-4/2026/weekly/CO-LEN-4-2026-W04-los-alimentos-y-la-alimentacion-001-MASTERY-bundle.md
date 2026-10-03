@@ -111,7 +111,7 @@ Deducir significa obtener una idea a partir de datos. La lista incluye cereales,
   <!-- feedback: Correcto. Esta opción es la mejor porque el arroz aporta energía, el pollo aporta proteína y las verduras y la fruta aportan vitaminas. -->
 
 ### Explicacion Pedagogica
-Una alimentación variada combina alimentos que aportan funciones distintas. El arroz aporta energía, el pollo proteína y las verduras y la fruta vitaminas; por eso la opción A es la más adecuada.
+Una alimentación variada combina alimentos que aportan funciones distintas. El arroz aporta energía, el pollo proteína y las verduras y la fruta vitaminas; por eso ese menú es el más adecuado.
 
 ## Question 5 [D5-D6]
 **ID:** CO-LEN-4-2026-W04-los-alimentos-y-la-alimentacion-001-MASTERY-bundle-v5
@@ -156,7 +156,7 @@ Las estudiantes quieren elegir un almuerzo que tenga un cereal, una proteína y 
   <!-- feedback: Incorrecto. La fruta es una opción saludable por sí sola, pero el postre y la fruta no incluyen un cereal ni una proteína. -->
 
 ### Explicacion Pedagogica
-Se evalúa la comprensión de que un almuerzo equilibrado reúne alimentos de distintos grupos. La opción A combina un cereal, una proteína y vegetales, por lo que es la más adecuada entre las alternativas.
+Se evalúa la comprensión de que un almuerzo equilibrado reúne alimentos de distintos grupos. El menú que combina un cereal, una proteína y vegetales es el más adecuado entre las alternativas.
 
 ## Question 7 [D9-D10]
 **ID:** CO-LEN-4-2026-W04-los-alimentos-y-la-alimentacion-001-MASTERY-bundle-v7
@@ -193,9 +193,9 @@ Las estudiantes comparan dos menús: el Menú 1 tiene sopa de verduras, arroz, p
 ### Opciones
 
 - [ ] A) El Menú 1, porque el jugo de paquete y el postre aportan más vitaminas que la fruta.
-  <!-- feedback: Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y noReplace? -->
+  <!-- feedback: Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y no vitaminas, y el Menú 1 no incluye una fuente de proteína como el pollo ni legumbres: por eso no cubre todos los grupos que un almuerzo equilibrado necesita. -->
 - [x] B) El Menú 2, porque combina arroz, lentejas, verduras y fruta, y no depende del jugo de paquete ni del postre.
-  <!-- feedback: Correcto. La opción A reúne un cereal (arroz), una proteína (lentejas), vegetales y fruta, por eso ofrece mayor variedad y equilibrio. -->
+  <!-- feedback: Correcto. El menú reúne un cereal (arroz), una proteína (lentejas), vegetales y fruta, por eso ofrece mayor variedad y equilibrio. -->
 - [ ] C) El Menú 1, porque la sopa y el pollo bastan para completar todos los grupos.
   <!-- feedback: Incorrecto. La sopa y el pollo aportan vegetales y proteína, pero por sí solos no incluyen un cereal ni una fruta. -->
 - [ ] D) El Menú 2, porque las lentejas son un cereal y la fruta es una proteína.
