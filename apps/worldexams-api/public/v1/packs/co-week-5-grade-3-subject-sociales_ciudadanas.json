@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T17:10:03.439Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué deben hacer los estudiantes cuando quieren hablar en clase?",
+      "context": "En el colegio de Andrés en el barrio La América de Medellín, los estudiantes tienen normas como levantar la mano para hablar, respetar el turno de palabra y cuidar los útiles escolares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Levantar la mano",
+          "is_correct": true,
+          "feedback": "Correcto. Levantar la mano es la norma que permite al profesor dar la palabra de forma ordenada a cada estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Gritar todos a la vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. Gritar todos a la vez genera desorden y no permite que nadie sea escuchado claramente."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar sin permiso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hablar sin permiso interrumpe la clase y no respeta el turno de palabra de los demás."
+        },
+        {
+          "letter": "D",
+          "text": "No hablar nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hablar nunca impide la participación; la norma es levantar la mano para pedir la palabra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las normas de convivencia son acuerdos que permiten la organización y el respeto en espacios compartidos. Levantar la mano para hablar es una norma que garantiza que todos los estudiantes puedan participar de manera ordenada. Comprender y respetar estas normas es fundamental para la convivencia escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v2",
+      "statement": "¿Dónde se encuentran escritas las normas del parque?",
+      "context": "En un parque de Bogotá, hay normas escritas en un letrero: no botar basura, no dañar los juegos y respetar el horario de cierre.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas no están en el suelo; están escritas en un letrero visible para todos los visitantes."
+        },
+        {
+          "letter": "B",
+          "text": "En un letrero",
+          "is_correct": true,
+          "feedback": "Correcto. Las normas están escritas en un letrero para que todos los visitantes las conozcan y respeten."
+        },
+        {
+          "letter": "C",
+          "text": "En los árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas no están en los árboles; están en un letrero colocado en un lugar visible del parque."
+        },
+        {
+          "letter": "D",
+          "text": "En el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas no están en el agua; están en un letrero visible en el parque."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las normas públicas se comunican a través de letreros y señales para que todas las personas las conozcan. En los parques, estos letreros informan sobre las reglas de uso y cuidado de los espacios. Saber leer y respetar estas normas es parte de la formación ciudadana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué tipo de acuerdo hicieron los estudiantes del salón?",
+      "context": "En un salón de clases de Cartagena, los estudiantes acuerdan que todos deben participar en la limpieza del aula y que se rotará el responsable cada semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un acuerdo de convivencia",
+          "is_correct": true,
+          "feedback": "Correcto. Un acuerdo de convivencia es un pacto entre miembros de una comunidad para garantizar la convivencia y el orden."
+        },
+        {
+          "letter": "B",
+          "text": "Un tratado de comercio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un tratado de comercio es un acuerdo entre países para intercambiar bienes, no un acuerdo de aula."
+        },
+        {
+          "letter": "C",
+          "text": "Un contrato de trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un contrato de trabajo es un documento legal entre empleador y empleado, no un acuerdo entre estudiantes."
+        },
+        {
+          "letter": "D",
+          "text": "Un documento legal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un documento legal es un texto con validez jurídica, no un acuerdo voluntario entre estudiantes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los acuerdos de convivencia son pactos voluntarios que establecen las reglas de comportamiento en un grupo. Cuando los estudiantes acuerdan rotar la responsabilidad de la limpieza, están practicipando la participación democrática y la responsabilidad compartida. Estos acuerdos fortalecen la convivencia y el sentido de pertenencia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué valores se practican con estos acuerdos familiares?",
+      "context": "En una familia de Bucaramanga, los padres e hijos acuerdan que los niños deben hacer sus tareas antes de ver televisión y que todos deben colaborar con las tareas del hogar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El egoísmo y la competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El egoísmo y la competencia no promueven la colaboración; estos acuerdos fomentan la responsabilidad y cooperación."
+        },
+        {
+          "letter": "B",
+          "text": "La responsabilidad y la cooperación",
+          "is_correct": true,
+          "feedback": "Correcto. La responsabilidad es cumplir con las obligaciones y la cooperación es trabajar juntos por el bien común."
+        },
+        {
+          "letter": "C",
+          "text": "La indiferencia y el individualismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indiferencia es no importarles a los demás, pero estos acuerdos requieren compromiso y colaboración de todos."
+        },
+        {
+          "letter": "D",
+          "text": "La envidia y la rivalidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La envidia y la rivalidad generan conflictos, no la colaboración y el compromiso de estos acuerdos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los acuerdos familiares son herramientas educativas que enseñan valores fundamentales. Cuando los niños cumplen con sus tareas y colaboran en el hogar, están desarrollando responsabilidad y cooperación. Estos valores son esenciales para la convivencia en cualquier espacio social y para la formación de ciudadanos comprometidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué deberían hacer los estudiantes para resolver este conflicto?",
+      "context": "En un colegio de Pereira, dos estudiantes discuten porque uno dice que el otro no cumplió el acuerdo de turnarse en el uso del balón durante el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pegarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pegarse es violencia física y empeora el conflicto; los acuerdos se respetan con diálogo, no con agresión."
+        },
+        {
+          "letter": "B",
+          "text": "No volver a hablarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hablarse no resuelve el incumplimiento del acuerdo; se necesita comunicación para aclarar la situación."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar y recordar el acuerdo",
+          "is_correct": true,
+          "feedback": "Correcto. Hablar permite expresar la inconformidad y recordar el acuerdo para que ambos cumplan su parte."
+        },
+        {
+          "letter": "D",
+          "text": "Ignorar el problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar el problema no resuelve el incumplimiento del acuerdo; se necesita diálogo y compromiso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un acuerdo no se cumple, la mejor forma de resolver el conflicto es a través del diálogo y la comunicación. Recordar lo que se acordó permite a ambas partes entender sus responsabilidades y comprometerse a cumplirlas. Esta habilidad es fundamental para la convivencia pacífica en cualquier comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué beneficio comunitario genera este acuerdo de reciclaje?",
+      "context": "En un barrio de Cúcuta, los vecinos acuerdan que todos deben separar la basura en bolsas diferentes para facilitar el reciclaje y reducir la contaminación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más basura en las calles",
+          "is_correct": false,
+          "feedback": "Incorrecto. El acuerdo busca reducir la basura, no aumentarla; separar los residuos facilita su recolección y reciclaje."
+        },
+        {
+          "letter": "B",
+          "text": "Más contaminación del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje reduce la contaminación, no la aumenta; separar la basura protege el medio ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Más gasto de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reciclaje ahorra agua y recursos, no gasta más; es una práctica de sostenibilidad ambiental."
+        },
+        {
+          "letter": "D",
+          "text": "Cuidado del medio ambiente",
+          "is_correct": true,
+          "feedback": "Correcto. Separar la basura para reciclar reduce la contaminación y protege los recursos naturales del barrio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los acuerdos comunitarios de reciclaje son acciones concretas que protegen el medio ambiente. Cuando los vecinos se organizan para separar la basura, están reduciendo la contaminación y conservando los recursos naturales. Esta práctica demuestra que las normas y acuerdos pueden tener un impacto positivo en la comunidad y el planeta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v7",
+      "statement": "¿Qué principio de convivencia se aplica en este acuerdo escolar?",
+      "context": "En un colegio de Barranquilla, los estudiantes de diferentes regiones de Colombia acuerdan respetar las costumbres y formas de hablar de cada uno, sin burlas ni discriminación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La discriminación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La discriminación es tratar mal a alguien por ser diferente, lo contrario a lo que establece este acuerdo."
+        },
+        {
+          "letter": "B",
+          "text": "La exclusión",
+          "is_correct": false,
+          "feedback": "Incorrecto. La exclusión es dejar fuera a alguien por ser diferente, pero este acuerdo busca incluir y respetar a todos."
+        },
+        {
+          "letter": "C",
+          "text": "El respeto a la diversidad",
+          "is_correct": true,
+          "feedback": "Correcto. Respetar las costumbres y formas de hablar de cada uno es valorar la diversidad cultural del colegio."
+        },
+        {
+          "letter": "D",
+          "text": "La imposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imposición es obligar a todos a ser iguales, pero este acuerdo valora y respeta las diferencias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El respeto a la diversidad es un principio fundamental de la convivencia en una sociedad plural. Cuando los estudiantes acuerdan no burlarse de las costumbres o formas de hablar de sus compañeros, están construyendo un ambiente de inclusión y respeto. Este acuerdo reconoce que las diferencias culturales enriquecen la comunidad educativa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué principio democrático se aplica en la toma de decisiones del barrio?",
+      "context": "En un barrio de Bogotá, los vecinos acuerdan que las decisiones sobre el uso del salón comunal se tomarán por mayoría de votos en las reuniones comunitarias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dictadura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dictadura es el poder de una sola persona sin participación ciudadana, no la votación por mayoría."
+        },
+        {
+          "letter": "B",
+          "text": "La oligarquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oligarquía es el poder de un grupo pequeño, no la participación de todos los vecinos en la votación."
+        },
+        {
+          "letter": "C",
+          "text": "La anarquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La anarquía es la ausencia de normas y autoridad, no un sistema de votación y acuerdos comunitarios."
+        },
+        {
+          "letter": "D",
+          "text": "La mayoría de votos",
+          "is_correct": true,
+          "feedback": "Correcto. La mayoría de votos es el principio democrático donde la decisión la toma quien obtiene más apoyo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La mayoría de votos es un principio fundamental de la democracia para tomar decisiones colectivas. Cuando los vecinos deciden por mayoría el uso del salón comunal, están practicando la democracia participativa. Este mecanismo garantiza que las decisiones reflejen la voluntad de la comunidad y no de una sola persona.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
