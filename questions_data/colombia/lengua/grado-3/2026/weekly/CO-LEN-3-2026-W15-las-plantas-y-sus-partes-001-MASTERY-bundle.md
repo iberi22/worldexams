@@ -28,6 +28,7 @@ Leemos textos sobre plantas de Colombia y reconocemos raíz, tallo, hojas y flor
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En una huerta escolar de Duitama, los niños siembran fríjol en vasos con algodón.
 ### Enunciado
 La raíz está debajo de la tierra. El tallo sostiene la planta. Las hojas respiran. La flor da el fruto. ¿Qué parte está debajo de la tierra?
@@ -48,6 +49,7 @@ Recuerda las partes de la planta. El estudiante ubica la raíz como la parte sub
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un jardín de Medellín, una niña riega una rosa roja que sembró con su abuela.
 ### Enunciado
 La niña riega la rosa cada mañana. La rosa tiene pétalos rojos. Tiene espinas en el tallo. Huele muy rico. ¿De qué color son los pétalos?
@@ -68,6 +70,7 @@ Identifica detalles de color en la descripción. El niño asocia los pétalos ro
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Tolima, el papá dice que van a sembrar maíz antes de que lleguen las lluvias.
 ### Enunciado
 Sembrar significa poner semillas en la tierra para que nazcan plantas. El papá abre huecos. El niño pone dos granos en cada hueco. Tapan con tierra suave. ¿Qué significa sembrar?
@@ -88,6 +91,7 @@ Aplica vocabulario agrícola. El estudiante define sembrar como poner semillas e
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Quindío, un cafeto se pone triste y con hojas caídas porque nadie lo riega.
 ### Enunciado
 El cafeto no recibió agua en ocho días. Sus hojas se doblaron hacia abajo. El tallo se veía débil. El niño le puso agua y al día siguiente se levantó. ¿Por qué estaba triste el cafeto?
@@ -108,6 +112,7 @@ Infiere la causa del marchitamiento. El estudiante conecta la falta de agua con 
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En un vivero de Bucaramanga, una ficha describe el girasol para los visitantes.
 ### Enunciado
 Ficha: Nombre: girasol. Tallo: alto y grueso. Flor: grande y amarilla. Necesita: sol y agua. ¿Qué dice la ficha sobre el tallo?
@@ -128,6 +133,7 @@ Lee fichas informativas por partes. El estudiante distingue la descripción del 
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En Leticia, un niño pone una mata en la ventana donde entra el sol de la mañana.
 ### Enunciado
 La mata estaba pálida junto a la puerta oscura. El niño la pasó a la ventana con sol. La regó cada dos días. En una semana sacó hojas verdes nuevas. ¿Qué ayudó a la mata?
@@ -148,6 +154,7 @@ Analiza cuidados que reviven una planta. El estudiante concluye que sol y riego 
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
+**Expected_Success:** 0.68
 **Contexto:** En Pasto, dos niños discuten: uno arranca hojas por juego, otro dice que eso daña la planta.
 ### Enunciado
 Felipe arranca hojas de las matas por diversión. Camila dice que no lo haga porque las hojas ayudan a respirar. La profesora apoya a Camila. ¿Quién actúa mejor?
@@ -168,6 +175,7 @@ Juzga acciones frente a las plantas. El estudiante valora proteger las hojas com
 **ID:** CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Pragmatico
+**Expected_Success:** 0.68
 **Contexto:** En Santa Marta, el curso hace un cartel: Adopta una planta y cuídala todo el año.
 ### Enunciado
 El cartel invita a cada niño a adoptar una planta. Pide regarla y ponerla al sol. Muestra fotos de matas sanas. Está en la entrada del salón. ¿Qué busca el cartel?

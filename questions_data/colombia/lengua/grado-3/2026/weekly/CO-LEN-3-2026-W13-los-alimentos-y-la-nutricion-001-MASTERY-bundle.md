@@ -28,6 +28,7 @@ Leemos textos sobre frutas, verduras y comidas sanas de Colombia.
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En una plaza de mercado en Bogotá, la mamá compra banano, mango y papaya para el jugo.
 ### Enunciado
 La mamá compró banano para el desayuno. Compró mango para el jugo. Compró papaya para la tarde. Guardó todo en una canasta grande. ¿Qué fruta compró para el jugo?
@@ -48,6 +49,7 @@ Evalúa la memoria de datos explícitos. El estudiante ubica qué fruta correspo
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
+**Expected_Success:** 0.88
 **Contexto:** En un comedor escolar de Medellín, los niños almuerzan arroz, fríjoles y ensalada.
 ### Enunciado
 El almuerzo tiene arroz blanco. Tiene fríjoles rojos. Tiene ensalada de tomate y lechuga. Los niños comen todo con alegría. ¿Qué verdura tiene la ensalada?
@@ -68,6 +70,7 @@ Trabaja el reconocimiento de alimentos en un menú. El niño identifica las verd
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Semantico
+**Expected_Success:** 0.80
 **Contexto:** En Cali, el abuelo dice que la panela endulza el agua de panela que toman en la tarde.
 ### Enunciado
 La panela endulza la bebida. La palabra endulzar significa poner dulce algo que estaba simple. El niño prueba el agua y dice que está dulce. ¿Qué significa endulzar?
@@ -88,6 +91,7 @@ Evalúa el vocabulario de cocina colombiana. El estudiante aplica el significado
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.80
 **Contexto:** En Barranquilla, un niño solo quiere comer paquetes y gaseosa en el recreo.
 ### Enunciado
 Pedro come paquetes todos los días. No come frutas. No toma agua, solo gaseosa. En clase se siente cansado y con dolor de cabeza. ¿Por qué se siente cansado Pedro?
@@ -108,6 +112,7 @@ Infiere la relación entre comida y energía. El estudiante conecta la mala alim
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Textual
+**Expected_Success:** 0.74
 **Contexto:** En Bucaramanga, una receta de la abuela explica cómo hacer jugo de lulo paso a paso.
 ### Enunciado
 Receta: 1. Lava los lulos. 2. Pártelos por la mitad. 3. Licúalos con agua y azúcar. 4. Cuela el jugo y sírvelo frío. ¿Cuál es el tercer paso de la receta?
@@ -128,6 +133,7 @@ Analiza el orden de una receta. El estudiante sigue la secuencia numérica para 
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Competencia Lectora (Inferencial)
+**Expected_Success:** 0.74
 **Contexto:** En una tienda de Cartagena, un niño compra un banano con monedas de 500 pesos en lugar de un dulce.
 ### Enunciado
 El niño tenía 2000 pesos en monedas. El dulce costaba 2000 pesos. El banano costaba 500 pesos. El niño compró el banano y guardó el resto. ¿Qué decidió el niño?
@@ -148,6 +154,7 @@ Evalúa decisiones con dinero y comida. El estudiante analiza que elegir fruta p
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Evaluativo
+**Expected_Success:** 0.68
 **Contexto:** En Tunja, la profesora muestra dos loncheras: una con frutas y agua, otra con gaseosa y papas fritas.
 ### Enunciado
 La lonchera uno tiene manzana, banano y agua. La lonchera dos tiene gaseosa y papas de paquete. La profesora pregunta cuál es mejor para el recreo. ¿Qué lonchera es mejor y por qué?
@@ -168,6 +175,7 @@ Juzga loncheras con criterio nutricional. El estudiante evalúa por qué frutas 
 **ID:** CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Critico-Intertextual
+**Expected_Success:** 0.68
 **Contexto:** En Pasto, un cartel del mercado dice: Come colores todos los días: frutas y verduras amarillas, verdes y rojas.
 ### Enunciado
 El cartel pide comer frutas y verduras de muchos colores. Dice que cada color cuida una parte del cuerpo. Un niño solo come arroz blanco. ¿Qué le dirías al niño según el cartel?
