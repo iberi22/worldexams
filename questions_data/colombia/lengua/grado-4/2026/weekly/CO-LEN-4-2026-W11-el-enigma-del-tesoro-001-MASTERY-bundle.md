@@ -30,9 +30,9 @@ Bundle semanal para resolver enigmas y pistas escritas en textos breves del ento
 ### Enunciado
 Lee el aviso: "La biblioteca prestará cuentos los lunes y miércoles de 9 a 11 de la mañana". Según el aviso, ¿qué días se prestan los cuentos?
 ### Opciones
-- [ ] A) Los lunes y miércoles de 9 a 11 de la mañana.
+- [x] A) Los lunes y miércoles de 9 a 11 de la mañana.
   <!-- feedback: Es correcta porque repite de forma explícita los días y la hora que aparecen escritos en el aviso. -->
-- [x] B) Los martes y jueves en la tarde.
+- [ ] B) Los martes y jueves en la tarde.
   <!-- feedback: Es incorrecta porque esos dos días no aparecen escritos en el aviso; el aviso solo autoriza lunes y miércoles. -->
 - [ ] C) Los viernes durante el descanso.
   <!-- feedback: Es incorrecta porque el aviso no menciona el viernes ni el descanso, así que ese día no está autorizado. -->
@@ -70,9 +70,9 @@ Comprender el texto implica reconocer a quién va dirigido el mensaje. La frase 
 ### Enunciado
 La nota dice: "El primer tesoro está donde se guarda la ropa". Si tú fueras el detective, ¿qué lugar revisarías primero?
 ### Opciones
-- [x] A) En la silla donde se apilan las mochilas.
+- [ ] A) En la silla donde se apilan las mochilas.
   <!-- feedback: Es incorrecta porque la nota no habla de mochilas sino del lugar donde se guarda la ropa. -->
-- [ ] B) En el armario donde se guardan las chaquetas.
+- [x] B) En el armario donde se guardan las chaquetas.
   <!-- feedback: Es correcta porque "donde se guarda la ropa" apunta directamente al armario donde la familia cuelga las chaquetas y las camisas. -->
 - [ ] C) En la puerta del salón de clases.
   <!-- feedback: Es incorrecta porque la puerta no es un lugar donde se guarde ropa, así que la pista no lleva ahí. -->
@@ -110,9 +110,9 @@ La intención del texto se descubre por el efecto que busca en quien lee. Una or
 ### Enunciado
 ¿Cuál de estas es la mejor conclusión que se puede sacar de esa frase?
 ### Opciones
-- [x] A) El tesoro no está en el patio.
+- [ ] A) El tesoro no está en el patio.
   <!-- feedback: Es incorrecta porque puede estar escondido en un rincón del patio que el detective revisó mal o que todavía no vio. -->
-- [ ] B) El tesoro todavía no está en el patio.
+- [x] B) El tesoro todavía no está en el patio.
   <!-- feedback: Es correcta porque el detective ya buscó en todo el patio y no lo encontró, así que la pista debe apuntar a otro lugar. -->
 - [ ] C) El tesoro fue escondido por otro grupo.
   <!-- feedback: Es incorrecta porque el texto no menciona ningún otro grupo ni da esa información. -->
