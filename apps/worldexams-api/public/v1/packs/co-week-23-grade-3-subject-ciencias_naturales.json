@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-23-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v1",
+      "statement": "¿Qué fenómeno de la atmósfera ocurre cuando el aire se mueve con fuerza y levanta las hojas secas de un parque en Bogotá?",
+      "context": "En Bogotá, cuando el aire corre con fuerza y levanta las hojas y el polvo de un parque, los niños de tercero se preguntan qué fue lo que produjo esa fuerza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento",
+          "is_correct": true,
+          "feedback": "Correcto. El viento es el aire en movimiento, y cuando corre con fuerza levanta las hojas y el polvo."
+        },
+        {
+          "letter": "B",
+          "text": "La lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia es agua líquida que cae desde una nube, no el aire en movimiento que levanta las hojas."
+        },
+        {
+          "letter": "C",
+          "text": "La nieve",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nieve es agua sólida formada por cristales helados, un fenómeno del agua y no del aire en movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "La niebla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La niebla es una nube que se forma cerca del suelo, y no el aire desplazándose que levanta las hojas secas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El viento es el aire en movimiento. Cuando el aire corre con velocidad por un lugar, empuja las hojas, las ramas y el polvo, y por eso lo sentimos en la cara y en las manos. La lluvia, la nieve y la niebla son fenómenos del agua en distintos estados, no del aire en movimiento.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v2",
+      "statement": "Si la cortina de una ventana en Bucaramanga se mueve hacia adentro y hacia afuera alternando muy despacio, ¿qué nos dice eso sobre el aire de ese ambiente?",
+      "context": "En Bucaramanga los estudiantes de tercero miden con una cinta de papel y un hilo cómo corría el aire junto a la ventana, porque quieren entender por qué la cortina se movía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aire entra y sale muy lentamente por la ventana",
+          "is_correct": true,
+          "feedback": "Correcto. Ese vaivén lento y constante muestra un intercambio de aire entre adentro y afuera, es decir aire que entra y sale."
+        },
+        {
+          "letter": "B",
+          "text": "Que no hay aire dentro de la habitación",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la cortina se mueve es porque sí hay aire adentro, y la falta de aire impediría ese movimiento."
+        },
+        {
+          "letter": "C",
+          "text": "Que la ventana está sellada con cera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un sello de cera impide la entrada y la salida del aire, y entonces la cortina no se movería."
+        },
+        {
+          "letter": "D",
+          "text": "Que la ventana está hecha de hielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El material de la ventana no cambia que el aire entre y salga, por eso esa explicación no explica el vaivén."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando el aire de una habitación se mueve hacia la ventana y luego desde la ventana hacia adentro, se está formando una corriente de aire. Notarla permite seguir el recorrido del aire en el ambiente, y esa es la forma más sencilla de estudiar los movimientos del aire sin instrumentos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Indagación",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v3",
+      "statement": "Un grupo de tercero en Bogotá guarda un pedazo de papel dentro de una bolsa de nailon bien cerrada y luego mete la bolsa en una computadora portátil encendida. ¿Qué se esperaría que ocurriera con el papel después de unas horas?",
+      "context": "Una docente indica a sus estudiantes de tercero en Bogotá que guarden un pedazo de papel en una bolsa de nailon, la cierren con una banda elástica y luego la pongan dentro de una computadora portátil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El papel se moja porque el aire de la bolsa suelta agua en forma de gotas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire encerrado dentro de la bolsa no se convierte en gotas de agua, por eso el papel no se moja por esa causa."
+        },
+        {
+          "letter": "B",
+          "text": "El papel se enfría y por eso se humedece un poco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfriarse no significa que el papel se moje, y la humedad del aire encerrado se va, no se condensa sobre el papel."
+        },
+        {
+          "letter": "C",
+          "text": "El papel empieza a secarse porque absorbe la humedad del aire atrapado",
+          "is_correct": true,
+          "feedback": "Correcto. Un ventilador succiona aire por un lado y lo expulsa por el otro, así que se lleva la humedad del aire atrapado y el papel seca."
+        },
+        {
+          "letter": "D",
+          "text": "El papel cambia de color porque la pantalla le da luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz de la pantalla ilumina el papel, pero no es lo que hace que el papel pierda su humedad y se seque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ventilador de la computadora no produce frío: produce corriente de aire. El aire entra por un lado, pasa por los componentes que están calientes y sale por el otro, así que dentro de la bolsa se renueva el aire y se lleva la humedad del papel. Ese aire en movimiento es el mismo fenómeno del viento que se observa afuera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v4",
+      "statement": "Cuatro bolsas amarradas a un mismo palo en cuatro lugares de una finca en Medellín se inclinan en la misma dirección durante toda la mañana. ¿Cuál es la conclusión más razonable?",
+      "context": "En una finca cerca de Medellín el profesor propone comparar cuatro bolsas amarradas a un palo de madera en distintos puntos de la finca para descubrir hacia dónde corre el aire.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las cuatro bolsas están afirmadas con algo muy pesado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si las cuatro se inclinaran por un peso, cada una caería hacia abajo, no hacia el mismo lado."
+        },
+        {
+          "letter": "B",
+          "text": "Que en esa franja de la finca el aire está corriendo hacia el mismo lado",
+          "is_correct": true,
+          "feedback": "Correcto. Si las cuatro se inclinan igual, el aire empuja las bolsas en la misma dirección, y ahí corre una corriente de aire."
+        },
+        {
+          "letter": "C",
+          "text": "Que la tierra está girando y por eso las bolsas se mueven",
+          "is_correct": false,
+          "feedback": "Incorrecto. El giro de la tierra no inclina bolsas amarradas al mismo palo en un solo lugar de la finca."
+        },
+        {
+          "letter": "D",
+          "text": "Que las bolsas están hechas de un material muy ligero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cuatro bolsas están hechas del mismo material, así que el peso del material no explica la inclinación."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las bolsas funcionan como bandejas que indican la dirección del viento, porque quedan hacia donde el aire las empuja. Si cuatro bolsas en distintos puntos se inclinan igual, la explicación más sencilla y comprobable es que el aire corre en la misma dirección en toda esa franja.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v5",
+      "statement": "Las anotaciones de un equipo de Manizales muestran que el viento fuerte llega siempre entre las siete y las ocho de la mañana, durante varios días seguidos. ¿Qué nos permite decir esa información?",
+      "context": "En los cerros de Manizales un equipo de estudiantes de la escuela anota durante seis días a qué hora se levanta el viento en la mañana y en qué dirección, para comparar esa información con los cambios del tiempo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en ese lugar nunca hay viento y los datos están equivocados",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si los datos son correctos hay viento fuerte a esa hora, y negar la información no explica el patrón observado."
+        },
+        {
+          "letter": "B",
+          "text": "Que el viento fuerte de la mañana nace dentro del salón de clases",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un viento que se repite a la misma hora nace por causas del ambiente y del terreno, no dentro de un salón."
+        },
+        {
+          "letter": "C",
+          "text": "Que el viento fuerte solo ocurre los domingos por la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos dicen que el viento fuerte llega cada día por la mañana, no solo los domingos ni por la tarde."
+        },
+        {
+          "letter": "D",
+          "text": "Que en ese lugar el viento fuerte tiene un horario que se repite y se puede anticipar",
+          "is_correct": true,
+          "feedback": "Correcto. Un patrón que se repite seis días a la misma hora indica un horario del viento y por eso se puede anticipar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un dato se repite con regularidad, se puede buscar la causa y anticipar el resultado. Comparar la hora de llegada del viento durante varios días es una investigación sencilla que permite descubrir horarios, y reconocer patrones ayuda a explicar el ambiente natural de la región.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v6",
+      "statement": "Un grupo de Cartagena ata un hilo a una ramita y observa cómo se orienta con el aire, igual que una veleta. ¿Qué explica mejor este procedimiento y para qué sirve una veleta?",
+      "context": "En Cartagena un grupo de tercero anota durante varias semanas qué tan largo es el hilo que pegan a una ramita, porque quieren ver para qué sirve una veleta en casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El hilo muestra la temperatura del aire y la veleta sirve para medir el calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura se mide con un termómetro, no con un hilo que gira por efecto del aire."
+        },
+        {
+          "letter": "B",
+          "text": "El hilo indica hacia dónde corre el aire y la veleta sirve para conocer la dirección del viento",
+          "is_correct": true,
+          "feedback": "Correcto. La veleta gira y se orienta en la dirección en que corre el aire, por eso sirve para conocer la dirección del viento."
+        },
+        {
+          "letter": "C",
+          "text": "El hilo muestra la cantidad de lluvia y la veleta sirve para medir la profundidad del río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia se mide con un pluviómetro, y un hilo atado a una ramita no responde a la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "El hilo indica el peso del aire y la veleta sirve para medir cuánto pesa un globo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del aire no se mide con un hilo, y la veleta responde al aire en movimiento, no a su peso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una veleta es una placa o una tela que gira con el aire y se orienta en la dirección en que este corre. Si el hilo se orienta hacia el este, el viento va hacia el este. Este procedimiento permite conocer la dirección del viento y preparar la salida al campo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v7",
+      "statement": "Un estudiante de Cali cuenta que hace dos días el aire estaba muy quieto y que después de una fuerte tormenta empezó a correr con mucha fuerza por la tarde. ¿Cuál de las siguientes afirmaciones explica mejor ese cambio?",
+      "context": "En Cali una estudiante cuenta que hace dos días el aire estaba muy quieto y que, después de una fuerte tormenta, empezó a correr con mucha fuerza por la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La tormenta solo dejó agua en el piso y no tuvo nada que ver con el viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de una tormenta el aire se mueve con más fuerza, así que el cambio no se explica solo con agua en el piso."
+        },
+        {
+          "letter": "B",
+          "text": "La tormenta se llevó el aire de la ciudad y por eso no hay viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Después de la tormenta el aire corría con fuerza, y si el aire se hubiera llevado no habría viento posterior."
+        },
+        {
+          "letter": "C",
+          "text": "La tormenta movió el aire y dejó corrientes de viento más fuertes en la tarde",
+          "is_correct": true,
+          "feedback": "Correcto. Durante una tormenta el aire se calienta y se mezcla con el aire frío, y de eso quedan corrientes más fuertes en la tarde."
+        },
+        {
+          "letter": "D",
+          "text": "El viento de la tarde es un gas que se crea solo y no tiene relación con la tormenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento es aire en movimiento que ya existía antes y que la tormenta movió con más fuerza, no un gas que nace solo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Durante una tormenta el aire se calienta rápidamente y se expande, y al subir se mezcla con el aire frío y produce corrientes más fuertes. Por eso, después de la lluvia fuerte suele venir un viento más intenso. Explicar el viento como aire que ya existía y que se mueve permite entender el cambio observado.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle-v8",
+      "statement": "Un estudiante de Bucaramanga cuenta que al terminar rápido la tarea de ciencias corrió y agitó las manos frente a la cara y sintió una brisa en las mejillas. ¿Cuál es la evaluación correcta de esa explicación?",
+      "context": "En Bucaramanga un estudiante cuenta que al terminar rápido la tarea de ciencias corrió y agitó las manos frente a la cara y sintió una brisa en las mejillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La explicación es correcta porque el movimiento de las manos también puede mover el aire",
+          "is_correct": true,
+          "feedback": "Correcto. Al correr y agitar las manos se genera aire en movimiento, y eso es lo que produce la brisa en la cara."
+        },
+        {
+          "letter": "B",
+          "text": "La explicación es falsa porque para hacer viento hace falta un ventilador",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hace falta ningún ventilador, porque mover las manos ya desplaza el aire y produce viento."
+        },
+        {
+          "letter": "C",
+          "text": "La explicación es falsa porque el viento solo existe en las montañas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento existe en todos los lugares donde el aire se mueve, y uno mismo puede generarlo con las manos."
+        },
+        {
+          "letter": "D",
+          "text": "La explicación es falsa porque el viento solo aparece cuando hay árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La presencia de árboles no es necesaria para que el aire se mueva, y las manos también desplazan el aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para hacer viento basta con mover el aire. Correr, saltar o agitar las manos delante de la cara empuja el aire y produce esa sensación. Por eso no se necesita ningún aparato. Reconocer que uno mismo puede provocar el viento con su cuerpo ayuda a comprobar que el viento es aire en movimiento.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W23-los-fenomenos-del-aire-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

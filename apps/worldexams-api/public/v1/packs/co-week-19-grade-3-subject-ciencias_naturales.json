@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-19-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.886Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v1",
+      "statement": "En una tienda de Cali, una niña toca una cubeta de plástico, un matero de arcilla y una regla de metal. ¿Qué es un material?",
+      "context": "En una tienda de Cali, una niña toca una cubeta de plástico, un matero de arcilla y una regla de metal para compararlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sustancia con la que está hecho un objeto, como el plástico, la arcilla o el metal",
+          "is_correct": true,
+          "feedback": "Correcto. Un material es la sustancia que forma el objeto: el plástico, la arcilla o el metal, cada uno con sus propiedades."
+        },
+        {
+          "letter": "B",
+          "text": "El color y la forma que tiene un objeto antes de usarlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color y la forma son características de un objeto, pero el material es la sustancia con la que está hecho."
+        },
+        {
+          "letter": "C",
+          "text": "El precio que tiene un objeto en una tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no es una propiedad de la sustancia; el material se reconoce por cómo se siente, suena y reacciona."
+        },
+        {
+          "letter": "D",
+          "text": "El peso que tiene un objeto cuando está vacío",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso vacío es una medida, no la sustancia misma; el material es lo que da al objeto su dureza y su brillo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un material es la sustancia con la que está hecho un objeto. La arcilla se amasa con agua, el metal suena al golpearlo y el plástico es ligero y liso. Reconocer el material de un objeto ayuda a entender por qué se comporta de una manera u otra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v2",
+      "statement": "Un papel se arruga, se rasga y también puede convertirse en jugo dentro de una licuadora. ¿Qué diferencia hay entre un cambio físico y un cambio químico?",
+      "context": "En una casa de Medellín, una hoja de papel sobre la mesa se arruga, otro día se rasga y en otra occasion se bate con fruta en una licuadora.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En un cambio físico aparece una sustancia nueva, y en un cambio químico el objeto queda igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Está invertido: el cambio físico conserva la sustancia y el cambio químico produce una sustancia nueva."
+        },
+        {
+          "letter": "B",
+          "text": "En un cambio físico la forma se altera pero la sustancia sigue siendo la misma, y en un cambio químico se forma otra sustancia",
+          "is_correct": true,
+          "feedback": "Correcto. Arrugar o rasgar el papel cambia su forma, pero sigue siendo papel; al licuarlo con fruta se forman otras sustancias."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos tipos de cambio son iguales y solo se diferencian por el tiempo que tardan",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se diferencian por la duración: uno conserva la sustancia del material y el otro produce una sustancia nueva."
+        },
+        {
+          "letter": "D",
+          "text": "El cambio físico solo ocurre en objetos de metal y el cambio químico solo en objetos de madera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos tipos de cambio ocurren con materiales muy distintos; lo que los separa es si se crea una sustancia nueva."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un cambio físico altera la forma, el tamaño o el estado de un objeto, pero la sustancia sigue siendo la misma: el papel arrugado sigue siendo papel. Un cambio químico produce una sustancia nueva, como cuando la fruta se bate. Saber distinguirlos ayuda a explicar por qué un objeto puede volver a su forma original o no.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v3",
+      "statement": "Un estudiante de Pereira golpea con un martillo un bloque de madera, un clavo de hierro y un trozo de plástico. ¿Cuál es el registro correcto de ese experimento?",
+      "context": "En un laboratorio escolar de Pereira, un estudiante recibe un bloque de madera, un clavo de hierro y un trozo de plástico, y quiere anotar qué les pasa al golpearlos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anotar solo si los objetos suenan bonito, porque el sonido es la única prueba del cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sonido es solo uno de los datos; hay que anotar también la forma, la dureza y si cambió la sustancia del objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar el martillo en cada golpe, para probar cada objeto con una fuerza diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la fuerza cambia en cada objeto, los resultados no se pueden comparar porque cada objeto recibió algo distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Anotar para cada objeto la forma antes y después, la dureza y si se forman sustancias nuevas",
+          "is_correct": true,
+          "feedback": "Correcto. Un buen registro anota lo observado: forma, dureza y si el material se transformó en otra sustancia. Eso permite clasificar el cambio."
+        },
+        {
+          "letter": "D",
+          "text": "Anotar solo qué objeto se rompió, porque el daño muestra claramente el tipo de cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Romperse indica un cambio físico, pero no descarta un cambio químico, así que ese dato queda incompleto."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un experimento, el registro debe describir lo observado con precisión y en las mismas condiciones para todos los objetos. Anotar la forma antes y después, la dureza y la aparición de sustancias nuevas permite distinguir un cambio físico de uno químico en lugar de adivinarlo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v4",
+      "statement": "Un grupo de estudiantes de Bogotá necesita un soporte firme para sostener un objeto pesado sobre una mesa. ¿Qué material es el más adecuado y por qué?",
+      "context": "En el taller de un colegio de Bogotá, los estudiantes deben construir un soporte firme para sostener un objeto pesado sobre una mesa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Papel, porque se dobla y permite sostener cualquier forma del objeto que se quiere apoyar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El papel se dobla y no soporta peso; no tiene la dureza necesaria para un objeto pesado como el que pide el ejercicio."
+        },
+        {
+          "letter": "B",
+          "text": "Algodón, porque es suave y por eso el objeto pesado descansa mejor sobre él",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suavidad no da firmeza: el algodón se aplasta con el peso y no impide que el objeto se caiga de la mesa."
+        },
+        {
+          "letter": "C",
+          "text": "Plástico flexible, porque se estira y adopta cualquier forma del objeto pesado que se coloca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un plástico flexible pierde rigidez al cargar peso; la forma que se adapta no impide que el objeto se deslice o caiga."
+        },
+        {
+          "letter": "D",
+          "text": "Madera, porque es rígida y resistente, así que puede sostener el peso sin deformarse",
+          "is_correct": true,
+          "feedback": "Correcto. La madera es un material rígido y resistente: por eso sostiene un objeto pesado sin deformarse ni dejar que se caiga."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Elegir un material para un uso concreto exige conocer sus propiedades. La madera es rígida y resistente, por eso sirve como soporte; en cambio, el papel, el algodón y los plásticos flexibles se deforman o se aplastan con el peso. Un material es adecuado cuando sus propiedades coinciden con lo que se necesita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v5",
+      "statement": "En un parque de Medellín hay un banco de madera, unas vigas de acero y un bebedero de plástico que llevan años al sol y a la lluvia. ¿Qué análisis explica mejor por qué cada material se deteriora de manera distinta?",
+      "context": "En un parque de Medellín hay un banco de madera, unas vigas de acero y un bebedero de plástico que llevan años al sol y a la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada material tiene propiedades distintas y reacciona de forma diferente al agua, al sol y al calor",
+          "is_correct": true,
+          "feedback": "Correcto. La madera se moja, el acero se oxida y el plástico se agrieta con el sol porque cada material tiene propiedades y reacciones distintas."
+        },
+        {
+          "letter": "B",
+          "text": "Los tres materiales se deterioran igual, porque todos vienen de la tierra y por eso aguantan lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que todos vengan de la tierra no los hace iguales: el acero se oxida y la madera se hincha, y eso son deterioros distintos."
+        },
+        {
+          "letter": "C",
+          "text": "El plástico es el único material que se deteriora con el tiempo, porque los demás son naturales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los materiales naturales también cambian: la madera se pudre, el metal se oxida y el plástico se agrieta con el sol."
+        },
+        {
+          "letter": "D",
+          "text": "El banco de madera es el único que se deteriora, porque el agua solo le afecta a él",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua y el sol afectan a los tres materiales del parque, solo que cada uno se deteriora de una forma diferente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los materiales se comportan según sus propiedades: la madera absorbe agua y se hincha, el acero reacciona con el oxígeno y se oxida, y el plástico se endurece y se agrieta con el sol. Analizar esas diferencias ayuda a elegir materiales adecuados para cada lugar y clima.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v6",
+      "statement": "Cuando el azúcar se calienta en un sartén hasta quedar oscuro y duro, ese cambio es físico o químico, y por qué?",
+      "context": "En un laboratorio escolar de Armenia, una niña calienta azúcar en un sartén hasta que se vuelve oscura y dura como caramelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es físico, porque el azúcar solo cambió de color y de estado, pero sigue siendo azúcar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio de color y de estado puede ser físico, pero el azúcar quemado ya no es azúcar: se formaron otras sustancias."
+        },
+        {
+          "letter": "B",
+          "text": "Es físico, porque el azúcar recupera su forma original cuando el sartén se enfría",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azúcar quemado no recupera su forma al enfriar, y además se formaron sustancias nuevas al quemarse."
+        },
+        {
+          "letter": "C",
+          "text": "Es químico, porque al quemarse se formaron sustancias nuevas que antes no había en el azúcar",
+          "is_correct": true,
+          "feedback": "Correcto. Al quemarse el azúcar se descompone en sustancias nuevas, como el carbón y los gases, que ya no son azúcar."
+        },
+        {
+          "letter": "D",
+          "text": "Es químico, porque al enfriarse el azúcar cambia de sólido a líquido y por eso crea otra sustancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Fundirse o solidificarse es un cambio físico de estado; un cambio químico no se produce por el enfriamiento."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un cambio químico ocurre cuando se forman sustancias nuevas. Al quemar el azúcar se producen carbón y gases que antes no existían en ella, y por eso el resultado no se puede volver a transformar en azúcar. Un cambio de estado, como fundirse o solidificarse, en cambio conserva la misma sustancia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de estudiantes de Barranquilla debe construir un bloque que resista el peso de una moneda sin romperse. ¿Cuál propuesta está mejor sustentada y por qué?",
+      "context": "En un proyecto escolar de Barranquilla, cuatro estudiantes proponen distintos materiales para construir un bloque que soporte una moneda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar papel, porque el papel se puede doblar las veces que sea hasta quedar muy fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doblar el papel lo divide y no le da resistencia; el papel no puede sostener el peso de una moneda sin deformarse."
+        },
+        {
+          "letter": "B",
+          "text": "Usar madera, porque es un material rígido y resistente que soporta el peso sin deformarse",
+          "is_correct": true,
+          "feedback": "Correcto. La rigidez y la resistencia de la madera son las propiedades que permiten sostener la moneda sin romperse ni deformarse."
+        },
+        {
+          "letter": "C",
+          "text": "Usar algodón, porque ningún material pesa menos que el algodón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pesar poco no es lo mismo que ser resistente: el algodón se aplasta por completo y por eso no puede sostener la moneda."
+        },
+        {
+          "letter": "D",
+          "text": "Usar plástico flexible, porque los materiales flexibles nunca se rompen con el peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un material flexible se deforma o se parte al aplicarle peso; ningún material resiste cualquier fuerza sin romperse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una propuesta técnica significa revisar si el material elegido cumple las propiedades que exige el uso. Si el bloque debe resistir un peso sin romperse, se necesita un material rígido y resistente como la madera. Ser ligero no garantiza resistencia, y ser flexible tampoco protege de la deformación.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de Tunja calienta una barra de hierro y, en otro experimento, una de plástico, y los dos objetos cambian de forma. ¿Qué conclusión está mejor sustentada?",
+      "context": "En el aula de Tunja, un grupo de estudiantes calienta una barra de hierro y, por separado, una barra de plástico en la misma hornilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los dos materiales tuvieron un cambio físico porque cambió la forma de los dos objetos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar de forma solo describe un cambio en la forma; el dato no permite saber si hubo o no cambio químico también."
+        },
+        {
+          "letter": "B",
+          "text": "Ninguno de los dos materiales cambió, porque los dos objetos siguen teniendo el mismo nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un objeto conserve su nombre no significa que su material siga igual; los dos se deformaron y eso ya es un cambio."
+        },
+        {
+          "letter": "C",
+          "text": "El hierro no cambió y el plástico se transformó, porque solo el plástico se derrite",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hierro también responde al calor y se deforma; no es el único material que cambia cuando sube la temperatura."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos cambiaron de forma, pero hace falta analizar la sustancia para saber si hubo cambio químico",
+          "is_correct": true,
+          "feedback": "Correcto. El dato de la forma solo describe un cambio en la forma; para saber si se creó una sustancia nueva hay que analizar qué quedó."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una indagación hay que distinguir lo que muestran los datos de lo que todavía falta probar. Saber que un objeto cambió de forma es un dato válido, pero clasificar el cambio exige revisar si se formaron sustancias nuevas. Sin ese análisis, la conclusión correcta es solo parcial.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle",
+      "periodo": 19,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

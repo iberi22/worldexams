@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-26-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v1",
+      "statement": "De tres fuentes de energía que se usan en Colombia, ¿cuáles son las que producen energía?",
+      "context": "En una finca cerca de Salento los estudiantes de tercero ven un molino de agua, un panel en el techo y una cocina que funciona con gas, y comparan de dónde sale la energía de cada uno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El viento, la madera y el agua quieta de un charco",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua quieta de un charco no genera energía, y la madera solo sirve si se quema como combustible."
+        },
+        {
+          "letter": "B",
+          "text": "La tierra, las piedras y la sombra de los árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra y las piedras no son fuentes de energía, y la sombra no produce energía aprovechable."
+        },
+        {
+          "letter": "C",
+          "text": "La luz del sol, el agua en movimiento y el combustible",
+          "is_correct": true,
+          "feedback": "Correcto. El Sol, el agua que mueve las turbinas y el combustible que quema un motor son fuentes de energía."
+        },
+        {
+          "letter": "D",
+          "text": "El plástico, las mangueras y el vidrio de las ventanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguno de esos materiales libera energía al usarlos, y por eso ninguno es una fuente de energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una fuente de energía es algo que libera energía aprovechable. El Sol ilumina los paneles, El agua en movimiento mueve las turbinas de las plantas generadoras y el combustible enciende los motores. En cambio, materiales como la piedra o el plástico no producen energía cuando se usan.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v2",
+      "statement": "La energía eléctrica que hace funcionar la nevera de una casa en Cali, ¿de dónde viene y cómo llega hasta el aparato?",
+      "context": "En una casa de Cali hay una nevera que funciona con electricidad, y la docente explica a sus estudiantes de tercero de dónde llega esa energía que mueve el motor del compresor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del poste, porque el poste consume la luz y por eso da menos energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un poste no consume luz para producirla, porque la corriente fluye desde la planta que genera la electricidad."
+        },
+        {
+          "letter": "B",
+          "text": "De la nevera, porque cada bombillo genera corriente por su cuenta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La nevera ni los bombillos generan corriente, porque la corriente llega hasta ellos desde la planta."
+        },
+        {
+          "letter": "C",
+          "text": "De las casas conectadas, y si no hay casas no hay energía eléctrica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía se produce en las plantas generadoras, y tener más o menos casas conectadas no cambia su origen."
+        },
+        {
+          "letter": "D",
+          "text": "De la planta generadora, que la transmite por los cables hasta los aparatos",
+          "is_correct": true,
+          "feedback": "Correcto. Al mover un imán dentro de una bobina aparece corriente en la planta, y los cables llevan esa energía a las casas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La energía eléctrica se produce en una planta generadora, moviendo un imán dentro de una bobina para crear corriente. Después esa corriente viaja por los cables hasta las casas, y en la nevera mueve el motor del compresor. Por eso un apagón deja sin energía todos los aparatos de una casa.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v3",
+      "statement": "En una finca de Boyacá, el molino de viento está moliendo maíz mientras sus aspas giran. ¿Qué transformación de energía se está observando en ese molino?",
+      "context": "En Boyacá unos niños de tercero visitan un molino de viento en una finca de Guateque y ven girar las aspas mientras muelen maíz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía del viento mueve las aspas y esas aspas hacen girar el molino",
+          "is_correct": true,
+          "feedback": "Correcto. Las aspas capturan la energía del viento y la transmiten al eje del molino, que gira y muele el maíz."
+        },
+        {
+          "letter": "B",
+          "text": "La energía del viento se guarda en el saco del grano y luego se suelta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía del viento no se guarda en el grano, porque el molino solo la usa para mover sus aspas."
+        },
+        {
+          "letter": "C",
+          "text": "La energía del viento derrite el maíz y por eso el molino lo vuelve amarillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un molino no derrite ni cocina el maíz, porque su función es moler el grano y nada más."
+        },
+        {
+          "letter": "D",
+          "text": "La energía del viento sopla las aspas desde abajo y las apaga",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento sopla las aspas y las hace girar, y no las apaga, por eso el molino funciona con viento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El molino de viento es una máquina que cambia una forma de energía por otra: la energía del viento se convierte en movimiento de las aspas y ese movimiento mueve el eje que muele el grano. Llamar energía a una sola forma sería ignorar esta transformación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v4",
+      "statement": "Una familia toca dos bombillos que llevan un rato encendidos y nota que el bombillo led está más frío que el antiguo. ¿Qué explicación es la correcta?",
+      "context": "En un apartamento de Barranquilla una familia toca un bombillo led nuevo y uno antiguo después de estar encendidos un rato, y nota que el nuevo está más frío.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el bombillo led tiene más filamento que el bombillo antiguo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bombillo led no tiene filamento de tungsteno, porque usa un semiconductor que produce luz con menos calor."
+        },
+        {
+          "letter": "B",
+          "text": "Porque en el bombillo led casi toda la energía se vuelve luz y en el antiguo casi toda se pierde en calor",
+          "is_correct": true,
+          "feedback": "Correcto. Un bombillo led calienta poco porque casi toda su energía sale como luz, y el bombillo antiguo calienta mucho más."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el bombillo led es más pesado y por eso consume menos energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso de un bombillo no explica su gasto, y un bombillo led suele ser más ligero y no más pesado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el bombillo led se apaga con el calor y por eso gasta menos energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bombillo led calienta poco justamente porque casi toda su energía se vuelve luz y no calor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía eléctrica que recibe un bombillo se reparte entre luz y calor. El bombillo antiguo pierde la mayor parte en calor, y por eso se siente caliente al tocarlo. El bombillo led convierte casi toda la energía en luz, así que se calienta poco. Esa diferencia es la razón por la que se ahorra energía con bombillos led.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v5",
+      "statement": "Un instalador coloca un panel solar en el techo de una casa de Pamplona que pasa todo el día bajo la sombra de otro edificio, y la familia no enciende las luces. ¿Qué esperaría un niño de tercero?",
+      "context": "En una casa de Pamplona un señor instala un panel solar en el techo, pero esa casa queda bajo la sombra de un edificio alto todo el día y la familia no enciende las luces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el panel va a funcionar igual, porque la luz del Sol llega por debajo del techo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la luz no llega al panel, no hay energía solar que convertir, aunque el techo tenga ventanas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el panel va a generar más energía, porque el vidrio de las ventanas la amplifica",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vidrio de una ventana no amplifica la luz, y más luz sería la única forma de tener más energía."
+        },
+        {
+          "letter": "C",
+          "text": "Que el panel va a funcionar bien, porque los paneles producen luz por sí mismos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los paneles no producen luz, porque convierten la luz del Sol en electricidad y no al revés."
+        },
+        {
+          "letter": "D",
+          "text": "Que el panel no va a funcionar bien, porque sin luz del Sol no hay energía eléctrica",
+          "is_correct": true,
+          "feedback": "Correcto. Los paneles solares convierten luz en electricidad, y sin luz del Sol casi no producen corriente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los paneles solares dependen por completo de la luz que reciben. Si un edificio alto tapa el sol durante todo el día, el panel recibe muy poca luz y produce muy poca electricidad. Por eso la orientación y la sombra del techo son datos importantes antes de instalar un panel solar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v6",
+      "statement": "Un estudiante de tercero pregunta cómo hacen las plantas de tomate del invernadero a fabricar su alimento sin que nadie les dé comida. ¿Qué explicación es la correcta?",
+      "context": "En un invernadero de Cundinamarca unas plantas de tomate están bajo el sol y un estudiante de tercero pregunta por qué las hojas producen alimento sin que nadie las riegue con comida.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía de la luz se transforma en la energía química del alimento",
+          "is_correct": true,
+          "feedback": "Correcto. La fotosíntesis convierte la energía de la luz en energía química que queda guardada en el alimento de la planta."
+        },
+        {
+          "letter": "B",
+          "text": "La energía del alimento se transforma en energía de la luz del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La transformación va en sentido contrario, porque es la luz la que se convierte en alimento y no al revés."
+        },
+        {
+          "letter": "C",
+          "text": "La energía química del alimento se transforma en energía luminosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso ocurre cuando la planta libera energía al crecer, pero en la fotosíntesis la luz es el origen y el alimento es el resultado."
+        },
+        {
+          "letter": "D",
+          "text": "La energía de la luz se destruce y por eso la planta no necesita el Sol para vivir",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz no se destruye, porque se transforma en energía química que queda guardada en el alimento de la planta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En la fotosíntesis, la planta toma el dióxido de carbono del aire y el agua del suelo, y con la energía de la luz del Sol fabrica su propio alimento y libera oxígeno. La energía no desaparece: cambia de forma y queda guardada en la comida que la planta produce.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de tercero escribe que un molino, una bicicleta, una estufa y una bombilla hacen exactamente lo mismo. ¿Cuál es la evaluación correcta de esa afirmación?",
+      "context": "En un proyecto de Bogotá un grupo de tercero compara el molino de una finca, una bicicleta, una estufa de gas y una bombilla, y escribe que las cuatro hacen lo mismo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque los cuatro producen calor y movimiento al mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una bicicleta produce movimiento y una bombilla produce luz y algo de calor, no movimiento al mismo tiempo."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta porque los dos primeros producen movimiento y la bombilla produce luz",
+          "is_correct": true,
+          "feedback": "Correcto. El molino y la bicicleta transforman energía en movimiento, y la bombilla la transforma en luz."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque las cuatro formas de energía producen el mismo efecto en todos los casos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada forma de energía produce un efecto distinto, y por eso el molino muele y la bombilla ilumina."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta porque el movimiento y la luz son la misma forma de energía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento y la luz son efectos diferentes de la energía, y no son la misma forma de energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía no se crea ni se destruye, pero cambia de forma según el aparato que la use. Un molino y una bicicleta la convierten en movimiento; una bombilla la convierte en luz; una estufa la convierte en calor. Por eso los aparatos no hacen lo mismo aunque todos usen energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de tercero de La Guajira arma un horno con papel aluminio y una tapa de vidrio para cocinar sopa con la luz del Sol. ¿Cuál es la evaluación correcta de esa propuesta?",
+      "context": "En una comunidad de La Guajira unos niños de tercero arman un horno con una caja metálica, papel aluminio y una tapa de vidrio para cocinar sopa usando la luz del Sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Funciona porque la bombilla ilumina la olla y así la sopa se calienta más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una bombilla ilumina muy poco y no tiene suficiente calor para cocinar una sopa completa."
+        },
+        {
+          "letter": "B",
+          "text": "Funciona porque el movimiento de la energía calienta el recipiente por sí solo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El movimiento de la energía no calienta por sí solo, porque lo que calienta es la luz que llega del Sol."
+        },
+        {
+          "letter": "C",
+          "text": "Funciona porque la energía luminosa del Sol se convierte en calor y ese calor cocina la sopa",
+          "is_correct": true,
+          "feedback": "Correcto. Un horno solar usa luz del Sol convertida en calor, y ese calor es el que cocina la sopa sin usar gas."
+        },
+        {
+          "letter": "D",
+          "text": "Funciona porque la energía del Sol se convierte en comida dentro de la olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía del Sol se convierte en calor en el horno, y no en comida dentro de la olla."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un horno solar aprovecha la energía luminosa del Sol y la convierte en calor dentro de la caja. Ese calor es el que cocina la sopa, y por eso el aluminio y el vidrio ayudan a retenerlo. Es un ejemplo claro de transformación de la energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W26-la-energia-y-sus-fuentes-001-MASTERY-bundle",
+      "periodo": 26,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
