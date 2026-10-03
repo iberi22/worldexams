@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-18-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.885Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el nombre científico de las condiciones del aire de un lugar en un momento determinado, como la lluvia, la temperatura y el viento?",
+      "context": "En Bogotá, un niño mira por la ventana y ve que está lloviendo; en la misma mañana, en la costa de Barranquilla, el cielo está despejado y hace calor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tiempo atmosférico",
+          "is_correct": true,
+          "feedback": "Correcto. Tiempo atmosférico es el estado del aire de un lugar en un momento concreto: temperatura, lluvia, viento y nubosidad."
+        },
+        {
+          "letter": "B",
+          "text": "El clima del planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima son los patrones promedios de un lugar durante muchos años, no las condiciones de un solo día."
+        },
+        {
+          "letter": "C",
+          "text": "El pronóstico del tiempo para la semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pronóstico anticipa cómo estará el aire, es decir cómo será el tiempo; no lo define en sí mismo."
+        },
+        {
+          "letter": "D",
+          "text": "La temperatura máxima del día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura máxima es solo un dato del tiempo; el tiempo atmosférico reúne temperatura, lluvia, viento y nubosidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El tiempo atmosférico describe cómo está el aire en un lugar y momento: si llueve, si hace calor, si hay viento. Cambia de una hora a otra, por eso en Bogotá puede llover en la mañana y despejarse al mediodía. El clima, en cambio, son los patrones promedios de muchos años de un lugar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v2",
+      "statement": "Si dos lugares de Colombia están a la misma altura, ¿por qué en el valle del Cauca puede haber una temperatura más baja que en la costa?",
+      "context": "En una finca del valle del Cauca, un cultivador nota que el termómetro marca menos grados que en la costa, aunque los dos lugares están casi a la misma latitud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua del mar absorbe el calor y lo devuelve siempre a la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El mar sí guarda calor, pero eso ocurre donde no hay mar; la diferencia de temperatura entre dos sitios la explica otra cosa."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el tiempo atmosférico cambia varias veces en un mismo día",
+          "is_correct": true,
+          "feedback": "Correcto. El tiempo cambia rápido: puede hacer calor al mediodía y frío en la noche, así que la temperatura de un mismo día varía."
+        },
+        {
+          "letter": "C",
+          "text": "Porque al subir sobre el nivel del mar el aire se enfría y el viento se hace más fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire sí pierde temperatura al subir en altura, pero la razón no es la fuerza del viento: esa explicación inventa una causa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las ciudades absorben el calor de los carros y los edificios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor de los carros y los edificios explica algo de la ciudad, no la diferencia entre una finca y la costa."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el aire sube a un lugar más alto sobre el nivel del mar se enfría, por eso las zonas altas de Colombia, como los páramos, siempre son más frías que las costas. Además, el tiempo atmosférico puede cambiar varias veces en un mismo día, así que la temperatura que marca un termómetro cambia según la hora en que se mida.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v3",
+      "statement": "Si un grupo de estudiantes de Medellín quiere registrar cómo cambia la temperatura de un salón durante el día, ¿qué procedimiento es el correcto?",
+      "context": "En Medellín, un grupo de estudiantes quiere saber si la temperatura de un salón cambia durante el día y cuenta con un termómetro de laboratorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mirar por la ventana y anotar si el cielo está nublado o despejado, porque el color del cielo indica la temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del cielo no es una medida de temperatura; solo describe la nubosidad, que no da el valor térmico."
+        },
+        {
+          "letter": "B",
+          "text": "Medir con el termómetro a la misma hora del día durante varios días y anotar cada dato en una tabla",
+          "is_correct": true,
+          "feedback": "Correcto. Medir siempre a la misma hora y repetir varios días da datos comparables, y la tabla es el registro correcto de una indagación."
+        },
+        {
+          "letter": "C",
+          "text": "Preguntar a los compañeros cuántos grados creen que hace calor, sin usar ningún instrumento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La opinión de los compañeros es una impresión subjetiva; para indagar hace falta un dato medido con un termómetro."
+        },
+        {
+          "letter": "D",
+          "text": "Adivinar la temperatura al mediodía y comprobar solo una vez, porque una medición basta para saber el clima del salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una medición aislada no sirve: el tiempo cambia a lo largo del día y se necesitan varias medidas para ver el cambio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Para indagar sobre el tiempo atmosférico se necesitan datos medidos y registrados. Un termómetro da el dato de temperatura, y medir siempre a la misma hora durante varios días permite comparar y sacar conclusiones válidas. Sin un instrumento que mida, solo quedan suposiciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v4",
+      "statement": "Una niña mira una gráfica de barras donde los días de mayo tienen barras más altas que los días de enero. ¿Qué conclusión sobre el agua que recibe el colegio es correcta?",
+      "context": "En un colegio de Bucaramanga, la profesora guarda durante un mes los registros de lluvia de cada día y luego los organiza en una gráfica de barras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En enero llovió más agua, porque las barras de enero están más largas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las barras de enero son más cortas: barra alta significa más lluvia, así que en mayo llovió más agua."
+        },
+        {
+          "letter": "B",
+          "text": "En mayo llovió menos, porque el mes con más barras tiene menos agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión invierte el dato: la barra alta acumula más días de lluvia, es decir más agua recibida."
+        },
+        {
+          "letter": "C",
+          "text": "Mayo y enero recibieron la misma cantidad de agua, porque los dos meses aparecen en la gráfica",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los dos meses estén en la gráfica no los hace iguales; el alto de las barras muestra que mayo recibió más lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "En mayo el colegio recibió más días de lluvia que en enero",
+          "is_correct": true,
+          "feedback": "Correcto. Una barra alta representa un día con más lluvia, así que en esta gráfica mayo tiene más días de lluvia que enero."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una gráfica de barras, cada barra corresponde a un dato y su altura indica cuánto vale. Si los días de mayo tienen barras más altas, en mayo hubo más precipitación, es decir más días y más volumen de lluvia. Leer la altura de las barras es lo que permite comparar dos meses.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v5",
+      "statement": "Un grupo de estudiantes compara la cantidad de lluvia de la semana actual con la de hace un mes y encuentra datos muy distintos. ¿Qué es lo más importante para poder sacar una conclusión válida?",
+      "context": "Un grupo de estudiantes de Envigado registra cada mañana, durante ocho días, cuántos milímetros de lluvia caen y compara esa semana con otra de hace un mes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Comparar los datos obtenidos con el mismo método y en el mismo número de días, para que la comparación sea justa",
+          "is_correct": true,
+          "feedback": "Correcto. Una comparación es válida cuando ambos conjuntos de datos se tomaron igual, con el mismo instrumento y la misma cantidad de días medidos."
+        },
+        {
+          "letter": "B",
+          "text": "Escoger solo la semana con más lluvia y borrar los datos de la semana con menos lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Borrar los datos que no apoyan la conclusión esconde evidencia y hace que el análisis pierda confiabilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar la escala de la gráfica para que las dos semanas se vean iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Alterar la escala esconde la diferencia real de los datos y por eso no permite una conclusión válida."
+        },
+        {
+          "letter": "D",
+          "text": "Comparar la lluvia de Bogotá con la de una ciudad del mar, aunque midieron semanas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar lugares distintos y períodos distintos mezcla dos problemas y no permite concluir sobre esa semana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para sacar una conclusión válida en una indagación, los datos que se comparan deben medir lo mismo, con el mismo método y la misma cantidad de casos. Cambiar la escala, ocultar los días con menos lluvia o mezclar lugares distintos son errores que distorsionan el análisis científico.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v6",
+      "statement": "En Colombia, que está cerca del ecuador, hay dos temporadas de lluvia marcadas en vez de cuatro estaciones de igual duración. ¿Qué explica este patrón?",
+      "context": "En Medellín, los agricultores observan que el año tiene dos temporadas de lluvias muy marcadas y no cuatro estaciones iguales como en otros países.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el eje de la Tierra pasa inclinado sobre el ecuador y por eso el calor llega de forma constante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa descripción del eje inclinado explica las estaciones de otros países, no el patrón cercano al ecuador que tiene Colombia."
+        },
+        {
+          "letter": "B",
+          "text": "Que en el ecuador nunca se producen cambios en el tiempo atmosférico durante todo el año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay cambios durante el año: el patrón de dos lluvias corresponde justamente a esas variaciones a lo largo del año."
+        },
+        {
+          "letter": "C",
+          "text": "Que las dos temporadas de lluvia se repiten cada año mientras el resto del año es más corto y menos marcado",
+          "is_correct": true,
+          "feedback": "Correcto. Cerca del ecuador no hay cuatro estaciones marcadas; el ciclo del año se concentra en dos épocas de lluvia definidas."
+        },
+        {
+          "letter": "D",
+          "text": "Que las dos temporadas de lluvia se producen solamente en las ciudades grandes del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El patrón del ecuador se observa también en pueblos y en el campo; no es exclusivo de las ciudades."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Colombia está muy cerca del ecuador, así que recibe casi la misma cantidad de luz durante todo el año. Por eso no hay cuatro estaciones bien marcadas como en otros países, sino dos temporadas de lluvias separadas por épocas más secas. Reconocer ese patrón ayuda a los agricultores a programar sus siembras.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v7",
+      "statement": "Un niño de grado tercero lee esta frase en un libro de ciencias: \"El tiempo atmosférico de Bogotá es igual durante los trescientos sesenta y cinco días del año, por eso nunca cambia\". ¿Cómo debe evaluar esa frase?",
+      "context": "En una clase de ciencias en Cali, cuatro estudiantes discuten si la frase de un cartilla es científicamente correcta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque en Bogotá el tiempo atmosférico siempre es el mismo por estar cerca del ecuador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estar cerca del ecuador evita cuatro estaciones marcadas, pero el tiempo de un día a otro sí cambia: lluvia y calor alternan."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque el tiempo atmosférico cambia de un día a otro y también entre la mañana y la tarde",
+          "is_correct": true,
+          "feedback": "Correcto. El tiempo atmosférico es el estado del aire en un momento concreto y varía rápido: puede llover en la mañana y despejarse al mediodía."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque el clima de una ciudad no se mide con instrumentos sino con calendarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima se obtiene de muchos años de mediciones hechas con instrumentos, no de calendarios ni de opiniones."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque el tiempo atmosférico solo existe en las ciudades grandes del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo atmosférico existe en cualquier lugar, en el campo o en la ciudad; lo que cambia es cómo lo medimos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una afirmación científica significa confrontarla con lo que sabemos. El tiempo atmosférico cambia continuamente, y por eso una frase que dice que nunca cambia es incorrecta. La cercanía al ecuador cambia el patrón anual, pero no elimina los cambios diarios de lluvia, viento y temperatura.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle-v8",
+      "statement": "Dos grupos de estudiantes miden la temperatura del agua de un charco en Cocorná y ella era 18 °C en la mañana y 24 °C en la tarde. ¿Cuál conclusión de esta indagación está mejor sustentada?",
+      "context": "En Cocorná, dos grupos de estudiantes miden la temperatura del agua de un charco a las ocho de la mañana y a las cuatro de la tarde, un solo día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua de los charcos de Cocorná siempre está por debajo de 20 °C",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con dos mediciones de un solo día no se puede afirmar que el agua siempre esté por debajo de 20 grados centígrados."
+        },
+        {
+          "letter": "B",
+          "text": "La temperatura del agua de Cocorná siempre sube por la tarde, todos los días del año",
+          "is_correct": false,
+          "feedback": "Incorrecto. Siempre es una palabra fuerte: un solo día no demuestra un patrón que se repita los trescientos sesenta y cinco días."
+        },
+        {
+          "letter": "C",
+          "text": "El agua del charco es igual de caliente a las cuatro de la tarde que a las ocho de la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. 18 °C y 24 °C son distintos, así que el agua estaba seis grados más caliente por la tarde en ese día."
+        },
+        {
+          "letter": "D",
+          "text": "El agua del charco estuvo más caliente por la tarde que por la mañana, ese día",
+          "is_correct": true,
+          "feedback": "Correcto. 24 °C menos 18 °C son 6 °C: las dos mediciones de ese día muestran que el agua se calentó entre la mañana y la tarde."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Concluir en una indagación exige sostener solo lo que los datos muestran y no inventar patrones. 24 °C menos 18 °C son 6 °C, así que lo único que se puede afirmar es que ese día el agua estuvo más caliente por la tarde. Para decir siempre o todos los días harían falta mediciones de muchos días distintos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W18-el-tiempo-y-las-estaciones-001-MASTERY-bundle",
+      "periodo": 18,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

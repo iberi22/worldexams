@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-21-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.886Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v1",
+      "statement": "En una tarde en Popayán, una niña ve la sombra de un poste sobre el suelo de la plaza. ¿Qué es una sombra?",
+      "context": "En una tarde en Popayán, una niña ve la sombra de un poste largo sobre el suelo de la plaza mientras el sol está bajo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La zona oscura que se forma cuando un objeto tapa la luz que llega",
+          "is_correct": true,
+          "feedback": "Correcto. Una sombra es la zona que queda oscura cuando un objeto opaco se interpone y tapa la luz que ilumina el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "La parte más oscura de un objeto cuando se le pasa la mano por encima",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra no es una parte del objeto: es la zona oscura del suelo o de la pared donde la luz no llega."
+        },
+        {
+          "letter": "C",
+          "text": "El dibujo oscuro que deja un objeto al tocar el suelo con mucha fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra no necesita contacto ni fuerza: se forma solo con que el objeto tape la luz que llega al suelo."
+        },
+        {
+          "letter": "D",
+          "text": "La luz que sale de una lámpara cuando la noche está muy oscura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso es luz, no sombra: la sombra es precisamente la ausencia de luz en una zona por un objeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La sombra es la zona oscura que aparece cuando un objeto tapa la luz. Por eso toda sombra necesita dos cosas: una fuente de luz y un objeto opaco que se interponga. En una tarde con el sol bajo, las sombras de los postes son más largas que a mediodía.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v2",
+      "statement": "En un patio escolar de Bogotá, una niña ve que su sombra es muy corta al mediodía y muy larga una hora antes de la puesta del sol. ¿Por qué cambia el tamaño de la sombra?",
+      "context": "En un patio escolar de Bogotá, una niña observa que su propia sombra es muy corta al mediodía y muy larga una hora antes de la puesta del sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la sombra se hace más grande cuando el niño corre más rápido por el patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud de la sombra depende de la altura del sol, no de la velocidad a la que se mueva la persona."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el niño crece en las horas de la tarde y su estatura cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un niño no crece en unas horas: entre el mediodía y la tarde la diferencia se debe a la posición del sol."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la sombra se alarga cuando el sol está más bajo y los rayos llegan más horizontales al suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Con el sol alto los rayos caen casi verticales y la sombra es corta; con el sol bajo los rayos son más horizontales y la sombra se alarga."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la sombra se alarga cuando hay más smog en el aire de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire con niebla o humo puede oscurecer, pero la longitud de la sombra la fija la altura del sol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La longitud de una sombra depende de la altura del sol sobre el horizonte. Al mediodía, cuando el sol está alto, los rayos llegan casi verticales al suelo y la sombra queda corta. Cerca de la puesta del sol el sol está bajo, los rayos son más horizontales y la sombra se alarga. Por eso en las mañanas y en las tardes las sombras son más largas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v3",
+      "statement": "Un grupo de estudiantes de Quibdó quiere medir cuánto mide la sombra de una vara a distintas horas del día. ¿Qué procedimiento es el correcto?",
+      "context": "En Quibdó, un grupo de estudiantes quiere medir cuánto mide la sombra de una vara a distintas horas del día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mirar la sombra a las seis de la mañana, medirla y anotarla, porque con un solo dato ya se sabe cómo cambia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo dato no muestra cómo cambia la sombra a lo largo del día; se necesitan medidas a varias horas."
+        },
+        {
+          "letter": "B",
+          "text": "Cambiar la vara por un palo más largo cada vez, para que las sombras se vean distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se cambia el objeto, las sombras cambian por el objeto y no por la hora; la comparación ya no es válida."
+        },
+        {
+          "letter": "C",
+          "text": "Medir la sombra de la misma vara a varias horas, siempre con la vara vertical, y anotar cada medida",
+          "is_correct": true,
+          "feedback": "Correcto. Medir la misma vara, siempre vertical y a varias horas, permite comparar y ver cómo la luz cambia la longitud de la sombra."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar la noche y medir la sombra que aparece con la luz de la luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna ilumina muy poco y no sirve como fuente de luz estable para medir sombras y comparar horarios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para estudiar la sombra hay que mantener todo igual y cambiar solo una cosa: la hora. Medir la misma vara, siempre vertical, a varias horas del día y registrar cada medida en una tabla permite ver cómo la longitud de la sombra depende de la posición del sol.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v4",
+      "statement": "En una sala de Neiva por la tarde entra el sol por la ventana y la mesa queda con la mitad iluminada y la mitad en sombra. ¿Dónde debe sentarse la niña para leer mejor?",
+      "context": "En una sala de Neiva, una niña quiere leer un libro junto a una ventana en una tarde de sol fuerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la parte de la mesa que está en sombra, porque allí no llega la luz directa del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la sombra llega menos luz, porque el sol no la pasa al objeto; por eso allí se lee con más dificultad que en la zona iluminada."
+        },
+        {
+          "letter": "B",
+          "text": "Junto a la ventana, porque allí llega la luz más intensa y le puede dañar los ojos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sentarse junto a la ventana sí da mucha luz, pero el enunciado pide leer mejor, no recibir más luz en la cara."
+        },
+        {
+          "letter": "C",
+          "text": "En cualquier parte de la mesa, porque todas las zonas reciben la misma luz por igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz no llega igual a toda la mesa: una zona está iluminada y otra en sombra, y eso cambia la visibilidad."
+        },
+        {
+          "letter": "D",
+          "text": "En la mitad iluminada de la mesa, porque necesita luz directa para distinguir las letras del libro",
+          "is_correct": true,
+          "feedback": "Correcto. La mitad iluminada recibe luz directa y por eso permite distinguir mejor las letras que la zona en sombra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La sombra es la zona donde no llega la luz directa, y por eso allí se ve menos y se lee con más dificultad. La parte iluminada de la mesa recibe luz directa del sol, y ese contraste hace que las letras del libro se distingan mejor. Por eso la niña debe sentarse en la mitad iluminada.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v5",
+      "statement": "Un grupo de estudiantes de Pereira mide la sombra de una vara a las ocho, a las diez, al mediodía y a las dos de la tarde. ¿Qué análisis de esos datos es el correcto?",
+      "context": "En un experimento escolar en Pereira, un grupo mide la sombra de una vara a las ocho, a las diez, al mediodía y a las dos de la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sombra más corta es la del mediodía, porque el sol está más alto y los rayos caen más verticales",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el sol está más alto, los rayos llegan casi verticales al suelo y la vara proyecta la sombra más corta."
+        },
+        {
+          "letter": "B",
+          "text": "La sombra más corta es la de las ocho de la mañana, porque a esa hora el aire está más frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura del aire no determina la sombra: a las ocho el sol está bajo y por eso la sombra es más larga."
+        },
+        {
+          "letter": "C",
+          "text": "Todas las sombras miden igual, porque la vara siempre es la misma longitud",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que la vara sea la misma no importa: lo que cambia es el ángulo de la luz y con ella la longitud de la sombra."
+        },
+        {
+          "letter": "D",
+          "text": "Las sombras se pueden medir en cualquier hora sin fuente de luz, porque la luna siempre ilumina el patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin una fuente de luz que tape y proyecte la imagen, no hay sombra; la luz de la luna es demasiado débil."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un buen análisis de los datos de una indagación ordena las medidas y las relaciona con la causa. En este caso, la sombra más corta coincide con la hora en que el sol está más alto. Reconocer esa relación ayuda a explicar el movimiento de las sombras durante el día.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v6",
+      "statement": "En una noche de Bucaramanga, la Luna se ve iluminada solo por una mitad y luego va mostrando toda su superficie. ¿Qué explica mejor ese fenómeno?",
+      "context": "En una noche de Bucaramanga, unos estudiantes ven que la Luna se ve iluminada solo por una mitad y luego completa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la Luna se calienta y se enfría por partes, como cualquier objeto que recibe el sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Luna no cambia su temperatura así; lo que se ve iluminado depende de cómo llega la luz del Sol a esa parte."
+        },
+        {
+          "letter": "B",
+          "text": "Que la Luna entra en la sombra de la Tierra cada noche y por eso cambia de estado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra de la Tierra sobre la Luna produce un eclipse y es un evento raro, no el ciclo diario de fases."
+        },
+        {
+          "letter": "C",
+          "text": "Que la Luna gira alrededor de la Tierra y por eso el Sol ilumina distintas partes de su superficie",
+          "is_correct": true,
+          "feedback": "Correcto. Mientras la Luna da la vuelta, el Sol ilumina por turnos distintas partes, y así se ven las fases de creciente a llena."
+        },
+        {
+          "letter": "D",
+          "text": "Que la Luna recibe menos luz cuando hay más estrellas visibles en el cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas visibles no cambian la luz que recibe la Luna; esa luz viene del Sol y depende de la posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las fases de la Luna se explican por el movimiento de la Luna alrededor de la Tierra. El Sol siempre ilumina la mitad de la Luna, pero desde la Tierra vemos una parte distinta de esa mitad iluminada en cada noche. Por eso la Luna se ve creciente, llena o casi invisible durante el mes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v7",
+      "statement": "Un padre de Medellín afirma que las sombras solo se ven por la noche porque el sol las borra. ¿Cómo debe evaluar esa afirmación un estudiante de grado tercero?",
+      "context": "En una casa de Medellín, un padre afirma que las sombras solo se ven por la noche porque el sol las borra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque durante el día el sol ilumina todo y por eso las sombras desaparecen",
+          "is_correct": false,
+          "feedback": "Incorrecto. De día las sombras se ven muy bien: son las zonas oscuras que se forman justo porque el sol no pasa a través de los objetos."
+        },
+        {
+          "letter": "B",
+          "text": "Es incorrecta, porque las sombras se forman con cualquier fuente de luz, y de día las produce el sol",
+          "is_correct": true,
+          "feedback": "Correcto. Una sombra aparece siempre que un objeto tapa la luz: de día la produce el sol y de noche la lámpara o la luna."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque en las casas de Medellín el sol nunca entra por las ventanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol sí entra por las ventanas y por las puertas; en un patio o en una calle las sombras se ven claramente."
+        },
+        {
+          "letter": "D",
+          "text": "Es incorrecta, porque las sombras son un reflejo del agua y por eso solo aparecen de noche",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sombra no es un reflejo del agua: es la zona sin luz que queda cuando un objeto tapa los rayos que llegan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una afirmación científica es confrontarla con la observación. Las sombras se ven de día y de noche siempre que haya una fuente de luz que un objeto tape. De día la fuente es el sol y de noche puede ser una lámpara. Por eso la afirmación del padre es incorrecta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de Cúcuta tapa una lámpara con un cartón blanco y con un cartón azul, y en los dos casos la pared queda oscura. ¿Qué conclusión de esta indagación está mejor sustentada?",
+      "context": "En el aula de Cúcuta, un grupo tapa una lámpara con dos cartones de distinto color y observa la sombra que aparece en la pared.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sombra del cartón azul es más oscura que la del cartón blanco, porque el azul absorbe más luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Se pregunta por la existencia de la sombra, y en los dos casos la pared quedó oscura; el color no cambia ese dato."
+        },
+        {
+          "letter": "B",
+          "text": "El cartón blanco deja pasar la luz y por eso en la pared no hay sombra en ningún caso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pared quedó oscura con los dos cartones, así que los dos taparon la luz y en los dos casos hubo sombra."
+        },
+        {
+          "letter": "C",
+          "text": "Solo el cartón blanco produce sombra, porque los objetos claros no dejan pasar la luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos cartones taparon la luz, así que los dos produjeron sombra; la sombra depende del tapón, no del color."
+        },
+        {
+          "letter": "D",
+          "text": "Los dos cartones producen sombra porque los dos tapan la luz, aunque el color no cambie la existencia de la sombra",
+          "is_correct": true,
+          "feedback": "Correcto. En los dos casos la pared quedó oscura, así que los dos cartones bloquean la luz; el color no es lo que crea la sombra."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una indagación hay que sostener solo lo que muestran los datos. Si la pared se oscureció con los dos cartones, la conclusión correcta es que ambos bloquean la luz y por eso ambos producen sombra. El color del cartón no explica la formación de la sombra, así que no puede ser la base de una conclusión válida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W21-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 21,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
