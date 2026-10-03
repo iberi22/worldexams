@@ -114,9 +114,9 @@ Fragmento uno: "Hace tres años que no volvía a esta casa". Fragmento dos: "Hoy
   <!-- feedback: Es incorrecta porque la primera frase ya está en pasado y la segunda cuenta el presente, no un hecho posterior. -->
 - [ ] B) Las dos frases dicen exactamente lo mismo.
   <!-- feedback: Es incorrecta porque la primera habla del tiempo sin volver y la segunda del regreso actual, así que no son equivalentes. -->
-- [x] C) La segunda frase contradice la primera.
+- [ ] C) La segunda frase contradice la primera.
   <!-- feedback: Es incorrecta porque volver hoy confirma lo que la primera decía, es decir, no hay contradicción entre las dos. -->
-- [ ] D) La primera frase explica el motivo de la segunda.
+- [x] D) La primera frase explica el motivo de la segunda.
   <!-- feedback: Es correcta porque la primera cuenta el tiempo sin volver y la segunda cuenta el regreso, y ese regreso explica la ausencia larga. -->
 ### Explicacion Pedagogica
 Las frases de un texto están unidas por relaciones de tiempo y de causa. Reconocer que una frase explica o da contexto de otra ayuda a construir el sentido completo de un mensaje escrito.
