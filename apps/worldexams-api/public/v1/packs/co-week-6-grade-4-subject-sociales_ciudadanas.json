@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.189Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué trabajo realiza la señora Rosa todas las mañanas en la panadería?",
+      "context": "La señora Rosa vive en el barrio La Estación de Pasto y todas las mañanas se levanta temprano para llevar el pan a la panadería de la esquina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vender pan, porque su labor es atender a los clientes y entregar el producto",
+          "is_correct": true,
+          "feedback": "Correcto. La señora Rosa trabaja en una panadería, y su labor diaria es vender pan: atender a los clientes que llegan y entregarles lo que se prepara en ese lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Construir la panadería, porque ese oficio se hace una sola vez y no todos los días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir un local es un trabajo de obra civil que se hace una sola vez. La señora Rosa no construye nada, ella vende pan todos los días."
+        },
+        {
+          "letter": "C",
+          "text": "Cosechar el trigo, porque ese es el trabajo que ocurre dentro de una panadería",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cosechar trigo es un trabajo de campo que ocurre en las fincas mucho tiempo antes. Dentro de una panadería nadie cosecha: se amasa y se hornea."
+        },
+        {
+          "letter": "D",
+          "text": "Repartir el pan por toda la ciudad, porque repartir es lo mismo que vender en el mostrador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repartir es llevar el pan a otros lugares, pero la señora Rosa se queda en la panadería atendiendo a quien compra. Por eso su trabajo es vender, no repartir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo es toda actividad que una persona realiza para producir bienes o servicios. La señora Rosa produce un servicio: atender a los clientes y vender pan. Cuando cada persona se ocupa de una tarea distinta, la división del trabajo hace que la panadería funcione mejor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es importante que don Élder y doña Marta tengan trabajos distintos en la producción del café?",
+      "context": "En una finca cafetera cerca de Manizales, don Élder siembra y recoge el café mientras doña Marta lo lleva en el cafetal hasta la cooperativa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así todos hacen lo mismo y el trabajo se pierde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada persona hace una labor distinta, no la misma: don Élder siembra y recoge, doña Marta transporta. Dividir el trabajo no quiere decir repetirlo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la división del trabajo permite que cada uno se especialice y el café llegue a la cooperativa",
+          "is_correct": true,
+          "feedback": "Correcto. La división del trabajo significa que cada persona se encarga de una etapa distinta. Así don Élder se especializa en la cosecha y doña Marta en el transporte, y entre los dos logran que el café llegue a la cooperativa."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el café se produce en fincas y no necesita más personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El café necesita muchas manos: quien lo planta, quien lo recoge, quien lo lleva y quien lo procesa. Decir que no se necesitan más personas borra toda la cadena del cultivo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así la finca gana más aunque nadie trabaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin trabajo nadie produce el café, y entonces la finca no tiene nada que vender. La ganancia viene justamente de que varias personas trabajen, no de que nadie trabaje."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La división del trabajo es la manera en que se reparten las tareas necesarias para producir algo. Cada persona se especializa en una tarea y así el conjunto avanza más rápido. En la finca de Manizales, la siembra, la cosecha y el transporte son tareas distintas que se necesitan unas a otras.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v3",
+      "statement": "Si muchas familias del barrio compran menos verduras porque les quedaron pocos pesos, ¿qué ocurre en el mercado de doña Julia?",
+      "context": "En un mercado de Bogotá, doña Julia vende verduras y dos cuadras más allá la señora Diana vende frutas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no cambia nada, porque doña Julia sigue teniendo las mismas verduras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Doña Julia sí tiene menos ventas, porque menos familias compran. Lo que no cambia es la cantidad de verduras que ella ofrece."
+        },
+        {
+          "letter": "B",
+          "text": "Aumenta la oferta de verduras, por eso doña Julia tendrá más ventas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que cambió fue la cantidad que las familias compran, no la cantidad de verduras que hay en el mercado. Eso es un cambio en la demanda, no en la oferta."
+        },
+        {
+          "letter": "C",
+          "text": "La oferta de verduras aumenta porque llega el doble de vendedores",
+          "is_correct": false,
+          "feedback": "Incorrecto. No llegaron vendedores nuevos: doña Julia sigue teniendo las mismas verduras. Lo que bajó fue el número de compradores, y a eso se le llama demanda."
+        },
+        {
+          "letter": "D",
+          "text": "Disminuye la demanda de verduras, por eso doña Julia tendrá menos ventas",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando menos familias compran, la demanda de verduras baja. Por eso doña Julia vende menos y su ganancia también es menor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La demanda es la cantidad de un bien que los compradores están dispuestos a comprar. Si las familias tienen menos plata, compran menos verduras y la demanda baja. La oferta sigue igual porque doña Julia no tiene más verduras, así que sus ventas bajan.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v4",
+      "statement": "¿Qué bien económico puede producir esa familia con esos recursos naturales?",
+      "context": "Una familia de Cartagena vive cerca de la bahía y mira todos los días el mar y los manglares.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un lote de vivienda para construir en la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un lote de vivienda no sale del mar ni de los manglares, sino del suelo urbano de Cartagena. Esa familia no puede pescar un terreno."
+        },
+        {
+          "letter": "B",
+          "text": "Pescado y cangrejos para vender en el mercado",
+          "is_correct": true,
+          "feedback": "Correcto. El pescado y el cangrejo se obtienen del mar y de los manglares, que son recursos naturales. Al pesarlos y venderlos, la familia produce un bien económico con esos recursos."
+        },
+        {
+          "letter": "C",
+          "text": "Un computador portátil para trabajar en casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un computador es un bien económico que viene de una fábrica y de materiales importados. El mar y los manglares no producen computadoras."
+        },
+        {
+          "letter": "D",
+          "text": "Una beca para estudiar en Cartagena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una beca es un servicio que da una institución para ayudar a estudiar, no un bien que se produzca con el mar o los manglares. Aunque se pague en pesos, no sale de esos recursos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los recursos naturales son bienes de la naturaleza que las personas usan para producir. El mar y los manglares son recursos naturales de la costa colombiana. Con ellos una familia puede obtener pescado y cangrejo, que son bienes económicos porque se venden en el mercado.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v5",
+      "statement": "¿De qué se trata la acción de guardar esa parte del sueldo cada mes?",
+      "context": "En Armenia, un señor guarda cada mes una parte de lo que gana en una alcancía para comprar una bicicleta nueva.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De pagar un impuesto, porque todo lo que se gana se entrega al municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un impuesto es un pago obligatorio que cobra el Estado, no un ahorro voluntario. Este señor guarda el dinero para sí mismo, no para pagarle a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "De prestar el dinero, porque guardar plata es ponerla en una caja de crédito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El señor no le entrega el dinero a nadie: lo guarda para comprar su propia bicicleta. Prestar significa que otra persona use tu plata, y eso aquí no ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "De ahorrar, porque reserva una parte de lo que gana para un gasto futuro",
+          "is_correct": true,
+          "feedback": "Correcto. Ahorrar es guardar una parte de lo que se gana para usarla después. El señor reserva plata cada mes y con ella va a comprar la bicicleta que quiere."
+        },
+        {
+          "letter": "D",
+          "text": "De producir más, porque guardar el dinero aumenta la producción de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guardar dinero no produce bienes ni servicios: es solo una decisión sobre el dinero. Producir significa amasar pan, sembrar o fabricar, no reservar plata."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ahorrar es reservar una parte de los ingresos para gastarla más adelante, en vez de consumirla toda ahora. Ahorrar permite comprar cosas grandes, como una bicicleta, o cubrir imprevistos. El dinero guardado no desaparece: cambia de uso, del gasto inmediato al gasto futuro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v6",
+      "statement": "Si esos cuatro comercios producen bienes y servicios, ¿qué parte de la economía del barrio está descrita?",
+      "context": "En un barrio de Medellín hay un almacén pequeño, una librería, una peluquería y un taller de bicicletas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo la producción primaria, porque los comercios trabajan con la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La producción primaria usa de forma directa la naturaleza, como la agricultura o la pesca. Un almacén, una peluquería o una librería no trabajan con la tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Solo producción terciaria, porque ningún local toca materiales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El taller de bicicletas sí transforma materiales, así que también hay producción secundaria. Decir que solo hay servicios deja por fuera ese taller."
+        },
+        {
+          "letter": "C",
+          "text": "Producción secundaria únicamente, porque la peluquería no produce nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La peluquería sí produce: produce un servicio, no un objeto material. Por eso el barrio también tiene producción terciaria."
+        },
+        {
+          "letter": "D",
+          "text": "Producción secundaria y terciaria, porque unos transforman materiales y otros ofrecen servicios",
+          "is_correct": true,
+          "feedback": "Correcto. La producción secundaria transforma materiales, como cuando el taller de bicicletas repara y arma bicicletas. La terciaria ofrece servicios a las personas, como la peluquería o la librería. El barrio tiene de las dos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La producción primaria obtiene recursos directamente de la naturaleza, la secundaria transforma esos recursos en productos y la terciaria ofrece servicios a la comunidad. Los comercios de un barrio son casi siempre de las dos últimas: el taller repara bicicletas y la peluquería atiende a la gente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v7",
+      "statement": "Si una de esas familias gana mucho menos que la otra, ¿qué dice eso sobre la vida de sus miembros?",
+      "context": "En Cúcuta hay una familia donde el papá es mecánico y la mamá vende empanadas, y otra donde los dos padres trabajan en una fábrica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tienen menos opciones para comer, estudiar y vivir bien, lo cual es una desigualdad",
+          "is_correct": true,
+          "feedback": "Correcto. Con menos ingresos la familia tiene menos opciones para la comida, el estudio y la salud. Esa diferencia en las condiciones de vida se llama desigualdad."
+        },
+        {
+          "letter": "B",
+          "text": "Que sus miembros trabajan igual, porque en la economía el esfuerzo no importa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El esfuerzo sí importa, pero el nivel de ingresos depende del trabajo que se tenga y de lo que se gane en él. Por eso dos familias pueden trabajar distinto y ganar distinto."
+        },
+        {
+          "letter": "C",
+          "text": "Que la diferencia es culpa de la familia que gana menos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La desigualdad no es culpa de una familia: aparece por la forma en que está organizada la economía, con empleos que pagan de manera distinta. Decir que es culpa cargamos al más débil."
+        },
+        {
+          "letter": "D",
+          "text": "Que no hay diferencia, porque todas las familias de Colombia ganan lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los salarios y las ganancias son muy distintos según el oficio y la región. Si todo fuera igual, no habría familias con condiciones de vida diferentes."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La desigualdad es la diferencia en las condiciones de vida de las personas según los recursos y las oportunidades que tengan. En una ciudad como Cúcuta hay familias con ingresos altos, medios y bajos. Esa diferencia no depende del esfuerzo de una persona, sino del trabajo disponible y de lo que se paga en cada oficio.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle-v8",
+      "statement": "¿Qué debería hacer el gobierno si quiere que esa niña estudie en vez de trabajar en la calle?",
+      "context": "En Villavicencio, una señora es vendedora ambulante y su hija de nueve años la acompaña para llevar los canastos de frutas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ponerle una multa a la señora, porque vender en la calle es un delito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender en la calle no es un delito: es la forma en que muchas familias sacan adelante su casa. Una multa no quita la necesidad de trabajar y solo castiga a la madre."
+        },
+        {
+          "letter": "B",
+          "text": "Decirle a la señora que deje de vender, sin darle ninguna ayuda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decirle que deje de vender sin ofrecer nada la deja sin ingreso. La respuesta justa combina un apoyo económico con la garantía de que la niña estudie."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrecer un programa que pague la alimentación y el transporte escolar, para que la niña estudie sin dejar de ayudar",
+          "is_correct": true,
+          "feedback": "Correcto. Un programa de alimentación escolar y de transporte quita la barrera económica que obliga a la niña a trabajar. Así la mamá sigue adelante con su negocio y la hija asiste al colegio."
+        },
+        {
+          "letter": "D",
+          "text": "Cerrar las calles donde se vende, para que las personas no trabajen ahí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cerrar las calles le quita el trabajo a toda la gente que vive de vender. Eso no resuelve la necesidad: solo la empuja a otro lugar y deja a la niña sin colegio igual."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los niños tienen derecho a la educación, y el Estado debe garantizarla sin que la familia quede sin ingresos. En casos como el de Villavicencio la respuesta es crear programas de alimentación y transporte escolar. Así la necesidad económica de la madre se resuelve al tiempo que la niña cumple su derecho a estudiar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W06-el-trabajo-y-la-economia-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

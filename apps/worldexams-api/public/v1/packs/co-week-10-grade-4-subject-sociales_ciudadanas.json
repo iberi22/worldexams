@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.191Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un derecho?",
+      "context": "En Pereira una niña de diez años va al colegio todos los días y su familia vive en una casa propia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Algo que todas las personas pueden pedir y que el Estado y los demás deben respetar",
+          "is_correct": true,
+          "feedback": "Correcto. Un derecho es algo que todas las personas pueden pedir, como estudiar, tener salud o vivir con seguridad. El Estado y los demás deben respetarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Algo que solo el gobierno puede hacer y los demás miran",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un derecho no es una tarea reservada al gobierno. Por ejemplo, el derecho a la salud se respeta cuando todos, incluyendo el gobierno, se preocupan por ella."
+        },
+        {
+          "letter": "C",
+          "text": "Algo que se pierde al cumplir un año de edad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos no se pierden al cumplir años. Existen desde el nacimiento y siguen vigentes durante toda la vida de la persona."
+        },
+        {
+          "letter": "D",
+          "text": "Algo que depende del dinero que tenga cada familia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos son iguales para todas las personas y no se compran. El derecho a la educación no desaparece porque una familia tenga pocos recursos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos son las garantías que tiene toda persona para vivir dignamente. Son iguales para todos y no dependen del dinero ni del cargo que se tenga. La Constitución colombiana protege derechos como la educación, la salud, la igualdad y la seguridad.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación hay entre un derecho y un deber?",
+      "context": "En un parque de Manizales un niño recoge las basuras que dejó en el juego y se las lleva a la caneca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son la misma cosa escrita de dos maneras",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son lo mismo: el derecho es lo que la persona puede pedir, y el deber es lo que la persona debe hacer. Limpiar el parque es un deber, no un derecho."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho es lo que todos pueden pedir y el deber es lo que todos deben hacer para convivir",
+          "is_correct": true,
+          "feedback": "Correcto. El derecho es lo que una persona puede pedir, y el deber es la acción que debe hacer para que todos convivan bien. Recoger los papeles mantiene el parque limpio para todos."
+        },
+        {
+          "letter": "C",
+          "text": "El deber es más importante que el derecho y siempre lo reemplaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El deber no reemplaza al derecho. Cumplir un deber propio no quita el derecho de los demás, ni al revés. Lo que sí hace es mejorar la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Los deberes solo existen para los niños y no para los adultos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los deberes valen para todas las edades. Los adultos también deben cuidar el parque, pagar servicios y respetar a los demás."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los derechos y los deberes van juntos: una persona tiene derecho a pedir y también deber de cuidar. En un parque, todos tienen derecho a usarlo limpio y el deber de no tirar basura. Cuando cada quien cumple su parte, la convivencia mejora.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v3",
+      "statement": "Si un estudiante llega tarde todos los días, ¿qué está contando con esa conducta?",
+      "context": "En un colegio de Bogotá hay un reglamento que dice que todos deben llegar a tiempo y respetar a los demás.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Está usando su derecho a la libertad de llegar cuando quiera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El reglamento existe para organizar la vida de todos. Llegar tarde todos los días rompe una regla del reglamento, y un reglamento también obliga."
+        },
+        {
+          "letter": "B",
+          "text": "Es un ejemplo de respeto por los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llegar tarde hace esperar a los demás y les quita tiempo. Eso no es respeto: es falta de consideración con la comunidad del colegio."
+        },
+        {
+          "letter": "C",
+          "text": "Está incumpliendo un deber, porque el reglamento pide llegar a tiempo para respetar a todos",
+          "is_correct": true,
+          "feedback": "Correcto. Llegar a tiempo es un deber que el reglamento pide para que todos puedan empezar la clase a la hora. Incumplirlo afecta a los demás del salón."
+        },
+        {
+          "letter": "D",
+          "text": "Está cumpliendo su derecho a estudiar sin interrupciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie tiene derecho a llegar tarde. El que tiene derecho es el resto del grupo a empezar la clase sin interrupciones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El reglamento del colegio reúne los deberes de los estudiantes. Llegar a tiempo y respetar a los demás son normas que hacen posible la convivencia. Cumplir un deber propio también respeta los derechos de los otros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v4",
+      "statement": "¿De qué tiene derecho esa niña y qué debe hacer el Estado para ayudarla?",
+      "context": "Una niña de Neiva vive lejos de la escuela más cercana y su familia no tiene dinero para el transporte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene derecho a estudiar, porque su familia no puede pagar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación es un derecho de todos los niños, sin importar si la familia tiene recursos. El Estado debe garantizarlo."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene derecho a estudiar, pero su familia debe pagar el transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el Estado garantice la educación no significa que la familia tenga que pagar un transporte. El Estado también debe ayudar con eso."
+        },
+        {
+          "letter": "C",
+          "text": "Tiene derecho a estudiar y su familia puede decidir que no es necesario",
+          "is_correct": false,
+          "feedback": "Incorrecto. La familia no puede decidir que el derecho a estudiar no se necesita. Ese derecho protege a la niña y no depende de la opinión de los adultos."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene derecho a estudiar y el Estado debe darle un modo de transporte o una ayuda económica",
+          "is_correct": true,
+          "feedback": "Correcto. La educación es un derecho del niño, y el Estado debe eliminar las barreras que lo impiden. Un transporte escolar o una ayuda económica son formas de garantizarlo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los derechos se garantizan con acciones concretas, no solo con textos. Cuando la distancia o el costo impiden estudiar, el Estado debe crear programas que retiro esas barreras. Así un derecho escrito se vuelve un derecho real.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué están pagando esas familias con el dinero de esos sueldos?",
+      "context": "En una familia de Pasto todas las personas adultas trabajan y ganan un sueldo, y con ese sueldo pagan servicios como el agua y la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los servicios públicos, y con ese pago también cumplen un deber con la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. El agua y la luz son servicios públicos que se pagan entre todos. Esa aportación es un deber: ayuda a que toda la comunidad tenga agua limpia y luz."
+        },
+        {
+          "letter": "B",
+          "text": "Un regalo para el presidente del país",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sueldo no se usa para regalos al presidente. Se paga en servicios públicos, salud, educación y en lo que cada familia necesita para vivir."
+        },
+        {
+          "letter": "C",
+          "text": "El mantenimiento de los servicios de otros países",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dinero del sueldo se queda en el país y en la comunidad donde vive la familia. No paga servicios de otros países."
+        },
+        {
+          "letter": "D",
+          "text": "Nada, porque el sueldo se lo queda la persona sin pagar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sueldo no se gasta solo: en Colombia casi todo lo que se gana se paga en impuestos y servicios. Dejar de pagar rompe la vida de la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los servicios públicos se pagan con los impuestos y con las tarifas que cobra cada servicio. Esa es la forma en que una familia cumple un deber con la comunidad. Si nadie paga, se acaba el agua o la luz, y eso afecta a todos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v6",
+      "statement": "Si la ley garantiza el derecho a la educación en todo el país, ¿por qué en un barrio la escuela tiene biblioteca y en el otro no?",
+      "context": "En Cúcuta hay dos barrios: uno tiene una escuela grande con biblioteca y otro tiene una escuela pequeña sin biblioteca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en un barrio la educación vale más que en el otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La educación vale igual en todo el país. La diferencia no es el valor de la educación, sino los recursos que recibe cada escuela."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el Estado invierte más recursos en unos barrios que en otros",
+          "is_correct": true,
+          "feedback": "Correcto. Aunque la ley garantiza la educación en todo el país, el Estado reparte los recursos y no siempre llegan por igual. Esa diferencia deja a un barrio con menos servicios."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las familias del barrio con biblioteca no las necesitan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener una biblioteca no indica que las familias no la necesiten. Al contrario, en los barrios con menos recursos esa biblioteca falta justamente donde más se usaría."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el derecho a la educación solo existe en las ciudades grandes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a la educación existe en todo el país, en ciudades, pueblos y zonas rurales. No es un derecho solo de las ciudades grandes."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un derecho garantizado por la ley necesita recursos para hacerse realidad. Si el Estado reparte el presupuesto de manera desigual, unos servicios quedan mejor que otros. Por eso los derechos se defienden también mirando cómo se invierte el presupuesto público.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v7",
+      "statement": "¿Qué dice esa diferencia sobre el acceso a los derechos?",
+      "context": "Un niño de Cartagena tiene documentos, estudia y tiene salud porque su familia puede pagar. Otro niño de la misma ciudad no tiene documentos ni puede estudiar porque su familia no tiene ingresos fijos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el segundo niño tiene menos derechos que el primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todos los niños tienen los mismos derechos. Lo que cambia es el acceso: el segundo tiene más barreras para ejercerlos."
+        },
+        {
+          "letter": "B",
+          "text": "Que el primer niño se merece más derechos por tener más cosas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie se merece más derechos por tener más recursos. Los derechos son iguales, y lo que está en juego es la posibilidad de ejercerlos."
+        },
+        {
+          "letter": "C",
+          "text": "Que los derechos son iguales en la ley, pero no en el acceso de todos",
+          "is_correct": true,
+          "feedback": "Correcto. La ley concede los mismos derechos a los dos niños, pero el primero puede ejercerlos y el segundo no. Esa diferencia de acceso es una desigualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Que en Cartagena solo existen derechos para las familias que pagan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los derechos existen para todas las familias de Cartagena. Lo que no es parejo es el acceso que cada una tiene a ellos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los derechos son iguales para todas las personas desde que nacen, sin importar cuánto dinero tengan sus familias. Lo que no siempre es igual es el acceso: tener documentos, transporte o un trabajo cambia mucho la posibilidad de ejercer esos derechos. Esa brecha se llama desigualdad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor forma de pedir que se instale una luz en ese parque?",
+      "context": "En Armenia un niño ve que en el parque no hay luz y en la noche es peligroso pasar por ahí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grabar a la gente que pasa de noche y subir el video a las redes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Subir un video da difusión, pero no da una solución: eso no hace que el municipio instale la luz. Sirve para llamar la atención, no para resolver el problema."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que otro vecino lo arregle sin decir nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar sin hacer nada deja el problema igual durante años. La falta de luz es un riesgo real para quien pasa de noche."
+        },
+        {
+          "letter": "C",
+          "text": "Molestar al vecino del barrio hasta que se enoje",
+          "is_correct": false,
+          "feedback": "Incorrecto. Molestar no es una forma de pedir: solo genera conflictos y no llega a ninguna solución. Un reclamo debe hacerse por la vía correcta."
+        },
+        {
+          "letter": "D",
+          "text": "Presentar una solicitud formal en la alcaldía o en la junta municipal describiendo el problema",
+          "is_correct": true,
+          "feedback": "Correcto. Una solicitud formal deja un registro del problema y obliga a la autoridad a responder. Esa es la vía pacífica y correcta para pedir un servicio público."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un derecho o un servicio público no se cumple, la manera correcta de actuar es pedirlo por la vía institucional, con una solicitud escrita y datos del problema. Eso no daña a nadie y deja constancia. Pedir con respeto y con hechos es la base de la convivencia pacífica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

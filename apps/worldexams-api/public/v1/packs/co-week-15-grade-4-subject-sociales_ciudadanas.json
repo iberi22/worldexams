@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "sociales_ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-15-grade-4-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T08:14:01.194Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la tecnología?",
+      "context": "En Cartagena una señora que no sabe leer usa el celular para llamar a su hija y para pedir citas médicas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El conjunto de herramientas y máquinas que las personas usan para facilitar tareas de la vida diaria",
+          "is_correct": true,
+          "feedback": "Correcto. La tecnología son las herramientas y máquinas que usamos para resolver tareas: el celular, el computador, el horno o el acueducto. Todas sirven para facilitar la vida diaria."
+        },
+        {
+          "letter": "B",
+          "text": "Solo los dispositivos electrónicos que cuestan muchos millones de pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología no depende del precio. Una radio, una estufa de cocina o un balde son también tecnología cuando ayudan a resolver una tarea."
+        },
+        {
+          "letter": "C",
+          "text": "Solo las máquinas que usan electricidad en las grandes ciudades",
+          "is_correct": false,
+          "feedback": "Incorrecto. No toda tecnología usa electricidad, y no todo lo que usa electricidad es tecnología en ese sentido. Lo que cuenta es que sirva para resolver una tarea."
+        },
+        {
+          "letter": "D",
+          "text": "Un negocio para vender objetos por internet",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vender por internet es un uso de la tecnología, no la tecnología misma. La tecnología son las herramientas; el comercio es una manera de usarlas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La tecnología es el conjunto de herramientas que las personas crean para resolver tareas. Puede ser sencilla, como un canal o un rodillo, o compleja, como un computador. Lo que la define no es el precio, sino que sirva para facilitar algo útil.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué problema de la vida diaria resuelve la tecnología en casos como ese?",
+      "context": "En una zona rural de Boyacá una madre recorre dos horas a pie para vaccinar a su hijo en un puesto de salud.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema del transporte, porque la tecnología hace el viaje más corto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología no hace más corto un camino de dos horas. Lo que puede hacer es mejorar la organización y la información para que el viaje sea más llevadero."
+        },
+        {
+          "letter": "B",
+          "text": "El problema de la distancia, porque una aplicación conecta a las personas que están lejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una aplicación puede ayudar a coordinar la cita, pero no lleva la vacuna al niño. La vacuna tiene que viajar físicamente hasta el puesto de salud."
+        },
+        {
+          "letter": "C",
+          "text": "El problema de la falta de información, porque permite pedir citas y organizar el cuidado",
+          "is_correct": true,
+          "feedback": "Correcto. Con un celular se pueden pedir citas, consultar horarios y recibir indicaciones sobre la salud. Esa información ayuda a organizar el cuidado."
+        },
+        {
+          "letter": "D",
+          "text": "El problema de la distancia, porque la telemedicina trae el médico al hogar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La telemedicina permite consultar desde lejos, pero no reemplaza una vacuna. Para aplicar una vacuna hay que ir al puesto de salud."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tecnología no elimina todos los problemas, pero sí mejora el acceso a la información. Con un celular se pueden pedir citas, consultar horarios y recibir indicaciones. Eso facilita el cuidado de la salud, aunque para una vacuna siga siendo necesario ir al puesto de salud.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v3",
+      "statement": "¿Qué es lo más responsable que puede hacer ese menor?",
+      "context": "En Ibagué un menor recibe por mensaje una información que dice que puede ganar una moto sin trabajar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contarlo a todos para que les llegue a más personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar sin revisar multiplica la información falsa y hace daño a más gente. Lo responsable es revisar, no repetir."
+        },
+        {
+          "letter": "B",
+          "text": "Revisar la información antes de compartirla y no reenviarla si no es segura",
+          "is_correct": true,
+          "feedback": "Correcto. Un dato necesita una fuente confiable antes de compartirse. Si no se puede confirmar, lo responsable es no reenviarlo y avisar a un adulto."
+        },
+        {
+          "letter": "C",
+          "text": "Darle los datos personales del remitente para comprobar",
+          "is_correct": false,
+          "feedback": "Incorrecto. No se deben dar datos personales, ni al remitente ni a nadie, para comprobar un mensaje. Ese es justo el riesgo de ese tipo de anuncios."
+        },
+        {
+          "letter": "D",
+          "text": "Responder el mensaje pidiendo más información sobre la moto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Responder da datos a alguien desconocido y muestra interés. Eso abre la puerta a estafas que buscan datos personales o dinero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Antes de compartir información hay que revisarla y buscar una fuente confiable. Los mensajes que prometen premios o ganancias fáciles suelen ser estafas. Compartir sin revisar hace daño a otras personas y expone los propios datos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué problema de la distancia resuelve esa estrategia?",
+      "context": "En Quibdó una profesora usa una videollamada para que los niños de una zona rural escuchen la clase de un profesor en la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El problema del transporte, porque los niños ya no necesitan salir de su casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con la llamada los niños no salen de su casa para ir a la escuela, pero el transporte sí sigue siendo necesario para otras cosas del día."
+        },
+        {
+          "letter": "B",
+          "text": "El problema del alfabeto, porque la clase ya no necesita escribir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una videollamada no elimina la escritura ni el alfabeto. La clase sigue usando textos y los niños siguen aprendiendo a leer y escribir."
+        },
+        {
+          "letter": "C",
+          "text": "El problema del silencio, porque la llamada quita todos los ruidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una videollamada no quita los ruidos: el sonido sigue siendo un problema con una mala conexión. La llamada resuelve la distancia, no el ruido."
+        },
+        {
+          "letter": "D",
+          "text": "El problema de la distancia, porque conecta dos lugares que están lejos",
+          "is_correct": true,
+          "feedback": "Correcto. Una videollamada conecta a un profesor en la ciudad con niños que están en una zona rural lejana. Eso permite dar la clase sin que todos estén en el mismo salón."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La tecnología ayuda a conectar lugares separados. Una videollamada de un profe con niños que están muy lejos permite dictar la clase sin que todos estén en el mismo salón. Eso responde al problema de la distancia en la educación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Identificación de relaciones espaciotemporales",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué puede hacer un niño para ayudar a esa señora con el celular?",
+      "context": "En Neiva una señora de 70 años que casi no ve no puede usar el celular porque la letra es pequeña y el botón está lejos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiarle el celular por uno más caro, sin enseñarle a usarlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un celular más caro no sirve si la persona no sabe usarlo. Lo importante es enseñarle, con paciencia, a hacer las tareas que necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Guardarle el celular para que ella no lo use más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quitarle el celular le quita la posibilidad de pedir ayuda o hablar con su familia. La meta es que pueda usarlo, no que quede sin él."
+        },
+        {
+          "letter": "C",
+          "text": "Ampliar la letra y enseñarle paso a paso cómo hacer lo que necesita",
+          "is_correct": true,
+          "feedback": "Correcto. Con letra grande y con una explicación paso a paso, la señora puede aprender a hacer llamadas y a pedir citas. Eso le devuelve autonomía."
+        },
+        {
+          "letter": "D",
+          "text": "Decirle que las personas mayores ya no pueden usar esas tecnologías",
+          "is_correct": false,
+          "feedback": "Incorrecto. La edad no impide usar un celular. Con letra grande y con ayuda, esa señora puede aprender las tareas que necesita."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La tecnología sirve cuando todas las personas pueden usarla. Por eso es importante ajustar el tamaño de la letra y enseñar con paciencia. Enseñar a una persona mayor a usar el celular le da más autonomía y la conecta con su familia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v6",
+      "statement": "Si una puede estudiar desde casa y la otra tiene que salir para conectarse, ¿qué dice esa diferencia?",
+      "context": "En Colombia una familia de Manizales tiene internet de fibra en casa y otra familia de Valledupar se conecta a internet solo cuando va a la tienda del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el acceso a la tecnología es desigual y eso cambia las oportunidades de aprender",
+          "is_correct": true,
+          "feedback": "Correcto. Una familia tiene internet en casa y la otra tiene que salir a la tienda. Esa diferencia en el acceso es una desigualdad que cambia las oportunidades de aprender."
+        },
+        {
+          "letter": "B",
+          "text": "Que la familia de Valledupar tiene menos ganas de estudiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ganas de estudiar no se miden por el acceso a internet. La familia que se conecta en la tienda sí estudia, con más esfuerzo y menos comodidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que en las ciudades no hay internet porque las redes no llegan",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las ciudades sí hay internet. En esta comparación lo que falta es el servicio en una zona, y por eso no es una regla de ciudad o campo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la tecnología es más útil en las ciudades que en el campo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología es igual de útil en los dos lugares. Lo que cambia es si la familia tiene o no el servicio para usarla."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El acceso a internet no es igual en todo el país. Unas familias tienen conexión en casa y otras deben conectarse fuera. Esa diferencia se convierte en desigualdad educativa porque unos estudian sin salir y otros dependen de los horarios de otros lugares.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v7",
+      "statement": "Según ese ejemplo, ¿para qué sirve la tecnología en la salud?",
+      "context": "En un hospital de Pereira usan un computador para revisar el historial clínico de un paciente y para diagnosticar sus exámenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para reemplazar al médico y decidir sin consultar a una persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología apoya al médico, pero no lo reemplaza. Quien interpreta el historial y decide sobre la salud del paciente sigue siendo el profesional."
+        },
+        {
+          "letter": "B",
+          "text": "Para guardar datos, aunque eso no cambia nada en el tratamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Guardar el historial sí cambia el tratamiento: permite ver la historia completa y no repetir exámenes. Guardar no es un dato inútil."
+        },
+        {
+          "letter": "C",
+          "text": "Para informar al paciente con palabras difíciles que él solo entiende",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tecnología sirve para informar de forma clara, no para usar palabras que solo el médico entiende. Debe ayudar a que el paciente entienda."
+        },
+        {
+          "letter": "D",
+          "text": "Para apoyar el trabajo del médico y mejorar la atención del paciente",
+          "is_correct": true,
+          "feedback": "Correcto. El computador ayuda al médico a revisar el historial y a ordenar los exámenes. Eso mejora la atención porque hay más información a tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En los hospitales la tecnología apoya el trabajo del personal de salud. Un computador permite revisar el historial, ordenar resultados y reducir errores. La tecnología es una herramienta que complementa el criterio del profesional, no lo sustituye.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué valor tiene esa decisión para la comunidad escolar?",
+      "context": "En Bucaramanga un colegio recibe varias tabletas y decide prestarlas a los estudiantes que más las necesitan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que solo los estudiantes que saben usarlas van a aprender más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La decisión no premia a quien ya sabe. Se prestan a los que más las necesitan, justamente porque su uso ayuda a cerrar esa brecha."
+        },
+        {
+          "letter": "B",
+          "text": "Que reduce la desigualdad de acceso porque el equipo llega a quien más lo necesita",
+          "is_correct": true,
+          "feedback": "Correcto. Prestar el equipo a los estudiantes que más lo necesitan hace que el acceso sea más justo. Es una forma concreta de reducir una desigualdad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el colegio gasta menos en libros y en clases presenciales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ahorro de dinero no es el objetivo de la decisión. Lo que se busca es que más estudiantes tengan herramientas para aprender."
+        },
+        {
+          "letter": "D",
+          "text": "Que el colegio tenga menos estudiantes por jornada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prestar equipos no reduce el número de estudiantes. El cambio está en las oportunidades de aprendizaje, no en la matrícula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Prestar un equipo a quien más lo necesita es una medida de equidad. La tecnología ayuda a reducir brechas cuando se usa para compensar las diferencias y no para favorecer a los que ya tienen todo. Esa es una decisión responsable con la comunidad escolar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-4-2026-W15-la-tecnologia-y-sus-usos-001-MASTERY-bundle",
+      "periodo": 15,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales_ciudadanas",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
