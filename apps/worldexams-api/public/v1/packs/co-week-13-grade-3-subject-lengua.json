@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-13-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.007Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v1",
+      "statement": "La mamá compró banano para el desayuno. Compró mango para el jugo. Compró papaya para la tarde. Guardó todo en una canasta grande. ¿Qué fruta compró para el jugo?",
+      "context": "En una plaza de mercado en Bogotá, la mamá compra banano, mango y papaya para el jugo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Papaya",
+          "is_correct": false,
+          "feedback": "Incorrecto. La papaya es para la tarde, no para el jugo, porque el texto dice que el mango es para el jugo."
+        },
+        {
+          "letter": "B",
+          "text": "Mango",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que compró mango para el jugo y corresponde al dato literal de la compra."
+        },
+        {
+          "letter": "C",
+          "text": "Banano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El banano es para el desayuno, no para el jugo, porque así lo explica la mamá en la plaza."
+        },
+        {
+          "letter": "D",
+          "text": "Manzana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La manzana no aparece en la lista, porque la mamá solo compró banano, mango y papaya."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa la memoria de datos explícitos. El estudiante ubica qué fruta corresponde a cada momento del día.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v2",
+      "statement": "El almuerzo tiene arroz blanco. Tiene fríjoles rojos. Tiene ensalada de tomate y lechuga. Los niños comen todo con alegría. ¿Qué verdura tiene la ensalada?",
+      "context": "En un comedor escolar de Medellín, los niños almuerzan arroz, fríjoles y ensalada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Papa",
+          "is_correct": false,
+          "feedback": "Incorrecto. La papa no se menciona en el almuerzo, porque la ensalada es de tomate y lechuga."
+        },
+        {
+          "letter": "B",
+          "text": "Yuca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La yuca no aparece en el plato, porque el texto solo nombra arroz, fríjoles, tomate y lechuga."
+        },
+        {
+          "letter": "C",
+          "text": "Plátano",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plátano no está en este almuerzo, porque el texto describe ensalada de tomate y lechuga."
+        },
+        {
+          "letter": "D",
+          "text": "Tomate y lechuga",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que la ensalada es de tomate y lechuga y significa que esas son sus verduras."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Trabaja el reconocimiento de alimentos en un menú. El niño identifica las verduras de la ensalada escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v3",
+      "statement": "La panela endulza la bebida. La palabra endulzar significa poner dulce algo que estaba simple. El niño prueba el agua y dice que está dulce. ¿Qué significa endulzar?",
+      "context": "En Cali, el abuelo dice que la panela endulza el agua de panela que toman en la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner dulce una bebida",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque endulzar significa agregar panela para que el agua quede dulce y así lo prueba el niño."
+        },
+        {
+          "letter": "B",
+          "text": "Poner sal a la sopa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poner sal es salar, no endulzar, porque endulzar significa dar sabor dulce con panela."
+        },
+        {
+          "letter": "C",
+          "text": "Enfriar con hielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Enfriar es bajar la temperatura, no endulzar, porque endulzar se refiere al sabor dulce."
+        },
+        {
+          "letter": "D",
+          "text": "Botar la bebida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Botar es desechar, no endulzar, porque el niño se toma el agua dulce con gusto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa el vocabulario de cocina colombiana. El estudiante aplica el significado de endulzar en el agua de panela.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v4",
+      "statement": "Pedro come paquetes todos los días. No come frutas. No toma agua, solo gaseosa. En clase se siente cansado y con dolor de cabeza. ¿Por qué se siente cansado Pedro?",
+      "context": "En Barranquilla, un niño solo quiere comer paquetes y gaseosa en el recreo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque duerme mucho",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de dormir, porque dice que Pedro come paquetes y gaseosa y no toma agua ni frutas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque corre demasiado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pedro no corre en el texto, porque su cansancio viene de comer solo paquetes y gaseosa sin nutrientes."
+        },
+        {
+          "letter": "C",
+          "text": "Porque se alimenta mal",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque comer solo paquetes y gaseosa sin frutas ni agua significa mala nutrición y por eso se cansa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque lee muchos libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leer no cansa de esa forma, porque el texto muestra que su dieta sin frutas le quita energía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere la relación entre comida y energía. El estudiante conecta la mala alimentación con el cansancio de Pedro.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v5",
+      "statement": "Receta: 1. Lava los lulos. 2. Pártelos por la mitad. 3. Licúalos con agua y azúcar. 4. Cuela el jugo y sírvelo frío. ¿Cuál es el tercer paso de la receta?",
+      "context": "En Bucaramanga, una receta de la abuela explica cómo hacer jugo de lulo paso a paso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lava los lulos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el primer paso, no el tercero, porque aparece con el número 1 al inicio de la receta."
+        },
+        {
+          "letter": "B",
+          "text": "Pártelos por la mitad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el segundo paso, no el tercero, porque lleva el número 2 antes de licuar."
+        },
+        {
+          "letter": "C",
+          "text": "Cuela el jugo y sírvelo frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuarto y último paso, no el tercero, porque va después de licuar con agua y azúcar."
+        },
+        {
+          "letter": "D",
+          "text": "Licúalos con agua y azúcar",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque ese paso lleva el número 3 y corresponde a mezclar los lulos en la licuadora."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analiza el orden de una receta. El estudiante sigue la secuencia numérica para ubicar el tercer paso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v6",
+      "statement": "El niño tenía 2000 pesos en monedas. El dulce costaba 2000 pesos. El banano costaba 500 pesos. El niño compró el banano y guardó el resto. ¿Qué decidió el niño?",
+      "context": "En una tienda de Cartagena, un niño compra un banano con monedas de 500 pesos en lugar de un dulce.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gastar todo en dulces",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no compró el dulce, porque eligió el banano de 500 pesos y guardó el resto del dinero."
+        },
+        {
+          "letter": "B",
+          "text": "Ahorrar y comer sano",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque comprar el banano barato y guardar monedas significa ahorrar dinero y elegir fruta sana."
+        },
+        {
+          "letter": "C",
+          "text": "Botar las monedas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no botó nada, porque guardó el resto de las monedas después de comprar el banano."
+        },
+        {
+          "letter": "D",
+          "text": "No comprar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño sí compró, porque el texto dice que compró el banano en la tienda."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evalúa decisiones con dinero y comida. El estudiante analiza que elegir fruta permite ahorrar pesos y nutrirse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v7",
+      "statement": "La lonchera uno tiene manzana, banano y agua. La lonchera dos tiene gaseosa y papas de paquete. La profesora pregunta cuál es mejor para el recreo. ¿Qué lonchera es mejor y por qué?",
+      "context": "En Tunja, la profesora muestra dos loncheras: una con frutas y agua, otra con gaseosa y papas fritas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La dos, porque tiene más sabor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sabor no significa nutrición, porque la gaseosa y las papas dan energía rápida pero no alimentan bien."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son iguales, porque una tiene frutas y agua y la otra solo tiene gaseosa y paquete."
+        },
+        {
+          "letter": "C",
+          "text": "La uno, porque nutre e hidrata",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque la manzana, el banano y el agua aportan vitaminas y significa una lonchera sana para jugar."
+        },
+        {
+          "letter": "D",
+          "text": "La dos, porque es más barata",
+          "is_correct": false,
+          "feedback": "Incorrecto. El precio no define lo sano, porque la lonchera uno con frutas nutre mejor aunque cueste unos pesos más."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzga loncheras con criterio nutricional. El estudiante evalúa por qué frutas y agua son mejores que gaseosa.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle-v8",
+      "statement": "El cartel pide comer frutas y verduras de muchos colores. Dice que cada color cuida una parte del cuerpo. Un niño solo come arroz blanco. ¿Qué le dirías al niño según el cartel?",
+      "context": "En Pasto, un cartel del mercado dice: Come colores todos los días: frutas y verduras amarillas, verdes y rojas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que coma frutas y verduras de colores",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el cartel invita a comer colores variados y significa que solo arroz blanco no cuida todo el cuerpo."
+        },
+        {
+          "letter": "B",
+          "text": "Que siga comiendo solo arroz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comer solo arroz no cumple el mensaje, porque el cartel pide sumar amarillos, verdes y rojos cada día."
+        },
+        {
+          "letter": "C",
+          "text": "Que no coma nunca más",
+          "is_correct": false,
+          "feedback": "Incorrecto. No comer es peligroso, porque el cartel invita a comer más variedad y no a dejar de comer."
+        },
+        {
+          "letter": "D",
+          "text": "Que coma solo dulces rojos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dulces no son verduras ni frutas, porque el cartel habla de alimentos naturales de colores que cuidan el cuerpo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Relaciona un mensaje publicitario con un caso. El estudiante usa el cartel para recomendar variedad de colores en la comida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

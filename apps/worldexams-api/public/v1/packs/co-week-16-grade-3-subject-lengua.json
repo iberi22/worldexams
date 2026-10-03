@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-16-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.008Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v1",
+      "statement": "El bus es grande y amarillo. Tiene muchas sillas. El conductor saluda en la puerta. Los niños suben en fila. ¿De qué color es el bus?",
+      "context": "En Bogotá, los niños toman el bus del colegio en el paradero de la esquina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Rojo no es el color nombrado, porque el texto dice que el bus es grande y amarillo."
+        },
+        {
+          "letter": "B",
+          "text": "Amarillo",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que el bus es grande y amarillo y corresponde al dato literal."
+        },
+        {
+          "letter": "C",
+          "text": "Azul",
+          "is_correct": false,
+          "feedback": "Incorrecto. Azul no aparece en la descripción, porque el bus descrito es amarillo con muchas sillas."
+        },
+        {
+          "letter": "D",
+          "text": "Verde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Verde no corresponde a este bus, porque el texto lo presenta como amarillo en el paradero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Recuerda detalles visibles de un texto. El estudiante ubica el color amarillo del bus escolar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v2",
+      "statement": "La niña usa casco rosado. Monta su bicicleta azul. Pasa por la ciclorruta. Llega feliz al parque. ¿Por dónde pasa la niña?",
+      "context": "En Medellín, una niña va al parque en bicicleta con su casco rosado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por el río",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río no se menciona en el paseo, porque la niña pasa por la ciclorruta hacia el parque."
+        },
+        {
+          "letter": "B",
+          "text": "Por el túnel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El túnel no aparece en el texto, porque la ruta nombrada es la ciclorruta."
+        },
+        {
+          "letter": "C",
+          "text": "Por la montaña",
+          "is_correct": false,
+          "feedback": "Incorrecto. La montaña no es la ruta, porque el texto dice que pasa por la ciclorruta en bicicleta."
+        },
+        {
+          "letter": "D",
+          "text": "Por la ciclorruta",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el texto dice que pasa por la ciclorruta y significa la vía para bicicletas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprende rutas urbanas en un relato. El niño identifica la ciclorruta como vía de la bicicleta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v3",
+      "statement": "El semáforo en rojo significa detenerse. El semáforo en verde significa avanzar. Los niños esperan el verde para cruzar. ¿Qué significa el rojo?",
+      "context": "En Cali, el semáforo del colegio cambia de rojo a verde para cruzar la calle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Detenerse y esperar",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el rojo ordena detenerse y los niños esperan el verde para cruzar seguros."
+        },
+        {
+          "letter": "B",
+          "text": "Correr sin mirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correr sin mirar es peligroso, porque el rojo significa detenerse y esperar el cambio."
+        },
+        {
+          "letter": "C",
+          "text": "Cantar en la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cantar no tiene relación con el semáforo, porque el rojo significa detenerse para cuidar la vida."
+        },
+        {
+          "letter": "D",
+          "text": "Jugar con el balón",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar en la calle es riesgoso, porque el rojo pide detenerse y no jugar entre los carros."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Aplica el significado de señales de tránsito. El estudiante relaciona el rojo con detenerse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v4",
+      "statement": "El bus pasó a las siete. Iba tan lleno que no paró. El niño esperó otro bus. Llegó tarde al colegio. ¿Por qué llegó tarde?",
+      "context": "En Barranquilla, un niño llega tarde porque el bus pasó lleno y no paró.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque se quedó dormido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño sí estaba en el paradero, porque el bus pasó lleno y no paró a recogerlo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no quiso ir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño quería ir, porque esperó otro bus después de que el primero no paró."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el bus no paró por ir lleno",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque un bus lleno no recoge más pasajeros y por eso tuvo que esperar el siguiente."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se fue caminando lento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El niño no se fue caminando, porque el texto dice que esperó otro bus en el paradero."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Infiere causas en la vida urbana. El estudiante conecta el bus lleno con la llegada tardía.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v5",
+      "statement": "Aviso: 1. Haz la fila. 2. Ponte el chaleco. 3. Sube con cuidado. 4. Siéntate y no te pares. ¿Cuál es el segundo paso para subir?",
+      "context": "En Cartagena, un aviso del puerto explica el orden para subir a la lancha.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Haz la fila",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el primer paso, no el segundo, porque lleva el número 1 al inicio del aviso."
+        },
+        {
+          "letter": "B",
+          "text": "Sube con cuidado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el tercer paso, no el segundo, porque va después de ponerse el chaleco."
+        },
+        {
+          "letter": "C",
+          "text": "Siéntate y no te pares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese es el cuarto paso final, no el segundo, porque cierra la lista del aviso."
+        },
+        {
+          "letter": "D",
+          "text": "Ponte el chaleco",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque ese paso lleva el número 2 y significa seguridad antes de subir a la lancha."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Sigue instrucciones de transporte seguro. El estudiante ubica el segundo paso en el aviso del puerto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v6",
+      "statement": "El pasaje cuesta 2500 pesos. La niña paga con 3000 pesos. El conductor le devuelve 500 pesos. Ella guarda las monedas en su bolsillo. ¿Cuánto le devolvieron?",
+      "context": "En Manizales, una niña paga el pasaje del bus con 3000 pesos y recibe vueltas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3000 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 3000 fue lo que pagó, no lo devuelto, porque el pasaje costaba 2500 y sobran 500."
+        },
+        {
+          "letter": "B",
+          "text": "500 pesos",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque 3000 menos 2500 son 500, lo que corresponde a las vueltas del conductor."
+        },
+        {
+          "letter": "C",
+          "text": "2500 pesos",
+          "is_correct": false,
+          "feedback": "Incorrecto. 2500 es el precio del pasaje, no las vueltas, porque las vueltas son la resta del pago."
+        },
+        {
+          "letter": "D",
+          "text": "Nada de dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí le devolvieron, porque el texto dice que el conductor le devolvió monedas para el bolsillo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analiza una compra de pasaje con pesos. El estudiante resta para hallar las vueltas del bus.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v7",
+      "statement": "Laura cruza por la cebra mirando a ambos lados. Andrés corre entre los carros sin mirar. La profesora felicita a Laura. ¿Quién actúa bien?",
+      "context": "En Pereira, dos compañeros cruzan la calle: uno por la cebra, otro corriendo entre los carros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrés, porque llega rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llegar rápido entre carros es peligroso, porque cruzar sin mirar puede causar un accidente grave."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos, todo vale",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todo vale al cruzar, porque solo la cebra con mirada a ambos lados significa paso seguro."
+        },
+        {
+          "letter": "C",
+          "text": "Laura, porque cruza segura",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque cruzar por la cebra mirando significa cuidado y por eso la profesora la felicita."
+        },
+        {
+          "letter": "D",
+          "text": "Andrés, porque es divertido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo divertido no es seguro, porque correr entre carros pone en riesgo la vida del niño."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Juzga conductas viales seguras. El estudiante valora cruzar por la cebra frente a correr entre carros.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle-v8",
+      "statement": "El cartel muestra sillas azules para personas mayores y mujeres embarazadas. Pide ceder el puesto con amabilidad. Está pegado dentro del bus. ¿Qué busca el cartel?",
+      "context": "En Bogotá, un cartel del TransMilenio dice: Cede la silla azul a quien la necesita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cedan la silla azul",
+          "is_correct": true,
+          "feedback": "Correcto. Es correcta porque el cartel pide dar el puesto a mayores y embarazadas, lo que significa amabilidad en el bus."
+        },
+        {
+          "letter": "B",
+          "text": "Que pinten el bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no pide pintar, porque solo invita a ceder las sillas azules ya marcadas."
+        },
+        {
+          "letter": "C",
+          "text": "Que vendan sillas nuevas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cartel no vende sillas, porque su mensaje es ceder el puesto con amabilidad a quien lo necesita."
+        },
+        {
+          "letter": "D",
+          "text": "Que canten en el bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cantar no es el mensaje, porque el cartel habla de ceder la silla azul con respeto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evalúa un mensaje de convivencia urbana. El estudiante reconoce que el cartel promueve ceder la silla.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 16,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

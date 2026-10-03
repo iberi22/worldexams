@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-5-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T14:47:17.010Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estas relaciones se afirma de manera literal en la lectura?",
+      "context": "En una visita al río de Bogotá, un grupo de estudiantes de cuarto grado estudia el agua y los seres vivos. Observan peces y plantas, y leen: «Las plantas y los animales necesitan agua para vivir».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las plantas y los animales necesitan agua para vivir.",
+          "is_correct": true,
+          "feedback": "Correcto. La expresión \"para vivir\" indica que las plantas y los animales necesitan el agua para sobrevivir."
+        },
+        {
+          "letter": "B",
+          "text": "Los estudiantes observan peces y plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Observan peces y plantas\" informa qué vieron los estudiantes, pero no explica qué necesitan esos seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "La visita al río ocurre durante la mañana.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Durante la visita\" solo ubica la actividad en el río; el texto no afirma que ocurra por la mañana."
+        },
+        {
+          "letter": "D",
+          "text": "El río se encuentra lejos de la escuela.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Estudia el agua y los seres vivos\" no informa dónde está la escuela; la distancia mencionada es inventada."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La lectura presenta una relación directa: las plantas y los animales necesitan agua para vivir. La respuesta correcta reproduce esa idea sin añadir información. Las otras opciones mencionan actividades, un momento o una distancia que no corresponden a la relación solicitada.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v2",
+      "statement": "¿Qué ocurre inmediatamente antes de que el agua se convierta en vapor, según el texto?",
+      "context": "Durante una clase, los estudiantes leen un texto sobre el agua: «El sol calienta el agua del río. Parte de esa agua se convierte en vapor y sube hasta una nube. Cuando la nube se enfría, el agua cae en forma de lluvia».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La nube se enfría, un paso que sucede después de la formación del vapor.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"La nube se enfría\" ocurre después de que el vapor llega a la nube; por eso no precede la formación del vapor."
+        },
+        {
+          "letter": "B",
+          "text": "El agua del río es calentada por el sol.",
+          "is_correct": true,
+          "feedback": "Correcto. \"El sol calienta el agua\" ocurre antes de que el agua \"se convierta en vapor\", según la secuencia del texto."
+        },
+        {
+          "letter": "C",
+          "text": "El agua de la nube regresa al río en forma de lluvia.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Cae en forma de lluvia\" es un paso posterior del ciclo; no ocurre antes de la formación del vapor."
+        },
+        {
+          "letter": "D",
+          "text": "La lluvia se transforma directamente en vapor al tocar el río.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Se transforma directamente en vapor\" invierte el orden del texto, porque primero el agua del río se calienta y después se evapora."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El texto describe una secuencia: el sol calienta el agua, el agua se convierte en vapor, el vapor forma parte de una nube y luego puede regresar como lluvia. La respuesta correcta identifica el hecho que ocurre inmediatamente antes de la evaporación.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué acción ataca la causa del desperdicio y aplica mejor lo que dice el texto?",
+      "context": "En una casa de Medellín, el grifo del lavaplatos gotea aunque esté cerrado. La familia sabe que cada gota sale de agua potable y que una fuga continua aumenta el consumo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar el grifo por uno de mayor velocidad, porque la rapidez reduce el volumen desperdiciado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Mayor velocidad\" solo cambia la rapidez de apertura; no disminuye el volumen total que sale por una fuga continua."
+        },
+        {
+          "letter": "B",
+          "text": "Cubrir el goteo con un paño solo cuando se vea, porque ocultar la gota evita que vuelva.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Solo cuando se vea\" deja la fuga activa cuando nadie la observa; ocultar una gota no corrige su causa."
+        },
+        {
+          "letter": "C",
+          "text": "Arreglar el grifo que gotea, porque cerrar la fuga evita que siga saliendo agua potable.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Una fuga continua\" provoca el desperdicio; reparar el grifo elimina la salida de agua y ataca directamente la causa."
+        },
+        {
+          "letter": "D",
+          "text": "Avisar que hay una fuga, pero dejar el grifo sin reparar, porque informar por sí solo detiene la salida.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Sin reparar\" permite que la fuga continúe; avisar puede prevenir a otros, pero no cierra la salida de agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aplicar el texto exige relacionar la causa con la solución. El goteo es una fuga continua, por lo que repararla elimina el origen del desperdicio. Cambiar la velocidad del grifo, ocultar la gota o solamente avisar no impide que el agua siga saliendo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v4",
+      "statement": "Si las ranas disminuyen y las demás relaciones permanecen iguales, ¿qué cambio es más probable?",
+      "context": "En un estanque de la región Andina se observa esta cadena: las plantas acuáticas producen alimento; las larvas se alimentan de esas plantas; las ranas comen larvas; las aves acuáticas comen ranas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las larvas disminuyen porque las ranas ya no se alimentan de ellas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al disminuir \"las ranas comen larvas\", las larvas suffer menos depredación y deberían aumentar, no desaparecer."
+        },
+        {
+          "letter": "B",
+          "text": "Las aves acuáticas aumentan porque tienen más alimento disponible.",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto dice que \"las aves acuáticas comen ranas\"; si quedan menos ranas, las aves tienen menos alimento, no más."
+        },
+        {
+          "letter": "C",
+          "text": "Las plantas aumentan porque el agua les proporciona todo su alimento.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Todo su alimento\" no aparece en el texto; las plantas producen alimento, pero también son comidas por las larvas."
+        },
+        {
+          "letter": "D",
+          "text": "Las larvas aumentan y las plantas pueden disminuir.",
+          "is_correct": true,
+          "feedback": "Correcto. Como \"las ranas comen larvas\", al haber menos ranas habrá menos depredación; por eso pueden aumentar las larvas y disminuir las plantas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La cadena alimentaria permite seguir los efectos de un cambio. Las ranas predationan larvas; si disminuyen, las larvas tienen menos depredadores y pueden aumentar. Como las larvas comen plantas, el aumento de larvas puede reducir la cantidad de plantas. La respuesta correcta relaciona dos efectos consecutivos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es la explicación más coherente con los datos del arroyo?",
+      "context": "En un arroyo cerca de Cartagena, antes de una tormenta los estudiantes observan plantas verdes y peces. Después, el agua está turbia, hay botellas y restos de comida, las plantas reciben poca luz y se ven menos peces.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La basura dio más alimento a los peces, por lo que su número debería haber aumentado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Menos peces\" contradice esa conclusión, y el texto no muestra que las botellas y los restos sean alimento para ellos."
+        },
+        {
+          "letter": "B",
+          "text": "El agua turbia dio más luz a las plantas y por eso aumentó el número de peces.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Las plantas reciben poca luz\" contradice la idea de una mayor disponibilidad de luz necesaria para su crecimiento."
+        },
+        {
+          "letter": "C",
+          "text": "La acumulación de residuos pudo reducir la luz y consumir oxígeno, dificultando la vida de plantas y peces.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Restos de comida\" pueden consumir oxígeno y \"las plantas reciben poca luz\"; estas condiciones pueden explicar la presencia de menos peces."
+        },
+        {
+          "letter": "D",
+          "text": "El ecosistema no cambió, pues la turbidez solamente modifica el aspecto del agua.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Menos peces\" y \"reciben poca luz\" muestran cambios en condiciones del ecosistema, no solamente en la apariencia del agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La respuesta correcta usa varios indicios para construir una explicación. Los residuos pueden reducir la luz que reciben las plantas y, si son materia orgánica, pueden consumir oxígeno en el agua. Estas condiciones dificultan la supervivencia de los seres vivos del arroyo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor evaluación crítica de la afirmación de la estudiante?",
+      "context": "En un charca de la Sabana de Bogotá, una estudiante afirma: «Si las plantas acuáticas desaparecen, el charca solo pierde belleza; da igual porque los peces siguen teniendo agua».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación no se sostiene, porque las plantas acuáticas ofrecen alimento y refugio, producen oxígeno y ayudan a mejorar el agua.",
+          "is_correct": true,
+          "feedback": "Correcto. \"Solo pierde belleza\" e \"da igual\" ignoran que las plantas ofrecen alimento y refugio; su ausencia puede afectar el agua y la supervivencia de los peces."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es válida porque, mientras el agua siga moviéndose, los peces podrán respirar aunque falten plantas.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Siguen teniendo agua\" no garantiza que tengan alimento, refugio u oxígeno suficiente; el movimiento del agua no reemplaza todas las funciones de las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es válida porque las plantas acuáticas solo decoran el charca y no cumplen ninguna función en el ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Solo decoran\" es falso porque las plantas producen alimento y oxígeno, ofrecen refugio y pueden cheque? mejorar las condiciones del agua."
+        },
+        {
+          "letter": "D",
+          "text": "No se puede evaluar la afirmación hasta contar todos los peces, porque una cifra no demuestra las funciones del ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Contar todos los peces\" solo daría un número; para evaluar la afirmación se necesitan relaciones Functions? Hint: \"funciones\" le interesan las funciones de las plantas y sus efectos en el agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar una afirmación exige contrastarla con información sobre el ecosistema. La estudiante reduce el papel de las plantas a la apariencia y supone que tener agua basta para los peces. Sin embargo, las plantas acuáticas pueden producir alimento y oxígeno, ofrecer refugio y ayudar a mantener el agua en buenas condiciones. Por eso, su desaparición tiene efectos más allá de la belleza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.74,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué evaluación respeta mejor la cadena causal y sus efectos indirectos?",
+      "context": "En Bogotá, un equipo presenta esta cadena causal: cerrar grifos y reparar fugas → las viviendas consumen menos agua; menor demanda de la ciudad → se extrae menos agua de ríos y manantiales; menor extracción → los humedales reciben un flujo más estable; flujo estable → se conservan sus hábitats. Un investigador afirma: «Ahorrar agua en casa es inútil para el ecosistema, porque esas gotas nunca pasan por los páramos».",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es débil, porque el ahorro domiciliario puede reducir la demanda y, según el modelo, también la extracción que afecta los humedales.",
+          "is_correct": true,
+          "feedback": "Correcto. La relación \"menor demanda de la ciudad → se extrae menos agua\" muestra un efecto indirecto que puede favorecer el flujo de los humedales."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es sólida, porque el texto no incluye una cuenta de peces y, por eso, no puede existir una relación con el ecosistema.",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ausencia de una \"cuenta de peces\" no elimina la cadena entre menor extracción y flujo más estable; una explicación causal no exige ese dato."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación es sólida, porque el agua solo circula bajo tierra y las viviendas no cambian la extracción de los ríos.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"El agua solo circula bajo tierra\" contradice el contexto: las viviendas usan agua y la ciudad puede modificar la extracción de ríos y manantiales."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos posiciones son igual de verdaderas porque el consumo de las casas y los páramos son sistemas separados.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Son sistemas separados\" contradice la cadena causal, que conecta el consumo domiciliario con la extracción y el estado de los humedales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La afirmación confunde una conexión directa con una conexión indirecta. Aunque el agua ahorrada en una casa no pase por un páramo, el menor consumo puede reducir la demanda de la ciudad y, según el modelo, la extracción de fuentes que necesitan esos caudales. Una evaluación crítica debe considerar toda la cadena y también sus condiciones, sin afirmar que un solo modelo demuestra un resultado real sin más evidencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál argumento ofrece la evidencia más completa para defender la afirmación del equipo?",
+      "context": "En Cali, dos parcelas escolares reciben la misma lluvia. La parcela A tiene cinco especies nativas, usa agua collected de los tejados para el riego, presenta escorrentamiento lento y registra cuatro tipos de polinizadores. La parcela B tiene una especie exótica de crecimiento rápido, usa 180 L de agua potable para riego, presenta escorrentamiento rápido y registra un tipo de polinizador. En 30 días, la parcela A usa 60 L adicionales de agua potable. El equipo afirma que la parcela A es más sostenible.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La parcela A no es sostenible porque usa 60 L > 0, y solo el uso de cero litros demuestra un manejo adecuado.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"60 L > 0\" solo indica un uso adicional; el contexto no fija cero como único umbral y sí ofrece datos comparativos entre las parcelas."
+        },
+        {
+          "letter": "B",
+          "text": "La parcela A usa 120 L menos de agua potable, porque 180 L - 60 L = 120 L, y presenta 3 tipos más de polinizadores, porque 4 - 1 = 3.",
+          "is_correct": true,
+          "feedback": "Correcto. \"180 L - 60 L = 120 L\" y \"4 - 1 = 3\" muestran menor uso de agua potable y mayor diversidad; el escorrentamiento lento también protege el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "La parcela B es más sostenible porque su especie tiene crecimiento rápido, aunque consuma más agua y produzca escorrentamiento rápido.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Crecimiento rápido\" no demuestra sostenibilidad: la parcela B usa más agua potable, pierde suelo y registra menos tipos de polinizadores."
+        },
+        {
+          "letter": "D",
+          "text": "Las parcelas no pueden compararse porque reciben la misma lluvia, de modo que el riego y la diversidad son irrelevantes.",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"La misma lluvia\" solo permite comparar el efecto de las prácticas; no vuelve irrelevantes el uso de agua, el escorrentamiento ni la diversidad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La afirmación del equipo debe sostenerse con varios indicadores relacionados. La parcela A utiliza menos agua potable, presenta menor escorrentamiento y registra mayor diversidad de polinizadores. Las diferencias se pueden calcular y relacionar con el cuidado del agua y la conservación del ecosistema. Evaluar la sostenibilidad requiere más que observar una especie o asumir que un crecimiento rápido es suficiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W05-el-agua-y-los-ecosistemas-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
