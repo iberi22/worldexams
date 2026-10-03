@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T05:18:14.703Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v1",
+      "statement": "¿Qué capa de gases que rodea la Tierra contiene el aire que respiramos y en la que se forman las nubes?",
+      "context": "En un globo sobrevolando los Llanos Orientales, el aire sostiene la cesta a cierta altura sobre el terreno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La litosfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La litosfera es la capa sólida de la tierra formada por las rocas, no la capa de gases."
+        },
+        {
+          "letter": "B",
+          "text": "La magnetosfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magnetosfera es la región donde actúan las partículas del Sol y no contiene el aire que respiramos."
+        },
+        {
+          "letter": "C",
+          "text": "La hidrosfera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hidrosfera es el conjunto de agua del planeta; el enunciado describe la capa de gases."
+        },
+        {
+          "letter": "D",
+          "text": "La atmósfera",
+          "is_correct": true,
+          "feedback": "Correcto. La atmósfera es la capa de gases que envuelve la Tierra y en ella están el oxígeno, el nitrógeno y el vapor de agua."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La atmósfera es la capa de gases que rodea la Tierra y se extiende desde el suelo hasta el espacio. En ella hay oxígeno para respirar, nitrógeno y vapor de agua que forma las nubes y da origen a la lluvia. Además, esa capa filtra parte de la radiación dañina que llega del Sol. Gracias a ella existen las condiciones de temperatura y presión que permiten la vida en el planeta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v2",
+      "statement": "Un finquero de Boyacá sabe que en abril las tardes son más frías y lluviosas que en enero. ¿Qué diferencia entre esas dos temporadas explica ese cambio?",
+      "context": "En una finca de Boyacá, un agricultor sabe que en abril las tardes son más frías y lluviosas que en enero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En los meses lluviosos llega más calor del Sol, por eso llueve y hace calor al mismo tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Boyacá el período lluvioso trae menos calor solar directo, no más, y por eso las tardes son más frescas."
+        },
+        {
+          "letter": "B",
+          "text": "En enero el Sol desaparece más tiempo cada día, así el clima es más frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. En enero el Sol brilla más horas por día y sus rayos caen más vertical, por eso hace más calor."
+        },
+        {
+          "letter": "C",
+          "text": "En los meses lluviosos llega menos calor y más humedad, así el clima es más frío y húmedo",
+          "is_correct": true,
+          "feedback": "Correcto. Entre mayo y septiembre el aire trae más nubes y lluvia y el Sol calienta menos, de ahí el clima más frío."
+        },
+        {
+          "letter": "D",
+          "text": "La diferencia se debe a que en enero el aire tiene menos oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de oxígeno no cambia con la estación; lo que cambia es la temperatura y la humedad del aire."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El clima de una región cambia según la estación porque cambia la posición de la Tierra frente al Sol. En el hemisferio norte, entre diciembre y marzo los rayos del Sol caen más vertical y los días son más largos, así el clima es más cálido. Entre mayo y septiembre los rayos llegan más inclinados, los días son más cortos y el clima es más fresco y lluvioso. Por eso en Boyacá llueve más en abril que en enero.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v3",
+      "statement": "Un grupo de Cúcuta quiere comparar el clima de dos ciudades colombianas. ¿Cuál de estos conjuntos de datos les permite comparar mejor el clima y no solo el tiempo de un día?",
+      "context": "En una escuela de Cúcuta, un grupo de cuarto grado prepara un proyecto para comparar el clima de dos ciudades colombianas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color del cielo y la humedad de esa mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son observaciones de un solo día; describen el tiempo atmosférico y no el clima del lugar."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de lluvia de la mañana de ayer",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia de una mañana es un dato puntual y no describe el patrón de meses de esa ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de lluvia y la temperatura promedio de varios meses",
+          "is_correct": true,
+          "feedback": "Correcto. Promediar muchos meses revela el patrón típico del lugar, que es justamente lo que define su clima."
+        },
+        {
+          "letter": "D",
+          "text": "El número de días de sol del último fin de semana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dos días de observación no permiten ver el patrón que se repite durante años."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El tiempo atmosférico es el estado del aire en un lugar y un momento determinados; el clima es el patrón promedio de ese lugar durante muchos años. Por eso para comparar el clima de dos ciudades hay que reunir datos de precipitación y temperatura de varios meses y no de una sola jornada. Un promedio calculado sobre muchos días separa la variación normal de los días atípicos y da una imagen fiel del clima.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v4",
+      "statement": "En un hotel de Villavicencio, la ropa se seca más rápido en la azotea al sol que bajo la sombra de un árbol. ¿Qué explica esa diferencia?",
+      "context": "En un hotel de Villavicencio, la ropa se seca más rápido en la azotea al sol que bajo la sombra de un árbol en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bajo el árbol el agua de la ropa pesa más y por eso tarda más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso del agua es el mismo en los dos lugares; lo que cambia es la energía disponible para evaporarla."
+        },
+        {
+          "letter": "B",
+          "text": "Bajo el árbol el aire se mueve menos, así el vapor se acumula y la ropa tarda más en secar",
+          "is_correct": true,
+          "feedback": "Correcto. Sin viento el vapor de agua queda alrededor de la tela y frena la evaporación, por eso seca más despacio."
+        },
+        {
+          "letter": "C",
+          "text": "Al sol el agua de la ropa pesa menos, y por eso el viento la lleva antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no cambia de peso con la luz del Sol; lo que cambia es la velocidad con que se evapora."
+        },
+        {
+          "letter": "D",
+          "text": "Bajo el árbol el aire es más caliente y por eso el agua no llega a hervir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no necesita hervir para evaporarse, y bajo el árbol el aire suele estar más fresco que al sol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Secar la ropa requiere que el agua de la tela pase al estado de vapor, y eso depende de dos cosas: la energía disponible y el movimiento del aire. Bajo la sombra de un árbol el aire se mueve menos y el follaje frena el aire, así el vapor se acumula cerca de la tela y la evaporación se retarda. Al sol, con calor y corriente de aire, la evaporación es más rápida y la ropa seca en menos tiempo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.74,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v5",
+      "statement": "En Leticia, Amazonas, las copas de los árboles interceptan el agua que viene del aire y el suelo del bosque se mantiene húmedo. ¿Qué nombre tiene esa caída de agua desde el aire?",
+      "context": "En Leticia, Amazonas, el bosque es tan denso que el suelo permanece húmedo y los arroyos nunca se secan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condensación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La condensación es el paso del vapor de agua a gotas; el enunciado describe esas gotas cayendo sobre el bosque."
+        },
+        {
+          "letter": "B",
+          "text": "Precipitación",
+          "is_correct": true,
+          "feedback": "Correcto. El vapor de agua del aire se convierte en gotas y esas gotas caen sobre el bosque, tal como ocurre en Leticia."
+        },
+        {
+          "letter": "C",
+          "text": "Sublimación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sublimación ocurre cuando un sólido pasa directamente a vapor, como el hielo, y no describe agua cayendo."
+        },
+        {
+          "letter": "D",
+          "text": "Evaporación",
+          "is_correct": false,
+          "feedback": "Incorrecto. La evaporación es el paso del agua del estado líquido al gas; el enunciado describe agua que baja del cielo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En zonas selváticas y húmedas como Leticia, el aire lleva mucha humedad. Cuando el aire húmedo se enfría, el vapor se condensa en gotas y esas gotas caen sobre el bosque: eso es la precipitación. La copa densa de los árboles intercepta buena parte de esa lluvia, de modo que el suelo conserva humedad y los arroyos mantienen su caudal durante todo el año. Entender el ciclo del agua explica la frondosidad de la selva amazónica.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.66,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v6",
+      "statement": "Un grupo de Bucaramanga compara el aire del parque con el del salón cerrado. ¿Cuál de estos métodos mide mejor el aire que los estudiantes expulsan al respirar?",
+      "context": "En una escuela de Bucaramanga, un grupo de cuarto grado compara el aire que se respira en el parque y en el salón con ventanas cerradas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Olere el aire del salón y decidir si huele a oficina",
+          "is_correct": false,
+          "feedback": "Incorrecto. El olfato no mide cantidades de gas y además la respiración no produce un olor que sirva para ese propósito."
+        },
+        {
+          "letter": "B",
+          "text": "Mirar por la ventana y anotar si el aire se ve turbio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un aire limpio y uno cargado de vapor de agua se ven igual; la vista no mide esa diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar un minuto quieto y anotar si se siente calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sensación de calor depende del ambiente y no indica cuánto aire exhala cada estudiante."
+        },
+        {
+          "letter": "D",
+          "text": "Exhalar por una pajita hacia un vaso con agua y contar las burbujas que se forman",
+          "is_correct": true,
+          "feedback": "Correcto. Al exhalar sobre el agua, el aire que sale empuja el líquido y produce burbujas que permiten comparar el volumen expulsado."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para medir una cantidad de aire expirado hace falta un indicador que cambie de forma visible con esa cantidad. Al exhalar sobre la superficie de un vaso con agua, si aparecen burbujas, se observa que el aire que sale del cuerpo trae vapor de agua en cantidad apreciable. El grupo puede comparar las burbujas de varios estudiantes y detectar diferencias entre ellos. Un método que produce un dato es utilizable; una impresión personal no lo es.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.64,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v7",
+      "statement": "Un equipo del Tolima quiere comparar la presión del aire en dos municipios que están a distinta altura. ¿Cuál plan les permite hacerlo mejor?",
+      "context": "En el Tolima, un equipo escolar compara cómo se comporta el agua en un municipio alto y en uno al nivel del mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner la misma olla con agua en los dos municipios y mirar cuánto color tiene el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del agua no guarda relación con la presión del aire, así que ese dato no mide nada útil."
+        },
+        {
+          "letter": "B",
+          "text": "Poner la misma olla con agua en los dos municipios, medir cuándo empieza a hervir y comparar los tiempos",
+          "is_correct": true,
+          "feedback": "Correcto. A mayor altura el aire pesa menos y el agua hierve antes, así que el tiempo de ebullición revela la diferencia."
+        },
+        {
+          "letter": "C",
+          "text": "Medir la altura de cada municipio en un mapa y comparar las distancias entre ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conocer la diferencia de altura es un dato del lugar, pero no muestra el efecto que tiene sobre el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Poner agua fría en los dos municipios y anotar cuánto tarda en enfriarse",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo de enfriamiento depende de muchos factores; el punto de ebullición sí responde a la presión."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La presión del aire disminuye con la altura porque el aire de arriba tiene menos aire encima que el de abajo. Cuando la presión es menor, el agua necesita menos energía para convertirse en vapor, por eso hierve a una temperatura más baja. En un municipio alto del Tolima, la misma olla empieza a hervir antes y con menos llama que en uno situado al nivel del mar. Comparar el tiempo de ebullición es una forma indirecta de conocer la presión del aire.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.62,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle-v8",
+      "statement": "Un productor de Arauca asegura que mañana el clima será seco porque hoy el aire se ve limpio. ¿Cuál de estas afirmaciones corrige mejor esa conclusión?",
+      "context": "En una finca de Arauca, un productor le dice a su nieto que mañana el clima será seco porque hoy el aire se ve limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aire limpio de hoy no garantiza el clima seco de mañana, porque el clima depende del promedio de muchos días",
+          "is_correct": true,
+          "feedback": "Correcto. El clima es un patrón de largo plazo, así que un solo día despejado no permite anticipar la lluvia de mañana."
+        },
+        {
+          "letter": "B",
+          "text": "El aire limpio de hoy sí garantiza el clima seco de mañana, porque el tiempo de un día predice el clima",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo de un día no predice el clima; el clima es el promedio de muchos años de observaciones."
+        },
+        {
+          "letter": "C",
+          "text": "El clima seco nunca ocurre en Arauca, porque esa zona siempre llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Arauca hay temporadas más secas y más lluviosas; esa afirmación exagera y no describe bien la región."
+        },
+        {
+          "letter": "D",
+          "text": "El clima de Arauca depende del brillo del Sol y no de la precipitación acumulada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El clima sí se describe con temperatura y precipitación; el brillo del Sol es un factor, no el clima completo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Distinguir entre tiempo y clima evita afirmaciones equivocadas. El tiempo es el estado del aire hoy; el clima es el patrón promedio de temperatura, lluvias y vientos de un lugar durante muchos años. Por eso un día despejado no permite asegurar que el día siguiente seguirá igual. Si una región es seca, esa afirmación se apoya en muchos años de registros y no en la observación de un solo día.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CIE-4-2026-W27-la-atmosfera-y-el-clima-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
