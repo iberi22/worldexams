@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-11-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.871Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v1",
+      "statement": "¿Qué muestran los vecinos al trabajar juntos para sacar el lodo?",
+      "context": "En Pasto, después de una fuerte lluvia el barrio quedó inundado y los vecinos formaron una minga para sacar el lodo de las casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestran que la lluvia fue muy fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La intensidad de la lluvia explica el inundamiento, pero no explica por qué los vecinos trabajaron unidos."
+        },
+        {
+          "letter": "B",
+          "text": "Muestran que están dispuestos a ayudarse unos a otros",
+          "is_correct": true,
+          "feedback": "Correcto. Al trabajar juntos sin que se lo pidan, los vecinos demuestran solidaridad frente a una dificultad común."
+        },
+        {
+          "letter": "C",
+          "text": "Muestran que el gobierno local no hizo nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lo que muestran es su disposición a ayudarse; el papel de las instituciones es otro asunto."
+        },
+        {
+          "letter": "D",
+          "text": "Muestran que ya no necesitan al municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ayudarse entre vecinos no significa dejar de necesitar las instituciones públicas, sino cumplir un deber comunitario."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La solidaridad es la disposición a ayudar a otras personas, sobre todo cuando tienen una dificultad. Después de la lluvia en Pasto, los vecinos formaron una minga para sacar el lodo porque juntos podían hacer en pocas horas lo que a una sola persona le habría costado días. Reconocer ese tipo de ayuda enseña a los niños que una comunidad es más fuerte que la suma de sus partes. También les muestra que la solidaridad no es solo para los momentos graves: se puede practicar todos los días, en cosas pequeñas como acompañar a un compañero o cuidar a un vecino mayor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v2",
+      "statement": "¿Qué actitud tomó ese niño al ceder su lugar?",
+      "context": "En Barrancabermeja, un niño cedió su lugar en la fila del parque a una señora que cargaba una bolsa pesada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tomó una actitud individualista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ceder el lugar a quien lo necesita es lo contrario del individualismo: significa pensar en la situación del otro."
+        },
+        {
+          "letter": "B",
+          "text": "Tomó una actitud de solicitud y respeto",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer que la señora necesitaba más su espacio y cederlo demuestra respeto y consideración."
+        },
+        {
+          "letter": "C",
+          "text": "Tomó una actitud de miedo hacia la señora",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hubo miedo en su decisión: lo que hizo fue reconocer una necesidad y responder a ella."
+        },
+        {
+          "letter": "D",
+          "text": "Tomó una actitud de indiferencia hacia los demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar a los demás sería lo contrario de lo que hizo, porque atendió justamente lo que la señora necesitaba."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La convivencia se construye con actitudes concretas frente a los demás. Ceder el espacio en una fila a una persona que lleva algo pesado es un ejemplo de consideración: el niño notó una dificultad y respondió a ella. Esa forma de actuar enseña que no hace falta un motivo grave para ayudar, porque en la vida diaria aparecen situaciones pequeñas donde basta con ponerse en el lugar del otro. Reconocer estas situaciones de respeto construye un clima de barrio en el que todos se sienten tenidos en cuenta.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es importante que un programa de ayuda lo organice el municipio y no solo los particulares?",
+      "context": "En el municipio de Chía, la alcaldía creó un programa de ayuda para las personas mayores que viven solas y tienen pocas posibilidades.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los particulares nunca pueden ayudar a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los particulares sí pueden ayudar, como cuando los vecinos forman una minga; lo que no pueden es sostener un programa a gran escala."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así los particulares no participan en nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa municipal no impide que los particulares ayuden: las dos cosas pueden ocurrir al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el programa municipal sí tiene alcance y puede llegar a más personas",
+          "is_correct": true,
+          "feedback": "Correcto. El municipio tiene recursos y organización para extender una ayuda que llegue a muchas más personas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el programa municipal evita que las personas aprendan a defenderse solas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El programa busca ayudar a personas con pocas posibilidades, no evitar que aprendan a defenderse por sí mismos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En Colombia las instituciones públicas existen para atender a las personas que solas no pueden resolver todo, como las mayores que viven solas y no tienen suficientes ingresos. Un programa municipal puede incluir visitas a domicilio, apoyo en alimentos y acompañamiento de salud. Los particulares pueden ayudar, pero su ayuda rara vez alcanza a muchas más personas del municipio. Reconocer la diferencia entre la ayuda privada y la ayuda institucional enseña a los niños que la solidaridad se necesita de dos formas: la de los vecinos y la del Estado que organiza los recursos de todos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v4",
+      "statement": "¿Qué muestra esa cadena de ayudas entre barrios?",
+      "context": "En Quibdó, un barrio con buenos recursos ayudó a un barrio vecino que fue afectado por el río, y meses después ese barrio ya recuperado ayudó a otro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que solo los barrios con recursos pueden ayudar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ayuda circula entre barrios sin importar si tienen o no recursos; lo que cambia es el momento en que se pide."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que quien tiene más tiene la obligación de dar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie tiene la obligación de ayudar solo por tener más cosas: la ayuda es una decisión libre y se ofrece por empatía."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que la desigualdad entre barrios no desaparece nunca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que hay barrios con más recursos, pero el ejemplo muestra que la asistencia puede reducir las brechas."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que la ayuda puede cambiar la situación de un barrio",
+          "is_correct": true,
+          "feedback": "Correcto. Recibir apoyo permite a un barrio afectado recuperarse más rápido, así que la solidaridad tiene efectos reales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La desigualdad entre los barrios de una ciudad se nota en los recursos que tiene cada uno: unos tienen más agua, más caminos y más servicios, mientras otros pasan necesidades. Cuando un barrio con recursos ayuda a uno que fue afectado por el río, cambia parte de su situación y sus habitantes recuperan más rápido la normalidad. Ese ejemplo enseña a los niños que la solidaridad tiene consecuencias materiales y no solo gestos. También les muestra que pedir ayuda no es una vergüenza, sino una forma sana de resolver un problema común.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v5",
+      "statement": "¿Qué hace mejor esa niña para ayudarlo de verdad?",
+      "context": "En Duitama, una niña vio a un compañero nuevo que no conocía a nadie en el recreo y estaba solo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejarlo solo hasta que él se acerque a alguien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que el compañero busque ayuda puede dejarlo mucho tiempo solo a quien más lo necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Contarle a todos que el nuevo es tímido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacer pública la timidez de un compañero no lo ayuda y lo expone a las burlas del grupo."
+        },
+        {
+          "letter": "C",
+          "text": "Ir hasta él, presentarse y proponerle jugar con su grupo",
+          "is_correct": true,
+          "feedback": "Correcto. Darse a conocer e invitarlo al juego es la ayuda más concreta: le quita el aislamiento y lo incluye de verdad."
+        },
+        {
+          "letter": "D",
+          "text": "Contarle a la profesora para que ella lo obligue a participar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Obligar a alguien no genera amistad: la ayuda real es acercarse con respeto y ofrecerle compañía."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La solidaridad se demuestra en las acciones concretas, no en las intenciones. Cuando un compañero nuevo llega al colegio y no conoce a nadie, quedarse callado mientras los demás siguen con sus juegos lo deja más solo todavía. Lo que funciona es acercarse, presentarse y ofrecer algo para hacer juntos. Esa actitud enseña a los niños que incluir a alguien es tan importante como ayudarlo con una tarea, porque la soledad en el colegio también es una dificultad real. Reconocerlo ayuda a que ningún compañero se sienta ignorado por timidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera esa ayuda cambia la situación económica de esa familia?",
+      "context": "En Mutidia, los vecinos de un barrio llevaron alimentos a una familia que perdió su trabajo y no tenía ingresos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No la cambia, porque regalar comida no sirve para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regalar alimentos libera recursos: la familia no tiene que pagar lo que habría comprado para comer."
+        },
+        {
+          "letter": "B",
+          "text": "La cambia solo por unos días y después no sirve más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si la familia recupera su trabajo gracias al tiempo que le ahorra el alimento, el efecto puede durar más que unos días."
+        },
+        {
+          "letter": "C",
+          "text": "La cambia mientras dura la donación, y eso ya es suficiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es cierto que la donación ayuda mientras dura, pero también le da tiempo a la familia para buscar un empleo estable."
+        },
+        {
+          "letter": "D",
+          "text": "Le da tiempo y recursos para buscar trabajo mientras tiene qué comer",
+          "is_correct": true,
+          "feedback": "Correcto. Con el alimento asegurado puede seguir buscando empleo sin la presión de no tener qué comer hoy."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La solidaridad tiene efectos económicos cuando llega a tiempo. Una familia que perdió su trabajo enfrenta un problema serio: necesita comer todos los días mientras busca uno nuevo. Si los vecinos le aportan alimentos, esa presión desaparece y puede seguir buscando empleo con tranquilidad. Además, esa ayuda cubre parte del dinero que se habría gastado en comida, lo que deja un pequeño ahorro. Reconocer estas consecuencias económicas de la ayuda enseña a los niños que un gesto de solidaridad puede ser, para otra persona, la diferencia entre mantener su casa o perderla.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿qué hecho muestra mejor que la ayuda se puede organizar desde el mismo espacio?",
+      "context": "En el barrio San José de Neiva hay un punto de encuentro, una panadería, una señora mayor sola y un niño al que nadie atiende.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la panadería queda en la acera de la esquina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ubicación de un local no demuestra que los vecinos puedan organizarse para ayudarse entre ellos."
+        },
+        {
+          "letter": "B",
+          "text": "Que la señora mayor vive a cuatro cuadras del punto de encuentro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber a qué distancia vive alguien es un dato de sitio, pero no muestra que la ayuda se organice desde el espacio."
+        },
+        {
+          "letter": "C",
+          "text": "Que el punto de encuentro está lejos de todas las tiendas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa distancia es un dato de ubicación y no explica que los vecinos se organicen para ayudar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el punto de encuentro está donde también están la panadería y las personas",
+          "is_correct": true,
+          "feedback": "Correcto. Un espacio común con la tienda y las personas permite que los vecinos se encuentren y organicen la ayuda."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un espacio común hace posible la solidaridad porque permite que las personas se encuentren y hablen de lo que está pasando. En el barrio San José, el punto de encuentro está en el mismo lugar donde funciona la panadería y donde circulan las personas, así que es el lugar natural para acordar una ayuda. Si cada persona estuviera aislada en su casa, sería más difícil enterarse de que alguien necesita apoyo y organizar la respuesta. Reconocer esa relación con el espacio enseña a los niños que un buen espacio público no es solo un lugar para pasar, sino un lugar para construir comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle-v8",
+      "statement": "¿Qué hace mejor el colegio con esa campaña?",
+      "context": "En Florencia, Caquetá, una familia perdió todo en una inundación y el colegio decidió abrir una campaña para recoger lo que esa familia necesita.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publicar la historia de la familia para que todos la conozcan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Publicar la historia sin permiso expone a la familia y no le entrega lo que necesita para recuperarse."
+        },
+        {
+          "letter": "B",
+          "text": "Usar el dinero recogido para comprar un regalo para los niños del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese uso del dinero ayudaría a otros y no a la familia que perdió todo, que es quien de verdad necesita."
+        },
+        {
+          "letter": "C",
+          "text": "Contarle a la familia que no se preocupe porque todo saldrá bien",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir palabras bonitas no resuelve la situación material: la familia necesita cosas concretas."
+        },
+        {
+          "letter": "D",
+          "text": "Recoger lo que la familia necesita y entregárselo con respeto",
+          "is_correct": true,
+          "feedback": "Correcto. Reunir lo que la familia necesita y entregárselo sin exposición satisface la ayuda concreta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ayuda de verdad se mide por lo que resuelve, no por lo que dice. Una familia que perdió todo en una inundación necesita algo para comer, ropa limpia y un lugar donde dormir, no palabras de consuelo. Una campaña que recoge esos elementos y los entrega con respeto cumple con la solidaridad de manera concreta. Además, entregar sin ridiculizar a la persona mantiene su dignidad, que es tan importante como la ayuda material. Reconocer esto enseña a los niños a ayudar bien: hay que resolver la necesidad sin dañar la dignidad de quien la tiene.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W11-la-solidaridad-y-la-ayuda-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

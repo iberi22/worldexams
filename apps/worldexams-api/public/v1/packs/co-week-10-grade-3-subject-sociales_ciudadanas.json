@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.870Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v1",
+      "statement": "¿Qué derecho tiene María al ser atendida en la posta de salud para su vacuna?",
+      "context": "En Cartagena, María tiene siete años y su mamá la lleva a la posta de salud del barrio para la vacuna contra la poliomielitis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El derecho a la salud",
+          "is_correct": true,
+          "feedback": "Correcto. La salud es un derecho en Colombia, y por eso María tiene derecho a recibir la vacuna sin pagar en la posta pública."
+        },
+        {
+          "letter": "B",
+          "text": "El derecho a conducir vehículos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conducir vehículos es algo que se hace al llegar a la mayoría de edad, no un derecho de una niña de siete años."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho a votar en las elecciones del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El voto es un derecho que se ejerce a partir de los dieciocho años, así que María todavía no puede votar."
+        },
+        {
+          "letter": "D",
+          "text": "El derecho a tener un negocio propio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abrir un negocio es tarea de las personas adultas que ya pueden trabajar por sí mismas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos son las garantías que el Estado reconoce a todas las personas, sin importar su edad ni su situación económica. Entre ellos están el derecho a la salud, a la educación y a la vivienda. María tiene siete años, así que no puede ejercer ciertos derechos que se reservan para los mayores de edad, como votar o conducir. Ese dato es importante, porque enseña que conocer la diferencia entre un derecho de un niño y un derecho de un adulto es parte de la educación ciudadana. Lo que corresponde a todas las edades es vivir digna y sanamente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v2",
+      "statement": "¿Qué hizo bien el niño que recogió el papel?",
+      "context": "En el salón de clase de Rionegro, un niño tiró un papel al piso y otro compañero lo recogió.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumplió la orden que le había dado el maestro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie le ordenó recogerlo: lo hizo por decisión propia para cuidar la clase."
+        },
+        {
+          "letter": "B",
+          "text": "Siguió la regla de tirar papeles largos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla de la clase no es tirar papeles largos, sino mantener el espacio limpio."
+        },
+        {
+          "letter": "C",
+          "text": "Evitó que el maestro se molestara con él",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su motivo no fue evitar la molestia del maestro, sino cuidar el salón para que todos estuvieran bien."
+        },
+        {
+          "letter": "D",
+          "text": "Cumplió el deber de cuidar el espacio que todos comparten",
+          "is_correct": true,
+          "feedback": "Correcto. Recoger lo que otro dejó sucio es cumplir el deber de cuidar un espacio que pertenece a todo el grupo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los deberes son las responsabilidades que tenemos frente a los demás y frente al lugar donde vivimos. En un salón de clase, el deber de todos es mantener el espacio limpio para que todos puedan estudiar cómodamente. Cuando un niño recoge un papel que otro dejó tirado, está cumpliendo ese deber sin que nadie se lo ordene. Esa actitud explica que los deberes no son solo órdenes: también son decisiones que tomamos para que los demás estén bien. Reconocerlo enseña a los niños que un deber cumplido por voluntad propia vale más que uno cumplido por fuerza.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es importante que esa norma se vote en el concejo y no la decida un solo funcionario?",
+      "context": "En Ibagué, el concejo municipal votó una norma que obliga a las tiendas a separar la basura antes de entregarla al servicio de aseo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así la norma sale más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. La rapidez no es la razón: lo importante es que la decisión la tome un cuerpo elegido por la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así solo los comerciantes votan a favor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que voten solo los comerciantes sería una decisión sin participación; el concejo representa a todo el municipio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las normas deben aprobarse con la participación de elegidos por la comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. El concejo municipal representa a los vecinos que lo eligieron, y por eso su decisión tiene legitimidad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el concejo cobra por aprobar cada norma",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los elegidos ejercen ese cargo de forma gratuita: cobrar no es parte de su trabajo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una democracia las normas las aprueba un cuerpo elegido por la comunidad, como el concejo municipal, y no un solo funcionario. Cuando los elegidos deliberan y votan, la norma que sale de ahí tiene legitimidad porque representa a los vecinos. Además, durante el debate la gente puede expresar su desacuerdo y proponer ajustes, lo que hace que la norma se entienda mejor y se cumpla más. Reconocer este proceso enseña a los niños que la ley no es un capricho de alguien, sino un acuerdo de muchos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v4",
+      "statement": "¿Qué enseña el que cada grupo tenga sus propias normas?",
+      "context": "En un colegio de Cúcuta hay una clase para niños con discapacidad visual y otra clase común, y en cada grupo hay normas distintas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que unas normas sirven y otras no",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay normas que sirvan y otras que no: cada una responde a una situación y a unas necesidades concretas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las normas dependen de las necesidades de cada grupo",
+          "is_correct": true,
+          "feedback": "Correcto. Las normas se ajustan a lo que cada grupo necesita, y por eso un mismo salón puede tener reglas distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Que los niños con discapacidad son menos importantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener normas propias responde a una necesidad específica y no significa que esas personas valgan menos."
+        },
+        {
+          "letter": "D",
+          "text": "Que todos los grupos podrían usar las mismas reglas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada grupo tiene necesidades distintas, así que un mismo reglamento no le sirve igual a todos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las normas se crean para resolver situaciones concretas. En una clase para niños con discapacidad visual, por ejemplo, se necesita avisar de cada cambio en el salón porque no se ven los movimientos. En una clase común, la norma puede ser otra, como la de no correr por los pasillos. Ninguna de esas normas es mejor que la otra: cada una responde a una necesidad específica de las personas que viven en ese espacio. Reconocer esta relación con la identidad enseña a los niños que vivir en comunidad significa considerar lo que cada persona necesita para estar bien.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v5",
+      "statement": "¿Qué decisión toma mejor ese niño?",
+      "context": "En Tunja, un niño quiere jugar con la pelota en el patio, pero hay un aviso de que ese espacio está reservado para una clase de educación física.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Respetar el aviso y buscar otro espacio o esperar su turno",
+          "is_correct": true,
+          "feedback": "Correcto. Cumplir la norma del aviso respeta a los demás y permite que el espacio se use de manera ordenada."
+        },
+        {
+          "letter": "B",
+          "text": "Jugar igual, porque todos usan el patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso existe por una razón: en ese horario el patio se usa para una clase de educación física."
+        },
+        {
+          "letter": "C",
+          "text": "Jugar mientras los niños de la clase están distraídos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aprovechar la falta de atención de los demás para hacer algo prohibido es una falta de respeto."
+        },
+        {
+          "letter": "D",
+          "text": "Romper el aviso para poder jugar cuando quiera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Romper el aviso daña algo que pertenece a la escuela y le quita el uso del espacio a quienes lo necesitan."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los derechos y los deberes van de la mano. El colegio tiene el derecho a usar su patio para la educación física, y los niños tienen el deber de respetar ese uso. Cumplir un deber no significa quedarse siempre sin hacer lo que uno quiere: significa entender que el espacio se comparte y que hay horarios y normas para que todos puedan usarlo. Cuando el niño respeta el aviso, aprende algo más valioso que jugar: aprende que respetar las reglas permite que los demás también puedan disfrutar de lo mismo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera ese cambio afecta la economía de las familias del municipio?",
+      "context": "En Garzón, Huila, el municipio cambió el alumbrado público por bombillos LED y después las facturas de luz bajaron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las hace más pobres porque pagan menos luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pagar menos no empobrece: deja más dinero disponible para otras necesidades del hogar."
+        },
+        {
+          "letter": "B",
+          "text": "No las afecta de ninguna manera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La factura de luz es parte del gasto del hogar, así que su cambio sí tiene efecto en la economía familiar."
+        },
+        {
+          "letter": "C",
+          "text": "Les deja más dinero disponible para otras necesidades",
+          "is_correct": true,
+          "feedback": "Correcto. Con una factura más baja queda dinero para la alimentación o para la educación de los hijos."
+        },
+        {
+          "letter": "D",
+          "text": "Las obliga a pagar más por el alumbrado público",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bombillos LED son más eficientes, así que el municipio gasta menos energía y las familias pagan menos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La forma como se administra un recurso natural afecta la economía de las familias. Si el municipio cambia el alumbrado público a bombillos LED, el consumo de energía disminuye y la factura de luz baja. Ese ahorro se acumula cada mes y las familias pueden usarlo para la alimentación, la educación o la salud. Entender esta relación enseña a los niños que las decisiones del municipio sobre servicios básicos tienen efectos concretos en la vida cotidiana. También les muestra por qué el ahorro de energía es un asunto de todos y no solo de las instituciones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v7",
+      "statement": "En ese parque, ¿qué hecho muestra que el espacio se tuvo en cuenta para todas las personas?",
+      "context": "En un parque de Palmira hay una fuente, un banco con un aviso de propiedad y una zona de juegos para niños.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la fuente está cerca del banco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa cercanía es un dato de ubicación, pero no muestra que el espacio esté pensado para todas las personas."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay una fuente para beber, un banco para descansar y una zona para jugar",
+          "is_correct": true,
+          "feedback": "Correcto. Cada elemento responde a una necesidad distinta y por eso el espacio sirve para personas diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "Que la zona de juegos tiene un vigilante",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener un vigilante es una medida de cuidado, pero no demuestra que el espacio se diseñara para todas las personas."
+        },
+        {
+          "letter": "D",
+          "text": "Que el parque abre solamente por las mañanas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horario no muestra si el espacio tiene en cuenta a las diferentes personas que lo usan."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un espacio público bien diseñado tiene en cuenta las necesidades de las personas que lo usan. Una fuente permite beber, un banco permite descansar y una zona de juegos permite jugar. No es lo mismo un espacio pensado solo para los niños que uno pensado solo para los adultos: lo mejor es que tenga opciones para todos. Reconocer esta relación con el espacio enseña a los niños a evaluar si un lugar es incluyente y a proponer mejoras concretas cuando les falta algo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle-v8",
+      "statement": "¿Qué hace mejor ese niño para cuidar el río y a las personas que viven cerca?",
+      "context": "En un parque de Yopal, un niño ve que un grupo de niños está botando basura al río aunque hay una caneca al lado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirarse al agua para sacar la basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lanzarse a un río es un peligro enorme para su vida y no es la forma correcta de resolver el daño."
+        },
+        {
+          "letter": "B",
+          "text": "Dejarlos hacer y no decir nada para no meterse en líos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quedarse callado permite que la contaminación siga y le hace daño al barrio sin que nadie avise."
+        },
+        {
+          "letter": "C",
+          "text": "Ir a contárselo a todos para que se rían de ellos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hacerlos objeto de burla es una falta de respeto y no cuida el río: lo único que logra es humillarlos."
+        },
+        {
+          "letter": "D",
+          "text": "Hablar con ellos y pedirles que tiren la basura en la caneca",
+          "is_correct": true,
+          "feedback": "Correcto. Pedirles con respeto que usen la caneca protege el río y evita una situación de confrontación."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuidar los espacios que usamos es un deber de todos, no solo de una persona. Si alguien en el parque está botando basura al río, la mejor reacción es hablarle con respeto y pedirle que use la caneca, que está justo al lado. Esa forma de actuar cumple con el deber de cuidar el río sin humillar a los demás. También enseña que pedir un cambio de actitud con respeto funciona mejor que usar la burla, porque la persona se siente escuchada y puede cambiar.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W10-los-derechos-y-los-deberes-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

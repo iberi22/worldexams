@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-8-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.870Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v1",
+      "statement": "¿Con qué medio de transporte viajan doña Rosa y sus hijos?",
+      "context": "En Cali, doña Rosa toma el bus municipal todas las mañanas y sus hijos van al colegio en el mismo bus.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En bicicleta por la ciclovía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La bicicleta es otro medio de transporte, pero ellos viajan en bus y no usan la ciclovía del barrio."
+        },
+        {
+          "letter": "B",
+          "text": "En bus",
+          "is_correct": true,
+          "feedback": "Correcto. El bus lleva a varias personas al mismo tiempo por rutas ya establecidas de la ciudad."
+        },
+        {
+          "letter": "C",
+          "text": "A pie por la acera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Caminar es una forma de desplazarse, pero doña Rosa y sus hijos se mueven en bus."
+        },
+        {
+          "letter": "D",
+          "text": "En lancha por el río",
+          "is_correct": false,
+          "feedback": "Incorrecto. En Cali no se usan lanchas para el transporte diario dentro de la ciudad; ellos usan el bus."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los medios de transporte de una ciudad son varios: el bus, el carro, la bicicleta, la motocicleta, el tren y el metro, según el lugar. En Cali, doña Rosa y sus hijos usan el bus, que es un transporte colectivo porque lleva a muchos pasajeros al mismo tiempo. Cada medio tiene ventajas y dificultades: el bus es económico pero puede ir lento y lleno, mientras el carro es más cómodo pero más caro. Conocer los medios de transporte de mi ciudad me permite elegir con criterio y valorar el trabajo de quienes hacen que todos lleguen a tiempo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué hizo bien el pasajero que le dio el puesto a la señora?",
+      "context": "En un bus de Bogotá, un pasajero le dio el puesto a una señora mayor que subía con su bastón.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cumplió una norma del tránsito del bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas del tránsito hablan de paradas y semáforos, no de ceder el asiento a otra persona."
+        },
+        {
+          "letter": "B",
+          "text": "Obedeció a la señora que se lo pidió",
+          "is_correct": false,
+          "feedback": "Incorrecto. Él ofrece el puesto por respeto y amabilidad, no porque la señora se lo pidiera."
+        },
+        {
+          "letter": "C",
+          "text": "Siguió la regla de que el bus va siempre lleno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El bus lleno es una característica del trayecto, no una regla que obligue a actuar de cierta manera."
+        },
+        {
+          "letter": "D",
+          "text": "Mostró respeto y cuidado por una persona mayor",
+          "is_correct": true,
+          "feedback": "Correcto. Ceder el asiento sin que se lo pidan es un gesto de respeto hacia quien llega con dificultad para ponerse de pie."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un transporte compartido como el bus conviven muchas personas con necesidades distintas. Los niños, las personas mayores, las madres con un bebé y las personas con discapacidad necesitan consideraciones especiales. Ceder el puesto no es un trámite, pero sí es una muestra de respeto y de cuidado por el otro. Ese tipo de gestos pequeños hacen que un espacio compartido se sienta más agradable para todos. Reconocerlos enseña a los niños a pensar en las necesidades ajenas antes de retomar ellos mismos un lugar cómodo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es importante que el municipio decida y explique cómo se usan las calles?",
+      "context": "En Medellín, el municipio construyó un corredor de bus para que los ciudadanos llegaran más rápido y quitó un carril para carros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así se respeta el derecho de todos a moverse por la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. Regular el uso de las calles con criterios públicos hace posible que realmente todos puedan moverse."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las calles solo deben usarlas los carros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las calles son de todos los ciudadanos, no solo de quienes viajan en carro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque las calles no necesitan ningún plan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las calles de una ciudad grande necesitan un plan, porque sin orden se vuelven un caos para todos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque las calles deben quedar siempre vacías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar las calles vacías impediría el desplazamiento de las personas y el trabajo de los comercios."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una ciudad como Medellín las calles no alcanzan para todos los carros, así que el municipio debe decidir cómo se usan. Cuando abre un corredor de bus y quita un carril para carros, está tomando una decisión que cambia la vida de miles de personas. Por eso es importante que esa decisión se tome con participación de la gente y se explique por medios de comunicación, para que cada cual sepa por qué pasó y pueda opinar. Reconocer que el espacio público se administra democráticamente enseña a los niños que las calles también son un asunto de ciudadanía y no solo un tema de tráfico.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué dificultad crea para esas personas que no haya una ruta de bus cerca de sus fincas?",
+      "context": "En Pereira hay rutas de bus, pero en el sector de las fincas los señores se desplazan caminando por caminos de herradura.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no puedan vender sus productos en el mercado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí pueden vender en el mercado; lo que cambia es el tiempo que tardan en llegar."
+        },
+        {
+          "letter": "B",
+          "text": "Que tarden más tiempo y con más esfuerzo para llegar a su trabajo y a la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. Sin transporte cercano dependen de caminos rurales, así que sus desplazamientos son más largos y más duros."
+        },
+        {
+          "letter": "C",
+          "text": "Que pierdan el derecho a votar en las elecciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El derecho a votar no depende de si hay o no una ruta de bus cerca de la finca."
+        },
+        {
+          "letter": "D",
+          "text": "Que el municipio tenga que cambiar de nombre",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dificultad es de movilidad y no tiene que ver con el nombre del municipio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La distribución del transporte en una ciudad no es igual para todos. Las personas que viven cerca de rutas de bus o de estaciones llegan más fácil a su trabajo, al colegio y al mercado. En cambio, quienes viven lejos de esas rutas dependen de caminos rurales y tardan más. Esa diferencia crea desigualdades reales entre vecinos que viven a poca distancia uno del otro. Reconocerla enseña a los niños a mirar el barrio con atención y a pensar en las necesidades de las personas que viven de otra manera.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué actuación aporta más al cuidado del parque de Armenia?",
+      "context": "En Armenia, un niño vio a un hombre dejar basura en el parque y después vio a otro niño recogerla y echarla en el caneco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar la basura hasta que alguien la recoja",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar a que otro resuelva aumenta el problema, porque la basura se acumula y afecta a todos."
+        },
+        {
+          "letter": "B",
+          "text": "Contarle a un amigo lo que vio y no hacer nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contarlo no resuelve el daño hecho: el parque sigue sucio mientras todos solo comenta."
+        },
+        {
+          "letter": "C",
+          "text": "Recoger la basura y echarla en el caneco",
+          "is_correct": true,
+          "feedback": "Correcto. Recoger lo que otro dejó sucio y tirarlo en el lugar correcto cuida el parque y resuelve el problema de inmediato."
+        },
+        {
+          "letter": "D",
+          "text": "Mover la basura a otro lugar del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la basura de sitio no elimina el problema, porque la mugre sigue en el mismo parque."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El espacio público de una ciudad es de todos, y cada persona que lo usa deja su huella en él. Cuando alguien deja basura en el parque y otro la recoge, se forma una cadena de cuidados entre vecinos. Reconocer esa diferencia enseña a los niños que la limpieza del barrio depende de las decisiones que tomamos cada día, y que una acción pequeña puede mejorar el lugar donde juegan. También les muestra que respetar el trabajo de quien limpia, que muchas veces es una persona del barrio, es parte del respeto por los demás.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v6",
+      "statement": "Si una ciudad usa bombillos LED, ¿qué efecto puede tener en su economía?",
+      "context": "En Tunja, el municipio cambió las luces de las calles por bombillos LED y en la misma época algunos comercios instalaron luces LED en sus locales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las luces se gasten más rápido que antes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los bombillos LED duran mucho más que los bombillos antiguos: ese es precisamente su ventaja."
+        },
+        {
+          "letter": "B",
+          "text": "Que la ciudad deje de necesitar electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La iluminación LED sigue usando electricidad, solo que consume mucho menos que antes."
+        },
+        {
+          "letter": "C",
+          "text": "Que la energía se vuelva más cara para todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El uso de bombillos eficientes disminuye el consumo total de energía y por eso ayuda a que no suba el costo."
+        },
+        {
+          "letter": "D",
+          "text": "Que se ahorre electricidad y baje el costo del servicio",
+          "is_correct": true,
+          "feedback": "Correcto. Al usar menos energía se paga menos en la factura, y ese ahorro deja más dinero para otros gastos del hogar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los recursos naturales como el agua y la electricidad se pueden usar de manera más inteligente. Un bombillo LED consume menos energía que uno antiguo y además dura más tiempo. Cuando una ciudad cambia su iluminación a bombillos LED, reduce el consumo de electricidad, lo que se refleja en facturas más bajas para las familias y en un menor gasto para el municipio. Ese dinero ahorrado puede usarse en otras necesidades. Entender esta relación ayuda a los niños a ver que el ahorro de energía tiene efectos económicos reales en su casa y en la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿qué muestra mejor cómo está organizado el espacio para que la gente se mueva con facilidad?",
+      "context": "En el barrio La Ceiba de Neiva hay una panadería, una parada de buses, un parque y una escuela, y todos están alrededor de la plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la parada de buses está cerca de la plaza donde la gente camina",
+          "is_correct": true,
+          "feedback": "Correcto. Ubicar el transporte junto al espacio donde camina la gente hace más corto y más seguro el trayecto."
+        },
+        {
+          "letter": "B",
+          "text": "Que la panadería está en una casa habitada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Saber en qué tipo de edificio está un negocio no dice nada sobre si el espacio permite moverse con facilidad."
+        },
+        {
+          "letter": "C",
+          "text": "Que el parque está lejos de la plaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el parque está lejos de la plaza, los vecinos deben recorrer más distancia para poder usarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Que la escuela abre solamente en la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horario de un colegio no explica cómo está organizado el espacio ni facilita el desplazamiento de la gente."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La forma como se organizan los espacios de un barrio influye en si las personas pueden moverse con facilidad o si tienen que recorrer distancias largas. En un barrio donde la parada de buses está junto a la plaza, quien camina hasta la plaza encuentra de paso el transporte que necesita, así que su trayecto es corto y seguro. Si en cambio los servicios quedan muy separados, las personas mayores y los niños tienen que caminar más y con más riesgo. Observar esa distribución enseña a los niños a mirar su barrio como un espacio diseñado, no como un lugar que apareció sin planeación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué actuación demuestra mejor que esos niños son ciudadanos responsables de su ciudad?",
+      "context": "En un parque de Cartagena, un grupo de niños vio que no había canecas y que había basura regada en el pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tirar más basura porque no hay canecas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de canecas no justifica ensuciar el parque: eso hace más grande el problema que quieren resolver."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que el parque se llene de basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar sin actuar no resuelve nada, y el espacio público se deteriora mientras tanto."
+        },
+        {
+          "letter": "C",
+          "text": "Hablar con el municipio para que coloque más canecas y más papeleras",
+          "is_correct": true,
+          "feedback": "Correcto. Reconocer el problema y buscar la solución con quien tiene la autoridad para resolverlo es un acto de ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Llevarse la basura a la casa y echarla al río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Llevar la basura a la casa y tirarla al río no resuelve el problema de fondo y contamina un nuevo lugar."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ser ciudadano responsable no significa solo obedecer, sino también proponer soluciones a los problemas del lugar donde se vive. Si en un parque no hay suficientes canecas, los niños pueden observar el problema, entender a qué se debe y acudir a la institución encargada de mantener ese espacio. Plantear la necesidad de más canecas y de más papeleras es una gestión concreta que puede mejorar el uso del parque para todos. Esa actitud enseña a los niños que la ciudadanía se ejerce en lo cotidiano y que cada persona puede ayudar a cuidar su ciudad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W08-la-transporte-y-la-ciudad-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

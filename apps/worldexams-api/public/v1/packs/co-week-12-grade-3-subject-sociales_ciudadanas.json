@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-12-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.871Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v1",
+      "statement": "¿Qué hicieron esos dos niños después de discutir?",
+      "context": "en Maunaú, dos niños discutieron por una pelota y después hablaron del problema con la maestra y volvieron a jugar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se pelearon más fuerte hasta que llegó un adulto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Seguir con la pelea hace que el conflicto crezca en lugar de resolverse."
+        },
+        {
+          "letter": "B",
+          "text": "Cada uno se fue y nunca volvió a hablar con el otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. Evitar al otro deja el conflicto abierto y deteriora la relación entre los dos."
+        },
+        {
+          "letter": "C",
+          "text": "Hablaron con la maestra y después volvieron a jugar juntos",
+          "is_correct": true,
+          "feedback": "Correcto. Recurrieron a una autoridad del colegio para mediar y luego retomaron la amistad."
+        },
+        {
+          "letter": "D",
+          "text": "Dejaron la pelota en el suelo para no discutir más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abandonar el objeto evita la pelea en ese momento, pero no resuelve el desacuerdo de fondo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los conflictos son normales entre personas que comparten un espacio, y lo importante no es que nunca ocurran, sino saber resolverlos. Cuando dos niños discuten, pueden resolver el problema hablando directamente, buscando la mediación de un adulto o recurriendo a las reglas del colegio. En este caso, hablar con la maestra permitió entender qué había pasado y volver a jugar en paz. Reconocer ese camino enseña que la paz no es la ausencia de problemas, sino la capacidad de resolverlos con diálogo y respeto.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v2",
+      "statement": "¿Qué norma del colegio ayuda a que la salida al patio sea ordenada?",
+      "context": "En la escuela de Maicao, el timbre del recreo suena y los niños salen al patio ordenadamente, sin correr.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos corran para salir primero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correr para salir primero produce empujones y es la causa del desorden, no la solución."
+        },
+        {
+          "letter": "B",
+          "text": "Que se camine con cuidado y se respete a los demás",
+          "is_correct": true,
+          "feedback": "Correcto. Esa norma protege a todos, porque caminar con cuidado evita golpes y permite una salida ordenada."
+        },
+        {
+          "letter": "C",
+          "text": "Que uno solo salga primero sin avisar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Salir uno solo sin avisar rompe la organización y deja a los demás sin saber qué hacer."
+        },
+        {
+          "letter": "D",
+          "text": "Que nadie salga nunca del salón",
+          "is_correct": false,
+          "feedback": "Incorrecto. No salir del salón no organiza mejor la salida: es mejor regular bien el movimiento de salida."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las normas de convivencia sirven para que las actividades colectivas funcionen bien. Cuando el timbre suena, muchos niños salen al mismo tiempo por la misma puerta, y ahí es donde se producen los golpes y los empujones. Por eso los colegios establecen normas como caminar, no correr y ceder el paso. Reconocer que esas reglas protegen a todos, y no solo a los más fuertes, enseña a los niños que el orden no es un capricho, sino una forma de cuidado mutuo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué el municipio usa esa estrategia en lugar de encerrar a los niños?",
+      "context": "En San José de Cúcuta, el municipio construyó una casa de convivencia donde los niños en conflicto con la ley reciben atención en vez de ser presos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque encerrar a los niños sale más barato",
+          "is_correct": false,
+          "feedback": "Incorrecto. La casa de convivencia no se crea por ahorro, sino porque es mejor para los niños y para la sociedad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así los niños pueden seguir cometiendo lo que quieren",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recibir atención no significa que los niños puedan actuar sin reglas: el programa incluye normas y acompañamiento."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así el país no necesita más escuelas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esta estrategia no reemplaza las escuelas: es una medida específica para situaciones especiales de los niños."
+        },
+        {
+          "letter": "D",
+          "text": "Porque ayuda a los niños a cambiar su comportamiento sin ir a la prisión",
+          "is_correct": true,
+          "feedback": "Correcto. La casa de convivencia da educación, acompañamiento y apoyo, que son las herramientas reales para cambiar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando un niño llega a una situación de conflicto con la ley, encerrarlo no suele resolver el problema que lo llevó hasta allí. La casa de convivencia combina educación, acompañamiento profesional, deporte y reglas claras para que el niño aprenda a controlar su comportamiento y pueda reincorporarse a la vida social. Esa estrategia reconoce que un niño es una persona que puede cambiar, no un caso perdido. Reconocerlo enseña a los niños que la justicia busca reparar y formar, no solo castigar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v4",
+      "statement": "¿Qué enseña el que los niños de lenguas diferentes estudien juntos?",
+      "context": "En Popayán hay niños indígenas que hablan su lengua y niños que hablan español, y todos estudian en la misma escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que se puede convivir con personas que tienen otra forma de expresarse",
+          "is_correct": true,
+          "feedback": "Correcto. La convivencia real incluye a las personas que hablan distinto y tienen otras costumbres."
+        },
+        {
+          "letter": "B",
+          "text": "Que hay que dejar de hablar la lengua propia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estudiar juntos no obliga a abandonar la lengua propia: ninguna norma pide eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que una sola lengua es mejor que las demás",
+          "is_correct": false,
+          "feedback": "Incorrecto. Estudiar juntos no demuestra que una lengua valga más que otra: son formas distintas de comunicarse."
+        },
+        {
+          "letter": "D",
+          "text": "Que el español debería desaparecer de la escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejemplo no pide eliminar ninguna lengua: enseña a convivir con la diferencia."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En Colombia viven personas de muchas culturas y muchas lenguas, y esa diversidad es parte del país. En una escuela de Popayán pueden coincidir niños que hablan español y niños que hablan una lengua indígena, y entre ellos hay que entenderse para poder trabajar juntos. Eso no significa que uno tenga que abandonar su forma de expresarse. Al contrario, aprender a convivir con la diferencia enseña que la comunidad se enriquece cuando cada grupo conserva su identidad y al mismo tiempo encuentra formas de encuentro con los demás.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v5",
+      "statement": "¿Qué hace mejor ese niño para que el nuevo compañero se sienta bienvenido?",
+      "context": "En Rionegro, un niño ve que un compañero nuevo llega con ropa distinta y los demás niños lo excluyen con risas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reírse también, para no ser el raro del grupo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reírse junto con los demás no protege a nadie y hace que el nuevo se sienta más excluido."
+        },
+        {
+          "letter": "B",
+          "text": "Saludarlo, presentarse y traerlo al grupo sin comentar su ropa",
+          "is_correct": true,
+          "feedback": "Correcto. Darle la bienvenida sin señalar la diferencia es la forma más efectiva de incluirlo de verdad."
+        },
+        {
+          "letter": "C",
+          "text": "Decirle al nuevo que se vista como todos desde mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decirle que cambie su ropa es una falta de respeto: no hay una sola forma correcta de vestirse."
+        },
+        {
+          "letter": "D",
+          "text": "Contarle a la profesora para que ella lo regañe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El problema no es la ropa del compañero sino la burla del grupo, y regañar no resuelve eso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La primera bienvenida que recibe una persona nueva en un grupo define mucho su experiencia. Un niño que entra al colegio con una ropa distinta, porque su cultura o su situación económica es otra, ya está en desventaja frente a las burlas. Lo que hace bien el compañero es ignorar la diferencia, saludar e invitar al grupo: así el nuevo siente que pertenece sin tener que parecerse a los demás. Reconocer esta reacción enseña que la convivencia se construye con normas de respeto, no con la exigencia de que todos sean iguales.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v6",
+      "statement": "¿De qué manera construir un puente de piedra que una a las dos familias mejora su situación?",
+      "context": "En Palmira, dos familias vivían en casas de madera separadas por un río pequeño que se desbordaba con las lluvias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No las mejora, porque con un puente siguen siendo iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puente sí cambia su situación: les permite moverse entre las dos casas sin depender del río."
+        },
+        {
+          "letter": "B",
+          "text": "Las hace más pobres por el costo de la obra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El costo se paga una vez, pero el beneficio de poder moverse y trabajar se repite todos los días."
+        },
+        {
+          "letter": "C",
+          "text": "Les permite moverse entre las casas y trabajar aunque el río crezca",
+          "is_correct": true,
+          "feedback": "Correcto. Con el puente, las familias pueden circular con seguridad y mantener sus actividades económicas en todo momento."
+        },
+        {
+          "letter": "D",
+          "text": "Les sirve solo para caminar más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El puente no tiene un beneficio limitado a la velocidad: resuelve el riesgo de que el río interrumpa su trabajo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las obras de infraestructura cambian la vida económica de las personas. Si dos familias están separadas por un río que se desborda con frecuencia, sus desplazamientos dependen del clima: hay días en que no pueden cruzar y se interrumpen el trabajo, el estudio y el comercio. Un puente de piedra elimina ese problema de forma permanente. Entender esta relación enseña a los niños que un camino, un puente o una calle bien construida no son solo obras de concreto: son condiciones para que las personas tengan un modo de vida estable.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿qué hecho muestra mejor que el espacio sirve para distintas formas de convivencia?",
+      "context": "En el barrio La Esperanza de Ibagué hay una cancha, una mesa de ajedrez y un tobogán, y todos están en la misma plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la plaza está cerca de la casa de todos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cercanía es un dato de ubicación, pero no muestra qué actividades permite cada elemento."
+        },
+        {
+          "letter": "B",
+          "text": "Que el tobogán lo usan mucho los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que los niños usen un elemento es un dato de uso, pero no muestra que haya distintas formas de convivencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que la mesa de ajedrez la usan los viejos y los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que compartan una mesa dos generaciones es buena señal, pero por sí solo no describe la variedad del espacio."
+        },
+        {
+          "letter": "D",
+          "text": "Que en la misma plaza hay una cancha, una mesa de ajedrez y un tobogán",
+          "is_correct": true,
+          "feedback": "Correcto. Cada elemento responde a una forma distinta de pasar el tiempo, así que el espacio sirve a personas diferentes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un espacio público bien usado ofrece varias posibilidades al mismo tiempo. Una cancha permite hacer deporte, una mesa de ajedrez permite conversar y pensar, y un tobogán permite jugar. Como están en la misma plaza, las distintas generaciones conviven en un mismo lugar: los niños juegan mientras los adultos conversan o hacen deporte. Reconocer esa variedad enseña a los niños a mirar los espacios de su barrio como lugares con múltiples posibilidades y no como áreas con una sola función.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle-v8",
+      "statement": "¿Qué hace mejor ese grupo de niños en esa situación?",
+      "context": "En Apartadó, un grupo de niños oye que dos vecinos están discutiendo por un lote de terreno y casi se van a los golpes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Llamar a una autoridad del barrio o a la policía",
+          "is_correct": true,
+          "feedback": "Correcto. Avisar a quien tiene la autoridad para mediar es la forma segura y correcta de evitar que la pelea escale."
+        },
+        {
+          "letter": "B",
+          "text": "Ir a contárselo a todo el barrio para que opinen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difundir la pelea hace que los demás intervengan con comentarios y agranda el conflicto entre los vecinos."
+        },
+        {
+          "letter": "C",
+          "text": "Ir a separar a los vecinos a la fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un niño no tiene cómo detener una pelea entre adultos: meterse de fuerza puede empeorar la situación."
+        },
+        {
+          "letter": "D",
+          "text": "Filmar la pelea con el teléfono y publicarla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Grabar y difundir una pelea invade la privacidad de los vecinos y hace más difícil el acuerdo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando dos adultos están a punto de lastimarse, un niño no debe intervenir físicamente porque no tiene cómo hacerlo con seguridad. Lo correcto es dar aviso a una autoridad del barrio o a la policía, que sí puede mediar y evitar que la situación llegue a las manos. Reconocer esta diferencia entre lo que un niño puede hacer y lo que le corresponde hacer enseña a los niños a buscar la ayuda adecuada en vez de improvisar. También les muestra que la convivencia se protege con los mecanismos que la comunidad construyó para eso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W12-la-convivencia-y-la-paz-001-MASTERY-bundle",
+      "periodo": 12,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
