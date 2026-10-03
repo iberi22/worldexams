@@ -21,7 +21,7 @@ creador: "Jules-Agent"
 
 # Los recursos naturales y la soberanía
 
-En esta semana estudiamos por que los recursos naturales sostienen la economia colombiana y por que su uso genera problemas ambientales. También aprendemos a valorar el agua, el suelo, los bosques y los minerales como bienes que debemos usar con cuidado.
+En esta semana estudiamos por qué los recursos naturales sostienen la economía colombiana y por qué su uso genera problemas ambientales. También aprendemos a valorar el agua, el suelo, los bosques y los minerales como bienes que debemos usar con cuidado.
 
 ## Question 1 [D3-D4]
 **ID:** CO-SOC-7-2026-W09-los-recursos-naturales-y-la-soberania-001-MASTERY-bundle-v1
