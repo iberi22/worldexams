@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-17-grade-4-subject-lengua",
+    "generated_at": "2026-10-03T23:20:28.470Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v1",
+      "statement": "Lee: \"La plaza de Bolívar estaba llena de personas curiosas\". ¿De qué se dice que estaban las personas?",
+      "context": "En clase de cuarto en Bogotá, la profesora escribió una descripción en el tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De personas que corrían.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción no dice que las personas corrieran, solo que eran curiosas."
+        },
+        {
+          "letter": "B",
+          "text": "De personas enojadas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción dice curiosas, no enojadas."
+        },
+        {
+          "letter": "C",
+          "text": "De personas curiosas.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la descripción dice que la plaza estaba llena de personas curiosas."
+        },
+        {
+          "letter": "D",
+          "text": "De niños pequeños.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no dice que fueran niños, solo que eran curiosas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La comprensión literal recupera la cualidad que el texto atribuye a las personas. Reconocer el adjetivo de una descripción es el primer paso para saber qué está diciendo el escritor.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v2",
+      "statement": "Frase uno: \"El mango es un árbol alto\". Frase dos: \"El mango es un árbol pequeño\". ¿Qué cualidad cambia entre las dos frases?",
+      "context": "En la clase de descripción de Bucaramanga, los niños leyeron dos frases sobre un árbol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El nombre del árbol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las dos frases hablan del mismo árbol, el mango."
+        },
+        {
+          "letter": "B",
+          "text": "El lugar donde está el árbol.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna de las dos frases menciona el lugar del árbol."
+        },
+        {
+          "letter": "C",
+          "text": "El color de las hojas.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna de las dos frases menciona el color de las hojas."
+        },
+        {
+          "letter": "D",
+          "text": "La altura del árbol.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la primera dice alto y la segunda pequeño, así que cambia la altura."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comparar dos descripciones permite ver qué cualidad cambia y cuál se mantiene. Reconocer eso ayuda a usar los adjetivos con precisión al escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v3",
+      "statement": "La frase dice: \"La bicicleta era roja\". ¿Qué palabra de esa frase es el adjetivo?",
+      "context": "En el taller de escritura de Tuluá, los niños completaron una descripción con adjetivos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Roja.",
+          "is_correct": true,
+          "feedback": "Es correcta porque \"roja\" indica el color de la bicicleta y por eso es un adjetivo."
+        },
+        {
+          "letter": "B",
+          "text": "Bicicleta.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque esa palabra es el nombre del objeto, no la cualidad que se le da."
+        },
+        {
+          "letter": "C",
+          "text": "Era.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"era\" es un verbo que une el sujeto con la cualidad."
+        },
+        {
+          "letter": "D",
+          "text": "La.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque \"la\" es un artículo que acompaña al nombre, no una cualidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Reconocer el adjetivo es identificar la palabra que da una cualidad al sustantivo. Ese trabajo permite revisar las descripciones y hacerlas más claras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v4",
+      "statement": "Él escribió: \"Mi abuela es alegre, aunque a veces se pone seria cuando llueve\". ¿Qué muestra esa descripción?",
+      "context": "En un concurso de descripciones en Villavicencio, un niño escribió sobre su abuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su abuela nunca cambia de ánimo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el niño dice que a veces se pone seria, así que sí cambia."
+        },
+        {
+          "letter": "B",
+          "text": "Que su abuela es alegre y a veces puede estar seria.",
+          "is_correct": true,
+          "feedback": "Es correcta porque las dos partes de la frase, alegre y seria, conviven en la descripción."
+        },
+        {
+          "letter": "C",
+          "text": "Que su abuela no habla con nadie.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción no dice que ella no hable con nadie."
+        },
+        {
+          "letter": "D",
+          "text": "Que su abuela solo está seria los días de lluvia en Tunja.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto no menciona ninguna ciudad, solo la lluvia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una descripción puede mostrar dos cualidades de una persona al mismo tiempo. Reconocer ambas ayuda a explicar mejor a alguien sin exagerar ni dejar de lado parte de su carácter.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v5",
+      "statement": "Versión uno: \"La casa era grande\". Versión dos: \"La casa era grande, blanca y estaba en el centro del pueblo\". ¿Qué aporta la versión dos?",
+      "context": "En el taller de descripción de Montería, los niños compararon dos versiones de una frase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menos información.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la versión dos da más datos, no menos."
+        },
+        {
+          "letter": "B",
+          "text": "Una opinión sobre el dueño de la casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la versión dos describe la casa y no dice nada de su dueño."
+        },
+        {
+          "letter": "C",
+          "text": "Más detalles sobre la casa.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la versión dos añade el color y la ubicación de la casa."
+        },
+        {
+          "letter": "D",
+          "text": "El precio de la casa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque ninguna de las dos frases habla de precios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una buena descripción dice cómo es algo y no solo una cosa. Añadir adjetivos y datos concretos permite que quien lee imagine mejor lo descrito.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.76,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v6",
+      "statement": "¿Qué entiende el lector de esa descripción?",
+      "context": "En un texto de cuarto grado de Quibdó, alguien describió así un mercado: \"El mercado era un río de personas y de colores\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el mercado estaba lleno de agua.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el río de personas es una imagen, no agua de verdad en el mercado."
+        },
+        {
+          "letter": "B",
+          "text": "Que el mercado era un río de verdad.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el texto usa una comparación y no dice que el mercado sea un río."
+        },
+        {
+          "letter": "C",
+          "text": "Que el mercado estaba vacío.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un río de personas indica que el lugar estaba lleno, no vacío."
+        },
+        {
+          "letter": "D",
+          "text": "Que en el mercado había mucha gente y muchos colores.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la imagen del río de personas y colores muestra un lugar lleno y lleno de movimiento."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una comparación une dos imágenes para comunicar una idea con más fuerza. Entender qué quiere decir la imagen ayuda a captar la situación que el escritor describe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.7,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v7",
+      "statement": "Descripción uno: \"El río está tranquilo\". Descripción dos: \"El río baja rápido entre las piedras\". ¿Qué relación hay entre las dos?",
+      "context": "En la clase de cuarto de Armenia, los niños compararon dos descripciones del mismo río.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos describen el río de manera distinta.",
+          "is_correct": true,
+          "feedback": "Es correcta porque cada descripción usa una cualidad diferente para decir cómo está el río."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos se contradicen.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque estar quieto y bajar rápido no puede ser verdad al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Solo la primera describe el río.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque las dos descripciones hablan del río."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos dicen lo mismo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque una descripción dice que está tranquilo y la otra que baja rápido."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un mismo lugar puede describirse de varias maneras. Saber qué adjetivo usa cada autor ayuda a elegir con qué palabras contar algo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Critico-Intertextual",
+      "expected_success": 0.68,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle-v8",
+      "statement": "La descripción que hicieron decía: \"Mi pueblo es bonito\". ¿Qué se evalúa de esa descripción?",
+      "context": "En una sede de lectura de Sincelejo, un grupo escribió una descripción de su municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la descripción es incorrecta porque el pueblo es feo.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque el enunciado no dice que el pueblo sea feo, así que eso no se puede evaluar."
+        },
+        {
+          "letter": "B",
+          "text": "Que la descripción necesita decir cómo es el pueblo.",
+          "is_correct": true,
+          "feedback": "Es correcta porque decir solo \"bonito\" no explica qué lo hace bonito, así que la descripción está incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "Que la descripción tiene demasiados adjetivos.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque la descripción tiene un solo adjetivo, así que no hay exceso de ellos."
+        },
+        {
+          "letter": "D",
+          "text": "Que la descripción ya está completa.",
+          "is_correct": false,
+          "feedback": "Es incorrecta porque un solo adjetivo sin ejemplos no permite imaginar el lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una descripción es comprobar si el lector puede hacerse una imagen clara de lo descrito. Un adjetivo solo, sin explicación, deja el texto a medias y pide revisión.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.65,
+      "bundle_id": "CO-LEN-4-2026-W17-los-adjetivos-y-la-descripcion-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
