@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-13-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T15:35:07.205Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la función principal de los huesos del cuerpo?",
+      "context": "En una consulta medica en Pasto, la doctora explica a Martina que su cuerpo tiene 206 huesos y que ellos trabajan junto con los musculos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dar sostén al cuerpo y proteger órganos importantes como el cráneo y las costillas",
+          "is_correct": true,
+          "feedback": "Correcto. Los huesos forman el esqueleto, que sostiene el cuerpo y protege organos como el cerebro y el corazon. Esa es su funcion principal."
+        },
+        {
+          "letter": "B",
+          "text": "Almacenar la comida que se digiere en el estomago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los huesos no almacenan alimentos. Su trabajo es sostener, proteger y producir globulos rojos en la medula osea, no digerir."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar el aire hasta los pulmones cuando respiramos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire viaja por la traquea y los bronquios. Los huesos de las costillas protegen esos conductos, pero no llevan el aire."
+        },
+        {
+          "letter": "D",
+          "text": "Enviar los impulsos eléctricos desde el cerebro hasta los músculos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los impulsos los viajan los nervios. El hueso no conduce electricidad como nervio: su papel es el sosten y la proteccion de los organos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema oseo esta formado por 206 huesos en el cuerpo de una persona adulta. Los huesos sostienen el peso, permiten el movimiento junto con los musculos y protegen organos como el craneo, las costillas y la columna. Ademas dentro de ellos se fabrica la sangre en la medula osea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v2",
+      "statement": "¿Qué le pasa al músculo del brazo cuando una persona lo flexiona?",
+      "context": "En un parque de Cali, Tomas flexiona el brazo y luego lo estira, y nota que el musculo se engorda cuando se dobla y se alarga cuando se estira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se estira y se vuelve delgado, soltando el hueso hasta dejar el brazo recto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al flexionar el brazo, el musculo se acorta, no se estira. Los musculos que se estiran son los que sirven para extender el brazo."
+        },
+        {
+          "letter": "B",
+          "text": "Se acorta y se vuelve más grueso, tirando del hueso para doblar el brazo",
+          "is_correct": true,
+          "feedback": "Correcto. Los musculos flexionadores se acortan y engrosan al contraerse. Esa fuerza tira del hueso por el tendon y produce el movimiento del brazo."
+        },
+        {
+          "letter": "C",
+          "text": "Se vuelve hueso para poder mover el brazo con más fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El musculo nunca se convierte en hueso. Son tejidos diferentes: el musculo se contrae y el hueso solo transmite el movimiento mediante el tendon."
+        },
+        {
+          "letter": "D",
+          "text": "Deja de trabajar y deja que el hueso mueva el brazo por sí solo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hueso no se mueve solo: es el musculo quien produce la fuerza. El hueso forma parte del conjunto que se mueve, pero no genera el movimiento."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los musculos producen fuerza al contraerse, y esa fuerza tira de los huesos mediante tendones. Cuando el musculo se acorta, el hueso se mueve; cuando se relaja, se estira. Por eso el esqueleto y los musculos trabajan juntos como un solo sistema para movernos y mantenernos de pie.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v3",
+      "statement": "Los estudiantes sienten dolor en los músculos después de correr. ¿qué explica ese dolor?",
+      "context": "En una clase de educacion física en Barranquilla, la profesora explica que despues de correr los musculos duelen y por eso ella estira al final de la clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los huesos se rompen cada vez que los usamos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Correr no rompe los huesos. El dolor que aparece despues del ejercicio viene de los musculos y de las articulaciones, no de fracturas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los músculos se quedan sin oxígeno para siempre y no vuelven a funcionar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los musculos reciben oxigeno de la sangre y se recuperan con descanso. El dolor es temporal y no significa que el musculo haya quedado inutilizable."
+        },
+        {
+          "letter": "C",
+          "text": "Que los músculos trabajaron más de lo que están accustomed y no descansaron bien",
+          "is_correct": true,
+          "feedback": "Correcto. El dolor aparece cuando los musculos trabajan por encima de lo que estan_tests habitual. Sin descanso y sin elongation, se inflaman y duelen."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sistema óseo toma el oxígeno del cuerpo en lugar de los pulmones",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxigeno llega a los musculos por la sangre desde los pulmones. El sistema oseo no transporta oxigeno: esa tarea la cumplen la sangre y los musculos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los musculos que trabajan mas de lo habitual se inflaman y se llenan de sustancias como el acido lactico. Por eso duelen despues del ejercicio. Estirar, hidratarse y descansar ayuda a que esa molestia desaparezca. Cuidar el descanso es tan importante como el ejercicio para que el cuerpo se mantenga sano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v4",
+      "statement": "¿Qué alimentos ayudan a que los huesos se mantengan fuertes y por qué?",
+      "context": "En una casa de Bogota, a Andres le gustan mucho las papas fritas y su madre le dice que coma mas otros alimentos para que sus huesos se mantengan fuertes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los alimentos con mucha grasa, porque la grasa se convierte en hueso con el ejercicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La grasa no se convierte en hueso ni aporta calcio suficiente. Los huesos necesitan minerales como el calcio y la vitamina D."
+        },
+        {
+          "letter": "B",
+          "text": "Los alimentos con mucho azúcar, porque el azúcar da dureza al hueso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azucar es energía, no material de construccion del hueso. El hueso necesita calcio y fosforo, y el exceso de azucar le hace daño."
+        },
+        {
+          "letter": "C",
+          "text": "Cualquier alimento sirve igual, porque el hueso se forma solo con ejercicio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ejercicio fortalece el hueso, pero sin minerales el hueso no se construye. El alimento con calcio es indispensable para tener huesos fuertes."
+        },
+        {
+          "letter": "D",
+          "text": "Los alimentos con calcio, como la leche y el queso, porque el calcio forma parte del hueso",
+          "is_correct": true,
+          "feedback": "Correcto. El calcio es el mineral mas abundante del hueso. Por eso la leche, el queso y el yogur ayudan a que los huesos se mantengan fuertes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los huesos necesitan minerales para crecer y mantenerse fuertes. El calcio, que se encuentra en la leche, el queso y los yogures, es el principal. El ejercicio ayuda porque estimula al hueso a reforzar su estructura. Por eso una dieta variada con calcio y actividad física forman la base de un esqueleto sano.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v5",
+      "statement": "Los estudiantes tocan las costillas de tres maquetas y notan que una es rigida, otra se mueve un poco y la otra es muy flexible. ¿qué observación indica que el esqueleto cumple su función de protección?",
+      "context": "En un laboratorio escolar de Cucuta, un grupo de estudiantes toca las costillas de un esqueleto humano, las de una maqueta de animal y las de un modelo de la columna vertebral.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que unas costillas son rígidas y forman una barrera que protege el corazón y los pulmones",
+          "is_correct": true,
+          "feedback": "Correcto. Las costillas rigidas protegen el corazon y los pulmones sin impedir la respiracion. Esa combinacion de firmeza y poco movimiento muestra la funcion del esqueleto."
+        },
+        {
+          "letter": "B",
+          "text": "Que unas costillas son muy flexibles porque no protegen ningún órgano",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las costillas mas flexibles son las de animales que respiran de otra manera. En el humano las costillas son firmes precisamente porque protegen."
+        },
+        {
+          "letter": "C",
+          "text": "Que unas costillas se mueven tanto que dejan al corazón expuesto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las costillas no dejan expuesto el corazon: se mueven poco y mantienen siempre una barrera rigida delante de los organos."
+        },
+        {
+          "letter": "D",
+          "text": "Que las costillas son invisibles en las maquetas de esqueleto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que las costillas se vean o no depende de como esta construida la maqueta. La funcion de proteccion se comprueba con la rigidez, no con la visibilidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El esqueleto combina dos tareas: dar sostén y proteger. Las costillas son un ejemplo claro de proteccion, porque forman una caja rigida alrededor del corazon y los pulmones. A la vez se mueven un poco para permitir la respiracion. Comparar esqueletos de distintos animales ayuda a ver como cada uno se adapta a su forma de respirar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v6",
+      "statement": "En la estación espacial el cuerpo se siente más liviano. ¿qué le ocurre al esqueleto del astronauta en el espacio?",
+      "context": "En una agencia espacial en Bogotá, una astronauta flota dentro de la estacion espacial y nota que su cuerpo se siente mas liviano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los huesos se vuelven más pesados porque flotan en el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Flotar no aumenta el peso de los huesos. Lo que pasa es lo contrario: al no soportar peso, el cuerpo usa menos calcio y los huesos pierden densidad."
+        },
+        {
+          "letter": "B",
+          "text": "Que los huesos se separan de los músculos por falta de gravedad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los huesos no se separan de los musculos en el espacio. Lo que se pierde es densidad y fuerza osea porque el hueso no recibe la carga habitual."
+        },
+        {
+          "letter": "C",
+          "text": "Que los huesos no reciben la carga de la gravedad y por eso pierden fuerza con el tiempo",
+          "is_correct": true,
+          "feedback": "Correcto. En el espacio hay muy poca gravedad, entonces el cuerpo usa menos calcio y los huesos se debilitan. Por eso los astronautas hacen ejercicio todos los días."
+        },
+        {
+          "letter": "D",
+          "text": "Que el espacio no tiene aire y por eso los huesos no pueden trabajar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La estacion espacial si tiene aire para respirar. El problema para el esqueleto no es el aire sino la casi ausencia de gravedad que deja de cargar los huesos."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La gravedad es la fuerza que hace que nuestro esqueleto soporte peso todos los días. Cuando casi no hay gravedad los huesos no reciben esa carga y el cuerpo elimina calcio de ellos, haciendolos mas debiles. Por eso los astronautas hacen ejercicios con pesas y bandas elasticas durante sus misiones.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v7",
+      "statement": "Los estudiantes miden cuánto se acorta el músculo del brazo en tres situaciones: sin carga, con una bolsa y con dos bolsas. ¿qué conclusión es la más adecuada?",
+      "context": "En una clase de Barranquilla, un grupo de estudiantes mide con una cinta metrica cuanto se acorta el musculo del brazo al cargar una bolsa con libros.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el músculo se acorta igual sin importar la carga que soporta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los tres datos son distintos y por eso la contraccion cambia con la carga. Si fuera igual, no habria relacion entre peso levantado y acortamiento."
+        },
+        {
+          "letter": "B",
+          "text": "Que el músculo se acorta más cuando carga más peso",
+          "is_correct": true,
+          "feedback": "Correcto. Con una bolsa el musculo se acorta menos y con dos bolsas se acorta mas. Los datos muestran que la contraccion depende de la carga que el musculo debe vencer."
+        },
+        {
+          "letter": "C",
+          "text": "Que el músculo se estira más cuando la carga es más pesada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos muestran acortamiento, no estiramiento. El musculo se hace mas corto al trabajar, y ese acortamiento crece con el peso levantado."
+        },
+        {
+          "letter": "D",
+          "text": "Que el músculo se acorta más cuando no carga ningún peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin carga el acortamiento es el mas pequeno de los tres casos. La mayor contraccion aparece cuando el musculo tiene que levantar mas peso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un experimento bien hecho mide una variable mientras cambia otra y luego saca una conclusion de los datos. Aqui la variable independiente es el peso levantado y la dependiente es el acortamiento del musculo. Leer los tres resultados permite describir la relacion entre fuerza y contraccion muscular de forma sencilla y clara.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v8",
+      "statement": "La radiografía muestra un hueso fracturado. ¿qué sistema del cuerpo se vio afectado por la caída?",
+      "context": "En un parque de Medellin, un nino se lastima una pierna despues de caerse y su madre lo lleva al hospital donde le toman radiografias de la pierna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sistema muscular, porque el músculo se rompe cuando se fractura el hueso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La radiografia muestra la fractura de un hueso, o sea un cambio del sistema oseo. Los musculos pueden lastimarse también, pero no es lo que se ve en la imagen."
+        },
+        {
+          "letter": "B",
+          "text": "El sistema digestivo, porque los huesos se digieren cuando hay golpes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los huesos no forman parte del sistema digestivo y no se digieren por golpes. Un golpe fuerte puede romper un hueso, no digerirlo."
+        },
+        {
+          "letter": "C",
+          "text": "El sistema respiratorio, porque la fractura impide respirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una fractura en la pierna no impide respirar. La radiografia revela una lesion del sistema oseo, no una alteracion del sistema respiratorio."
+        },
+        {
+          "letter": "D",
+          "text": "El sistema óseo, porque los huesos forman parte del esqueleto y se fracturan con golpes fuertes",
+          "is_correct": true,
+          "feedback": "Correcto. Una fractura es la ruptura de un hueso y por eso afecta al sistema oseo. Los huesos son los elementos solidos que sostienen y protegen el cuerpo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los huesos pueden fracturarse cuando reciben un golpe muy fuerte. Por eso el sistema oseo es el que se evalua con una radiografia, que muestra el estado de los huesos. El cuerpo tiene capacidad de reparacion: las fracturas suelen soldar con el tiempo con el proceso llamado osificacion, siempre con atencion medica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle",
+      "periodo": 13,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

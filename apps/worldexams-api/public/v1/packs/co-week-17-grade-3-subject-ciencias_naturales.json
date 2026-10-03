@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-17-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T15:35:07.206Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la contaminación del ambiente?",
+      "context": "En una calle de Medellin, el carro de la basura pasa y deja en la acera botellas de plastico y cartones empapados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La presencia de sustancias o basura que dañan el aire, el agua o el suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Contaminar es introducir sustancias o residuos que perjudican los seres vivos y el entorno. Por eso la basura en la calle es una forma de contaminacion."
+        },
+        {
+          "letter": "B",
+          "text": "La limpieza exagerada de las calles y los parques",
+          "is_correct": false,
+          "feedback": "Incorrecto. Limpiar no es contaminar. La contaminacion ocurre cuando hay sustancias o residuos que dañan el aire, el agua, el suelo o los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "El uso de muchos colores en las paredes de las casas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los colores de las paredes no contaminan el ambiente. Lo que contamina son sustancias o residuos que alteran el equilibrio natural del entorno."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia de muchos árboles en un parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los arboles son parte de la solucion y no de la contaminacion. Un parque con vegetacion es un ejemplo de entorno sano y no de lugar contaminado."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La contaminacion es la presencia de sustancias o residuos que perjudican el medio ambiente y los seres vivos. Puede estar en el aire, en el agua o en el suelo. Reconocerla es el primer paso para reducirla, y por eso en las ciudades se separan los residuos y se cuidan las áreas verdes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v2",
+      "statement": "El agua del río tiene color café y hay menos peces cerca de una descarga. ¿qué relación hay entre esas dos cosas?",
+      "context": "En un rio de Bogota, un grupo de ninos ve que el agua tiene color cafe cerca de una descarga y que hay muy pocos peces en esa parte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se puso café por los peces que viven en ella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces no tiñen el agua de cafe. El color oscuro viene de las sustancias y los residuos que llegan a la descarga y ensucian el rio."
+        },
+        {
+          "letter": "B",
+          "text": "La descarga de sustancias ensucia el agua y por eso los peces no pueden vivir bien allí",
+          "is_correct": true,
+          "feedback": "Correcto. Las sustancias que llegan al agua cambian su calidad y perjudican a los seres vivos que viven en el rio. Menos peces es una señal de agua contaminada."
+        },
+        {
+          "letter": "C",
+          "text": "Hay menos peces porque se fueron a buscar agua en otro río",
+          "is_correct": false,
+          "feedback": "Incorrecto. La causa mas sencilla es la calidad del agua. Si el rio esta contaminado, los peces no pueden vivir bien y su número disminuye."
+        },
+        {
+          "letter": "D",
+          "text": "El agua café protege a los peces porque les quita la luz del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un agua sucia no protege a los peces: les quita el oxigeno y les trae sustancias toxicas. El color cafe es una senal de contaminacion."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando el agua de un rio recibe aguas residuales o basura, cambia de color y de calidad. Los seres vivos acuaticos necesitan oxigeno disuelto y son muy sensibles a las sustancias toxicas. Por eso ver menos peces y un agua oscura es una alarma de que el rio esta recibiendo contaminacion.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v3",
+      "statement": "Los estudiantes separan los residuos y descubren que casi ninguno estaba en la bolsa correcta. ¿qué conclusión saca el grupo?",
+      "context": "En el colegio de Medellin, los estudiantes recogen una semana de basura del patio y separan los residuos en bolsas segun sean de papel, plastico, vidrio o materia organica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la basura del colegio no se puede separar porque toda está mezclada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los residuos si se pueden separar por material. La dificultad que encontraron fue de procedimiento: al separar bien se reconocen las categorias."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo el papel se puede reciclar y los demás materiales no sirven",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plastico, el vidrio y los metales también se pueden reciclar. El problema era que no se separaban y no que los materiales no sirvieran."
+        },
+        {
+          "letter": "C",
+          "text": "Que la mayor parte de los residuos del colegio se puede reciclar si se separan bien",
+          "is_correct": true,
+          "feedback": "Correcto. Al separar los residuos se comprueba que casi todos tienen categoría: papel, plastico, vidrio o materia organica. Ese material se puede aprovechar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el colegio produce tanta basura que no hay forma de reducirla",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los datos muestran que casi toda la basura es reciclable. Ese resultado indica que reducir residuos es posible si se separa cada material."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Separar los residuos es el primer paso para reciclar. Al agruparlos por material se descubre que la mayor parte de la basura cotidiana puede volver a convertirse en productos nuevos. Esa practica reduce la cantidad de residuos que llega a los vertederos y a los rios.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué reunir los materiales reciclables evita la contaminación?",
+      "context": "En Quibdo, una familia guarda en un balde las botellas de plastico que usa para beber y nota que al mes tiene muchas mas de las que recibe en una semana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los materiales reciclables desaparecen cuando se juntan en un balde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reunir los residuos no los hace desaparecer: los conserva separados para poder aprovecharlos. Lo que se evita es que terminen en el suelo, los rios o los vertederos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque al juntarlos se vuelven biodegradables en pocos días",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plastico y el vidrio no se biodegradan en pocos días. Reunirlos sirve porque se pueden reciclar y no porque cambien de naturaleza al juntarlos."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el balde absorbe la contaminación del barrio entero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un balde no absorbe la contaminacion. Lo que hace es reunir los residuos reciclables para que la empresa de aseo los retire y los procese."
+        },
+        {
+          "letter": "D",
+          "text": "Porque esos materiales dejan de ir al suelo o al agua y vuelven a la cadena de uso",
+          "is_correct": true,
+          "feedback": "Correcto. Al reunir el plastico, el papel, el vidrio y los metales, esos residuos no llegan al suelo ni a los rios y pueden convertirse en objetos nuevos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando los residuos se mezclan, se ensucian y ya no se pueden aprovechar. Separarlos en el momento en que se generan mantiene su valor y permite que el papel, el plastico, el vidrio y los metales vuelvan a la industria. Esa cadena de reutilizacion es la base del reciclaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v5",
+      "statement": "Los estudiantes comparan cuánto se disuelve un sobre en agua caliente y en agua fría. ¿qué están investigando?",
+      "context": "En una tienda de Bucaramanga, los estudiantes miden cuanto tarda en disolverse un sobre de detergente en agua caliente y luego en agua fria.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la temperatura del agua cambia la rapidez con que se disuelve una sustancia",
+          "is_correct": true,
+          "feedback": "Correcto. Al comparar los dos tiempos se comprueba si el agua caliente disuelve mas rápido. Esa variable, la temperatura, es la que cambia en el experimento."
+        },
+        {
+          "letter": "B",
+          "text": "Que el sobre pesa más en agua caliente que en agua fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no cambia con la temperatura. Lo que se esta midiendo es el tiempo que tarda el sobre en disolverse en cada tipo de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua caliente siempre contiene más sales minerales que la fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no cambia las sales del agua. El experimento mide la rapidez de la disolucion, que depende de como se mueven las particulas del agua."
+        },
+        {
+          "letter": "D",
+          "text": "Que el sobre no se disuelve en ninguna de las dos aguas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sobre si se disuelve en ambas aguas. La diferencia que se busca es la rapidez con que lo hace segun la temperatura del agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La disolucion de un solido en un liquido depende de la temperatura: si el liquido esta mas caliente, las particulas se mueven mas rápido y el solido se disuelve en menos tiempo. Medir y comparar esos tiempos es la manera de estudiar esa relacion y de entender por que las sustancias se disuelven mejor en agua caliente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v6",
+      "statement": "Los vecinos plantaron árboles y construyeron canales para el agua de lluvia. ¿qué efecto esperaban esos trabajos en el barrio?",
+      "context": "En un barrio de Barranquilla, los vecinos de una calle plantaron arboles y construyeron canales para el agua de lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los árboles y los canales hicieran más grande el barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño de un barrio no cambia por plantar arboles. Lo que esas obras buscan es limpiar el aire, evitar que el agua se acumule y cuidar el entorno."
+        },
+        {
+          "letter": "B",
+          "text": "Que los árboles y los canales tuvieran por objeto dar sombra a las casas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra es un beneficio de los arbolos, pero la razón principal de esas obras es reducir la contaminacion y prevenir las inundaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Que los árboles y los canales ayudaran a reducir la contaminación y las inundaciones",
+          "is_correct": true,
+          "feedback": "Correcto. Los arboles limpian el aire y los canales llevan el agua de lluvia lejos de las casas. Juntas esas medidas reducen la contaminacion y el riesgo de inundacion."
+        },
+        {
+          "letter": "D",
+          "text": "Que los árboles y los canales no sirvieran para nada en un barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los arboles y los canales tienen funciones claras en el entorno urbano: limpiar el aire y manejar el agua de lluvia para evitar que se acumule."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las acciones humanas pueden mejorar o dañar el ambiente de un barrio. Plantar arboles y construir canales son medidas de cuidado: los arboles absorben polvo y dan sombra, y los canales evitan que el agua se acumule. Medidas parecidas se usan en las ciudades de Colombia para reducir la contaminacion.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v7",
+      "statement": "Los estudiantes cuentan cuántos residuos deja cada cliente con bolsa propia frente a los que llegan con bolsa de tienda. ¿qué conclusión es la más adecuada?",
+      "context": "En una tienda de Manizales, los estudiantes cuentan los residuos que dejan los clientes en una hora y comparan segun si traen bolsa propia o bolsa de tienda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que usar bolsa propia aumenta la cantidad de basura que llega a la tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar bolsa propia disminuye los residuos de la tienda y no los aumenta. Los datos muestran que menos clientes traen bolsa y por eso hay menos plastico."
+        },
+        {
+          "letter": "B",
+          "text": "Que usar bolsa propia reduce la cantidad de residuos de plástico que llegan al sistema de aseo",
+          "is_correct": true,
+          "feedback": "Correcto. Si los clientes con bolsa propia dejan menos residuos, esa medida evita que el plastico de las bolsas llegue a los vertederos y al ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "Que el número de residuos depende solo de cuánto tiempo estuvo abierta la tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tiempo abierto es una constante en la comparacion. Lo que cambia entre los dos grupos es el uso de bolsa propia y esa es la variable que explica la diferencia."
+        },
+        {
+          "letter": "D",
+          "text": "Que los residuos no se pueden comparar porque cada cliente es diferente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cantidad de clientes que trae cada tipo de bolsa se puede contar en la misma hora. Esa comparacion en igualdad de condiciones si permite concluir."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos grupos en el mismo lugar y en el mismo momento es lo que hace valida una investigacion. Al contar los residuos segun el uso de bolsa se mide una variable concreta y se puede concluir si esa practica reduce la basura. Ese tipo de comparacion es el procedimiento de base de un estudio de campo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v8",
+      "statement": "La niña pregunta por qué el plástico tarda años en descomponerse. ¿qué explica ese tiempo tan largo?",
+      "context": "En una clase de Medellin, una nina de tercer grado pregunta por que el plastico tarda anos en descomponerse en la tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el plástico es muy pesado y por eso el suelo no puede romperlo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso no explica la lentitud de la descomposicion. La razón es química: los microorganismos del suelo no tienen forma de degradar ese material."
+        },
+        {
+          "letter": "B",
+          "text": "Que el plástico desaparece cuando entra en contacto con el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plastico no desaparece con el aire. Se descompone muy lento y esa lentitud es exactamente el problema ambiental que produce."
+        },
+        {
+          "letter": "C",
+          "text": "Que el plástico solo dura poco cuando está en la tierra y por eso no molesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario de eso, el plastico permanece mucho tiempo en la tierra. Esa duracion larga explica por que la contaminacion por plastico es tan seria."
+        },
+        {
+          "letter": "D",
+          "text": "Que el plástico es un material que los microorganismos del suelo no pueden descomponer rápidamente",
+          "is_correct": true,
+          "feedback": "Correcto. El plastico fue inventado hace poco tiempo y casi ningun microorganismo del suelo lo descompone. Por eso permanece mucho tiempo en el ambiente y se acumula."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los materiales naturales como la madera o el papel se desintegran con ayuda de los microorganismos del suelo. El plastico es un material artificial muy reciente y casi ningun microorganismo lo puede degradar. Por eso permanece durante decadas en el ambiente, por eso se acumula y por eso reducir su uso es una medida importante.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle",
+      "periodo": 17,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
