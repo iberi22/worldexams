@@ -193,7 +193,7 @@ Las estudiantes comparan dos menús: el Menú 1 tiene sopa de verduras, arroz, p
 ### Opciones
 
 - [ ] A) El Menú 1, porque el jugo de paquete y el postre aportan más vitaminas que la fruta.
-  <!-- feedback: Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y noReplace? -->
+  <!-- feedback: Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y no vitaminas, y el Menú 1 no incluye una fuente de proteína como el pollo ni legumbres: por eso no cubre todos los grupos que un almuerzo equilibrado necesita. -->
 - [x] B) El Menú 2, porque combina arroz, lentejas, verduras y fruta, y no depende del jugo de paquete ni del postre.
   <!-- feedback: Correcto. El menú reúne un cereal (arroz), una proteína (lentejas), vegetales y fruta, por eso ofrece mayor variedad y equilibrio. -->
 - [ ] C) El Menú 1, porque la sopa y el pollo bastan para completar todos los grupos.
