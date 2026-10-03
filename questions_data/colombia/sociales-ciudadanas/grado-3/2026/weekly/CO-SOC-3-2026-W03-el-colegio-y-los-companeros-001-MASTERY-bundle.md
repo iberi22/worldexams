@@ -76,12 +76,12 @@ El manual de convivencia es un documento fundamental en las instituciones educat
 ¿Qué nos muestra la diversidad de estudiantes en este colegio?
 
 ### Opciones
-- [ ] A) Que todos son iguales
-  <!-- feedback: Incorrecto. Los estudiantes provienen de regiones distintas con culturas diferentes, no todos son iguales. -->
+- [x] A) Que Colombia es un país diverso
+  <!-- feedback: Correcto. La diversidad de regiones y culturas en el colegio refleja la pluralidad y diversidad de Colombia. -->
 - [ ] B) Que solo hay una cultura
   <!-- feedback: Incorrecto. Hay múltiples culturas representadas: costa, Andes y Amazonía, no una sola cultura en el colegio. -->
-- [x] C) Que Colombia es un país diverso
-  <!-- feedback: Correcto. La diversidad de regiones y culturas en el colegio refleja la pluralidad y diversidad de Colombia. -->
+- [ ] C) Que todos son iguales
+  <!-- feedback: Incorrecto. Los estudiantes provienen de regiones distintas con culturas diferentes, no todos son iguales. -->
 - [ ] D) Que no hay diferencias
   <!-- feedback: Incorrecto. Sí hay diferencias culturales entre estudiantes de la costa, los Andes y la Amazonía. -->
 
@@ -122,12 +122,12 @@ La votación es el mecanismo fundamental de la democracia para tomar decisiones 
 ¿Qué estrategia de resolución de conflictos está usando el profesor?
 
 ### Opciones
-- [x] A) Mediar el conflicto
-<!-- feedback: Correcto. Mediar es escuchar a ambas partes y guiar la búsqueda de soluciones, lo que hace el profesor. -->
+- [ ] A) Ignorar el problema
+<!-- feedback: Incorrecto. Ignorar el problema no resuelve el conflicto; el profesor activamente escucha y guía a los estudiantes. -->
 - [ ] B) Castigar a ambos
 <!-- feedback: Incorrecto. Castigar sin escuchar no resuelve el conflicto de fondo; el profesor prefiere el diálogo y la mediación. -->
-- [ ] C) Ignorar el problema
-<!-- feedback: Incorrecto. Ignorar el problema no resuelve el conflicto; el profesor activamente escucha y guía a los estudiantes. -->
+- [x] C) Mediar el conflicto
+<!-- feedback: Correcto. Mediar es escuchar a ambas partes y guiar la búsqueda de soluciones, lo que hace el profesor. -->
 - [ ] D) Elegir a un ganador
 <!-- feedback: Incorrecto. Elegir un ganador no resuelve el conflicto; la mediación busca que ambos lleguen a un acuerdo. -->
 

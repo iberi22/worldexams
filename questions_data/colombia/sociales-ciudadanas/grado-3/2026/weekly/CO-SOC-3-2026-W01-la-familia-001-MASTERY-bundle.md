@@ -76,12 +76,12 @@ En muchas familias colombianas, ambos padres trabajan para cubrir las necesidade
 ¿Qué debería hacer Valentina para resolver el conflicto con su hermano de manera pacífica?
 
 ### Opciones
-- [ ] A) Pegarle a su hermano
-  <!-- feedback: Incorrecto. Pegarle a su hermano es violencia física y empeora el conflicto en lugar de resolverlo. -->
+- [x] A) Hablar con él y expresar cómo se siente
+  <!-- feedback: Correcto. Hablar y expresar los sentimientos es una forma pacífica de resolver conflictos que fortalece la convivencia familiar. -->
 - [ ] B) Esconder todos sus juguetes
   <!-- feedback: Incorrecto. Esconder los juguetes no resuelve el problema de fondo y puede generar más desconfianza entre hermanos. -->
-- [x] C) Hablar con él y expresar cómo se siente
-  <!-- feedback: Correcto. Hablar y expresar los sentimientos es una forma pacífica de resolver conflictos que fortalece la convivencia familiar. -->
+- [ ] C) Pegarle a su hermano
+  <!-- feedback: Incorrecto. Pegarle a su hermano es violencia física y empeora el conflicto en lugar de resolverlo. -->
 - [ ] D) No volver a hablarle nunca
   <!-- feedback: Incorrecto. Dejar de hablarle no resuelve el conflicto y rompe la comunicación necesaria para una sana convivencia. -->
 
@@ -122,12 +122,12 @@ La formación de valores en la familia incluye enseñar a los niños a valorar l
 ¿Qué valor democrático se practica en las reuniones de la familia de Andrés?
 
 ### Opciones
-- [x] A) La participación
-  <!-- feedback: Correcto. La participación es un valor democrático donde todos los miembros de la familia pueden opinar y ser escuchados. -->
+- [ ] A) La indiferencia
+  <!-- feedback: Incorrecto. La indiferencia significa no importar lo que piensen los demás, lo contrario a lo que ocurre en una reunión donde todos opinan. -->
 - [ ] B) La competencia
   <!-- feedback: Incorrecto. La competencia implica rivalidad entre miembros, no la colaboración y el respeto mutuo de una reunión familiar. -->
-- [ ] C) La indiferencia
-  <!-- feedback: Incorrecto. La indiferencia significa no importar lo que piensen los demás, lo contrario a lo que ocurre en una reunión donde todos opinan. -->
+- [x] C) La participación
+  <!-- feedback: Correcto. La participación es un valor democrático donde todos los miembros de la familia pueden opinar y ser escuchados. -->
 - [ ] D) El silencio
   <!-- feedback: Incorrecto. El silencio impide la expresión de opiniones, mientras que en la reunión familiar todos participan y hablan. -->
 
