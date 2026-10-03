@@ -34,13 +34,13 @@ creador: "Jules-Agent"
 - [x] A) Por la boca
   <!-- feedback: Correcto. El camino empieza en la boca, donde la lengua mezcla la comida con la saliva y los dientes la trituran para formar el bolo alimenticio. -->
 - [ ] B) Por el estomago
-  <!-- feedback: Incorrecto. El estomago viene despues de la boca. La digestion empieza en la boca con la masticacion y la saliva, antes de llegar al estomago. -->
+  <!-- feedback: Incorrecto. El estomago viene después de la boca. La digestion empieza en la boca con la masticacion y la saliva, antes de llegar al estomago. -->
 - [ ] C) Por los intestinos
   <!-- feedback: Incorrecto. Los intestinos son la ultima parte del camino. Los alimentos pasan primero por la boca, el esofago y el estomago antes de llegar a ellos. -->
 - [ ] D) Por el recto
   <!-- feedback: Incorrecto. El recto es la parte final por donde se expulsan los restos. El proceso de digestion empieza mucho antes, en la boca. -->
 ### Explicacion Pedagogica
-El sistema digestivo es el conjunto de organos que procesa los alimentos y permite aprovechar sus nutrientes. El recorrido empieza en la boca, donde la saliva y los dientes inician la digestion mecanica y química. Conocer el orden del recorrido ayuda a entender por que masticar bien facilita todo lo que viene despues.
+El sistema digestivo es el conjunto de organos que procesa los alimentos y permite aprovechar sus nutrientes. El recorrido empieza en la boca, donde la saliva y los dientes inician la digestion mecanica y química. Conocer el orden del recorrido ayuda a entender por que masticar bien facilita todo lo que viene después.
 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v2
@@ -103,7 +103,7 @@ Los estudiantes anotan que al masticar el pan su sabor se vuelve mas dulce. ¿qu
 - [x] D) Que la saliva empieza a digerir el almidón del pan y lo convierte en azúcar
   <!-- feedback: Correcto. La amilasa de la saliva rompe el almidon y forma azucares simples. Por eso el pan masticado un tiempo sabe mas dulce que el pan recien mordido. -->
 ### Explicacion Pedagogica
-La digestion es un proceso quimico ademas de mecanico. La amilasa de la saliva transforma el almidon, que es un azucar complejo, en azucares mas simples que se perciben como sabor dulce. Este ejemplo muestra que el cuerpo produce sus propias enzimas digestivas y que ellas empiezan a trabajar apenas el alimento entra en la boca.
+La digestion es un proceso quimico además de mecanico. La amilasa de la saliva transforma el almidon, que es un azucar complejo, en azucares mas simples que se perciben como sabor dulce. Este ejemplo muestra que el cuerpo produce sus propias enzimas digestivas y que ellas empiezan a trabajar apenas el alimento entra en la boca.
 
 ## Question 5 [D5-D6]
 **ID:** CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle-v5
@@ -137,7 +137,7 @@ La enfermedad del nino impide aprovechar los nutrientes. ¿por qué la inflamaci
 
 ### Opciones
 - [ ] A) Porque el intestino delgado guarda los alimentos antes de que lleguen al estomago
-  <!-- feedback: Incorrecto. El intestino delgado no guarda alimentos: es donde se absorben los nutrientes despues de pasar por el estomago. Guardar alimentos es funcion de otros organos. -->
+  <!-- feedback: Incorrecto. El intestino delgado no guarda alimentos: es donde se absorben los nutrientes después de pasar por el estomago. Guardar alimentos es funcion de otros organos. -->
 - [ ] B) Porque el intestino delgado produce la saliva que empieza la digestión en la boca
   <!-- feedback: Incorrecto. La saliva se produce en las glandulas salivales de la boca. El intestino delgado absorbe nutrientes y no fabrica saliva. -->
 - [x] C) Porque el intestino delgado es donde los nutrientes pasan a la sangre y esa vía está dañada
@@ -164,7 +164,7 @@ La planta con compost crece más alto y tiene las hojas más verdes. ¿qué rela
 - [ ] C) Que la planta con compost digiere mejor el aire que las otras plantas
   <!-- feedback: Incorrecto. Las plantas no digieren aire: toman dioxido de carbono por las hojas. La diferencia de crecimiento se explica por los nutrientes del suelo. -->
 - [ ] D) Que el compost reemplaza al agua en el crecimiento de la planta
-  <!-- feedback: Incorrecto. El compost no reemplaza el agua: aporta minerales. Las dos plantas necesitan agua y luz ademas de los nutrientes que hay en la tierra. -->
+  <!-- feedback: Incorrecto. El compost no reemplaza el agua: aporta minerales. Las dos plantas necesitan agua y luz además de los nutrientes que hay en la tierra. -->
 ### Explicacion Pedagogica
 Las plantas y los animales dependen de los nutrientes, pero los toman de fuentes distintas. Las plantas los toman del suelo por sus raices y los animales los toman de los alimentos que digieren. Comparar el caso de la planta con compost y el caso del intestino delgado muestra que la absorcion es un proceso comun a los seres vivos.
 
