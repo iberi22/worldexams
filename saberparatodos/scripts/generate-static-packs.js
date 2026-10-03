@@ -13,6 +13,7 @@
 import fs from "fs";
 import path from "path";
 import { execSync } from "child_process";
+import { selectChangedBundleFiles } from "./lib/changed-bundle-files.mjs";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -311,17 +312,31 @@ const walk = (dir) => {
 };
 
 const allFiles = walk(QUESTIONS_DATA_ROOT);
+// --changed-only has to find bundles that are new relative to origin/main in ANY
+// of the four places they can be, because publishing happens in four shapes:
+//
+//   * a feature branch with the bundle committed on top of origin/main;
+//   * a squash merge already landed on main, where the bundle is in the tree
+//     and HEAD == origin/main. This is the publishing worktree, and it is where
+//     the old `git diff origin/main...HEAD` failed: the three-dot form diffs
+//     the MERGE BASE against HEAD, the merge base IS origin/main, so the diff
+//     was empty by construction. On PR #1652 --changed-only selected zero
+//     files, regenerated nothing, and still exited 0, while AGENTS.md documents
+//     it as the canonical command;
+//   * a bundle staged but not yet committed, mid-batch;
+//   * a bundle present in the tree but never committed.
+//
+// Each probe is independent and tolerant: a repo with no origin/main, or no
+// HEAD at all, must not take the generator down.
 const changedFiles = changedOnly
-  ? new Set(
-      execSync("git diff --name-only origin/main...HEAD", {
-        cwd: path.join(ROOT, ".."),
-        encoding: "utf8",
-      })
-        .split(/\r?\n/)
-        .filter((file) => file.startsWith("questions_data/") && file.endsWith(".md"))
-        .map((file) => path.resolve(path.join(ROOT, "..", file))),
-    )
+  ? selectChangedBundleFiles(path.join(ROOT, ".."))
   : null;
+if (changedOnly && changedFiles.size === 0) {
+  console.warn(
+    "[generate-static-packs] --changed-only selected no bundle: origin/main and the working tree agree. " +
+      "Pass --all-weekly if you need every pack rebuilt.",
+  );
+}
 const packs = {};
 // --changed-only must ADD to the published pack, never replace it. A pack key
 // is (country, week, grade, subject) and several bundles legitimately share one
