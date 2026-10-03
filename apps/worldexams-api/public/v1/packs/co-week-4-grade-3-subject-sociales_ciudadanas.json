@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-4-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T17:10:03.439Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Qué lugar está cerca de la casa de Camila?",
+      "context": "En el barrio La Estrada de Medellín, la casa de Camila está cerca del parque, la tienda de la esquina está al lado de su casa y la escuela está a dos cuadras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El parque",
+          "is_correct": true,
+          "feedback": "Correcto. El parque está cerca de la casa de Camila, según la descripción del barrio La Estrada."
+        },
+        {
+          "letter": "B",
+          "text": "La tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tienda está al lado de la casa de Camila, pero la pregunta pregunta qué lugar está cerca, y el parque es la respuesta correcta."
+        },
+        {
+          "letter": "C",
+          "text": "La escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. La escuela está a dos cuadras de la casa de Camila, no cerca; cerca está el parque."
+        },
+        {
+          "letter": "D",
+          "text": "El hospital",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hospital no se menciona en la descripción del barrio; el lugar cercano a la casa es el parque."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ubicación de los lugares en un barrio se describe usando relaciones espaciales como \"cerca de\", \"al lado de\" o \"a dos cuadras\". Comprender estas relaciones permite a los niños orientarse en su comunidad y describir dónde se encuentran los lugares importantes como el parque, la escuela o la tienda.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Cómo se llama la organización de vecinos que trabaja por el bienestar del barrio?",
+      "context": "En un barrio de Bogotá, los vecinos se organizan en una junta de acción comunal para mejorar el barrio, arreglar las vías y organizar eventos comunitarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El equipo de fútbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El equipo de fútbol es un grupo deportivo, no una organización de vecinos para mejorar el barrio."
+        },
+        {
+          "letter": "B",
+          "text": "La junta de acción comunal",
+          "is_correct": true,
+          "feedback": "Correcto. La junta de acción comunal es la organización de vecinos que trabaja por el mejoramiento y bienestar del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "El club de lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El club de lectura es un grupo cultural, no la organización de vecinos que trabaja por el bienestar del barrio."
+        },
+        {
+          "letter": "D",
+          "text": "La orquesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La orquesta es un grupo musical, no una organización comunitaria de vecinos del barrio."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La junta de acción comunal es una organización comunitaria que permite a los vecinos participar en la mejora de su barrio. A través de esta organización, los ciudadanos pueden proponer proyectos, gestionar recursos y tomar decisiones colectivas. Conocer esta forma de organización es fundamental para la participación ciudadana.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué problema de convivencia presenta este barrio?",
+      "context": "En un barrio de Cartagena, los vecinos se quejan porque algunos jóvenes dejan basura en el parque y dañan los juegos infantiles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Daño al espacio público",
+          "is_correct": true,
+          "feedback": "Correcto. Dejar basura y dañar los juegos infantiles es un daño al espacio público que afecta a toda la comunidad."
+        },
+        {
+          "letter": "B",
+          "text": "Exceso de ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El exceso de ruido no es el problema descrito; el problema es la basura y el daño a los espacios públicos."
+        },
+        {
+          "letter": "C",
+          "text": "Falta de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de agua no se menciona en la situación; el problema es la basura y el daño a los juegos."
+        },
+        {
+          "letter": "D",
+          "text": "Falta de transporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. La falta de transporte no se menciona; el problema es el daño al parque y la basura."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los espacios públicos como los parques son bienes comunes que pertenecen a toda la comunidad. Cuando algunas personas los dañan o ensucian, están afectando el bienestar de todos los vecinos. Cuidar los espacios públicos es una responsabilidad compartida que fortalece la convivencia y el sentido de comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué es importante reciclar en el barrio?",
+      "context": "En un barrio de Bucaramanga, los vecinos organizaron una jornada de reciclaje donde separan el papel, el plástico y el vidrio para llevarlos a un centro de acopio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así se gasta más dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclar reduce costos y genera ingresos, no gasta más dinero; es una práctica económica y ambiental."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reduce la contaminación y ahorra recursos",
+          "is_correct": true,
+          "feedback": "Correcto. Reciclar reduce la contaminación del suelo y el agua, y ahorra recursos naturales al reutilizar materiales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los vecinos tienen nada que hacer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclar no es una actividad para llenar el tiempo; tiene propósitos ambientales y económicos concretos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así se produce más basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reciclar reduce la cantidad de basura, no la aumenta; es una práctica de sostenibilidad ambiental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El reciclaje es una práctica de sostenibilidad que protege el medio ambiente al reducir la contaminación y el uso de recursos naturales. Cuando una comunidad se organiza para reciclar, está asumiendo una responsabilidad colectiva con el planeta. Esta acción conecta las decisiones locales con el cuidado del entorno global.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Qué tipo de trabajo realiza la señora Rosa en su tienda?",
+      "context": "En un barrio de Pereira, la señora Rosa tiene una tienda de abarrotes donde vende alimentos, productos de aseo y otros artículos necesarios para los vecinos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La construcción",
+          "is_correct": false,
+          "feedback": "Incorrecto. La construcción es edificar casas y edificios, no vender alimentos y productos en una tienda."
+        },
+        {
+          "letter": "B",
+          "text": "La agricultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La agricultura es cultivar la tierra y cosechar alimentos, no vender productos en una tienda."
+        },
+        {
+          "letter": "C",
+          "text": "El comercio",
+          "is_correct": true,
+          "feedback": "Correcto. El comercio es la actividad de comprar y vender bienes, lo que hace la señora Rosa en su tienda de abarrotes."
+        },
+        {
+          "letter": "D",
+          "text": "La medicina",
+          "is_correct": false,
+          "feedback": "Incorrecto. La medicina es cuidar la salud de las personas, no vender productos en una tienda de abarrotes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El comercio es una actividad económica fundamental en las comunidades. A través de las tiendas y negocios locales, las personas acceden a bienes y servicios necesarios para su vida diaria. Reconocer el valor del comercio local ayuda a los niños a entender cómo funciona la economía en su barrio.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Trabajo y economía",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Qué nos muestra la diversidad de familias en este barrio?",
+      "context": "En un barrio de Cúcuta, hay familias de diferentes países: algunas son colombianas, otras son venezolanas y otras son de diferentes regiones de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos son iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las familias son de diferentes países y regiones, con culturas y costumbres distintas, no todos son iguales."
+        },
+        {
+          "letter": "B",
+          "text": "Que no hay diferencias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay diferencias culturales entre familias colombianas, venezolanas y de otras regiones."
+        },
+        {
+          "letter": "C",
+          "text": "Que solo hay una cultura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay múltiples culturas representadas: colombiana, venezolana y de otras regiones, no una sola."
+        },
+        {
+          "letter": "D",
+          "text": "Que el barrio es multicultural",
+          "is_correct": true,
+          "feedback": "Correcto. La presencia de familias de diferentes países y regiones muestra la diversidad cultural del barrio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La diversidad cultural en los barrios refleja la realidad de Colombia como un país de migrantes y mezcla de culturas. Cuando conviven familias de diferentes países y regiones, se enriquece la vida comunitaria con nuevas tradiciones, costumbres y perspectivas. Valorar esta diversidad es fundamental para la convivencia pacífica.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué proceso democrático se realizó en esta reunión de vecinos?",
+      "context": "En un barrio de Barranquilla, los vecinos se reunieron para decidir si debían construir un parque infantil o un salón comunal. Todos opinaron y se votó por el parque.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La imposición",
+          "is_correct": false,
+          "feedback": "Incorrecto. La imposición es obligar a aceptar una decisión, pero aquí todos opinaron y se votó democráticamente."
+        },
+        {
+          "letter": "B",
+          "text": "La compra de votos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La compra de votos es una práctica corrupta; aquí se votó de manera libre y transparente."
+        },
+        {
+          "letter": "C",
+          "text": "La deliberación y votación",
+          "is_correct": true,
+          "feedback": "Correcto. La deliberación es discutir y opinar, y la votación es elegir democráticamente, lo que hicieron los vecinos."
+        },
+        {
+          "letter": "D",
+          "text": "El sorteo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sorteo es un método aleatorio, no una elección consciente como la votación democrática."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La deliberación y la votación son procesos fundamentales de la democracia participativa. Cuando los vecinos discuten, opinan y votan para decidir sobre su barrio, están ejerciendo su derecho a la participación ciudadana. Esta experiencia comunitaria prepara a los niños para participar en la democracia a nivel local y nacional.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Qué principio debe guiar la decisión sobre cerrar la calle?",
+      "context": "En un barrio de Bogotá, un grupo de vecinos quiere cerrar una calle para que los niños jueguen sin peligro de los carros, pero otros vecinos necesitan esa calle para llegar a sus casas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo pensar en los niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pensar solo en los niños ignora las necesidades de los vecinos que necesitan la calle para llegar a sus casas."
+        },
+        {
+          "letter": "B",
+          "text": "Solo pensar en los carros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pensar solo en los carros ignora la necesidad de los niños de un espacio seguro para jugar."
+        },
+        {
+          "letter": "C",
+          "text": "Que nadie use la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que nadie use la calle no es una solución práctica; se necesita un acuerdo que considere a todos."
+        },
+        {
+          "letter": "D",
+          "text": "Buscar una solución que considere a todos",
+          "is_correct": true,
+          "feedback": "Correcto. La equidad requiere considerar las necesidades de todos: niños que juegan y vecinos que necesitan la calle."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las decisiones comunitarias requieren equilibrar diferentes intereses y necesidades. Cuando se busca una solución que considere tanto a los niños que necesitan un espacio seguro como a los vecinos que necesitan la calle, se está aplicando el principio de equidad. Este tipo de reflexión es fundamental para la convivencia democrática.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle",
+      "periodo": 4,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

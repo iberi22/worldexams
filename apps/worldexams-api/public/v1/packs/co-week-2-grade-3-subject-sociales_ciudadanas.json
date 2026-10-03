@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-2-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T17:10:03.438Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v1",
+      "statement": "¿En qué espacio de la casa se prepara la comida?",
+      "context": "En la casa de Sofía en el barrio La América de Medellín, cada espacio tiene una función: la cocina para cocinar, el baño para asearse y la sala para recibir visitas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "En la cocina",
+          "is_correct": true,
+          "feedback": "Correcto. La cocina es el espacio de la casa diseñado específicamente para preparar y cocinar los alimentos."
+        },
+        {
+          "letter": "B",
+          "text": "En el baño",
+          "is_correct": false,
+          "feedback": "Incorrecto. El baño es el espacio destinado al aseo personal, no a la preparación de alimentos."
+        },
+        {
+          "letter": "C",
+          "text": "En la sala",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sala es el espacio para recibir visitas y descansar, no para cocinar los alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "En el garaje",
+          "is_correct": false,
+          "feedback": "Incorrecto. El garaje es para guardar vehículos o herramientas, no es un espacio apto para preparar comida."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La casa está organizada en espacios que cumplen funciones específicas. La cocina es el lugar donde se prepara la comida porque cuenta con los elementos necesarios como estufa, fregadero y almacenamiento de alimentos. Reconocer la función de cada espacio ayuda a los niños a entender la organización del hogar.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v2",
+      "statement": "¿Dónde está ubicada la cama de Juan?",
+      "context": "En la habitación de Juan en Bogotá, su cama está al lado de la ventana, su escritorio está frente a la puerta y su armario está en la esquina.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frente a la puerta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Frente a la puerta está ubicado el escritorio de Juan, no su cama."
+        },
+        {
+          "letter": "B",
+          "text": "Al lado de la ventana",
+          "is_correct": true,
+          "feedback": "Correcto. La cama de Juan está ubicada al lado de la ventana, según la descripción de su habitación."
+        },
+        {
+          "letter": "C",
+          "text": "En la esquina",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la esquina está el armario de Juan, no su cama."
+        },
+        {
+          "letter": "D",
+          "text": "Debajo del techo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Debajo del techo no es una ubicación válida para una cama; la cama está al lado de la ventana."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ubicación de los objetos en el espacio se describe usando relaciones espaciales como \"al lado de\", \"frente a\" o \"en la esquina\". Comprender estas relaciones permite a los niños orientarse en su entorno y describir dónde se encuentran las cosas en su habitación y en otros espacios.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.88,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v3",
+      "statement": "¿Qué solución respeta las necesidades de ambos hermanos?",
+      "context": "En una casa de Cartagena, los hermanos comparten un cuarto y a veces discuten porque uno escucha música alta mientras el otro necesita silencio para estudiar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Establecer horarios para cada actividad",
+          "is_correct": true,
+          "feedback": "Correcto. Establecer horarios permite que ambos satisfagan sus necesidades: uno estudia en silencio y otro escucha música."
+        },
+        {
+          "letter": "B",
+          "text": "Que ambos escuchen música alta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escuchar música alta ambos no respeta la necesidad de silencio del hermano que necesita estudiar."
+        },
+        {
+          "letter": "C",
+          "text": "Que uno se vaya de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Irse de la casa no resuelve el conflicto y priva a uno de los hermanos de su espacio familiar."
+        },
+        {
+          "letter": "D",
+          "text": "Que el que estudia aguante el ruido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Exigir que aguante el ruido no respeta su necesidad de concentración y es injusto con él."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La convivencia en espacios compartidos requiere acuerdos que consideren las necesidades de todos. Cuando se establecen horarios para actividades como estudiar o escuchar música, se está practicando la negociación y el respeto mutuo. Estas habilidades son esenciales para la convivencia pacífica en cualquier espacio compartido.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.85,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué es importante ahorrar agua y energía en la casa?",
+      "context": "En una familia de Bucaramanga, los padres enseñan a sus hijos a cerrar la llave del agua mientras se cepillan los dientes y a apagar las luces cuando salen de un cuarto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así la casa se ve más bonita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahorrar agua y energía no tiene relación con la apariencia estética de la casa, sino con la responsabilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque son recursos limitados que debemos cuidar",
+          "is_correct": true,
+          "feedback": "Correcto. El agua y la energía son recursos naturales limitados que deben conservarse para las generaciones futuras."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los vecinos lo hacen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los vecinos también deben ahorrar, la razón principal es la conservación de recursos, no imitar a otros."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así se gasta más dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ahorrar agua y energía reduce el gasto de dinero, no lo aumenta; es un beneficio económico y ambiental."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El agua y la energía son recursos naturales que requieren un uso responsable. Cuando las familias enseñan a cerrar las llaves y apagar las luces, están formando hábitos de conservación que protegen el medio ambiente. Esta responsabilidad conecta las acciones cotidianas del hogar con el cuidado del planeta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.82,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v5",
+      "statement": "¿Qué valor se practica cuando todos colaboran con las tareas del hogar?",
+      "context": "En una casa de Pereira, cada miembro de la familia tiene responsabilidades: los niños recogen sus juguetes, los adultos cocinan y todos colaboran con la limpieza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La indiferencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La indiferencia es no importarles a los demás, lo contrario a colaborar activamente con las tareas."
+        },
+        {
+          "letter": "B",
+          "text": "La competencia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La competencia implica rivalidad, mientras que colaborar con las tareas del hogar es un acto de cooperación."
+        },
+        {
+          "letter": "C",
+          "text": "La cooperación",
+          "is_correct": true,
+          "feedback": "Correcto. La cooperación es el valor de trabajar juntos por un bien común, en este caso el mantenimiento del hogar."
+        },
+        {
+          "letter": "D",
+          "text": "El egoísmo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El egoísmo es pensar solo en uno mismo, mientras que colaborar es pensar en el bienestar de toda la familia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La cooperación es un valor fundamental para la vida en comunidad. Cuando todos los miembros de una familia colaboran con las tareas del hogar, se distribuyen las responsabilidades de manera equitativa y se fortalece el sentido de pertenencia. Esta práctica prepara a los niños para participar activamente en su comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v6",
+      "statement": "¿Qué relación espacial existe entre la cocina y la sala?",
+      "context": "En una casa de Cúcuta, el cuarto de los niños está en el segundo piso, la cocina en el primer piso cerca de la sala, y el patio está atrás de la casa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cocina está arriba de la sala",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocina está en el primer piso, no arriba; arriba están los cuartos del segundo piso."
+        },
+        {
+          "letter": "B",
+          "text": "La cocina está lejos de la sala",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocina está cerca de la sala, no lejos; ambas están en el primer piso de la casa."
+        },
+        {
+          "letter": "C",
+          "text": "La cocina está atrás de la casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Atrás de la casa está el patio, no la cocina; la cocina está en el primer piso cerca de la sala."
+        },
+        {
+          "letter": "D",
+          "text": "La cocina está cerca de la sala",
+          "is_correct": true,
+          "feedback": "Correcto. La cocina está ubicada en el primer piso cerca de la sala, según la descripción de la casa."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Comprender las relaciones espaciales como \"cerca de\", \"lejos de\", \"arriba\" o \"abajo\" permite a los niños describir y orientarse en su entorno. Estas habilidades espaciales son fundamentales para la lectura de mapas, la ubicación geográfica y la organización del espacio en la vida cotidiana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.78,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v7",
+      "statement": "¿Qué equilibrio se establece en esta familia respecto al espacio personal?",
+      "context": "En una familia de Barranquilla, los padres permiten que sus hijos decoren su cuarto como quieran, pero les piden que mantengan el orden y la limpieza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Libertad total sin límites",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay libertad total porque los padres sí establecen límites: mantener el orden y la limpieza del cuarto."
+        },
+        {
+          "letter": "B",
+          "text": "Control total de los padres",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay control total porque los niños pueden decorar su cuarto como quieren, tienen autonomía."
+        },
+        {
+          "letter": "C",
+          "text": "Autonomía con responsabilidad",
+          "is_correct": true,
+          "feedback": "Correcto. Los niños tienen autonomía para decorar pero asumen la responsabilidad de mantener el orden y la limpieza."
+        },
+        {
+          "letter": "D",
+          "text": "Prohibición de cualquier cambio",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay prohibición porque los niños sí pueden decorar su cuarto según sus gustos y preferencias."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El equilibrio entre autonomía y responsabilidad es clave en la convivencia familiar. Cuando los niños tienen libertad para personalizar su espacio pero deben mantener el orden, aprenden que la autonomía implica asumir responsabilidades. Este principio es fundamental para la formación de ciudadanos autónomos y responsables.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle-v8",
+      "statement": "¿Qué principio de justicia se aplica en esta decisión familiar?",
+      "context": "En una familia de Bogotá, los padres deciden que el cuarto más grande sea para los niños porque necesitan espacio para estudiar y jugar, mientras ellos se quedan con un cuarto más pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que los padres siempre tengan la prioridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. En este caso los niños tienen prioridad porque necesitan el espacio para estudiar y jugar, no los padres."
+        },
+        {
+          "letter": "B",
+          "text": "Que los niños no necesiten nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños sí necesitan espacio para estudiar y jugar, por eso se les asigna el cuarto más grande."
+        },
+        {
+          "letter": "C",
+          "text": "Que todos tengan exactamente lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todos tienen lo mismo: los niños tienen el cuarto más grande porque lo necesitan más que los padres."
+        },
+        {
+          "letter": "D",
+          "text": "Dar a quien más lo necesita",
+          "is_correct": true,
+          "feedback": "Correcto. La justicia distributiva asigna recursos según la necesidad: los niños necesitan más espacio para sus actividades."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La justicia distributiva consiste en asignar recursos según las necesidades de cada persona. Cuando una familia decide que los niños tengan el cuarto más grande porque lo necesitan para estudiar y jugar, está aplicando este principio. Comprender que la justicia no siempre significa igualdad, sino equidad según las necesidades, es fundamental para la vida en sociedad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.72,
+      "bundle_id": "CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle",
+      "periodo": 2,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
