@@ -38,7 +38,7 @@ Cuando Diana pasa el arroz de la bolsa a la olla, ¿que le pasa a la cantidad de
 - [ ] C) La cantidad de arroz disminuye porque al vaciar la bolsa se pierde parte del arroz
   <!-- feedback: Incorrecto. Si no hubo derrame, todos los granos pasaron de la bolsa a la olla y la cantidad de arroz se conservo. -->
 - [ ] D) La cantidad de arroz queda igual porque el arroz es un alimento sólido
-  <!-- feedback: Incorrecto. Que el arroz sea solido no interviene aqui. Los solidos también conservan su cantidad al cambiar de recipiente; lo que cambia es el espacio que ocupan. -->
+  <!-- feedback: Incorrecto. Que el arroz sea solido no interviene aquí. Los solidos también conservan su cantidad al cambiar de recipiente; lo que cambia es el espacio que ocupan. -->
 ### Explicacion Pedagogica
 La materia es todo lo que ocupa un lugar y tiene una cantidad, como el arroz de Diana. Al pasar de la bolsa a la olla el arroz conserva su masa: ni se crea ni se destruye. Lo unico que cambia es el espacio que ocupa, porque la olla tiene otra forma y otro tamaño. Entender esta diferencia ayuda a no confundir cantidad con espacio.
 
@@ -53,13 +53,13 @@ El señor Alvarez separa las latas, las botellas y las cajas en estantes diferen
 
 ### Opciones
 - [ ] A) Para que los productos duren mas tiempo en la tienda
-  <!-- feedback: Incorrecto. La duracion de un producto depende de su estado y de su envoltura, no del estante donde se coloque. Aqui se organiza el material, no el tiempo de vida. -->
+  <!-- feedback: Incorrecto. La duracion de un producto depende de su estado y de su envoltura, no del estante donde se coloque. aquí se organiza el material, no el tiempo de vida. -->
 - [x] B) Para distinguir que tipo de sustancia o material tiene cada producto
   <!-- feedback: Correcto. Separar por estante permite diferenciar el material de cada objeto: metal en la lata, plastico en la botella y papel en la caja. -->
 - [ ] C) Para que las latas y las botellas se vuelvan del mismo material
   <!-- feedback: Incorrecto. Nada cambia el material de un objeto por moverlo de estante. La lata sigue siendo metal y la botella sigue siendo plastico. -->
 - [ ] D) Para pesar mejor cada tipo de producto
-  <!-- feedback: Incorrecto. El peso se mide con una balanza, no con la separacion en estantes. Lo que se organiza aqui es el tipo de material de cada producto. -->
+  <!-- feedback: Incorrecto. El peso se mide con una balanza, no con la separacion en estantes. Lo que se organiza aquí es el tipo de material de cada producto. -->
 ### Explicacion Pedagogica
 Los objetos del diario vivir estan hechos de materiales distintos: metal, plastico, papel, vidrio, madera. Cada material es una sustancia con propiedades propias que se pueden describir y comparar. Agrupar los productos por material ayuda a los estudiantes a reconocer que sustancias diferentes pueden verse parecidas pero comportarse de manera distinta.
 
@@ -76,13 +76,13 @@ Sofia coloca cada material delante de una linterna encendida y mira si la luz pa
 - [ ] A) La madera, porque las tablas de madera dejan ver las cosas
   <!-- feedback: Incorrecto. La madera es opaca: no deja pasar la luz, por eso no se ve nada a traves de la tabla. -->
 - [ ] B) La placa de metal, porque el metal refleja mucho la luz y por eso la deja pasar
-  <!-- feedback: Incorrecto. El metal es opaco y ademas refleja la luz en vez de dejarla pasar. Reflejar y ser transparente son dos comportamientos distintos. -->
+  <!-- feedback: Incorrecto. El metal es opaco y además refleja la luz en vez de dejarla pasar. Reflejar y ser transparente son dos comportamientos distintos. -->
 - [x] C) El vidrio, porque es un material transparente
   <!-- feedback: Correcto. El vidrio es transparente, por eso la luz de la linterna lo atraviesa y Sofia puede ver al otro lado. Esa propiedad se llama transparencia. -->
 - [ ] D) Ningun material deja pasar la luz, porque la luz siempre se detiene en los objetos
   <!-- feedback: Incorrecto. La luz si pasa a traves de materiales transparentes como el vidrio. Decir que ninguno la deja pasar contradice el experimento que Sofia realizo. -->
 ### Explicacion Pedagogica
-Las sustancias se pueden clasificar segun como se comportan con la luz: transparentes, translucidas u opacas. El vidrio y el agua son transparentes, y el vidrio es de los materiales mas usados en las ventanas. Con este experimento el estudiante conecta una propiedad observable, ver la luz al otro lado, con el nombre cientifico de esa propiedad.
+Las sustancias se pueden clasificar según como se comportan con la luz: transparentes, translucidas u opacas. El vidrio y el agua son transparentes, y el vidrio es de los materiales mas usados en las ventanas. Con este experimento el estudiante conecta una propiedad observable, ver la luz al otro lado, con el nombre cientifico de esa propiedad.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle-v4
@@ -122,7 +122,7 @@ Las gotitas de agua aparecen por fuera de la nevera aunque nadie abrio la puerta
 - [ ] C) Del agua congelada que hay dentro del refrigerador y sale por las paredes
   <!-- feedback: Incorrecto. El agua congelada se queda dentro del congelador. Las gotitas del vidrio exterior son vapor del aire convertido en liquido por el frio. -->
 - [ ] D) Del polvo que seueve en la superficie y se vuelve agua por el frio
-  <!-- feedback: Incorrecto. El polvo no se convierte en agua. Aqui ocurre un cambio de estado fisico: el vapor del aire pasa a liquido al enfriarse. -->
+  <!-- feedback: Incorrecto. El polvo no se convierte en agua. aquí ocurre un cambio de estado fisico: el vapor del aire pasa a liquido al enfriarse. -->
 ### Explicacion Pedagogica
 El aire contiene vapor de agua en forma invisible. Cuando ese vapor toca una superficie fria, como el vidrio de una nevera, pierde calor y se condensa en gotas liquidas. Este fenomeno explica por que las ventanas se empañan en días de lluvia y por que los vasos frios se cubren de gotas. Es un cambio de estado por enfriamiento.
 
@@ -181,7 +181,7 @@ El hielo y el agua son la misma sustancia. ¿que diferencia existe entre ellos?
 - [ ] A) Son sustancias distintas porque el hielo tiene una forma completamente diferente
   <!-- feedback: Incorrecto. La forma depende del recipiente, no de la sustancia. Un mismo solido puede tomar muchas formas; lo que define al hielo es ser agua solida. -->
 - [ ] B) Son sustancias distintas porque el hielo es mas pesado que el agua liquida
-  <!-- feedback: Incorrecto. Hielo y agua son la misma sustancia y eso vale para cualquier cantidad. Ademas el hielo es menos denso que el agua liquida, no mas pesado. -->
+  <!-- feedback: Incorrecto. Hielo y agua son la misma sustancia y eso vale para cualquier cantidad. además el hielo es menos denso que el agua liquida, no mas pesado. -->
 - [ ] C) Son sustancias distintas porque una esta fria y la otra esta tibia
   <!-- feedback: Incorrecto. La temperatura explica el estado, no la sustancia. Si calientas el hielo vuelve a ser agua, y eso demuestra que siempre fue la misma sustancia. -->
 - [x] D) Solo cambia el estado fisico: el hielo es solido y el agua es liquida
