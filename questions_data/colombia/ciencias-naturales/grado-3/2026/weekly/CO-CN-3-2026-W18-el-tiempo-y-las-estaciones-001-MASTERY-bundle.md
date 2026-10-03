@@ -136,7 +136,7 @@ Para sacar una conclusión válida en una indagación, los datos que se comparan
 En Colombia, que está cerca del ecuador, hay dos temporadas de lluvia marcadas en vez de cuatro estaciones de igual duración. ¿Qué explica este patrón?
 
 ### Opciones
-- [ ] A) Que el ecuador está inclinado en el eje de la Tierra y por eso el calor llega de forma constante
+- [ ] A) Que el eje de la Tierra pasa inclinado sobre el ecuador y por eso el calor llega de forma constante
   <!-- feedback: Incorrecto. Esa descripción del eje inclinado explica las estaciones de otros países, no el patrón cercano al ecuador que tiene Colombia. -->
 - [ ] B) Que en el ecuador nunca se producen cambios en el tiempo atmosférico durante todo el año
   <!-- feedback: Incorrecto. Sí hay cambios durante el año: el patrón de dos lluvias corresponde justamente a esas variaciones a lo largo del año. -->
