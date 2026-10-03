@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-10-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T15:35:07.204Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v1",
+      "statement": "¿Qué sustancias forman principalmente el aire que respiramos?",
+      "context": "En un salon de clases de Barranquilla, la profesora muestra un frasco de vidrio con una vela encendida y luego lo tapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nitrógeno y oxígeno",
+          "is_correct": true,
+          "feedback": "Correcto. El aire esta formado principalmente por nitrogeno, que ocupa la mayor parte, y por oxigeno, que es el gas que usamos para respirar."
+        },
+        {
+          "letter": "B",
+          "text": "Oxígeno y dióxido de carbono en la misma cantidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. No estan en la misma cantidad: el nitrogeno es el componente mas abundante y el dioxido de carbono es muy poco en el aire."
+        },
+        {
+          "letter": "C",
+          "text": "Agua, aire y tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra no es un componente del aire y el agua solo aparece como vapor en cantidades pequeñas. Los dos gases principales son otros."
+        },
+        {
+          "letter": "D",
+          "text": "Helio, hidrógeno y aire de la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. El helio y el hidrógeno son muy raros en la atmosfera terrestre. El aire tiene la misma composicion basica en cualquier lugar."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El aire es una mezcla de gases y los dos mas abundantes son el nitrogeno y el oxigeno. El nitrogeno ocupa la mayor parte y el oxigeno permite la respiracion y la combustion. Conocer la composicion del aire ayuda a explicar por que el aire tiene un sabor caracteristico y por que el oxigeno se agota en espacios cerrados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v2",
+      "statement": "El cielo se ve azul de día y rojizo en las tardes. ¿qué explica ese cambio de color?",
+      "context": "En un parque de Medellin, los ninos corren y despues se detienen en un mirador para mirar el cielo azul y, por la tarde, rojizo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el aire del parque cambia de color entre la mañana y la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire es transparente y no cambia de color. Lo que cambia es la forma en que la luz del Sol atraviesa el aire segun la hora del día."
+        },
+        {
+          "letter": "B",
+          "text": "Que la luz del Sol se descompone en colores y la atmosfera los reparte distinto segun la hora",
+          "is_correct": true,
+          "feedback": "Correcto. La luz blanca del Sol se descompone en colores al pasar por el aire. De día predomina el azul y al atardecer la luz atraviesa mas aire y predomina el rojo."
+        },
+        {
+          "letter": "C",
+          "text": "Que las nubes del parque se vuelven rojas y pintan el cielo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes pueden verse rosadas al atardecer, pero el color del cielo se debe a la luz descompuesta por los gases de la atmosfera."
+        },
+        {
+          "letter": "D",
+          "text": "Que la luna tiñe de azul el cielo durante el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna no tiñe el cielo de día. El color del cielo depende de la luz del Sol descompuesta al pasar por la atmosfera."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La luz blanca del Sol contiene todos los colores. Cuando atraviesa el aire, cada color se descompone y se dispersa de manera distinta. De día predomina el color azul y al atardecer la luz recorre mas atmosfera antes de llegar a nuestros ojos, por eso el rojo se hace mas visible.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v3",
+      "statement": "Los estudiantes abren los tres frascos y los huelen. ¿qué resultado confirma que el aire recogido junto al desodorante está contaminado?",
+      "context": "En un laboratorio escolar de Pereira, un grupo de estudiantes recoge aire en tres frascos: uno abierto en el patio, otro junto a un desodorante en aerosol y otro en un lugar sin desodorante.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al abrir ese frasco no se siente ningún olor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si no hubiera olor, el aire del desodorante seria igual al de los otros frascos. El olor fuerte es la evidencia de la contaminacion."
+        },
+        {
+          "letter": "B",
+          "text": "Que los tres frascos producen exactamente el mismo olor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si los tres olieran igual, el aire junto al desodorante no tendria nada distinto y la prueba no serviria para mostrar la presencia de sustancias extrañas."
+        },
+        {
+          "letter": "C",
+          "text": "Que al abrir ese frasco se siente un olor fuerte que no aparece en los otros dos",
+          "is_correct": true,
+          "feedback": "Correcto. El olor intenso y diferente demuestra que ese aire tiene sustancias extrañas que los otros frascos no traen. El olor es una pista de contaminacion."
+        },
+        {
+          "letter": "D",
+          "text": "Que al abrir ese frasco el aire se vuelve sólido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningun aire se vuelve solido al abrir un frasco. Lo que se observa es un olor intenso, no un cambio de estado de la mezcla de gases."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un contaminante es una sustancia que se mezcla con el aire y que no deberia estar alli. Los desodorantes en aerosol liberan particulas y gases que cambian el olor del aire cercano. Detectar esa diferencia con los sentidos es una forma sencilla de indagar sobre la calidad del aire que respiramos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v4",
+      "statement": "El conductor ve una cortina gris sobre la carretera y la gente empieza a toser. ¿qué fenómeno está causando esa cortina?",
+      "context": "En una carretera cerca de Bucaramanga, un conductor ve una cortina gris que reduce la claridad del camino y varias personas de la region empiecan a toser.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lluvia que cae desde las nubes y moja la carretera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cortina es una neblina oscura de particulas, no agua lloviendo. Si fuera lluvia se verian gotas cayendo y el suelo se mojaria."
+        },
+        {
+          "letter": "B",
+          "text": "El vapor de agua que sube del asfalto caliente de la carretera",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor de agua es transparente y no causa tos. La cortina gris que enferma a la gente viene de los gases y del material particulado."
+        },
+        {
+          "letter": "C",
+          "text": "El polvo que levantan los carros al pasar por el camino",
+          "is_correct": false,
+          "feedback": "Incorrecto. El polvo es solo una parte del problema, pero por si solo no es la causa. La cortina que enferma viene de los gases de los vehiculos y las fabricas."
+        },
+        {
+          "letter": "D",
+          "text": "La contaminación del aire por gases y particulas que forman una neblina oscura",
+          "is_correct": true,
+          "feedback": "Correcto. Los gases de los vehiculos y las particulas del polvo se mezclan con el aire y forman esa neblina oscura. El mismo material que la forma causa la tos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La atmosfera recibe gases y particulas de las actividades humanas: vehiculos, fabricas y quemas. Cuando esas sustancias se acumulan aparece una neblina oscura que se llama smog y que reduce la visibilidad. Respirar ese aire afecta la salud y por eso en las grandes ciudades se vigila la calidad del aire.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v5",
+      "statement": "El globo se hace mas pequeño en lo alto de la montaña. ¿qué explica ese cambio de volumen?",
+      "context": "En un salon de clases de Bogota, la profesora infla un globo y lo lleva a una excursion a un punto alto de la montania, donde el globo se hace mas pequeño.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en lo alto hay menos aire y la misma cantidad de aire ocupa menos espacio",
+          "is_correct": true,
+          "feedback": "Correcto. En altura la atmosfera es menos densa, entonces hay menos aire por litro. El aire del globo ocupa menos espacio y por eso el globo se encoge."
+        },
+        {
+          "letter": "B",
+          "text": "Que en lo alto el aire se convierte en agua y el globo pierde peso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no se convierte en agua por subir a la altura. Lo que baja es la cantidad de gas que cabe en un mismo volumen, no el estado del gas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el globo pierde el aire por un agujero que se abrio con el frío",
+          "is_correct": false,
+          "feedback": "Incorrecto. El globo sigue cerrado y no se abrio ningun agujero. Su menor volumen se debe a que en ese punto hay menos aire en la atmosfera."
+        },
+        {
+          "letter": "D",
+          "text": "Que en la cima el globo se calienta y por eso el aire sale de él",
+          "is_correct": false,
+          "feedback": "Incorrecto. En la cima la temperatura suele ser mas baja, no mas alta. El aire del globo no escapa: ocupa menos espacio porque hay menos presion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La atmosfera se vuelve mas leve con la altura: en lo alto hay menos aire por cada litro de espacio. Por eso un globo inflado alli ocupa menos volumen sin perder aire. Este hecho se relaciona con la altura y con la presion del aire, y también explica por que en lo alto el aire se expande.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v6",
+      "statement": "La neblina aparece de noche y desaparece al medio día. ¿qué explicación es la más completa de ese cambio?",
+      "context": "En una finca del valle del Cauca, un nino observa que por la manana hay neblina sobre el rio y que al medio día desaparece con el calor del Sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua del rio sube a la nube y por eso la neblina desaparece al medio día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aqui la neblina esta junto al suelo, no en una nube. Lo que ocurre es un cambio de estado del vapor por enfriamiento de noche y calentamiento de día."
+        },
+        {
+          "letter": "B",
+          "text": "Que el Sol se come la neblina porque sus rayos la destruyen",
+          "is_correct": false,
+          "feedback": "Incorrecto. El Sol no destruye la neblina: aporta el calor que hace evaporar las gotas de agua. Por eso desaparece cuando sube la temperatura del aire."
+        },
+        {
+          "letter": "C",
+          "text": "Que el aire frio de la noche condensa el vapor de agua y con el calor de día ese vapor vuelve a evaporarse",
+          "is_correct": true,
+          "feedback": "Correcto. De noche el aire se enfria y el vapor de agua se condensa en gotas: eso es la neblina. Con el calor de día las gotas se evaporan y la neblina desaparece."
+        },
+        {
+          "letter": "D",
+          "text": "Que la neblina desaparece porque el aire de la mañana se escapa del valle",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no se escapa del valle durante la mañana. La neblina se disuelve porque el calor del Sol evapora las gotas que la formaban."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La neblina es una nube que se forma junto al suelo cuando el aire se enfria lo suficiente para que el vapor de agua se condense. Durante el día, la radiacion solar calienta el suelo y el aire, y las gotas vuelven al estado gaseoso. La observacion diaria de la neblina muestra que la atmosfera cambia de estado de manera continua.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v7",
+      "statement": "¿Qué procedimiento mediría la diferencia de dióxido de carbono entre el aire del patio y el aire exhalado?",
+      "context": "En un proyecto de grado tercero en Medellin, un grupo de estudiantes quiere saber si el aire del patio tiene menos dioxido de carbono que el aire que exhalan varias personas juntas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner las dos muestras al Sol y anotar cuál se calienta más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calor no es la variable que se quiere comparar. Calentar las muestras solo mediria la temperatura y no indicaria nada sobre el dioxido de carbono."
+        },
+        {
+          "letter": "B",
+          "text": "Recoger dos muestras de aire en recipientes iguales, hacer pasar la misma cantidad de aire exhalado y comparar los resultados",
+          "is_correct": true,
+          "feedback": "Correcto. Recoger muestras iguales, pasar por ellas la misma cantidad de aire exhalado y comparar los resultados permite ver la diferencia de dioxido de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Oler las dos muestras y anotar cuál huele más fuerte",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire exhalado y el aire del patio pueden oler parecido. El olor no es una medida fiable de la cantidad de dioxido de carbono presente."
+        },
+        {
+          "letter": "D",
+          "text": "Pesar los recipientes vacios y después de las muestras y restar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire tiene un peso muy pequeño y la balanza no mide bien esas diferencias. El procedimiento debe usar una prueba que reaccione solo al gas buscado."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un experimento bien disenado necesita una variable que cambie segun lo que se quiere medir y un control para comparar. Para estudiar el dioxido de carbono se usa una solucion que reacciona de forma visible con ese gas. Definir la variable y el control antes de recoger los datos es lo que separa una investigacion de una simple actividad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle-v8",
+      "statement": "El nino dice que el aire es una sola sustancia. ¿por qué esa afirmación es incorrecta?",
+      "context": "En un salon de clases de Cali, un nino de tercer grado afirma que el aire es una sola sustancia, porque todos los días se respira igual.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el aire se respira igual todos los días, así que es una sola sustancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Respirar igual todos los días no convierte al aire en sustancia pura. La mezcla de gases sigue siendo una mezcla, aunque su composicion cambie poco."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el aire no tiene sabor y las sustancias puras siempre tienen sabor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sustancia pura puede ser inodora. Lo que define a una sustancia pura es su composicion fija, no la presencia de olor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire cambia de lugar cada día y por eso no es una sustancia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el aire se mueva de un sitio a otro no lo saca de la categoría de mezcla. Cambia su lugar, no su composicion ni su estado."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire es una mezcla de varios gases y no una sustancia pura",
+          "is_correct": true,
+          "feedback": "Correcto. El aire es una mezcla de nitrogeno, oxigeno, dioxido de carbono y otros gases en proporciones variables. Una sustancia pura tiene una sola composicion."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Distinguir entre sustancia pura y mezcla es un paso basico de la química escolar. El aire es una mezcla porque contiene varios gases en proporciones que pueden cambiar, por ejemplo con la lluvia o la contaminacion. Reconocerlo ayuda a explicar por que no se llama sustancia al aire y por que se mide su composicion para evaluar un ambiente.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
