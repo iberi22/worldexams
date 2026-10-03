@@ -104,7 +104,7 @@ La energía eléctrica que recibe un bombillo se reparte entre luz y calor. El b
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.60
-**Contexto:** En una casa de Pamplona un señorETA instala un panel solar en el techo, pero esa casa queda bajo la sombra de un edificio alto todo el día y la familia no enciende las luces.
+**Contexto:** En una casa de Pamplona un señor instala un panel solar en el techo, pero esa casa queda bajo la sombra de un edificio alto todo el día y la familia no enciende las luces.
 ### Enunciado
 Un instalador coloca un panel solar en el techo de una casa de Pamplona que pasa todo el día bajo la sombra de otro edificio, y la familia no enciende las luces. ¿Qué esperaría un niño de tercero?
 ### Opciones
