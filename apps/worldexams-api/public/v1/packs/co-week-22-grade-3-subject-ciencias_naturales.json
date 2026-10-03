@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.886Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v1",
+      "statement": "En una finca de Boyacá, un niño excava en el jardín y encuentra tierra oscura, piedrecitas y raíces. ¿Qué es el suelo?",
+      "context": "En una finca de Boyacá, un niño excava en el jardín y encuentra tierra oscura, unas piedrecitas y unas raíces que sostienen las plantas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La capa de la superficie de la Tierra donde viven las plantas y donde están sus raíces",
+          "is_correct": true,
+          "feedback": "Correcto. El suelo es la capa de la superficie terrestre donde crecen las plantas, con tierra, agua, aire y minerales."
+        },
+        {
+          "letter": "B",
+          "text": "Solo la capa de piedra que está debajo de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piedra es la roca de fondo, no el suelo; el suelo es la capa de arriba, donde están las raíces de las plantas."
+        },
+        {
+          "letter": "C",
+          "text": "El agua que se acumula en los hoyos después de la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es una parte del suelo, pero el suelo es toda la capa con tierra, aire y minerales, no solo el agua."
+        },
+        {
+          "letter": "D",
+          "text": "Las hojas que caen de los árboles y se acumulan sobre la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas se descomponen y sirven de alimento al suelo, pero no son el suelo: son material que llega a él."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El suelo es la capa de la superficie de la Tierra donde viven las plantas. Está formado por tierra, agua, aire y minerales, y en él están las raíces que sostienen los árboles y las matas. En las fincas de Boyacá y en los huertos de todo el país se puede observar esa capa oscura debajo de la hierba.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v2",
+      "statement": "En un huerto escolar de Tunja las plantas crecen mejor en la tierra oscura que en la tierra arenosa y seca. ¿Qué necesita el suelo para que las plantas crezcan bien?",
+      "context": "En un huerto escolar de Tunja, las plantas crecen bien donde hay tierra oscura, mientras que en el suelo arenoso y seco las plantas se quedan pequeñas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el suelo sea bien duro, porque las raíces no pueden entrar en la tierra blanda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces necesitan terreno blando para entrar en la tierra y buscar agua: un suelo muy duro impide que la planta se sostenga."
+        },
+        {
+          "letter": "B",
+          "text": "Que tenga agua, aire y minerales, porque las plantas usan esas tres cosas para crecer",
+          "is_correct": true,
+          "feedback": "Correcto. Las raíces toman agua y minerales del suelo y las hojas necesitan aire, por eso el suelo fértil tiene esas tres cosas."
+        },
+        {
+          "letter": "C",
+          "text": "Que tenga la misma tierra de la superficie, porque a mayor profundidad hay más alimento",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra profunda tiene menos agua y menos materia orgánica; no por eso hay más alimento para la planta."
+        },
+        {
+          "letter": "D",
+          "text": "Que esté lleno de piedras grandes, porque las piedras dan alimento a las raíces",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las piedras grandes ocupan el espacio del suelo y estorban; lo que nutre a las plantas son los minerales y el agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas necesitan tres cosas que están en el suelo: agua para transportarse por la planta, minerales para crecer fuertes y aire en los espacios entre la tierra. Por eso la tierra oscura y con poca arena suele ser la mejor para sembrar: tiene más materia orgánica, más agua y más nutrientes.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v3",
+      "statement": "Una profesora de Pasto quiere que sus estudiantes observen las capas del suelo del patio. ¿Cuál procedimiento es el correcto para verlo?",
+      "context": "En Pasto, una profesora da a sus estudiantes un vaso de plástico transparente, una broca y una hoja de papel para trabajar en el patio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hundir el vaso de plástico en el suelo hasta la mitad y sacarlo despacio, para mirar las capas en las paredes del vaso",
+          "is_correct": true,
+          "feedback": "Correcto. Ese método se llama perfil de suelo: las capas quedan marcadas en las paredes del vaso y se pueden observar y comparar."
+        },
+        {
+          "letter": "B",
+          "text": "Sacar toda la tierra del patio en una bolsa y mezclarla bien, para ver qué colores tiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al mezclar la tierra se pierde el orden de las capas, y justamente el orden es lo que se quiere observar en un perfil."
+        },
+        {
+          "letter": "C",
+          "text": "Llevar la tierra a la casa y echarla en un frasco con agua, porque así se separan los minerales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Echarla en agua no muestra las capas del terreno; el método del perfil se hace en el mismo lugar donde está el suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar la próxima lluvia y mirar el color del agua que escurre, porque el color indica la capa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua que escurre mezcla varias capas a la vez, así que su color no permite ver dónde termina cada una."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para observar las capas del suelo se hace un perfil: se hunde un vaso o un tubo y se saca con cuidado para que la tierra quede marcada en las paredes. Así se ve la capa oscura con raíces, la capa de tierra, la de arena y la de piedra, en el orden en que están.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v4",
+      "statement": "En un barrio de Cartagena, el suelo de un jardín es arcilloso y retiene mucha agua, por eso los árboles no crecen bien. ¿Qué se le puede agregar a ese suelo?",
+      "context": "En un barrio de Cartagena, los vecinos de una casa con suelo arcilloso quieren que sus árboles crezcan mejor.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Más agua, porque regar más seguido hace que la arcilla se vuelva buena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese suelo ya retiene demasiada agua; añadir más agua lo encharca y hace que las raíces no respiren bien."
+        },
+        {
+          "letter": "B",
+          "text": "Arena gruesa, porque al ser más pesada sostiene mejor las plantas que la arcilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena gruesa pesa, pero el problema es el exceso de agua y la falta de aire en la arcilla, no el peso del suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Materia orgánica, como compost o hojas descompuestas, porque abre el suelo y deja entrar aire",
+          "is_correct": true,
+          "feedback": "Correcto. La materia orgánica afloja los terrones de arcilla, deja entrar aire y absorbe agua, y así las raíces pueden crecer mejor."
+        },
+        {
+          "letter": "D",
+          "text": "Sal de cocina, porque la sal ayuda a que la tierra retenga más agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal no es un nutriente para las plantas y en exceso daña las raíces en lugar de ayudar al suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un suelo arcilloso se encharca porque las partículas pequeñas se pegan y dejan poco espacio para el aire. Agregarle materia orgánica, como compost o hojas descompuestas, afloja la tierra, mejora el drenaje y le da nutrientes. Regar más o añadir sal no mejora ese suelo y puede dañarlo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v5",
+      "statement": "En una finca de Córdoba, un agricultor riega dos parcelas del mismo terreno y una se seca rápido mientras la otra conserva la humedad. ¿Qué análisis explica mejor esa diferencia?",
+      "context": "En una finca de Córdoba, un agricultor compara dos parcelas del mismo terreno y nota que una se seca rápido y la otra conserva la humedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cada suelo tiene partículas de tamaño diferente, y la arcilla retiene más agua que la arena",
+          "is_correct": true,
+          "feedback": "Correcto. Las partículas pequeñas de la arcilla se pegan entre sí y guardan más agua; los granos de arena dejan pasar el agua y se secan antes."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos parcelas se secan igual, porque el sol de Córdoba evapora la misma agua en todo el terreno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol ayuda a secar, pero la diferencia entre las parcelas viene de cómo son las partículas de cada suelo."
+        },
+        {
+          "letter": "C",
+          "text": "La parcela que retiene agua tiene más piedras, porque la piedra se bebe el agua de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piedra no absorbe agua de la tierra: el agua se queda en los poros pequeños del suelo, como los de la arcilla."
+        },
+        {
+          "letter": "D",
+          "text": "La parcela seca rápido es la mejor, porque un suelo que guarda menos agua necesita menos riego",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que un suelo se seque rápido significa que no retiene agua y que las plantas necesitan más agua para crecer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La capacidad de un suelo para guardar agua depende del tamaño de sus partículas. La arena tiene granos separados y deja pasar el agua, mientras que la arcilla tiene partículas muy pequeñas que retienen la humedad. Por eso, en una misma finca, el suelo arcilloso necesita menos riego que el arenoso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v6",
+      "statement": "Después de varios días de lluvia fuerte, una ladera al borde de una carretera se deslizó y dejó tierra en la vía. ¿Qué explica mejor ese fenómeno?",
+      "context": "Después de varios días de lluvia fuerte, una ladera al borde de una carretera de Antioquia se deslizó y dejó tierra en la vía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la lluvia disolvió los minerales del suelo hasta volverlos arena móvil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia no disuelve así el suelo; lo que empapa la tierra y le quita firmeza es el agua que llena los espacios entre partículas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las raíces de los árboles se secaron al aumentar la temperatura del suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ese caso las raíces siguen en su sitio; la causa del deslizamiento es el agua acumulada y el suelo flojo, no el calor."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua mojó la tierra y le quitó consistencia, por eso la ladera se deslizó con su propio peso",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la tierra se empapa pierde la fuerza que la sostenía, y por eso la capa de arriba se desliza hacia abajo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el viento sopló la tierra de la ladera hacia la carretera durante la lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento sí mueve tierra seca, pero en un deslizamiento por lluvia lo que actúa es el agua que reduce la cohesión del suelo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando llueve mucho, el agua llena los espacios entre las partículas del suelo y la tierra empapada pierde consistencia. La capa superior de la ladera ya no se sostiene y se desliza hacia el fondo del terreno. Por eso las laderas se deslizan después de varios días de lluvia, no por el calor ni por el viento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v7",
+      "statement": "Unos estudiantes de un municipio del río Magdalena discuten si es correcto dragar arena del cauce para construir. ¿Qué evaluación está mejor sustentada y por qué?",
+      "context": "En el río Magdalena, unos estudiantes discuten si es correcto dragar arena del río para construir y para rellenar calles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcto, porque la arena del río es un recurso ilimitado que se repone sola en un día de lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena del río se repone muy despacio y dragarla cambia el cauce, por eso no es un recurso ilimitado ni conviene dragarla."
+        },
+        {
+          "letter": "B",
+          "text": "No es correcto, porque dragar el cauce cambia el río y puede afectar a los peces y a las comunidades de la ribera",
+          "is_correct": true,
+          "feedback": "Correcto. Al dragar se altera el cauce, se destruye el hábitat de los peces y se dañan las viviendas y los cultivos de la ribera."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcto, porque la arena del río tiene más minerales que la arena de la tierra y por eso rinde más",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena del río deja pasar más agua y retiene menos humedad, y esa diferencia no justifica dragarla ni explica que sea correcta."
+        },
+        {
+          "letter": "D",
+          "text": "No es correcto, porque la arena del río es sucia y por eso no sirve para ninguna construcción",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa respuesta se apoya en una razón que no explica el daño: el motivo real es que dragar cambia el río, no que la arena esté sucia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar el uso de un recurso natural exige mirar sus efectos, no solo su utilidad inmediata. La arena del cauce se forma muy lentamente y dragarla cambia la dinámica del río, destruye el hábitat de los peces y afecta a las viviendas de la ribera. Por eso esa práctica se considera incorrecta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de Puerto Boyacá echa la misma cantidad de agua en un recipiente con arena y en otro con arcilla. ¿Qué conclusión de esta indagación está mejor sustentada?",
+      "context": "En el aula de Puerto Boyacá, un grupo de estudiantes compara un suelo de arena con uno de arcilla para ver cuál retiene más agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La arena retiene más agua que la arcilla, porque sus granos grandes dejan salir más líquido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar salir más agua significa retener menos: la arena se seca antes que la arcilla, que sí guarda más humedad."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos suelos retienen lo mismo, porque se les echó la misma cantidad de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Echarla la misma cantidad no asegura la misma retención: el tamaño de las partículas de cada suelo cambia lo que se queda."
+        },
+        {
+          "letter": "C",
+          "text": "El agua desaparece en los dos recipientes, porque el suelo absorbe toda el agua que recibe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suelo retiene agua pero no la hace desaparecer; si el agua no está en el suelo, estará en otro lugar del recipiente."
+        },
+        {
+          "letter": "D",
+          "text": "La arcilla retiene más agua, y esa conclusión se sostiene solo si se midió el agua que quedó en cada suelo",
+          "is_correct": true,
+          "feedback": "Correcto. Solo si se midió el agua retenida en cada suelo se puede decir que la arcilla retiene más, y no suponerlo sin medir."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Concluir en una indagación exige que el dato medido sostenga la conclusión. Si se midió el agua que quedó en cada suelo, entonces se puede afirmar que la arcilla retiene más que la arena. Sin esa medición, cualquier afirmación sobre la retención del agua sería solo una suposición.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W22-el-suelo-y-sus-minerales-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

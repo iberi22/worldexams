@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v1",
+      "statement": "¿Qué necesitan las plantas para vivir y crecer en el patio de la escuela?",
+      "context": "En el patio de una escuela de Bogotá hay una mata de tomate junto a la ventana y la docente explica a sus estudiantes de tercero qué necesita esa planta para vivir.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Estar sembradas en una maceta con tierra oscura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra da anclaje y minerales, pero las hojas, el agua, el aire y la luz son los seres vivos que la planta necesita."
+        },
+        {
+          "letter": "B",
+          "text": "Las hojas, el agua, el aire y la luz del sol",
+          "is_correct": true,
+          "feedback": "Correcto. Las hojas toman el aire, la raíz toma el agua y con la luz del sol la planta fabrica su propio alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Que alguien las riegue todos los días con agua de grifo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Regar es una forma de cuidado, pero el agua es solo uno de los seres vivos que necesita la planta, no el único."
+        },
+        {
+          "letter": "D",
+          "text": "Estar sembradas junto a un río o a un lago",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vivir cerca del agua ayuda, pero ninguna planta necesita estar junto a un río, porque el agua la toma del suelo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas son seres vivos que necesitan agua, aire y luz del sol para fabricar su alimento, y por eso tienen hojas para tomar el aire y la luz y raíces para tomar el agua. Además necesitan un lugar donde crecer. La tierra es importante, pero no reemplaza los otros seres vivos que la planta necesita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v2",
+      "statement": "¿Qué relación existe entre las flores de una planta y el fruto que aparece después?",
+      "context": "En el patio de una escuela de Cali hay un árbol de mango y la docente señala sus flores amarillas y le pide a sus estudiantes de tercero que observen qué pasa con ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con pétalos que atraen insectos y luego forman el fruto",
+          "is_correct": true,
+          "feedback": "Correcto. Los pétalos atraen a los insectos y, después de la polinización, las flores dan lugar a los frutos donde están las semillas."
+        },
+        {
+          "letter": "B",
+          "text": "Con raíces muy profundas que buscan agua lejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las raíces profundas son de algunos árboles, pero los pétalos son los que atraen a los insectos y luego dan origen al fruto."
+        },
+        {
+          "letter": "C",
+          "text": "Con espinas que protegen a la flor de los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las espinas protegen tallos y hojas, pero no son la parte que atrae a los insectos ni la que origina el fruto."
+        },
+        {
+          "letter": "D",
+          "text": "Con un tronco grueso que sostiene las hojas en lo alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tronco sostiene la planta, pero los pétalos son la parte que atrae a los insectos y luego forma el fruto."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las flores tienen partes que atraen a los insectos, como los pétalos y el néctar. Cuando un insecto lleva el polen de una flor a otra ocurre la polinización, y después de ella se forma el fruto, que protege las semillas. Las raíces, las espinas y el tronco cumplen otras funciones distintas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v3",
+      "statement": "Un grupo de tercero en Bucaramanga puso semillas de fríjol sobre un algodón húmedo, las tapó con un plato y las dejó en un lugar iluminado. ¿Qué se debería observar después de unos días y por qué?",
+      "context": "En un salón de Bucaramanga un grupo de tercero siembra semillas de fríjol sobre algodón húmedo, las cubre con un plato y las deja en un lugar con buena luz para observar la germinación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las semillas se rompen, porque las semillas no pueden absorber agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las semillas sí absorben agua por su piel, y por eso se hinchan y germinan cuando reciben humedad."
+        },
+        {
+          "letter": "B",
+          "text": "Que las semillas siguen iguales, porque el algodón húmedo las mantiene dormidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La humedad y el calor del lugar activan la germinación, por eso las semillas no se quedan quietas."
+        },
+        {
+          "letter": "C",
+          "text": "Que salen brotes pequeños con hojas, porque la semilla necesita agua, aire y calor",
+          "is_correct": true,
+          "feedback": "Correcto. La germinación necesita humedad, aire y temperatura templada, y por eso del algodón húmedo salen brotes con hojas diminutas."
+        },
+        {
+          "letter": "D",
+          "text": "Que las semillas se vuelven hojas verdes, porque la hoja nace sin pasar por la raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. De la semilla sale primero la raíz y después el brote, por eso la semilla no se vuelve hoja directamente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Germinar es el primer paso del ciclo de una planta. Para que ocurra, la semilla necesita humedad, aire y una temperatura que no sea ni muy fría ni muy caliente. Con esas condiciones, la semilla rompe su piel, saca la raíz y luego el brote con hojas pequeñas. El algodón húmedo y el lugar iluminado dan esas condiciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v4",
+      "statement": "Cuatro estudiantes de Medellín discuten qué parte de la planta cumple cada función. ¿Cuál de estas afirmaciones sobre las partes de la planta es correcta?",
+      "context": "En una finca cerca de Medellín un grupo de tercero arranca una hoja, una flor y un fruto de la misma planta para observarlos por partes con una lupa sencilla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El tallo produce el alimento por medio de la fotosíntesis",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tallo transporta agua y savia, pero el alimento de la planta lo produce la hoja con la fotosíntesis."
+        },
+        {
+          "letter": "B",
+          "text": "La hoja respira como los animales y por eso necesita tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La hoja hace la fotosíntesis y respira, pero no necesita tierra para eso, porque toma del aire y del agua."
+        },
+        {
+          "letter": "C",
+          "text": "La flor se entierra bajo tierra para proteger a la semilla",
+          "is_correct": false,
+          "feedback": "Incorrecto. La flor queda arriba para atraer insectos, y la semilla se forma después, dentro del fruto."
+        },
+        {
+          "letter": "D",
+          "text": "La raíz ancla la planta en el suelo y absorbe el agua y las sales minerales",
+          "is_correct": true,
+          "feedback": "Correcto. La raíz fija la planta en la tierra y sube por ella el agua con las sales minerales que la planta necesita para crecer."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada parte de la planta tiene una función: la raíz ancla y absorbe agua con sales minerales, el tallo transporta, la hoja hace la fotosíntesis y la flor sirve para formar frutos y semillas. Observar una hoja, una flor y un fruto por partes permite comparar esas funciones.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v5",
+      "statement": "Los niños de tercero observan tomates, mangos y una mata de fríbol ya seca, y quieren saber qué relación hay entre esas partes de la planta. ¿Cuál relación es la correcta?",
+      "context": "En una finca del valle del Cauca se recogen tomates y mangos y se corta una planta de fríbol ya seca para mostrarles a los niños de qué parte salió cada alimento.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El fruto lleva las semillas y por eso ninguna flor produce frutos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los frutos sí provienen de las flores, por ejemplo el mango nace de la flor del árbol de mango."
+        },
+        {
+          "letter": "B",
+          "text": "El fruto se forma después de la flor y protege a las semillas",
+          "is_correct": true,
+          "feedback": "Correcto. El fruto aparece tras la polinización y su función es proteger las semillas, como ocurre en el tomate y el mango."
+        },
+        {
+          "letter": "C",
+          "text": "El fruto es la parte que crece primero y que da las hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas y el brote crecen primero en la germinación, y el fruto aparece al final, después de la flor."
+        },
+        {
+          "letter": "D",
+          "text": "El fruto es la parte que vive bajo tierra y que da la raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Bajo tierra están las raíces, y el fruto cuelga de las ramas y sirve para sostener las semillas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El fruto es la parte de la planta que se forma a partir de la flor y que contiene y protege las semillas. Por eso los alimentos que comemos, como el tomate o el mango, son frutos. Entender esa relación ayuda a ver que las plantas tienen un ciclo completo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v6",
+      "statement": "Una planta de fríbol en una matera del patio ya tiene frutos y sus hojas se están poniendo amarillas. ¿Qué nos indica esto sobre la etapa del ciclo en que está la planta?",
+      "context": "En el patio de una escuela de Medellín una docente muestra a sus estudiantes de tercero una planta de fríbol plantada en una matera que ya tiene frutos y hojas amarillas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que ya terminó de formar sus frutos y se prepara para terminar su vida",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando una planta termina sus frutos, cambia de color y se seca, y con eso se cierra la última fase de su ciclo."
+        },
+        {
+          "letter": "B",
+          "text": "Que recibió demasiada agua de lluvia en pocos días",
+          "is_correct": false,
+          "feedback": "Incorrecto. Recibir más agua no es lo que hace amarillear una planta que ya terminó su ciclo de vida."
+        },
+        {
+          "letter": "C",
+          "text": "Que el tallo se partió con el viento de la tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un tallo partido puede quitar agua a la planta, pero aquí el cambio de color sigue el final normal del ciclo."
+        },
+        {
+          "letter": "D",
+          "text": "Que le están naciendo hojas nuevas más verdes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas nuevas son más verdes y obscuras, y una hoja amarilla indica el final del ciclo, no el comienzo de hojas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En el ciclo de una planta, después de producir flores y frutos, muchas plantas anuales cambian de color, se secan y mueren. Sus frutos guardan las semillas, y esas semillas son el comienzo de un nuevo ciclo. Observar el cambio de color de las hojas ayuda a ubicar la planta en la última etapa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de tercero en Bogotá propone germinar semillas en materas con tierra, agua y sol, y observar su crecimiento durante cuatro semanas. ¿Cuál es la evaluación correcta de esa propuesta?",
+      "context": "En una escuela de Bogotá el grupo de ciencia de tercero propone un proyecto: germinar semillas en materas con tierra, agua y sol, y observar su crecimiento durante cuatro semanas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es un mal proyecto porque las semillas necesitan la tierra de un bosque y no la de una matera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una semilla germina en cualquier tierra con agua y luz, y la tierra de una matera sí sirve."
+        },
+        {
+          "letter": "B",
+          "text": "Es un mal proyecto porque en el patio de la escuela no llega sol por la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al patio de la escuela sí le llega sol por la mañana, y la luz es justamente lo que la planta necesita."
+        },
+        {
+          "letter": "C",
+          "text": "Es un mal proyecto porque las plantas no pueden vivir en el patio de una escuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas sí viven en el patio de una escuela, y ese es un lugar adecuado para observarlas."
+        },
+        {
+          "letter": "D",
+          "text": "Es un buen proyecto porque usa tierra, agua y luz, que es lo que una planta necesita para crecer",
+          "is_correct": true,
+          "feedback": "Correcto. La tierra da anclaje y minerales, el agua y la luz permiten el crecimiento, así que el proyecto usa lo que la planta necesita."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un buen proyecto de ciencias usa lo que el ser vivo necesita para crecer. Una planta necesita tierra para anclarse, agua para su savia y luz para fabricar su alimento, y las tres cosas están en el proyecto propuesto. Además, observar durante cuatro semanas permite ver el ciclo completo de la planta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle-v8",
+      "statement": "Un grupo de tercero debe ordenar las etapas del ciclo de vida de una planta. ¿Cuál de estas listas respeta el orden correcto de ese ciclo?",
+      "context": "En una finca de Boyacá la docente dibuja el ciclo de una planta en el tablero y pide a sus estudiantes de tercero que lo completen en una cinta de papel pegada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Flor, fruto, semilla, brote y por último raíz",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz no es el último paso: aparece temprano junto al brote, y el orden de esta lista está invertido."
+        },
+        {
+          "letter": "B",
+          "text": "Semilla, tallo, raíz, flor y por último brote con hojas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raíz y el brote aparecen al mismo tiempo apenas germina la semilla, y las flores llegan más tarde."
+        },
+        {
+          "letter": "C",
+          "text": "Semilla, brote con hojas, tallo con flores y por último fruto con semillas",
+          "is_correct": true,
+          "feedback": "Correcto. La secuencia va de la semilla al brote, luego al tallo con flores y termina en el fruto, que vuelve a guardar semillas."
+        },
+        {
+          "letter": "D",
+          "text": "Raíz, semilla, fruto, brote y por último tallo con flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. La semilla es el comienzo del ciclo, no un paso que venga después de la raíz, como dice esta lista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El ciclo de una planta empieza en la semilla, que germina y da raíz y brote. Después aparecen las hojas, el tallo y las flores, y al final se forma el fruto con las semillas, que vuelven a empezar el ciclo. Ordenar bien las etapas ayuda a explicar cómo se reproduce la planta.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W24-las-plantas-y-su-ciclo-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

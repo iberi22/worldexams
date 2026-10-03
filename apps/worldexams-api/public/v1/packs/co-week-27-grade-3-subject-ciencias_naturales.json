@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-27-grade-3-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T22:18:36.887Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v1",
+      "statement": "¿Qué explica que en un mismo momento haya lugares de la tierra de día y otros de noche?",
+      "context": "En Tunja un grupo de tercero dibuja el sol sobre un globo terráqueo y lo gira despacio para mostrar por qué hay de día y de noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el sol se oculta detrás de las montañas cada noche",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol no se oculta detrás de las montañas, porque la oscuridad llega cuando la tierra gira sobre su eje."
+        },
+        {
+          "letter": "B",
+          "text": "Que la tierra gira y una mitad queda frente al sol mientras la otra en la oscuridad",
+          "is_correct": true,
+          "feedback": "Correcto. La tierra gira sobre su eje, y por eso en un momento un lado tiene sol y el otro está a oscuras."
+        },
+        {
+          "letter": "C",
+          "text": "Que la luna tapa el sol todas las noches",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna tapa el sol solo durante un eclipse, y no todas las noches como explica esta opción."
+        },
+        {
+          "letter": "D",
+          "text": "Que las estrellas se encienden de día y apagan la luz del sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas no apagan el sol, porque el día y la noche se explican por el giro de la tierra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La tierra gira sobre su eje una vez cada día. Mientras una mitad está inclinada hacia el sol, en esa mitad es de día; la otra mitad queda en la oscuridad y es de noche. Ninguna montaña, luna ni estrella es la causa del cambio entre día y noche.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Indagación",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué en unas estaciones los días son más largos y en otras más cortos?",
+      "context": "En una granja de Boyacá los niños de tercero notan que en diciembre los días son más cortos y en junio más largos, y quieren saber por qué.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque en unas estaciones la tierra está más cerca del sol y en otras más lejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra siempre está a la misma distancia del sol, porque lo que cambia es la inclinación de sus ejes."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el número de meses del año cambia según la estación que llegue",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un año siempre tiene doce meses, y lo que cambia con las estaciones es la inclinación de la tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque cambia el ángulo de la luz del sol y eso hace que unas estaciones sean más largas",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando un hemisferio recibe luz más inclinada y por más horas, esa estación es más larga y más calurosa."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el sol desaparece durante las estaciones más frías",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol sigue saliendo en invierno, porque lo que cambia es el ángulo de sus rayos y las horas de luz."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las estaciones existen porque la tierra está ligeramente inclinada mientras gira alrededor del sol. En una época el hemisferio recibe los rayos más rectos y por más horas, y en otra los recibe más inclinados y por menos horas. De ahí vienen los días más largos o más cortos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v3",
+      "statement": "En el valle del Cauca el nivel del río bajó después de varias semanas con menos lluvia. ¿Qué efecto razonable tendría ese cambio en los cultivos de la ribera?",
+      "context": "En el valle del Cauca unos estudiantes de tercero comparan el nivel del río durante una semana de lluvias fortes y tres semanas después, y notan que los cultivos de la ribera se ven afectados.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al bajar el agua hay menos agua disponible y por eso pueden secarse los cultivos",
+          "is_correct": true,
+          "feedback": "Correcto. Si el río y la lluvia bajan, los cultivos reciben menos agua y por eso pueden secarse."
+        },
+        {
+          "letter": "B",
+          "text": "Que al bajar el agua las plantas reciben más agua por el aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas no reciben más agua del aire cuando llueve menos, porque el aire seco aporta menos humedad."
+        },
+        {
+          "letter": "C",
+          "text": "Que al bajar el agua las hojas se ponen amarillas por el exceso de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las hojas amarillas aparecen por falta de agua, y no por exceso de agua como dice esta opción."
+        },
+        {
+          "letter": "D",
+          "text": "Que al bajar el agua los cultivos crecen más rápido por tener más sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin agua los cultivos crecen más despacio, porque la planta no puede usar la luz sin agua para formar su alimento."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El agua del río y de la lluvia es la fuente principal de agua para los cultivos de la ribera. Cuando llueve menos, esa agua disminuye, el suelo se seca y las plantas no pueden formar su alimento con la luz, así que se pueden marchitar. Relacionar el clima con la agricultura explica un cambio en la naturaleza.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v4",
+      "statement": "Al caminar junto al río Magdalena, unos niños de tercero ven que una orilla se volvió más Angosta. ¿Qué explica mejor ese cambio?",
+      "context": "En un municipio del Tolima unos niños de tercero caminan junto al río Magdalena y observan que una orilla quedó más Angosta y con más arena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el río se agranda porque el agua crea tierra nueva en las orillas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El río no crea tierra, porque solo arranca y transporta la tierra que ya existe en las orillas."
+        },
+        {
+          "letter": "B",
+          "text": "Que las orillas no cambian porque el agua del río no tiene fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua que corre sí tiene fuerza, y por eso es capaz de arrancar tierra de las orillas."
+        },
+        {
+          "letter": "C",
+          "text": "Que las plantas del río detienen el agua y por eso las orillas se mantienen iguales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas están sobre la orilla, pero no detienen la corriente que erosiona el terreno."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua del río arranca tierra de las orillas y la lleva a otro lugar",
+          "is_correct": true,
+          "feedback": "Correcto. La corriente erosiona las orillas y transporta el material arrastrado río abajo, y por eso la orilla se angosta."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La erosión es el desgaste del terreno por parte del agua o del viento. El agua del río golpea la orilla, arranca partículas de tierra y las lleva río abajo, y con los años la orilla se vuelve más angosta y más lisa. Ese material arrastrado se deposita en lugares más lentos del río.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v5",
+      "statement": "Un grupo de tercero de Pasto midió una charca con una regla cada día durante una semana de sol fuerte y vio que el nivel bajaba. ¿Cuál es la explicación más razonable?",
+      "context": "En un patio de Pasto unos estudiantes de tercero miden una charca con una regla y anotan su tamaño cada día durante una semana de sol fuerte.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el agua de la charca se filtra siempre bajo tierra y nunca se pierde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Parte del agua sí se infiltra, pero la charca baja sobre todo porque el calor la convierte en vapor."
+        },
+        {
+          "letter": "B",
+          "text": "Que el agua de la charca sube al cielo como agua pesada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor de agua es liviano, y lo que ocurre es que el agua pasa a estado gaseoso por el calor."
+        },
+        {
+          "letter": "C",
+          "text": "Que el agua de la charca se va por calor y por eso la charca desaparece",
+          "is_correct": true,
+          "feedback": "Correcto. El calor del Sol evapora el agua y la charca pierde volumen hasta desaparecer por completo."
+        },
+        {
+          "letter": "D",
+          "text": "Que el agua de la charca se congela y al descongelarse desaparece",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el agua se congela sigue siendo agua, y al descongelarse vuelve al charco, no desaparece."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El Sol aporta calor, y ese calor hace que el agua de la charca se evapore. Ese cambio de estado, de líquido a gas, se llama evaporación y por eso la charca pierde agua y baja de nivel. Medir la charca cada día es una forma sencilla de investigar ese cambio en la naturaleza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v6",
+      "statement": "Un guardaparques de un parque natural cuenta que cuando bajaron los lobos, los venados se hicieron más numerosos, se comieron más plantas y el bosque se vio más despoblado de árboles. ¿Cuál es la explicación más razonable de esa cadena de cambios?",
+      "context": "En un parque natural de Boyacá un guardaparques cuenta que antes había más lobos, y que los venados y las plantas del bosque cambiaron cuando los lobos bajaron.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que al disminuir los lobos los venados se reproducen menos y por eso el bosque se acaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al disminuir los lobos hay más venados, porque se comen menos, y no menos como afirma esta opción."
+        },
+        {
+          "letter": "B",
+          "text": "Que al disminuir los lobos los venados se van del bosque y no queda ninguno",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con menos depredadores los venados aumentan, y por eso se quedan más en el bosque."
+        },
+        {
+          "letter": "C",
+          "text": "Que al disminuir los lobos las plantas crecen más y el bosque se conserva mejor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Con más venados se comen más plantas, por eso el bosque no se conserva mejor sino peor."
+        },
+        {
+          "letter": "D",
+          "text": "Que al disminuir los lobos suben los venados y luego se recupera el bosque con menos plantas comidas",
+          "is_correct": true,
+          "feedback": "Correcto. Al bajar los lobos hay más venados que comen más plantas, y con menos plantas comidas el bosque puede recuperarse."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En un bosque los seres vivos están relacionados: unos se comen a otros y unos son alimento de unos terceros. Si desaparece un depredor, cresce el número de su presa, esa presa come más plantas y el bosque cambia. Conocer esas relaciones ayuda a explicar cambios grandes en la naturaleza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.6,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v7",
+      "statement": "Un grupo de tercero de Ibagué afirma que el vapor de agua sube al cielo y se queda quieto para formar las nubes. ¿Cuál es la evaluación correcta de esa explicación?",
+      "context": "En Ibagué unos niños de tercero escriben en una cartelera que el vapor de agua sube al cielo y allí se queda quieto hasta formar las nubes que descargan la lluvia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta porque el aire frío y el aire caliente producen nubes que después descargan en lluvia",
+          "is_correct": true,
+          "feedback": "Correcto. El aire caliente sube y el frío baja, y al enfriarse el vapor se condensa en gotas que caen como lluvia."
+        },
+        {
+          "letter": "B",
+          "text": "Es correcta porque el vapor de agua sube al cielo y se queda ahí para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vapor sí sube, pero se condensa en gotas y cae como lluvia, y no se queda quieto arriba."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta porque las nubes se forman cuando el agua sube a la luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes se forman por el enfriamiento del vapor de agua, y no porque el agua suba a la luna."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta porque la lluvia es agua que sube desde el río y nunca baja",
+          "is_correct": false,
+          "feedback": "Incorrecto. La lluvia es agua que baja desde una nube, y por eso el agua del río puede volver a subir como vapor."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El ciclo del agua tiene dos pasos principales: la evaporación, que sube el vapor desde el río y el suelo, y la condensación, que ocurre cuando ese vapor se enfría y forma gotas. Esas gotas se juntan en nubes y cuando pesan mucho caen como lluvia. Por eso el agua del río puede volver al suelo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle-v8",
+      "statement": "Después de una época de lluvias muy cortas, un grupo de tercero de La Guajira propone cuatro medidas para cuidar el agua y el suelo de su comunidad. ¿Cuál de estas medidas es la más adecuada?",
+      "context": "En La Guajira, después de una época de lluvias muy cortas, un grupo de tercero propone cuatro medidas para cuidar el agua y el suelo de su comunidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quemar los rastrojos del terreno para que el suelo se seque más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar los rastrojos no da agua, y además destruye la capa vegetal que protege el suelo."
+        },
+        {
+          "letter": "B",
+          "text": "Recoger el agua de lluvia en un depósito para usarla al regar los cultivos",
+          "is_correct": true,
+          "feedback": "Correcto. Guardar el agua de lluvia evita que se desperdicie y permite regar cuando el río o el pozo no dan agua."
+        },
+        {
+          "letter": "C",
+          "text": "Talar todos los árboles del monte para que el viento sople con más fuerza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Talar los árboles no da agua, y sí hace que el suelo se seque más y pierda su fertilidad."
+        },
+        {
+          "letter": "D",
+          "text": "Dejar el terreno desnudo para que el agua de lluvia corra más deprisa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar el suelo desnudo hace que corra el agua sin humedecerlo, y por eso los cultivos no crecen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Cuando las lluvias escasean, hay que aprovechar y proteger el agua disponible. Recogerla en depósitos ayuda a que no se evapore y a que sirva para regar. Proteger los árboles y los rastrojos también ayuda, porque el suelo con vegetación retiene más agua y pierde menos.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.5,
+      "bundle_id": "CO-CN-3-2026-W27-los-cambios-en-la-naturaleza-001-MASTERY-bundle",
+      "periodo": 27,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
