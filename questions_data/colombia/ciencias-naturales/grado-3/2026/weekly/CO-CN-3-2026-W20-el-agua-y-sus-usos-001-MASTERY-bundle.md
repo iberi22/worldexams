@@ -1,0 +1,190 @@
+---
+id: "CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle"
+country: "colombia"
+grado: 3
+asignatura: "ciencias-naturales"
+tema: "el-agua-y-sus-usos"
+periodo: "weekly"
+week: "W20"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 8
+bundle_size: 8
+alignment: "MEN Ciencias Naturales"
+bundle_index: 1
+calibration: {difficulty_band: "D3-D6", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# Bundle MASTERY: El agua y sus usos
+
+## Question 1 [D3-D4]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.90
+**Contexto:** En una casa de Bogotá, una niña abre el grifo y ve que de esa llave sale agua para beber, para bañarse y para regar las plantas del patio.
+### Enunciado
+En una casa de Bogotá, una niña abre el grifo y ve que de esa llave sale agua para beber, para bañarse y para regar las plantas. ¿Cómo se llama esa agua que llega por el grifo a las casas?
+
+### Opciones
+- [x] A) Agua potable
+  <!-- feedback: Correcto. Agua potable es el agua tratada que llega por el grifo y que se puede beber sin riesgo para la salud. -->
+- [ ] B) Agua salada
+  <!-- feedback: Incorrecto. El agua salada es la del mar, que no se puede beber; la que llega por el grifo a las casas es tratada. -->
+- [ ] C) Agua de lluvia
+  <!-- feedback: Incorrecto. El agua de lluvia cae de las nubes y no pasa por el tratamiento de las plantas que hace el agua del grifo. -->
+- [ ] D) Agua sucia
+  <!-- feedback: Incorrecto. El agua sucia tiene residuos y no puede beberse; la del grifo en las ciudades es potable porque fue tratada. -->
+### Explicacion Pedagogica
+El agua potable es el agua tratada que llega por el grifo y que se puede beber sin riesgo. En las ciudades de Colombia como Bogotá o Cali, el agua viene de fuentes como el río o los lagos y pasa por plantas de tratamiento antes de llegar a las casas. Esa agua también se usa para bañarse, cocinar y regar.
+
+## Question 2 [D3-D4]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.85
+**Contexto:** En una finca cerca del río Magdalena, una familia nota que en la época más seca el río baja su nivel y quedan partes del fondo descubiertas.
+### Enunciado
+En una finca cerca del río Magdalena, en la época más seca el río baja su nivel y quedan partes del fondo descubiertas. ¿A qué se debe ese descenso?
+
+### Opciones
+- [ ] A) A que las plantas absorben el agua del río por sus hojas
+  <!-- feedback: Incorrecto. Las plantas sí usan agua, pero no la bebemos del río; el descenso se debe a que llueve menos y hay más sol. -->
+- [x] B) A que en esa época llueve menos y el sol evapora más agua de la que entra al río
+  <!-- feedback: Correcto. Cuando llueve menos, entra menos agua al río y el sol evapora más, por eso el río baja y aparecen partes del fondo. -->
+- [ ] C) A que el agua del río se convierte en hielo durante las noches de ese clima
+  <!-- feedback: Incorrecto. En los trópicos no se forman ríos de hielo por las noches; el descenso se explica por la lluvia y la evaporación. -->
+- [ ] D) A que los peces del río se beben el agua y por eso el nivel baja
+  <!-- feedback: Incorrecto. El volumen de agua que beben los peces es mínimo; la causa real es la diferencia entre la lluvia y la evaporación. -->
+### Explicacion Pedagogica
+El nivel de un río depende de cuánta agua entra y cuánta sale. En la época más seca de Colombia llueve menos y el sol está más fuerte, así que se evapora más agua de la que llega. Por eso el río Magdalena baja y sus Zones de playa quedan al descubierto.
+
+## Question 3 [D5-D6]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Indagación
+**Expected_Success:** 0.80
+**Contexto:** En Cali, una profesora pide a sus estudiantes que midan cuánta agua gasta su familia en un día normal de trabajo.
+### Enunciado
+Una profesora de Cali pide medir cuánta agua gasta una familia en un día de trabajo. ¿Cuál es la forma correcta de hacer esa medición en casa?
+
+### Opciones
+- [ ] A) Preguntar a los vecinos cuánto gastan, porque ellos conocen el gasto de todas las familias
+  <!-- feedback: Incorrecto. Lo que dicen los vecinos es una opinión ajena; para medir el gasto de esa familia hay que medir su propia agua. -->
+- [ ] B) Revisar el recibo del agua de ese mes y dividir el total entre los días del mes
+  <!-- feedback: Incorrecto. El recibo incluye el gasto de toda la casa y de otros usos, y no sabemos cuántos días tiene el mes; es un dato poco exacto. -->
+- [ ] C) Cronometrar el tiempo que tarda el grifo en llenar una botella y suponer cuánto gasta la familia
+  <!-- feedback: Incorrecto. El tiempo de llenar una botella no dice cuánta agua usa la familia; hace falta medir el volumen total de todos los usos. -->
+- [x] D) Registrar en un recipiente el agua usada al bañarse, al lavar los platos y al regar, y medir el volumen
+  <!-- feedback: Correcto. Medir el volumen que la familia usa en cada actividad da el dato real del día, y al sumarlos se conoce el total. -->
+### Explicacion Pedagogica
+Para medir el consumo de agua de una familia hay que cuantificar cada uso: bañarse, lavar los platos, beber, regar y descargar el inodoro. Al juntar esos volúmenes en un recipiente medido se obtiene el total del día. Ese dato sirve después para comparar días y detectar dónde se desperdicia.
+
+## Question 4 [D5-D6]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.80
+**Contexto:** En una comunidad de la costa de Chocó, unos niños obtienen el agua de un río que pasa cerca de sus casas y quieren saber si pueden tomarla.
+### Enunciado
+En una comunidad de la costa del Chocó, los niños toman agua de un río que pasa cerca de sus casas. ¿Qué deben hacer para poder tomarla sin riesgo?
+
+### Opciones
+- [ ] A) Filtrarla con un trapo limpio, porque eso elimina todas las sustancias dañinas
+  <!-- feedback: Incorrecto. Un trapo retiene hojas y basuras, pero no elimina los microorganismos que hacen daño al cuerpo humano. -->
+- [x] B) Hervirla y esperar a que se enfríe en un recipiente tapado, porque el calor elimina los microorganismos
+  <!-- feedback: Correcto. Hervir el agua elimina los microorganismos que causan enfermedades, y tapar el recipiente evita que se vuelva a contaminar. -->
+- [ ] C) Dejarla al sol hasta que se evapore y recoger el vapor, porque así queda limpia por completo
+  <!-- feedback: Incorrecto. evaporar y recoger toda el agua necesita mucho sol y no se puede hacer en casa; ese método no sirve para uso diario. -->
+- [ ] D) Dejarla quieta hasta que el barro se asiente en el fondo, porque eso la vuelve potable
+  <!-- feedback: Incorrecto. Dejar asentar el barro quita partículas, pero los microorganismos siguen en el agua y por eso no se vuelve potable. -->
+### Explicacion Pedagogica
+El agua de los ríos puede tener microorganismos que causan enfermedades, por eso no se debe tomar sin tratar. Hervirla elimina los microorganismos, y en las plantas de tratamiento también se agregan sustancias que la hacen potable. En las zonas donde no hay acueducto, las comunidades usan estas medidas para poder beber agua segura.
+
+## Question 5 [D7-D8]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v5
+**Bloom:** Analyze
+**ICFES:** Indagación
+**Expected_Success:** 0.75
+**Contexto:** En un hotel de Cartagena, dos estudiantes miden con el mismo recipiente cuánta agua gasta cada tipo de habitación en un día.
+### Enunciado
+Un grupo de estudiantes de Cartagena mide con el mismo recipiente cuánta agua gastan dos habitaciones en un día y la última conserva más agua. ¿Qué análisis explica mejor ese resultado?
+
+### Opciones
+- [x] A) La habitación que conserva más agua usó menos agua en el día, porque gastó menos en el uso diario
+  <!-- feedback: Correcto. 40 litros contra 90 litros: si entra la misma cantidad de agua y sale menos, la diferencia está en cuánto se usó dentro de la habitación. -->
+- [ ] B) La habitación que conserva más agua usa más agua, porque el agua guardada ocupa más lugar en el tanque
+  <!-- feedback: Incorrecto. Conservar más agua significa que se usó menos: el agua que queda en la habitación es la que no se gastó en el día. -->
+- [ ] C) Las dos habitaciones usan igual, porque el agua siempre pesa lo mismo sin importar el uso
+  <!-- feedback: Incorrecto. El agua siempre tiene la misma masa por litro, pero el uso que hace cada habitación de esa agua sí es distinto. -->
+- [ ] D) La medición no sirve para nada, porque no se puede saber cuánto se usó dentro de una habitación
+  <!-- feedback: Incorrecto. Sí se puede: si se sabe cuánto entra al edificio y cuánto queda al final, la diferencia es el agua que se usó. -->
+### Explicacion Pedagogica
+Comparar dos mediciones hechas con el mismo recipiente permite conocer cuánto se usó en cada caso. Si al edificio le entró la misma cantidad de agua y en una habitación quedó más, entonces en esa habitación se usó menos agua. Analizar el dato permite encontrar dónde se puede ahorrar agua y cuidar este recurso.
+
+## Question 6 [D7-D8]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Explicación de fenómenos
+**Expected_Success:** 0.75
+**Contexto:** Después de un aguacero en Ibagué, el agua del río se ve turbia y arrastra tierra color café.
+### Enunciado
+Después de un aguacero en Ibagué, el agua del río se ve turbia y arrastra tierra color café. ¿Qué explica mejor ese fenómeno?
+
+### Opciones
+- [ ] A) Que el río se mezcla con agua de mar y por eso cambia de color
+  <!-- feedback: Incorrecto. En Ibagué el río no se mezcla con el mar; el agua turbia viene de la tierra que arrastra la lluvia desde las laderas. -->
+- [ ] B) Que las piedras del río se disuelven en el agua y la ponen de color café
+  <!-- feedback: Incorrecto. Las piedras no se disuelven así en el agua; el color café es tierra y barro arrastrados por la lluvia. -->
+- [x] C) Que la lluvia cae sobre el suelo suelto de las laderas y lo arrastra al río
+  <!-- feedback: Correcto. El agua de la lluvia erosiona el suelo suelto de las laderas y lo lleva al río, por eso el agua baja turbia y café. -->
+- [ ] D) Que los peces del río suben a la superficie y tiñen el agua de color café
+  <!-- feedback: Incorrecto. Los peces no tiñen el agua; lo que cambia el color es el suelo removido que la lluvia lleva desde las partes altas. -->
+### Explicacion Pedagogica
+Cuando llueve fuerte, el agua erosiona el suelo suelto de las laderas y arrastra esa tierra al río. Esa mezcla de agua con tierra y barro es la que le da el color café y la hace ver turbia. Por eso el agua del río se ve así después de un aguacero fuerte y no después de una llovizna suave.
+
+## Question 7 [D9-D10]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v7
+**Bloom:** Evaluate
+**ICFES:** Uso comprensivo del conocimiento científico
+**Expected_Success:** 0.70
+**Contexto:** En una escuela de Neiva, cuatro estudiantes proponen acciones para cuidar el agua de su municipio, que tiene poca agua en verano.
+### Enunciado
+Un municipio del sur de Colombia tiene poca agua en la época más seca. ¿Cuál de estas propuestas cuida mejor el agua y por qué?
+
+### Opciones
+- [ ] A) Cerrar el acueducto todos los días, porque así el agua del río baja menos y hay más para todos
+  <!-- feedback: Incorrecto. Cerrar el acueducto deja a la gente sin agua para beber y para cocinar; eso no es cuidar el agua, es quitársela a las personas. -->
+- [ ] B) Arrojar el aceite de la cocina por el desagüe, porque el aceite es líquido y se va con el agua
+  <!-- feedback: Incorrecto. El aceite no se disuelve: tapa las tuberías y contamina el agua que se trata para volver a usar, y eso la daña más. -->
+- [ ] C) Lavar el carro todos los días con una manguera abierta, porque el carro necesita estar limpio siempre
+  <!-- feedback: Incorrecto. Lavar con manguera abierta gasta muchísima agua potable, y esa limpieza se puede hacer con un balde y un poco de agua. -->
+- [x] D) Recoger el agua de lluvia para regar el jardín y cerrar el grifo mientras se cepilla los dientes
+  <!-- feedback: Correcto. Reutilizar el agua de lluvia para regar y cerrar el grifo evita dos pérdidas de agua potable sin dañar la limpieza ni las plantas. -->
+### Explicacion Pedagogica
+Cuidar el agua significa usarla con cuidado y volver a usarla cuando se puede. Recoger el agua de lluvia para regar el jardín y cerrar el grifo mientras se cepilla los dientes son dos acciones que reducen el desperdicio. En cambio, ensuciar el agua con aceite o gastar un balde de agua para lavar el carro la desperdicia.
+
+## Question 8 [D9-D10]
+**ID:** CO-CN-3-2026-W20-el-agua-y-sus-usos-001-MASTERY-bundle-v8
+**Bloom:** Evaluate
+**ICFES:** Indagación
+**Expected_Success:** 0.70
+**Contexto:** En el aula de ciencias de Manizales, un grupo de estudiantes quiere saber si el agua turbia de un río se aclara con arena y con carbón.
+### Enunciado
+Un grupo de estudiantes de Manizales llena dos recipientes con agua turbia del río: a uno le pone arena y al otro carbón, y a los dos los deja toda la noche. ¿Qué conclusión de esta indagación está mejor sustentada?
+
+### Opciones
+- [ ] A) El agua del río es potable en los dos recipientes, porque la arena y el carbón la dejaron limpia
+  <!-- feedback: Incorrecto. La arena y el carbón quitan algunas partículas, pero esa agua no se ha tratado ni hervido, así que no es potable. -->
+- [ ] B) El carbón hizo el agua más turbia, porque el carbón siempre suelta más tierra que la arena
+  <!-- feedback: Incorrecto. No se midió la turbiedad del agua después de cada tratamiento, así que esa conclusión sobre el carbón no tiene respaldo. -->
+- [ ] C) Los dos tratamientos sirvieron igual, porque el agua turbia tiene siempre la misma cantidad de partículas
+  <!-- feedback: Incorrecto. Que el agua turbia tenga partículas no significa que ambos tratamientos las quiten igual; sin medir, no hay comparación posible. -->
+- [x] D) El agua quedó menos turbia, pero saber si está limpia exige revisar si tiene microorganismos
+  <!-- feedback: Correcto. Filtrar con arena o carbón quita partículas y aclara el agua, pero los microorganismos siguen ahí y se necesitan más análisis. -->
+### Explicacion Pedagogica
+En una indagación hay que distinguir lo que muestran los datos de lo que falta probar. Un filtro de arena o de carbón retiene partículas y disminuye la turbiedad del agua, y eso se puede observar y medir. Sin embargo, el agua puede seguir teniendo microorganismos, así que no se puede afirmar que está limpia o potable solo porque se vea más clara.
