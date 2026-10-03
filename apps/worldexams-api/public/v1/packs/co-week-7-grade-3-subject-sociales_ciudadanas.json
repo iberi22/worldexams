@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.870Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v1",
+      "statement": "¿A través de qué medios de comunicación llegan las noticias a las familias de Cartagena?",
+      "context": "En Cartagena, las noticias del municipio se difunden por la radio y por el periódico de la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Por cartas que entrega un mensajero en cada casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las cartas con mensajero no son un medio de uso corriente en la ciudad para enterarse de las noticias del día."
+        },
+        {
+          "letter": "B",
+          "text": "Por la radio y por el periódico",
+          "is_correct": true,
+          "feedback": "Correcto. La radio y el periódico son medios de comunicación que difunden noticias a muchas personas al mismo tiempo."
+        },
+        {
+          "letter": "C",
+          "text": "Por señales de humo en el parque principal",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las señales de humo se usaron en otra época; hoy no sirven para informar noticias a las familias."
+        },
+        {
+          "letter": "D",
+          "text": "Solo por las conversaciones que se tienen en la plaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Contar algo en la plaza es hablar con un vecino, no un medio que informe a toda una ciudad."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un medio de comunicación es un recurso que transmite información a muchas personas. La radio funciona porque una sola emisión llega a miles de oyentes a la vez. El periódico funciona porque se imprime una vez y muchos lectores pueden leer lo mismo ese mismo día. Otros medios son la televisión y los sitios de internet. Saber distinguir los medios de comunicación de las conversaciones informales es importante para un ciudadano, porque le permite saber de dónde viene la información que recibe y buscar otros medios para comprobar lo que le dicen.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué es importante que doña Berta converse con sus vecinas sobre lo que leyó?",
+      "context": "En Valledupar, doña Berta lee el periódico cada mañana y después conversa con sus vecinas sobre lo que leyó.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la conversación reemplaza al periódico",
+          "is_correct": false,
+          "feedback": "Incorrecto. La conversación no reemplaza al periódico: el periódico le da la información y la conversación le permite comentarla."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así deja de interesarse por las noticias",
+          "is_correct": false,
+          "feedback": "Incorrecto. Conversar sobre las noticias aumenta su interés por ellas, no lo disminuye."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo ella puede leer el periódico en el barrio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sus vecinas pueden leer por sí mismas; doña Berta solo comparte lo que ya leyó."
+        },
+        {
+          "letter": "D",
+          "text": "Porque al compartir lo que leyó intercambian ideas y respetan las opiniones diferentes",
+          "is_correct": true,
+          "feedback": "Correcto. Comentar una noticia permite conocer otras ideas, aceptar que no todos piensan igual y vivir el respeto en el barrio."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los medios de comunicación nos dan información, pero esa información se vuelve más útil cuando se comparte. Cuando doña Berta cuenta lo que leyó y sus vecinas responden con lo que ellas piensan, se construye un diálogo basado en el respeto. Escuchar una opinión distinta de la propia no significa que haya que cambiar de opinión, sino que la otra persona también tiene derecho a pensar lo que piensa. Reconocer ese valor enseña a los niños a cuidar la convivencia y a no burlarse de lo que dice un compañero cuando no está de acuerdo con él.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es importante que las normas del municipio se difudan por medios de comunicación?",
+      "context": "En Barranquilla, el municipio dictó una norma sobre el uso del espacio público y la radio local la difundió a toda la ciudad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos los ciudadanos necesitan conocer las normas que los afectan",
+          "is_correct": true,
+          "feedback": "Correcto. Las normas obligan a todos los que viven en el municipio, así que todos necesitan saber cuáles son para poder cumplirlas."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las normas solo le importan a las autoridades municipales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las normas no son un asunto privado de las autoridades: afectan a cada ciudadano que vive en ese municipio."
+        },
+        {
+          "letter": "C",
+          "text": "Porque así las normas pueden cambiar sin que nadie se entere",
+          "is_correct": false,
+          "feedback": "Incorrecto. Difundir las normas busca que todos se informen, no que los cambios pasen inadvertidos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los medios de comunicación reemplazan a las autoridades",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los medios informan sobre lo que decide la autoridad; no tienen la facultad de crear ni de cambiar normas."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En una democracia las normas las crea una institución y luego las personas necesitan conocerlas para cumplirlas. Si una norma municipal cambia la forma en que se usan los espacios públicos, las familias tienen que enterarse por un medio accesible, como la radio, el periódico o la televisión. Esa información es la que permite participar con conocimiento y no por sorpresa. Por eso los municipios usan los medios para dar a conocer sus decisiones, y por eso un ciudadano responsable busca esa información en lugar de esperar a que otro se la cuente.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v4",
+      "statement": "¿Qué problema tiene esa actitud cuando se usa un medio de comunicación?",
+      "context": "En el colegio de Sincelejo, la clase leyó una noticia y un compañero dijo que solo le importaba lo que decía una persona en particular.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No tiene ningún problema, porque cada persona puede ouvir lo que quiera",
+          "is_correct": false,
+          "feedback": "Incorrecto. Escuchar solo una versión reduce lo que se aprende y contradice la idea de informarse bien."
+        },
+        {
+          "letter": "B",
+          "text": "Es un problema pequeño que no afecta a nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es un problema importante porque impide conocer otras opiniones y empobrece la discusión sobre la noticia."
+        },
+        {
+          "letter": "C",
+          "text": "Es un problema porque descarta las ideas de los demás y no permite opinar con libertad",
+          "is_correct": true,
+          "feedback": "Correcto. Aceptar solo una versión deja a las otras personas sin ser escuchadas y quita a todos la libertad de opinar con fundamento."
+        },
+        {
+          "letter": "D",
+          "text": "Es un problema porque los medios deben decir siempre lo que uno piensa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los medios informan; no tienen la obligación de repetir la opinión de cada persona que los ve."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los medios de comunicación permiten conocer información y también opiniones distintas. Cuando alguien acepta únicamente lo que dice una persona o un medio y descarta todo lo demás, deja de escuchar a los demás y pierde la posibilidad de formarse un criterio propio. Además, esa actitud hace que las otras personas se sientan ignoradas. Un ciudadano que respeta la libertad de expresión no solo expresa lo que piensa: también está dispuesto a escuchar lo que piensa el otro, aunque no coincida. Esa actitud es la base para convivir con personas que piensan distinto.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v5",
+      "statement": "¿Qué hace bien ese padre para que la información que comparte sirva a los vecinos?",
+      "context": "En un grupo de mensajes del barrio de Montería, un padre de familia recibió un dato sobre la salud de un vecino y lo quiere volver a publicar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Publica el dato con seguridad para que nadie se preocupe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir con seguridad no es informar bien: si el dato no tiene fuente, la seguridad hace más creíble el error."
+        },
+        {
+          "letter": "B",
+          "text": "Publica el dato junto con el enlace de la fuente oficial de salud",
+          "is_correct": true,
+          "feedback": "Correcto. Compartir el dato con el enlace permite que cada vecino lo verifique por sí mismo en lugar de creer sin comprobar."
+        },
+        {
+          "letter": "C",
+          "text": "Repite el dato muchas veces para que parezca cierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Repetir un rumor no lo vuelve cierto y solo difunde información que puede ser falsa."
+        },
+        {
+          "letter": "D",
+          "text": "Lo manda a otros grupos hasta que alguien confirme el dato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Compartir primero para confirmar después también difunde lo que no se ha verificado y puede dañar a alguien."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mensajes que circulan por internet llegan muy rápido y a mucha gente, así que antes de reenviar algo hay que preguntar de dónde salió. Si el dato viene de una institución oficial, como un hospital o una secretaría del municipio, conviene compartirlo junto con el enlace para que cada vecino pueda abrirlo y confirmarlo. Publicar sin fuente puede hacer daño a una persona aunque después el dato resulte falso, porque una vez que el rumor circula ya es difícil detenerlo. Enseñar a los niños a verificar antes de reenviar les enseña que informar bien es un acto de responsabilidad con los demás.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v6",
+      "statement": "Si la radio informa que el río subió por las lluvias, ¿qué relación tiene ese dato con la economía de la comunidad?",
+      "context": "En Quibdó, una estación de radio comunitaria informa sobre el estado del río y sobre los cambios del clima de la región.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Permite que las familias protejan sus bienes y organicen mejor su trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. Conocer que el río subió permite a las tiendas asegurar sus mercaderías y al barrio organizar mejor el transporte."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene relación porque la radio solo transmite noticias",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dato del río sí tiene efecto económico: cambia lo que pueden hacer las familias y sus negocios."
+        },
+        {
+          "letter": "C",
+          "text": "Solo sirve para que los niños aprendan algo nuevo en clase",
+          "is_correct": false,
+          "feedback": "Incorrecto. Su utilidad va más allá de aprender: modifica decisiones de familias enteras que dependen del río."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene relación porque la radio informa también sobre el pasado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa explicación no conecta la información con la economía; el efecto está en lo que los vecinos pueden hacer con el dato."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La información sirve cuando las personas pueden actuar con ella. En una ciudad ribereña como Quibdó, saber que el río subió por las lluvias es además de una noticia una información económica, porque el barrio comercia, transporta y trabaja con el río. Con ese dato, los comerciantes pueden asegurar sus mercaderías y los transportadores pueden evitar viajes peligrosos. Entender cómo la información se conecta con la vida económica enseña a los niños que escuchar las noticias del lugar no es un pasatiempo: es una forma de cuidar el trabajo y los bienes de la familia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿por qué la calle cumple una función de comunicación entre las personas?",
+      "context": "En el barrio Juan XXIII de Bucaramanga hay una tienda, una panadería, un colegio y un estadio, y la calle es el único espacio donde se encuentran.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque por la calle transitan solamente los carros del municipio",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calle es un espacio de tránsito, pero no es solo de carros: la usan los niños, los adultos y los vecinos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la calle separa los barrios de la ciudad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La calle no cumple la función de separar barrios, sino la de reunir a las personas que viven en uno."
+        },
+        {
+          "letter": "C",
+          "text": "Porque desde la calle cada uno ve al otro desde muy lejos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver a distancia impide la conversación: lo que hace útil a la calle es justamente el encuentro cercano."
+        },
+        {
+          "letter": "D",
+          "text": "Porque es el espacio donde todos transitan y pueden hablarse de sus asuntos",
+          "is_correct": true,
+          "feedback": "Correcto. Al compartir la calle, vecinos de oficios distintos se cruzan y conversan, y eso comunica a toda la comunidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un lugar también comunica. La calle, la plaza y el parque son espacios donde las personas de un barrio se encuentran e intercambian información: quién vende pan, quién tiene un mercado, qué problema hay con la tapa de un sumidero. En un barrio donde esos espacios son amplios y seguros, esa comunicación ocurre con naturalidad y construye comunidad. Si en cambio los caminos están ocupados o el parque está abandonado, la calle cumple su función de tránsito pero pierde la de encuentro. Por eso el espacio público bien cuidado es también una forma de comunicación.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle-v8",
+      "statement": "¿Qué actuación demuestra mejor que esa alumna actúa como ciudadano responsable con la información?",
+      "context": "En una escuela de Popayán, una alumna vio en redes sociales una publicación sobre un problema grave de salud de un compañero de clase.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reenviar la publicación a toda la clase sin preguntar nada más",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reenviar sin verificar puede hacer daño a la persona de quien se habla y difunde un dato que nadie comprobó."
+        },
+        {
+          "letter": "B",
+          "text": "Reírse de la publicación y subirla otra vez con sus comentarios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reírse de la salud de una persona es una falta de respeto y además difunde algo que puede ser falso."
+        },
+        {
+          "letter": "C",
+          "text": "Contar a una adulta de confianza lo que vio para que se confirme la información",
+          "is_correct": true,
+          "feedback": "Correcto. Recurrir a una persona responsable para verificar evita difundir algo falso y cuida a la persona afectada."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar la publicación sin contárselo a ninguna persona",
+          "is_correct": false,
+          "feedback": "Incorrecto. La publicación ya está en el teléfono de otras personas y borrar solo la de ella no resuelve nada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ser ciudadano responsable con la información significa verificarla antes de repetirla y cuidar la dignidad de las personas. Si una alumna ve en redes sociales una publicación sobre la salud de un compañero, lo correcto no es reenviarla, burlarse de ella ni borrarla en silencio, sino contárselo a una adulta de confianza para que se compruebe qué hay de cierto en ese dato. Si el caso es grave, la institución debe activar la ayuda del lugar correspondiente. Esa actuación enseña a los niños que la salud de un compañero merece más cuidado que un chiste.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W07-los-medios-de-comunicacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-6-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.869Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el oficio que realiza doña Ruth en su panadería?",
+      "context": "En el barrio La Esmeralda de Bogotá, doña Ruth tiene una panadería pequeña y cada mañana prepara pan antes del amanecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Panadera",
+          "is_correct": true,
+          "feedback": "Correcto. Quien prepara pan como oficio se llama panadera, y eso es exactamente lo que hace doña Ruth cada mañana."
+        },
+        {
+          "letter": "B",
+          "text": "Cocinera de restaurantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cocinera de restaurantes trabaja en un restaurante preparando platos de comida; doña Ruth prepara pan en su propia panadería."
+        },
+        {
+          "letter": "C",
+          "text": "Ama de casa que trabaja en casa ajena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quien trabaja en casa ajena lava, cocina y limpia para otra familia; doña Ruth prepara pan en un local que es suyo."
+        },
+        {
+          "letter": "D",
+          "text": "Dependienta de tienda",
+          "is_correct": false,
+          "feedback": "Incorrecto. La dependienta de tienda atiende y cobra en un almacén; doña Ruth prepara pan, que es otra cosa distinta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un oficio es la actividad que una persona realiza para ganarse la vida, para fabricar un producto o para prestar un servicio. Doña Ruth tiene un oficio muy claro: prepara pan y lo vende en su panadería, por eso se llama panadera. Aunque en el lenguaje cotidiano digamos que ella vende pan, el nombre del oficio indica lo que la persona sabe hacer, que en este caso es preparar pan. No es lo mismo que cocinar en un restaurante, que es el oficio de una cocinera profesional, ni que trabajar en la casa de otra persona. Reconocer el nombre de cada oficio ayuda a valorar el trabajo de las personas de mi barrio y a entender que todos los oficios son importantes para que la comunidad funcione.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v2",
+      "statement": "¿De qué se ocupa principalmente el señor Ospina cuando llega al parque?",
+      "context": "En Armenia, Quindío, el señor Ospina llega cada mañana al parque del centro a contar las aves que llegan a los árboles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De podar los árboles del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Podar árboles es tarea de un podador; el señor Ospina observa y cuenta aves, no corta ramas."
+        },
+        {
+          "letter": "B",
+          "text": "De organizar a los niños del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Organizar grupos de niños corresponde a un docente; el señor Ospina no enseña en ningún colegio."
+        },
+        {
+          "letter": "C",
+          "text": "De contar las aves que llegan a los árboles",
+          "is_correct": true,
+          "feedback": "Correcto. La ocupación que el enunciado describe es observar y contar las aves del parque, y eso es lo que él hace."
+        },
+        {
+          "letter": "D",
+          "text": "De organizar las excursiones del colegio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Organizar excursiones escolares es tarea de un docente; el señor Ospina observa aves y no agenda salidas de estudio."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La gente cumple oficios muy distintos y no todos viven de un trabajo dentro de una oficina o una tienda. También hay personas que aportan a la comunidad con oficios relacionados con el cuidado de la naturaleza, como el señor Ospina, que dedica su tiempo a contar las aves del parque de Armenia. Esos trabajos ayudan a conocer y a cuidar los seres vivos de la ciudad. Cuando en mi barrio veo a alguien podando un árbol, sembrando en un jardín u observando aves, estoy viendo un oficio. Saber distinguir entre observar la naturaleza, podar árboles o enseñar a unos niños son actividades distintas, y nombrarlas bien me permite respetar el trabajo de cada persona.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es positivo que esos niños lleven su propuesta a la alcaldía del municipio?",
+      "context": "En Manizales, un grupo de niños del colegio quiere que el parque de su barrio tenga más árboles y decide llevar la petición a la alcaldía del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque al llevarla el parque tendrá más árboles de inmediato",
+          "is_correct": false,
+          "feedback": "Incorrecto. Presentar una propuesta no produce árboles por sí solo; lo que hace es pedir que una institución evalúe y decida."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la propuesta es una forma de ejercer el derecho a participar",
+          "is_correct": true,
+          "feedback": "Correcto. Presentar una petición ante la autoridad es un derecho de participación: los niños son ciudadanos y pueden pedir cambios concretos a las instituciones."
+        },
+        {
+          "letter": "C",
+          "text": "Porque solo la alcaldía puede cuidar los árboles del parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los niños también pueden cuidar los árboles: pueden regar, sembrar y recoger basuras; no están excluidos de esa tarea."
+        },
+        {
+          "letter": "D",
+          "text": "Porque la alcaldía está obligada a cumplir lo que ellos pidan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna institución está obligada a cumplir cualquier pedido; la propuesta se discute, se evalúa y solo así se decide."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En Colombia los niños y las niñas son ciudadanos con derechos, entre ellos el derecho a participar y a expresar sus opiniones sobre los asuntos del lugar donde viven. Pedirle al municipio que siembre más árboles en el parque es un ejercicio de ese derecho. Sin embargo, presentar una propuesta no es lo mismo que conseguir de inmediato lo pedido: la institución escucha, evalúa si hay presupuesto y si es conveniente, y luego decide. Reconocer esa diferencia enseña a los niños que su voz cuenta, pero que el resultado de una gestión depende de un proceso en el que todos deben cumplir.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué es importante conocer y valorar los oficios de las personas que viven en mi barrio?",
+      "context": "En Cali, doña Olga es maestra de segundo grado y el señor Esteban vigila una finca de su familia en el corregimiento de Vereda.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque todos los oficios valen exactamente igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Valorar un oficio no significa decir que todos valen lo mismo: cada uno tiene su función y sus condiciones de trabajo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque hay oficios más importantes que otros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir que hay oficios más importantes contradice el respeto por el trabajo de cada persona."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los oficios no tienen ninguna relación entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los oficios sí están relacionados: el alimentador necesita que el maestro enseñe a leer a sus hijos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque todos los oficios existen y hacen posible la vida diaria",
+          "is_correct": true,
+          "feedback": "Correcto. Cada oficio aporta al conjunto: sin quien cocine no habría alimentos y sin quien vigile la finca los cultivos quedarían sin protección."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En mi barrio todos los oficios están relacionados entre sí. Una persona prepara pan, otra enseña a los niños, otra vigila una finca y otra transporta a los que viven lejos. Ninguno de esos trabajos funciona solo, y si uno falta, los demás lo notan. Por eso es importante conocerlos y valorarlos, porque las personas que los realizan también son ciudadanos con necesidades y derechos. Reconocer el valor de cada oficio evita que alguien se sienta menos importante por el trabajo que hace y nos enseña que una comunidad se sostiene cuando respeta a todos sus miembros.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v5",
+      "statement": "¿Qué respuesta le explica mejor a Sofía el valor del trabajo de su mamá?",
+      "context": "En Cúcuta, la mamá de Sofía trabaja en una enfermería durante el día y llega cansada en la tarde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que su trabajo atiende a personas que lo necesitan y ayuda a sostener su familia",
+          "is_correct": true,
+          "feedback": "Correcto. Cuidar pacientes y aportar dinero al hogar son dos aportes concretos del trabajo de su mamá: beneficia a otros y sostiene la familia."
+        },
+        {
+          "letter": "B",
+          "text": "Que su mamá trabaja solo porque le gusta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El trabajo aporta dinero y también beneficia a otras personas; reducirlo a un gusto personal quita una parte importante de su valor."
+        },
+        {
+          "letter": "C",
+          "text": "Que el trabajo de su mamá es más importante que el del panadero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar oficios para decidir cuál pesa más no respeta el valor del trabajo de las demás personas de la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Que sin trabajar ella no sería nadie",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nadie es nadie por no trabajar: el valor de una persona no depende del oficio que realice."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El trabajo tiene varias dimensiones y todas importan: permite ganarse el sustento, pone en marcha servicios que otros necesitan y permite que la persona se sienta parte de una comunidad. En el caso de una enfermera, las tres cosas están presentes: atiende a personas que requieren atención y, con lo que gana, ayuda a sostener su hogar. Cuando un niño entiende que el trabajo de su madre sirve a otros, aprende a valorar el esfuerzo de los adultos de su casa y a no ver el oficio de alguien como menos importante que el suyo propio. Esa comprensión también lo prepara para colaborar en casa sin menospreciar la tarea de sus padres.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v6",
+      "statement": "Los finqueros cultivan papa y la venden en el mercado. ¿Qué relación hay entre esos dos hechos?",
+      "context": "En un corregimiento de Pasto, varias familias cultivan papa en pequeñas fincas y luego la venden en el mercado municipal.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son hechos que no tienen ninguna relación entre sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Producir y vender son partes del mismo proceso económico: lo que se produce existe para llegar a otras personas."
+        },
+        {
+          "letter": "B",
+          "text": "Son hechos relacionados: la venta da valor al trabajo de cultivar la papa",
+          "is_correct": true,
+          "feedback": "Correcto. La venta es el paso en el que el trabajo del finquero se convierte en dinero y el alimento llega a las familias que lo compran."
+        },
+        {
+          "letter": "C",
+          "text": "Son hechos donde uno anula al otro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La venta no elimina la producción: si no se cultiva la papa no habría nada que vender, y si no se vende el cultivo no da jornal."
+        },
+        {
+          "letter": "D",
+          "text": "Son hechos que demuestran que los finqueros no trabajan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cultivar la papa sí es trabajo duro, y por eso mismo la venta es la forma de recibir el pago por ese esfuerzo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En una economía las personas no producen para sí mismas, sino para la comunidad. Quien cultiva papa en Pasto trabaja para producir un alimento, y quien compra en el mercado paga por ese trabajo. Entre esos dos hechos hay una relación directa: la venta es el paso en el que el trabajo del finquero se convierte en dinero y el alimento llega a otras familias. Reconocer que producir y vender son etapas del mismo proceso ayuda a los niños a entender por qué el trabajo de quien cultiva la tierra merece ser reconocido y pagado, aunque el resultado final no termine en su propia casa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿qué hecho muestra mejor que los oficios están conectados entre sí?",
+      "context": "En el barrio Los Alpes de Medellín hay una panadería, una droguería, un colegio y una estación de buses a dos cuadras unas de otras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la panadería abre a las seis de la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El horario de un solo negocio no muestra la relación entre oficios, porque no menciona a ninguna otra persona ni ocupación."
+        },
+        {
+          "letter": "B",
+          "text": "Que en la panadería hay vitrina y mostrador",
+          "is_correct": false,
+          "feedback": "Incorrecto. La descripción de los muebles de un local es un dato interno del negocio, no una relación entre oficios."
+        },
+        {
+          "letter": "C",
+          "text": "Que el colegio está cerca de la estación de buses",
+          "is_correct": false,
+          "feedback": "Incorrecto. La cercanía entre dos edificios es un dato de ubicación y no explica cómo se necesitan los oficios entre sí."
+        },
+        {
+          "letter": "D",
+          "text": "Que la panadería depende de otras personas para poder trabajar",
+          "is_correct": true,
+          "feedback": "Correcto. Sin quien le lleve la harina y sin quien repare sus equipos, la panadería no puede producir pan: eso muestra la conexión entre oficios."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los oficios de un barrio forman una red: cada uno depende de los demás para poder trabajar. La panadería necesita alguien que le entregue los insumos, alguien que transporte la harina y alguien que repare sus equipos cuando se dañan. La droguería necesita al mismo que le haga el pedido, y el colegio necesita que las familias lleven a sus hijos cada mañana. Por eso decir que los oficios están conectados significa que ninguno funciona de manera aislada. Cuando un niño lo entiende, aprende que ayudar a un vecino en su oficio es ayudar también a toda la comunidad.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle-v8",
+      "statement": "¿Qué actuación demuestra mejor que esos niños son ciudadanos responsables en su escuela?",
+      "context": "En una escuela de Pereira, un grupo de niños quiere pintar la malla del patio para mejorarla, pero ninguno conoce al dueño de la malla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pintar la malla de noche sin pedir permiso",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la intención sea buena, entrar sin autorización rompe una regla: la responsabilidad incluye respetar la decisión del dueño."
+        },
+        {
+          "letter": "B",
+          "text": "Esperar a que la malla se pinte sola con el tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar sin hacer nada evita el esfuerzo, pero tampoco resuelve el problema: la responsabilidad pide una acción ajustada a las normas."
+        },
+        {
+          "letter": "C",
+          "text": "Pedir permiso al dueño y organizar la minga un fin de semana",
+          "is_correct": true,
+          "feedback": "Correcto. Preguntar y acordar con el dueño respeta la norma de convivencia, y organizar la minga muestra que asumieron una responsabilidad colectiva."
+        },
+        {
+          "letter": "D",
+          "text": "Solo jugar mientras los demás niños pintan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar sin participar deja la tarea en manos de otros y no demuestra compromiso con la comunidad de la escuela."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ser ciudadano responsable significa reconocer a los demás y cumplir las normas que existen para la convivencia. En el caso de la malla del patio, los niños quieren mejorar su escuela, pero antes de pintar deben preguntar al dueño si puede hacerse y en qué condiciones. Esa consulta es tan importante como la minga misma, porque si pintan sin permiso dañan la propiedad de alguien y enseñan una forma incorrecta de conseguir lo que uno quiere. Un niño ciudadano no solo busca el resultado: también respeta el proceso y a las personas que forman parte de él.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W06-el-trabajo-y-los-oficios-001-MASTERY-bundle",
+      "periodo": 6,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

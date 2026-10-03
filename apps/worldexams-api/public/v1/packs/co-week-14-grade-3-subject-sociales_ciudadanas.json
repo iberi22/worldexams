@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-14-grade-3-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T20:28:29.871Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v1",
+      "statement": "¿Qué necesitan las plantas para vivir y crecer?",
+      "context": "En Medellín, en el patio del colegio hay una mata de albahaca y los niños la riegan y la ponen al sol.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agua, luz, aire y tierra",
+          "is_correct": true,
+          "feedback": "Correcto. Las plantas necesitan agua, luz del sol, aire y tierra para vivir, crecer y producir sus frutos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo agua, porque sin agua no hay vida",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es necesaria, pero sola no basta: sin luz, aire y tierra la planta no puede vivir bien."
+        },
+        {
+          "letter": "C",
+          "text": "Oscuridad y agua, porque las plantas viven en la oscuridad",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las plantas necesitan luz del sol para fabricar su alimento: la oscuridad impide su crecimiento."
+        },
+        {
+          "letter": "D",
+          "text": "Solo tierra, porque la tierra contiene todo lo necesario",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tierra da soporte y minerales, pero sin agua y sin luz la planta no alcanza a crecer."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las plantas son seres vivos que producen su propio alimento y por eso necesitan una serie de condiciones para sobrevivir. Necesitan agua para transportar sustancias por el tallo, luz del sol para poder fabricar su alimento, aire para respirar y tierra o sustrato donde sostenerse y obtener minerales. Con esas condiciones, una planta produce hojas, flores y frutos. Enseñar a los niños a identificar esas necesidades los acerca a la vida real de las plantas del patio del colegio y les enseña que cuidar un ser vivo implica entender cómo funciona.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué muestra esa señora al usar el agua sobrante para regar?",
+      "context": "En Piedecuesta, una señora del barrio regaba el corredor con el agua que le sobraba de lavar los platos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que el agua sobrante no sirve para nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al contrario, esa agua sobrante sí tiene un uso nuevo: sirve para regar y no se pierde."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que hay que wasteful doble el agua siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Reutilizar el agua una vez no es desperdiciar el doble: es aprovecharla mejor antes de que se pierda."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que el cuidado con el agua también incluye a las plantas",
+          "is_correct": true,
+          "feedback": "Correcto. Usar el agua sobrante para regar evita el desperdicio y mantiene vivas las plantas del corredor."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que las plantas necesitan más agua que las personas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa conclusión no se desprende de la acción: ella simplemente aprovecha un agua que ya iba a eliminarse."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reutilizar el agua que ya se usó es una forma sencilla de cuidar un recurso natural. Esa señora no Tiró el agua sobrante por el desagüe, sino que la llevó a las plantas del corredor, donde sirve para que el suelo se mantenga húmedo. Ese gesto enseña a los niños que un recurso se puede aprovechar más de una vez antes de que se desperdicie. También les muestra que las plantas del barrio son seres vivos que dependen, igual que las personas, de que alguien les provea agua.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué es positivo que el municipio promueva la siembra de árboles?",
+      "context": "En Armenia, la administración del municipio hizo una campaña para sembrar árboles en las calles.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque así se usan menos árboles para hacer leña",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sembrar árboles no reduce el uso de leña por sí solo: ese es un beneficio posterior, no el objetivo principal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque así las calles quedan más cómodas y frescas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las calles quedan más frescas, pero el beneficio más importante es la salud de las personas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los árboles limpian el aire y mejoran la salud del municipio",
+          "is_correct": true,
+          "feedback": "Correcto. Los árboles filtran el aire y dan sombra, así que mejoran directamente la salud de los habitantes."
+        },
+        {
+          "letter": "D",
+          "text": "Porque así los niños tienen más trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La siembra no es un motivo para crear trabajo: el fin es mejorar el ambiente y la salud de la comunidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las plantas hacen un trabajo silencioso pero muy importante para la salud de las personas. Los árboles filtran el aire, liberan oxígeno, dan sombra y ayudan a que el suelo no se arrastre con la lluvia. En Armenia, por ejemplo, el municipio sembró árboles en las calles y con eso mejoró el aire que respira la gente. Reconocer ese beneficio enseña a los niños que las plantas no son adorno: son parte de la infraestructura de salud de una ciudad. También les muestra que una decisión del municipio puede mejorar el ambiente de miles de personas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Sistema político y democracia",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v4",
+      "statement": "¿Qué enseña esa diferencia entre el campo y la ciudad?",
+      "context": "En una vereda de Nariño hay niños que viven cerca del bosque y ven muchos animales, mientras que en una ciudad grande no ven animales salvajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en las ciudades no existe la naturaleza",
+          "is_correct": false,
+          "feedback": "Incorrecto. En las ciudades sí hay naturaleza: árboles, aves e insectos. Lo que no hay son animales salvajes como en el campo."
+        },
+        {
+          "letter": "B",
+          "text": "Que solo los niños del campo saben algo de la naturaleza",
+          "is_correct": false,
+          "feedback": "Incorrecto. El conocimiento no depende del lugar: un niño de ciudad también puede aprender sobre la naturaleza en la escuela o el parque."
+        },
+        {
+          "letter": "C",
+          "text": "Que en los dos lugares la naturaleza es igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La diferencia es justamente el punto: un lugar tiene bosque y animales salvajes, el otro tiene menos de eso."
+        },
+        {
+          "letter": "D",
+          "text": "Que el lugar donde vivimos influye en qué seres vivos hay cerca",
+          "is_correct": true,
+          "feedback": "Correcto. El bosque y la ciudad ofrecen hábitats distintos, y eso cambia qué animales y plantas se pueden observar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los seres vivos necesitan un lugar adecuado para vivir, y por eso no se encuentran los mismos animales en un bosque que en una gran ciudad. En la vereda de Nariño, cerca del bosque, hay animales salvajes que hacen su vida en ese ambiente. En una ciudad grande, esos animales no encuentran condiciones para sobrevivir, así que se observan otras especies, como aves de patio. Reconocer esta diferencia enseña a los niños que el lugar donde vivimos forma parte de la historia de los seres vivos que nos rodean.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Pluralidad, identidad y desigualdad",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué hace bien ese niño para cuidar la flor?",
+      "context": "En Cartagena, un niño del colegio vio una flor del parque que estaba pisada en el pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arrancarla para llevársela a su casa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Arrancar la flor daña la planta y deja el parque más pobre: la flor no es un objeto para llevar."
+        },
+        {
+          "letter": "B",
+          "text": "Pintar la flor con colores para hacerla más bonita",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pintarla daña la planta y además destruye la belleza natural que tenía."
+        },
+        {
+          "letter": "C",
+          "text": "Dejarla así porque la flor se recupera sola",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si nadie interviene, la flor sigue dañada y la persona que la cuidó pierde el trabajo que hizo."
+        },
+        {
+          "letter": "D",
+          "text": "Avisar a alguien del parque para que la atiendan y se cuide el espacio",
+          "is_correct": true,
+          "feedback": "Correcto. Avisar a la institución adecuada protege la planta y hace que otras personas cuiden el parque."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando algo vivo del espacio público sufre un daño, lo responsable es avisar a quien administra ese lugar. Si un niño ve una flor dañada en un parque, puede comunicárselo a los trabajadores o a la institución del municipio para que la atiendan y se retire la causa que la lastimó. Esa actuación enseña dos cosas: que las plantas del espacio común también merecen cuidado, y que un niño puede participar de la defensa de la naturaleza avisando y no dañando. El ejemplo muestra además que el daño se detiene con información y con presencia ciudadana.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Reflexión ética y política",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué efecto puede tener en la economía de ese municipio la decisión de sembrar árboles?",
+      "context": "En Boyacá, un municipio sembró árboles en un terreno que antes se usaba para pasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguno, porque los árboles no producen dinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los árboles sí aportan a la economía: dan sombra, evitan daños y a largo plazo dan madera y frutos."
+        },
+        {
+          "letter": "B",
+          "text": "Solo sirve para que los vecinos lo vean bonito",
+          "is_correct": false,
+          "feedback": "Incorrecto. El beneficio es más grande que lo estético: los árboles reducen el calor y protegen el suelo y los cultivos."
+        },
+        {
+          "letter": "C",
+          "text": "Disminuye el trabajo de los finqueros porque ya no hay pasto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si se cambia el uso del terreno, cambia la forma de trabajar, pero no por eso la economía del municipio disminuye."
+        },
+        {
+          "letter": "D",
+          "text": "Puede mejorar los cultivos y reducir el calor en los años futuros",
+          "is_correct": true,
+          "feedback": "Correcto. La sombra de los árboles protege los cultivos y baja la temperatura, lo que mejora la producción con el tiempo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La forma como se usa un terreno tiene efectos en la economía y en el ambiente durante muchos años. Si un municipio siembra árboles en un terreno que antes era solo pasto, en el corto plazo cambia la actividad de las personas que vivían de esa tierra. Con el tiempo, la sombra de los árboles protege los cultivos, reduce el calor del suelo y evita que la lluvia arrastre la tierra. Reconocer ese efecto a largo plazo enseña a los niños que las decisiones sobre los recursos naturales se evalúan no solo por el beneficio inmediato, sino por lo que dejan para las generaciones siguientes.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Economía y recursos naturales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v7",
+      "statement": "En ese barrio, ¿qué hecho muestra mejor cómo la distribución de las plantas cambia el ambiente?",
+      "context": "En el barrio La Ceiba de Palmira hay un parque con árboles grandes, un solar vacío y una esquina con dos matas de arbusto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que en el solar vacío no hay ningún árbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese dato describe lo que falta en un lugar, pero no muestra el efecto de la distribución de las plantas."
+        },
+        {
+          "letter": "B",
+          "text": "Que los árboles del parque son más grandes que los arbustos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Comparar tamaños es un dato de medida, pero no explica el efecto sobre el ambiente del barrio."
+        },
+        {
+          "letter": "C",
+          "text": "Que la plaza tiene un banco debajo de los árboles",
+          "is_correct": false,
+          "feedback": "Incorrecto. La ubicación del banco es un dato de sitio, pero no explica cómo afecta la distribución de plantas al ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Que en una parte del barrio hay sombra y en el solar vacío no hay ninguna",
+          "is_correct": true,
+          "feedback": "Correcto. Esa diferencia muestra que la sombra depende de dónde estén los árboles y cómo eso cambia el ambiente del lugar."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La forma como están repartidas las plantas en un barrio cambia el ambiente de manera concreta. Donde hay árboles grandes hay sombra, el suelo se mantiene húmedo y hace menos calor; donde no hay nada, el sol pega más y el lugar se siente más seco. En el barrio La Ceiba, esa diferencia se nota entre el parque y el solar vacío. Reconocer esta relación espacial enseña a los niños que sembrar y cuidar plantas no es solo decorar: es mejorar el aire, la temperatura y la comodidad de las personas que viven cerca.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Interpretación de relaciones espaciales",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué actuación demuestra mejor que ese niño cuida los seres vivos de su municipio?",
+      "context": "En Cocorná, un niño vio a unas personas talando árboles en un terreno cercano a un río para vender la leña.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ir con ellos y cortar más árboles para acompañarlos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Talar más árboles para acompañar a quienes lo hacen causa el mismo daño y acelera la destrucción del bosque."
+        },
+        {
+          "letter": "B",
+          "text": "Decirles a ellos lo que vio para que no se enteren",
+          "is_correct": false,
+          "feedback": "Incorrecto. Avisarles a ellos no sirve: el daño ya está hecho y no hay ninguna autoridad que pueda detenerlo."
+        },
+        {
+          "letter": "C",
+          "text": "Avisar a la autoridad ambiental para que proteja el bosque",
+          "is_correct": true,
+          "feedback": "Correcto. Denunciar ante la autoridad competente permite detener la tala y proteger un recurso que es de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Esperar a que el bosque se recupere solo con el tiempo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esperar no detiene la tala: mientras no se avise, los árboles pueden seguir desapareciendo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Los bosques son seres vivos que pertenecen a toda la comunidad, y por eso su cuidado es una responsabilidad compartida. Si un niño ve que unas personas están talando árboles cerca de un río, avisar a la autoridad ambiental que tiene la función de proteger el bosque es la forma más eficaz de actuar. Reconocer ese camino evita la destrucción y permite que las familias que viven cerca del río conserven ese recurso. Esta actuación enseña que un niño no se queda indefenso: puede participar de la defensa de su territorio buscando a quien tiene la autoridad para hacerlo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-3-2026-W14-las-plantas-y-los-seres-vivos-001-MASTERY-bundle",
+      "periodo": 14,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
