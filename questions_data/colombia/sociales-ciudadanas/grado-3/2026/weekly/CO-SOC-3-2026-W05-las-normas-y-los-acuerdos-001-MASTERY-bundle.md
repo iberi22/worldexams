@@ -76,12 +76,12 @@ Las normas públicas se comunican a través de letreros y señales para que toda
 ¿Qué tipo de acuerdo hicieron los estudiantes del salón?
 
 ### Opciones
-- [ ] A) Un contrato de trabajo
-<!-- feedback: Incorrecto. Un contrato de trabajo es un documento legal entre empleador y empleado, no un acuerdo entre estudiantes. -->
+- [x] A) Un acuerdo de convivencia
+<!-- feedback: Correcto. Un acuerdo de convivencia es un pacto entre miembros de una comunidad para garantizar la convivencia y el orden. -->
 - [ ] B) Un tratado de comercio
 <!-- feedback: Incorrecto. Un tratado de comercio es un acuerdo entre países para intercambiar bienes, no un acuerdo de aula. -->
-- [x] C) Un acuerdo de convivencia
-<!-- feedback: Correcto. Un acuerdo de convivencia es un pacto entre miembros de una comunidad para garantizar la convivencia y el orden. -->
+- [ ] C) Un contrato de trabajo
+<!-- feedback: Incorrecto. Un contrato de trabajo es un documento legal entre empleador y empleado, no un acuerdo entre estudiantes. -->
 - [ ] D) Un documento legal
 <!-- feedback: Incorrecto. Un documento legal es un texto con validez jurídica, no un acuerdo voluntario entre estudiantes. -->
 
@@ -122,12 +122,12 @@ Los acuerdos familiares son herramientas educativas que enseñan valores fundame
 ¿Qué deberían hacer los estudiantes para resolver este conflicto?
 
 ### Opciones
-- [x] A) Hablar y recordar el acuerdo
-<!-- feedback: Correcto. Hablar permite expresar la inconformidad y recordar el acuerdo para que ambos cumplan su parte. -->
+- [ ] A) Pegarse
+<!-- feedback: Incorrecto. Pegarse es violencia física y empeora el conflicto; los acuerdos se respetan con diálogo, no con agresión. -->
 - [ ] B) No volver a hablarse
 <!-- feedback: Incorrecto. No hablarse no resuelve el incumplimiento del acuerdo; se necesita comunicación para aclarar la situación. -->
-- [ ] C) Pegarse
-<!-- feedback: Incorrecto. Pegarse es violencia física y empeora el conflicto; los acuerdos se respetan con diálogo, no con agresión. -->
+- [x] C) Hablar y recordar el acuerdo
+<!-- feedback: Correcto. Hablar permite expresar la inconformidad y recordar el acuerdo para que ambos cumplan su parte. -->
 - [ ] D) Ignorar el problema
 <!-- feedback: Incorrecto. Ignorar el problema no resuelve el incumplimiento del acuerdo; se necesita diálogo y compromiso. -->
 

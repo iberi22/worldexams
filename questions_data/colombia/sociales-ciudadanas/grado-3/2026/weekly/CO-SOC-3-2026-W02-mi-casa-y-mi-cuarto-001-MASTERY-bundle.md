@@ -76,12 +76,12 @@ La ubicación de los objetos en el espacio se describe usando relaciones espacia
 ¿Qué solución respeta las necesidades de ambos hermanos?
 
 ### Opciones
-- [ ] A) Que uno se vaya de la casa
-  <!-- feedback: Incorrecto. Irse de la casa no resuelve el conflicto y priva a uno de los hermanos de su espacio familiar. -->
+- [x] A) Establecer horarios para cada actividad
+  <!-- feedback: Correcto. Establecer horarios permite que ambos satisfagan sus necesidades: uno estudia en silencio y otro escucha música. -->
 - [ ] B) Que ambos escuchen música alta
   <!-- feedback: Incorrecto. Escuchar música alta ambos no respeta la necesidad de silencio del hermano que necesita estudiar. -->
-- [x] C) Establecer horarios para cada actividad
-  <!-- feedback: Correcto. Establecer horarios permite que ambos satisfagan sus necesidades: uno estudia en silencio y otro escucha música. -->
+- [ ] C) Que uno se vaya de la casa
+  <!-- feedback: Incorrecto. Irse de la casa no resuelve el conflicto y priva a uno de los hermanos de su espacio familiar. -->
 - [ ] D) Que el que estudia aguante el ruido
   <!-- feedback: Incorrecto. Exigir que aguante el ruido no respeta su necesidad de concentración y es injusto con él. -->
 
@@ -122,12 +122,12 @@ El agua y la energía son recursos naturales que requieren un uso responsable. C
 ¿Qué valor se practica cuando todos colaboran con las tareas del hogar?
 
 ### Opciones
-- [x] A) La cooperación
-<!-- feedback: Correcto. La cooperación es el valor de trabajar juntos por un bien común, en este caso el mantenimiento del hogar. -->
+- [ ] A) La indiferencia
+<!-- feedback: Incorrecto. La indiferencia es no importarles a los demás, lo contrario a colaborar activamente con las tareas. -->
 - [ ] B) La competencia
 <!-- feedback: Incorrecto. La competencia implica rivalidad, mientras que colaborar con las tareas del hogar es un acto de cooperación. -->
-- [ ] C) La indiferencia
-<!-- feedback: Incorrecto. La indiferencia es no importarles a los demás, lo contrario a colaborar activamente con las tareas. -->
+- [x] C) La cooperación
+<!-- feedback: Correcto. La cooperación es el valor de trabajar juntos por un bien común, en este caso el mantenimiento del hogar. -->
 - [ ] D) El egoísmo
 <!-- feedback: Incorrecto. El egoísmo es pensar solo en uno mismo, mientras que colaborar es pensar en el bienestar de toda la familia. -->
 
