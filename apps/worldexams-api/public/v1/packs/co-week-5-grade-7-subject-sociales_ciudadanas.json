@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-5-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T13:40:30.355Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v1",
+      "statement": "Según el texto, ¿qué sostiene la convivencia en el aula?",
+      "context": "En un curso de grados séptimo se lee que la convivencia se construye con acuerdos que las personas del grupo aceptan y respetan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los acuerdos que el grupo se da y respeta",
+          "is_correct": true,
+          "feedback": "La convivencia se sostiene en los acuerdos porque el grupo funciona cuando las personas los aceptan y los cumple de común acuerdo."
+        },
+        {
+          "letter": "B",
+          "text": "La autoridad del profesor por sí sola",
+          "is_correct": false,
+          "feedback": "Reducir la convivencia a la autoridad del docente, cuando el texto explica que depende de acuerdos entre los integrantes del grupo."
+        },
+        {
+          "letter": "C",
+          "text": "La ausencia de conflictos entre los estudiantes",
+          "is_correct": false,
+          "feedback": "La convivencia no es la ausencia de conflictos sino la capacidad de resolverlos, de modo que esa opción no recoge lo que dice el texto."
+        },
+        {
+          "letter": "D",
+          "text": "El cumplimiento de una norma escrita sin discusión",
+          "is_correct": false,
+          "feedback": "Una norma impuesta sin acuerdo no garantiza convivencia, porque el texto dice que el acuerdo se construye y se acepta entre todos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La convivencia no se da por la ausencia de problemas. Se sostiene en acuerdos que el grupo construye, acepta y respeta, y esos acuerdos permiten resolver los conflictos sin violencia.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v2",
+      "statement": "Según la cartilla, ¿qué significa la paz en un grupo?",
+      "context": "Una cartilla escolar explica que la paz en un grupo no significa que nunca haya desacuerdo, sino que los desacuerdos se resuelven hablando y no con golpes ni insultos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que todos estén de acuerdo en todo momento",
+          "is_correct": false,
+          "feedback": "Exiges un acuerdo permanente que la cartilla no plantea, porque admite que puede haber desacuerdo en un grupo pacífico."
+        },
+        {
+          "letter": "B",
+          "text": "Que los desacuerdos se resuelven sin violencia",
+          "is_correct": true,
+          "feedback": "La definición coincide con el texto: la paz consiste en resolver las diferencias por medio del diálogo y no con violencia."
+        },
+        {
+          "letter": "C",
+          "text": "Que las personas no hablen entre ellas",
+          "is_correct": false,
+          "feedback": "La cartilla propone justamente hablar para resolver los desacuerdos, de modo que el silencio no es lo que define la paz."
+        },
+        {
+          "letter": "D",
+          "text": "Que solo los líderes decidan y el grupo obedezca",
+          "is_correct": false,
+          "feedback": "Centralizas la decisión en unos pocos, cuando la paz que describe la cartilla se construye hablando entre todas las personas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Entender la paz como grupo consiste en reconocer que puede haber desacuerdo y que la diferencia se resuelve con diálogo. La violencia física y verbal es justamente lo que esa paz evita.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v3",
+      "statement": "Aplicando lo que sabemos sobre convivencia, ¿qué deberían hacer los estudiantes?",
+      "context": "En un aula de Neiva, dos estudiantes discuten por un turno para hablar y la profesora no interviene.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar el turno sin usar para siempre",
+          "is_correct": false,
+          "feedback": "Evitas el conflicto abandonando el uso del recurso, cuando la convivencia consiste en negociar el desacuerdo y no en renunciar a él."
+        },
+        {
+          "letter": "B",
+          "text": "Resolver la discusión con golpes para definir el turno",
+          "is_correct": false,
+          "feedback": "Usas violencia para resolver un desacuerdo, que es exactamente lo contrario de lo que sostiene la convivencia basada en el diálogo."
+        },
+        {
+          "letter": "C",
+          "text": "Esperar que la profesora decida sin hablar entre sí",
+          "is_correct": false,
+          "feedback": "Dependes de una autoridad externa cuando el conflicto puede resolverse dialogando, que es el recurso que propone la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "Hablar entre ellos y acordar un turno",
+          "is_correct": true,
+          "feedback": "La respuesta es correcta porque la convivencia se sostiene en acuerdos dialogados y no en la imposición de uno sobre otro."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Aplicar la convivencia significa transformar un conflicto en una conversación. Las personas pueden negociar, ceder y llegar a un acuerdo sin necesidad de violencia ni de esperar que alguien decida por ellas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v4",
+      "statement": "Aplicando el modelo de convivencia del aula, ¿por qué es importante discutir la norma?",
+      "context": "En una clase de Montería, el grupo propone redactar una norma para el trabajo en equipo y discutirla antes de aprobarla.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las normas solo valen si las escribe una autoridad",
+          "is_correct": false,
+          "feedback": "Supones que la norma depende de quién la escribe, cuando lo que importa en la convivencia es que el grupo la discuta y la acepte."
+        },
+        {
+          "letter": "B",
+          "text": "Porque discutir garantiza que todos queden de acuerdo",
+          "is_correct": false,
+          "feedback": "Afirmas que la discusión asegura el acuerdo total, cuando puede haber desacuerdos que se resuelven dialogando sin que todos coincidan."
+        },
+        {
+          "letter": "C",
+          "text": "Porque evita tener que cumplir la norma acordada",
+          "is_correct": false,
+          "feedback": "Discutir una norma aumenta la posibilidad de que se cumpla, porque quien participa en el acuerdo se compromete con él."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el acuerdo se vuelve legítimo cuando el grupo participa",
+          "is_correct": true,
+          "feedback": "La respuesta es correcta porque la participación del grupo es lo que convierte la norma en un acuerdo legítimo para sus integrantes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Discutir una norma antes de aprobarla tiene una razón ligada a la convivencia. Quien participa en el acuerdo comprende las razones y se compromete a cumplirlo, que es la base del respeto mutuo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v5",
+      "statement": "Aplicando el principio de convivencia, ¿cómo debería actuar ella?",
+      "context": "En Buenaventura, una estudiante es excluida por hablar en clase cuando los demás no lo hacen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dejar de hablar siempre para no ser excluida",
+          "is_correct": false,
+          "feedback": "Te silencias de forma permanente y aceptas la exclusión, cuando el principio de convivencia pide respeto también para quien actúa distinto."
+        },
+        {
+          "letter": "B",
+          "text": "Expresar su criterio respetando las reglas acordadas",
+          "is_correct": true,
+          "feedback": "La respuesta es correcta porque el derecho a opinar se ejerce dentro de los acuerdos del grupo y no con acciones fuera de ellos."
+        },
+        {
+          "letter": "C",
+          "text": "Dejar de participar en todas las actividades",
+          "is_correct": false,
+          "feedback": "Retiras tu participación en lugar de ejercerla con respeto, lo cual contradice el principio de convivencia que protege la voz de todos."
+        },
+        {
+          "letter": "D",
+          "text": "Exigir que los demás hagan igual que ella",
+          "is_correct": false,
+          "feedback": "Exiges uniformidad en lugar de respeto, cuando la convivencia permite que las personas actúen distinto siempre que respeten a los demás."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La convivencia no exige que todas las personas actúen igual. Exige que cada quien pueda expresarse respetando los acuerdos del grupo, porque el respeto mutuo es lo que protege a todas las personas del grupo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.75,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v6",
+      "statement": "¿Qué revela la comparación entre esos dos salones?",
+      "context": "Un investigador observa dos salones: en uno una norma se construyó con todo el grupo y en otro fue impuesta por el profesor sin consultar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la norma impuesta produce más respeto que la acordada",
+          "is_correct": false,
+          "feedback": "Afirmas que la imposición garantiza respeto, cuando un acuerdo compartido suele ser la base del cumplimiento voluntario."
+        },
+        {
+          "letter": "B",
+          "text": "Que la norma acordada por el grupo tiene más bases de cumplimiento",
+          "is_correct": true,
+          "feedback": "La comparación muestra que la norma acordada cumple mejor porque quien la construyó entiende sus razones y se compromete con ella."
+        },
+        {
+          "letter": "C",
+          "text": "Que en los dos salones hay exactamente el mismo respeto a las normas",
+          "is_correct": false,
+          "feedback": "Igualas dos situaciones distintas, cuando la participación del grupo cambia la relación de las personas con la norma."
+        },
+        {
+          "letter": "D",
+          "text": "Que ninguna de las dos formas sirve para construir convivencia",
+          "is_correct": false,
+          "feedback": "Cierras la posibilidad de cualquier norma útil, cuando el análisis muestra precisamente que una forma funciona mejor que la otra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Comparar dos situaciones permite ver el efecto de la participación. Cuando el grupo construye la norma, las personas comprenden su fundamento y se sienten parte del acuerdo, y eso sostiene mejor la convivencia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v7",
+      "statement": "Analizando la situación, ¿qué conclusión se sostiene mejor?",
+      "context": "En una clase de Sincelejo, una estudiante insulta a un compañero y después le pide que no cuente lo ocurrido.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La estudiante tiene derecho a que el conflicto se quede en privado",
+          "is_correct": false,
+          "feedback": "El reclamo particular no anula el daño causado, cuando la convivencia del grupo se apoya en que los conflictos no se ocultan."
+        },
+        {
+          "letter": "B",
+          "text": "El insulto dañó la convivencia y no puede quedar sin revisión",
+          "is_correct": true,
+          "feedback": "La conclusión es sostenida porque un insulto vulnera el respeto mutuo y resolver el conflicto exige reconocerlo y hablarlo."
+        },
+        {
+          "letter": "C",
+          "text": "El conflicto puede resolverse con una disculpa privada",
+          "is_correct": false,
+          "feedback": "Reduce el problema a lo privado, cuando el insulto afecta la relación del grupo y eso requiere una revisión de la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "El compañero debería responder con el mismo insulto",
+          "is_correct": false,
+          "feedback": "Responder con otro insulto no resuelve el conflicto, y usar violencia verbal es justamente lo que la convivencia busca evitar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Analizar un conflicto implica reconocer que un insulto afecta al grupo y no solo a las dos personas. La convivencia se sostiene cuando el daño puede hablarse y revisarse en lugar de ocultarse.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v8",
+      "statement": "¿Qué observación es la más pertinente sobre esa comparación?",
+      "context": "Un profesor de Arauca pide a sus estudiantes que comparen cómo resuelven un desacuerdo dos grupos: uno usando golpes y el otro hablando.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El grupo que evita hablar muestra mejor convivencia",
+          "is_correct": false,
+          "feedback": "Evitar la conversación deja el conflicto sin resolver, y eso es justamente lo que impide construir convivencia en el grupo."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos grupos resuelven igual porque el resultado es el mismo",
+          "is_correct": false,
+          "feedback": "El resultado parecido no oculta la diferencia de proceso, porque una resolución por diálogo construye confianza y la otra no."
+        },
+        {
+          "letter": "C",
+          "text": "El diálogo solo sirve cuando el desacuerdo es pequeño",
+          "is_correct": false,
+          "feedback": "Restringes el diálogo a los conflictos pequeños, cuando el método de resolver hablando funciona precisamente en los conflictos mayores."
+        },
+        {
+          "letter": "D",
+          "text": "El grupo que dialoga y negocia construye mejor convivencia",
+          "is_correct": true,
+          "feedback": "La observación es pertinente porque negociar el desacuerdo permite llegar a un acuerdo que ambas partes reconocen y sostienen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar dos formas de resolver un desacuerdo permite ver que el procedimiento importa tanto como el resultado. El diálogo y la negociación construyen la convivencia porque generan reconocimiento y compromiso, no solo porque terminen el conflicto.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v9",
+      "statement": "¿Cuál es la evaluación más sólida de esa afirmación?",
+      "context": "En un foro escolar de Yopal, un estudiante afirma: \"la paz del aula significa que nunca exista ningún desacuerdo entre los estudiantes\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La afirmación es válida, porque el desacuerdo siempre genera violencia",
+          "is_correct": false,
+          "feedback": "Atribuyes violencia a todo desacuerdo, cuando lo que la genera es el modo de resolverlo y no la diferencia de opinión."
+        },
+        {
+          "letter": "B",
+          "text": "La afirmación es válida, porque la convivencia exige uniformidad de opiniones",
+          "is_correct": false,
+          "feedback": "Exiges uniformidad de opiniones, cuando la convivencia permite convivir con diferencias siempre que se respeten."
+        },
+        {
+          "letter": "C",
+          "text": "La afirmación confunde la ausencia de conflicto con la paz",
+          "is_correct": true,
+          "feedback": "La evaluación es precisa porque la paz es la capacidad de resolver los desacuerdos sin violencia, y no la inexistencia de desacuerdos."
+        },
+        {
+          "letter": "D",
+          "text": "La afirmación es inválida, porque el desacuerdo nunca es posible en un grupo",
+          "is_correct": false,
+          "feedback": "Afirmas la imposibilidad del desacuerdo, cuando un grupo con personas distintas difícilmente puede coincidir siempre en todo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar esta afirmación exige distinguir dos conceptos que se confunden con frecuencia. La paz es la manera de resolver los desacuerdos: no su ausencia, sino la capacidad de hacerlo sin violencia.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle-v10",
+      "statement": "¿Qué juicio sobre esa medida es más sólido?",
+      "context": "Un colegio de Quibdó propone expulsar temporalmente a quien insultó a un compañero, sin escucharlo ni revisar el acuerdo del curso.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La medida es adecuada, porque castigar evita cualquier conflicto futuro",
+          "is_correct": false,
+          "feedback": "Un castigo sin escuchar no garantiza que el conflicto desaparezca, porque no atiende la causa que lo produjo."
+        },
+        {
+          "letter": "B",
+          "text": "La medida es adecuada, porque la norma del curso lo permite",
+          "is_correct": false,
+          "feedback": "Aun si la norma lo permitiera, esa vía no es la más adecuada para construir convivencia en un aula."
+        },
+        {
+          "letter": "C",
+          "text": "La medida es incompleta, porque no considera la revisión del conflicto mediante diálogo",
+          "is_correct": true,
+          "feedback": "El juicio es sólido porque una vía punitiva sin escuchar a las partes no permite revisar el conflicto, que es lo que sostiene la convivencia."
+        },
+        {
+          "letter": "D",
+          "text": "La medida es correcta, porque el insulto siempre debe eliminarse con castigo",
+          "is_correct": false,
+          "feedback": "Supones que todo insulto se resuelve con castigo, cuando lo que protege la convivencia es el diálogo y el acuerdo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una medida disciplinaria exige preguntar si resuelve el problema o solo lo esconde. Sin escuchar a las personas y revisar el conflicto mediante diálogo, el conflicto queda intacto y la convivencia no se construye.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Convivencia y paz",
+      "expected_success": 0.45,
+      "bundle_id": "CO-SOC-7-2026-W05-la-convivencia-y-la-paz-en-el-aula-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}

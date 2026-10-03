@@ -1,0 +1,471 @@
+{
+  "metadata": {
+    "grade": 7,
+    "subject": "sociales-ciudadanas",
+    "country": "co",
+    "pack_id": "co-week-10-grade-7-subject-sociales_ciudadanas",
+    "generated_at": "2026-10-03T13:40:30.356Z"
+  },
+  "questions": [
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v1",
+      "statement": "Según el ordenamiento colombiano, ¿qué condición principal reúne esa persona para ser considerada ciudadano?",
+      "context": "Un estudiante de séptimo grado reside en el municipio de Envigado y cumple 14 años.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tener un nivel de ingreso económico alto para pagar impuestos.",
+          "is_correct": false,
+          "feedback": "La ciudadanía no es una condición económica: el derecho a ser ciudadano no depende de cuánto dinero tenga la familia."
+        },
+        {
+          "letter": "B",
+          "text": "Haber nacido en Colombia o ser hijo de padres colombianos, según el caso.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el artículo 96 de la Constitución establece la ciudadanía por nacimiento en el territorio o por la condición de padres colombianos."
+        },
+        {
+          "letter": "C",
+          "text": "Haber terminado el bachillerato y obtenido ese título.",
+          "is_correct": false,
+          "feedback": "Terminar el bachillerato es un derecho educativo y un logro personal, pero no es el requisito que define la ciudadanía."
+        },
+        {
+          "letter": "D",
+          "text": "Haber pagado al menos una vez la matrícula de un colegio privado.",
+          "is_correct": false,
+          "feedback": "Ninguna norma exige pagar matrícula privada para tener ciudadanía; esa opción confunde un gasto educativo con un requisito legal."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Constitución colombiana define la ciudadanía en dos vías: por nacimiento, cuando la persona nace en el territorio nacional, y en segunda generación, cuando es hija de padres colombianos aunque nazca en el exterior. Son esas las condiciones previstas en el artículo 96. Los demás elementos que menciona esta pregunta, como los ingresos o el título de bachillerato, se relacionan con la economía o con la educación y no con el derecho a ser ciudadano.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v2",
+      "statement": "¿Qué muestra el hecho de que los estudiantes organicen una firma en su propio barrio?",
+      "context": "En un colegio de Bogotá un grupo de estudiantes recoge firmas para pedir que se mejore el transporte público de su barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Muestra que el ejercicio ciudadano solo existe en la capital del país.",
+          "is_correct": false,
+          "feedback": "La acción ciudadana se realiza en cualquier municipio; limitarlo a Bogotá contradice la Constitución, que rige todo el territorio."
+        },
+        {
+          "letter": "B",
+          "text": "Muestra que ellos cumplen un deber que el Estado les impone.",
+          "is_correct": false,
+          "feedback": "Pedir una mejora del transporte es una iniciativa propia que va más allá del cumplimiento; es una participación que se elige."
+        },
+        {
+          "letter": "C",
+          "text": "Muestra que ellos puedenocaerse de los gobiernos sin que nada cambie.",
+          "is_correct": false,
+          "feedback": "La protesta pasiva es solo una de las formas de participar; el enunciado describe una acción organizada con un fin concreto."
+        },
+        {
+          "letter": "D",
+          "text": "Muestra que el derecho a participar se puede ejercer en cualquier escala.",
+          "is_correct": true,
+          "feedback": "Es correcta porque llevar a cabo una acción colectiva en un barrio concreto revela que ese derecho no se limita a las elecciones nacionales."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ser ciudadano significa tener derechos y tambiénsubmission duties frente a la comunidad. Uno de esos derechos es participar en los asuntos públicos, y esa participación no tiene una sola escala: puede ejercerse votando en unas elecciones, asistiendo a una asamblea, integrándose en un consejo Juventus o recogiendo firmas en el barrio. La Constitución lo reconoce como un derecho para que las personas no sean simples espectadores de la vida pública. La respuesta correcta es la D.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.9,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v3",
+      "statement": "Si un vecino cuida el parque, no rompe las luces de la plaza y paga sus impuestos a tiempo, ¿qué deber cívico está cumpliendo?",
+      "context": "En un municipio del Valle del Cauca hay un parque público, una plaza de mercado y una sala de espera de hospital, y todos los años se les hace mantenimiento con recursos del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El deber de elegir a sus representantes.",
+          "is_correct": false,
+          "feedback": "Votar es una forma de participar, pero cuidar los bienes públicos y pagar impuestos son deberes distintos al voto."
+        },
+        {
+          "letter": "B",
+          "text": "El deber de cuidar los bienes comunes y contribuir con los servicios públicos.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el parque y la plaza son bienes de uso común, y su cuidado y el pago de impuestos sostienen los servicios de todos."
+        },
+        {
+          "letter": "C",
+          "text": "El deber de modificar las normas del municipio.",
+          "is_correct": false,
+          "feedback": "Cambiar normas es una competencia de las autoridades; un vecino no modifica leyes, pero sí puede cuidar y pagar como cualquier ciudadano."
+        },
+        {
+          "letter": "D",
+          "text": "El deber de nombrar a los ciudadanos que dirigen el municipio.",
+          "is_correct": false,
+          "feedback": "Nombrar autoridades corresponde a mecanismos formales de elección, no a las acciones cotidianas de cuidado y pago."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciudadanía también supone deberes. Entre los más visibles están cuidar los espacios públicos compartidos y contribuir con los servicios públicos mediante el pago oportuno de los impuestos. Son gestos cotidianos que sostienen el ambiente de una comunidad: un parque limpio y una plaza iluminada benefician a todos sus vecinos. Cumplirlos no reemplaza el voto, sino que lo complementa.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v4",
+      "statement": "Si de cada diez personas habilitadas votan ocho, y la comunidad tiene 400 habilitadas, ¿cuántas personas ejercieron el derecho al voto?",
+      "context": "En una comunidad de Boyacá hay 400 personas habilitadas para votar y en las últimas elecciones ejercieron ese derecho 320 de ellas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "380 personas",
+          "is_correct": false,
+          "feedback": "380 sale de restar veinte a 400; aquí no hay personas excluidas del cálculo, porque la proporción se aplica a todos los habilitados."
+        },
+        {
+          "letter": "B",
+          "text": "40 personas",
+          "is_correct": false,
+          "feedback": "Ese valor corresponde a las personas que no votaron, no a las que sí ejercieron el derecho, y el enunciado pide el total de quienes votaron."
+        },
+        {
+          "letter": "C",
+          "text": "320 personas",
+          "is_correct": true,
+          "feedback": "Es correcta porque el ocho de cada diez se aplica a los 400 habilitados y el resultado es 400 x 0,8 igual a 320 personas."
+        },
+        {
+          "letter": "D",
+          "text": "360 personas",
+          "is_correct": false,
+          "feedback": "360 resulta de aplicar nueve de cada diez, es decir, una proporción distinta de la del enunciado; la proporción correcta en el enunciado es ocho de cada diez."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para calcular cuántos ciudadanos ejercieron el derecho al voto se aplica la proporción indicada sobre el total de habilitados. Si votan ocho de cada diez, la operación es 400 por 0,8, y el resultado es 320 personas. Las demás opciones usan proporciones distintas o restan en lugar de multiplicar. Reconocer que el voto es un derecho que se puede medir en cifras ayuda a entender cuánto participa realmente una comunidad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v5",
+      "statement": "¿Qué caracteriza a ese grupo frente a un grupo que se limita a obedecer sin proponer nada?",
+      "context": "En un colegio de Pasto se forma un grupo que lleva una campaña para que la comunidad cierre la llave del agua y racionen el consumo cuando hay sequía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que sus miembros solo cumplen la norma sin cuestionar.",
+          "is_correct": false,
+          "feedback": "Obedecer sin proponer es justamente lo contrario de lo que hace el grupo; esa es la diferencia que el enunciado pide identificar."
+        },
+        {
+          "letter": "B",
+          "text": "Que sus miembros no pagan impuestos por las acciones que realizan.",
+          "is_correct": false,
+          "feedback": "El pago de impuestos es un deber económico que nada tiene que ver con organizar una campaña sobre el uso del agua."
+        },
+        {
+          "letter": "C",
+          "text": "Que propone una solución y busca coordinar la acción de los demás.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el grupo no espera pasivamente, sino que diseña una acción concreta y trata de involucrar a otros."
+        },
+        {
+          "letter": "D",
+          "text": "Que sus miembros ocupan un cargo público dentro del municipio.",
+          "is_correct": false,
+          "feedback": "Ningún cargo público es necesario para promover una campaña; ese requisito confunde participación con empleo en la administración."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Participar no es lo mismo que obedecer. Obedecer significa cumplir lo que otros deciden; participar significa formar parte de las decisiones colectivas, proponer, informar y coordinarse con otros. La campaña del agua del colegio es un ejemplo de esa diferencia: los estudiantes identifican un problema, proponen una medida concreta como cerrar la llave en temporada seca y buscan que la comunidad entera se sume. Esa es la ciudadanía ejercida en la práctica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.8,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v6",
+      "statement": "¿Qué diferencia a la primera comunidad de la segunda en el ejercicio de la ciudadanía?",
+      "context": "En dos comunidades de Antioquia, una discute un proyecto de parque vecinal en redes sociales y en reuniones, mientras la otra solo recibe avisos del municipio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La primera comunidad paga más impuestos que la segunda.",
+          "is_correct": false,
+          "feedback": "El enunciado no menciona nada sobre impuestos; la diferencia está en la manera de intervenir, no en la cantidad de recursos que aporta cada una."
+        },
+        {
+          "letter": "B",
+          "text": "La primera discute y propone, la otra solo recibe la información.",
+          "is_correct": true,
+          "feedback": "Es correcta porque el grupo que argumenta y propone está aumentando el debate, mientras el otro se limita a escuchar."
+        },
+        {
+          "letter": "C",
+          "text": "La primera comunidad no recibe los avisos del municipio.",
+          "is_correct": false,
+          "feedback": "Ambas comunidades reciben los avisos oficiales; lo que cambia es si esa información se convierte en discusión o queda como dato."
+        },
+        {
+          "letter": "D",
+          "text": "La primera comunidad elige a sus autoridades y la otra no puede hacerlo.",
+          "is_correct": false,
+          "feedback": "No hay en el enunciado ninguna diferencia sobre la elección de autoridades; ambas comunidades están sometidas al mismo sistema electoral."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciudadanía se ejerce de manera distinta según la relación que la persona tenga con los asuntos públicos. Una comunidad que discute, propone alternativas y asiste a reuniones está participando activamente; una que solo recibe el aviso oficial es destinataria de la información, pero no interviene en la decisión. Analizar esta diferencia ayuda a entender que el derecho a participar incluye la posibilidad de obtener mejores decisiones sobre el entorno común.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v7",
+      "statement": "Un candidato promete en campaña más seguridad en el barrio, pero después de ser elegido su equipo trabaja únicamente desde la capital. ¿Qué problema ciudadano se observa?",
+      "context": "Un candidato promete en campaña más seguridad en el barrio, pero después de ser elegido su equipo trabaja únicamente desde la capital.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La ciudadanía del barrio se pierde, porque sus habitantes dejan de ser ciudadanos.",
+          "is_correct": false,
+          "feedback": "La ciudadanía de los habitantes no depende de dónde trabaje un candidato; ninguna campaña puede quitársela a nadie."
+        },
+        {
+          "letter": "B",
+          "text": "La promesa electoral no se cumple, porque la gestión se aleja de lo prometido.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la distancia entre el discurso de campaña y la gestión real rompe la confianza en el servicio público."
+        },
+        {
+          "letter": "C",
+          "text": "El derecho al voto deja de tener efecto en ese barrio.",
+          "is_correct": false,
+          "feedback": "El derecho al voto sigue vigente; lo que se cuestiona aquí es la gestión de una autoridad, no la vigencia del sufragio."
+        },
+        {
+          "letter": "D",
+          "text": "La comunidad del barrio pierde su derecho a proponer soluciones.",
+          "is_correct": false,
+          "feedback": "El derecho a proponer y a reclamar sigue existiendo; nada en la gestión del candidato lo elimina para sus vecinos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La ciudadanía se apoya también en la confianza que la población deposita en quienes resultan electos. Si una autoridad se compromete públicamente con algo ante su comunidad y luego su gestión ocurre lejos de ese compromiso, se produce una distancia entre la promesa y la realidad. Analizar ese desfase ayuda a entender que el electorado no solo elige, también evalúa la gestión posterior y puede exigir que se cumpla lo prometido.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v8",
+      "statement": "¿Qué relación hay entre las dos medidas que menciona el enunciado?",
+      "context": "Un municipio de Nariño decide usar menos armas en la respuesta a algunos hechos, y en la misma época recibe ayuda de un organismo internacional para proteger a los niños del territorio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Son medidas de defensa militar que buscan reforzar al territorio por la fuerza.",
+          "is_correct": false,
+          "feedback": "Reducir el uso de armas no es una medida de defensa militar; esa opción confunde una decisión de protección con una acción bélica."
+        },
+        {
+          "letter": "B",
+          "text": "Compiten entre sí, porque una busca proteger y la otra llegar con ayuda humanitaria.",
+          "is_correct": false,
+          "feedback": "Las dos medidas apuntan al mismo fin de proteger a la población, así que no compiten entre sí sino que se complementan."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos apuntan a proteger a la población, con medios diferentes.",
+          "is_correct": true,
+          "feedback": "Es correcta porque ambas acciones buscan el mismo bien, proteger a las personas del territorio, pero una lo hace con medios propios y la otra con asistencia."
+        },
+        {
+          "letter": "D",
+          "text": "Son alternativas, porque solo una de las dos puede aplicarse en un municipio.",
+          "is_correct": false,
+          "feedback": "No son excluyentes: un municipio puede reducir el uso de armas y al mismo tiempo recibir cooperación internacional sin que haya conflicto entre ambas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar medidas de protección exige preguntarse qué bien busca cada una y si compiten entre sí. En este caso las dos acciones apuntan a proteger a la población del territorio, y sus medios no se excluyen: reducir el uso de armas en la respuesta a ciertos hechos y recibir cooperación para atender a los niños son complementarias. Reconocer esa complementariedad evita confundir políticas de protección con acciones de fuerza.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.7,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v9",
+      "statement": "Una fundación propone limitar las asambleas del barrio a los mayores de 30 años. ¿Qué valoración es la más completa de esa propuesta?",
+      "context": "Una fundación de Bogotá propone que solo los mayores de 30 años puedan asistir a las asambleas del barrio y que se excluya a los jóvenes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es razonable, porque los jóvenes no entienden los asuntos del barrio.",
+          "is_correct": false,
+          "feedback": "Esa opción se apoya en un estereotipo sobre la edad; la capacidad de participar se demuestra con argumentos, no con supuestos generales."
+        },
+        {
+          "letter": "B",
+          "text": "Es razonable, porque los asuntos del barrio necesitan experiencia adulta.",
+          "is_correct": false,
+          "feedback": "La experiencia ayuda, pero la propuesta no mide la capacidad de los jóvenes y los deja fuera sin justificarlo con acciones reales."
+        },
+        {
+          "letter": "C",
+          "text": "Es injusta, porque restringe un derecho que corresponde a todo ciudadano.",
+          "is_correct": true,
+          "feedback": "Es correcta porque la participación es un derecho de todos los ciudadanos y excluir a un grupo por su edad contradice esa igualdad."
+        },
+        {
+          "letter": "D",
+          "text": "Es útil, porque reduce el número de personas en las asambleas.",
+          "is_correct": false,
+          "feedback": "Reducir asistentes no es un beneficio por sí mismo; esa opción evalúa la propuesta por su efecto práctico y no por su justicia."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar una propuesta que limita la participación exige preguntarse si respeta un derecho. La participación en la vida pública del barrio corresponde a los ciudadanos sin importar la edad, y una medida que excluye a los jóvenes por su edad vulnera la igualdad. La respuesta correcta es la C: el criterio pertinente para valorar la propuesta no es si reduce el número de asistentes, sino si respeta el derecho de todos a intervenir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    },
+    {
+      "id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle-v10",
+      "statement": "Un colegio pide a cada alumno una de tres actividades y solo una es obligatoria. ¿Qué consecuecia tiene esa regla para la ciudadanía de los estudiantes?",
+      "context": "Un colegio de Florencia pide a los alumnos una de estas tres actividades: votar el presupuesto del barrio, limpiar el parque o cuidar el acuario escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es neutra, porque las tres actividades valen lo mismo entre sí.",
+          "is_correct": false,
+          "feedback": "Que las actividades valgan lo mismo no dice nada sobre si se está ofreciendo o no un espacio real de decisión al estudiante."
+        },
+        {
+          "letter": "B",
+          "text": "Reduce la participación, porque deja poco margen para elegir la propia.",
+          "is_correct": true,
+          "feedback": "Es correcta porque si una sola opción es obligatoria, el estudiante no elige libremente a cuál acercarse y su margen de decisión es mínimo."
+        },
+        {
+          "letter": "C",
+          "text": "Aumenta la participación, porque obliga a todos a hacer algo por el barrio.",
+          "is_correct": false,
+          "feedback": "Obligar no equivale a abrir participación; si la opción se impone, el estudiante cumple pero no ha elegido cómo participar."
+        },
+        {
+          "letter": "D",
+          "text": "Es negativa, porque ninguna de las actividades sirve como deber cívico.",
+          "is_correct": false,
+          "feedback": "Las tres acciones sí son formas de deber cívico; el problema de la regla no está en las actividades sino en que solo una sea impuesta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una regla de participación exige mirar cuánto margen de decisión deja. Si una sola opción es obligatoria y las demás quedan por fuera, el estudiante cumple con lo que le imponen, pero no ha elegido cómo participar. La participación de verdad incluye poder escoger y también asumir consecuencias de esa elección. La respuesta correcta es la B.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciudadano",
+      "expected_success": 0.6,
+      "bundle_id": "CO-SOC-7-2026-W10-mi-ciudadania-y-los-deberes-civicos-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "sociales-ciudadanas",
+      "grade": 7,
+      "country": "co"
+    }
+  ]
+}
