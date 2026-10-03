@@ -40,7 +40,7 @@ creador: "Jules-Agent"
 - [ ] D) Enviar los impulsos eléctricos desde el cerebro hasta los músculos
   <!-- feedback: Incorrecto. Los impulsos los viajan los nervios. El hueso no conduce electricidad como nervio: su papel es el sosten y la proteccion de los organos. -->
 ### Explicacion Pedagogica
-El sistema oseo esta formado por 206 huesos en el cuerpo de una persona adulta. Los huesos sostienen el peso, permiten el movimiento junto con los musculos y protegen organos como el craneo, las costillas y la columna. Ademas dentro de ellos se fabrica la sangre en la medula osea.
+El sistema oseo esta formado por 206 huesos en el cuerpo de una persona adulta. Los huesos sostienen el peso, permiten el movimiento junto con los musculos y protegen organos como el craneo, las costillas y la columna. además dentro de ellos se fabrica la sangre en la medula osea.
 
 ## Question 2 [D3-D4]
 **ID:** CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v2
@@ -68,13 +68,13 @@ Los musculos producen fuerza al contraerse, y esa fuerza tira de los huesos medi
 **Bloom:** Apply
 **ICFES:** Explicación de fenómenos
 **Expected_Success:** 0.80
-**Contexto:** En una clase de educacion física en Barranquilla, la profesora explica que despues de correr los musculos duelen y por eso ella estira al final de la clase.
+**Contexto:** En una clase de educacion física en Barranquilla, la profesora explica que después de correr los musculos duelen y por eso ella estira al final de la clase.
 ### Enunciado
 Los estudiantes sienten dolor en los músculos después de correr. ¿qué explica ese dolor?
 
 ### Opciones
 - [ ] A) Que los huesos se rompen cada vez que los usamos
-  <!-- feedback: Incorrecto. Correr no rompe los huesos. El dolor que aparece despues del ejercicio viene de los musculos y de las articulaciones, no de fracturas. -->
+  <!-- feedback: Incorrecto. Correr no rompe los huesos. El dolor que aparece después del ejercicio viene de los musculos y de las articulaciones, no de fracturas. -->
 - [ ] B) Que los músculos se quedan sin oxígeno para siempre y no vuelven a funcionar
   <!-- feedback: Incorrecto. Los musculos reciben oxigeno de la sangre y se recuperan con descanso. El dolor es temporal y no significa que el musculo haya quedado inutilizable. -->
 - [x] C) Que los músculos trabajaron más de lo que están accustomed y no descansaron bien
@@ -82,7 +82,7 @@ Los estudiantes sienten dolor en los músculos después de correr. ¿qué explic
 - [ ] D) Que el sistema óseo toma el oxígeno del cuerpo en lugar de los pulmones
   <!-- feedback: Incorrecto. El oxigeno llega a los musculos por la sangre desde los pulmones. El sistema oseo no transporta oxigeno: esa tarea la cumplen la sangre y los musculos. -->
 ### Explicacion Pedagogica
-Los musculos que trabajan mas de lo habitual se inflaman y se llenan de sustancias como el acido lactico. Por eso duelen despues del ejercicio. Estirar, hidratarse y descansar ayuda a que esa molestia desaparezca. Cuidar el descanso es tan importante como el ejercicio para que el cuerpo se mantenga sano.
+Los musculos que trabajan mas de lo habitual se inflaman y se llenan de sustancias como el acido lactico. Por eso duelen después del ejercicio. Estirar, hidratarse y descansar ayuda a que esa molestia desaparezca. Cuidar el descanso es tan importante como el ejercicio para que el cuerpo se mantenga sano.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v4
@@ -166,14 +166,14 @@ Los estudiantes miden cuánto se acorta el músculo del brazo en tres situacione
 - [ ] D) Que el músculo se acorta más cuando no carga ningún peso
   <!-- feedback: Incorrecto. Sin carga el acortamiento es el mas pequeno de los tres casos. La mayor contraccion aparece cuando el musculo tiene que levantar mas peso. -->
 ### Explicacion Pedagogica
-Un experimento bien hecho mide una variable mientras cambia otra y luego saca una conclusion de los datos. Aqui la variable independiente es el peso levantado y la dependiente es el acortamiento del musculo. Leer los tres resultados permite describir la relacion entre fuerza y contraccion muscular de forma sencilla y clara.
+Un experimento bien hecho mide una variable mientras cambia otra y luego saca una conclusion de los datos. aquí la variable independiente es el peso levantado y la dependiente es el acortamiento del musculo. Leer los tres resultados permite describir la relacion entre fuerza y contraccion muscular de forma sencilla y clara.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle-v8
 **Bloom:** Analyze
 **ICFES:** Uso comprensivo del conocimiento científico
 **Expected_Success:** 0.70
-**Contexto:** En un parque de Medellin, un nino se lastima una pierna despues de caerse y su madre lo lleva al hospital donde le toman radiografias de la pierna.
+**Contexto:** En un parque de Medellin, un nino se lastima una pierna después de caerse y su madre lo lleva al hospital donde le toman radiografias de la pierna.
 ### Enunciado
 La radiografía muestra un hueso fracturado. ¿qué sistema del cuerpo se vio afectado por la caída?
 

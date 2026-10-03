@@ -76,13 +76,13 @@ El niño ve la llama a través del papel de seda y también ve una sombra suave 
 - [ ] A) Que el papel se pone transparente al ver la llama y luego vuelve a opaco
   <!-- feedback: Incorrecto. El papel no cambia de propiedad al encenderse la vela. El papel de seda deja pasar parte de la luz desde el principio y por eso se ve la llama. -->
 - [ ] B) Que la vela genera luz que atraviesa el cartón sin esfuerzo
-  <!-- feedback: Incorrecto. La luz de la vela no atraviesa el carton opaco. Por eso ahi aparece una sombra y la luz solo pasa por el lado donde hay papel de seda. -->
+  <!-- feedback: Incorrecto. La luz de la vela no atraviesa el carton opaco. Por eso ahí aparece una sombra y la luz solo pasa por el lado donde hay papel de seda. -->
 - [x] C) Que el papel deja pasar parte de la luz y la detiene en unos puntos, por eso se ve la llama y su sombra
   <!-- feedback: Correcto. El papel de seda es translucido: deja pasar algo de luz y por eso se ve la llama. Esa misma luz dibuja una sombra tenue sobre el papel. -->
 - [ ] D) Que el ojo del niño inventa la sombra porque la vela es muy brillante
   <!-- feedback: Incorrecto. La sombra no la inventa el ojo: aparece porque unos puntos del papel reciben mas luz que otros. El ojo solo registra esa diferencia. -->
 ### Explicacion Pedagogica
-Los materiales se pueden dividir en transparentes, translucidos y opacos segun como dejan pasar la luz. El papel de seda es translucido: deja pasar algo de luz y por eso se ve la forma de la llama. Ese mismo material produce imagenes atenuadas, como las sombras suaves que se ven en una lampara.
+Los materiales se pueden dividir en transparentes, translucidos y opacos según como dejan pasar la luz. El papel de seda es translucido: deja pasar algo de luz y por eso se ve la forma de la llama. Ese mismo material produce imagenes atenuadas, como las sombras suaves que se ven en una lampara.
 
 ## Question 4 [D5-D6]
 **ID:** CO-CN-3-2026-W15-la-luz-y-el-ojo-001-MASTERY-bundle-v4
@@ -110,7 +110,7 @@ Un objeto se ve cuando recibe luz y la devuelve hacia los ojos. En un cartel peg
 **Bloom:** Apply
 **ICFES:** Indagación
 **Expected_Success:** 0.75
-**Contexto:** En una consulta medica en Barranquilla, la,optometrista le pide a Martina que lea una tabla de letras y despues repite la prueba tapando un ojo.
+**Contexto:** En una consulta medica en Barranquilla, la,optometrista le pide a Martina que lea una tabla de letras y después repite la prueba tapando un ojo.
 ### Enunciado
 La optometrista revisa cada ojo por separado. ¿qué está midiendo con esa prueba?
 
@@ -137,7 +137,7 @@ Camila no alcanza a leer el reloj de la torre, pero sí lee un cartel cercano. �
 
 ### Opciones
 - [ ] A) Que el reloj está hecho de un material opaco y el cartel de un material transparente
-  <!-- feedback: Incorrecto. La distancia es la razón principal aqui y no el material. Aunque ambos objetos devuelvan luz, los detalles del reloj son muy pequenos para distinguirlos a esa distancia. -->
+  <!-- feedback: Incorrecto. La distancia es la razón principal aquí y no el material. Aunque ambos objetos devuelvan luz, los detalles del reloj son muy pequenos para distinguirlos a esa distancia. -->
 - [ ] B) Que Camila se quedó ciega de un ojo mientras miraba el reloj
   <!-- feedback: Incorrecto. Si se hubiera quedado ciega de un ojo, tampoco podria leer el cartel cercano. Lo que falla es la resolucion de los detalles pequenos a distancia. -->
 - [x] C) Que a mayor distancia los detalles que llegan al ojo son más pequeños y no se distinguen
