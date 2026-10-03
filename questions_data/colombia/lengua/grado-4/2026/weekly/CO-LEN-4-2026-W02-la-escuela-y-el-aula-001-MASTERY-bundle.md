@@ -32,13 +32,13 @@ Bundle semanal para reconocer los roles y acuerdos que organizan la vida de un a
 
 ### Opciones
 - [x] A) Recoger las fichas al terminar la actividad.
-  <!-- feedback: Correcto. La frase «encargado de recoger las fichas» indica que David debía reunir las tarjetas cuando terminara la actividad. -->
+ <!-- feedback: Correcto. La frase «encargado de recoger las fichas» indica que David debía reunir las tarjetas cuando terminara la actividad. -->
 - [ ] B) Leer cada tarjeta en voz alta.
-  <!-- feedback: Incorrecto. La instrucción dice «recoger las fichas», no «leerlas en voz alta»; esta opción cambia completamente la tarea. -->
+ <!-- feedback: Incorrecto. La instrucción dice «recoger las fichas», no «leerlas en voz alta»; esta opción cambia completamente la tarea. -->
 - [ ] C) Repartir las fichas entre los grupos.
-  <!-- feedback: Incorrecto. El texto asigna a David la сбор de tarjetas, no la labor de distribuirlas entre varios grupos. -->
+  <!-- feedback: Incorrecto. El texto asigna a David la clasificación de las tarjetas, no la labor de distribuirlas entre varios grupos. -->
 - [ ] D) Sentarse hasta que termine la clase.
-  <!-- feedback: Incorrecto. No hay una instrucción sobre sentarse; David debía cumplir la responsabilidad concreta de recoger las fichas. -->
+ <!-- feedback: Incorrecto. No hay una instrucción sobre sentarse; David debía cumplir la responsabilidad concreta de recoger las fichas. -->
 
 ### Explicacion Pedagogica
 La respuesta se obtiene de manera literal. La palabra «encargado» señala una responsabilidad temporal para David, y la expresión «recoger las fichas» precisa qué debe hacer. Las otras opciones intercambian la tarea asignada o añaden una acción que el texto no menciona.
@@ -53,14 +53,15 @@ La respuesta se obtiene de manera literal. La palabra «encargado» señala una 
 ¿Cuál actuación cumple el acuerdo del aula?
 
 ### Opciones
-- [x] A) Levantar la mano y esperar el turno después de que termine quien está hablando.
-  <!-- feedback: Correcto. El acuerdo indica «levantamos la mano» y «esperamos nuestro turno» para participar sin interrumpir. -->
-- [ ] B) Interrumpir a quien habla para explicar la idea con más rapidez.
-  <!-- feedback: Incorrecto. Interrumpir contradice la cláusula «cuando habla un compañero, escuchamos», porque corta su participación. -->
+
+- [ ] A) Interrumpir a quien habla para explicar la idea con más rapidez.
+ <!-- feedback: Incorrecto. Interrumpir contradice la cláusula «cuando habla un compañero, escuchamos», porque corta su participación. -->
+- [x] B) Levantar la mano y esperar el turno después de que termine quien está hablando.
+ <!-- feedback: Correcto. El acuerdo indica «levantamos la mano» y «esperamos nuestro turno» para participar sin interrumpir. -->
 - [ ] C) Hablar al mismo tiempo que los demás para demostrar entusiasmo.
-  <!-- feedback: Incorrecto. La regla «escuchamos y esperamos nuestro turno» impide hablar simultáneamente porque se debe respetar a cada persona. -->
+ <!-- feedback: Incorrecto. La regla «escuchamos y esperamos nuestro turno» impide hablar simultáneamente porque se debe respetar a cada persona. -->
 - [ ] D) Quedarse en silencio durante toda la clase, aunque tenga algo que decir.
-  <!-- feedback: Incorrecto. El acuerdo no prohíbe participar; por el contrario, pide levantar la mano para obtener un turno. -->
+ <!-- feedback: Incorrecto. El acuerdo no prohíbe participar; por el contrario, pide levantar la mano para obtener un turno. -->
 
 ### Explicacion Pedagogica
 El acuerdo presenta dos pasos para participar: levantar la mano y esperar el turno. Comprender esta regla permite reconocer que todos pueden expresar sus ideas, pero deben hacerlo en un momento adecuado. Escuchar y esperar evita que varias personas hablen al mismo tiempo.
@@ -75,14 +76,15 @@ El acuerdo presenta dos pasos para participar: levantar la mano y esperar el tur
 ¿Por qué la tabla asigna una tarea distinta cada día?
 
 ### Opciones
-- [x] A) Para que todos participen y las tareas del aula queden organizadas.
-  <!-- feedback: Correcto. Como «todos ayudarían» y las tareas cambian, se deduce que la rotación permite participación y organización. -->
-- [ ] B) Para obligar a los estudiantes a competir y ser el mejor ayudante.
-  <!-- feedback: Incorrecto. El texto no habla de competencia; por el contrario, establece que «nadie tendría la misma responsabilidad todos los días». -->
-- [ ] C) Para eliminar la participación de los estudiantes porque solo la profesora puede trabajar.
-  <!-- feedback: Incorrecto. La tabla asigna cuatro tareas a estudiantes, por lo que no elimina su participación sino que la distribuye. -->
+
+- [ ] A) Para obligar a los estudiantes a competir y ser el mejor ayudante.
+ <!-- feedback: Incorrecto. El texto no habla de competencia; por el contrario, establece que «nadie tendría la misma responsabilidad todos los días». -->
+- [ ] B) Para eliminar la participación de los estudiantes porque solo la profesora puede trabajar.
+ <!-- feedback: Incorrecto. La tabla asigna cuatro tareas a estudiantes, por lo que no elimina su participación sino que la distribuye. -->
+- [x] C) Para que todos participen y las tareas del aula queden organizadas.
+ <!-- feedback: Correcto. Como «todos ayudarían» y las tareas cambian, se deduce que la rotación permite participación y organización. -->
 - [ ] D) Para cambiar las tareas sin propósito y confundir a los estudiantes.
-  <!-- feedback: Incorrecto. El grupo Naruto una rotación con un fin claro: ayudar y evitar que una sola persona asuma siempre la misma labor. -->
+ <!-- feedback: Incorrecto. El grupo Naruto una rotación con un fin claro: ayudar y evitar que una sola persona asuma siempre la misma labor. -->
 
 ### Explicacion Pedagogica
 La rotación de tareas permite inferir dos propósitos: todos los estudiantes participan y las responsabilidades se distribuyen de manera ordenada. Cambiar las tareas cada día evita que una persona quede siempre a cargo de la misma actividad. La tabla funciona como un acuerdo organizado que apoya la colaboración.
@@ -97,14 +99,15 @@ La rotación de tareas permite inferir dos propósitos: todos los estudiantes pa
 ¿Qué evidencia muestra que Violeta ayudó a aplicar el acuerdo?
 
 ### Opciones
-- [x] A) Julián dejó de interrumpir y esperó su turno.
-  <!-- feedback: Correcto. Julián «se calló» y «esperó su turno»; esas acciones muestran que la aplicación de la regla cambió su conducta. -->
-- [ ] B) Violeta quedó designada como responsable de vigilar los turnos del grupo para siempre.
-  <!-- feedback: Incorrecto. El texto no hace una designación permanente; Violeta solo africanó la regla para proteger el turno de Elena. -->
-- [ ] C) Elena tuvo que repetir su idea tres veces antes de que la escucharan.
-  <!-- feedback: Incorrecto. No se menciona ninguna repetición; Elena terminó su exposición cuando Julián dejó de interrumpirla. -->
-- [ ] D) El grupo cambió el acuerdo y autorizó las interrupciones.
-  <!-- feedback: Incorrecto. El acuerdo seguido fue «escuchamos a los demás», porque Julián se quedó en silencio mientras Elena hablaba. -->
+
+- [ ] A) Violeta quedó designada como responsable de vigilar los turnos del grupo para siempre.
+ <!-- feedback: Incorrecto. El texto no hace una designación permanente; Violeta solo africanó la regla para proteger el turno de Elena. -->
+- [ ] B) Elena tuvo que repetir su idea tres veces antes de que la escucharan.
+ <!-- feedback: Incorrecto. No se menciona ninguna repetición; Elena terminó su exposición cuando Julián dejó de interrumpirla. -->
+- [ ] C) El grupo cambió el acuerdo y autorizó las interrupciones.
+ <!-- feedback: Incorrecto. El acuerdo seguido fue «escuchamos a los demás», porque Julián se quedó en silencio mientras Elena hablaba. -->
+- [x] D) Julián dejó de interrumpir y esperó su turno.
+ <!-- feedback: Correcto. Julián «se calló» y «esperó su turno»; esas acciones muestran que la aplicación de la regla cambió su conducta. -->
 
 ### Explicacion Pedagogica
 La conducta de Julián es la evidencia principal: dejó de hablar, escuchó a Elena y esperó para participar después. El recordatorio de Violeta hizo posible que se cumpliera el acuerdo, pero no le dio un cargo especial ni cambió las reglas. La relación entre la indicación y la conducta posterior demuestra la aplicación del acuerdo.
@@ -119,14 +122,15 @@ La conducta de Julián es la evidencia principal: dejó de hablar, escuchó a El
 ¿Qué solución respeta mejor el acuerdo para resolver la discusión?
 
 ### Opciones
-- [x] A) Consultar la tabla y alternar el turno durante las semanas correspondientes.
-  <!-- feedback: Correcto. La solución usa la «tabla» y cambia el turno «cada semana», como establece el acuerdo. -->
-- [ ] B) Dejar la silla a quien hable con mayor volumen durante todo el mes.
-  <!-- feedback: Incorrecto. Hablar fuerte no aparece en la regla y permite que una sola persona ocupe el cargo durante «todo el mes». -->
-- [ ] C) Hacer una sola votación y no cambiar el turno en las siguientes semanas.
-  <!-- feedback: Incorrecto. Una votación aislada incumple la cláusula «se cambian cada semana», aunque decida quién lo ocupa al comienzo. -->
+
+- [ ] A) Dejar la silla a quien hable con mayor volumen durante todo el mes.
+ <!-- feedback: Incorrecto. Hablar fuerte no aparece en la regla y permite que una sola persona ocupe el cargo durante «todo el mes». -->
+- [ ] B) Hacer una sola votación y no cambiar el turno en las siguientes semanas.
+ <!-- feedback: Incorrecto. Una votación aislada incumple la cláusula «se cambian cada semana», aunque decida quién lo ocupa al comienzo. -->
+- [x] C) Consultar la tabla y alternar el turno durante las semanas correspondientes.
+ <!-- feedback: Correcto. La solución usa la «tabla» y cambia el turno «cada semana», como establece el acuerdo. -->
 - [ ] D) Retirar la silla hasta terminar el año para que nadie la use.
-  <!-- feedback: Incorrecto: Retirar la silla evita el conflicto, pero no resuelve la distribución de turnos exigida por el acuerdo. -->
+ <!-- feedback: Incorrecto: Retirar la silla evita el conflicto, pero no resuelve la distribución de turnos exigida por el acuerdo. -->
 
 ### Explicacion Pedagogica
 La mejor solución debe seguir el procedimiento escrito: consultar la tabla y alternar los turnos cada semana. Este procedimiento permite resolver la disputa sin favorecer a una persona por fuerza, popularity ni una decisión permanente. Evaluar una solución consiste en comprobar si realmente aplica la regla del aula.
@@ -144,11 +148,11 @@ La mejor solución debe seguir el procedimiento escrito: consultar la tabla y al
 - [x] A) Revisar la lista, reconocer lo que hizo cada estudiante y buscar los elementos faltantes antes de salir.
 <!-- feedback: Correcto. Revisar «la lista» permite comparar lo realizado con el acuerdo y ubicar los materiales que faltan. -->
 - [ ] B) Elegir rápidamente a un estudiante como culpable para terminar la discusión.
-  <!-- feedback: Incorrecto. Señalar a una persona sin revisar «la lista» ocurre porque no ofrece pruebas sobre quién dejó los lápices. -->
+ <!-- feedback: Incorrecto. Señalar a una persona sin revisar «la lista» ocurre porque no ofrece pruebas sobre quién dejó los lápices. -->
 - [ ] C) Borrar la lista para que nadie vea que el grupo incumplió el acuerdo.
-  <!-- feedback: Incorrecto. Borrar la lista destruye la evidencia del acuerdo y oculta el incumplimiento en vez de resolverlo. -->
+ <!-- feedback: Incorrecto. Borrar la lista destruye la evidencia del acuerdo y oculta el incumplimiento en vez de resolverlo. -->
 - [ ] D) Esperar que otro grupo devuelva los elementos mañana porque el problema no es suyo.
-  <!-- feedback: Incorrecto. Esperar sin revisar ignora el compromiso de comprobar cada tarea «antes de salir». -->
+ <!-- feedback: Incorrecto. Esperar sin revisar ignora el compromiso de comprobar cada tarea «antes de salir». -->
 
 ### Explicacion Pedagogica
 Una respuesta crítica utiliza pruebas y permite que cada estudiante asuma la parte que le corresponde. La lista es una referencia compartida porque connects las tareas del acuerdo con los materiales que deben estar en la caja. Revisar, reconocer lo realizado y buscar lo faltante resuelve el problema sin borrar Responsibilities ni trasladar la culpa.
@@ -163,14 +167,15 @@ Una respuesta crítica utiliza pruebas y permite que cada estudiante asuma la pa
 ¿Cómo se relacionan las tres partes del acuerdo entre sí?
 
 ### Opciones
-- [x] A) La regla indica qué hacer, el procedimiento explica cómo hacerlo y la condición precisa cuándo hacerlo.
-  <!-- feedback: Correcto. «Hablamos por turnos» establece la regla, «levantamos la mano» ofrece el procedimiento y «si» marca la condición. -->
-- [ ] B) La regla elige a la persona que habla, el procedimiento prohíbe levantar la mano y la condición solo obliga a la profesora.
-  <!-- feedback: Incorrecto. Invierte el sentido de las partes: el acuerdo explica una acción general, no asigna al hablante ni prohíbe la mano. -->
-- [ ] C) La regla se aplica fuera del aula, el procedimiento permite hablar al mismo tiempo y la condición elimina la espera.
-  <!-- feedback: Incorrecto. El texto limita el acuerdo al aula, busca turnos y establece esperar «hasta que termine» la explicación. -->
-- [ ] D) Son frases aisladas sin relación porque ninguna completa el funcionamiento del acuerdo.
-  <!-- feedback: Incorrecto. Las tres partes sí se relacionan: la regla necesita un procedimiento y una condición para aplicarse correctamente. -->
+
+- [ ] A) La regla elige a la persona que habla, el procedimiento prohíbe levantar la mano y la condición solo obliga a la profesora.
+ <!-- feedback: Incorrecto. Invierte el sentido de las partes: el acuerdo explica una acción general, no asigna al hablante ni prohíbe la mano. -->
+- [ ] B) La regla se aplica fuera del aula, el procedimiento permite hablar al mismo tiempo y la condición elimina la espera.
+ <!-- feedback: Incorrecto. El texto limita el acuerdo al aula, busca turnos y establece esperar «hasta que termine» la explicación. -->
+- [ ] C) Son frases aisladas sin relación porque ninguna completa el funcionamiento del acuerdo.
+ <!-- feedback: Incorrecto. Las tres partes sí se relacionan: la regla necesita un procedimiento y una condición para aplicarse correctamente. -->
+- [x] D) La regla indica qué hacer, el procedimiento explica cómo hacerlo y la condición precisa cuándo hacerlo.
+ <!-- feedback: Correcto. «Hablamos por turnos» establece la regla, «levantamos la mano» ofrece el procedimiento y «si» marca la condición. -->
 
 ### Explicacion Pedagogica
 El acuerdo posee una estructura que guía la conducta. Primero explica la intención general de hablar por turnos; luego indica una acción concreta para solicitar la palabra y, finalmente, señala una situación en la que se debe esperar. Reconocer esta relación ayuda a usar el acuerdo como una secuencia clara.
@@ -186,13 +191,13 @@ El acuerdo posee una estructura que guía la conducta. Primero explica la intenc
 
 ### Opciones
 - [x] A) Reconocer la idea de Daniel y restaurar el procedimiento que permite escuchar a todos.
-  <!-- feedback: Correcto. «Traer una idea es importante» reconoce la participación, mientras «levantamos la mano» restablece el procedimiento. -->
+ <!-- feedback: Correcto. «Traer una idea es importante» reconoce la participación, mientras «levantamos la mano» restablece el procedimiento. -->
 - [ ] B) Prohibir que Daniel vuelva a hablar durante el resto de la actividad.
-  <!-- feedback: Incorrecto. La profesora no pide que Daniel calle para siempre; por el contrario, lo ayuda a usar el turno de participación. -->
+ <!-- feedback: Incorrecto. La profesora no pide que Daniel calle para siempre; por el contrario, lo ayuda a usar el turno de participación. -->
 - [ ] C) Invitar a los demás a ignorar la idea de Daniel porque fue expresada sin permiso.
-  <!-- feedback: Incorrecto. La expresión «para comprendernos» indica que todos deben escuchar, no ignorar la aportación del compañero. -->
+ <!-- feedback: Incorrecto. La expresión «para comprendernos» indica que todos deben escuchar, no ignorar la aportación del compañero. -->
 - [ ] D) Darle a Daniel un turno permanente porque fue el primero en hablar.
-  <!-- feedback: Incorrecto. La frase «esperamos el turno» anuncia una rotación y no concede a Daniel una prioridad permanente. -->
+ <!-- feedback: Incorrecto. La frase «esperamos el turno» anuncia una rotación y no concede a Daniel una prioridad permanente. -->
 
 ### Explicacion Pedagica
-La intervención combina reconocimiento y orientación. La profesora valued la idea de Daniel, pero explica por qué debe piden using turn so that the rest can understand. La conducta posterior confirma esa intention: Daniel levanta la mano, the group listens and the teacher gives him a turn.
+La intervención combina reconocimiento y orientación. La profesora valora la idea de Daniel, pero explica por qué debe pedir la palabra antes de hablar, para que el resto del grupo pueda entenderlo. La conducta posterior confirma esa intención: Daniel levanta la mano, el grupo lo escucha y la profesora le da su turno de participación.
