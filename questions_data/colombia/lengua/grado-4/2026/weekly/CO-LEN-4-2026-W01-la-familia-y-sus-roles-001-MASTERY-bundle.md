@@ -32,13 +32,13 @@ Según la oración de Laura, ¿quién cocina el almuerzo?
 
 ### Opciones
 - [x] A) La abuela
-  <!-- feedback: Correcto. "abuela" es quien realiza la acción "cocina"; Laura solamente escribe la oración. -->
+ <!-- feedback: Correcto. "abuela" es quien realiza la acción "cocina"; Laura solamente escribe la oración. -->
 - [ ] B) La mamá de Laura
-  <!-- feedback: Incorrecto. La opción cambia un rol generacional: "abuela" nombra a una persona mayor de la familia, no a la madre de Laura. -->
+ <!-- feedback: Incorrecto. La opción cambia un rol generacional: "abuela" nombra a una persona mayor de la familia, no a la madre de Laura. -->
 - [ ] C) La hermana de Laura
-  <!-- feedback: Incorrecto. La opción confunde una relación lateral: "hermana" sería una hija del mismo padre o de la misma madre que Laura, no una abuela. -->
+ <!-- feedback: Incorrecto. La opción confunde una relación lateral: "hermana" sería una hija del mismo padre o de la misma madre que Laura, no una abuela. -->
 - [ ] D) Laura
-  <!-- feedback: Incorrecto. Laura es quien relata el hecho, pero la frase "Mi abuela cocina" identifica a otra persona como la que cocina. -->
+ <!-- feedback: Incorrecto. Laura es quien relata el hecho, pero la frase "Mi abuela cocina" identifica a otra persona como la que cocina. -->
 
 ### Explicacion Pedagogica
 La palabra «abuela» identifica a una familiar de la generación mayor. En la oración, Laura ocupa el lugar de quien informa, mientras que su abuela ocupa el lugar de quien_realiza_la_accion_de_cocinar. Reconocer estas funciones ayuda a comprender quién hace cada actividad en el hogar.
@@ -53,14 +53,15 @@ La palabra «abuela» identifica a una familiar de la generación mayor. En la o
 ¿Qué relación familiar tiene Diego con la mamá de Samuel?
 
 ### Opciones
-- [x] A) Es su hermano
-  <!-- feedback: Correcto. La expresión "hermano de mi mamá" afirma directamente que Diego y la mamá de Samuel son hermanos. -->
-- [ ] B) Es su primo
-  <!-- feedback: Incorrecto. "primo" expresa una relación con la madre, no un vínculo de hermanos con ella; sería el hijo de un hermano o una hermana de la madre. -->
+
+- [ ] A) Es su primo
+ <!-- feedback: Incorrecto. "primo" expresa una relación con la madre, no un vínculo de hermanos con ella; sería el hijo de un hermano o una hermana de la madre. -->
+- [x] B) Es su hermano
+ <!-- feedback: Correcto. La expresión "hermano de mi mamá" afirma directamente que Diego y la mamá de Samuel son hermanos. -->
 - [ ] C) Es su hijo
-  <!-- feedback: Incorrecto. "hermano de mi mamá" coloca a Diego en la misma generación que ella; por eso no es su hijo. -->
+ <!-- feedback: Incorrecto. "hermano de mi mamá" coloca a Diego en la misma generación que ella; por eso no es su hijo. -->
 - [ ] D) Es su tío
-  <!-- feedback: Incorrecto. "tío" describe el rol de Diego respecto de Samuel, no respecto de la madre de Samuel. -->
+ <!-- feedback: Incorrecto. "tío" describe el rol de Diego respecto de Samuel, no respecto de la madre de Samuel. -->
 
 ### Explicacion Pedagogica
 La relación familiar cambia según la persona desde la cual se describe. Diego es el hermano de la mamá de Samuel y, por esa misma razón, es el tío de Samuel. La pregunta pide identificar su relación con la mamá, por lo que la respuesta correcta es «hermano».
@@ -75,14 +76,15 @@ La relación familiar cambia según la persona desde la cual se describe. Diego 
 ¿Por qué es útil repartir las tareas entre los miembros de esta familia?
 
 ### Opciones
-- [x] A) Para que cada miembro colabore con una parte del trabajo
-  <!-- feedback: Correcto. "cada uno hace una parte" y "nadie tiene que hacerlo todo" muestran que el reparto permite colaborar. -->
-- [ ] B) Para que la mamá haga todas las tareas sin ayuda
-  <!-- feedback: Incorrecto. En el texto, la mamá coordina la compra, mientras Andrés, su hermana y su padre realizan tareas distintas. -->
-- [ ] C) Para impedir que los miembros hablen durante la semana
-  <!-- feedback: Incorrecto. El reparto de tareas no busca impedir conversations; la mamá lo presenta como una ayuda para compartir el trabajo. -->
+
+- [ ] A) Para que la mamá haga todas las tareas sin ayuda
+ <!-- feedback: Incorrecto. En el texto, la mamá coordina la compra, mientras Andrés, su hermana y su padre realizan tareas distintas. -->
+- [ ] B) Para impedir que los miembros hablen durante la semana
+ <!-- feedback: Incorrecto. El reparto de tareas no busca impedir conversations; la mamá lo presenta como una ayuda para compartir el trabajo. -->
+- [x] C) Para que cada miembro colabore con una parte del trabajo
+ <!-- feedback: Correcto. "cada uno hace una parte" y "nadie tiene que hacerlo todo" muestran que el reparto permite colaborar. -->
 - [ ] D) Para que todos compren exactamente los mismos alimentos
-  <!-- feedback: Incorrecto. Andrés escoge frutas y su padre anota lo que falta, pero el texto no dice que compren los mismos alimentos. -->
+ <!-- feedback: Incorrecto. Andrés escoge frutas y su padre anota lo que falta, pero el texto no dice que compren los mismos alimentos. -->
 
 ### Explicacion Pedagogica
 Las tres acciones muestran tareas diferentes dentro de una misma actividad familiar. La expresión «si cada uno hace una parte» permite inferir que el reparto tiene como finalidad la colaboración. Reconocer esta propósito ayuda a valorar la organización del hogar como una responsabilidad compartida.
@@ -97,14 +99,15 @@ Las tres acciones muestran tareas diferentes dentro de una misma actividad famil
 ¿Qué relación familiar tiene Catalina con su mamá?
 
 ### Opciones
-- [x] A) Es su prima
-  <!-- feedback: Correcto. "Mi mamá y mi tía son hermanas" y "Yo soy la hija de mi tía" permiten concluir que Catalina es prima de su mamá. -->
-- [ ] B) Es su hermana
-  <!-- feedback: Incorrecto. La hija de la mamá sería hermana de Catalina; el texto dice que Catalina es "hija de mi tía". -->
-- [ ] C) Es su tía
-  <!-- feedback: Incorrecto. "mi tía" es la hermana de la mamá, mientras que Catalina es la hija de esa hermana. -->
-- [ ] D) Es su nieta
-  <!-- feedback: Incorrecto. La hermana de la mamá es la tía de Catalina; por esa relación, Catalina es su sobrina y no su nieta. -->
+
+- [ ] A) Es su hermana
+ <!-- feedback: Incorrecto. La hija de la mamá sería hermana de Catalina; el texto dice que Catalina es "hija de mi tía". -->
+- [ ] B) Es su tía
+ <!-- feedback: Incorrecto. "mi tía" es la hermana de la mamá, mientras que Catalina es la hija de esa hermana. -->
+- [ ] C) Es su nieta
+ <!-- feedback: Incorrecto. La hermana de la mamá es la tía de Catalina; por esa relación, Catalina es su sobrina y no su nieta. -->
+- [x] D) Es su prima
+ <!-- feedback: Correcto. "Mi mamá y mi tía son hermanas" y "Yo soy la hija de mi tía" permiten concluir que Catalina es prima de su mamá. -->
 
 ### Explicacion Pedagogica
 Para determinar la relación, se conectan dos datos: la mamá y la tía de Catalina son hermanas, y Catalina es hija de la tía. Las hijas de dos hermanas son primas. Este razonamiento permite construir relaciones familiares más complejas a partir de información sencilla.
@@ -119,17 +122,18 @@ Para determinar la relación, se conectan dos datos: la mamá y la tía de Catal
 ¿Cuál es la conclusión que mejor se puede obtener del texto?
 
 ### Opciones
-- [x] A) La familia distribuye algunas tareas entre varios miembros
-  <!-- feedback: Correcto. "mi hermano", "mi mamá" y "yo" realizan acciones, y "Turnamos las tareas" confirma la participación de varios miembros. -->
-- [ ] B) En el hogar, solo la mamá realiza tareas
-  <!-- feedback: Incorrecto. El hermano barre y quien narra lava los platos; por eso las tareas no corresponden únicamente a la mamá. -->
-- [ ] C) El hermano cambia de tarea cada día sin seguir un acuerdo
-  <!-- feedback: Incorrecto. "Turnamos las tareas" indica rotación, pero el texto no afirma que el hermano cambie sin un acuerdo. -->
+
+- [ ] A) En el hogar, solo la mamá realiza tareas
+ <!-- feedback: Incorrecto. El hermano barre y quien narra lava los platos; por eso las tareas no corresponden únicamente a la mamá. -->
+- [ ] B) El hermano cambia de tarea cada día sin seguir un acuerdo
+ <!-- feedback: Incorrecto. "Turnamos las tareas" indica rotación, pero el texto no afirma que el hermano cambie sin un acuerdo. -->
+- [x] C) La familia distribuye algunas tareas entre varios miembros
+ <!-- feedback: Correcto. "mi hermano", "mi mamá" y "yo" realizan acciones, y "Turnamos las tareas" confirma la participación de varios miembros. -->
 - [ ] D) Los platos deben lavarse antes de barrer el patio
-  <!-- feedback: Incorrecto. El texto enumera las tareas, pero no establece que el lavado de los platos deba ocurrir antes de barrer. -->
+ <!-- feedback: Incorrecto. El texto enumera las tareas, pero no establece que el lavado de los platos deba ocurrir antes de barrer. -->
 
 ### Explicacion Pedagogica
-Una conclusión respaldada debe gathered los datos del texto sin agregar información. La mención de tres personas realizando tareas y la frase «turnamos las tareas» permiten concluir que el trabajo del hogar se distribuye. Las otras opciones introducenparticipaciones o una secuencia de acciones que el texto no afirma.
+Una conclusión respaldada debe reunir los datos del texto sin agregar información. La mención de tres personas realizando tareas y la frase «turnamos las tareas» permiten concluir que el trabajo del hogar se distribuye. Las otras opciones introducen participaciones o una secuencia de acciones que el texto no afirma.
 
 ## Question 6 [D7-D8]
 **ID:** CO-LEN-4-2026-W01-la-familia-y-sus-roles-001-MASTERY-bundle-v6
@@ -142,13 +146,13 @@ Una conclusión respaldada debe gathered los datos del texto sin agregar informa
 
 ### Opciones
 - [x] A) Las responsabilidades pueden repartirse según las capacidades y los acuerdos familiares
-  <!-- feedback: Correcto. "Los dos podemos aprender" y "papá puede ayudar" proponen aportes de varias personas, y el acuerdo final permite organizar sus responsabilidades. -->
+ <!-- feedback: Correcto. "Los dos podemos aprender" y "papá puede ayudar" proponen aportes de varias personas, y el acuerdo final permite organizar sus responsabilidades. -->
 - [ ] B) Las tareas del hogar deben quedar únicamente a cargo de la madre
-  <!-- feedback: Incorrecto. La propuesta de que "papá puede ayudar" contradice la idea de que las tareas deban quedar únicamente en manos de la madre. -->
+ <!-- feedback: Incorrecto. La propuesta de que "papá puede ayudar" contradice la idea de que las tareas deban quedar únicamente en manos de la madre. -->
 - [ ] C) Tomás no puede ayudar mientras su mamá trabaje
-  <!-- feedback: Incorrecto. Que la mamá trabaje fuera del hogar no impide que Tomás participe en tareas apropiadas para su edad. -->
+ <!-- feedback: Incorrecto. Que la mamá trabaje fuera del hogar no impide que Tomás participe en tareas apropiadas para su edad. -->
 - [ ] D) Papá no debería participar porque los niños ya son responsables
-  <!-- feedback: Incorrecto. La familia puede participar sin que una sola persona asuma toda la responsabilidad; por eso no se excluye la ayuda del papá. -->
+ <!-- feedback: Incorrecto. La familia puede participar sin que una sola persona asuma toda la responsabilidad; por eso no se excluye la ayuda del papá. -->
 
 ### Explicacion Pedagogica
 La respuesta de Tomás parte de una idea fija: si la mamá trabaja, el niño debe convertirse en el cuidador principal. La respuesta de su hermana plantea una organización más equilibrada, en la cual los niños aprenden tareas suitable y los adultos también casually ayudan. La expresión «acuerdan qué tarea realizará cada persona» muestra que los roles del hogar pueden organizarse mediante diálogo y responsabilidad.
@@ -163,14 +167,15 @@ La respuesta de Tomás parte de una idea fija: si la mamá trabaja, el niño deb
 ¿Cuál es la idea central más adecuada del texto?
 
 ### Opciones
-- [x] A) El acuerdo entre hermanos permite organizar una participación más equilibrada
-  <!-- feedback: Correcto. El contraste entre "esperaba que el otro lo hiciera" y "acordaron una ayuda fija" muestra una participación organizada mediante acuerdo. -->
-- [ ] B) Los hermanos no necesitan conversar para decidir quién ayuda
-  <!-- feedback: Incorrecto. El texto afirma que "después hablaron"; por tanto, la conversación sí fue necesaria para acordar la ayuda. -->
-- [ ] C) Solo una persona de la familia debería hacerse cargo del hogar
-  <!-- feedback: Incorrecto. Lucía cocina, Diego lava los platos y ambos ordenan sus cosas, de modo que participan más de una persona. -->
-- [ ] D) Las tareas asignadas son útiles únicamente cuando se trata de cocinar
-  <!-- feedback: Incorrecto. Además de cocinar, los hermanos lavan los platos y ordenan sus cosas; el texto no limita la utilidad a una sola tarea. -->
+
+- [ ] A) Los hermanos no necesitan conversar para decidir quién ayuda
+ <!-- feedback: Incorrecto. El texto afirma que "después hablaron"; por tanto, la conversación sí fue necesaria para acordar la ayuda. -->
+- [ ] B) Solo una persona de la familia debería hacerse cargo del hogar
+ <!-- feedback: Incorrecto. Lucía cocina, Diego lava los platos y ambos ordenan sus cosas, de modo que participan más de una persona. -->
+- [ ] C) Las tareas asignadas son útiles únicamente cuando se trata de cocinar
+ <!-- feedback: Incorrecto. Además de cocinar, los hermanos lavan los platos y ordenan sus cosas; el texto no limita la utilidad a una sola tarea. -->
+- [x] D) El acuerdo entre hermanos permite organizar una participación más equilibrada
+ <!-- feedback: Correcto. El contraste entre "esperaba que el otro lo hiciera" y "acordaron una ayuda fija" muestra una participación organizada mediante acuerdo. -->
 
 ### Explicacion Pedagogica
 La idea central resume el cambio más importante: el comportamiento y su consecuencia. Antes, cada hermano esperaba que el otro hiciera el trabajo; después, hablaron y establecieron una ayuda fija. Esta comparación permite comprender que el diálogo y los acuerdos favorecen una distribución más equilibrada de las responsabilidades.
@@ -185,14 +190,15 @@ La idea central resume el cambio más importante: el comportamiento y su consecu
 ¿Cuál conclusión está mejor respaldada por el registro?
 
 ### Opciones
-- [x] A) Las responsabilidades de cuidado pueden repartirse entre varias generaciones
-  <!-- feedback: Correcto. El registro muestra acciones del padre, la madre, la abuela y el niño; esa variedad demuestra que el cuidado puede repartirse. -->
-- [ ] B) Una sola persona debe encargarse de todo el cuidado familiar
-  <!-- feedback: Incorrecto. Cuatro personas realizan acciones diferentes; el registro no muestra que una sola persona asuma todo el cuidado. -->
+
+- [ ] A) Una sola persona debe encargarse de todo el cuidado familiar
+ <!-- feedback: Incorrecto. Cuatro personas realizan acciones diferentes; el registro no muestra que una sola persona asuma todo el cuidado. -->
+- [x] B) Las responsabilidades de cuidado pueden repartirse entre varias generaciones
+ <!-- feedback: Correcto. El registro muestra acciones del padre, la madre, la abuela y el niño; esa variedad demuestra que el cuidado puede repartirse. -->
 - [ ] C) Solo cuentan como cuidado las acciones realizadas por los padres
-  <!-- feedback: Incorrecto. La abuela "revisó mi tarea" y el niño "alimenté a mi perro" también son acciones de cuidado. -->
+ <!-- feedback: Incorrecto. La abuela "revisó mi tarea" y el niño "alimenté a mi perro" también son acciones de cuidado. -->
 - [ ] D) Las personas mayores no pueden aportar al cuidado familiar
-  <!-- feedback: Incorrecto. La abuela "revisó mi tarea", por lo que el registro muestra que una persona mayor sí aporta al cuidado. -->
+ <!-- feedback: Incorrecto. La abuela "revisó mi tarea", por lo que el registro muestra que una persona mayor sí aporta al cuidado. -->
 
 ### Explicacion Pedagogica
 La respuesta correcta se apoya en cuatro evidencias: el padre acompaña al niño al colegio, la madre le lee un cuento, la abuela revisa su tarea y el niño alimenta a la mascota. Estas acciones demuestran que el cuidado puede ser práctico, académico y afectivo, y que puede distribuirse entre integrantes de distintas generaciones.
