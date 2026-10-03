@@ -176,7 +176,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "Una alimentación variada combina alimentos que aportan funciones distintas. El arroz aporta energía, el pollo proteína y las verduras y la fruta vitaminas; por eso la opción A es la más adecuada.",
+      "explanation": "Una alimentación variada combina alimentos que aportan funciones distintas. El arroz aporta energía, el pollo proteína y las verduras y la fruta vitaminas; por eso ese menú es el más adecuado.",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -268,7 +268,7 @@
         }
       ],
       "correct_answer": "A",
-      "explanation": "Se evalúa la comprensión de que un almuerzo equilibrado reúne alimentos de distintos grupos. La opción A combina un cereal, una proteína y vegetales, por lo que es la más adecuada entre las alternativas.",
+      "explanation": "Se evalúa la comprensión de que un almuerzo equilibrado reúne alimentos de distintos grupos. El menú que combina un cereal, una proteína y vegetales es el más adecuado entre las alternativas.",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -338,13 +338,13 @@
           "letter": "A",
           "text": "El Menú 1, porque el jugo de paquete y el postre aportan más vitaminas que la fruta.",
           "is_correct": false,
-          "feedback": "Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y noReplace?"
+          "feedback": "Incorrecto. El jugo de paquete y el postre suelen aportar azúcar y no vitaminas, y el Menú 1 no incluye una fuente de proteína como el pollo ni legumbres: por eso no cubre todos los grupos que un almuerzo equilibrado necesita."
         },
         {
           "letter": "B",
           "text": "El Menú 2, porque combina arroz, lentejas, verduras y fruta, y no depende del jugo de paquete ni del postre.",
           "is_correct": true,
-          "feedback": "Correcto. La opción A reúne un cereal (arroz), una proteína (lentejas), vegetales y fruta, por eso ofrece mayor variedad y equilibrio."
+          "feedback": "Correcto. El menú reúne un cereal (arroz), una proteína (lentejas), vegetales y fruta, por eso ofrece mayor variedad y equilibrio."
         },
         {
           "letter": "C",
