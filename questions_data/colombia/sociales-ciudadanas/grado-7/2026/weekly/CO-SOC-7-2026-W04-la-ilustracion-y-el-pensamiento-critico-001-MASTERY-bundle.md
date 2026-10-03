@@ -1,0 +1,254 @@
+---
+id: "CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle"
+country: "colombia"
+grado: 7
+asignatura: "sociales-ciudadanas"
+tema: "la-ilustracion-y-el-pensamiento-critico"
+periodo: "weekly"
+week: "W04"
+year: 2026
+bundle_type: "weekly"
+protocol_version: "5.2"
+total_questions: 10
+bundle_size: 10
+alignment: "DBA MEN Colombia / Saber 7"
+bundle_index: 4
+calibration: {difficulty_band: "D3-D4", expected_success: 0.8}
+license: "FREE"
+tier: "legacy"
+creador: "Jules-Agent"
+---
+
+# La Ilustración y el pensamiento crítico
+
+Esta semana estudiamos cómo el pensamiento ilustrado cambió la manera de explicar el mundo, qué preguntas se hizo sobre el poder y por qué esas ideas llegaron también a la colonia.
+
+## Question 1 [D3-D4]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v1
+**Bloom:** Remember
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.90
+**Contexto:** En una cartilla de grado séptimo se explica que los pensadores de la Ilustración sostenían que el conocimiento y la razón podían explicar los fenómenos naturales y sociales.
+
+### Enunciado
+¿Cuál era la idea central de la Ilustración?
+
+### Opciones
+- [x] A) Que la razón y el conocimiento permiten comprender el mundo
+  <!-- feedback: La idea central era la confianza en la razón, porque los ilustrados creían que el conocimiento podía explicar la naturaleza y la sociedad. -->
+- [ ] B) Que solo la tradición explicaba correctamente el mundo
+  <!-- feedback: Contradices a los ilustrados, que buscaron reemplazar las explicaciones tradicionalistas por otras basadas en la razón. -->
+- [ ] C) Que el conocimiento no servía para nada
+  <!-- feedback: Niegas la premisa básica de la Ilustración, que entendía el conocimiento y la razón como instrumentos para comprender el mundo. -->
+- [ ] D) Que la ciencia debía abandonar la observación
+  <!-- feedback: La Ilustración valorizaba la observación y la experiencia, por lo que esa alternativa se opone directamente a su pensamiento. -->
+
+### Explicacion Pedagogica
+La Ilustración fue un movimiento de ideas que puso la confianza en la razón. Sostuvo que los fenómenos del mundo podían estudiarse y comprenderse, y que ese conocimiento era la base para mejorar la vida social.
+
+## Question 2 [D3-D4]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v2
+**Bloom:** Understand
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.90
+**Contexto:** Un texto escolar presenta a un pensador ilustrado que cuestiona la autoridad heredada y pregunta si las instituciones pueden justificarse sin el consentimiento de los ciudadanos.
+
+### Enunciado
+Según el texto, ¿qué estaba en discusión?
+
+### Opciones
+- [ ] A) La cantidad de libros que se imprimían en Europa
+  <!-- feedback: Te concentras en un detalle material, cuando lo que estaba en discusión era el fundamento legítimo de la autoridad política. -->
+- [x] B) El origen de la autoridad política
+  <!-- feedback: La discusión era exactamente esa: si el poder político se sostiene en la tradición heredada o en el consentimiento de los ciudadanos. -->
+- [ ] C) El precio del papel en las imprentas
+  <!-- feedback: Anclas la discusión a un detalle económico que no aparece en el texto y abandonas la cuestión política central. -->
+- [ ] D) La forma de construir los edificios públicos
+  <!-- feedback: La arquitectura no aparece en el texto; lo que se cuestionaba era la legitimidad del poder y su fundamento. -->
+
+### Explicacion Pedagogica
+Los pensadores ilustrados pusieron en discusión el fundamento de la autoridad política. Cuestionaron que el poder se legitimara solo por tradición y defenderon que debía justificarse ante los ciudadanos.
+
+## Question 3 [D5-D6]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v3
+**Bloom:** Apply
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.75
+**Contexto:** En una clase de Bogotá, un estudiante quiere comprobar una afirmación sobre el clima con su propia observación, en lugar de aceptarla porque siempre se dijo así.
+
+### Enunciado
+Aplicando el método ilustrado, ¿qué debería hacer el estudiante?
+
+### Opciones
+- [ ] A) Aceptar la afirmación porque viene de una autoridad reconocida
+  <!-- feedback: Aceptas por autoridad y no por evidencia, cuando el método ilustrado exige comprobar las afirmaciones mediante la observación y la razón. -->
+- [x] B) Comprobar la afirmación con observaciones y datos
+  <!-- feedback: La respuesta es correcta porque el método ilustrado confía en la experiencia y la observación como base para validar una idea. -->
+- [ ] C) Descartar la afirmación sin comprobarla, porque es muy antigua
+  <!-- feedback: Rechazas por antigüedad en lugar de evaluar el contenido, cuando la Ilustración pedía argumentos y pruebas para toda afirmación. -->
+- [ ] D) Consultar solamente la opinión de otras personas
+  <!-- feedback: Recoger opiniones no es comprobar un hecho, de modo que esa vía no corresponde al procedimiento que defendían los ilustrados. -->
+
+### Explicacion Pedagogica
+El método ilustrado se apoyaba en la observación y en el razonamiento. Frente a una afirmación, la actitud correcta era comprobarla con evidencia en lugar de aceptarla por la autoridad o por la costumbre.
+
+## Question 4 [D5-D6]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v4
+**Bloom:** Apply
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.75
+**Contexto:** En Tunja, un líder comunitario explica que las decisiones se toman como siempre se han tomado, sin preguntar a la población.
+
+### Enunciado
+Aplicando el pensamiento ilustrado, ¿qué crítica se le puede dirigir?
+
+### Opciones
+- [x] A) Que toma la costumbre como autoridad suficiente y no al argumento de los ciudadanos
+  <!-- feedback: La crítica es adecuada porque el pensamiento ilustrado exigía justificar el poder ante los ciudadanos y no solo invocar la tradición. -->
+- [ ] B) Que decide demasiado rápido y debería decidir más rápido aún
+  <!-- feedback: Tratas la velocidad como el problema central, cuando lo relevante es la falta de fundamento y de participación. -->
+- [ ] C) Que consulta a la población y por eso está equivocado
+  <!-- feedback: En el enunciado no hay consulta a la población, y además valoras la participación como un defecto, contrario a lo que defendían los ilustrados. -->
+- [ ] D) Que usa la tradición y por eso respeta la cultura
+  <!-- feedback: Valoras la tradición en sí misma, cuando el criterio ilustrado pedía justificar cada práctica y no aceptarla por costumbre. -->
+
+### Explicacion Pedagogica
+El pensamiento crítico ilustrado ponía en tela de juicio las prácticas heredadas. Preguntaba si una decisión se justificaba ante quienes la sufrían, y no se quedaba en la repetición de la costumbre.
+
+## Question 5 [D5-D6]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v5
+**Bloom:** Apply
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.75
+**Contexto:** En un proyecto de Florencia, los estudiantes deben redactar una norma para su curso y explicar por qué es justa.
+
+### Enunciado
+Aplicando las ideas ilustradas, ¿qué debería incluir la actividad?
+
+### Opciones
+- [ ] A) Solo el castigo previsto para quien no la cumpla
+  <!-- feedback: Te quedas en la sanción e ignoras la justificación, cuando el pensamiento ilustrado pedía razonar por qué una norma es legítima. -->
+- [ ] B) La costumbre de siempre, porque las costumbres son justas por definición
+  <!-- feedback: Aceptas la costumbre como justificación automática, que es precisamente la actitud que el pensamiento crítico cuestionaba. -->
+- [ ] C) El nombre del profesor que la impone, porque la autoridad lo garantiza
+  <!-- feedback: Sustituyes la justificación por la autoridad de quien manda, cuando el criterio ilustrado exige argumentos y no personas. -->
+- [x] D) Una explicación de por qué la norma conviene a quienes la cumplen
+  <!-- feedback: La respuesta es correcta porque las ideas ilustradas piden justificar una norma con razones que puedan aceptarse y compartirse. -->
+
+### Explicacion Pedagogica
+Para los ilustrados, una norma legítima era la que podía justificarse con razones comprensibles. El criterio no era quién la imponía ni cuál era la costumbre, sino si su fundamento podía aceptarse.
+
+## Question 6 [D7-D8]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v6
+**Bloom:** Analyze
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.60
+**Contexto:** Un investigador compara dos textos: uno que explica un terremoto con argumentos naturalistas y otro que lo atribuye a un castigo divino.
+
+### Enunciado
+¿Qué revela el contraste entre esas dos explicaciones?
+
+### Opciones
+- [ ] A) Que las dos explicaciones son igualmente válidas
+  <!-- feedback: Las igualas sin revisar sus bases, cuando una se apoya en causas naturales observables y la otra en una creencia sin evidencia. -->
+- [x] B) Que una explicación busca causas observables y la otra se apoya en una creencia
+  <!-- feedback: El contraste muestra el cambio de mentalidad: la explicación ilustrada busca causas naturales y la otra se satisface con una creencia. -->
+- [ ] C) Que la explicación antigua era más científica
+  <!-- feedback: Reviertes el sentido del cambio histórico, cuando la explicación que buscaba causas naturales fue la opción ilustrada. -->
+- [ ] D) Que ninguna de las dos explicaciones busca causas
+  <!-- feedback: Una de las dos explicaciones sí busca causas naturales, de modo que negar eso en ambas no describe el texto. -->
+
+### Explicacion Pedagogica
+Comparar dos explicaciones de un mismo hecho muestra un cambio de pensamiento. La Ilustración insistía en buscar causas observables, en lugar de aceptar una creencia que no se podía comprobar.
+
+## Question 7 [D7-D8]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v7
+**Bloom:** Analyze
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.60
+**Contexto:** En una clase de Popayán, la profesora pide identificar los supuestos de un enunciado: "es mejor que las cosas sigan como han sido siempre".
+
+### Enunciado
+Al analizar ese enunciado, ¿qué observación es la más precisa?
+
+### Opciones
+- [ ] A) El enunciado no tiene supuestos porque habla del pasado
+  <!-- feedback: Todo enunciado tiene una base implícita y este supone que lo tradicional vale más que cualquier cambio evaluable. -->
+- [ ] B) El enunciado supone que todos quieren cambiar
+  <!-- feedback: El enunciado supone lo contrario: que nadie quiere cambiar y que mantener resulta siempre mejor. -->
+- [x] C) El enunciado supone que conservar es siempre mejor que cambiar
+  <!-- feedback: La observación identifica el supuesto central: el enunciado da por sentado que lo heredado merece mantenerse sin necesidad de justificarlo. -->
+- [ ] D) El enunciado supone que el cambio ya está prohibido
+  <!-- feedback: Nada en el enunciado habla de prohibición, sino de una preferencia por conservar que necesita ser examinada. -->
+
+### Explicacion Pedagogica
+El pensamiento crítico empieza por sacar a la luz los supuestos de un enunciado. Reconocer que "siempre fue así" esconde una valoración sobre el cambio es un paso esencial del razonamiento crítico.
+
+## Question 8 [D7-D8]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v8
+**Bloom:** Analyze
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.60
+**Contexto:** Un archivo de Bogotá conserva un texto que defiende una ley porque "siempre ha sido así", frente a otro que la defiende porque "reduce el sufrimiento de las personas".
+
+### Enunciado
+¿Qué distingue el segundo texto del primero?
+
+### Opciones
+- [ ] A) El segundo texto invoca a una autoridad religiosa
+  <!-- feedback: El segundo texto se apoya en un efecto observable sobre las personas, no en una autoridad religiosa ni en la tradición. -->
+- [x] B) El segundo texto justifica la ley por sus efectos, no por la tradición
+  <!-- feedback: La distinción es correcta porque el segundo texto razona sobre el resultado de la ley y el primero se limita a repetir la costumbre. -->
+- [ ] C) El segundo texto rechaza todo conocimiento
+  <!-- feedback: El segundo texto razona sobre consecuencias, de modo que no se opone al conocimiento sino que se apoya en él. -->
+- [ ] D) Ambos textos se apoyan en la autoridad del pasado
+  <!-- feedback: El segundo texto rompe precisamente con ese fundamento, ya que no necesita del pasado para sostener su argumento. -->
+
+### Explicacion Pedagogica
+Analizar dos justificaciones permite ver fundamentos distintos. Una se apoya en la repetición de la costumbre y la otra en las consecuencias que la norma produce, que es el criterio que defendía la Ilustración.
+
+## Question 9 [D9-D10]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v9
+**Bloom:** Evaluate
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.45
+**Contexto:** En un debate escolar de Medellín, un estudiante sostiene: "si una práctica es muy antigua, entonces es justa".
+
+### Enunciado
+¿Cuál es la evaluación más rigurosa de ese argumento?
+
+### Opciones
+- [ ] A) El argumento es válido, porque la antigüedad demuestra la justicia
+  <!-- feedback: Confundes antigüedad con justicia, cuando el tiempo transcurrido no dice nada sobre si una práctica respeta a las personas. -->
+- [ ] B) El argumento es inválido, porque ninguna práctica antigua puede ser justa
+  <!-- feedback: Negas con exceso, cuando lo que se cuestiona es el argumento y no la posibilidad de que una práctica antigua tenga justificación. -->
+- [x] C) El argumento supone la conclusión en lugar de demostrarla
+  <!-- feedback: La evaluación es precisa porque apela a la antigüedad como si probara la justicia, cuando eso es exactamente lo que debería demostrar. -->
+- [ ] D) El argumento es válido, porque así se mantienen las costumbres del país
+  <!-- feedback: Apelar a la costumbre no demuestra nada sobre la justicia, y además las costumbres pueden cambiarse cuando no son justas. -->
+
+### Explicacion Pedagogica
+Evaluar un argumento exige preguntar si la razón que se da realmente demuestra la conclusión. Atribuir justicia a la antigüedad es una circularidad, porque se usa como prueba lo que se pretende demostrar.
+
+## Question 10 [D9-D10]
+**ID:** CO-SOC-7-2026-W04-la-ilustracion-y-el-pensamiento-critico-001-MASTERY-bundle-v10
+**Bloom:** Evaluate
+**ICFES:** Reflexión ética y política
+**Expected_Success:** 0.45
+**Contexto:** Una fundación de Villavicencio propone un taller donde se enseña que todo saber tradicional es superior a los estudios científicos actuales.
+
+### Enunciado
+¿Qué juicio sobre ese taller es más sólido?
+
+### Opciones
+- [ ] A) El taller es adecuado, porque respeta la tradición del país
+  <!-- feedback: Respetar la tradición no exige afirmar que es superior a todo conocimiento probado, que es la tesis que propone el taller. -->
+- [ ] B) El taller es adecuado, porque la ciencia no aplica a la vida diaria
+  <!-- feedback: Afirmas que la ciencia no aplica a la vida diaria, cuando el método ilustrado mostró justamente que el conocimiento sirve para mejorar la vida. -->
+- [x] C) El taller contradice el pensamiento ilustrado al presentar la tradición como superior a la razón
+  <!-- feedback: El juicio es sólido porque el criterio ilustrado era justamente el contrario: examinar la tradición con la razón y la experiencia. -->
+- [ ] D) El taller es neutral, porque presenta dos posiciones sin favorecer ninguna
+  <!-- feedback: No es neutral, porque declara explícitamente que una postura es superior y por eso no presenta posiciones equivalentes. -->
+
+### Explicacion Pedagogica
+Evaluar un material educativo exige medirlo con los criterios del tema. Un taller que declara la tradición superior a la razón se aparta de la Ilustración, cuya propuesta era examinar y contrastar ambas con la experiencia.
