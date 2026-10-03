@@ -87,7 +87,7 @@ Los seres vivos de un ecosistema dependen unos de otros y de los elementos sin v
 - [ ] C) Soltar un animal que recogió en el camino para devolverlo al bosque
   <!-- feedback: Incorrecto. Soltar un animal también es una intervención: ese animal puede ser de otra región y llega como especie ajena al ecosistema del parque. -->
 - [ ] D) Recoger piedras y ramas del suelo para llevarlas como recuerdo
-  <!-- feedback: Incorrecto. Las ramas se descomponen y alimentan lo que crece: llevárselas quita al suelo la materia organica que necesita para ser fertile. -->
+  <!-- feedback: Incorrecto. Las ramas se descomponen y alimentan lo que crece: llevárselas quita al suelo la materia orgánica que necesita para ser fértil. -->
 
 ### Explicacion Pedagogica
 Visitar un parque natural significa ser invitado, no dueño del lugar. La regla práctica es dejar cada cosa donde se la encontró: no sacar plantas, no soltar animales, no tomar rocas ni ramas. Esa conducta conserva las relaciones que sostienen la vida del bosque y permite que otras personas disfruten el mismo ecosistema más adelante.
