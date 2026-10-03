@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-9-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.472Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v1",
+      "statement": "Observa la palabra \"cafetera\".\n\n¿Cómo se separa en sílabas?",
+      "context": "Separación de una palabra de uso cotidiano.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Caf-ete-ra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera sílaba es \"ca\", porque \"caf\" no se puede pronunciar solo: toda sílaba debe contener una vocal."
+        },
+        {
+          "letter": "B",
+          "text": "Caf-e-te-ra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera sílaba no es \"caf\": una sílaba siempre necesita una vocal, así que \"caf\" por sí solo no forma una sílaba válida."
+        },
+        {
+          "letter": "C",
+          "text": "Ca-fe-te-ra",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra se divide en cuatro sílabas terminadas en vocal abierta: ca, fe, te y ra."
+        },
+        {
+          "letter": "D",
+          "text": "Cafete-ra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste tres vocales juntas sin que formen diptongo, y en ese caso cada vocal abre su propia sílaba."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Para separar una palabra en sílabas hay que recordar que toda sílaba contiene una vocal. En esta palabra ninguna pareja de vocales consecutivas forma diptongo, así que cada vocal abre una sílaba. Dominar esta regla evita cortes imposibles al escribir. Un buen lector comprueba siempre que cada grupo quede con su vocal.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Textual",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v2",
+      "statement": "En la palabra \"semilla\", ¿cuántas sílabas tiene y cuántas vocales tiene?",
+      "context": "Conteo de sílabas y vocales en una palabra concreta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dos sílabas y tres vocales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra tiene tres sílabas, no dos; la sílaba \"lla\" ocupa un lugar completo en la división."
+        },
+        {
+          "letter": "B",
+          "text": "Tres sílabas y dos vocales",
+          "is_correct": false,
+          "feedback": "Incorrecto. En \"semilla\" hay tres vocales, la e, la i y la a; lo que se confunde es si la ll forma una o dos sílabas."
+        },
+        {
+          "letter": "C",
+          "text": "Cuatro sílabas y tres vocales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La combinación \"ll\" no se separa en dos sílabas, así que la palabra tiene tres, no cuatro."
+        },
+        {
+          "letter": "D",
+          "text": "Tres sílabas y tres vocales\n  \n cuatro. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra se lee se-mi-lla, así que tiene tres sílabas y también tres vocales, porque cada sílaba contiene una."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En español, el número de sílabas y el número de vocales suelen coincidir. Reconocer que la ll no separa sílaba ayuda a contar bien y a no equivocarse al dividir. Saber contar sílabas es el primer paso para aplicar las reglas de separación silábica.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v3",
+      "statement": "Observa la palabra \"antirrobo\".\n\n¿Cómo se separa correctamente",
+      "context": "Separación de una palabra con prefijo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-rro-bo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejarías la sílaba \"anti\" sin la vocal que la cierra, y toda sílaba debe terminar en vocal, así que esa división no es válida."
+        },
+        {
+          "letter": "B",
+          "text": "An-ti-rro-bo",
+          "is_correct": true,
+          "feedback": "Correcto. La palabra se divide en cuatro sílabas, an, ti, rro y bo, porque la doble erre se mantiene junta dentro de la misma sílaba."
+        },
+        {
+          "letter": "C",
+          "text": "An-tir-ro-bo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separaste la doble erre en dos sílabas, pero la erre doble siempre se mantiene dentro de una sola sílaba."
+        },
+        {
+          "letter": "D",
+          "text": "An-ti-rr-o-bo\n  \na poder pronunciarse. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejaste una sílaba sin vocal, algo imposible: toda sílaba necesita una vocal para poder pronunciarse."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Dos reglas explican por qué esta palabra se separa como se separa: toda sílaba termina en vocal y la doble erre no se divide. Aplicar ambas al mismo tiempo permite encontrar la división correcta sin dudar. Conocer estas reglas hace más seguro cualquier ejercicio de separación silábica.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v4",
+      "statement": "Observa la palabra \"café\".\n\nLleva tilde porque el sonido q",
+      "context": "Uso de la tilde en una palabra con sílaba cerrada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La vocal abierta a",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vocal abierta a se escribe sin tilde, como en \"casa\"; en \"café\" el sonido es el de la vocal cerrada tilde."
+        },
+        {
+          "letter": "B",
+          "text": "Una sílaba cerrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tilde no indica una sílaba cerrada, sino que la vocal suena cerrada: la e tildada es una vocal cerrada, no una sílaba cerrada."
+        },
+        {
+          "letter": "C",
+          "text": "La vocal cerrada tilde",
+          "is_correct": true,
+          "feedback": "Correcto. El acento escrito \"é\" representa la vocal cerrada tilde, así que \"café\" se escribe con tilde para indicar ese sonido."
+        },
+        {
+          "letter": "D",
+          "text": "La letra \"f\" del medio\n  \npara señalar una letra consonante. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tilde no marca ninguna consonante; se coloca sobre la vocal para indicar cómo suena, no para señalar una letra consonante."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En español, las vocales tildadas representan siempre las vocales cerradas: é, í y ó. La e de \"café\" suena cerrada, y por eso se escribe con tilde. Conocer este vínculo entre la tilde y las vocales cerradas ayuda a escribir bien palabras como \"café\" o \"sofá\". La tilde nunca se coloca en una consonante.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v5",
+      "statement": "Observa las letras \"b\" y \"v\".\n\n¿Cuál es la diferen",
+      "context": "Diferencia de sonido entre dos letras parecidas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La \"b\" suena con la boca cerrada y la \"v\" con los dientes apoyados en el labio inferior",
+          "is_correct": true,
+          "feedback": "Correcto. La \"b\" es oclusiva y se pronuncia cerrando la boca; la \"v\" es fricativa y se pronuncia apoyando los dientes en el labio inferior."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos suenan exactamente igual en todo el español",
+          "is_correct": false,
+          "feedback": "Incorrecto. En el español de Colombia las dos letras suenan distinto: la b cierra la boca y la v acerca los dientes al labio."
+        },
+        {
+          "letter": "C",
+          "text": "La \"b\" siempre suena como la \"p\" y la \"v\" como la \"f\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso describe sus versiones suaves, pero no es la diferencia general entre las dos letras."
+        },
+        {
+          "letter": "D",
+          "text": "La \"v\" solo se usa en palabras extranjeras\n  \nlabras comunes como \"vaca\", \"verde\" o \"viento\". -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La \"v\" es propia del español y aparece en palabras comunes como \"vaca\", \"verde\" o \"viento\"."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Conocer el modo de articular cada sonido ayuda a leer y a escribir correctamente. La \"b\" y la \"v\" se parecen en la escritura, pero se articulan de manera distinta. Esa diferencia se nota, por ejemplo, al comparar \"vaca\" con \"baca\". Los sonidos se explican con la posición de los labios y la lengua, no solo con la letra escrita.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v6",
+      "statement": "Observa la palabra \"familiares\".\n\n¿Cuál de estas sepa",
+      "context": "Análisis de la estructura silábica de una palabra polisilábica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fa-mi-li-a-res",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al separar \"í\" y \"a\" en dos sílabas, cada una queda como sílaba abierta, lo que contradice que en esa palabra son cerradas."
+        },
+        {
+          "letter": "B",
+          "text": "Fa-milia-res",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa división separa una sílaba que termina en vocal cerrada sin la vocal abierta que debe acompañarla, así que no respeta la regla."
+        },
+        {
+          "letter": "C",
+          "text": "Fa-mi-li-a-re-s",
+          "is_correct": false,
+          "feedback": "Incorrecto. Separaste la sílaba final \"res\" en dos y dejaste una sílaba \"s\" sin vocal, lo cual es imposible."
+        },
+        {
+          "letter": "D",
+          "text": "Fa-mi-lia-res\n  \nos y dejaste una sílaba \"s\" sin vocal, lo cual es imposible. -->",
+          "is_correct": true,
+          "feedback": "Correcto. Las vocales \"í\" y \"a\" de la sílaba \"lia\" son las dos vocales cerradas de la palabra y se escriben juntas: fa, mi, lia, res."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar una palabra larga exige aplicar las reglas una por una y no saltarse ninguna. Aquí, las vocales cerradas de \"familiares\" son la \"í\" y la \"a\", y por eso forman parte de la misma sílaba. Verificar las tres reglas al mismo tiempo evita la mayoría de los errores de separación. Un análisis ordenado es la mejor estrategia en estos ejercicios.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Textual",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v7",
+      "statement": "Lee el texto.\n\n\"En septiembre llegué a Bogotá. Cada mañana tomo el bus por la avenida principal y llego al trabajo a tiempo. En el CENTRO de la ciudad hay una plaza grande.\"\n\n¿Qué",
+      "context": "Revisión de un texto con errores de uso de mayúsculas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"septiembre\" debería ir en minúscula porque los meses son nombres comunes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los nombres de los meses sí se consideran nombres propios y se escriben con mayúscula inicial."
+        },
+        {
+          "letter": "B",
+          "text": "\"septiembre\" y \"Bogotá\" están bien con mayúscula, pero \"centro\" no debe llevarla porque no es un nombre propio",
+          "is_correct": true,
+          "feedback": "Correcto. Los nombres de mes y de ciudad sí llevan mayúscula, pero \"centro\" es un sustantivo común y por eso va con mayúscula solo al iniciar la oración."
+        },
+        {
+          "letter": "C",
+          "text": "\"de\" debería llevar mayúscula porque sigue al nombre propio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las preposiciones que unen el nombre propio con el resto de la frase van en minúscula, así que \"de\" está bien escrito."
+        },
+        {
+          "letter": "D",
+          "text": "\"trabajo\" debería llevar mayúscula porque es una palabra importante\n  \nula; solo los nombres propios y los inicios de oración van con mayúscula. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La importancia de una palabra no se marca con mayúscula; solo los nombres propios y los inicios de oración van con mayúscula."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Revisar la ortografía de un texto significa aplicar reglas concretas, como la del uso de las mayúsculas. Los nombres de ciudad y de mes siempre llevan mayúscula inicial, y las palabras comunes van en minúscula. Aplicar esa regla con criterio permite corregir textos propios y ajenos. Reconocer qué palabras son nombres propios es el primer paso.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle-v8",
+      "statement": "Lee las dos versiones.\n\n\"Versión 1: En el salón hay treinta y cinco niños jugando.\nVersión 2: En el salón hay",
+      "context": "Evaluación de dos versiones de una misma oración.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos versiones están bien, porque el significado se entiende en los dos casos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Que el significado se entienda no vuelve correcto a un texto que mezcla dos idiomas en la misma oración."
+        },
+        {
+          "letter": "B",
+          "text": "La versión 2 está mejor, porque los números en inglés son más cortos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad de una palabra no justifica mezclarla con otro idioma; en español se escribe \"treinta\" y el verbo es \"jugando\"."
+        },
+        {
+          "letter": "C",
+          "text": "La versión 1 está bien escrita porque usa el número con letra y el verbo en su forma correcta; la versión 2 mezcla idiomas",
+          "is_correct": true,
+          "feedback": "Correcto. La primera versión escribe el número con letra y conjuga bien el verbo; la segunda intercala palabras en inglés dentro de una oración en español."
+        },
+        {
+          "letter": "D",
+          "text": "La versión 1 está mal, porque los números deben escribirse siempre con cifras\n  \niben con letra, así que \"treinta y cinco\" es la forma correcta de escribir ese número. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. En español los números menores de cien se escriben con letra, así que \"treinta y cinco\" es la forma correcta de escribir ese número."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar la escritura propia exige reconocer dos reglas básicas: escribir en un solo idioma y escribir los números menores de cien con letra. Aquí, la primera versión cumple las dos y la segunda ninguna. Saber aplicar esas reglas permite evaluar con seguridad lo que escriben otros. Es un criterio que sirve tanto para trabajos escolares como para mensajes del día a día.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

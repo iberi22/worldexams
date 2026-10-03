@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-5-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.156Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de los dos materiales se comporta como un líquido y por qué?",
+      "context": "En una tienda de barrio en Pereira, una niña observa un vaso con agua y una piedra sobre el mostrador.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La piedra, porque ocupa un lugar fijo y nunca cambia de forma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piedra es un sólido: conserva su forma y su volumen, así que no se comporta como un líquido."
+        },
+        {
+          "letter": "B",
+          "text": "El agua, porque tiene volumen propio y adopta la forma del vaso que la contiene",
+          "is_correct": true,
+          "feedback": "Correcto. El agua es un líquido: conserva su volumen pero toma la forma del recipiente, y por eso se ve distinta en un vaso o en una botella."
+        },
+        {
+          "letter": "C",
+          "text": "La piedra, porque se puede verter de un recipiente a otro sin cambiar",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piedra no se puede verter; permanece en el mismo lugar y no fluye como lo hacen los líquidos."
+        },
+        {
+          "letter": "D",
+          "text": "El agua, porque no ocupa espacio ni tiene peso dentro del vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua sí ocupa espacio y sí tiene peso; lo que no tiene es forma propia, y por eso se adapta al vaso."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los líquidos son una de las formas en que se presenta la materia. Su característica principal es que conservan el volumen, pero no la forma: adoptan la forma del recipiente que los contiene. El agua, el aceite, la miel y el jugo son líquidos y por eso fluyen y se acomodan. La piedra, en cambio, es un sólido que mantiene su forma aunque se cambie de lugar.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v2",
+      "statement": "¿Qué ocurre con el jugo al cambiar de recipiente?",
+      "context": "En una cocina de Barranquilla, una mamá pasa el jugo de una jarra ancha a una botella de cuello angosto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El jugo conserva la forma de la jarra aunque esté dentro de la botella",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jugo no conserva la forma de la jarra; al verterlo toma la forma del nuevo recipiente que lo contiene."
+        },
+        {
+          "letter": "B",
+          "text": "El jugo se comprime y reduce su volumen para entrar en la botella",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los líquidos casi no se comprimen; el jugo entra porque se adapta a la forma, no porque reduzca su volumen."
+        },
+        {
+          "letter": "C",
+          "text": "El jugo se convierte en un sólido al tocar las paredes de la botella",
+          "is_correct": false,
+          "feedback": "Incorrecto. El jugo sigue siendo líquido dentro de la botella; cambiar de recipiente no cambia su estado."
+        },
+        {
+          "letter": "D",
+          "text": "El jugo toma la forma de la botella porque sus partículas se deslizan unas sobre otras",
+          "is_correct": true,
+          "feedback": "Correcto. En los líquidos las partículas están unidas pero pueden deslizarse, y por eso el jugo se acomoda a la forma del recipiente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Un líquido no tiene forma propia porque sus partículas se mueven y se deslizan unas sobre otras. Esa libertad de movimiento hace que el jugo llene la jarra o la botella según el recipiente. El volumen, en cambio, se mantiene igual: la misma cantidad de jugo ocupa el mismo espacio aunque cambie la forma del envase.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál instrumento debe usar el grupo para medir el volumen del agua?",
+      "context": "En el laboratorio de un colegio de Manizales, un grupo necesita medir cuánta agua hay en un frasco.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La probeta graduada, porque sus marcas miden el volumen del líquido",
+          "is_correct": true,
+          "feedback": "Correcto. La probeta es un instrumento graduado que sirve para medir el volumen de un líquido, y por eso es la elección adecuada."
+        },
+        {
+          "letter": "B",
+          "text": "La balanza, porque mide cuánta materia tiene el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. La balanza mide masa, no volumen; con ella sabrías cuánto pesa el agua, pero no cuánto espacio ocupa."
+        },
+        {
+          "letter": "C",
+          "text": "El termómetro, porque indica qué tan fría está el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El termómetro mide temperatura; la temperatura no dice cuánto volumen de agua hay en el frasco."
+        },
+        {
+          "letter": "D",
+          "text": "La regla, porque mide cuánto mide el frasco por fuera",
+          "is_correct": false,
+          "feedback": "Incorrecto. La regla mide longitud; el largo del frasco no equivale al volumen del agua que contiene."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Medir es comparar una cantidad con un patrón establecido. Para el volumen de un líquido se usan recipientes graduados, como la probeta o la taza medidora, que tienen marcas de mililitros o litros. La masa se mide con la balanza, la temperatura con el termómetro y la longitud con la regla. Elegir el instrumento correcto es el primer paso de una buena indagación.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v4",
+      "statement": "La miel tarda mucho más en escurrir que el agua. ¿Qué explica esa diferencia?",
+      "context": "En un puesto de comidas de Bucaramanga, un cocinero compara la miel y el agua al servir dos cucharadas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La miel está más caliente que el agua y por eso se pega a la cuchara",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no es la causa principal aquí; la miel es espesa aunque esté a la misma temperatura del agua."
+        },
+        {
+          "letter": "B",
+          "text": "La miel tiene menos volumen que el agua y por eso se demora más",
+          "is_correct": false,
+          "feedback": "Incorrecto. El volumen no determina la velocidad con que fluye un líquido; esa diferencia depende de cómo se deslizan sus partículas."
+        },
+        {
+          "letter": "C",
+          "text": "La miel fluye más despacio porque sus partículas se deslizan con más dificultad que las del agua",
+          "is_correct": true,
+          "feedback": "Correcto. Cuanto más juntas y enredadas están las partículas, más cuesta que el líquido fluya, y por eso la miel escurre lentamente."
+        },
+        {
+          "letter": "D",
+          "text": "La miel no es un líquido porque no se puede verter de la cuchara",
+          "is_correct": false,
+          "feedback": "Incorrecto. La miel sí es un líquido: fluye y adopta la forma del recipiente, solo que lo hace mucho más despacio que el agua."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Todos los líquidos fluyen, pero no todos lo hacen con la misma facilidad. La miel, el aceite y el jarabe son más espesos que el agua porque sus partículas se deslizan con más dificultad. Esa resistencia a fluir se relaciona con la viscosidad. Comparar cómo escurren dos líquidos permite describir sus propiedades sin confundir la velocidad de flujo con el volumen o la temperatura.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v5",
+      "statement": "¿Qué le ocurrió al agua de la ropa?",
+      "context": "En una casa de Ibagué, una familia tiende ropa mojada en el patio al mediodía y por la tarde está seca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se convirtió en un sólido dentro de las fibras de la tela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al secarse, el agua no se vuelve sólido; pasa al estado gaseoso y se mezcla con el aire."
+        },
+        {
+          "letter": "B",
+          "text": "El agua se evaporó: pasó a vapor y se mezcló con el aire",
+          "is_correct": true,
+          "feedback": "Correcto. Con el calor del sol, el agua líquida se transforma en vapor y sube al aire, y por eso la ropa queda seca."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se escondió entre las fibras de la tela y sigue allí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el agua siguiera en la tela, la ropa estaría mojada; el secado ocurre porque el agua abandona la tela como vapor."
+        },
+        {
+          "letter": "D",
+          "text": "El agua se transformó en calor y desapareció sin dejar rastro",
+          "is_correct": false,
+          "feedback": "Incorrecto. La materia no desaparece; el agua cambia de estado y pasa al aire en forma de vapor de agua."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La evaporación es el paso del estado líquido al estado gaseoso. Ocurre cuando el agua recibe calor, por ejemplo del sol o del ambiente, y sus partículas ganan energía y escapan al aire como vapor. Por eso la ropa mojada se seca y los charcos desaparecen después de un día caluroso. El agua no se destruye: cambia de estado y se mezcla con el aire.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v6",
+      "statement": "Sin importar cómo se incline el bus, la superficie del agua queda horizontal. ¿Por qué ocurre?",
+      "context": "En un bus que sube hacia un mirador de Armenia, un niño lleva una botella abierta con agua y nota que el agua se mueve al inclinarse el vehículo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la superficie del líquido se acomoda horizontal por efecto de la fuerza que la atrae hacia abajo",
+          "is_correct": true,
+          "feedback": "Correcto. La gravedad tira del líquido hacia abajo, y por eso su superficie siempre busca quedar plana y horizontal."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua no puede inclinarse, ya que en realidad es un sólido disfrazado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua es un líquido y sí se mueve; lo que ocurre es que su superficie se reacomoda hasta quedar horizontal."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el aire de la botella empuja el agua hacia las paredes del envase",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire ocupa el espacio libre, pero no es la causa de que la superficie quede horizontal; eso se debe a la gravedad."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua se pega al vidrio y mantiene la posición del bus",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se pega al vidrio ni conserva la inclinación; fluye hasta que su superficie vuelve a quedar plana."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La superficie de un líquido en reposo siempre tiende a quedar horizontal. Esto ocurre porque la gravedad atrae las partículas hacia abajo y ellas se acomodan hasta alcanzar el nivel más bajo posible. Cuando se inclina el recipiente, el líquido fluye hasta que su superficie vuelve a quedar plana. Esa propiedad explica por qué el agua de un vaso inclinado no se derrama de inmediato si el borde es alto.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v7",
+      "statement": "El aceite queda siempre sobre el agua. ¿Cuál es la mejor explicación?",
+      "context": "En una cocina de Santa Marta, una persona mezcla aceite y agua en un frasco y observa que se separan en dos capas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aceite pesa más que el agua y por eso se va al fondo del frasco",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si el aceite pesara más que el agua, se hundiría; como queda arriba, es menos denso y no se va al fondo."
+        },
+        {
+          "letter": "B",
+          "text": "El aceite se disuelve en el agua y los dos forman una sola capa",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aceite y el agua no se mezclan; se separan en dos capas bien definidas en lugar de formar una sola."
+        },
+        {
+          "letter": "C",
+          "text": "El agua empuja el aceite hacia arriba porque el agua está más fría",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no decide qué líquido queda arriba; la posición depende de la densidad de cada líquido."
+        },
+        {
+          "letter": "D",
+          "text": "El aceite es menos denso que el agua, por eso flota y forma la capa de arriba",
+          "is_correct": true,
+          "feedback": "Correcto. El líquido menos denso flota sobre el más denso, y como el aceite es menos denso que el agua, queda en la capa superior."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cuando dos líquidos que no se mezclan se juntan, se acomodan según su densidad: el menos denso queda arriba y el más denso abajo. El aceite es menos denso que el agua, por eso flota y forma una capa separada. Esta propiedad se observa también al poner una piedra en agua, pues la piedra, más densa, se hunde. Comparar densidades permite predecir qué flota y qué se hunde.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál experimento demuestra mejor esa propiedad?",
+      "context": "En un colegio de Villavicencio, un equipo quiere demostrar que un líquido adopta la forma del recipiente.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Poner una piedra en tres frascos distintos y observar que siempre se ve igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. La piedra es un sólido y conserva su forma en los tres frascos, así que el experimento no demuestra nada sobre los líquidos."
+        },
+        {
+          "letter": "B",
+          "text": "Medir con una balanza cuánto pesa el agua que cabe en un vaso",
+          "is_correct": false,
+          "feedback": "Incorrecto. La balanza mide masa, no forma; este experimento diría cuánto pesa el agua, pero no si cambia de forma."
+        },
+        {
+          "letter": "C",
+          "text": "Verter la misma agua en un vaso alto, en un plato y en una botella, y observar que en cada uno toma una forma diferente",
+          "is_correct": true,
+          "feedback": "Correcto. Al cambiar de recipiente, el agua adopta cada forma, y por eso el montaje demuestra la propiedad que se quiere probar."
+        },
+        {
+          "letter": "D",
+          "text": "Calentar el agua hasta que hierva y observar el vapor que sale",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese experimento muestra la evaporación, un cambio de estado, y no la capacidad del líquido de adoptar la forma del recipiente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen experimento aísla la propiedad que se quiere demostrar. Para probar que un líquido adopta la forma del recipiente, conviene verter la misma cantidad en envases de formas muy distintas y comparar. Si el agua cambia de forma en cada uno, la conclusión queda respaldada por la observación. Medir masa, longitud o temperatura responde a otras preguntas y no sirve para demostrar esta propiedad.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W05-los-liquidos-y-su-comportamiento-001-MASTERY-bundle",
+      "periodo": 5,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

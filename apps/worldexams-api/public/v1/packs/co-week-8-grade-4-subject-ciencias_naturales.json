@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-8-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.156Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es una mezcla?",
+      "context": "En el mercado de Paloquemao, en Bogotá, una vendedora revuelve arroz y frijoles en un mismo canasto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia pura que tiene un solo componente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sustancia pura tiene un solo componente; una mezcla reúne dos o más sustancias diferentes."
+        },
+        {
+          "letter": "B",
+          "text": "Un cambio químico que transforma los materiales en otros nuevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un cambio químico crea sustancias nuevas; en una mezcla cada sustancia conserva sus propiedades."
+        },
+        {
+          "letter": "C",
+          "text": "La unión de dos o más sustancias que conservan sus propiedades",
+          "is_correct": true,
+          "feedback": "Correcto. En una mezcla las sustancias se juntan sin transformarse, y cada una mantiene sus propiedades."
+        },
+        {
+          "letter": "D",
+          "text": "Un líquido que siempre se ve transparente",
+          "is_correct": false,
+          "feedback": "Incorrecto. No todas las mezclas son líquidas ni transparentes; el arroz con frijoles es una mezcla y se ve a simple vista."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una mezcla se forma cuando se juntan dos o más sustancias sin que ocurra una transformación química. Cada sustancia conserva sus propiedades, como el arroz y el frijol en el mismo canasto. Por eso una mezcla se puede separar por métodos físicos. Distinguirla de una sustancia pura y de un cambio químico ayuda a entender la materia.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v2",
+      "statement": "El chocolate disuelto en la leche forma una mezcla homogénea porque...",
+      "context": "En una tienda de Manizales, un niño prepara chocolate disolviéndolo en leche caliente hasta que no se ven grumos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sus componentes se reparten de manera uniforme y no se distinguen a simple vista",
+          "is_correct": true,
+          "feedback": "Correcto. En una mezcla homogénea los componentes se distribuyen de forma uniforme y se ven como una sola sustancia."
+        },
+        {
+          "letter": "B",
+          "text": "sus componentes se pueden ver separados a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver los componentes separados es propio de una mezcla heterogénea, como el agua con arena."
+        },
+        {
+          "letter": "C",
+          "text": "deja de ser una mezcla y se convierte en una sustancia pura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Disolver no crea una sustancia pura; sigue siendo una mezcla, solo que uniforme."
+        },
+        {
+          "letter": "D",
+          "text": "el chocolate se hunde en el fondo y forma dos capas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si formara dos capas sería una mezcla heterogénea; al disolverse bien se ve una sola fase."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una mezcla homogénea tiene sus componentes repartidos de manera uniforme, así que no se distinguen a simple vista y parece una sola sustancia. El chocolate disuelto en la leche es un ejemplo, igual que el agua con sal. En cambio, una mezcla heterogénea, como el agua con arena, muestra sus componentes separados. Reconocer la diferencia ayuda a elegir el método para separar sus partes.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v3",
+      "statement": "¿Qué método conviene para separar la arena del agua?",
+      "context": "En un colegio de Ibagué, un grupo mezcla arena con agua y quiere recuperar la arena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Echar la mezcla en un imán para atraer la arena",
+          "is_correct": false,
+          "feedback": "Incorrecto. El imán solo atrae metales como el hierro; la arena no es magnética y no se adhiere."
+        },
+        {
+          "letter": "B",
+          "text": "Pasar la mezcla por un filtro que retenga la arena y deje pasar el agua",
+          "is_correct": true,
+          "feedback": "Correcto. La filtración retiene las partículas sólidas, como la arena, y deja pasar el líquido."
+        },
+        {
+          "letter": "C",
+          "text": "Calentar la mezcla hasta que la arena se derrita",
+          "is_correct": false,
+          "feedback": "Incorrecto. La arena no se derrite con el calor de una estufa escolar y, además, el calor no separa así una mezcla."
+        },
+        {
+          "letter": "D",
+          "text": "Agitar la mezcla hasta que la arena desaparezca",
+          "is_correct": false,
+          "feedback": "Incorrecto. Agitar solo suspende la arena un momento; no la separa del agua ni la hace desaparecer."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La filtración separa un sólido insoluble de un líquido usando un filtro, que retiene las partículas sólidas y deja pasar el líquido. Es el método adecuado para separar arena y agua. Otros métodos, como la imantación, sirven solo si una de las sustancias es metálica. Elegir el método según las propiedades de los componentes es clave para separar una mezcla.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v4",
+      "statement": "En esta solución, ¿cuál es el soluto y cuál el solvente?",
+      "context": "En una casa de Bucaramanga, una abuela disuelve una panela en agua para preparar agua de panela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua es el soluto y la panela el solvente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Es al revés: el soluto es la panela que se disuelve y el solvente es el agua que disuelve."
+        },
+        {
+          "letter": "B",
+          "text": "La panela y el agua son solutos, porque las dos se disuelven",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo la panela se disuelve; el agua actúa como solvente, no como soluto."
+        },
+        {
+          "letter": "C",
+          "text": "No hay soluto ni solvente, porque la panela es sólida",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una solución puede tener un soluto sólido; el estado de la panela no impide que se disuelva."
+        },
+        {
+          "letter": "D",
+          "text": "El soluto es la panela que se disuelve y el solvente es el agua que la disuelve",
+          "is_correct": true,
+          "feedback": "Correcto. El soluto es la sustancia que se disuelve, la panela, y el solvente es el agua que la disuelve."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una solución, el soluto es la sustancia que se disuelve y el solvente es la sustancia que disuelve, generalmente la que está en mayor cantidad. En el agua de panela, la panela es el soluto y el agua es el solvente. El soluto puede ser sólido, líquido o gaseoso. Identificar ambos componentes permite describir y comparar soluciones.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Quimica",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el método más rápido para separar las limaduras de hierro del aserrín?",
+      "context": "En un taller de Armenia, un mecánico barre limaduras de hierro que se mezclaron con aserrín de madera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acercar un imán, porque atrae solo las limaduras de hierro",
+          "is_correct": true,
+          "feedback": "Correcto. El imán atrae el hierro y deja el aserrín, que no es magnético, así que separa la mezcla con facilidad."
+        },
+        {
+          "letter": "B",
+          "text": "Echar la mezcla en agua, porque el aserrín se disuelve y el hierro no",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aserrín no se disuelve en agua; flota, y el hierro se hunde, así que el agua no los separa bien."
+        },
+        {
+          "letter": "C",
+          "text": "Calentar la mezcla hasta que el aserrín se queme",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar el aserrín destruye una de las sustancias y no es un método de separación."
+        },
+        {
+          "letter": "D",
+          "text": "Soplar la mezcla para que el hierro salga volando",
+          "is_correct": false,
+          "feedback": "Incorrecto. El soplido mueve el aserrín liviano, no el hierro, así que no logra separar las limaduras."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La imantación separa sustancias magnéticas, como el hierro, de otras que no lo son, como el aserrín. Es un método rápido y no destruye los materiales. Cada método de separación aprovecha una propiedad distinta: la filtración usa el tamaño, la evaporación usa el punto de ebullición y la imantación usa el magnetismo. Conocer estas propiedades permite elegir el método adecuado.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la mejor explicación de lo que ocurrió?",
+      "context": "En una cocina de Santa Marta, una niña echa cucharadas de azúcar en un vaso de agua y, después de un rato, el azúcar ya no se disuelve y se acumula en el fondo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El agua se dañó y por eso dejó de disolver el azúcar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se daña; lo que ocurre es que ya no puede disolver más azúcar a esa temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "El azúcar cambió de color y por eso ya no se disuelve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color del azúcar no cambia; lo que cambia es la cantidad de azúcar que el agua puede admitir."
+        },
+        {
+          "letter": "C",
+          "text": "El agua se saturó, es decir, ya no admite más azúcar disuelta a esa temperatura",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el solvente admite el máximo de soluto a esa temperatura, la solución se satura y el exceso queda sin disolver."
+        },
+        {
+          "letter": "D",
+          "text": "El vaso estaba sucio y por eso el azúcar se fue al fondo",
+          "is_correct": false,
+          "feedback": "Incorrecto. La suciedad del vaso no explica el fondo de azúcar; la causa es que el agua ya estaba saturada."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cada cantidad de agua puede disolver una cantidad máxima de soluto a una temperatura dada. Cuando se alcanza ese límite, la solución se satura y el soluto extra se acumula sin disolverse. En el ejemplo, el azúcar que queda en el fondo indica que el agua ya estaba saturada. Si se calienta el agua, suele poder disolver más azúcar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál afirmación compara correctamente las dos mezclas?",
+      "context": "En un laboratorio escolar de Villavicencio, dos estudiantes comparan un vaso con agua y aceite y otro con agua y sal bien disuelta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Las dos mezclas son homogéneas porque ambas son líquidas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ser líquidas no las hace homogéneas; el agua con aceite muestra dos fases y es heterogénea."
+        },
+        {
+          "letter": "B",
+          "text": "El agua con aceite es heterogénea y el agua con sal es homogénea",
+          "is_correct": true,
+          "feedback": "Correcto. El agua con aceite forma dos capas visibles, y el agua con sal se ve uniforme porque la sal se disolvió."
+        },
+        {
+          "letter": "C",
+          "text": "El agua con sal es heterogénea porque la sal se ve a simple vista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sal disuelta no se ve a simple vista; por eso el agua con sal es homogénea, no heterogénea."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos mezclas son heterogéneas porque tienen más de un componente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener varios componentes no basta para ser heterogénea; el agua con sal es uniforme y por eso es homogénea."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una mezcla es homogénea cuando sus componentes se reparten de forma uniforme y no se distinguen a simple vista, como el agua con sal. Es heterogénea cuando se distinguen dos o más fases, como el agua con aceite, que forma capas. El número de componentes no define el tipo de mezcla; lo que importa es si se ven fases separadas. Esta comparación ayuda a elegir cómo separar cada mezcla.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál procedimiento permite recuperar ambas sustancias?",
+      "context": "En un colegio de Pasto, un equipo recibe una mezcla de agua, sal y arena, y debe recuperar por separado la sal y la arena.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calentar la mezcla hasta que toda el agua se convierta en vapor y anotar lo que queda",
+          "is_correct": false,
+          "feedback": "Incorrecto. Al evaporar toda el agua quedarían sal y arena juntas, así que no se recuperan por separado."
+        },
+        {
+          "letter": "B",
+          "text": "Pasar la mezcla por un filtro y recoger el líquido que sale",
+          "is_correct": false,
+          "feedback": "Incorrecto. El filtro retiene la arena, pero la sal queda disuelta en el agua y no se recupera como sólido."
+        },
+        {
+          "letter": "C",
+          "text": "Acercar un imán a la mezcla para atraer la sal y luego la arena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ni la sal ni la arena son magnéticas, así que el imán no separa ninguna de las dos."
+        },
+        {
+          "letter": "D",
+          "text": "Filtrar primero para retener la arena y luego evaporar el agua para obtener la sal",
+          "is_correct": true,
+          "feedback": "Correcto. La filtración separa la arena, y la evaporación del agua deja la sal como residuo sólido."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para separar una mezcla de varias sustancias se combinan métodos según sus propiedades. La filtración retiene la arena, que no se disuelve, y la evaporación del agua deja la sal disuelta como sólido. Así se recuperan las dos sustancias por separado. Planear una secuencia de métodos permite resolver separaciones más complejas que una sola técnica no logra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W08-las-mezclas-y-las-soluciones-001-MASTERY-bundle",
+      "periodo": 8,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

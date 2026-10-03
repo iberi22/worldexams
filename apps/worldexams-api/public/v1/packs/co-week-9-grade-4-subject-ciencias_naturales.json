@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-9-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.157Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es la energía?",
+      "context": "En una casa de Medellín, un niño enciende la luz de su cuarto al anochecer.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una sustancia que se puede guardar en un frasco",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no es una sustancia material; no se guarda en frascos, se transfiere y se transforma."
+        },
+        {
+          "letter": "B",
+          "text": "La capacidad de un cuerpo para producir cambios o realizar un trabajo",
+          "is_correct": true,
+          "feedback": "Correcto. La energía es la capacidad de producir cambios, como iluminar, mover o calentar."
+        },
+        {
+          "letter": "C",
+          "text": "Un objeto que solo aparece cuando hay electricidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no es un objeto ni depende solo de la electricidad; también existe en el calor, el movimiento y la luz."
+        },
+        {
+          "letter": "D",
+          "text": "El peso que tiene un cuerpo en la Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El peso es una fuerza que depende de la masa y la gravedad; no es lo mismo que la energía."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La energía es la capacidad de producir cambios o realizar un trabajo. Se manifiesta cuando algo se mueve, se calienta, se ilumina o emite sonido. No es una sustancia material, sino una propiedad que se transfiere de un cuerpo a otro. Por eso decimos que la energía se transforma y se transporta.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.91,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v2",
+      "statement": "¿De dónde obtiene el panel solar la energía que transforma?",
+      "context": "En una finca de Pereira, una familia usa un panel solar para cargar una linterna y también para calentar agua.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "De la batería de la linterna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La batería almacena energía, pero no es la fuente del panel; el panel la recibe del Sol."
+        },
+        {
+          "letter": "B",
+          "text": "Del agua que circula por los tubos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua transporta el calor, pero no es la fuente de energía del panel solar."
+        },
+        {
+          "letter": "C",
+          "text": "Del movimiento del viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento es otra fuente de energía, la eólica; el panel solar no lo utiliza."
+        },
+        {
+          "letter": "D",
+          "text": "De la luz del Sol, que llega en forma de radiación",
+          "is_correct": true,
+          "feedback": "Correcto. El panel solar capta la radiación del Sol y la transforma en electricidad o en calor."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los paneles solares captan la energía radiante que llega del Sol y la transforman en electricidad o en calor. El Sol es una fuente de energía renovable, porque su luz llega todos los días. Otras fuentes, como el viento o el agua en movimiento, también producen energía, pero por mecanismos distintos. Reconocer la fuente permite entender cada transformación.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v3",
+      "statement": "¿Qué transformaciones de energía ocurren en esta situación?",
+      "context": "En una cocina de Cúcuta, una olla con agua hierve sobre la estufa y el vapor mueve la tapa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La energía química del gas se transforma en calor, y el calor en movimiento de la tapa",
+          "is_correct": true,
+          "feedback": "Correcto. El gas libera energía química al quemarse, que se vuelve calor y luego mueve la tapa con el vapor."
+        },
+        {
+          "letter": "B",
+          "text": "La energía del agua se transforma en gasolina dentro de la olla",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no se convierte en gasolina; solo cambia de estado líquido a vapor por el calor."
+        },
+        {
+          "letter": "C",
+          "text": "La energía del vapor se transforma en energía química del gas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El proceso ocurre al contrario: la energía química del gas se transforma en calor y movimiento."
+        },
+        {
+          "letter": "D",
+          "text": "No hay transformación de energía, solo cambio de temperatura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sí hay transformaciones: la energía química del gas pasa a calor y después a movimiento de la tapa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La energía se transforma continuamente de una forma a otra. Al quemar gas, su energía química se convierte en calor; ese calor hierve el agua y produce vapor, cuya energía mueve la tapa. Este ejemplo muestra una cadena de transformaciones. Identificarlas ayuda a comprender cómo funcionan las máquinas y los electrodomésticos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Fisica",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v4",
+      "statement": "Mientras la pelota sube, ¿qué ocurre con su energía?",
+      "context": "En un parque de Barranquilla, un niño lanza una pelota hacia arriba y observa que sube y luego baja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Su energía se destruye poco a poco hasta desaparecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no se destruye; se transforma de movimiento en energía de posición mientras sube."
+        },
+        {
+          "letter": "B",
+          "text": "Su energía aumenta porque la pelota sube más alto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía no aumenta por subir; lo que ocurre es que cambia de forma, de movimiento a posición."
+        },
+        {
+          "letter": "C",
+          "text": "Su energía de movimiento disminuye y se transforma en energía de posición",
+          "is_correct": true,
+          "feedback": "Correcto. Al subir, la pelota pierde velocidad y gana altura, así que su energía de movimiento se vuelve energía de posición."
+        },
+        {
+          "letter": "D",
+          "text": "Su energía de posición se transforma en energía química",
+          "is_correct": false,
+          "feedback": "Incorrecto. La pelota no almacena energía química al subir; la energía de movimiento se convierte en energía de posición."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando un cuerpo sube, su energía de movimiento disminuye y se transforma en energía de posición, relacionada con la altura. En el punto más alto, la pelota tiene la máxima energía de posición y casi nada de movimiento. Al bajar ocurre lo contrario. La energía total se conserva, solo cambia de forma.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué el calentador solar permite ahorrar gas?",
+      "context": "En una vereda de Boyacá, una familia instala un calentador solar para bañarse con agua tibia y ahorrar gas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque produce gas a partir de la luz del Sol",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentador no fabrica gas; aprovecha la energía del Sol para calentar el agua directamente."
+        },
+        {
+          "letter": "B",
+          "text": "Porque calienta el agua con la energía del Sol y usa menos gas para hacerlo",
+          "is_correct": true,
+          "feedback": "Correcto. Al calentar el agua con el Sol, la familia necesita menos gas, y así reduce el consumo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque reemplaza el agua por un combustible",
+          "is_correct": false,
+          "feedback": "Incorrecto. El calentador no cambia el agua por combustible; solo la calienta con la energía solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque apaga la estufa de la casa durante todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Apagar la estufa no tiene relación con el calentador; el ahorro viene de usar la energía del Sol."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un calentador solar aprovecha la energía del Sol para elevar la temperatura del agua sin quemar combustible. Al usar menos gas, la familia ahorra dinero y contamina menos. Este es un ejemplo de cómo una tecnología puede usar una fuente renovable. Comparar fuentes de energía ayuda a tomar decisiones responsables con el ambiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v6",
+      "statement": "¿Cuál es la diferencia principal entre las dos fuentes de energía?",
+      "context": "En un colegio de Tunja, los estudiantes comparan una lámpara que se conecta a la pared con una linterna que funciona con pilas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La lámpara usa energía del Sol y la linterna usa energía del viento",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ninguna de las dos usa esas fuentes; la lámpara usa electricidad de la red y la linterna, pilas."
+        },
+        {
+          "letter": "B",
+          "text": "La lámpara no necesita energía y la linterna sí",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las dos necesitan energía para iluminar; la diferencia está en el tipo de fuente que usan."
+        },
+        {
+          "letter": "C",
+          "text": "Las dos usan exactamente la misma fuente y el mismo almacenamiento",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son iguales: la lámpara se alimenta de la red eléctrica y la linterna, de pilas que almacenan energía."
+        },
+        {
+          "letter": "D",
+          "text": "La lámpara toma energía de la red eléctrica y la linterna de pilas que almacenan energía química",
+          "is_correct": true,
+          "feedback": "Correcto. La lámpara se conecta a la red, mientras que la linterna usa pilas, que guardan energía química."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las fuentes de energía pueden ser continuas, como la red eléctrica, o almacenadas, como las pilas. La lámpara usa electricidad de la red, mientras que la linterna depende de pilas que guardan energía química y la liberan poco a poco. Analizar la fuente permite entender por qué una funciona al conectarla y la otra necesita pilas nuevas. También explica por qué la linterna se apaga cuando se agotan.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v7",
+      "statement": "¿Cuál es la variable que deben cambiar en el experimento?",
+      "context": "En un aula de Neiva, un grupo quiere averiguar si el agua caliente se enfría más rápido en un vaso de metal o en uno de plástico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El material del vaso, dejando igual la cantidad y la temperatura del agua",
+          "is_correct": true,
+          "feedback": "Correcto. Para comparar el material hay que cambiar solo el vaso y mantener iguales el agua y su temperatura."
+        },
+        {
+          "letter": "B",
+          "text": "La cantidad de agua, usando vasos diferentes y temperaturas distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Si cambian varias cosas a la vez no se sabe cuál causó la diferencia; hay que cambiar solo el material."
+        },
+        {
+          "letter": "C",
+          "text": "La temperatura del agua, dejando el mismo vaso en las dos pruebas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cambiar la temperatura no responde a la pregunta sobre el material del vaso."
+        },
+        {
+          "letter": "D",
+          "text": "El color del vaso, sin importar el material ni la cantidad de agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no es lo que se quiere estudiar; la variable a cambiar es el material del vaso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En un experimento controlado se cambia una sola variable para saber cuál es su efecto. Para comparar materiales, se usan la misma cantidad de agua y la misma temperatura, y solo se cambia el tipo de vaso. Así, cualquier diferencia en el enfriamiento se debe al material. Cambiar varias condiciones a la vez impide saber qué causó el resultado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál es la mejor decisión si se busca cuidar el ambiente?",
+      "context": "En un municipio de la costa, una comunidad debe elegir entre instalar paneles solares o una planta que quema carbón para obtener electricidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar la planta de carbón, porque produce más humo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Más humo significa más contaminación; esa no es una razón para elegirla si se quiere cuidar el ambiente."
+        },
+        {
+          "letter": "B",
+          "text": "Usar la planta de carbón, porque el carbón nunca se acaba",
+          "is_correct": false,
+          "feedback": "Incorrecto. El carbón es un recurso no renovable que se agota y contamina al quemarse."
+        },
+        {
+          "letter": "C",
+          "text": "Usar paneles solares, porque aprovechan una fuente renovable y no emiten humo",
+          "is_correct": true,
+          "feedback": "Correcto. La energía solar es renovable y limpia, así que reduce la contaminación frente a quemar carbón."
+        },
+        {
+          "letter": "D",
+          "text": "No usar ninguna, porque toda energía contamina el ambiente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La energía solar contamina mucho menos; decir que toda energía contamina igual es falso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Al elegir una fuente de energía conviene considerar su impacto ambiental. Los paneles solares usan una fuente renovable y no emiten humo al generar electricidad, mientras que quemar carbón libera gases contaminantes y agota un recurso no renovable. Evaluar ventajas y desventajas permite tomar decisiones responsables. La mejor opción es la que cubre la necesidad con el menor daño al ambiente.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Ciencia_Tecnologia_Sociedad",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle",
+      "periodo": 9,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

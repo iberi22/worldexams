@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-7-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.472Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v1",
+      "statement": "Lee el diálogo.\n\n\"Andrés: ¿Vas a la biblioteca hoy?\nCamila: Sí, quiero devolver un libro.\nAndrés: ¿Me acompañas? Yo paso por la plaza.\"\n\n¿Qué dice Camila sobre ir a la biblioteca?",
+      "context": "Diálogo breve entre dos estudiantes en un bus de Bogotá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que no va porque está ocupada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Camila responde que sí va, así que la negativa que planteas no aparece en su turno de palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Que va pero no quiere que nadie la acompañe",
+          "is_correct": false,
+          "feedback": "Incorrecto. Camila solo dice que va a devolver un libro; la pregunta de acompañarla la hizo Andrés y ella no respondió a eso."
+        },
+        {
+          "letter": "C",
+          "text": "Que sí va y que quiere devolver un libro",
+          "is_correct": true,
+          "feedback": "Correcto. Camila contesta \"Sí, quiero devolver un libro\", así que ella acepta ir y explica el motivo de esa ida."
+        },
+        {
+          "letter": "D",
+          "text": "Que ya devolvió el libro la semana pasada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo dice que quiere devolverlo, es decir que aún no lo ha hecho, así que tu versión cambia el momento de la acción."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En un diálogo, cada turno de palabra tiene un hablante y un contenido propio. Reconocer qué dijo cada personaje evita mezclar las respuestas de uno con las del otro. Cuando un personaje no contesta algo, ese silencio también es parte del diálogo. Leer los turnos por separado enseña a distinguir quién dice qué.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v2",
+      "statement": "Lee el diálogo.\n\n\"Profesora: ¿Trajiste la tarea de lectura?\nEstudiante: Sí, profe, pero no la terminé.\nProfesora: ¿Por qué?\nEstudiante: Porque me quedé leyendo otro libro.\"\n\nSegún el diálogo, ¿por qué el estudiante no terminó la tarea?",
+      "context": "Diálogo entre una profesora y un estudiante sobre una tarea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque perdió la tarea",
+          "is_correct": false,
+          "feedback": "Incorrecto. El estudiante dice que sí la trajo, así que no la perdió; lo que ocurrió es que se distrajo con otra lectura."
+        },
+        {
+          "letter": "B",
+          "text": "Porque no entendió la lectura",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no dice que la lectura fuera difícil de entender; el motivo que el estudiante da es que se quedó leyendo otro libro."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la profesora se lo prohibió",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profesora solo pregunta por qué no terminó; en ningún momento le prohíbe leer ni le impide hacer la tarea."
+        },
+        {
+          "letter": "D",
+          "text": "Porque se quedó leyendo otro libro\n  \na tarea. -->",
+          "is_correct": true,
+          "feedback": "Correcto. El estudiante responde \"Porque me quedé leyendo otro libro\", así que ese es el motivo que él da."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los turnos de palabra en un diálogo suelen responder en forma ordenada: pregunta y luego respuesta. Cuando un personaje explica algo, su motivo es el que vale, no el que el lector supone. Reconocer el par pregunta-respuesta ayuda a encontrar la información concreta que se pide. Esa estructura aparece en entrevistas, en encuestas y en contests de atención al cliente.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v3",
+      "statement": "Lee el diálogo.\n\n\"Julián: No quiero presentar el trabajo.\nProfesora: ¿Por qué no quieres presentarlo?\nJulián: Me da pena.\nProfesora: ¿Tienes algo escrito?\nJulián: Sí, pero está muy corto.\"\n\n¿Qué se puede deducir del diálogo so",
+      "context": "Inferencia del motivo de un personaje a partir de lo que dice.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No hizo nada del trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Julián reconoce que sí escribió algo, aunque le parezca corto; por tanto no es cierto que no hizo nada."
+        },
+        {
+          "letter": "B",
+          "text": "Le da pena hablar en público aunque sí alcanzó a escribir algo",
+          "is_correct": true,
+          "feedback": "Correcto. Julián dice \"Me da pena\" y luego admite que tiene algo escrito, así que el texto permite deducir que su problema es la exposición, no la tarea."
+        },
+        {
+          "letter": "C",
+          "text": "No le gusta leer ni escribir",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no muestra nada sobre el gusto por leer o escribir; lo que él menciona es la vergüenza a presentar."
+        },
+        {
+          "letter": "D",
+          "text": "La profesora le pidió que no presentara el trabajo\n  \nue deje de presentar. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La profesora hace preguntas para entender la situación; en ningún momento le pide que deje de presentar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un diálogo permite deducir emociones y motivos a partir de lo que se dice y de lo que se calla. En este caso, el motivo de Julián se repite y se acompaña de un dato nuevo, que sí escribió algo. Unir esas dos pistas permite entender su situación sin que el texto la explique. Esa lectura de las emociones es muy usada en el cuento y en la novela.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v4",
+      "statement": "Lee el diálogo.\n\n\"Valentina: ¿Me acompañas a la biblioteca?\nSofía: Hoy no puedo, tengo una cita. ¿Mañana vamos juntas?\nValentina: De acuerdo. Nos vemos a las ocho.\"\n\n¿Qué función cumple principalmente l",
+      "context": "Reconocimiento de la intención de una intervención en un diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acepta la invitación sin condiciones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sofía acepta ir mañana pero rechaza hoy, así que no es una aceptación sin condiciones ni para ese mismo día."
+        },
+        {
+          "letter": "B",
+          "text": "Pide que la inviten a otro lugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no menciona cambiar de lugar; lo que Sofía propone es otra fecha, la del día siguiente."
+        },
+        {
+          "letter": "C",
+          "text": "Rechaza la invitación y propone una alternativa de fecha",
+          "is_correct": true,
+          "feedback": "Correcto. Sofía dice que hoy no puede por una cita y enseguida pregunta si van juntas mañana, así que rechaza pero ofrece otra opción."
+        },
+        {
+          "letter": "D",
+          "text": "Explica que no tiene amigos\n  \na cita y a la propuesta de mañana. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Nada en el diálogo dice que Sofía tenga o no tenga amigos; su respuesta se limita a la cita y a la propuesta de mañana."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "En una conversación, las respuestas suelen tener una intención que va más allá de las palabras. Sofía no se limita a decir que no, sino que explica por qué y propone una alternativa. Reconocer esa intención es lo que se llama leer el texto de manera pragmática. Esa habilidad sirve para entender pedidos, promesas y quejas en cualquier conversación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v5",
+      "statement": "Lee el diálogo.\n\n\"Juan: Camila, ¿me puedes prestar tu estuche de colores?\nCamila: Ahora no lo estoy usando, claro que sí.\nJuan: Gracias, te lo devuelvo en la tarde.\nCamila: Perfecto, pero guárdame las cajas de colores.\"\n\nSegún el diálogo, ¿bajo qu",
+      "context": "Diálogo en el que una persona pide favor y la otra responde.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Con la condición de que Juan le devuelva las cajas de colores",
+          "is_correct": true,
+          "feedback": "Correcto. Camila responde que sí, pero pide que Juan le devuelva las cajas de colores, así que esa es la condición que pone."
+        },
+        {
+          "letter": "B",
+          "text": "Sin ninguna condición",
+          "is_correct": false,
+          "feedback": "Incorrecto. Camila termina su intervención pidiendo las cajas de colores, así que sí pone una exigencia antes de aceptar."
+        },
+        {
+          "letter": "C",
+          "text": "Solo si se lo pide por la mañana",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no menciona ninguna hora para el pedido; lo que Camila pide es que le devuelvan las cajas."
+        },
+        {
+          "letter": "D",
+          "text": "Solo si Juan le paga algo por el estuche\n  \nen el diálogo, así que esa condición no existe. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna mención de dinero ni de pago en el diálogo, así que esa condición no existe."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Cuando alguien acepta un pedido, a menudo lo hace con una condición. Reconocer esa condición requiere leer el turno completo de quien responde, no solo la primera palabra. En este caso, el \"claro que sí\" va seguido de un \"pero\" que introduce el requisito. Detectar ese giro es fundamental para entender los acuerdos de una conversación.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v6",
+      "statement": "Lee el diálogo.\n\n\"Profesor: ¿Trajiste el cuaderno?\nSofía: No lo traje.\nProfesor: ¿Por qué?\nSofía: Se me quedó en la casa.\nProfesor: Está bien, pero tráelo la próxima semana.\"\n\n¿Qué se pue",
+      "context": "Lectura de la actitud de un personaje a partir de su respuesta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que está muy enojado, porque el texto dice que el profesor gritó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El diálogo no menciona gritos ni tono de voz; ese detalle lo agregaste porque no está escrito."
+        },
+        {
+          "letter": "B",
+          "text": "Que no le importa la tarea que Sofía no trajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El profesor pide el cuaderno para la semana siguiente, así que sí le importa que lo traiga."
+        },
+        {
+          "letter": "C",
+          "text": "Que Sofía queda exenta de traer el cuaderno para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. El profesor dice \"tráelo la próxima semana\", así que la exigencia es solo para el siguiente encuentro."
+        },
+        {
+          "letter": "D",
+          "text": "Que acepta la explicación, pero mantiene la exigencia de que Sofía traiga el cuaderno\n  \n\", así que la exigencia es solo para el siguiente encuentro. -->",
+          "is_correct": true,
+          "feedback": "Correcto. El \"está bien, pero\" indica que no reprime, y el \"tráelo la próxima semana\" deja clara la exigencia que se mantiene."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar un diálogo implica atender tanto a lo que se dice como al modo en que se dice. Aquí, el \"pero\" del profesor cambia el sentido de toda su intervención. Reconocer ese giro permite deducir su postura sin que el texto la describa. Esa lectura de los tonos es lo que hace posible entender una conversación completa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v7",
+      "statement": "Lee el diálogo.\n\n\"Nino 1: ¿Jugamos?\nNino 2: Sí.\nNino 1: ¿Con qué?\nNino 2: Con la pelota.\nNino 1: ¿Dónde?\nNino 2: En l",
+      "context": "Evaluación de la calidad de un intercambio de turnos de palabra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contiene una pregunta que no tiene respuesta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todas las preguntas del diálogo reciben respuesta: al sí, con la pelota y en la cancha."
+        },
+        {
+          "letter": "B",
+          "text": "Consiste solo en preguntas y respuestas de una palabra, sin que nadie proponga nada",
+          "is_correct": true,
+          "feedback": "Correcto. Todas las intervenciones son de una sola palabra y se limitan a preguntar y contestar, así que no hay conversación propiamente dicha."
+        },
+        {
+          "letter": "C",
+          "text": "Usa palabras que los niños no entienden",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vocabulario es muy sencillo, con palabras que cualquier niño usa en la vida diaria."
+        },
+        {
+          "letter": "D",
+          "text": "Tiene demasiados personajes hablando\n  \necto. Solo participan dos niños, así que no hay exceso de interlocutores. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo participan dos niños, así que no hay exceso de interlocutores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una conversación de verdad no se reduce a un interrogatorio de palabras sueltas. Para que un intercambio sea verdadero, alguien propone, cuenta o pregunta con intención. Reconocer esa diferencia ayuda a evaluar la calidad de un diálogo escrito. También explica por qué en la vida real una conversación necesita más que respuestas de una palabra.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle-v8",
+      "statement": "Lee el diálogo.\n\n\"Mamá: ¿Ya hiciste la tarea?\nTomás: Casi, mamá.\nMamá: ¿Qué te falta?\nTomás: Copiar los números en el cuaderno.\nMamá: Entonces termina antes de la cena.\nTomás: Está bien.\"\n\nUn compañero afirma: \"Según el diálogo, Tomás ya terminó la t",
+      "context": "Evaluación de una conclusión que no corresponde a un diálogo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es correcta, porque Tomás contesta \"está bien\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. \"Está bien\" es la respuesta de Tomás a una orden, no una felicitación; el diálogo no contiene ningún elogio."
+        },
+        {
+          "letter": "B",
+          "text": "Es parcialmente correcta, porque Tomás sí hizo casi toda la tarea",
+          "is_correct": false,
+          "feedback": "Incorrecto. Decir \"casi\" no significa que la haya terminado, y su madre de todos modos le pide terminarla antes de la cena."
+        },
+        {
+          "letter": "C",
+          "text": "Es incorrecta, porque a Tomás le falta copiar los números y su madre le pide terminar, no lo felicita",
+          "is_correct": true,
+          "feedback": "Correcto. El diálogo dice que a Tomás le falta una parte de la tarea y que su madre le exige completarla, así que no hay término ni felicitación alguna."
+        },
+        {
+          "letter": "D",
+          "text": "Es correcta, porque su madre pregunta por la tarea\n  \nrea no equivale a terminarla ni a felicitarse por ello; esa conclusión no tiene apoyo. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. Preguntar por la tarea no equivale a terminarla ni a felicitarse por ello; esa conclusión no tiene apoyo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Evaluar un diálogo significa contrastar la afirmación con los turnos de palabra reales. En este caso, tanto el estado de la tarea como la reacción de la madre están cambiados en la conclusión. Detectar ambos cambios por separado permite explicar por qué la afirmación es incorrecta. Reconocer que preguntar no es lo mismo que aprobar es una lectura precisa del diálogo.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle",
+      "periodo": 7,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

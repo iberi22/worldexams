@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-11-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-03T08:51:48.157Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v1",
+      "statement": "¿Qué característica permite clasificar a los animales en vertebrados e invertebrados?",
+      "context": "En una finca de Córdoba, un niño observa que las vacas tienen pelo y las gallinas tienen plumas.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El color de su piel",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color no define la clasificación; lo que importa es si tienen o no columna vertebral."
+        },
+        {
+          "letter": "B",
+          "text": "El lugar donde viven",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar no clasifica a los animales en vertebrados o invertebrados; hay ambos tipos en el mismo ambiente."
+        },
+        {
+          "letter": "C",
+          "text": "El tamaño que alcanzan al crecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no es el criterio; hay vertebrados pequeños y invertebrados grandes."
+        },
+        {
+          "letter": "D",
+          "text": "La presencia o ausencia de columna vertebral",
+          "is_correct": true,
+          "feedback": "Correcto. Los vertebrados tienen columna vertebral y los invertebrados no la tienen."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los animales se clasifican en vertebrados e invertebrados según tengan o no columna vertebral. Los vertebrados, como las vacas, los peces y las aves, poseen un esqueleto interno con columna. Los invertebrados, como los insectos y los gusanos, carecen de ella. Este criterio ordena la gran diversidad de animales.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Biologia",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v2",
+      "statement": "¿Por qué los peces pueden vivir dentro del agua?",
+      "context": "En un zoológico de Medellín, los visitantes observan que los peces se mueven dentro del agua y salen a respirar a la superficie.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque respiran el oxígeno disuelto en el agua mediante las branquias",
+          "is_correct": true,
+          "feedback": "Correcto. Las branquias toman el oxígeno que está disuelto en el agua y les permiten vivir sumergidos."
+        },
+        {
+          "letter": "B",
+          "text": "Porque guardan aire en la boca y no necesitan respirar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces sí necesitan respirar; lo hacen tomando oxígeno del agua con las branquias."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el agua les da todo el oxígeno que comen",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los peces no comen oxígeno; lo obtienen del agua a través de las branquias."
+        },
+        {
+          "letter": "D",
+          "text": "Porque pueden dejar de respirar cuando están bajo el agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ningún animal deja de respirar; los peces respiran el oxígeno disuelto en el agua."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los peces respiran por branquias, unos órganos que toman el oxígeno disuelto en el agua. Por eso pueden permanecer sumergidos y no necesitan salir a la superficie como los animales con pulmones. El oxígeno está mezclado en el agua, y las branquias lo aprovechan. Esta adaptación les permite vivir en ríos, lagos y mares.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Biologia",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v3",
+      "statement": "¿A qué grupo de vertebrados pertenece ese animal?",
+      "context": "En una caminata por el Amazonas, un grupo ve un animal con plumas, pico y alas que pone huevos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "A los mamíferos, porque cuida a sus crías",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuidar a las crías no basta; los mamíferos tienen pelo y glándulas mamarias, no plumas ni pico."
+        },
+        {
+          "letter": "B",
+          "text": "A los anfibios, porque vive cerca del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Vivir cerca del agua no lo hace anfibio; las aves tienen plumas y pico, y los anfibios no."
+        },
+        {
+          "letter": "C",
+          "text": "A las aves, porque tiene plumas, pico y alas, y pone huevos",
+          "is_correct": true,
+          "feedback": "Correcto. Las plumas, el pico y las alas son características propias de las aves, que además ponen huevos."
+        },
+        {
+          "letter": "D",
+          "text": "A los reptiles, porque pone huevos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Poner huevos es común en aves y reptiles; las plumas y el pico indican que es un ave."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las aves son vertebrados que se reconocen por tener plumas, pico y alas, y por poner huevos. Aunque los reptiles también ponen huevos, no tienen plumas ni pico. Observar varias características a la vez permite clasificar correctamente. La cubierta del cuerpo es una pista muy útil.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.82,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v4",
+      "statement": "¿Qué característica de los mamíferos permite explicar este comportamiento?",
+      "context": "En un bosque de Santander, un oso hiberna durante los meses fríos y vive de las reservas de grasa de su cuerpo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que tienen escamas en la piel",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las escamas son propias de peces y reptiles; los mamíferos tienen pelo y producen leche."
+        },
+        {
+          "letter": "B",
+          "text": "Que son de sangre caliente y regulan su temperatura, aunque el alimento escasee",
+          "is_correct": true,
+          "feedback": "Correcto. Los mamíferos mantienen su temperatura corporal; al hibernar reducen su gasto de energía cuando hay poco alimento."
+        },
+        {
+          "letter": "C",
+          "text": "Que ponen huevos para reproducirse",
+          "is_correct": false,
+          "feedback": "Incorrecto. Casi todos los mamíferos tienen crías vivas; además, eso no explica la hibernación."
+        },
+        {
+          "letter": "D",
+          "text": "Que respiran por branquias bajo la nieve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mamíferos respiran por pulmones; las branquias son de los peces."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mamíferos son de sangre caliente, es decir, mantienen su temperatura corporal constante. Cuando el alimento escasea y hace frío, algunos reducen sus funciones y gastan las reservas de grasa acumuladas: eso es la hibernación. Esta adaptación les permite sobrevivir en estaciones difíciles. Su pelaje también ayuda a conservar el calor.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.8,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v5",
+      "statement": "¿Por qué las ranas deben vivir cerca del agua?",
+      "context": "En una laguna de la sabana de Bogotá, un grupo observa ranas que viven cerca del agua y ponen sus huevos allí.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque necesitan el agua para volar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ranas no vuelan; viven cerca del agua porque sus huevos y sus crías se desarrollan en ella."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el agua les da plumas y escamas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ranas no tienen plumas ni escamas; su piel es húmeda y desnuda."
+        },
+        {
+          "letter": "C",
+          "text": "Porque no pueden respirar fuera del agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las ranas adultas respiran por pulmones y también por la piel; necesitan humedad, no vivir siempre sumergidas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque sus huevos y renacuajos se desarrollan en el agua",
+          "is_correct": true,
+          "feedback": "Correcto. Las ranas ponen sus huevos en el agua, y de allí salen los renacuajos, que viven en ella hasta completar su desarrollo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las ranas son anfibios, y su vida está ligada al agua y a la tierra. Ponen sus huevos en el agua, donde nacen los renacuajos con branquias y cola. Al crecer, se transforman en ranas adultas con pulmones y patas, en un proceso llamado metamorfosis. Por eso necesitan vivir en lugares húmedos y cercanos al agua.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Biologia",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v6",
+      "statement": "¿Qué explica mejor la diferencia entre estas dos plantas?",
+      "context": "En un páramo de Boyacá, un grupo compara un frailejón cubierto de vellos con un cactus del desierto.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El frailejón vive más tiempo porque tiene flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tener flores no explica la diferencia; cada planta tiene adaptaciones según el ambiente donde vive."
+        },
+        {
+          "letter": "B",
+          "text": "Cada planta tiene adaptaciones distintas según su ambiente: el frailejón retiene agua y el cactus la ahorra",
+          "is_correct": true,
+          "feedback": "Correcto. El frailejón vive en un ambiente húmedo y frío, y el cactus en uno seco, así que cada uno tiene adaptaciones diferentes."
+        },
+        {
+          "letter": "C",
+          "text": "El cactus es más grande porque recibe menos luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tamaño no depende de la luz; la diferencia principal está en cómo cada planta se adapta al agua de su ambiente."
+        },
+        {
+          "letter": "D",
+          "text": "Las dos plantas son iguales y solo cambia el color",
+          "is_correct": false,
+          "feedback": "Incorrecto. No son iguales; tienen formas y adaptaciones diferentes que les permiten sobrevivir en ambientes opuestos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las plantas desarrollan adaptaciones según el ambiente donde viven. El frailejón, en el páramo húmedo, atrapa y retiene agua con sus vellos, mientras que el cactus, en el desierto, almacena agua y reduce su pérdida. Estas diferencias no son casuales: responden a las condiciones de cada lugar. Comparar adaptaciones ayuda a entender cómo sobreviven los seres vivos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Biologia",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v7",
+      "statement": "¿Qué característica distingue al pez del ave en este ejemplo?",
+      "context": "En un río de Antioquia, un grupo observa un animal con aletas que pone huevos en el agua y otro con patas y plumas que nada y pone huevos en tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que el pez pone huevos y el ave no",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos ponen huevos; lo que los distingue es su cubierta corporal y sus extremidades."
+        },
+        {
+          "letter": "B",
+          "text": "Que el ave vive en el agua y el pez no",
+          "is_correct": false,
+          "feedback": "Incorrecto. El pez vive en el agua y el ave también puede nadar; la diferencia principal está en las aletas y las plumas."
+        },
+        {
+          "letter": "C",
+          "text": "Que el pez tiene aletas y escamas, y el ave tiene plumas y alas",
+          "is_correct": true,
+          "feedback": "Correcto. Las aletas y escamas son propias de los peces, y las plumas y alas, de las aves; eso los distingue."
+        },
+        {
+          "letter": "D",
+          "text": "Que los dos tienen el mismo tipo de respiración",
+          "is_correct": false,
+          "feedback": "Incorrecto. No tienen la misma respiración: el pez usa branquias y el ave usa pulmones."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Aunque ambos animales viven cerca del agua y ponen huevos, sus características corporales los distinguen. El pez tiene aletas, escamas y branquias; el ave tiene plumas, alas y pulmones. Estas diferencias reflejan adaptaciones a formas de vida distintas. Analizar varias características a la vez permite clasificar con mayor precisión.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál experimento responde mejor a esa pregunta?",
+      "context": "En un colegio de Chía, un grupo quiere saber si las lombrices prefieren la tierra húmeda o la tierra seca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Colocar la misma cantidad de lombrices entre tierra húmeda y tierra seca, y contar cuántas se van a cada lado",
+          "is_correct": true,
+          "feedback": "Correcto. Al ofrecer las dos condiciones al mismo tiempo y contar dónde se ubican, se compara su preferencia directamente."
+        },
+        {
+          "letter": "B",
+          "text": "Poner todas las lombrices en tierra húmeda y observar si se mueven",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin tierra seca para comparar, no se puede saber si prefieren la humedad o simplemente se mueven."
+        },
+        {
+          "letter": "C",
+          "text": "Medir la temperatura de la tierra húmeda y de la seca",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura no responde a la pregunta; lo que se quiere averiguar es dónde prefieren estar las lombrices."
+        },
+        {
+          "letter": "D",
+          "text": "Poner las lombrices en un frasco vacío y esperar a que elijan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin tierra húmeda ni seca no hay opciones que elegir, así que el experimento no responde a la pregunta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un experimento controlado ofrece a los seres vivos las opciones que se quieren comparar y observa cuál eligen. Al poner tierra húmeda y tierra seca juntas y contar las lombrices en cada lado, se obtiene evidencia de su preferencia. Medir solo una condición no permite comparar. Diseñar bien el experimento es esencial para obtener respuestas confiables.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W11-los-animales-y-sus-caracteristicas-001-MASTERY-bundle",
+      "periodo": 11,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

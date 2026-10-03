@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-3-grade-3-subject-lengua",
+    "generated_at": "2026-10-03T08:51:48.471Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v1",
+      "statement": "Lee la fabula.\n\n\"Un zorro vio unas uvas maduras en una finca de Pereira. Estaban muy arriba de la rama. El zorro saltó una y otra vez, pero no pudo alcanzarlas. Al final se fue y dijo: esas uvas están acids; no las quiero.\"\n\n¿Qué hizo el zorro cuando no pudo alcanzar las uvas?",
+      "context": "Fabula sobre un zorro y unas uvas junto a una finca en Pereira.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pidió ayuda a los cuervos del corral",
+          "is_correct": false,
+          "feedback": "Incorrecto. El zorro nunca pidió ayuda en esta fabula, y los cuervos ni siquiera aparecen en el relato."
+        },
+        {
+          "letter": "B",
+          "text": "Subió a un árbol vecino y las alcanzó",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no dice que el zorro subiera a otro árbol; solo cuenta que saltó muchas veces sin poder llegar a las uvas."
+        },
+        {
+          "letter": "C",
+          "text": "Se fue y dijo que no las quería",
+          "is_correct": true,
+          "feedback": "Correcto. La última oración dice que el zorro se fue yjnació que no quería las uvas, así que esa fue su reacción al no alcanzarlas."
+        },
+        {
+          "letter": "D",
+          "text": "Comió unas uvas que estaban en el suelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay uvas en el suelo en el texto; todas las uvas mencionadas estaban arriba de la rama y no fueron alcanzadas."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La fabula es un relato breve que usa personajes animalísticos para mostrar un comportamiento humano. Reconocer la reacción final del protagonista es la primera tarea de lectura: el cuento dice exactamente qué hizo el zorro al no lograr su deseo. Un lector que identifica esa acción ya tiene el material para entender la moraleja. Fijarse en el desenlace es siempre una buena estrategia con este tipo de textos.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v2",
+      "statement": "Lee la fabula.\n\n\"Una liebre se burlaba de una tortuga porque caminaba despacio. La tortuga le propuso una carrera hasta el potrero de Montería. La liebre aceptó y salió muy rápida. A mitad del camino se durmió. Cuando despertó, la tortuga ya había llegado.\"\n\n¿De qué animal se burlaba la liebre al principio?",
+      "context": "Fabula sobre una liebre y una tortuga en un potrero de Montería.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Del cuervo que cuidaba el potrero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuervo tampoco aparece en esta fabula, así que no puede ser el destinatario de la burla."
+        },
+        {
+          "letter": "B",
+          "text": "De otro conejo que corría más rápido",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ningún conejo en el relato; la fabula solo menciona a la liebre y a la tortuga."
+        },
+        {
+          "letter": "C",
+          "text": "Del perro del potrero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El perro no aparece en el relato; la burla estaba dirigida a la tortuga por su forma lenta de caminar."
+        },
+        {
+          "letter": "D",
+          "text": "De la tortuga\n  \ntortuga. -->",
+          "is_correct": true,
+          "feedback": "Correcto. La primera oración dice que la liebre se burlaba de la tortuga porque caminaba despacio, así que el animal burlado era la tortuga."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "En una fabula los personajes suelen tener una función: uno representa la vanidad o la confianza en sí mismo y el otro la constancia. Identificar a quién se dirige la burla inicial ayuda a ver el conflicto que da origen a la carrera. La primera oración de la fabula suele presentar el problema. Leer con atención esa oración evita inventar personajes que no están.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v3",
+      "statement": "Lee la fabula.\n\n\"Durante todo el verano, una cigarra cantó en un árbol de Tunja. La hormiga trabajó todo el verano acopiando granos para el invierno. Cuando llegó el frío, la cigarra no tenía nada. Llamó a la hormiga y le pidió comida.\"\n\n¿Qué revela ese comportamiento sobre",
+      "context": "Fabula sobre una hormiga y una cigarra antes del invierno en Tunja.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que era la más fuerte de los dos animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fuerza no es el tema del relato; lo que la fabula muestra es la diferencia entre disfrutar y preparar el futuro."
+        },
+        {
+          "letter": "B",
+          "text": "Que disfrutan del presente y no prepararon el futuro",
+          "is_correct": true,
+          "feedback": "Correcto. La cigarra solo cantó durante el verano y no juntó nada, así que llegó sin reservas al invierno: esa es la enseñanza central de la fabula."
+        },
+        {
+          "letter": "C",
+          "text": "Que la hormiga le había robado sus granos",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca dice que la hormiga le robara nada a la cigarra; solo cuenta que ella acopió granos y la cigarra no."
+        },
+        {
+          "letter": "D",
+          "text": "Que no conocía el clima de Tunja\n  \ne sí estaba prevista. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fabula no trata de ignorancia del clima, sino de no haberse preparado para una estación que sí estaba prevista."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Aplicar la lectura a una fabula consiste en deducir qué calidad revela el comportamiento de cada personaje. La cigarra cantó todo el verano y no almacenó nada, mientras la hormiga trabajó y guardó granos. Esa diferencia explica el desenlace y construye la enseñanza. Cuando un lector identifica la calidad que representa cada animal, ya puede formular la moraleja con sus propias palabras.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v4",
+      "statement": "Lee la fabula.\n\n\"Un pastor llevaba sus ovejas por un camino de Boyacá. De pronto, un perro empezó a ladrar a las piedras del camino. El pastor vio que un ladrón estaba escondido detrás de un árbol. El perro había salvado las ovejas.\"\n\n¿Cuál fue la reacción del pas",
+      "context": "Fabula sobre un pastor y su perro en un potrero de Boyacá.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Le pidió al perro que buscara al ladrón otra vez",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto solo dice que el perro empezó a ladrar a las piedras; no hay ninguna orden del pastor ni una segunda búsqueda."
+        },
+        {
+          "letter": "B",
+          "text": "Se fue corriendo en la dirección contraria",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no dice que el pastor huyera; lo que hizo fue mirar hacia donde el perro ladraba y encontrar al ladrón."
+        },
+        {
+          "letter": "C",
+          "text": "Miró hacia donde el perro ladraba y descubrió al ladrón",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que el pastor vio a un ladrón escondido detrás de un árbol gracias a los ladridos del perro, así que su reacción fue mirar y encontrarlo."
+        },
+        {
+          "letter": "D",
+          "text": "Le soltó las ovejas al perro\n  \n reacción no aparece en la fabula. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca menciona que el pastor le soltara las ovejas al perro, así que esa reacción no aparece en la fabula."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Reconocer la reacción de un personaje permite entender cómo se resuelven los conflictos en una fabula. En este relato, los ladridos del perro producen la acción del pastor: él mira y encuentra al ladrón. Vincular la causa con el efecto es un ejercicio de comprensión narrativa. Cada acción de la historia tiene un motivo que conviene identificar.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v5",
+      "statement": "Lee la fabula.\n\n\"Un carro volcó en un camino de Cundinamarca y dejó muchas cajas en el suelo. Varias personas pasaron y no ayudaron. Por último llegó un niño y ayudó a recogerlas una por una, sin pedir nada.\"\n\nSegún la fabula, ¿qué hizo la",
+      "context": "Fabula sobre un carro volcado en un camino de Cundinamarca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "No ayudaron a recoger las cajas",
+          "is_correct": true,
+          "feedback": "Correcto. El texto dice que varias personas pasaron y no ayudaron, así que la mayoría no participó en la recogida de las cajas."
+        },
+        {
+          "letter": "B",
+          "text": "Ayudaron a recoger las cajas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quienes ayudaron fueron el niño y solo uno de los que pasaron; el resto pasó sin participar."
+        },
+        {
+          "letter": "C",
+          "text": "Avisaron a la policía del accidente",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato nunca menciona a la policía ni un aviso; las únicas acciones son pasar sin ayudar y luego el niño que recogió las cajas."
+        },
+        {
+          "letter": "D",
+          "text": "Pidieron ayuda para mover las cajas\n  \ncogió cajas fue el niño, y lo hizo una por una. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. No hay ninguna llamada de ayuda en la fabula; el único que recogió cajas fue el niño, y lo hizo una por una."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Extraer información concreta de una fabula significa volver a la frase que describe lo que hizo la mayoría. Aquí, el relato usa la expresión \"no ayudaron\" para definir su actitud, mientras que el niño representa el comportamiento contrario. La fabula depende de ese contraste entre el \"muchos\" y el \"uno\" para construir su moraleja. Reconocer quién representa cada lado de la historia ayuda a entenderla.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v6",
+      "statement": "Lee la fabula.\n\n\"Un muchacho llevaba semanas diciendo que ayudaría a su madre en Cartagena. Cada vez que su madre se lo pedía, el muchacho prometía que sí. Nunca empezó. Un día su madre se enfermó y tuvo que trabajar sola. El muchacho se sintió mal.\"\n\n¿Qué revela el hech",
+      "context": "Análisis de una acción repetida dentro de una fabula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la madre exigía demasiado trabajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto nunca dice que la madre pidiera de más; el problema descrito es que el muchacho no cumplía lo que había prometido."
+        },
+        {
+          "letter": "B",
+          "text": "Que era mejor no ayudar en absoluto que ayudar tarde",
+          "is_correct": false,
+          "feedback": "Incorrecto. Eso no es lo que el relato muestra; el desenlace indica que el problema fue no cumplir, y por eso el muchacho se sintió mal."
+        },
+        {
+          "letter": "C",
+          "text": "Que el muchacho era perezoso por naturaleza",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fabula no explica por qué no empezaba; su enseñanza es más amplia que una característica del muchacho, va sobre la diferencia entre decir y hacer."
+        },
+        {
+          "letter": "D",
+          "text": "Que hacer promesas fácil no es lo mismo que cumplir, y esa diferencia tiene consecuencias\n  \ne que la promesa sin ejecución es la enseñanza de la fabula. -->",
+          "is_correct": true,
+          "feedback": "Correcto. El relato muestra muchas palabras y ninguna acción, y luego una consecuencia concreta; de ahí se deduce que la promesa sin ejecución es la enseñanza de la fabula."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Analizar una fabula requiere mirar las repeticiones que el autor pone para reforzar un mensaje. En este caso, el patrón de \"prometió, prometió y nunca empezó\" se repite para que la enseñanza quede clara. Reconocer ese patrón y su consecuencia ayuda al lector a generalizar el aprendizaje más allá de la historia. Una buena moraleja no es una frase al final, sino una lección que se deduce de lo que pasó.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v7",
+      "statement": "Lee la fabula.\n\n\"Un árbol pequeño del patio de Neiva dio sombra a una flor durante todo el año. Cuando llegó la sequía, el árbol se secó y la flor también murió. El árbol había dado sombra sin pedir nada a cambio.\"\n\nUn compañero dice que la moraleja es: \"Nunca hay que dar algo si",
+      "context": "Contraste de una moraleja propuesta con lo que realmente muestra el relato.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es la moraleja correcta, porque el árbol y la flor murieron",
+          "is_correct": false,
+          "feedback": "Incorrecto. La muerte de ambos ocurrió por la sequía y el texto no la presenta como castigo por haber dado sin recibir."
+        },
+        {
+          "letter": "B",
+          "text": "Contradice el relato, porque el árbol dio sombra sin recibir nada y ese hecho no se presenta como un error",
+          "is_correct": true,
+          "feedback": "Correcto. El texto muestra al árbol ayudando sin pedir nada y no lo señala como una falta, así que una moraleja que condena ese comportamiento va en contra de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Es correcta, porque el árbol no recibió agua durante la sequía",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no explica que faltara agua ni lo relaciona con un castigo; esa relación la agregaste tú."
+        },
+        {
+          "letter": "D",
+          "text": "Es parcialmente correcta, porque la flor también dio algo a cambio\n  \n árbol, así que esa parte de la moraleja tampoco tiene apoyo en el texto. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no dice que la flor le devolviera nada al árbol, así que esa parte de la moraleja tampoco tiene apoyo en el texto."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar una moraleja significa confrontarla con lo que el relato muestra y ver si se sostiene. Una moraleja debe deducirse de las acciones de los personajes y de su desenlace, y no imponer una idea previa. En este caso, el texto no presenta la generosidad como un error, así que la frase propuesta no encaja con la historia. Leer con criterio crítico permite detectar moralejas que chocan con el relato.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.8,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle-v8",
+      "statement": "Lee la fabula.\n\n\"En un mercado de Bogotá, dos hombres discutían sobre quién había llegado primero para comprar. El más fuerte empujó al otro y se quedó con todas las frutas. Los vecinos vieron lo que pasó y no dijeron nada. Esa noche, el hombre al q",
+      "context": "Elección argumentada de la moraleja más adecuada de una fabula.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El más fuerte siempre gana en las discusiones",
+          "is_correct": false,
+          "feedback": "Incorrecto. La fabula no celebra la fuerza, sino que muestra el costo de dejar impune el abuso; no es una moraleja sobre quién suele ganar."
+        },
+        {
+          "letter": "B",
+          "text": "Es mejor evitar los mercados porque allí hay peleas",
+          "is_correct": false,
+          "feedback": "Incorrecto. El relato no desaconseja ir al mercado; su enseñanza se dirige a la actitud de los vecinos que presenciaron y no hablaron."
+        },
+        {
+          "letter": "C",
+          "text": "Quedarse callado ante una injusticia permite que la costumbre injusta se repita",
+          "is_correct": true,
+          "feedback": "Correcto. Los vecinos vieron la injusticia y callaron, y el resultado fue que el abuso se mantuvo: esa es la consecuencia que la historia muestra."
+        },
+        {
+          "letter": "D",
+          "text": "Las frutas de un mercado deben repartirse por igual desde el principio\n  \ne reparto del mercado, sino de la reacción de los testigos ante una situación injusta. -->",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de reglas de reparto del mercado, sino de la reacción de los testigos ante una situación injusta."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Elegir la moraleja más adecuada requiere comparar varias lecturas posibles y quedarse con la que explica mejor el conjunto de hechos del relato. En esta fabula, lo relevante no es la pelea en sí, sino el silencio de los vecinos y lo que ese silencio permitió. Una moraleja sólida explica el desenlace y generaliza una enseñanza útil. Descartar las alternativas muestra por qué la lectura crítica mejora la comprensión.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Evaluativo",
+      "expected_success": 0.75,
+      "bundle_id": "CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle",
+      "periodo": 3,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
