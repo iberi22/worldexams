@@ -176,7 +176,7 @@ Evaluar una afirmación exige contrastarla con información sobre el ecosistema.
 - [ ] D) Las dos posiciones son igual de verdaderas porque el consumo de las casas y los páramos son sistemas separados.
  <!-- feedback: Incorrecto. "Son sistemas separados" contradice la cadena causal, que conecta el consumo domiciliario con la extracción y el estado de los humedales. -->
 
-### Explicacion Pedagica
+### Explicacion Pedagogica
 La afirmación confunde una conexión directa con una conexión indirecta. Aunque el agua ahorrada en una casa no pase por un páramo, el menor consumo puede reducir la demanda de la ciudad y, según el modelo, la extracción de fuentes que necesitan esos caudales. Una evaluación crítica debe considerar toda la cadena y también sus condiciones, sin afirmar que un solo modelo demuestra un resultado real sin más evidencia.
 
 ## Question 8 [D9-D10]

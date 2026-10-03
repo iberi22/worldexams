@@ -155,7 +155,7 @@ La estudiante cuenta: «Estaba nerviosa antes de la prueba. Cuando la terminó, 
 - [ ] D) Estuvo cansada y luego enojada.
   <!-- feedback: Incorrecto. Las palabras «cansada» y «enojada» no aparecen en el texto y sustituyen las emociones de nerviosa y feliz. -->
 
-### Explicacion Pedagica
+### Explicacion Pedagogica
 Para inferir el cambio, comparamos las emociones antes y después de la prueba. La estudiante pasa de sentirse nerviosa a sentirse feliz.
 
 ## Question 7 [D9-D10]
