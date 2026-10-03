@@ -32,13 +32,13 @@ La descripción comienza así: «Mi barrio tiene una plaza, una tienda y una bib
 
 ### Opciones
 - [x] A) barrio
-  <!-- feedback: Correcto. "barrio" nombra el lugar donde viven muchas personas y donde se comparten servicios. -->
+ <!-- feedback: Correcto. "barrio" nombra el lugar donde viven muchas personas y donde se comparten servicios. -->
 - [ ] B) tienda
-  <!-- feedback: Incorrecto. "tienda" nombra un lugar para comprar, no el conjunto de calles y casas donde vive la comunidad. -->
+ <!-- feedback: Incorrecto. "tienda" nombra un lugar para comprar, no el conjunto de calles y casas donde vive la comunidad. -->
 - [ ] C) biblioteca
-  <!-- feedback: Incorrecto. "biblioteca" nombra un espacio para leer o estudiar, no el lugar general donde viven las familias. -->
+ <!-- feedback: Incorrecto. "biblioteca" nombra un espacio para leer o estudiar, no el lugar general donde viven las familias. -->
 - [ ] D) plaza
-  <!-- feedback: Incorrecto. "plaza" nombra un espacio abierto para encontrarse, no el territorio donde se vive la comunidad. -->
+ <!-- feedback: Incorrecto. "plaza" nombra un espacio abierto para encontrarse, no el territorio donde se vive la comunidad. -->
 
 ### Explicacion Pedagogica
 La respuesta correcta es A) «barrio». La palabra aparece en la descripción y se refiere al conjunto de calles, casas y servicios donde viven muchas personas. «Plaza», «tienda» y «biblioteca» designan espacios concretos dentro de ese conjunto; por eso no sustituyen la palabra «barrio». La pregunta permite distinguir un término general de un lugar particular.
@@ -53,14 +53,15 @@ La respuesta correcta es A) «barrio». La palabra aparece en la descripción y 
 ¿Qué idea expresa mejor esta frase?
 
 ### Opciones
-- [x] A) Las personas que viven en el barrio viven cerca y colaboran entre sí.
-  <!-- feedback: Correcto. "comparten la plaza" y "se ayudan" muestran colaboración entre personas que viven cerca. -->
-- [ ] B) Las personas del barrio solo se encuentran para comprar.
-  <!-- feedback: Incorrecto. "solo se encuentran para comprar" contradice "comparten la plaza", porque la frase también describe ayuda. -->
+
+- [ ] A) Las personas del barrio solo se encuentran para comprar.
+ <!-- feedback: Incorrecto. "solo se encuentran para comprar" contradice "comparten la plaza", porque la frase también describe ayuda. -->
+- [x] B) Las personas que viven en el barrio viven cerca y colaboran entre sí.
+ <!-- feedback: Correcto. "comparten la plaza" y "se ayudan" muestran colaboración entre personas que viven cerca. -->
 - [ ] C) La comunidad está formada por una familia lejana.
-  <!-- feedback: Incorrecto. "una familia lejana" no aparece en el enunciado; "vecinos" indica personas que viven cerca. -->
+ <!-- feedback: Incorrecto. "una familia lejana" no aparece en el enunciado; "vecinos" indica personas que viven cerca. -->
 - [ ] D) Los vecinos se ayudan únicamente cuando reciben un premio.
-  <!-- feedback: Incorrecto. "únicamente cuando reciben un premio" contradice "cuando alguien lo necesita", porque la ayuda no depende de un premio. -->
+ <!-- feedback: Incorrecto. "únicamente cuando reciben un premio" contradice "cuando alguien lo necesita", porque la ayuda no depende de un premio. -->
 
 ### Explicacion Pedagogica
 La respuesta correcta es A). «Comparten la plaza» muestra una actividad común y «se ayudan» indica que las personas colaboran. La frase no habla de una familia lejana, de compras ni de premios; describe la convivencia de los vecinos. Reconocer estas palabras ayuda a comprender cómo se relacionan las personas de una comunidad.
@@ -75,14 +76,15 @@ La respuesta correcta es A). «Comparten la plaza» muestra una actividad común
 ¿Qué se puede inferir a partir de este texto?
 
 ### Opciones
-- [x] A) La biblioteca reúne a niños y adultos en un mismo espacio durante varios días.
-  <!-- feedback: Correcto. "de lunes a viernes" y "en la misma sala" muestran que niños y adultos comparten un espacio durante varios días. -->
-- [ ] B) La biblioteca permanece abierta todos los fines de semana.
-  <!-- feedback: Incorrecto. El texto dice "de lunes a viernes", pero no afirma que la biblioteca abra los fines de semana. -->
-- [ ] C) Los adultos no hablan con los niños en la biblioteca.
-  <!-- feedback: Incorrecto. "los adultos conversan en la misma sala" no permite concluir que eviten hablar con los niños; la negación es injustificada. -->
+
+- [ ] A) La biblioteca permanece abierta todos los fines de semana.
+ <!-- feedback: Incorrecto. El texto dice "de lunes a viernes", pero no afirma que la biblioteca abra los fines de semana. -->
+- [ ] B) Los adultos no hablan con los niños en la biblioteca.
+ <!-- feedback: Incorrecto. "los adultos conversan en la misma sala" no permite concluir que eviten hablar con los niños; la negación es injustificada. -->
+- [x] C) La biblioteca reúne a niños y adultos en un mismo espacio durante varios días.
+ <!-- feedback: Correcto. "de lunes a viernes" y "en la misma sala" muestran que niños y adultos comparten un espacio durante varios días. -->
 - [ ] D) La biblioteca es el único lugar de encuentro del barrio.
-  <!-- feedback: Incorrecto. "una biblioteca" no demuestra que sea el único lugar de encuentro; el texto solo informa de ese espacio. -->
+ <!-- feedback: Incorrecto. "una biblioteca" no demuestra que sea el único lugar de encuentro; el texto solo informa de ese espacio. -->
 
 ### Explicacion Pedagogica
 La respuesta correcta es A). El texto menciona que la biblioteca abre de lunes a viernes y que allí leen los niños mientras los adultos conversan. Por eso se puede inferir que el espacio reúne a personas de distintas edades durante varios días. Las otras opciones añaden afirmaciones que el texto no permite sostener.
@@ -97,14 +99,15 @@ La respuesta correcta es A). El texto menciona que la biblioteca abre de lunes a
 ¿Qué acción responde mejor a lo que necesitan las familias?
 
 ### Opciones
-- [x] A) Organizar una limpieza y el cuidado de los juegos, porque el parque es un espacio común que debe estar seguro y ordenado.
-  <!-- feedback: Correcto. "basura" y "juegos están deteriorados" muestran los problemas; "familias quieren recuperarlo" indica que hay que limpiar y cuidar. -->
-- [ ] B) Dejar la basura y cerrar los juegos, porque así el parque tendrá menos usuarios.
-  <!-- feedback: Incorrecto. "cerrar los juegos" y "menos usuarios" no responden a "familias quieren recuperarlo", porque reducen el acceso al parque. -->
-- [ ] C) Construir una tienda dentro del parque, porque cambiar el uso del espacio evita limpiarlo.
-  <!-- feedback: Incorrecto. "construir una tienda" cambia el uso del parque y no quita la basura ni repara los juegos deteriorados. -->
-- [ ] D) Esperar a que el parque se limpie solo, porque no hay nadie dispuesto a cuidar un espacio público.
-  <!-- feedback: Incorrecto. "esperar a que el parque se limpie solo" no propone una acción y contradice "familias quieren recuperarlo", que requiere cooperación. -->
+
+- [ ] A) Dejar la basura y cerrar los juegos, porque así el parque tendrá menos usuarios.
+ <!-- feedback: Incorrecto. "cerrar los juegos" y "menos usuarios" no responden a "familias quieren recuperarlo", porque reducen el acceso al parque. -->
+- [ ] B) Construir una tienda dentro del parque, porque cambiar el uso del espacio evita limpiarlo.
+ <!-- feedback: Incorrecto. "construir una tienda" cambia el uso del parque y no quita la basura ni repara los juegos deteriorados. -->
+- [ ] C) Esperar a que el parque se limpie solo, porque no hay nadie dispuesto a cuidar un espacio público.
+ <!-- feedback: Incorrecto. "esperar a que el parque se limpie solo" no propone una acción y contradice "familias quieren recuperarlo", que requiere cooperación. -->
+- [x] D) Organizar una limpieza y el cuidado de los juegos, porque el parque es un espacio común que debe estar seguro y ordenado.
+ <!-- feedback: Correcto. "basura" y "juegos están deteriorados" muestran los problemas; "familias quieren recuperarlo" indica que hay que limpiar y cuidar. -->
 
 ### Explicacion Pedagogica
 La opción A responde directamente a los dos problemas del texto: la basura y el deterioro de los juegos. Además, considera que el parque es un espacio común y que las familias quieren recuperarlo para usarlo con seguridad. Las otras opciones no resuelven los problemas descritos o reducen el uso del espacio.
@@ -119,14 +122,15 @@ La opción A responde directamente a los dos problemas del texto: la basura y el
 ¿Cuál es la idea principal del texto?
 
 ### Opciones
-- [x] A) El barrio ofrece varios lugares y actividades para vivir, aprender y encontrarse.
-  <!-- feedback: Correcto. "plaza", "tienda", "biblioteca" y "escuela" aparecen como lugares que los habitantes usan para aprender, comprar y conversar. -->
-- [ ] B) El barrio solo sirve para comprar, porque sus otros lugares no se mencionan.
-  <!-- feedback: Incorrecto. "solo sirve para comprar" es falso: el texto también menciona "escuela" y "plaza", así que el barrio ofrece otras actividades. -->
-- [ ] C) La comunidad está abandonada, porque no hay personas que usen los espacios.
-  <!-- feedback: Incorrecto. "comunidad abandonada" contradice "los niños estudian" y "los vecinos conversan", porque hay uso del espacio. -->
+
+- [ ] A) El barrio solo sirve para comprar, porque sus otros lugares no se mencionan.
+ <!-- feedback: Incorrecto. "solo sirve para comprar" es falso: el texto también menciona "escuela" y "plaza", así que el barrio ofrece otras actividades. -->
+- [ ] B) La comunidad está abandonada, porque no hay personas que usen los espacios.
+ <!-- feedback: Incorrecto. "comunidad abandonada" contradice "los niños estudian" y "los vecinos conversan", porque hay uso del espacio. -->
+- [x] C) El barrio ofrece varios lugares y actividades para vivir, aprender y encontrarse.
+ <!-- feedback: Correcto. "plaza", "tienda", "biblioteca" y "escuela" aparecen como lugares que los habitantes usan para aprender, comprar y conversar. -->
 - [ ] D) El barrio es igual a una ciudad grande, porque tiene todos los servicios imaginables.
-  <!-- feedback: Incorrecto. "todos los servicios imaginables" no aparece; el texto solo describe cuatro lugares y no permite compararlos con una ciudad grande. -->
+ <!-- feedback: Incorrecto. "todos los servicios imaginables" no aparece; el texto solo describe cuatro lugares y no permite compararlos con una ciudad grande. -->
 
 ### Explicacion Pedagogica
 La idea principal reúne lasarious ideas del párrafo: el barrio tiene diferentes lugares y sus habitantes los utilizan para estudiar, comprar y conversar. No se trata de un lugar abandonado ni de un espacio dedicado únicamente a las compras. Analizar la idea principal ayuda a quitar detalles aislados y conservar el mensaje central.
@@ -142,13 +146,13 @@ La idea principal reúne lasarious ideas del párrafo: el barrio tiene diferente
 
 ### Opciones
 - [x] A) Escuchar las tres necesidades, comparar beneficios y riesgos, y averiguar sobre costos y seguridad antes de elegir, porque las opiniones aisladas no bastan.
-  <!-- feedback: Correcto. "tres vecinos" y "no se informa el costo" exigen comparar necesidades y datos antes de tomar una decisión definitiva. -->
+ <!-- feedback: Correcto. "tres vecinos" y "no se informa el costo" exigen comparar necesidades y datos antes de tomar una decisión definitiva. -->
 - [ ] B) Elegir el parque solo porque Ana dice que los niños necesitan moverse, sin considerar las otras necesidades.
-  <!-- feedback: Incorrecto. Elegir "solo porque Ana" ignora a Beto y Camila, cuyas propuestas también responden a necesidades del terreno. -->
+ <!-- feedback: Incorrecto. Elegir "solo porque Ana" ignora a Beto y Camila, cuyas propuestas también responden a necesidades del terreno. -->
 - [ ] C) Elegir el jardín solo porque Beto dice que las plantas ayudan, sin comprobar quién las cuidará ni cuánto costará.
-  <!-- feedback: Incorrecto. "solo porque Beto" no considera la pregunta por el cuidado de las plantas ni el costo, datos que faltan en el texto. -->
+ <!-- feedback: Incorrecto. "solo porque Beto" no considera la pregunta por el cuidado de las plantas ni el costo, datos que faltan en el texto. -->
 - [ ] D) Elegir la ampliación solo porque Camila menciona los carros, sin pensar en la seguridad de los niños ni en el espacio de la comunidad.
-  <!-- feedback: Incorrecto. "solo porque Camila" deja fuera a Ana y Beto y no responde por la seguridad de los niños ni por el espacio común. -->
+ <!-- feedback: Incorrecto. "solo porque Camila" deja fuera a Ana y Beto y no responde por la seguridad de los niños ni por el espacio común. -->
 
 ### Explicacion Pedagogica
 La opción A es la más adecuada porque tiene en cuenta las tres propuestas y reconoce que el texto no ofrece todos los datos necesarios. Una decisión responsable requiere comparar beneficios, riesgos, costos y seguridad antes de actuar. Las otras opciones toman una sola opinión y, además de eso, ignoran las necesidades o las dudas expresadas por los demás vecinos.
@@ -163,14 +167,15 @@ La opción A es la más adecuada porque tiene en cuenta las tres propuestas y re
 ¿Qué relación organiza el texto entre las actividades descritas?
 
 ### Opciones
-- [x] A) El texto presenta una secuencia: primero los vecinos se reúnen, luego juegan o conversan y, al final, recogen los papeles.
-  <!-- feedback: Correcto. "Los sábados", "Después de un rato" y "todos recogen" ordenan el encuentro, las actividades y la limpieza en una secuencia. -->
-- [ ] B) El texto presenta actividades simultáneas y contradictorias, porque jugar y conversar no pueden realizarse en la misma plaza.
-  <!-- feedback: Incorrecto. "Después de un rato" indica una etapa posterior, no actividades contradictorias; por eso no se puede afirmar que jugar y conversar sean incompatibles. -->
-- [ ] C) El texto sustituye la convivencia por el trabajo, porque la limpieza ocurre desde el principio y no tiene relación con el encuentro.
-  <!-- feedback: Incorrecto. La limpieza aparece "Después de un rato", no desde el principio, y reemplaza una etapa final sin borrar la convivencia anterior. -->
-- [ ] D) El texto solo enumera nombres de lugares, porque no incluye acciones de las personas.
-  <!-- feedback: Incorrecto. El texto incluye acciones como "se reúnen", "juegan" y "conversan"; no es una lista de nombres de lugares. -->
+
+- [ ] A) El texto presenta actividades simultáneas y contradictorias, porque jugar y conversar no pueden realizarse en la misma plaza.
+ <!-- feedback: Incorrecto. "Después de un rato" indica una etapa posterior, no actividades contradictorias; por eso no se puede afirmar que jugar y conversar sean incompatibles. -->
+- [ ] B) El texto sustituye la convivencia por el trabajo, porque la limpieza ocurre desde el principio y no tiene relación con el encuentro.
+ <!-- feedback: Incorrecto. La limpieza aparece "Después de un rato", no desde el principio, y reemplaza una etapa final sin borrar la convivencia anterior. -->
+- [ ] C) El texto solo enumera nombres de lugares, porque no incluye acciones de las personas.
+ <!-- feedback: Incorrecto. El texto incluye acciones como "se reúnen", "juegan" y "conversan"; no es una lista de nombres de lugares. -->
+- [x] D) El texto presenta una secuencia: primero los vecinos se reúnen, luego juegan o conversan y, al final, recogen los papeles.
+ <!-- feedback: Correcto. "Los sábados", "Después de un rato" y "todos recogen" ordenan el encuentro, las actividades y la limpieza en una secuencia. -->
 
 ### Explicacion Pedagogica
 La opción A identifica la organización temporal del texto. La expresión «Los sábados» presenta la costumbre, «Después de un rato» marca el paso del tiempo y «todos recogen» cierra la descripción con una acción de cuidado. Reconocer conectores y acciones permite explicar cómo el texto construye una secuencia y valorar la convivencia comunitaria.
@@ -185,14 +190,15 @@ La opción A identifica la organización temporal del texto. La expresión «Los
 ¿Cuál conclusión se apoya mejor en las afirmaciones y los datos?
 
 ### Opciones
-- [x] A) La comunidad debe considerar conjuntamente los juegos, la iluminación y los árboles, porque las cifras registran necesidades distintas que deben compararse.
-  <!-- feedback: Correcto. "18 peticiones de juegos", "14 de iluminación" y "8 de árboles" muestran necesidades distintas que la comunidad debe comparar. -->
-- [ ] B) La iluminación puede descartarse, porque la palabra «noche» no demuestra que falte luz en la plaza.
-  <!-- feedback: Incorrecto. "La plaza está oscura por las noches" sí plantea una dificultad; descartar la iluminación por la palabra "noche" contradice el dato. -->
+
+- [ ] A) La iluminación puede descartarse, porque la palabra «noche» no demuestra que falte luz en la plaza.
+ <!-- feedback: Incorrecto. "La plaza está oscura por las noches" sí plantea una dificultad; descartar la iluminación por la palabra "noche" contradice el dato. -->
+- [x] B) La comunidad debe considerar conjuntamente los juegos, la iluminación y los árboles, porque las cifras registran necesidades distintas que deben compararse.
+ <!-- feedback: Correcto. "18 peticiones de juegos", "14 de iluminación" y "8 de árboles" muestran necesidades distintas que la comunidad debe comparar. -->
 - [ ] C) Las familias están en desacuerdo, porque las cifras 18, 14 y 8 son distintas.
-  <!-- feedback: Incorrecto. Las cifras "18", "14" y "8" pueden marcar opciones diferentes y no demuestran desacuerdo entre las familias. -->
+ <!-- feedback: Incorrecto. Las cifras "18", "14" y "8" pueden marcar opciones diferentes y no demuestran desacuerdo entre las familias. -->
 - [ ] D) Deben priorizarse únicamente los juegos, porque 18 es el dato más alto y una sola cifra basta para conocer todas las necesidades.
-  <!-- feedback: Incorrecto. Elegir solo "18" ignora "14" y "8"; una cifra más alta no describe todas las necesidades del barrio. -->
+ <!-- feedback: Incorrecto. Elegir solo "18" ignora "14" y "8"; una cifra más alta no describe todas las necesidades del barrio. -->
 
 ### Explicacion Pedagogica
 La opción A integra las dos Interventiones y los resultados de la encuesta. Las familias pudieron escoger más de una opción, por lo que las cifras no expresan necesariamente desacuerdo; muestran diferentes necesidades que la comunidad debe estudiar. Descartar la iluminación, afirmar un desacuerdo o considerar únicamente los juegos sería reducir información importante y tomar una decisión poco equilibrada.
