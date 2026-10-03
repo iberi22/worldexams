@@ -68,7 +68,7 @@ Cuando el agua de un rio recibe aguas residuales o basura, cambia de color y de 
 **Bloom:** Apply
 **ICFES:** Indagación
 **Expected_Success:** 0.80
-**Contexto:** En el colegio de Medellin, los estudiantes recogen una semana de basura del patio y separan los residuos en bolsas segun sean de papel, plastico, vidrio o materia organica.
+**Contexto:** En el colegio de Medellin, los estudiantes recogen una semana de basura del patio y separan los residuos en bolsas según sean de papel, plastico, vidrio o materia organica.
 ### Enunciado
 Los estudiantes separan los residuos y descubren que casi ninguno estaba en la bolsa correcta. ¿qué conclusión saca el grupo?
 
@@ -122,7 +122,7 @@ Los estudiantes comparan cuánto se disuelve un sobre en agua caliente y en agua
 - [ ] C) Que el agua caliente siempre contiene más sales minerales que la fría
   <!-- feedback: Incorrecto. La temperatura no cambia las sales del agua. El experimento mide la rapidez de la disolucion, que depende de como se mueven las particulas del agua. -->
 - [ ] D) Que el sobre no se disuelve en ninguna de las dos aguas
-  <!-- feedback: Incorrecto. El sobre si se disuelve en ambas aguas. La diferencia que se busca es la rapidez con que lo hace segun la temperatura del agua. -->
+  <!-- feedback: Incorrecto. El sobre si se disuelve en ambas aguas. La diferencia que se busca es la rapidez con que lo hace según la temperatura del agua. -->
 ### Explicacion Pedagogica
 La disolucion de un solido en un liquido depende de la temperatura: si el liquido esta mas caliente, las particulas se mueven mas rápido y el solido se disuelve en menos tiempo. Medir y comparar esos tiempos es la manera de estudiar esa relacion y de entender por que las sustancias se disuelven mejor en agua caliente.
 
@@ -152,7 +152,7 @@ Las acciones humanas pueden mejorar o dañar el ambiente de un barrio. Plantar a
 **Bloom:** Analyze
 **ICFES:** Indagación
 **Expected_Success:** 0.70
-**Contexto:** En una tienda de Manizales, los estudiantes cuentan los residuos que dejan los clientes en una hora y comparan segun si traen bolsa propia o bolsa de tienda.
+**Contexto:** En una tienda de Manizales, los estudiantes cuentan los residuos que dejan los clientes en una hora y comparan según si traen bolsa propia o bolsa de tienda.
 ### Enunciado
 Los estudiantes cuentan cuántos residuos deja cada cliente con bolsa propia frente a los que llegan con bolsa de tienda. ¿qué conclusión es la más adecuada?
 
@@ -166,7 +166,7 @@ Los estudiantes cuentan cuántos residuos deja cada cliente con bolsa propia fre
 - [ ] D) Que los residuos no se pueden comparar porque cada cliente es diferente
   <!-- feedback: Incorrecto. La cantidad de clientes que trae cada tipo de bolsa se puede contar en la misma hora. Esa comparacion en igualdad de condiciones si permite concluir. -->
 ### Explicacion Pedagogica
-Comparar dos grupos en el mismo lugar y en el mismo momento es lo que hace valida una investigacion. Al contar los residuos segun el uso de bolsa se mide una variable concreta y se puede concluir si esa practica reduce la basura. Ese tipo de comparacion es el procedimiento de base de un estudio de campo.
+Comparar dos grupos en el mismo lugar y en el mismo momento es lo que hace valida una investigacion. Al contar los residuos según el uso de bolsa se mide una variable concreta y se puede concluir si esa practica reduce la basura. Ese tipo de comparacion es el procedimiento de base de un estudio de campo.
 
 ## Question 8 [D7-D8]
 **ID:** CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle-v8
