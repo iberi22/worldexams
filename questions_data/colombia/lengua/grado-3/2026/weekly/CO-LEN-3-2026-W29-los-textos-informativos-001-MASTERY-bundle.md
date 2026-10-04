@@ -1,9 +1,9 @@
 ---
-id: "CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle"
+id: "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle"
 country: "colombia"
 grado: 3
 asignatura: "lengua"
-tema: "los-texto-informativos"
+tema: "los-textos-informativos"
 periodo: "weekly"
 week: "W29"
 year: 2026
@@ -22,7 +22,7 @@ creador: "Jules-Agent"
 ## Descripcion
 Esta semana los estudiantes leen avisos, recetas y noticias cortas para encontrar datos y mensajes principales.
 ## Question 1 [D3-D4]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v1
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v1
 **Bloom:** Remember
 **ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.90
@@ -41,7 +41,7 @@ Esta semana los estudiantes leen avisos, recetas y noticias cortas para encontra
 ### Explicacion Pedagogica
 El texto informativo comunica hechos reales. Recordar esa funcion permite distinguirlo de cuentos e instrucciones al leer.
 ## Question 2 [D3-D4]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v2
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Competencia Lectora (Literal)
 **Expected_Success:** 0.88
@@ -60,7 +60,7 @@ Aviso: "Jornada de vacunacion, sabado 9 de la mañana, coliseo del barrio." ¿Qu
 ### Explicacion Pedagogica
 Leer un aviso exige buscar datos precisos. Comprender que, cuando y donde permite usar la informacion en la vida diaria.
 ## Question 3 [D5-D6]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v3
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Textual
 **Expected_Success:** 0.84
@@ -79,7 +79,7 @@ Receta: "1. Pela el platano. 2. Rellenalo con queso. 3. Frito en aceite caliente
 ### Explicacion Pedagogica
 Las recetas informan con pasos ordenados. Reconocer la numeracion y los verbos de accion permite seguirlas sin perderse.
 ## Question 4 [D5-D6]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v4
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Uso comprensivo del conocimiento
 **Expected_Success:** 0.83
@@ -98,7 +98,7 @@ Noticia: "Liberaron 50 tortugas en la cienga para proteger la fauna." ¿Cual es 
 ### Explicacion Pedagogica
 La noticia responde que paso y para que. Aplicar esas preguntas permite encontrar el dato principal entre los detalles.
 ## Question 5 [D5-D6]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v5
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v5
 **Bloom:** Apply
 **ICFES:** Competencia Lectora (Inferencial)
 **Expected_Success:** 0.82
@@ -117,7 +117,7 @@ Señal: "No arrojes basura. Usa las canecas." ¿Que mensaje da la señal?
 ### Explicacion Pedagogica
 Las señales informan con mensajes breves. Interpretar la prohibicion y la orden permite actuar bien en espacios publicos.
 ## Question 6 [D7-D8]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v6
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Pragmatico
 **Expected_Success:** 0.79
@@ -136,7 +136,7 @@ Texto A: "El grano magico canto en la noche." Texto B: "El cafe de Pereira gano 
 ### Explicacion Pedagogica
 Lo informativo se reconoce porque presenta hechos verificables. Analizar si lo contado puede comprobarse separa noticia de fantasia.
 ## Question 7 [D7-D8]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v7
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v7
 **Bloom:** Analyze
 **ICFES:** Discursivo
 **Expected_Success:** 0.78
@@ -155,7 +155,7 @@ Titulo: "Grado tercero gano el concurso de lectura." Cuerpo: "Vencio a otros cin
 ### Explicacion Pedagogica
 El titulo anuncia y el cuerpo detalla. Analizar esa relacion muestra que los datos del cuerpo prueban lo afirmado en el titulo.
 ## Question 8 [D9-D10]
-**ID:** CO-LEN-3-2026-W29-los-texto-informativos-001-MASTERY-bundle-v8
+**ID:** CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Competencia Lectora (Crítica)
 **Expected_Success:** 0.72
