@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-25-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v1",
+      "statement": "¿Que es una familia de palabras?",
+      "context": "En una escuela de Bogota, Valentina aprende que pan, panadero y panaderia vienen de la misma raiz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un grupo de palabras que comparten la misma raiz",
+          "is_correct": true,
+          "feedback": "Correcto. La familia comparte la raiz porque todas nacen de la misma palabra base, como pan en panadero y panaderia."
+        },
+        {
+          "letter": "B",
+          "text": "Un grupo de palabras que riman",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las rimas suenan parecido al final porque comparten sonidos, pero no siempre comparten la misma raiz."
+        },
+        {
+          "letter": "C",
+          "text": "Un grupo de palabras ordenadas por abecedario",
+          "is_correct": false,
+          "feedback": "Incorrecto. El orden alfabetico organiza por letras porque sirve para buscar, pero no agrupa por significado."
+        },
+        {
+          "letter": "D",
+          "text": "Un grupo de palabras en otro idioma",
+          "is_correct": false,
+          "feedback": "Incorrecto. La familia se forma dentro del mismo idioma porque la raiz se mantiene aunque cambie la terminacion."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una familia lexical nace de una raiz comun. Recordar esa idea permite agrupar palabras por su origen y entender mejor su significado.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v2",
+      "statement": "Grupo: \"flor, florero, florecer\". ¿Cual es la palabra base de esa familia?",
+      "context": "En una escuela de Medellin, Tomas juega a encontrar la palabra madre de cada grupo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Florero",
+          "is_correct": false,
+          "feedback": "Incorrecto. Florero es una palabra derivada porque nombra el objeto donde van las flores y nace de otra mas corta."
+        },
+        {
+          "letter": "B",
+          "text": "Flor",
+          "is_correct": true,
+          "feedback": "Correcto. Flor es la base porque es la mas corta y de ella nacen florero y florecer al agregar terminaciones."
+        },
+        {
+          "letter": "C",
+          "text": "Florecer",
+          "is_correct": false,
+          "feedback": "Incorrecto. Florecer es una palabra derivada porque expresa la accion que hace la planta y viene de la base."
+        },
+        {
+          "letter": "D",
+          "text": "Flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Flores es solo el plural de la base porque agrega s, pero la raiz original es flor."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La palabra base es la mas corta y sencilla de la familia. Comprender eso ayuda a descubrir de donde vienen las palabras mas largas.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v3",
+      "statement": "La raiz es \"pesc\". ¿Que palabra NO pertenece a su familia?",
+      "context": "En una escuela de Tunja, Gabriela arma familias con tarjetas sobre oficios de Boyaca.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pescador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pescador si pertenece porque nombra a quien pesca y conserva la raiz pesc al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "Pescar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pescar si pertenece porque es la accion base y contiene completa la raiz pesc."
+        },
+        {
+          "letter": "C",
+          "text": "Pesado",
+          "is_correct": true,
+          "feedback": "Correcto. Pesado no pertenece porque viene de peso y significa que algo tiene mucho peso, no tiene relacion con pescar."
+        },
+        {
+          "letter": "D",
+          "text": "Pescado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pescado si pertenece porque es lo que se obtiene al pescar y mantiene la raiz pesc."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "No basta que las letras se parezcan, la familia exige el mismo significado base. Aplicar ese filtro evita confundir pesc con peso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v4",
+      "statement": "¿Cual palabra completa bien la familia de \"leche\"?",
+      "context": "En una escuela de Rionegro, Santiago completa una tabla de palabras derivadas de \"leche\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lechuga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lechuga es una verdura cuyo nombre apenas se parece porque viene de otra raiz y no de la leche."
+        },
+        {
+          "letter": "B",
+          "text": "Lecho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Lecho significa cama en textos antiguos porque viene de otra raiz y no tiene relacion con la leche."
+        },
+        {
+          "letter": "C",
+          "text": "Leccion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Leccion significa clase o enseñanza porque viene del verbo leer, no de la leche."
+        },
+        {
+          "letter": "D",
+          "text": "Lechero",
+          "is_correct": true,
+          "feedback": "Correcto. Lechero pertenece a la familia porque nombra a quien vende leche y conserva la raiz lech."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Las palabras derivadas agregan terminaciones a la raiz. Verificar raiz y significado permite completar familias sin dejarse engañar por parecidos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v5",
+      "statement": "Si \"jardin\" es la base, ¿que palabra es de su familia?",
+      "context": "En una escuela de Cali, Daniel relaciona oficios del Valle con su palabra de origen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jardinero",
+          "is_correct": true,
+          "feedback": "Correcto. Jardinero deriva de jardin porque nombra a quien cuida el jardin y conserva la raiz jardin."
+        },
+        {
+          "letter": "B",
+          "text": "Jirafa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jirafa nombra un animal porque su raiz es distinta, aunque empiece con sonidos parecidos."
+        },
+        {
+          "letter": "C",
+          "text": "Jornada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jornada significa dia de trabajo porque viene de dia y no tiene relacion con el jardin."
+        },
+        {
+          "letter": "D",
+          "text": "Jugo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugo nombra una bebida porque viene de otra raiz y no comparte significado con jardin."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los oficios suelen formarse agregando ero a la base. Aplicar ese patron permite reconocer familias como jardin y jardinero con rapidez.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v6",
+      "statement": "Familia 1: \"sal, salero, salado\". Familia 2: \"sol, soleado, solcito\". ¿Por que \"salado\" y \"soleado\" no son de la misma familia?",
+      "context": "En una escuela de Barranquilla, Paula analiza dos familias que se cruzan por una letra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque una lleva tilde y la otra no",
+          "is_correct": false,
+          "feedback": "Incorrecto. La tilde marca la pronunciacion porque indica la silaba fuerte, pero no define la familia de la palabra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque vienen de raices con distinto significado",
+          "is_correct": true,
+          "feedback": "Correcto. Salado viene de sal que significa condimento, y soleado viene de sol que significa estrella, así que sus raices son distintas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque una es mas larga que la otra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no define la familia porque las derivadas pueden ser largas o cortas segun la terminacion."
+        },
+        {
+          "letter": "D",
+          "text": "Porque terminan en vocales distintas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La terminacion marca el genero o el adjetivo porque cambia la funcion, pero la familia la define la raiz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una sola letra cambia la raiz y el significado. Analizar sal frente a sol muestra que la familia depende del origen, no del parecido final.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v7",
+      "statement": "En \"zapateria\", ¿cual es la raiz y que significa la terminacion ia?",
+      "context": "En una escuela de Bucaramanga, Andres descompone palabras largas en raiz y terminacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Raiz zapa e ia significa pequeño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La raiz no se corta así porque zapat es la parte que se repite en zapato y zapatero."
+        },
+        {
+          "letter": "B",
+          "text": "Raiz teria e ia no significa nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. Teria no es la parte comun porque en zapato y zapatero no aparece, y la terminacion si aporta el sentido de lugar."
+        },
+        {
+          "letter": "C",
+          "text": "Raiz zapat e ia indica lugar donde se vende o se arregla",
+          "is_correct": true,
+          "feedback": "Correcto. Zapat es la raiz que aparece en zapato, y la terminacion ia señala el local, por eso zapateria es donde se venden zapatos."
+        },
+        {
+          "letter": "D",
+          "text": "Raiz zapateria completa sin partes",
+          "is_correct": false,
+          "feedback": "Incorrecto. La palabra si se puede partir porque zapat se repite en toda la familia y la terminacion agrega el sentido de local."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las terminaciones como eria o ia indican lugares. Descomponer la palabra en raiz mas terminacion revela como se construye el significado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle-v8",
+      "statement": "El compañero propuso: \"tierra, entierro, terreno, terrestre\". ¿Que debe corregir Sara en esa lista?",
+      "context": "En una escuela de Pasto, Sara evalua la tarea de un compañero sobre la familia de \"tierra\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quitar terrestre porque es muy larga",
+          "is_correct": false,
+          "feedback": "Incorrecto. Terrestre si pertenece porque viene de terra, raiz latina de tierra, y la longitud no excluye a nadie de la familia."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar terreno porque lleva una sola r",
+          "is_correct": false,
+          "feedback": "Incorrecto. Terreno si pertenece porque significa extension de tierra y conserva la raiz terr."
+        },
+        {
+          "letter": "C",
+          "text": "La lista esta perfecta y no necesita cambios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Hay una palabra colada porque entierro pertenece a la familia de enterrar personas y no a la de tierra como suelo."
+        },
+        {
+          "letter": "D",
+          "text": "Quitar entierro porque significa funeral y no viene de tierra",
+          "is_correct": true,
+          "feedback": "Correcto. Entierro viene de enterrar a un difunto porque su sentido es sepultar, y aunque suena parecido no comparte el significado de tierra como suelo."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar una familia exige revisar raiz y significado de cada candidata. Entierro se parece pero significa funeral, así que debe salir de la lista de tierra.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle",
+      "periodo": 25,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
