@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-23-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.220Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v1",
+      "statement": "¿Para que sirve el punto al final de una oracion?",
+      "context": "En una escuela de Bogota, Nicolas aprende donde va el punto al copiar un texto del tablero.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para indicar que la idea termino",
+          "is_correct": true,
+          "feedback": "Correcto. El punto cierra la oracion porque le avisa al lector que la idea quedo completa y sigue otra."
+        },
+        {
+          "letter": "B",
+          "text": "Para unir dos palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras se unen con guion en casos especiales porque el punto marca pausas, no uniones."
+        },
+        {
+          "letter": "C",
+          "text": "Para hacer una pregunta",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las preguntas se marcan con signos de interrogacion porque el punto solo cierra afirmaciones."
+        },
+        {
+          "letter": "D",
+          "text": "Para separar los renglones",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los renglones se separan con el cambio de linea porque el punto va dentro del renglon al final de la idea."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El punto final indica que una idea termino. Recordar esa funcion permite leer con pausas y escribir textos que se entienden.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v2",
+      "statement": "Lee: \"Compre mango, banano y papaya\". ¿Para que sirven las comas en esa oracion?",
+      "context": "En una escuela de Medellin, Paula observa una lista de frutas del mercado de la plaza.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para terminar la oracion",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oracion termina con el punto final porque la coma solo hace pausas cortas dentro de la idea."
+        },
+        {
+          "letter": "B",
+          "text": "Para separar los elementos de la lista",
+          "is_correct": true,
+          "feedback": "Correcto. Cada coma separa una fruta de la siguiente porque así el lector distingue mango, banano y papaya sin confundirlos."
+        },
+        {
+          "letter": "C",
+          "text": "Para unir las frutas en una sola palabra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las frutas siguen siendo tres palabras distintas porque la coma las separa y no las pega."
+        },
+        {
+          "letter": "D",
+          "text": "Para indicar una pregunta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La oracion afirma lo que compro porque no tiene signos de interrogacion ni entonacion de pregunta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La coma separa elementos de una enumeracion. Comprender esa funcion ayuda a leer listas sin mezclar los objetos nombrados.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v3",
+      "statement": "La nota dice: \"Mama hice la tarea lave los platos y ordene mi cuarto\" ¿Donde deben ir las comas?",
+      "context": "En una escuela de Cali, Andres puntua una nota que escribio para su mama.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mama hice, la tarea lave, los platos y ordene mi cuarto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esos cortes parten las acciones por la mitad porque separan el verbo de su complemento y rompen cada idea."
+        },
+        {
+          "letter": "B",
+          "text": "Mama hice la tarea lave los platos y, ordene mi cuarto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sola coma antes de la ultima accion no separa las anteriores porque las tres tareas quedan pegadas."
+        },
+        {
+          "letter": "C",
+          "text": "Mama, hice la tarea, lave los platos y ordene mi cuarto",
+          "is_correct": true,
+          "feedback": "Correcto. La primera coma separa el vocativo mama porque es a quien se habla, y las demas separan las tres acciones realizadas."
+        },
+        {
+          "letter": "D",
+          "text": "Mama hice la tarea, lave los platos y ordene, mi cuarto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese corte separa mi cuarto de su verbo porque ordene y mi cuarto pertenecen a la misma accion."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La coma separa al vocativo y cada accion de una serie. Aplicar esas dos reglas permite puntuar notas con varias tareas sin confundirlas.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v4",
+      "statement": "Lee: \"El rio Magdalena es largo los pescadores madrugan el mercado abre temprano\" ¿Como queda bien puntuado?",
+      "context": "En una escuela de Barranquilla, Laura corrige un texto donde faltan los puntos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unir las tres ideas solo con comas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son tres ideas completas y no elementos de una lista, porque cada una tiene su propio sujeto y verbo."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar las tres ideas pegadas con un solo punto al final",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un solo punto al final deja las tres ideas pegadas porque no marca donde termina cada una."
+        },
+        {
+          "letter": "C",
+          "text": "Separar con puntos pero seguir cada oracion con minuscula",
+          "is_correct": false,
+          "feedback": "Incorrecto. Despues de punto sigue mayuscula porque así se marca el inicio de la siguiente oracion, y aquí quedarian en minuscula."
+        },
+        {
+          "letter": "D",
+          "text": "Separar las tres ideas en tres oraciones con punto y mayuscula",
+          "is_correct": true,
+          "feedback": "Correcto. Cada idea es una oracion completa porque tiene sujeto y verbo propios, así que cada una se cierra con punto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Cada oracion completa se cierra con punto y la siguiente inicia con mayuscula. Aplicar esa regla separa ideas y hace legible el parrafo.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v5",
+      "statement": "El inicio dice: \"Hola abuela te extraño mucho\" ¿Que signo falta despues del saludo?",
+      "context": "En una escuela de Pereira, Santiago escribe una carta corta a su abuela en Filandia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una coma despues de Hola abuela",
+          "is_correct": true,
+          "feedback": "Correcto. El vocativo abuela se separa con coma porque es la persona a quien se dirige la carta y así se marca la pausa del saludo."
+        },
+        {
+          "letter": "B",
+          "text": "Un punto final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El punto cerraria todo el saludo porque impediria seguir con el mensaje, y el saludo debe conectarse con lo demas."
+        },
+        {
+          "letter": "C",
+          "text": "Un signo de interrogacion",
+          "is_correct": false,
+          "feedback": "Incorrecto. El saludo no pregunta nada porque solo expresa cariño, así que no necesita signos de pregunta."
+        },
+        {
+          "letter": "D",
+          "text": "Dos puntos al final de todo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los dos puntos anuncian una lista porque sirven para introducir algo, no para separar un saludo."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El nombre de la persona a quien se habla se separa con coma. Esa pausa marca el saludo y prepara al lector para el resto del mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v6",
+      "statement": "Compara: 1. \"Pela las papas, lava y pica.\" 2. \"Pela las papas lava y pica.\" ¿Que diferencia produce la coma?",
+      "context": "En una escuela de Tunja, Mariana analiza como cambia una receta si se mueve una coma.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ninguna, las dos se entienden igual",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin la coma las acciones se pegan porque no se distingue donde termina pelar y donde empieza lavar."
+        },
+        {
+          "letter": "B",
+          "text": "La coma separa las tres acciones y sin ella se confunden",
+          "is_correct": true,
+          "feedback": "Correcto. Con comas se distinguen pelar, lavar y picar porque cada pausa marca una accion distinta dentro de la receta."
+        },
+        {
+          "letter": "C",
+          "text": "La coma cambia el ingrediente principal",
+          "is_correct": false,
+          "feedback": "Incorrecto. El ingrediente sigue siendo las papas porque la coma solo ordena las acciones y no cambia los alimentos."
+        },
+        {
+          "letter": "D",
+          "text": "La coma convierte la receta en pregunta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La receta sigue dando ordenes porque mantiene los verbos en imperativo, y la coma no crea preguntas."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "En instrucciones cada coma separa una accion. Analizar la pausa muestra que sin comas los pasos se mezclan y la receta se vuelve confusa.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v7",
+      "statement": "El aviso dice: \"Niños, guarden silencio en la sala.\" ¿Por que la coma despues de Niños es correcta?",
+      "context": "En una escuela de Manizales, Tomas revisa un aviso de la biblioteca del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque separa dos oraciones completas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo hay una orden completa porque guarden es el unico verbo, así que no hay dos oraciones para separar."
+        },
+        {
+          "letter": "B",
+          "text": "Porque reemplaza el punto final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aviso aun necesita su punto final porque la coma solo marca una pausa breve dentro de la idea."
+        },
+        {
+          "letter": "C",
+          "text": "Porque separa a las personas a quienes se dirige el aviso",
+          "is_correct": true,
+          "feedback": "Correcto. Niños es el vocativo porque indica quienes deben guardar silencio, y por eso se separa con coma del resto de la orden."
+        },
+        {
+          "letter": "D",
+          "text": "Porque separa una lista de lugares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo se nombra un lugar, la sala, porque no hay enumeracion de sitios en el aviso."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El vocativo nombra al destinatario del mensaje y se separa con coma. Reconocerlo permite leer avisos con la pausa y el tono adecuados.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle-v8",
+      "statement": "Version 1: \"Atencion, mañana hay jornada de lectura, traigan su libro favorito.\" Version 2: \"Atencion mañana hay jornada de lectura traigan su libro favorito\" ¿Cual es mejor y por que?",
+      "context": "En una escuela de Neiva, Gabriela evalua dos versiones del mismo mensaje para la cartelera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La version 2, porque es mas corta",
+          "is_correct": false,
+          "feedback": "Incorrecto. La version 2 no es mas corta en palabras porque solo le faltan los signos, y sin ellos el mensaje se pega."
+        },
+        {
+          "letter": "B",
+          "text": "Las dos son iguales, porque dicen lo mismo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dicen lo mismo en palabras pero no en claridad porque sin comas el lector no sabe donde pausar."
+        },
+        {
+          "letter": "C",
+          "text": "La version 2, porque no necesita pausas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Todo mensaje largo necesita pausas porque sin ellas las ideas se mezclan y cuesta entender la invitacion."
+        },
+        {
+          "letter": "D",
+          "text": "La version 1, porque la coma separa el llamado y las dos ideas del mensaje",
+          "is_correct": true,
+          "feedback": "Correcto. La version 1 es clara porque la primera coma aisla el vocativo Atencion y la segunda separa las dos informaciones de la jornada."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar la puntuacion muestra que las comas guian las pausas del lector. La version con comas separa el llamado y cada idea, así que comunica mejor.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle",
+      "periodo": 23,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

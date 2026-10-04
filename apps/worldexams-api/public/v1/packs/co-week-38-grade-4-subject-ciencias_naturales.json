@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-38-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-04T00:22:44.915Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es el planeta más cercano al sol?",
+      "context": "En un colegio de Bogotá, la profesora explica a sus estudiantes sobre el sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mercurio",
+          "is_correct": true,
+          "feedback": "Correcto. Mercurio es el planeta más cercano al sol; está a unos 58 millones de kilómetros de distancia."
+        },
+        {
+          "letter": "B",
+          "text": "Venus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Venus es el segundo planeta más cercano al sol; el más cercano es Mercurio."
+        },
+        {
+          "letter": "C",
+          "text": "La Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra es el tercer planeta más cercano al sol; Mercurio y Venus están más cerca."
+        },
+        {
+          "letter": "D",
+          "text": "Marte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marte es el cuarto planeta más cercano al sol; está más lejos que Mercurio, Venus y la Tierra."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sistema solar está formado por el sol y los planetas que giran a su alrededor. Los planetas, en orden de distancia al sol, son: Mercurio, Venus, la Tierra, Marte, Júpiter, Saturno, Urano y Neptuno. Mercurio es el planeta más cercano al sol y también el más pequeño. Debido a su cercanía al sol, Mercurio tiene temperaturas extremadamente altas durante el día y muy bajas durante la noche.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v2",
+      "statement": "¿Qué forma tiene la Tierra?",
+      "context": "En una clase de ciencias de Medellín, los estudiantes aprenden sobre la Tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plana",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra no es plana; es un geoide, es decir, una esfera ligeramente achatada en los polos."
+        },
+        {
+          "letter": "B",
+          "text": "B) Esférica (casi redonda)",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra tiene forma de geoide: es casi esférica, pero ligeramente achatada en los polos y abultada en el ecuador."
+        },
+        {
+          "letter": "C",
+          "text": "Cuadrada",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra no es cuadrada; es un geoide, es decir, una esfera ligeramente achatada en los polos."
+        },
+        {
+          "letter": "D",
+          "text": "Cónica",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Tierra no es cónica; es un geoide, es decir, una esfera ligeramente achatada en los polos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La Tierra tiene forma de geoide, que es una esfera ligeramente achatada en los polos y abultada en el ecuador. Esta forma se debe a la rotación de la Tierra, que genera una fuerza centrífuga que empuja el material hacia el ecuador. Aunque desde el espacio la Tierra parece una esfera perfecta, las mediciones precisas muestran que no es completamente redonda.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué parecen moverse las estrellas en el cielo durante la noche?",
+      "context": "En un colegio de Cali, los estudiantes observan cómo cambia la posición de las estrellas en el cielo durante la noche.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque las estrellas se mueven rápidamente",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las estrellas se mueven, pero tan lentamente que no notamos su movimiento en una noche; el movimiento aparente se debe a la rotación de la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las nubes las empujan",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes no empujan a las estrellas; las estrellas están mucho más lejos y su movimiento aparente se debe a la rotación de la Tierra."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la Tierra gira sobre su eje",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra gira sobre su eje de oeste a este, lo que hace que las estrellas parezcan moverse de este a oeste en el cielo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el viento las mueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento no mueve a las estrellas; las estrellas están en el espacio y su movimiento aparente se debe a la rotación de la Tierra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La Tierra gira sobre su eje de oeste a este, completando una vuelta cada 24 horas. Esta rotación hace que las estrellas parezcan moverse de este a oeste en el cielo. En realidad, las estrellas están fijas en el espacio (aunque se mueven muy lentamente), y es la rotación de la Tierra la que produce este movimiento aparente. Por eso, si observamos el cielo durante varias horas, vemos que las estrellas cambian de posición.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué la luna cambia de forma durante el mes?",
+      "context": "En un colegio de Barranquilla, los estudiantes aprenden sobre las fases de la luna.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque la luna cambia de tamaño",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna no cambia de tamaño; siempre tiene el mismo tamaño, pero vemos diferentes partes iluminadas por el sol."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luna se acerca y se aleja de la Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque la órbita de la luna es ligeramente elíptica, esto no causa las fases; las fases se deben a la posición relativa de la luna, la Tierra y el sol."
+        },
+        {
+          "letter": "C",
+          "text": "Porque la luna tiene manchas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las manchas de la luna son cráteres y mares lunares, pero no causan las fases; las fases se deben a la iluminación solar."
+        },
+        {
+          "letter": "D",
+          "text": "Porque vemos diferentes partes de la luna iluminadas por el sol",
+          "is_correct": true,
+          "feedback": "Correcto. La luna no tiene luz propia; refleja la luz del sol. A medida que la luna gira alrededor de la Tierra, vemos diferentes partes iluminadas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La luna no tiene luz propia; refleja la luz del sol. A medida que la luna gira alrededor de la Tierra, vemos diferentes partes de su superficie iluminadas por el sol. Cuando la luna está entre la Tierra y el sol, vemos su cara oscura (luna nueva). Cuando la Tierra está entre la luna y el sol, vevemos toda la cara iluminada (luna llena). Las fases intermedias son creciente y menguante.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estos planetas tiene anillos visibles?",
+      "context": "En un colegio de Cartagena, los estudiantes investigan sobre los planetas del sistema solar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saturno",
+          "is_correct": true,
+          "feedback": "Correcto. Saturno es famoso por sus anillos, que están formados por partículas de hielo y roca que giran a su alrededor."
+        },
+        {
+          "letter": "B",
+          "text": "Mercurio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Mercurio no tiene anillos; es el planeta más cercano al sol y no tiene lunas ni anillos."
+        },
+        {
+          "letter": "C",
+          "text": "Venus",
+          "is_correct": false,
+          "feedback": "Incorrecto. Venus no tiene anillos; es el segundo planeta más cercano al sol y no tiene lunas ni anillos."
+        },
+        {
+          "letter": "D",
+          "text": "Marte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Marte no tiene anillos; tiene dos lunas pequeñas, Fobos y Deimos, pero no anillos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Saturno es el planeta más famoso por sus anillos, que son visibles desde la Tierra con un telescopio. Los anillos de Saturno están formados por millones de partículas de hielo y roca, desde granos de polvo hasta bloques de varios metros. Aunque Saturno es el más conocido, Júpiter, Urano y Neptuno también tienen anillos, aunque son más tenues y difíciles de ver.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué los objetos caen hacia el suelo cuando los soltamos?",
+      "context": "En un colegio de Bucaramanga, los estudiantes aprenden sobre la gravedad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el viento los empuja",
+          "is_correct": false,
+          "feedback": "Incorrecto. El viento puede empujar objetos ligeros, pero los objetos caen hacia el suelo incluso en ausencia de viento, por la gravedad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la Tierra atrae los objetos con su gravedad",
+          "is_correct": true,
+          "feedback": "Correcto. La Tierra tiene una fuerza llamada gravedad que atrae los objetos hacia su centro, por eso caen hacia el suelo."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el suelo los atrae con imanes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El suelo no atrae objetos con imanes; la atracción que hace caer los objetos es la gravedad, no el magnetismo."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el aire los empuja hacia abajo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El aire no empuja los objetos hacia abajo; de hecho, el aire ofrece resistencia a los objetos que caen."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La gravedad es una fuerza que atrae los objetos entre sí. La Tierra, al ser muy masiva, tiene una gravedad fuerte que atrae los objetos hacia su centro. Por eso, cuando soltamos un objeto, cae hacia el suelo. La gravedad también mantiene a la Tierra en órbita alrededor del sol y a la luna en órbita alrededor de la Tierra. Sin gravedad, los objetos flotarían en el aire.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v7",
+      "statement": "¿Qué gas es más abundante en la atmósfera de la Tierra?",
+      "context": "En un colegio de Pasto, los estudiantes investigan sobre la atmósfera de la Tierra.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oxígeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El oxígeno es importante para la respiración, pero no es el gas más abundante; el nitrógeno es el más abundante."
+        },
+        {
+          "letter": "B",
+          "text": "Dióxido de carbono",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dióxido de carbono es importante para la fotosíntesis, pero es un gas minoritario, representando solo el 0.04% del aire."
+        },
+        {
+          "letter": "C",
+          "text": "Nitrógeno",
+          "is_correct": true,
+          "feedback": "Correcto. El nitrógeno es el gas más abundante en la atmósfera, representando aproximadamente el 78% del aire."
+        },
+        {
+          "letter": "D",
+          "text": "Hidrógeno",
+          "is_correct": false,
+          "feedback": "Incorrecto. El hidrógeno es el elemento más abundante del universo, pero es muy escaso en la atmósfera terrestre."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La atmósfera de la Tierra es una mezcla de gases que rodea nuestro planeta. El gas más abundante es el nitrógeno, que representa aproximadamente el 78% del aire. El segundo gas más abundante es el oxígeno, con aproximadamente el 21%. Otros gases, como el dióxido de carbono, el argón y el vapor de agua, están en cantidades mucho menores. La atmósfera es esencial para la vida: proporciona oxígeno para respirar, protege de la radiación solar y regula la temperatura.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas condiciones es mejor para observar las estrellas?",
+      "context": "En una comunidad de Cúcuta, los líderes quieren promover la observación del cielo nocturno.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Una noche con muchas nubes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes bloquean la vista del cielo y dificultan la observación de las estrellas."
+        },
+        {
+          "letter": "B",
+          "text": "Una noche con mucha luz artificial",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luz artificial dificulta la observación de las estrellas, ya que reduce el contraste y oculta las estrellas más tenues."
+        },
+        {
+          "letter": "C",
+          "text": "Una noche con luna llena",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna llena ilumina el cielo y dificulta la observación de las estrellas más tenues; es mejor observar en luna nueva."
+        },
+        {
+          "letter": "D",
+          "text": "Una noche despejada y oscura, lejos de la ciudad",
+          "is_correct": true,
+          "feedback": "Correcto. Una noche despejada y oscura, lejos de la luz artificial, ofrece las mejores condiciones para observar las estrellas."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para observar las estrellas, se necesitan condiciones de cielo despejado y oscuridad. Las nubes bloquean la vista del cielo, y la luz artificial de las ciudades reduce el contraste, haciendo que las estrellas más tenues sean invisibles. La luna llena también ilumina el cielo y dificulta la observación. Las mejores condiciones son una noche despejada, lejos de la luz artificial, preferiblemente en luna nueva, cuando el cielo está más oscuro.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle",
+      "periodo": 38,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

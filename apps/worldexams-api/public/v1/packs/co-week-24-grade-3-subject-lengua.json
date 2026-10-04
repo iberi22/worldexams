@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-24-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v1",
+      "statement": "¿Que palabra esta en singular, es decir, nombra una sola cosa?",
+      "context": "En una escuela de Bogota, Samuel cuenta los utiles de su cartuchera.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lapiz",
+          "is_correct": true,
+          "feedback": "Correcto. Esa palabra nombra un solo objeto porque no tiene marca de plural y se refiere a uno solo."
+        },
+        {
+          "letter": "B",
+          "text": "Lapices",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra termina en s y nombra varios porque significa mas de un lapiz."
+        },
+        {
+          "letter": "C",
+          "text": "Cuadernos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra nombra varios cuadernos porque la s final marca mas de uno."
+        },
+        {
+          "letter": "D",
+          "text": "Borradores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra nombra varios borradores porque la s final indica plural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El singular nombra uno solo y el plural nombra varios. Reconocer la s final como marca de plural ayuda a contar lo que nombra cada palabra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.91,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v2",
+      "statement": "Lee: \"una vaca\" y \"tres vacas\". ¿Que cambio marca la diferencia entre una y varias?",
+      "context": "En una escuela de Medellin, Isabella mira fotos de animales de la finca de su tio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambio el articulo una por tres",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los numeros ayudan a contar porque dicen cuantos hay, pero la palabra también cambia su terminacion."
+        },
+        {
+          "letter": "B",
+          "text": "La palabra agrego una s al final",
+          "is_correct": true,
+          "feedback": "Correcto. El plural se forma agregando s porque esa letra final indica que ahora son varias vacas y no una."
+        },
+        {
+          "letter": "C",
+          "text": "Cambio la primera letra de la palabra",
+          "is_correct": false,
+          "feedback": "Incorrecto. La primera letra sigue siendo v porque el cambio ocurre al final de la palabra y no al inicio."
+        },
+        {
+          "letter": "D",
+          "text": "Cambio el color de la foto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color es un detalle de la imagen porque no modifica la palabra ni su numero."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El plural de palabras terminadas en vocal se forma con s. Comprender esa marca permite pasar de uno a varios sin cambiar el resto de la palabra.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Semantico",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v3",
+      "statement": "¿Cual es el plural correcto de \"arbol\"?",
+      "context": "En una escuela de Cali, Jeronimo escribe el plural de objetos del salon.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Arbols",
+          "is_correct": false,
+          "feedback": "Incorrecto. Solo agregar s deja un grupo dificil de pronunciar porque en espanol las palabras terminadas en consonante piden es."
+        },
+        {
+          "letter": "B",
+          "text": "Arbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa forma sigue en singular porque no tiene ninguna marca que indique varios arboles."
+        },
+        {
+          "letter": "C",
+          "text": "Arboles",
+          "is_correct": true,
+          "feedback": "Correcto. El plural agrega es porque la palabra termina en consonante l, y así se forma una silaba nueva que facilita la pronunciacion."
+        },
+        {
+          "letter": "D",
+          "text": "Arbole",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa forma agrega una vocal suelta porque le falta la s que marca el plural en espanol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las palabras terminadas en consonante forman el plural con es. Aplicar esa regla permite escribir arboles, papel y pared sin errores.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v4",
+      "statement": "Completa: \"Los pescadores arreglan sus ___ para salir al mar.\" ¿Que palabra en plural completa bien?",
+      "context": "En una escuela de Barranquilla, Salomé completa oraciones sobre el festival del mar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Red",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra esta en singular porque nombra una sola, pero el articulo sus pide varias."
+        },
+        {
+          "letter": "B",
+          "text": "Barco grande",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase mezcla singular con plural porque sus pide varios y barco grande nombra uno solo."
+        },
+        {
+          "letter": "C",
+          "text": "Anzuelo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra nombra uno solo porque no tiene marca de plural, así que no concuerda con sus."
+        },
+        {
+          "letter": "D",
+          "text": "Redes",
+          "is_correct": true,
+          "feedback": "Correcto. Redes esta en plural porque termina en es y concuerda con sus, que también indica varios objetos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El articulo y el sustantivo deben concordar en numero. Si el articulo es plural, el sustantivo también debe llevar la marca de plural.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v5",
+      "statement": "¿Que pareja muestra correctamente el singular y su plural?",
+      "context": "En una escuela de Bucaramanga, Matias ordena dibujos de frutas de Santander.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limon - limones",
+          "is_correct": true,
+          "feedback": "Correcto. Limones es el plural correcto porque la palabra termina en n y por eso agrega es para formar el plural."
+        },
+        {
+          "letter": "B",
+          "text": "Flor - flores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque flores es un plural correcto, la consigna pide revisar las cuatro parejas y esta no es la unica bien formada."
+        },
+        {
+          "letter": "C",
+          "text": "Pera - perases",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa forma agrega es donde solo se necesita s porque pera termina en vocal y el plural es peras."
+        },
+        {
+          "letter": "D",
+          "text": "Banano - bananoes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa forma agrega es donde solo se necesita s porque banano termina en vocal y el plural es bananos."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las palabras en vocal agregan s y las terminadas en consonante agregan es. Comparar parejas permite aplicar cada regla en su caso.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v6",
+      "statement": "El singular es \"lapiz\" y el plural es \"lapices\". ¿Que dos cambios ocurrieron?",
+      "context": "En una escuela de Pereira, Antonia analiza por que \"lapiz\" cambia tanto en plural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Se agrego s y se quito la l",
+          "is_correct": false,
+          "feedback": "Incorrecto. La l se mantiene en lapices porque solo cambia la parte final de la palabra."
+        },
+        {
+          "letter": "B",
+          "text": "La z cambio a c y se agrego es",
+          "is_correct": true,
+          "feedback": "Correcto. La z se cambia por c porque en espanol no se escribe ze sino ce, y luego se agrega es por terminar en consonante."
+        },
+        {
+          "letter": "C",
+          "text": "Se duplico la vocal a",
+          "is_correct": false,
+          "feedback": "Incorrecto. La vocal a sigue apareciendo una sola vez porque el cambio ocurre en la consonante final."
+        },
+        {
+          "letter": "D",
+          "text": "Se agrego una tilde al final",
+          "is_correct": false,
+          "feedback": "Incorrecto. El plural lapices no lleva tilde porque es una palabra grave terminada en s, y el cambio real es de letra."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Las palabras terminadas en z cambian la z por c antes de agregar es. Analizar ese doble cambio explica lapiz, pez y voz en plural.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v7",
+      "statement": "Lee: \"Los cafeteros recogen el grano maduro.\" ¿Por que el verbo esta bien escrito?",
+      "context": "En una escuela de Manizales, Emiliano revisa si el verbo concuerda con el sujeto en plural.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el verbo siempre va en singular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo debe coincidir con el sujeto porque si el sujeto es plural el verbo también debe serlo."
+        },
+        {
+          "letter": "B",
+          "text": "Porque el grano es singular",
+          "is_correct": false,
+          "feedback": "Incorrecto. El grano es el objeto porque recibe la accion, y quien define el verbo es el sujeto los cafeteros."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sujeto es plural y el verbo también",
+          "is_correct": true,
+          "feedback": "Correcto. Los cafeteros es plural y recogen termina en n de plural, así que ambos concuerdan en numero."
+        },
+        {
+          "letter": "D",
+          "text": "Porque maduro termina en o",
+          "is_correct": false,
+          "feedback": "Incorrecto. Maduro es un adjetivo que describe el grano porque dice como esta, y no define el numero del verbo."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Sujeto y verbo concuerdan en numero. Si el sujeto nombra varios, el verbo también debe marcar plural para que la oracion sea correcta.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle-v8",
+      "statement": "El cartel dice: \"Hoy tenemos sopa, jugos naturales y postres casero.\" ¿Que debe corregirse?",
+      "context": "En una escuela de Villavicencio, Luciana evalua un cartel del restaurante escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar sopa por sopas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sopa puede estar en singular porque se ofrece como un plato del dia, y el error esta en otra palabra de la lista."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar la coma de la lista",
+          "is_correct": false,
+          "feedback": "Incorrecto. La coma separa bien los tres platos porque cada uno es un elemento distinto del menu."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar tenemos por tiene",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tenemos concuerda con nosotros porque habla del restaurante en plural, así que el verbo ya esta bien."
+        },
+        {
+          "letter": "D",
+          "text": "Cambiar casero por caseros",
+          "is_correct": true,
+          "feedback": "Correcto. Postres esta en plural y el adjetivo debe concordar porque describe a varios, así que debe terminar en s."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El adjetivo concuerda en numero con el sustantivo. Evaluar el cartel muestra que postres exige caseros para mantener la concordancia plural.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle",
+      "periodo": 24,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-30-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v1",
+      "statement": "¿Cual es el primer paso para escribir un buen cuento?",
+      "context": "En una escuela de Bogota, Tomas planea su cuento antes de escribirlo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Planear los personajes, el lugar y el problema",
+          "is_correct": true,
+          "feedback": "Correcto. Planear organiza la historia porque define quienes actuan, donde ocurre y que conflicto enfrentaran."
+        },
+        {
+          "letter": "B",
+          "text": "Escribir el final sin pensar",
+          "is_correct": false,
+          "feedback": "Incorrecto. Empezar por el final desordena porque aun no se sabe que problema tendran los personajes."
+        },
+        {
+          "letter": "C",
+          "text": "Pasar en limpio con colores",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pasar en limpio es el ultimo paso porque solo presenta bonito lo que ya se escribio y reviso."
+        },
+        {
+          "letter": "D",
+          "text": "Borrar todo lo escrito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Borrar elimina el trabajo porque destruye el texto, y planear construye la base para escribir."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Todo cuento empieza con un plan. Recordar que se planean personajes, lugar y problema evita quedarse sin ideas al escribir.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v2",
+      "statement": "El cuento trata de una niña que encuentra un morral magico en el metro. ¿Que titulo es adecuado?",
+      "context": "En una escuela de Medellin, Salomé elige un titulo que anuncie su historia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Receta para hacer arepas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese titulo anuncia cocina porque habla de arepas, y el cuento trata de un morral magico."
+        },
+        {
+          "letter": "B",
+          "text": "El morral magico del metro",
+          "is_correct": true,
+          "feedback": "Correcto. Ese titulo anuncia el tema porque nombra el objeto magico y el lugar donde ocurre la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Tabla de multiplicar del 7",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese titulo anuncia matematicas porque nombra operaciones, y no tiene relacion con la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Aviso de vacunacion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese titulo anuncia salud porque es informativo, y el cuento necesita un titulo de fantasia."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El titulo anuncia de que trata la historia. Comprender esa funcion permite elegir titulos que invitan a leer sin contar el final.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v3",
+      "statement": "¿Que inicio presenta mejor a los personajes y el lugar?",
+      "context": "En una escuela de Cali, Gabriela escribe el inicio de su cuento sobre la salsa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Y colorin colorado este cuento se ha acabado",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase cierra la historia porque es formula de final, y no presenta a nadie ni ningun lugar."
+        },
+        {
+          "letter": "B",
+          "text": "Fin",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa palabra marca el cierre porque indica que todo termino, y no sirve para empezar."
+        },
+        {
+          "letter": "C",
+          "text": "En un barrio de Cali vivia un niño bailarin con su abuelo musico",
+          "is_correct": true,
+          "feedback": "Correcto. Ese inicio presenta porque dice donde viven, quienes son y que los caracteriza antes del problema."
+        },
+        {
+          "letter": "D",
+          "text": "Ayer perdi y hoy perdi también",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese inicio solo muestra el problema porque no dice quienes son ni donde viven los personajes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Un buen inicio presenta lugar y personajes. Aplicar esa regla permite empezar cuentos que ubican al lector desde la primera linea.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v4",
+      "statement": "El inicio dice: \"Karen y Luis pescaban con su papa.\" ¿Que oracion crea un buen nudo?",
+      "context": "En una escuela de Barranquilla, Samuel escribe el nudo donde aparece el problema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mar es azul y bonito",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa oracion describe el paisaje porque dice como es, pero no crea ningun problema para los personajes."
+        },
+        {
+          "letter": "B",
+          "text": "Y vivieron felices para siempre",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa frase cierra con final feliz porque resuelve todo, y el nudo debe abrir el problema y no cerrarlo."
+        },
+        {
+          "letter": "C",
+          "text": "Fin de la historia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa marca termina el texto porque indica cierre, y el nudo debe estar en la mitad del cuento."
+        },
+        {
+          "letter": "D",
+          "text": "De pronto la canoa se volteo y la pesca se cayo al agua",
+          "is_correct": true,
+          "feedback": "Correcto. Esa oracion crea el conflicto porque la canoa volteada pone a los personajes ante un problema urgente."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El nudo presenta el problema con una accion inesperada. Agregar un giro así mantiene el interes y prepara la solucion del final.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v5",
+      "statement": "¿Cual dialogo esta bien puntuado para un cuento?",
+      "context": "En una escuela de Bucaramanga, Matias escribe dialogos para dar voz a sus personajes.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El niño dijo: \"Vamos a jugar\"",
+          "is_correct": true,
+          "feedback": "Correcto. Ese dialogo usa dos puntos y comillas porque así se marca que las palabras exactas son del niño."
+        },
+        {
+          "letter": "B",
+          "text": "El niño dijo vamos a jugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. A ese dialogo le faltan los dos puntos y las comillas porque no se distingue lo dicho por el niño."
+        },
+        {
+          "letter": "C",
+          "text": "El niño dijo vamos, a jugar.\"",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa coma parte la frase por la mitad porque separa el verbo de su complemento dentro de lo dicho."
+        },
+        {
+          "letter": "D",
+          "text": "\"El niño dijo vamos a jugar",
+          "is_correct": false,
+          "feedback": "Incorrecto. A ese dialogo le falta el cierre de comillas y los dos puntos porque queda abierto y confuso."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Los dialogos llevan dos puntos y comillas. Aplicar esas marcas permite que el lector distinga la voz de cada personaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v6",
+      "statement": "Su borrador dice: \"Primero se perdieron, despues buscaron ayuda y al final hallaron el camino.\" ¿Por que el orden es correcto?",
+      "context": "En una escuela de Pereira, Isabella revisa si su cuento mantiene el orden de los hechos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque usa palabras dificiles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras son sencillas porque el merito esta en el orden, no en la dificultad del vocabulario."
+        },
+        {
+          "letter": "B",
+          "text": "Porque usa conectores que ordenan inicio, nudo y final",
+          "is_correct": true,
+          "feedback": "Correcto. Las marcas primero, despues y al final ordenan porque cada una señala una parte distinta de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Porque es muy corto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no ordena porque un texto breve también puede estar desordenado sin conectores."
+        },
+        {
+          "letter": "D",
+          "text": "Porque no tiene personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto si implica personajes porque alguien se pierde y busca, y el orden lo dan los conectores."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los conectores primero, despues y al final ordenan el relato. Analizarlos muestra que cada uno marca una parte del cuento.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v7",
+      "statement": "Borrador: \"El dragon era grande.\" ¿Cual revision describe mejor al personaje?",
+      "context": "En una escuela de Manizales, Daniel revisa su borrador para mejorar las descripciones.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El dragon era grande y ya",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa revision repite lo mismo porque ya solo cierra sin agregar ningun detalle nuevo."
+        },
+        {
+          "letter": "B",
+          "text": "El dragon era cosa",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cosa es una palabra vaga porque no dice tamaño, color ni forma del dragon."
+        },
+        {
+          "letter": "C",
+          "text": "El dragon era grande, de escamas verdes y ojos que brillaban en la noche",
+          "is_correct": true,
+          "feedback": "Correcto. Esa revision agrega color, material y luz porque cada detalle ayuda a imaginar al dragon con precision."
+        },
+        {
+          "letter": "D",
+          "text": "El dragon era algo grande y algo así",
+          "is_correct": false,
+          "feedback": "Incorrecto. Algo así no precisa nada porque deja al lector sin saber como es realmente el dragon."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Revisar es agregar detalles concretos. Analizar la revision muestra que color y rasgos especificos convierten una idea vaga en imagen clara.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle-v8",
+      "statement": "Su cuento tiene titulo, inicio con personajes, nudo con problema, final con solucion, dialogos con comillas y punto final. ¿Que puede concluir?",
+      "context": "En una escuela de Villavicencio, Paula evalua su cuento terminado antes de leerlo en voz alta.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que debe borrarlo y empezar de nuevo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Borrar destruiria un trabajo completo porque el texto ya cumple con todas las partes pedidas."
+        },
+        {
+          "letter": "B",
+          "text": "Que le falta el problema central",
+          "is_correct": false,
+          "feedback": "Incorrecto. El nudo ya incluye el problema porque esa parte presenta el conflicto de la historia."
+        },
+        {
+          "letter": "C",
+          "text": "Que el titulo sobra en un cuento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El titulo es necesario porque anuncia el tema e invita a leer la historia."
+        },
+        {
+          "letter": "D",
+          "text": "Que esta listo porque cumple todas las partes y la puntuacion",
+          "is_correct": true,
+          "feedback": "Correcto. El cuento esta completo porque tiene las tres partes, dialogos marcados y cierre con punto final."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar el cuento final exige verificar lista de partes y puntuacion. Cuando titulo, estructura y signos estan completos, el texto esta listo para compartir.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle",
+      "periodo": 30,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}
