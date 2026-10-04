@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-22-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.220Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v1",
+      "statement": "¿Cual de estos grupos de palabras es una oracion completa?",
+      "context": "En una escuela de Bogota, Jeronimo aprende que toda oracion comunica una idea completa.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El perro corre en el parque",
+          "is_correct": true,
+          "feedback": "Correcto. Esa es una oracion porque tiene quien hace la accion y la accion misma, así que comunica una idea completa."
+        },
+        {
+          "letter": "B",
+          "text": "El perro en el parque",
+          "is_correct": false,
+          "feedback": "Incorrecto. A ese grupo le falta la accion porque no dice que hace el perro, así que la idea queda incompleta."
+        },
+        {
+          "letter": "C",
+          "text": "Corre rapido y feliz",
+          "is_correct": false,
+          "feedback": "Incorrecto. A ese grupo le falta decir quien corre, así que no se sabe el sujeto y la idea queda incompleta."
+        },
+        {
+          "letter": "D",
+          "text": "Perro parque pelota",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esas son solo palabras sueltas porque no tienen verbo ni orden, así que no forman una idea completa."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Una oracion comunica una idea completa con sujeto y verbo. Reconocer esa estructura permite escribir frases que otros entienden sin esfuerzo.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.91,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v2",
+      "statement": "Lee: \"mi mama cocina arepas\". ¿Que le falta a esa escritura para ser una oracion correcta?",
+      "context": "En una escuela de Medellin, Luciana marca con color la mayuscula y el punto de cada oracion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agregar mas palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. La idea ya esta completa con sujeto y verbo, lo que falla es la presentacion con mayuscula y punto."
+        },
+        {
+          "letter": "B",
+          "text": "Mayuscula al inicio y punto al final",
+          "is_correct": true,
+          "feedback": "Correcto. Toda oracion empieza con mayuscula porque así se marca el inicio, y termina con punto porque así se marca el cierre."
+        },
+        {
+          "letter": "C",
+          "text": "Cambiar el verbo por un sustantivo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El verbo cocina es necesario porque expresa la accion, y sin verbo no habria oracion."
+        },
+        {
+          "letter": "D",
+          "text": "Quitar el sujeto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sin el sujeto no se sabria quien cocina, así que quitarlo dejaria la idea incompleta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Toda oracion escrita inicia con mayuscula y cierra con punto. Esas dos marcas ayudan al lector a saber donde empieza y termina cada idea.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Textual",
+      "expected_success": 0.89,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v3",
+      "statement": "En la oracion \"Los niños juegan futbol en el recreo\", ¿cual es el sujeto?",
+      "context": "En una escuela de Tunja, Matias subraya el sujeto en oraciones sobre la plaza del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Juegan futbol",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte dice lo que hacen y por eso es el predicado, no quien realiza la accion."
+        },
+        {
+          "letter": "B",
+          "text": "En el recreo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte solo indica el lugar porque responde a donde juegan, y no dice quienes juegan."
+        },
+        {
+          "letter": "C",
+          "text": "Los niños",
+          "is_correct": true,
+          "feedback": "Correcto. Los niños es el sujeto porque son quienes realizan la accion de jugar, y el resto dice lo que hacen."
+        },
+        {
+          "letter": "D",
+          "text": "Futbol en el recreo",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte mezcla el objeto con el lugar porque dice que juegan y donde, pero no dice quienes."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El sujeto dice de quien se habla y el predicado dice lo que hace. Preguntar quienes realizan la accion permite encontrar el sujeto con seguridad.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Semantico",
+      "expected_success": 0.85,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v4",
+      "statement": "En la oracion \"Mi abuela prepara sancocho los domingos\", ¿cual es el verbo?",
+      "context": "En una escuela de Rionegro, Antonia identifica el verbo como el centro del predicado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Abuela",
+          "is_correct": false,
+          "feedback": "Incorrecto. Abuela es un sustantivo porque nombra a una persona, y no expresa ninguna accion."
+        },
+        {
+          "letter": "B",
+          "text": "Sancocho",
+          "is_correct": false,
+          "feedback": "Incorrecto. Sancocho es un sustantivo porque nombra una comida, y no dice que accion se realiza."
+        },
+        {
+          "letter": "C",
+          "text": "Domingos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Domingos indica el tiempo porque dice cuando se prepara, pero no expresa la accion."
+        },
+        {
+          "letter": "D",
+          "text": "Prepara",
+          "is_correct": true,
+          "feedback": "Correcto. Prepara es el verbo porque expresa la accion que realiza la abuela, que es cocinar el sancocho."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El verbo es la palabra que expresa la accion en la oracion. Ubicar el verbo permite separar el sujeto del predicado y entender el mensaje.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v5",
+      "statement": "Las palabras estan desordenadas: \"escuela / los / van / a / niños / la\". ¿Cual es la oracion bien armada?",
+      "context": "En una escuela de Cali, Emiliano ordena palabras desordenadas para armar una oracion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Los niños van a la escuela",
+          "is_correct": true,
+          "feedback": "Correcto. Ese orden respeta la estructura sujeto mas verbo mas complemento porque primero dice quienes, luego que hacen y luego a donde."
+        },
+        {
+          "letter": "B",
+          "text": "Los van niños a la escuela la",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden repite el articulo la y deja el verbo antes del sujeto, así que la oracion no tiene sentido."
+        },
+        {
+          "letter": "C",
+          "text": "Van los a la escuela niños",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sujeto queda partido en dos porque los y niños quedan separados, y así la oracion se vuelve confusa."
+        },
+        {
+          "letter": "D",
+          "text": "Escuela la niños los van a",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ese orden invierte toda la estructura porque empieza por el lugar y termina con el verbo, así que no se entiende."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "En espanol el orden comun es sujeto, verbo y complemento. Ordenar las palabras así permite armar oraciones claras desde grupos desordenados.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v6",
+      "statement": "Lee: \"El pescador vende bocachico en la plaza\". ¿Cual es el predicado completo?",
+      "context": "En una escuela de Barranquilla, Gabriela compara dos oraciones para hallar el predicado.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El pescador",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte es el sujeto porque dice quien vende, y el predicado debe decir lo que hace."
+        },
+        {
+          "letter": "B",
+          "text": "Vende bocachico en la plaza",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el predicado completo porque incluye el verbo vende mas lo que se vende y el lugar donde ocurre."
+        },
+        {
+          "letter": "C",
+          "text": "Vende bocachico",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte deja por fuera el lugar porque falta decir donde vende, y el predicado completo incluye todo lo que se dice del sujeto."
+        },
+        {
+          "letter": "D",
+          "text": "En la plaza",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esa parte solo indica el lugar porque responde a donde, pero no incluye el verbo ni lo que se vende."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El predicado es todo lo que se dice del sujeto. Analizar la oracion por partes muestra que verbo, objeto y lugar pertenecen al predicado.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v7",
+      "statement": "Lee estas oraciones: 1. \"El bus llego tarde.\" 2. \"¿El bus llego tarde?\" ¿Que cambia entre ellas?",
+      "context": "En una escuela de Bucaramanga, Daniel distingue oraciones que informan de las que preguntan.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El significado de las palabras",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras son las mismas y mantienen su significado porque lo que cambia es la intencion con que se dicen."
+        },
+        {
+          "letter": "B",
+          "text": "El sujeto de cada oracion",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambas el sujeto es el bus porque en las dos se habla del mismo transporte."
+        },
+        {
+          "letter": "C",
+          "text": "La intencion: una afirma y la otra pregunta",
+          "is_correct": true,
+          "feedback": "Correcto. La primera informa un hecho porque termina en punto, y la segunda pide confirmacion porque usa signos de interrogacion."
+        },
+        {
+          "letter": "D",
+          "text": "El tiempo del verbo",
+          "is_correct": false,
+          "feedback": "Incorrecto. En ambas el verbo esta en pasado porque llego ya ocurrio, lo que cambia es el signo final."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El punto final marca una afirmacion y los signos de interrogacion marcan una pregunta. Analizar el signo final revela la intencion de quien escribe.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle-v8",
+      "statement": "El compañero escribio: \"los pajaros cantan en la mañana los niños los escuchan felices\". ¿Que correccion necesita ese texto?",
+      "context": "En una escuela de Popayan, Sara evalua el escrito de un compañero antes de pasarlo en limpio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cambiar las palabras por sinonimos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las palabras se entienden bien porque nombran ideas claras, el problema es que hay dos oraciones pegadas sin separacion."
+        },
+        {
+          "letter": "B",
+          "text": "Quitar uno de los dos verbos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cada verbo pertenece a una oracion distinta porque cantan es de los pajaros y escuchan es de los niños, así que ambos son necesarios."
+        },
+        {
+          "letter": "C",
+          "text": "Escribir todo con mayusculas",
+          "is_correct": false,
+          "feedback": "Incorrecto. La mayuscula solo va al inicio de cada oracion porque así se marca el comienzo, no en todas las palabras."
+        },
+        {
+          "letter": "D",
+          "text": "Separar en dos oraciones con mayuscula y punto",
+          "is_correct": true,
+          "feedback": "Correcto. Hay dos ideas completas porque una habla de los pajaros y otra de los niños, así que cada una necesita su mayuscula inicial y su punto final."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dos ideas completas no pueden ir pegadas. Evaluar el texto muestra que debe partirse en dos oraciones, cada una con mayuscula y punto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle",
+      "periodo": 22,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

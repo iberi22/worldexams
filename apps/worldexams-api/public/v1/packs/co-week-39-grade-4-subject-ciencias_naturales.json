@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-39-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-04T00:22:44.915Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál de estas actividades es un ejemplo de ciencia en la comunidad?",
+      "context": "En un colegio de Bogotá, la profesora explica a sus estudiantes cómo la ciencia está presente en la vida cotidiana.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observar las plantas del parque para ver cómo crecen",
+          "is_correct": true,
+          "feedback": "Correcto. Observar las plantas y estudiar cómo crecen es un ejemplo de ciencia, ya que implica observar, preguntar y aprender sobre la naturaleza."
+        },
+        {
+          "letter": "B",
+          "text": "Ver televisión",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ver televisión es una actividad de entretenimiento, no un ejemplo de ciencia en la comunidad."
+        },
+        {
+          "letter": "C",
+          "text": "Jugar videojuegos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Jugar videojuegos es una actividad de entretenimiento, no un ejemplo de ciencia en la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Dormir",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dormir es una actividad necesaria para la salud, pero no es un ejemplo de ciencia en la comunidad."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "La ciencia está presente en muchas actividades de la comunidad. Observar las plantas, investigar por qué llueve, estudiar los animales del barrio o experimentar con recetas de cocina son ejemplos de ciencia. La ciencia no solo se hace en laboratorios; también se practica en la casa, la escuela y el barrio, cuando observamos, preguntamos, experimentamos y buscamos respuestas.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v2",
+      "statement": "¿Qué hace un científico comunitario?",
+      "context": "En una clase de ciencias de Medellín, los estudiantes aprenden sobre los científicos comunitarios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solo trabaja en laboratorios",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un científico comunitario no solo trabaja en laboratorios; trabaja en la comunidad, observando y resolviendo problemas locales."
+        },
+        {
+          "letter": "B",
+          "text": "Observa, pregunta y busca soluciones a problemas de su comunidad",
+          "is_correct": true,
+          "feedback": "Correcto. Un científico comunitario observa su entorno, hace preguntas y busca soluciones a problemas de su comunidad, como la contaminación o la falta de agua."
+        },
+        {
+          "letter": "C",
+          "text": "Solo estudia libros",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un científico comunitario no solo estudia libros; también observa, experimenta y trabaja con la comunidad."
+        },
+        {
+          "letter": "D",
+          "text": "Solo hace experimentos con químicos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un científico comunitario no solo hace experimentos con químicos; trabaja en la comunidad, observando y resolviendo problemas locales."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Un científico comunitario es una persona que usa el método científico para entender y resolver problemas de su comunidad. Observa su entorno, hace preguntas, recoge datos, experimenta y comparte sus hallazgos. Ejemplos de científicos comunitarios son los agricultores que observan el clima para sembrar, los líderes que investigan la calidad del agua, y los estudiantes que estudian la biodiversidad de su barrio.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v3",
+      "statement": "¿Qué podrían hacer los vecinos para investigar por qué el agua sabe salada?",
+      "context": "En una comunidad de Cali, los vecinos notaron que el agua del pozo sabe salada.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ignorar el problema",
+          "is_correct": false,
+          "feedback": "Incorrecto. Ignorar el problema no ayuda a entender por qué el agua sabe salada; es necesario investigar para encontrar una solución."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar de beber agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar de beber agua no es una solución; el agua es esencial para la vida, y es mejor investigar y resolver el problema."
+        },
+        {
+          "letter": "C",
+          "text": "Recoger muestras de agua y llevarlas a analizar",
+          "is_correct": true,
+          "feedback": "Correcto. Recoger muestras de agua y llevarlas a analizar es una forma científica de investigar; los análisis pueden revelar la causa de la salinidad."
+        },
+        {
+          "letter": "D",
+          "text": "Echarle más sal al agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Echarle más sal al agua empeoraría el problema; es necesario investigar la causa de la salinidad, no añadir más sal."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Cuando surge un problema en la comunidad, la ciencia puede ayudar a encontrar soluciones. En este caso, los vecinos podrían recoger muestras de agua y llevarlas a un laboratorio para analizarlas. Los análisis pueden revelar si la salinidad se debe a la intrusión de agua de mar, a la disolución de minerales en el suelo o a la contaminación. Con esta información, pueden tomar decisiones informadas para resolver el problema.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v4",
+      "statement": "¿Qué acción científica podrían tomar los vecinos para reducir la basura?",
+      "context": "En un barrio de Barranquilla, los vecinos quieren reducir la cantidad de basura que producen.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quemar la basura en la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Quemar la basura en la calle contamina el aire y es peligroso; no es una solución científica ni segura."
+        },
+        {
+          "letter": "B",
+          "text": "Tirar la basura al río",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tirar la basura al río contamina el agua y daña a los peces y otros animales; no es una solución científica."
+        },
+        {
+          "letter": "C",
+          "text": "Esconder la basura en el patio",
+          "is_correct": false,
+          "feedback": "Incorrecto. Esconder la basura en el patio no reduce la basura; solo la acumula y puede atraer plagas y causar enfermedades."
+        },
+        {
+          "letter": "D",
+          "text": "Separar la basura en orgánica e inorgánica para reciclar",
+          "is_correct": true,
+          "feedback": "Correcto. Separar la basura permite reciclar los materiales inorgánicos y compostar los orgánicos, reduciendo la cantidad de basura que llega a los vertederos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La ciencia puede ayudar a reducir la basura mediante el reciclaje y el compostaje. Separar la basura en orgánica (restos de comida, papel, cartón) e inorgánica (plástico, vidrio, metal) permite reciclar los materiales inorgánicos y compostar los orgánicos para hacer abono. Estas acciones reducen la cantidad de basura que llega a los vertederos, ahorran recursos y protegen el ambiente.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál es el mejor método para investigar las aves del patio?",
+      "context": "En un colegio de Cartagena, los estudiantes quieren investigar qué aves visitan el patio de la escuela.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Observar y registrar las aves que visitan el patio durante una semana",
+          "is_correct": true,
+          "feedback": "Correcto. Observar y registrar las aves es un método científico; permite recoger datos reales sobre las aves que visitan el patio."
+        },
+        {
+          "letter": "B",
+          "text": "Preguntar a los profesores qué aves han visto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Preguntar a los profesores puede dar información, pero no es un método científico; es mejor observar directamente."
+        },
+        {
+          "letter": "C",
+          "text": "Buscar en internet qué aves viven en Cartagena",
+          "is_correct": false,
+          "feedback": "Incorrecto. Buscar en internet puede dar información general, pero no revela qué aves visitan específicamente el patio de la escuela."
+        },
+        {
+          "letter": "D",
+          "text": "Dibujar aves de otros lugares",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dibujar aves de otros lugares no ayuda a investigar las aves del patio; es mejor observar directamente las aves reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Para investigar las aves del patio, el mejor método es la observación directa. Los estudiantes pueden sentarse en silencio, observar las aves que visitan el patio, registrar sus características (color, tamaño, comportamiento) y tomar fotos o hacer dibujos. Este método científico permite recoger datos reales y responder a la pregunta de investigación de manera confiable.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué hay más mosquitos después de las lluvias?",
+      "context": "En una comunidad de Bucaramanga, los vecinos notaron que hay más mosquitos después de las lluvias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque los mosquitos salen de la tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mosquitos no salen de la tierra; las larvas de los mosquitos se desarrollan en agua estancada."
+        },
+        {
+          "letter": "B",
+          "text": "Porque las lluvias dejan agua estancada donde los mosquitos ponen sus huevos",
+          "is_correct": true,
+          "feedback": "Correcto. Las lluvias dejan charcos y agua estancada, que son lugares ideales para que los mosquitos pongan sus huevos y se desarrollen las larvas."
+        },
+        {
+          "letter": "C",
+          "text": "Porque los mosquitos vuelan más cuando llueve",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mosquitos no vuelan más cuando llueve; de hecho, la lluvia puede dificultar su vuelo. El aumento se debe a los criaderos."
+        },
+        {
+          "letter": "D",
+          "text": "Porque los mosquitos beben el agua de lluvia",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los mosquitos no beben el agua de lluvia; las hembras necesitan sangre para reproducirse, y las larvas viven en agua estancada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los mosquitos necesitan agua estancada para reproducirse. Las hembras ponen sus huevos en charcos, recipientes con agua y otros lugares donde el agua se acumula. Las larvas se desarrollan en el agua y después se convierten en mosquitos adultos. Por eso, después de las lluvias, cuando hay más agua estancada, aumenta la población de mosquitos. Para reducir los mosquitos, es importante eliminar el agua estancada.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v7",
+      "statement": "¿Qué efecto tiene la basura en el suelo?",
+      "context": "En un colegio de Pasto, los estudiantes investigan cómo afecta la basura al suelo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lo hace más fértil",
+          "is_correct": false,
+          "feedback": "Incorrecto. La basura no hace el suelo más fértil; de hecho, puede contaminarlo y reducir su fertilidad."
+        },
+        {
+          "letter": "B",
+          "text": "No tiene ningún efecto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La basura sí tiene efectos en el suelo; puede contaminarlo, reducir su fertilidad y dañar a los organismos que viven en él."
+        },
+        {
+          "letter": "C",
+          "text": "Puede contaminarlo y reducir su fertilidad",
+          "is_correct": true,
+          "feedback": "Correcto. La basura, especialmente los plásticos y químicos, puede contaminar el suelo, reducir su fertilidad y dañar a los organismos que viven en él."
+        },
+        {
+          "letter": "D",
+          "text": "Lo hace más blando",
+          "is_correct": false,
+          "feedback": "Incorrecto. La basura no hace el suelo más blando; de hecho, los plásticos pueden compactarlo y reducir su porosidad."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La basura puede tener efectos negativos en el suelo. Los plásticos tardan cientos de años en descomponerse y pueden liberar químicos tóxicos que contaminan el suelo y el agua subterránea. Los desechos orgánicos, si se compostan correctamente, pueden mejorar el suelo, pero la basura mezclada reduce su fertilidad y daña a los organismos que viven en él, como lombrices y microorganismos. Por eso es importante reducir, reutilizar y reciclar.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas actividades sería más efectiva para promover la ciencia entre los niños?",
+      "context": "En una comunidad de Cúcuta, los líderes quieren promover la ciencia entre los niños del barrio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Prohibirles jugar en la calle",
+          "is_correct": false,
+          "feedback": "Incorrecto. Prohibirles jugar en la calle no promueve la ciencia; los niños aprenden mejor cuando exploran y experimentan."
+        },
+        {
+          "letter": "B",
+          "text": "Darles muchos libros de texto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los libros son útiles, pero la ciencia se aprende mejor con actividades prácticas, no solo leyendo."
+        },
+        {
+          "letter": "C",
+          "text": "Hacerles ver documentales todo el día",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los documentales pueden ser educativos, pero no sustituyen la experiencia práctica; los niños aprenden mejor haciendo experimentos."
+        },
+        {
+          "letter": "D",
+          "text": "Organizar experimentos y salidas de observación en el barrio",
+          "is_correct": true,
+          "feedback": "Correcto. Los experimentos y salidas de observación permiten a los niños aprender ciencia de manera práctica y divertida, fomentando su curiosidad."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Para promover la ciencia entre los niños, es importante fomentar su curiosidad y permitirles explorar el mundo que los rodea. Los experimentos sencillos, las salidas de observación a parques y ríos, y las preguntas abiertas son formas efectivas de enseñar ciencia. Cuando los niños hacen preguntas, observan, experimentan y descubren respuestas por sí mismos, desarrollan habilidades científicas y un amor por el aprendizaje que dura toda la vida.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle",
+      "periodo": 39,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

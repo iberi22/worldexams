@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-33-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-04T00:22:44.914Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v1",
+      "statement": "¿Qué es un ecosistema?",
+      "context": "En un colegio de Bogotá, la profesora explica a sus estudiantes qué es un ecosistema.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un conjunto de seres vivos y su ambiente que interactúan",
+          "is_correct": true,
+          "feedback": "Correcto. Un ecosistema es un sistema formado por seres vivos (plantas, animales, microorganismos) y su ambiente (agua, suelo, aire) que interactúan."
+        },
+        {
+          "letter": "B",
+          "text": "Un lugar donde solo hay animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ecosistema no solo tiene animales; incluye plantas, microorganismos, agua, suelo y aire."
+        },
+        {
+          "letter": "C",
+          "text": "Un lugar donde solo hay plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ecosistema no solo tiene plantas; incluye animales, microorganismos y el ambiente físico."
+        },
+        {
+          "letter": "D",
+          "text": "Un lugar donde solo hay agua",
+          "is_correct": false,
+          "feedback": "Incorrecto. Un ecosistema no solo tiene agua; incluye seres vivos y otros componentes como suelo y aire."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un ecosistema es un sistema natural formado por seres vivos (plantas, animales, hongos y microorganismos) y el ambiente físico (agua, suelo, aire, luz y temperatura) en el que viven. Todos estos componentes interactúan entre sí: las plantas producen alimento, los animales se alimentan de plantas u otros animales, y los descomponedores transforman los restos de seres vivos en nutrientes para el suelo. Los ecosistemas pueden ser tan grandes como un bosque o tan pequeños como un charco.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es la biodiversidad?",
+      "context": "En una reserva de la Amazonía colombiana, los estudiantes observan la biodiversidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La cantidad de agua en un ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biodiversidad no se refiere al agua; es la variedad de seres vivos que habitan en un lugar."
+        },
+        {
+          "letter": "B",
+          "text": "La variedad de seres vivos en un ecosistema",
+          "is_correct": true,
+          "feedback": "Correcto. La biodiversidad es la variedad de plantas, animales, hongos y microorganismos que viven en un ecosistema o en el planeta."
+        },
+        {
+          "letter": "C",
+          "text": "La cantidad de aire en un ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biodiversidad no se refiere al aire; es la variedad de seres vivos que habitan en un lugar."
+        },
+        {
+          "letter": "D",
+          "text": "La cantidad de suelo en un ecosistema",
+          "is_correct": false,
+          "feedback": "Incorrecto. La biodiversidad no se refiere al suelo; es la variedad de seres vivos que habitan en un lugar."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La biodiversidad es la variedad de seres vivos que existen en un ecosistema o en todo el planeta. Incluye todas las especies de plantas, animales, hongos y microorganismos, así como los ecosistemas donde viven. Colombia es uno de los países con mayor biodiversidad del mundo, con miles de especies de aves, mamíferos, reptiles, anfibios, peces, plantas y mariposas. La biodiversidad es importante porque cada especie cumple una función en el ecosistema.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v3",
+      "statement": "¿Qué muestra una cadena alimenticia en un ecosistema?",
+      "context": "En un bosque de niebla de Boyacá, los estudiantes observan una cadena alimenticia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cómo se reproducen los animales",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cadena alimenticia no muestra la reproducción; muestra quién se alimenta de quién en un ecosistema."
+        },
+        {
+          "letter": "B",
+          "text": "Cómo crecen las plantas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cadena alimenticia no muestra el crecimiento de las plantas; muestra las relaciones de alimentación entre los seres vivos."
+        },
+        {
+          "letter": "C",
+          "text": "Quién se alimenta de quién en un ecosistema",
+          "is_correct": true,
+          "feedback": "Correcto. Una cadena alimenticia muestra las relaciones de alimentación: las plantas producen alimento, los herbívoros comen plantas y los carnívoros comen otros animales."
+        },
+        {
+          "letter": "D",
+          "text": "Cómo se construyen los nidos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una cadena alimenticia no muestra la construcción de nidos; muestra quién se alimenta de quién en un ecosistema."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Una cadena alimenticia es una secuencia que muestra quién se alimenta de quién en un ecosistema. Comienza con los productores, que son las plantas que fabrican su propio alimento con la luz del sol. Luego están los consumidores primarios, que son los herbívoros que comen plantas. Después están los consumidores secundarios, que son los carnívoros que comen herbívoros. Finalmente, están los descomponedores, que transforman los restos de seres vivos en nutrientes para el suelo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v4",
+      "statement": "¿Por qué son importantes los humedales para las aves migratorias?",
+      "context": "En un humedal de la Sabana de Bogotá, los estudiantes observan las aves migratorias.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque les dan sombra",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque los humedales pueden dar sombra, su importancia para las aves migratorias es que les ofrecen alimento y refugio."
+        },
+        {
+          "letter": "B",
+          "text": "Porque les dan calor",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humedales no son especialmente cálidos; su importancia es que ofrecen alimento y refugio, no calor."
+        },
+        {
+          "letter": "C",
+          "text": "Porque les dan plumas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los humedales no dan plumas a las aves; las aves tienen sus propias plumas. Los humedales ofrecen alimento y refugio."
+        },
+        {
+          "letter": "D",
+          "text": "Porque les ofrecen alimento y refugio durante sus viajes",
+          "is_correct": true,
+          "feedback": "Correcto. Los humedales son lugares donde las aves migratorias encuentran agua, peces, insectos y plantas para alimentarse y descansar durante sus largos viajes."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los humedales son ecosistemas donde el agua es el elemento principal: incluyen ciénagas, lagunas, manglares y pantanos. Son muy importantes para las aves migratorias, que viajan miles de kilómetros desde el norte hasta el sur de América. En los humedales, las aves encuentran agua para beber, peces, insectos y plantas para alimentarse, y lugares seguros para descansar y reproducirse. Sin los humedales, muchas aves migratorias no podrían completar sus viajes.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v5",
+      "statement": "¿Cuál de estos es un ecosistema marino de Colombia?",
+      "context": "En un colegio de Medellín, los estudiantes investigan los ecosistemas de Colombia.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El mar Caribe",
+          "is_correct": true,
+          "feedback": "Correcto. El mar Caribe es un ecosistema marino que baña la costa norte de Colombia, con arrecifes de coral, peces y tortugas."
+        },
+        {
+          "letter": "B",
+          "text": "La Amazonía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Amazonía es un ecosistema terrestre de selva tropical, no un ecosistema marino."
+        },
+        {
+          "letter": "C",
+          "text": "Los Andes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los Andes son un ecosistema de montaña terrestre, no un ecosistema marino."
+        },
+        {
+          "letter": "D",
+          "text": "La Orinoquía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La Orinoquía es un ecosistema terrestre de llanuras y sabanas, no un ecosistema marino."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Colombia tiene una gran variedad de ecosistemas: selvas tropicales como la Amazonía, montañas como los Andes, llanuras como la Orinoquía, desiertos como la Guajira, y ecosistemas marinos como el mar Caribe y el océano Pacífico. El mar Caribe es un ecosistema marino que se caracteriza por sus aguas cálidas, sus arrecifes de coral y su gran biodiversidad de peces, tortugas, corales y otros organismos marinos.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué es importante conservar los bosques tropicales?",
+      "context": "En una reserva de la Sierra Nevada de Santa Marta, los estudiantes observan un bosque tropical.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque son lugares para hacer deporte",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque se puede hacer deporte en los bosques, su importancia va mucho más allá: producen oxígeno, regulan el clima y albergan biodiversidad."
+        },
+        {
+          "letter": "B",
+          "text": "Porque producen oxígeno, regulan el clima y son hogar de muchas especies",
+          "is_correct": true,
+          "feedback": "Correcto. Los bosques tropicales producen oxígeno, absorben dióxido de carbono, regulan el clima y son el hogar de miles de especies de plantas y animales."
+        },
+        {
+          "letter": "C",
+          "text": "Porque son lugares para construir casas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir casas en los bosques los destruye; los bosques son importantes por su función ecológica, no para la construcción."
+        },
+        {
+          "letter": "D",
+          "text": "Porque son lugares para tirar basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tirar basura en los bosques los contamina y daña; los bosques son ecosistemas valiosos que deben protegerse, no usarse como vertederos."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Los bosques tropicales son ecosistemas muy importantes para el planeta. Producen oxígeno a través de la fotosíntesis y absorben dióxido de carbono, ayudando a regular el clima. Son el hogar de miles de especies de plantas, animales, insectos y microorganismos, muchos de los cuales no se encuentran en ningún otro lugar. Además, los bosques protegen el suelo de la erosión, regulan el ciclo del agua y proporcionan recursos como madera, alimentos y medicinas.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v7",
+      "statement": "¿Qué consecuencias tiene la deforestación en un ecosistema?",
+      "context": "En un colegio de Cali, los estudiantes investigan el impacto de la deforestación.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aumenta la biodiversidad",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deforestación reduce la biodiversidad, ya que destruye el hogar de muchas especies de plantas y animales."
+        },
+        {
+          "letter": "B",
+          "text": "Mejora la calidad del aire",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deforestación empeora la calidad del aire, ya que los árboles producen oxígeno y absorben dióxido de carbono."
+        },
+        {
+          "letter": "C",
+          "text": "Reduce la biodiversidad y aumenta la erosión del suelo",
+          "is_correct": true,
+          "feedback": "Correcto. La deforestación destruye el hogar de muchas especies y deja el suelo sin protección, lo que aumenta la erosión por el viento y la lluvia."
+        },
+        {
+          "letter": "D",
+          "text": "Aumenta la cantidad de agua en los ríos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La deforestación reduce la capacidad del suelo para retener agua, lo que puede causar inundaciones y sequías."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La deforestación es la tala o quema de los bosques, y tiene graves consecuencias para los ecosistemas. Al perder los árboles, muchas especies de plantas y animales pierden su hogar y pueden desaparecer. El suelo, sin la protección de las raíces y las hojas, se erosiona con el viento y la lluvia. Además, los árboles producen oxígeno y absorben dióxido de carbono, por lo que la deforestación contribuye al cambio climático. También afecta el ciclo del agua, ya que los bosques ayudan a regular las lluvias.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas acciones sería más efectiva para proteger los ecosistemas desérticos?",
+      "context": "En una comunidad de la Guajira, los líderes quieren proteger el desierto y su biodiversidad.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Construir grandes edificios en el desierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Construir edificios destruye el ecosistema desértico y afecta a las especies que viven allí."
+        },
+        {
+          "letter": "B",
+          "text": "Tirar basura en el desierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Tirar basura contamina el desierto y daña a las plantas y animales que viven allí."
+        },
+        {
+          "letter": "C",
+          "text": "Cazar a los animales del desierto",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cazar a los animales reduce las poblaciones y puede llevar a algunas especies a la extinción."
+        },
+        {
+          "letter": "D",
+          "text": "Proteger las especies nativas y evitar la sobreexplotación del agua",
+          "is_correct": true,
+          "feedback": "Correcto. Proteger las especies nativas y usar el agua de manera sostenible son acciones clave para conservar los ecosistemas desérticos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los ecosistemas desérticos, como la Guajira, son frágiles y albergan especies adaptadas a condiciones extremas de calor y sequedad. Para protegerlos, es importante conservar las plantas y animales nativos, que están adaptados al ambiente y cumplen funciones importantes en el ecosistema. También es crucial usar el agua de manera sostenible, ya que es un recurso escaso en el desierto. Evitar la contaminación y la sobreexplotación de recursos ayuda a mantener el equilibrio del ecosistema.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle",
+      "periodo": 33,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 3,
+    "subject": "lengua",
+    "country": "co",
+    "pack_id": "co-week-29-grade-3-subject-lengua",
+    "generated_at": "2026-10-04T00:22:45.221Z"
+  },
+  "questions": [
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v1",
+      "statement": "¿Para que sirve un texto informativo?",
+      "context": "En una escuela de Bogota, Sara lee la cartelera con avisos del colegio.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para dar datos reales sobre algo",
+          "is_correct": true,
+          "feedback": "Correcto. El texto informativo entrega hechos verdaderos porque su fin es que el lector aprenda datos utiles."
+        },
+        {
+          "letter": "B",
+          "text": "Para contar un cuento inventado",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuento entretiene con hechos imaginarios porque su fin es divertir, no informar."
+        },
+        {
+          "letter": "C",
+          "text": "Para dar ordenes de un juego",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las instrucciones indican pasos porque enseñan a jugar, pero no explican datos sobre el mundo."
+        },
+        {
+          "letter": "D",
+          "text": "Para escribir una carta de amor",
+          "is_correct": false,
+          "feedback": "Incorrecto. La carta expresa sentimientos porque es personal, mientras el informativo presenta hechos reales."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El texto informativo comunica hechos reales. Recordar esa funcion permite distinguirlo de cuentos e instrucciones al leer.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.9,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v2",
+      "statement": "Aviso: \"Jornada de vacunacion, sabado 9 de la mañana, coliseo del barrio.\" ¿Que dato NO aparece en el aviso?",
+      "context": "En una escuela de Medellin, Daniel lee el aviso de la jornada de vacunacion.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que actividad se hara",
+          "is_correct": false,
+          "feedback": "Incorrecto. La actividad si aparece porque el aviso dice jornada de vacunacion al inicio."
+        },
+        {
+          "letter": "B",
+          "text": "El nombre del medico que vacunara",
+          "is_correct": true,
+          "feedback": "Correcto. Ese dato no aparece porque el aviso solo dice la actividad, el dia, la hora y el lugar."
+        },
+        {
+          "letter": "C",
+          "text": "El dia y la hora",
+          "is_correct": false,
+          "feedback": "Incorrecto. El dia y la hora si aparecen porque dice sabado 9 de la mañana con precision."
+        },
+        {
+          "letter": "D",
+          "text": "El lugar del evento",
+          "is_correct": false,
+          "feedback": "Incorrecto. El lugar si aparece porque el aviso nombra el coliseo del barrio como sede."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Leer un aviso exige buscar datos precisos. Comprender que, cuando y donde permite usar la informacion en la vida diaria.",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Competencia Lectora (Literal)",
+      "expected_success": 0.88,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v3",
+      "statement": "Receta: \"1. Pela el platano. 2. Rellenalo con queso. 3. Frito en aceite caliente.\" ¿Que caracteriza a este texto?",
+      "context": "En una escuela de Cali, Laura sigue una receta de aborrajados del Valle.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cuenta una historia con personajes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aqui no hay personajes ni problema porque solo hay pasos para cocinar un plato."
+        },
+        {
+          "letter": "B",
+          "text": "Que expresa sentimientos del cocinero",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no habla de emociones porque solo indica ingredientes y acciones de cocina."
+        },
+        {
+          "letter": "C",
+          "text": "Que presenta pasos en orden para lograr un resultado",
+          "is_correct": true,
+          "feedback": "Correcto. La receta es informativa porque numera cada paso y así garantiza que el plato quede bien preparado."
+        },
+        {
+          "letter": "D",
+          "text": "Que pregunta al lector su opinion",
+          "is_correct": false,
+          "feedback": "Incorrecto. El texto no hace preguntas porque solo da ordenes claras para preparar el plato."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Las recetas informan con pasos ordenados. Reconocer la numeracion y los verbos de accion permite seguirlas sin perderse.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Textual",
+      "expected_success": 0.84,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v4",
+      "statement": "Noticia: \"Liberaron 50 tortugas en la cienga para proteger la fauna.\" ¿Cual es el dato principal?",
+      "context": "En una escuela de Barranquilla, Nicolas lee una noticia corta sobre la cienga.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que la cienga es bonita",
+          "is_correct": false,
+          "feedback": "Incorrecto. La belleza es una opinion porque no se puede medir, mientras la noticia da un hecho concreto."
+        },
+        {
+          "letter": "B",
+          "text": "Que las tortugas son verdes",
+          "is_correct": false,
+          "feedback": "Incorrecto. El color es un detalle porque adorna, pero no es el hecho que la noticia quiere comunicar."
+        },
+        {
+          "letter": "C",
+          "text": "Que hubo muchos visitantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los visitantes no se mencionan porque la noticia solo habla de la liberacion de tortugas."
+        },
+        {
+          "letter": "D",
+          "text": "Que liberaron 50 tortugas para protegerlas",
+          "is_correct": true,
+          "feedback": "Correcto. Ese es el hecho central porque dice cuantos animales, donde y para que se liberaron."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La noticia responde que paso y para que. Aplicar esas preguntas permite encontrar el dato principal entre los detalles.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Uso comprensivo del conocimiento",
+      "expected_success": 0.83,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v5",
+      "statement": "Señal: \"No arrojes basura. Usa las canecas.\" ¿Que mensaje da la señal?",
+      "context": "En una escuela de Bucaramanga, Isabella interpreta las señales del parque del pueblo.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que cuides la limpieza usando las canecas",
+          "is_correct": true,
+          "feedback": "Correcto. El mensaje pide no ensuciar porque indica donde poner la basura, que son las canecas."
+        },
+        {
+          "letter": "B",
+          "text": "Que el parque esta cerrado",
+          "is_correct": false,
+          "feedback": "Incorrecto. La señal no habla de horarios porque solo pide cuidar la limpieza del parque."
+        },
+        {
+          "letter": "C",
+          "text": "Que traigas mas basura",
+          "is_correct": false,
+          "feedback": "Incorrecto. La señal pide lo contrario porque prohibe arrojar basura en el suelo del parque."
+        },
+        {
+          "letter": "D",
+          "text": "Que juegues en las canecas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las canecas son para la basura porque reciben desechos, no son juegos del parque."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Las señales informan con mensajes breves. Interpretar la prohibicion y la orden permite actuar bien en espacios publicos.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Competencia Lectora (Inferencial)",
+      "expected_success": 0.82,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v6",
+      "statement": "Texto A: \"El grano magico canto en la noche.\" Texto B: \"El cafe de Pereira gano un premio por su calidad.\" ¿Cual es informativo y por que?",
+      "context": "En una escuela de Pereira, Antonia compara un cuento y una noticia sobre el mismo cafe.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El A, porque tiene magia",
+          "is_correct": false,
+          "feedback": "Incorrecto. La magia indica fantasia porque es inventada, y lo informativo exige hechos reales y comprobables."
+        },
+        {
+          "letter": "B",
+          "text": "El B, porque da un hecho real y verificable",
+          "is_correct": true,
+          "feedback": "Correcto. El texto B informa porque el premio es un hecho que se puede comprobar con registros del concurso."
+        },
+        {
+          "letter": "C",
+          "text": "Los dos, porque hablan de cafe",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema comun no los iguala porque uno inventa y el otro reporta un hecho real."
+        },
+        {
+          "letter": "D",
+          "text": "Ninguno, porque son muy cortos",
+          "is_correct": false,
+          "feedback": "Incorrecto. La longitud no define si informa porque un texto breve puede dar un dato real completo."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Lo informativo se reconoce porque presenta hechos verificables. Analizar si lo contado puede comprobarse separa noticia de fantasia.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Pragmatico",
+      "expected_success": 0.79,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v7",
+      "statement": "Titulo: \"Grado tercero gano el concurso de lectura.\" Cuerpo: \"Vencio a otros cinco cursos con 120 puntos.\" ¿Que aporta el cuerpo al titulo?",
+      "context": "En una escuela de Tunja, Emiliano analiza el titulo y el cuerpo de una noticia escolar.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repite el titulo sin agregar nada",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuerpo agrega numeros porque dice contra cuantos gano y con que puntaje."
+        },
+        {
+          "letter": "B",
+          "text": "Cambia el tema de la noticia",
+          "is_correct": false,
+          "feedback": "Incorrecto. El tema sigue siendo el triunfo porque el cuerpo habla del mismo concurso de lectura."
+        },
+        {
+          "letter": "C",
+          "text": "Agrega detalles que prueban lo que dice el titulo",
+          "is_correct": true,
+          "feedback": "Correcto. El cuerpo sostiene el titulo porque precisa contra cinco cursos y con 120 puntos como evidencia."
+        },
+        {
+          "letter": "D",
+          "text": "Expresa la opinion del autor",
+          "is_correct": false,
+          "feedback": "Incorrecto. El cuerpo da cifras objetivas porque presenta puntaje y rivales, no opiniones personales."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "El titulo anuncia y el cuerpo detalla. Analizar esa relacion muestra que los datos del cuerpo prueban lo afirmado en el titulo.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Discursivo",
+      "expected_success": 0.78,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    },
+    {
+      "id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle-v8",
+      "statement": "Aviso 1: \"Reunion pasado mañana en algun lado.\" Aviso 2: \"Reunion de padres, jueves 3 pm, salon de tercero.\" ¿Cual informa mejor y por que?",
+      "context": "En una escuela de Cucuta, Valentina evalua dos avisos para elegir el mas claro.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El aviso 1, porque es mas misterioso",
+          "is_correct": false,
+          "feedback": "Incorrecto. El misterio no informa porque deja dudas, y un aviso debe dar datos exactos para asistir."
+        },
+        {
+          "letter": "B",
+          "text": "Los dos informan igual, porque anuncian reunion",
+          "is_correct": false,
+          "feedback": "Incorrecto. Anunciar no basta porque el primero deja sin definir el dia exacto y el lugar de encuentro."
+        },
+        {
+          "letter": "C",
+          "text": "El aviso 1, porque es mas corto",
+          "is_correct": false,
+          "feedback": "Incorrecto. La brevedad sin datos no sirve porque pasado mañana cambia segun el dia y algun lado no ubica a nadie."
+        },
+        {
+          "letter": "D",
+          "text": "El aviso 2, porque da actividad, dia, hora y lugar exactos",
+          "is_correct": true,
+          "feedback": "Correcto. El aviso 2 es util porque precisa quienes se reunen, cuando con dia y hora, y donde con el salon exacto."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Evaluar un aviso exige verificar datos completos. El aviso con actividad, tiempo y lugar exactos permite asistir sin confusiones.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Competencia Lectora (Crítica)",
+      "expected_success": 0.72,
+      "bundle_id": "CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle",
+      "periodo": 29,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 3,
+      "country": "co"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "grade": 4,
+    "subject": "ciencias-naturales",
+    "country": "co",
+    "pack_id": "co-week-35-grade-4-subject-ciencias_naturales",
+    "generated_at": "2026-10-04T00:22:44.914Z"
+  },
+  "questions": [
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v1",
+      "statement": "¿Cuál es la principal fuente de luz natural en la Tierra?",
+      "context": "En un colegio de Bogotá, la profesora explica a sus estudiantes cómo se produce la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El sol",
+          "is_correct": true,
+          "feedback": "Correcto. El sol es una estrella que produce su propia luz y es la principal fuente de luz natural en la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "La luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. La luna no produce luz propia; refleja la luz del sol. La principal fuente de luz natural es el sol."
+        },
+        {
+          "letter": "C",
+          "text": "Las estrellas",
+          "is_correct": false,
+          "feedback": "Incorrecto. Aunque las estrellas producen luz, están tan lejos que su luz es muy débil comparada con la del sol."
+        },
+        {
+          "letter": "D",
+          "text": "Los relámpagos",
+          "is_correct": false,
+          "feedback": "Incorrecto. Los relámpagos producen luz, pero son fenómenos temporales y no la fuente principal de luz natural."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El sol es una estrella que produce su propia luz y calor a través de reacciones nucleares en su núcleo. Es la principal fuente de luz natural en la Tierra. La luz del sol viaja por el espacio y llega a nuestro planeta en aproximadamente 8 minutos. Esta luz es esencial para la vida: permite la fotosíntesis en las plantas, proporciona calor y nos permite ver.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Remember",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.9,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v2",
+      "statement": "¿Qué es una sombra?",
+      "context": "En una clase de ciencias de Medellín, los estudiantes aprenden sobre las sombras.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un objeto que produce luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sombra no produce luz; es una zona oscura que se forma cuando un objeto bloquea la luz."
+        },
+        {
+          "letter": "B",
+          "text": "Una zona oscura que se forma cuando un objeto bloquea la luz",
+          "is_correct": true,
+          "feedback": "Correcto. Una sombra es una zona oscura que se forma cuando un objeto opaco bloquea el paso de la luz."
+        },
+        {
+          "letter": "C",
+          "text": "Un tipo de luz",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sombra no es un tipo de luz; es la ausencia de luz en una zona donde un objeto la bloquea."
+        },
+        {
+          "letter": "D",
+          "text": "Un color",
+          "is_correct": false,
+          "feedback": "Incorrecto. Una sombra no es un color; es una zona oscura que se forma cuando la luz es bloqueada."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Una sombra es una zona oscura que se forma cuando un objeto opaco bloquea el paso de la luz. La luz viaja en línea recta y no puede atravesar objetos opacos, como una persona, un árbol o una casa. Detrás de estos objetos, donde la luz no llega, se forma una sombra. Las sombras cambian de tamaño y forma según la posición de la fuente de luz y del objeto.\n\n---",
+      "difficulty": "4",
+      "images": [],
+      "tags": [],
+      "bloom": "Understand",
+      "icfes_type": "Uso comprensivo del conocimiento científico",
+      "expected_success": 0.88,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v3",
+      "statement": "¿Por qué las sombras son más largas en la mañana y en la tarde, y más cortas al mediodía?",
+      "context": "En un colegio de Cali, los estudiantes observan cómo cambia la longitud de las sombras durante el día.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el sol está más cerca de la Tierra al mediodía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La distancia entre el sol y la Tierra no cambia significativamente durante el día; la longitud de las sombras depende de la posición del sol."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la Tierra gira más rápido al mediodía",
+          "is_correct": false,
+          "feedback": "Incorrecto. La velocidad de rotación de la Tierra no cambia durante el día; la longitud de las sombras depende de la posición del sol."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el sol está más bajo en el cielo en la mañana y en la tarde, y más alto al mediodía",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando el sol está bajo, la luz llega más inclinada y las sombras son más largas; cuando está alto, la luz llega más vertical y las sombras son más cortas."
+        },
+        {
+          "letter": "D",
+          "text": "Porque hay más nubes al mediodía",
+          "is_correct": false,
+          "feedback": "Incorrecto. Las nubes pueden afectar la intensidad de la luz, pero no determinan la longitud de las sombras; eso depende de la posición del sol."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La longitud de las sombras depende de la posición del sol en el cielo. En la mañana y en la tarde, el sol está bajo en el horizonte, por lo que la luz llega de manera más inclinada y las sombras son más largas. Al mediodía, el sol está más alto en el cielo, la luz llega más vertical y las sombras son más cortas. Este fenómeno se debe a la rotación de la Tierra, que hace que el sol aparente moverse por el cielo durante el día.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.75,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v4",
+      "statement": "¿Qué ocurre con la sombra de la pelota cuando la linterna se acerca a ella?",
+      "context": "En un colegio de Barranquilla, los estudiantes hacen un experimento con una linterna y una pelota.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La sombra se hace más pequeña",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando la fuente de luz se acerca al objeto, la sombra se hace más grande, no más pequeña."
+        },
+        {
+          "letter": "B",
+          "text": "La sombra desaparece",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra no desaparece cuando la luz se acerca; se hace más grande porque los rayos de luz se abren más."
+        },
+        {
+          "letter": "C",
+          "text": "La sombra cambia de color",
+          "is_correct": false,
+          "feedback": "Incorrecto. La sombra no cambia de color; su tamaño cambia según la distancia de la fuente de luz, pero su color sigue siendo oscuro."
+        },
+        {
+          "letter": "D",
+          "text": "La sombra se hace más grande",
+          "is_correct": true,
+          "feedback": "Correcto. Cuando la fuente de luz se acerca al objeto, los rayos de luz se abren más y la sombra se proyecta más grande."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "El tamaño de una sombra depende de la distancia entre la fuente de luz y el objeto. Cuando la fuente de luz está cerca del objeto, los rayos de luz se abren más y la sombra se proyecta más grande. Cuando la fuente de luz está lejos, los rayos de luz son más paralelos y la sombra es más pequeña. Este principio se usa en la vida cotidiana, por ejemplo, en los teatros de sombras y en la fotografía.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.78,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v5",
+      "statement": "¿Qué ocurre durante un eclipse solar?",
+      "context": "En un colegio de Cartagena, los estudiantes investigan cómo se forman los eclipses.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "La luna se interpone entre el sol y la Tierra",
+          "is_correct": true,
+          "feedback": "Correcto. En un eclipse solar, la luna se interpone entre el sol y la Tierra, bloqueando la luz del sol y proyectando una sombra sobre la Tierra."
+        },
+        {
+          "letter": "B",
+          "text": "La Tierra se interpone entre el sol y la luna",
+          "is_correct": false,
+          "feedback": "Incorrecto. Cuando la Tierra se interpone entre el sol y la luna, ocurre un eclipse lunar, no solar."
+        },
+        {
+          "letter": "C",
+          "text": "El sol se interpone entre la luna y la Tierra",
+          "is_correct": false,
+          "feedback": "Incorrecto. El sol no se interpone entre la luna y la Tierra; en un eclipse solar, es la luna la que se interpone."
+        },
+        {
+          "letter": "D",
+          "text": "La luna se interpone entre el sol y otro planeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. En un eclipse solar, la luna se interpone entre el sol y la Tierra, no entre el sol y otro planeta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Un eclipse solar ocurre cuando la luna se interpone entre el sol y la Tierra, bloqueando la luz del sol y proyectando una sombra sobre una parte de la Tierra. Durante un eclipse solar total, el día se oscurece brevemente porque la luna cubre completamente el sol. Este fenómeno es posible porque, aunque el sol es mucho más grande que la luna, también está mucho más lejos, lo que hace que ambos tengan un tamaño aparente similar en el cielo.\n\n---",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "icfes_type": "Indagación",
+      "expected_success": 0.72,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v6",
+      "statement": "¿Por qué un lápiz parece doblado cuando se coloca en un vaso con agua?",
+      "context": "En un colegio de Bucaramanga, los estudiantes aprenden sobre la refracción de la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Porque el agua cambia la forma del lápiz",
+          "is_correct": false,
+          "feedback": "Incorrecto. El agua no cambia la forma del lápiz; el lápiz sigue siendo recto, pero la luz se desvía al pasar del agua al aire."
+        },
+        {
+          "letter": "B",
+          "text": "Porque la luz se desvía al pasar del agua al aire",
+          "is_correct": true,
+          "feedback": "Correcto. La luz viaja a diferentes velocidades en el agua y en el aire; al pasar de un medio a otro, se desvía, lo que hace que el lápiz parezca doblado."
+        },
+        {
+          "letter": "C",
+          "text": "Porque el vaso está roto",
+          "is_correct": false,
+          "feedback": "Incorrecto. El vaso no necesita estar roto para que el lápiz parezca doblado; el fenómeno se debe a la refracción de la luz."
+        },
+        {
+          "letter": "D",
+          "text": "Porque el agua está caliente",
+          "is_correct": false,
+          "feedback": "Incorrecto. La temperatura del agua no afecta la apariencia del lápiz; el fenómeno se debe a la refracción de la luz."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "La refracción es el cambio de dirección que sufre la luz al pasar de un medio a otro, por ejemplo, del agua al aire. La luz viaja a diferentes velocidades en diferentes medios: es más lenta en el agua que en el aire. Cuando la luz pasa del agua al aire, se desvía, lo que hace que los objetos bajo el agua parezcan en una posición diferente a la real. Por eso un lápiz en un vaso con agua parece doblado.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Explicación de fenómenos",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v7",
+      "statement": "¿Qué colores de luz se mezclan para producir luz blanca?",
+      "context": "En un colegio de Pasto, los estudiantes investigan los colores de la luz.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rojo, amarillo y azul",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rojo, amarillo y azul son colores primarios de pigmentos, no de luz. Los colores primarios de luz son rojo, verde y azul."
+        },
+        {
+          "letter": "B",
+          "text": "Rojo, naranja y amarillo",
+          "is_correct": false,
+          "feedback": "Incorrecto. El rojo, naranja y amarillo no producen luz blanca; son colores cálidos que, mezclados, darían un color cálido."
+        },
+        {
+          "letter": "C",
+          "text": "Rojo, verde y azul",
+          "is_correct": true,
+          "feedback": "Correcto. El rojo, verde y azul son los colores primarios de luz; cuando se mezclan en proporciones iguales, producen luz blanca."
+        },
+        {
+          "letter": "D",
+          "text": "Azul, verde y violeta",
+          "is_correct": false,
+          "feedback": "Incorrecto. El azul, verde y violeta no producen luz blanca; son colores fríos que, mezclados, darían un color frío."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La luz blanca está compuesta por todos los colores del arcoíris. Los colores primarios de luz son el rojo, el verde y el azul. Cuando estos tres colores se mezclan en proporciones iguales, producen luz blanca. Este principio se usa en las pantallas de televisión, computadores y teléfonos, que combinan píxeles rojos, verdes y azules para producir todos los colores que vemos.\n\n---",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "icfes_type": "Indagación",
+      "expected_success": 0.73,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    },
+    {
+      "id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle-v8",
+      "statement": "¿Cuál de estas acciones sería más efectiva para reducir la contaminación lumínica?",
+      "context": "En una comunidad de Cúcuta, los líderes quieren reducir la contaminación lumínica.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Usar luces más brillantes en las calles",
+          "is_correct": false,
+          "feedback": "Incorrecto. Usar luces más brillantes aumenta la contaminación lumínica, ya que dispersa más luz hacia el cielo."
+        },
+        {
+          "letter": "B",
+          "text": "Dejar todas las luces encendidas toda la noche",
+          "is_correct": false,
+          "feedback": "Incorrecto. Dejar las luces encendidas toda la noche aumenta la contaminación lumínica y desperdicia energía."
+        },
+        {
+          "letter": "C",
+          "text": "Pintar las casas de colores brillantes",
+          "is_correct": false,
+          "feedback": "Incorrecto. Pintar las casas de colores brillantes no reduce la contaminación lumínica; de hecho, puede aumentar el reflejo de luz."
+        },
+        {
+          "letter": "D",
+          "text": "Usar luces dirigidas hacia abajo y apagarlas cuando no se necesitan",
+          "is_correct": true,
+          "feedback": "Correcto. Las luces dirigidas hacia abajo iluminan solo lo necesario y reducen la dispersión de luz hacia el cielo; apagarlas cuando no se necesitan ahorra energía."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La contaminación lumínica es el exceso de luz artificial que se dispersa hacia el cielo, dificultando la observación de las estrellas y afectando a los ecosistemas nocturnos. Para reducirla, es importante usar luces dirigidas hacia abajo, que iluminen solo las áreas necesarias; apagar las luces cuando no se necesitan; y usar luces de baja intensidad y colores cálidos. Estas acciones ayudan a preservar el cielo nocturno y a ahorrar energía.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "icfes_type": "Indagación",
+      "expected_success": 0.7,
+      "bundle_id": "CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle",
+      "periodo": 35,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ciencias-naturales",
+      "grade": 4,
+      "country": "co"
+    }
+  ]
+}
