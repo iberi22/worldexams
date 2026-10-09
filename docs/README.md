@@ -250,7 +250,6 @@ docs/
 | `INFOGRAPHIC_GENERATION_PLAN.md` | Infographic generation plan |
 | `INTERNATIONALIZATION_REPORT.md` | i18n report |
 | `MODERN_QUESTIONS_PROTOCOL.md` | Modern questions protocol |
-| `MONETIZATION_STRATEGY.md` | Monetization strategy |
 | `OFFLINE_STRATEGY.md` | Offline strategy |
 | `PARTY_MODE.md` | Party mode |
 | `PARTY_MODE_CONFIG_SYNC_FIX.md` | Party mode config sync fix |
