@@ -443,7 +443,6 @@ Antes de considerar completo, verificar:
 - [ ] Build time <5 minutos
 - [ ] .gitignore ignora *-bundle.md y *-PREMIUM.md
 - [ ] README.md actualizado con arquitectura dual
-- [ ] MONETIZATION_STRATEGY.md documentado
 - [ ] Personal Access Token guardado en 1Password/Bitwarden
 
 ---
