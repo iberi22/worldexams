@@ -433,7 +433,10 @@ export function checkAnswerLetterBias(correctLetters, totalQuestions) {
     if (c > totalQuestions * 0.5) return 'bias-over-50';
   }
 
-  if (totalQuestions >= 12) {
+  // v5.2 sizes bundles at 8 questions for grades 3-5 and 10 for grades 6-7, and
+  // this floor was left at 12: half the corpus could never be seen by the rule.
+  // 220 bundles (1950 questions) had an unused answer letter and stayed green.
+  if (totalQuestions >= 8) {
     for (const c of Object.values(counts)) {
       if (c === 0) return 'bias-zero';
     }
