@@ -239,30 +239,30 @@
       "options": [
         {
           "letter": "A",
-          "text": "Las artistas diligently presentan su trabajo en la galería.",
-          "is_correct": true,
-          "feedback": "Es correcta: 'artistas' es femenino plural y el adjetivo y el verbo concuerdan con esa forma."
+          "text": "Las artistas talentosas presentan su trabajo en la galería.",
+          "is_correct": false,
+          "feedback": "Es correcta: el artículo, el adjetivo y el verbo concuerdan en femenino plural con «artistas»."
         },
         {
           "letter": "B",
-          "text": "Las artistasTil presentsn su trabajo en la galería.",
-          "is_correct": false,
-          "feedback": "Es la respuesta: el adjetivo 'diligentemente' es un adverbio invariable y por eso no debería llevar tilde ni cambiar de género; el error real es usarlo como adjetivo concordante."
+          "text": "Las artistas talentosos presentan su trabajo en la galería.",
+          "is_correct": true,
+          "feedback": "Es la respuesta: «talentosos» va en masculino y no concuerda con «las artistas»."
         },
         {
           "letter": "C",
-          "text": "La artista presenta su trabajo en la galería.",
+          "text": "La artista talentosa presenta su trabajo en la galería.",
           "is_correct": false,
-          "feedback": "Es correcta: todo el grupo está en singular y la concordancia es adecuada."
+          "feedback": "Es correcta: artículo, adjetivo y verbo están en femenino singular."
         },
         {
           "letter": "D",
-          "text": "Las artistas presentan su trabajo en la galería.",
+          "text": "Unas artistas presentan su trabajo en la galería.",
           "is_correct": false,
-          "feedback": "Es correcta: el sustantivo y el verbo concuerdan en plural."
+          "feedback": "Es correcta: «unas» y «artistas» concuerdan en femenino plural, y el verbo también."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Los adverbios terminados en '-mente' son invariables y no deben alterar la concordancia del sustantivo con el que aparecen.",
       "difficulty": "6",
       "images": [],

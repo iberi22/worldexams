@@ -696,8 +696,8 @@
         {
           "letter": "D",
           "text": "lastly",
-          "is_correct": true,
-          "feedback": "Incorrect. 'Lastly' means 'finally' in a list of points. The correct word should be 'at last' or 'finally'. Wait, let's re-evaluate options."
+          "is_correct": false,
+          "feedback": "Incorrect. \"Lastly\" orders the last item in a list. It does not mean that something happened after a long wait."
         },
         {
           "letter": "B",
@@ -708,11 +708,11 @@
         {
           "letter": "C",
           "text": "finally",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correct! 'Finally' is the adverb indicating that something happened after a long time."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "Using adverbs correctly to modify verbs is essential. 'Finally' indicates a long-awaited result, which fits the context of stabilizing after 'years of decline'.\n\n---",
       "difficulty": "8",
       "images": [],

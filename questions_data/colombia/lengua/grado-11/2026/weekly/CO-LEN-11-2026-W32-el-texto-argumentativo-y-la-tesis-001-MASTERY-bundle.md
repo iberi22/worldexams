@@ -490,7 +490,7 @@ Un texto afirma que "el transporte público es más económico que el automóvil
 - [ ] A) Es adecuado, porque los datos de dos ciudades representan la realidad de todo el país.
   <!-- feedback: Incorrecto. Dos ciudades no representan por sí solas a un país entero, y la generalización no está justificada. -->
 - [ ] B) Es adecuado, porque la economía del transporte no cambia entre regiones del país.
-  <!-- feedback: Correcto: presentar un alcance limitado como si fuera general debilita el texto y confunde al lector. -->
+  <!-- feedback: Incorrecto. Afirmar que la economía del transporte no cambia entre regiones es la generalización no justificada: dos ciudades no representan al país. -->
 - [x] C) Es un recurso parcial, porque expone solo las condiciones de las ciudades analizadas y oculta la limitación del dato.
   <!-- feedback: Correcto: presentar un alcance limitado como si fuera general debilita el texto y confunde al lector. -->
 - [ ] D) Es un recurso sólido, porque cualquierreader dato de una ciudad puede repeatable generalizarse al conjunto del país.

@@ -412,11 +412,11 @@ This complex structure combines inversion (to omit 'if') with a mixed conditiona
 ### Opciones
 - [ ] A) last
   <!-- feedback: Incorrect. 'Last' is an adjective or verb, not an adverb for this context. -->
-- [x] D) lastly
-  <!-- feedback: Incorrect. 'Lastly' means 'finally' in a list of points. The correct word should be 'at last' or 'finally'. Wait, let's re-evaluate options. -->
+- [ ] D) lastly
+  <!-- feedback: Incorrect. "Lastly" orders the last item in a list. It does not mean that something happened after a long wait. -->
 - [ ] B) final
   <!-- feedback: Incorrect. This is an adjective. -->
-- [ ] C) finally
+- [x] C) finally
   <!-- feedback: Correct! 'Finally' is the adverb indicating that something happened after a long time. -->
 
 ### Explicacion Pedagogica

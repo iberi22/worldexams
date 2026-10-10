@@ -136,9 +136,9 @@ Una noticia es más fácil de comprobar cuando menciona los documentos en los qu
 ### Opciones
 - [ ] A) A que el periodista quiere mostrar que las fuentes oficiales nunca registran lo que ocurre en la calle.
   <!-- feedback: Incorrecto. La frase sugiere un vacío puntual en un boletín, no una afirmación sobre todas las fuentes oficiales. -->
-- [ ] B) A que el columnista necesita mostrar el contraste entre lo que se vive y lo que se registra, para sostener su crítica.
+- [x] B) A que el columnista necesita mostrar el contraste entre lo que se vive y lo que se registra, para sostener su crítica.
   <!-- feedback: Correcto. La frase cierra el contraste entre la experiencia de las familias y la información oficial. -->
-- [x] C) A que el columnista debe referirse a un boletín concreto, sin el cual su crítica sería incomprensible.
+- [ ] C) A que el columnista debe referirse a un boletín concreto, sin el cual su crítica sería incomprensible.
   <!-- feedback: Incorrecto. La columna no cita ese boletín: la referencia es general y funciona como argumento. -->
 - [ ] D) A que el texto incluye datos que él no pudo verificar, y por eso los reconoce como tales.
   <!-- feedback: Incorrecto. La columna no usa datos: su fuerza está en la observación directa y en el contraste. -->
