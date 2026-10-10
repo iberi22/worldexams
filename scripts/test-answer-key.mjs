@@ -330,6 +330,42 @@ try {
     typeof repeatedKeyIsNew === 'function' &&
       repeatedKeyIsNew({ group: 'CO|6|matematicas', sequence: 'ACBDACBDAC', bundles: ['a.md'] }, fixtureBaseline) === true
   );
+
+  // --- #1665: the published stamp must survive a run from saberparatodos/ ---
+  // The validator is documented to run from the repository root AND from
+  // `saberparatodos/`, where a real bundle path is `../questions_data/...`.
+  // A repo-relative baseline path must still match it, or a published stamp is
+  // read as new -- and with positionals that is ERROR and exit 1, which is
+  // exactly what a scoped repair run of three CO-ING-4 W01-W03 bundles saw.
+  {
+    const script = [
+      "import { pathToFileURL } from 'node:url';",
+      `const mod = await import(pathToFileURL(${JSON.stringify(VALIDATOR)}).href);`,
+      "const baseline = mod.loadRepeatedAnswerKeyBaseline();",
+      "const key = 'CO|4|ingles|ABCDABCD';",
+      "const known = baseline[key] || [];",
+      "const group = { group: 'CO|4|ingles', sequence: 'ABCDABCD' };",
+      "const published = { ...group, bundles: known.slice(0, 3).map((p) => '../' + p) };",
+      "const extra = { ...group, bundles: [...published.bundles, '../questions_data/colombia/ingles/grado-4/2026/weekly/zz-not-baselined-001-MASTERY-bundle.md'] };",
+      'console.log(JSON.stringify(mod.repeatedKeyIsNew(published, baseline)));',
+      'console.log(JSON.stringify(mod.repeatedKeyIsNew(extra, baseline)));',
+    ].join('\n');
+    const run = spawnSync('node', ['--input-type=module', '-e', script], {
+      cwd: path.join(REPO, 'saberparatodos'),
+      encoding: 'utf8',
+    });
+    const lines = (run.stdout || '').trim().split('\n');
+    check(
+      `repeatedKeyIsNew from saberparatodos/: a published stamp is not new (${lines[0] || 'no output'})`,
+      run.status === 0 && lines[0] === 'false',
+      `status=${run.status}; out=${run.stdout}; err=${(run.stderr || '').slice(0, 300)}`
+    );
+    check(
+      `repeatedKeyIsNew from saberparatodos/: an unlisted bundle is new (${lines[1] || 'no output'})`,
+      run.status === 0 && lines[1] === 'true',
+      `status=${run.status}; out=${run.stdout}; err=${(run.stderr || '').slice(0, 300)}`
+    );
+  }
 } finally {
   fs.rmSync(tmp, { recursive: true, force: true });
 }

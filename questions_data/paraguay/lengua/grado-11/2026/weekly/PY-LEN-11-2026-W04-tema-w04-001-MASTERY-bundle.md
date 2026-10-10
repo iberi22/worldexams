@@ -136,8 +136,8 @@ Las oraciones subordinadas adjetivas complementan a un nombre.
 - [ ] D) Unas artistas presentan su trabajo en la galería. <!-- feedback: Es correcta: «unas» y «artistas» concuerdan en femenino plural, y el verbo también. -->
 
 ### Explicacion Pedagogica
-Los adverbios terminados en '-mente' son invariables y no deben alterar la concordancia del sustantivo con el que aparecen.## Explicacion Pedagogica
-Las palabras llanas terminadas en consonante distinta de n/s llevan tilde.
+La concordancia de género exige que el artículo, el adjetivo y el verbo acompañen al sustantivo: con «las artistas» todo va en femenino plural, y «talentosos» en masculino rompe esa concordancia.## Explicacion Pedagogica
+Un solo elemento que no coincida en género o número con el sustantivo basta para que la oración sea agramatical.
 ## Question 7 [D5-D6]
 **ID:** PY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle-v7
 **Bloom:** Analyze

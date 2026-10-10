@@ -120,8 +120,8 @@ La opcion A sigue las normas ortograficas correctamente.
 - [x] D) Corriendo el niño, se cayó en el patio. <!-- feedback: Es la respuesta: el gerundio no puede ir delante del sujeto como si fuera un verbo conjugado. Lo correcto es «El niño, corriendo, se cayó» o «Mientras corría, el niño se cayó». -->
 
 ### Explicacion Pedagogica
-El gerundio puede expresar simultaneidad, causa o modo, pero no debe cumplir la función de un adjetivo que califique directamente a un sustantivo.## Explicacion Pedagogica
-Las oraciones subordinadas adjetivas complementan a un nombre.
+El gerundio puede expresar simultaneidad, causa o modo, pero no admite sujeto propio: en «Corriendo el niño, se cayó» se coloca delante del sujeto como si fuera un verbo conjugado, y eso es incorrecto.## Explicacion Pedagogica
+Lo correcto es «El niño, corriendo, se cayó» o «Mientras corría, el niño se cayó», donde el gerundio acompaña al verbo principal.
 ## Question 6 [D5-D6]
 **ID:** PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply

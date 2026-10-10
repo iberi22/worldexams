@@ -59,12 +59,13 @@ const ROOT = process.cwd();
 const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 function normalizeBundlePath(value) {
-  const abs = path.resolve(ROOT, value);
-  const fromRepo = path.relative(REPO_ROOT, abs);
-  if (!fromRepo || fromRepo.startsWith('..') || path.isAbsolute(fromRepo)) {
-    return String(value).replace(/\\/g, '/');
-  }
-  return fromRepo.replace(/\\/g, '/');
+  const raw = String(value).replace(/\\/g, '/');
+  const marker = 'questions_data/';
+  const at = raw.lastIndexOf(marker);
+  if (at >= 0) return raw.slice(at);
+  const fromRepo = path.relative(REPO_ROOT, path.resolve(ROOT, raw)).replace(/\\/g, '/');
+  if (fromRepo && !fromRepo.startsWith('..') && !path.isAbsolute(fromRepo)) return fromRepo;
+  return raw;
 }
 const QUESTION_COUNTS = new Map([
   [3, 8],
