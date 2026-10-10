@@ -325,6 +325,104 @@ export function checkExplanationTemplate(explanations) {
   return false;
 }
 
+// ---------------------------------------------------------------------------
+// The answer key and the feedback must tell the student the same story.
+//
+// v5.3 checks that every option HAS feedback and that the feedback explains
+// why. It never checks that the feedback agrees with the [x] marker, so a
+// question whose marked option is told "Incorrecto." while another option is
+// told "Correcto." passes every rule: the student is shown an answer that the
+// bundle itself declares wrong. 13 such questions ship on origin/main, plus 5
+// where two options declare themselves correct. Same class of defect as the 109
+// bundles without feedback: a gate that validates presence, not content.
+//
+// The verdict is read only when the feedback opens with it AND the verdict word
+// closes the sentence. Both halves matter:
+//   "Correcto. Como la corriente deposita los fragmentos..." asserts;
+//   "Correcto como efecto practico, pero no es la propiedad que explica..."
+//   does not -- it qualifies itself away, and the ~20 such feedbacks in
+//   UY-CIE-11-2026-W09/W10 are sound content. Counting them is what turned the
+//   first prototype of this rule into 304 false positives over 100 questions.
+// "Es correcta porque ..." does assert: the reason clause is the explanation.
+// ---------------------------------------------------------------------------
+const VERDICT_OPEN =
+  /^\s*(?:(es|it'?s|it is)\s+)?(incorrect[oa]?|correct[oa]?|wrong|right)\b([\s\S]*)$/i;
+
+export function feedbackVerdict(feedback) {
+  const m = String(feedback || '').trim().match(VERDICT_OPEN);
+  if (!m) return null;
+  let rest = m[3];
+  // "Es correcta porque ..." / "It is correct because ...": the clause that
+  // follows is the reason, so the verdict still asserts.
+  if (m[1] && /^\s*(porque|because)\b/i.test(rest)) rest = '.';
+  rest = rest.trim();
+  // Anything other than sentence-final punctuation after the verdict word
+  // qualifies the verdict away ("Correcto pero no basta...", "Correcto en
+  // parte, pero...", "Correcto para el ARN messenger, pero...").
+  if (rest && !/^[.!¡!¿:]/.test(rest)) return null;
+  const word = m[2].toLowerCase();
+  if (/^correct|^right/.test(word)) return 'positive';
+  if (/^incorrect|^wrong/.test(word)) return 'negative';
+  return null;
+}
+
+// A stem that asks for the option that is ITSELF the defective item reverses the
+// meaning of every verdict in the question: "¿Cuál está escrita
+// incorrectamente?", "Identify the grammatical error", "Which sentence is NOT
+// correct?". There the marked option is wrong on purpose, so its feedback
+// correctly says "Incorrecto." while the sound options are told "Correcto."
+// (CO-LEN-6-2026-W38 v4), and neither verdict says anything about which option
+// answers the question.
+// Deliberately narrow: "contiene un error de uso de la coma" hunts an error too,
+// but there the option CONTAINS one, and a distractor still being told
+// "Es correcta" while another option is the answer is exactly the ambiguity
+// this rule exists to catch (PY-LEN-11-W02/W04/W07).
+const DEFECTIVE_OPTION_STEM = new RegExp(
+  '(?:incorrectamente|incorrectly|mal\\s+escrit[oa]|misspell?ed|misspelt' +
+    '|identify\\s+the\\s+(?:grammatical\\s+|spelling\\s+|punctuation\\s+)?error' +
+    '|which\\s+(?:one|sentence|option|word|answer|choice|phrase)\\s+is\\s+(?:written\\s+)?(?:wrong|incorrect|not\\s+correct|incorrectly)' +
+    '|no\\s+(?:es|est[aá]|esta|son|est[aá]n)\\s+(?:correcta|correcto|correctas|correctos|apropiada|adecuada)' +
+    '|not\\s+(?:grammatically\\s+)?correct' +
+    '|all\\s+of\\s+the\\s+following\\s+except|excepto|salvo\\s+que)',
+  'i',
+);
+
+/**
+ * Reports a question whose [x] marker and whose feedback disagree, or whose
+ * feedback declares more than one option correct. Returns null when the
+ * question is sound, when it cannot be judged (no verdict, several markers),
+ * or when the stem makes the mark wrong on purpose.
+ */
+export function checkAnswerKeyVerdicts(qText) {
+  const marked = [...String(qText || '').matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)].map((m) => m[1]);
+  if (marked.length !== 1) return null;
+  const options = optionRows(qText);
+  if (options.length !== 4) return null;
+  if (DEFECTIVE_OPTION_STEM.test(extractStem(qText))) return null;
+
+  const verdicts = options.map((o) => ({ letter: o.letter, verdict: feedbackVerdict(o.feedback) }));
+  const markedVerdict = verdicts.find((v) => v.letter === marked[0])?.verdict ?? null;
+  const positive = verdicts.filter((v) => v.verdict === 'positive');
+
+  if (markedVerdict === 'negative' && positive.length) {
+    return {
+      rule: 'answer-key-inverted',
+      message:
+        `option ${marked[0]} is marked [x] but its feedback says it is wrong, ` +
+        `while option ${positive.map((p) => p.letter).join(', ')} is told it is right`,
+    };
+  }
+  if (positive.length >= 2) {
+    return {
+      rule: 'ambiguous-correct-options',
+      message:
+        `${positive.length} options declare themselves correct ` +
+        `(${positive.map((p) => p.letter).join(', ')}); only one option can be the answer`,
+    };
+  }
+  return null;
+}
+
 export function checkAnswerLetterBias(correctLetters, totalQuestions) {
   if (totalQuestions < 8) return null;
 
@@ -743,6 +841,13 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
         errors.push(`ERROR [feedback-no-reason] ${prefix} option ${opt.letter}: ${fbProblem}`);
       }
     });
+
+    // The [x] marker and the feedback must tell the student the same story. A
+    // question whose marked option is told "Incorrecto." while another option is
+    // told "Correcto." passes the shape rules, the duplicate rules and the
+    // feedback rules, and still ships an answer the bundle declares wrong.
+    const verdictCheck = checkAnswerKeyVerdicts(q.text);
+    if (verdictCheck) errors.push(`ERROR [${verdictCheck.rule}] ${prefix}: ${verdictCheck.message}`);
   });
 
   if (checkExplanationTemplate(allExplanations)) {
