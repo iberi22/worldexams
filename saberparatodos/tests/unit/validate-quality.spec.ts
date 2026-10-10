@@ -130,7 +130,23 @@ tier: legacy
 creador: Jules-Agent
 ---`;
 
-  const buildQuestion = (num, letter = 'A') => `## Question ${num} [D3-D4]
+  // The marker, the value and the verdict must travel together. This fixture
+  // rotates the marked letter to keep the answer-key letters balanced, and the
+  // previous version moved only the marker: option A kept "Es correcto..." while
+  // B, C or D was marked, so the file described one answer and marked another --
+  // exactly the defect the answer-key rules now report.
+  const ALL = ['A', 'B', 'C', 'D'];
+  const CORRECT = { value: '5', feedback: 'Es correcto porque 3 + 2 = 5 y esta es la suma total.' };
+  const WRONG = [
+    { value: '4', feedback: 'Es incorrecto porque 3 + 2 no es igual a 4. Necesitas sumar bien.' },
+    { value: '6', feedback: 'Es incorrecto porque agregaste uno de mas a la suma.' },
+    { value: '1', feedback: 'Es incorrecto porque restaste en lugar de sumar los animales.' },
+  ];
+  const buildQuestion = (num, letter = 'A') => {
+    const others = ALL.filter((l) => l !== letter);
+    const byLetter = { [letter]: CORRECT };
+    others.forEach((l, i) => { byLetter[l] = WRONG[i]; });
+    return `## Question ${num} [D3-D4]
 **ID:** Q${num}
 **Bloom:** Remember
 **ICFES:** Pensamiento Espacial
@@ -141,18 +157,12 @@ creador: Jules-Agent
 ¿Cuántos animales tiene en total en la granja ${num}?
 
 ### Opciones
-- [${letter === 'A' ? 'X' : ' '}] A) 5
-  <!-- feedback: Es correcto porque 3 + 2 = 5 y esta es la suma total. -->
-- [${letter === 'B' ? 'X' : ' '}] B) 4
-  <!-- feedback: Es incorrecto porque 3 + 2 no es igual a 4. Necesitas sumar bien. -->
-- [${letter === 'C' ? 'X' : ' '}] C) 6
-  <!-- feedback: Es incorrecto porque agregaste uno de mas a la suma. -->
-- [${letter === 'D' ? 'X' : ' '}] D) 1
-  <!-- feedback: Es incorrecto porque restaste en lugar de sumar los animales. -->
+${ALL.map((l) => `- [${l === letter ? 'X' : ' '}] ${l}) ${byLetter[l].value}\n  <!-- feedback: ${byLetter[l].feedback} -->`).join('\n')}
 
 ### Explicacion Pedagogica
 Esta es una explicacion detallada y pedagogica sobre como sumar numeros enteros positivos de un digito.
 `;
+  };
 
   it('reports missing yaml frontmatter', () => {
     const file = path.join(tempDir, 'CO-MAT-7-2026-W01-regla-tres-001-MASTERY-bundle.md');
