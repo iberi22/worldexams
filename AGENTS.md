@@ -9,7 +9,10 @@
 - **Token:** $SWAL ownership + stake yield
 - **Protocolo:** GitCore 3.8+ · feature-verify / implementation-score
 - **Generación de contenido:** Jules (label `jules` en issues)
-- **Integración:** Pipeline cíclico automático cada 30 min
+- **Integración:**
+  - The GitHub repo `iberi22/worldexams` is public and GitHub Actions run. There are 13 workflow files.
+  - See `docs/SWAL/GOAL.md` line 19 for the canonical GitCore 3.8 goal (stale private/workflow rule).
+  - Issue #1270 is OPEN. Active crons: `0 * * * *`, `0 */3 * * *`, `0 9 * * 1`. Commented cron: `#     - cron: '0 2 * * 0'`.
 
 ---
 
