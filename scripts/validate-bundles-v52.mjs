@@ -538,6 +538,63 @@ export function calculateQuestionHash(qText, opts = {}) {
   return crypto.createHash('sha256').update(key).digest('hex').slice(0, 16);
 }
 
+/**
+ * Bundles of one country/grade/subject that share the whole answer key.
+ *
+ * `answer-letter-bias` measures the letter distribution INSIDE one bundle, so it
+ * cannot see a batch whose every bundle uses the same sequence: #1635 shipped
+ * ABCDABCD ten times and each bundle came out a uniform 20% per letter, and
+ * #1636 shipped CDBCADBC ten times with no letter over 37.5%. A student who
+ * memorises one sequence answers all 80 questions without reading a stem.
+ *
+ * Grouped by (country, grado, asignatura) because that is the set a generator
+ * fills in one run, and reported from three bundles up: two identical sequences
+ * happen by chance in small lots, three do not.
+ *
+ * A bundle whose questions do not each carry exactly one [x] is skipped: it is
+ * already failing its own shape rules, and stacking a second message on it
+ * would hide the one that has to be fixed first.
+ */
+export function detectRepeatedAnswerKeys(files) {
+  const groups = new Map();
+  for (const file of files) {
+    if (!fs.existsSync(file)) continue;
+    const content = fs.readFileSync(file, 'utf8');
+    const fm = parseFrontmatter(content) || {};
+    const questions = questionBlocks(content);
+    if (!questions.length) continue;
+
+    const letters = [];
+    let wellFormed = true;
+    for (const q of questions) {
+      const marked = [...q.text.matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)].map((m) => m[1]);
+      if (marked.length !== 1) {
+        wellFormed = false;
+        break;
+      }
+      letters.push(marked[0]);
+    }
+    if (!wellFormed) continue;
+
+    const group = [countryCodeOf(file, fm), String(fm.grado ?? '?'), String(fm.asignatura ?? '?')].join('|');
+    const sequence = letters.join('');
+    if (!groups.has(group)) groups.set(group, new Map());
+    const bySequence = groups.get(group);
+    if (!bySequence.has(sequence)) bySequence.set(sequence, []);
+    bySequence.get(sequence).push(rel(file));
+  }
+
+  const repeated = [];
+  for (const [group, bySequence] of groups) {
+    for (const [sequence, bundles] of bySequence) {
+      if (bundles.length >= 3) {
+        repeated.push({ group, sequence, bundles });
+      }
+    }
+  }
+  return repeated;
+}
+
 export function buildCorpusHashMap(files) {
   const hashMap = new Map();
   for (const file of files) {
@@ -902,6 +959,34 @@ if (isMainModule) {
     strictQuality: values['strict-quality'],
     corpusHashMap,
   }));
+
+  // --- repeated answer key across the batch (#1637) -------------------------
+  // This is the one rule that cannot live inside validateFile: a uniform answer
+  // key repeated by every bundle of a batch looks perfect bundle by bundle
+  // (each one is internally A/B/C/D balanced) and is invisible until the files
+  // are compared. So the files under validation are compared here.
+  //
+  // Severity follows the scope of the run. A batch -- CI on a PR, the husky
+  // guard on staged files, `node scripts/validate-bundles-v52.mjs <files>` -- is
+  // the enforcement path, and a repeated key there is an error: it is exactly
+  // the #1635/#1636 shape. The corpus-wide run is an audit, not enforcement:
+  // origin/main already contains 78 answer keys shared by three or more merged
+  // bundles (645 bundles), and turning `npm run validate` red over content that
+  // is already published would take the repo's own gate away. Those stay
+  // warnings until the content is repaired.
+  const repeated = detectRepeatedAnswerKeys(targetFiles);
+  for (const group of repeated) {
+    const [country, grade, subject] = group.group.split('|');
+    const message =
+      `${group.bundles.length} bundles of ${country} grado ${grade} ${subject} share the whole answer key ` +
+      `"${group.sequence}"; a student who memorises it answers every question without reading a stem`;
+    for (const bundle of group.bundles) {
+      const result = results.find((r) => r.file === bundle);
+      if (!result) continue;
+      if (positionals.length > 0) result.errors.push(`ERROR [repeated-answer-key] ${message}`);
+      else result.warnings.push(`WARNING [repeated-answer-key] ${message}`);
+    }
+  }
 
   if (values.json) {
     console.log(JSON.stringify(results, null, 2));
