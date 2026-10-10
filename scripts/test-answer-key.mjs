@@ -21,7 +21,7 @@
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const REPO = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -48,13 +48,20 @@ function check(name, ok, detail) {
 // Unit level: the predicates, imported from the validator itself.
 // ---------------------------------------------------------------------------
 const mod = await import(pathToFileURL(VALIDATOR).href);
-const EXPORTS = ['feedbackVerdict', 'checkAnswerKeyVerdicts', 'checkAnswerLetterBias', 'detectRepeatedAnswerKeys'];
+const EXPORTS = [
+  'feedbackVerdict',
+  'checkAnswerKeyVerdicts',
+  'checkAnswerLetterBias',
+  'detectRepeatedAnswerKeys',
+  'repeatedKeyIsNew',
+];
 const missing = EXPORTS.filter((name) => typeof mod[name] !== 'function');
 check('validator exports the answer-key predicates', missing.length === 0, missing.join(', '));
 const feedbackVerdict = mod.feedbackVerdict;
 const checkAnswerKeyVerdicts = mod.checkAnswerKeyVerdicts;
 const checkAnswerLetterBias = mod.checkAnswerLetterBias;
 const detectRepeatedAnswerKeys = mod.detectRepeatedAnswerKeys;
+const repeatedKeyIsNew = mod.repeatedKeyIsNew;
 
 // --- #1653: does a feedback assert that its option is right or wrong? -------
 const verdictCases = [
@@ -122,12 +129,30 @@ const ruleCases = [
     want: 'answer-key-inverted',
   },
   {
-    name: '#1653 two options declaring themselves correct is flagged',
+    // PY-LEN-11-2026-W02 Q8: the stem asks which sentence CONTAINS a comma
+    // error, so "Es correcta" on a distractor says the sentence is well-formed.
+    // That is the right thing to tell a student about a distractor, and two of
+    // them are the normal shape of the item. The marked option never claims to
+    // be correct, so the question is answerable.
+    name: '#1653 find-the-error stem with a key that is not positive is not ambiguous',
     q: question('Cual oracion contiene un error de uso de la coma?', [
       opt('A', false, 'Oracion A', 'Es correcta: las dos comas delimitan un inciso temporal.'),
       opt('B', true, 'Oracion B', 'La coma abre el inciso pero no hay otra que lo cierre.'),
       opt('C', false, 'Oracion C', 'La coma se coloca despues de correr, no donde corresponde.'),
       opt('D', false, 'Oracion D', 'Es correcta: la situacion temporal abre con coma y queda delimitada.'),
+    ]),
+    want: null,
+  },
+  {
+    // Same stem, but the option carrying [x] says it is correct: that option
+    // cannot be the error the stem asked for (PY-LEN-11-2026-W04 Q6). The
+    // narrow exclusion must not swallow this.
+    name: '#1653 find-the-error stem whose MARKED option claims to be correct is ambiguous',
+    q: question('Cual oracion contiene un error de uso de la coma?', [
+      opt('A', false, 'Oracion A', 'Es incorrecta porque la frase no contiene ningun inciso.'),
+      opt('B', true, 'Oracion B', 'Es correcta: las dos comas delimitan un inciso temporal.'),
+      opt('C', false, 'Oracion C', 'Es correcta: la situacion temporal abre con coma y queda delimitada.'),
+      opt('D', false, 'Oracion D', 'Es incorrecta porque la coma cierra un inciso que no se abrio.'),
     ]),
     want: 'ambiguous-correct-options',
   },
@@ -278,6 +303,33 @@ try {
     `detectRepeatedAnswerKeys: same key in another subject is another group (${detectRepeatedAnswerKeys ? detectRepeatedAnswerKeys(other).length : -1})`,
     detectRepeatedAnswerKeys ? detectRepeatedAnswerKeys(other).length === 0 : false
   );
+
+  // --- #1637: severity against the published baseline -----------------------
+  // A stamp that is already on main stays a warning, so repairing one of the
+  // 40 bundles of a published series is not blocked. A file that JOINS a
+  // published stamp is the #1635/#1636 shape and stays an error. The baseline
+  // is a fixture object here, never the committed 645-path JSON.
+  const published = sameGroups[0];
+  const fixtureBaseline = published ? { [`${published.group}|${published.sequence}`]: published.bundles } : {};
+  const show = (g) => (typeof repeatedKeyIsNew === 'function' ? repeatedKeyIsNew(g, fixtureBaseline) : '<<not exported>>');
+  check(
+    `repeatedKeyIsNew: a stamp whose every path is published is not new (${show(published)})`,
+    typeof repeatedKeyIsNew === 'function' && repeatedKeyIsNew(published, fixtureBaseline) === false,
+    `${published ? `${published.group}|${published.sequence}` : 'no group'}`
+  );
+  const joining = detectRepeatedAnswerKeys
+    ? detectRepeatedAnswerKeys([...same, tempBundle(tmp, 'CO-repeat-d', 6, 'matematicas', 'ABCDABCDAB')])[0]
+    : null;
+  check(
+    `repeatedKeyIsNew: a file joining a published stamp is new (${show(joining)})`,
+    typeof repeatedKeyIsNew === 'function' && repeatedKeyIsNew(joining, fixtureBaseline) === true,
+    `${joining ? joining.bundles.length : 0} paths share "${joining ? joining.sequence : '?'}"`
+  );
+  check(
+    'repeatedKeyIsNew: a sequence absent from the baseline is new',
+    typeof repeatedKeyIsNew === 'function' &&
+      repeatedKeyIsNew({ group: 'CO|6|matematicas', sequence: 'ACBDACBDAC', bundles: ['a.md'] }, fixtureBaseline) === true
+  );
 } finally {
   fs.rmSync(tmp, { recursive: true, force: true });
 }
@@ -286,12 +338,13 @@ try {
 // End to end: the validator on real fixture bundles. This is the part that
 // fails if a rule exists but is never called from validateFile.
 // ---------------------------------------------------------------------------
-const buildBundle = (bundleName, sequence, firstRows) => {
+const buildBundle = (bundleName, sequence, firstRows, stem) => {
   const questions = sequence
     .split('')
     .map((letter, i) => {
       const rows =
         i === 0 && firstRows ? firstRows(letter, bundleName, i + 1) : defaultRows(letter, bundleName, i + 1);
+      const enunciado = i === 0 && stem ? stem : `Enunciado de prueba numero ${i + 1} del fixture ${bundleName}.`;
       return `## Question ${i + 1} [D3-D4]
 **ID:** ${bundleName}-v${i + 1}
 **Bloom:** Remember
@@ -300,7 +353,7 @@ const buildBundle = (bundleName, sequence, firstRows) => {
 **Contexto:** Contexto de prueba ${bundleName} numero ${i + 1}.
 
 ### Enunciado
-Enunciado de prueba numero ${i + 1} del fixture ${bundleName}.
+${enunciado}
 
 ### Opciones
 ${rows}
@@ -450,8 +503,64 @@ try {
     r5.verdict === 'accept' && !/repeated-answer-key/.test(r5.msg),
     r5.msg.slice(0, 400)
   );
+
+  // 6. A find-the-error item whose key does not call itself correct:
+  //    PY-LEN-11-2026-W02 Q8. Two well-formed distractors are legitimately
+  //    told "Es correcta"; the exclusion must not swallow the generic case in 3.
+  const findError = buildBundle(
+    `${RUN}-find-error`,
+    'ABCDABCDAB',
+    (correct, name, n) =>
+      customRows(
+        'B',
+        name,
+        n,
+        {
+          A: 'Es correcta: las dos comas delimitan un inciso temporal en el medio de la oracion.',
+          B: 'Es la respuesta: la coma abre el inciso pero no hay otra que lo cierre.',
+          C: 'La coma se coloca despues de correr en lugar de cerrar el inciso, y eso no corresponde.',
+          D: 'Es correcta: la situacion temporal abre con coma y el inciso queda bien delimitado.',
+        },
+        { A: 'Oracion A', B: 'Oracion B', C: 'Oracion C', D: 'Oracion D' }
+      ),
+    'Cual de las oraciones contiene un error de uso de la coma?'
+  );
+  e2eFiles.push(findError);
+  const r6 = validate([findError]);
+  check(
+    `e2e: find-the-error item with two sound distractors is accepted (${r6.verdict})`,
+    r6.verdict === 'accept' && !/ambiguous-correct-options/.test(r6.msg),
+    r6.msg.slice(0, 400)
+  );
 } finally {
   for (const f of e2eFiles) fs.rmSync(f, { force: true });
+}
+
+// ---------------------------------------------------------------------------
+// The corpus run: the published stamps must stay warnings there.
+//
+// `npm run validate` has no arguments, so `positionals.length === 0`. Before the
+// baseline, that branch was the only thing keeping the 78 stamps shared by 645
+// already-merged bundles out of the error list; after it, the same branch is
+// taken for a stamp that IS published, and an error still fires for a new one.
+// This is the one assertion that cannot be expressed with fixture files,
+// because the baseline is keyed on paths that live in this repository.
+// ---------------------------------------------------------------------------
+try {
+  // spawnSync reports the output whether the run passes or fails; execFileSync
+  // throws and keeps it in e.stdout/e.stderr only on a non-zero exit.
+  const run = spawnSync('node', [VALIDATOR], { cwd: REPO, encoding: 'utf8' });
+  const msg = `${run.stdout || ''}\n${run.stderr || ''}`;
+  const verdict = run.status === 0 ? 'accept' : `reject(status=${run.status})`;
+  const warns = /WARNING \[repeated-answer-key\]/.test(msg);
+  const errors = /ERROR \[repeated-answer-key\]/.test(msg);
+  check(
+    `e2e: no-arg corpus run reports published stamps as WARNING, not ERROR (${verdict}, warns=${warns})`,
+    run.status === 0 && warns && !errors,
+    `exit=${run.status}; WARNING=${warns}; ERROR=${errors}; ${msg.slice(-400)}`
+  );
+} catch (e) {
+  check('e2e: no-arg corpus run reports published stamps as WARNING, not ERROR', false, String(e));
 }
 
 console.log(`\n${pass} passed, ${fail} failed`);
