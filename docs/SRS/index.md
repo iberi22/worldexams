@@ -71,25 +71,6 @@ Democratizar el acceso a contenido educativo de alta calidad para estudiantes de
 
 ---
 
-## Modelo de Negocio
-
-### Tiered Access
-
-| Plan | Precio | Requests/min | Preguntas/req | AI Analysis | Rate Limit |
-|------|--------|-------------|---------------|-------------|------------|
-| **Free** | $0 | 10 req/min | 10 | ❌ | 100 req/hora guest |
-| **Pro** | Por organización | 60 req/min | 50 | Basic | API Key |
-| **Enterprise** | Por organización | 300 req/min | 100 | Full | API Key |
-
-### Monetización
-
-- **API como producto**: Venta de acceso premium al banco de preguntas vía API Keys
-- **White-label**: Licenciamiento a instituciones educativas y gobiernos
-- **Freemium**: Captación con tier gratuito, conversión a planes pagos
-- **País como unidad**: Expansión por país con metadata curricular específica
-
----
-
 ## Calidad de Servicio (SLAs)
 
 | Métrica | Objetivo | Medición |

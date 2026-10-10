@@ -26,7 +26,7 @@ docs/
 ├── PROJECT_STATE.md    Current project state, version, known issues ⚠️ READ THIS FIRST
 ├── CHANGELOG.md        Release notes
 ├── README.md           ← you are here
-└── [topic files]       Top-level docs (ANTI_SCRAPING_STRATEGY, BUSINESS_MODEL, etc.)
+└── [topic files]       Top-level docs (deployment, protocol, features, etc.)
 ```
 
 ---
@@ -117,7 +117,6 @@ docs/
 |---|---|
 | `README.md` | Specs index |
 | `ACTIVE_PROTOCOLS.md` | Active protocol list |
-| `BOT_ECOSYSTEM.md` | Bot ecosystem spec |
 | `BUNDLE_MIGRATION_PLAN.md` | Bundle migration |
 | `COLOMBIA_MIGRATION_PLAN.md` | Colombia migration |
 | `COMMUNITY_CURATION_PROTOCOL.md` | Community curation |
@@ -233,11 +232,9 @@ docs/
 ### Top-level docs/ files (not in subdirectories)
 | File | Description |
 |---|---|
-| `ANTI_SCRAPING_STRATEGY.md` | Anti-scraping strategy |
 | `API_GENERATION.md` | API generation guide |
 | `API_REAL_SETUP.md` | Real API setup |
 | `AUTHENTICATION_MAGIC_LINK.md` | Magic link auth |
-| `BUSINESS_MODEL.md` | Business model |
 | `CHANGELOG.md` | Changelog (canonical) |
 | `DEBUG_SESSION_PARTY_MODE.md` | Party mode debug |
 | `E2E_PARTY_MODE_TESTS.md` | E2E party mode tests |

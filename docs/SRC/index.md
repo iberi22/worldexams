@@ -40,24 +40,6 @@ WorldExams es una plataforma SaaS de simulación de exámenes que permite:
 
 ---
 
-## Modelo de Negocio
-
-### Tiered Access
-
-| Plan | Precio | Requests | Preguntas/Request | AI Analysis |
-|------|--------|-------------|-----------------|-------------|
-| **Free** | $0 | 10 req/min | 10 | ❌ |
-| **Pro** | Definido por organización | 60 req/min | 50 | Basic |
-| **Enterprise** | Definido por organización | 300 req/min | 100 | Full |
-
-### Monetización
-
-- **API como producto**: Venta de acceso premium al banco de preguntas
-- **White-label**: Licenciar tecnología a instituciones educativas
-- **Freemium**: Captación con tier gratuito, conversión a paid
-
----
-
 ## Metadata
 
 ```yaml

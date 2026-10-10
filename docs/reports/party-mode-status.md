@@ -385,8 +385,6 @@ Una vez compilado, el sistema estará 100% funcional para testing.
 - Analytics avanzados
 - Soporte prioritario
 
-**Precio:** $10-50 USD/mes por institución
-
 **Protección Legal:**
 - AGPL-3.0 previene forks closed-source
 - Competidores deben liberar su código

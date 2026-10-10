@@ -93,24 +93,7 @@ Este documento traquea el progreso del proyecto y las próximas fases.
 
 ---
 
-## 💰 Fase 5: Monetización (Abr 2026)
-
-### Objetivos
-
-- [ ] Sistema de donaciones (Ko-fi/Patreon)
-- [ ] Publicidad ética (EthicalAds)
-- [ ] Nivel Premium sin ads
-- [ ] Badge "Supporter" en leaderboard
-
-### Meta Financiera
-
-- Primer mes: $100 USD
-- Mes 3: $500 USD
-- Mes 6: Sostenibilidad (cubrir hosting)
-
----
-
-## 🌍 Fase 6: Expansión Regional (2026+)
+## 🌍 Fase 5: Expansión Regional (2026+)
 
 ### Trigger
 
@@ -135,6 +118,5 @@ Este documento traquea el progreso del proyecto y las próximas fases.
 | 500 preguntas | | Ene 2026 |
 | 1000 usuarios | | Feb 2026 |
 | 2000 preguntas | | Mar 2026 |
-| $100 ingresos | | Abr 2026 |
 | Fork México | | Jun 2026 |
 | 10K preguntas | | Dic 2026 |
