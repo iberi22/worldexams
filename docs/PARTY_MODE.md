@@ -14,12 +14,11 @@
 1. [Visión General](#visión-general)
 2. [Arquitectura](#arquitectura)
 3. [Modos de Operación](#modos-de-operación)
-4. [Modelo de Negocio](#modelo-de-negocio)
-5. [Stack Tecnológico](#stack-tecnológico)
-6. [Seguridad y Anti-Cheat](#seguridad-y-anti-cheat)
-7. [Instalación](#instalación)
-8. [Uso](#uso)
-9. [Licenciamiento](#licenciamiento)
+4. [Stack Tecnológico](#stack-tecnológico)
+5. [Seguridad y Anti-Cheat](#seguridad-y-anti-cheat)
+6. [Instalación](#instalación)
+7. [Uso](#uso)
+8. [Licenciamiento](#licenciamiento)
 
 ---
 
@@ -187,13 +186,6 @@ curl -O https://releases.saberparatodos.com/party-server-v1.0.exe
 - Solo navegador web
 - Conexión a internet
 
-**Capacidad:**
-| Plan | Usuarios/Party | Precio/mes | Features |
-|------|----------------|------------|----------|
-| **Free** | 10 | $0 | Preguntas ICFES básicas |
-| **Pro** | 50 | $10 | + Reportes avanzados + Soporte |
-| **Enterprise** | Ilimitado | $50+ | + IA Proctoring + Preguntas Premium |
-
 **Setup:**
 ```bash
 # Host abre https://app.saberparatodos.com
@@ -210,49 +202,6 @@ curl -O https://releases.saberparatodos.com/party-server-v1.0.exe
 **Desventajas:**
 ❌ Requiere internet
 ❌ Mayor latencia (50-150ms)
-❌ Costo mensual
-
----
-
-## 💰 Modelo de Negocio
-
-### Open Source + Freemium
-
-```
-┌────────────────────────────────────────────────────────────┐
-│                    CÓDIGO ABIERTO (GitHub)                 │
-│                                                            │
-│  • Frontend Svelte (MIT)                                   │
-│  • Backend Rust Local (AGPL-3.0)                          │
-│  • Preguntas ICFES/OpenTDB (CC BY-SA 4.0)                 │
-│  • Documentación completa                                  │
-│                                                            │
-│  ▶ USUARIOS: Gratis para siempre, modo local             │
-└────────────────────────────────────────────────────────────┘
-
-┌────────────────────────────────────────────────────────────┐
-│                  CÓDIGO PRIVADO (Repositorio Privado)      │
-│                                                            │
-│  • Backend Rust Cloud (features premium)                   │
-│  • IA Proctoring (detecta cheating avanzado)              │
-│  • Preguntas Premium (generadas por IA)                    │
-│  • Analytics avanzado                                      │
-│                                                            │
-│  ▶ NEGOCIO: Suscripción mensual $10-50/mes               │
-└────────────────────────────────────────────────────────────┘
-```
-
-### Protección Legal
-
-**AGPL-3.0 para modo local:**
-- ✅ Cualquiera puede usar el código gratis
-- ✅ Si alguien modifica y ofrece un servicio, **debe** publicar el código modificado
-- ✅ Nadie puede crear un competidor cloud sin liberar sus cambios
-- ✅ Tu servicio cloud (privado) no se ve afectado
-
-**Resultado:**
-- Usuarios ganan: Software gratuito de calidad
-- Tú ganas: Modelo de negocio protegido
 
 ---
 
@@ -472,7 +421,6 @@ No requiere instalación. Solo visitar https://app.saberparatodos.com
 ### Fase 3: Modo Cloud Premium (📅 Feb 2026)
 - [ ] Deploy a Railway/Fly.io
 - [ ] PostgreSQL + Redis
-- [ ] Sistema de suscripciones (Stripe)
 - [ ] IA Proctoring avanzado
 - [ ] Preguntas Premium
 

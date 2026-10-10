@@ -12,7 +12,7 @@
 
 ## 📌 Resumen Ejecutivo
 
-El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, con **licencias duales** para monetización controlada.
+El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, con **licencias duales** (v1 CC BY-SA, v2-v7 CC BY-NC-SA).
 
 ### Cambios Principales vs v2.0
 
@@ -20,7 +20,6 @@ El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta 
 |---------|------|-----------|
 | Licencias | Única (CC BY-SA 4.0 todo el bundle) | **Duales (v1: BY-SA, v2-v7: BY-NC-SA)** |
 | Metadata | `protocol_version: "2.0"` | `protocol_version: "2.1"` + campo `licenses` |
-| Monetización | Unclear | **Party Mode legal (vendemos servicio, no preguntas)** |
 
 ### Cambios vs v1.0
 
@@ -488,64 +487,6 @@ Antes de aprobar una pregunta, verificar:
 - Incluir moneda, ciudades, nombres locales
 - Explicar el "por qué" de cada distractor
 - Escalar dificultad progresivamente
-
----
-
-## 🔐 Licencias Duales (NEW v2.1)
-
-### Rationale
-
-**Objetivo:** Monetizar Party Mode ($49/mes) sin violar licencias open source.
-
-**Estrategia:** Licencias mixtas dentro del mismo archivo bundle.
-
-| Variante | Licencia | Uso Comercial | Acceso | Monetización |
-|----------|----------|---------------|--------|--------------|
-| **v1** (Original) | CC BY-SA 4.0 | ✅ Permitido | 🌍 Público | Marketing/SEO |
-| **v2-v7** (Variantes) | CC BY-NC-SA 4.0 | ❌ Prohibido | 🌍 Público | Solo instituciones |
-
-### ¿Por qué es legal vender Party Mode?
-
-**Según [FAQ de Creative Commons](https://creativecommons.org/faq/#can-i-still-make-money-from-a-work-i-make-available-under-a-creative-commons-license):**
-
-> "CC's NonCommercial (NC) licenses allow rights holders to maximize distribution while maintaining control of the commercialization of their works."
-
-**Party Mode ($49/mes) es legal porque:**
-1. ✅ **Vendemos el servicio/software**, no las preguntas directamente
-2. ✅ **Preguntas BY-NC son input** para el servicio, no el producto final
-3. ✅ **Casos análogos exitosos:**
-   - GitHub vende hosting de código open source (incluso BY-NC)
-   - WordPress.com vende hosting de temas/plugins GPL
-   - Red Hat vende soporte/hosting de Linux (GPL)
-
-### Implementación en Frontend
-
-```typescript
-// saberparatodos/src/utils/questionParser.ts
-function filterByPlan(questions: Question[], userPlan: 'free' | 'institutional'): Question[] {
-  if (userPlan === 'free') {
-    // Solo v1 (referencia)
-    return questions.filter(q => q.id.endsWith('-v1'));
-  }
-  // Instituciones ven todas (v1-v7)
-  return questions;
-}
-```
-
-### Disclaimers en README.md
-
-Cada repo debe incluir:
-
-```markdown
-## 📜 Licencias
-
-Este proyecto usa **licencias duales**:
-
-- **v1 (Original):** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Uso comercial permitido
-- **v2-v7 (Variantes):** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) - Solo uso no-comercial
-
-**Party Mode** es legal porque vendemos el servicio de software, no las preguntas directamente.
-```
 
 ---
 

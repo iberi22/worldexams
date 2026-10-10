@@ -41,7 +41,6 @@ Sin embargo, para casos de uso **premium** o **corporativos**, podríamos desarr
 1. **Alcance:** >10,000 usuarios activos mensuales usando Party Mode
 2. **Demanda:** Solicitudes recurrentes de features específicas nativas
 3. **Competencia:** Competidores con apps nativas mejor posicionadas
-4. **Monetización:** Modelo de suscripción estable ($5k+ MRR)
 
 ### Features que requieren apps nativas:
 

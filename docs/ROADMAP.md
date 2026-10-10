@@ -201,32 +201,6 @@ WorldExamns será la plataforma educativa multi-país líder en Latinoamérica, 
 
 ---
 
-## 💰 Modelo de Negocio
-
-### Free Tier
-- 10 preguntas/día por país
-- Acceso a bundles semanales gratuitos
-- Leaderboard público
-
-### Pro ($5-10/mes)
-- Preguntas ilimitadas
-- Exámenes personalizados
-- Estadísticas detalladas
-- Sin anuncios
-
-### Enterprise ($100-500/mes)
-- API key con rate limits altos
-- Integración con LMS (Moodle, Canvas)
-- Bundles personalizados
-- Soporte prioritario
-
-### School/Institution
-- Licencias por volumen
-- Dashboard de progreso por estudiante
-- Contenido adaptado al currículo institucional
-
----
-
 ## 🔗 Dependencias Clave
 
 - [ ] **Gemini API:** Contrato estable con proveedor de IA para generación
