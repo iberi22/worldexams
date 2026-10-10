@@ -12,7 +12,7 @@
 
 ## 📌 Resumen Ejecutivo
 
-El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, con **licencias duales** para monetización controlada.
+El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta contiene 7 variantes** organizadas por complejidad, con **licencias duales** (v1 CC BY-SA, v2-v7 CC BY-NC-SA).
 
 ### Cambios Principales vs v2.0
 
@@ -20,7 +20,6 @@ El Protocolo v2.1 establece un nuevo estándar donde **cada archivo de pregunta 
 |---------|------|-----------|
 | Licencias | Única (CC BY-SA 4.0 todo el bundle) | **Duales (v1: BY-SA, v2-v7: BY-NC-SA)** |
 | Metadata | `protocol_version: "2.0"` | `protocol_version: "2.1"` + campo `licenses` |
-| Monetización | Unclear | **Party Mode legal (vendemos servicio, no preguntas)** |
 
 ### Cambios vs v1.0
 

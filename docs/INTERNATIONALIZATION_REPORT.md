@@ -30,7 +30,7 @@ El protocolo actual está muy bien diseñado para escalabilidad (bundles de 7 va
 ### ✅ Fortalezas
 - **Estructura Bundle (1 original + 6 variantes):** Excelente para generar volumen rápidamente.
 - **Contextualización Cultural:** Obligatoria, lo cual es clave para que se sienta local.
-- **Licenciamiento:** Modelo dual inteligente para monetización.
+- **Licenciamiento:** Modelo dual de licencias por variante (detalle en la documentación interna de SWAL).
 
 ### ⚠️ Debilidades para Expansión (Hallazgos de Investigación)
 
