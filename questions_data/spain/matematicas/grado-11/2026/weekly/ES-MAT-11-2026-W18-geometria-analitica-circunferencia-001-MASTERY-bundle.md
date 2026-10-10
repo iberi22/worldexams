@@ -282,8 +282,8 @@ Propiedad geométrica fundamental: la recta tangente a una circunferencia en un 
 
 ### Opciones
 - [ ] A) Son secantes. <!-- feedback: Se cortan si la distancia entre centros está entre la suma y la resta de radios. -->
-- [x] C) Son exteriores. <!-- feedback: Correcto. Centros en (0,0) y (5,0), distancia = 5. Suma de radios = 2 + 3 = 5. Al ser la distancia igual a la suma, son tangentes exteriores. (Revisión: si d = R+r son tangentes exteriores). -->
-- [ ] B) Son tangentes exteriores. <!-- feedback: Correcto. Distancia entre centros (5) es igual a la suma de radios (2+3=5). -->
+- [ ] C) Son exteriores. <!-- feedback: Incorrecto. La distancia entre centros es 5 y la suma de radios es 2 + 3 = 5. Cuando la distancia es igual a la suma, las circunferencias son tangentes exteriores, no exteriores. -->
+- [x] B) Son tangentes exteriores. <!-- feedback: Correcto. Distancia entre centros (5) es igual a la suma de radios (2+3=5). -->
 - [ ] D) Una está dentro de la otra. <!-- feedback: La distancia entre centros es demasiado grande para ello. -->
 
 ### Explicacion Pedagogica

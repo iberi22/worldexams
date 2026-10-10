@@ -107,7 +107,7 @@
         {
           "letter": "A",
           "text": "Presentar información nueva que el autor no había querido incluir antes.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. La conclusión no introduce contenido nuevo, porque en ese caso rompería la organización previa del texto."
         },
         {
@@ -119,7 +119,7 @@
         {
           "letter": "C",
           "text": "Recapitular la postura sostenida y mostrar que las razones presentadas la respaldan.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: la conclusión cierra el razonamiento y deja fijada la tesis con el apoyo de las razones vistas."
         },
         {
@@ -129,7 +129,7 @@
           "feedback": "Incorrecto. La enumeración de fuentes corresponde a la referencia del trabajo, y no al párrafo final."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "La conclusión cumple una función de cierre argumentativo: recupera la tesis y recuerda, de manera breve, el camino que la ha sostenido. No es el lugar para introducir razones o datos que no se habían considerado, porque eso rompería la secuencia lógica del texto y dejaría al lector con una afirmación sin respaldo. En una buena conclusión, el lector encuentra confirmadas tanto la postura como la solidez de las razones. Saber 11 evalúa con frecuencia esta función, porque muchos textos débiles concluyen con opiniones que el cuerpo no había sostenido.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -153,7 +153,7 @@
         {
           "letter": "B",
           "text": "Porque el autor no los considera importantes, y por eso los deja para el final del texto.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. La contraargumentación es importante, y por eso mismo se ubica en un lugar estratégico."
         },
         {
@@ -171,11 +171,11 @@
         {
           "letter": "D",
           "text": "Porque se necesitan razones y datos, y conviene presentarlos una vez que el lector ya conoce la postura.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: exponerse a las objeciones solo tiene sentido después de que el lector ha entendido la tesis."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La contraargumentación ocupa un lugar estratégico dentro del cuerpo del texto. Colocarla antes de la tesis sería desconcertante, porque el lector no sabría qué postura se está defendiendo. Colocarla después de los argumentos principales tiene sentido, porque el lector ya conoce la posición del autor y puede entender con precisión qué objeción se responde y por qué la respuesta es convincente. Saber 11 evalúa esta comprensión de la secuencia, porque mide si el estudiante entiende la arquitectura completa del texto.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -291,7 +291,7 @@
         {
           "letter": "B",
           "text": "Es demasiado largo, porque los párrafos de desarrollo no deben incluir más de dos ideas.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. La extensión no es el problema, porque un párrafo puede tener varias ideas si se relacionan entre sí."
         },
         {
@@ -303,7 +303,7 @@
         {
           "letter": "C",
           "text": "Es inefectivo, porque acumula información sin explicitar el nexo que la convierte en razón a favor de la tesis.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: sin una relación explícita con la postura, los datos no funcionan como argumentos."
         },
         {
@@ -313,7 +313,7 @@
           "feedback": "Incorrecto. La información solo sostiene la postura cuando el lector puede ver por qué la sostiene."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un párrafo de desarrollo solo cumple su función cuando el lector puede ver, de manera explícita, por qué la información presentada favorece la postura del autor. Un ejemplo, un dato y una opinión pueden convivir en un mismo párrafo, siempre que se encadenen en una relación lógica. Cuando esa relación falta, el párrafo se convierte en un conjunto de afirmaciones sueltas que el lector no sabe cómo interpretar. Saber 11 evalúa con frecuencia esta capacidad, porque separa los textos que argumentan de los que solo acumulan información.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -475,7 +475,7 @@
         {
           "letter": "C",
           "text": "Ninguno, porque la tesis puede enunciarse más adelante sin que se pierda la claridad del texto.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. La ausencia de tesis en la apertura deja al lector sin una ruta de lectura durante varios párrafos."
         },
         {
@@ -487,7 +487,7 @@
         {
           "letter": "B",
           "text": "Debilita la organización, porque los párrafos siguientes se leen sin un marco que permita valorar su relevancia.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: sin tesis anunciada, el lector no puede distinguir razones de información complementaria."
         },
         {
@@ -497,7 +497,7 @@
           "feedback": "Incorrecto. La economía de espacio no compensa la pérdida de la postura, que es lo que ordena el texto."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La introducción cumple la función de dar marco de lectura, y ese marco es la tesis. Cuando se retira, el lector recibe información sin un criterio para interpretarla, y cada párrafo parece tan importante como el anterior. En la práctica, esto dificulta distinguir qué razones sostienen la postura y cuáles son simples antecedentes. La economía de espacio que supone suprimir la apertura es mínima frente al costo de comprensión. Saber 11 evalúa esta comprensión, porque la capacidad de ver la función global de un párrafo es esencial para analizar textos largos.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -613,7 +613,7 @@
         {
           "letter": "D",
           "text": "La de desarrollo argumentativo, porque presenta una razón a favor de la postura sostenida en el texto.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. El párrafo expone dos caras del asunto, y no sostiene ninguna postura específica del autor."
         },
         {
@@ -625,7 +625,7 @@
         {
           "letter": "B",
           "text": "Ninguna de las funciones argumentativas, porque el párrafo expone información sin afirmar qué sostiene el autor.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: presentar ambos lados sin tomar partido corresponde a la exposición, y no a la argumentación."
         },
         {
@@ -635,7 +635,7 @@
           "feedback": "Incorrecto. El párrafo no cierra el texto ni recupera la tesis, y se limita a describir el fenómeno."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Un párrafo puede cumplir con la expectativa informativa del texto y, aun así, no aportar nada a la argumentación. El párrafo del enunciado describe un fenómeno en sus dos versiones, sin afirmar cuál de ellas favorece la postura del autor. Eso es exposición, y su lugar natural es un texto informativo o una parte introductoria de un argumento. Para que un párrafo funcione en el desarrollo argumentativo debe contener una razón que sostenga la tesis. Saber 11 evalúa con frecuencia esta distinción, porque no todo lo que parece argumento lo es.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -705,7 +705,7 @@
         {
           "letter": "B",
           "text": "El texto es muy riguroso, porque anticipa las objeciones antes de defender su postura.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. Anticipar la objeción no es rigor cuando no hay razones previas que la puedan responder."
         },
         {
@@ -717,7 +717,7 @@
         {
           "letter": "C",
           "text": "El texto está mal organizado en ese punto, porque la respuesta a la objeción no cuenta con el apoyo que necesita.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: sin razones desarrolladas antes, la refutación queda sin fundamento y no cumple su función."
         },
         {
@@ -727,7 +727,7 @@
           "feedback": "Incorrecto. Colocar la objeción al principio no elimina la repetición, y daña la solidez del argumento."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un párrafo de contraargumentación supone que ya existe una defended position, con razones que el lector conoce. Cuando el párrafo aparece antes del desarrollo, esa posición todavía no ha sido construida y la respuesta no tiene contra qué apoyarse. El efecto no es de brevedad ni de audacia, sino de falta de fundamento: el lector recibe una refutación que no puede valorar. Saber 11 evalúa con frecuencia esta lectura, porque muchos ítems de análisis piden identificar secuencias que debilitan la argumentación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -843,7 +843,7 @@
         {
           "letter": "D",
           "text": "El texto es sólido, porque muestra que el autor conoce a fondo las posturas que se oponen a la suya.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. Conocer las objeciones es positivo, pero no sustituye al desarrollo de los propios argumentos."
         },
         {
@@ -855,7 +855,7 @@
         {
           "letter": "B",
           "text": "El texto es desequilibrado, porque invierte la proporción entre refutaciones y razones propias, y cierra sin conclusión.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto: el texto dedica más espacio a atacar posturas ajenas que a sostener la propia, y no cierra."
         },
         {
@@ -865,7 +865,7 @@
           "feedback": "Incorrecto. Le faltan el desarrollo suficiente y la conclusión, y por eso no está completo."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "El equilibrio entre los componentes es una condición de la organización argumentativa. Un texto que dedica tres párrafos a refutar posturas ajenas y uno solo a desarrollar las propias invierte la proporción razonable y deja su argumento en segundo plano. A eso se suma la ausencia de conclusión, que deja al lector sin una postura final claramente fijada. Saber 11 evalúa con frecuencia esta capacidad de valorar el equilibrio del texto, porque muchos ítems de lectura crítica piden distinguir solidez argumentativa y exceso de contenido.\n\n---",
       "difficulty": "10",
       "images": [],
