@@ -114,14 +114,14 @@ La opcion A sigue las normas ortograficas correctamente.
 ¿Cuál de las oraciones contiene un error en el uso del gerundio?
 
 ### Opciones
-- [ ] A) Entrando temprano, took el primer tren. <!-- feedback: Es correcta: el gerundio expresa una acción simultánea al hecho principal y ese uso está admitido. -->
-- [ ] B) Esperando el resultado, calculo tu nota. <!-- feedback: Es correcta: también indica simultaneidad y tiene sentido pleno dentro de la oración. -->
-- [x] C) Leyendo el informe, entregué el trabajo. <!-- feedback: Es la respuesta: el gerundio no debe modificar directamente a un sustantivo; corresponde un adjetivo o el infinitivo. -->
-- [ ] D) Corriendo el niño, se cayó. <!-- feedback: Es correcta: describe la simultaneidad entre las dos acciones con sentido pleno. -->
+- [ ] A) Entrando al salón, saludé a la profesora. <!-- feedback: Es correcta: el gerundio marca una acción simultánea a «saludé», y ese uso está admitido. -->
+- [ ] B) Esperando el resultado, repasé los cálculos. <!-- feedback: Es correcta: «esperando» y «repasé» ocurren a la vez, y el sujeto de las dos es el mismo. -->
+- [ ] C) Leyendo el informe, tomé apuntes al margen. <!-- feedback: Es correcta: el gerundio expresa simultaneidad con el verbo principal. -->
+- [x] D) Corriendo el niño, se cayó en el patio. <!-- feedback: Es la respuesta: el gerundio no puede ir delante del sujeto como si fuera un verbo conjugado. Lo correcto es «El niño, corriendo, se cayó» o «Mientras corría, el niño se cayó». -->
 
 ### Explicacion Pedagogica
-El gerundio puede expresar simultaneidad, causa o modo, pero no debe cumplir la función de un adjetivo que califique directamente a un sustantivo.## Explicacion Pedagogica
-Las oraciones subordinadas adjetivas complementan a un nombre.
+El gerundio puede expresar simultaneidad, causa o modo, pero no admite sujeto propio: en «Corriendo el niño, se cayó» se coloca delante del sujeto como si fuera un verbo conjugado, y eso es incorrecto.## Explicacion Pedagogica
+Lo correcto es «El niño, corriendo, se cayó» o «Mientras corría, el niño se cayó», donde el gerundio acompaña al verbo principal.
 ## Question 6 [D5-D6]
 **ID:** PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle-v6
 **Bloom:** Apply

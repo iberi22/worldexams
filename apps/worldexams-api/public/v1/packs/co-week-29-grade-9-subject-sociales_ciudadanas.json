@@ -165,17 +165,17 @@
         {
           "letter": "C",
           "text": "Pasa de un espacio rural a uno urbano",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. El corregimiento es espacio rural y Pasto es espacio urbano. La familia experimenta una migración rural-urbana, cambiando de un territorio con economía agropecuaria a uno con economía de servicios."
         },
         {
           "letter": "D",
           "text": "No experimenta ningún cambio espacial porque ambos lugares son iguales",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. El corregimiento y la ciudad son espacios territoriales diferentes: uno rural con baja densidad y economía agropecuaria, y otro urbano con alta densidad y economía de servicios."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "C",
       "explanation": "La migración rural-urbana es un proceso espacial en el que las personas se desplazan del campo a la ciudad en busca de mejores oportunidades laborales, educativas y de servicios. Este cambio implica transformaciones en el modo de vida, el acceso a servicios y la relación con el territorio. En Colombia, este fenómeno ha sido históricamente significativo, con millones de personas migrando a ciudades como Bogotá, Medellín y Cali durante el siglo XX y XXI.",
       "difficulty": "6",
       "images": [],

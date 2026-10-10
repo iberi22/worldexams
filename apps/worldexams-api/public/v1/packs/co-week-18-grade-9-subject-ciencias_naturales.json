@@ -199,13 +199,13 @@
         {
           "letter": "A",
           "text": "La insulina disminuye y la glucagona aumenta, para que el hígado destruya el glucógeno y/libere glucosa.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. Ese patrón corresponde a un estado de ayuno prolongado; durante ese caso la insulina baja y la glucagona favorece la liberación de glucosa."
         },
         {
           "letter": "B",
           "text": "La insulina aumenta y la glucagona disminuye, para que el hígado deje de liberar glucosa y el exceso se almacene.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. La insulina estimulada por la glucosa alta favorece la captación y el almacenamiento de glucosa, mientras la glucagona reduce la liberación hepática."
         },
         {
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. Esas dos acciones son contradictorias, porque la insulina inhibe la liberación hepática de glucosa y la glucagona la estimula."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "La glucosa en sangre se mantiene dentro de un intervalo estrecho por la acción coordinada de dos hormonas del páncreas. En el ayuno, el glucagon es la señal dominante: actúa sobre el hígado y sobre el músculo, favorece la degradación del glucógeno y la formación de glucosa a partir de otros sustratos, y con ello eleva la glucemia. Después de comer, la situación se invierte: la glucosa elevada estimula la liberación de insulina desde las células beta del páncreas, y la insulina promueve la entrada de glucosa en las células, la síntesis de glucógeno en el hígado y el músculo, y la conversión de glucosa en grasa. Ese contrapeso entre dos hormonas es un ejemplo clásico de retroalimentación negativa.",
       "difficulty": "6",
       "images": [],

@@ -53,6 +53,20 @@ import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
 
 const ROOT = process.cwd();
+// The validator is documented to run from the repository root and from
+// `saberparatodos/`; paths stored in committed artifacts are repository-root
+// relative, so they have to be compared against the same root.
+const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+function normalizeBundlePath(value) {
+  const raw = String(value).replace(/\\/g, '/');
+  const marker = 'questions_data/';
+  const at = raw.lastIndexOf(marker);
+  if (at >= 0) return raw.slice(at);
+  const fromRepo = path.relative(REPO_ROOT, path.resolve(ROOT, raw)).replace(/\\/g, '/');
+  if (fromRepo && !fromRepo.startsWith('..') && !path.isAbsolute(fromRepo)) return fromRepo;
+  return raw;
+}
 const QUESTION_COUNTS = new Map([
   [3, 8],
   [4, 8],
@@ -325,6 +339,115 @@ export function checkExplanationTemplate(explanations) {
   return false;
 }
 
+// ---------------------------------------------------------------------------
+// The answer key and the feedback must tell the student the same story.
+//
+// v5.3 checks that every option HAS feedback and that the feedback explains
+// why. It never checks that the feedback agrees with the [x] marker, so a
+// question whose marked option is told "Incorrecto." while another option is
+// told "Correcto." passes every rule: the student is shown an answer that the
+// bundle itself declares wrong. 13 such questions ship on origin/main, plus 5
+// where two options declare themselves correct. Same class of defect as the 109
+// bundles without feedback: a gate that validates presence, not content.
+//
+// The verdict is read only when the feedback opens with it AND the verdict word
+// closes the sentence. Both halves matter:
+//   "Correcto. Como la corriente deposita los fragmentos..." asserts;
+//   "Correcto como efecto practico, pero no es la propiedad que explica..."
+//   does not -- it qualifies itself away, and the ~20 such feedbacks in
+//   UY-CIE-11-2026-W09/W10 are sound content. Counting them is what turned the
+//   first prototype of this rule into 304 false positives over 100 questions.
+// "Es correcta porque ..." does assert: the reason clause is the explanation.
+// ---------------------------------------------------------------------------
+const VERDICT_OPEN =
+  /^\s*(?:(es|it'?s|it is)\s+)?(incorrect[oa]?|correct[oa]?|wrong|right)\b([\s\S]*)$/i;
+
+export function feedbackVerdict(feedback) {
+  const m = String(feedback || '').trim().match(VERDICT_OPEN);
+  if (!m) return null;
+  let rest = m[3];
+  // "Es correcta porque ..." / "It is correct because ...": the clause that
+  // follows is the reason, so the verdict still asserts.
+  if (m[1] && /^\s*(porque|because)\b/i.test(rest)) rest = '.';
+  rest = rest.trim();
+  // Anything other than sentence-final punctuation after the verdict word
+  // qualifies the verdict away ("Correcto pero no basta...", "Correcto en
+  // parte, pero...", "Correcto para el ARN messenger, pero...").
+  if (rest && !/^[.!¡!¿:]/.test(rest)) return null;
+  const word = m[2].toLowerCase();
+  if (/^correct|^right/.test(word)) return 'positive';
+  if (/^incorrect|^wrong/.test(word)) return 'negative';
+  return null;
+}
+
+// A stem that asks for the option that is ITSELF the defective item reverses the
+// meaning of every verdict in the question: "¿Cuál está escrita
+// incorrectamente?", "Identify the grammatical error", "Which sentence is NOT
+// correct?". There the marked option is wrong on purpose, so its feedback
+// correctly says "Incorrecto." while the sound options are told "Correcto."
+// (CO-LEN-6-2026-W38 v4), and neither verdict says anything about which option
+// answers the question.
+// Deliberately narrow: "contiene un error de uso de la coma" hunts an error too,
+// but there the option CONTAINS one, and a distractor still being told
+// "Es correcta" while another option is the answer is exactly the ambiguity
+// this rule exists to catch (PY-LEN-11-W02/W04/W07).
+const DEFECTIVE_OPTION_STEM = new RegExp(
+  '(?:incorrectamente|incorrectly|mal\\s+escrit[oa]|misspell?ed|misspelt' +
+    '|identify\\s+the\\s+(?:grammatical\\s+|spelling\\s+|punctuation\\s+)?error' +
+    '|which\\s+(?:one|sentence|option|word|answer|choice|phrase)\\s+is\\s+(?:written\\s+)?(?:wrong|incorrect|not\\s+correct|incorrectly)' +
+    '|no\\s+(?:es|est[aá]|esta|son|est[aá]n)\\s+(?:correcta|correcto|correctas|correctos|apropiada|adecuada)' +
+    '|not\\s+(?:grammatically\\s+)?correct' +
+    '|all\\s+of\\s+the\\s+following\\s+except|excepto|salvo\\s+que)',
+  'i',
+);
+
+// "Es correcta" on a find-the-error item describes the sentence, not the key:
+// the stem asks which option CONTAINS the defect, so a distractor being told it
+// is well-formed is the right thing to say about it, and two such distractors
+// are the normal shape of the item (PY-LEN-11-2026-W02 Q8). It stops being
+// sound the moment the MARKED option asserts its own correctness: that option
+// cannot be the error the stem asked for (PY-LEN-11-2026-W04 Q6), and the two
+// conditions are kept apart by `markedVerdict !== 'positive'` below.
+const FIND_THE_ERROR_STEM =
+  /contiene un error|error de (?:uso|concordancia)|error en el uso|which (?:sentence|one|option|word) (?:contains|has) (?:an |a )?error/i;
+
+/**
+ * Reports a question whose [x] marker and whose feedback disagree, or whose
+ * feedback declares more than one option correct. Returns null when the
+ * question is sound, when it cannot be judged (no verdict, several markers),
+ * or when the stem makes the mark wrong on purpose.
+ */
+export function checkAnswerKeyVerdicts(qText) {
+  const marked = [...String(qText || '').matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)].map((m) => m[1]);
+  if (marked.length !== 1) return null;
+  const options = optionRows(qText);
+  if (options.length !== 4) return null;
+  if (DEFECTIVE_OPTION_STEM.test(extractStem(qText))) return null;
+
+  const verdicts = options.map((o) => ({ letter: o.letter, verdict: feedbackVerdict(o.feedback) }));
+  const markedVerdict = verdicts.find((v) => v.letter === marked[0])?.verdict ?? null;
+  const positive = verdicts.filter((v) => v.verdict === 'positive');
+
+  if (markedVerdict === 'negative' && positive.length) {
+    return {
+      rule: 'answer-key-inverted',
+      message:
+        `option ${marked[0]} is marked [x] but its feedback says it is wrong, ` +
+        `while option ${positive.map((p) => p.letter).join(', ')} is told it is right`,
+    };
+  }
+  if (positive.length >= 2) {
+    if (markedVerdict !== 'positive' && FIND_THE_ERROR_STEM.test(extractStem(qText))) return null;
+    return {
+      rule: 'ambiguous-correct-options',
+      message:
+        `${positive.length} options declare themselves correct ` +
+        `(${positive.map((p) => p.letter).join(', ')}); only one option can be the answer`,
+    };
+  }
+  return null;
+}
+
 export function checkAnswerLetterBias(correctLetters, totalQuestions) {
   if (totalQuestions < 8) return null;
 
@@ -335,10 +458,11 @@ export function checkAnswerLetterBias(correctLetters, totalQuestions) {
     if (c > totalQuestions * 0.5) return 'bias-over-50';
   }
 
-  if (totalQuestions >= 12) {
-    for (const c of Object.values(counts)) {
-      if (c === 0) return 'bias-zero';
-    }
+  // v5.2 sizes bundles at 8 questions for grades 3-5 and 10 for grades 6-7, and
+  // this floor was left at 12: half the corpus could never be seen by the rule.
+  // 220 bundles (1950 questions) had an unused answer letter and stayed green.
+  for (const c of Object.values(counts)) {
+    if (c === 0) return 'bias-zero';
   }
   return null;
 }
@@ -438,6 +562,106 @@ export function calculateQuestionHash(qText, opts = {}) {
   // stem or an option cannot be confused with the separator.
   const key = JSON.stringify(components);
   return crypto.createHash('sha256').update(key).digest('hex').slice(0, 16);
+}
+
+/**
+ * Bundles of one country/grade/subject that share the whole answer key.
+ *
+ * `answer-letter-bias` measures the letter distribution INSIDE one bundle, so it
+ * cannot see a batch whose every bundle uses the same sequence: #1635 shipped
+ * ABCDABCD ten times and each bundle came out a uniform 20% per letter, and
+ * #1636 shipped CDBCADBC ten times with no letter over 37.5%. A student who
+ * memorises one sequence answers all 80 questions without reading a stem.
+ *
+ * Grouped by (country, grado, asignatura) because that is the set a generator
+ * fills in one run, and reported from three bundles up: two identical sequences
+ * happen by chance in small lots, three do not.
+ *
+ * A bundle whose questions do not each carry exactly one [x] is skipped: it is
+ * already failing its own shape rules, and stacking a second message on it
+ * would hide the one that has to be fixed first.
+ */
+/**
+ * The answer keys this repository already publishes, keyed `group|sequence`.
+ *
+ * `scripts/repeated-answer-key-baseline.json` is generated with
+ * `detectRepeatedAnswerKeys` over `questions_data` before a content wave, so a
+ * stamp that ships on origin/main is known debt rather than a new defect. It is
+ * what separates "this batch repeats a key" from "this batch repeats a key that
+ * nobody has seen before": without it, any scoped run -- preview CI on a repair
+ * diff of three files from a 40-bundle series, `npm run validate -- <folder>`,
+ * the husky guard -- promotes 645 already-published bundles to errors.
+ */
+export function loadRepeatedAnswerKeyBaseline() {
+  const baselinePath = path.join(
+    path.dirname(fileURLToPath(import.meta.url)),
+    'repeated-answer-key-baseline.json'
+  );
+  if (!fs.existsSync(baselinePath)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(baselinePath, 'utf8'));
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * True when `group` repeats an answer key that is NOT already published.
+ *
+ * A key nobody has seen is new, and so is a file that joins a published stamp:
+ * both are the #1635/#1636 shape. A set of files that all sit inside a
+ * published stamp is not, even though the key repeats, because repairing one
+ * bundle of a published series must not be blocked by its siblings.
+ *
+ * Paths are compared through the repository root, not the current directory,
+ * because the documented usage includes running the validator from
+ * `saberparatodos/`, where `rel()` would produce `../questions_data/...`.
+ */
+export function repeatedKeyIsNew(group, baseline) {
+  const known = (baseline || {})[`${group.group}|${group.sequence}`];
+  if (!known) return true;
+  const knownSet = new Set([...known].map(normalizeBundlePath));
+  return group.bundles.some((b) => !knownSet.has(normalizeBundlePath(b)));
+}
+
+export function detectRepeatedAnswerKeys(files) {
+  const groups = new Map();
+  for (const file of files) {
+    if (!fs.existsSync(file)) continue;
+    const content = fs.readFileSync(file, 'utf8');
+    const fm = parseFrontmatter(content) || {};
+    const questions = questionBlocks(content);
+    if (!questions.length) continue;
+
+    const letters = [];
+    let wellFormed = true;
+    for (const q of questions) {
+      const marked = [...q.text.matchAll(/^- \[[xX]\]\s*([A-D])\)/gm)].map((m) => m[1]);
+      if (marked.length !== 1) {
+        wellFormed = false;
+        break;
+      }
+      letters.push(marked[0]);
+    }
+    if (!wellFormed) continue;
+
+    const group = [countryCodeOf(file, fm), String(fm.grado ?? '?'), String(fm.asignatura ?? '?')].join('|');
+    const sequence = letters.join('');
+    if (!groups.has(group)) groups.set(group, new Map());
+    const bySequence = groups.get(group);
+    if (!bySequence.has(sequence)) bySequence.set(sequence, []);
+    bySequence.get(sequence).push(rel(file));
+  }
+
+  const repeated = [];
+  for (const [group, bySequence] of groups) {
+    for (const [sequence, bundles] of bySequence) {
+      if (bundles.length >= 3) {
+        repeated.push({ group, sequence, bundles });
+      }
+    }
+  }
+  return repeated;
 }
 
 export function buildCorpusHashMap(files) {
@@ -743,6 +967,13 @@ export function validateFile(file, opts = { strictQuality: false, corpusHashMap:
         errors.push(`ERROR [feedback-no-reason] ${prefix} option ${opt.letter}: ${fbProblem}`);
       }
     });
+
+    // The [x] marker and the feedback must tell the student the same story. A
+    // question whose marked option is told "Incorrecto." while another option is
+    // told "Correcto." passes the shape rules, the duplicate rules and the
+    // feedback rules, and still ships an answer the bundle declares wrong.
+    const verdictCheck = checkAnswerKeyVerdicts(q.text);
+    if (verdictCheck) errors.push(`ERROR [${verdictCheck.rule}] ${prefix}: ${verdictCheck.message}`);
   });
 
   if (checkExplanationTemplate(allExplanations)) {
@@ -797,6 +1028,36 @@ if (isMainModule) {
     strictQuality: values['strict-quality'],
     corpusHashMap,
   }));
+
+  // --- repeated answer key across the batch (#1637) -------------------------
+  // This is the one rule that cannot live inside validateFile: a uniform answer
+  // key repeated by every bundle of a batch looks perfect bundle by bundle
+  // (each one is internally A/B/C/D balanced) and is invisible until the files
+  // are compared. So the files under validation are compared here.
+  //
+  // Severity follows the scope of the run AND whether the key is new. A
+  // repeated key that is already published is debt on origin/main and stays a
+  // warning: 78 keys shared by 645 merged bundles would otherwise turn any
+  // scoped run -- preview CI on a repair of three files from a 40-bundle series,
+  // `npm run validate -- <folder>`, the husky guard on staged files -- red over
+  // content nobody is touching. A key that is not in the baseline, or a file
+  // that joins one of those published keys, is the #1635/#1636 shape and stays
+  // an error wherever it is seen.
+  const repeatedBaseline = loadRepeatedAnswerKeyBaseline();
+  const repeated = detectRepeatedAnswerKeys(targetFiles);
+  for (const group of repeated) {
+    const [country, grade, subject] = group.group.split('|');
+    const message =
+      `${group.bundles.length} bundles of ${country} grado ${grade} ${subject} share the whole answer key ` +
+      `"${group.sequence}"; a student who memorises it answers every question without reading a stem`;
+    const asError = positionals.length > 0 && repeatedKeyIsNew(group, repeatedBaseline);
+    for (const bundle of group.bundles) {
+      const result = results.find((r) => r.file === bundle);
+      if (!result) continue;
+      if (asError) result.errors.push(`ERROR [repeated-answer-key] ${message}`);
+      else result.warnings.push(`WARNING [repeated-answer-key] ${message}`);
+    }
+  }
 
   if (values.json) {
     console.log(JSON.stringify(results, null, 2));

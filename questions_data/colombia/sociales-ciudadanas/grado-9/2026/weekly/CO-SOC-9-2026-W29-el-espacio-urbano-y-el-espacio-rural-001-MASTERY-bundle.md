@@ -107,9 +107,9 @@ La densidad de población es un indicador espacial que se calcula dividiendo el 
   <!-- feedback: Incorrecto. La familia se muda del corregimiento (espacio rural) a la ciudad de Pasto (espacio urbano), por lo que el cambio es de rural a urbano, no al revés. -->
 - [ ] B) Pasa de un espacio con servicios concentrados a uno con servicios dispersos
   <!-- feedback: Incorrecto. En la ciudad los servicios están concentrados y son más accesibles; en el corregimiento los servicios son escasos y dispersos. El cambio es de dispersión a concentración. -->
-- [ ] C) Pasa de un espacio rural a uno urbano
+- [x] C) Pasa de un espacio rural a uno urbano
   <!-- feedback: Correcto. El corregimiento es espacio rural y Pasto es espacio urbano. La familia experimenta una migración rural-urbana, cambiando de un territorio con economía agropecuaria a uno con economía de servicios. -->
-- [x] D) No experimenta ningún cambio espacial porque ambos lugares son iguales
+- [ ] D) No experimenta ningún cambio espacial porque ambos lugares son iguales
   <!-- feedback: Incorrecto. El corregimiento y la ciudad son espacios territoriales diferentes: uno rural con baja densidad y economía agropecuaria, y otro urbano con alta densidad y economía de servicios. -->
 
 ### Explicacion Pedagogica
