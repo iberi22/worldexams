@@ -9,7 +9,10 @@
 - **Token:** $SWAL ownership + stake yield
 - **Protocolo:** GitCore 3.8+ · feature-verify / implementation-score
 - **Generación de contenido:** Jules (label `jules` en issues)
-- **Integración:** Pipeline cíclico automático cada 30 min
+- **Integración:**
+  - The GitHub repo `iberi22/worldexams` is public and GitHub Actions run. There are 13 workflow files. No workflow cron is `*/30`. Active crons: `0 * * * *`, `0 */3 * * *`, `0 9 * * 1`. Commented security-scans cron: `#     - cron: '0 2 * * 0'`.
+  - Do not treat this repo as private, and do not treat GitHub Actions as turned off. Stale sentence: `docs/SWAL/GOAL.md` line 19 only.
+  - Issue #1270 is still OPEN. Its 30-minute batch idea is not a GitHub Actions cron. Do not close #1270.
 
 ---
 
