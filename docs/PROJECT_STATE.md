@@ -1,9 +1,10 @@
 # Project State — WorldExams
 
-**Last updated:** 2026-04-26 18:17 GMT-5
+**Last updated:** 2026-10-09
+**HEAD:** 4cf72dcfb
 **Version:** v1.0 (in progress)
-**Pipeline status:** ⏸️ PAUSED — cronjob disabled pending fixes
-**Bundle count:** 791 bundles generated to date
+**Repository:** Public repo with 13 workflows
+**Bundle count:** 3027 mastery bundles generated to date
 
 ---
 
@@ -23,18 +24,9 @@ Current work is tracked in `.gitcore/planning/` and `.gitcore/features.json`.
 
 ### Generation Pipeline
 
-The bundle generation pipeline (`direct-generate.py`) is **PAUSED**.
+The bundle generation pipeline (`scripts/direct-generate.py`, 27645 bytes) exists. The repo does not have a `*/30` GitHub Actions cron for this pipeline.
 
-**Reason:** Cronjob disabled pending resolution of critical and high-severity issues.
-
-**Affected components:**
-- Bundle generation worker (cron-scheduled)
-- Social distribution (depends on generated bundles)
-- Voice synthesis pipeline (depends on validated bundles)
-
-**Restart condition:** Resume when all CRITICAL and HIGH issues listed below are resolved and verified.
-
-### Known Issues (Blocking Pipeline Resume)
+### Known Issues (Recorded 2026-04-26, Not Re-audited)
 
 | # | Issue | Severity | Issue File |
 |---|---|---|---|
@@ -122,14 +114,14 @@ E:\scripts-python\worldexams\
 | Phase 3 | ✅ Complete | Voice + Remotion pipeline |
 | Phase 4 | ✅ Complete | Social distribution |
 | Phase 5 | 🚧 In progress | Documentation audit + skills expansion |
-| Phase 6 | ⏳ Not started | Pipeline resume after fixes |
+| Phase 6 | ⏳ Not started | Pipeline resume after fixes (from April plan) |
 | Phase 7 | ⏳ Not started | v1.0 release |
 
 ---
 
 ## Audit Findings (2026-04-26)
 
-- **Bundle count:** 791 bundles generated to date (`questions_data/` recursive scan)
+- **Bundle count:** 3027 mastery bundles generated to date (`find questions_data -name '*MASTERY-bundle.md' | wc -l`)
 - **Skills:** 7 skills found, all with SKILL.md files. Largest: `create_bundles_manually/` (11.6 KB), `social_distribution_manager/` (9.2 KB)
 - **Docs:** 45 documentation files in `docs/`. Notable large files: `PARTY_MODE.md` (20 KB), `SOCIAL_MEDIA_BOTS_ARCHITECTURE.md` (19.7 KB), `QUESTION_GENERATION_PROTOCOL_V2.md` (18.5 KB), `SYNC_QUESTIONS_ARCHITECTURE.md` (16.6 KB)
 - **Planning issues:** 13 active issue files in `.gitcore/planning/`, including 5 new country curricula (MX, AR, CL, PE, EC, BR) and 1 Colombia refactor issue (ISSUE_236)
