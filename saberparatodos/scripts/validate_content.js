@@ -252,10 +252,14 @@ function isPlaceholderSection(section) {
   if (/full bilingual explanations/i.test(section)) return true;
   if (/\[each question has/i.test(section)) return true;
 
-  // Detect ungenerated placeholder text in body or options
-  if (/\bOpcion [B-D]\b/i.test(section)) return true;
-  if (/\bDistractor [1-3]\b/i.test(section)) return true;
-  if (/\bOpcion correcta\b/i.test(section)) return true;
+  // Detect ungenerated placeholder text in options block only
+  const opcionesMatch = section.match(/###\s+Opciones([\s\S]*?)(?:###\s+Explicaci[oó]n|$)/i);
+  if (opcionesMatch) {
+    const opcionesBlock = opcionesMatch[1];
+    if (/\bOpcion [B-D]\b/i.test(opcionesBlock)) return true;
+    if (/\bDistractor [1-3]\b/i.test(opcionesBlock)) return true;
+    if (/\bOpcion correcta\b/i.test(opcionesBlock)) return true;
+  }
   if (/Pregunta sobre\s+[\w\s-]+- Grado/i.test(section)) return true;
 
   return false;
@@ -430,6 +434,12 @@ function validateFile(filePath) {
       if (isPlaceholder) {
         addFinding('warning', relFile, `Pregunta #${sectionNum} marcada como placeholder; se omite validación estructural.`);
         continue;
+      }
+
+      if (/^##\s+Question\b/.test(section.split('\n')[0]?.trim() || '')) {
+        if (!/\*\*Expected_Success:\*\*\s*0\.\d+/.test(section)) {
+          addFinding('error', relFile, 'missing Expected_Success');
+        }
       }
 
       // D1: dificultad SIEMPRE en rango [D3-D4]|[D5-D6]|[D7-D8]|[D9-D10]; warning si [D#] suelto
