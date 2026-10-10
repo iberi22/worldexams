@@ -53,6 +53,19 @@ import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
 
 const ROOT = process.cwd();
+// The validator is documented to run from the repository root and from
+// `saberparatodos/`; paths stored in committed artifacts are repository-root
+// relative, so they have to be compared against the same root.
+const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+function normalizeBundlePath(value) {
+  const abs = path.resolve(ROOT, value);
+  const fromRepo = path.relative(REPO_ROOT, abs);
+  if (!fromRepo || fromRepo.startsWith('..') || path.isAbsolute(fromRepo)) {
+    return String(value).replace(/\\/g, '/');
+  }
+  return fromRepo.replace(/\\/g, '/');
+}
 const QUESTION_COUNTS = new Map([
   [3, 8],
   [4, 8],
@@ -387,6 +400,16 @@ const DEFECTIVE_OPTION_STEM = new RegExp(
   'i',
 );
 
+// "Es correcta" on a find-the-error item describes the sentence, not the key:
+// the stem asks which option CONTAINS the defect, so a distractor being told it
+// is well-formed is the right thing to say about it, and two such distractors
+// are the normal shape of the item (PY-LEN-11-2026-W02 Q8). It stops being
+// sound the moment the MARKED option asserts its own correctness: that option
+// cannot be the error the stem asked for (PY-LEN-11-2026-W04 Q6), and the two
+// conditions are kept apart by `markedVerdict !== 'positive'` below.
+const FIND_THE_ERROR_STEM =
+  /contiene un error|error de (?:uso|concordancia)|error en el uso|which (?:sentence|one|option|word) (?:contains|has) (?:an |a )?error/i;
+
 /**
  * Reports a question whose [x] marker and whose feedback disagree, or whose
  * feedback declares more than one option correct. Returns null when the
@@ -413,6 +436,7 @@ export function checkAnswerKeyVerdicts(qText) {
     };
   }
   if (positive.length >= 2) {
+    if (markedVerdict !== 'positive' && FIND_THE_ERROR_STEM.test(extractStem(qText))) return null;
     return {
       rule: 'ambiguous-correct-options',
       message:
@@ -436,10 +460,8 @@ export function checkAnswerLetterBias(correctLetters, totalQuestions) {
   // v5.2 sizes bundles at 8 questions for grades 3-5 and 10 for grades 6-7, and
   // this floor was left at 12: half the corpus could never be seen by the rule.
   // 220 bundles (1950 questions) had an unused answer letter and stayed green.
-  if (totalQuestions >= 8) {
-    for (const c of Object.values(counts)) {
-      if (c === 0) return 'bias-zero';
-    }
+  for (const c of Object.values(counts)) {
+    if (c === 0) return 'bias-zero';
   }
   return null;
 }
@@ -558,6 +580,49 @@ export function calculateQuestionHash(qText, opts = {}) {
  * already failing its own shape rules, and stacking a second message on it
  * would hide the one that has to be fixed first.
  */
+/**
+ * The answer keys this repository already publishes, keyed `group|sequence`.
+ *
+ * `scripts/repeated-answer-key-baseline.json` is generated with
+ * `detectRepeatedAnswerKeys` over `questions_data` before a content wave, so a
+ * stamp that ships on origin/main is known debt rather than a new defect. It is
+ * what separates "this batch repeats a key" from "this batch repeats a key that
+ * nobody has seen before": without it, any scoped run -- preview CI on a repair
+ * diff of three files from a 40-bundle series, `npm run validate -- <folder>`,
+ * the husky guard -- promotes 645 already-published bundles to errors.
+ */
+export function loadRepeatedAnswerKeyBaseline() {
+  const baselinePath = path.join(
+    path.dirname(fileURLToPath(import.meta.url)),
+    'repeated-answer-key-baseline.json'
+  );
+  if (!fs.existsSync(baselinePath)) return {};
+  try {
+    return JSON.parse(fs.readFileSync(baselinePath, 'utf8'));
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * True when `group` repeats an answer key that is NOT already published.
+ *
+ * A key nobody has seen is new, and so is a file that joins a published stamp:
+ * both are the #1635/#1636 shape. A set of files that all sit inside a
+ * published stamp is not, even though the key repeats, because repairing one
+ * bundle of a published series must not be blocked by its siblings.
+ *
+ * Paths are compared through the repository root, not the current directory,
+ * because the documented usage includes running the validator from
+ * `saberparatodos/`, where `rel()` would produce `../questions_data/...`.
+ */
+export function repeatedKeyIsNew(group, baseline) {
+  const known = (baseline || {})[`${group.group}|${group.sequence}`];
+  if (!known) return true;
+  const knownSet = new Set([...known].map(normalizeBundlePath));
+  return group.bundles.some((b) => !knownSet.has(normalizeBundlePath(b)));
+}
+
 export function detectRepeatedAnswerKeys(files) {
   const groups = new Map();
   for (const file of files) {
@@ -969,24 +1034,26 @@ if (isMainModule) {
   // (each one is internally A/B/C/D balanced) and is invisible until the files
   // are compared. So the files under validation are compared here.
   //
-  // Severity follows the scope of the run. A batch -- CI on a PR, the husky
-  // guard on staged files, `node scripts/validate-bundles-v52.mjs <files>` -- is
-  // the enforcement path, and a repeated key there is an error: it is exactly
-  // the #1635/#1636 shape. The corpus-wide run is an audit, not enforcement:
-  // origin/main already contains 78 answer keys shared by three or more merged
-  // bundles (645 bundles), and turning `npm run validate` red over content that
-  // is already published would take the repo's own gate away. Those stay
-  // warnings until the content is repaired.
+  // Severity follows the scope of the run AND whether the key is new. A
+  // repeated key that is already published is debt on origin/main and stays a
+  // warning: 78 keys shared by 645 merged bundles would otherwise turn any
+  // scoped run -- preview CI on a repair of three files from a 40-bundle series,
+  // `npm run validate -- <folder>`, the husky guard on staged files -- red over
+  // content nobody is touching. A key that is not in the baseline, or a file
+  // that joins one of those published keys, is the #1635/#1636 shape and stays
+  // an error wherever it is seen.
+  const repeatedBaseline = loadRepeatedAnswerKeyBaseline();
   const repeated = detectRepeatedAnswerKeys(targetFiles);
   for (const group of repeated) {
     const [country, grade, subject] = group.group.split('|');
     const message =
       `${group.bundles.length} bundles of ${country} grado ${grade} ${subject} share the whole answer key ` +
       `"${group.sequence}"; a student who memorises it answers every question without reading a stem`;
+    const asError = positionals.length > 0 && repeatedKeyIsNew(group, repeatedBaseline);
     for (const bundle of group.bundles) {
       const result = results.find((r) => r.file === bundle);
       if (!result) continue;
-      if (positionals.length > 0) result.errors.push(`ERROR [repeated-answer-key] ${message}`);
+      if (asError) result.errors.push(`ERROR [repeated-answer-key] ${message}`);
       else result.warnings.push(`WARNING [repeated-answer-key] ${message}`);
     }
   }
