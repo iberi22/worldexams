@@ -24,392 +24,358 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante em São Paulo revisa os conceitos fundamentais de sequências para sua prova de matemática.
+**Contexto:** Um comerciante em Salvador analisa as vendas mensais de uma nova linha de produtos.
 
 ### Enunciado
-Qual é a fórmula do termo geral ($a_n$) de uma Progressão Aritmética (PA) em função do primeiro termo ($a_1$), da posição ($n$) e da razão ($r$)?
+As vendas cresceram de acordo com uma progressão aritmética. No primeiro mês, foram vendidas 50 unidades. Se a razão da PA é de 15 unidades por mês, qual é a fórmula do termo geral ($a_n$) para prever as vendas no mês $n$?
 
 ### Opciones
-- [ ] A) $a_n = a_1 + nr$ <!-- feedback: Incorreto. O termo n deve ser subtraído de 1, pois o primeiro termo não recebe a razão. -->
-- [x] D) $a_n = a_1 + (n - 1)r$ <!-- feedback: Correto. Esta fórmula permite encontrar qualquer termo da PA conhecendo o primeiro e a razão. -->
-- [ ] B) $a_n = a_1 \cdot r^{n-1}$ <!-- feedback: Esta é a fórmula do termo geral de uma Progressão Geométrica. -->
-- [ ] C) $a_n = \frac{a_1 + a_{n-1}}{2}$ <!-- feedback: Esta é uma propriedade do termo médio, não a fórmula do termo geral. -->
+- [ ] A) $a_n = 50 + 15n$ <!-- feedback: Incorreto. O termo n deve ser subtraído de 1. -->
+- [ ] B) $a_n = 15 + 50n$ <!-- feedback: A razão e o termo inicial foram trocados. -->
+- [ ] C) $a_n = 50 \cdot 15^{n-1}$ <!-- feedback: Esta é a fórmula de uma progressão geométrica. -->
+- [x] D) $a_n = 50 + (n - 1)15$ <!-- feedback: Correto. A fórmula da PA é $a_n = a_1 + (n-1)r$, onde $a_1=50$ e $r=15$. -->
 
 ### Explicacion Pedagogica
-Em uma PA, cada termo a partir do segundo é igual ao anterior somado a uma constante $r$. Para chegar ao termo de posição $n$, partimos de $a_1$ e somamos a razão $n-1$ vezes.
-
+Para encontrar qualquer termo de uma Progressão Aritmética (PA), usamos a fórmula do termo geral: $a_n = a_1 + (n - 1)r$. Substituindo os valores dados, $a_1 = 50$ (vendas no primeiro mês) e $r = 15$ (aumento mensal), temos $a_n = 50 + (n - 1)15$.
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Um professor no Rio de Janeiro explica como classificar uma progressão baseando-se no sinal de sua razão.
+**Contexto:** Uma engenheira no Recife monitora a diminuição do nível de água de um reservatório durante a época de seca.
 
 ### Enunciado
-Uma Progressão Aritmética é considerada **decrescente** quando:
+Ela observa que a altura da coluna de água segue uma progressão aritmética cujo termo inicial é positivo. Para que o nível da água continue diminuindo ao longo das semanas, a razão $r$ dessa PA deve ser:
 
 ### Opciones
-- [ ] A) A razão $r$ é igual a zero. <!-- feedback: Se r = 0, a progressão é constante ou estacionária. -->
-- [ ] B) A razão $r$ é positiva ($r > 0$). <!-- feedback: Se r > 0, a progressão é crescente. -->
-- [x] C) A razão $r$ é negativa ($r < 0$). <!-- feedback: Correto. Somar um número negativo faz com que os termos sucessivos sejam menores. -->
-- [ ] D) O primeiro termo $a_1$ é negativo. <!-- feedback: O sinal de a1 não determina se a PA cresce ou decresce, apenas a razão r. -->
+- [ ] A) Menor que o primeiro termo, mas positiva. <!-- feedback: Se r > 0, o nível da água estaria aumentando. -->
+- [ ] B) Igual a zero. <!-- feedback: Se r = 0, o nível permaneceria constante. -->
+- [x] C) Um número negativo ($r < 0$). <!-- feedback: Correto. Para que uma PA seja decrescente (os valores diminuem), sua razão deve ser estritamente negativa. -->
+- [ ] D) Um número fracionário positivo. <!-- feedback: Uma razão positiva e fracionária ainda faria a PA ser crescente. -->
 
 ### Explicacion Pedagogica
-O comportamento de crescimento da PA depende exclusivamente da razão. Se somamos valores negativos ($r < 0$), os termos da sequência diminuem de valor à medida que a posição $n$ aumenta.
-
+Uma PA é classificada de acordo com o sinal da sua razão. Se a progressão modela uma quantidade que está diminuindo com o tempo, trata-se de uma PA decrescente, e isso ocorre se, e somente se, a razão $r$ for negativa ($r < 0$).
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um arquiteto projeta uma escada em Curitiba onde a largura dos degraus diminui linearmente de baixo para cima.
+**Contexto:** Um motorista de aplicativo em Manaus calcula seu lucro diário, que vem apresentando um padrão regular de crescimento.
 
 ### Enunciado
-Dada a PA $(-5, -2, 1, 4, ...)$, qual é o valor da razão $r$?
+Os lucros diários (em reais) seguiram a sequência $(110, 118, 126, 134, ...)$. Qual é o valor da razão dessa progressão aritmética?
 
 ### Opciones
-- [ ] B) -3 <!-- feedback: A sequência está aumentando, logo a razão deve ser positiva. -->
-- [x] A) 3 <!-- feedback: r = -2 - (-5) = -2 + 5 = 3. -->
-- [ ] C) 2 <!-- feedback: Cálculo incorreto da diferença entre os termos. -->
-- [ ] D) -7 <!-- feedback: Erro de operação aritmética. -->
+- [x] A) 8 <!-- feedback: Correto. $r = 118 - 110 = 8$. -->
+- [ ] B) 6 <!-- feedback: Subtração incorreta entre os termos consecutivos. -->
+- [ ] C) 10 <!-- feedback: Este não é o valor da diferença entre dias consecutivos. -->
+- [ ] D) 12 <!-- feedback: Diferença calculada de forma errada. -->
 
 ### Explicacion Pedagogica
-A razão é a diferença entre um termo e seu antecessor: $r = a_2 - a_1$. No caso, $r = -2 - (-5) = -2 + 5 = 3$.
-
+A razão de uma PA é obtida pela diferença entre qualquer termo e seu antecessor imediato: $r = a_2 - a_1$. Assim, $r = 118 - 110 = 8$. O lucro aumenta R$ 8 por dia.
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um economista em Brasília utiliza a fórmula da soma da PA para calcular o total de parcelas pagas em um financiamento com amortização constante.
+**Contexto:** Um contador em Fortaleza precisa estimar o gasto total com manutenção de um equipamento ao longo de vários anos.
 
 ### Enunciado
-Qual é a fórmula para calcular a soma dos $n$ primeiros termos ($S_n$) de uma PA?
+Os gastos anuais formam uma Progressão Aritmética. Para achar o total gasto ao final de $n$ anos conhecendo o primeiro gasto ($a_1$) e o último gasto previsto ($a_n$), qual expressão deve ser usada?
 
 ### Opciones
-- [ ] A) $S_n = (a_1 + a_n) \cdot n$ <!-- feedback: Falta dividir por 2 na fórmula. -->
-- [x] B) $S_n = \frac{(a_1 + a_n) \cdot n}{2}$ <!-- feedback: Correto. É a média aritmética dos extremos multiplicada pelo número de termos. -->
-- [ ] C) $S_n = a_1 + (n-1)r$ <!-- feedback: Esta é a fórmula do termo geral, não da soma. -->
-- [ ] D) $S_n = n \cdot r$ <!-- feedback: A fórmula da soma precisa do primeiro e do último termo e do fator 1/2. Esta expressão usa apenas a razão, que é justamente o que a soma dos n primeiros termos não depende sozinha. -->
+- [ ] A) $S_n = (a_n - a_1) \cdot \frac{n}{2}$ <!-- feedback: A fórmula exige a soma dos termos extremos, não a diferença. -->
+- [x] B) $S_n = \frac{(a_1 + a_n) \cdot n}{2}$ <!-- feedback: Correto. Esta é a fórmula tradicional de soma dos n termos de uma PA. -->
+- [ ] C) $S_n = n \cdot (a_1 + a_n)$ <!-- feedback: Faltou dividir o resultado por 2. -->
+- [ ] D) $S_n = a_1 + n(a_n)$ <!-- feedback: Expressão matematicamente incorreta para a soma. -->
 
 ### Explicacion Pedagogica
-A soma dos termos de uma PA pode ser visualizada pareando os termos (primeiro com último, segundo com penúltimo, etc.), onde cada par tem a mesma soma. O resultado é a soma de um par ($a_1 + a_n$) multiplicado pela quantidade de pares ($n/2$).
-
+A soma dos $n$ primeiros termos de uma PA é igual ao produto da quantidade de termos $n$ pela média aritmética do primeiro com o enésimo termo: $S_n = \frac{(a_1 + a_n) \cdot n}{2}$.
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um técnico de laboratório registra o aumento de temperatura de uma estufa que sobe $2^\circ$C a cada 10 minutos.
+**Contexto:** Um ciclista em Belo Horizonte treina diariamente e aumenta a distância percorrida seguindo uma progressão aritmética.
 
 ### Enunciado
-Se o primeiro termo de uma PA é $a_1 = 12$ e a razão é $r = 5$, qual é o valor do termo $a_{11}$?
+No primeiro dia, ele percorre 5 km, e a cada dia aumenta o percurso em 2 km. Qual distância ele percorrerá no 15º dia de treinamento?
 
 ### Opciones
-- [ ] A) 67 <!-- feedback: a11 = 12 + 11*5 = 67. Erro: usou n em vez de n-1. -->
-- [x] C) 62 <!-- feedback: a11 = 12 + (11-1)*5 = 12 + 50 = 62. -->
-- [ ] B) 57 <!-- feedback: Este é o valor de a10. -->
-- [ ] D) 72 <!-- feedback: Cálculo incorreto. -->
+- [ ] A) 35 km <!-- feedback: Valor incorreto, você pode ter usado n=16. -->
+- [ ] B) 31 km <!-- feedback: Erro de cálculo. Verifique a fórmula do termo geral. -->
+- [x] C) 33 km <!-- feedback: Correto. $a_{15} = 5 + (15-1) \cdot 2 = 5 + 28 = 33$. -->
+- [ ] D) 30 km <!-- feedback: Você multiplicou n por r sem subtrair 1 e omitiu a soma correta com a_1. -->
 
 ### Explicacion Pedagogica
-Aplicamos o termo geral: $a_{11} = a_1 + 10r$. Substituindo: $a_{11} = 12 + 10 \cdot 5 = 12 + 50 = 62$.
-
+Usando a fórmula do termo geral $a_n = a_1 + (n-1)r$. Aqui $a_1 = 5$, $r = 2$ e $n = 15$. Substituindo: $a_{15} = 5 + (15-1) \cdot 2 = 5 + 14 \cdot 2 = 5 + 28 = 33$ km.
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um atleta em Belo Horizonte planeja seu treinamento aumentando a distância percorrida em 400 metros a cada dia.
+**Contexto:** Um florista em Belém organiza arranjos para um grande evento, onde cada fila de vasos tem mais unidades que a anterior.
 
 ### Enunciado
-Quantos termos existem na PA finita $(10, 14, 18, ..., 90)$?
+A primeira fila tem 12 vasos e a última tem 60 vasos. Se as filas formam uma progressão aritmética de razão 4, quantas filas de vasos existem no total?
 
 ### Opciones
-- [ ] A) 20 <!-- feedback: Cálculo incorreto. -->
-- [x] D) 21 <!-- feedback: 90 = 10 + (n-1)4 => 80 = 4(n-1) => 20 = n-1 => n = 21. -->
-- [ ] B) 22 <!-- feedback: Erro ao finalizar a resolução da equação. -->
-- [ ] C) 80 <!-- feedback: Este é o deslocamento total, não o número de termos. -->
+- [ ] A) 11 <!-- feedback: Esse é n-1 e não o número total de filas n. -->
+- [ ] B) 12 <!-- feedback: Cálculo incorreto na divisão. -->
+- [ ] C) 14 <!-- feedback: Valor um pouco acima do correto. -->
+- [x] D) 13 <!-- feedback: Correto. $60 = 12 + (n-1)4 \Rightarrow 48 = 4(n-1) \Rightarrow n-1 = 12 \Rightarrow n = 13$. -->
 
 ### Explicacion Pedagogica
-Usamos o termo geral para isolar $n$: $a_n = a_1 + (n-1)r \Rightarrow 90 = 10 + (n-1) \cdot 4$. Subtraindo 10 de ambos os lados: $80 = 4(n-1)$. Dividindo por 4: $20 = n - 1$. Logo, $n = 21$.
-
+Pela fórmula $a_n = a_1 + (n-1)r$, sabemos que $60 = 12 + (n-1) \cdot 4$. Isolando $(n-1)$, temos $60 - 12 = 4(n-1) \Rightarrow 48 = 4(n-1) \Rightarrow n-1 = 12$. Portanto, $n = 13$ filas no total.
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Uma empresa em Salvador organiza seu estoque em prateleiras onde a primeira tem 50 caixas e cada prateleira seguinte tem 3 caixas a menos.
+**Contexto:** Um banco em Florianópolis oferece um rendimento em que o valor dos juros creditados mensalmente decresce em progressão aritmética.
 
 ### Enunciado
-Qual é a posição do termo que vale 20 nesta PA?
+No primeiro mês, foram creditados R$ 80,00 de juros, e a cada mês o valor diminui R$ 5,00. Em qual mês o crédito de juros será igual a R$ 30,00?
 
 ### Opciones
-- [ ] A) 10ª <!-- feedback: a10 = 50 + 9*(-3) = 50 - 27 = 23. Quase lá. -->
-- [x] C) 11ª <!-- feedback: 20 = 50 + (n-1)(-3) => -30 = -3(n-1) => 10 = n-1 => n = 11. -->
-- [ ] B) 12ª <!-- feedback: a12 = 50 - 33 = 17. -->
-- [ ] D) 9ª <!-- feedback: a9 = 50 - 24 = 26. -->
+- [ ] A) 9º mês <!-- feedback: $80 - 5(8) = 40$, ainda não atingiu 30. -->
+- [ ] B) 10º mês <!-- feedback: Nesse mês o juro será 35. -->
+- [x] C) 11º mês <!-- feedback: Correto. $30 = 80 + (n-1)(-5) \Rightarrow -50 = -5(n-1) \Rightarrow n-1 = 10 \Rightarrow n = 11$. -->
+- [ ] D) 12º mês <!-- feedback: Nesse mês o juro será de R$ 25,00. -->
 
 ### Explicacion Pedagogica
-Montamos a equação com $a_1 = 50$, $r = -3$ e $a_n = 20$. Temos $20 = 50 + (n-1)(-3)$. Resolvendo: $-30 = -3(n-1) \Rightarrow 10 = n - 1 \Rightarrow n = 11$.
-
+Temos uma PA com $a_1 = 80$ e $r = -5$. Queremos encontrar $n$ tal que $a_n = 30$. Usamos $a_n = a_1 + (n-1)r \Rightarrow 30 = 80 + (n-1)(-5) \Rightarrow 30 - 80 = -5(n-1) \Rightarrow -50 = -5(n-1) \Rightarrow 10 = n-1 \Rightarrow n = 11$.
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um investidor aplica R\$ 100,00 por mês em uma conta que não rende juros, apenas acumula o capital.
+**Contexto:** Uma confeitaria em Natal planeja a produção de doces para um festival de 10 dias, aumentando a quantidade produzida diariamente.
 
 ### Enunciado
-Qual é a soma dos 12 primeiros termos da PA $(100, 200, 300, ...)$?
+No primeiro dia foram feitos 200 doces, e no último dia (10º), espera-se produzir 650 doces. Qual será a produção total de doces ao longo de todos os 10 dias?
 
 ### Opciones
-- [ ] A) 1.200 <!-- feedback: Este seria o valor se não houvesse acúmulo (apenas o 12º termo). -->
-- [x] B) 7.800 <!-- feedback: a12 = 1200. Soma = (100 + 1200) * 12 / 2 = 1300 * 6 = 7800. -->
-- [ ] C) 6.600 <!-- feedback: Cálculo incorreto da soma. -->
-- [ ] D) 15.600 <!-- feedback: Esqueceu de dividir por 2 na fórmula da soma. -->
+- [ ] A) 4.000 <!-- feedback: Valor bem abaixo da soma real. -->
+- [x] B) 4.250 <!-- feedback: Correto. $S_{10} = (200 + 650) \cdot 10 / 2 = 850 \cdot 5 = 4250$. -->
+- [ ] C) 4.500 <!-- feedback: Erro de multiplicação. -->
+- [ ] D) 8.500 <!-- feedback: Você esqueceu de dividir por 2 na fórmula da soma. -->
 
 ### Explicacion Pedagogica
-O 12º termo é $100 + (12-1)100 = 1200$. A soma é $S_{12} = \frac{(100 + 1200) \cdot 12}{2} = 1300 \cdot 6 = 7800$.
-
+Para encontrar a produção total, calculamos a soma dos 10 primeiros termos: $S_{10} = \frac{(a_1 + a_{10}) \cdot 10}{2}$. Substituindo $a_1 = 200$ e $a_{10} = 650$, temos $S_{10} = \frac{(200 + 650) \cdot 10}{2} = 850 \cdot 5 = 4.250$ doces.
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um programador em Recife cria uma rotina de repetição onde o valor de uma variável segue uma PA.
+**Contexto:** Um técnico de manutenção de elevadores em Goiânia observa o desgaste progressivo de uma roldana.
 
 ### Enunciado
-Numa PA, sabe-se que $a_3 = 10$ e $a_6 = 19$. Qual é o valor da razão $r$?
+A espessura da roldana segue uma PA decrescente. Sabe-se que no 2º mês a espessura era de 24 mm e no 5º mês passou para 15 mm. Qual é a razão dessa diminuição mensal?
 
 ### Opciones
-- [ ] A) 9 <!-- feedback: 9 é a diferença entre os termos, mas eles estão separados por 3 posições. -->
-- [x] D) 3 <!-- feedback: a6 = a3 + 3r => 19 = 10 + 3r => 9 = 3r => r = 3. -->
-- [ ] B) 4 <!-- feedback: Se r=4, a6 seria 10 + 12 = 22. -->
-- [ ] C) 2 <!-- feedback: Se r=2, a6 seria 10 + 6 = 16. -->
+- [ ] A) -2 mm <!-- feedback: Se r=-2, o 5º mês seria 24 - 3(2) = 18 mm. -->
+- [ ] B) -4 mm <!-- feedback: Se r=-4, a variação seria muito maior. -->
+- [ ] C) 3 mm <!-- feedback: A PA é decrescente, logo a razão deve ser negativa. -->
+- [x] D) -3 mm <!-- feedback: Correto. $a_5 = a_2 + 3r \Rightarrow 15 = 24 + 3r \Rightarrow -9 = 3r \Rightarrow r = -3$. -->
 
 ### Explicacion Pedagogica
-Usamos a relação entre dois termos quaisquer: $a_k = a_j + (k-j)r$. Logo, $a_6 = a_3 + (6-3)r \Rightarrow 19 = 10 + 3r$. Resolvendo para $r$, temos $3r = 9$, então $r = 3$.
-
+A relação entre termos não consecutivos é $a_m = a_k + (m-k)r$. Aplicando isso para $a_5$ e $a_2$, temos: $15 = 24 + (5 - 2)r \Rightarrow 15 - 24 = 3r \Rightarrow -9 = 3r \Rightarrow r = -3$ mm.
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um agrimensor em Manaus mede a distância entre estacas colocadas em linha reta com intervalos constantes.
+**Contexto:** Um urbanista em João Pessoa decide plantar árvores em uma longa avenida, deixando o mesmo espaço entre cada par de árvores sucessivas.
 
 ### Enunciado
-Insira 3 meios aritméticos entre os números 5 e 21. Qual é a razão da PA formada?
+A primeira árvore foi plantada na marca de 10 metros e a última (sexta árvore) na marca de 60 metros. Qual é a distância constante entre as árvores?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Se r=5, a sequência seria 5, 10, 15, 20, 25. O último seria 25, não 21. -->
-- [x] C) 4 <!-- feedback: Com 3 meios, temos 5 termos no total. 21 = 5 + 4r => 16 = 4r => r = 4. PA: (5, 9, 13, 17, 21). -->
-- [ ] B) 3 <!-- feedback: Se r=3, o 5º termo seria 17. -->
-- [ ] D) 2 <!-- feedback: Com r = 2 a PA seria 5, 7, 9, 11 e o 5º termo seria 13, não 21. -->
+- [ ] A) 8 metros <!-- feedback: Não alcançaria a marca de 60 metros. -->
+- [ ] B) 12 metros <!-- feedback: Com 5 intervalos, r=12 chegaria a 70 metros. -->
+- [x] C) 10 metros <!-- feedback: Correto. Temos 6 termos, logo $a_6 = a_1 + 5r \Rightarrow 60 = 10 + 5r \Rightarrow r = 10$. -->
+- [ ] D) 5 metros <!-- feedback: Com r=5, a última árvore estaria a 35 metros. -->
 
 ### Explicacion Pedagogica
-Inserir 3 meios aritméticos entre 5 e 21 significa criar uma PA onde $a_1 = 5$ e $a_5 = 21$. Pela fórmula: $21 = 5 + (5-1) \cdot r \Rightarrow 16 = 4r \Rightarrow r = 4$.
-
+Trata-se da interpolação aritmética de 4 meios entre 10 e 60, totalizando 6 posições (árvores). Pela fórmula do termo geral, $a_6 = a_1 + 5r$. Logo, $60 = 10 + 5r \Rightarrow 50 = 5r \Rightarrow r = 10$ metros.
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um engenheiro em São Paulo calcula o peso suportado por colunas dispostas em série com reforço progressivo.
+**Contexto:** Um físico no Rio Grande do Sul estuda o movimento de um objeto sob a ação de uma força constante, resultando em distâncias percorridas em PA.
 
 ### Enunciado
-Em uma PA, a soma dos $n$ primeiros termos é dada por $S_n = n^2 + 2n$. Qual é o valor do primeiro termo $a_1$ e da razão $r$?
+A soma das distâncias percorridas nos primeiros $n$ segundos é dada por $S_n = 2n^2 + 5n$. Qual é o valor do primeiro termo ($a_1$) e da razão ($r$)?
 
 ### Opciones
-- [ ] A) $a_1 = 3, r = 3$ <!-- feedback: O primeiro termo está certo, mas S_2 = 2^2 + 2·2 = 8 obriga a_2 = 8 - 3 = 5, logo r = 5 - 3 = 2 e não 3. -->
-- [x] C) $a_1 = 3, r = 2$ <!-- feedback: S1 = a1 = 1² + 2(1) = 3. S2 = a1 + a2 = 2² + 2(2) = 8. Logo a2 = 5 e r = 5-3 = 2. -->
-- [ ] B) $a_1 = 1, r = 2$ <!-- feedback: S1 daria 3, não 1. -->
-- [ ] D) $a_1 = 3, r = 1$ <!-- feedback: Se r=1, a2 seria 4 e S2 seria 7, mas S2 pela fórmula é 8. -->
+- [ ] A) $a_1 = 7, r = 2$ <!-- feedback: O cálculo de a2 estaria errado com essa razão. -->
+- [ ] B) $a_1 = 5, r = 4$ <!-- feedback: S1 não seria 7 se a1 fosse 5. -->
+- [x] C) $a_1 = 7, r = 4$ <!-- feedback: Correto. $S_1 = a_1 = 7$. $S_2 = a_1 + a_2 = 18 \Rightarrow 7 + a_2 = 18 \Rightarrow a_2 = 11$. Logo $r = 11 - 7 = 4$. -->
+- [ ] D) $a_1 = 2, r = 5$ <!-- feedback: Coeficientes da equação confundidos com os elementos da PA. -->
 
 ### Explicacion Pedagogica
-1) $a_1 = S_1 = 1^2 + 2(1) = 3$.
-2) $a_1 + a_2 = S_2 = 2^2 + 2(2) = 4 + 4 = 8$.
-3) $a_2 = 8 - a_1 = 8 - 3 = 5$.
-4) $r = a_2 - a_1 = 5 - 3 = 2$.
-
+Para encontrar $a_1$, basta calcular $S_1$: $S_1 = 2(1)^2 + 5(1) = 7$, portanto $a_1 = 7$. Para achar o segundo termo, calculamos $S_2$: $S_2 = 2(2)^2 + 5(2) = 8 + 10 = 18$. Como $S_2 = a_1 + a_2$, temos $7 + a_2 = 18 \Rightarrow a_2 = 11$. A razão é $r = a_2 - a_1 = 11 - 7 = 4$.
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um analista financeiro avalia o total acumulado de um fundo onde o aporte mensal cresce linearmente para compensar a inflação.
+**Contexto:** Um biólogo no Pantanal cataloga pássaros numa reserva. Ele nota que as captações fotográficas de certa ave formam números que seguem um padrão divisível.
 
 ### Enunciado
-Determine a soma de todos os números naturais múltiplos de 7 entre 10 e 100.
+Quantos números inteiros múltiplos de 6 existem entre 20 e 150?
 
 ### Opciones
-- [ ] A) 700 <!-- feedback: Valor aproximado, mas não exato. -->
-- [x] C) 728 <!-- feedback: PA: (14, 21, ..., 98). n=13. Soma = (14+98)*13/2 = 112*6,5 = 728. -->
-- [ ] B) 735 <!-- feedback: Erro no cálculo da soma dos termos. -->
-- [ ] D) 630 <!-- feedback: Valor muito baixo. -->
+- [ ] A) 20 <!-- feedback: Houve um erro no arredondamento ou no último múltiplo considerado. -->
+- [ ] B) 23 <!-- feedback: Um a mais do que o correto. -->
+- [x] C) 22 <!-- feedback: Correto. O primeiro é 24 e o último é 150. $150 = 24 + (n-1)6 \Rightarrow 126 = 6(n-1) \Rightarrow n-1 = 21 \Rightarrow n = 22$. -->
+- [ ] D) 21 <!-- feedback: Você calculou a diferença de múltiplos mas esqueceu de somar 1 ao número de intervalos. -->
 
 ### Explicacion Pedagogica
-1) Primeiro múltiplo: 14. Último múltiplo: 98.
-2) Número de termos: $98 = 14 + (n-1)7 \Rightarrow 84 = 7(n-1) \Rightarrow 12 = n-1 \Rightarrow n = 13$.
-3) Soma: $S_{13} = \frac{(14 + 98) \cdot 13}{2} = \frac{112 \cdot 13}{2} = 56 \cdot 13 = 728$.
-
+Os múltiplos formam uma PA de razão 6. O primeiro múltiplo de 6 maior que 20 é $24$ ($a_1$). O maior múltiplo de 6 menor ou igual a 150 é o próprio $150$ ($a_n$). Usando o termo geral: $150 = 24 + (n-1)6 \Rightarrow 126 = 6(n-1) \Rightarrow 21 = n-1 \Rightarrow n = 22$.
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor desafia os alunos com uma propriedade curiosa dos termos da PA.
+**Contexto:** Um artista em Ouro Preto constrói uma escultura formada por três peças geométricas com volumes em progressão aritmética.
 
 ### Enunciado
-Três números estão em PA. A soma deles é 15 e o produto é 80. Quais são esses números?
+Sabe-se que a soma dos volumes das três peças é $24\,\text{cm}^3$ e o produto deles é $440\,\text{cm}^3$. Quais são os volumes, sabendo que a PA é crescente?
 
 ### Opciones
-- [ ] B) 1, 5, 9 <!-- feedback: Soma = 15, mas produto = 45. -->
-- [x] A) 2, 5, 8 <!-- feedback: Soma = 2+5+8 = 15. Produto = 2*5*8 = 80. Razão r=3. -->
-- [ ] C) 3, 5, 7 <!-- feedback: Soma = 15, mas produto = 105. -->
-- [ ] D) 4, 5, 6 <!-- feedback: Soma = 15, mas produto = 120. -->
+- [x] A) 5, 8, 11 <!-- feedback: Correto. Soma = 24. Produto = 5*8*11 = 440. A PA é crescente com r = 3. -->
+- [ ] B) 6, 8, 10 <!-- feedback: O produto daria 480. -->
+- [ ] C) 4, 8, 12 <!-- feedback: O produto daria 384. -->
+- [ ] D) 7, 8, 9 <!-- feedback: O produto daria 504. -->
 
 ### Explicacion Pedagogica
-Representamos os termos como $(x-r, x, x+r)$. A soma é $(x-r) + x + (x+r) = 3x = 15 \Rightarrow x = 5$. O produto é $(5-r) \cdot 5 \cdot (5+r) = 80 \Rightarrow 25 - r^2 = 16 \Rightarrow r^2 = 9 \Rightarrow r = 3$. Os termos são $5-3=2, 5$ e $5+3=8$.
-
+Representamos os termos como $(x-r, x, x+r)$. A soma é $3x = 24 \Rightarrow x = 8$. O produto é $(8-r) \cdot 8 \cdot (8+r) = 440 \Rightarrow (64 - r^2) \cdot 8 = 440 \Rightarrow 64 - r^2 = 55 \Rightarrow r^2 = 9 \Rightarrow r = 3$ (PA crescente). Termos: $8-3=5$, $8$ e $8+3=11$.
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um arquiteto em Porto Alegre utiliza PA para definir as alturas de colunas em um telhado inclinado.
+**Contexto:** Num laboratório no Maranhão, o aumento da temperatura de uma substância ocorre linearmente (em PA).
 
 ### Enunciado
-Em uma PA, $a_1 + a_9 = 20$. Qual é o valor de $a_5$?
+Sabendo que a soma da temperatura no 3º minuto e no 7º minuto é de 80 °C, qual foi a temperatura registrada no 5º minuto?
 
 ### Opciones
-- [ ] B) 5 <!-- feedback: Numa PA a soma de dois termos equidistantes dos extremos é constante: a_1 + a_9 = 2·a_5. Como a soma vale 20, a_5 = 10 e não 5. -->
-- [x] A) 10 <!-- feedback: Pela propriedade dos termos equidistantes, a1+a9 = a5+a5 = 2*a5. Logo a5 = 20/2 = 10. -->
-- [ ] C) 20 <!-- feedback: Este é o valor da soma dos extremos. -->
-- [ ] D) Não é possível determinar sem a razão. <!-- feedback: É possível sim, pois a5 é o termo médio exato entre a1 e a9. -->
+- [x] A) 40 °C <!-- feedback: Correto. $a_5$ é equidistante de $a_3$ e $a_7$, logo $a_3 + a_7 = 2a_5 \Rightarrow 80 = 2a_5 \Rightarrow a_5 = 40$. -->
+- [ ] B) 80 °C <!-- feedback: Este é o valor da soma dos termos. -->
+- [ ] C) 20 °C <!-- feedback: O valor procurado é a média aritmética entre as pontas, não a quarta parte. -->
+- [ ] D) Não há dados suficientes. <!-- feedback: Como a posição 5 é o termo central exato entre 3 e 7, basta fazer a média simples. -->
 
 ### Explicacion Pedagogica
-Em qualquer PA, a soma de dois termos equidistantes dos extremos é constante. Como $1+9 = 10$, e $5+5 = 10$, então $a_1 + a_9 = a_5 + a_5 = 2 \cdot a_5$. Assim, $a_5 = 20/2 = 10$.
-
+A propriedade das PAs diz que a soma de termos cujos índices têm a mesma média resulta no múltiplo do termo central. A média de 3 e 7 é 5. Logo, $a_3 + a_7 = 2 \cdot a_5$. Temos $80 = 2 \cdot a_5$, ou seja, $a_5 = 40$ °C.
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um estatístico em São Paulo utiliza a interpolação para prever valores faltantes em uma série histórica linear.
+**Contexto:** Um agrônomo no Mato Grosso deseja distribuir adubo em uma plantação em faixas com concentrações gradativas.
 
 ### Enunciado
-Ao intercalar 6 meios aritméticos entre 10 e 45, qual é o valor do quarto termo da progressão total?
+A primeira faixa receberá 12 kg/ha e a última (10ª faixa) receberá 48 kg/ha. Se for usado o modelo de PA, qual será a dose aplicada na 6ª faixa?
 
 ### Opciones
-- [ ] A) 20 <!-- feedback: Este é o terceiro termo. -->
-- [x] C) 25 <!-- feedback: Total de termos n=8. 45 = 10 + 7r => 35 = 7r => r = 5. PA: (10, 15, 20, 25, 30, 35, 40, 45). a4 = 25. -->
-- [ ] B) 30 <!-- feedback: Este é o quinto termo. -->
-- [ ] D) 15 <!-- feedback: Este é o segundo termo. -->
+- [ ] A) 28 kg/ha <!-- feedback: Você pode ter errado o cálculo da razão. -->
+- [ ] B) 36 kg/ha <!-- feedback: Esta dose estaria em faixas posteriores. -->
+- [x] C) 32 kg/ha <!-- feedback: Correto. $r = (48-12)/(10-1) = 36/9 = 4$. Logo, $a_6 = 12 + 5(4) = 32$. -->
+- [ ] D) 24 kg/ha <!-- feedback: Este seria o valor na 4ª faixa. -->
 
 ### Explicacion Pedagogica
-1) Total de termos: 2 (extremos) + 6 (meios) = 8.
-2) Razão: $a_8 = a_1 + 7r \Rightarrow 45 = 10 + 7r \Rightarrow 35 = 7r \Rightarrow r = 5$.
-3) Quarto termo: $a_4 = a_1 + 3r = 10 + 3 \cdot 5 = 25$.
-
+Primeiro, achamos a razão: $a_{10} = a_1 + 9r \Rightarrow 48 = 12 + 9r \Rightarrow 36 = 9r \Rightarrow r = 4$. Agora, aplicamos para o 6º termo: $a_6 = a_1 + 5r = 12 + 5 \cdot 4 = 12 + 20 = 32$ kg/ha.
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático estuda a relação entre funções afins e progressões aritméticas.
+**Contexto:** Uma empresa de logística de São Paulo estipula bônus progressivos mensais para os motoristas que evitam infrações.
 
 ### Enunciado
-Toda PA pode ser vista como uma função discreta. Se $a_n = 4n - 1$, qual é a soma dos 20 primeiros termos?
+O bônus no mês $n$ é calculado por $B(n) = 30n + 15$. Qual é o valor total de bônus que um motorista exemplar acumulará ao final de 12 meses?
 
 ### Opciones
-- [ ] A) 780 <!-- feedback: Cálculo incorreto da soma. -->
-- [x] D) 820 <!-- feedback: a1 = 3. a20 = 79. S20 = (3 + 79) * 20 / 2 = 82 * 10 = 820. -->
-- [ ] B) 800 <!-- feedback: Cálculo incorreto. -->
-- [ ] C) 1.640 <!-- feedback: Esqueceu de dividir por 2. -->
+- [ ] A) 2.450 <!-- feedback: Verifique a conta de soma total. -->
+- [ ] B) 1.250 <!-- feedback: Este valor subestima drasticamente a soma dos bônus. -->
+- [ ] C) 2.500 <!-- feedback: Falta somar alguns detalhes do termo inicial e final. -->
+- [x] D) 2.520 <!-- feedback: Correto. $B(1) = 45$, $B(12) = 375$. Soma = $(45 + 375) \cdot 12 / 2 = 420 \cdot 6 = 2520$. -->
 
 ### Explicacion Pedagogica
-1) Calculamos os extremos: $a_1 = 4(1)-1 = 3$; $a_{20} = 4(20)-1 = 79$.
-2) Aplicamos a soma: $S_{20} = \frac{(3 + 79) \cdot 20}{2} = 82 \cdot 10 = 820$.
-
+A expressão de $B(n)$ é do 1º grau, caracterizando uma PA. Achamos $a_1 = 30(1)+15 = 45$ e $a_{12} = 30(12)+15 = 375$. A soma total em 12 meses será $S_{12} = \frac{(45 + 375) \cdot 12}{2} = 420 \cdot 6 = 2.520$.
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um pesquisador em Campinas analisa uma sequência onde os termos são funções de uma variável $x$.
+**Contexto:** Um pesquisador de modelagem matemática no Amazonas avalia funções trigonométricas e PA em um mesmo problema abstrato.
 
 ### Enunciado
-Para quais valores de $x$ a sequência $(\log x, \log 2x, \log 4x)$ forma uma PA?
+Sabendo que os ângulos $\alpha, \beta, \gamma$ formam uma PA nessa ordem, e que a soma deles é $180^\circ$, o que podemos afirmar com certeza sobre o termo central $\beta$?
 
 ### Opciones
-- [ ] A) Somente para $x = 1$. <!-- feedback: Na verdade, qualquer x positivo satisfaz a condição. -->
-- [x] D) Para todo $x > 0$. <!-- feedback: Razão r = log(2x) - log(x) = log(2x/x) = log 2. Como a razão é constante independente de x, é sempre PA. -->
-- [ ] B) Para nenhum valor de $x$. <!-- feedback: A sequência sempre possui uma diferença constante. -->
-- [ ] C) Somente para $x = 2$. <!-- feedback: A razão é log(2x) - log(x) = log 2, que não depende de x. Qualquer x positivo, e não só x = 2, produz a mesma razão. -->
+- [ ] A) Ele é igual a $90^\circ$. <!-- feedback: A soma total é 180, se ele fosse 90 os outros dependeriam muito de uma PA específica. A média é 60. -->
+- [ ] B) Ele depende da razão da PA. <!-- feedback: O termo central numa PA de três elementos é exatamente a média da soma total dividida por três. -->
+- [ ] C) Ele é um ângulo raso. <!-- feedback: Raso seria 180, inviável como parte da soma de três ângulos positivos em triângulo. -->
+- [x] D) Ele é obrigatoriamente igual a $60^\circ$. <!-- feedback: Correto. $\alpha + \beta + \gamma = 3\beta = 180^\circ$, logo $\beta = 60^\circ$, não importando a razão. -->
 
 ### Explicacion Pedagogica
-Verificamos a diferença entre os termos:
-$r_1 = \log(2x) - \log(x) = \log(2x/x) = \log 2$.
-$r_2 = \log(4x) - \log(2x) = \log(4x/2x) = \log 2$.
-Como $r_1 = r_2 = \log 2$ (constante), a sequência é uma PA para qualquer $x$ no domínio da função logaritmo ($x > 0$).
-
+Em qualquer progressão aritmética de três termos, a soma deles é o triplo do termo do meio. Ou seja, $S_3 = 3 \cdot a_2$. Se a soma dos ângulos é $180^\circ$, temos $3 \cdot \beta = 180^\circ \Rightarrow \beta = 60^\circ$. A razão definirá os outros dois, mas o termo central é fixo.
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Durante uma olimpíada, propõe-se um desafio envolvendo a soma de termos de índices pares e ímpares.
+**Contexto:** Um desafio no campeonato de matemática do Distrito Federal testa o conhecimento profundo sobre agrupamento de termos em uma PA.
 
 ### Enunciado
-Numa PA de 100 termos, a soma dos termos de ordem ímpar é 500. Se a razão é $r = 2$, qual é a soma dos termos de ordem par?
+Em uma PA de 40 termos, a soma dos 20 termos iniciais é 100 e a soma dos 20 termos finais é 300. Qual é a razão da PA?
 
 ### Opciones
-- [ ] A) 500 <!-- feedback: Os termos pares são sempre maiores que os ímpares anteriores se r > 0. -->
-- [x] C) 600 <!-- feedback: Cada termo par a_2k é igual ao ímpar anterior a_{2k-1} + r. Como são 50 pares, Spar = Simpar + 50*r = 500 + 50*2 = 600. -->
-- [ ] B) 700 <!-- feedback: Cálculo incorreto do acréscimo. -->
-- [ ] D) 550 <!-- feedback: Cálculo incorreto. -->
+- [ ] A) $0,25$ <!-- feedback: Razão muito pequena. -->
+- [ ] B) $0,75$ <!-- feedback: O crescimento daria uma diferença maior. -->
+- [x] C) $0,5$ <!-- feedback: Correto. A diferença entre os dois blocos é 200. Cada um dos 20 termos do segundo bloco é a_k = a_{k-20} + 20r. Logo $20 \cdot 20r = 200 \Rightarrow 400r = 200 \Rightarrow r = 0,5$. -->
+- [ ] D) $1,0$ <!-- feedback: Essa razão faria a diferença ser 400. -->
 
 ### Explicacion Pedagogica
-Existem 50 termos ímpares ($a_1, a_3, ..., a_{99}$) e 50 termos pares ($a_2, a_4, ..., a_{100}$). Cada termo par pode ser escrito como $a_{2k} = a_{2k-1} + r$. Somando todos os 50 pares: $\sum a_{par} = \sum (a_{impar} + r) = \sum a_{impar} + 50r$. Logo, $S_{par} = 500 + 50 \cdot 2 = 600$.
-
+Os 20 primeiros termos somam 100 e os últimos somam 300. Ao compararmos cada termo: o 21º é $a_{21} = a_1 + 20r$, o 22º é $a_2 = a_2 + 20r$, etc. A diferença entre os blocos (300 - 100 = 200) decorre do acréscimo de $20r$ em cada um dos 20 termos. Assim, $20 \cdot 20r = 200 \Rightarrow 400r = 200 \Rightarrow r = 0,5$.
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** No vestibular do ITA, avalia-se a capacidade de relacionar PA com geometria plana.
+**Contexto:** Um estudante de arquitetura cria um polígono onde a medida de cada lado, em centímetros, forma uma progressão aritmética crescente.
 
 ### Enunciado
-As medidas dos lados de um triângulo retângulo estão em PA. Se a área do triângulo é 24, qual é o valor da hipotenusa?
+O polígono tem 5 lados (pentágono) e seu perímetro é de 60 cm. O maior lado é o triplo do menor lado. Qual é a medida do menor lado?
 
 ### Opciones
-- [ ] A) 6 <!-- feedback: Este seria o cateto menor. -->
-- [ ] C) 8 <!-- feedback: Este seria o cateto maior. -->
-- [x] B) 10 <!-- feedback: Lados: (x-r, x, x+r). Pelo teorema de Pitágoras: (x-r)² + x² = (x+r)² => x = 4r. Lados: 3r, 4r, 5r. Área = (3r*4r)/2 = 6r² = 24 => r=2. Hipotenusa = 5r = 10. -->
-- [ ] D) 12 <!-- feedback: A área de 24 com catetos em PA 3r e 4r dá 6r^2 = 24, logo r = 2. A hipotenusa é o terceiro termo da PG-like progressão, isto é 5r = 10, e não 12. -->
+- [ ] A) 4 cm <!-- feedback: Se o menor for 4, o maior é 12. A média é 8, logo a soma dos 5 é 40. -->
+- [x] B) 6 cm <!-- feedback: Correto. O termo central é a3 = 60/5 = 12. O maior a5=3*a1. a1+a5=2*a3=24. a1+3a1=24 => 4a1=24 => a1=6. -->
+- [ ] C) 8 cm <!-- feedback: A soma ultrapassaria o perímetro. -->
+- [ ] D) 10 cm <!-- feedback: A soma não bateria com 60 e a restrição de que o maior é triplo. -->
 
 ### Explicacion Pedagogica
-Lados em PA: $x-r, x, x+r$. No triângulo retângulo, $(x-r)^2 + x^2 = (x+r)^2 \Rightarrow x^2 - 2xr + r^2 + x^2 = x^2 + 2xr + r^2 \Rightarrow x^2 = 4xr \Rightarrow x = 4r$ (pois $x \neq 0$). Os lados são $3r, 4r$ e $5r$. Área = $\frac{3r \cdot 4r}{2} = 6r^2$. Como Área = 24, $r^2 = 4 \Rightarrow r = 2$. Hipotenusa = $5 \cdot 2 = 10$.
-
+A soma dos 5 termos é $60$, logo o termo médio $a_3 = 60 / 5 = 12$. Sabemos que a soma dos extremos é igual ao dobro do médio: $a_1 + a_5 = 2 \cdot 12 = 24$. Como $a_5 = 3a_1$, temos $a_1 + 3a_1 = 24 \Rightarrow 4a_1 = 24 \Rightarrow a_1 = 6$ cm.
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W09-progressao-aritmetica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático estuda o comportamento da soma dos inversos dos termos de uma PA, aproximando-se do conceito de série harmônica.
+**Contexto:** Na área de controle de produção no Rio de Janeiro, um auditor modela o desperdício diário como uma soma complexa.
 
 ### Enunciado
-Considere uma PA onde a soma dos $n$ primeiros termos é $S_n = 3n^2 + n$. Determine o termo $a_{10}$.
+A soma dos $n$ primeiros termos de uma sequência segue a lei $S_n = 5n^2 - 2n$. Para que essa sequência seja uma PA, qual deve ser o seu 4º termo ($a_4$)?
 
 ### Opciones
-- [ ] A) 310 <!-- feedback: Este é o valor de S10, não do termo a10. -->
-- [x] B) 58 <!-- feedback: a10 = S10 - S9 = (3*100+10) - (3*81+9) = 310 - 252 = 58. -->
-- [ ] C) 60 <!-- feedback: Cálculo incorreto da diferença entre as somas. -->
-- [ ] D) 61 <!-- feedback: Cálculo incorreto. -->
+- [ ] A) 32 <!-- feedback: Um valor próximo, mas faltou calcular a_n corretamente. -->
+- [x] B) 33 <!-- feedback: Correto. a4 = S4 - S3 = (5*16 - 8) - (5*9 - 6) = 72 - 39 = 33. -->
+- [ ] C) 34 <!-- feedback: Erro pequeno de subtração nas expressões. -->
+- [ ] D) 35 <!-- feedback: Erro ao calcular as potências e subtrações. -->
 
 ### Explicacion Pedagogica
-O termo de posição $n$ pode ser encontrado pela diferença entre a soma dos $n$ primeiros e a soma dos $n-1$ primeiros: $a_n = S_n - S_{n-1}$.
-Para $n=10$: $a_{10} = S_{10} - S_9$.
-$S_{10} = 3(10)^2 + 10 = 310$.
-$S_9 = 3(9)^2 + 9 = 243 + 9 = 252$.
-$a_{10} = 310 - 252 = 58$.
+O enésimo termo é sempre a diferença das somas consecutivas: $a_n = S_n - S_{n-1}$. Para encontrar o $a_4$, calculamos $S_4$ e $S_3$. $S_4 = 5(4)^2 - 2(4) = 5(16) - 8 = 80 - 8 = 72$. $S_3 = 5(3)^2 - 2(3) = 5(9) - 6 = 45 - 6 = 39$. Portanto, $a_4 = 72 - 39 = 33$.
