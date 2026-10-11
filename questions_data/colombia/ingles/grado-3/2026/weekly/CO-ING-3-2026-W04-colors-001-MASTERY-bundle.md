@@ -30,20 +30,20 @@ creador: "Jules-Agent"
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What is the English word for the color of a sweet apple or a strawberry?
 
 ### Opciones
-- [x] A) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] B) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] C) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] D) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] A) red
+  <!-- feedback: Correct! The color 'red' is the word for the color of a sweet apple or a strawberry. -->
+- [ ] B) big
+  <!-- feedback: The word 'big' describes the size of something, not its color. -->
+- [ ] C) happy
+  <!-- feedback: The word 'happy' describes a feeling, not the color of a fruit. -->
+- [ ] D) slow
+  <!-- feedback: The word 'slow' describes how fast something moves, it is not a color. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The word 'red' is used to describe the color of objects like a strawberry or an apple. This is an important basic vocabulary word in English for identifying things.
 ---
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v2
@@ -53,20 +53,20 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+What is the English word for the color of the sky on a sunny day?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [x] B) blue
+  <!-- feedback: Correct! The word 'blue' is the name of the color of the clear sky. -->
+- [ ] A) small
+  <!-- feedback: The word 'small' is an adjective that talks about size, not the color of the sky. -->
+- [ ] C) angry
+  <!-- feedback: The word 'angry' is an emotion, which does not tell us what color something is. -->
+- [ ] D) sad
+  <!-- feedback: The word 'sad' describes how someone feels, it is not a color word. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The word 'blue' is used to describe the color of objects such as the sky or the ocean. This basic vocabulary word is essential for early learners in English.
 ---
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v3
@@ -76,20 +76,20 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the English word for the color of a school bus or a ripe banana?
 
 ### Opciones
-- [x] C) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] C) yellow
+  <!-- feedback: Correct! The word 'yellow' correctly identifies the color of a school bus or a ripe banana. -->
+- [ ] A) fast
+  <!-- feedback: The word 'fast' describes speed, it does not describe the color of an object. -->
+- [ ] B) tall
+  <!-- feedback: The word 'tall' describes the height of something, not its color. -->
+- [ ] D) sweet
+  <!-- feedback: The word 'sweet' tells us how something tastes, it does not name a color. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The word 'yellow' is a common adjective used to describe the color of things like the sun or a banana. Knowing these basic colors helps children describe the world around them.
 ---
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v4
@@ -99,20 +99,20 @@ The word 'destination' is used to describe the place to which someone or somethi
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What is the English word for the color of the grass and the leaves on a healthy tree?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [x] A) green
+  <!-- feedback: Correct! The word 'green' is the color of healthy leaves and grass in nature. -->
+- [ ] B) cold
+  <!-- feedback: The word 'cold' is about temperature, not about the visual color of grass. -->
+- [ ] C) hot
+  <!-- feedback: The word 'hot' tells us if something is warm, but it is not a color word. -->
+- [ ] D) soft
+  <!-- feedback: The word 'soft' describes how something feels to the touch, not its color. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The word 'green' is an important color word that is frequently used to describe plants and nature. Identifying environmental colors is a key part of basic English vocabulary.
 ---
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v5
@@ -122,20 +122,20 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What is the English word for the color of a carrot or a pumpkin?
 
 ### Opciones
-- [x] A) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] B) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [x] A) orange
+  <!-- feedback: Correct! The word 'orange' names the color that we see in carrots and pumpkins. -->
+- [ ] B) loud
+  <!-- feedback: The word 'loud' describes a sound that is very strong, it does not describe a color. -->
+- [ ] C) quiet
+  <!-- feedback: The word 'quiet' means there is very little noise, which is not related to colors. -->
+- [ ] D) hard
+  <!-- feedback: The word 'hard' describes how difficult or solid something is, not its color. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The word 'orange' is used as both the name of a fruit and a color. Learning to associate this color with common objects like carrots is fundamental for third graders.
 ---
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v6
@@ -145,20 +145,20 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+What is the English word for the color of grapes or an eggplant?
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [x] D) purple
+  <!-- feedback: Correct! The word 'purple' correctly identifies the color of many grapes and eggplants. -->
+- [ ] A) short
+  <!-- feedback: The word 'short' describes length or height, it is not a color. -->
+- [ ] B) clean
+  <!-- feedback: The word 'clean' means something has no dirt, it does not answer what color it is. -->
+- [ ] C) dirty
+  <!-- feedback: The word 'dirty' means covered in dirt, which tells us the state, not the color. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The word 'purple' is an essential color word for young learners. Recognizing this color helps students describe various fruits and items they see in their daily lives.
 ---
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v7
@@ -168,20 +168,20 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What is the English word for the color of coal or a very dark night sky?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) black
+  <!-- feedback: Correct! The word 'black' describes the dark color of coal or the night sky without stars. -->
+- [ ] B) funny
+  <!-- feedback: The word 'funny' describes something that makes you laugh, not a color. -->
+- [ ] C) brave
+  <!-- feedback: The word 'brave' is used to describe someone who has courage, it is not a color. -->
+- [ ] D) tired
+  <!-- feedback: The word 'tired' describes feeling sleepy, which does not relate to colors. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The word 'black' is used to describe the darkest color we can see. This basic word is necessary for students to accurately describe animals, objects, and the sky at night.
 ---
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W04-colors-001-MASTERY-bundle-v8
@@ -191,17 +191,17 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What is the English word for the color of snow, milk, or a cloud?
 
 ### Opciones
-- [x] C) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] C) white
+  <!-- feedback: Correct! The word 'white' is the color of things like clean snow and cold milk. -->
+- [ ] A) round
+  <!-- feedback: The word 'round' describes the shape of a circle or a ball, not its color. -->
+- [ ] B) heavy
+  <!-- feedback: The word 'heavy' tells us how much something weighs, it does not describe a color. -->
+- [ ] D) light
+  <!-- feedback: While 'light' can mean not heavy, as a standalone word it does not name the color of milk. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The word 'white' is a fundamental color word used to describe snow, milk, and clouds. Practicing this vocabulary helps students identify and name common objects in their environment.
