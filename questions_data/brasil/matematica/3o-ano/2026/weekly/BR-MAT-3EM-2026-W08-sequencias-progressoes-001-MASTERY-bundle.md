@@ -24,382 +24,457 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante em São Paulo está introduzindo o estudo de sequências numéricas e suas leis de formação.
+**Contexto:** Um agrônomo no interior do Paraná observa que o número de pragas em uma plantação segue uma certa lei de formação se não for feito o controle.
 
 ### Enunciado
-O que define uma sequência numérica na matemática?
+Qual das alternativas abaixo descreve corretamente o conceito de sequência numérica em um estudo como esse?
 
 ### Opciones
-- [ ] A) Uma lista de números aleatórios sem relação entre si. <!-- feedback: Sequências matemáticas seguem uma ordem ou lei específica. -->
-- [x] D) Uma sucessão de números dispostos em uma ordem determinada. <!-- feedback: Correto. Uma sequência é uma função cujo domínio é o conjunto dos números naturais. -->
-- [ ] B) Um conjunto de números que sempre termina em zero. <!-- feedback: Sequências podem ser infinitas e ter qualquer comportamento. -->
-- [ ] C) Apenas as listas de números que crescem constantemente. <!-- feedback: Existem sequências decrescentes, oscilantes e constantes. -->
+- [ ] A) Uma tabela desordenada de valores observados ao acaso. <!-- feedback: Incorreto. Uma sequência segue uma ordem determinada e não é desordenada. -->
+- [ ] B) Um conjunto finito de valores que nunca mudam com o tempo. <!-- feedback: Incorreto. Sequências podem ser infinitas e seus valores podem variar. -->
+- [ ] C) Um gráfico onde os pontos são ligados aleatoriamente sem qualquer padrão. <!-- feedback: Incorreto. Sequências possuem uma estrutura matemática ou padrão lógico. -->
+- [x] D) Um conjunto de elementos matemáticos, como números reais, dispostos em uma ordem bem definida. <!-- feedback: Correto. Formalmente, é uma função cujo domínio é o conjunto dos números naturais. -->
 
 ### Explicacion Pedagogica
-Uma sequência numérica é um conjunto de números reais dispostos em uma ordem específica, geralmente denotados por $(a_1, a_2, a_3, ..., a_n, ...)$, onde cada $a_i$ representa um termo da sucessão ocupando a posição $i$.
+Uma sequência numérica (ou sucessão) é um conjunto de números reais dispostos em uma certa ordem. Ela pode ser finita ou infinita, e sua ordem bem definida (primeiro termo, segundo termo, etc.) permite modelar processos ordenados, como o crescimento populacional observado por um biólogo ou engenheiro agrônomo.
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Em uma aula no Rio de Janeiro, o professor apresenta a famosa Sequência de Fibonacci, presente em diversos fenômenos da natureza.
+**Contexto:** Um arquiteto em Recife projeta um mosaico para uma praça, onde as quantidades de pastilhas de cada cor seguem a famosa Sequência de Fibonacci $(1, 1, 2, 3, 5, 8, ...)$.
 
 ### Enunciado
-Na Sequência de Fibonacci $(1, 1, 2, 3, 5, 8, ...)$, como é obtido cada termo a partir do terceiro?
+Nessa sequência utilizada pelo arquiteto, qual é a regra matemática de formação a partir do terceiro termo?
 
 ### Opciones
-- [ ] A) Multiplicando o termo anterior por 2. <!-- feedback: Esta seria uma progressão geométrica. -->
-- [ ] B) Somando um valor constante ao termo anterior. <!-- feedback: Esta seria uma progressão aritmética. -->
-- [x] C) Somando os dois termos imediatamente anteriores. <!-- feedback: Correto. a_n = a_{n-1} + a_{n-2}. -->
-- [ ] D) Elevando o termo anterior ao quadrado. <!-- feedback: Não. Cada termo é a soma dos dois anteriores, e não o quadrado do termo anterior. -->
+- [ ] A) Cada termo é o dobro do termo imediatamente anterior. <!-- feedback: Incorreto. O dobro de 2 seria 4, mas o termo seguinte é 3. -->
+- [ ] B) Cada termo é a diferença entre o termo anterior e o primeiro termo da sequência. <!-- feedback: Incorreto. A diferença daria valores menores, contrariando o crescimento da sequência. -->
+- [x] C) Cada termo é obtido pela soma dos dois termos imediatamente anteriores a ele. <!-- feedback: Correto. O termo $a_n$ é igual a $a_{n-1} + a_{n-2}$, para $n \ge 3$. -->
+- [ ] D) Cada termo é a soma de todos os termos anteriores da sequência. <!-- feedback: Incorreto. Se fosse assim, o quinto termo seria 1+1+2+3 = 7, mas ele é 5. -->
 
 ### Explicacion Pedagogica
-A Sequência de Fibonacci é uma sequência recursiva clássica. Após os dois primeiros termos (ambos iguais a 1), cada novo número é a soma dos seus dois antecessores diretos: $1+1=2, 1+2=3, 2+3=5, 3+5=8$, e assim por diante.
+A Sequência de Fibonacci é um dos exemplos mais célebres de sequência definida por recorrência. Seus dois primeiros termos são $a_1 = 1$ e $a_2 = 1$. A partir do terceiro ($n \ge 3$), a regra de formação é $a_n = a_{n-1} + a_{n-2}$. Por isso, o terceiro termo é $1+1=2$, o quarto é $1+2=3$, o quinto é $2+3=5$, e assim por diante.
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um analista de sistemas em Brasília cria uma sequência para gerar códigos de identificação de usuários.
+**Contexto:** Um desenvolvedor de software em Florianópolis cria uma senha criptográfica utilizando a sequência cujo termo geral é dado por $a_n = 2n + 3$, para $n \in \mathbb{N}^*$.
 
 ### Enunciado
-Dada a lei de formação $a_n = 3n + 2$, qual é o quarto termo ($a_4$) desta sequência?
+Quais são os três primeiros termos da sequência usada na criação da senha?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: 3 * 4 é 12, mas esqueceu de somar o 2. -->
-- [x] C) 14 <!-- feedback: a_4 = 3(4) + 2 = 12 + 2 = 14. -->
-- [ ] B) 9 <!-- feedback: Valor incorreto para a posição n=4. -->
-- [ ] D) 17 <!-- feedback: Este seria o quinto termo (n=5). -->
+- [ ] A) 2, 5 e 8. <!-- feedback: Incorreto. O primeiro termo ($n=1$) é $2(1)+3=5$, não 2. -->
+- [ ] B) 3, 5 e 7. <!-- feedback: Incorreto. Substituindo $n=1$, o valor correto é 5, não 3. -->
+- [x] C) 5, 7 e 9. <!-- feedback: Correto. Para $n=1$, $a_1=5$; para $n=2$, $a_2=7$; para $n=3$, $a_3=9$. -->
+- [ ] D) 5, 8 e 11. <!-- feedback: Incorreto. A razão da progressão seria 3, mas pela fórmula a razão é 2. -->
 
 ### Explicacion Pedagogica
-Para encontrar um termo específico em uma sequência definida por uma fórmula geral, substituímos $n$ pela posição desejada. No caso, $a_4 = 3 \cdot 4 + 2 = 14$.
+A sequência tem sua lei de formação dada por $a_n = 2n + 3$. Para encontrar os três primeiros termos, substituímos $n$ por 1, 2 e 3:
+$a_1 = 2(1) + 3 = 5$
+$a_2 = 2(2) + 3 = 7$
+$a_3 = 2(3) + 3 = 9$
+Portanto, os termos são 5, 7 e 9, formando uma progressão aritmética de razão 2.
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um arquiteto em Curitiba projeta uma escadaria onde a altura dos degraus segue uma progressão simples.
+**Contexto:** Em um condomínio em Manaus, o síndico percebeu que o consumo de água, em metros cúbicos, aumentou mensalmente seguindo a sequência dada por $C_n = n^2 - 1$, onde $n$ indica o mês de observação ($n \ge 1$).
 
 ### Enunciado
-Qual é a razão ($r$) da Progressão Aritmética (PA) definida pela sequência $(7, 12, 17, 22, ...)$?
+Qual será o consumo registrado no quinto mês de observação?
 
 ### Opciones
-- [ ] A) 7 <!-- feedback: Este é o primeiro termo, não a razão. -->
-- [x] D) 5 <!-- feedback: r = 12 - 7 = 5. A diferença entre termos consecutivos é constante e igual a 5. -->
-- [ ] B) 19 <!-- feedback: A razão é a diferença entre termos consecutivos: 12 − 7 = 5, e não 19. -->
-- [ ] C) -5 <!-- feedback: A sequência é crescente, logo a razão deve ser positiva. -->
+- [ ] A) 9. <!-- feedback: Incorreto. Este seria o consumo no terceiro mês. -->
+- [ ] B) 15. <!-- feedback: Incorreto. Este seria o consumo no quarto mês ($16-1$). -->
+- [ ] C) 20. <!-- feedback: Incorreto. A conta correta é $5^2 - 1 = 25 - 1 = 24$. -->
+- [x] D) 24. <!-- feedback: Correto. Substituindo $n=5$ na fórmula, temos $C_5 = 5^2 - 1 = 25 - 1 = 24$. -->
 
 ### Explicacion Pedagogica
-Em uma Progressão Aritmética, a razão é a diferença constante entre qualquer termo (a partir do segundo) e seu antecessor: $r = a_2 - a_1 = a_3 - a_2$. Aqui, $12 - 7 = 5$.
+Para determinar um termo específico de uma sequência quando conhecemos sua lei de formação (termo geral), basta substituir a variável $n$ pela posição desejada. Para o quinto mês, temos $n = 5$.
+Substituindo na fórmula do consumo, temos:
+$C_5 = 5^2 - 1 = 25 - 1 = 24$. Logo, o consumo no mês 5 será de 24 metros cúbicos.
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um biólogo em Manaus estuda o crescimento de uma população de formigas que triplica a cada observação.
+**Contexto:** Uma fábrica de móveis em Bento Gonçalves aumenta a produção de cadeiras semanalmente. Na primeira semana foram produzidas 100 cadeiras; na segunda, 110; na terceira, 120, mantendo esse padrão.
 
 ### Enunciado
-Considere a Progressão Geométrica (PG) $(2, 6, 18, 54, ...)$. Qual é a razão ($q$) desta progressão?
+Considerando a produção dessa fábrica como uma Progressão Aritmética, qual é o valor da razão $r$?
 
 ### Opciones
-- [ ] B) 4 <!-- feedback: 4 é a diferença, mas em PG buscamos o quociente (razão multiplicativa). -->
-- [ ] C) 2 <!-- feedback: Este é o primeiro termo da sequência. -->
-- [x] A) 3 <!-- feedback: q = 6 / 2 = 3. Cada termo é o anterior multiplicado por 3. -->
-- [ ] D) 12 <!-- feedback: Em uma PG a razão é o quociente entre termos consecutivos: 6 ÷ 2 = 3, e não 12. -->
+- [x] A) 10. <!-- feedback: Correto. A diferença entre um termo e seu antecessor é $110 - 100 = 10$. -->
+- [ ] B) 20. <!-- feedback: Incorreto. A produção cresce 10 a cada semana, não 20. -->
+- [ ] C) 100. <!-- feedback: Incorreto. 100 é o primeiro termo, não a razão. -->
+- [ ] D) 110. <!-- feedback: Incorreto. 110 é o segundo termo, e não a razão de crescimento. -->
 
 ### Explicacion Pedagogica
-Em uma Progressão Geométrica, a razão é o quociente constante entre um termo e o seu anterior: $q = a_2 / a_1$. No exemplo: $6 / 2 = 3$.
+Uma Progressão Aritmética (PA) é uma sequência onde cada termo, a partir do segundo, é obtido somando-se ao termo anterior uma constante chamada razão ($r$). Podemos encontrar $r$ fazendo a subtração entre um termo e seu antecessor imediato:
+$r = a_2 - a_1 = 110 - 100 = 10$.
+Assim, a razão do aumento na produção de cadeiras é 10.
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um programador em Belo Horizonte utiliza uma sequência definida recursivamente para controlar a animação de um objeto em um jogo.
+**Contexto:** Um maratonista em Belo Horizonte aumenta a distância que corre a cada dia de treinamento. Ele anota as distâncias (em km) que formam a PA: $(3, 7, 11, ...)$.
 
 ### Enunciado
-Seja uma sequência onde $a_1 = 5$ e $a_{n+1} = a_n - 3$. Qual é o terceiro termo desta sequência?
+Quantos quilômetros ele correrá no décimo dia de treinamento?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Este é o segundo termo (5 - 3). -->
-- [x] D) -1 <!-- feedback: a1 = 5; a2 = 5 - 3 = 2; a3 = 2 - 3 = -1. -->
-- [ ] B) 8 <!-- feedback: A sequência está subtraindo valores, não somando. -->
-- [ ] C) -4 <!-- feedback: Este seria o quarto termo. -->
+- [ ] A) 27. <!-- feedback: Incorreto. Esse valor corresponde à distância do sétimo dia de treinamento. -->
+- [ ] B) 31. <!-- feedback: Incorreto. Esse valor corresponde ao oitavo dia de treinamento. -->
+- [ ] C) 35. <!-- feedback: Incorreto. Esse valor corresponde ao nono dia de treinamento. -->
+- [x] D) 39. <!-- feedback: Correto. Usando a fórmula do termo geral, $a_{10} = 3 + (10-1) \times 4 = 39$. -->
 
 ### Explicacion Pedagogica
-Trata-se de uma definição recursiva. Partimos de $a_1 = 5$. Aplicamos a regra para achar $a_2$: $5 - 3 = 2$. Aplicamos novamente para achar $a_3$: $2 - 3 = -1$.
+Temos uma PA onde o primeiro termo é $a_1 = 3$ e a razão é $r = 7 - 3 = 4$.
+Para calcular o termo do décimo dia ($a_{10}$), aplicamos a fórmula do termo geral da PA:
+$a_n = a_1 + (n-1)r$
+$a_{10} = 3 + (10-1) \times 4$
+$a_{10} = 3 + 9 \times 4 = 3 + 36 = 39$.
+Portanto, no décimo dia ele correrá 39 km.
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um engenheiro em Salvador projeta o empilhamento de tubos onde cada camada tem um número fixo de tubos a menos que a anterior.
+**Contexto:** Uma costureira em Fortaleza está produzindo sacolas ecológicas. Ela produz 15 sacolas no primeiro dia, 18 no segundo, 21 no terceiro e assim por diante.
 
 ### Enunciado
-Numa PA de primeiro termo $a_1 = 10$ e razão $r = 4$, qual é o vigésimo termo ($a_{20}$)?
+Em qual dia de produção ela atingirá a marca de exatamente 42 sacolas produzidas naquele único dia?
 
 ### Opciones
-- [ ] B) 90 <!-- feedback: Cálculo incorreto do termo geral. -->
-- [x] A) 86 <!-- feedback: a_20 = a1 + (20-1)r = 10 + 19 * 4 = 10 + 76 = 86. -->
-- [ ] C) 80 <!-- feedback: Esqueceu de considerar o primeiro termo ou usou n em vez de n-1. -->
-- [ ] D) 76 <!-- feedback: Este é apenas o valor do acréscimo total (19 * 4). -->
+- [x] A) 10º dia. <!-- feedback: Correto. Resolvendo $42 = 15 + (n-1)3$, temos $n = 10$. -->
+- [ ] B) 9º dia. <!-- feedback: Incorreto. No nono dia, ela produzirá $15 + 8 \times 3 = 39$ sacolas. -->
+- [ ] C) 11º dia. <!-- feedback: Incorreto. No décimo primeiro dia, a produção será de 45 sacolas. -->
+- [ ] D) 12º dia. <!-- feedback: Incorreto. Substituindo $n=12$, a produção diária seria de 48 sacolas. -->
 
 ### Explicacion Pedagogica
-Usamos a fórmula do termo geral da PA: $a_n = a_1 + (n-1) \cdot r$. Substituindo os valores conhecidos: $a_{20} = 10 + (20-1) \cdot 4 = 10 + 19 \cdot 4 = 10 + 76 = 86$.
+A produção forma uma PA com primeiro termo $a_1 = 15$ e razão $r = 18 - 15 = 3$. Queremos achar a posição $n$ para a qual $a_n = 42$.
+Pela fórmula $a_n = a_1 + (n-1)r$, substituímos os valores:
+$42 = 15 + (n-1)3$
+$27 = 3(n-1)$
+$n-1 = 9$
+$n = 10$.
+Logo, a costureira fará 42 sacolas no seu 10º dia de trabalho.
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um investidor em Goiânia aplica um capital em um regime onde o saldo cresce conforme uma PG de razão 2.
+**Contexto:** Um analista financeiro de São Paulo estuda a depreciação do valor de um equipamento que sofre desvalorização constante todo ano. O valor nos anos segue uma PA, sendo $a_3 = 8000$ reais e $a_7 = 6400$ reais.
 
 ### Enunciado
-Dada a PG $(5, 10, 20, ...)$, qual é o sétimo termo ($a_7$)?
+Qual é a taxa de desvalorização anual (razão da PA) e o valor inicial do equipamento ($a_1$)?
 
 ### Opciones
-- [x] C) 320 <!-- feedback: a7 = a1 * q^(7-1) = 5 * 2⁶ = 5 * 64 = 320. -->
-- [ ] A) 160 <!-- feedback: Este é o sexto termo. -->
-- [ ] B) 640 <!-- feedback: Este seria o oitavo termo. -->
-- [ ] D) 80 <!-- feedback: Este é o quinto termo. -->
+- [ ] A) Razão = $-300$; Valor inicial = $8600$. <!-- feedback: Incorreto. Se a razão fosse $-300$, $a_3$ seria $8600 - 600 = 8000$, mas $a_7$ seria $8600 - 1800 = 6800 \neq 6400$. -->
+- [ ] B) Razão = $-500$; Valor inicial = $9000$. <!-- feedback: Incorreto. O sistema resulta em razão de $-400$, não $-500$. -->
+- [x] C) Razão = $-400$; Valor inicial = $8800$. <!-- feedback: Correto. A diferença de 4 termos dá $6400 - 8000 = -1600$, logo $r = -400$. $a_1 = 8000 - 2(-400) = 8800$. -->
+- [ ] D) Razão = $-200$; Valor inicial = $8400$. <!-- feedback: Incorreto. Se $r=-200$, a desvalorização em 4 anos seria apenas de $800$ reais. -->
 
 ### Explicacion Pedagogica
-Usamos a fórmula do termo geral da PG: $a_n = a_1 \cdot q^{n-1}$. Aqui $a_1 = 5$ e $q = 10/5 = 2$. Para $n=7$: $a_7 = 5 \cdot 2^{7-1} = 5 \cdot 2^6 = 5 \cdot 64 = 320$.
+Utilizando a propriedade das Progressões Aritméticas, sabemos que $a_7 = a_3 + 4r$.
+Substituindo os valores: $6400 = 8000 + 4r \Rightarrow 4r = -1600 \Rightarrow r = -400$.
+A razão é $-400$, indicando que o equipamento perde $R\$\ 400,00$ por ano de valor.
+Para encontrar o primeiro termo, usamos $a_3 = a_1 + 2r$:
+$8000 = a_1 + 2(-400)$
+$8000 = a_1 - 800 \Rightarrow a_1 = 8800$.
+Portanto, o valor inicial era $R\$\ 8.800,00$.
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Fortaleza desafia os alunos a encontrar o número de termos de uma sequência finita.
+**Contexto:** Em um evento de arrecadação de alimentos em Goiânia, as doações diárias em quilos dobraram a cada dia. No primeiro dia foram doados 10 kg, no segundo 20 kg, no terceiro 40 kg, e assim sucessivamente.
 
 ### Enunciado
-Quantos termos possui a PA finita $(-3, 1, 5, ..., 113)$?
+Que tipo de progressão representa o crescimento das doações e qual sua razão?
 
 ### Opciones
-- [ ] A) 28 <!-- feedback: Erro ao aplicar a fórmula do termo geral. -->
-- [x] C) 30 <!-- feedback: 113 = -3 + (n-1)4 => 116 = 4(n-1) => 29 = n-1 => n = 30. -->
-- [ ] B) 29 <!-- feedback: Esqueceu de somar 1 ao final do isolamento de n. -->
-- [ ] D) 31 <!-- feedback: Cálculo incorreto da razão ou da divisão. -->
+- [ ] A) PA com razão 10. <!-- feedback: Incorreto. Na PA, a diferença é constante, mas de 20 para 40 a diferença é 20. -->
+- [ ] B) PA com razão 2. <!-- feedback: Incorreto. A PA envolve somas, enquanto o problema fala que o valor dobrou (multiplicação). -->
+- [x] C) PG com razão 2. <!-- feedback: Correto. A Progressão Geométrica multiplica o termo anterior por uma constante ($20/10 = 2$). -->
+- [ ] D) PG com razão 10. <!-- feedback: Incorreto. O quociente entre os termos é $20 \div 10 = 2$, e não 10. -->
 
 ### Explicacion Pedagogica
-Identificamos $a_1 = -3$, $r = 1 - (-3) = 4$ e $a_n = 113$. Pela fórmula: $113 = -3 + (n-1) \cdot 4$. Somando 3: $116 = 4(n-1)$. Dividindo por 4: $29 = n - 1$. Logo, $n = 30$.
+Uma Progressão Geométrica (PG) é caracterizada pela razão constante $q$ obtida pela divisão de um termo (a partir do segundo) por seu antecessor. Como os valores dobram ($10, 20, 40, ...$), temos:
+$q = 20 / 10 = 2$ e também $q = 40 / 20 = 2$.
+Assim, a situação descreve uma PG de razão $q = 2$.
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v10
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um arquiteto em Porto Alegre analisa as propriedades de uma sequência que não é nem PA nem PG, mas segue uma regra lógica clara.
+**Contexto:** Uma startup em Salvador percebeu que seu número de usuários triplica a cada semestre. O número inicial de usuários, no primeiro semestre ($a_1$), era de 100 assinantes.
 
 ### Enunciado
-Qual é o próximo termo da sequência $(2, 5, 10, 17, 26, ...)$?
+Quantos assinantes a startup teve no quinto semestre da sua fundação?
 
 ### Opciones
-- [ ] B) 35 <!-- feedback: Diferença constante não se aplica aqui. -->
-- [x] A) 37 <!-- feedback: A sequência segue a lei an = n² + 1. Para n=6: 6² + 1 = 37. Ou as diferenças são 3, 5, 7, 9, logo a próxima é 11: 26+11=37. -->
-- [ ] C) 39 <!-- feedback: A regra é aₙ = n² + 1, então para n = 6 o termo seria 6² + 1 = 37. O valor 39 exigiria uma regra diferente da observada. -->
-- [ ] D) 41 <!-- feedback: As diferenças entre os termos são 3, 5, 7, 9, logo o próximo aumento é 11 e 26 + 11 = 37. O valor 41 corresponderia a um aumento de 15. -->
+- [x] A) 8100. <!-- feedback: Correto. Aplicando $a_5 = 100 \times 3^4$, temos $100 \times 81 = 8100$. -->
+- [ ] B) 2700. <!-- feedback: Incorreto. Esse seria o número de usuários no quarto semestre ($100 \times 3^3$). -->
+- [ ] C) 24300. <!-- feedback: Incorreto. Esse valor corresponderia ao sexto semestre da startup. -->
+- [ ] D) 900. <!-- feedback: Incorreto. Esse é o valor no terceiro semestre. -->
 
 ### Explicacion Pedagogica
-Podemos observar o padrão das diferenças entre termos: $5-2=3, 10-5=5, 17-10=7, 26-17=9$. As diferenças formam uma PA de razão 2. A próxima diferença deve ser 11. Somando ao último termo: $26 + 11 = 37$. Alternativamente, notamos que cada termo é da forma $n^2 + 1$.
+A situação relata uma Progressão Geométrica de primeiro termo $a_1 = 100$ e razão $q = 3$. Queremos descobrir o termo $a_5$.
+A fórmula do termo geral de uma PG é $a_n = a_1 \cdot q^{n-1}$.
+Para $n = 5$:
+$a_5 = 100 \cdot 3^{5-1}$
+$a_5 = 100 \cdot 3^4$
+$a_5 = 100 \cdot 81 = 8100$.
+Portanto, a startup alcançou 8100 assinantes no quinto semestre.
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v11
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um estatístico em São Paulo utiliza a soma de progressões para calcular o total de eventos em um período determinado.
+**Contexto:** Uma prefeitura no Espírito Santo está instalando postes de luz em uma longa avenida. O primeiro poste foi colocado no marco de 50 metros. Do segundo poste em diante, a distância entre um poste e o anterior aumenta em 10 metros progressivamente (1º a 2º = 10m; 2º a 3º = 20m; 3º a 4º = 30m, etc.).
 
 ### Enunciado
-Qual é a soma dos 10 primeiros termos da PA $(2, 5, 8, ...)$?
+Considerando o esquema, qual será a posição, em metros, do 5º poste?
 
 ### Opciones
-- [x] B) 155 <!-- feedback: a10 = 2 + 9*3 = 29. S10 = (a1 + a10) * 10 / 2 = (2 + 29) * 5 = 155. -->
-- [ ] A) 310 <!-- feedback: Esqueceu de dividir por 2 na fórmula da soma da PA. -->
-- [ ] C) 145 <!-- feedback: Erro no cálculo do décimo termo. -->
-- [ ] D) 165 <!-- feedback: Cálculo incorreto da soma. -->
+- [ ] A) 110 metros. <!-- feedback: Incorreto. Você pode ter somado apenas até o 4º poste de forma equivocada. -->
+- [x] B) 150 metros. <!-- feedback: Correto. O 2º está no 60, o 3º no 80, o 4º no 110 e o 5º no 150. -->
+- [ ] C) 180 metros. <!-- feedback: Incorreto. Esta conta inclui uma etapa a mais de espaçamento. -->
+- [ ] D) 90 metros. <!-- feedback: Incorreto. A distância não é constante. É uma progressão das diferenças (PA de segunda ordem). -->
 
 ### Explicacion Pedagogica
-1) Achamos o décimo termo: $a_{10} = 2 + (10-1) \cdot 3 = 2 + 27 = 29$.
-2) Aplicamos a fórmula da soma: $S_n = \frac{(a_1 + a_n) \cdot n}{2}$.
-3) $S_{10} = \frac{(2 + 29) \cdot 10}{2} = 31 \cdot 5 = 155$.
+Temos uma sequência onde a diferença entre termos consecutivos é uma PA:
+$a_1 = 50$ (posição do 1º)
+$a_2 = 50 + 10 = 60$
+$a_3 = 60 + 20 = 80$
+$a_4 = 80 + 30 = 110$
+$a_5 = 110 + 40 = 150$
+Esse é um exemplo clássico de progressão aritmética de 2ª ordem. O 5º poste será colocado a 150 metros do marco zero.
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v12
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático estuda a convergência de séries e a soma de termos de uma PG.
+**Contexto:** Para o lançamento de um foguete experimental em São José dos Campos, a contagem de checagem obedece à equação recursiva $x_{n+1} = 2x_n - 3$, com a condição inicial $x_1 = 4$.
 
 ### Enunciado
-Determine a soma dos 6 primeiros termos da PG $(3, 6, 12, ...)$.
+Qual será o valor do termo $x_4$ nessa sequência de checagem?
 
 ### Opciones
-- [ ] A) 93 <!-- feedback: Valor muito baixo para a soma solicitada. -->
-- [x] D) 189 <!-- feedback: S6 = a1 * (q⁶ - 1) / (q - 1) = 3 * (2⁶ - 1) / (2 - 1) = 3 * 63 = 189. -->
-- [ ] B) 192 <!-- feedback: Este é apenas o sétimo termo da sequência, não a soma. -->
-- [ ] C) 378 <!-- feedback: Com q = 2, a soma dos 6 primeiros termos é 3 + 6 + 12 + 24 + 48 + 96 = 189, e não 378. -->
+- [ ] A) 5. <!-- feedback: Incorreto. Este é o valor de $x_2$, pois $2(4) - 3 = 5$. -->
+- [ ] B) 15. <!-- feedback: Incorreto. O valor seria $2(7) - 3$, que dá 11, não 15. -->
+- [ ] C) 7. <!-- feedback: Incorreto. Este é o valor correspondente a $x_3$, calculado a partir de $x_2$. -->
+- [x] D) 11. <!-- feedback: Correto. $x_2 = 5$, $x_3 = 7$ e $x_4 = 2(7) - 3 = 11$. -->
 
 ### Explicacion Pedagogica
-Usamos a fórmula da soma da PG finita: $S_n = \frac{a_1(q^n - 1)}{q - 1}$. Com $a_1 = 3$ e $q = 2$: $S_6 = \frac{3(2^6 - 1)}{2 - 1} = \frac{3(64 - 1)}{1} = 3 \cdot 63 = 189$.
+Temos uma sequência definida por recorrência onde cada termo depende do anterior. O primeiro é dado: $x_1 = 4$.
+Calculando os próximos passos passo a passo:
+$x_2 = 2x_1 - 3 = 2(4) - 3 = 8 - 3 = 5$.
+$x_3 = 2x_2 - 3 = 2(5) - 3 = 10 - 3 = 7$.
+$x_4 = 2x_3 - 3 = 2(7) - 3 = 14 - 3 = 11$.
+Logo, o quarto termo é 11.
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v13
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um pesquisador em Campinas investiga propriedades de sequências onde os termos dependem de parâmetros desconhecidos.
+**Contexto:** Um agrônomo analisa a produção de maçãs em um pomar na Serra Catarinense, que rendeu 3 toneladas no primeiro ano, 6 no segundo e 12 no terceiro. Ele deseja descobrir quando a produção atingirá 384 toneladas por ano, mantendo o padrão.
 
 ### Enunciado
-Se os números $(x, x+4, 3x)$ formam, nesta ordem, uma Progressão Aritmética, qual é o valor de $x$?
+Em qual ano, a contar do início, o pomar atingirá a produção exata de 384 toneladas?
 
 ### Opciones
-- [ ] A) $x = 2$ <!-- feedback: Se x=2, a sequência é (2, 6, 6), que não é PA. -->
-- [x] C) $x = 4$ <!-- feedback: Na PA: (x+4) - x = 3x - (x+4) => 4 = 2x - 4 => 8 = 2x => x = 4. Seq: (4, 8, 12). -->
-- [ ] B) $x = 8$ <!-- feedback: Se x=8, a sequência é (8, 12, 24), que não é PA. -->
-- [ ] D) $x = 0$ <!-- feedback: Resultaria na sequência (0, 4, 0), que não é PA. -->
+- [ ] A) 6º ano. <!-- feedback: Incorreto. No sexto ano, a produção é de 96 toneladas. -->
+- [ ] B) 7º ano. <!-- feedback: Incorreto. No sétimo ano, a produção atinge 192 toneladas. -->
+- [x] C) 8º ano. <!-- feedback: Correto. A PG tem $a_1=3$ e $q=2$. Igualando $384 = 3 \times 2^{n-1} \Rightarrow 128 = 2^{n-1} \Rightarrow 2^7 = 2^{n-1} \Rightarrow n=8$. -->
+- [ ] D) 9º ano. <!-- feedback: Incorreto. No nono ano a produção seria 768 toneladas. -->
 
 ### Explicacion Pedagogica
-Em uma PA de três termos, o termo médio é a média aritmética dos extremos: $a_2 = (a_1 + a_3) / 2$. Assim, $x + 4 = (x + 3x) / 2 \Rightarrow x + 4 = 4x / 2 \Rightarrow x + 4 = 2x$. Isolando $x$, temos $x = 4$.
+O problema relata uma PG de primeiro termo $a_1 = 3$ e razão $q = 6/3 = 2$.
+Queremos saber o valor de $n$ quando $a_n = 384$.
+Substituindo na fórmula do termo geral $a_n = a_1 \cdot q^{n-1}$:
+$384 = 3 \cdot 2^{n-1}$
+Dividindo ambos os lados por 3:
+$128 = 2^{n-1}$
+Fatorando 128 em base 2, temos $2^7 = 128$.
+Portanto, $2^7 = 2^{n-1} \Rightarrow n-1 = 7 \Rightarrow n = 8$. O nível de produção ocorrerá no 8º ano.
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v14
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Durante uma olimpíada de matemática, os estudantes devem analisar uma sequência de triângulos cujas áreas diminuem em progressão.
+**Contexto:** Um estudante da UNB, em Brasília, propõe uma sequência cujo termo geral seja $a_n = (-1)^n \cdot (n+2)$. Ele quer somar os quatro primeiros termos para um exercício de lógica.
 
 ### Enunciado
-Considere a sequência infinita $(1, 1/2, 1/4, 1/8, ...)$. Qual é o limite da soma de todos os termos desta sequência (soma infinita)?
+Qual é a soma dos 4 primeiros termos dessa sequência?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: A soma ultrapassa 1 logo no segundo termo. -->
-- [x] C) 2 <!-- feedback: S_inf = a1 / (1 - q) = 1 / (1 - 1/2) = 1 / (1/2) = 2. -->
-- [ ] B) A soma é infinita. <!-- feedback: Como |q| < 1, a soma converge para um valor finito. -->
-- [ ] D) 1,5 <!-- feedback: Este é apenas o valor da soma dos dois primeiros termos. -->
+- [ ] A) $-2$. <!-- feedback: Incorreto. Refaça a soma tendo cuidado com a alternância de sinais e valores pares/ímpares. -->
+- [ ] B) 4. <!-- feedback: Incorreto. Os sinais negativos reduzem a soma total, o valor não é positivo. -->
+- [x] C) 2. <!-- feedback: Correto. A soma é $-3 + 4 - 5 + 6 = 2$. -->
+- [ ] D) 0. <!-- feedback: Incorreto. As parcelas não se anulam perfeitamente. -->
 
 ### Explicacion Pedagogica
-Trata-se de uma PG infinita convergente com $a_1 = 1$ e $q = 1/2$. A fórmula para a soma dos termos de uma PG infinita onde $-1 < q < 1$ é $S = \frac{a_1}{1 - q}$. Aplicando: $S = \frac{1}{1 - 0,5} = \frac{1}{0,5} = 2$.
+Calculando os quatro primeiros termos da sequência $a_n = (-1)^n \cdot (n+2)$:
+Para $n=1$: $a_1 = (-1)^1 \cdot (1+2) = -1 \cdot 3 = -3$
+Para $n=2$: $a_2 = (-1)^2 \cdot (2+2) = 1 \cdot 4 = 4$
+Para $n=3$: $a_3 = (-1)^3 \cdot (3+2) = -1 \cdot 5 = -5$
+Para $n=4$: $a_4 = (-1)^4 \cdot (4+2) = 1 \cdot 6 = 6$
+A soma dos quatro termos é: $S = -3 + 4 - 5 + 6 = 1 - 5 + 6 = 2$.
+Portanto, o valor correto é 2.
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v15
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** No vestibular de uma universidade de elite, propõe-se um problema que une os conceitos de PA e PG.
+**Contexto:** Durante uma competição de robótica em Campinas, um robô traça círculos no chão. O raio do primeiro círculo é 10 cm, e cada círculo subsequente tem raio igual à metade do anterior.
 
 ### Enunciado
-Seja $(a_n)$ uma PA tal que $a_1 = 2$ e $r = 3$. Seja $(b_n)$ uma PG tal que $b_1 = a_2$ e $b_2 = a_5$. Qual é o valor de $b_3$?
+Considerando o raio dos círculos, como pode ser descrita a sequência formada e qual a fórmula do raio do n-ésimo círculo ($R_n$)?
 
 ### Opciones
-- [x] A) 39,2 <!-- feedback: a2 = 5, a5 = 14. Razão q = 14/5 = 2,8. b3 = 14 * 2,8 = 39,2. -->
-- [ ] B) 32 <!-- feedback: Valor incorreto para a sequência dada. -->
-- [ ] C) 40,5 <!-- feedback: Cálculo incorreto dos termos da PA. -->
-- [ ] D) 45 <!-- feedback: Erro de cálculo. -->
+- [x] A) PG decrescente; $R_n = 10 \cdot (0,5)^{n-1}$. <!-- feedback: Correto. O primeiro termo é 10 e a razão $q$ é 0,5 (ou 1/2). Como $0 < q < 1$, a PG é decrescente. -->
+- [ ] B) PA decrescente; $R_n = 10 - 0,5n$. <!-- feedback: Incorreto. O raio é multiplicado pela metade, não subtraído, logo não é PA. -->
+- [ ] C) PG oscilante; $R_n = 10 \cdot (-0,5)^{n-1}$. <!-- feedback: Incorreto. O raio nunca será negativo. A razão é positiva (0,5), por isso não é oscilante. -->
+- [ ] D) PG constante; $R_n = 10 \cdot 1^{n-1}$. <!-- feedback: Incorreto. A razão é 1/2 e os valores diminuem, logo a PG não é constante. -->
 
 ### Explicacion Pedagogica
-1) PA: $a_1 = 2, r = 3 \Rightarrow a_2 = 5, a_3 = 8, a_4 = 11, a_5 = 14$.
-2) PG: $b_1 = a_2 = 5, b_2 = a_5 = 14$.
-3) Razão da PG: $q = b_2 / b_1 = 14 / 5 = 2,8$.
-4) Terceiro termo da PG: $b_3 = b_2 \cdot q = 14 \cdot 2,8 = 39,2$.
+Como cada raio é metade do anterior, a progressão é formada pela multiplicação do termo anterior por uma constante ($q = 1/2 = 0,5$). Trata-se de uma Progressão Geométrica.
+O primeiro termo é $R_1 = 10$. A fórmula do termo geral de uma PG é $a_n = a_1 \cdot q^{n-1}$.
+Logo, $R_n = 10 \cdot (0,5)^{n-1}$. Como $a_1 > 0$ e $0 < q < 1$, a progressão caracteriza-se como decrescente, aproximando-se assintoticamente de zero.
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v16
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático investiga o produto dos termos de uma Progressão Geométrica finita.
+**Contexto:** Um banco no Rio de Janeiro cria um novo título de capitalização onde o bônus mensal recebido pelos clientes forma uma PA crescente. Sabe-se que o quinto bônus é $R\$\ 120,00$ e o décimo segundo bônus é $R\$\ 260,00$.
 
 ### Enunciado
-Qual é o produto dos 5 primeiros termos da PG $(2, 4, 8, 16, 32)$?
+Qual o valor da razão do bônus e qual era o bônus no primeiro mês de adesão?
 
 ### Opciones
-- [ ] B) $2^{10}$ <!-- feedback: A soma dos expoentes não é 10. -->
-- [x] A) $2^{15}$ <!-- feedback: P = 2¹ * 2² * 2³ * 2⁴ * 2⁵ = 2^(1+2+3+4+5) = 2^15. -->
-- [ ] C) $2^5$ <!-- feedback: Este é apenas o último termo. -->
-- [ ] D) $2^{20}$ <!-- feedback: A soma dos expoentes de 1 a 5 é 15. -->
+- [x] A) Razão = $R\$\ 20,00$; 1º bônus = $R\$\ 40,00$. <!-- feedback: Correto. $a_{12} = a_5 + 7r \Rightarrow 260 = 120 + 7r \Rightarrow r = 20$. O 1º mês é $a_5 - 4r = 120 - 80 = 40$. -->
+- [ ] B) Razão = $R\$\ 30,00$; 1º bônus = $R\$\ 20,00$. <!-- feedback: Incorreto. A diferença de bônus por 7 meses não daria 140 se a razão fosse 30. -->
+- [ ] C) Razão = $R\$\ 10,00$; 1º bônus = $R\$\ 80,00$. <!-- feedback: Incorreto. Uma razão de 10 geraria um bônus menor no 12º mês. -->
+- [ ] D) Razão = $R\$\ 20,00$; 1º bônus = $R\$\ 20,00$. <!-- feedback: Incorreto. Substituindo a razão para encontrar $a_1$: $120 - (4 \times 20) = 40$. -->
 
 ### Explicacion Pedagogica
-Podemos escrever cada termo como uma potência de 2: $2^1, 2^2, 2^3, 2^4, 2^5$. O produto de potências de mesma base é obtido mantendo a base e somando os expoentes: $1 + 2 + 3 + 4 + 5 = 15$. O resultado é $2^{15} = 32768$.
+Em uma PA, a relação entre o termo 12 e o termo 5 é: $a_{12} = a_5 + 7r$.
+Substituindo os valores do problema: $260 = 120 + 7r$
+$140 = 7r \Rightarrow r = 20$. Assim, a cada mês o bônus aumenta 20 reais.
+Para o primeiro mês ($a_1$), usamos $a_5 = a_1 + 4r$:
+$120 = a_1 + 4(20)$
+$120 = a_1 + 80 \Rightarrow a_1 = 40$.
+O primeiro bônus foi de $R\$\ 40,00$.
 
 ## Question 17 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v17
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Em um laboratório de física, a temperatura de um objeto cai em progressão aritmética.
+**Contexto:** Um pesquisador da área de meteorologia no Rio Grande do Sul desenvolveu um modelo para prever a queda de temperatura em noites de inverno rigoroso. A temperatura (em °C) nas primeiras 4 horas segue a expressão $T(n) = \frac{10}{n+1}$, para $n \in \{1, 2, 3, 4\}$.
 
 ### Enunciado
-Se a temperatura inicial é 100°C e cai 4°C por minuto, qual será a temperatura após 15 minutos?
+Dentre as afirmações abaixo, qual descreve melhor as temperaturas dessa noite?
 
 ### Opciones
-- [ ] B) 44°C <!-- feedback: Os 4°C de queda valem por minuto e não por passo da PG: a queda total em 15 minutos é 15 × 4 = 60, logo 100 − 60 = 40 e não 44. -->
-- [x] A) 40°C <!-- feedback: a16 = 100 + 15 * (-4) = 40. -->
-- [ ] C) 60°C <!-- feedback: Seria o resultado de uma queda de apenas 40°C em 15 minutos, ou seja, algo como 2,67°C por minuto. A queda correta é de 4°C por minuto, o que dá 40°C. -->
-- [ ] D) 36°C <!-- feedback: Com a razão de -4°C por minuto o termo é a₁₆ = 100 + 15·(-4) = 40. O valor 36 exigiria uma queda de 4,27°C por minuto. -->
+- [x] A) As temperaturas foram 5°C, $\approx 3,33$°C, 2,5°C e 2°C. <!-- feedback: Correto. Basta substituir os valores de $n$ de 1 a 4 na expressão $T(n)$. -->
+- [ ] B) A sequência de temperaturas forma uma progressão aritmética. <!-- feedback: Incorreto. A diferença entre os termos não é constante ($5 - 3,33 \neq 3,33 - 2,5$). -->
+- [ ] C) As temperaturas foram 10°C, 5°C, 2,5°C e 1,25°C. <!-- feedback: Incorreto. Esses seriam termos se fosse uma PG de razão 1/2. -->
+- [ ] D) A temperatura decresce formando uma progressão geométrica. <!-- feedback: Incorreto. A razão não é constante ao longo dos termos da sequência. -->
 
 ### Explicacion Pedagogica
-O tempo 0 é a1=100. Após 15 minutos, estamos no termo a16. a16 = 100 + 15*(-4) = 100 - 60 = 40°C.
+Para encontrar as temperaturas, calculamos $T(n)$ para $n = 1, 2, 3, 4$:
+$T(1) = 10 / (1+1) = 5$
+$T(2) = 10 / (2+1) = 10 / 3 \approx 3,33$
+$T(3) = 10 / (3+1) = 10 / 4 = 2,5$
+$T(4) = 10 / (4+1) = 10 / 5 = 2$
+As temperaturas são 5; 3,33; 2,5 e 2.
+Essa sequência não é PA (as diferenças mudam) e nem PG (o quociente muda).
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v18
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático analisa a interpolação geométrica entre dois valores de pressão.
+**Contexto:** Para estimular a leitura, uma biblioteca em Curitiba propõe um desafio: o aluno lê 3 páginas no primeiro dia e, a cada dia seguinte, lê 2 páginas a mais que no dia anterior. A meta é ler um livro de 255 páginas no total de vários dias.
 
 ### Enunciado
-Insira dois meios geométricos entre 3 e 24. Qual é o valor do segundo termo da PG formada?
+Embora a soma dos termos envolva fórmulas que veremos adiante, qual o comportamento do número de páginas lidas DIARIAMENTE?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Se q=2, os meios seriam 6 e 12. Mas 12*2=24, confere. -->
-- [x] C) 6 <!-- feedback: 24 = 3 * q³ => q³ = 8 => q = 2. Termos: 3, 6, 12, 24. O segundo termo é 6. -->
-- [ ] B) 8 <!-- feedback: Com q = 2 a PG é 3, 6, 12, 24 e o segundo termo é 6, não 8. Para obter 8 seria preciso 24 = 3·q³ dar q ≠ 2. -->
-- [ ] D) 9 <!-- feedback: Se o segundo termo fosse 9, a razão seria q = 3 e o quarto termo seria 81, não 24. Com 24 = 3·q³ temos q = 2. -->
+- [ ] A) Ele triplica diariamente (PG). <!-- feedback: Incorreto. O aumento ocorre por meio da adição (2 a mais), não de multiplicação. -->
+- [ ] B) Ele aumenta ao quadrado a cada dia. <!-- feedback: Incorreto. O aumento é constante, de natureza linear (primeiro grau). -->
+- [x] C) Ele forma uma Progressão Aritmética crescente. <!-- feedback: Correto. O número de páginas diárias é $3, 5, 7, 9...$ que é uma PA de razão 2. -->
+- [ ] D) Ele permanece constante (PA de razão nula). <!-- feedback: Incorreto. O estudante lê "2 páginas a mais" a cada dia, então não é constante. -->
 
 ### Explicacion Pedagogica
-Temos a1=3 e a4=24. 24 = 3 * q^3 => q^3 = 8 => q = 2. A PG é (3, 6, 12, 24). O segundo termo é 6.
+Ao lermos o enunciado, notamos que as páginas lidas a cada dia (sem pensar no total acumulado) são: $a_1 = 3$. No segundo dia, ele lê $3 + 2 = 5$. No terceiro, $5 + 2 = 7$, e assim por diante.
+Como a diferença entre qualquer termo e seu antecessor é constante e positiva ($r = 2 > 0$), trata-se da definição de uma Progressão Aritmética crescente.
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um analista financeiro estuda o rendimento de um fundo com ganhos exponenciais.
+**Contexto:** Para entender como espalha um boato na internet, um aluno do ensino médio de Belém modela que 1 pessoa começou o boato ($a_1=1$). Em uma hora, essa pessoa contou para 4 pessoas ($a_2=4$), que na próxima hora contaram para outras 16 ($a_3=16$).
 
 ### Enunciado
-Uma aplicação de R\$ 1.000,00 rende 10\% ao mês. Qual é o montante acumulado após 3 meses?
+Se essa dinâmica fosse exatamente uma PG, quantos novos indivíduos ouviram o boato durante a quinta hora? (Não calcule o total acumulado).
 
 ### Opciones
-- [ ] A) R\$ 1.300,00 <!-- feedback: Este seria o valor com juros simples. -->
-- [x] C) R\$ 1.331,00 <!-- feedback: Com 10% ao mês em juros compostos o montante é 1000·(1,1)³ = 1331. Os 1331 reais Resultam de aplicar o fator três vezes, não apenas uma. -->
-- [ ] B) R\$ 1.210,00 <!-- feedback: Este é o valor após 2 meses. -->
-- [ ] D) R\$ 1.400,00 <!-- feedback: R$ 1.400,00 pressupõe um rendimento de 40% no período, o que não corresponde a 10% ao mês compostos durante três meses (1000·1,1³ = 1331). -->
+- [ ] A) 64. <!-- feedback: Incorreto. 64 é o número de pessoas que ouvem o boato na quarta hora ($a_4 = 4^3$). -->
+- [ ] B) 128. <!-- feedback: Incorreto. Esse valor aconteceria se a base do expoente fosse 2, e não 4. -->
+- [x] C) 256. <!-- feedback: Correto. A sequência de novos ouvintes é $1, 4, 16...$, que é uma PG onde $a_5 = 1 \cdot 4^4 = 256$. -->
+- [ ] D) 1024. <!-- feedback: Incorreto. Esse valor representa o número de ouvintes na sexta hora ($4^5$). -->
 
 ### Explicacion Pedagogica
-Usamos PG com a1=1000 e q=1,1. O montante após 3 meses é o termo a4 = 1000 * (1,1)^3 = 1000 * 1,331 = 1331.
+A situação de novos ouvintes por hora constitui uma Progressão Geométrica cujo primeiro termo é 1 e a razão é $q = 4$.
+Queremos o número na quinta hora, ou seja, $a_5$.
+Aplicando a fórmula $a_n = a_1 \cdot q^{n-1}$, obtemos:
+$a_5 = 1 \cdot 4^{(5-1)}$
+$a_5 = 1 \cdot 4^4 = 256$.
+Portanto, 256 novas pessoas ouvirão o boato durante a quinta hora.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W08-sequencias-progressoes-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Um pesquisador investiga a soma dos quadrados dos termos de uma PA.
+**Contexto:** Um estudante encontra a sequência de números $(2, 6, 12, 20, 30, ...)$ ao estudar os números oblongos (produto de dois inteiros consecutivos, $n(n+1)$).
 
 ### Enunciado
-Dada a PA (1, 3, 5), qual é a soma dos quadrados de seus termos?
+O que se pode afirmar sobre a classificação dessa sequência e qual o seu 6º termo?
 
 ### Opciones
-- [ ] A) 9 <!-- feedback: Soma simples 1+3+5=9. -->
-- [x] B) 35 <!-- feedback: 1² + 3² + 5² = 1 + 9 + 25 = 35. -->
-- [ ] C) 81 <!-- feedback: (1+3+5)² = 81. -->
-- [ ] D) 45 <!-- feedback: Elevando cada termo ao quadrado: 1 + 9 + 25 = 35. Somando os termos antes de elevar, o resultado seria 81. -->
+- [ ] A) É uma PA de razão 4 e o 6º termo é 40. <!-- feedback: Incorreto. A diferença entre os termos não é constante (6-2=4, 12-6=6), então não é PA. -->
+- [x] B) Não é nem PA nem PG, e seu 6º termo é 42. <!-- feedback: Correto. Diferenças e quocientes não são constantes. Pela regra $n(n+1)$, $a_6 = 6 \times 7 = 42$. -->
+- [ ] C) É uma PG de razão 3 e o 6º termo é 42. <!-- feedback: Incorreto. A razão não é constante ($6/2=3$, mas $12/6=2$), então não é PG. -->
+- [ ] D) Não é nem PA nem PG, e seu 6º termo é 36. <!-- feedback: Incorreto. $a_6$ usando a lógica de soma daria $30+12 = 42$, ou usando $n(n+1) = 6 \times 7 = 42$. -->
 
 ### Explicacion Pedagogica
-Elevamos cada termo ao quadrado: 1^2 = 1, 3^2 = 9, 5^2 = 25. Somamos os resultados: 1 + 9 + 25 = 35.
+Analisando as diferenças dos termos: $6-2 = 4$, $12-6 = 6$, $20-12 = 8$, $30-20 = 10$. Elas não são constantes, logo não é PA.
+Analisando os quocientes: $6/2 = 3$, $12/6 = 2$. Eles não são constantes, logo não é PG.
+Trata-se de uma sequência que segue a regra dos números oblongos: $a_n = n(n+1)$.
+Para descobrir o 6º termo ($n=6$): $a_6 = 6(6+1) = 6 \times 7 = 42$. Alternativamente, notando o padrão das somas, $a_6 = 30 + 12 = 42$.
