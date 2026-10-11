@@ -39,6 +39,38 @@ function createBundle(filename, frontmatter, questionCount = 20) {
   fs.writeFileSync(path.join(TEST_DIR, filename), content);
 }
 
+
+function createV52Bundle(filename, qCount, overrideContentFn = null) {
+  let content = '---\n';
+  content += 'id: "test-v52-bundle"\n';
+  content += 'grado: 3\n';
+  content += 'asignatura: "ING"\n';
+  content += 'tema: "Test"\n';
+  content += 'week: "W01"\n';
+  content += 'bundle_index: 1\n';
+  content += 'protocol_version: "5.2"\n';
+  content += 'country: "colombia"\n';
+  content += 'alignment: "Test"\n';
+  content += 'calibration: { difficulty_band: "D3-D4", expected_success: 0.8 }\n';
+  content += '---\n\n';
+
+  for (let i = 1; i <= qCount; i++) {
+    content += `## Question ${i} [D3-D4]\n`;
+    content += `**ID:** \`test-q-v52-${i}\`\n`;
+
+    if (overrideContentFn) {
+       content += overrideContentFn(i);
+    } else {
+       content += `**Expected_Success:** 0.80\n`;
+       content += `### Enunciado\nTest question ${i}\n`;
+       content += `### Opciones\n- [x] A) Opcion A\n- [ ] B) Opcion B\n- [ ] C) Opcion C\n- [ ] D) Opcion D\n`;
+       content += `### Explicacion Pedagogica\nExplicacion basica.\n`;
+    }
+  }
+
+  fs.writeFileSync(path.join(TEST_DIR, filename), content);
+}
+
 function runValidator(cmdArgs, cwd = ROOT) {
   try {
     const output = execSync(`node scripts/validate_content.js ${cmdArgs}`, {
@@ -196,6 +228,72 @@ async function test() {
       console.error('saberparatodos/ output:', res6a.output);
       console.error('repo root output:', res6b.output);
       failures++;
+    }
+
+
+    // Case 7: Explanation prose contains 'opcion correcta' and 'opcion B'. Options are normal.
+    cleanup(); setup();
+    createV52Bundle('case-7-bundle.md', 8, (i) => {
+        return `**Expected_Success:** 0.80\n### Enunciado\nTest question ${i}\n### Opciones\n- [x] A) Option A\n- [ ] B) Option B\n- [ ] C) Option C\n- [ ] D) Option D\n### Explicacion Pedagogica\nEl estudiante debe identificar la opcion correcta y diferenciar de la opcion B que es incorrecta.\n`;
+    });
+
+    const res7 = runValidator('--scope=test_weekly_validation --fail-on-error');
+    if (res7.success && !res7.output.includes('marcada como placeholder') && !res7.output.includes('detectadas=7')) {
+        console.log('✅ Test Case 7 Passed');
+    } else {
+        console.error('❌ Test Case 7 Failed: Expected clean validation, but got:');
+        console.error(res7.output);
+        failures++;
+    }
+
+    // Case 8: Options block contains literal placeholder.
+    cleanup(); setup();
+    createV52Bundle('case-8-bundle.md', 8, (i) => {
+        return `**Expected_Success:** 0.80\n### Enunciado\nTest question ${i}\n### Opciones\n- [x] A) Opcion A\n- [ ] B) Opcion B\n- [ ] C) Opcion C\n- [ ] D) Opcion D\n### Explicacion Pedagogica\nNormal explanation.\n`;
+    });
+
+    const res8 = runValidator('--scope=test_weekly_validation --fail-on-error');
+    if (!res8.success && res8.output.includes('marcada como placeholder')) {
+        console.log('✅ Test Case 8 Passed');
+    } else {
+        console.error('❌ Test Case 8 Failed: Should be a placeholder');
+        console.error(res8.output);
+        failures++;
+    }
+
+    // Case 9: Missing Expected_Success on question 1.
+    cleanup(); setup();
+    createV52Bundle('case-9-bundle.md', 8, (i) => {
+        let text = `### Enunciado\nTest question ${i}\n### Opciones\n- [x] A) Option A\n- [ ] B) Option B\n- [ ] C) Option C\n- [ ] D) Option D\n### Explicacion Pedagogica\nClean explanation.\n`;
+        if (i === 1) {
+             return text;
+        } else {
+             return `**Expected_Success:** 0.80\n` + text;
+        }
+    });
+
+    const res9 = runValidator('--scope=test_weekly_validation --fail-on-error');
+    if (!res9.success && res9.output.includes('missing Expected_Success')) {
+        console.log('✅ Test Case 9 Passed');
+    } else {
+        console.error('❌ Test Case 9 Failed: Expected missing Expected_Success error');
+        console.error(res9.output);
+        failures++;
+    }
+
+    // Case 10: Same as 7 with all Expected_Success. Should pass.
+    cleanup(); setup();
+    createV52Bundle('case-10-bundle.md', 8, (i) => {
+        return `**Expected_Success:** 0.80\n### Enunciado\nTest question ${i}\n### Opciones\n- [x] A) Option A\n- [ ] B) Option B\n- [ ] C) Option C\n- [ ] D) Option D\n### Explicacion Pedagogica\nEl estudiante debe identificar la opcion correcta y diferenciar de la opcion B que es incorrecta.\n`;
+    });
+
+    const res10 = runValidator('--scope=test_weekly_validation --fail-on-error');
+    if (res10.success) {
+        console.log('✅ Test Case 10 Passed');
+    } else {
+        console.error('❌ Test Case 10 Failed');
+        console.error(res10.output);
+        failures++;
     }
 
   } finally {
