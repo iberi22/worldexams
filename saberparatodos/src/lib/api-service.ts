@@ -141,6 +141,21 @@ export async function fetchQuestions(grade: number, subject: string, page: numbe
   return questions;
 }
 
+export async function fetchQuestionAvailability(
+  grade: number,
+  subject: string,
+): Promise<{ status: 'ok' | 'empty' | 'error'; available: number }> {
+  try {
+    const questions = await fetchQuestions(grade, subject, 1);
+    if (!questions || questions.length === 0) {
+      return { status: 'empty', available: 0 };
+    }
+    return { status: 'ok', available: questions.length };
+  } catch (error) {
+    return { status: 'error', available: 0 };
+  }
+}
+
 export async function getAvailableSubjects(grade: number): Promise<string[]> {
   const subjectMap: Record<number, string[]> = {
     3: ['matematicas', 'ingles', 'ciencias_naturales', 'sociales_y_ciudadanas'],
