@@ -84,11 +84,11 @@ El cuerpo de un texto argumentativo se organiza en párrafos que desarrollan la 
 ¿Cuál es la función del párrafo de conclusión en un texto argumentativo?
 
 ### Opciones
-- [x] A) Presentar información nueva que el autor no había querido incluir antes.
+- [ ] A) Presentar información nueva que el autor no había querido incluir antes.
   <!-- feedback: Incorrecto. La conclusión no introduce contenido nuevo, porque en ese caso rompería la organización previa del texto. -->
 - [ ] B) Anticipar los temas que el textoDeveloping abordará en su desarrollo posterior.
   <!-- feedback: Incorrecto. Anticipar el desarrollo es tarea de la introducción, y no de la conclusión. -->
-- [ ] C) Recapitular la postura sostenida y mostrar que las razones presentadas la respaldan.
+- [x] C) Recapitular la postura sostenida y mostrar que las razones presentadas la respaldan.
   <!-- feedback: Correcto: la conclusión cierra el razonamiento y deja fijada la tesis con el apoyo de las razones vistas. -->
 - [ ] D) Enumerar todas las fuentes consultadas, con autor, título y fecha de cada una.
   <!-- feedback: Incorrecto. La enumeración de fuentes corresponde a la referencia del trabajo, y no al párrafo final. -->
@@ -109,13 +109,13 @@ La conclusión cumple una función de cierre argumentativo: recupera la tesis y 
 ¿Por qué los párrafos de contraargumentación suelen aparecer después de los argumentos principales?
 
 ### Opciones
-- [x] B) Porque el autor no los considera importantes, y por eso los deja para el final del texto.
+- [ ] B) Porque el autor no los considera importantes, y por eso los deja para el final del texto.
   <!-- feedback: Incorrecto. La contraargumentación es importante, y por eso mismo se ubica en un lugar estratégico. -->
 - [ ] A) Porque el texto debe terminar siempre con una crítica a las posturas ajenas.
   <!-- feedback: Incorrecto. La contraargumentación no obliga al cierre, y puede aparecer en cualquier momento del cuerpo. -->
 - [ ] C) Porque al final del texto se pueden mencionar sin-named la tesis como un error frecuente.
   <!-- feedback: Incorrecto. La razón no es esa, porque la contraargumentación no es un recurso para corregir a otros autores. -->
-- [ ] D) Porque se necesitan razones y datos, y conviene presentarlos una vez que el lector ya conoce la postura.
+- [x] D) Porque se necesitan razones y datos, y conviene presentarlos una vez que el lector ya conoce la postura.
   <!-- feedback: Correcto: exponerse a las objeciones solo tiene sentido después de que el lector ha entendido la tesis. -->
 
 ### Explicacion Pedagogica
@@ -184,11 +184,11 @@ Una introducción argumentativa cumple tres tareas: contextualizar el problema, 
 Un párrafo de desarrollo que pretende sostener la tesis contiene: un ejemplo, un dato, una anécdota personal y una opinión del autor, sin ninguna relación explícita con la postura. ¿Qué problema tiene ese párrafo?
 
 ### Opciones
-- [x] B) Es demasiado largo, porque los párrafos de desarrollo no deben incluir más de dos ideas.
+- [ ] B) Es demasiado largo, porque los párrafos de desarrollo no deben incluir más de dos ideas.
   <!-- feedback: Incorrecto. La extensión no es el problema, porque un párrafo puede tener varias ideas si se relacionan entre sí. -->
 - [ ] A) Es demasiado corto, porque le falta incluir todas las fuentes consultadas sobre el asunto.
   <!-- feedback: Incorrecto. Un párrafo de desarrollo no tiene la obligación de reunir todas las fuentes del texto. -->
-- [ ] C) Es inefectivo, porque acumula información sin explicitar el nexo que la convierte en razón a favor de la tesis.
+- [x] C) Es inefectivo, porque acumula información sin explicitar el nexo que la convierte en razón a favor de la tesis.
   <!-- feedback: Correcto: sin una relación explícita con la postura, los datos no funcionan como argumentos. -->
 - [ ] D) Es correcto, porque cualquier información incluida en el texto contribuye a sostener la postura.
   <!-- feedback: Incorrecto. La información solo sostiene la postura cuando el lector puede ver por qué la sostiene. -->
@@ -284,11 +284,11 @@ Las oraciones de cierre de párrafo cumplen una función de enlace con la tesis 
 Un texto argumentativo de cuatro páginas comienza con un párrafo que describe la situación del transporte público, pero no enuncia ninguna postura. ¿Qué efecto tiene esa decisión en la organización del texto?
 
 ### Opciones
-- [x] C) Ninguno, porque la tesis puede enunciarse más adelante sin que se pierda la claridad del texto.
+- [ ] C) Ninguno, porque la tesis puede enunciarse más adelante sin que se pierda la claridad del texto.
   <!-- feedback: Incorrecto. La ausencia de tesis en la apertura deja al lector sin una ruta de lectura durante varios párrafos. -->
 - [ ] A) Solo afecta a la extensión, porque el texto necesita más párrafos para compensar la falta de apertura.
   <!-- feedback: Incorrecto. El efecto no es de extensión, sino de comprensión: el lector no sabe qué se defiende. -->
-- [ ] B) Debilita la organización, porque los párrafos siguientes se leen sin un marco que permita valorar su relevancia.
+- [x] B) Debilita la organización, porque los párrafos siguientes se leen sin un marco que permita valorar su relevancia.
   <!-- feedback: Correcto: sin tesis anunciada, el lector no puede distinguir razones de información complementaria. -->
 - [ ] D) Mejora la organización, porque entrar directamente en la descripción evita gastar espacio en preámbulos.
   <!-- feedback: Incorrecto. La economía de espacio no compensa la pérdida de la postura, que es lo que ordena el texto. -->
@@ -359,11 +359,11 @@ La organización de un texto debe respetar una jerarquía informativa coherente 
 Un párrafo afirma que "el uso de pantallas en el aula tiene efectos positivos y negativos" y luego describe cada uno con ejemplos. ¿Qué función tiene en la organización de un texto argumentativo?
 
 ### Opciones
-- [x] D) La de desarrollo argumentativo, porque presenta una razón a favor de la postura sostenida en el texto.
+- [ ] D) La de desarrollo argumentativo, porque presenta una razón a favor de la postura sostenida en el texto.
   <!-- feedback: Incorrecto. El párrafo expone dos caras del asunto, y no sostiene ninguna postura específica del autor. -->
 - [ ] A) La de contraargumentación, porque presenta la postura contraria a la que defiende el autor.
   <!-- feedback: Incorrecto. No hay una postura opuesta, y el párrafo solo describe un fenómeno con sus dos caras. -->
-- [ ] B) Ninguna de las funciones argumentativas, porque el párrafo expone información sin afirmar qué sostiene el autor.
+- [x] B) Ninguna de las funciones argumentativas, porque el párrafo expone información sin afirmar qué sostiene el autor.
   <!-- feedback: Correcto: presentar ambos lados sin tomar partido corresponde a la exposición, y no a la argumentación. -->
 - [ ] C) La de conclusión, porque resume las posturas existentes sobre el asunto tratado en el texto.
   <!-- feedback: Incorrecto. El párrafo no cierra el texto ni recupera la tesis, y se limita a describir el fenómeno. -->
@@ -409,11 +409,11 @@ La conclusión cumple su función cuando recupera lo que el cuerpo del texto ya 
 En un texto argumentativo, el párrafo de contraargumentación aparece antes que cualquier párrafo de desarrollo propio. ¿Qué lectura permite hacer de ese texto?
 
 ### Opciones
-- [x] B) El texto es muy riguroso, porque anticipa las objeciones antes de defender su postura.
+- [ ] B) El texto es muy riguroso, porque anticipa las objeciones antes de defender su postura.
   <!-- feedback: Incorrecto. Anticipar la objeción no es rigor cuando no hay razones previas que la puedan responder. -->
 - [ ] A) El texto es audaz, porque decide comenzar por lo más difícil en lugar de lo más fácil.
   <!-- feedback: Incorrecto. La audacia no es un criterio de organización, y aquí la secuencia impide la respuesta. -->
-- [ ] C) El texto está mal organizado en ese punto, porque la respuesta a la objeción no cuenta con el apoyo que necesita.
+- [x] C) El texto está mal organizado en ese punto, porque la respuesta a la objeción no cuenta con el apoyo que necesita.
   <!-- feedback: Correcto: sin razones desarrolladas antes, la refutación queda sin fundamento y no cumple su función. -->
 - [ ] D) El texto es breve y directo, porque evita la repetición de ideas al tratar la objeción al principio.
   <!-- feedback: Incorrecto. Colocar la objeción al principio no elimina la repetición, y daña la solidez del argumento. -->
@@ -484,11 +484,11 @@ Cuando dos textos sostienen la misma tesis con las mismas razones, la diferencia
 Un texto presenta tres párrafos de contraargumentación, uno de desarrollo y ninguno de conclusión. ¿Qué juicio es más preciso sobre ese texto?
 
 ### Opciones
-- [x] D) El texto es sólido, porque muestra que el autor conoce a fondo las posturas que se oponen a la suya.
+- [ ] D) El texto es sólido, porque muestra que el autor conoce a fondo las posturas que se oponen a la suya.
   <!-- feedback: Incorrecto. Conocer las objeciones es positivo, pero no sustituye al desarrollo de los propios argumentos. -->
 - [ ] A) El texto es sólido, porque responder a más objeciones garantiza que la tesis sea verdadera.
   <!-- feedback: Incorrecto. La cantidad de objeciones respondidas no garantiza la verdad de la tesis, y no la comprueba. -->
-- [ ] B) El texto es desequilibrado, porque invierte la proporción entre refutaciones y razones propias, y cierra sin conclusión.
+- [x] B) El texto es desequilibrado, porque invierte la proporción entre refutaciones y razones propias, y cierra sin conclusión.
   <!-- feedback: Correcto: el texto dedica más espacio a atacar posturas ajenas que a sostener la propia, y no cierra. -->
 - [ ] C) El texto es completo, porque incluye todos los componentes que exige un texto argumentativo.
   <!-- feedback: Incorrecto. Le faltan el desarrollo suficiente y la conclusión, y por eso no está completo. -->

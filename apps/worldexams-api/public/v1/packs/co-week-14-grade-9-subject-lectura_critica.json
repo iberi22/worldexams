@@ -166,13 +166,13 @@
           "letter": "C",
           "text": "«Estoy de acuerdo con el Texto 1, así que no hace falta seguir discutiendo».",
           "is_correct": false,
-          "feedback": "Correcto: acepta el punto válido del contrario y responde con una objeción concreta que el argumento contrario no contempla."
+          "feedback": "Incorrecto. Cedir la discusión por acuerdo no es una contraargumentación: es abandonar el debate."
         },
         {
           "letter": "D",
           "text": "«Es cierto que el parque es barato frente a otras obras, pero ese costo reaparece cada año en mantenimiento y eso el texto no lo considera».",
           "is_correct": true,
-          "feedback": "Incorrecto. Cedir la discusión por acuerdo no es una contraargumentación: es abandonar el debate."
+          "feedback": "Correcto: acepta el punto válido del contrario y responde con una objeción concreta que el argumento contrario no contempla."
         }
       ],
       "correct_answer": "D",
@@ -534,13 +534,13 @@
           "letter": "C",
           "text": "«El debate no sirve para nada», porque dos posiciones opuestas nunca pueden ponerse de acuerdo en nada.",
           "is_correct": false,
-          "feedback": "Correcto: la conclusión recoge lo que ambas posiciones aportan y propone decidir con un criterio verificable."
+          "feedback": "Incorrecto. Declarar que el debate no sirve niega lo que las dos posiciones sí aportan, y no le deja al concejo un criterio para decidir."
         },
         {
           "letter": "D",
           "text": "«Ambas posiciones identifican una condición: la obra funciona si incluye un plan de mantenimiento definido y evaluado».",
           "is_correct": true,
-          "feedback": "Incorrecto. Las posiciones coinciden en que el espacio público importa, y ese acuerdo es un punto de partida."
+          "feedback": "Correcto: la conclusión recoge lo que ambas posiciones aportan y propone decidir con un criterio verificable."
         }
       ],
       "correct_answer": "D",

@@ -205,13 +205,13 @@
         {
           "letter": "B",
           "text": "A que el columnista necesita mostrar el contraste entre lo que se vive y lo que se registra, para sostener su crítica.",
-          "is_correct": false,
+          "is_correct": true,
           "feedback": "Correcto. La frase cierra el contraste entre la experiencia de las familias y la información oficial."
         },
         {
           "letter": "C",
           "text": "A que el columnista debe referirse a un boletín concreto, sin el cual su crítica sería incomprensible.",
-          "is_correct": true,
+          "is_correct": false,
           "feedback": "Incorrecto. La columna no cita ese boletín: la referencia es general y funciona como argumento."
         },
         {
@@ -221,7 +221,7 @@
           "feedback": "Incorrecto. La columna no usa datos: su fuerza está en la observación directa y en el contraste."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "En la columna de opinión, la comparación entre lo que se vive y lo que se registra funciona como argumento. En el Texto 2, la frase sobre el boletín cierra el contraste entre la experiencia de las familias y la información oficial, y con ello refuerza la crítica. Reconocer ese uso del contraste ayuda a distinguir el argumento del dato. En noveno grado, es una clave para leer la prensa sin confundir los dos géneros.",
       "difficulty": "6",
       "images": [],
