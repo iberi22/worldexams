@@ -24,379 +24,377 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante em São Paulo está iniciando o estudo de logaritmos e precisa compreender a definição básica dessa operação.
+**Contexto:** Um estudante de física no Rio de Janeiro estuda escalas de intensidade sonora.
 
 ### Enunciado
-Dada a igualdade $\log_a(b) = x$, qual é a relação exponencial equivalente?
+A definição fundamental do logaritmo relaciona potências e bases. Se $10^3 = 1000$, como essa igualdade é escrita na forma logarítmica?
 
 ### Opciones
-- [ ] A) $x^a = b$ <!-- feedback: O logaritmo busca o expoente, não a base. -->
-- [x] B) $a^x = b$ <!-- feedback: Correto. O logaritmo x é o expoente ao qual devemos elevar a base a para obter o logaritmando b. -->
-- [ ] C) $b^x = a$ <!-- feedback: Incorreto ao trocar as posições da base e do resultado. -->
-- [ ] D) $a \cdot x = b$ <!-- feedback: O logaritmo não é uma operação de multiplicação simples. -->
+- [ ] A) $\log_3(1000) = 10$ <!-- feedback: A base da potência (10) deve ser a base do logaritmo. -->
+- [x] B) $\log_{10}(1000) = 3$ <!-- feedback: Correto, pois a base é 10 e o logaritmo é o expoente 3. -->
+- [ ] C) $\log_{10}(3) = 1000$ <!-- feedback: O resultado da potência deve ser o logaritmando. -->
+- [ ] D) $\log_{1000}(10) = 3$ <!-- feedback: A base do logaritmo é 10, não 1000. -->
 
 ### Explicacion Pedagogica
-O logaritmo é a operação inversa da exponenciação. Dizer que $\log_a(b) = x$ é exatamente o mesmo que dizer que $a^x = b$, respeitando as condições de existência ($a > 0, a \neq 1$ e $b > 0$).
+A definição de logaritmo afirma que $\log_b(a) = c$ é equivalente a $b^c = a$. Na igualdade $10^3 = 1000$, a base é $10$, o expoente (resultado do logaritmo) é $3$, e o resultado (logaritmando) é $1000$. Logo, $\log_{10}(1000) = 3$.
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Em uma aula de química no Rio de Janeiro, os alunos utilizam logaritmos para calcular o pH de uma solução.
+**Contexto:** Um aluno em Belo Horizonte revisa as propriedades básicas dos logaritmos para a prova do ENEM.
 
 ### Enunciado
-Quais são as condições de existência para o logaritmo $\log_a(b)$?
+Para qualquer base $b > 0$ e $b \neq 1$, qual é o valor da expressão $\log_b(1)$?
 
 ### Opciones
-- [ ] A) $a$ e $b$ podem ser quaisquer números reais. <!-- feedback: Existem restrições fundamentais para que o logaritmo seja um número real único. -->
-- [ ] B) $a > 0$ e $b > 1$. <!-- feedback: O logaritmando b pode estar entre 0 e 1. -->
-- [x] C) $a > 0, a \neq 1$ e $b > 0$. <!-- feedback: Correto. A base deve ser positiva e diferente de 1, e o logaritmando deve ser estritamente positivo. -->
-- [ ] D) $a \neq 1$ e $b \geq 0$. <!-- feedback: O logaritmando b não pode ser zero. -->
+- [ ] A) $b$ <!-- feedback: b^b não é igual a 1, exceto para o caso inválido b=1. -->
+- [ ] B) $1$ <!-- feedback: b^1 é igual a b, não 1. -->
+- [x] C) $0$ <!-- feedback: Para toda base permitida, b^0 = 1, logo log_b(1) = 0. -->
+- [ ] D) Não existe. <!-- feedback: O logaritmo de 1 está sempre definido e vale 0. -->
 
 ### Explicacion Pedagogica
-Para que a função logarítmica seja bem definida no conjunto dos números reais: 1) A base $a$ deve ser positiva e diferente de 1. 2) O logaritmando $b$ deve ser maior que zero (pois potências de base positiva nunca resultam em zero ou negativo).
+Pela definição de logaritmo, procuramos o expoente $x$ tal que $b^x = 1$. Como qualquer número real não nulo elevado a zero resulta em $1$ ($b^0 = 1$), concluímos que $\log_b(1) = 0$ para qualquer base válida $b$.
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um sismólogo em Brasília utiliza a escala Richter, que é baseada em logaritmos, para medir a magnitude de um terremoto.
+**Contexto:** Um técnico em radiologia de Curitiba analisa um gráfico de decaimento, associado à função logarítmica.
 
 ### Enunciado
-Qual é o valor de $\log_2(32)$?
+A função logarítmica $f(x) = \log_a(x)$ é estritamente crescente sob qual condição para a base $a$?
 
 ### Opciones
-- [ ] A) 16 <!-- feedback: 2 * 16 é 32, mas o logaritmo busca o expoente. -->
-- [ ] B) 4 <!-- feedback: 2⁴ é 16. -->
-- [x] C) 5 <!-- feedback: 2⁵ = 2 * 2 * 2 * 2 * 2 = 32. -->
-- [ ] D) 6 <!-- feedback: 2⁶ é 64. -->
+- [ ] A) $a < 0$ <!-- feedback: Bases negativas não são permitidas para logaritmos reais. -->
+- [ ] B) $0 < a < 1$ <!-- feedback: Para bases entre 0 e 1, a função logarítmica é decrescente. -->
+- [x] C) $a > 1$ <!-- feedback: Para a > 1, maiores valores de x exigem maiores expoentes. -->
+- [ ] D) $a = 1$ <!-- feedback: A base 1 não forma uma função logarítmica válida. -->
 
 ### Explicacion Pedagogica
-Devemos encontrar o expoente $x$ tal que $2^x = 32$. Como $32 = 2 \cdot 2 \cdot 2 \cdot 2 \cdot 2 = 2^5$, concluímos que o logaritmo é 5.
+O comportamento de crescimento ou decrescimento da função $f(x) = \log_a(x)$ depende de sua base $a$. Se $a > 1$, à medida que $x$ aumenta, o expoente necessário para gerar $x$ também aumenta, caracterizando uma função estritamente crescente. Se $0 < a < 1$, ela seria decrescente.
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um arquiteto em Curitiba analisa a curva de uma concha acústica que segue um padrão logarítmico.
+**Contexto:** Um professor de química em Salvador explica a escala de pH, que envolve o logaritmo da concentração de íons.
 
 ### Enunciado
-Em relação ao comportamento da função logarítmica $f(x) = \log_a(x)$, o que podemos afirmar se a base for $a > 1$?
+Considere as propriedades operatórias dos logaritmos. Se você tem a soma $\log_2(x) + \log_2(y)$, qual expressão é matematicamente equivalente a ela?
 
 ### Opciones
-- [x] A) A função é estritamente crescente. <!-- feedback: Correto. Para bases maiores que 1, quanto maior o valor de x, maior o seu logaritmo. -->
-- [ ] B) A função é estritamente decrescente. <!-- feedback: Isso ocorreria se a base estivesse entre 0 e 1. -->
-- [ ] C) O gráfico cruza o eixo $y$ no ponto $(0,1)$. <!-- feedback: A função logarítmica não cruza o eixo y (x deve ser > 0). -->
-- [ ] D) A função é constante para valores grandes de $x$. <!-- feedback: A função continua crescendo indefinidamente, embora de forma cada vez mais lenta. -->
+- [x] A) $\log_2(x \cdot y)$ <!-- feedback: A soma de logaritmos de mesma base é o logaritmo do produto. -->
+- [ ] B) $\log_2(x + y)$ <!-- feedback: Logaritmo da soma não se simplifica dessa forma. -->
+- [ ] C) $\log_2(x / y)$ <!-- feedback: O logaritmo do quociente é equivalente à subtração de logaritmos. -->
+- [ ] D) $\log_2(x) \cdot \log_2(y)$ <!-- feedback: Não se deve multiplicar os logaritmos individuais. -->
 
 ### Explicacion Pedagogica
-Assim como nas funções exponenciais, a base $a$ define o crescimento. Se $a > 1$, a função é crescente. Se $0 < a < 1$, a função é decrescente.
+A propriedade do produto dos logaritmos diz que $\log_a(M \cdot N) = \log_a(M) + \log_a(N)$. Isso ocorre porque os expoentes são somados quando multiplicamos potências de mesma base, validando que $\log_2(x) + \log_2(y) = \log_2(x \cdot y)$.
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um engenheiro de som em Belo Horizonte utiliza o decibel (dB), uma unidade logarítmica, para medir a intensidade sonora.
+**Contexto:** Um engenheiro acústico de Porto Alegre converte valores de pressão em decibéis utilizando logaritmos.
 
 ### Enunciado
-Dada a propriedade do logaritmo do produto, qual das seguintes expressões é verdadeira?
+Sobre o domínio da função logarítmica no conjunto dos números reais, qual restrição deve ser aplicada à variável $x$ na função $f(x) = \log_3(x)$?
 
 ### Opciones
-- [ ] A) $\log_a(M \cdot N) = \log_a(M) \cdot \log_a(N)$ <!-- feedback: Incorreto. O logaritmo transforma produto em soma, não em outro produto. -->
-- [x] B) $\log_a(M \cdot N) = \log_a(M) + \log_a(N)$ <!-- feedback: Correto. Esta é uma das propriedades fundamentais que facilitam cálculos complexos. -->
-- [ ] C) $\log_a(M + N) = \log_a(M) + \log_a(N)$ <!-- feedback: Incorreto. Não existe propriedade simples para o logaritmo da soma. -->
-- [ ] D) $\log_a(M \cdot N) = (\log_a M)^N$ <!-- feedback: Incorreto. Esta não é uma propriedade válida. -->
+- [ ] A) $x \ge 0$ <!-- feedback: O logaritmando não pode ser zero. -->
+- [x] B) $x > 0$ <!-- feedback: O logaritmando deve ser estritamente positivo (real). -->
+- [ ] C) $x \neq 0$ <!-- feedback: Valores negativos também não são permitidos. -->
+- [ ] D) $x > 1$ <!-- feedback: O logaritmando pode ser um valor entre 0 e 1, que resultará num expoente negativo. -->
 
 ### Explicacion Pedagogica
-A função logarítmica possui propriedades operatórias importantes que derivam das propriedades de potências. O logaritmo de um produto é igual à soma dos logaritmos dos fatores na mesma base.
+Na função $f(x) = \log_3(x)$, a base $3$ elevada a qualquer número real sempre resulta em um valor estritamente positivo (ou seja, $3^y > 0$ para todo $y$). Portanto, o logaritmando $x$ deve obrigatoriamente ser maior que $0$. Logo, o domínio é o conjunto dos reais positivos.
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um biólogo em Manaus estuda o domínio de funções que descrevem a percepção de estímulos sensoriais.
+**Contexto:** Uma botânica no Pará calcula a taxa logarítmica de crescimento de uma espécie de palmeira.
 
 ### Enunciado
-Qual é o domínio da função real $f(x) = \log_3(x - 4)$?
+A função logarítmica $g(x) = \log_5(x)$ possui um gráfico que obrigatoriamente corta um dos eixos coordenados. Em qual ponto ocorre essa interseção?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: Logaritmandos não podem ser negativos ou zero. -->
-- [ ] B) $x \geq 4$ <!-- feedback: O valor 4 não é permitido, pois log(0) não existe. -->
-- [x] C) $x > 4$ <!-- feedback: Correto. A condição de existência exige x - 4 > 0. -->
-- [ ] D) $x < 4$ <!-- feedback: Isso tornaria o logaritmando negativo. -->
+- [ ] A) $(0, 1)$ <!-- feedback: Como x não pode ser zero, não há interseção com o eixo y. -->
+- [ ] B) $(0, 5)$ <!-- feedback: Não há interseção com o eixo das ordenadas. -->
+- [x] C) $(1, 0)$ <!-- feedback: Todo gráfico logarítmico padrão intercepta o eixo x no ponto onde o logaritmando é 1. -->
+- [ ] D) $(5, 1)$ <!-- feedback: O ponto (5,1) pertence ao gráfico, mas não é interseção de eixo. -->
 
 ### Explicacion Pedagogica
-Para que o logaritmo esteja definido, seu argumento (logaritmando) deve ser estritamente positivo. Assim, $x - 4 > 0 \Rightarrow x > 4$. O domínio é o intervalo aberto $(4, +\infty)$.
+Para achar a interseção com o eixo das abscissas (eixo $x$), igualamos $g(x)$ a $0$. Temos $0 = \log_5(x) \Rightarrow 5^0 = x \Rightarrow x = 1$. O gráfico não corta o eixo $y$ porque $x=0$ não pertence ao domínio. A interseção com eixo ocorre exclusivamente em $(1, 0)$.
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um técnico em Salvador calcula a desintegração de uma amostra química usando logaritmos decimais (base 10).
+**Contexto:** Um grupo de meteorologistas no Recife estima o potencial destrutivo de uma tempestade usando modelos matemáticos.
 
 ### Enunciado
-Qual é o valor da expressão $\log 1000 + \log 0,01$? (Nota: $\log$ sem base indica base 10).
+Calcule o valor de $x$ na equação simples $\log_2(x - 5) = 3$.
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Erro ao considerar o sinal do logaritmo de 0,01. -->
-- [x] B) 1 <!-- feedback: log 1000 = 3 e log 0,01 = log 10⁻² = -2. Logo 3 + (-2) = 1. -->
-- [ ] C) 10 <!-- feedback: Cálculo incorreto dos valores individuais. -->
-- [ ] D) 4 <!-- feedback: Erro de operação. -->
+- [ ] A) $11$ <!-- feedback: log_2(11-5) = log_2(6), que não é 3. -->
+- [x] B) $13$ <!-- feedback: Pela definição: x - 5 = 2^3 => x - 5 = 8 => x = 13. -->
+- [ ] C) $14$ <!-- feedback: 14-5=9, e log_2(9) não é 3. -->
+- [ ] D) $8$ <!-- feedback: x-5 é igual a 8, o que torna x=13. Você marcou apenas o valor da potência. -->
 
 ### Explicacion Pedagogica
-Resolvemos cada termo separadamente: $1000 = 10^3 \Rightarrow \log 1000 = 3$. $0,01 = 10^{-2} \Rightarrow \log 0,01 = -2$. Somando os dois resultados: $3 + (-2) = 1$.
+Para resolver a equação $\log_2(x - 5) = 3$, usamos a definição básica dos logaritmos, transformando-a em uma equação exponencial: a base $2$ elevada ao resultado $3$ iguala o logaritmando. $x - 5 = 2^3$. Como $2^3 = 8$, temos $x - 5 = 8 \Rightarrow x = 8 + 5 = 13$.
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Em um laboratório de informática em Porto Alegre, analisa-se a complexidade de algoritmos de busca binária, que é de ordem logarítmica.
+**Contexto:** Um estatístico em Goiânia simplifica equações para analisar dados de desmatamento em longo prazo.
 
 ### Enunciado
-Utilizando as propriedades dos logaritmos, simplifique a expressão $\log_2(8^5)$.
+Utilizando as propriedades operatórias, simplifique a expressão: $\log_3(27) - \log_3(9)$. Qual é o resultado?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: O 5 é apenas o expoente do logaritmando; o logaritmo ainda precisa ser calculado. -->
-- [ ] B) 8 <!-- feedback: O 8 é a base do logaritmo, não o resultado: $\log_2 8 = 3$ é o que multiplica o expoente. -->
-- [x] C) 15 <!-- feedback: Pela propriedade da potência, $\log_2(8^5) = 5 \cdot \log_2 8 = 5 \cdot 3 = 15$. -->
-- [ ] D) 40 <!-- feedback: O 40 vem de multiplicar $8 \cdot 5$, o que trata a base como se fosse o resultado do logaritmo. -->
+- [ ] A) $\log_3(18)$ <!-- feedback: Não se deve subtrair os logaritmandos (27-9). -->
+- [ ] B) $2$ <!-- feedback: O resultado da subtração é 1, não 2. -->
+- [x] C) $1$ <!-- feedback: log_3(27) = 3 e log_3(9) = 2, assim 3 - 2 = 1. Ou log_3(27/9) = log_3(3) = 1. -->
+- [ ] D) $3$ <!-- feedback: Você calculou apenas o log_3(27) e esqueceu da subtração. -->
 
 ### Explicacion Pedagogica
-Pela propriedade da potência: $\log_a(M^k) = k \cdot \log_a(M)$. Assim, $\log_2(8^5) = 5 \cdot \log_2(8)$. Como $\log_2(8) = 3$ (pois $2^3 = 8$), o resultado final é $5 \cdot 3 = 15$.
+Há dois métodos. Método 1: resolver cada termo isoladamente. Como $3^3 = 27$, $\log_3(27) = 3$. Como $3^2 = 9$, $\log_3(9) = 2$. Logo, $3 - 2 = 1$. Método 2: usar a propriedade do quociente, $\log_3(\frac{27}{9}) = \log_3(3) = 1$.
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um economista em Recife utiliza logaritmos para isolar a variável tempo em uma equação de juros compostos.
+**Contexto:** Uma investidora em São Paulo calcula as condições para o montante de um fundo de ações dobrar de valor.
 
 ### Enunciado
-Se $\log 2 \approx 0,30$ e $\log 3 \approx 0,48$, qual é o valor aproximado de $\log 6$?
+Para qual intervalo de valores de $x$ a função $h(x) = \log_{10}(2x + 6)$ está definida no conjunto dos números reais?
 
 ### Opciones
-- [ ] A) 0,18 <!-- feedback: Erro ao subtrair os logaritmos. -->
-- [ ] B) 0,144 <!-- feedback: Erro ao multiplicar os logaritmos. -->
-- [x] C) 0,78 <!-- feedback: log 6 = log (2 * 3) = log 2 + log 3 = 0,30 + 0,48 = 0,78. -->
-- [ ] D) 1,58 <!-- feedback: Valor incorreto. -->
+- [ ] A) $x > -2$ <!-- feedback: 2x+6 = 2(-2)+6 = 2. O limite crítico é quando 2x+6 = 0, ou seja, x = -3. -->
+- [ ] B) $x > 3$ <!-- feedback: Substituindo 0 teríamos log(6) que é válido. Logo x > 3 não é a restrição completa. -->
+- [x] C) $x > -3$ <!-- feedback: O logaritmando precisa ser positivo: 2x + 6 > 0 => 2x > -6 => x > -3. -->
+- [ ] D) $x \neq -3$ <!-- feedback: Valores menores que -3 fariam o argumento ficar negativo. -->
 
 ### Explicacion Pedagogica
-Como $6 = 2 \cdot 3$, aplicamos a propriedade do produto: $\log 6 = \log(2 \cdot 3) = \log 2 + \log 3$. Substituindo os valores dados: $0,30 + 0,48 = 0,78$.
+A condição de existência para que o logaritmo resulte em um número real é que o logaritmando seja estritamente positivo. Logo, exigimos que $2x + 6 > 0$. Resolvendo essa inequação do primeiro grau, temos $2x > -6$, o que implica $x > -3$. Este é o domínio da função.
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um estudante em Fortaleza resolve equações logarítmicas simples para consolidar o conhecimento da definição.
+**Contexto:** Um estudante de ciência da computação de Campinas usa as propriedades do logaritmo da potência para medir a complexidade de algoritmos.
 
 ### Enunciado
-Qual é a solução da equação $\log_x(49) = 2$?
+Sabendo que $\log_2(y) = 5$, determine o valor numérico de $\log_2(y^4)$.
 
 ### Opciones
-- [ ] A) $x = 49$ <!-- feedback: 49² não é 49. -->
-- [x] B) $x = 7$ <!-- feedback: Pela definição, x² = 49. Como a base deve ser positiva, x = 7. -->
-- [ ] C) $x = -7$ <!-- feedback: Embora (-7)² seja 49, a base de um logaritmo não pode ser negativa. -->
-- [ ] D) $x = 24,5$ <!-- feedback: Erro de divisão em vez de radiciação. -->
+- [ ] A) $9$ <!-- feedback: O expoente desce multiplicando, e não somando. 4 * 5 = 20. -->
+- [x] B) $20$ <!-- feedback: log_2(y^4) = 4 * log_2(y) = 4 * 5 = 20. -->
+- [ ] C) $625$ <!-- feedback: Você calculou y^4, mas a pergunta é sobre o logaritmo disso. -->
+- [ ] D) $4$ <!-- feedback: Esqueceu de multiplicar pelo valor do log_2(y) original. -->
 
 ### Explicacion Pedagogica
-Aplicando a definição de logaritmo: $x^2 = 49$. As soluções algébricas seriam $7$ e $-7$. No entanto, pela condição de existência das bases dos logaritmos ($a > 0$), a única solução válida é $x = 7$.
+Para o logaritmo de uma potência, aplicamos a regra do tombo (ou regra da potência): $\log_b(a^n) = n \cdot \log_b(a)$. Na expressão dada, $\log_2(y^4) = 4 \cdot \log_2(y)$. Substituindo o valor fornecido de $5$, temos $4 \cdot 5 = 20$.
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um cientista de dados em São Paulo realiza uma mudança de base em um banco de dados para facilitar a visualização de informações.
+**Contexto:** Um geólogo de Cuiabá estuda a magnitude de terremotos regionais na Escala Richter, baseada no logaritmo decimal da amplitude sísmica.
 
 ### Enunciado
-Qual é a fórmula correta para a mudança de base de $\log_a(b)$ para uma nova base $c$?
+Qual é a base correspondente à notação matemática simplificada $\ln(x)$?
 
 ### Opciones
-- [x] A) $\frac{\log_c(b)}{\log_c(a)}$ <!-- feedback: Correto. Esta fórmula permite converter logaritmos para bases como 10 ou 'e', facilitando o uso de calculadoras. -->
-- [ ] B) $\log_c(b) - \log_c(a)$ <!-- feedback: Mudança de base envolve divisão, não subtração. -->
-- [ ] C) $\log_c(b) \cdot \log_c(a)$ <!-- feedback: Mudança de base envolve divisão, não multiplicação. -->
-- [ ] D) $\frac{\log_c(a)}{\log_c(b)}$ <!-- feedback: Incorreto ao inverter a posição do logaritmando e da base original. -->
+- [x] A) A constante de Euler $e$ <!-- feedback: O logaritmo natural ou neperiano (ln) é definido com base e (aprox. 2,718). -->
+- [ ] B) $10$ <!-- feedback: O logaritmo na base 10 é escrito como log(x). -->
+- [ ] C) $2$ <!-- feedback: Logaritmos binários normalmente são anotados como log_2(x). -->
+- [ ] D) $x$ <!-- feedback: O x é o logaritmando na expressão, não a base. -->
 
 ### Explicacion Pedagogica
-A fórmula de mudança de base é essencial para cálculos práticos. Ela estabelece que o logaritmo de $b$ na base $a$ é igual à razão entre o logaritmo de $b$ em uma base $c$ qualquer e o logaritmo da base original $a$ nessa mesma base $c$.
+Na matemática, a notação $\ln(x)$ refere-se especificamente ao logaritmo natural (ou neperiano). Por convenção universal, a base desse sistema é a constante matemática de Euler, representada pela letra $e$, cujo valor irracional é aproximadamente $2,71828$. Assim, $\ln(x) = \log_e(x)$.
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um engenheiro em Goiânia resolve uma equação logarítmica que envolve a propriedade do quociente.
+**Contexto:** Um contador no Ceará verifica juros bancários utilizando mudança de base em logaritmos.
 
 ### Enunciado
-Resolva a equação $\log_5(x + 10) - \log_5(x) = 1$.
+Aproximando $\log_{10}(2) = 0,30$ e $\log_{10}(3) = 0,48$, calcule o valor de $\log_{10}(12)$.
 
 ### Opciones
-- [ ] A) $x = 10$ <!-- feedback: log_5(20) - log_5(10) = log_5(2) ≠ 1. -->
-- [x] B) $x = 2,5$ <!-- feedback: log_5((x+10)/x) = 1 => (x+10)/x = 5 => x+10 = 5x => 4x = 10 => x = 2,5. -->
-- [ ] C) $x = 5$ <!-- feedback: log_5(15) - log_5(5) = log_5(3) ≠ 1. -->
-- [ ] D) $x = 0$ <!-- feedback: x não pode ser zero, pois log(0) não existe. -->
+- [ ] A) $0,78$ <!-- feedback: Isso seria log(6) = log(2) + log(3). Faltou um fator de 2. -->
+- [x] B) $1,08$ <!-- feedback: log(12) = log(2² * 3) = 2*log(2) + log(3) = 2(0,30) + 0,48 = 1,08. -->
+- [ ] C) $0,90$ <!-- feedback: O cálculo correto exige 2 * 0,30 + 0,48 = 1,08. -->
+- [ ] D) $0,144$ <!-- feedback: As propriedades exigem somar logaritmos, não multiplicá-los. -->
 
 ### Explicacion Pedagogica
-Usamos a propriedade do quociente: $\log_5(\frac{x+10}{x}) = 1$. Pela definição: $\frac{x+10}{x} = 5^1$. Resolvendo a equação linear: $x + 10 = 5x \Rightarrow 4x = 10 \Rightarrow x = 2,5$.
+Devemos fatorar o número $12$ em fatores primos: $12 = 4 \cdot 3 = 2^2 \cdot 3$. Utilizando a propriedade do produto e depois a da potência para o logaritmo, temos: $\log(12) = \log(2^2 \cdot 3) = \log(2^2) + \log(3) = 2\cdot \log(2) + \log(3)$. Substituindo os valores, temos $2(0,30) + 0,48 = 0,60 + 0,48 = 1,08$.
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Vitória explica a relação de simetria entre os gráficos de funções inversas.
+**Contexto:** Um pesquisador biomédico em Natal modela o crescimento de uma cultura de bactérias sob condições de estresse.
 
 ### Enunciado
-Os gráficos das funções $f(x) = 10^x$ e $g(x) = \log x$ são simétricos em relação a qual reta do plano cartesiano?
+A função $f(x) = \log_{1/2}(x)$ apresenta qual característica comportamental no plano cartesiano em relação à função $h(x) = \log_2(x)$?
 
 ### Opciones
-- [ ] A) Eixo $x$ <!-- feedback: Simetria em relação ao eixo $x$ corresponde a trocar $f(x)$ por $-f(x)$, e não a inverter a função. -->
-- [ ] B) Eixo $y$ <!-- feedback: Simetria em relação ao eixo $y$ corresponde a substituir $x$ por $-x$, o que não acontece aqui. -->
-- [x] C) Reta $y = x$ <!-- feedback: Como $g = f^{-1}$, os gráficos de uma função e de sua inversa são simétricos em relação à bissetriz do primeiro quadrante, a reta $y = x$. -->
-- [ ] D) Reta $y = -x$ <!-- feedback: A reta $y = -x$ é simétrica em relação à origem, não à bissetriz; os gráficos de $10^x$ e $\log x$ não se espelham nela. -->
+- [ ] A) Ambas são funções crescentes em todo o seu domínio. <!-- feedback: Bases menores que 1 geram funções decrescentes. -->
+- [ ] B) Os gráficos são reflexões um do outro em relação ao eixo $y$. <!-- feedback: A reflexão seria em relação ao eixo y se a variável fosse -x. -->
+- [x] C) A função $f(x)$ é decrescente e seu gráfico é simétrico ao de $h(x)$ em relação ao eixo $x$. <!-- feedback: log_{1/2}(x) = -log_2(x), gerando simetria vertical (eixo x). -->
+- [ ] D) Não há intersecção entre os dois gráficos. <!-- feedback: Ambos os gráficos se cruzam no ponto (1, 0). -->
 
 ### Explicacion Pedagogica
-Como a função logarítmica é a inversa da exponencial, seus pares ordenados $(x, y)$ são trocados por $(y, x)$. Geometricamente, essa inversão de coordenadas corresponde a uma reflexão em relação à reta $y = x$.
+Sendo a base de $f(x)$ o inverso da base de $h(x)$ (ou seja, $\frac{1}{2} = 2^{-1}$), podemos aplicar a propriedade de mudança de expoente na base: $\log_{2^{-1}}(x) = -\log_2(x) = -h(x)$. Essa mudança de sinal de todo o valor da função reflete o gráfico verticalmente em relação ao eixo das abscissas (eixo $x$).
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um astrônomo em São José dos Campos utiliza logaritmos para calcular o brilho aparente das estrelas em uma escala logarítmica.
+**Contexto:** Um engenheiro mecatrônico de São Bernardo do Campo resolve equações para otimizar um circuito amplificador logarítmico.
 
 ### Enunciado
-Seja $\log a = 2$ e $\log b = 3$. Determine o valor de $\log(\frac{a^3}{b^2})$.
+Resolva a equação $\log_3(x) + \log_3(x-8) = 2$. Qual é a raiz válida?
 
 ### Opciones
-- [x] A) 0 <!-- feedback: 3 * log a - 2 * log b = 3(2) - 2(3) = 6 - 6 = 0. -->
-- [ ] B) 1 <!-- feedback: Cálculo incorreto das propriedades. -->
-- [ ] C) 12 <!-- feedback: Erro ao multiplicar os valores em vez de aplicar propriedades. -->
-- [ ] D) -1 <!-- feedback: Erro de sinal na subtração. -->
+- [x] A) $x = 9$ <!-- feedback: log_3(x(x-8)) = 2 => x²-8x-9=0. As raízes são 9 e -1 (inválida). -->
+- [ ] B) $x = -1$ e $x = 9$ <!-- feedback: O valor x = -1 torna o logaritmando negativo, logo é raiz falsa. -->
+- [ ] C) $x = 3$ <!-- feedback: x=3 falha na condição de existência pois (3-8) é negativo. -->
+- [ ] D) $x = 8$ <!-- feedback: Para x=8, teríamos log_3(0), que não existe. -->
 
 ### Explicacion Pedagogica
-Aplicamos as propriedades do quociente e da potência: $\log(\frac{a^3}{b^2}) = \log(a^3) - \log(b^2) = 3 \cdot \log a - 2 \cdot \log b$. Substituindo os valores: $3(2) - 2(3) = 6 - 6 = 0$.
+Condições de existência: $x>0$ e $x-8>0$, portanto, a resposta exige $x>8$. Juntando os logaritmos: $\log_3(x(x-8)) = 2$. Na forma exponencial: $x^2 - 8x = 3^2 \Rightarrow x^2 - 8x - 9 = 0$. Resolvendo por soma e produto ou Bhaskara, as raízes seriam $9$ e $-1$. Devido ao domínio ($x>8$), a única solução é $x = 9$.
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um farmacêutico em Florianópolis calcula o tempo de meia-vida de um medicamento no organismo usando logaritmos neperianos.
+**Contexto:** Uma equipe de astrônomos do Observatório do Valongo trabalha com logaritmos de base $10$ na fórmula de módulo de distância cósmica.
 
 ### Enunciado
-Dada a expressão $5^x = 20$, qual é a solução para $x$ expressa em termos de logaritmos decimais?
+Transforme, via mudança de base, $\log_8(16)$ para a base $2$ e calcule o seu valor numérico.
 
 ### Opciones
-- [ ] A) $x = \log 4$ <!-- feedback: 5 * 4 = 20, mas exponencial não é multiplicação. -->
-- [ ] B) $x = \frac{\log 5}{\log 20}$ <!-- feedback: Incorreto ao inverter a posição dos logaritmos. -->
-- [x] C) $x = \frac{\log 20}{\log 5}$ <!-- feedback: Aplicando log em ambos os lados: x * log 5 = log 20 => x = log 20 / log 5. -->
-- [ ] D) $x = \log 20 - \log 5$ <!-- feedback: Subtração de logaritmos equivale à divisão dos argumentos, não ao resultado de x. -->
+- [ ] A) $2$ <!-- feedback: Isso daria se as potências tivessem os mesmos graus. -->
+- [ ] B) $8/16$ <!-- feedback: Isso é uma fração dos logaritmandos e bases antigas, um erro conceitual. -->
+- [x] C) $4/3$ <!-- feedback: log_8(16) = log_2(16) / log_2(8) = 4 / 3. -->
+- [ ] D) $3/4$ <!-- feedback: Você inverteu a fórmula: ficou log_2(base)/log_2(logaritmando). -->
 
 ### Explicacion Pedagogica
-Para isolar o $x$ no expoente, aplicamos o logaritmo em ambos os lados da equação: $\log(5^x) = \log(20)$. Usando a propriedade da potência: $x \cdot \log 5 = \log 20$. Isolando $x$, temos $x = \frac{\log 20}{\log 5}$.
+Usamos o teorema da mudança de base para converter um logaritmo na base $8$ para a base $2$: $\log_8(16) = \frac{\log_2(16)}{\log_2(8)}$. Como sabemos que $2^4 = 16$ (numerador) e $2^3 = 8$ (denominador), obtemos que $\log_2(16) = 4$ e $\log_2(8) = 3$. O resultado final é a fração $4/3$.
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático estuda o comportamento de funções logarítmicas transladadas e refletidas.
+**Contexto:** Um administrador em Manaus projeta o tempo de decaimento do valor de um lote de máquinas industriais na floresta.
 
 ### Enunciado
-Qual é a característica do gráfico da função $f(x) = -\log_2(x)$?
+Na equação $10^x = 400$, exprima $x$ utilizando apenas o logaritmo decimal do número $2$. (Dica: $\log_{10}(10) = 1$)
 
 ### Opciones
-- [ ] A) É uma função crescente. <!-- feedback: Como log_2(x) é crescente, -log_2(x) torna-se decrescente. -->
-- [ ] B) O domínio é o conjunto de todos os números reais. <!-- feedback: O domínio continua sendo x > 0. -->
-- [x] C) É uma função decrescente que passa pelo ponto $(1,0)$. <!-- feedback: Correto. A reflexão no eixo x inverte o crescimento, mas f(1) = -log_2(1) = 0. -->
-- [ ] D) O gráfico intercepta o eixo $y$ em $-1$. <!-- feedback: A função logarítmica nunca intercepta o eixo y. -->
+- [ ] A) $x = 2 \log(2) + 1$ <!-- feedback: Seria log(20), que não dá 400. 400 é 4 * 100. -->
+- [ ] B) $x = 4 \log(2)$ <!-- feedback: Você esqueceu os fatores de 10 na decomposição. -->
+- [x] C) $x = 2 \log(2) + 2$ <!-- feedback: 400 = 4*100. log(400) = log(4) + log(100) = 2log(2) + 2. -->
+- [ ] D) $x = 10 \log(2)$ <!-- feedback: Não há propriedade de expoente dessa magnitude aplicável. -->
 
 ### Explicacion Pedagogica
-A função base $\log_2(x)$ é crescente pois $2 > 1$. O sinal negativo à frente da função aplica uma reflexão em relação ao eixo $x$, transformando os valores positivos em negativos e vice-versa, o que torna a função decrescente. O ponto $(1,0)$ permanece inalterado.
+Aplicamos o logaritmo na base $10$ a ambos os lados: $x = \log(400)$. Podemos escrever $400$ como $4 \cdot 100$. Pelas propriedades, $\log(400) = \log(4) + \log(100)$. Sabemos que $4 = 2^2$, portanto $\log(4) = 2\log(2)$. Além disso, $\log(100) = 2$. Juntando, $x = 2\log(2) + 2$.
 
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um engenheiro nuclear em Campinas analisa a segurança de um reator através de equações que combinam logaritmos e exponenciais.
+**Contexto:** Um pesquisador em teoria dos números, na UNICAMP, manipula sequências aninhadas que envolvem logaritmos e expoentes iterados.
 
 ### Enunciado
-Simplifique a expressão: $e^{2 \ln x} + 10^{\log x}$.
+Calcule a expressão simplificada de $3^{2 + \log_3(5)}$.
 
 ### Opciones
-- [ ] A) $2x + x = 3x$ <!-- feedback: Não se distribui a potência: $e^{2\ln x} = (e^{\ln x})^2 = x^2$, e não $2x$. -->
-- [ ] B) $e^{x^2} + 10^x$ <!-- feedback: O expoente não se aplica ao argumento: $e^{2 \ln x} = x^2$, e não $e^{x^2}$. -->
-- [x] C) $x^2 + x$ <!-- feedback: Como $e^{\ln x} = x$, temos $e^{2\ln x} = (e^{\ln x})^2 = x^2$; e $10^{\log x} = x$, logo a soma é $x^2 + x$. -->
-- [ ] D) $x^2 + \log x$ <!-- feedback: O segundo termo é $10^{\log x} = x$, e não $\log x$: falta aplicar a propriedade fundamental da base 10. -->
+- [ ] A) $15$ <!-- feedback: Você somou os fatores e não aplicou a propriedade do produto na base comum. -->
+- [ ] B) $5$ <!-- feedback: Faltou aplicar o termo 3² na multiplicação da propriedade exponencial. -->
+- [x] C) $45$ <!-- feedback: Separando a soma: 3² * 3^{log_3(5)} = 9 * 5 = 45. -->
+- [ ] D) $30$ <!-- feedback: Houve erro aritmético, 9 vezes 5 não resulta em 30. -->
 
 ### Explicacion Pedagogica
-Usamos as identidades fundamentais: $a^{\log_a b} = b$. No primeiro termo, $2 \ln x = \ln x^2$, então $e^{\ln x^2} = x^2$. No segundo termo, $10^{\log x} = x$. A soma resulta em $x^2 + x$.
+Para resolver $3^{2 + \log_3(5)}$, utilizamos primeiramente a propriedade das potências: soma no expoente equivale ao produto de bases iguais. Fica $3^2 \cdot 3^{\log_3(5)}$. Calculando o primeiro, temos $9$. O segundo usa a identidade $a^{\log_a(x)} = x$, resultando em $5$. O produto é $9 \cdot 5 = 45$.
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Durante uma olimpíada de matemática, os estudantes devem resolver um sistema de equações logarítmicas.
+**Contexto:** Na Olimpíada Brasileira de Matemática (OBMEP), alunos enfrentam inequações logarítmicas compostas para provar áreas válidas em polígonos.
 
 ### Enunciado
-Determine o conjunto solução da inequação: $\log_2(x - 3) + \log_2(x - 1) \leq 3$.
+Encontre o conjunto verdade da inequação $\log_{0,5}(x - 4) > -2$.
 
 ### Opciones
-- [ ] A) $x \leq 5$ <!-- feedback: Faltou considerar a condição de existência x > 3. -->
-- [ ] B) $1 < x \leq 5$ <!-- feedback: Para satisfazer ambos os logaritmos, x deve ser maior que 3. -->
-- [x] C) $3 < x \leq 5$ <!-- feedback: Condição: x > 3. Resolvendo: log_2((x-3)(x-1)) ≤ 3 => x²-4x+3 ≤ 8 => x²-4x-5 ≤ 0. Raízes -1 e 5. Interseção com x > 3 dá 3 < x ≤ 5. -->
-- [ ] D) $-1 \leq x \leq 5$ <!-- feedback: Viola a condição de existência do logaritmo. -->
+- [ ] A) $x > 8$ <!-- feedback: Erro ao não inverter o sinal de desigualdade para base entre 0 e 1. -->
+- [ ] B) $x < 8$ <!-- feedback: Esquecimento do domínio da função logarítmica (x - 4 > 0). -->
+- [x] C) $4 < x < 8$ <!-- feedback: Com base 0,5, inverte-se: x - 4 < (0,5)^{-2} => x - 4 < 4 => x < 8. Com domínio x > 4, a interseção é (4,8). -->
+- [ ] D) $4 \le x \le 8$ <!-- feedback: As desigualdades são estritas, não incluem igualdades. -->
 
 ### Explicacion Pedagogica
-1. Condição de existência: $x-3 > 0$ e $x-1 > 0$, logo $x > 3$.
-2. Resolvendo a inequação: $\log_2((x-3)(x-1)) \leq 3 \Rightarrow (x-3)(x-1) \leq 2^3 \Rightarrow x^2 - 4x + 3 \leq 8 \Rightarrow x^2 - 4x - 5 \leq 0$. As raízes são $-1$ e $5$. O intervalo é $[-1, 5]$.
-3. Interseção com a condição: $(3, +\infty) \cap [-1, 5] = (3, 5]$.
+1º Domínio: $x - 4 > 0 \Rightarrow x > 4$. 2º Resolução: como a base do logaritmo é $0,5$ (menor que 1, caracterizando função decrescente), quando tiramos o logaritmo, invertemos o sinal da inequação: $x - 4 < 0,5^{-2}$. Como $0,5 = 1/2$, o inverso quadrado é $4$. Logo, $x - 4 < 4 \Rightarrow x < 8$. A interseção com o domínio ($x > 4$) nos dá $4 < x < 8$.
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um pesquisador avançado investiga as propriedades de logaritmos cujas bases são variáveis.
+**Contexto:** Um estudante do ITA investiga sistemas de logaritmos encadeados que geram progressões aritméticas.
 
 ### Enunciado
-Qual é o valor da soma $S = \log_2(3) \cdot \log_3(4) \cdot \log_4(5) \cdot ... \cdot \log_{31}(32)$?
+Se a expressão $\log(x) + \log(x^3) + \log(x^5) = 18$ for verdadeira, qual é o valor do número $x$?
 
 ### Opciones
-- [ ] A) 32 <!-- feedback: O 32 é o último argumento da cadeia, mas na mudança de base os fatores intermediários se cancelam e resta $\log_2 32 = 5$. -->
-- [x] B) 5 <!-- feedback: Pela mudança de base, $\frac{\log 3}{\log 2} \cdot \frac{\log 4}{\log 3} \cdots \frac{\log 32}{\log 31}$ se cancela telescopicamente e resta $\frac{\log 32}{\log 2} = \log_2 32 = 5$. -->
-- [ ] C) $\log 32$ <!-- feedback: Esse é o valor intermediário da cadeia, mas o resultado final já está convertido: $\log_2 32 = 5$. -->
-- [ ] D) 1 <!-- feedback: O produto não é 1 porque os fatores intermediários se cancelam mas sobra a razão entre os extremos, que é $\log_2 32 = 5$. -->
+- [ ] A) $1000$ <!-- feedback: log(1000) seria 3. 3 + 9 + 15 = 27, não 18. -->
+- [x] B) $100$ <!-- feedback: log(x) + 3log(x) + 5log(x) = 9log(x) = 18 => log(x) = 2. Logo x = 10^2 = 100. -->
+- [ ] C) $10$ <!-- feedback: Com x=1, log é 1. 1 + 3 + 5 = 9, não 18. -->
+- [ ] D) $9$ <!-- feedback: 9 é a soma dos coeficientes, mas x é a base da potência resultante. -->
 
 ### Explicacion Pedagogica
-Aplicamos a mudança de base em cada termo para uma base comum $k$: $\frac{\log_k 3}{\log_k 2} \cdot \frac{\log_k 4}{\log_k 3} \cdot \frac{\log_k 5}{\log_k 4} \cdot ... \cdot \frac{\log_k 32}{\log_k 31}$. Observamos um cancelamento telescópico, sobrando apenas $\frac{\log_k 32}{\log_k 2}$, que é igual a $\log_2(32) = 5$.
+Utilizamos a propriedade do expoente em cada termo, colocando-os à frente do logaritmo (supondo base 10 implícita): $\log(x) + 3\log(x) + 5\log(x) = 18$. Somando os coeficientes (termos semelhantes), temos $9\log(x) = 18$. Dividindo por $9$, $\log_{10}(x) = 2$. Por definição, isso implica que $x = 10^2 = 100$.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W06-funcao-logaritmica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Em um exame de alto nível para ingressar no ITA, avalia-se a capacidade de relacionar logaritmos e progressões geométricas.
+**Contexto:** Em uma tese de engenharia financeira na FGV, é avaliado o impacto de taxas duplas em projeções de longo prazo.
 
 ### Enunciado
-Se $a, b, c$ formam uma Progressão Geométrica de termos positivos, nessa ordem, o que podemos afirmar sobre $\log_k(a), \log_k(b), \log_k(c)$?
+O valor de $\log_4(\log_2(256))$ é correspondente a qual das alternativas abaixo?
 
 ### Opciones
-- [ ] A) Formam uma Progressão Geométrica. <!-- feedback: A relação entre logaritmos e PG resulta em uma Progressão Aritmética. -->
-- [x] B) Formam uma Progressão Aritmética. <!-- feedback: Se b² = ac, então log b² = log(ac) => 2 log b = log a + log c. Esta é a definição de PA. -->
-- [ ] C) São sempre números inteiros. <!-- feedback: Depende dos valores de a, b, c e k. -->
-- [ ] D) São sempre números iguais. <!-- feedback: Só se a razão da PG fosse 1. -->
+- [ ] A) $1/2$ <!-- feedback: O cálculo do log_2(256) dá 8. Em seguida log_4(8) não é 1/2. -->
+- [x] B) $3/2$ <!-- feedback: log_2(256) = 8. E log_4(8) = log_2(8)/log_2(4) = 3/2. -->
+- [ ] C) $2$ <!-- feedback: Isso daria 2 se o logaritmo interno resultasse em 16. -->
+- [ ] D) $3$ <!-- feedback: Seria 3 se fosse log_2(8), esquecendo a base externa 4. -->
 
 ### Explicacion Pedagogica
-Em uma PG, $b^2 = a \cdot c$. Aplicando o logaritmo em ambos os lados: $\log_k(b^2) = \log_k(a \cdot c)$. Pelas propriedades: $2 \cdot \log_k(b) = \log_k(a) + \log_k(c)$. Esta é a propriedade fundamental de uma Progressão Aritmética: o termo médio é a média aritmética dos extremos.
+Resolvemos a expressão de dentro para fora. Primeiro o logaritmo interno: sabendo que $2^8 = 256$, afirmamos que $\log_2(256) = 8$. Agora avaliamos o logaritmo externo: precisamos achar $\log_4(8)$. Usando mudança para base $2$: $\frac{\log_2(8)}{\log_2(4)}$. Como $\log_2(8) = 3$ e $\log_2(4) = 2$, obtemos exatamente o valor racional $3/2$.
