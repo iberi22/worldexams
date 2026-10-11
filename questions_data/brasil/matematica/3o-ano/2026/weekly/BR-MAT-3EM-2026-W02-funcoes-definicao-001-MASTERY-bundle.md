@@ -24,377 +24,395 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante de ensino médio em Porto Alegre está aprendendo o conceito fundamental de função como uma relação entre dois conjuntos.
+**Contexto:** Uma empresa de entregas em Belo Horizonte define sua tarifa baseada na distância percorrida.
 
 ### Enunciado
-Dada uma função $f: A \to B$, como é chamado o conjunto $A$ de todos os valores de entrada possíveis?
+Seja $C(x) = 5 + 2x$ a função que determina o custo em reais para uma entrega a $x$ quilômetros de distância. Qual é o domínio adequado para esta função em um cenário real?
 
 ### Opciones
-- [x] A) Domínio <!-- feedback: O domínio é o conjunto de partida de uma função, contendo todos os valores para os quais a função está definida. -->
-- [ ] B) Contradomínio <!-- feedback: O contradomínio é o conjunto de chegada B, que pode conter elementos que não são imagens de nenhum x em A. -->
-- [ ] C) Imagem <!-- feedback: O conjunto imagem é o subconjunto do contradomínio formado por todos os valores f(x) efetivamente assumidos. -->
-- [ ] D) Intervalo <!-- feedback: Um intervalo é um tipo específico de subconjunto dos números reais, mas não é o nome genérico do conjunto A. -->
+- [x] A) Domínio: $\mathbb{R}_+$ <!-- feedback: Correto, pois a distância $x$ deve ser não negativa. -->
+- [ ] B) Domínio: $\mathbb{R}$ <!-- feedback: Distâncias não podem ser negativas em um cenário real. -->
+- [ ] C) Domínio: $\mathbb{R}_-$ <!-- feedback: A distância não pode ser estritamente negativa. -->
+- [ ] D) Domínio: $\mathbb{Z}$ <!-- feedback: A distância $x$ pode ser um número decimal, não se restringe apenas a inteiros. -->
 
 ### Explicacion Pedagogica
-Em uma função $f: A \to B$, o conjunto $A$ é denominado **domínio**. Para que a relação seja uma função, cada elemento do domínio deve estar associado a exatamente um elemento do conjunto $B$ (contradomínio).
+Para modelar um problema real de custo e distância, as variáveis devem assumir apenas valores que façam sentido. A distância $x$ é medida em quilômetros reais não negativos (Domínio $\mathbb{R}_+$).
+
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Em uma aula de revisão para o ENEM no Recife, o professor utiliza diagramas de flechas para explicar o que define uma função.
+**Contexto:** Um provedor de internet de Curitiba analisa os acessos mensais dos seus clientes.
 
 ### Enunciado
-Para que uma relação entre um conjunto $A$ e um conjunto $B$ seja considerada uma função, qual condição deve ser satisfeita?
+A função $f(x) = 40x - 15$ relaciona o número de usuários ativos $x$ (em milhares) com a receita $f(x)$ (em milhares de reais). Se a receita foi de 145 milhares de reais, quantos milhares de usuários ativos houve?
 
 ### Opciones
-- [ ] A) Cada elemento de B deve estar associado a pelo menos um elemento de A. <!-- feedback: Esta é a definição de uma função sobrejetora, não de uma função em geral. -->
-- [ ] B) Elementos diferentes de A devem estar associados a elementos diferentes de B. <!-- feedback: Esta é a definição de uma função injetora. -->
-- [x] D) Cada elemento de A deve estar associado a exatamente um elemento de B. <!-- feedback: Esta é a condição essencial: não pode sobrar elemento em A sem flecha e não pode sair mais de uma flecha de um mesmo elemento de A. -->
-- [ ] C) O conjunto A deve ser igual ao conjunto B. <!-- feedback: O domínio e o contradomínio podem ser conjuntos completamente diferentes. -->
+- [ ] A) 5 <!-- feedback: Se $x=5$, a receita seria $40(5) - 15 = 185$. -->
+- [ ] B) 3 <!-- feedback: Se $x=3$, a receita seria $40(3) - 15 = 105$. -->
+- [ ] C) 6 <!-- feedback: Se $x=6$, a receita seria $40(6) - 15 = 225$. -->
+- [x] D) 4 <!-- feedback: Igualando a função à receita: $40x - 15 = 145 \Rightarrow 40x = 160 \Rightarrow x = 4$. -->
 
 ### Explicacion Pedagogica
-Uma função é uma regra que associa cada elemento $x$ de um conjunto $A$ a um único elemento $y$ de um conjunto $B$. Se um elemento de $A$ não tiver correspondente ou tiver mais de um, a relação não é uma função.
+Nesta situação, conhecemos a imagem da função $f(x) = 145$ e queremos descobrir qual elemento do domínio $x$ a gerou. Resolvemos a equação $40x - 15 = 145$, somando 15 aos dois lados para obter $40x = 160$ e dividindo por 40, resultando em $x = 4$.
+
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um desenvolvedor de software em Belo Horizonte está criando uma função matemática simples para calcular o custo de frete baseado no peso.
+**Contexto:** Uma fábrica de camisetas em Fortaleza calcula a eficiência de produção de acordo com as horas de funcionamento de suas máquinas.
 
 ### Enunciado
-Dada a função $f(x) = 3x - 5$, qual é o valor de $f(4)$?
+Observe a relação dada pela fórmula $P(h) = 50h^2$, onde $h$ representa o número de horas e $P$ a produção. Essa relação pode ser classificada como uma função pois:
 
 ### Opciones
-- [ ] A) 17 <!-- feedback: Erro de sinal: 3(4) + 5 = 17, mas a função é 3x - 5. -->
-- [x] C) 7 <!-- feedback: f(4) = 3(4) - 5 = 12 - 5 = 7. -->
-- [ ] B) 12 <!-- feedback: Este é apenas o resultado de 3 * 4, esquecendo de subtrair o 5. -->
-- [ ] D) -1 <!-- feedback: f(4) = 3(4) - 5. O valor 7 é positivo. -->
+- [ ] A) Para um dado valor de $P$, existe um único valor de $h$. <!-- feedback: Incorreto. Matematicamente, $h$ poderia ser negativo (embora não na prática) levando ao mesmo $P$. O importante é $h$ levar a um único $P$. -->
+- [ ] B) O gráfico é uma reta constante. <!-- feedback: O gráfico de $P(h) = 50h^2$ é uma parábola, não uma reta constante. -->
+- [x] C) A cada hora $h$ está associada uma única quantidade de produção $P$. <!-- feedback: Correto. A definição fundamental de função exige que a cada elemento do domínio exista um e somente um elemento correspondente na imagem. -->
+- [ ] D) Nem toda hora gera produção. <!-- feedback: Isso não define se uma relação é função ou não. -->
 
 ### Explicacion Pedagogica
-Para encontrar o valor de uma função em um ponto, substituímos a variável independente $x$ pelo valor dado. No caso, $f(4) = 3 \cdot 4 - 5 = 12 - 5 = 7$.
+O conceito central que define uma função é que cada elemento do conjunto de partida (domínio, $h$) deve ter um correspondente único no conjunto de chegada (imagem, $P$). Pela expressão, um determinado $h$ gera apenas um resultado $P(h)$.
+
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um arquiteto em Brasília analisa o gráfico de uma função para entender o perfil de uma rampa.
+**Contexto:** No planejamento de um evento em Recife, os organizadores criam uma fórmula para o custo do bufê.
 
 ### Enunciado
-Como podemos identificar, através do gráfico no plano cartesiano, se uma curva representa uma função $y = f(x)$?
+O custo $C$ (em reais) depende do número de convidados $n$, e é modelado por $C(n) = 30n + 150$. O que o valor 150 representa nesta função?
 
 ### Opciones
-- [ ] A) Toda reta horizontal deve cruzar o gráfico em apenas um ponto. <!-- feedback: O teste da reta horizontal serve para verificar se a função é injetora, não se é uma função. -->
-- [x] B) Toda reta vertical deve cruzar o gráfico em no máximo um ponto. <!-- feedback: O teste da reta vertical garante que para cada valor de x existe no máximo um valor correspondente de y. -->
-- [ ] C) O gráfico deve ser uma linha reta. <!-- feedback: Funções podem ter gráficos curvos (parábolas, exponenciais, etc.). -->
-- [ ] D) O gráfico deve passar pela origem $(0,0)$. <!-- feedback: Muitas funções não passam pela origem, como f(x) = x + 1. -->
+- [ ] A) O preço pago por cada convidado. <!-- feedback: O preço variável por convidado é 30 (o coeficiente de $n$). -->
+- [x] B) O custo fixo, independente de haver convidados. <!-- feedback: O termo 150 não multiplica a variável $n$, logo ele existe mesmo quando $n=0$. Representa a parte fixa do custo. -->
+- [ ] C) O custo total do evento. <!-- feedback: O custo total varia conforme o número $n$ de convidados, ele não é estático em 150. -->
+- [ ] D) O número máximo de convidados. <!-- feedback: 150 é um valor monetário no custo, não representa limite de convidados. -->
 
 ### Explicacion Pedagogica
-Pelo "Teste da Reta Vertical", se qualquer reta vertical cruzar o desenho em mais de um ponto, isso significa que um único valor de $x$ teria mais de um correspondente em $y$, o que viola a definição de função.
+Numa função do primeiro grau do tipo $f(x) = ax + b$, o coeficiente $b$ representa o valor inicial ou custo fixo (a imagem de $f(0)$). No modelo, se $n=0$ convidados, o custo ainda será 150 reais, refletindo um custo base.
+
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um biólogo em Manaus estuda o crescimento de uma população de bactérias e precisa determinar o domínio real da função que modela esse processo.
+**Contexto:** Um aplicativo de transporte de Porto Alegre mapeia as rotas de seus motoristas utilizando o plano cartesiano.
 
 ### Enunciado
-Qual é o domínio da função real $f(x) = \frac{1}{x-2}$?
+Dada a função $f: A \rightarrow B$, dizemos que o conjunto dos valores que $f(x)$ efetivamente assume é chamado de:
 
 ### Opciones
-- [ ] B) $\mathbb{R}$ <!-- feedback: O valor x = 2 causa uma divisão por zero, portanto não pode estar no domínio. -->
-- [x] A) $\mathbb{R} - \{2\}$ <!-- feedback: A função está definida para todos os reais, exceto para o valor que zera o denominador. -->
-- [ ] C) $\{2\}$ <!-- feedback: Este é justamente o único valor que NÃO pertence ao domínio. -->
-- [ ] D) $(2, +\infty)$ <!-- feedback: Valores menores que 2 também são permitidos, desde que não sejam exatamente 2. -->
+- [x] A) Imagem <!-- feedback: Exatamente! O conjunto imagem é formado apenas por aqueles elementos de $B$ que são atingidos pela função, sendo subconjunto do contradomínio. -->
+- [ ] B) Contradomínio <!-- feedback: O contradomínio é o conjunto de chegada, e pode ser maior que o conjunto de valores que a função efetivamente assume. -->
+- [ ] C) Domínio <!-- feedback: O domínio é o conjunto de partida (os valores de entrada $x$). -->
+- [ ] D) Variável independente <!-- feedback: A variável independente é a entrada (o $x$), não um conjunto de valores. -->
 
 ### Explicacion Pedagogica
-Em funções racionais, o denominador não pode ser zero. Assim, devemos ter $x - 2 \neq 0$, o que implica $x \neq 2$. O domínio é o conjunto de todos os números reais excluindo o 2.
+A Imagem de uma função é o conjunto de todos os resultados $f(x)$ obtidos quando $x$ percorre todo o Domínio. Em outras palavras, são os valores do Contradomínio que estão efetivamente relacionados a pelo menos um valor do Domínio.
+
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Em uma fábrica em Curitiba, o custo total de produção é dado por uma função onde a variável representa a quantidade de peças.
+**Contexto:** Um economista do Rio de Janeiro avalia o comportamento de duas moedas virtuais.
 
 ### Enunciado
-Seja $f: \mathbb{R} \to \mathbb{R}$ uma função tal que $f(x) = x^2 + 1$. Qual é o conjunto imagem desta função?
+As funções que modelam o valor das moedas em função dos dias $t$ são $v_1(t) = 2t + 5$ e $v_2(t) = t + 10$. Em que dia $t$ os valores se igualam?
 
 ### Opciones
-- [ ] A) $\mathbb{R}$ <!-- feedback: x² nunca resulta em valores negativos, então a imagem não pode ser todos os reais. -->
-- [ ] C) $[0, +\infty)$ <!-- feedback: Quase correto, mas como somamos 1 ao x², o valor mínimo será 1, não 0. -->
-- [x] B) $[1, +\infty)$ <!-- feedback: Como x² ≥ 0 para qualquer x real, então x² + 1 ≥ 1. -->
-- [ ] D) $(-\infty, 1]$ <!-- feedback: A função cresce para o infinito positivo, não negativo. -->
+- [ ] A) $t = 2$ <!-- feedback: Com $t=2$, $v_1 = 9$ e $v_2 = 12$, que não são iguais. -->
+- [x] B) $t = 5$ <!-- feedback: Igualando as equações: $2t + 5 = t + 10 \Rightarrow 2t - t = 10 - 5 \Rightarrow t = 5$. -->
+- [ ] C) $t = 10$ <!-- feedback: Com $t=10$, $v_1 = 25$ e $v_2 = 20$, que não são iguais. -->
+- [ ] D) $t = 15$ <!-- feedback: Com $t=15$, $v_1 = 35$ e $v_2 = 25$, que não são iguais. -->
 
 ### Explicacion Pedagogica
-O valor mínimo de $x^2$ é 0 (quando $x=0$). Logo, o valor mínimo de $f(x) = x^2 + 1$ é $0 + 1 = 1$. Como a parábola se abre para cima, os valores de $y$ assumidos são todos maiores ou iguais a 1.
+Para encontrar o ponto de encontro entre duas funções (onde elas assumem o mesmo valor para a mesma entrada), basta igualar as leis de formação: $v_1(t) = v_2(t)$. Daí resolve-se $2t + 5 = t + 10$, obtendo o dia $t=5$.
+
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um economista em São Paulo analisa o ponto de equilíbrio de uma empresa através da igualdade entre duas funções.
+**Contexto:** Um software educacional desenvolvido em Manaus plota gráficos gerados por expressões fornecidas por estudantes.
 
 ### Enunciado
-Dadas as funções $f(x) = 2x + 3$ e $g(x) = 5x - 6$, para qual valor de $x$ temos $f(x) = g(x)$?
+Qual deve ser a condição sobre $x$ para que $f(x) = \frac{1}{2x - 8}$ defina uma função real de variável real?
 
 ### Opciones
-- [ ] A) $x = 1$ <!-- feedback: f(1) = 5 e g(1) = -1. Diferentes. -->
-- [x] D) $x = 3$ <!-- feedback: f(3) = 2(3)+3 = 9 e g(3) = 5(3)-6 = 9. Iguais. -->
-- [ ] B) $x = -3$ <!-- feedback: f(-3) = -3 e g(-3) = -21. Diferentes. -->
-- [ ] C) $x = 0$ <!-- feedback: f(0) = 3 e g(0) = -6. Diferentes. -->
+- [ ] A) $x = 4$ <!-- feedback: Se $x=4$, o denominador seria zero, o que torna a fração indefinida. -->
+- [ ] B) $x \neq 8$ <!-- feedback: Se $x=8$, o denominador seria $2(8) - 8 = 8$, que é válido. A restrição não é essa. -->
+- [ ] C) $x > 4$ <!-- feedback: O valor pode ser menor que 4, por exemplo $x=3$ gera $\frac{1}{2(3)-8} = -\frac{1}{2}$, que é um número real. -->
+- [x] D) $x \neq 4$ <!-- feedback: O denominador não pode ser zero. Portanto, $2x - 8 \neq 0 \Rightarrow 2x \neq 8 \Rightarrow x \neq 4$. -->
 
 ### Explicacion Pedagogica
-Igualamos as expressões: $2x + 3 = 5x - 6$. Isolando $x$: $3 + 6 = 5x - 2x \Rightarrow 9 = 3x \Rightarrow x = 3$.
+Em funções racionais, a restrição para o domínio é que o denominador não pode se anular. No caso de $\frac{1}{2x - 8}$, a expressão $2x - 8$ precisa ser diferente de $0$. Resolvendo essa desigualdade, encontramos a condição de existência: $x \neq 4$.
+
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um atleta em treinamento no Rio de Janeiro monitora sua velocidade em função do tempo durante uma corrida.
+**Contexto:** Em uma usina eólica no Ceará, a potência gerada depende da velocidade dos ventos.
 
 ### Enunciado
-Se $f(x) = \sqrt{x-4}$ é uma função de variável real, qual é o seu domínio?
+A função $W(v) = k \cdot v^3$ (com $k>0$) descreve a potência gerada $W$ pela velocidade do vento $v$. Se a velocidade $v$ duplicar, o que ocorrerá com a potência gerada?
 
 ### Opciones
-- [ ] B) $x > 4$ <!-- feedback: O valor x = 4 é permitido, pois √0 existe e é 0. -->
-- [x] A) $x \geq 4$ <!-- feedback: Para que a raiz quadrada seja um número real, o radicando deve ser maior ou igual a zero. -->
-- [ ] C) $x \leq 4$ <!-- feedback: Se x for menor que 4, teremos a raiz de um número negativo, que não é real. -->
-- [ ] D) $\mathbb{R} - \{4\}$ <!-- feedback: Valores menores que 4 devem ser excluídos, não apenas o 4. -->
+- [x] A) Ficará multiplicada por 8. <!-- feedback: Substituindo $2v$: $W(2v) = k(2v)^3 = k(8v^3) = 8(kv^3) = 8W(v)$. -->
+- [ ] B) Ficará multiplicada por 2. <!-- feedback: Erro ao não elevar o fator de duplicação ao cubo. -->
+- [ ] C) Ficará multiplicada por 6. <!-- feedback: Erro matemático, $2^3 = 8$, não $2 \cdot 3$. -->
+- [ ] D) Ficará multiplicada por 4. <!-- feedback: Erro, este seria o caso para uma função quadrática $W(v) = k \cdot v^2$. -->
 
 ### Explicacion Pedagogica
-No conjunto dos números reais, a raiz quadrada de um número negativo não está definida. Portanto, a expressão dentro da raiz deve ser não negativa: $x - 4 \geq 0$, o que nos dá $x \geq 4$.
+Quando a variável da função tem uma dependência cúbica, o aumento se dá pelo fator elevado à terceira potência. Se a velocidade nova é $v' = 2v$, então a nova potência é $W(2v) = k(2v)^3 = k(8v^3) = 8 \cdot W(v)$. A potência aumenta 8 vezes.
+
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um motorista de aplicativo em Salvador calcula seu ganho por viagem através de uma função composta por uma taxa fixa e um valor por quilômetro.
+**Contexto:** Numa estação meteorológica no Amazonas, observa-se o comportamento das chuvas ao longo do dia.
 
 ### Enunciado
-Seja $f(x) = ax + b$. Sabendo que $f(1) = 5$ e $f(0) = 2$, determine os valores de $a$ e $b$.
+A função $R(t)$ representa o índice pluviométrico em função do tempo $t$. Sabemos que $R(4) = 15$. O que essa notação significa no contexto?
 
 ### Opciones
-- [ ] A) $a = 2, b = 3$ <!-- feedback: Se b=3 e a=2, f(0) seria 3, mas f(0)=2. -->
-- [x] D) $a = 3, b = 2$ <!-- feedback: f(0) = a(0) + b = 2 => b = 2. Então f(1) = a(1) + 2 = 5 => a = 3. -->
-- [ ] B) $a = 5, b = 2$ <!-- feedback: Se a=5 e b=2, f(1) seria 7, mas f(1)=5. -->
-- [ ] C) $a = 3, b = 5$ <!-- feedback: Se b=5, f(0) seria 5, mas f(0)=2. -->
+- [ ] A) Que às 15 horas o índice pluviométrico é de 4 mm. <!-- feedback: É o inverso; o argumento da função é 4 e o resultado é 15. -->
+- [ ] B) Que ao longo de 4 dias choveram 15 mm. <!-- feedback: O tempo $t$ está em função do dia (horas), e a notação descreve um instante específico, não um acumulado de dias. -->
+- [ ] C) Que em 15 minutos o volume de chuva foi 4. <!-- feedback: Os valores de entrada e saída estão invertidos na interpretação. -->
+- [x] D) Que no tempo $t=4$, o índice pluviométrico atingiu 15 unidades. <!-- feedback: Correto. A notação $R(t) = y$ indica que quando a variável independente vale $t$, a dependente (imagem) vale $y$. -->
 
 ### Explicacion Pedagogica
-Substituímos os pontos na equação da função. De $f(0)=2$, temos $a(0) + b = 2$, logo $b = 2$. Usando $f(1)=5$, temos $a(1) + 2 = 5$, o que resulta em $a = 3$.
+A notação $f(x) = y$ é a forma matemática de associar um valor do domínio com seu respectivo valor na imagem. O valor dentro dos parênteses (o 4) é o tempo, e o valor do outro lado da igualdade (o 15) é o resultado, o índice pluviométrico.
+
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um estudante em Fortaleza está resolvendo problemas de funções para as provas bimestrais.
+**Contexto:** Uma nutricionista esportiva de Goiás prescreve dietas baseadas no peso dos atletas.
 
 ### Enunciado
-Considere a função $f(x) = x^2 - 4x + 7$. Qual é o valor de $f(-1)$?
+Ela utiliza uma regra em que para cada $x$ (em kg) de peso, há uma quantidade de proteína associada. Para ser uma relação funcional matemática estrita entre peso ($x$) e dieta ($y$):
 
 ### Opciones
-- [ ] B) 4 <!-- feedback: Erro de sinal ao elevar ao quadrado ou multiplicar: (-1)² é 1, não -1. -->
-- [ ] C) 10 <!-- feedback: Erro no termo médio: -4(-1) é +4, somado ao 1 e 7 daria 12. -->
-- [x] A) 12 <!-- feedback: f(-1) = (-1)² - 4(-1) + 7 = 1 + 4 + 7 = 12. -->
-- [ ] D) 2 <!-- feedback: Cálculo incorreto dos termos da função. -->
+- [x] A) Não pode haver um mesmo peso $x$ gerando duas dietas $y$ diferentes ao mesmo tempo. <!-- feedback: Exato! Na definição de função, um mesmo $x$ deve levar a um único $y$. -->
+- [ ] B) Não pode haver duas pessoas com o mesmo peso. <!-- feedback: As pessoas podem ter o mesmo peso; o problema para funções seria um mesmo peso ditar respostas distintas. -->
+- [ ] C) Cada dieta só pode ser associada a um peso exclusivo. <!-- feedback: Isso definiria uma função injetora, mas não é condição necessária para ser apenas função. -->
+- [ ] D) A dieta $y$ deve crescer junto com o peso $x$. <!-- feedback: A função não precisa ser obrigatoriamente crescente; precisa apenas ter unicidade de imagem. -->
 
 ### Explicacion Pedagogica
-Substituindo $x$ por $-1$ na expressão: $f(-1) = (-1)^2 - 4(-1) + 7$. Como $(-1)^2 = 1$ e $-4 \cdot (-1) = 4$, temos $1 + 4 + 7 = 12$.
+Uma relação $f$ só é função se cada elemento $x$ do domínio tiver correspondência única com um elemento $y$ da imagem. Assim, não podemos colocar o mesmo peso $x$ na fórmula e obter dois valores diferentes, senão deixa de ser função.
+
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um cientista de dados em São Paulo analisa a classificação de funções para otimizar um modelo de inteligência artificial.
+**Contexto:** Uma montadora de automóveis no ABC Paulista cadastra cada peça fabricada com um código único que identifica a máquina de origem.
 
 ### Enunciado
-Uma função $f: A \to B$ é dita **injetora** quando:
+Se a função associa cada peça a uma única máquina de origem, mas várias peças vêm da mesma máquina, que propriedade matemática NÃO ocorre nessa função?
 
 ### Opciones
-- [ ] A) O conjunto imagem é igual ao contradomínio. <!-- feedback: Esta é a definição de função sobrejetora. -->
-- [x] C) Elementos distintos do domínio possuem imagens distintas no contradomínio. <!-- feedback: Correto. x1 ≠ x2 implica f(x1) ≠ f(x2). -->
-- [ ] B) Todo elemento de B é imagem de pelo menos um elemento de A. <!-- feedback: Esta também é a definição de sobrejetora. -->
-- [ ] D) A função é crescente em todo o seu domínio. <!-- feedback: Funções decrescentes também podem ser injetoras. -->
+- [ ] A) Não é sobrejetora. <!-- feedback: A sobrejetividade depende se todas as máquinas geraram alguma peça, o que é possível nesse cenário. -->
+- [ ] B) Não é par. <!-- feedback: Paridade é um conceito numérico, aqui a função não está sendo avaliada numericamente com -x. -->
+- [x] C) Não é injetora. <!-- feedback: Para ser injetora, cada máquina poderia produzir apenas uma peça, não podendo ter peças diferentes mapeando para a mesma máquina. -->
+- [ ] D) Não tem contradomínio. <!-- feedback: Toda função possui domínio, contradomínio e imagem. -->
 
 ### Explicacion Pedagogica
-A injetividade significa que não há "colisões": cada valor de $y$ no conjunto imagem é atingido por exatamente um valor de $x$ do domínio. Graficamente, qualquer reta horizontal corta o gráfico de uma função injetora em no máximo um ponto.
+Uma função é Injetora quando elementos distintos do domínio sempre mapeiam para elementos distintos do contradomínio ($x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$). Como várias peças diferentes (domínio) mapeiam para a mesma máquina (contradomínio), a relação não é injetora.
+
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Goiânia apresenta o concept de função inversa para seus alunos do 3º ano.
+**Contexto:** Um analista de TI em Brasília desenvolve um programa de criptografia de senhas.
 
 ### Enunciado
-Qual das seguintes condições é necessária para que uma função $f: A \to B$ admita uma função inversa $f^{-1}: B \to A$?
+Para que uma função codificadora $f: X \rightarrow Y$ permita descriptografia perfeita (onde a cada código retorne apenas a senha original, e todos os códigos de $Y$ sejam possíveis de decifrar), qual propriedade essa função $f$ deve ter?
 
 ### Opciones
-- [ ] B) A função deve ser apenas injetora. <!-- feedback: Se não for sobrejetora, f⁻¹ não estará definida para todo o conjunto B. -->
-- [ ] C) A função deve ser apenas sobrejetora. <!-- feedback: Se não for injetora, f⁻¹ teria múltiplos valores para um mesmo x, não sendo função. -->
-- [x] A) A função deve ser bijetora. <!-- feedback: Uma função bijetora é injetora e sobrejetora ao mesmo tempo, o que permite inverter a relação perfeitamente. -->
-- [ ] D) A função deve ser uma função do 1º grau. <!-- feedback: Funções de outros graus (como exponenciais) também podem ter inversas. -->
+- [x] A) Ser bijetora. <!-- feedback: A função deve ser injetora (senhas distintas dão códigos distintos) e sobrejetora (todos os códigos têm origem), ou seja, bijetora para ser invertível. -->
+- [ ] B) Ser apenas sobrejetora. <!-- feedback: Se não for injetora, o mesmo código criptografado poderia vir de senhas diferentes, gerando erro na decodificação. -->
+- [ ] C) Ter o domínio igual à imagem. <!-- feedback: Isso pode ocorrer sem que seja possível invertê-la de forma única. -->
+- [ ] D) Ser uma função constante. <!-- feedback: Se fosse constante, todas as senhas virariam o mesmo código, impedindo a descriptografia. -->
 
 ### Explicacion Pedagogica
-Para inverter uma função, cada elemento de $B$ deve vir de um único elemento de $A$ (injetora) e todos os elementos de $B$ devem ser atingidos (sobrejetora). Portanto, a função deve ser bijetora.
+A invertibilidade de uma função depende estritamente da bijetividade. A propriedade injetora garante que não haverá duas senhas com o mesmo código. A propriedade sobrejetora garante que não existirão códigos espúrios sem senha de origem. Portanto, deve ser bijetora.
+
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um engenheiro civil em Vitória estuda a composição de funções para calcular a pressão em diferentes profundidades.
+**Contexto:** Uma confeitaria no Rio Grande do Sul estuda o custo final de suas tortas, onde o custo depende da farinha e a farinha depende da safra.
 
 ### Enunciado
-Dadas as funções $f(x) = x + 2$ e $g(x) = 3x$, qual é a expressão da função composta $g(f(x))$?
+Temos as funções de conversão $f(x) = 2x - 3$ e $g(x) = x + 5$. Qual é a lei de formação da função composta $f(g(x))$?
 
 ### Opciones
-- [ ] A) $3x + 2$ <!-- feedback: Este seria f(g(x)), ou seja, (3x) + 2. -->
-- [x] B) $3x + 6$ <!-- feedback: g(f(x)) = g(x + 2) = 3(x + 2) = 3x + 6. -->
-- [ ] C) $4x + 2$ <!-- feedback: Erro na aplicação da lei de formação da função g. -->
-- [ ] D) $x + 6$ <!-- feedback: Erro no termo variável de x. -->
+- [ ] A) $2x + 2$ <!-- feedback: Erro ao não distribuir o 2 para o termo 5, o que resultaria em $2x + 5 - 3 = 2x + 2$. -->
+- [x] B) $2x + 7$ <!-- feedback: Substituindo: $f(g(x)) = f(x+5) = 2(x+5) - 3 = 2x + 10 - 3 = 2x + 7$. -->
+- [ ] C) $2x - 2$ <!-- feedback: Erro nos cálculos da substituição e soma. -->
+- [ ] D) $3x + 2$ <!-- feedback: Erro de soma de variáveis em vez de substituição. -->
 
 ### Explicacion Pedagogica
-Para calcular $g(f(x))$, substituímos a expressão de $f(x)$ no lugar do $x$ da função $g$. Assim, $g(f(x)) = g(x+2) = 3(x+2)$. Distribuindo o 3, obtemos $3x + 6$.
+Na composição de funções $f(g(x))$, inserimos a lei de formação inteira de $g(x)$ na variável da função $f$. Assim, $f(x + 5) = 2(x + 5) - 3$. Aplicando a distributiva, temos $2x + 10 - 3$, que simplifica para $2x + 7$.
+
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Em um laboratório de física em São José dos Campos, analisa-se a paridade de funções que descrevem ondas.
+**Contexto:** No laboratório do INPE, analisa-se as funções que descrevem as variações de temperatura ao redor de um ponto ideal.
 
 ### Enunciado
-Uma função é considerada **par** se $f(x) = f(-x)$ para todo $x$ no domínio. Qual das seguintes funções é uma função par?
+Sabendo que uma função é ímpar se satisfaz $f(-x) = -f(x)$, identifique a função ímpar dentre as opções:
 
 ### Opciones
-- [ ] A) $f(x) = 2x$ <!-- feedback: f(-x) = -2x, que é -f(x). Esta é uma função ímpar. -->
-- [x] D) $f(x) = x^2 + 3$ <!-- feedback: f(-x) = (-x)² + 3 = x² + 3 = f(x). Logo é par. -->
-- [ ] B) $f(x) = x^3$ <!-- feedback: f(-x) = (-x)³ = -x³. Esta é uma função ímpar. -->
-- [ ] C) $f(x) = x + 1$ <!-- feedback: f(-x) = -x + 1, que não é nem f(x) nem -f(x). -->
+- [ ] A) $f(x) = x^4$ <!-- feedback: $f(-x) = (-x)^4 = x^4 = f(x)$. Esta função é par, não ímpar. -->
+- [ ] B) $f(x) = x^2 - x$ <!-- feedback: $f(-x) = (-x)^2 - (-x) = x^2 + x$. Isso não é igual a $f(x)$ nem a $-f(x)$. -->
+- [ ] C) $f(x) = 5$ <!-- feedback: A constante é uma função par, pois $f(-x) = 5 = f(x)$. -->
+- [x] D) $f(x) = x^3 - 2x$ <!-- feedback: $f(-x) = (-x)^3 - 2(-x) = -x^3 + 2x = -(x^3 - 2x) = -f(x)$. Portanto, é ímpar. -->
 
 ### Explicacion Pedagogica
-Uma função par apresenta simetria em relação ao eixo $y$. Algebricamente, substituir $x$ por $-x$ não altera a expressão final. Em $x^2 + 3$, o expoente par faz com que $(-x)^2$ seja igual a $x^2$.
+A paridade de uma função indica simetria. Nas funções polinomiais onde todas as potências de $x$ são ímpares (como $x^3$ e $x^1$), a substituição de $x$ por $-x$ apenas inverte os sinais de toda a expressão, caracterizando-a como função ímpar.
+
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um analista financeiro em Florianópolis utiliza funções inversas para converter taxas de juros entre diferentes períodos.
+**Contexto:** Em um setor de câmbio na Faria Lima, utiliza-se funções inversas para voltar de dólares para reais.
 
 ### Enunciado
-Qual é a função inversa de $f(x) = 2x - 4$?
+Se a conversão direta é feita por $f(x) = \frac{x - 3}{4}$, qual é a função inversa $f^{-1}(x)$ correspondente?
 
 ### Opciones
-- [ ] A) $f^{-1}(x) = \frac{x}{2} - 4$ <!-- feedback: Erro ao isolar x: o 4 deve mudar de sinal ao passar para o outro lado. -->
-- [x] D) $f^{-1}(x) = \frac{x + 4}{2}$ <!-- feedback: y = 2x - 4 => y + 4 = 2x => x = (y + 4)/2. Trocando as variáveis, temos f⁻¹(x) = (x + 4)/2. -->
-- [ ] B) $f^{-1}(x) = 2x + 4$ <!-- feedback: Inverter a função não é apenas trocar os sinais da expressão original. -->
-- [ ] C) $f^{-1}(x) = \frac{x - 4}{2}$ <!-- feedback: O sinal do 4 deve ser positivo na expressão inversa. -->
+- [ ] A) $f^{-1}(x) = 4x - 3$ <!-- feedback: O -3 passaria somando para o outro lado, não permaneceria negativo. -->
+- [ ] B) $f^{-1}(x) = \frac{4}{x - 3}$ <!-- feedback: A inversa não é o recíproco ou inverso multiplicativo (1/f(x)). -->
+- [ ] C) $f^{-1}(x) = \frac{x+3}{4}$ <!-- feedback: O 4 estava dividindo, tem que passar multiplicando. -->
+- [x] D) $f^{-1}(x) = 4x + 3$ <!-- feedback: $y = (x-3)/4 \Rightarrow 4y = x - 3 \Rightarrow x = 4y + 3$. Trocando: $f^{-1}(x) = 4x + 3$. -->
 
 ### Explicacion Pedagogica
-Para achar a inversa, chamamos $f(x)$ de $y$ e isolamos $x$: $y = 2x - 4 \Rightarrow y + 4 = 2x \Rightarrow x = \frac{y + 4}{2}$. Por fim, trocamos $x$ por $y$ para obter a lei da função inversa: $f^{-1}(x) = \frac{x + 4}{2}$.
+O procedimento para encontrar a função inversa envolve igualar a lei a $y$, isolar a variável $x$ e depois trocar $x$ por $y$. Assim: $y = \frac{x-3}{4} \Rightarrow 4y = x - 3 \Rightarrow x = 4y + 3$. Logo, a expressão final é $4x + 3$.
+
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático estuda o domínio de funções compostas que envolvem raízes e frações.
+**Contexto:** Um engenheiro de controle em Macaé calcula o limite de instabilidade de um reservatório, modelado por raízes e denominadores.
 
 ### Enunciado
-Determine o domínio da função real $f(x) = \frac{\sqrt{x-1}}{x-3}$.
+Qual deve ser o domínio para a função real $f(x) = \frac{\sqrt{2x - 6}}{x - 5}$ existir?
 
 ### Opciones
-- [ ] A) $x \geq 1$ <!-- feedback: Faltou considerar que o denominador x-3 não pode ser zero. -->
-- [ ] B) $x \neq 3$ <!-- feedback: Faltou considerar que x-1 deve ser maior ou igual a zero para a raiz ser real. -->
-- [x] D) $[1, 3) \cup (3, +\infty)$ <!-- feedback: De x-1 ≥ 0 temos x ≥ 1. De x-3 ≠ 0 temos x ≠ 3. A combinação é x ≥ 1 e x ≠ 3. -->
-- [ ] C) $(1, 3)$ <!-- feedback: O domínio estende-se para além do 3. -->
+- [ ] A) $x > 3$ e $x \neq 5$ <!-- feedback: $x$ pode ser exatamente igual a 3, pois a raiz de 0 é 0. -->
+- [ ] B) $x \geq 3$ <!-- feedback: Faltou remover o ponto $x=5$ que zera o denominador. -->
+- [ ] C) $x \neq 5$ <!-- feedback: Falta a restrição imposta pela raiz quadrada (radicando não negativo). -->
+- [x] D) $x \geq 3$ e $x \neq 5$ <!-- feedback: Da raiz: $2x - 6 \geq 0 \Rightarrow 2x \geq 6 \Rightarrow x \geq 3$. Do denominador: $x - 5 \neq 0 \Rightarrow x \neq 5$. -->
 
 ### Explicacion Pedagogica
-Temos duas restrições: 1) O radicando de uma raiz de índice par deve ser não negativo ($x-1 \geq 0 \Rightarrow x \geq 1$); 2) O denominador não pode ser nulo ($x-3 \neq 0 \Rightarrow x \neq 3$). O domínio é a interseção dessas condições.
+O domínio real de uma função exige a análise de todas as restrições simultaneamente. A presença da raiz quadrada exige radicando positivo ou nulo ($2x-6 \geq 0 \Rightarrow x \geq 3$). A presença do denominador proíbe a divisão por zero ($x-5 \neq 0 \Rightarrow x \neq 5$). A intersecção dá a resposta.
+
 
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Em um curso de cálculo em Campinas, discute-se a existência de funções que não possuem lei de formação simples.
+**Contexto:** Num estudo avançado de termodinâmica na USP, lida-se com funções definidas por partes para comportamentos de fase críticos.
 
 ### Enunciado
-Considere a função de Dirichlet definida como $f(x) = 1$ se $x$ é racional e $f(x) = 0$ se $x$ é irracional. Sobre esta função, avalie a veracidade das afirmações:
+Analise a função modular definida por $f(x) = |x - 2|$. Qual afirmação sobre seu contradomínio, domínio e características está correta?
 
 ### Opciones
-- [ ] A) O conjunto imagem da função é o intervalo $[0, 1]$. <!-- feedback: Incorreto. A imagem contém apenas dois pontos discretos: {0, 1}. -->
-- [ ] B) A função é injetora. <!-- feedback: Incorreto. Muitos valores de x levam ao mesmo resultado (todos os racionais levam a 1). -->
-- [x] D) O domínio da função é o conjunto dos números reais $\mathbb{R}$. <!-- feedback: Correto, pois todo número real é ou racional ou irracional, logo a função está definida para todo x real. -->
-- [ ] C) O gráfico desta função é uma linha contínua. <!-- feedback: Incorreto. É uma função extremamente descontínua em todos os pontos. -->
+- [ ] A) O domínio da função são apenas os números positivos. <!-- feedback: O módulo aceita qualquer valor real, logo o domínio é $\mathbb{R}$. -->
+- [ ] B) A função é injetora, logo invertível. <!-- feedback: $|-1-2| = |-3| = 3$ e $|5-2| = |3| = 3$. Como o mesmo resultado advém de dois x distintos, não é injetora. -->
+- [ ] C) A função possui valores na imagem que são negativos. <!-- feedback: Uma função modular, por definição, tem seus resultados restritos aos números não negativos. -->
+- [x] D) A imagem da função é o intervalo $[0, +\infty)$. <!-- feedback: O valor absoluto garante que o resultado nunca será negativo, cobrindo todos os reais não negativos. -->
 
 ### Explicacion Pedagogica
-A função de Dirichlet está definida para todos os números reais, pois o conjunto dos reais é a união dos racionais com os irracionais. Seu domínio é $\mathbb{R}$ e sua imagem é o conjunto finito $\{0, 1\}$.
+A função modular $f(x) = |x - a|$ avalia a distância de um número $x$ até o ponto $a$. Como distâncias não são negativas e podem ser iguais a zero (quando $x=a$), o seu domínio é o conjunto de todos os números reais $\mathbb{R}$ e sua imagem é $\mathbb{R}_+ = [0, +\infty)$.
+
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Um pesquisador analisa propriedades de funções monótonas e suas relações com a bijetividade.
+**Contexto:** Um estatístico no IBGE utiliza funções logarítmicas para achatar os dados de crescimento populacional.
 
 ### Enunciado
-Seja $f: \mathbb{R} \to \mathbb{R}$ uma função estritamente crescente. É correto concluir que:
+Toda função da forma $f(x) = c$, onde $c$ é uma constante real, tem as seguintes propriedades (com exceção do caso onde o domínio possui apenas um elemento):
 
 ### Opciones
-- [x] A) A função $f$ é necessariamente injetora. <!-- feedback: Se a função é estritamente crescente, x1 < x2 implica f(x1) < f(x2), logo imagens de valores diferentes nunca serão iguais. -->
-- [ ] B) A função $f$ é necessariamente sobrejetora. <!-- feedback: Nem sempre. Por exemplo, f(x) = arctan(x) é estritamente crescente mas sua imagem é limitada. -->
-- [ ] C) A função $f$ possui necessariamente um valor máximo. <!-- feedback: Funções crescentes em domínios ilimitados podem crescer indefinidamente. -->
-- [ ] D) $f(0)$ deve ser igual a 0. <!-- feedback: A função pode ser transladada verticalmente (ex: f(x) = x + 1). -->
+- [x] A) Ela não é injetora e seu gráfico é uma reta horizontal. <!-- feedback: Todos os $x$ do domínio mapeiam para o mesmo $c$, portanto nunca será injetora. E graficamente se expressa como reta paralela ao eixo x. -->
+- [ ] B) Ela é bijetora. <!-- feedback: Impossível ser bijetora se todos os pontos do domínio levam ao mesmo ponto da imagem (fere a injetividade e provavelmente sobrejetividade). -->
+- [ ] C) O seu contradomínio não pode ser o conjunto $\mathbb{R}$. <!-- feedback: O contradomínio pode ser $\mathbb{R}$, mas sua imagem será sempre apenas o conjunto unitário {c}. -->
+- [ ] D) Seu domínio é necessariamente um conjunto finito. <!-- feedback: O domínio pode ser infinito (ex: todo os Reais), a constante não impõe limites no domínio. -->
 
 ### Explicacion Pedagogica
-Uma função estritamente crescente preserva a ordem estrita dos elementos. Isso garante que, se tomarmos dois elementos distintos $x_1$ e $x_2$ no domínio, seus valores funcionais $f(x_1)$ e $f(x_2)$ serão obrigatoriamente distintos, o que define uma função injetora.
+Uma função constante associa todos e quaisquer valores do domínio ao mesmo elemento do contradomínio ($c$). Por mapear múltiplos $x$ no mesmo valor $y$, ela não é injetora. No plano cartesiano, os pontos formam a reta horizontal $y = c$.
+
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** No exame de admissão de uma prestigiada faculdade de engenharia em São Paulo, propõe-se um problema sobre funções funcionais.
+**Contexto:** No desenvolvimento de algoritmos de Machine Learning no Porto Digital, são desenhadas funções com propriedades bem específicas.
 
 ### Enunciado
-Determine a função $f(x)$ que satisfaz a equação $f(2x + 1) = 4x^2 + 4x + 5$ para todo $x$ real.
+Sabendo que $f(3x - 2) = 9x^2 - 12x + 7$, qual é a expressão de $f(x)$?
 
 ### Opciones
-- [ ] A) $f(x) = x^2 + 5$ <!-- feedback: Substituindo: $(2x+1)^2 + 5 = 4x^2 + 4x + 1 + 5 = 4x^2 + 4x + 6$, e o enunciado pede $4x^2 + 4x + 5$. -->
-- [x] B) $f(x) = x^2 + 4$ <!-- feedback: $(2x+1)^2 + 4 = 4x^2 + 4x + 1 + 4 = 4x^2 + 4x + 5$, que é exatamente o lado direito da equação. -->
-- [ ] C) $f(x) = 2x^2 + 3$ <!-- feedback: Substituindo: $(2x+1)^2 + 3 = 4x^2 + 4x + 4$, e o termo constante ficaria $4$ em vez de $5$. -->
-- [ ] D) $f(x) = x^2 + 2x + 1$ <!-- feedback: O termo em $x$ está dobrado: $f(2x+1) = (2x+1)^2 + 2(2x+1) + 1 = 4x^2 + 8x + 4$, que não é o enunciado. -->
+- [ ] A) $f(x) = x^2 - 3x$ <!-- feedback: Ao substituir $(3x-2)$, teríamos $(3x-2)^2 - 3(3x-2)$, o que não resultaria na equação do enunciado. -->
+- [x] B) $f(x) = x^2 + 3$ <!-- feedback: Perceba que $9x^2 - 12x + 7$ pode ser reescrito como $(9x^2 - 12x + 4) + 3$, ou seja, $(3x-2)^2 + 3$. Portanto, a estrutura é $f(t) = t^2 + 3$. -->
+- [ ] C) $f(x) = 3x^2 + 4$ <!-- feedback: Se fosse $3x^2+4$, teríamos $3(3x-2)^2$, o que geraria o termo $27x^2$, diferente do $9x^2$ original. -->
+- [ ] D) $f(x) = x^2 - 4x + 1$ <!-- feedback: Se aplicarmos a expressão original, os coeficientes de x não corresponderão. -->
 
 ### Explicacion Pedagogica
-Fazemos uma mudança de variável: seja $t = 2x + 1$. Então $x = \frac{t - 1}{2}$. Substituindo na expressão original: $f(t) = 4(\frac{t-1}{2})^2 + 4(\frac{t-1}{2}) + 5$. Simplificando: $f(t) = 4(\frac{t^2-2t+1}{4}) + 2(t-1) + 5 = t^2 - 2t + 1 + 2t - 2 + 5 = t^2 + 4$. Portanto, $f(x) = x^2 + 4$.
+Podemos resolver notando produtos notáveis. O termo $9x^2 - 12x + 4$ é exatamente o desenvolvimento de $(3x - 2)^2$. Como a expressão original era $9x^2 - 12x + 7$, ela pode ser decomposta em $(3x - 2)^2 + 3$. Substituindo a variável por $t$, vemos que $f(t) = t^2 + 3$.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W02-funcoes-definicao-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático estuda a cardinalidade de conjuntos de funções entre conjuntos finitos.
+**Contexto:** Um analista combinatório em uma universidade na Bahia estuda o mapeamento entre configurações de moléculas químicas.
 
 ### Enunciado
-Dados os conjuntos $A = \{1, 2, 3\}$ e $B = \{a, b, c, d, e\}$, qual é o número total de funções injetoras de $A$ em $B$?
+Se um conjunto $X$ possui 4 elementos e um conjunto $Y$ possui 6 elementos, quantas funções totais diferentes podemos construir de $X$ para $Y$?
 
 ### Opciones
-- [ ] A) 125 <!-- feedback: Este é o número total de funções (5³), não apenas as injetoras. -->
-- [x] D) 60 <!-- feedback: Usamos arranjo simples: A(5, 3) = 5 * 4 * 3 = 60. -->
-- [ ] B) 10 <!-- feedback: Este é o número de subconjuntos de 3 elementos de B (combinação). -->
-- [ ] C) 15 <!-- feedback: Cálculo incorreto das possibilidades. -->
+- [ ] A) 24 <!-- feedback: Esta seria a multiplicação simples $4 \times 6$, que não modela o número de funções. -->
+- [ ] B) 4096 <!-- feedback: Este seria o resultado se invertêssemos, isto é, $4^6$, funções de Y para X. -->
+- [ ] C) 360 <!-- feedback: Este seria o arranjo, equivalente a contar apenas as funções injetoras (6*5*4*3). -->
+- [x] D) 1296 <!-- feedback: Para cada um dos 4 elementos de X, há 6 opções em Y. O total é $6 \times 6 \times 6 \times 6 = 6^4 = 1296$. -->
 
 ### Explicacion Pedagogica
-Para uma função ser injetora, cada elemento de $A$ deve escolher um elemento diferente de $B$. O primeiro elemento de $A$ tem 5 opções em $B$, o segundo tem 4 opções restantes e o terceiro tem 3 opções. Pelo Princípio Fundamental da Contagem: $5 \cdot 4 \cdot 3 = 60$.
+Na construção de uma função de um conjunto finito $X$ para um conjunto $Y$, cada elemento do domínio $X$ precisa de uma imagem no contradomínio $Y$. O 1º elemento de $X$ tem 6 opções, o 2º tem 6, o 3º tem 6 e o 4º tem 6. Total = $6^4 = 1296$ funções totais.
