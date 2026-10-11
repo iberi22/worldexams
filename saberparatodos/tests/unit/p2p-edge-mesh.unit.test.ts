@@ -50,7 +50,7 @@ const {
   };
 });
 
-vi.mock('../../src/lib/vendor/edge-mesh/dist/edge-mesh.js', () => {
+vi.mock('@swal/edge-mesh', () => {
   class MockEdgeMesh {
     iniciar = mockEdgeMeshInstance.iniciar;
     detener = mockEdgeMeshInstance.detener;
@@ -58,27 +58,12 @@ vi.mock('../../src/lib/vendor/edge-mesh/dist/edge-mesh.js', () => {
     off = mockEdgeMeshInstance.off;
     yjsAdapter = mockEdgeMeshInstance.yjsAdapter;
   }
-  return {
-    EdgeMesh: MockEdgeMesh,
-  };
-});
-
-vi.mock('../../src/lib/vendor/edge-mesh/dist/salones/manager.js', () => {
   class MockSalonesManager {
     crearSalon = mockSalonesManagerInstance.crearSalon;
     unirseSalon = mockSalonesManagerInstance.unirseSalon;
     abandonarSalon = mockSalonesManagerInstance.abandonarSalon;
     usarRegistry = vi.fn();
   }
-  return {
-    SalonesManager: MockSalonesManager,
-    TIPO_SALON: {
-      EXAMEN: 'EXAMEN',
-    },
-  };
-});
-
-vi.mock('../../src/lib/vendor/edge-mesh/dist/chat/index.js', () => {
   class MockExamenCompartido {
     addEventListener = mockExamenCompartidoInstance.addEventListener;
     cargarPreguntas = mockExamenCompartidoInstance.cargarPreguntas;
@@ -92,6 +77,11 @@ vi.mock('../../src/lib/vendor/edge-mesh/dist/chat/index.js', () => {
     obtenerEstado = mockExamenCompartidoInstance.obtenerEstado;
   }
   return {
+    EdgeMesh: MockEdgeMesh,
+    SalonesManager: MockSalonesManager,
+    TIPO_SALON: {
+      EXAMEN: 'EXAMEN',
+    },
     ExamenCompartido: MockExamenCompartido,
     TIPO_PREGUNTA: {
       OPCION_MULTIPLE: 'opcion_multiple',

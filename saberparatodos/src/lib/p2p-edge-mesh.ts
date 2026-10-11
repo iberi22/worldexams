@@ -1,5 +1,5 @@
 // ─── ADAPTADOR EDGE-MESH → WORLDEXAMS ──────────────────────────────────────
-// Bridge entre el core real `@iberi22/edge-mesh` (cores/edge-mesh) y la
+// Bridge entre el core publicado `@swal/edge-mesh` (npm) y la
 // infraestructura existente de worldexams/saberparatodos.
 //
 // API real verificada del core:
@@ -17,19 +17,19 @@
 // Trystero (p2p-service) se mantiene como legacy hasta probar este bridge.
 // ────────────────────────────────────────────────────────────────────────────
 
-import { EdgeMesh } from "./vendor/edge-mesh/dist/edge-mesh.js";
+import { EdgeMesh } from "@swal/edge-mesh";
 import {
 	SalonesManager,
 	SalonVirtual,
 	TIPO_SALON,
-} from "./vendor/edge-mesh/dist/salones/manager.js";
+} from "@swal/edge-mesh";
 import {
 	ExamenCompartido,
 	TIPO_PREGUNTA,
 	type Pregunta as EdgePregunta,
 	type TipoPregunta,
-} from "./vendor/edge-mesh/dist/chat/index.js";
-import type { NodoId } from "./vendor/edge-mesh/dist/types/index.js";
+} from "@swal/edge-mesh";
+import type { NodoId } from "@swal/edge-mesh";
 import { SalonDirectory, type SalonAd } from "./mesh/salon-directory";
 
 import { writable, derived, type Writable, type Readable } from "svelte/store";
