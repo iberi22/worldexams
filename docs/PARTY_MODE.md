@@ -14,12 +14,11 @@
 1. [Visión General](#visión-general)
 2. [Arquitectura](#arquitectura)
 3. [Modos de Operación](#modos-de-operación)
-4. [Modelo de Negocio](#modelo-de-negocio)
-5. [Stack Tecnológico](#stack-tecnológico)
-6. [Seguridad y Anti-Cheat](#seguridad-y-anti-cheat)
-7. [Instalación](#instalación)
-8. [Uso](#uso)
-9. [Licenciamiento](#licenciamiento)
+4. [Stack Tecnológico](#stack-tecnológico)
+5. [Seguridad y Anti-Cheat](#seguridad-y-anti-cheat)
+6. [Instalación](#instalación)
+7. [Uso](#uso)
+8. [Licenciamiento](#licenciamiento)
 
 ---
 
@@ -395,7 +394,6 @@ No requiere instalación. Solo visitar https://app.saberparatodos.com
 ### Fase 3: Modo Cloud Premium (📅 Feb 2026)
 - [ ] Deploy a Railway/Fly.io
 - [ ] PostgreSQL + Redis
-- [ ] Sistema de suscripciones (Stripe)
 - [ ] IA Proctoring avanzado
 - [ ] Preguntas Premium
 

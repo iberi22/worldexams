@@ -93,7 +93,7 @@ Este documento traquea el progreso del proyecto y las próximas fases.
 
 ---
 
-## 🌍 Fase 6: Expansión Regional (2026+)
+## 🌍 Fase 5: Expansión Regional (2026+)
 
 ### Trigger
 
