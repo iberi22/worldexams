@@ -91,7 +91,7 @@ Portanto, os termos são 5, 7 e 9, formando uma progressão aritmética de razã
 Qual será o consumo registrado no quinto mês de observação?
 
 ### Opciones
-- [ ] A) 9. <!-- feedback: Incorreto. Este seria o consumo no terceiro mês. -->
+- [ ] A) 9. <!-- feedback: Incorreto. No terceiro mês o consumo seria $3^2-1 = 8$, não 9. -->
 - [ ] B) 15. <!-- feedback: Incorreto. Este seria o consumo no quarto mês ($16-1$). -->
 - [ ] C) 20. <!-- feedback: Incorreto. A conta correta é $5^2 - 1 = 25 - 1 = 24$. -->
 - [x] D) 24. <!-- feedback: Correto. Substituindo $n=5$ na fórmula, temos $C_5 = 5^2 - 1 = 25 - 1 = 24$. -->
