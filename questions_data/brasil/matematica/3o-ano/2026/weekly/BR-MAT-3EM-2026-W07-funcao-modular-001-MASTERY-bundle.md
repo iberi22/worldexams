@@ -24,389 +24,419 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante em São Paulo está revisando o conceito de módulo (ou valor absoluto) de um número real.
+**Contexto:** Um professor do ensino médio em Belo Horizonte inicia a aula sobre distâncias matemáticas.
 
 ### Enunciado
-Qual é a definição correta do módulo de um número real $x$, denotado por $|x|$?
+Sobre o valor absoluto de um número real $k$, indicado por $|k|$, assinale a alternativa que traz a sua definição algébrica padrão.
 
 ### Opciones
-- [ ] A) É sempre o número $x$, independente do sinal. <!-- feedback: Incorreto. Se x for negativo, o módulo muda o sinal para torná-lo positivo. -->
-- [x] B) É igual a $x$ se $x \geq 0$, e igual a $-x$ se $x < 0$. <!-- feedback: Correto. Esta é a definição algébrica que garante que o resultado seja sempre não negativo. -->
-- [ ] C) É o quadrado do número $x$. <!-- feedback: Incorreto. Embora x² seja positivo, o valor é diferente do módulo. -->
-- [ ] D) É a raiz quadrada do número $x$. <!-- feedback: A raiz quadrada só é definida para x não negativo no conjunto dos reais. -->
+- [ ] A) É o inverso do número, independentemente do seu valor original. <!-- feedback: Incorreto. O inverso de x é 1/x. -->
+- [x] B) $|k| = k$ se $k \geq 0$ e $|k| = -k$ se $k < 0$. <!-- feedback: Correto. A definição algébrica de módulo garante um resultado não-negativo. -->
+- [ ] C) É o dobro do número se ele for positivo. <!-- feedback: O módulo não multiplica o valor por dois. -->
+- [ ] D) É sempre equivalente a $k^2$ para qualquer $k$. <!-- feedback: k² e |k| são diferentes, embora ambos sejam não-negativos. -->
 
 ### Explicacion Pedagogica
-O módulo de um número representa sua distância até a origem na reta numérica. Como distâncias são sempre não negativas, o módulo de um número positivo é ele mesmo, e o de um negativo é o seu oposto (positivo).
+A definição clássica de módulo foca em tornar qualquer número real em não-negativo. Matematicamente, preservamos o valor se ele já for maior ou igual a zero ($|k| = k$), ou trocamos o sinal multiplicando por $-1$ se ele for negativo ($|k| = -k$).
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Em uma aula de geometria analítica no Rio de Janeiro, o professor discute as propriedades do valor absoluto.
+**Contexto:** Um caixa de supermercado em Recife calcula as diferenças nos saldos dos caixas no fim do dia usando valores absolutos.
 
 ### Enunciado
-Qual é o valor da expressão $| -7 | + | 3 | - | -2 |$?
+Calcule o valor da expressão aritmética $E = | -15 | - | -6 | + | 4 |$.
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Erro de sinal na última operação. -->
-- [x] C) 8 <!-- feedback: 7 + 3 - 2 = 8. -->
-- [ ] B) 4 <!-- feedback: Erro no cálculo dos módulos individuais. -->
-- [ ] D) -6 <!-- feedback: O resultado de uma soma de módulos (com sinal de menos fora) pode ser negativo, mas aqui o cálculo dá 8. -->
+- [ ] A) -13 <!-- feedback: Erro nos sinais. O módulo de um número negativo é positivo. -->
+- [ ] B) 10 <!-- feedback: Houve erro na soma final após retirar os módulos. -->
+- [x] C) 13 <!-- feedback: |-15| = 15; |-6| = 6; |4| = 4. Logo 15 - 6 + 4 = 13. -->
+- [ ] D) 25 <!-- feedback: Você provavelmente somou todos os valores absolutos. -->
 
 ### Explicacion Pedagogica
-Primeiro calculamos cada módulo: $|-7| = 7$, $|3| = 3$ e $|-2| = 2$. Depois realizamos as operações indicadas: $7 + 3 - 2 = 10 - 2 = 8$.
+O primeiro passo é calcular os módulos: $|-15| = 15$, $|-6| = 6$ e $|4| = 4$. Depois, aplicamos os sinais das operações contidos na expressão: $15 - 6 + 4 = 9 + 4 = 13$.
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um arquiteto em Brasília projeta um monumento cujo perfil segue o gráfico da função modular básica.
+**Contexto:** Um urbanista em Manaus analisa o esboço do teto de um galpão que pode ser modelado por uma função matemática envolvendo módulo.
 
 ### Enunciado
-Qual é o formato característico do gráfico da função $f(x) = |x|$ no plano cartesiano?
+Em relação ao gráfico cartesiano da função $g(x) = |x - 2|$, qual de suas características geométricas é mais evidente?
 
 ### Opciones
-- [ ] A) Uma linha reta inclinada. <!-- feedback: Este é o gráfico de uma função afim. -->
-- [ ] B) Uma parábola com concavidade para cima. <!-- feedback: Este é o gráfico de uma função quadrática. -->
-- [x] C) Um formato de "V" com vértice na origem. <!-- feedback: Correto. A função é composta por duas semirretas: y = x para x ≥ 0 e y = -x para x < 0. -->
-- [ ] D) Uma curva que se aproxima dos eixos mas nunca os toca. <!-- feedback: Este seria o gráfico de uma função racional ou exponencial/logarítmica. -->
+- [ ] A) Ele é idêntico a uma reta que passa pela origem. <!-- feedback: O módulo altera o formato de reta para "V". -->
+- [ ] B) O gráfico é uma parábola de vértice $(2, 0)$. <!-- feedback: O gráfico forma um ângulo e é reto em seus ramos, não uma curva parabólica. -->
+- [x] C) Tem o formato da letra "V" com seu vértice localizado no ponto $(2, 0)$. <!-- feedback: Correto. A translação horizontal não altera a forma de "V", apenas move o vértice para a direita. -->
+- [ ] D) Tem a forma de um "U" arredondado no ponto $(-2, 0)$. <!-- feedback: A função modular básica tem o bico pontiagudo (não arredondado) e o deslocamento seria x=2, não x=-2. -->
 
 ### Explicacion Pedagogica
-A função modular $f(x) = |x|$ é uma função definida por duas sentenças. Para valores positivos de $x$, ela se comporta como $y = x$ (bissetriz do 1º quadrante). Para valores negativos, como $y = -x$ (bissetriz do 2º quadrante). O encontro dessas retas na origem forma um "V".
+A função modular $g(x) = |x - 2|$ tem seu menor valor (zero) quando $x - 2 = 0$, que resulta em $x = 2$. Seu gráfico resulta de duas semirretas que se encontram no vértice $(2, 0)$, caracterizando um formato geométrico de "V".
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um técnico de controle de qualidade em Curitiba utiliza funções modulares para medir o desvio de uma peça em relação ao padrão.
+**Contexto:** Em um experimento de física escolar em Curitiba, os alunos medem o tempo e querem expressar todos os intervalos absolutos graficamente.
 
 ### Enunciado
-Qual é o conjunto imagem da função modular $f(x) = |x|$ definida para todo $x$ real?
+Qual é o domínio da função modular $h(x) = |3x - 1|$ considerando-se o maior conjunto possível nos reais?
 
 ### Opciones
-- [ ] B) $\mathbb{R}$ <!-- feedback: O módulo nunca resulta em números negativos. -->
-- [x] A) $[0, +\infty)$ <!-- feedback: Correto. O valor absoluto é sempre maior ou igual a zero. -->
-- [ ] C) $(0, +\infty)$ <!-- feedback: A imagem inclui o zero, pois |0| = 0. -->
-- [ ] D) $(-\infty, 0]$ <!-- feedback: Esta seria a imagem da função f(x) = -|x|. -->
+- [x] A) $\mathbb{R}$ <!-- feedback: Correto. Você pode inserir qualquer valor real em uma função modular afim. -->
+- [ ] B) $[0, +\infty)$ <!-- feedback: Este intervalo descreveria a imagem da função, não o domínio. -->
+- [ ] C) $\mathbb{R}^*$ (reais diferentes de zero) <!-- feedback: O valor zero também pode ser aplicado na função sem qualquer restrição. -->
+- [ ] D) $[1/3, +\infty)$ <!-- feedback: O ponto x=1/3 é onde o gráfico cruza o eixo, mas a função existe para valores menores que 1/3 também. -->
 
 ### Explicacion Pedagogica
-O valor absoluto de qualquer número real é, por definição, não negativo. Portanto, a função $f(x) = |x|$ assume todos os valores de 0 até o infinito positivo.
+A expressão $3x - 1$ é um polinômio de primeiro grau, e pode ser calculada para qualquer número real. Como tirar o módulo de um número real sempre é possível e resulta num valor real, a função $h(x)$ não possui restrições de entrada. Logo, o domínio é $\mathbb{R}$.
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um programador em Belo Horizonte utiliza a função modular para garantir que a diferença entre duas variáveis seja sempre tratada como uma distância positiva.
+**Contexto:** Uma fábrica no interior paulista calibra uma máquina de corte. A margem de corte obedece à equação modular $|x + 2| = 4$.
 
 ### Enunciado
-Resolva a equação modular: $|x - 5| = 3$.
+Determine os valores possíveis de $x$ que resolvem a equação modular $|x + 2| = 4$.
 
 ### Opciones
-- [ ] A) $x = 8$ apenas. <!-- feedback: Existe outra solução onde o conteúdo do módulo é negativo. -->
-- [x] C) $x = 8$ ou $x = 2$. <!-- feedback: x - 5 = 3 => x = 8; ou x - 5 = -3 => x = 2. -->
-- [ ] B) $x = 8$ ou $x = -2$. <!-- feedback: Se x = -2, |-2 - 5| = |-7| = 7 ≠ 3. -->
-- [ ] D) $x = 3$ ou $x = -3$. <!-- feedback: Estas seriam as soluções de |x| = 3. -->
+- [ ] A) $x = 2$ apenas. <!-- feedback: Lembre-se de analisar o caso negativo da definição de módulo. -->
+- [ ] B) $x = -2$ ou $x = 2$. <!-- feedback: Esta seria a solução de |x| = 2. -->
+- [x] C) $x = 2$ ou $x = -6$. <!-- feedback: Correto. A equação se divide em x + 2 = 4 e x + 2 = -4. -->
+- [ ] D) $x = 6$ ou $x = -2$. <!-- feedback: Houve um erro de sinal. Ao passar +2 para o outro lado ele vai como -2. -->
 
 ### Explicacion Pedagogica
-Uma equação do tipo $|u| = a$ (com $a > 0$) desdobra-se em duas possibilidades: $u = a$ ou $u = -a$. Assim, $x - 5 = 3 \Rightarrow x = 8$, ou $x - 5 = -3 \Rightarrow x = 2$. Ambas as soluções são válidas.
+A equação $|u| = a$ (quando $a > 0$) implica duas condições: $u = a$ e $u = -a$.
+Aplicando ao problema:
+1) $x + 2 = 4 \Rightarrow x = 2$
+2) $x + 2 = -4 \Rightarrow x = -6$
+Esses são os dois cortes ou raízes onde a condição é atendida.
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Em um laboratório em Manaus, um sensor registra a variação de pressão, e apenas a magnitude do desvio em relação à média é importante.
+**Contexto:** Um motorista de aplicativo no Rio de Janeiro monitora a diferença quilométrica percorrida a cada semana.
 
 ### Enunciado
-Dada a função $f(x) = |x| + 2$, qual é o valor mínimo que esta função assume?
+Quantas raízes reais (soluções) tem a equação $|3x - 9| = 0$?
 
 ### Opciones
-- [ ] A) 0 <!-- feedback: O valor mínimo do módulo é 0, mas somamos 2 a ele. -->
-- [x] B) 2 <!-- feedback: Como |x| ≥ 0, então |x| + 2 ≥ 2. O mínimo ocorre quando x = 0. -->
-- [ ] C) -2 <!-- feedback: A função nunca assume valores negativos. -->
-- [ ] D) A função não possui valor mínimo. <!-- feedback: Como o gráfico é um "V" que abre para cima, ele possui um ponto mais baixo. -->
+- [ ] A) Duas raízes reais diferentes. <!-- feedback: O módulo é igual a zero, portanto, só há uma possibilidade para o conteúdo do módulo. -->
+- [x] B) Apenas uma raiz real. <!-- feedback: Correto. Se o módulo é nulo, o termo interno é obrigatoriamente zero, gerando 3x - 9 = 0. -->
+- [ ] C) Nenhuma raiz real. <!-- feedback: Existe solução real. Quando o resultado do módulo é nulo, resolve-se a equação simples. -->
+- [ ] D) Infinitas raízes. <!-- feedback: É uma equação polinomial de grau 1 sob módulo, não uma identidade para todos os reais. -->
 
 ### Explicacion Pedagogica
-O gráfico de $f(x) = |x| + 2$ é o gráfico de $|x|$ deslocado 2 unidades para cima. O vértice, que estava em $(0,0)$, agora está em $(0,2)$. O menor valor de $y$ na imagem é 2.
+Se o módulo de uma expressão for exatamente igual a $0$, não existem opções positivas e negativas para desdobrar a equação (já que $+0 = -0$). Portanto, basta resolver $3x - 9 = 0 \Rightarrow 3x = 9 \Rightarrow x = 3$. Existe uma única raiz.
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um estudante resolve uma expressão que combina módulos de números racionais e inteiros.
+**Contexto:** Um pesquisador da USP elabora um teste padronizado utilizando funções modulares contínuas.
 
 ### Enunciado
-Calcule o valor de $x$ se $x = | - \frac{1}{2} | - | - 2 | + | 5 |$.
+Seja a função $f(x) = |x - 4| + |x|$. Encontre o valor numérico de $f(-2)$.
 
 ### Opciones
-- [ ] B) 2,5 <!-- feedback: Erro de operação aritmética. -->
-- [x] A) 3,5 <!-- feedback: 0,5 - 2 + 5 = 3,5. -->
-- [ ] C) 7,5 <!-- feedback: Erro ao tratar todos os sinais como positivos na soma final. -->
-- [ ] D) -1,5 <!-- feedback: Cálculo incorreto dos módulos. -->
+- [x] A) 8 <!-- feedback: |-2 - 4| + |-2| = |-6| + 2 = 6 + 2 = 8. Correto. -->
+- [ ] B) 6 <!-- feedback: Esqueceu de somar o segundo módulo. -->
+- [ ] C) 4 <!-- feedback: Cuidado na soma dos módulos após a substituição de x = -2. -->
+- [ ] D) 2 <!-- feedback: Ao aplicar módulo, valores que eram negativos somam positivamente. -->
 
 ### Explicacion Pedagogica
-Substituímos pelos valores absolutos: $|-1/2| = 0,5$; $|-2| = 2$; $|5| = 5$. A expressão torna-se $0,5 - 2 + 5 = 3,5$.
+Primeiramente substituímos o valor de $x = -2$ na função:
+$f(-2) = |-2 - 4| + |-2|$
+$f(-2) = |-6| + 2$
+$f(-2) = 6 + 2 = 8$.
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Em um concurso público em São Paulo, cai uma questão sobre a distância entre pontos na reta real usando módulo.
+**Contexto:** Um biólogo marinho em Natal, no Rio Grande do Norte, mede a variação da profundidade das marés num estuário.
 
 ### Enunciado
-A distância entre dois números reais $a$ e $b$ é dada por $|a - b|$. Qual é a distância entre os pontos $-15$ e $8$?
+Qual é a menor solução (raiz) possível para a equação modular $|2x - 7| = 15$?
 
 ### Opciones
-- [ ] B) 7 <!-- feedback: Erro ao subtrair os valores sem considerar o sinal negativo do 15. -->
-- [x] A) 23 <!-- feedback: |-15 - 8| = |-23| = 23. -->
-- [ ] C) -23 <!-- feedback: Distância é sempre uma grandeza positiva. -->
-- [ ] D) 15 <!-- feedback: O $15$ é o módulo de apenas um dos números: a subtração dá $-15-8=-23$ e o módulo de $23$ é $23$, não $15$. -->
+- [x] A) $x = -4$ <!-- feedback: Correto. A equação resulta em x = 11 ou x = -4, sendo -4 a menor. -->
+- [ ] B) $x = -11$ <!-- feedback: Houve um erro no desdobramento das equações. A raiz menor é -4. -->
+- [ ] C) $x = 4$ <!-- feedback: Verifique a troca de sinal na equação 2x - 7 = -15. -->
+- [ ] D) $x = 11$ <!-- feedback: Essa é uma das raízes, mas o enunciado pede a menor solução possível. -->
 
 ### Explicacion Pedagogica
-Aplicamos a fórmula da distância: $|-15 - 8| = |-23|$. O valor absoluto de $-23$ é $23$.
+Temos duas possibilidades:
+1) $2x - 7 = 15 \Rightarrow 2x = 22 \Rightarrow x = 11$.
+2) $2x - 7 = -15 \Rightarrow 2x = -8 \Rightarrow x = -4$.
+As soluções são $x = 11$ e $x = -4$. A menor dentre elas é $-4$.
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um técnico em eletrônica mede a diferença de potencial entre dois terminais e está interessado apenas na magnitude dessa diferença.
+**Contexto:** Em uma análise estatística na cidade de Belém, Pará, as anomalias da temperatura precisam se manter dentro de um teto tolerável.
 
 ### Enunciado
-Determine os valores de $x$ que satisfazem a equação $|2x| = 10$.
+Ache o maior valor inteiro de $x$ que satisfaz a inequação $|x - 1| \leq 3$.
 
 ### Opciones
-- [ ] A) $x = 5$ apenas. <!-- feedback: Faltou a solução negativa. -->
-- [x] D) $x = 5$ ou $x = -5$. <!-- feedback: 2x = 10 => x = 5; ou 2x = -10 => x = -5. -->
-- [ ] B) $x = 10$ ou $x = -10$. <!-- feedback: Esqueceu de dividir pelo coeficiente 2. -->
-- [ ] C) $x = 20$ ou $x = -20$. <!-- feedback: Operação incorreta. -->
+- [ ] A) $x = 2$ <!-- feedback: O intervalo é maior. Teste x = 3 ou 4. -->
+- [ ] B) $x = 3$ <!-- feedback: x = 3 resulta em |2| ≤ 3, mas não é o maior inteiro possível. -->
+- [ ] C) $x = -2$ <!-- feedback: O menor valor do intervalo é -2, mas queremos o maior. -->
+- [x] D) $x = 4$ <!-- feedback: Correto. A inequação nos dá -3 ≤ x - 1 ≤ 3, resultando em -2 ≤ x ≤ 4. O maior é 4. -->
 
 ### Explicacion Pedagogica
-Temos duas possibilidades: $2x = 10$, o que nos dá $x = 5$; ou $2x = -10$, o que nos dá $x = -5$.
+A regra prática para a inequação do tipo $|u| \leq k$ é $-k \leq u \leq k$.
+Aplicando isso:
+$-3 \leq x - 1 \leq 3$
+Somando 1 em todos os lados:
+$-2 \leq x \leq 4$.
+O conjunto de soluções em $\mathbb{R}$ é o intervalo fechado $[-2, 4]$. O maior valor inteiro presente é $4$.
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um estudante em Fortaleza analisa o gráfico de uma função modular simples com deslocamento horizontal.
+**Contexto:** Um estudante de computação gráfica de Campina Grande necessita representar o ponto mais baixo da letra V renderizada na tela.
 
 ### Enunciado
-Qual é o vértice da função $f(x) = |x + 3|$?
+Considere a função real $f(x) = |x + 5| - 2$. Qual é a coordenada $(x, y)$ do vértice correspondente ao ponto de mínimo do seu gráfico?
 
 ### Opciones
-- [ ] A) $(3, 0)$ <!-- feedback: Para o vértice estar em 3, a função deveria ser |x - 3|. -->
-- [x] C) $(-3, 0)$ <!-- feedback: O "V" toca o eixo x quando x + 3 = 0, ou seja, x = -3. -->
-- [ ] B) $(0, 3)$ <!-- feedback: Este é o intercepto y da função. -->
-- [ ] D) $(0, -3)$ <!-- feedback: O ponto $(0,-3)$ não pertence ao gráfico: o vértice tem ordenada $0$, e não $-3$. -->
+- [ ] A) $(5, 2)$ <!-- feedback: A translação no eixo x altera o sinal da raiz. -->
+- [ ] B) $(5, -2)$ <!-- feedback: A raiz interna do módulo é obtida com x = -5. -->
+- [x] C) $(-5, -2)$ <!-- feedback: O termo do módulo zera quando x = -5, e nesse momento o valor de y é -2. -->
+- [ ] D) $(0, 3)$ <!-- feedback: O ponto (0, 3) é onde o gráfico intercepta o eixo y, mas não é o vértice. -->
 
 ### Explicacion Pedagogica
-O vértice de uma função modular do tipo $|x - h|$ ocorre no ponto onde o argumento é zero. Resolvendo $x + 3 = 0$, encontramos $x = -3$. Como não há deslocamento vertical, o vértice é $(-3, 0)$.
+O vértice de uma função na forma $f(x) = a|x - x_v| + y_v$ ocorre exatamente onde a parte do módulo zera. Para zerar $|x + 5|$, o $x$ deve ser $-5$. Nesse instante, o módulo vale $0$ e a função atinge seu valor mínimo: $f(-5) = 0 - 2 = -2$. Portanto, o vértice é $(-5, -2)$.
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um engenheiro civil em Salvador projeta uma junta de dilatação onde a folga deve estar dentro de um intervalo modular de segurança.
+**Contexto:** Em um sistema de trânsito inteligente de São Luís, a diferença de velocidade entre dois carros não deve ultrapassar um certo limite.
 
 ### Enunciado
-Qual é o conjunto solução da inequação modular $|x - 2| \leq 4$?
+Qual é o conjunto de soluções reais da inequação $|x + 3| < 2$?
 
 ### Opciones
-- [ ] A) $x \leq 6$ <!-- feedback: Incompleto. A inequação modular também impõe um limite inferior. -->
-- [x] C) $-2 \leq x \leq 6$ <!-- feedback: -4 ≤ x - 2 ≤ 4. Somando 2 em todos os termos: -2 ≤ x ≤ 6. -->
-- [ ] B) $2 \leq x \leq 4$ <!-- feedback: Cálculo incorreto dos limites do intervalo. -->
-- [ ] D) $x \leq -2$ ou $x \geq 6$ <!-- feedback: Esta seria a solução para |x - 2| ≥ 4. -->
+- [ ] A) $(-5, -1)$ fechado nos extremos. <!-- feedback: O sinal da inequação é estritamente menor, então o intervalo é aberto. -->
+- [ ] B) $x < -1$ <!-- feedback: Falta a restrição inferior do intervalo. -->
+- [x] C) $-5 < x < -1$ <!-- feedback: -2 < x + 3 < 2. Subtraindo 3 de tudo, -5 < x < -1. -->
+- [ ] D) $x < -5$ ou $x > -1$ <!-- feedback: Isso ocorreria se tivéssemos |x + 3| > 2. -->
 
 ### Explicacion Pedagogica
-A inequação $|u| \leq a$ equivale a $-a \leq u \leq a$. Portanto, $-4 \leq x - 2 \leq 4$. Somando 2 em todas as partes da desigualdade, obtemos $-2 \leq x \leq 6$.
+De acordo com a propriedade do módulo em inequações de restrição (tipo menor que), o argumento deve estar contido entre $-a$ e $a$.
+Logo: $-2 < x + 3 < 2$.
+Subtraindo 3 em todos os termos:
+$-5 < x < -1$.
+A solução é o intervalo aberto $(-5, -1)$.
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Goiânia desafia seus alunos a esboçar o gráfico de uma função modular composta por uma função do 2º grau.
+**Contexto:** Um professor em João Pessoa solicita aos alunos que examinem as transformações geométricas nas raízes de equações do segundo grau sob o operador modular.
 
 ### Enunciado
-Quantos pontos de interseção com o eixo $x$ possui a função $f(x) = |x^2 - 4|$?
+Quantas vezes o gráfico da função $f(x) = |x^2 - 9|$ intercepta o eixo $x$?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: A função x²-4 possui duas raízes distintas. -->
-- [x] C) 2 <!-- feedback: As raízes ocorrem onde o conteúdo do módulo é zero: x² - 4 = 0 => x = ±2. -->
-- [ ] B) 4 <!-- feedback: O módulo apenas reflete a parte negativa para cima, não cria novas raízes. -->
-- [ ] D) Nenhum <!-- feedback: A função toca o eixo x nos pontos onde x² - 4 = 0. -->
+- [ ] A) 1 <!-- feedback: Há mais de um ponto onde a função zera. -->
+- [ ] B) 3 <!-- feedback: Uma equação de 2º grau sob módulo intercepta o eixo na mesma quantidade de raízes reais que o trinômio possui. -->
+- [x] C) 2 <!-- feedback: As interseções ocorrem em x = 3 e x = -3. -->
+- [ ] D) 4 <!-- feedback: Apenas o módulo reflete a parábola para a parte superior, as raízes originais são apenas duas. -->
 
 ### Explicacion Pedagogica
-Os zeros da função $f(x) = |g(x)|$ são os mesmos zeros da função $g(x)$. Como $x^2 - 4 = 0$ resulta em $x = 2$ e $x = -2$, a função modular possui 2 interseções com o eixo das abscissas.
+A interseção com o eixo horizontal acontece quando $f(x) = 0$. Como o módulo só zera quando sua base zera, isso nos leva à equação:
+$x^2 - 9 = 0$
+$x^2 = 9$
+$x = 3$ ou $x = -3$.
+Existem exatamente duas interseções com o eixo $x$.
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um arquiteto em Porto Alegre analisa a simetria de uma estrutura metálica modelada por funções modulares.
+**Contexto:** Um agrônomo em Cuiabá aplica a função modular para projetar curvas de irrigação com padrões repetitivos no terreno.
 
 ### Enunciado
-Sobre a paridade da função $f(x) = |x|$, é correto afirmar que:
+Dada a função $f(x) = -|x + 2|$, qual das características a seguir descreve seu comportamento?
 
 ### Opciones
-- [x] A) É uma função par. <!-- feedback: f(-x) = |-x| = |x| = f(x). Simetria em relação ao eixo y. -->
-- [ ] B) É uma função ímpar. <!-- feedback: f(-x) não é igual a -f(x). |-x| ≠ -|x| para x ≠ 0. -->
-- [ ] C) Não possui paridade definida. <!-- feedback: Ela satisfaz a condição de função par. -->
-- [ ] D) É par e ímpar ao mesmo tempo. <!-- feedback: A única função que é par e ímpar simultaneamente é a função nula f(x) = 0. -->
+- [x] A) Ela possui um valor máximo em $y = 0$. <!-- feedback: Como |x + 2| é sempre positivo ou nulo, -|x + 2| será negativo ou nulo. O maior valor é 0. -->
+- [ ] B) Seu gráfico é uma parábola com a concavidade para baixo. <!-- feedback: Trata-se de retas, com o formato de um "V" invertido, não uma parábola. -->
+- [ ] C) A função sempre retorna valores positivos, independentemente do x. <!-- feedback: Por causa do sinal negativo externo, ela retorna sempre valores não-positivos. -->
+- [ ] D) Ela não possui interseção com o eixo x. <!-- feedback: Ela toca o eixo x no vértice (-2, 0). -->
 
 ### Explicacion Pedagogica
-Uma função é par se $f(x) = f(-x)$ para todo $x$. Como o valor absoluto de um número e de seu oposto são iguais, a função modular básica é par e seu gráfico é simétrico em relação ao eixo vertical.
+Sabemos que a expressão modular em si é $|x + 2| \geq 0$. Ao multiplicar isso por um sinal de menos, o resultado torna-se negativo ou zero: $f(x) \leq 0$. O valor de $f(x)$ atinge seu limite superior ($0$) no vértice, tornando zero o máximo alcançável, resultando em um gráfico de forma "V" de cabeça para baixo.
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um estatístico em São Paulo utiliza a função modular para calcular o erro médio absoluto de uma previsão de vendas.
+**Contexto:** Um engenheiro de software no Polo Digital de Recife (Porto Digital) otimiza um código que analisa a paridade das funções que lidam com módulos.
 
 ### Enunciado
-Simplifique a expressão $f(x) = \frac{|x|}{x}$ para $x \neq 0$. Quais valores esta função pode assumir?
+Ao simplificar a expressão $g(x) = |x| \cdot x$, como podemos descrever a paridade de $g(x)$?
 
 ### Opciones
-- [ ] B) Qualquer número real. <!-- feedback: A razão entre um número e seu módulo só pode resultar em dois valores específicos. -->
-- [x] A) $\{-1, 1\}$ <!-- feedback: Se x > 0, x/x = 1. Se x < 0, -x/x = -1. -->
-- [ ] C) $\{0, 1\}$ <!-- feedback: A função nunca é zero para x ≠ 0. -->
-- [ ] D) $[0, +\infty)$ <!-- feedback: A função não assume valores contínuos, apenas dois valores discretos. -->
+- [x] A) É uma função ímpar. <!-- feedback: g(-x) = |-x| * (-x) = |x| * (-x) = - (|x| * x) = -g(x). -->
+- [ ] B) É uma função par. <!-- feedback: A função par requer g(-x) = g(x). Aqui o sinal muda. -->
+- [ ] C) Não apresenta simetria ou paridade definida. <!-- feedback: Ela tem simetria em relação à origem, ou seja, é ímpar. -->
+- [ ] D) Apresenta reflexão total apenas pelo eixo y. <!-- feedback: Isso ocorre em funções pares. Em g(x), a reflexão cruza ambos os eixos (simetria na origem). -->
 
 ### Explicacion Pedagogica
-Esta é a função sinal (para $x \neq 0$). Se $x$ é positivo, $|x| = x$, logo a razão é 1. Se $x$ é negativo, $|x| = -x$, logo a razão é $-x/x = -1$.
+Para investigar a paridade, aplicamos $x \rightarrow -x$:
+$g(-x) = |-x| \cdot (-x)$.
+Sabemos que $|-x| = |x|$, logo:
+$g(-x) = |x| \cdot (-x) = - (|x| \cdot x) = -g(x)$.
+Quando $g(-x) = -g(x)$, a função é classificada como ímpar, resultando num gráfico simétrico em relação à origem $(0,0)$.
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um investidor monitora a volatilidade de um fundo, que é medida pela soma dos módulos das variações diárias.
+**Contexto:** Uma corretora de seguros em Vitória do Espírito Santo estuda a flutuação do risco através de duas variáveis vinculadas.
 
 ### Enunciado
-Qual é o conjunto solução da equação $|x + 1| = |2x - 4|$?
+Quais são os possíveis valores que solucionam a equação modular $|x + 3| = |x - 5|$?
 
 ### Opciones
-- [ ] A) $x = 3$ apenas. <!-- feedback: Faltou a segunda possibilidade da igualdade modular. -->
-- [ ] B) $x = 1$ apenas. <!-- feedback: Valor incorreto para esta equação. -->
-- [x] D) $x = 5$ ou $x = 1$. <!-- feedback: x + 1 = 2x - 4 => x = 5; ou x + 1 = -(2x - 4) => 3x = 3 => x = 1. -->
-- [ ] C) $x = 5$ ou $x = -1$. <!-- feedback: Testando x = -1: |0| = |-6|, o que é falso. -->
+- [ ] A) $x = -1$ apenas. <!-- feedback: Para x=-1, |2| ≠ |-6|. -->
+- [ ] B) $x = 3$ e $x = -5$. <!-- feedback: Estes valores anulam cada módulo individualmente. -->
+- [ ] C) Não existe solução real. <!-- feedback: Existe solução resolvendo as duas partes da igualdade. -->
+- [x] D) $x = 1$. <!-- feedback: Analisando as duas vertentes, apenas x = 1 faz sentido real, gerando |4| = |-4|. -->
 
 ### Explicacion Pedagogica
-Uma equação $|a| = |b|$ implica $a = b$ ou $a = -b$.
-1) $x + 1 = 2x - 4 \Rightarrow x = 5$.
-2) $x + 1 = -(2x - 4) \Rightarrow x + 1 = -2x + 4 \Rightarrow 3x = 3 \Rightarrow x = 1$.
-Ambas as soluções satisfazem a igualdade.
+Para resolvermos $|a| = |b|$, testamos duas vertentes: $a = b$ ou $a = -b$.
+1) $x + 3 = x - 5 \Rightarrow 3 = -5$ (Absurdo, sem solução).
+2) $x + 3 = -(x - 5) \Rightarrow x + 3 = -x + 5 \Rightarrow 2x = 2 \Rightarrow x = 1$.
+A única solução válida no conjunto dos reais é $x = 1$.
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um matemático estuda a composição da função modular com a função afim e seu efeito no gráfico.
+**Contexto:** Um projetista naval no Rio de Janeiro avalia se um cabo de aço sofre tensão constante em determinado trecho devido a deformações modulares conjugadas.
 
 ### Enunciado
-Dada a função $f(x) = |x - 3| + |x + 1|$, qual é o valor constante de $f(x)$ para o intervalo $-1 \leq x \leq 3$?
+Dada a função composta por soma de módulos $h(x) = |x - 2| - |x - 5|$, qual é o valor dessa função no intervalo onde $2 \leq x \leq 5$?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: Cálculo incorreto da soma dos módulos no intervalo. -->
-- [x] B) 4 <!-- feedback: No intervalo, x-3 ≤ 0 e x+1 ≥ 0. Então f(x) = -(x-3) + (x+1) = -x+3+x+1 = 4. -->
-- [ ] C) 0 <!-- feedback: A soma de módulos de termos diferentes no intervalo não resulta em zero. -->
-- [ ] D) $2x$ <!-- feedback: No intervalo dado, as variáveis x se cancelam. -->
+- [ ] A) $-3$ <!-- feedback: Esse seria o valor se x < 2. -->
+- [x] B) $2x - 7$ <!-- feedback: No intervalo dado, x-2 é positivo e x-5 é negativo, logo (x-2) - [-(x-5)] = x - 2 + x - 5 = 2x - 7. -->
+- [ ] C) $3$ <!-- feedback: Esse é o valor se x > 5. -->
+- [ ] D) $7$ <!-- feedback: A operação não gera uma constante nesse trecho; ela é linear. -->
 
 ### Explicacion Pedagogica
-Analisamos os sinais dentro dos módulos para $-1 \leq x \leq 3$:
-1) $(x - 3)$ é negativo ou zero, logo $|x - 3| = -(x - 3) = -x + 3$.
-2) $(x + 1)$ é positivo ou zero, logo $|x + 1| = x + 1$.
-Somando: $(-x + 3) + (x + 1) = 4$. A função é constante nesse trecho.
+Vamos remover o módulo no intervalo $[2, 5]$:
+- Como $x \geq 2$, temos $|x - 2| = x - 2$.
+- Como $x \leq 5$, temos $|x - 5| = -(x - 5) = -x + 5$.
+Substituindo na expressão inicial:
+$h(x) = (x - 2) - (-x + 5) = x - 2 + x - 5 = 2x - 7$.
+Portanto, a função é $2x - 7$ na parte intermediária.
 
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um pesquisador em Campinas investiga as propriedades de funções que envolvem o módulo do módulo.
+**Contexto:** Um economista do IBGE em Brasília desenvolve um modelo para ajustes de inflação aninhados usando inequações com módulo duplo.
 
 ### Enunciado
-Quantas soluções reais possui a equação $||x| - 2| = 1$?
+Quantas raízes reais são soluções para a equação que envolve módulo do módulo: $||x - 1| - 3| = 2$?
 
 ### Opciones
-- [ ] A) 2 <!-- feedback: O desdobramento dos dois níveis de módulo gera mais soluções. -->
-- [x] D) 4 <!-- feedback: |x|-2 = 1 => |x|=3 (±3); ou |x|-2 = -1 => |x|=1 (±1). Total de 4 soluções. -->
-- [ ] B) 3 <!-- feedback: Todas as 4 soluções encontradas são distintas e válidas. -->
-- [ ] C) Nenhuma <!-- feedback: A equação possui soluções reais. -->
+- [ ] A) Duas raízes. <!-- feedback: O duplo módulo se desdobra em 4 possíveis ramos reais se as condições existirem. -->
+- [ ] B) Três raízes. <!-- feedback: Verifique a quantidade final após solucionar os dois módulos. -->
+- [ ] C) Nenhuma raiz real. <!-- feedback: Existem pontos nos reais que solucionam a equação. -->
+- [x] D) Quatro raízes reais diferentes. <!-- feedback: |x-1| - 3 = 2 => |x-1| = 5 (duas opções); |x-1| - 3 = -2 => |x-1| = 1 (duas opções). Total de 4 soluções. -->
 
 ### Explicacion Pedagogica
-Desdobramos o módulo externo:
-1) $|x| - 2 = 1 \Rightarrow |x| = 3$, o que dá $x = 3$ e $x = -3$.
-2) $|x| - 2 = -1 \Rightarrow |x| = 1$, o que dá $x = 1$ e $x = -1$.
-Ao todo, temos 4 soluções distintas para $x$.
+Abrimos o módulo externo em duas equações:
+1) $|x - 1| - 3 = 2 \Rightarrow |x - 1| = 5 \Rightarrow x - 1 = 5$ (logo $x = 6$) ou $x - 1 = -5$ (logo $x = -4$).
+2) $|x - 1| - 3 = -2 \Rightarrow |x - 1| = 1 \Rightarrow x - 1 = 1$ (logo $x = 2$) ou $x - 1 = -1$ (logo $x = 0$).
+Portanto, as raízes são $6, -4, 2$ e $0$, totalizando quatro soluções diferentes.
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Durante uma olimpíada de matemática, os estudantes devem resolver inequações modulares complexas.
+**Contexto:** Um físico nuclear da UNICAMP equaciona as distâncias das partículas dispersas pelo acelerador usando inequações maiores que.
 
 ### Enunciado
-Qual é o conjunto solução da inequação $|2x - 6| > 4$?
+Indique o conjunto solução no qual se aplica a inequação modular $|4x - 8| \geq 12$.
 
 ### Opciones
-- [ ] A) $1 < x < 5$ <!-- feedback: Esta seria a solução para |2x - 6| < 4. -->
-- [x] B) $x < 1$ ou $x > 5$ <!-- feedback: 2x - 6 > 4 => 2x > 10 => x > 5; ou 2x - 6 < -4 => 2x < 2 => x < 1. -->
-- [ ] C) $x > 5$ apenas. <!-- feedback: Faltou a parte negativa da inequação. -->
-- [ ] D) $\mathbb{R}$ <!-- feedback: A função assume valores menores ou iguais a 4 no intervalo [1, 5]. -->
+- [ ] A) $-1 \leq x \leq 5$ <!-- feedback: Este seria o intervalo para o cenário de MENOR ou igual ( |4x - 8| <= 12 ). -->
+- [x] B) $x \leq -1$ ou $x \geq 5$ <!-- feedback: Correto. A condição 'maior que' se desdobra gerando duas áreas divergentes da reta real. -->
+- [ ] C) $x \geq 5$ apenas. <!-- feedback: Você precisa considerar também o caso em que a expressão no interior resulta negativa. -->
+- [ ] D) $-1 < x < 5$ <!-- feedback: Esse é o conjunto onde |4x-8| < 12, o caso oposto. -->
 
 ### Explicacion Pedagogica
-A inequação $|u| > a$ desdobra-se em $u > a$ ou $u < -a$.
-1) $2x - 6 > 4 \Rightarrow 2x > 10 \Rightarrow x > 5$.
-2) $2x - 6 < -4 \Rightarrow 2x < 2 \Rightarrow x < 1$.
-A solução é a união desses dois intervalos: $(-\infty, 1) \cup (5, +\infty)$.
+Se o módulo for "maior ou igual", desdobra-se na união de duas restrições disjuntas:
+1) $4x - 8 \geq 12 \Rightarrow 4x \geq 20 \Rightarrow x \geq 5$.
+2) $4x - 8 \leq -12 \Rightarrow 4x \leq -4 \Rightarrow x \leq -1$.
+Isso nos dá a união dos intervalos $(-\infty, -1] \cup [5, +\infty)$.
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** No vestibular de uma universidade de elite, propõe-se um problema sobre a área delimitada por funções modulares.
+**Contexto:** Um candidato ao ENEM encontra um problema geométrico oculto onde se demanda o cálculo de uma superfície restrita.
 
 ### Enunciado
-Qual é a área da região fechada delimitada pelo gráfico da função $f(x) = 4 - |x|$ e o eixo das abscissas ($x$)?
+Determine a área do triângulo delimitado no plano cartesiano entre a curva da função modular $f(x) = 6 - |x|$ e a reta do eixo horizontal $x$ (onde $y = 0$).
 
 ### Opciones
-- [ ] B) 8 <!-- feedback: Erro no cálculo da área do triângulo. -->
-- [x] A) 16 <!-- feedback: A base do triângulo vai de -4 a 4 (comprimento 8). A altura é f(0) = 4. Área = (8 * 4) / 2 = 16. -->
-- [ ] C) 32 <!-- feedback: Esqueceu de dividir por 2 na fórmula da área do triângulo. -->
-- [ ] D) 4 <!-- feedback: Valor muito baixo para a região descrita. -->
+- [x] A) 36 <!-- feedback: A base vai de -6 a 6 (comprimento 12). A altura no vértice é f(0)=6. Área = (12 * 6)/2 = 36. -->
+- [ ] B) 18 <!-- feedback: Verifique a determinação da extensão total da base. -->
+- [ ] C) 72 <!-- feedback: Lembrou de dividir a multiplicação base vezes altura por dois? -->
+- [ ] D) 12 <!-- feedback: Esse valor seria obtido se o triângulo fosse muito menor, reveja as raízes. -->
 
 ### Explicacion Pedagogica
-A função $f(x) = 4 - |x|$ intercepta o eixo $x$ quando $4 - |x| = 0$, ou seja, em $x = 4$ e $x = -4$. A base do triângulo formado tem comprimento $4 - (-4) = 8$. A altura ocorre no vértice em $x = 0$, onde $f(0) = 4$. A área do triângulo é $(\text{base} \cdot \text{altura}) / 2 = (8 \cdot 4) / 2 = 16$.
+As extremidades da base do triângulo no eixo $x$ ocorrem quando $f(x) = 0 \Rightarrow 6 - |x| = 0 \Rightarrow |x| = 6 \Rightarrow x = 6$ e $x = -6$. Logo, a base mede $12$ unidades. A altura alcança seu máximo quando $x=0$, gerando $f(0) = 6$.
+A área é $\frac{\text{base} \cdot \text{altura}}{2} = \frac{12 \cdot 6}{2} = 36$.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W07-funcao-modular-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático investiga o número de soluções de equações que misturam funções lineares e modulares.
+**Contexto:** Em um laboratório de sistemas lógicos de Uberlândia, pesquisa-se um ponto de superposição completa de ondas modelado via álgebra com módulos.
 
 ### Enunciado
-Para qual valor de $k$ a equação $|x - 2| + |x + 2| = k$ possui infinitas soluções para $x$?
+Encontre o único valor do coeficiente $m$ de modo que a equação $|x - 3| + |x + 3| = m$ admita infinitos pontos de solução (um trecho constante) e nenhuma outra configuração.
 
 ### Opciones
-- [ ] B) $k = 0$ <!-- feedback: A soma de módulos de pontos diferentes nunca é zero. -->
-- [ ] C) $k = 2$ <!-- feedback: O valor mínimo da soma é 4. -->
-- [x] A) $k = 4$ <!-- feedback: Para x entre -2 e 2, a soma é (2-x) + (x+2) = 4. Assim, para k=4, todo o intervalo [-2, 2] é solução. -->
-- [ ] D) Para nenhum valor de $k$. <!-- feedback: Existe um valor onde a função é constante. -->
+- [x] A) $m = 6$ <!-- feedback: Correto. Dentro do intervalo [-3, 3], a soma dos dois módulos resulta de maneira constante em 6. -->
+- [ ] B) $m = 3$ <!-- feedback: O menor valor que a função atinge é de fato 6, e não 3. -->
+- [ ] C) $m = 0$ <!-- feedback: Soma de módulos de raízes distintas jamais zera simultaneamente. -->
+- [ ] D) $m = 9$ <!-- feedback: Para m = 9, haverá apenas duas soluções em vez de infinitas. -->
 
 ### Explicacion Pedagogica
-Analisando a função $g(x) = |x - 2| + |x + 2|$, vemos que no intervalo $[-2, 2]$, o primeiro termo é $-(x - 2) = 2 - x$ e o segundo é $(x + 2)$. A soma é $(2 - x) + (x + 2) = 4$. Portanto, se $k = 4$, qualquer valor de $x$ no intervalo $[-2, 2]$ satisfaz a equação, resultando em infinitas soluções.
+Construindo a função $f(x) = |x - 3| + |x + 3|$, notamos que o seu gráfico é constante no segmento que conecta as duas raízes internas, ou seja, entre $-3$ e $3$. Substituindo qualquer número desse intervalo (por exemplo, o zero) obtemos $|0 - 3| + |0 + 3| = 3 + 3 = 6$. Para que a equação seja válida de forma contínua em todo esse intervalo, o valor de $m$ tem de ser exatamente $6$.
