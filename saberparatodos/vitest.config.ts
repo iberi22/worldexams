@@ -12,7 +12,6 @@ export default defineConfig(({ mode }) => {
     resolve: {
       conditions: ['browser'],
       alias: {
-        'edge-mesh': fileURLToPath(new URL('./src/lib/ai/__mocks__/edge-mesh-stub.ts', import.meta.url)),
         '@': fileURLToPath(new URL('./src', import.meta.url)),
         '$lib': fileURLToPath(new URL('./src/lib', import.meta.url)),
         'astro:middleware': fileURLToPath(new URL('./tests/stubs/astro-middleware.ts', import.meta.url)),
