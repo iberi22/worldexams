@@ -185,7 +185,7 @@ No primeiro dia, houve 4 doadores; no segundo, 12; no terceiro, 36. Qual será o
 - [x] A) $1456$ <!-- feedback: Correto. É a soma de uma PG finita de razão $3$: $S_6 = 4 \cdot \frac{3^6 - 1}{3 - 1} = 4 \cdot \frac{729 - 1}{2} = 2 \cdot 728 = 1456$. -->
 - [ ] B) $972$ <!-- feedback: Este é o número de doadores apenas no 6º dia ($a_6$), não a soma acumulada. -->
 - [ ] C) $1452$ <!-- feedback: Esse valor seria obtido se houvesse algum erro mínimo de subtração durante a soma. -->
-- [ ] D) $728$ <!-- feedback: Isso seria o resultado da fração $\frac{3^6 - 1}{2}$ sem multiplicá-la pelo primeiro termo $a_1 = 4$. -->
+- [ ] D) $728$ <!-- feedback: 728 é apenas $3^6-1$, sem dividir por $(q-1)=2$ nem multiplicar por $a_1=4$. -->
 
 ### Explicacion Pedagogica
 Temos uma PG onde $a_1 = 4$ e $q = 3$. Para calcular o total acumulado usamos a soma $S_n = a_1 \frac{q^n - 1}{q - 1}$. Portanto, $S_6 = 4 \frac{3^6 - 1}{3 - 1} = 4 \frac{729 - 1}{2} = 2 \cdot 728 = 1456$.
@@ -221,7 +221,7 @@ Sabendo que uma amostra de 128g decai pela metade a cada dia, após quantos dias
 
 ### Opciones
 - [x] A) 8 <!-- feedback: Correto. A sequência de material ao final de $n$ dias é $128 \cdot (1/2)^n$. Para $n=7$, o valor é 1g exato. Para ser estritamente menor, deve passar o 8º dia, restando 0,5g. -->
-- [ ] B) 6 <!-- feedback: No final do 6º dia haverá $a_7 = 128 \cdot (1/2)^6 = 2$ gramas, que ainda é maior que 1g. -->
+- [ ] B) 6 <!-- feedback: No final do 6º dia haverá $M(6) = 128 \cdot (1/2)^6 = 2$ gramas, que ainda é maior que 1g. -->
 - [ ] C) 7 <!-- feedback: Ao final de 7 dias, a quantidade restante será exatamente $128 \cdot (1/2)^7 = 1$ grama, mas a questão pede menos de 1g. -->
 - [ ] D) 9 <!-- feedback: No 9º dia já terá decaído para 0,25g, mas o menor dia que cumpre a condição pedida é o 8º dia. -->
 
