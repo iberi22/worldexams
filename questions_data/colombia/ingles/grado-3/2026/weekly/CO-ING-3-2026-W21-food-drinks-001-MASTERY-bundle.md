@@ -30,20 +30,20 @@ creador: "Jules-Agent"
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+What is the English word for: "A white drink produced by cows, goats, or sheep, often drunk for breakfast."
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [x] D) milk
+  <!-- feedback: Correct! 'milk' is the white liquid produced by cows, goats, or sheep, and is a common drink. -->
+- [ ] A) soda
+  <!-- feedback: 'soda' is a sweet, fizzy drink, not the white liquid produced by cows. -->
+- [ ] B) coffee
+  <!-- feedback: 'coffee' is a dark, bitter drink made from roasted beans, not a white liquid from cows. -->
+- [ ] C) tea
+  <!-- feedback: 'tea' is a hot drink made from leaves, not the white liquid from cows. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The word 'milk' is used to describe a white liquid produced by cows, goats, or sheep, often drunk for breakfast. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v2
@@ -53,20 +53,20 @@ The word 'accommodation' is used to describe a place where you live or stay on h
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+What is the English word for: "A food made of baked flour and water, often used to make sandwiches."
 
 ### Opciones
-- [x] A) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] B) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [x] A) bread
+  <!-- feedback: Correct! 'bread' is a common food made of baked flour and water, and it is frequently used to make sandwiches. -->
+- [ ] B) cheese
+  <!-- feedback: 'cheese' is a dairy product made from milk, not a baked food made of flour and water. -->
+- [ ] C) butter
+  <!-- feedback: 'butter' is a yellow fat made from milk, often spread on food, but it is not baked flour. -->
+- [ ] D) sugar
+  <!-- feedback: 'sugar' is a sweet substance used to flavor food, not a baked food made of flour. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The word 'bread' is used to describe a food made of baked flour and water, often used to make sandwiches. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v3
@@ -76,20 +76,20 @@ The word 'itinerary' is used to describe a detailed plan or route of a journey. 
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+What is the English word for: "A clear, colorless drink that you need to drink every day to stay healthy."
 
 ### Opciones
-- [x] D) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] B) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] C) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [x] D) water
+  <!-- feedback: Correct! 'water' is a clear, colorless natural liquid that is essential to drink for your health every day. -->
+- [ ] A) juice
+  <!-- feedback: 'juice' is a liquid made from fruit or vegetables, which is not colorless. -->
+- [ ] B) soda
+  <!-- feedback: 'soda' is a sweet, fizzy drink with added flavors, not a clear, natural liquid. -->
+- [ ] C) coffee
+  <!-- feedback: 'coffee' is a dark, bitter drink made from beans, not a clear, colorless liquid. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The word 'water' is used to describe a clear, colorless liquid that you need to drink every day to stay healthy. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v4
@@ -99,20 +99,20 @@ The word 'destination' is used to describe the place to which someone or somethi
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+What is the English word for: "A food that is small white or brown grains that are boiled in water and eaten with meals like lunch."
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [x] A) rice
+  <!-- feedback: Correct! 'rice' consists of small white or brown grains that are boiled and commonly eaten with lunch. -->
+- [ ] B) potato
+  <!-- feedback: 'potato' is a round root vegetable that grows underground, not small grains. -->
+- [ ] C) pasta
+  <!-- feedback: 'pasta' is food made from flour and egg, shaped into strings or shapes, not grains. -->
+- [ ] D) bread
+  <!-- feedback: 'bread' is a baked food made of flour and water, not small boiled grains. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The word 'rice' is used to describe small white or brown grains that are boiled in water and eaten with meals like lunch. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v5
@@ -122,20 +122,20 @@ The word 'luggage' is used to describe suitcases or other bags in which to pack 
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+What is the English word for: "A sweet drink made by squeezing liquid out of fresh fruit or vegetables."
 
 ### Opciones
-- [x] B) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] C) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] D) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [x] B) juice
+  <!-- feedback: Correct! 'juice' is a sweet drink that is made by squeezing the liquid out of fresh fruit or vegetables. -->
+- [ ] A) water
+  <!-- feedback: 'water' is a natural, clear liquid without flavor, not the sweet liquid squeezed from fruit. -->
+- [ ] C) milk
+  <!-- feedback: 'milk' is a white liquid produced by cows, not the liquid squeezed from fresh fruit. -->
+- [ ] D) tea
+  <!-- feedback: 'tea' is a hot drink made from leaves in hot water, not a sweet drink made from fruit. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The word 'juice' is used to describe a sweet drink made by squeezing liquid out of fresh fruit or vegetables. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v6
@@ -145,20 +145,20 @@ The word 'passenger' is used to describe a traveler on a public or private conve
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+What is the English word for: "A food that is an oval object with a hard shell produced by a chicken, often eaten for breakfast."
 
 ### Opciones
-- [x] D) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] A) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] B) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] C) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [x] D) egg
+  <!-- feedback: Correct! 'egg' is the oval object with a hard shell produced by a chicken and often eaten for breakfast. -->
+- [ ] A) cheese
+  <!-- feedback: 'cheese' is a yellow or white food made from milk, not an oval object with a hard shell. -->
+- [ ] B) apple
+  <!-- feedback: 'apple' is a round fruit that grows on trees, not an object produced by a chicken. -->
+- [ ] C) bread
+  <!-- feedback: 'bread' is a baked food made of flour, not an oval object with a hard shell. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The word 'egg' is used to describe an oval object with a hard shell produced by a chicken, often eaten for breakfast. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v7
@@ -168,20 +168,20 @@ The word 'customs' is used to describe the place at a port, airport, or frontier
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+What is the English word for: "A food that is a round fruit with red, green, or yellow skin and a white inside."
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) apple
+  <!-- feedback: Correct! 'apple' is a round, crunchy fruit that typically has red, green, or yellow skin and a white inside. -->
+- [ ] B) banana
+  <!-- feedback: 'banana' is a long, curved yellow fruit, not a round fruit with red or green skin. -->
+- [ ] C) grape
+  <!-- feedback: 'grape' is a small, round green or purple fruit, much smaller than this fruit. -->
+- [ ] D) pear
+  <!-- feedback: 'pear' is a round citrus fruit with thick pear skin, not red or green skin. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The word 'apple' is used to describe a round fruit with red, green, or yellow skin and a white inside. This is an important vocabulary word in English related to food and drinks.
 ---
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W21-food-drinks-001-MASTERY-bundle-v8
@@ -191,17 +191,17 @@ The word 'boarding pass' is used to describe a document provided by an airline d
 **Contexto:** Choose the correct English word for the given definition.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+What is the English word for: "A food that is a long, curved fruit with a yellow skin that is soft and sweet inside."
 
 ### Opciones
-- [x] A) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] B) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] C) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] D) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [x] A) banana
+  <!-- feedback: Correct! 'banana' is a long, curved fruit with a yellow peel that has soft, sweet flesh on the inside. -->
+- [ ] B) apple
+  <!-- feedback: 'apple' is a round fruit with red or green skin, not long and curved with a yellow skin. -->
+- [ ] C) pear
+  <!-- feedback: 'pear' is a round, pear-colored citrus fruit, not a long and curved fruit. -->
+- [ ] D) grape
+  <!-- feedback: 'grape' is a small, round fruit, not a long, curved yellow fruit. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The word 'banana' is used to describe a long, curved fruit with a yellow skin that is soft and sweet inside. This is an important vocabulary word in English related to food and drinks.
