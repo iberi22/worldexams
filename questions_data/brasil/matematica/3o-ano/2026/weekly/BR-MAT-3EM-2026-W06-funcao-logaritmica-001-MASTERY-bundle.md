@@ -203,7 +203,7 @@ Sabendo que $\log_2(y) = 5$, determine o valor numérico de $\log_2(y^4)$.
 ### Opciones
 - [ ] A) $9$ <!-- feedback: O expoente desce multiplicando, e não somando. 4 * 5 = 20. -->
 - [x] B) $20$ <!-- feedback: log_2(y^4) = 4 * log_2(y) = 4 * 5 = 20. -->
-- [ ] C) $625$ <!-- feedback: Você calculou y^4, mas a pergunta é sobre o logaritmo disso. -->
+- [ ] C) $625$ <!-- feedback: Você elevou o valor do logaritmo (5^4 = 625) em vez de multiplicar pelo expoente: 4 * 5 = 20. -->
 - [ ] D) $4$ <!-- feedback: Esqueceu de multiplicar pelo valor do log_2(y) original. -->
 
 ### Explicacion Pedagogica
@@ -315,7 +315,7 @@ Usamos o teorema da mudança de base para converter um logaritmo na base $8$ par
 Na equação $10^x = 400$, exprima $x$ utilizando apenas o logaritmo decimal do número $2$. (Dica: $\log_{10}(10) = 1$)
 
 ### Opciones
-- [ ] A) $x = 2 \log(2) + 1$ <!-- feedback: Seria log(20), que não dá 400. 400 é 4 * 100. -->
+- [ ] A) $x = 2 \log(2) + 1$ <!-- feedback: Seria log(40), que não dá 400. 400 é 4 * 100. -->
 - [ ] B) $x = 4 \log(2)$ <!-- feedback: Você esqueceu os fatores de 10 na decomposição. -->
 - [x] C) $x = 2 \log(2) + 2$ <!-- feedback: 400 = 4*100. log(400) = log(4) + log(100) = 2log(2) + 2. -->
 - [ ] D) $x = 10 \log(2)$ <!-- feedback: Não há propriedade de expoente dessa magnitude aplicável. -->
@@ -374,7 +374,7 @@ Se a expressão $\log(x) + \log(x^3) + \log(x^5) = 18$ for verdadeira, qual é o
 ### Opciones
 - [ ] A) $1000$ <!-- feedback: log(1000) seria 3. 3 + 9 + 15 = 27, não 18. -->
 - [x] B) $100$ <!-- feedback: log(x) + 3log(x) + 5log(x) = 9log(x) = 18 => log(x) = 2. Logo x = 10^2 = 100. -->
-- [ ] C) $10$ <!-- feedback: Com x=1, log é 1. 1 + 3 + 5 = 9, não 18. -->
+- [ ] C) $10$ <!-- feedback: Com x=10, log é 1. 1 + 3 + 5 = 9, não 18. -->
 - [ ] D) $9$ <!-- feedback: 9 é a soma dos coeficientes, mas x é a base da potência resultante. -->
 
 ### Explicacion Pedagogica
