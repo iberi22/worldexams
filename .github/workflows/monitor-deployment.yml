@@ -27,7 +27,7 @@ jobs:
       actions: read
     steps:
       - name: Create Incident Issue
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             let body;
