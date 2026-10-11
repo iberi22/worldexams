@@ -24,377 +24,377 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um motorista de táxi em São Paulo cobra uma bandeirada fixa mais um valor por quilômetro rodado, o que caracteriza uma função afim.
+**Contexto:** Um aluno de São Paulo analisa a estrutura básica das funções matemáticas estudadas no ensino médio.
 
 ### Enunciado
-Qual é a forma geral de uma função afim (ou função do 1º grau)?
+Qual é a forma geral de uma função afim e como se chamam os coeficientes $a$ e $b$?
 
 ### Opciones
-- [ ] A) $f(x) = ax^2 + bx + c$ <!-- feedback: Esta é a forma geral de uma função quadrática ou do 2º grau. -->
-- [x] B) $f(x) = ax + b$ <!-- feedback: Correto. 'a' é o coeficiente angular e 'b' é o coeficiente linear (termo constante). -->
-- [ ] C) $f(x) = a^x$ <!-- feedback: Esta é a forma básica de uma função exponencial. -->
-- [ ] D) $f(x) = \log_a(x)$ <!-- feedback: Esta é a forma básica de uma função logarítmica. -->
+- [ ] A) $f(x) = ax^2 + b$; $a$ é o coeficiente angular e $b$ é o linear. <!-- feedback: Incorreto. $ax^2$ seria uma função quadrática. -->
+- [x] B) $f(x) = ax + b$; $a$ é o coeficiente angular e $b$ é o coeficiente linear. <!-- feedback: Correto. A forma geral da função afim é $ax+b$, onde $a$ dita a inclinação e $b$ a interceptação em y. -->
+- [ ] C) $f(x) = a^x + b$; $a$ é a base e $b$ é o coeficiente linear. <!-- feedback: Incorreto. Esta é a estrutura de uma função exponencial. -->
+- [ ] D) $f(x) = \frac{a}{x} + b$; $a$ e $b$ são coeficientes constantes. <!-- feedback: Incorreto. Esta é uma função racional, não afim. -->
 
 ### Explicacion Pedagogica
-Uma função afim é definida por uma lei de formação do tipo $f(x) = ax + b$, onde $a$ e $b$ são números reais e $a \neq 0$ para que a função seja estritamente do 1º grau. O gráfico resultante é sempre uma linha reta.
+Uma função afim, ou função polinomial do primeiro grau, é expressa como $f(x) = ax + b$. Nela, $a$ representa a taxa de variação ou coeficiente angular da reta, e $b$ é a interceptação no eixo vertical, chamado de coeficiente linear.
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Em uma aula de geometria analítica no Rio de Janeiro, o professor explica o significado geométrico dos coeficientes da reta.
+**Contexto:** Um professor no Rio de Janeiro explica a representação gráfica de diferentes tipos de funções.
 
 ### Enunciado
-Na função afim $f(x) = ax + b$, o coeficiente $b$ representa o ponto onde a reta intercepta qual eixo do plano cartesiano?
+O gráfico de uma função afim de domínio real ($f(x) = ax + b$ com $a \neq 0$) é sempre uma:
 
 ### Opciones
-- [ ] A) Eixo das abscissas ($x$) <!-- feedback: O ponto onde a reta corta o eixo x é a raiz da função, dada por -b/a. -->
-- [x] C) Eixo das ordenadas ($y$) <!-- feedback: Correto. Quando x = 0, f(0) = b, logo o par ordenado é (0, b). -->
-- [ ] B) A bissetriz dos quadrantes ímpares <!-- feedback: O coeficiente b não determina a bissetriz, mas sim o deslocamento vertical da reta. -->
-- [ ] D) A origem $(0,0)$ <!-- feedback: A reta só passa pela origem se b for igual a zero. -->
+- [ ] A) Parábola, com concavidade para cima ou para baixo. <!-- feedback: Incorreto. Parábolas representam funções do segundo grau. -->
+- [x] C) Reta oblíqua em relação aos eixos cartesianos. <!-- feedback: Correto. Sendo $a \neq 0$, o gráfico é uma reta não paralela aos eixos. -->
+- [ ] B) Curva exponencial crescente ou decrescente. <!-- feedback: Incorreto. Curvas não representam graficamente as funções afins. -->
+- [ ] D) Circunferência centrada na origem do plano. <!-- feedback: Incorreto. Uma circunferência não é gráfico de função afim. -->
 
 ### Explicacion Pedagogica
-O coeficiente linear $b$ indica o valor da função quando $x=0$. Geometricamente, isso corresponde ao ponto exato onde a reta cruza o eixo vertical ($y$).
+A representação geométrica de uma função afim no plano cartesiano é sempre uma linha reta. Quando o coeficiente angular $a$ é diferente de zero, a reta é oblíqua; se $a$ fosse zero (função constante), seria horizontal.
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Um analista financeiro em Curitiba observa que o lucro de uma pequena empresa cresce de forma constante a cada mês.
+**Contexto:** Um motorista de aplicativo em Salvador observa a taxa fixa e a cobrança por quilômetro rodado em suas corridas.
 
 ### Enunciado
-Dada a função $f(x) = -2x + 10$, qual é a raiz (ou zero) desta função?
+Se a tarifa de uma corrida é dada pela função afim $V(x) = 2,50x + 6,00$ (onde $x$ é a distância em km), o valor $6,00$ representa:
 
 ### Opciones
-- [ ] B) $x = 10$ <!-- feedback: f(10) = -2(10) + 10 = -10. Não é a raiz. -->
-- [x] A) $x = 5$ <!-- feedback: f(5) = -2(5) + 10 = -10 + 10 = 0. Correto. -->
-- [ ] C) $x = -5$ <!-- feedback: f(-5) = -2(-5) + 10 = 10 + 10 = 20. Não é a raiz. -->
-- [ ] D) $x = 2$ <!-- feedback: f(2) = -2(2) + 10 = 6. Não é a raiz. -->
+- [ ] B) O custo total de uma viagem de exatos 6 quilômetros. <!-- feedback: Incorreto. O custo para 6 km seria $2,50(6) + 6 = 21$. -->
+- [x] A) A taxa fixa inicial da corrida, cobrada independentemente da distância. <!-- feedback: Correto. O coeficiente linear $b$ representa o valor inicial no momento $x=0$. -->
+- [ ] C) O preço cobrado para cada quilômetro que o carro percorre. <!-- feedback: Incorreto. O valor por quilômetro é 2,50 (coeficiente angular). -->
+- [ ] D) A distância máxima que o passageiro pode viajar com 6 reais. <!-- feedback: Incorreto. A distância máxima não tem relação com o intercepto puro dessa forma. -->
 
 ### Explicacion Pedagogica
-A raiz de uma função é o valor de $x$ que faz $f(x) = 0$. Resolvendo $-2x + 10 = 0$, temos $-2x = -10$, logo $x = 5$.
+Na função afim que modela o custo, $V(x) = ax + b$, o coeficiente linear $b = 6,00$ é o valor cobrado quando $x = 0$. Esse é o custo fixo (a "bandeirada") que não depende do número de quilômetros rodados.
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um arquiteto em Brasília projeta o telhado de uma casa e precisa garantir que a inclinação seja constante.
+**Contexto:** Uma estudante de Brasília lê sobre a classificação de crescimento das funções polinomiais de 1º grau.
 
 ### Enunciado
-Sobre a função $f(x) = 3x - 4$, é correto afirmar que ela é:
+Dada a função afim $f(x) = -3x + 12$, qual das alternativas descreve corretamente o seu comportamento?
 
 ### Opciones
-- [x] B) Crescente <!-- feedback: O coeficiente angular a = 3 é positivo, o que indica que a função é crescente. -->
-- [ ] A) Decrescente <!-- feedback: Para ser decrescente, o coeficiente angular 'a' deveria ser negativo. -->
-- [ ] C) Constante <!-- feedback: Uma função constante tem a = 0, o que não é o caso. -->
-- [ ] D) Uma parábola <!-- feedback: Funções afins têm como gráfico uma reta, não uma parábola. -->
+- [x] B) A função é decrescente porque o seu coeficiente angular é negativo ($a = -3$). <!-- feedback: Correto. O sinal do coeficiente $a$ determina se a reta sobe ou desce. -->
+- [ ] A) A função é crescente porque o coeficiente linear é positivo ($b = 12$). <!-- feedback: Incorreto. O que determina o crescimento é o $a$, não o $b$. -->
+- [ ] C) A função é decrescente porque a soma de seus coeficientes é $9$. <!-- feedback: Incorreto. A soma dos coeficientes não dita o crescimento da função. -->
+- [ ] D) A função é constante, pois a taxa de variação é um número inteiro. <!-- feedback: Incorreto. Para ser constante, o $a$ precisaria ser exatamente zero. -->
 
 ### Explicacion Pedagogica
-O comportamento de crescimento ou decrescimento de uma função afim depende exclusivamente do sinal do coeficiente angular $a$. Se $a > 0$, a função é crescente. Se $a < 0$, a função é decrescente.
+O comportamento crescente ou decrescente de uma função afim $f(x) = ax + b$ é inteiramente determinado pelo coeficiente angular $a$. Como $a = -3 < 0$, os valores de $y$ diminuem à medida que $x$ aumenta, tornando-a decrescente.
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um técnico de laboratório em Campinas registra a variação de temperatura de uma substância que resfria uniformemente ao longo do tempo.
+**Contexto:** Um feirante no Recife ajusta o preço do quilo da maçã ao longo do dia para não sobrar estoque.
 
 ### Enunciado
-Uma reta passa pelos pontos $A(1, 5)$ e $B(3, 9)$. Qual é o coeficiente angular desta reta?
+A receita $R$ em reais, obtida pela venda de maçãs, obedece à equação linear $R(q) = 5q$. Qual característica dessa função afim pode ser afirmada?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: 4 é a diferença entre as ordenadas (9-5), mas deve ser dividida pela diferença das abscissas. -->
-- [x] C) 2 <!-- feedback: m = (y2 - y1) / (x2 - x1) = (9 - 5) / (3 - 1) = 4 / 2 = 2. -->
-- [ ] B) 1 <!-- feedback: Valor incorreto para a taxa de variação. -->
-- [ ] D) -2 <!-- feedback: O coeficiente é positivo, pois os valores de y aumentam conforme x aumenta. -->
+- [ ] A) É uma função afim onde o gráfico não passa pela origem. <!-- feedback: Incorreto. Se $q=0$, então $R(0)=0$, logo o gráfico passa pela origem. -->
+- [x] C) Trata-se de uma função linear pura, pois o coeficiente linear é zero. <!-- feedback: Correto. Uma função afim onde $b = 0$ é classificada especificamente como função linear. -->
+- [ ] B) Possui coeficiente linear $b$ igual a $5$. <!-- feedback: Incorreto. O coeficiente linear $b$ é zero; 5 é o angular. -->
+- [ ] D) Representa um lucro constante independente da quantidade. <!-- feedback: Incorreto. A receita varia de acordo com a quantidade vendida $q$. -->
 
 ### Explicacion Pedagogica
-O coeficiente angular ($a$ ou $m$) mede a taxa de variação da função. É calculado pela razão entre a variação em $y$ e a variação em $x$: $a = \frac{\Delta y}{\Delta x} = \frac{y_B - y_A}{x_B - x_A}$.
+A função da forma $f(x) = ax + b$ recebe o nome especial de função linear (ou função de proporcionalidade direta) quando $b = 0$. O gráfico de funções como $R(q) = 5q$ sempre corta o plano cartesiano na origem $(0,0)$.
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Uma empresa de telefonia em Belo Horizonte oferece um plano com taxa mensal fixa e um custo por minuto de ligação.
+**Contexto:** Um jardineiro em Curitiba acompanha o crescimento de uma muda de árvore ao longo dos meses.
 
 ### Enunciado
-O custo mensal $C$ de um plano de celular é dado por $C(x) = 35 + 0,50x$, onde $x$ é o número de minutos utilizados. Se um cliente usou 100 minutos em um mês, quanto ele pagará?
+A altura $h$ da árvore (em cm) após $t$ meses é $h(t) = 4t + 15$. O que significa o valor $4$ nesse contexto prático?
 
 ### Opciones
-- [ ] A) R\$ 50,00 <!-- feedback: Este é apenas o custo dos minutos (0,50 * 100), esquecendo a taxa fixa de 35. -->
-- [ ] B) R\$ 35,50 <!-- feedback: Erro no cálculo do valor variável. -->
-- [x] D) R\$ 85,00 <!-- feedback: C(100) = 35 + 0,50(100) = 35 + 50 = 85. -->
-- [ ] C) R\$ 135,00 <!-- feedback: Erro na soma dos valores fixos e variáveis. -->
+- [ ] A) O número de galhos que nascem a cada semestre. <!-- feedback: Incorreto. A função relaciona altura e tempo, não o número de galhos. -->
+- [ ] B) A altura inicial da árvore no momento do plantio. <!-- feedback: Incorreto. A altura inicial é dada por $b = 15$. -->
+- [x] D) A taxa de crescimento da árvore, ou seja, ela cresce 4 cm por mês. <!-- feedback: Correto. O coeficiente angular indica a variação de $h$ para cada unidade de $t$. -->
+- [ ] C) O tempo necessário para que a árvore atinja seu tamanho máximo. <!-- feedback: Incorreto. O valor $4$ é a taxa, não uma medida de tempo total. -->
 
 ### Explicacion Pedagogica
-Substituímos $x = 100$ na função custo: $C(100) = 35 + 0,5 \cdot 100$. Calculando o produto primeiro: $0,5 \cdot 100 = 50$. Somando à taxa fixa: $35 + 50 = 85$.
+Na modelagem de $h(t) = 4t + 15$, a constante $4$ é o coeficiente angular. Em problemas aplicados, ele indica a taxa de variação da grandeza: a cada incremento de $1$ em $t$ (um mês), a função $h$ sofre um acréscimo de $4$ unidades (4 cm).
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um reservatório de água em uma fazenda no Mato Grosso está sendo esvaziado a uma taxa constante para irrigação.
+**Contexto:** Um engenheiro civil em Belo Horizonte estuda a resistência de um material sob diferentes tensões mecânicas lineares.
 
 ### Enunciado
-Um tanque contém 5000 litros de água e é esvaziado à razão de 200 litros por hora. Qual função representa o volume $V$ de água no tanque em função do tempo $t$ (em horas)?
+Sabendo que a função de tensão é afim $T(x) = ax + b$, e que $T(2) = 10$ e $T(5) = 22$, qual é a lei de formação da função?
 
 ### Opciones
-- [ ] A) $V(t) = 5000 + 200t$ <!-- feedback: Esta função representaria um tanque sendo enchido, não esvaziado. -->
-- [x] C) $V(t) = 5000 - 200t$ <!-- feedback: Correto. O volume inicial é 5000 e diminui 200 a cada unidade de tempo t. -->
-- [ ] B) $V(t) = 200t - 5000$ <!-- feedback: Esta função resultaria em valores negativos de volume no início. -->
-- [ ] D) $V(t) = 5000t - 200$ <!-- feedback: O tempo t deve multiplicar a taxa de variação, não o valor inicial. -->
+- [ ] A) $T(x) = 5x + 0$ <!-- feedback: Incorreto. Apesar de $T(2)=10$, temos $T(5)=25 \neq 22$. -->
+- [x] C) $T(x) = 4x + 2$ <!-- feedback: Correto. $a = (22-10)/(5-2) = 12/3 = 4$. Para $x=2$: $10 = 4(2) + b \Rightarrow b=2$. -->
+- [ ] B) $T(x) = 3x + 4$ <!-- feedback: Incorreto. Essa lei resultaria em $T(5) = 19$, e não $22$. -->
+- [ ] D) $T(x) = 4x - 2$ <!-- feedback: Incorreto. Se $b=-2$, teríamos $T(2) = 8-2 = 6$. -->
 
 ### Explicacion Pedagogica
-O volume inicial ($b$) é 5000. Como a água está saindo, a taxa de variação ($a$) é negativa, igual a $-200$. Assim, a lei da função é $V(t) = -200t + 5000$.
+A taxa de variação é dada por $a = \frac{\Delta y}{\Delta x} = \frac{22 - 10}{5 - 2} = \frac{12}{3} = 4$. Substituindo $a=4$ e o ponto $(2, 10)$ em $y = ax + b$: $10 = 4(2) + b \Rightarrow 10 = 8 + b \Rightarrow b = 2$. Logo, $T(x) = 4x + 2$.
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Em um experimento de física em Salvador, analisa-se o movimento retilíneo uniforme de um carrinho em um trilho.
+**Contexto:** Um biólogo em Manaus monitora a população de uma espécie de peixes que cresce linearmente em um tanque de cultivo.
 
 ### Enunciado
-A posição de um objeto em movimento é dada por $S(t) = 12 + 4t$ (unidades no SI). Em que instante $t$ o objeto atingirá a posição $S = 40$ metros?
+A população inicial era de $120$ peixes. Após $6$ meses, o número chegou a $270$. Se a função é $P(t) = at + b$, qual será a população no mês $10$?
 
 ### Opciones
-- [ ] A) $t = 10$ s <!-- feedback: S(10) = 12 + 4(10) = 52. Passou do ponto. -->
-- [x] B) $t = 7$ s <!-- feedback: 40 = 12 + 4t => 28 = 4t => t = 7. -->
-- [ ] C) $t = 13$ s <!-- feedback: S(13) = 12 + 4(13) = 12 + 52 = 64. -->
-- [ ] D) $t = 4$ s <!-- feedback: S(4) = 12 + 4(4) = 28. Ainda não chegou. -->
+- [ ] A) $330$ peixes. <!-- feedback: Incorreto. Isso seria para o mês $8$ ou se a taxa fosse menor. -->
+- [x] B) $370$ peixes. <!-- feedback: Correto. $a = (270-120)/6 = 25$. $P(t) = 25t + 120$. Logo, $P(10) = 25(10) + 120 = 370$. -->
+- [ ] C) $350$ peixes. <!-- feedback: Incorreto. Esse valor não coincide com o crescimento calculado mensal de 25. -->
+- [ ] D) $420$ peixes. <!-- feedback: Incorreto. Esse seria o resultado se o crescimento fosse maior ao longo do tempo. -->
 
 ### Explicacion Pedagogica
-Igualamos a função à posição desejada: $40 = 12 + 4t$. Subtraímos 12 de ambos os lados: $28 = 4t$. Dividindo por 4, encontramos $t = 7$ segundos.
+Temos a população inicial $P(0) = 120$, logo $b = 120$. Aos 6 meses, $P(6) = 270$. Assim, $270 = a(6) + 120 \Rightarrow 150 = 6a \Rightarrow a = 25$. A lei é $P(t) = 25t + 120$. Calculando para $t=10$: $P(10) = 25(10) + 120 = 250 + 120 = 370$.
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um produtor de eventos em Recife está calculando o lucro de um show baseado no número de ingressos vendidos.
+**Contexto:** Um confeiteiro em Goiânia calcula o custo diário para produzir bombons.
 
 ### Enunciado
-O lucro $L$ de um evento é dado por $L(x) = 40x - 2000$, onde $x$ é a quantidade de ingressos vendidos. Qual é o número mínimo de ingressos que devem ser vendidos para que não haja prejuízo (lucro zero)?
+Ele gasta R\$ 40,00 fixos com energia e aluguel do espaço, mais R\$ 1,50 por cada bombom fabricado. Quantos bombons ele produziu em um dia que o custo total foi R\$ 130,00?
 
 ### Opciones
-- [ ] A) 40 <!-- feedback: L(40) = 40(40) - 2000 = 1600 - 2000 = -400. Ainda há prejuízo. -->
-- [x] C) 50 <!-- feedback: L(50) = 40(50) - 2000 = 2000 - 2000 = 0. Ponto de equilíbrio. -->
-- [ ] B) 60 <!-- feedback: Com 60 ingressos já haveria lucro positivo (400). -->
-- [ ] D) 100 <!-- feedback: Com 100 ingressos o lucro seria de 2000. -->
+- [ ] A) $90$ bombons. <!-- feedback: Incorreto. $90$ foi o custo variável em reais, e não o número de bombons. -->
+- [x] C) $60$ bombons. <!-- feedback: Correto. A equação é $1,50x + 40 = 130$. Subtraindo $40$, fica $1,50x = 90$, logo $x = 60$. -->
+- [ ] B) $70$ bombons. <!-- feedback: Incorreto. Se fossem $70$, o custo seria $70 \cdot 1,5 + 40 = 145$. -->
+- [ ] D) $50$ bombons. <!-- feedback: Incorreto. O custo seria de apenas $115$ reais com $50$ unidades. -->
 
 ### Explicacion Pedagogica
-Para que o lucro seja zero, fazemos $40x - 2000 = 0$. Isso resulta em $40x = 2000$. Dividindo 2000 por 40, obtemos $x = 50$ ingressos.
+O modelo de custo é uma função afim: $C(x) = 1,50x + 40$. Queremos encontrar $x$ quando $C(x) = 130$. Resolvemos a equação linear: $130 = 1,50x + 40 \Rightarrow 90 = 1,50x \Rightarrow x = \frac{90}{1,50} = 60$.
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um topógrafo em Manaus determina a altitude de um terreno que sobe de forma constante à medida que se afasta do rio.
+**Contexto:** Em Natal, uma loja de aluguel de bicicletas cobra um valor fixo mais um valor por hora de uso.
 
 ### Enunciado
-Determine a lei da função afim cujo gráfico passa pelos pontos $(0, 3)$ e $(2, 7)$.
+O gráfico do preço $y$ pelo tempo $x$ é uma reta que passa pelos pontos $(1, 25)$ e $(3, 55)$. Qual é o valor do aluguel para $5$ horas?
 
 ### Opciones
-- [ ] A) $f(x) = 3x + 2$ <!-- feedback: Se f(x) = 3x+2, f(0) seria 2, mas o ponto dado é (0,3). -->
-- [x] B) $f(x) = 2x + 3$ <!-- feedback: f(0)=3 (coeficiente linear). a = (7-3)/(2-0) = 4/2 = 2. Logo f(x)=2x+3. -->
-- [ ] C) $f(x) = 4x + 3$ <!-- feedback: Se a=4, f(2) seria 4(2)+3 = 11, mas f(2)=7. -->
-- [ ] D) $f(x) = x + 3$ <!-- feedback: Se a=1, f(2) seria 2+3 = 5, mas f(2)=7. -->
+- [ ] A) R\$ 75,00 <!-- feedback: Incorreto. Esse valor não reflete a taxa correta da inclinação. -->
+- [x] B) R\$ 85,00 <!-- feedback: Correto. A taxa é $15/h$ e a base é $10$. Para $x=5$: $15(5) + 10 = 85$. -->
+- [ ] C) R\$ 95,00 <!-- feedback: Incorreto. Um acréscimo excessivo, que daria uma taxa por hora maior do que 15. -->
+- [ ] D) R\$ 80,00 <!-- feedback: Incorreto. Calculou errado o valor do intercepto y na montagem da equação. -->
 
 ### Explicacion Pedagogica
-O ponto $(0, 3)$ nos dá diretamente o coeficiente linear $b = 3$. O coeficiente angular $a$ é calculado pela variação: $a = (7 - 3) / (2 - 0) = 4 / 2 = 2$. Assim, $f(x) = 2x + 3$.
+Primeiro, acha-se $a = \frac{55 - 25}{3 - 1} = \frac{30}{2} = 15$. Com $a=15$, substituímos em $25 = 15(1) + b$, resultando em $b = 10$. A lei da função é $y = 15x + 10$. Para $x=5$: $y = 15(5) + 10 = 75 + 10 = 85$.
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um engenheiro civil analisa a dilatação de uma barra metálica em São Paulo sob variações de temperatura.
+**Contexto:** Um meteorologista em Florianópolis registra a queda de temperatura após o pôr do sol.
 
 ### Enunciado
-Duas retas no plano cartesiano, representadas pelas funções $f(x) = 2x + 5$ e $g(x) = -x + 11$, interceptam-se em qual ponto?
+Às 18h ($t=0$), a temperatura era de $24^\circ\text{C}$. A temperatura caiu de forma linear e às 22h ($t=4$) marcava $16^\circ\text{C}$. Qual é a raiz da função temperatura em relação a esse período?
 
 ### Opciones
-- [ ] B) $(3, 8)$ <!-- feedback: f(3) = 11 e g(3) = 8. Não é o ponto de interseção. -->
-- [x] A) $(2, 9)$ <!-- feedback: 2x + 5 = -x + 11 => 3x = 6 => x = 2. f(2) = 2(2)+5 = 9. -->
-- [ ] C) $(6, 5)$ <!-- feedback: f(6) = 17 e g(6) = 5. Não é o ponto de interseção. -->
-- [ ] D) $(4, 7)$ <!-- feedback: f(4) = 13 e g(4) = 7. Não é o ponto de interseção. -->
+- [ ] B) $t = 10$ <!-- feedback: Incorreto. Em $t=10$, a temperatura seria $24 - 20 = 4^\circ\text{C}$. -->
+- [x] A) $t = 12$ <!-- feedback: Correto. $T(t) = -2t + 24$. Fazendo $T(t) = 0 \Rightarrow -2t + 24 = 0 \Rightarrow t = 12$. -->
+- [ ] C) $t = 16$ <!-- feedback: Incorreto. $16$ foi o valor da temperatura em $t=4$, não a raiz da função. -->
+- [ ] D) $t = 24$ <!-- feedback: Incorreto. $24$ é o coeficiente linear (intercepto y), não a raiz no eixo x. -->
 
 ### Explicacion Pedagogica
-Para encontrar o ponto de interseção, igualamos as funções: $2x + 5 = -x + 11$. Somando $x$ e subtraindo 5: $3x = 6 \Rightarrow x = 2$. Substituindo $x=2$ em qualquer uma das funções: $f(2) = 2(2) + 5 = 9$. O ponto é $(2, 9)$.
+Identificamos $b = 24$ para o instante $t=0$. Para achar $a$, usamos $(4, 16)$: $a = \frac{16 - 24}{4 - 0} = -2$. A função é $T(t) = -2t + 24$. A raiz (zero da função) ocorre quando $T(t)=0$, ou seja, $-2t + 24 = 0 \Rightarrow 2t = 24 \Rightarrow t = 12$.
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um analista de sistemas em Florianópolis desenvolve um algoritmo para calcular o imposto de renda simplificado.
+**Contexto:** Um técnico de TI em Campinas avalia o preenchimento da capacidade de um servidor ao longo das semanas.
 
 ### Enunciado
-Uma função afim é tal que $f(1) = 4$ e $f(-2) = 10$. Qual é o valor de $f(0)$?
+Na semana 2, havia $300\text{ GB}$ ocupados. Na semana 5, havia $450\text{ GB}$. Considerando crescimento afim $C(s)$, qual era a capacidade ocupada na semana 0 (início do projeto)?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: 4 é o valor de f(1), não de f(0). -->
-- [ ] B) 5 <!-- feedback: Com $a=-2$, $f(0)=b=6$ porque $f(1)=a+b=4$. O valor $5$ viria de ler $4=-2+b$ como $b=4-2+3$. -->
-- [x] D) 6 <!-- feedback: a = (10 - 4) / (-2 - 1) = 6 / -3 = -2. f(1) = -2(1) + b = 4 => b = 6. f(0) = b = 6. -->
-- [ ] C) 7 <!-- feedback: Se $b=7$, então $f(1)=-2+7=5\neq4$. O valor $7$ resulta de somar $a$ e $b$ en lugar de restá-los. -->
+- [ ] A) $100\text{ GB}$ <!-- feedback: Incorreto. Se fosse $100$, o crescimento seria de $100\text{ GB}$/semana. -->
+- [ ] B) $150\text{ GB}$ <!-- feedback: Incorreto. Se fosse $150$, a semana 2 teria apenas $250$ considerando a taxa de 50. -->
+- [x] D) $200\text{ GB}$ <!-- feedback: Correto. A taxa é $50\text{ GB}$/sem. Logo, na semana 0 era $300 - 2(50) = 200$. -->
+- [ ] C) $250\text{ GB}$ <!-- feedback: Incorreto. $250$ seria a capacidade na semana 1, não na semana 0. -->
 
 ### Explicacion Pedagogica
-Primeiro achamos o coeficiente angular: $a = \frac{10 - 4}{-2 - 1} = \frac{6}{-3} = -2$. Agora usamos $f(1)=4$ para achar $b$: $4 = -2(1) + b \Rightarrow b = 6$. Como $f(0) = b$, o resultado é 6.
+O coeficiente angular é $a = \frac{450 - 300}{5 - 2} = \frac{150}{3} = 50\text{ GB}$ por semana. Usando $s=2$ em $C(s) = 50s + b$, temos $300 = 50(2) + b \Rightarrow 300 = 100 + b \Rightarrow b = 200$. O coeficiente linear $b$ representa o momento $s=0$.
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Fortaleza desafia seus alunos a interpretar o gráfico de uma função afim sem valores numéricos explícitos nos eixos.
+**Contexto:** Uma arquiteta em Vitória analisa a planta de um telhado representado no plano cartesiano por uma reta inclinada.
 
 ### Enunciado
-Se o gráfico de uma função afim $f(x) = ax + b$ corta o eixo $x$ em um valor positivo e o eixo $y$ em um valor negativo, o que podemos afirmar sobre os sinais de $a$ e $b$?
+A reta $y = mx + n$ tem coeficiente angular negativo e cruza o eixo das ordenadas na parte positiva. Onde estará localizada a raiz dessa função afim (corte no eixo x)?
 
 ### Opciones
-- [ ] A) $a > 0$ e $b > 0$ <!-- feedback: Se b > 0, o gráfico cortaria o eixo y em um valor positivo. -->
-- [x] D) $a > 0$ e $b < 0$ <!-- feedback: b < 0 (corta y no negativo). Para cortar x no positivo, a reta deve subir, logo a > 0. -->
-- [ ] B) $a < 0$ e $b < 0$ <!-- feedback: Se a < 0 e b < 0, a reta desceria e cortaria o eixo x em um valor negativo. -->
-- [ ] C) $a < 0$ e $b > 0$ <!-- feedback: Cortaria o eixo y no positivo. -->
+- [ ] A) Na origem ($x=0$). <!-- feedback: Incorreto. Isso exigiria que $n = 0$, mas foi dado que corta na parte positiva. -->
+- [x] D) Na parte positiva do eixo x ($x > 0$). <!-- feedback: Correto. Sendo a função decrescente e partindo de um y positivo, ela atravessa o eixo x no lado direito. -->
+- [ ] B) Na parte negativa do eixo x ($x < 0$). <!-- feedback: Incorreto. Se cruza alto ($n>0$) e desce ($m<0$), cortará o eixo x à direita da origem. -->
+- [ ] C) Não possui raiz real no plano cartesiano. <!-- feedback: Incorreto. Toda função afim com $m \neq 0$ possui exatamente uma raiz real. -->
 
 ### Explicacion Pedagogica
-O coeficiente $b$ é a interceptação em $y$, logo $b < 0$. A raiz é $-b/a$. Para que $-b/a > 0$, dado que $b$ é negativo, o valor de $a$ deve ser positivo (positivo / positivo = positivo). Portanto, a função é crescente.
+A função é decrescente ($m < 0$) e seu coeficiente linear é positivo ($n > 0$). A raiz da função afim é dada por $x = -\frac{n}{m}$. Como $n$ é positivo e $m$ é negativo, a fração $-\frac{n}{m}$ terá sinal positivo (menos com menos). Logo, $x > 0$.
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um investidor em Porto Alegre compara dois fundos de investimento com taxas de administração diferentes.
+**Contexto:** Um produtor de café no interior de São Paulo verifica as cotações de transporte entre duas transportadoras.
 
 ### Enunciado
-O fundo A cobra R\$ 100,00 de taxa fixa mais 1\% do valor investido. O fundo B cobra R\$ 50,00 de taxa fixa mais 2\% do valor investido. Para qual valor de investimento $x$ as taxas totais serão iguais?
+A transportadora Alpha cobra $F_A(x) = 150 + 2x$ e a Beta cobra $F_B(x) = 80 + 3,5x$, para fretes de $x$ km. A partir de quantos km rodados a transportadora Alpha passa a ser mais vantajosa (mais barata)?
 
 ### Opciones
-- [ ] A) R\$ 2.500,00 <!-- feedback: Taxa A: 100 + 25 = 125. Taxa B: 50 + 50 = 100. Diferentes. -->
-- [x] C) R\$ 5.000,00 <!-- feedback: 100 + 0,01x = 50 + 0,02x => 50 = 0,01x => x = 5000. -->
-- [ ] B) R\$ 10.000,00 <!-- feedback: Taxa A: 100 + 100 = 200. Taxa B: 50 + 200 = 250. Diferentes. -->
-- [ ] D) R\$ 7.500,00 <!-- feedback: As taxas não serão iguais para este valor. -->
+- [ ] A) $35\text{ km}$ <!-- feedback: Incorreto. Para $35\text{ km}$, Alpha cobra 220 e Beta cobra 202,5. Beta ainda é mais barata. -->
+- [x] C) Para $x > 46,66\text{ km}$. <!-- feedback: Correto. $150 + 2x < 80 + 3,5x \Rightarrow 70 < 1,5x \Rightarrow x > 46,66$. -->
+- [ ] B) $50\text{ km}$ <!-- feedback: Incorreto. Para $50\text{ km}$, Alpha cobra 250 e Beta cobra 255. Aqui ela já é mais barata, mas a troca ocorre um pouco antes. -->
+- [ ] D) Alpha nunca será mais barata. <!-- feedback: Incorreto. Como Alpha tem taxa variável menor (2 < 3,5), eventualmente ela vencerá a taxa fixa maior. -->
 
 ### Explicacion Pedagogica
-Montamos a equação de igualdade: $100 + 0,01x = 50 + 0,02x$. Isolando $x$: $100 - 50 = 0,02x - 0,01x$. Temos $50 = 0,01x$. Multiplicando ambos os lados por 100, obtemos $x = 5000$.
+Buscamos os valores de $x$ em que $F_A(x) < F_B(x)$. Resolvemos a inequação: $150 + 2x < 80 + 3,5x$. Subtraindo $80$ e $2x$ dos dois lados, obtemos $70 < 1,5x$. Dividindo por $1,5$, temos $x > \frac{70}{1,5} \Rightarrow x > 46,66$. Após aproximadamente 46,7 km, Alpha é mais econômica.
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um físico estuda a relação linear entre as escalas de temperatura Celsius ($^\circ$C) e Fahrenheit ($^\circ$F).
+**Contexto:** Em uma competição de drones no Rio de Janeiro, os gráficos de altitude de dois competidores formam retas no painel de controle.
 
 ### Enunciado
-Sabendo que $0^\circ$C corresponde a $32^\circ$F e $100^\circ$C corresponde a $212^\circ$F, qual é a função afim que converte Celsius ($C$) para Fahrenheit ($F$)?
+O drone 1 sobe segundo $h_1(t) = 3t + 10$. O drone 2 sobe segundo $h_2(t) = 3t + 5$. Qual é a relação geométrica entre as trajetórias de altitude dos dois drones no gráfico?
 
 ### Opciones
-- [ ] B) $F = 1,8C - 32$ <!-- feedback: O coeficiente linear b deve ser 32 positivo, não negativo. -->
-- [x] A) $F = 1,8C + 32$ <!-- feedback: a = (212-32)/(100-0) = 180/100 = 1,8. f(0)=32 => b=32. -->
-- [ ] C) $F = 32C + 1,8$ <!-- feedback: Erro na posição dos coeficientes. -->
-- [ ] D) $F = C + 32$ <!-- feedback: A taxa de variação não é 1; a cada 5 graus C variam 9 graus F. -->
+- [ ] B) São retas perpendiculares. <!-- feedback: Incorreto. Para serem perpendiculares, o produto dos coeficientes angulares seria $-1$. -->
+- [x] A) São retas paralelas que nunca se encontram. <!-- feedback: Correto. Ambas têm o mesmo coeficiente angular $a = 3$ e interceptos diferentes, logo são paralelas. -->
+- [ ] C) As retas se cruzam no instante $t=5$. <!-- feedback: Incorreto. Como crescem na mesma taxa, a diferença de $5$ m se mantém constante, não há cruzamento. -->
+- [ ] D) As retas são coincidentes. <!-- feedback: Incorreto. Elas começam em pontos diferentes ($10$ e $5$), portanto são distintas. -->
 
 ### Explicacion Pedagogica
-Calculamos o coeficiente angular: $a = \frac{212 - 32}{100 - 0} = \frac{180}{100} = 1,8$. Como $0^\circ$C é o valor inicial no eixo das abscissas, $b = 32$. Assim, $F = 1,8C + 32$ ou $F = \frac{9}{5}C + 32$.
+O comportamento das retas que representam funções afins depende do coeficiente angular. Como ambas as funções $h_1$ e $h_2$ possuem taxa de variação (coeficiente angular) igual a $3$, isso garante a mesma inclinação. Tendo $b$ diferentes, são retas estritamente paralelas no plano cartesiano.
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Em um curso de economia em São Paulo, os alunos analisam a função demanda de um produto.
+**Contexto:** Uma gráfica em Porto Alegre adquire uma nova máquina impressora cujo valor contábil deprecia linearmente.
 
 ### Enunciado
-Se a função demanda de um produto é $D(p) = 400 - 5p$, onde $p$ é o preço, qual é o preço máximo que pode ser cobrado para que ainda exista demanda (demanda maior que zero)?
+A função do valor da máquina é $V(t) = -1200t + 8400$, onde $t$ é o tempo em anos. O que representa o momento em que a reta intercepta o eixo horizontal das abscissas?
 
 ### Opciones
-- [ ] B) R\$ 400,00 <!-- feedback: Com p=400, a demanda seria negativa (400 - 2000). -->
-- [ ] C) R\$ 100,00 <!-- feedback: Com p=100, a demanda seria negativa (400 - 500). -->
-- [x] A) R\$ 80,00 <!-- feedback: 400 - 5p > 0 => 400 > 5p => p < 80. -->
-- [ ] D) R\$ 5,00 <!-- feedback: Este é o preço mínimo sugerido, mas não o máximo. -->
+- [ ] B) O valor de compra inicial do equipamento. <!-- feedback: Incorreto. O valor de compra seria a interseção com o eixo vertical (eixo y). -->
+- [ ] C) A taxa de depreciação anual em reais. <!-- feedback: Incorreto. A depreciação anual é dada pela inclinação da reta, o $1200$. -->
+- [x] A) O tempo necessário para que a máquina não tenha mais valor contábil (valor zero). <!-- feedback: Correto. A interseção no eixo horizontal (eixo t) ocorre quando o valor $V(t) = 0$. -->
+- [ ] D) O lucro máximo obtido com o uso da máquina. <!-- feedback: Incorreto. A função descreve depreciação do equipamento e não geração de lucro. -->
 
 ### Explicacion Pedagogica
-Para que a demanda seja positiva, devemos ter $400 - 5p > 0$. Resolvendo a inequação: $400 > 5p$, o que implica $p < 80$. Portanto, o preço deve ser estritamente menor que R\$ 80,00.
+No plano cartesiano, a reta cruza o eixo horizontal (abscissas) quando a função assume o valor $y = 0$. No contexto do problema, $V(t) = 0$ significa que o equipamento se desvalorizou totalmente. Fazendo $-1200t + 8400 = 0$, encontramos $t = 7$ anos.
 
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um matemático em Campinas estuda a composição de funções afins e suas propriedades algébricas.
+**Contexto:** Um professor universitário de estatística em Curitiba solicita uma avaliação de modelos.
 
 ### Enunciado
-Considere $f(x) = ax + b$. Se $f(f(x)) = 4x + 9$, quais são os possíveis valores para os coeficientes $a$ e $b$?
+Se $f(x) = cx + d$ é uma função invertível (bijeção), qual é o valor numérico do coeficiente angular de sua função inversa $f^{-1}(x)$?
 
 ### Opciones
-- [ ] A) $a = 4, b = 9$ <!-- feedback: f(f(x)) com a=4 daria 16x. Errado. -->
-- [ ] B) $a = 2, b = 9$ <!-- feedback: Se a=2, f(f(x)) = 2(2x+b)+b = 4x+3b. Se 3b=9, b=3. Não 9. -->
-- [x] D) $a = 2, b = 3$ <!-- feedback: f(f(x)) = a(ax+b)+b = a²x + ab+b. a²=4 => a=2 ou a=-2. Se a=2: 2b+b=9 => 3b=9 => b=3. -->
-- [ ] C) $a = 2, b = 4,5$ <!-- feedback: Incorreto ao aplicar a substituição na composição. -->
+- [ ] A) $c$ <!-- feedback: Incorreto. O coeficiente da inversa não é igual ao da função original. -->
+- [ ] B) $-c$ <!-- feedback: Incorreto. O sinal trocado não fornece a inclinação da reta invertida. -->
+- [x] D) $\frac{1}{c}$ <!-- feedback: Correto. Isolando $x$ em $y = cx + d$, obtemos $x = \frac{y - d}{c} = \frac{1}{c}y - \frac{d}{c}$. Logo, a inclinação é $1/c$. -->
+- [ ] C) $d$ <!-- feedback: Incorreto. $d$ representa um termo linear e independente da taxa original. -->
 
 ### Explicacion Pedagogica
-$f(f(x)) = a(ax+b) + b = a^2x + (ab + b)$. Igualando os coeficientes: $a^2 = 4 \Rightarrow a = 2$ ou $a = -2$. Se $a = 2$, então $2b + b = 9 \Rightarrow 3b = 9 \Rightarrow b = 3$. Se $a = -2$, $-2b + b = 9 \Rightarrow -b = 9 \Rightarrow b = -9$.
+Para encontrar a lei da função inversa de $f(x) = y = cx + d$, isolamos $x$ algébricamente: $y - d = cx \Rightarrow x = \frac{y}{c} - \frac{d}{c}$. Trocando $x$ por $y$ para denotar a função, temos $f^{-1}(x) = \frac{1}{c}x - \frac{d}{c}$. O novo coeficiente angular, que multiplica a variável, é $1/c$.
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Um analista de dados em Vitória avalia a eficácia de dois modelos lineares de regressão para prever vendas.
+**Contexto:** Em um simulado do ENEM em Belo Horizonte, pede-se aos alunos a análise do sistema de inequações afins.
 
 ### Enunciado
-A função $f(x)$ é linear e satisfaz $\sum_{i=1}^{3} f(i) = 15$. Se o coeficiente angular é $a = 2$, qual é o valor do coeficiente linear $b$?
+Para quais valores de $x$ tem-se, simultaneamente, as condições $2x - 4 > 0$ e $-3x + 15 \ge 0$?
 
 ### Opciones
-- [ ] A) 5 <!-- feedback: Se $b=5$, a soma seria $12+3\cdot5=27$, não $15$; esse valor confunde $b$ com a soma dos termos numéricos. -->
-- [x] C) 1 <!-- feedback: f(1)+f(2)+f(3) = (2*1+b) + (2*2+b) + (2*3+b) = 2+4+6 + 3b = 12 + 3b. 12+3b=15 => 3b=3 => b=1. -->
-- [ ] B) 3 <!-- feedback: Se $b=3$, a soma seria $12+3\cdot3=21$, não $15$; esse valor confunde $3b$ com $b$. -->
-- [ ] D) 0 <!-- feedback: Se b=0, a soma seria 12, não 15. -->
+- [ ] A) $x < 2$ <!-- feedback: Incorreto. Para satisfazer $2x - 4 > 0$, precisamos de $x > 2$. -->
+- [x] C) $2 < x \le 5$ <!-- feedback: Correto. Da primeira $x > 2$, da segunda $x \le 5$. A interseção nos dá esse intervalo semi-aberto. -->
+- [ ] B) $2 \le x \le 5$ <!-- feedback: Incorreto. O intervalo no $2$ deve ser aberto, pois a primeira desigualdade é estrita ($>$). -->
+- [ ] D) $x > 5$ <!-- feedback: Incorreto. Se $x > 5$, a segunda inequação $-3x + 15 \ge 0$ se torna falsa. -->
 
 ### Explicacion Pedagogica
-Expandimos a soma: $f(1) + f(2) + f(3) = (2(1)+b) + (2(2)+b) + (2(3)+b)$. Somando os termos numéricos: $2 + 4 + 6 = 12$. Somando os termos em $b$: $3b$. Temos a equação $12 + 3b = 15$, resultando em $3b = 3$, logo $b = 1$.
+Resolvemos o sistema de inequações do primeiro grau independentemente. 1) $2x - 4 > 0 \Rightarrow 2x > 4 \Rightarrow x > 2$. 2) $-3x + 15 \ge 0 \Rightarrow -3x \ge -15$. Multiplicando por $-1$ e invertendo o sinal da desigualdade: $3x \le 15 \Rightarrow x \le 5$. A interseção simultânea exige que $x$ seja maior que $2$ e menor ou igual a $5$.
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Em uma competição de matemática em São Paulo, propõe-se um problema sobre a área de figuras formadas por funções afins.
+**Contexto:** Um desenvolvedor de software de jogos em Manaus programa a trajetória de um personagem linear na tela.
 
 ### Enunciado
-Qual é a área da região triangular limitada pelo gráfico da função $f(x) = -2x + 8$ e pelos eixos coordenados $x$ e $y$?
+A posição em y do personagem varia segundo $P(x) = -x + 6$. A área abaixo da reta, no primeiro quadrante (limitada pelos eixos), forma um triângulo. Qual é essa área?
 
 ### Opciones
-- [ ] B) 32 <!-- feedback: Este seria o produto da base pela altura (4 * 8), esquecendo de dividir por 2. -->
-- [x] A) 16 <!-- feedback: Intercepto y (altura) = 8. Intercepto x (raiz) = 4. Área = (4 * 8) / 2 = 16. -->
-- [ ] C) 8 <!-- feedback: A altura do triângulo é o intercepto $y=8$ e a base é a raiz $x=4$; a área é $(4\cdot8)/2=16$, não $8$. -->
-- [ ] D) 4 <!-- feedback: Esse valor é apenas a raiz $x=4$ da função, usada sozinha. A área exige os dois lados do triângulo: $(4\cdot8)/2=16$. -->
+- [ ] B) $36$ <!-- feedback: Incorreto. $36$ seria a área do retângulo contendo o triângulo. Faltou dividir por 2. -->
+- [x] A) $18$ <!-- feedback: Correto. A reta corta os eixos em $(0,6)$ e $(6,0)$. A área é $(6 \times 6) / 2 = 18$. -->
+- [ ] C) $12$ <!-- feedback: Incorreto. Essa medida seria de um triângulo menor, com interceptos em $y=4$ ou $x=6$ desproporcional. -->
+- [ ] D) $6$ <!-- feedback: Incorreto. Essa é apenas a medida dos catetos, e não a da área da superfície interna. -->
 
 ### Explicacion Pedagogica
-O triângulo tem vértices na origem $(0,0)$, no intercepto $y$ $(0,8)$ e no intercepto $x$ (raiz da função). Resolvendo $-2x + 8 = 0$, achamos a raiz $x = 4$. A base é 4 e a altura é 8. Área = $(\text{base} \cdot \text{altura}) / 2 = (4 \cdot 8) / 2 = 16$.
+No primeiro quadrante, o triângulo é delimitado pela origem e pelos pontos de interceptação da reta com os eixos. Se $x=0$, temos $y=6$ (altura). Se $P(x)=0$, $-x + 6 = 0 \Rightarrow x = 6$ (base). A figura formada é um triângulo retângulo cuja área é $\frac{\text{base} \cdot \text{altura}}{2} = \frac{6 \cdot 6}{2} = 18$.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W03-funcao-afim-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático investiga propriedades de famílias de retas que passam por um ponto fixo no plano cartesiano.
+**Contexto:** No centro de pesquisas espaciais de São José dos Campos, analisa-se a composição de duas funções afins puras de translação.
 
 ### Enunciado
-Considere a família de funções $f_k(x) = (k-1)x + 2k + 3$. Qual é o ponto comum a todas as retas representadas por essa função, independentemente do valor de $k$?
+Seja $f(x) = x + p$ e $g(x) = x + q$. É correto afirmar sobre a função composta $f(g(x))$ que ela:
 
 ### Opciones
-- [ ] B) $(0, 5)$ <!-- feedback: Para x=0, f(0) depende de k: 2k+3. -->
-- [ ] C) $(1, 3)$ <!-- feedback: Em $x=1$ temos $f(1)=k+3$, que muda com $k$; o ponto comum exige que o termo em $k$ se anule, o que só ocorre em $x=-2$. -->
-- [x] A) $(-2, 5)$ <!-- feedback: f(-2) = (k-1)(-2) + 2k + 3 = -2k + 2 + 2k + 3 = 5. O valor é constante. -->
-- [ ] D) $(2, -1)$ <!-- feedback: Em $x=2$ temos $f(2)=k+3+2k+3=3k+6$, que muda com $k$; o ponto comum só existe onde $x+2=0$. -->
+- [ ] B) Nunca é uma função afim, tornando-se uma função quadrática. <!-- feedback: Incorreto. A composição de retas oblíquas sempre resulta em outra reta. -->
+- [ ] C) Depende da ordem de composição, pois a adição não comuta nesse escopo. <!-- feedback: Incorreto. A soma de constantes $p+q$ é perfeitamente comutativa nos números reais. -->
+- [x] A) Sempre comuta com $g(f(x))$, resultando em $x + p + q$. <!-- feedback: Correto. $f(g(x)) = (x+q)+p$ e $g(f(x)) = (x+p)+q$, que são exatamente a mesma expressão. -->
+- [ ] D) Muda sua taxa de variação angular (inclinação) para $p \cdot q$. <!-- feedback: Incorreto. Como $a=1$ nas duas funções, o coeficiente angular da composição continua sendo $1 \cdot 1 = 1$. -->
 
 ### Explicacion Pedagogica
-Para encontrar o ponto comum, reescrevemos a função isolando o parâmetro $k$: $f(x) = kx - x + 2k + 3 = k(x + 2) - x + 3$. Para que o valor de $f(x)$ não dependa de $k$, o termo que multiplica $k$ deve ser zero: $x + 2 = 0 \Rightarrow x = -2$. Substituindo $x = -2$ na função: $f(-2) = k(0) - (-2) + 3 = 5$. O ponto é $(-2, 5)$.
+Ao compor as duas translações afins, obtemos: $f(g(x)) = f(x + q) = (x + q) + p = x + (p + q)$. Fazendo no outro sentido, $g(f(x)) = g(x + p) = (x + p) + q = x + (p + q)$. Ambas mantêm o coeficiente angular $1$ e o coeficiente linear resulta da soma das constantes, provando a comutatividade para esse caso específico.
