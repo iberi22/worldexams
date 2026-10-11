@@ -323,7 +323,7 @@ Quando $g(-x) = -g(x)$, a função é classificada como ímpar, resultando num g
 Quais são os possíveis valores que solucionam a equação modular $|x + 3| = |x - 5|$?
 
 ### Opciones
-- [ ] A) $x = 1$ apenas. <!-- feedback: Quando substituímos x = 1 na expressão percebemos que resulta em 4 = 4. É válido, mas há outras opções? Na verdade, é a única! -->
+- [ ] A) $x = -1$ apenas. <!-- feedback: Para x=-1, |2| ≠ |-6|. -->
 - [ ] B) $x = 3$ e $x = -5$. <!-- feedback: Estes valores anulam cada módulo individualmente. -->
 - [ ] C) Não existe solução real. <!-- feedback: Existe solução resolvendo as duas partes da igualdade. -->
 - [x] D) $x = 1$. <!-- feedback: Analisando as duas vertentes, apenas x = 1 faz sentido real, gerando |4| = |-4|. -->
@@ -394,7 +394,7 @@ Indique o conjunto solução no qual se aplica a inequação modular $|4x - 8| \
 - [ ] A) $-1 \leq x \leq 5$ <!-- feedback: Este seria o intervalo para o cenário de MENOR ou igual ( |4x - 8| <= 12 ). -->
 - [x] B) $x \leq -1$ ou $x \geq 5$ <!-- feedback: Correto. A condição 'maior que' se desdobra gerando duas áreas divergentes da reta real. -->
 - [ ] C) $x \geq 5$ apenas. <!-- feedback: Você precisa considerar também o caso em que a expressão no interior resulta negativa. -->
-- [ ] D) Qualquer real exceto o intervalo aberto $(-1, 5)$. <!-- feedback: Quase, mas a alternativa B expressa o formato de forma mais simples e direta. -->
+- [ ] D) $-1 < x < 5$ <!-- feedback: Esse é o conjunto onde |4x-8| < 12, o caso oposto. -->
 
 ### Explicacion Pedagogica
 Se o módulo for "maior ou igual", desdobra-se na união de duas restrições disjuntas:
