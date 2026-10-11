@@ -24,380 +24,380 @@ creador: "Jules-Agent"
 **Bloom:** Remember
 **EJE:** Representación
 **Expected_Success:** 0.85
-**Contexto:** Diego está repasando la clasificación de los números en su colegio de Santiago.
+**Contexto:** Un estudiante en Santiago investiga la clasificación de números para un trabajo de matemáticas.
 
 ### Enunciado
-¿A qué conjunto numérico pertenece el número $\sqrt{2}$?
+¿Qué tipo de número es $\sqrt{7}$?
 
 ### Opciones
-- [ ] B) Números Naturales ($\mathbb{N}$) <!-- feedback: Los números naturales son enteros positivos sin parte decimal. -->
-- [ ] C) Números Enteros ($\mathbb{Z}$) <!-- feedback: Los números enteros no incluyen raíces inexactas como $\sqrt{2}$. -->
-- [ ] D) Números Racionales ($\mathbb{Q}$) <!-- feedback: Los racionales pueden escribirse como fracción de enteros; $\sqrt{2}$ no. -->
-- [x] A) Números Irracionales ($\mathbb{I}$) <!-- feedback: $\sqrt{2}$ tiene infinitos decimales no periódicos, por lo que es irracional. -->
+- [x] A) Número irracional. <!-- feedback: $\sqrt{7}$ tiene decimales infinitos no periódicos. -->
+- [ ] B) Número natural. <!-- feedback: No es un entero positivo. -->
+- [ ] C) Número entero. <!-- feedback: No es un entero ni positivo ni negativo. -->
+- [ ] D) Número racional. <!-- feedback: No se puede expresar como fracción de enteros. -->
 
 ### Explicacion Pedagogica
-El número $\sqrt{2}$ es un número irracional porque no se puede expresar como la razón entre dos números enteros. Su representación decimal es infinita y no presenta un patrón repetitivo o período.
+$\sqrt{7}$ no es un cuadrado perfecto, por lo que su raíz no es un número exacto, y no puede escribirse como una fracción $p/q$. Pertenece al conjunto de los números irracionales.
 
 ## Question 2 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Representación
 **Expected_Success:** 0.80
-**Contexto:** Javiera estudia las propiedades de los números reales para la PAES.
+**Contexto:** Una profesora en Temuco explica a sus alumnos las diferencias entre los conjuntos numéricos.
 
 ### Enunciado
-¿Cuál de las siguientes afirmaciones es siempre verdadera respecto a los números reales?
+¿Cuál de las siguientes propiedades define a un número racional?
 
 ### Opciones
-- [ ] A) La suma de dos números irracionales es siempre irracional. <!-- feedback: No siempre; por ejemplo, $\sqrt{2} + (-\sqrt{2}) = 0$, que es racional. -->
-- [ ] B) Todo número real es un número racional. <!-- feedback: Falso, existen los números irracionales que también son reales. -->
-- [x] C) El conjunto de los números reales es la unión de racionales e irracionales. <!-- feedback: Correcto. $\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$. -->
-- [ ] D) El número cero es un número natural. <!-- feedback: En el currículo chileno, los naturales ($\mathbb{N}$) suelen comenzar desde el 1. -->
+- [ ] A) Tiene infinitas cifras decimales sin periodo. <!-- feedback: Esa es la definición de un irracional. -->
+- [ ] B) Solo puede ser positivo o cero. <!-- feedback: Los racionales también pueden ser negativos. -->
+- [x] C) Se puede escribir como el cociente de dos enteros, con divisor no nulo. <!-- feedback: Correcto, esa es la definición formal de número racional. -->
+- [ ] D) Es el resultado de cualquier raíz cuadrada. <!-- feedback: Las raíces inexactas son irracionales. -->
 
 ### Explicacion Pedagogica
-El conjunto de los números reales ($\mathbb{R}$) se define como la unión del conjunto de los números racionales ($\mathbb{Q}$) y el conjunto de los números irracionales ($\mathbb{I}$). Cualquier número que se encuentre en la recta numérica es un número real.
+Un número racional es cualquier número que puede expresarse como una fracción $a/b$, donde $a$ y $b$ son números enteros y $b$ es distinto de cero.
 
 ## Question 3 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v3
 **Bloom:** Understand
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.75
-**Contexto:** En una clase en Valparaíso, se discute el valor absoluto de distintos números.
+**Contexto:** En un laboratorio en Punta Arenas, se registra la temperatura en invierno.
 
 ### Enunciado
-¿Cuál es el valor de $|-5| - |3 - 8|$?
+Si la temperatura inicial era de -3°C y luego bajó 4°C, ¿cuál es el valor absoluto de la nueva temperatura?
 
 ### Opciones
-- [x] B) 0 <!-- feedback: $|-5| = 5$ y $|3 - 8| = |-5| = 5$. Entonces $5 - 5 = 0$. -->
-- [ ] A) 10 <!-- feedback: Has sumado los valores en lugar de restarlos. -->
-- [ ] C) -10 <!-- feedback: El valor absoluto siempre es no negativo. Revisa la operación. -->
-- [ ] D) 5 <!-- feedback: Revisa el cálculo de la resta de los valores absolutos. -->
+- [ ] A) -7 <!-- feedback: El valor absoluto nunca es negativo. -->
+- [x] B) 7 <!-- feedback: La nueva temperatura es -7°C, y su valor absoluto es $|-7| = 7$. -->
+- [ ] C) 1 <!-- feedback: Restaste mal los valores o tomaste un signo diferente. -->
+- [ ] D) -1 <!-- feedback: La temperatura bajó, no subió, y el valor absoluto debe ser positivo. -->
 
 ### Explicacion Pedagogica
-El valor absoluto de un número es su distancia al origen, siempre positiva o cero. $|-5| = 5$. Luego, calculamos lo dentro del segundo valor absoluto: $3 - 8 = -5$, y su valor absoluto es $|-5| = 5$. Finalmente, $5 - 5 = 0$.
+La temperatura desciende de -3 a -7°C. El valor absoluto representa la magnitud sin signo, es decir, la distancia respecto a 0. Así, $|-7| = 7$.
 
 ## Question 4 [D3-D4]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v4
 **Bloom:** Understand
 **EJE:** Argumentación
 **Expected_Success:** 0.70
-**Contexto:** Matías analiza la densidad de los números racionales en la recta numérica.
+**Contexto:** En una feria de Valparaíso, se comparan los precios por kilo de diferentes verduras.
 
 ### Enunciado
-¿Cuál de los siguientes números se encuentra entre $1/4$ y $1/2$?
+Si el zapallo cuesta \$800,50 y la papa cuesta \$800,75 el kilo. ¿Qué valor está exactamente en el medio de ambos precios?
 
 ### Opciones
-- [ ] A) $1/8$ <!-- feedback: $1/8$ es menor que $1/4$. -->
-- [x] D) $3/8$ <!-- feedback: $1/4 = 2/8$ y $1/2 = 4/8$. Por lo tanto, $3/8$ está entre ellos. -->
-- [ ] B) $5/8$ <!-- feedback: $5/8$ es mayor que $4/8$ (o $1/2$). -->
-- [ ] C) $0,2$ <!-- feedback: $0,2 = 1/5$, que es menor que $1/4$. -->
+- [ ] A) \$800,60 <!-- feedback: Este valor no está exactamente en el centro. -->
+- [ ] B) \$800,65 <!-- feedback: \$800,5 + 0,15 = \$800,65, pero el promedio es otro. -->
+- [ ] C) \$800,70 <!-- feedback: Se encuentra más cerca del precio de la papa que del zapallo. -->
+- [x] D) \$800,625 <!-- feedback: El promedio entre 800,50 y 800,75 es 800,625. -->
 
 ### Explicacion Pedagogica
-Para comparar fracciones, es útil igualar denominadores. $1/4$ equivale a $2/8$ y $1/2$ equivale a $4/8$. Claramente, $3/8$ se encuentra entre $2/8$ y $4/8$.
+Para hallar el valor intermedio (punto medio), sumamos ambos números y dividimos por 2: $(800,50 + 800,75) / 2 = 1601,25 / 2 = 800,625$.
 
 ## Question 5 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.65
-**Contexto:** Fernanda está calculando distancias en un mapa que utiliza números reales.
+**Contexto:** Un ingeniero en Antofagasta necesita estimar la longitud de dos varillas soldadas, midiendo $\sqrt{2}$ m y $\sqrt{5}$ m.
 
 ### Enunciado
-Si $a = \sqrt{3}$ y $b = \sqrt{2}$, ¿cuál es el valor aproximado de $a + b$? (Considere $\sqrt{3} \approx 1,73$ y $\sqrt{2} \approx 1,41$)
+Usando las aproximaciones $\sqrt{2} \approx 1,41$ y $\sqrt{5} \approx 2,23$, ¿cuál es la longitud total aproximada?
 
 ### Opciones
-- [ ] A) 3,00 <!-- feedback: Has redondeado demasiado pronto o de forma incorrecta. -->
-- [x] D) 3,14 <!-- feedback: $1,73 + 1,41 = 3,14$. -->
-- [ ] B) 2,14 <!-- feedback: Error en la suma de las partes enteras. -->
-- [ ] C) 3,24 <!-- feedback: Error en la suma de las partes decimales. -->
+- [ ] A) $3,54 \text{ m}$ <!-- feedback: Has restado en lugar de sumar correctamente. -->
+- [ ] B) $3,74 \text{ m}$ <!-- feedback: Sumaste mal el último decimal. -->
+- [ ] C) $4,00 \text{ m}$ <!-- feedback: Ese es un valor muy redondeado, perdiste precisión. -->
+- [x] D) $3,64 \text{ m}$ <!-- feedback: $1,41 + 2,23 = 3,64$. -->
 
 ### Explicacion Pedagogica
-Al sumar aproximaciones de números irracionales, sumamos los valores decimales dados: $1,73$ (aproximación de $\sqrt{3}$) más $1,41$ (aproximación de $\sqrt{2}$), resultando en $3,14$.
+Para encontrar la longitud total aproximada, sumamos los valores decimales de las aproximaciones dadas: $1,41 \text{ m} + 2,23 \text{ m} = 3,64 \text{ m}$.
 
 ## Question 6 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Representación
 **Expected_Success:** 0.60
-**Contexto:** En un laboratorio en Concepción, se miden sustancias en miligramos usando notación científica.
+**Contexto:** En una clase de biología en Concepción, un estudiante mide el tamaño de una célula en el microscopio.
 
 ### Enunciado
-¿Cómo se expresa el número $0,000045$ en notación científica?
+La célula mide 0,0000078 metros. ¿Cómo se escribe este número en notación científica?
 
 ### Opciones
-- [ ] A) $4,5 \times 10^{-4}$ <!-- feedback: Contaste mal los espacios hacia la derecha. -->
-- [x] D) $4,5 \times 10^{-5}$ <!-- feedback: Correcto, se mueve la coma 5 lugares a la derecha. -->
-- [ ] B) $45 \times 10^{-6}$ <!-- feedback: En notación científica, el coeficiente debe estar entre 1 y 10. -->
-- [ ] C) $4,5 \times 10^{5}$ <!-- feedback: El exponente debe ser negativo para números menores que 1. -->
+- [ ] A) $78 \times 10^{-7}$ <!-- feedback: El coeficiente debe estar entre 1 y 10. -->
+- [ ] B) $7,8 \times 10^{6}$ <!-- feedback: Es un número muy pequeño, el exponente debe ser negativo. -->
+- [ ] C) $0,78 \times 10^{-5}$ <!-- feedback: El primer factor no está entre 1 y 10. -->
+- [x] D) $7,8 \times 10^{-6}$ <!-- feedback: La coma se mueve 6 lugares a la derecha. -->
 
 ### Explicacion Pedagogica
-La notación científica requiere un número entre 1 (inclusive) y 10, multiplicado por una potencia de 10. Para $0,000045$, desplazamos la coma 5 posiciones hacia la derecha para obtener $4,5$, por lo que el exponente es $-5$.
+Para la notación científica, ubicamos la coma para dejar un número entre 1 y 10, lo que nos da 7,8. Como movimos la coma 6 lugares a la derecha, el exponente es $-6$.
 
 ## Question 7 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v7
 **Bloom:** Apply
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.65
-**Contexto:** Benjamín desea cercar un terreno cuadrado que tiene un área de $50 \text{ m}^2$.
+**Contexto:** Un agricultor de Rancagua quiere instalar un sistema de riego en un terreno cuadrado de $120 \text{ m}^2$.
 
 ### Enunciado
-¿Cuál es la longitud aproximada de un lado del terreno en metros?
+¿En qué intervalo de números enteros se encuentra la medida exacta del lado de este terreno?
 
 ### Opciones
-- [ ] A) Entre 5 y 6 <!-- feedback: $5^2=25$ y $6^2=36$; muy bajo para 50. -->
-- [ ] B) Exactamente 7 <!-- feedback: $7^2=49$, se acerca pero no es exacto. -->
-- [x] C) Entre 7 y 8 <!-- feedback: $7^2=49$ y $8^2=64$. Por lo tanto, $\sqrt{50}$ está entre 7 y 8. -->
-- [ ] D) Entre 8 y 9 <!-- feedback: $8^2=64$; ya se pasó de 50. -->
+- [ ] A) Entre 8 y 9 m <!-- feedback: $9^2 = 81$, muy lejos de 120. -->
+- [ ] B) Entre 9 y 10 m <!-- feedback: $10^2 = 100$, todavía no alcanza a 120. -->
+- [x] C) Entre 10 y 11 m <!-- feedback: $10^2 = 100$ y $11^2 = 121$. -->
+- [ ] D) Entre 11 y 12 m <!-- feedback: $11^2 = 121$, se pasa de 120 rápidamente. -->
 
 ### Explicacion Pedagogica
-El lado de un cuadrado es la raíz cuadrada de su área. Como $7^2 = 49$ y $8^2 = 64$, la raíz cuadrada de 50 debe ser un número decimal comprendido entre 7 y 8 (específicamente $7,07$ aproximadamente).
+El área es el lado al cuadrado. Buscamos $\sqrt{120}$. Sabemos que $\sqrt{100} = 10$ y $\sqrt{121} = 11$. Por lo tanto, el lado está comprendido entre 10 y 11 metros.
 
 ## Question 8 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Modelación
 **Expected_Success:** 0.55
-**Contexto:** Valentina calcula el interés simple de un ahorro en una cuenta bancaria.
+**Contexto:** En una estación meteorológica de Coyhaique, la variación térmica durante la mañana se modela con números reales.
 
 ### Enunciado
-Si Valentina ahorra \$200.000 con un interés simple anual del 5%, ¿cuánto dinero tendrá en total después de 3 años?
+Si la temperatura era de -2,5 °C y luego aumentó al triple de su valor absoluto, ¿cuál fue el aumento en grados?
 
 ### Opciones
-- [ ] A) \$210.000 <!-- feedback: Solo calculaste el interés de un año. -->
-- [ ] C) \$220.000 <!-- feedback: Calculaste el interés para 2 años en lugar de 3. -->
-- [x] B) \$230.000 <!-- feedback: Correcto. Interés = $200.000 \times 0,05 \times 3 = 30.000$. Total = $230.000. -->
-- [ ] D) \$231.525 <!-- feedback: Ese sería el cálculo para interés compuesto, no simple. -->
+- [ ] A) 5,0 °C <!-- feedback: Ese es solo el doble del valor absoluto. -->
+- [x] B) 7,5 °C <!-- feedback: El valor absoluto es 2,5. El triple es $3 \times 2,5 = 7,5$. -->
+- [ ] C) -7,5 °C <!-- feedback: El aumento térmico es una magnitud positiva en este contexto. -->
+- [ ] D) 10,0 °C <!-- feedback: Calculaste un cuádruple, revisa la multiplicación. -->
 
 ### Explicacion Pedagogica
-El interés simple se calcula multiplicando el capital inicial por la tasa de interés y por el tiempo: $I = P \cdot r \cdot t$. Aquí, $I = 200.000 \cdot 0,05 \cdot 3 = 30.000$. El monto total es el capital más el interés: $200.000 + 30.000 = 230.000$.
+Primero calculamos el valor absoluto de la temperatura: $|-2,5| = 2,5$. Luego, calculamos el triple de este valor, que corresponde al aumento: $3 \times 2,5 = 7,5$ °C.
 
 ## Question 9 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.60
-**Contexto:** Nicolás compra una polera que tiene un descuento del 15% en una tienda de La Serena.
+**Contexto:** En el supermercado de Iquique, una persona compra paltas y debe estimar el precio final de su compra pesando los productos.
 
 ### Enunciado
-Si el precio original de la polera es \$12.000, ¿cuánto pagará Nicolás finalmente?
+Si las paltas cuestan \$3.500 el kilo y compró 1,2 kilos, ¿cuál es el precio que debe pagar?
 
 ### Opciones
-- [ ] A) \$1.800 <!-- feedback: Ese es el valor del descuento, no el precio final. -->
-- [x] C) \$10.200 <!-- feedback: $12.000 - (12.000 \times 0,15) = 10.200$. -->
-- [ ] B) \$10.800 <!-- feedback: Calculaste el 10% de descuento en lugar del 15%. -->
-- [ ] D) \$9.500 <!-- feedback: Error en el cálculo de la resta del descuento. -->
+- [ ] A) \$3.800 <!-- feedback: Calculaste mal el 0,2 adicional. -->
+- [ ] B) \$4.500 <!-- feedback: Ese precio corresponde a una cantidad mayor. -->
+- [x] C) \$4.200 <!-- feedback: $3.500 \times 1,2 = 4.200$. -->
+- [ ] D) \$4.000 <!-- feedback: Multiplicar por 1,2 es agregar el 20%, revisa el cálculo. -->
 
 ### Explicacion Pedagogica
-Para obtener el precio final con descuento, calculamos el 15% de \$12.000 ($12.000 \times 0,15 = 1.800$) y lo restamos al precio original: $12.000 - 1.800 = 10.200$. También se puede multiplicar directamente por $0,85$.
+Para obtener el valor total, multiplicamos el costo por la masa: $3.500 \times 1,2 = 3.500 \times (1 + 0,2) = 3.500 + 700 = 4.200$.
 
 ## Question 10 [D5-D6]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Argumentación
 **Expected_Success:** 0.50
-**Contexto:** Camila analiza el resultado de multiplicar un número racional por uno irracional.
+**Contexto:** Dos amigos en Osorno debaten sobre cómo simplificar una expresión matemática con intervalos.
 
 ### Enunciado
-¿Cuál es el resultado de la operación $0 \times \pi$?
+¿Cuál es el resultado de la intersección entre los intervalos $[-2, 5]$ y $]0, 8[$?
 
 ### Opciones
-- [x] D) 0 <!-- feedback: Cualquier número real multiplicado por cero es siempre cero. -->
-- [ ] A) $\pi$ <!-- feedback: Multiplicar por cero no mantiene el valor del otro número. -->
-- [ ] B) Un número irracional distinto de cero. <!-- feedback: El resultado es racional (cero). -->
-- [ ] C) 1 <!-- feedback: La multiplicación por cero resulta en cero, no en uno. -->
+- [ ] A) $[-2, 8[$ <!-- feedback: Esa sería la unión de los intervalos. -->
+- [ ] B) $]0, 5[$ <!-- feedback: El número 5 debe estar incluido según el primer intervalo. -->
+- [ ] C) $]-2, 0]$ <!-- feedback: Estos números no están en la intersección de ambos. -->
+- [x] D) $]0, 5]$ <!-- feedback: Los valores en común van desde algo mayor a 0 hasta el 5 inclusive. -->
 
 ### Explicacion Pedagogica
-Una propiedad fundamental de los números reales es el elemento absorbente de la multiplicación, que es el cero. Sin importar si el otro número es racional o irracional (como $\pi$), el producto siempre será 0.
+La intersección son los valores que pertenecen a ambos conjuntos al mismo tiempo. El intervalo comienza justo después del cero (excluido por el segundo intervalo) y termina en el cinco (incluido en ambos). Así se forma $]0, 5]$.
 
 ## Question 11 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v11
 **Bloom:** Apply
 **EJE:** Modelación
 **Expected_Success:** 0.45
-**Contexto:** En un problema de física, se requiere calcular el volumen de una esfera de radio $r = 3 \text{ cm}$.
+**Contexto:** En una prueba de atletismo en Talca, se mide la distancia recorrida mediante una fórmula que involucra potencias.
 
 ### Enunciado
-Si el volumen de una esfera es $V = \frac{4}{3}\pi r^3$, ¿cuál es el volumen en $\text{cm}^3$ dejando el resultado en términos de $\pi$?
+Si la distancia está dada por la expresión $d = 2^3 \cdot 5^3$ metros, ¿cuántos metros se recorrieron?
 
 ### Opciones
-- [ ] A) $12\pi$ <!-- feedback: Olvidaste elevar el radio al cubo. -->
-- [x] C) $36\pi$ <!-- feedback: $r^3 = 27$. Luego $\frac{4}{3} \cdot 27 = 4 \cdot 9 = 36$. -->
-- [ ] B) $108\pi$ <!-- feedback: Multiplicaste por $r^3$ pero no aplicaste la fracción $\frac{4}{3}$. -->
-- [ ] D) $27\pi$ <!-- feedback: Elevaste al cubo pero no multiplicaste por $\frac{4}{3}$. -->
+- [ ] A) 30 metros <!-- feedback: Multiplicaste las bases pero sumaste los exponentes mal. -->
+- [ ] B) 150 metros <!-- feedback: No has elevado a la potencia correspondiente de manera correcta. -->
+- [x] C) 1000 metros <!-- feedback: $2^3 \cdot 5^3 = (2 \cdot 5)^3 = 10^3 = 1000$. -->
+- [ ] D) 8000 metros <!-- feedback: Revisar cómo se combinan las bases, es $(10)^3$. -->
 
 ### Explicacion Pedagogica
-Sustituimos $r=3$ en la fórmula: $V = \frac{4}{3}\pi(3)^3 = \frac{4}{3}\pi(27)$. Simplificamos dividiendo 27 por 3, lo que da 9. Luego multiplicamos 4 por 9 para obtener 36. El resultado es $36\pi$.
+Podemos resolver calculando por separado $8 \times 125 = 1000$, o aplicando propiedades de potencias con igual exponente: $(2 \times 5)^3 = 10^3 = 1000$.
 
 ## Question 12 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v12
 **Bloom:** Apply
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.40
-**Contexto:** Un arquitecto en Antofagasta diseña una rampa con una pendiente que involucra raíces cuadradas.
+**Contexto:** Un ebanista de Chiloé diseña un mueble donde usa varillas cuya medida se da por la expresión $\sqrt{12} + \sqrt{27}$.
 
 ### Enunciado
-Simplifique la expresión $\sqrt{18} + \sqrt{50}$.
+¿Cuál es la longitud simplificada de la suma de estas raíces?
 
 ### Opciones
-- [ ] A) $\sqrt{68}$ <!-- feedback: Las raíces no se pueden sumar directamente sumando sus argumentos. -->
-- [ ] C) $4\sqrt{2}$ <!-- feedback: Solo calculaste una parte de la suma. -->
-- [x] B) $8\sqrt{2}$ <!-- feedback: $\sqrt{18} = 3\sqrt{2}$ y $\sqrt{50} = 5\sqrt{2}$. Sumados dan $8\sqrt{2}$. -->
-- [ ] D) $15\sqrt{2}$ <!-- feedback: Multiplicaste los coeficientes en lugar de sumarlos. -->
+- [ ] A) $\sqrt{39}$ <!-- feedback: Las raíces no se pueden sumar internamente. -->
+- [x] B) $5\sqrt{3}$ <!-- feedback: $\sqrt{12} = 2\sqrt{3}$ y $\sqrt{27} = 3\sqrt{3}$, sumados dan $5\sqrt{3}$. -->
+- [ ] C) $6\sqrt{3}$ <!-- feedback: Sumaste mal los coeficientes de las raíces. -->
+- [ ] D) $36$ <!-- feedback: Multiplicaste los números dentro de las raíces, en vez de sumarlas. -->
 
 ### Explicacion Pedagogica
-Para sumar raíces, primero simplificamos cada término buscando cuadrados perfectos: $\sqrt{18} = \sqrt{9 \cdot 2} = 3\sqrt{2}$ y $\sqrt{50} = \sqrt{25 \cdot 2} = 5\sqrt{2}$. Al tener el mismo radical, sumamos los coeficientes: $3 + 5 = 8$, resultando en $8\sqrt{2}$.
+Descomponemos: $\sqrt{12} = \sqrt{4 \times 3} = 2\sqrt{3}$ y $\sqrt{27} = \sqrt{9 \times 3} = 3\sqrt{3}$. Sumando ambos términos semejantes obtenemos $5\sqrt{3}$.
 
 ## Question 13 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.35
-**Contexto:** Se analiza el crecimiento de una población de bacterias que se duplica cada hora.
+**Contexto:** En un experimento financiero simulado en Viña del Mar, un fondo de inversión triplica su valor cada año.
 
 ### Enunciado
-Si inicialmente hay $2^5$ bacterias, ¿cuántas habrá después de 4 horas? Exprese el resultado como una potencia de 2.
+Si el fondo inicia con \$3^4, ¿cuánto dinero tendrá acumulado tras 3 años?
 
 ### Opciones
-- [ ] A) $2^4$ <!-- feedback: Esa es la cantidad de horas, no el total acumulado. -->
-- [ ] C) $2^{20}$ <!-- feedback: Has multiplicado los exponentes, lo cual es incorrecto en este caso. -->
-- [x] B) $2^9$ <!-- feedback: $2^5 \cdot 2^4 = 2^{5+4} = 2^9$. -->
-- [ ] D) $2^5 + 2^4$ <!-- feedback: La población crece de forma multiplicativa, no aditiva. -->
+- [ ] A) \$3^6 <!-- feedback: Has sumado mal los exponentes. -->
+- [x] B) \$3^7 <!-- feedback: $3^4 \times 3^3 = 3^{4+3} = 3^7$. -->
+- [ ] C) \$9^{12} <!-- feedback: Multiplicaste las bases y exponentes de forma errónea. -->
+- [ ] D) \$3^{12} <!-- feedback: Multiplicaste exponentes en lugar de sumarlos. -->
 
 ### Explicacion Pedagogica
-Si la población se duplica cada hora, después de 4 horas se habrá multiplicado por $2^4$. Multiplicamos la cantidad inicial por este factor: $2^5 \cdot 2^4$. Aplicando la propiedad de potencias de igual base, sumamos los exponentes: $5 + 4 = 9$.
+Cada año el fondo se multiplica por 3. En 3 años, se multiplicará por $3^3$. Por propiedad de potencias de igual base, se suman los exponentes: $4 + 3 = 7$, resultando en $3^7$.
 
 ## Question 14 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Argumentación
 **Expected_Success:** 0.30
-**Contexto:** Un grupo de estudiantes discute sobre la racionalización de fracciones.
+**Contexto:** Un estudiante en Arica repasa la operatoria con radicales fraccionarios.
 
 ### Enunciado
-Al racionalizar la expresión $\frac{2}{\sqrt{6}}$, ¿cuál es el resultado simplificado?
+Si racionalizamos la fracción $\frac{10}{\sqrt{5}}$, ¿qué expresión equivalente resulta?
 
 ### Opciones
-- [ ] A) $\frac{\sqrt{6}}{6}$ <!-- feedback: Olvidaste el factor 2 del numerador. -->
-- [x] C) $\frac{\sqrt{6}}{3}$ <!-- feedback: $\frac{2\sqrt{6}}{6} = \frac{\sqrt{6}}{3}$. -->
-- [ ] B) $\frac{2\sqrt{6}}{3}$ <!-- feedback: Error al simplificar la fracción final. -->
-- [ ] D) $\sqrt{6}$ <!-- feedback: El denominador no desaparece sin dejar rastro. -->
+- [ ] A) $\frac{\sqrt{5}}{2}$ <!-- feedback: Has invertido el coeficiente. -->
+- [ ] B) $5\sqrt{5}$ <!-- feedback: Dividiste mal el 10 entre el 5. -->
+- [x] C) $2\sqrt{5}$ <!-- feedback: Multiplicamos por $\sqrt{5}$ arriba y abajo, resultando $\frac{10\sqrt{5}}{5} = 2\sqrt{5}$. -->
+- [ ] D) $10\sqrt{5}$ <!-- feedback: Te faltó dividir por 5 luego de racionalizar. -->
 
 ### Explicacion Pedagogica
-Para racionalizar, multiplicamos numerador y denominador por $\sqrt{6}$: $\frac{2 \cdot \sqrt{6}}{\sqrt{6} \cdot \sqrt{6}} = \frac{2\sqrt{6}}{6}$. Finalmente, simplificamos la fracción dividiendo por 2: $\frac{\sqrt{6}}{3}$.
+Para racionalizar, multiplicamos numerador y denominador por $\sqrt{5}$. Obtenemos $\frac{10\sqrt{5}}{5}$. Al dividir el 10 exterior por el 5 del denominador, nos queda finalmente $2\sqrt{5}$.
 
 ## Question 15 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Representación
 **Expected_Success:** 0.35
-**Contexto:** Se pide ordenar de menor a mayor tres números reales: $x = \sqrt{5}$, $y = 2,2$ y $z = 9/4$.
+**Contexto:** Un grupo de amigos en Copiapó debe ordenar de menor a mayor tres mediciones de área para un terreno.
 
 ### Enunciado
-¿Cuál es el orden correcto de menor a mayor?
+Si las medidas son $P = 3,1$, $Q = \pi$ y $R = \sqrt{10}$, ¿cuál es el orden correcto?
 
 ### Opciones
-- [ ] A) $x < y < z$ <!-- feedback: $\sqrt{5} \approx 2,236$, que es mayor que $2,2$. -->
-- [x] B) $y < x < z$ <!-- feedback: $y = 2,20$; $x \approx 2,236$; $z = 2,25$. -->
-- [ ] C) $z < x < y$ <!-- feedback: $z = 2,25$ es el mayor de los tres. -->
-- [ ] D) $y < z < x$ <!-- feedback: $x$ es menor que $z$. -->
+- [ ] A) $P < R < Q$ <!-- feedback: $\pi \approx 3,1415$ y $\sqrt{10} \approx 3,162$. -->
+- [x] B) $P < Q < R$ <!-- feedback: $3,1 < 3,1415... < 3,162...$. -->
+- [ ] C) $Q < P < R$ <!-- feedback: $3,1$ es menor que $\pi$. -->
+- [ ] D) $R < Q < P$ <!-- feedback: $\sqrt{10}$ es la mayor de todas. -->
 
 ### Explicacion Pedagogica
-Convertimos todos a decimales para comparar: $y = 2,2$; $x = \sqrt{5} \approx 2,236$; $z = 9/4 = 2,25$. Comparando las milésimas: $2,200 < 2,236 < 2,250$. Por lo tanto, $y < x < z$.
+Aproximando a decimales, tenemos $P = 3,10$, $Q \approx 3,14$ y $R = \sqrt{10} \approx 3,16$. Ordenando los decimales: $3,10 < 3,14 < 3,16$, por lo que el orden es $P < Q < R$.
 
 ## Question 16 [D7-D8]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Modelación
 **Expected_Success:** 0.40
-**Contexto:** En un estudio de mercado en Chillán, se observa que el precio de un producto sube un 10% y luego baja un 10%.
+**Contexto:** Una tienda de tecnología en Puerto Montt baja el precio de un computador un 20% y luego lo sube un 20%.
 
 ### Enunciado
-Si el precio inicial era \$10.000, ¿cuál es el precio final?
+Si el precio original era \$500.000, ¿cuál es el precio final luego de ambos cambios?
 
 ### Opciones
-- [ ] A) \$10.000 <!-- feedback: Los porcentajes no se anulan así; se aplican sobre bases distintas. -->
-- [x] B) \$9.900 <!-- feedback: $10.000 \cdot 1,1 = 11.000$; luego $11.000 \cdot 0,9 = 9.900$. -->
-- [ ] C) \$10.100 <!-- feedback: Calculaste un aumento neto, pero hay una disminución. -->
-- [ ] D) \$9.000 <!-- feedback: Error al calcular los pasos sucesivos. -->
+- [ ] A) \$500.000 <!-- feedback: Los aumentos y disminuciones porcentuales sucesivos no se cancelan entre sí. -->
+- [x] B) \$480.000 <!-- feedback: Baja a \$400.000, luego sube el 20% de eso (\$80.000). Total \$480.000. -->
+- [ ] C) \$520.000 <!-- feedback: Cuidado, los porcentajes se aplican sobre distintos montos. -->
+- [ ] D) \$400.000 <!-- feedback: Falta aplicar el aumento posterior del 20%. -->
 
 ### Explicacion Pedagogica
-Primero el precio sube: $10.000 + 1.000 = 11.000$. Luego, baja el 10% de ese nuevo valor: $11.000 \cdot 0,1 = 1.100$. Restamos: $11.000 - 1.100 = 9.900$. Siempre que se sube y baja el mismo porcentaje, el valor final es menor al inicial.
+Primero, baja 20%: $500.000 \times 0,8 = 400.000$. Luego, sobre este nuevo monto sube un 20%: $400.000 \times 1,2 = 480.000$. El precio no vuelve a ser el original.
 
 ## Question 17 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Argumentación
 **Expected_Success:** 0.25
-**Contexto:** Un estudiante plantea una duda sobre la existencia de números entre dos racionales muy cercanos.
+**Contexto:** Dos hermanos debaten sobre propiedades de densidad de los números reales.
 
 ### Enunciado
-Considere los números $A = 0,33$ y $B = 1/3$. ¿Cuál de las siguientes afirmaciones es correcta?
+Entre los números $1,999$ y $2,001$, ¿cuál afirmación es matemáticamente verdadera?
 
 ### Opciones
-- [ ] B) $A$ y $B$ representan el mismo número real. <!-- feedback: Falso. $1/3$ es $0,333...$ (infinito), mientras $0,33$ es finito. -->
-- [x] A) $B > A$ <!-- feedback: $1/3 \approx 0,3333$, lo cual es mayor que $0,3300$. -->
-- [ ] C) No existen números reales entre $A$ y $B$. <!-- feedback: Entre dos números reales siempre existen infinitos números. -->
-- [ ] D) $A$ es un número irracional. <!-- feedback: $0,33$ es racional porque se puede escribir como $33/100$. -->
+- [x] A) Existe una cantidad infinita de números racionales e irracionales entre ellos. <!-- feedback: Por el principio de densidad, siempre hay infinitos reales entre dos números. -->
+- [ ] B) Existe solo un número entero entre ellos, el número 2, y ningún otro número más. <!-- feedback: Hay un solo entero (2), pero hay infinitos decimales (reales). -->
+- [ ] C) La distancia entre ellos es 0,001. <!-- feedback: La distancia es $2,001 - 1,999 = 0,002$. -->
+- [ ] D) No existen números irracionales en este intervalo. <!-- feedback: Entre cualquier par de reales siempre hay infinitos irracionales. -->
 
 ### Explicacion Pedagogica
-$B = 1/3$ es un número decimal periódico $0,333...$. Al comparar con $A = 0,33$ (que es $0,330$), vemos que a partir de la milésima, $B$ tiene un 3 y $A$ tiene un 0. Por lo tanto, $B$ es mayor que $A$.
+La propiedad de densidad de los números reales establece que entre cualquier par de números reales distintos existen infinitos números, tanto racionales como irracionales, sin importar cuán cerca estén.
 
 ## Question 18 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.20
-**Contexto:** Se define una operación nueva en el conjunto de los números reales: $x \star y = x^y + y^x$.
+**Contexto:** En un taller universitario en Valdivia, se introduce una nueva operación algebraica para evaluar.
 
 ### Enunciado
-¿Cuál es el valor de $2 \star 3$?
+Se define $a \nabla b = a^b - b$. ¿Cuál es el resultado de evaluar $4 \nabla 2$?
 
 ### Opciones
-- [ ] A) 12 <!-- feedback: Error en el cálculo de las potencias. -->
-- [x] D) 17 <!-- feedback: $2^3 + 3^2 = 8 + 9 = 17$. -->
-- [ ] B) 13 <!-- feedback: Calculaste mal una de las potencias. -->
-- [ ] C) 31 <!-- feedback: Error aritmético mayor. -->
+- [ ] A) $8$ <!-- feedback: Multiplicaste en lugar de elevar a potencia. -->
+- [ ] B) $12$ <!-- feedback: Restaste mal al final de la operación. -->
+- [ ] C) $6$ <!-- feedback: Revisar el orden de operaciones de la definición. -->
+- [x] D) $14$ <!-- feedback: $4^2 - 2 = 16 - 2 = 14$. -->
 
 ### Explicacion Pedagogica
-Aplicamos la definición de la operación: sustituimos $x=2$ e $y=3$. Entonces $2 \star 3 = 2^3 + 3^2$. Calculamos cada potencia: $2^3 = 8$ y $3^2 = 9$. Sumamos los resultados: $8 + 9 = 17$.
+Siguiendo la definición de la operación, tomamos $a=4$ y $b=2$. Reemplazamos en la fórmula: $4^2 - 2$. Calculamos la potencia ($16$) y le restamos 2, obteniendo $14$.
 
 ## Question 19 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Resolución de problemas
 **Expected_Success:** 0.15
-**Contexto:** Diego intenta resolver una ecuación que involucra raíces enésimas.
+**Contexto:** En una prueba de cálculo avanzado, se debe analizar la existencia de raíces en los reales.
 
 ### Enunciado
-¿Cuál es el valor de $x$ si $\sqrt[3]{x} = -2$?
+Al resolver la ecuación $\sqrt[4]{x} = 3$, ¿qué valor toma $x$?
 
 ### Opciones
-- [ ] A) -4 <!-- feedback: Multiplicaste por 2 en lugar de elevar al cubo. -->
-- [ ] B) No existe en los reales. <!-- feedback: Las raíces cúbicas de números negativos sí existen en $\mathbb{R}$. -->
-- [x] D) -8 <!-- feedback: $(-2)^3 = -8$. -->
-- [ ] C) 8 <!-- feedback: Olvidaste mantener el signo al elevar a una potencia impar. -->
+- [ ] A) $12$ <!-- feedback: Multiplicaste el índice de la raíz por el resultado. -->
+- [ ] B) $\sqrt{3}$ <!-- feedback: Extrajiste raíz en lugar de elevar a potencia. -->
+- [ ] C) $27$ <!-- feedback: Elevaste al cubo en vez de a la cuarta potencia. -->
+- [x] D) $81$ <!-- feedback: Se debe elevar a 4 ambos lados, $3^4 = 81$. -->
 
 ### Explicacion Pedagogica
-Para despejar $x$, elevamos ambos lados de la ecuación al cubo: $(\sqrt[3]{x})^3 = (-2)^3$. Esto nos da $x = -2 \cdot -2 \cdot -2 = -8$. Las raíces de índice impar conservan el signo de la base.
+Para eliminar la raíz cuarta, elevamos ambos lados de la ecuación a la cuarta potencia. Esto nos da $x = 3^4$, lo cual equivale a $3 \times 3 \times 3 \times 3 = 81$.
 
 ## Question 20 [D9-D10]
 **ID:** CL-MAT-11-2026-W01-numeros-reales-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Argumentación
 **Expected_Success:** 0.10
-**Contexto:** En un examen de nivel avanzado en Puerto Montt, se pregunta por la naturaleza de la suma de raíces.
+**Contexto:** En un liceo Bicentenario de Castro, se discuten los productos notables con raíces para obtener números enteros.
 
 ### Enunciado
-¿Cuál de las siguientes expresiones representa un número racional?
+¿Cuál de los siguientes productos da como resultado un número entero positivo?
 
 ### Opciones
-- [ ] A) $\sqrt{2} + \sqrt{3}$ <!-- feedback: La suma de estas raíces no exactas es irracional. -->
-- [x] C) $(\sqrt{3} + \sqrt{2})(\sqrt{3} - \sqrt{2})$ <!-- feedback: Es una suma por su diferencia: $3 - 2 = 1$, que es racional. -->
-- [ ] B) $\pi / 2$ <!-- feedback: Un irracional dividido por un racional no nulo es irracional. -->
-- [ ] D) $\sqrt{8} / 2$ <!-- feedback: $\sqrt{8} = 2\sqrt{2}$, al dividir por 2 queda $\sqrt{2}$, que es irracional. -->
+- [ ] A) $\sqrt{3} \times \sqrt{5}$ <!-- feedback: $\sqrt{15}$ es un número irracional. -->
+- [ ] B) $(\sqrt{7})^3$ <!-- feedback: Da $7\sqrt{7}$, que es irracional. -->
+- [x] C) $(\sqrt{6} + 1)(\sqrt{6} - 1)$ <!-- feedback: Es una suma por su diferencia: $6 - 1 = 5$, que es entero. -->
+- [ ] D) $(\sqrt{3} - \sqrt{2})^2$ <!-- feedback: El binomio al cuadrado resulta en $5 - 2\sqrt{6}$, que es irracional. -->
 
 ### Explicacion Pedagogica
-La opción B es un producto notable (suma por su diferencia), cuya fórmula es $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\sqrt{3})^2 - (\sqrt{2})^2 = 3 - 2 = 1$. Dado que 1 es un número entero, también es un número racional.
+La opción C es una suma por su diferencia: $(a+b)(a-b) = a^2 - b^2$. Aplicándola: $(\sqrt{6})^2 - 1^2 = 6 - 1 = 5$. Dado que 5 es un número entero positivo, esta es la respuesta correcta.
 
 ### Revision de Calidad
 | Dimension | Puntaje |
