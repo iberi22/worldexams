@@ -5,6 +5,8 @@ on:
     branches-ignore:
       - main
   workflow_dispatch:
+  pull_request:
+    types: [closed]
 
 permissions:
   contents: write
@@ -16,6 +18,7 @@ concurrency:
 
 jobs:
   validate-and-build:
+    if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     outputs:
@@ -119,6 +122,7 @@ jobs:
           retention-days: 1
 
   deploy-preview:
+    if: github.event_name != 'pull_request'
     needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -165,6 +169,7 @@ jobs:
   # ref name" arriba y SAFE_REF abajo). continue-on-error se deja de todos
   # modos como red de seguridad ante fallos reales de Cloudflare.
   deploy-api-preview:
+    if: github.event_name != 'pull_request'
     needs: validate-and-build
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -208,6 +213,7 @@ jobs:
   # de API). Ahora tolerante: si deploy-preview falló, smoke-test se omite con
   # warning pero NO bloquea merge.
   smoke-test:
+    if: github.event_name != 'pull_request'
     needs: deploy-preview
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -237,3 +243,51 @@ jobs:
         env:
           APP_URL: ${{ steps.resolve.outputs.url }}
         run: bash scripts/deploy-smoke.sh
+
+  delete-preview-workers:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Delete Preview Workers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+        run: |
+          SAFE=$(printf '%s' "$HEAD_REF" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9-]+/-/g; s/-+/-/g; s/^-+//; s/-+$//')
+          if [ "${#SAFE}" -gt 31 ]; then
+            HASH=$(printf '%s' "$HEAD_REF" | sha1sum | cut -c1-6)
+            SAFE="$(printf '%s' "$SAFE" | cut -c1-24 | sed -E 's/-+$//')-${HASH}"
+          fi
+
+          if [ -z "$SAFE" ]; then
+            echo "REFUSE_PRODUCTION_DELETE empty"
+            exit 1
+          fi
+
+          delete_worker() {
+            local NAME="$1"
+            if ! [[ "$NAME" =~ ^saberparatodos-preview-[a-z0-9][a-z0-9-]*$ ]] && ! [[ "$NAME" =~ ^worldexams-api-preview-[a-z0-9][a-z0-9-]*$ ]]; then
+              echo "REFUSE_PRODUCTION_DELETE"
+              exit 1
+            fi
+            if [ "$NAME" = "saberparatodos" ] || [ "$NAME" = "worldexams-api" ]; then
+              echo "REFUSE_PRODUCTION_DELETE"
+              exit 1
+            fi
+
+            echo "Deleting $NAME..."
+            if ! npx --yes wrangler@4.141.0 delete "$NAME" --force > output.log 2>&1; then
+              cat output.log
+              if grep -q -E "not found|does not exist" output.log; then
+                echo "Worker $NAME not found, assuming already deleted."
+                return 0
+              fi
+              exit 1
+            fi
+            cat output.log
+          }
+
+          delete_worker "saberparatodos-preview-$SAFE"
+          delete_worker "worldexams-api-preview-$SAFE"
