@@ -163,7 +163,7 @@ A taxa de variação é dada por $a = \frac{\Delta y}{\Delta x} = \frac{22 - 10}
 A população inicial era de $120$ peixes. Após $6$ meses, o número chegou a $270$. Se a função é $P(t) = at + b$, qual será a população no mês $10$?
 
 ### Opciones
-- [ ] A) $330$ peixes. <!-- feedback: Incorreto. Isso seria para o mês $8$ ou se a taxa fosse menor. -->
+- [ ] A) $330$ peixes. <!-- feedback: Incorreto. Com a taxa de 25/mês, nenhum mês dá 330 (mês 8 = 320). -->
 - [x] B) $370$ peixes. <!-- feedback: Correto. $a = (270-120)/6 = 25$. $P(t) = 25t + 120$. Logo, $P(10) = 25(10) + 120 = 370$. -->
 - [ ] C) $350$ peixes. <!-- feedback: Incorreto. Esse valor não coincide com o crescimento calculado mensal de 25. -->
 - [ ] D) $420$ peixes. <!-- feedback: Incorreto. Esse seria o resultado se o crescimento fosse maior ao longo do tempo. -->
