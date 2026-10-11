@@ -27,181 +27,181 @@ creador: "Jules-Agent"
 **Bloom:** Remember
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "A place where you live or stay on holiday."
+It is a sunny school morning in Bogota. What clothes do you wear on your upper body that usually has buttons and short sleeves?
 
 ### Opciones
-- [x] D) accommodation
-  <!-- feedback: Correct! 'accommodation' is the word for a place where you live or stay on holiday. -->
-- [ ] A) transportation
-  <!-- feedback: 'transportation' is the system of moving people or goods between places, not the place you sleep in itself. -->
-- [ ] B) entertainment
-  <!-- feedback: 'entertainment' is whatever amuses you, such as a show or a game, and not somewhere to live. -->
-- [ ] C) currency
-  <!-- feedback: 'currency' is the money a country uses, such as pesos or dollars, and not a building you can stay in. -->
+- [ ] A) finger
+  <!-- feedback: 'finger' is a part of your hand, not an item of clothing you put on. -->
+- [ ] B) shorts
+  <!-- feedback: 'shorts' are worn on the lower half of your body, not on the top half. -->
+- [ ] C) foot
+  <!-- feedback: 'foot' is a part of your leg used for standing, not a piece of clothing. -->
+- [x] D) shirt
+  <!-- feedback: Correct! A 'shirt' is an item of clothing that you wear on the upper part of your body. -->
 
 ### Explicacion Pedagogica
-The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.
+The word 'shirt' describes an item of clothing that you wear on your upper body. Learning clothing vocabulary is essential for describing what we wear every day for school in the city.
 ---
 ## Question 2 [D3-D4]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v2
 **Bloom:** Understand
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "A detailed plan or route of a journey."
+On a school morning in Cali, you need to wear these on your feet before you leave the house. What are they?
 
 ### Opciones
-- [x] B) itinerary
-  <!-- feedback: Correct! 'itinerary' is the detailed plan of a journey, listing the places you visit and the order you visit them. -->
-- [ ] A) baggage
-  <!-- feedback: 'baggage' is the suitcases and bags you travel with, not the plan of the trip. -->
-- [ ] C) destination
-  <!-- feedback: 'destination' names only the place you are going to, without the route or the order of the whole journey. -->
-- [ ] D) passport
-  <!-- feedback: 'passport' is the official document that lets you cross a border, not the plan of where you go. -->
+- [ ] A) arm
+  <!-- feedback: 'arm' is a part of your body, not something you wear on your feet to protect them. -->
+- [x] B) shoes
+  <!-- feedback: Correct! 'shoes' are an item of clothing that you wear on your feet when walking outside. -->
+- [ ] C) nose
+  <!-- feedback: 'nose' is a part of your face used for smelling, not something you wear on your feet. -->
+- [ ] D) hand
+  <!-- feedback: 'hand' is the part of your arm with fingers, not clothing worn on your feet. -->
 
 ### Explicacion Pedagogica
-The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.
+The word 'shoes' is used to describe the clothing item you wear on your feet. It is a fundamental word to know when talking about what to wear on a normal school morning in a Colombian city.
 ---
 ## Question 3 [D5-D6]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v3
 **Bloom:** Apply
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "The place to which someone or something is going or being sent."
+It is a very sunny school morning in Cartagena. What clothes do you wear on your head to protect yourself from the sun?
 
 ### Opciones
-- [x] B) destination
-  <!-- feedback: Correct! 'destination' is the place someone is going to or something is being sent to. -->
-- [ ] A) departure
-  <!-- feedback: 'departure' is the act of leaving a place, which is the other side of arriving rather than a place itself. -->
-- [ ] C) arrival
-  <!-- feedback: 'arrival' is the act of reaching a place, not the place that is reached. -->
-- [ ] D) journey
-  <!-- feedback: 'journey' is the whole trip from the start to the end, not the place the trip finishes at. -->
+- [ ] A) ear
+  <!-- feedback: 'ear' is the part of your head you use for hearing, not an item of clothing to block the sun. -->
+- [x] B) hat
+  <!-- feedback: Correct! A 'hat' is an item of clothing you wear on your head to protect yourself from the sun. -->
+- [ ] C) knee
+  <!-- feedback: 'knee' is the joint in your leg, not an item of clothing worn on your head. -->
+- [ ] D) leg
+  <!-- feedback: 'leg' is the part of your body used for walking, not a protective item for your head. -->
 
 ### Explicacion Pedagogica
-The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.
+The word 'hat' describes an item of clothing worn on the head. Learning this vocabulary helps students explain how they protect themselves on sunny days in their city, like wearing a hat in Cartagena.
 ---
 ## Question 4 [D5-D6]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v4
 **Bloom:** Apply
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "Suitcases or other bags in which to pack personal belongings for traveling."
+On a regular school morning in Medellin, a girl decides to wear a single piece of clothing that covers her body and legs. What is it?
 
 ### Opciones
-- [x] A) luggage
-  <!-- feedback: Correct! 'luggage' is the collective word for the suitcases and bags in which you pack your belongings to travel. -->
-- [ ] B) ticket
-  <!-- feedback: 'ticket' is the paper that gives you the right to travel, not the bag you pack your clothes in. -->
-- [ ] C) flight
-  <!-- feedback: 'flight' is the journey by plane itself, not the containers that hold your things. -->
-- [ ] D) reservation
-  <!-- feedback: 'reservation' is the booking you make for a seat or a room, not the bag you carry. -->
+- [x] A) dress
+  <!-- feedback: Correct! A 'dress' is a single piece of clothing that typically covers the body and extends down over the legs. -->
+- [ ] B) neck
+  <!-- feedback: 'neck' is the body part connecting the head to the body, not a piece of clothing. -->
+- [ ] C) mouth
+  <!-- feedback: 'mouth' is part of the face, not a piece of clothing you put on your body. -->
+- [ ] D) teeth
+  <!-- feedback: 'teeth' are inside the mouth, not a type of clothing worn on a school morning. -->
 
 ### Explicacion Pedagogica
-The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.
+The word 'dress' refers to a piece of clothing for girls or women that covers both the top and bottom half. It is a common word needed to describe everyday school clothing choices in Colombia.
 ---
 ## Question 5 [D7-D8]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v5
 **Bloom:** Analyze
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "A traveler on a public or private conveyance other than the driver, pilot, or crew."
+It is a cool school morning in Bogota. What long clothes do you wear on your legs to keep them warm?
 
 ### Opciones
-- [x] D) passenger
-  <!-- feedback: Correct! 'passenger' is someone who travels in a vehicle without being the driver, the pilot or part of the crew. -->
-- [ ] A) pedestrian
-  <!-- feedback: 'pedestrian' is a person who travels on foot, so this person is not riding in any vehicle at all. -->
-- [ ] B) commuter
-  <!-- feedback: 'commuter' describes the habit of travelling regularly to work or school, not the place the person sits on the vehicle. -->
-- [ ] C) tourist
-  <!-- feedback: 'tourist' is someone who visits a place for pleasure, which says nothing about being carried by the vehicle. -->
+- [ ] A) toe
+  <!-- feedback: 'toe' is part of your foot, not a long piece of clothing worn on the legs. -->
+- [ ] B) hair
+  <!-- feedback: 'hair' grows on your head, it is not an item of clothing you wear to keep warm. -->
+- [ ] C) chin
+  <!-- feedback: 'chin' is the bottom part of your face, not a piece of clothing for your legs. -->
+- [x] D) pants
+  <!-- feedback: Correct! 'pants' are a type of clothing worn on the lower half of the body, covering both legs. -->
 
 ### Explicacion Pedagogica
-The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.
+The word 'pants' describes clothing worn on the legs, going down to the ankles. This vocabulary is very useful to describe what students typically wear on cooler school mornings in a city like Bogota.
 ---
 ## Question 6 [D7-D8]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v6
 **Bloom:** Analyze
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage."
+Before putting on your shoes on a school morning in Barranquilla, what soft clothes do you wear directly on your feet?
 
 ### Opciones
-- [x] A) customs
-  <!-- feedback: Correct! 'customs' is the office at a port, airport or border where officials check the goods, travelers and luggage that arrive. -->
-- [ ] B) security
-  <!-- feedback: 'security' is the staff and the checks that keep an airport safe, and not the inspection of the goods you bring in. -->
-- [ ] C) terminal
-  <!-- feedback: 'terminal' is the building where you wait for your plane, not the place where your belongings are inspected. -->
-- [ ] D) gate
-  <!-- feedback: 'gate' is the door at the plane you walk through to board, not the place where officials check your things. -->
+- [x] A) socks
+  <!-- feedback: Correct! 'socks' are soft clothing items you wear on your feet, inside your shoes. -->
+- [ ] B) eye
+  <!-- feedback: 'eye' is the body part you use for seeing, not a clothing item for your feet. -->
+- [ ] C) thumb
+  <!-- feedback: 'thumb' is a part of your hand, not something you wear inside your shoes. -->
+- [ ] D) cheek
+  <!-- feedback: 'cheek' is a part of your face, not an item of clothing for your feet. -->
 
 ### Explicacion Pedagogica
-The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.
+The word 'socks' refers to the clothing worn on the feet inside shoes. Knowing this vocabulary allows students to talk accurately about their daily dressing routine on a typical school morning.
 ---
 ## Question 7 [D9-D10]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v7
 **Bloom:** Evaluate
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "A document provided by an airline during check-in, giving a passenger permission to board the airplane."
+It is a cold and rainy school morning in Tunja. What heavy clothes do you wear over your shirt to stay warm?
 
 ### Opciones
-- [x] A) boarding pass
-  <!-- feedback: Correct! 'boarding pass' is the card the airline gives you when you check in, and it is what lets you board the plane. -->
-- [ ] B) visa
-  <!-- feedback: 'visa' is the official permission a government gives you to enter a country, issued by the consulate and not by the airline. -->
-- [ ] C) receipt
-  <!-- feedback: 'receipt' is the proof that you paid for something, which is not permission to board a plane. -->
-- [ ] D) brochure
-  <!-- feedback: 'brochure' is a leaflet with tourist information, not a travel document issued to a passenger. -->
+- [x] A) jacket
+  <!-- feedback: Correct! A 'jacket' is a warm outer piece of clothing with sleeves, worn over your shirt. -->
+- [ ] B) lip
+  <!-- feedback: 'lip' is part of the mouth, not a heavy piece of clothing worn to stay warm. -->
+- [ ] C) shoulder
+  <!-- feedback: 'shoulder' is the body part where the arm joins the body, not a clothing item. -->
+- [ ] D) stomach
+  <!-- feedback: 'stomach' is a part of the body, not a piece of clothing worn over a shirt. -->
 
 ### Explicacion Pedagogica
-The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.
+The word 'jacket' refers to a heavy item of clothing worn on the upper body for warmth. This is essential vocabulary to describe how to stay warm on cold school mornings in high-altitude Colombian cities.
 ---
 ## Question 8 [D9-D10]
 **ID:** CO-ING-3-2026-W24-clothes-001-MASTERY-bundle-v8
 **Bloom:** Evaluate
 **ICFES:** Lexico
 **Expected_Success:** 0.80
-**Contexto:** Choose the correct English word for the given definition.
+**Contexto:** Choose the correct English word to complete the sentence.
 
 ### Enunciado
-What is the English word for: "The activity of visiting places of interest in a particular location."
+On a warm school morning in Bucaramanga, a girl wears a piece of clothing that hangs down from her waist. What is it?
 
 ### Opciones
-- [x] D) sightseeing
-  <!-- feedback: Correct! 'sightseeing' means visiting the places of interest of a location as a traveler. -->
-- [ ] A) shopping
-  <!-- feedback: 'shopping' is buying things in stores, so it is not the activity of visiting the sights of a place. -->
-- [ ] B) hiking
-  <!-- feedback: 'hiking' is walking along a trail in nature, a sport, and not touring the places of interest of a city. -->
-- [ ] C) camping
-  <!-- feedback: 'camping' is sleeping outdoors in a tent, which is not the activity of going around to see a place. -->
+- [ ] A) heel
+  <!-- feedback: 'heel' is the back part of the foot, not an item of clothing hanging from the waist. -->
+- [ ] B) elbow
+  <!-- feedback: 'elbow' is the joint in the middle of the arm, not clothing worn on the waist. -->
+- [ ] C) wrist
+  <!-- feedback: 'wrist' is the joint connecting the hand and arm, not a piece of clothing. -->
+- [x] D) skirt
+  <!-- feedback: Correct! A 'skirt' is a piece of clothing for women or girls that hangs from the waist. -->
 
 ### Explicacion Pedagogica
-The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.
+The word 'skirt' is an item of clothing worn on the lower half of the body. Understanding this vocabulary helps describe what girls might choose to wear on a warm school morning in a Colombian city.
