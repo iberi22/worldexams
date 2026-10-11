@@ -24,379 +24,377 @@ calibration: {difficulty_band: "D3-D10", expected_success: 0.65}
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.85
-**Contexto:** Um estudante em São Paulo estuda as características das funções do 2º grau e como identificá-las por sua lei de formação.
+**Contexto:** Uma fábrica de pães de queijo em Belo Horizonte modela seu custo de produção diário usando uma equação polinomial de grau dois.
 
 ### Enunciado
-Qual é a forma geral de uma função quadrática?
+Qual das expressões abaixo representa corretamente a lei de formação de uma função quadrática?
 
 ### Opciones
-- [ ] A) $f(x) = ax + b$ <!-- feedback: Esta é a forma geral de uma função afim ou do 1º grau. -->
-- [x] B) $f(x) = ax^2 + bx + c$, com $a \neq 0$ <!-- feedback: Correto. O termo x² caracteriza a função quadrática, e o coeficiente 'a' não pode ser nulo. -->
-- [ ] C) $f(x) = a^x + b$ <!-- feedback: Esta é uma função exponencial. -->
-- [ ] D) $f(x) = \frac{a}{x}$ <!-- feedback: Esta é uma função racional simples. -->
+- [ ] A) $C(x) = 15x + 50$ <!-- feedback: Esta expressão define uma função polinomial do 1º grau (função afim), não quadrática. -->
+- [x] B) $C(x) = 2x^2 - 5x + 10$ <!-- feedback: Correto. A presença do termo em x² com coeficiente não nulo define a função quadrática. -->
+- [ ] C) $C(x) = 5^x + 20$ <!-- feedback: Esta é uma função exponencial, onde a variável independente está no expoente. -->
+- [ ] D) $C(x) = \frac{100}{x}$ <!-- feedback: Trata-se de uma função racional inversa, cujo gráfico é uma hipérbole. -->
 
 ### Explicacion Pedagogica
-Uma função quadrática é definida por um polinômio de grau 2. A presença do termo $x^2$ com coeficiente não nulo garante que o gráfico da função seja uma parábola.
+Uma função quadrática ou do 2º grau tem a forma geral $f(x) = ax^2 + bx + c$, sendo $a$, $b$ e $c$ números reais, com $a \neq 0$. A alternativa correta apresenta exatamente esta estrutura, com o termo dominante de grau dois que confere ao gráfico a forma de uma parábola.
 
 ## Question 2 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v2
 **Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.80
-**Contexto:** Um arquiteto no Rio de Janeiro utiliza curvas parabólicas no design de um arco monumental.
+**Contexto:** O projeto arquitetônico de uma nova ponte em Curitiba utiliza cabos de sustentação que descrevem uma curva matemática específica.
 
 ### Enunciado
-O gráfico de uma função quadrática é uma curva chamada:
+O gráfico que representa a função quadrática $f(x) = ax^2 + bx + c$ no plano cartesiano recebe o nome de:
 
 ### Opciones
-- [ ] A) Reta <!-- feedback: Retas são gráficos de funções do 1º grau. -->
-- [ ] B) Hipérbole <!-- feedback: Hipérboles são gráficos de funções do tipo y = k/x. -->
-- [x] C) Parábola <!-- feedback: Correto. A parábola é a curva característica de toda função do 2º grau. -->
-- [ ] D) Elipse <!-- feedback: Elipses não representam funções simples do tipo y = f(x). -->
+- [ ] A) Hipérbole <!-- feedback: A hipérbole é o gráfico típico de funções racionais ou equações cônicas específicas, não de funções quadráticas simples. -->
+- [ ] B) Reta <!-- feedback: Retas são os gráficos de funções do primeiro grau (afins) ou constantes. -->
+- [x] C) Parábola <!-- feedback: Correto. A representação gráfica de qualquer função do 2º grau é uma parábola. -->
+- [ ] D) Senoide <!-- feedback: Senoides representam funções trigonométricas como seno e cosseno. -->
 
 ### Explicacion Pedagogica
-Diferente das funções lineares, a taxa de variação das funções quadráticas não é constante, resultando em uma curva simétrica conhecida como parábola.
+Toda função polinomial do 2º grau (ou quadrática) possui como representação geométrica no plano cartesiano uma curva denominada parábola. Se o coeficiente $a > 0$, a concavidade é voltada para cima; se $a < 0$, para baixo.
 
 ## Question 3 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v3
-**Bloom:** Understand
+**Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.75
-**Contexto:** Em uma aula de física em Curitiba, analisa-se a concavidade da trajetória de um projétil lançado para cima.
+**Contexto:** Um agrônomo no Mato Grosso estuda o crescimento de uma plantação cuja altura máxima depende da quantidade de fertilizante aplicada.
 
 ### Enunciado
-Na função $f(x) = ax^2 + bx + c$, o que determina se a concavidade da parábola é voltada para cima ou para baixo?
+Em uma parábola descrita por $y = ax^2 + bx + c$, o ponto onde a curva muda de direção (de crescente para decrescente ou vice-versa) é chamado de:
 
 ### Opciones
-- [ ] A) O sinal do coeficiente $c$. <!-- feedback: O coeficiente c indica apenas onde a parábola corta o eixo y. -->
-- [x] B) O sinal do coeficiente $a$. <!-- feedback: Correto. Se a > 0, concavidade para cima. Se a < 0, concavidade para baixo. -->
-- [ ] C) O valor do discriminante ($\Delta$). <!-- feedback: O discriminante determina o número de raízes reais, não a concavidade. -->
-- [ ] D) O sinal do coeficiente $b$. <!-- feedback: O sinal de b influencia o deslocamento lateral do vértice. -->
+- [ ] A) Foco <!-- feedback: O foco é um ponto interno importante da parábola, mas não é o ponto da curva onde a direção muda. -->
+- [x] B) Vértice <!-- feedback: Correto. O vértice é o ponto de máximo ou mínimo extremo da parábola. -->
+- [ ] C) Raiz <!-- feedback: As raízes são os pontos onde a parábola intercepta o eixo x, podendo haver até duas, uma ou nenhuma. -->
+- [ ] D) Diretriz <!-- feedback: A diretriz é uma reta externa que, junto com o foco, define geometricamente a parábola. -->
 
 ### Explicacion Pedagogica
-O coeficiente $a$ (termo dominante) define a "abertura" e a orientação da parábola. Se $a$ é positivo, a função tem um valor mínimo e a abertura é para cima. Se $a$ é negativo, a função tem um valor máximo e a abertura é para baixo.
+O vértice de uma parábola representa o ponto de máximo absoluto (se a concavidade for para baixo) ou mínimo absoluto (se for para cima). É exatamente neste ponto que a função altera seu comportamento de crescimento para decrescimento, ou o inverso.
 
 ## Question 4 [D3-D4]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v4
-**Bloom:** Understand
+**Bloom:** Remember
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.70
-**Contexto:** Um engenheiro civil em Brasília analisa os pontos onde uma ponte encosta no solo, representados pelas raízes da função.
+**Contexto:** Durante uma aula de física em Recife, os alunos observam que o coeficiente dominante da equação da trajetória determina a orientação da curva.
 
 ### Enunciado
-Como é chamado o termo $\Delta = b^2 - 4ac$ na fórmula de Bhaskara?
+Dada a função $f(x) = -3x^2 + 2x - 1$, qual é a orientação da concavidade da sua representação gráfica?
 
 ### Opciones
-- [ ] A) Vértice <!-- feedback: Vértice é o ponto extremo (máximo ou mínimo) da parábola. -->
-- [x] B) Discriminante <!-- feedback: Correto. O valor de delta "discrimina" a natureza das raízes da equação. -->
-- [ ] C) Coeficiente linear <!-- feedback: Coeficiente linear geralmente refere-se ao termo 'b' em funções afins ou 'c' em quadráticas. -->
-- [ ] D) Raiz quadrada <!-- feedback: Delta está sob o sinal da raiz quadrada na fórmula, mas não é a raiz em si. -->
+- [ ] A) Voltada para cima, pois o coeficiente b é positivo. <!-- feedback: O coeficiente b desloca a parábola, mas quem determina a concavidade é o coeficiente a. -->
+- [x] B) Voltada para baixo, pois o coeficiente a é negativo. <!-- feedback: Correto. Como a = -3 (menor que zero), a parábola tem concavidade voltada para baixo. -->
+- [ ] C) Voltada para a direita, devido ao termo c negativo. <!-- feedback: Funções quadráticas em x têm concavidade para cima ou para baixo, não para os lados. -->
+- [ ] D) Voltada para cima, pois há duas raízes reais. <!-- feedback: A existência de raízes depende do discriminante (delta), não determinando isoladamente a concavidade. -->
 
 ### Explicacion Pedagogica
-O discriminante ($\Delta$) é fundamental para entender a interseção da parábola com o eixo $x$: se $\Delta > 0$ há duas raízes, se $\Delta = 0$ há uma, e se $\Delta < 0$ não há raízes reais.
+A concavidade da parábola dada pela função $f(x) = ax^2 + bx + c$ é definida exclusivamente pelo sinal do coeficiente $a$. Sendo $a = -3 < 0$, a abertura (concavidade) da parábola aponta para baixo, resultando em um ponto de máximo.
 
 ## Question 5 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v5
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.65
-**Contexto:** Um biólogo em Manaus estuda a área ocupada por uma colônia de fungos, que cresce de forma quadrática com o tempo.
+**Contexto:** Um produtor de eventos no Rio de Janeiro calcula a arrecadação de um show, sabendo que a relação entre preço e público forma uma função do segundo grau.
 
 ### Enunciado
-Dada a função $f(x) = x^2 - 6x + 5$, quais são as raízes desta função?
+Na função quadrática $P(x) = 2x^2 - 8x + 6$, o que representa o valor de $\Delta$ (discriminante) em relação ao gráfico?
 
 ### Opciones
-- [ ] A) 2 e 3 <!-- feedback: O produto é 6, mas o termo constante da função é 5. -->
-- [x] B) 1 e 5 <!-- feedback: A soma das raízes é -(-6)/1 = 6 e o produto é 5/1 = 5. Os números são 1 e 5. -->
-- [ ] C) -1 e -5 <!-- feedback: A soma seria -6, mas a soma correta deve ser 6. -->
-- [ ] D) 0 e 5 <!-- feedback: O produto seria 0, mas o produto correto deve ser 5. -->
+- [ ] A) Indica a coordenada x do vértice da parábola. <!-- feedback: O x do vértice é dado por -b/(2a), não pelo discriminante. -->
+- [x] B) Determina a quantidade de interseções da parábola com o eixo das abscissas. <!-- feedback: Correto. O delta indica se há duas raízes reais distintas, uma raiz dupla, ou nenhuma raiz real. -->
+- [ ] C) Representa o ponto exato onde a parábola corta o eixo y. <!-- feedback: O ponto de interseção com o eixo y é dado pelo coeficiente c da função. -->
+- [ ] D) Mostra o valor máximo da função. <!-- feedback: O valor extremo é a coordenada y do vértice, calculada como -delta/(4a). -->
 
 ### Explicacion Pedagogica
-Podemos usar a soma ($S = -b/a = 6$) e o produto ($P = c/a = 5$) das raízes. Dois números que somados dão 6 e multiplicados dão 5 são 1 e 5.
+O discriminante $\Delta = b^2 - 4ac$ é fundamental para prever as raízes reais. Se $\Delta > 0$, a parábola corta o eixo $x$ em dois pontos distintos; se $\Delta = 0$, toca em um único ponto; se $\Delta < 0$, não intercepta o eixo $x$.
 
 ## Question 6 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v6
 **Bloom:** Understand
 **EJE:** Funções e Álgebra
-**Expected_Success:** 0.60
-**Contexto:** Um fotógrafo em Belo Horizonte quer entender em que ponto sua lente captura o foco máximo, modelado por uma parábola.
+**Expected_Success:** 0.65
+**Contexto:** Em um laboratório de biologia na Bahia, o crescimento de uma colônia de bactérias após aplicação de um remédio é modelado por uma parábola invertida.
 
 ### Enunciado
-Onde a parábola da função $f(x) = 2x^2 - 4x + 7$ intercepta o eixo das ordenadas ($y$)?
+Qual é a fórmula correta para encontrar a coordenada $x$ do vértice ($x_v$) de uma função quadrática $f(x) = ax^2 + bx + c$?
 
 ### Opciones
-- [ ] A) $(0, 2)$ <!-- feedback: 2 é o valor do coeficiente 'a', não do ponto de interseção com y. -->
-- [ ] B) $(0, -4)$ <!-- feedback: -4 é o valor do coeficiente 'b'. -->
-- [x] C) $(0, 7)$ <!-- feedback: Correto. Para x = 0, f(0) = 7. O intercepto y é sempre o valor de c. -->
-- [ ] D) $(7, 0)$ <!-- feedback: Este seria um intercepto no eixo x (raiz), mas (0,7) é o intercepto y. -->
+- [ ] A) $x_v = \frac{-b}{a}$ <!-- feedback: Esta é a soma das raízes (relações de Girard), não a coordenada do vértice. -->
+- [ ] B) $x_v = \frac{-\Delta}{4a}$ <!-- feedback: Esta fórmula calcula a coordenada y do vértice (y_v), e não a coordenada x. -->
+- [x] C) $x_v = \frac{-b}{2a}$ <!-- feedback: Correto. A coordenada x do vértice situa-se exatamente no eixo de simetria da parábola. -->
+- [ ] D) $x_v = \frac{c}{a}$ <!-- feedback: Este é o produto das raízes (relações de Girard), não o x do vértice. -->
 
 ### Explicacion Pedagogica
-Para encontrar o intercepto $y$, basta calcular $f(0)$. Em qualquer função do tipo $f(x) = ax^2 + bx + c$, temos $f(0) = c$. Logo, o ponto é $(0, c)$.
+A coordenada horizontal do vértice, $x_v$, estabelece a posição do eixo de simetria da parábola e é calculada pela média aritmética das raízes (reais ou complexas), resultando na fórmula $x_v = \frac{-b}{2a}$.
 
 ## Question 7 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v7
-**Bloom:** Apply
+**Bloom:** Understand
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.60
-**Contexto:** Um projétil é lançado de um ponto em Salvador e sua altura $h$ em metros segue a função $h(t) = -5t^2 + 20t$.
+**Contexto:** Um drone de entregas em São Paulo inicia sua descida parabólica. O engenheiro analisa o ponto em que ele cruza o eixo vertical do sistema de referência.
 
 ### Enunciado
-Em que instante $t$ (em segundos) o projétil atinge sua altura máxima?
+Em qual ponto o gráfico da função $h(t) = -t^2 + 5t + 12$ intercepta o eixo das ordenadas (eixo y)?
 
 ### Opciones
-- [ ] A) $t = 4$ s <!-- feedback: t = 4 é o instante em que o projétil volta ao solo (raiz). -->
-- [x] B) $t = 2$ s <!-- feedback: t_v = -b / 2a = -20 / (2 * -5) = -20 / -10 = 2. -->
-- [ ] C) $t = 5$ s <!-- feedback: Cálculo incorreto da coordenada x do vértice. -->
-- [ ] D) $t = 20$ s <!-- feedback: 20 é o coeficiente 'b', não o instante do máximo. -->
+- [ ] A) $(12, 0)$ <!-- feedback: Este seria um ponto no eixo x, além de não ser raiz da função. -->
+- [x] B) $(0, 12)$ <!-- feedback: Correto. A interseção com o eixo y ocorre quando t = 0, logo h(0) = 12. -->
+- [ ] C) $(0, 5)$ <!-- feedback: O valor 5 é o coeficiente b, que indica a inclinação da curva ao cruzar o eixo y. -->
+- [ ] D) $(-12, 0)$ <!-- feedback: Interseção com o eixo y deve ter abscissa (t) igual a zero, não a ordenada. -->
 
 ### Explicacion Pedagogica
-A altura máxima ocorre no vértice da parábola. A coordenada $t$ do vértice é dada por $t_v = -b / 2a$. Substituindo: $t_v = -20 / (2 \cdot -5) = 2$ segundos.
+O gráfico de qualquer polinômio corta o eixo das ordenadas (eixo $y$) quando a variável independente é igual a zero. Ao substituir $t = 0$ em $h(t) = -t^2 + 5t + 12$, todos os termos com $t$ se anulam, restando apenas o termo independente $c = 12$. O ponto é $(0, 12)$.
 
 ## Question 8 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v8
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
-**Expected_Success:** 0.55
-**Contexto:** Um administrador de empresas em Porto Alegre analisa a função custo de produção para minimizar gastos.
+**Expected_Success:** 0.60
+**Contexto:** Uma pequena fábrica de sorvetes no Ceará projeta o custo de produção de potes de açaí com a função $C(x) = x^2 - 10x + 30$.
 
 ### Enunciado
-Dada a função $f(x) = x^2 - 8x + 12$, quais são as coordenadas do vértice da parábola?
+Para essa função de custo, qual é a equação do eixo de simetria da parábola?
 
 ### Opciones
-- [ ] A) $(4, 12)$ <!-- feedback: x_v = 4 está correto, mas f(4) = 16 - 32 + 12 = -4. -->
-- [x] B) $(4, -4)$ <!-- feedback: x_v = -(-8)/2 = 4. y_v = f(4) = 4² - 8(4) + 12 = 16 - 32 + 12 = -4. -->
-- [ ] C) $(8, 12)$ <!-- feedback: x_v deve ser -b/2a, que resulta em 4. -->
-- [ ] D) $(-4, 4)$ <!-- feedback: Erro nos sinais das coordenadas do vértice. -->
+- [ ] A) $x = 10$ <!-- feedback: O cálculo correto do eixo de simetria exige dividir o oposto de b por 2a. -->
+- [x] B) $x = 5$ <!-- feedback: Correto. O eixo de simetria é a reta vertical x = -b/(2a) = -(-10)/(2*1) = 5. -->
+- [ ] C) $y = 5$ <!-- feedback: O eixo de simetria de uma função quadrática em x é uma reta vertical, denotada por x = constante. -->
+- [ ] D) $x = -5$ <!-- feedback: Erro de sinal. Como b = -10, o numerador fica -(-10) = 10 positivo. -->
 
 ### Explicacion Pedagogica
-O vértice $V(x_v, y_v)$ tem $x_v = -b / 2a = 8 / 2 = 4$. Substituindo $x=4$ na função para achar $y_v$: $y_v = 4^2 - 8 \cdot 4 + 12 = 16 - 32 + 12 = -4$. O vértice é $(4, -4)$.
+O eixo de simetria é uma reta vertical que divide a parábola em duas partes espelhadas. Sua equação é $x = x_v$. Calculando $x_v = \frac{-b}{2a}$, temos $x_v = \frac{-(-10)}{2 \cdot 1} = \frac{10}{2} = 5$. Logo, a reta é $x = 5$.
 
 ## Question 9 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v9
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.55
-**Contexto:** Um designer em Recife projeta um logotipo usando uma parábola que toca o eixo $x$ em apenas um ponto.
+**Contexto:** Durante o treinamento militar, a trajetória de um projétil é descrita pela função $y = -2x^2 + 8x$. A altura está em metros.
 
 ### Enunciado
-Para que a função $f(x) = x^2 - 4x + k$ tenha exatamente uma raiz real (seja tangente ao eixo $x$), qual deve ser o valor de $k$?
+Quais são as raízes dessa função quadrática (pontos onde o projétil está no nível do solo)?
 
 ### Opciones
-- [ ] A) $k = 0$ <!-- feedback: Se k=0, a função tem raízes 0 e 4. -->
-- [ ] B) $k = 2$ <!-- feedback: Se k=2, delta seria 16 - 8 = 8, tendo duas raízes reais. -->
-- [x] C) $k = 4$ <!-- feedback: Para ter uma única raiz, delta deve ser zero. b² - 4ac = (-4)² - 4(1)k = 16 - 4k = 0 => k = 4. -->
-- [ ] D) $k = -4$ <!-- feedback: Se k=-4, delta seria 16 + 16 = 32, tendo duas raízes reais. -->
+- [ ] A) $2$ e $8$ <!-- feedback: Estes valores não anulam a função. Substituindo x=2, obtemos 8. -->
+- [ ] B) $0$ e $8$ <!-- feedback: O valor 8 não é raiz, pois -2(8)² + 8(8) = -128 + 64 = -64, diferente de zero. -->
+- [x] C) $0$ e $4$ <!-- feedback: Correto. Fatorando -2x² + 8x = 0 => -2x(x - 4) = 0 => x=0 ou x=4. -->
+- [ ] D) $-2$ e $4$ <!-- feedback: O valor -2 não zera a equação, pois -2(-2)² + 8(-2) = -8 - 16 = -24. -->
 
 ### Explicacion Pedagogica
-Uma função quadrática possui apenas uma raiz real (ou duas raízes iguais) quando o discriminante é zero ($\Delta = 0$). Calculando $\Delta = (-4)^2 - 4 \cdot 1 \cdot k = 16 - 4k$. Igualando a zero, temos $k = 4$.
+Para encontrar as raízes, igualamos a função a zero: $-2x^2 + 8x = 0$. Como a função é incompleta (termo $c=0$), podemos colocar $-2x$ em evidência: $-2x(x - 4) = 0$. Para o produto ser zero, temos $-2x = 0 \Rightarrow x=0$ ou $x - 4 = 0 \Rightarrow x=4$.
 
 ## Question 10 [D5-D6]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v10
 **Bloom:** Apply
 **EJE:** Funções e Álgebra
-**Expected_Success:** 0.50
-**Contexto:** Um agrimensor em Manaus analisa a curvatura de um terreno modelada por uma função do 2º grau.
+**Expected_Success:** 0.55
+**Contexto:** Um clube de futebol cobra mensalidades dos sócios e modela o faturamento usando a equação $F(x) = x^2 - 12x + 36$.
 
 ### Enunciado
-A parábola da função $f(x) = -x^2 + 10x - 21$ intercepta o eixo $x$ em dois pontos. Qual é a distância entre esses dois pontos?
+Quantas raízes reais distintas essa função de faturamento possui?
 
 ### Opciones
-- [ ] A) 10 <!-- feedback: 10 é a soma das raízes, não a distância entre elas. -->
-- [ ] B) 2 <!-- feedback: As raízes são 3 e 7. A distância entre elas é 4. -->
-- [x] C) 4 <!-- feedback: Raízes: x = (-10 ± √16) / -2 => x = (-10 ± 4) / -2. Raízes são 7 e 3. Distância = 7 - 3 = 4. -->
-- [ ] D) 6 <!-- feedback: Cálculo incorreto das raízes da função. -->
+- [ ] A) Nenhuma raiz real <!-- feedback: Se o discriminante fosse negativo, não haveria raízes reais, mas aqui ele é nulo. -->
+- [ ] B) Duas raízes reais e distintas <!-- feedback: Isso ocorreria se delta fosse maior que zero, mas aqui ele vale exatamente zero. -->
+- [x] C) Uma raiz real (ou duas raízes iguais) <!-- feedback: Correto. Calculando o discriminante: Δ = (-12)² - 4(1)(36) = 144 - 144 = 0. -->
+- [ ] D) Infinitas raízes reais <!-- feedback: Uma função polinomial de grau 2 possui no máximo duas raízes reais. -->
 
 ### Explicacion Pedagogica
-Encontramos as raízes resolvendo $-x^2 + 10x - 21 = 0$. $\Delta = 100 - 84 = 16$. As raízes são $x = (-10 \pm 4) / -2$, resultando em $x_1 = 3$ e $x_2 = 7$. A distância é $|x_2 - x_1| = 7 - 3 = 4$.
+Analisamos o discriminante $\Delta = b^2 - 4ac$. Temos $a=1$, $b=-12$, $c=36$. Assim, $\Delta = (-12)^2 - 4(1)(36) = 144 - 144 = 0$. Como $\Delta = 0$, a equação possui raízes reais e iguais (uma única interseção com o eixo $x$, o vértice toca o eixo).
 
 ## Question 11 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v11
-**Bloom:** Apply
+**Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.50
-**Contexto:** Um investidor em São Paulo monitora o valor de uma ação que seguiu uma trajetória parabólica ao longo de um dia de negociações.
+**Contexto:** Um biólogo no Pantanal acompanha a temperatura de um lago ao longo do dia, dada pela função $T(h) = h^2 - 14h + 55$, onde $h$ é a hora.
 
 ### Enunciado
-Considere a função $f(x) = x^2 - 2x + 5$. Qual é o valor mínimo que esta função pode assumir?
+Em que horário a temperatura atinge o seu valor mínimo, e qual é essa temperatura?
 
 ### Opciones
-- [ ] A) 1 <!-- feedback: 1 é o valor de x onde ocorre o mínimo (x_v), não o valor mínimo da função. -->
-- [x] B) 4 <!-- feedback: y_v = -Δ / 4a = -(4 - 20) / 4 = 16 / 4 = 4. -->
-- [ ] C) 5 <!-- feedback: 5 é o valor de f(0), não o valor mínimo. -->
-- [ ] D) 0 <!-- feedback: A função não possui raízes reais (Δ < 0), então ela nunca atinge o valor zero. -->
+- [ ] A) $7$ horas, $10^\circ C$ <!-- feedback: A hora está correta (x_v = 7), mas a substituição T(7) = 49 - 98 + 55 = 6 graus. -->
+- [x] B) $7$ horas, $6^\circ C$ <!-- feedback: Correto. x_v = -(-14)/2 = 7. y_v = T(7) = 49 - 98 + 55 = 6. -->
+- [ ] C) $14$ horas, $55^\circ C$ <!-- feedback: Estes são apenas os coeficientes b e c da equação, não as coordenadas do vértice. -->
+- [ ] D) $6$ horas, $7^\circ C$ <!-- feedback: As coordenadas foram invertidas. A hora é a abscissa e a temperatura é a ordenada. -->
 
 ### Explicacion Pedagogica
-O valor mínimo da função é a coordenada $y$ do vértice ($y_v$). Como $a > 0$, o vértice é um ponto de mínimo. Calculamos $x_v = -b / 2a = 2 / 2 = 1$ e então $f(1) = 1^2 - 2(1) + 5 = 4$.
+Trata-se de encontrar as coordenadas do vértice. O horário do mínimo é $x_v = \frac{-b}{2a} = \frac{14}{2} = 7$. Para achar a temperatura mínima, substituímos $h=7$ na função: $T(7) = 7^2 - 14(7) + 55 = 49 - 98 + 55 = 6$. A temperatura mínima é $6^\circ C$.
 
 ## Question 12 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v12
-**Bloom:** Apply
+**Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um professor em Goiânia mostra como determinar a lei de uma função quadrática a partir de seus pontos notáveis.
+**Contexto:** Uma pista de skate em formato parabólico será construída. O engenheiro determina que ela deve passar pelo ponto $(0, 4)$ e ter raízes em $2$ e $-2$.
 
 ### Enunciado
-Qual é a lei da função quadrática cujas raízes são $-1$ e $3$ e que passa pelo ponto $(0, -3)$?
+Qual é a lei de formação que descreve corretamente o perfil dessa pista de skate?
 
 ### Opciones
-- [x] A) $f(x) = x^2 - 2x - 3$ <!-- feedback: Raízes: x²-2x-3 = (x+1)(x-3). Ponto (0,-3): 0²-2(0)-3 = -3. Confere. -->
-- [ ] B) $f(x) = x^2 + 2x - 3$ <!-- feedback: As raízes desta função seriam 1 e -3. -->
-- [ ] C) $f(x) = -x^2 + 2x + 3$ <!-- feedback: Esta função passa pelo ponto (0,3), não (0,-3). -->
-- [ ] D) $f(x) = x^2 - 3x + 1$ <!-- feedback: Não possui as raízes dadas. -->
+- [x] A) $f(x) = -x^2 + 4$ <!-- feedback: Correto. Raízes 2 e -2 (x² - 4 = 0), com a concavidade para baixo, e intercepta (0,4). -->
+- [ ] B) $f(x) = x^2 - 4$ <!-- feedback: Esta função tem as raízes certas, mas passa pelo ponto (0, -4), e não (0, 4). -->
+- [ ] C) $f(x) = -2x^2 + 4$ <!-- feedback: Para esta função, as raízes seriam √2 e -√2, que não correspondem às raízes exigidas 2 e -2. -->
+- [ ] D) $f(x) = x^2 + 4x + 4$ <!-- feedback: Esta função tem uma única raiz (raiz dupla em x = -2), e passa por (0, 4). -->
 
 ### Explicacion Pedagogica
-Usamos a forma fatorada: $f(x) = a(x - x_1)(x - x_2)$. Assim, $f(x) = a(x + 1)(x - 3)$. Substituímos o ponto $(0, -3)$: $-3 = a(0+1)(0-3) \Rightarrow -3 = -3a \Rightarrow a = 1$. Expandindo: $f(x) = (x+1)(x-3) = x^2 - 2x - 3$.
+Usando a forma fatorada $f(x) = a(x - x_1)(x - x_2)$, temos $f(x) = a(x - 2)(x + 2) = a(x^2 - 4)$. Como a curva passa por $(0, 4)$, substituímos: $4 = a(0^2 - 4) \Rightarrow 4 = -4a \Rightarrow a = -1$. Portanto, a função é $f(x) = -1(x^2 - 4) = -x^2 + 4$.
 
 ## Question 13 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v13
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.45
-**Contexto:** Um analista de sistemas em Florianópolis otimiza um código que calcula a trajetória de objetos em um jogo digital.
+**Contexto:** Um economista estuda uma empresa de tecnologia onde o lucro mensal é dado por $L(x) = -x^2 + kx - 100$. Ele exige que a empresa nunca tenha prejuízo extremo, ou seja, deseja pelo menos uma raiz real.
 
 ### Enunciado
-Dada a função $f(x) = kx^2 - 4x + 1$, para quais valores de $k$ a função NÃO possui raízes reais?
+Qual a condição para o coeficiente $k$ de modo que a função $L(x)$ possua pelo menos uma raiz real?
 
 ### Opciones
-- [ ] A) $k < 4$ <!-- feedback: Nem todos os valores menores que 4 satisfazem a condição de não ter raízes. -->
-- [x] B) $k > 4$ <!-- feedback: Δ = (-4)² - 4(k)(1) = 16 - 4k. Para não ter raízes reais, Δ < 0 => 16 < 4k => k > 4. -->
-- [ ] C) $k = 4$ <!-- feedback: Com k=4, a função teria uma raiz real (delta = 0). -->
-- [ ] D) $k < 0$ <!-- feedback: Se k for negativo, o produto -4ac será positivo e delta sempre será maior que zero. -->
+- [ ] A) $k \geq 10$ ou $k \leq -10$ <!-- feedback: O discriminante deve ser maior ou igual a zero, mas a raiz de 400 é 20, não 10. -->
+- [x] B) $k \geq 20$ ou $k \leq -20$ <!-- feedback: Correto. Δ = k² - 4(-1)(-100) = k² - 400. Para raízes reais, Δ ≥ 0, logo k² ≥ 400 => k ≥ 20 ou k ≤ -20. -->
+- [ ] C) $-20 \leq k \leq 20$ <!-- feedback: Este intervalo torna o discriminante negativo, resultando em nenhuma raiz real (prejuízo sempre). -->
+- [ ] D) $k = 400$ <!-- feedback: É necessário avaliar a inequação k² ≥ 400, não igualar k a 400 diretamente. -->
 
 ### Explicacion Pedagogica
-Para que uma função do 2º grau não tenha raízes reais, o discriminante deve ser estritamente negativo ($\Delta < 0$). Resolvendo $16 - 4k < 0$, obtemos $16 < 4k$, o que resulta em $k > 4$.
+Para haver pelo menos uma raiz real, o discriminante deve ser não negativo: $\Delta \geq 0$. Calculando: $\Delta = k^2 - 4(-1)(-100) = k^2 - 400$. Portanto, $k^2 - 400 \geq 0 \Rightarrow k^2 \geq 400$. Isso resulta em $k \geq 20$ ou $k \leq -20$.
 
 ## Question 14 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v14
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um arquiteto paisagista em Porto Alegre projeta um canteiro retangular onde a área deve ser maximizada para um dado perímetro.
+**Contexto:** Um fazendeiro em Minas Gerais deseja cercar uma área retangular encostada em um muro de pedra (não precisará de cerca neste lado). Ele possui 60 metros de arame.
 
 ### Enunciado
-Um retângulo tem perímetro de 20 metros. Sendo $x$ a medida de um dos lados, a área $A$ é dada por $A(x) = x(10 - x)$. Qual é a área máxima possível para esse retângulo?
+Se $x$ é a profundidade do terreno, a área é $A(x) = x(60 - 2x)$. Qual é a área máxima que ele consegue cercar?
 
 ### Opciones
-- [ ] A) 10 m² <!-- feedback: Valor abaixo do máximo possível para um retângulo de perímetro 20. -->
-- [ ] B) 20 m² <!-- feedback: Valor incorreto para o vértice da função área. -->
-- [x] C) 25 m² <!-- feedback: A(x) = -x² + 10x. Vértice em x = -10/-2 = 5. A(5) = 5(10 - 5) = 25. -->
-- [ ] D) 100 m² <!-- feedback: Valor impossível, pois exigiria lados que somam mais que o perímetro disponível. -->
+- [ ] A) 900 m² <!-- feedback: 900 seria o quadrado de 30, mas o coeficiente a é -2, afetando o cálculo do máximo. -->
+- [ ] B) 600 m² <!-- feedback: Valor incorreto para a coordenada y do vértice. -->
+- [x] C) 450 m² <!-- feedback: A(x) = -2x² + 60x. O x do vértice é -60/-4 = 15. A(15) = 15(60 - 30) = 450. -->
+- [ ] D) 300 m² <!-- feedback: Este valor ocorre quando x = 10 ou x = 20, mas não é o máximo absoluto da parábola. -->
 
 ### Explicacion Pedagogica
-A função área é $A(x) = -x^2 + 10x$. O valor máximo ocorre no vértice $x_v = -10 / (2 \cdot -1) = 5$. Substituindo, a área máxima é $A(5) = -25 + 50 = 25$. Geometricamente, o retângulo de área máxima para um perímetro fixo é o quadrado.
+A função de área é $A(x) = -2x^2 + 60x$. Para achar o máximo, calculamos $x_v = \frac{-b}{2a} = \frac{-60}{-4} = 15$. Substituindo $x=15$ na equação original: $A(15) = -2(15)^2 + 60(15) = -450 + 900 = 450$ m².
 
 ## Question 15 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v15
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.40
-**Contexto:** Um economista em São Paulo analisa a função receita de uma loja, dada pelo produto do preço pela quantidade vendida.
+**Contexto:** O lucro de uma lanchonete ao vender sanduíches depende do preço $p$ segundo a lei $L(p) = -5p^2 + 100p - 320$, onde $L$ é o lucro em reais.
 
 ### Enunciado
-A quantidade vendida $q$ de um produto depende do preço $p$ segundo a função $q = 60 - 2p$. A receita é $R(p) = p \cdot q$. Qual preço $p$ maximiza a receita?
+Qual deve ser o preço $p$ cobrado por sanduíche para que a lanchonete tenha o lucro máximo?
 
 ### Opciones
-- [ ] A) R\$ 60,00 <!-- feedback: Com p=60, a quantidade vendida seria negativa, logo receita negativa. -->
-- [ ] B) R\$ 30,00 <!-- feedback: Com p=30, a quantidade vendida é zero, logo receita zero. -->
-- [x] C) R\$ 15,00 <!-- feedback: R(p) = p(60 - 2p) = -2p² + 60p. Vértice em p = -60 / (2 * -2) = 15. -->
-- [ ] D) R\$ 10,00 <!-- feedback: p=10 gera receita de 10 * 40 = 400, que é menor que a receita com p=15 (450). -->
+- [ ] A) R\$ 20,00 <!-- feedback: Este valor anula uma parte da equação, mas não fornece a coordenada x do vértice. -->
+- [ ] B) R\$ 5,00 <!-- feedback: Com preço 5, o lucro é L(5) = -125 + 500 - 320 = 55, que é muito inferior ao máximo. -->
+- [x] C) R\$ 10,00 <!-- feedback: Correto. O preço ideal é o p do vértice: p_v = -100 / (2 * -5) = -100 / -10 = 10. -->
+- [ ] D) R\$ 50,00 <!-- feedback: Preço exorbitante que tornaria o lucro fortemente negativo. -->
 
 ### Explicacion Pedagogica
-A função receita é $R(p) = -2p^2 + 60p$. Esta é uma função quadrática com concavidade para baixo. O ponto de máximo (preço ideal) é dado por $p_v = -b / 2a = -60 / (2 \cdot -2) = 15$.
+O preço que maximiza o lucro corresponde à abscissa do vértice da parábola descrita por $L(p)$. Utilizando a fórmula $p_v = \frac{-b}{2a}$, temos $p_v = \frac{-100}{2(-5)} = \frac{-100}{-10} = 10$. Portanto, cobrando R\$ 10,00 tem-se o lucro máximo.
 
 ## Question 16 [D7-D8]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v16
 **Bloom:** Analyze
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.35
-**Contexto:** Um físico em São José dos Campos estuda a energia potencial de uma mola, que é uma função quadrática da deformação.
+**Contexto:** A curva de um rio visto de cima aproxima-se de uma parábola que passa pela origem $(0,0)$ e tem vértice no ponto $(4, 8)$.
 
 ### Enunciado
-O gráfico de $f(x) = ax^2 + bx + c$ tem vértice em $(2, -1)$ e passa por $(0, 3)$. Determine o valor de $a$.
+Dada a equação $y = ax^2 + bx + c$, qual é o valor do coeficiente $a$ que ajusta essa curva?
 
 ### Opciones
-- [ ] A) $a = -1$ <!-- feedback: Se a fosse negativo, a parábola abriria para baixo e não passaria em y=3 vindo de y=-1. -->
-- [x] B) $a = 1$ <!-- feedback: Usando a forma canônica y = a(x-h)² + k: 3 = a(0-2)² - 1 => 3 = 4a - 1 => 4a = 4 => a = 1. -->
-- [ ] C) $a = 2$ <!-- feedback: Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. Com a = 2, a parábola chega a y = 7 em x = 0, e não a y = 3. -->
-- [ ] D) $a = 0,5$ <!-- feedback: Substituindo (0, 3) na forma canônica: 3 = a(0-2)² - 1 dá 4 = 4a, logo a = 1. O valor 0,5 corresponderia a y = -1/4 no ponto x = 0. -->
+- [ ] A) $a = 0,5$ <!-- feedback: Se a fosse positivo, a parábola abriria para cima, mas o vértice em (4,8) e raiz (0,0) exige concavidade para baixo. -->
+- [x] B) $a = -0,5$ <!-- feedback: Correto. Forma canônica: y = a(x-4)² + 8. Ponto (0,0): 0 = a(-4)² + 8 => 16a = -8 => a = -0,5. -->
+- [ ] C) $a = -2$ <!-- feedback: Com a=-2, a função chegaria em 0 quando x estivesse perto de 2, não de 0. -->
+- [ ] D) $a = 2$ <!-- feedback: A concavidade deve ser para baixo e o fator de escala difere da realidade do problema. -->
 
 ### Explicacion Pedagogica
-Usamos a forma canônica da função quadrática: $f(x) = a(x - x_v)^2 + y_v$. Substituindo o vértice $(2, -1)$: $f(x) = a(x - 2)^2 - 1$. Agora usamos o ponto $(0, 3)$ para achar $a$: $3 = a(0 - 2)^2 - 1 \Rightarrow 3 = 4a - 1 \Rightarrow 4 = 4a \Rightarrow a = 1$.
+A partir da forma canônica $y = a(x - x_v)^2 + y_v$, substituímos o vértice $(4, 8)$ para obter $y = a(x - 4)^2 + 8$. Sabendo que a curva passa pela origem $(0,0)$, substituímos $x=0$ e $y=0$: $0 = a(0 - 4)^2 + 8 \Rightarrow 0 = 16a + 8 \Rightarrow 16a = -8 \Rightarrow a = -0,5$.
 
 ## Question 17 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v17
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.30
-**Contexto:** Um matemático em Campinas investiga as propriedades das somas e produtos de raízes em funções com parâmetros variáveis.
+**Contexto:** Em um desafio de matemática avançada do ENEM, um candidato precisa relacionar o parâmetro livre da função quadrática $f(x) = x^2 - Sx + P$ com as raízes.
 
 ### Enunciado
-Sejam $x_1$ e $x_2$ as raízes de $f(x) = x^2 - mx + (m-1)$. Qual é o valor da expressão $x_1^2 + x_2^2$ em termos de $m$?
+Se as raízes da função são o dobro das raízes da função $g(x) = x^2 - 3x + 2$, qual é a expressão de $f(x)$?
 
 ### Opciones
-- [ ] A) $m^2$ <!-- feedback: x1² + x2² = (x1 + x2)² - 2x1x2. Faltou subtrair o termo do produto. -->
-- [x] B) $m^2 - 2m + 2$ <!-- feedback: (x1 + x2)² - 2x1x2 = m² - 2(m - 1) = m² - 2m + 2. -->
-- [ ] C) $m^2 + 2m - 2$ <!-- feedback: Erro nos sinais ao expandir a expressão algébrica. -->
-- [ ] D) $2m - 2$ <!-- feedback: Falta o termo quadrático m². -->
+- [ ] A) $f(x) = x^2 - 6x + 4$ <!-- feedback: O produto das raízes dobradas (2*1 e 2*2) é 2*4=8, não 4. -->
+- [x] B) $f(x) = x^2 - 6x + 8$ <!-- feedback: Raízes de g são 1 e 2. O dobro são 2 e 4. Soma=6, Produto=8. Logo f(x) = x² - 6x + 8. -->
+- [ ] C) $f(x) = 2x^2 - 6x + 2$ <!-- feedback: Multiplicar a função toda por 2 não altera as raízes, continuariam sendo 1 e 2. -->
+- [ ] D) $f(x) = x^2 - 3x + 4$ <!-- feedback: A soma das raízes tem que ser o dobro da original, logo o termo central deveria ser -6x. -->
 
 ### Explicacion Pedagogica
-Usamos as relações de Girard: $x_1 + x_2 = m$ e $x_1 \cdot x_2 = m - 1$. A expressão $x_1^2 + x_2^2$ pode ser escrita como $(x_1 + x_2)^2 - 2x_1x_2$. Substituindo os valores: $m^2 - 2(m - 1) = m^2 - 2m + 2$.
+A função $g(x) = x^2 - 3x + 2$ tem soma $S=3$ e produto $P=2$, logo suas raízes são $1$ e $2$. As raízes de $f(x)$ devem ser o dobro, ou seja, $2$ e $4$. Para $f(x)$, a nova soma é $2 + 4 = 6$ e o novo produto é $2 \cdot 4 = 8$. A equação é $x^2 - Sx + P$, resultando em $f(x) = x^2 - 6x + 8$.
 
 ## Question 18 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v18
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.25
-**Contexto:** Durante uma olimpíada de matemática, os estudantes devem analisar o comportamento de uma parábola cujos coeficientes dependem de um sorteio.
+**Contexto:** Um estatístico desenha um modelo parabólico $y = ax^2 + bx + c$ cujos sinais dos coeficientes ajudam a prever o risco financeiro.
 
 ### Enunciado
-Considere a função $f(x) = ax^2 + bx + c$. Se $a < 0$, $b = 0$ e $c > 0$, qual é a posição do vértice e a quantidade de raízes reais?
+Considere uma parábola que intercepta o eixo $y$ em um valor negativo, possui concavidade voltada para cima, e o vértice está no primeiro quadrante ($x>0, y>0$). O que se pode afirmar sobre as raízes?
 
 ### Opciones
-- [ ] A) Vértice sobre o eixo x, uma única raiz real. <!-- feedback: Se c > 0 e a < 0, a parábola corta o eixo y acima de zero e desce, tendo duas raízes. -->
-- [ ] B) Vértice no quarto quadrante, nenhuma raiz real. <!-- feedback: O vértice está no eixo y (pois b=0). -->
-- [x] C) Vértice sobre o eixo y, duas raízes reais. <!-- feedback: b = 0 implica x_v = 0. f(0) = c > 0. Como a < 0, a parábola desce a partir do ponto (0,c), cortando o eixo x duas vezes. -->
-- [ ] D) Vértice na origem, nenhuma raiz real. <!-- feedback: O vértice só estaria na origem se b=0 e c=0. -->
+- [ ] A) Não existem raízes reais. <!-- feedback: Se cruza o eixo y no lado negativo e sobe para o primeiro quadrante (concavidade para cima), obrigatoriamente corta o eixo x. -->
+- [ ] B) Existem duas raízes reais negativas. <!-- feedback: O vértice no primeiro quadrante com concavidade para cima contradiz intercepto negativo no eixo y. Cenário fisicamente impossível no plano! -->
+- [x] C) A premissa geométrica é impossível. <!-- feedback: Correto. Se a concavidade é para cima (a>0) e corta o eixo y em c<0, o vértice será o ponto mais baixo. É impossível o vértice estar no 1º quadrante (y>0) se a curva já atinge y<0. -->
+- [ ] D) Existe apenas uma raiz real positiva. <!-- feedback: A situação descrita contém uma contradição lógica geométrica (vértice positivo, boca pra cima, corta eixo y negativo). -->
 
 ### Explicacion Pedagogica
-Como $b = 0$, o eixo de simetria é o próprio eixo $y$ ($x_v = 0$). O vértice é o ponto $(0, c)$. Como $c > 0$, o vértice está acima do eixo $x$. Sendo $a < 0$, a concavidade é para baixo, forçando a parábola a cruzar o eixo $x$ em dois pontos distintos (raízes simétricas).
+Análise lógica do gráfico: se $c < 0$ (corta $y$ negativo) e $a > 0$ (concavidade para cima), a parábola desce até o vértice e depois sobe. Sendo assim, a coordenada $y$ do vértice DEVE ser menor ou igual a $c$ ($y_v \leq c < 0$). O enunciado propõe o vértice no primeiro quadrante ($y_v > 0$), o que é uma contradição impossível.
 
 ## Question 19 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v19
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** No vestibular de uma universidade militar de elite no Brasil, avalia-se o conhecimento profundo sobre o deslocamento de parábolas.
+**Contexto:** O projeto estrutural de um ginásio em Brasília exige um deslocamento do arco parabólico de sua fachada.
 
 ### Enunciado
-Uma parábola de equação $y = x^2$ sofre uma translação de 3 unidades para a direita e 2 unidades para baixo. Qual é a nova equação na forma polinomial expandida?
+O arco original é dado por $y = -x^2$. O arquiteto decide mover o vértice $2$ metros para a esquerda e $5$ metros para cima. Qual a nova lei de formação na forma expandida?
 
 ### Opciones
-- [x] A) $y = x^2 - 6x + 7$ <!-- feedback: (x-3)² - 2 = x² - 6x + 9 - 2 = x² - 6x + 7. Correto. -->
-- [ ] B) $y = x^2 + 6x + 7$ <!-- feedback: Translação para a direita exige o sinal de menos dentro do parêntese (x-3). -->
-- [ ] C) $y = x^2 - 3x - 2$ <!-- feedback: Erro na aplicação da regra de translação horizontal. -->
-- [ ] D) $y = x^2 + 3x + 2$ <!-- feedback: Erro na aplicação da regra de translação. -->
+- [x] A) $y = -x^2 - 4x + 1$ <!-- feedback: Forma canônica com vértice (-2, 5): y = -(x+2)² + 5 = -(x²+4x+4) + 5 = -x² - 4x + 1. -->
+- [ ] B) $y = -x^2 + 4x + 9$ <!-- feedback: Translação para a esquerda usa (x+2), resultando em sinal negativo para o termo central após expandir. -->
+- [ ] C) $y = -x^2 - 4x + 9$ <!-- feedback: Erro ao subtrair a constante fora do quadrado: -4 + 5 = 1, e não 9. -->
+- [ ] D) $y = -x^2 + 4x + 1$ <!-- feedback: Isso representaria um deslocamento de 2 metros para a direita. -->
 
 ### Explicacion Pedagogica
-A translação de $h$ unidades para a direita e $k$ para cima transforma $f(x)$ em $f(x-h) + k$. No caso, $h=3$ e $k=-2$. A nova função é $y = (x - 3)^2 - 2$. Expandindo: $y = (x^2 - 6x + 9) - 2 = x^2 - 6x + 7$.
+Movendo o vértice da origem para $(-2, 5)$, aplicamos a transformação $f(x) = a(x - h)^2 + k$. Como a forma original é $y = -x^2$, $a=-1$. Substituindo $h=-2$ e $k=5$, temos $y = -(x + 2)^2 + 5$. Expandindo o notável: $y = -(x^2 + 4x + 4) + 5 = -x^2 - 4x - 4 + 5 = -x^2 - 4x + 1$.
 
 ## Question 20 [D9-D10]
 **ID:** BR-MAT-3EM-2026-W04-funcao-quadratica-001-MASTERY-bundle-v20
 **Bloom:** Evaluate
 **EJE:** Funções e Álgebra
 **Expected_Success:** 0.20
-**Contexto:** Um matemático em São Paulo estuda a área de triângulos cujos vértices são pontos notáveis de uma parábola.
+**Contexto:** Estudantes universitários em Campinas utilizam a álgebra geométrica para encontrar áreas delineadas por funções de segundo grau.
 
 ### Enunciado
-Qual é a área do triângulo cujos vértices são as raízes da função $f(x) = -x^2 + 6x - 8$ e o vértice da própria parábola?
+Dada a parábola $y = x^2 - 4x + 3$, os vértices de um triângulo são formados pelas duas raízes da função e pelo ponto onde a parábola intercepta o eixo $y$. Qual é a área deste triângulo?
 
 ### Opciones
-- [ ] A) 4 <!-- feedback: Área = (base * altura) / 2. Base (distância entre raízes) é 2. Altura (y_v) é 1. Área = (2 * 1) / 2 = 1. -->
-- [ ] B) 2 <!-- feedback: Erro no cálculo das dimensões ou na fórmula da área. -->
-- [x] C) 1 <!-- feedback: Raízes: 2 e 4. Base = 2. Vértice: x_v = 3, y_v = -3² + 18 - 8 = 1. Altura = 1. Área = (2 * 1) / 2 = 1. -->
-- [ ] D) 0,5 <!-- feedback: Erro no cálculo das dimensões. -->
+- [ ] A) $6$ <!-- feedback: A base mede 2 (de x=1 até x=3) e a altura mede 3. A área é (2*3)/2 = 3. -->
+- [ ] B) $4$ <!-- feedback: Erro de cálculo. A base é 2 e a altura no eixo y é 3. -->
+- [x] C) $3$ <!-- feedback: Correto. Raízes são 1 e 3 (base = 2). Eixo y é cortado em (0,3) (altura = 3). Área = (2*3)/2 = 3. -->
+- [ ] D) $1,5$ <!-- feedback: O cálculo da área de triângulo é base*altura/2. Não há divisão adicional por 2. -->
 
 ### Explicacion Pedagogica
-1. Raízes: $x^2 - 6x + 8 = 0 \Rightarrow (x-2)(x-4)=0 \Rightarrow$ raízes 2 e 4. Base do triângulo = $4 - 2 = 2$.
-2. Vértice: $x_v = 3$. $y_v = f(3) = -9 + 18 - 8 = 1$. A altura do triângulo em relação ao eixo $x$ é $|y_v| = 1$.
-3. Área = $(\text{base} \cdot \text{altura}) / 2 = (2 \cdot 1) / 2 = 1$.
+Para determinar o triângulo, precisamos dos pontos. As raízes de $x^2 - 4x + 3 = 0$ são $x_1 = 1$ e $x_2 = 3$. Estes pontos estão sobre o eixo $x$, definindo a base do triângulo com comprimento $3 - 1 = 2$. O terceiro vértice é a interseção com o eixo $y$, onde $x = 0$, resultando em $y = 3$. Assim, a altura do triângulo é $3$. A área é $\frac{\text{base} \cdot \text{altura}}{2} = \frac{2 \cdot 3}{2} = 3$.
