@@ -194,31 +194,31 @@
       "options": [
         {
           "letter": "A",
-          "text": "Entrando temprano, took el primer tren.",
+          "text": "Entrando al salón, saludé a la profesora.",
           "is_correct": false,
-          "feedback": "Es correcta: el gerundio expresa una acción simultánea al hecho principal y ese uso está admitido."
+          "feedback": "Es correcta: el gerundio marca una acción simultánea a «saludé», y ese uso está admitido."
         },
         {
           "letter": "B",
-          "text": "Esperando el resultado, calculo tu nota.",
+          "text": "Esperando el resultado, repasé los cálculos.",
           "is_correct": false,
-          "feedback": "Es correcta: también indica simultaneidad y tiene sentido pleno dentro de la oración."
+          "feedback": "Es correcta: «esperando» y «repasé» ocurren a la vez, y el sujeto de las dos es el mismo."
         },
         {
           "letter": "C",
-          "text": "Leyendo el informe, entregué el trabajo.",
-          "is_correct": true,
-          "feedback": "Es la respuesta: el gerundio no debe modificar directamente a un sustantivo; corresponde un adjetivo o el infinitivo."
+          "text": "Leyendo el informe, tomé apuntes al margen.",
+          "is_correct": false,
+          "feedback": "Es correcta: el gerundio expresa simultaneidad con el verbo principal."
         },
         {
           "letter": "D",
-          "text": "Corriendo el niño, se cayó.",
-          "is_correct": false,
-          "feedback": "Es correcta: describe la simultaneidad entre las dos acciones con sentido pleno."
+          "text": "Corriendo el niño, se cayó en el patio.",
+          "is_correct": true,
+          "feedback": "Es la respuesta: el gerundio no puede ir delante del sujeto como si fuera un verbo conjugado. Lo correcto es «El niño, corriendo, se cayó» o «Mientras corría, el niño se cayó»."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "El gerundio puede expresar simultaneidad, causa o modo, pero no debe cumplir la función de un adjetivo que califique directamente a un sustantivo.",
+      "correct_answer": "D",
+      "explanation": "El gerundio puede expresar simultaneidad, causa o modo, pero no admite sujeto propio: en «Corriendo el niño, se cayó» se coloca delante del sujeto como si fuera un verbo conjugado, y eso es incorrecto.",
       "difficulty": "6",
       "images": [],
       "tags": [],

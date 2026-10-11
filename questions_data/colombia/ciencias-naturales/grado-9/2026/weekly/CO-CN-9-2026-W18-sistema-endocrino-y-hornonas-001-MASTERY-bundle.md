@@ -126,9 +126,9 @@ Un caso de salud pública se explica mirando la cadena química que hay detrás 
 ¿Qué cambios hormonales explican que la glucosa suba y después se estabilice?
 
 ### Opciones
-- [x] A) La insulina disminuye y la glucagona aumenta, para que el hígado destruya el glucógeno y/libere glucosa.
+- [ ] A) La insulina disminuye y la glucagona aumenta, para que el hígado destruya el glucógeno y/libere glucosa.
   <!-- feedback: Incorrecto. Ese patrón corresponde a un estado de ayuno prolongado; durante ese caso la insulina baja y la glucagona favorece la liberación de glucosa. -->
-- [ ] B) La insulina aumenta y la glucagona disminuye, para que el hígado deje de liberar glucosa y el exceso se almacene.
+- [x] B) La insulina aumenta y la glucagona disminuye, para que el hígado deje de liberar glucosa y el exceso se almacene.
   <!-- feedback: Correcto. La insulina estimulada por la glucosa alta favorece la captación y el almacenamiento de glucosa, mientras la glucagona reduce la liberación hepática. -->
 - [ ] C) Ambas hormonas disminuyen, porque el organismo evita alterar la concentración de glucosa en sangre.
   <!-- feedback: Incorrecto. Tras la comida hay un aumento claro de insulina y una disminución de glucagon; la regulación busca compensar la glucosa, no evitar el cambio. -->

@@ -1,0 +1,803 @@
+{
+  "BO|11|ciencias-naturales|DAACDCCABCBCADDAADCB": [
+    "questions_data/bolivia/ciencias-naturales/grado-11/2026/weekly/BO-CIE-11-2026-W11-tema-w11-001-MASTERY-bundle.md",
+    "questions_data/bolivia/ciencias-naturales/grado-11/2026/weekly/BO-CIE-11-2026-W12-tema-w12-001-MASTERY-bundle.md",
+    "questions_data/bolivia/ciencias-naturales/grado-11/2026/weekly/BO-CIE-11-2026-W13-tema-w13-001-MASTERY-bundle.md",
+    "questions_data/bolivia/ciencias-naturales/grado-11/2026/weekly/BO-CIE-11-2026-W14-tema-w14-001-MASTERY-bundle.md"
+  ],
+  "BO|11|lengua|ABDCABDCABDCABDCABDC": [
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle.md",
+    "questions_data/bolivia/lengua/grado-11/2026/weekly/BO-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle.md"
+  ],
+  "CL|11|lenguaje|BBAACCDDABBBAACCDDAB": [
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W05-tema-w05-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle.md",
+    "questions_data/chile/lenguaje/grado-11/2026/weekly/CL-LEN-11-2026-W10-tema-w10-001-MASTERY-bundle.md"
+  ],
+  "CO|10|ciencias_naturales|BCDABCDABCDA": [
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W02-movimiento-circular-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W10-luz-y-optica-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W11-electromagnetismo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W37-tecnicas-de-analisis-quimico-001-MASTERY-bundle.md"
+  ],
+  "CO|10|ciencias_naturales|ABCDABCDABCD": [
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W03-movimiento-circular-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W05-optica-geometrica-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W30-oxidacion-reduccion-y-potencial-001-MASTERY-bundle.md"
+  ],
+  "CO|10|ciencias_naturales|CDABCDABCDAB": [
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W04-ondas-mecanicas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W06-ondas-sonoras-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W08-electricidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W09-corriente-y-potencial-001-MASTERY-bundle.md"
+  ],
+  "CO|10|ciencias_naturales|ACBDBDACCADB": [
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W22-acidos-carboxilicos-y-esteres-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W28-ecosistemas-y-flujo-de-energia-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-10/2026/weekly/CO-CN-10-2026-W29-cuencas-hidrograficas-y-recurso-hidrico-001-MASTERY-bundle.md"
+  ],
+  "CO|11|ciencias-naturales|ABCDABCDABCDABCDABCD": [
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W22-termodinamica-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W23-calor-temperatura-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W24-gases-ideales-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W25-enzimas-catalisis-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W26-estequiometria-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W27-cinatica-quimica-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W28-ph-soluciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W29-reacciones-redox-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W30-repaso-p3-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-11/2026/weekly/CO-CN-11-2026-W31-fisica-moderna-001-MASTERY-bundle.md"
+  ],
+  "CO|3|ciencias-naturales|ABCDACBD": [
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W03-los-seres-vivos-y-su-entorno-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W08-materia-y-sustancias-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W09-la-energia-y-el-calor-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W10-el-aire-y-la-atmosfera-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W11-el-magnetismo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W12-el-sistema-digestivo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W13-el-sistema-oseo-y-muscular-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W14-la-transpiracion-y-las-plantas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W15-la-luz-y-el-ojo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W16-ecosistemas-de-colombia-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W17-la-contaminacion-y-el-reciclaje-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-3/2026/weekly/CO-CN-3-2026-W19-los-materiales-y-sus-cambios-001-MASTERY-bundle.md"
+  ],
+  "CO|4|ciencias-naturales|BDACBDAC": [
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W01-partes-de-la-planta-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W02-la-materia-y-sus-cambios-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W03-ecosistemas-y-cadena-alimenticia-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W04-el-sistema-solar-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W09-la-energia-y-sus-formas-001-MASTERY-bundle.md"
+  ],
+  "CO|4|ciencias-naturales|ABCDABCD": [
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W12-el-suelo-y-sus-capas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W13-la-reproduccion-de-las-plantas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W14-el-cuerpo-humano-y-sus-sistemas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W15-los-materiales-y-sus-propiedades-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W16-la-electricidad-y-los-circuitos-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W17-el-magnetismo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W18-la-luz-y-el-sonido-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W19-las-rocas-y-los-minerales-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W20-la-atmosfera-y-el-clima-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W21-el-reciclaje-y-el-cuidado-del-ambiente-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W30-las-plantas-y-su-ciclo-de-vida-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W31-los-animales-y-sus-caracteristicas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W32-el-cuerpo-humano-y-sus-sistemas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W33-los-ecosistemas-de-colombia-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W34-el-agua-y-su-ciclo-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W35-la-luz-y-las-sombras-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W36-el-fuego-y-las-reacciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W37-los-materiales-y-sus-propiedades-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W38-el-planeta-tierra-y-el-sistema-solar-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-4/2026/weekly/CO-CIE-4-2026-W39-la-ciencia-en-mi-comunidad-001-MASTERY-bundle.md"
+  ],
+  "CO|7|ciencias_naturales|BACDBABCBA": [
+    "questions_data/colombia/ciencias-naturales/grado-7/2026/weekly/CO-CN-7-2026-W17-enlaces-quimicos-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-7/2026/weekly/CO-CN-7-2026-W18-fuerzas-leyes-newton-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-7/2026/weekly/CO-CN-7-2026-W19-trabajo-potencia-maquinas-simples-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-7/2026/weekly/CO-CN-7-2026-W20-sistema-nervioso-humano-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-7/2026/weekly/CO-CN-7-2026-W21-sistema-endocrino-coordinacion-001-MASTERY-bundle.md"
+  ],
+  "CO|8|ciencias_naturales|ABCDABCDABCD": [
+    "questions_data/colombia/ciencias-naturales/grado-8/2026/weekly/CO-CN-8-2026-W35-microorganismos-enfermedades-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-8/2026/weekly/CO-CN-8-2026-W36-sistema-respiratorio-circulatorio-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-8/2026/weekly/CO-CN-8-2026-W37-gestion-residuos-reciclaje-001-MASTERY-bundle.md"
+  ],
+  "CO|9|ciencias-naturales|ABCDABCDABCD": [
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W19-ciclo-celular-y-division-celular-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W20-electricidad-y-circuitos-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W21-la-tierra-y-su-estructura-interna-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W22-sonido-y-sus-propiedades-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W23-minerales-y-recursos-naturales-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W24-clima-y-cambio-climatico-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W25-evolucion-y-origen-de-las-especies-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W26-teoria-celular-y-microscopia-001-MASTERY-bundle.md"
+  ],
+  "CO|9|ciencias-naturales|ADCBADCBADCB": [
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W29-la-hidrostatica-y-los-fluidos-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W31-la-atmosfera-y-el-clima-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W32-la-nutricion-y-la-alimentacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W33-repaso-electromagnetismo-y-ondas-001-MASTERY-bundle.md",
+    "questions_data/colombia/ciencias-naturales/grado-9/2026/weekly/CO-CN-9-2026-W36-repaso-ecosistemas-y-ciclos-de-la-materia-001-MASTERY-bundle.md"
+  ],
+  "CO|3|ingles|DDCAABBC": [
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W02-alphabet-spelling-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W06-classroom-objects-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W10-repaso-p2-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W14-house-furniture-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W18-fruits-vegetables-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W22-likes-dislikes-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W30-repaso-p6-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W34-sports-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-3/2026/weekly/CO-ING-3-2026-W38-describing-objects-001-MASTERY-bundle.md"
+  ],
+  "CO|4|ingles|ABCDABCD": [
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W01-greetings-personal-info-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W02-numbers-1-100-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W03-classroom-objects-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W04-colors-shapes-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W05-review-p1-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W06-family-members-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W07-parts-of-body-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W08-my-face-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W09-clothes-accessories-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W10-review-p2-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W11-house-rooms-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W12-furniture-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W13-daily-routines-1-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W14-daily-routines-2-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W15-telling-time-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W16-review-p3-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W17-domestic-animals-pets-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W18-farm-animals-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W19-wild-animals-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W20-animals-characteristics-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W21-review-p4-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W22-food-drinks-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W23-fruits-vegetables-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W24-meals-of-day-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W25-likes-dislikes-food-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W26-review-p5-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W27-places-in-town-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W28-community-helpers-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W29-means-transport-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W30-prepositions-place-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W31-review-p6-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W32-weather-seasons-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W33-feelings-emotions-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W34-hobbies-free-time-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W35-sports-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W36-review-p7-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W37-describing-people-personality-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W38-describing-people-appearance-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W39-describing-objects-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-4/2026/weekly/CO-ING-4-2026-W40-final-review-001-MASTERY-bundle.md"
+  ],
+  "CO|6|ingles|CDDAAABBBC": [
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W06-classroom-objects-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W15-prepositions-place-basic-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W28-telling-time-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W33-how-much-many-001-MASTERY-bundle.md"
+  ],
+  "CO|6|ingles|BDACADBADC": [
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W18-furniture-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W25-frequency-adverbs-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W30-p3-final-review-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W34-likes-dislikes-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W37-present-continuous-intro-001-MASTERY-bundle.md"
+  ],
+  "CO|6|ingles|CADBADBADC": [
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W32-countable-uncountable-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W36-giving-directions-001-MASTERY-bundle.md",
+    "questions_data/colombia/ingles/grado-6/2026/weekly/CO-ING-6-2026-W39-final-review-1-001-MASTERY-bundle.md"
+  ],
+  "CO|10|lectura_critica|BDACBDACBDAC": [
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W08-la-poesia-y-la-organizacion-estetica-del-verso-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W13-la-argumentacion-en-la-publicidad-y-los-medios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W35-la-cronica-urbana-y-el-retrato-de-la-ciudad-001-MASTERY-bundle.md"
+  ],
+  "CO|10|lectura_critica|ACBDACBDACBD": [
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W18-la-narracion-y-la-voz-testimonial-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W20-el-comentario-y-la-opinion-publicada-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-10/2026/weekly/CO-LC-10-2026-W24-la-poesia-y-la-construccion-del-significado-001-MASTERY-bundle.md"
+  ],
+  "CO|3|lectura_critica|BCADBCAD": [
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W02-el-dialogo-en-los-cuentos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W29-la-carta-y-el-correo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W34-la-lista-y-el-esquema-para-organizar-ideas-001-MASTERY-bundle.md"
+  ],
+  "CO|3|lectura_critica|ABCDCADB": [
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W16-la-coherencia-en-los-textos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W17-la-idea-principal-de-un-texto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W18-los-subtitulos-de-los-dibujos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W19-los-adverbios-de-lugar-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W20-la-oracion-y-sus-partes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W21-los-avisos-y-los-carteles-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W22-los-dos-puntos-y-los-signos-de-interrogacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W23-los-verbos-en-pasado-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W24-comparar-dos-textos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-3/2026/weekly/CO-LC-3-2026-W25-el-texto-informativo-y-sus-caracteristicas-001-MASTERY-bundle.md"
+  ],
+  "CO|4|lectura_critica|ABCDABCD": [
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W01-el-cuento-y-su-estructura-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W02-los-personajes-y-sus-acciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W03-el-texto-informativo-sencillo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W04-los-datos-y-las-estadisticas-001-MASTERY-bundle.md"
+  ],
+  "CO|4|lectura_critica|BCDBCDBD": [
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W33-los-textos-que-dan-consejos-y-recomendaciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W37-los-textos-que-explican-las-normas-y-los-acuerdos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W38-la-ficha-tecnica-de-un-objeto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W39-los-relatos-de-los-pueblos-indigenas-colombianos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-4/2026/weekly/CO-LC-4-2026-W40-la-revista-y-el-contraste-entre-secciones-001-MASTERY-bundle.md"
+  ],
+  "CO|5|lectura-critica|ACBDACBD": [
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W21-copla-retahila-tradicion-oral-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W34-carta-formal-solicitud-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W35-cuento-terror-colombiano-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W36-infografia-medio-ambiente-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W37-discurso-lider-social-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-5/2026/weekly/CO-LC-5-2026-W38-cronica-mercado-plaza-001-MASTERY-bundle.md"
+  ],
+  "CO|6|lectura_critica|CADBCADBCA": [
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W31-la-tira-comica-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W32-la-cronica-deportiva-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W33-el-editorial-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W34-la-carta-editorial-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W35-el-texto-cientifico-divulgativo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W36-el-texto-explicativo-como-funciona-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W37-el-relato-de-viajes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W38-el-texto-dramatico-guion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W39-la-situacion-de-lectura-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W40-repaso-periodo-4-001-MASTERY-bundle.md"
+  ],
+  "CO|6|lectura-critica|ABCDCDACBD": [
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W21-el-manifiesto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W22-novela-corta-iniciacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-6/2026/weekly/CO-LC-6-2026-W23-diario-personal-001-MASTERY-bundle.md"
+  ],
+  "CO|7|lectura_critica|ABCDABCDAB": [
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W06-dialogo-y-monologo-interior-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W07-estructura-de-la-narracion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W08-descripcion-y-caracterizacion-de-personajes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W09-resena-y-opinion-argumentada-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W10-sintesis-de-generos-literarios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W35-la-fuente-documental-y-la-evidencia-001-MASTERY-bundle.md"
+  ],
+  "CO|7|lectura_critica|BDACDBACBD": [
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W11-hiato-y-dieresis-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W12-la-lirica-estrofa-y-rima-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W13-el-soneto-y-la-poesia-breve-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W14-sinonimia-y-polisemia-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W15-el-texto-dramatico-y-el-teatro-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W16-mito-y-leyenda-colombiana-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W17-la-carta-y-el-correo-electronico-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W18-argumentacion-oral-y-el-debate-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W19-textos-informativos-cuadros-y-graficos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-7/2026/weekly/CO-LC-7-2026-W20-sintesis-integradora-semestre-2-001-MASTERY-bundle.md"
+  ],
+  "CO|8|lectura_critica|ABCDACBDBADC": [
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W01-el-ensayo-argumentativo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W02-la-noticia-y-el-lenguaje-periodistico-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W03-la-narrativa-y-la-ficcion-novela-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W04-el-texto-biografico-y-la-memoria-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W05-la-cronica-y-el-relato-de-testimonios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W06-la-poesia-y-la-expresion-emocional-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W07-la-tarta-y-los-generos-epistolares-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W08-la-copia-fiel-y-el-valor-de-la-fuente-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W09-la-tesis-y-la-argumentacion-rigurosa-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W10-la-lectura-de-textos-no-lineales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W11-el-resumen-y-la-sintesis-de-textos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W12-la-descripcion-y-la-explicacion-cientifica-001-MASTERY-bundle.md"
+  ],
+  "CO|8|lectura_critica|ABCDABCDABCD": [
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W27-el-informe-y-el-texto-institucional-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W34-la-teatro-y-el-texto-dramatico-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W35-la-leyenda-el-mito-y-la-tradicion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W36-la-carta-argumentativa-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W37-verificacion-de-fuentes-y-contraste-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W38-el-ensayo-argumentativo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W39-el-texto-academico-y-el-informe-cientifico-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-8/2026/weekly/CO-LC-8-2026-W40-sintesis-integradora-semestre-4-001-MASTERY-bundle.md"
+  ],
+  "CO|9|lectura_critica|ABCDABCDABCD": [
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W01-el-ensayo-y-la-tesis-argumentativa-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W02-argumentacion-ensayos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W03-generos-literarios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W16-el-resumen-y-la-parafrasis-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W26-la-ironia-y-el-humor-critico-en-la-prensa-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W27-la-metafora-y-la-comparacion-en-el-discurso-001-MASTERY-bundle.md"
+  ],
+  "CO|9|lectura_critica|BDACBDACBDAC": [
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W04-la-posicion-argumentativa-y-la-figura-del-ethos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W05-el-lenguaje-argumentativo-y-los-modos-del-discurso-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W06-la-inferencia-y-los-indices-de-lectura-critica-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W09-la-pragmatica-del-texto-comunicativo-publicitario-001-MASTERY-bundle.md"
+  ],
+  "CO|9|lectura_critica|ABCDBCDACDBA": [
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W17-la-tesis-y-el-argumento-central-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W18-el-texto-opinion-y-la-tendenciosidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/lectura-critica/grado-9/2026/weekly/CO-LC-9-2026-W20-el-uso-de-la-evidencia-en-la-argumentacion-001-MASTERY-bundle.md"
+  ],
+  "CO|10|lengua|ACBDACBDACBD": [
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W01-genero-narrativo-y-cuento-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W02-la-novela-y-su-estructura-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W03-el-ensayo-y-sus-partes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W04-el-texto-argumentativo-y-la-plica-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W05-el-genero-dramatico-y-el-teatro-001-MASTERY-bundle.md"
+  ],
+  "CO|10|lengua|ABCDABCDABCD": [
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W06-el-lenguaje-y-la-comunicacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W07-la-oralidad-y-el-discurso-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W08-la-perspectiva-y-el-punto-de-vista-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W09-la-literatura-y-sus-generos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W10-la-literatura-colombiana-contemporanea-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W19-la-narracion-y-los-personajes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W20-la-literatura-y-la-oralidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W31-el-sentido-de-los-signos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W32-la-interpretacion-de-textos-no-verbales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W33-el-resumen-y-la-sintesis-textual-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W34-el-parrafo-y-la-oracion-compleja-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W35-la-coherencia-y-la-cohesion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W38-el-lenguaje-en-los-medios-de-comunicacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W39-la-obra-literaria-y-su-contexto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-10/2026/weekly/CO-LEN-10-2026-W40-la-lectura-y-la-escritura-creativa-001-MASTERY-bundle.md"
+  ],
+  "CO|11|lengua|ABCDABCDABCDABCDABCD": [
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W01-estructura-argumentativa-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W02-la-tesis-y-el-parrafo-cohesivo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W03-inferencia-y-suposicion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W04-el-texto-argumentativo-y-sus-tipos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W05-secuencia-y-progresion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W06-polifonia-y-modalizacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W07-el-resumen-y-la-sintesis-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W08-la-denotacion-y-la-connotacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W09-la-coherencia-y-la-cohesion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W10-el-texto-expositivo-y-sus-marcas-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W22-el-periodo-y-la-oracion-simple-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W23-el-periodo-compuesto-y-la-conjuncion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W24-la-oracion-compuesta-por-subordinacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W30-el-resumen-y-la-sintesis-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W31-la-parafrasis-y-el-recurso-citation-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W36-la-narracion-y-la-ficcion-novela-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W37-el-ensayo-argumentativo-colombiano-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W40-la-sintesis-del-curso-y-el-proyecto-de-vida-001-MASTERY-bundle.md"
+  ],
+  "CO|11|lengua|AAAAABBBBBCCCCCDDDDD": [
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W11-el-texto-narrativo-y-sus-marcas-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W12-la-plica-y-el-ensayo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W13-el-texto-descriptivo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W14-el-texto-explicativo-cientifico-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W15-la-concordancia-y-la-coherencia-gramatical-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W16-los-tipos-de-oracion-y-sus-terminos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W17-la-oracion-compuesta-y-sus-proposiciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W18-el-uso-de-la-puntuacion-en-el-texto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W19-la-intertextualidad-y-las-fuentes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-11/2026/weekly/CO-LEN-11-2026-W20-el-texto-digital-y-sus-generos-001-MASTERY-bundle.md"
+  ],
+  "CO|3|lengua|CDBCADBC": [
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W01-comprension-lectora-literal-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W02-secuencia-narrativa-cuento-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W03-fabula-moraleja-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W04-descripcion-de-personajes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W05-texto-informativo-corto-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W06-lectura-de-instrucciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W07-dialogo-y-conversacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W08-texto-continuo-y-discontinuo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W09-ortografia-silabas-y-sonidos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W10-valoracion-de-la-lectura-001-MASTERY-bundle.md"
+  ],
+  "CO|3|lengua|BDACDBCA": [
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W11-la-familia-en-los-textos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W12-el-cuerpo-y-las-partes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W13-los-alimentos-y-la-nutricion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W14-el-agua-y-su-uso-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W15-las-plantas-y-sus-partes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W16-los-transportes-y-la-ciudad-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W17-el-trabajo-y-los-oficios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W18-los-sentimientos-y-las-acciones-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W19-los-lugares-de-mi-barrio-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W20-mi-lectura-favorita-001-MASTERY-bundle.md"
+  ],
+  "CO|3|lengua|ABCDABCD": [
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W21-el-abc-letra-y-sonido-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W22-la-oracion-sus-partes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W23-el-punto-y-la-coma-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W24-plurales-y-singulares-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W25-familias-lexicales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W26-los-tiempos-verbales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W27-la-descripcion-de-ambientes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W28-el-cuento-y-sus-personajes-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W29-los-textos-informativos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-3/2026/weekly/CO-LEN-3-2026-W30-la-escritura-de-mi-cuento-001-MASTERY-bundle.md"
+  ],
+  "CO|4|lengua|ABCDCADB": [
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W01-la-familia-y-sus-roles-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W03-el-cuerpo-y-la-salud-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W04-los-alimentos-y-la-alimentacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W06-las-plantas-y-su-ciclo-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W07-los-transportes-y-la-ciudad-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W09-las-emociones-y-los-sentimientos-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-4/2026/weekly/CO-LEN-4-2026-W10-mi-barrio-y-mi-comunidad-001-MASTERY-bundle.md"
+  ],
+  "CO|5|lengua|ACBDACBD": [
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W11-pronombres-personales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W12-adverbios-tiempo-lugar-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W13-conectores-causa-consecuencia-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W14-texto-instructivo-receta-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W15-comprension-lectora-inferencial-001-MASTERY-bundle.md"
+  ],
+  "CO|5|lengua|ABCDABCD": [
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W16-poema-rima-verso-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W20-resumen-ideas-principales-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W21-gentilicios-colombia-regiones-001-MASTERY-bundle.md"
+  ],
+  "CO|5|lengua|BBCDABCD": [
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W25-texto-dramatico-teatro-escolar-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W27-afiche-cartel-mensaje-visual-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-5/2026/weekly/CO-LEN-5-2026-W28-entrevista-preguntas-respuestas-001-MASTERY-bundle.md"
+  ],
+  "CO|8|lengua|ABCDABCDABCD": [
+    "questions_data/colombia/lengua/grado-8/2026/weekly/CO-LEN-8-2026-W25-generaciones-escritoras-latinoamericanas-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-8/2026/weekly/CO-LEN-8-2026-W31-la-literatura-fantastica-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-8/2026/weekly/CO-LEN-8-2026-W40-la-literatura-contemporanea-001-MASTERY-bundle.md"
+  ],
+  "CO|9|lengua|ABCDABCDABCD": [
+    "questions_data/colombia/lengua/grado-9/2026/weekly/CO-LEN-9-2026-W01-generos-literarios-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-9/2026/weekly/CO-LEN-9-2026-W02-genero-narrativo-y-cuento-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-9/2026/weekly/CO-LEN-9-2026-W03-genero-lirico-y-poesia-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-9/2026/weekly/CO-LEN-9-2026-W04-genero-dramatico-y-teatro-001-MASTERY-bundle.md",
+    "questions_data/colombia/lengua/grado-9/2026/weekly/CO-LEN-9-2026-W05-el-genero-epistolar-001-MASTERY-bundle.md"
+  ],
+  "CO|10|matematicas|ACBDACBDACBD": [
+    "questions_data/colombia/matematicas/grado-10/2026/weekly/CO-MAT-10-2026-W13-medidas-tendencia-central-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-10/2026/weekly/CO-MAT-10-2026-W14-medidas-posicion-dispersion-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-10/2026/weekly/CO-MAT-10-2026-W15-probabilidad-clasica-laplace-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-10/2026/weekly/CO-MAT-10-2026-W16-probabilidad-condicional-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-10/2026/weekly/CO-MAT-10-2026-W17-tecnicas-conteo-permutaciones-001-MASTERY-bundle.md"
+  ],
+  "CO|3|matematicas|ACBDDBAC": [
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W05-fracciones-basicas-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W06-figuras-geometricas-perimetro-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W07-medicion-longitud-tiempo-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W08-problemas-suma-resta-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W09-datos-tablas-graficas-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W10-numeros-decimales-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W11-simbolos-igual-diferente-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W12-estimacion-aproximacion-001-MASTERY-bundle.md"
+  ],
+  "CO|3|matematicas|ACDBACBD": [
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W34-fracciones-equivalentes-y-simplificacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W36-problemas-de-adicion-y-sustraccion-con-decimales-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-3/2026/weekly/CO-MAT-3-2026-W37-multiplicacion-y-division-combinadas-001-MASTERY-bundle.md"
+  ],
+  "CO|8|matematicas|BDACBDACBDAC": [
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W05-productos-notables-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W07-fracciones-algebraicas-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W08-plano-cartesiano-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W09-semejanza-triangulos-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W11-medidas-tendencia-central-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W12-numeros-irracionales-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W13-teorema-pitagoras-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W14-volumen-prismas-cilindros-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W15-funcion-lineal-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W16-pendiente-ecuacion-recta-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W17-sistemas-ecuaciones-2x2-001-MASTERY-bundle.md"
+  ],
+  "CO|8|matematicas|ABCDABCDABCD": [
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W18-probabilidad-compuesta-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W19-tecnicas-conteo-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W20-proporcionalidad-inversa-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W21-notacion-cientifica-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W22-longitud-area-circulo-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W23-congruencia-triangulos-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W25-area-superficie-solidos-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W26-volumen-piramides-esferas-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W27-funcion-afin-aplicaciones-001-MASTERY-bundle.md"
+  ],
+  "CO|8|matematicas|CADBCADBCADB": [
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W28-inecuaciones-lineales-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W29-regla-tres-compuesta-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W30-porcentajes-interes-simple-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W31-medidas-dispersion-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-8/2026/weekly/CO-MAT-8-2026-W32-operaciones-numeros-reales-001-MASTERY-bundle.md"
+  ],
+  "CO|9|matematicas|ACBDACBDACBD": [
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W13-notacion-cientifica-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W14-poligonos-area-perimetro-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W15-semejanza-triangulos-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W16-funcion-logaritmica-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W17-ecuaciones-racionales-001-MASTERY-bundle.md"
+  ],
+  "CO|9|matematicas|ABCDABCDABCD": [
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W18-medidas-tendencia-central-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W19-probabilidad-condicional-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W20-geometria-analitica-distancia-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W21-factorizacion-casos-especiales-001-MASTERY-bundle.md",
+    "questions_data/colombia/matematicas/grado-9/2026/weekly/CO-MAT-9-2026-W22-proporcionalidad-inversa-001-MASTERY-bundle.md"
+  ],
+  "CO|3|sociales-ciudadanas|ABABCDCD": [
+    "questions_data/colombia/sociales-ciudadanas/grado-3/2026/weekly/CO-SOC-3-2026-W01-la-familia-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-3/2026/weekly/CO-SOC-3-2026-W02-mi-casa-y-mi-cuarto-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-3/2026/weekly/CO-SOC-3-2026-W03-el-colegio-y-los-companeros-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-3/2026/weekly/CO-SOC-3-2026-W04-mi-barrio-y-la-comunidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-3/2026/weekly/CO-SOC-3-2026-W05-las-normas-y-los-acuerdos-001-MASTERY-bundle.md"
+  ],
+  "CO|5|sociales-ciudadanas|ACBDACBD": [
+    "questions_data/colombia/sociales-ciudadanas/grado-5/2026/weekly/CO-SOC-5-2026-W21-epoca-colonia-nueva-granada-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-5/2026/weekly/CO-SOC-5-2026-W22-ramas-poder-publico-colombia-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-5/2026/weekly/CO-SOC-5-2026-W24-riesgos-naturales-prevencion-desastres-001-MASTERY-bundle.md"
+  ],
+  "CO|6|sociales-ciudadanas|ABCABCCCBA": [
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W25-la-igualdad-de-genero-y-la-diversidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W26-el-agua-como-recurso-y-su-cuidado-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W27-el-transporte-y-la-movilidad-urbana-001-MASTERY-bundle.md"
+  ],
+  "CO|6|sociales-ciudadanas|ABCDABCDAB": [
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W28-los-parques-y-el-espacio-publico-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W29-el-agua-y-el-servicio-publico-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W30-la-salud-y-la-prevencion-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W31-el-deporte-y-la-convivencia-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W32-las-redes-sociales-y-la-ciudadania-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W33-la-tributacion-y-los-servicios-publicos-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W34-el-consumidor-y-sus-derechos-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W35-los-ninos-y-sus-derechos-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W36-la-memoria-colectiva-y-los-sitios-de-memoria-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W37-la-ciudadania-participativa-y-el-presupuesto-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W38-la-movilidad-urbana-y-sostenibilidad-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W39-la-convivencia-y-la-resolucion-de-conflictos-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-6/2026/weekly/CO-SOC-6-2026-W40-la-ciudadania-y-los-derechos-humanos-001-MASTERY-bundle.md"
+  ],
+  "CO|9|sociales_ciudadanas|ABCDABCDABCD": [
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W01-constitucion-nacion-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W02-sistema-politico-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W09-la-participacion-ciudadana-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W26-las-comunidades-afrocolombianas-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W29-el-espacio-urbano-y-el-espacio-rural-001-MASTERY-bundle.md"
+  ],
+  "CO|9|sociales_ciudadanas|ABCDAABCBADC": [
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W34-la-corrupcion-y-el-control-fiscal-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W36-las-relaciones-internacionales-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W37-la-congestion-y-el-transporte-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W38-la-democracia-y-los-medios-001-MASTERY-bundle.md",
+    "questions_data/colombia/sociales-ciudadanas/grado-9/2026/weekly/CO-SOC-9-2026-W40-la-ciudadania-y-los-derechos-001-MASTERY-bundle.md"
+  ],
+  "CR|11|estudios-sociales|ADBCADBCADBCADBCADBC": [
+    "questions_data/costarica/estudios-sociales/grado-11/2026/weekly/CR-SOC-11-2026-W02-tema-w02-001-MASTERY-bundle.md",
+    "questions_data/costarica/estudios-sociales/grado-11/2026/weekly/CR-SOC-11-2026-W06-tema-w06-001-MASTERY-bundle.md",
+    "questions_data/costarica/estudios-sociales/grado-11/2026/weekly/CR-SOC-11-2026-W10-tema-w10-001-MASTERY-bundle.md"
+  ],
+  "CR|11|ingles|ACBDABDACBCADBCDBCAD": [
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W22-relative-clauses-advanced-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W23-participle-clauses-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W27-inversion-subject-auxiliary-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W28-comparatives-superlatives-advanced-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W29-writing-paragraph-structure-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W30-writing-opinion-essay-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W31-listening-comprehension-main-ideas-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W32-listening-details-inference-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W34-writing-formal-letter-email-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W36-writing-argumentative-essay-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W37-integrated-skills-practice-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W38-mock-exam-reading-grammar-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W39-mock-exam-writing-listening-001-MASTERY-bundle.md",
+    "questions_data/costarica/ingles/grado-11/2026/weekly/CR-ING-11-2026-W40-final-review-english-001-MASTERY-bundle.md"
+  ],
+  "EC|11|ingles|ADBCACDBABDCACBDABDC": [
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W03-stative-verbs-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W04-past-simple-regular-irregular-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W05-past-continuous-interrupted-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W07-present-perfect-continuous-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W08-past-perfect-sequences-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W09-future-will-be-going-to-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W11-modal-verbs-ability-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W12-modal-verbs-obligation-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W13-modal-verbs-probability-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W15-conditionals-type-2-3-001-MASTERY-bundle.md",
+    "questions_data/ecuador/ingles/grado-11/2026/weekly/EC-ING-11-2026-W16-wish-if-only-001-MASTERY-bundle.md"
+  ],
+  "SV|11|ciencias-naturales|DABBCCDCDAABCDBBCAAD": [
+    "questions_data/el-salvador/ciencias-naturales/grado-11/2026/weekly/SV-CIE-11-2026-W02-celula-estructura-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ciencias-naturales/grado-11/2026/weekly/SV-CIE-11-2026-W15-biodiversidad-sv-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ciencias-naturales/grado-11/2026/weekly/SV-CIE-11-2026-W31-magnetismo-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ciencias-naturales/grado-11/2026/weekly/SV-CIE-11-2026-W39-investigacion-cientifica-001-MASTERY-bundle.md"
+  ],
+  "SV|11|ingles|ABCDDCBABDCADBACBACD": [
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W02-present-continuous-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W04-past-continuous-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W07-future-will-going-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W10-conditionals-0-1-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W12-passive-voice-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W15-comparatives-superlatives-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W19-prepositions-place-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W23-vocabulary-school-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W24-vocabulary-work-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W27-vocabulary-health-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W28-reading-main-idea-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W31-reading-vocabulary-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W32-reading-purpose-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W35-speaking-opinions-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W36-writing-paragraphs-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W39-writing-stories-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/ingles/grado-11/2026/weekly/SV-ING-11-2026-W40-integrated-skills-001-MASTERY-bundle.md"
+  ],
+  "SV|11|sociales|ABCDABCDABCDABCDABCD": [
+    "questions_data/el-salvador/sociales/grado-11/2026/weekly/SV-SOC-11-2026-W07-independencia-ca-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/sociales/grado-11/2026/weekly/SV-SOC-11-2026-W08-federal-ca-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/sociales/grado-11/2026/weekly/SV-SOC-11-2026-W11-dictadura-martinez-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/sociales/grado-11/2026/weekly/SV-SOC-11-2026-W13-acuerdos-paz-001-MASTERY-bundle.md",
+    "questions_data/el-salvador/sociales/grado-11/2026/weekly/SV-SOC-11-2026-W14-democracia-sv-001-MASTERY-bundle.md"
+  ],
+  "HN|11|ingles|ABCDABCDABCDABCDABCD": [
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W01-verb-tenses-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W02-future-tenses-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W03-present-perfect-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W04-past-perfect-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W05-repaso-p1-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W06-conditionals-0-1-2-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W07-conditionals-3-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W08-wishes-regrets-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W09-reported-speech-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W10-reported-speech-questions-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W11-passive-present-past-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W12-passive-perfect-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W13-causative-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W14-relative-clauses-defining-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W15-repaso-p2-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W16-relative-clauses-non-defining-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W17-participle-clauses-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W19-connectors-cause-result-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W20-phrasal-verbs-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W21-modals-ability-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W22-modals-deduction-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W23-modals-past-deduction-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W24-subjunctive-mood-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W26-inversion-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W27-cleft-sentences-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W28-comparatives-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W31-reading-main-ideas-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W33-reading-academic-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W35-repaso-p4-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W36-writing-opinion-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W37-writing-argumentative-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W38-writing-formal-email-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W39-mock-exam-001-MASTERY-bundle.md",
+    "questions_data/honduras/ingles/grado-11/2026/weekly/HN-ING-11-2026-W40-final-review-001-MASTERY-bundle.md"
+  ],
+  "MX|11|ciencias-naturales|ABCDABCDABCDABCDABCD": [
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W01-biologia-celular-estructura-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W02-biologia-celular-transporte-metabolismo-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W03-mecanica-clasica-cinematica-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W04-mecanica-clasica-leyes-newton-dinamica-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W05-mecanica-clasica-trabajo-energia-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W06-quimica-estructura-atomica-tabla-periodica-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W07-enlace-quimico-interacciones-intermoleculares-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W08-quimica-reacciones-estequiometria-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W09-termodinamica-basica-calor-temperatura-leyes-001-MASTERY-bundle.md",
+    "questions_data/mexico/ciencias-naturales/grado-11/2026/weekly/MX-CIE-11-2026-W10-ecologia-sistemas-biologicos-ecosistemas-001-MASTERY-bundle.md"
+  ],
+  "PE|11|ingles|ABCDABCDABCDABCDABCD": [
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W02-present-continuous-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W03-past-simple-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W04-past-continuous-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W06-past-perfect-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W07-future-forms-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W08-modal-verbs-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W10-passive-voice-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W11-reported-speech-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W12-relative-clauses-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W15-quantifiers-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W16-articles-determiners-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W18-prepositions-place-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W19-prepositions-movement-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W20-phrasal-verbs-basic-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W31-reading-main-idea-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W32-reading-detail-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W33-reading-inference-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W34-reading-purpose-tone-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W35-writing-descriptive-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W37-writing-opinion-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W39-listening-comprehension-001-MASTERY-bundle.md",
+    "questions_data/peru/ingles/grado-11/2026/weekly/PE-ING-11-2026-W40-speaking-situations-001-MASTERY-bundle.md"
+  ],
+  "PR|11|ciencias|CDABCDABCDABCDABCDAB": [
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W01-tema-w01-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W05-tema-w05-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W09-tema-w09-001-MASTERY-bundle.md"
+  ],
+  "PR|11|ciencias|DABCDABCDABCDABCDABC": [
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W02-tema-w02-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W06-tema-w06-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ciencias/grado-11/2026/weekly/PR-CIE-11-2026-W10-tema-w10-001-MASTERY-bundle.md"
+  ],
+  "PR|11|ingles|ACBDDBACCADBBDCAADBC": [
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W01-present-simple-third-person-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W02-present-continuous-actions-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W03-past-simple-regular-irregular-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W05-present-perfect-experiences-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W06-present-perfect-continuous-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W07-past-perfect-sequences-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W09-future-continuous-perfect-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W11-modal-verbs-obligation-prohibition-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W13-conditionals-type-0-1-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W14-conditionals-type-2-3-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W15-passive-voice-present-past-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W17-reported-speech-statements-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W18-reported-speech-questions-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W19-relative-clauses-defining-001-MASTERY-bundle.md"
+  ],
+  "PR|11|ingles|ABCDABCDABCDABCDABCD": [
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W20-relative-clauses-non-defining-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W21-comparatives-equality-superiority-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W22-superlatives-irregular-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W23-quantifiers-some-any-much-many-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W24-articles-a-an-the-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W25-prepositions-time-at-in-on-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W26-prepositions-place-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W27-prepositions-movement-direction-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W28-phrasal-verbs-basic-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W29-phrasal-verbs-separable-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W30-collocations-common-verb-noun-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W37-reading-comprehension-main-idea-001-MASTERY-bundle.md",
+    "questions_data/puerto-rico/ingles/grado-11/2026/weekly/PR-ING-11-2026-W38-reading-detail-inference-001-MASTERY-bundle.md"
+  ],
+  "ES|11|ingles|ABCDABCDABCDABCDABCD": [
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W01-present-simple-continuous-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W02-past-simple-continuous-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W03-present-perfect-past-perfect-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W04-future-forms-will-going-to-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W05-modal-verbs-ability-obligation-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W06-modal-verbs-probability-deduction-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W07-conditionals-zero-first-second-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W08-conditionals-third-mixed-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W09-passive-voice-all-tenses-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W10-causative-have-get-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W11-reported-speech-statements-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W12-reported-speech-questions-commands-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W13-relative-clauses-defining-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W14-comparatives-superlatives-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W15-articles-determiners-quantifiers-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W16-prepositions-time-place-001-MASTERY-bundle.md"
+  ],
+  "ES|11|ingles|BDACACDBCADBDCBACDAB": [
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W17-prepositions-movement-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W18-phrasal-verbs-common-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W26-reading-main-idea-purpose-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W27-reading-detail-information-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W28-reading-inference-conclusion-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W29-reading-opinion-tone-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W30-reading-structure-organization-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W31-listening-comprehension-ideas-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W32-listening-detail-inference-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W33-speaking-opinions-discussion-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W34-speaking-dialogues-roleplays-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W35-writing-descriptive-paragraphs-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W36-writing-narrative-essays-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W37-writing-opinion-argumentative-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W38-writing-formal-informal-emails-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W39-writing-summaries-reports-001-MASTERY-bundle.md",
+    "questions_data/spain/ingles/grado-11/2026/weekly/ES-ING-11-2026-W40-integrated-skills-multitask-001-MASTERY-bundle.md"
+  ]
+}

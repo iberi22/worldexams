@@ -116,9 +116,9 @@ Un equipo debe responder al Texto 1, que afirma que ampliar el parque es barato 
 - [ ] B) «Ningún parque sirve para nada, y por eso no se debe construir ninguno».
   <!-- feedback: Incorrecto. Generaliza sin fundamento y abandona la posición propia del Texto 2, que es más matizada. -->
 - [ ] C) «Estoy de acuerdo con el Texto 1, así que no hace falta seguir discutiendo».
-  <!-- feedback: Correcto: acepta el punto válido del contrario y responde con una objeción concreta que el argumento contrario no contempla. -->
-- [x] D) «Es cierto que el parque es barato frente a otras obras, pero ese costo reaparece cada año en mantenimiento y eso el texto no lo considera».
   <!-- feedback: Incorrecto. Cedir la discusión por acuerdo no es una contraargumentación: es abandonar el debate. -->
+- [x] D) «Es cierto que el parque es barato frente a otras obras, pero ese costo reaparece cada año en mantenimiento y eso el texto no lo considera».
+  <!-- feedback: Correcto: acepta el punto válido del contrario y responde con una objeción concreta que el argumento contrario no contempla. -->
 
 ### Explicacion Pedagogica
 Una contraargumentación efectiva concede lo que el otro tiene en razón y objeta lo que le falta. En este caso, la respuesta reconoce que la obra es barata en el momento de construir y señala el costo recurrente que el Texto 1 deja fuera. Esa estructura, conceder y objetar, es la más fuerte dentro de un debate. Reconocerla ayuda a construir respuestas que el otro no pueda descartar fácilmente. En noveno grado, es la técnica que más peso tiene en una discusión con argumentos.
@@ -300,9 +300,9 @@ Informe para el concejo: ¿qué conclusión sería honesta y útil para un gobie
 - [ ] B) «No hay que construir el parque», porque el Texto 2 demuestra que toda obra pública está condenada a abandonarse».
   <!-- feedback: Incorrecto. El Texto 2 no dice que toda obra fracase, y además generaliza de más. -->
 - [ ] C) «El debate no sirve para nada», porque dos posiciones opuestas nunca pueden ponerse de acuerdo en nada.
-  <!-- feedback: Correcto: la conclusión recoge lo que ambas posiciones aportan y propone decidir con un criterio verificable. -->
+  <!-- feedback: Incorrecto. Declarar que el debate no sirve niega lo que las dos posiciones sí aportan, y no le deja al concejo un criterio para decidir. -->
 - [x] D) «Ambas posiciones identifican una condición: la obra funciona si incluye un plan de mantenimiento definido y evaluado».
-  <!-- feedback: Incorrecto. Las posiciones coinciden en que el espacio público importa, y ese acuerdo es un punto de partida. -->
+  <!-- feedback: Correcto: la conclusión recoge lo que ambas posiciones aportan y propone decidir con un criterio verificable. -->
 
 ### Explicacion Pedagogica
 Un informe sobre un debate debe recoger lo que las posiciones aportan, no declarar un ganador por simpatía. En este caso, ambas coinciden en el valor del espacio público y discrepan en la condición para sostenerlo. Esa convergencia permite formular una decisión con un criterio claro y verificable. Reconocerlo evita el falso dilema y mejora la calidad del informe. En noveno grado, esa capacidad de síntesis es lo que convierte una discusión en un aporte concreto.

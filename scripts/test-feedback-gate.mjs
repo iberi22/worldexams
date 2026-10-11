@@ -108,8 +108,14 @@ const cases = [
 
 // Filler options that must themselves be valid, so a failing case fails on the
 // option under test and not on collateral damage.
+// A carries no verdict token on purpose: it is the filler that lands on the
+// option under test whenever a case tests a WRONG option, and real content never
+// answers a distractor with a bare "Correcto." verdict. Giving the filler one
+// would make every such case a two-positive question, which the answer-key
+// rules (#1653) rightly reject for a reason that has nothing to do with the
+// feedback quality the case is here to test.
 const FILLER = {
-  A: 'Correcto. La potencia es el resultado de multiplicar la base.',
+  A: 'La potencia es el resultado de multiplicar la base por si misma.',
   B: 'Incorrecto. "nunca" negates the verb, it does not indicate frequency.',
   C: 'Incorrecto. "siempre" means every time, not never.',
   D: 'Incorrecto. Exponentes distintos producen potencias de base distinta.',
@@ -880,7 +886,7 @@ try {
 // mid-option writes two rows with the same letter, and every other rule passes:
 // four rows, four feedbacks, one correct marker. The strings here are the exact
 // shapes found in the corpus (CABC, BABC, ABDD).
-const buildWithLetters = (letters) => {
+const buildWithLetters = (letters, correctLetter = 'A') => {
   const ctx = 'Estudiantes de San Miguel discuten la constitucion de 1821.';
   const stemLine = 'Que principio inspira esa constitucion?';
   const options = [
@@ -889,7 +895,7 @@ const buildWithLetters = (letters) => {
     { text: 'El comercio sin tasa', fb: 'Incorrecto. Esa exoneracion pertenece a otras leyes posteriores.' },
     { text: 'La union con Guatemala', fb: 'Incorrecto. La union con Guatemala es un episodio posterior.' },
   ];
-  const q = (n, ctxLine, ls) =>
+  const q = (n, ctxLine, ls, correct = 'A') =>
     `## Question ${n} [D3-D4]\n` +
     `**ID:** ${ID}-v${n}\n` +
     `**Bloom:** Apply\n` +
@@ -900,12 +906,16 @@ const buildWithLetters = (letters) => {
     `### Opciones\n` +
     options
       .map((o, i) => {
-        const mark = ls[i] === 'A' ? 'x' : ' ';
+        // The marker follows the option that says "Correcto.", not a fixed
+        // letter: permuting the labels while keeping the marker on the old
+        // letter would leave the feedbacks describing a different answer, which
+        // the answer-key rules rightly reject.
+        const mark = ls[i] === correct ? 'x' : ' ';
         return `- [${mark}] ${ls[i]}) ${o.text} <!-- feedback: ${o.fb} -->`;
       })
       .join('\n') +
     `\n\n### Explicacion Pedagogica\nExplicacion pedagogica de la pregunta ${n}, con suficiente longitud para superar el umbral de detalle exigido por el validador de calidad.\n\n`;
-  return `${LABEL_FM}\n\n${[q(1, ctx, letters.slice(0, 4)), q(2, 'Otra aula trabaja la misma fecha.', 'ABCD'), ...FILLERS].join('\n\n')}`;
+  return `${LABEL_FM}\n\n${[q(1, ctx, letters.slice(0, 4), correctLetter), q(2, 'Otra aula trabaja la misma fecha.', 'ABCD'), ...FILLERS].join('\n\n')}`;
 };
 
 const optionLetterCases = [
@@ -935,13 +945,13 @@ const optionLetterCases = [
     name: 'options in a different order (D C B A) are accepted: permutation is not a defect',
     expect: 'accept',
     rule: /option-letters/,
-    buildContent: () => buildWithLetters('DCBA'),
+    buildContent: () => buildWithLetters('DCBA', 'D'),
   },
   {
     name: 'options in a different order (B A C D) are accepted: permutation is not a defect',
     expect: 'accept',
     rule: /option-letters/,
-    buildContent: () => buildWithLetters('BACD'),
+    buildContent: () => buildWithLetters('BACD', 'B'),
   },
 ];
 
