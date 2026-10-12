@@ -18,13 +18,13 @@
     "@astrojs/svelte": "^9.0.0",
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.3.8",
-    "cobe": "^0.6.3",
+    "cobe": "^2.0.1",
     "svelte": "^5.55.7",
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.57.0",
-    "@types/node": "^20.10.0",
-    "typescript": "^5.9.3"
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
   }
 }
