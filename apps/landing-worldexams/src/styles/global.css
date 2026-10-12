@@ -1,8 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@source "../components/**/*.{astro,svelte}";
+@source "../pages/**/*.astro";
+@source "../layouts/**/*.astro";
+
+@theme {
+  --color-bg-dark: #0a0a0f;
+  --color-bg-card: #12121a;
+  --color-text-primary: #F5F5DC;
+  --color-text-secondary: #8a8a9a;
+  --color-accent-cyan: #00FFFF;
+  --color-accent-gold: #FCD116;
+  --font-space: 'Space Grotesk', sans-serif;
+}
 
 @layer base {
   :root {
