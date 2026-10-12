@@ -26,10 +26,10 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 🟢 Setup Node.js 22
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: 'npm'
@@ -70,10 +70,10 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 🟢 Setup Node.js 22
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
 
@@ -92,7 +92,7 @@ jobs:
         run: npm run check
 
       - name: ⚡ Deploy Worker to Cloudflare
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -110,10 +110,10 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: 🟢 Setup Node.js 22
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: 'npm'
@@ -137,7 +137,7 @@ jobs:
         run: node scripts/pre-deploy-check.js
 
       - name: ⚡ Deploy SaberParaTodos SSR Worker
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
@@ -155,7 +155,7 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # 2026-08-29: el smoke anterior usaba /v1/health (404: la ruta real del
       # worker es /health) y silenciaba fallos con `|| echo "..."` → job siempre
@@ -174,7 +174,7 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 

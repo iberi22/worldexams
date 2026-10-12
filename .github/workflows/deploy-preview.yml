@@ -26,12 +26,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: 'npm'
@@ -111,7 +111,7 @@ jobs:
         run: node saberparatodos/scripts/pre-deploy-check.js
 
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: preview-build
           path: |
@@ -131,10 +131,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Download Build Artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: preview-build
           path: saberparatodos
@@ -177,10 +177,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
 
@@ -221,7 +221,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Resolve preview URL
         id: resolve
