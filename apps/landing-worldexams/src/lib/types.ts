@@ -32,7 +32,8 @@ export interface Question {
   subject: string;
   topic: string;
   grade?: number;
-  difficulty?: number;
+  // Difficulty label produced by bundleParser (Low/Medium/High).
+  difficulty?: string;
 }
 
 /**
