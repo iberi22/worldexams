@@ -1,11 +1,11 @@
 import { defineConfig } from 'astro/config';
 import svelte from '@astrojs/svelte';
-import tailwind from '@astrojs/tailwind';
+import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://world-exams.github.io/',
-  integrations: [svelte(), tailwind(), sitemap()],
+  integrations: [svelte(), sitemap()],
   output: 'static',
   server: {
     port: 8000,
@@ -15,6 +15,7 @@ export default defineConfig({
     port: 8000,
   },
   vite: {
+    plugins: [tailwindcss()],
     server: {
       port: 8000,
       host: true,

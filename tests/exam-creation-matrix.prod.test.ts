@@ -58,7 +58,8 @@ describe("Production exam creation matrix", () => {
       expect(body.is_guest).toBe(true);
       expect(Array.isArray(body.questions)).toBe(true);
       expect(body.questions.length).toBeGreaterThan(0);
-      expect(body.questions.length).toBeLessThanOrEqual(10);
+      // Guest page size is 20 (apps/worldexams-api/src/index.ts default/max limit).
+      expect(body.questions.length).toBeLessThanOrEqual(20);
     });
 
     it(`same-origin proxy combo G${combo.grade} ${combo.subject} returns guest questions`, async ({ request, browserName }) => {

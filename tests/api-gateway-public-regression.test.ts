@@ -29,7 +29,8 @@ describe("API gateway public regression", () => {
     expect(body.success).toBe(true);
     expect(Array.isArray(body.questions)).toBe(true);
     expect(body.questions.length).toBeGreaterThanOrEqual(0);
-    expect(body.questions.length).toBeLessThanOrEqual(10);
+    // Guest page size is 20 (apps/worldexams-api/src/index.ts default/max limit).
+    expect(body.questions.length).toBeLessThanOrEqual(20);
     expect(body.is_guest).toBe(true);
   });
 
