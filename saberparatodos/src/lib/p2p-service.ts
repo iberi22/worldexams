@@ -97,7 +97,9 @@ export class P2PService {
     // Trystero Supabase strategy: `appId` MUST be your Supabase project URL
     const config = {
         appId: sbUrl,
-        supabaseKey: sbKey,
+        relayConfig: {
+            supabaseKey: sbKey
+        },
         rtcConfig: {
             iceServers: [
                 { urls: 'stun:stun.l.google.com:19302' },
@@ -165,7 +167,9 @@ export class P2PService {
     // Trystero Supabase strategy: `appId` MUST be your Supabase project URL
     const config = {
         appId: sbUrl,
-        supabaseKey: sbKey,
+        relayConfig: {
+            supabaseKey: sbKey
+        },
         rtcConfig: {
             iceServers: [
                 { urls: 'stun:stun.l.google.com:19302' },

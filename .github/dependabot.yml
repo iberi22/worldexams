@@ -6,6 +6,12 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    # 2026-10-13 deps integration: typescript >=6 is blocked by
+    # @typescript-eslint's peer (typescript >=4.8.4 <6.1.0) — ERESOLVE on
+    # `npm ci`. Revisit when typescript-eslint supports TS >=6.
+    ignore:
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     # One grouped PR per ecosystem instead of one per bump.
     open-pull-requests-limit: 2
     labels:
@@ -26,6 +32,10 @@ updates:
     directory: "/apps/landing-worldexams"
     schedule:
       interval: "monthly"
+    # 2026-10-13 deps integration: typescript >=6 blocked (see "/" entry).
+    ignore:
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     # One grouped PR per ecosystem instead of one per bump.
     open-pull-requests-limit: 2
     labels:
@@ -46,6 +56,10 @@ updates:
     directory: "/apps/worldexams-api"
     schedule:
       interval: "monthly"
+    # 2026-10-13 deps integration: typescript >=6 blocked (see "/" entry).
+    ignore:
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     # One grouped PR per ecosystem instead of one per bump.
     open-pull-requests-limit: 2
     labels:
@@ -66,6 +80,14 @@ updates:
     directory: "/saberparatodos"
     schedule:
       interval: "monthly"
+    # 2026-10-13 deps integration: typescript >=6 blocked (see "/" entry);
+    # @huggingface/transformers v4 needs revalidation of the PDF embedding
+    # pipeline against real models before adoption.
+    ignore:
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "@huggingface/transformers"
+        update-types: ["version-update:semver-major"]
     # One grouped PR per ecosystem instead of one per bump.
     open-pull-requests-limit: 2
     labels:
@@ -106,6 +128,10 @@ updates:
     directory: "/tests"
     schedule:
       interval: "monthly"
+    # 2026-10-13 deps integration: typescript >=6 blocked (see "/" entry).
+    ignore:
+      - dependency-name: "typescript"
+        update-types: ["version-update:semver-major"]
     # One grouped PR per ecosystem instead of one per bump.
     open-pull-requests-limit: 2
     labels:
