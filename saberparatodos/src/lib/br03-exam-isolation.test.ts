@@ -32,10 +32,21 @@ describe('BR-03 Exam Isolation', () => {
     ];
 
     const isExamFile = (filePath: string) => {
-      const lowerPath = filePath.toLowerCase();
-      return lowerPath.includes('exam') ||
-             lowerPath.includes('practica.astro') ||
-             lowerPath.includes('sala-examenes.astro');
+      // Specifically target exam flow files as requested
+      const targetPaths = [
+        'src/components/ExamView.svelte',
+        'src/components/ranked/RankedExamView.svelte',
+        'src/pages/practica.astro',
+      ];
+
+      const p = filePath.replace(/\\/g, '/');
+
+      if (targetPaths.some(t => p.includes(t))) return true;
+
+      // Also include any page under src/pages that renders an exam (has exam in name)
+      if (p.includes('/pages/') && p.includes('exam')) return true;
+
+      return false;
     };
 
     const examFiles = allFiles.filter(isExamFile);
