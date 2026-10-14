@@ -1,7 +1,8 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import FlashlightCard from './FlashlightCard.svelte';
-  // import PartyPlayer from './PartyPlayer.svelte'; // TODO: Implement PartyPlayer component
+  import PartyPlayer from './PartyPlayer.svelte';
+  import { roomState } from '../modules/exam-room/stores/roomState.svelte.ts';
 
   let viewState = $state<'input' | 'playing'>('input');
   let partyCode = $state<string>('');
@@ -62,9 +63,32 @@
       </div>
     </div>
   {:else}
-    <div class="text-center p-8">
-      <p class="text-emerald-400 text-xl">Party Mode coming soon...</p>
-      <p class="opacity-60 mt-2">Código: {partyCode}</p>
+    <div class="w-full max-w-4xl animate-fade-in-up">
+      <div class="text-center mb-8">
+        <h2 class="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-500 mb-2">
+          SALA: {partyCode}
+        </h2>
+        <p class="text-sm uppercase tracking-widest opacity-60">Jugadores conectados</p>
+      </div>
+
+      <div class="grid grid-cols-1 gap-4">
+        {#each roomState.players as player}
+          <PartyPlayer
+            partyCode={partyCode}
+            studentName={player.name}
+            studentId={player.id}
+            autoJoin={true}
+            isHost={true}
+          />
+        {/each}
+
+        {#if roomState.players.length === 0}
+          <div class="text-center p-12 bg-white/5 rounded-2xl border border-white/10">
+            <div class="inline-block w-12 h-12 border-4 border-emerald-500 border-t-transparent rounded-full animate-spin mb-6"></div>
+            <p class="opacity-60 text-lg">Esperando a que se unan jugadores...</p>
+          </div>
+        {/if}
+      </div>
     </div>
   {/if}
 </div>
