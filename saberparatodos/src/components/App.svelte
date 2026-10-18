@@ -50,6 +50,7 @@
   import { getTenantExperience } from '../config/tenant-experience';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
+  import OnboardingFlow from './OnboardingFlow.svelte';
   import OfflineProfile from './OfflineProfile.svelte';
   import AcademicBentoGrid from './AcademicBentoGrid.svelte';
   import IcfesExamHub from './exam-hub/IcfesExamHub.svelte'; // 🆕 New Component
@@ -949,6 +950,9 @@
 
 <div class="min-h-screen bg-[#121212] text-[#F5F5DC] font-mono selection:bg-emerald-500/30 overflow-x-hidden">
   <LocalModeNotice />
+  {#if typeof localStorage !== 'undefined' && localStorage.getItem('worldexams_onboarding_seen') !== 'true'}
+    <OnboardingFlow />
+  {/if}
 
   {#if showLocalReports}
     <LocalReportsView
