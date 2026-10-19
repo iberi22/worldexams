@@ -1,7 +1,7 @@
 <script lang="ts">
   import { onMount, tick } from 'svelte';
   import { fade, fly } from 'svelte/transition';
-  import { t } from '../lib/i18n';
+  import { t, type I18nLang } from '../lib/i18n';
 
   interface Step {
     id: string;
@@ -10,36 +10,41 @@
     href?: string;
   }
 
-  let { ondismiss }: { ondismiss?: () => void } = $props();
+  // Clave de localStorage que marca el onboarding como visto. App.svelte la importa.
+  export const ONBOARDING_SEEN_KEY = 'worldexams_onboarding_seen';
 
-  const steps: Step[] = [
+  // Idioma de la UI. Lo decide App.svelte a partir de runtimeCountry.language.
+  // Fuera de alcance: el tenant en-US no tiene catálogo; cae a 'es' sin error.
+  let { ondismiss, lang = 'es' }: { ondismiss?: () => void; lang?: I18nLang } = $props();
+
+  const steps: Step[] = $derived([
     {
       id: 'step-1',
-      title: t('onboarding.step1.title'),
-      body: t('onboarding.step1.body')
+      title: t('onboarding.step1.title', lang),
+      body: t('onboarding.step1.body', lang)
     },
     {
       id: 'step-2',
-      title: t('onboarding.step2.title'),
-      body: t('onboarding.step2.body')
+      title: t('onboarding.step2.title', lang),
+      body: t('onboarding.step2.body', lang)
     },
     {
       id: 'step-3',
-      title: t('onboarding.step3.title'),
-      body: t('onboarding.step3.body')
+      title: t('onboarding.step3.title', lang),
+      body: t('onboarding.step3.body', lang)
     },
     {
       id: 'step-4',
-      title: t('onboarding.step4.title'),
-      body: t('onboarding.step4.body'),
+      title: t('onboarding.step4.title', lang),
+      body: t('onboarding.step4.body', lang),
       href: '/ajustes/ia'
     },
     {
       id: 'step-5',
-      title: t('onboarding.step5.title'),
-      body: t('onboarding.step5.body')
+      title: t('onboarding.step5.title', lang),
+      body: t('onboarding.step5.body', lang)
     }
-  ];
+  ]);
 
   let visible = $state(false);
   let currentStepIndex = $state(0);
@@ -58,7 +63,7 @@
   onMount(() => {
     try {
       if (typeof localStorage !== 'undefined') {
-        const seen = localStorage.getItem('worldexams_onboarding_seen');
+        const seen = localStorage.getItem(ONBOARDING_SEEN_KEY);
         if (seen !== 'true') {
           previouslyFocused = (typeof document !== 'undefined' ? document.activeElement : null) as HTMLElement | null;
           const timer = setTimeout(async () => {
@@ -80,7 +85,7 @@
   function dismiss() {
     try {
       if (typeof localStorage !== 'undefined') {
-        localStorage.setItem('worldexams_onboarding_seen', 'true');
+        localStorage.setItem(ONBOARDING_SEEN_KEY, 'true');
       }
     } catch {
       // Ignore localStorage errors
@@ -187,7 +192,7 @@
           onclick={dismiss}
           class="px-3 py-2 text-xs font-bold text-white/40 hover:text-white uppercase tracking-wider transition-colors"
         >
-          {t('onboarding.skip')}
+          {t('onboarding.skip', lang)}
         </button>
 
         <div class="flex gap-2">
@@ -196,14 +201,14 @@
               onclick={prev}
               class="px-4 py-2 bg-white/5 hover:bg-white/10 text-white font-bold text-xs uppercase tracking-widest rounded-md border border-white/10 transition-all active:scale-95"
             >
-              {t('onboarding.prev')}
+              {t('onboarding.prev', lang)}
             </button>
           {/if}
           <button
             onclick={next}
             class="px-5 py-2 bg-emerald-500/10 hover:bg-emerald-500 text-emerald-400 hover:text-black font-bold text-xs uppercase tracking-widest rounded-md border border-emerald-500/20 transition-all active:scale-95"
           >
-            {currentStepIndex === steps.length - 1 ? t('onboarding.start') : t('onboarding.next')}
+            {currentStepIndex === steps.length - 1 ? t('onboarding.start', lang) : t('onboarding.next', lang)}
           </button>
         </div>
       </div>
