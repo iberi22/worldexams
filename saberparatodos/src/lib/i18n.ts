@@ -106,6 +106,11 @@ const pt: Catalog = {
 
 const catalogs: Record<I18nLang, Catalog> = { es, pt };
 
+/** Claves del catálogo de un idioma (usado por los tests de copy). */
+export function catalogKeys(lang: I18nLang): string[] {
+  return Object.keys(catalogs[lang]);
+}
+
 export function normalizeLang(value?: string): I18nLang {
   if (value && value.toLowerCase().startsWith('pt')) return 'pt';
   return 'es';

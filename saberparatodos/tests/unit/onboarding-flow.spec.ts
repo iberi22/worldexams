@@ -1,6 +1,26 @@
 import { describe, it, expect, beforeEach, vi, afterEach } from 'vitest';
 import { render, fireEvent, cleanup, act } from '@testing-library/svelte/svelte5';
 import OnboardingFlow from '../../src/components/OnboardingFlow.svelte';
+import { t, catalogKeys } from '../../src/lib/i18n';
+
+// Frases que el copy de onboarding no puede afirmar (sin verificación en el código).
+const normalize = (value: string) =>
+  value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+const FORBIDDEN = [
+  'cuenta opcional',
+  'crear una cuenta',
+  'conta opcional',
+  'criar uma conta',
+  'nunca se pierde',
+  'nunca se perde',
+  'sincroniza tu',
+  'sincronize seu',
+  'caja fuerte',
+  'cofre',
+  'limites diarios',
+];
+const FORBIDDEN_WORDS = [/\bnotas\b/, /\banotacoes\b/];
+
 
 describe('OnboardingFlow Component', () => {
   beforeEach(() => {
@@ -22,8 +42,10 @@ describe('OnboardingFlow Component', () => {
   });
 
   afterEach(() => {
+    vi.restoreAllMocks();
     vi.useRealTimers();
     cleanup();
+    document.body.innerHTML = '';
   });
 
   it('renders step 1 honest guest content initially if not seen', async () => {
@@ -186,5 +208,153 @@ describe('OnboardingFlow Component', () => {
 
     await fireEvent.keyDown(window, { key: 'Tab', shiftKey: true });
     expect(document.activeElement).toBe(nextBtn);
+  });
+  it('does not throw or block the app when localStorage.getItem fails', async () => {
+    vi.spyOn(Storage.prototype, 'getItem').mockImplementation(() => {
+      throw new Error('storage denied');
+    });
+    // render() lanza si onMount no captura el error de storage.
+    const { container } = render(OnboardingFlow);
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    expect(container.querySelector('[data-testid="onboarding-flow"]')).toBeNull();
+  });
+
+  it('Saltar still closes the flow when localStorage.setItem and getItem fail', async () => {
+    let dismissed = false;
+    const { container, getByText } = render(OnboardingFlow, {
+      props: {
+        ondismiss: () => {
+          dismissed = true;
+        },
+      },
+    });
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    vi.spyOn(Storage.prototype, 'getItem').mockImplementation(() => {
+      throw new Error('storage denied');
+    });
+    vi.spyOn(Storage.prototype, 'setItem').mockImplementation(() => {
+      throw new Error('quota exceeded');
+    });
+
+    await fireEvent.click(getByText('Saltar'));
+    await act(() => {
+      vi.advanceTimersByTime(500);
+    });
+
+    expect(container.querySelector('[data-testid="onboarding-flow"]')).toBeNull();
+    expect(dismissed).toBe(true);
+  });
+
+  it.each(['es', 'pt'] as const)('onboarding copy (%s) contains no unverifiable claims', (lang) => {
+    const keys = catalogKeys(lang).filter((key) => key.startsWith('onboarding.'));
+    expect(keys.length).toBeGreaterThan(0);
+    for (const key of keys) {
+      const text = normalize(t(key, lang));
+      for (const phrase of FORBIDDEN) {
+        expect({ key, phrase, found: text.includes(phrase) }).toEqual({ key, phrase, found: false });
+      }
+      for (const pattern of FORBIDDEN_WORDS) {
+        expect({ key, pattern: String(pattern), found: pattern.test(text) }).toEqual({
+          key,
+          pattern: String(pattern),
+          found: false,
+        });
+      }
+      // Promesa de sincronización/guardado en la nube: prohibida en cualquier paso.
+      expect({ key, found: text.includes('guardad') && text.includes('en la nube') }).toEqual({
+        key,
+        found: false,
+      });
+    }
+  });
+
+  it('moves initial focus to the first button', async () => {
+    const { getByText } = render(OnboardingFlow);
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    expect(document.activeElement).toBe(getByText('Saltar'));
+  });
+
+  it('returns focus to the element that was focused before the dialog was shown', async () => {
+    const opener = document.createElement('button');
+    opener.textContent = 'Abrir';
+    document.body.appendChild(opener);
+    opener.focus();
+
+    const { getByText } = render(OnboardingFlow);
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    expect(document.activeElement).toBe(getByText('Saltar'));
+
+    await fireEvent.keyDown(window, { key: 'Escape' });
+    await act(() => {
+      vi.advanceTimersByTime(500);
+    });
+    expect(document.activeElement).toBe(opener);
+    opener.remove();
+  });
+
+  it('renders the Portuguese catalog when lang is pt', async () => {
+    const { container, getByText } = render(OnboardingFlow, { props: { lang: 'pt' } });
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+
+    expect(getByText('Pular')).toBeTruthy();
+    expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
+      'Modo convidado sem conta'
+    );
+
+    await fireEvent.click(getByText('Próximo'));
+    expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
+      'Progresso local no seu navegador'
+    );
+    await fireEvent.click(getByText('Próximo'));
+    expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
+      'Resultados de simulados criptografados'
+    );
+    await fireEvent.click(getByText('Próximo'));
+    expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
+      'IA e prática offline'
+    );
+    await fireEvent.click(getByText('Próximo'));
+    expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
+      'Controle total no seu dispositivo'
+    );
+    expect(getByText('Começar')).toBeTruthy();
+  });
+
+  it('announces the step counter in a polite live region', async () => {
+    const { container, getByText } = render(OnboardingFlow);
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    const live = container.querySelector('[aria-live="polite"]');
+    expect(live?.textContent).toContain('Paso 1 de 5');
+
+    await fireEvent.click(getByText('Siguiente'));
+    expect(container.querySelector('[aria-live="polite"]')?.textContent).toContain('Paso 2 de 5');
+  });
+
+  it('brings focus back into the dialog when Tab is pressed while focus is outside', async () => {
+    const { getByText } = render(OnboardingFlow);
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+
+    (document.activeElement as HTMLElement | null)?.blur();
+    expect(document.activeElement).toBe(document.body);
+    await fireEvent.keyDown(window, { key: 'Tab', shiftKey: false });
+    expect(document.activeElement).toBe(getByText('Saltar'));
+
+    (document.activeElement as HTMLElement | null)?.blur();
+    await fireEvent.keyDown(window, { key: 'Tab', shiftKey: true });
+    expect(document.activeElement).toBe(getByText('Siguiente'));
   });
 });
