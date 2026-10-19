@@ -167,7 +167,7 @@ describe('OnboardingFlow Component', () => {
     const dialog = container.querySelector('[role="dialog"]');
     expect(dialog).not.toBeNull();
     expect(dialog?.getAttribute('aria-modal')).toBe('true');
-    expect(dialog?.getAttribute('aria-labelledby')).toBe('onboarding-title');
+    expect(dialog?.getAttribute('aria-label')).toBe('Bienvenida a SaberParaTodos');
     expect(dialog?.getAttribute('aria-describedby')).toBe('onboarding-body');
 
     const skipBtn = getByText('Saltar');

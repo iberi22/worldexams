@@ -149,7 +149,7 @@
     class="fixed inset-0 z-[250] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4"
     role="dialog"
     aria-modal="true"
-    aria-labelledby="onboarding-title"
+    aria-label={t('onboarding.title', lang)}
     aria-describedby="onboarding-body"
     data-testid="onboarding-flow"
     transition:fade={{ duration: 200 }}
@@ -160,30 +160,34 @@
       transition:fly={{ y: 20, duration: 400 }}
       role="document"
     >
-      <!-- Header / Progress -->
-      <div class="px-6 pt-6 pb-2 flex items-center justify-between">
-        <h2 id="onboarding-title" class="text-emerald-400 font-bold text-sm uppercase tracking-wider">
-          {steps[currentStepIndex].title}
-        </h2>
-        <div class="flex gap-1.5" aria-label="Progreso">
-          {#each steps as _, idx}
-            <div
-              class="h-1.5 rounded-full transition-all duration-300 {idx === currentStepIndex ? 'w-4 bg-emerald-500' : 'w-1.5 bg-white/20'}"
-            ></div>
-          {/each}
+      <!-- Header, progress and body: aria-live anuncia cada cambio de paso -->
+      <div aria-live="polite">
+        <div class="px-6 pt-6 pb-2 flex items-center justify-between">
+          <h2 class="text-emerald-400 font-bold text-sm uppercase tracking-wider">
+            {steps[currentStepIndex].title}
+          </h2>
+          <div class="flex gap-1.5" role="img" aria-label={t('onboarding.progress', lang)}>
+            {#each steps as _, idx}
+              <div
+                class="h-1.5 rounded-full transition-all duration-300 {idx === currentStepIndex ? 'w-4 bg-emerald-500' : 'w-1.5 bg-white/20'}"
+              ></div>
+            {/each}
+          </div>
         </div>
-      </div>
 
-      <!-- Body -->
-      <div class="px-6 py-4 min-h-[100px]">
-        <p id="onboarding-body" class="text-sm text-white/80 leading-relaxed">
-          {steps[currentStepIndex].body}
-          {#if steps[currentStepIndex].href}
-             <a href={steps[currentStepIndex].href} class="text-emerald-400 hover:text-emerald-300 underline underline-offset-2 ml-1" target="_blank" rel="noopener noreferrer">
-               Ver Ajustes IA
-             </a>
-          {/if}
-        </p>
+        <div class="px-6 py-4 min-h-[100px]">
+          <p class="sr-only">
+            {t('onboarding.stepCount', lang, { current: currentStepIndex + 1, total: steps.length })}
+          </p>
+          <p id="onboarding-body" class="text-sm text-white/80 leading-relaxed">
+            {steps[currentStepIndex].body}
+            {#if steps[currentStepIndex].href}
+              <a href={steps[currentStepIndex].href} class="text-emerald-400 hover:text-emerald-300 underline underline-offset-2 ml-1" target="_blank" rel="noopener noreferrer">
+                {t('onboarding.aiSettings', lang)}
+              </a>
+            {/if}
+          </p>
+        </div>
       </div>
 
       <!-- Footer / Actions -->
