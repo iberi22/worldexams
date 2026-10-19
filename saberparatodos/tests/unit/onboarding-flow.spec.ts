@@ -100,10 +100,10 @@ describe('OnboardingFlow Component', () => {
     flow = container.querySelector('[data-testid="onboarding-flow"]');
     expect(flow?.textContent).toContain('Resultados de simulacros cifrados');
 
-    // Step 4: IA y práctica offline
+    // Step 4: Preguntas sin conexión e IA local opcional
     await fireEvent.click(nextBtn);
     flow = container.querySelector('[data-testid="onboarding-flow"]');
-    expect(flow?.textContent).toContain('IA y práctica offline');
+    expect(flow?.textContent).toContain('Preguntas sin conexión e IA local opcional');
 
     // Step 5: Control total en el dispositivo
     await fireEvent.click(nextBtn);
@@ -262,6 +262,52 @@ describe('OnboardingFlow Component', () => {
     );
   });
 
+  it('pins every onboarding string verbatim in es', () => {
+    expect(Object.fromEntries(catalogKeys('es').filter((k) => k.startsWith('onboarding.')).map((k) => [k, t(k, 'es')]))).toEqual({
+      'onboarding.title': 'Bienvenida a SaberParaTodos',
+      'onboarding.skip': 'Saltar',
+      'onboarding.prev': 'Anterior',
+      'onboarding.next': 'Siguiente',
+      'onboarding.start': 'Empezar',
+      'onboarding.progress': 'Progreso',
+      'onboarding.stepCount': 'Paso {current} de {total}',
+      'onboarding.aiSettings': 'Ver Ajustes IA',
+      'onboarding.step1.title': 'Modo invitado sin cuenta',
+      'onboarding.step1.body': 'La plataforma funciona sin registro ni cuentas en la nube. Puedes practicar directamente como invitado sin ceder datos personales.',
+      'onboarding.step2.title': 'Progreso local en tu navegador',
+      'onboarding.step2.body': 'Tus resultados y simulacros se guardan exclusivamente en el almacenamiento local de este dispositivo. No hay servidores de sincronización en la nube.',
+      'onboarding.step3.title': 'Resultados de simulacros cifrados',
+      'onboarding.step3.body': 'Los resultados de tus simulacros se guardan cifrados en este navegador.',
+      'onboarding.step4.title': 'Preguntas sin conexión e IA local opcional',
+      'onboarding.step4.body': 'Algunas funciones de IA pueden correr en tu dispositivo si es compatible; las preguntas ya abiertas quedan disponibles sin conexión.',
+      'onboarding.step5.title': 'Control total en tu dispositivo',
+      'onboarding.step5.body': 'Tus datos pertenecen a este navegador. Si borras los datos del sitio, tu historial se elimina; no se transfiere a otro dispositivo.',
+    });
+  });
+
+  it('pins every onboarding string verbatim in pt', () => {
+    expect(Object.fromEntries(catalogKeys('pt').filter((k) => k.startsWith('onboarding.')).map((k) => [k, t(k, 'pt')]))).toEqual({
+      'onboarding.title': 'Bem-vindo ao SaberParaTodos',
+      'onboarding.skip': 'Pular',
+      'onboarding.prev': 'Anterior',
+      'onboarding.next': 'Próximo',
+      'onboarding.start': 'Começar',
+      'onboarding.progress': 'Progresso',
+      'onboarding.stepCount': 'Passo {current} de {total}',
+      'onboarding.aiSettings': 'Ver ajustes de IA',
+      'onboarding.step1.title': 'Modo convidado sem conta',
+      'onboarding.step1.body': 'A plataforma funciona sem cadastro e sem contas na nuvem. Você pode praticar diretamente como convidado sem fornecer dados pessoais.',
+      'onboarding.step2.title': 'Progresso local no seu navegador',
+      'onboarding.step2.body': 'Seus resultados e simulados são salvos exclusivamente no armazenamento local deste dispositivo. Não há sincronização na nuvem.',
+      'onboarding.step3.title': 'Resultados de simulados criptografados',
+      'onboarding.step3.body': 'Os resultados dos seus simulados são salvos criptografados neste navegador.',
+      'onboarding.step4.title': 'Questões sem conexão e IA local opcional',
+      'onboarding.step4.body': 'Algumas funções de IA podem rodar no seu dispositivo, se for compatível; as questões já abertas ficam disponíveis sem conexão.',
+      'onboarding.step5.title': 'Controle total no seu dispositivo',
+      'onboarding.step5.body': 'Seus dados pertencem a este navegador. Se apagar os dados do site, seu histórico é excluído; não é transferido para outro dispositivo.',
+    });
+  });
+
   it.each(['es', 'pt'] as const)('onboarding copy (%s) contains no unverifiable claims', (lang) => {
     const keys = catalogKeys(lang).filter((key) => key.startsWith('onboarding.'));
     expect(keys.length).toBeGreaterThan(0);
@@ -356,7 +402,7 @@ describe('OnboardingFlow Component', () => {
     );
     await fireEvent.click(getByText('Próximo'));
     expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
-      'IA e prática offline'
+      'Questões sem conexão e IA local opcional'
     );
     await fireEvent.click(getByText('Próximo'));
     expect(container.querySelector('[data-testid="onboarding-flow"]')?.textContent).toContain(
