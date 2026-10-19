@@ -69,10 +69,10 @@ describe('OnboardingFlow Component', () => {
     expect(flow?.textContent).toContain('Progreso local en tu navegador');
     expect(flow?.textContent).toContain('No hay servidores de sincronización en la nube');
 
-    // Step 3: Caja fuerte cifrada local
+    // Step 3: Resultados de simulacros cifrados
     await fireEvent.click(nextBtn);
     flow = container.querySelector('[data-testid="onboarding-flow"]');
-    expect(flow?.textContent).toContain('Caja fuerte cifrada local');
+    expect(flow?.textContent).toContain('Resultados de simulacros cifrados');
 
     // Step 4: IA y práctica offline
     await fireEvent.click(nextBtn);

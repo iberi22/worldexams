@@ -65,12 +65,12 @@ const es: Catalog = {
   'onboarding.step1.body': 'La plataforma funciona sin registro ni cuentas en la nube. Puedes practicar directamente como invitado sin ceder datos personales.',
   'onboarding.step2.title': 'Progreso local en tu navegador',
   'onboarding.step2.body': 'Tus resultados y simulacros se guardan exclusivamente en el almacenamiento local de este dispositivo. No hay servidores de sincronización en la nube.',
-  'onboarding.step3.title': 'Caja fuerte cifrada local',
-  'onboarding.step3.body': 'Tus notas y progreso sensible se protegen mediante cifrado en tu dispositivo. Ningún servidor externo almacena ni accede a tus datos.',
+  'onboarding.step3.title': 'Resultados de simulacros cifrados',
+  'onboarding.step3.body': 'Los resultados de tus simulacros se guardan cifrados en este navegador.',
   'onboarding.step4.title': 'IA y práctica offline',
-  'onboarding.step4.body': 'Preguntas y herramientas preparadas para funcionar en tu dispositivo sin necesidad de conexión a internet permanente ni límites diarios.',
+  'onboarding.step4.body': 'Algunas funciones de IA pueden correr en tu dispositivo si es compatible; las preguntas ya abiertas quedan disponibles sin conexión.',
   'onboarding.step5.title': 'Control total en tu dispositivo',
-  'onboarding.step5.body': 'Tus datos pertenecen a este navegador. Si borras los datos del sitio o cambias de dispositivo, tu historial no se transfiere.',
+  'onboarding.step5.body': 'Tus datos pertenecen a este navegador. Si borras los datos del sitio, tu historial se elimina; no se transfiere a otro dispositivo.',
 };
 
 const pt: Catalog = {
@@ -90,12 +90,12 @@ const pt: Catalog = {
   'onboarding.step1.body': 'A plataforma funciona sem cadastro e sem contas na nuvem. Você pode praticar diretamente como convidado sem fornecer dados pessoais.',
   'onboarding.step2.title': 'Progresso local no seu navegador',
   'onboarding.step2.body': 'Seus resultados e simulados são salvos exclusivamente no armazenamento local deste dispositivo. Não há sincronização na nuvem.',
-  'onboarding.step3.title': 'Cofre local criptografado',
-  'onboarding.step3.body': 'Suas anotações e progresso são protegidos localmente no seu dispositivo. Nenhum servidor externo acessa seus dados.',
+  'onboarding.step3.title': 'Resultados de simulados criptografados',
+  'onboarding.step3.body': 'Os resultados dos seus simulados são salvos criptografados neste navegador.',
   'onboarding.step4.title': 'IA e prática offline',
-  'onboarding.step4.body': 'Questões e ferramentas preparadas para funcionar no seu dispositivo sem exigir conexão permanente nem limites diários.',
+  'onboarding.step4.body': 'Algumas funções de IA podem rodar no seu dispositivo, se for compatível; as questões já abertas ficam disponíveis sem conexão.',
   'onboarding.step5.title': 'Controle total no seu dispositivo',
-  'onboarding.step5.body': 'Seus dados pertencem a este navegador. Se limpar os dados do navegador, seu histórico não será transferido.',
+  'onboarding.step5.body': 'Seus dados pertencem a este navegador. Se apagar os dados do site, seu histórico é excluído; não é transferido para outro dispositivo.',
 };
 
 const catalogs: Record<I18nLang, Catalog> = { es, pt };
