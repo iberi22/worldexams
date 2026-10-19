@@ -50,6 +50,8 @@
   import { getTenantExperience } from '../config/tenant-experience';
   // Removed static import to avoid Vite warning
   import LocalModeNotice from './LocalModeNotice.svelte';
+  import OnboardingFlow, { ONBOARDING_SEEN_KEY } from './OnboardingFlow.svelte';
+  import { normalizeLang } from '../lib/i18n';
   import OfflineProfile from './OfflineProfile.svelte';
   import AcademicBentoGrid from './AcademicBentoGrid.svelte';
   import IcfesExamHub from './exam-hub/IcfesExamHub.svelte'; // 🆕 New Component
@@ -105,6 +107,8 @@
   let examConfig = $state({ count: 10, mode: 'SOLO', useDiagnostic: false, diagnosticMixPercent: 20 }); // New state
   let MAX_EXAM_QUESTIONS = $state(10); // Max questions for exam
   let showLocalReports = $state(false); // Modal for local reports
+  let showOnboarding = $state(false); // Guarded onboarding display state
+  let onboardingLang = $derived(normalizeLang(runtimeCountry.language));
   let showOfflineProfile = $state(false); // Modal for offline profile
   let blogSubjectFilter = $state(null); // 🆕 Pre-filter for BlogView from LocalReportsView
   let isNavigatingToBlog = $state(false); // 🆕 Loading state for Blog navigation
@@ -270,6 +274,13 @@
 
   // Auth & Lifecycle
   onMount(async () => {
+    try {
+      if (typeof localStorage !== 'undefined') {
+        showOnboarding = localStorage.getItem(ONBOARDING_SEEN_KEY) !== 'true';
+      }
+    } catch {
+      showOnboarding = false;
+    }
     // Fetch build info dynamically
     try {
       const res = await fetch('/build-info.json?t=' + Date.now());
@@ -949,6 +960,9 @@
 
 <div class="min-h-screen bg-[#121212] text-[#F5F5DC] font-mono selection:bg-emerald-500/30 overflow-x-hidden">
   <LocalModeNotice />
+  {#if showOnboarding}
+    <OnboardingFlow lang={onboardingLang} ondismiss={() => { showOnboarding = false; }} />
+  {/if}
 
   {#if showLocalReports}
     <LocalReportsView
