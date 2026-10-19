@@ -249,6 +249,15 @@ describe('OnboardingFlow Component', () => {
     expect(dismissed).toBe(true);
   });
 
+  it('states the data-loss consequence of step 5 identically in es and pt', () => {
+    expect(t('onboarding.step5.body', 'es')).toBe(
+      'Tus datos pertenecen a este navegador. Si borras los datos del sitio, tu historial se elimina; no se transfiere a otro dispositivo.'
+    );
+    expect(t('onboarding.step5.body', 'pt')).toBe(
+      'Seus dados pertencem a este navegador. Se apagar os dados do site, seu histórico é excluído; não é transferido para outro dispositivo.'
+    );
+  });
+
   it.each(['es', 'pt'] as const)('onboarding copy (%s) contains no unverifiable claims', (lang) => {
     const keys = catalogKeys(lang).filter((key) => key.startsWith('onboarding.'));
     expect(keys.length).toBeGreaterThan(0);
@@ -298,6 +307,28 @@ describe('OnboardingFlow Component', () => {
     });
     expect(document.activeElement).toBe(opener);
     opener.remove();
+  });
+
+  it('restores focus to the element focused when the dialog is shown, not when mounted', async () => {
+    const atMount = document.createElement('button');
+    const atShow = document.createElement('button');
+    document.body.append(atMount, atShow);
+    atMount.focus();
+
+    const { getByText } = render(OnboardingFlow);
+    atShow.focus();
+    await act(() => {
+      vi.advanceTimersByTime(600);
+    });
+    expect(document.activeElement).toBe(getByText('Saltar'));
+
+    await fireEvent.keyDown(window, { key: 'Escape' });
+    await act(() => {
+      vi.advanceTimersByTime(500);
+    });
+    expect(document.activeElement).toBe(atShow);
+    atMount.remove();
+    atShow.remove();
   });
 
   it('renders the Portuguese catalog when lang is pt', async () => {
