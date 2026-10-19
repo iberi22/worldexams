@@ -56,6 +56,24 @@ const es: Catalog = {
   'analytics.aria.heatmap': 'Tabla de mapa de calor con usos por país y grado.',
   'analytics.questionsUsed': 'preguntas con uso registrado',
   'analytics.bundlesTracked': 'bundles analizados',
+  'onboarding.title': 'Bienvenida a SaberParaTodos',
+  'onboarding.skip': 'Saltar',
+  'onboarding.prev': 'Anterior',
+  'onboarding.next': 'Siguiente',
+  'onboarding.start': 'Empezar',
+  'onboarding.progress': 'Progreso',
+  'onboarding.stepCount': 'Paso {current} de {total}',
+  'onboarding.aiSettings': 'Ver Ajustes IA',
+  'onboarding.step1.title': 'Modo invitado sin cuenta',
+  'onboarding.step1.body': 'La plataforma funciona sin registro ni cuentas en la nube. Puedes practicar directamente como invitado sin ceder datos personales.',
+  'onboarding.step2.title': 'Progreso local en tu navegador',
+  'onboarding.step2.body': 'Tus resultados y simulacros se guardan exclusivamente en el almacenamiento local de este dispositivo. No hay servidores de sincronización en la nube.',
+  'onboarding.step3.title': 'Resultados de simulacros cifrados',
+  'onboarding.step3.body': 'Los resultados de tus simulacros se guardan cifrados en este navegador.',
+  'onboarding.step4.title': 'Preguntas sin conexión e IA local opcional',
+  'onboarding.step4.body': 'Algunas funciones de IA pueden correr en tu dispositivo si es compatible; las preguntas ya abiertas quedan disponibles sin conexión.',
+  'onboarding.step5.title': 'Control total en tu dispositivo',
+  'onboarding.step5.body': 'Tus datos pertenecen a este navegador. Si borras los datos del sitio, tu historial se elimina; no se transfiere a otro dispositivo.',
 };
 
 const pt: Catalog = {
@@ -66,9 +84,32 @@ const pt: Catalog = {
   'preguntas.empty': 'Ainda não há packs disponíveis para esta seleção.',
   'analytics.title': 'Analítica de Uso das Questões',
   'analytics.noData': 'Não há dados suficientes',
+  'onboarding.title': 'Bem-vindo ao SaberParaTodos',
+  'onboarding.skip': 'Pular',
+  'onboarding.prev': 'Anterior',
+  'onboarding.next': 'Próximo',
+  'onboarding.start': 'Começar',
+  'onboarding.progress': 'Progresso',
+  'onboarding.stepCount': 'Passo {current} de {total}',
+  'onboarding.aiSettings': 'Ver ajustes de IA',
+  'onboarding.step1.title': 'Modo convidado sem conta',
+  'onboarding.step1.body': 'A plataforma funciona sem cadastro e sem contas na nuvem. Você pode praticar diretamente como convidado sem fornecer dados pessoais.',
+  'onboarding.step2.title': 'Progresso local no seu navegador',
+  'onboarding.step2.body': 'Seus resultados e simulados são salvos exclusivamente no armazenamento local deste dispositivo. Não há sincronização na nuvem.',
+  'onboarding.step3.title': 'Resultados de simulados criptografados',
+  'onboarding.step3.body': 'Os resultados dos seus simulados são salvos criptografados neste navegador.',
+  'onboarding.step4.title': 'Questões sem conexão e IA local opcional',
+  'onboarding.step4.body': 'Algumas funções de IA podem rodar no seu dispositivo, se for compatível; as questões já abertas ficam disponíveis sem conexão.',
+  'onboarding.step5.title': 'Controle total no seu dispositivo',
+  'onboarding.step5.body': 'Seus dados pertencem a este navegador. Se apagar os dados do site, seu histórico é excluído; não é transferido para outro dispositivo.',
 };
 
 const catalogs: Record<I18nLang, Catalog> = { es, pt };
+
+/** Claves del catálogo de un idioma (usado por los tests de copy). */
+export function catalogKeys(lang: I18nLang): string[] {
+  return Object.keys(catalogs[lang]);
+}
 
 export function normalizeLang(value?: string): I18nLang {
   if (value && value.toLowerCase().startsWith('pt')) return 'pt';
