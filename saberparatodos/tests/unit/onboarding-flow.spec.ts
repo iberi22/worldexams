@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach, vi, afterEach } from 'vitest';
 import { render, fireEvent, cleanup, act } from '@testing-library/svelte/svelte5';
-import OnboardingFlow from '../../src/components/OnboardingFlow.svelte';
+import OnboardingFlow, { ONBOARDING_SEEN_KEY } from '../../src/components/OnboardingFlow.svelte';
 import { t, catalogKeys } from '../../src/lib/i18n';
 
 // Frases que el copy de onboarding no puede afirmar (sin verificación en el código).
@@ -61,6 +61,10 @@ describe('OnboardingFlow Component', () => {
     expect(flow?.textContent).toContain('Modo invitado sin cuenta');
     expect(flow?.textContent).toContain('La plataforma funciona sin registro ni cuentas en la nube');
     expect(flow?.textContent).not.toContain('crear una cuenta es opcional');
+  });
+
+  it('exports the seen-flag key as a module export for App.svelte', () => {
+    expect(ONBOARDING_SEEN_KEY).toBe('worldexams_onboarding_seen');
   });
 
   it('does not render if worldexams_onboarding_seen is true', async () => {

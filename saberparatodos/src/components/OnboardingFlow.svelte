@@ -1,3 +1,8 @@
+<script lang="ts" module>
+  // Clave de localStorage que marca el onboarding como visto. App.svelte la importa.
+  export const ONBOARDING_SEEN_KEY = 'worldexams_onboarding_seen';
+</script>
+
 <script lang="ts">
   import { onMount, tick } from 'svelte';
   import { fade, fly } from 'svelte/transition';
@@ -9,9 +14,6 @@
     body: string;
     href?: string;
   }
-
-  // Clave de localStorage que marca el onboarding como visto. App.svelte la importa.
-  export const ONBOARDING_SEEN_KEY = 'worldexams_onboarding_seen';
 
   // Idioma de la UI. Lo decide App.svelte a partir de runtimeCountry.language.
   // Fuera de alcance: el tenant en-US no tiene catálogo; cae a 'es' sin error.
