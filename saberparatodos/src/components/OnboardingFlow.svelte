@@ -65,8 +65,9 @@
       if (typeof localStorage !== 'undefined') {
         const seen = localStorage.getItem(ONBOARDING_SEEN_KEY);
         if (seen !== 'true') {
-          previouslyFocused = (typeof document !== 'undefined' ? document.activeElement : null) as HTMLElement | null;
           const timer = setTimeout(async () => {
+            // Captura el foco del llamador al mostrarse, no al montar.
+            previouslyFocused = (typeof document !== 'undefined' ? document.activeElement : null) as HTMLElement | null;
             visible = true;
             await tick();
             const focusables = getFocusableElements();
@@ -110,14 +111,23 @@
 
       const first = focusable[0];
       const last = focusable[focusable.length - 1];
+      const active = document.activeElement;
+      const insideDialog = !!dialogEl && active instanceof Node && dialogEl.contains(active);
+
+      // Foco fuera del diálogo (p. ej. body tras un clic en el fondo): Tab lo devuelve dentro.
+      if (!insideDialog) {
+        event.preventDefault();
+        (event.shiftKey ? last : first).focus();
+        return;
+      }
 
       if (event.shiftKey) {
-        if (document.activeElement === first) {
+        if (active === first) {
           event.preventDefault();
           last.focus();
         }
       } else {
-        if (document.activeElement === last) {
+        if (active === last) {
           event.preventDefault();
           first.focus();
         }
