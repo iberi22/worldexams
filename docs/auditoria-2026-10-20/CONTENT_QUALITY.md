@@ -60,12 +60,12 @@ Misma medición tras los cambios de esta rama (`--strict-quality --all-duplicate
 | mexico | 10 → 3 | 1409 (78.1%) | 1409 (78.1%) | explanation-short 8 |
 | nicaragua | 2 → 1 | 200 (100.0%) | 200 (100.0%) | explanation-short 2 |
 | panama | 6 → 6 | 200 (100.0%) | 200 (100.0%) | explanation-short 21 |
-| paraguay | 17 → 15 | 1118 (93.2%) | 1118 (93.2%) | explanation-short 52, explanation-template 3 |
+| paraguay | 17 → 15 | 1118 (93.2%) | 1118 (93.2%) | explanation-short 39, explanation-template 3 |
 | peru | 27 → 21 | 1457 (72.1%) | 1457 (72.1%) | duplicate-question 160, explanation-template 13 |
 | puerto-rico | 11 → 6 | 1180 (77.6%) | 1180 (77.6%) | duplicate-question 120 |
 | spain | 11 → 7 | 1275 (91.1%) | 1275 (91.1%) | duplicate-question 140, answer-letter-bias 1 |
 | uruguay | 6 → 2 | 1198 (99.8%) | 1198 (99.8%) | explanation-short 2 |
-| **Total** | **761 → 402** | | | antes: duplicate-question 1086, explanation-short 1076, answer-letter-bias 361, explanation-template 112 · después: explanation-short 1076, duplicate-question 918, explanation-template 69, answer-letter-bias 1 |
+| **Total** | **761 → 402** | | | antes: duplicate-question 1086, explanation-short 1076, answer-letter-bias 361, explanation-template 112 · después: explanation-short 1063, duplicate-question 918, explanation-template 69, answer-letter-bias 1 |
 
 Los 402 bundles que siguen fallando son deuda previa que esta rama no tocó en contenido. Ninguno de los bundles
 reescritos o reparados falla: el validador estricto da 0 errores y `check-feedback-language.mjs` 0 violaciones
@@ -82,6 +82,28 @@ sobre todos ellos.
 | 5a. Argentina | AR-MAT-11 W12–W20 y AR-CIE-11 W11–W20 (19 bundles, 380 preguntas) | Eran una plantilla numérica repetida 20 veces por bundle (o 4 plantillas × 5 en W18 y W20 de ciencias). Ahora tienen 20 ítems originales por bundle, contexto argentino, `**EJE:**` y ARS, con claves verificadas. Las plantillas únicas de Argentina pasan de 68,4 % a 97,0 %. |
 | 5b. CO-ING-11 | W01–W40 (40 bundles) | 173 ítems "According to a recent report…" sin texto que leer ahora tienen un pasaje original de 60–110 palabras. El ítem "barking up the wrong tree" se conserva una vez por bundle; las ~100 copias se reemplazaron por diálogos con modismos y phrasal verbs distintos. Se rehicieron los 32 ítems B1 con clave agramatical o sin opción válida de `coh-ingles.md`. Cada bundle conserva su letra de clave original. |
 | Packs | `apps/worldexams-api/public/v1/packs` | Se regeneraron con el comando documentado (`--changed-only`) más el manifiesto. `build-pack-manifest.mjs --check` pasa con 5142 packs. |
+
+## Revisión del PR (#1720)
+
+- **Regresión corregida:** al reetiquetar letras, CO-SOC-7 W10 Q10 pasó de clave B a A y la explicación seguía
+  diciendo "La respuesta correcta es la B.". Ahora nombra la respuesta por su contenido.
+- **Regla nueva en el validador** (`checkExplanationLetter`, prueba en `scripts/test-explanation-letter.mjs`):
+  - Si la explicación afirma que una letra es la respuesta ("la respuesta correcta es la B", "la opción C es la
+    correcta", "Respuesta: D") y no es la marcada con `[x]`, da ERROR `explanation-letter-mismatch`.
+  - Si solo menciona una o dos letras sin nombrar la clave, da WARNING `explanation-letter-unverified`.
+- **Resultado sobre todo el corpus:** 0 errores. Quedan 12 avisos, revisados uno a uno: todos repasan los
+  distractores por letra o usan "opción A/B" como parte del contenido.
+- **Defectos previos que la regla destapó y que se corrigieron:**
+  - Claves erróneas: CO-LC-6 W24 Q5 (la clave marcaba el plagio como respuesta) y CO-MAT-4 W11 Q5 (5 de 10 no es
+    1/10).
+  - Dos opciones correctas: SV-ING-11 W01 Q1.
+  - Letras viejas en la explicación: CO-LEN-4 W10, CO-LC-7 W09, CL-MAT-11 W01, MX-MAT-11 W31 y PE-COM-11 W03.
+  - Explicación de relleno: PE-COM-11 W06 Q19.
+- **Otros arreglos pedidos en la revisión:**
+  - PY-LEN-11 W01–W09: 13 ítems Q4/Q14 con cuatro oraciones gramaticales tienen ahora un enunciado inequívoco, y
+    se quitaron 4 colas de explicación pegadas de otra pregunta.
+  - CO-SOC-11 W40 Q1: actos legislativos correctos.
+  - CO-ING-3 W21 y W24: reescritos.
 
 ## Lo que queda
 

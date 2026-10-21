@@ -4901,7 +4901,7 @@
   "bundles": 3027,
   "failing_bundles": 402,
   "errors_by_rule": {
-   "explanation-short": 1076,
+   "explanation-short": 1063,
    "duplicate-question": 918,
    "explanation-template": 69,
    "answer-letter-bias": 1
@@ -4959,9 +4959,9 @@
     "bundles": 1921,
     "failing_bundles": 204,
     "questions": 21475,
-    "unique_stems": 21033,
+    "unique_stems": 21032,
     "unique_ratio": 0.979,
-    "unique_templates": 21005,
+    "unique_templates": 21004,
     "errors_by_rule": {
      "explanation-short": 543,
      "explanation-template": 18
@@ -5085,7 +5085,7 @@
     "unique_ratio": 0.99,
     "unique_templates": 1118,
     "errors_by_rule": {
-     "explanation-short": 52,
+     "explanation-short": 39,
      "explanation-template": 3
     }
    },
@@ -7248,25 +7248,25 @@
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W01-tema-w01-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 12
+     "explanation-short": 10
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W02-tema-w02-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 6
+     "explanation-short": 4
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W03-tema-w03-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 3
+     "explanation-short": 2
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W04-tema-w04-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 3
+     "explanation-short": 2
     }
    },
    {
@@ -7278,25 +7278,25 @@
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W06-tema-w06-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 4
+     "explanation-short": 3
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W07-tema-w07-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 4
+     "explanation-short": 2
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W08-tema-w08-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 3
+     "explanation-short": 1
     }
    },
    {
     "file": "questions_data/paraguay/lengua/grado-11/2026/weekly/PY-LEN-11-2026-W09-tema-w09-001-MASTERY-bundle.md",
     "errors": {
-     "explanation-short": 12
+     "explanation-short": 10
     }
    },
    {
