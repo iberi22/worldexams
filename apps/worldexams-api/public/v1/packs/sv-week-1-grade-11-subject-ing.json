@@ -20,9 +20,9 @@
         },
         {
           "letter": "B",
-          "text": "She works at a pharmacy on Saturday.",
+          "text": "She working at a pharmacy on Saturdays.",
           "is_correct": false,
-          "feedback": "The habitual action happens every Saturday, so the day must be plural: 'on Saturdays'."
+          "feedback": "Without an auxiliary, the -ing form cannot be the main verb: it would need 'She is working', which is not the present simple."
         },
         {
           "letter": "C",
@@ -38,7 +38,7 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "En presente simple, el verbo cambia su terminacion segun el sujeto: -s en he/she/it, -0 en I/you/we/they. Solo la opcion B respeta esa regla.\n\n---",
+      "explanation": "En presente simple, el verbo cambia su terminacion segun el sujeto: -s en he/she/it, -0 en I/you/we/they. Solo 'She works at a pharmacy on Saturdays' respeta esa regla; 'work' omite la -s, 'is work' mezcla dos tiempos y 'working' necesita el auxiliar 'is'.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
