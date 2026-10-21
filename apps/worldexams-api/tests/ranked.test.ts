@@ -112,7 +112,7 @@ describe("Ranked Module", () => {
           const slug = new URL(url).pathname.split("/").pop();
           const questions = Array.from({ length: 20 }, (_, i) => ({
             id: `${slug}-q${i}`,
-            statement: `Q ${i}`,
+            statement: `Q ${[...`${slug} ${i}`].map((c) => "abcdefghij"[Number(c)] ?? c).join("")}`,
             options: [
               { text: "Right", is_correct: true, feedback: "Because right." },
               { text: "W1", feedback: "no" },
