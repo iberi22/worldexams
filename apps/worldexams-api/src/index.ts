@@ -1,5 +1,6 @@
 import { routeMesh, createMeshStores, type MeshStores } from "./mesh";
 import { routeRanked } from "./ranked";
+import { routeInstitutions } from "./institutions";
 
 const meshStores: MeshStores = createMeshStores();
 
@@ -32,7 +33,7 @@ const ALLOWED_ORIGINS = [
 function corsHeadersFor(request?: Request): Record<string, string> {
   const base = {
     "Access-Control-Allow-Headers": "authorization, content-type, x-api-key",
-    "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
+    "Access-Control-Allow-Methods": "GET, HEAD, POST, PATCH, DELETE, OPTIONS",
     Vary: "Origin",
   }
   const origin = request?.headers.get("Origin")
@@ -673,6 +674,10 @@ export default {
         {},
         request
       )
+    }
+
+    if (url.pathname.startsWith("/v1/inst/")) {
+      return withCors(await routeInstitutions(request, env), request);
     }
 
     const r = await routeRanked(request, env);

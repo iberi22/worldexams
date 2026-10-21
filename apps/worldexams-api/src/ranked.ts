@@ -94,6 +94,18 @@ export function questionHasUnresolvedPlaceholder(question: any): boolean {
   return false;
 }
 
+/**
+ * Ranked nickname rule: after trimming, letters, digits, spaces, `_` and `-`
+ * only. Ranked uses 3-20 chars; other modules pass their own length range
+ * (institutions: 2-24) but share the character set.
+ */
+export function isValidNickname(value: unknown, minLength = 3, maxLength = 20): value is string {
+  if (typeof value !== "string") return false;
+  const trimmed = value.trim();
+  const length = Array.from(trimmed).length;
+  return length >= minLength && length <= maxLength && /^[\p{L}\p{N} _-]+$/u.test(trimmed);
+}
+
 // Colombia runs on a fixed UTC-5 with no DST. Deriving the season from a UTC
 // clock would file the 23:00-04:59 local window into the wrong month.
 const COLOMBIA_UTC_OFFSET_S = -5 * 60 * 60;
@@ -344,10 +356,7 @@ export async function routeRanked(
     ) {
       return json({ error: "INVALID_DEVICE_ID" }, 400, {}, request);
     }
-    if (
-      typeof nickname !== "string" ||
-      !/^[\p{L}\p{N} _-]{3,20}$/u.test(nickname.trim())
-    ) {
+    if (!isValidNickname(nickname)) {
       return json({ error: "INVALID_NICKNAME" }, 400, {}, request);
     }
 
