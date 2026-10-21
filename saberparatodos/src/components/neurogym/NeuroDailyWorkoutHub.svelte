@@ -7,6 +7,7 @@
   import StroopColorBoard from './stimuli/StroopColorBoard.svelte';
   import ReactionMotorPad from './stimuli/ReactionMotorPad.svelte';
   import WebGPUMentalRotation from './stimuli/WebGPUMentalRotation.svelte';
+  import { reportResultToSchool } from '../../lib/institutions/report-result';
 
   interface Props {
     onWorkoutFinished?: () => void;
@@ -20,6 +21,7 @@
   let adaptiveLevel = $state<number>(1);
   let workoutStage = $state<'intro' | 'rotation' | 'stroop' | 'reaction' | 'completed'>('intro');
   let currentStep = $state(0);
+  let workoutStartedAt = Date.now();
 
   // Performance tracking
   let totalCorrect = $state(0);
@@ -45,6 +47,7 @@
   });
 
   function startDailyWorkout() {
+    workoutStartedAt = Date.now();
     workoutStage = 'rotation';
     currentStep = 0;
     totalCorrect = 0;
@@ -134,6 +137,7 @@
 
     const profile = computeCognitiveProfile(rawScores);
     await saveNeuroSession(profile);
+    void reportResultToSchool({ source: 'neurogym', total: totalTrials, correct: totalCorrect, durationS: (Date.now() - workoutStartedAt) / 1000 });
 
     streakInfo = getStreakInfo();
     workoutStage = 'completed';
