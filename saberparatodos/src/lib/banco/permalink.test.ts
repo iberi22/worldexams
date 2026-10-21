@@ -9,10 +9,16 @@ describe('buildPublicQuestionUrl', () => {
     ).toBe('/preguntas/colombia/grado-6/matematicas/CO-MAT-6-2026-W01-numeros-enteros-001-MASTERY-bundle/');
   });
 
-  it('falls back to the question id and strips the -vN suffix', () => {
+  it('falls back to the question id, strips -vN and targets the question with ?revisar=', () => {
     expect(buildPublicQuestionUrl({ id: 'CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v1' })).toBe(
-      '/preguntas/colombia/grado-7/ciencias-naturales/CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle/',
+      '/preguntas/colombia/grado-7/ciencias-naturales/CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle/?revisar=CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v1',
     );
+    expect(
+      buildPublicQuestionUrl({
+        id: 'CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v3',
+        bundleId: 'CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle',
+      }),
+    ).toMatch(/\/\?revisar=CO-CN-7-2026-W01-la-celula-001-MASTERY-bundle-v3$/);
     expect(toBundleId({ id: 'X-bundle-v12' })).toBe('X-bundle');
   });
 

@@ -41,7 +41,7 @@ describe('BlogView — Banco social practice-first', () => {
     expect(cards).toHaveLength(2);
     const cardLink = cards[0].querySelector('[data-testid="banco-permalink"]') as HTMLAnchorElement;
     expect(cardLink.getAttribute('href')).toBe(
-      '/preguntas/colombia/grado-11/matematicas/CO-MAT-11-2026-W02-funciones-001-MASTERY-bundle/',
+      '/preguntas/colombia/grado-11/matematicas/CO-MAT-11-2026-W02-funciones-001-MASTERY-bundle/?revisar=CO-MAT-11-2026-W02-funciones-001-MASTERY-bundle-v1',
     );
     expect(cardLink.textContent).toContain('Abrir página pública');
 
