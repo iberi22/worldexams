@@ -19,7 +19,7 @@ tier: "legacy"
 creador: "Jules-Agent"
 ---
 # MASTERY Bundle - Ingles: House Rooms (W13)
-**8 preguntas | Ingles | {alignment}**
+**8 preguntas | Ingles | DBA MEN Colombia**
 
 ---
 ## Question 1 [D3-D4]

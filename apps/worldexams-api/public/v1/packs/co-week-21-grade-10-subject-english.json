@@ -13,13 +13,13 @@
       "context": "Discussing public transportation.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect contrast connector."
+          "feedback": "'However' introduces contrast, but the second clause here adds a further benefit that supports the first."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Furthermore",
           "is_correct": true,
           "feedback": "Correct addition connector."
@@ -28,18 +28,18 @@
           "letter": "C",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect contrast connector."
+          "feedback": "'Nevertheless' introduces contrast, which is the opposite of the supporting link the sentence needs."
         },
         {
           "letter": "D",
           "text": "On the contrary",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'On the contrary' states that the second clause denies the first, but here it supports it."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Furthermore' is used to add more information that supports the previous statement.\r\n\r\n---",
-      "difficulty": "3",
+      "correct_answer": "A",
+      "explanation": "'Furthermore' is used to add more information that supports the previous statement.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -62,7 +62,7 @@
           "letter": "A",
           "text": "In addition",
           "is_correct": false,
-          "feedback": "Incorrect addition connector."
+          "feedback": "'In addition' adds supporting information, but the second clause introduces a problem, not more support."
         },
         {
           "letter": "B",
@@ -74,18 +74,18 @@
           "letter": "C",
           "text": "Moreover",
           "is_correct": false,
-          "feedback": "Incorrect addition connector."
+          "feedback": "'Moreover' also adds information rather than contrasting, and the clause here is a counter-argument."
         },
         {
           "letter": "D",
           "text": "Consequently",
           "is_correct": false,
-          "feedback": "Incorrect cause-effect connector."
+          "feedback": "'Consequently' expresses cause and effect, but the sentence sets an objection against the first statement."
         }
       ],
       "correct_answer": "B",
-      "explanation": "'Nevertheless' is used to introduce a contrasting point, similar to 'however' but often more formal.\r\n\r\n---",
-      "difficulty": "3",
+      "explanation": "'Nevertheless' is used to introduce a contrasting point, similar to 'however' but often more formal.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -105,13 +105,13 @@
       "context": "Discussing renewable energy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Yet",
           "is_correct": false,
-          "feedback": "Incorrect contrast."
+          "feedback": "'Yet' introduces contrast, whereas the second clause adds another advantage of solar energy."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Moreover",
           "is_correct": true,
           "feedback": "Correct addition connector for formal contexts."
@@ -120,17 +120,17 @@
           "letter": "C",
           "text": "Despite",
           "is_correct": false,
-          "feedback": "Incorrect preposition."
+          "feedback": "'Despite' is a preposition and needs a noun phrase after it, so it cannot stand alone here."
         },
         {
           "letter": "D",
           "text": "Instead",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Instead' contrasts two alternatives and would need a following clause of its own."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Moreover' is a formal connector used to add information that strengthens the main argument.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "'Moreover' is a formal connector used to add information that strengthens the main argument.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -154,30 +154,30 @@
           "letter": "A",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "'Although' is a conjunction and would need a full clause after it, as in 'although maintenance is costly', but the blank is followed directly by the noun phrase 'the high cost'."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Despite",
           "is_correct": true,
           "feedback": "Correct. Followed by a noun phrase to show contrast."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Even though",
           "is_correct": false,
-          "feedback": "Needs a full clause."
+          "feedback": "'Even though' also needs a complete clause with a subject and verb, which the noun phrase 'the high cost of maintenance' cannot supply."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Whereas",
           "is_correct": false,
           "feedback": "Needs a comparison clause."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Despite' and 'in spite of' are followed by a noun or gerund to express contrast.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "'Despite' and 'in spite of' are followed by a noun or gerund to express contrast.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -200,30 +200,30 @@
           "letter": "A",
           "text": "in addition",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'In addition' only adds information; the sentence sets two opposing views against each other."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "whereas",
           "is_correct": true,
           "feedback": "Correct comparison/contrast connector."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "besides",
           "is_correct": false,
-          "feedback": "Incorrect addition."
+          "feedback": "'Besides' adds information, whereas the clause after it presents a different and opposing opinion."
         },
         {
           "letter": "D",
           "text": "despite",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Despite' is a preposition that needs a noun phrase, so it cannot join two clauses like this."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Whereas' is used to compare two different facts or ideas in the same sentence.\r\n\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "'Whereas' is used to compare two different facts or ideas in the same sentence.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -243,13 +243,13 @@
       "context": "A critique of a government policy.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Furthermore' adds supporting information, but the second clause admits the policy failed."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Be that as it may",
           "is_correct": true,
           "feedback": "Correct formal contrast connector."
@@ -258,17 +258,17 @@
           "letter": "C",
           "text": "Likewise",
           "is_correct": false,
-          "feedback": "Incorrect similarity connector."
+          "feedback": "'Likewise' signals similarity between two things, and the two clauses are opposed."
         },
         {
           "letter": "D",
           "text": "As a result",
           "is_correct": false,
-          "feedback": "Incorrect cause-effect."
+          "feedback": "'As a result' links a cause to its effect, while the second clause contradicts the first."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Be that as it may' is a sophisticated B2/C1 expression used to acknowledge a point before introducing a contradictory one.\r\n\r\n---",
+      "correct_answer": "A",
+      "explanation": "'Be that as it may' is a sophisticated B2/C1 expression used to acknowledge a point before introducing a contradictory one.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
@@ -298,24 +298,24 @@
           "letter": "B",
           "text": "in addition",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "C",
-          "text": "therefore",
-          "is_correct": false,
-          "feedback": "Incorrect cause-effect."
+          "feedback": "'In addition' would add a further benefit, but the clause here states a loss."
         },
         {
           "letter": "D",
+          "text": "therefore",
+          "is_correct": false,
+          "feedback": "'Therefore' draws a conclusion from the first clause, which is not what the sentence does."
+        },
+        {
+          "letter": "C",
           "text": "on the other hand",
           "is_correct": true,
           "feedback": "Correct transition for balanced contrast."
         }
       ],
-      "correct_answer": "D",
-      "explanation": "'On the other hand' is used to present a different, often opposing, aspect of a topic.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "'On the other hand' is used to present a different, often opposing, aspect of a topic.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -335,13 +335,13 @@
       "context": "A report on health and nutrition.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Although' is a conjunction and would need a full clause after it to show the contrast."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Nonetheless",
           "is_correct": true,
           "feedback": "Correct formal contrast connector."
@@ -350,18 +350,18 @@
           "letter": "C",
           "text": "As well as",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'As well as' joins two nouns or adds information; it cannot introduce a contrasting clause."
         },
         {
           "letter": "D",
           "text": "Even if",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Even if' introduces a conditional clause, not a concession contrasting with the first statement."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "'Nonetheless' is a formal synonym for 'nevertheless' or 'however'.\r\n\r\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "'Nonetheless' is a formal synonym for 'nevertheless' or 'however'.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -384,7 +384,7 @@
           "letter": "A",
           "text": "Similarly",
           "is_correct": false,
-          "feedback": "Incorrect similarity."
+          "feedback": "'Similarly' links two similar points, but the second clause warns of a different, negative point."
         },
         {
           "letter": "B",
@@ -402,11 +402,11 @@
           "letter": "D",
           "text": "On the contrary",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'On the contrary' denies the first clause outright, which is stronger than the warning the sentence gives."
         }
       ],
       "correct_answer": "B",
-      "explanation": "B2 complexity: Choosing the correct transition to balance two equally important points (positive vs negative).\r\n\r\n---",
+      "explanation": "B2 complexity: Choosing the correct transition to balance two equally important points (positive vs negative).\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
@@ -436,24 +436,24 @@
           "letter": "B",
           "text": "Neither / nor",
           "is_correct": false,
-          "feedback": "Incorrect negative."
+          "feedback": "'Neither... nor' states that both items are untrue, which is the opposite of the emphasis intended."
         },
         {
           "letter": "C",
           "text": "Either / or",
           "is_correct": false,
-          "feedback": "Incorrect choice."
+          "feedback": "'Either... or' offers a choice between two options, and the sentence asserts both things."
         },
         {
           "letter": "D",
           "text": "Both / and",
           "is_correct": false,
-          "feedback": "Incorrect syntax for 'vowed'."
+          "feedback": "'Both... and' adds two items but cannot form the negative inversion the sentence begins with."
         }
       ],
       "correct_answer": "A",
-      "explanation": "Advanced B2 structure: Negative inversion with 'Not only... but also' to add information with emphasis.\r\n\r\n---",
-      "difficulty": "9",
+      "explanation": "Advanced B2 structure: Negative inversion with 'Not only... but also' to add information with emphasis.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -473,19 +473,19 @@
       "context": "Academic discussion on law.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect addition."
-        },
-        {
-          "letter": "B",
-          "text": "Correspondingly",
-          "is_correct": false,
-          "feedback": "Incorrect similarity."
+          "feedback": "'Furthermore' adds supporting information, but the second clause points to a contradiction in practice."
         },
         {
           "letter": "C",
+          "text": "Correspondingly",
+          "is_correct": false,
+          "feedback": "'Correspondingly' links something that matches or follows from the first, not something that clashes with it."
+        },
+        {
+          "letter": "A",
           "text": "Paradoxically",
           "is_correct": true,
           "feedback": "Correct transition showing a surprising contrast."
@@ -494,12 +494,12 @@
           "letter": "D",
           "text": "Consequently",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Consequently' introduces a result, whereas the second clause shows an unexpected inconsistency."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "Using adverbs like 'paradoxically' as connectors to indicate the specific nature of a contrast.\r\n\r\n---",
-      "difficulty": "9",
+      "correct_answer": "A",
+      "explanation": "Using adverbs like 'paradoxically' as connectors to indicate the specific nature of a contrast.\n\n---",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "No matter",
           "is_correct": false,
-          "feedback": "Needs 'what'."
+          "feedback": "'No matter' is followed by 'what' plus a clause, for example 'no matter what the benefits', which does not fit here."
         },
         {
           "letter": "B",
@@ -534,17 +534,17 @@
           "letter": "C",
           "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Although' is a conjunction and needs a full clause, whereas the blank only takes an adjective."
         },
         {
           "letter": "D",
           "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect syntax."
+          "feedback": "'Nevertheless' is an adverb and cannot be followed directly by the subject 'the long-term risks' in this inversion."
         }
       ],
       "correct_answer": "B",
-      "explanation": "Mastery level: Using 'However' + adjective + subject + verb to express concession/contrast in a highly formal way.\r\n\r\n---",
+      "explanation": "Mastery level: Using 'However' + adjective + subject + verb to express concession/contrast in a highly formal way.\n\n---",
       "difficulty": "10",
       "images": [],
       "tags": [],

@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for taking an exam.",
+      "context": "A student writes about an exam result.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "sit an exam",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Sit an exam' is the standard British and Peruvian collocation with the verb sit."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "take an exam over again",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Take an exam over again' misuses take, since the collocation is with sit."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "make an exam",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Make an exam' would mean to compose an exam paper, which is a different activity."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "do an exam",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Do an exam' is informal and regional, and it is not the collocation expected in this register."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "Collocations are fixed partnerships between words, and English offers more than one verb for some of them.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for academic results.",
+      "context": "A student reports progress at school.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "do good progress",
+          "is_correct": false,
+          "feedback": "Wrong. 'Do progress' is not an English collocation in any variety."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "make good progress",
+          "is_correct": true,
+          "feedback": "Correct. 'Make progress' is the fixed collocation, and progress is uncountable so no article is used."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "give good progress",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Give progress' would suggest distributing progress, which is not the intended sense."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "take good progress",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Take progress' is not a standard expression in English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "A collocation is a fixed partnership, so both the verb and the absence of an article matter when reproducing it.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for establishing a business.",
+      "context": "A report describes how a company began operating.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "make up a business",
+          "is_correct": false,
+          "feedback": "Wrong. 'Make up' means to invent, which is the opposite of creating something real."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "do up a business",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Do up' means to repair or to tidy, which is unrelated to establishing a business."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "set up a business",
+          "is_correct": true,
+          "feedback": "Correct. 'Set up' is the standard collocation for establishing a company or a system."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "put up a business",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Put up' means to display or to erect, which does not mean to establish a company."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Several phrasal verbs share the particle up, but only one of them means to establish an organisation.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for reaching a decision.",
+      "context": "A writer describes a decision.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "reach a decision",
+          "is_correct": false,
+          "feedback": "Wrong. 'Reach a decision' is valid in English, so the sense is accurate even though make is the more common partner here."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "take a decision over",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Take a decision over' misuses take and adds an inappropriate preposition."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "do a decision",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Do a decision' is not an English collocation."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "make a decision",
+          "is_correct": true,
+          "feedback": "Correct. Both make a decision and reach a decision are standard, and this sentence uses make with the noun directly."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Some nouns accept more than one verb in English, and both partnerships are correct even though they differ in how frequent they are.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for consequences.",
+      "context": "A report describes the effects of an event.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "have a serious impact on",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. 'Impact on' is the fixed prepositional partnership; something has an impact on something else."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "have a serious impact at",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Impact at' is not a valid prepositional choice with impact."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "make a serious impact on",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Make an impact on' is possible but 'make' is not the dominant verb with this noun in this pattern."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "have a serious impact of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Impact of' reverses the direction of the relationship and is not the collocation used after the verb have."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Prepositions inside collocations are as fixed as the verbs, so the pairing of the noun with its preposition must be memorised as a unit.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for taking a risk.",
+      "context": "A classmate describes a risk.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "make a risk",
+          "is_correct": false,
+          "feedback": "Wrong. 'Make a risk' would mean to create a danger rather than to accept one."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "take a risk",
+          "is_correct": true,
+          "feedback": "Correct. 'Take a risk' is the fixed collocation, and it parallels take a decision and take responsibility."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "give a risk",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Give a risk' would suggest handing over a danger, which is not the meaning."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "do a risk",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Do a risk' is not an English collocation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The verb take collocates with a family of abstract nouns such as risk, responsibility and opportunity, which is why the pattern feels natural.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
@@ -279,36 +279,36 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She has always acted ___ responsibility.'",
+      "context": "A teacher comments on a student's behaviour.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "on",
+          "is_correct": false,
+          "feedback": "Wrong. 'Act on responsibility' would mean to act on the basis of it, which changes the meaning."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "by",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Act by responsibility' treats responsibility as a method, which is not the intended sense."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "with",
+          "is_correct": true,
+          "feedback": "Correct. 'Act with responsibility' is the correct collocation, using the preposition with."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Act of responsibility' is not a prepositional phrase that completes the verb act."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Prepositions in collocations vary with the noun, so act with responsibility must be learned rather than assembled from act plus responsibility.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that best explains the concept of a collocation.",
+      "context": "A grammarian explains why a collocation is fixed.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "A collocation is a phrase that can be translated word for word without any loss of meaning.",
+          "is_correct": false,
+          "feedback": "Wrong. Collocations are precisely the combinations that resist word-for-word translation."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "A collocation is a phrase in which the order of the words is fixed by the presence of a phrasal verb.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Collocations include noun phrases and adjective plus noun pairings that contain no phrasal verb."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "A collocation is any combination of words that is grammatically correct in a sentence.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Grammatical correctness is necessary but not sufficient; many grammatical combinations are not collocations."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A collocation is a conventional combination of words that native speakers use together more readily than the alternatives.",
+          "is_correct": true,
+          "feedback": "Correct. This captures the frequency-and-conventionality basis of collocation, which is the standard definition."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "A collocation is defined by conventional use rather than by grammar, which is why many correct sentences still sound unnatural.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that explains the risk of translating a collocation word for word.",
+      "context": "A translator compares two options for rendering a text.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "The result is grammatical in the target language but may sound unnatural because the conventional partnership is different.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. This identifies register and naturalness as the risk, rather than correctness or factual accuracy."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "The result changes the factual content of the original, which is the main risk.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A collocation choice affects style rather than the factual content of the message."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "The result will always be correct, since collocations are universal across languages.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Collocations differ between languages, so they are not universal and transfer is not always correct."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "The result will always be ungrammatical, since collocations cannot be transferred between languages.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Word-for-word transfer is often grammatical, so 'always ungrammatical' is too strong."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Translation risk with collocations is a question of conventionality, and this is the distinction that separates a fluent rendering from a literal one.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for finding a solution.",
+      "context": "A report describes solving a problem.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "find a solution of the problem",
+          "is_correct": false,
+          "feedback": "Wrong. 'Solution of' is used with a different sense, referring to a substance dissolved, not to a problem being solved."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "find a solution to the problem",
+          "is_correct": true,
+          "feedback": "Correct. 'Solution to' is the correct preposition, as in the standard phrase a solution to the problem."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "find a solution the problem of.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The problem of' reverses the expected order and misuses 'of' as an adjective."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "find a solution for the problem is clear.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The clause cannot be completed with 'is clear' because the object has already been placed."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Solution takes to when it means an answer to a problem and of when it means the state of being dissolved, and the sense determines the preposition.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for offering assistance.",
+      "context": "A speaker describes helping someone.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "make someone help",
+          "is_correct": false,
+          "feedback": "Wrong. 'Make someone help' would force the person to help, which is a different meaning."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "offer to someone help",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Offer to someone' misplaces the preposition, which would only be used in the alternative structure 'offer something to someone'."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "offer someone help",
+          "is_correct": true,
+          "feedback": "Correct. 'Offer someone something' is a double-object structure in which the indirect object comes before the direct one."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "do someone help",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Do someone help' is not an English collocation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Verbs such as offer, give and send allow both an indirect object structure and a with-preposition alternative, and both are correct.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for causing damage.",
+      "context": "A news report describes damage caused by a storm.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "cause serious damage the building of.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Damage the building of' misuses 'of' as if it were an adjective."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "cause serious damage for the building.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Damage for' would suggest damage intended for the building, which is not the sense."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "cause serious damage of the building",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Damage of' would suggest damage belonging to the building, which reverses the direction."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "cause serious damage to the building",
+          "is_correct": true,
+          "feedback": "Correct. 'Cause damage to' is the standard collocation, with 'to' marking the thing that suffers the damage."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Damage collocates with to, and the preposition marks which entity receives the damage rather than which causes it.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for achieving an improvement.",
+      "context": "A report describes improving a situation.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "improve the situation significantly",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. 'Improve' takes the noun as a direct object, and the adverb correctly follows the object phrase."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "improve the significantly situation.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The significantly situation' misplaces the adverb between the determiner and the noun."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "improve for the situation significantly.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Improve for' would suggest improving something on behalf of the situation."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "improve of the situation significantly.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Improve of' adds a preposition where the verb takes a direct object."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "Some verbs take direct objects with no preposition at all, and adding one produces an ungrammatical or misunderstood sentence.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for an arrangement between two people.",
+      "context": "A manager describes a temporary arrangement.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "make an agreement of the supplier",
+          "is_correct": false,
+          "feedback": "Wrong. 'Agreement of' would suggest an agreement belonging to the supplier rather than one concluded with them."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "make an agreement with the supplier",
+          "is_correct": true,
+          "feedback": "Correct. 'Make an agreement with' is the standard collocation, with 'with' marking the other party."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "make an agreement the supplier of.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The supplier of' misuses 'of' to link a noun to a noun in the place of the correct preposition."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "make an agreement for the supplier.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Agreement for' suggests an agreement made on behalf of someone."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The preposition in a collocation marks the relationship between the parties, so the wrong preposition changes who is involved in what way.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct adjective and noun combination.",
+      "context": "An exam tests a collocation with an adjective and a noun.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "a strong shower of rain",
+          "is_correct": false,
+          "feedback": "Wrong. 'A strong shower' exists but is much less conventional than heavy shower for rainfall."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "a heavy shower from rain",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'From' would mark an origin, which is not the relationship in this phrase."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "a heavy shower of rain",
+          "is_correct": true,
+          "feedback": "Correct. 'A heavy shower of rain' is the conventional combination, and the adjective heavy pairs naturally with shower."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "a heavy shower with rain is likely.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The clause cannot be completed with 'is likely' because the object noun is already present."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Adjective and noun pairs have conventional frequencies, and choosing the dominant adjective is what makes the phrase sound natural.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for reacting to something unexpected.",
+      "context": "A writer describes a person's reaction to news.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "She was taken off by the news.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Taken off' means removed, for instance from a plane, which is unrelated to a reaction to news."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "She was taken down by the news.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Taken down' usually means dismantled or removed, and cannot be followed by 'by' in this sense."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "She was taken over by the news.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Taken over' would mean overwhelmed or replaced, neither of which matches being surprised."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She was taken aback by the news.",
+          "is_correct": true,
+          "feedback": "Correct. 'Taken aback' is the fixed expression for being shocked, and it is a passive collocation."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Some collocations are built on past participles used as adjectives, so the whole fixed phrase has to be recalled as a unit.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the statement that best explains the standard collocation 'deeply regret an apology'.",
+      "context": "A study examines why a collocation is felt as correct.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The verb deeply collocates with regret and the noun regret takes the object apology in this frame, so the whole phrase is conventional.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. This identifies both fixed elements, the adverb with the verb and the noun with its object, which is the lexical constraint."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The phrase is conventional because the speaker feels regret, not because of any lexical constraint.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The conventionality of a collocation is a property of the words, not of the speaker's emotional state."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Regret takes an apology because apologies are the only thing one can regret in English.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The claim is far too strong; regret takes many objects, including a decision or a step too far."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Deeply is an intensifier and can be moved freely to any position in the phrase without changing the sense.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Intensifiers in collocations are frequently tied to particular verbs and cannot always be repositioned freely."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Collocation constraints can operate at more than one level, and describing them accurately requires identifying each fixed element.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct collocation for financial results.",
+      "context": "A report describes a company's finances.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "do a profit last year",
+          "is_correct": false,
+          "feedback": "Wrong. 'Do a profit' is not an English collocation in any variety."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "make a profit last year",
+          "is_correct": true,
+          "feedback": "Correct. 'Make a profit' is the standard collocation, parallel to make a loss and make a decision."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "give a profit last year.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Give a profit' would suggest handing over a profit, which is not the meaning here."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "take a profit last year",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Take a profit' is used in finance to mean a realised gain, but 'make' is the ordinary partner in general business English."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Where two verbs are possible with the same noun, an examination expects the dominant partner in general-purpose English.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the most conventional collocations throughout?",
+      "context": "A writing task asks for the most idiomatic version of a sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "The company took a big decision and made a risk in order to enhance sales.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Took a decision' is possible but less dominant than 'made a decision', and 'made a risk' is unidiomatic."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The company did a big decision and made a risk in order to increase sales.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Did a decision' and 'made a risk' are both unidiomatic, so the sentence fails on two counts."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The company made a big decision and took a risk in order to boost sales.",
+          "is_correct": true,
+          "feedback": "Correct. 'Make a decision', 'take a risk' and 'boost sales' are all the dominant collocations in this context."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The company made a big decision and made a risk in order to boost sales.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Made a risk' is unidiomatic, even though the other three phrases in the sentence are conventional."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A sentence can be grammatical throughout and still sound foreign if its collocations are not the conventional ones.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses the correct collocation for a sudden realisation.",
+      "context": "An exercise tests a collocation that is easily confused with a near-synonym.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "It suddenly hits on me that I am late.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Hits on' is not a standard expression in this sense and sounds like an accidental contact."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "It suddenly strikes on me that I am late.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Strikes on' is not a valid combination; to strike is used without a preposition."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "It suddenly occurs to me that I am late.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Occurs to' is also correct, so this version would be acceptable but the question asks for the dominant form."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It suddenly dawns on me that I am late.",
+          "is_correct": true,
+          "feedback": "Correct. 'It dawns on someone that' is the standard collocation for a sudden realisation, and 'occur to' is a valid alternative."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Several verbs share the same meaning in this frame, and the item tests knowledge of which of them are conventional rather than merely possible.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W22-collocations-common-001-MASTERY-bundle",
       "periodo": 22,
       "protocol_version": "5.2",

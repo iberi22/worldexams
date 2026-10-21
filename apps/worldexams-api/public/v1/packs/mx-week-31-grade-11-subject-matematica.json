@@ -10,7 +10,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v1",
       "statement": "En una alcancía, Juan decide ahorrar cada semana una cantidad que sigue una progresión aritmética: $15, $20, $25, $30... ¿Cuál es el valor de la diferencia común ($d$) de esta sucesión?",
-      "context": "Un ahorro semanal donde se incrementa una cantidad fija.\n**Expected_Success:** 0.85",
+      "context": "Un ahorro semanal donde se incrementa una cantidad fija.",
       "options": [
         {
           "letter": "A",
@@ -19,13 +19,13 @@
           "feedback": "Incorrecto. La diferencia entre 20 y 15 no es 10."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "5",
           "is_correct": true,
           "feedback": "Correcto. 20 - 15 = 5, 25 - 20 = 5. La diferencia es constante."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. 15 es el primer término, no la diferencia."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. La sucesión es creciente, por lo que la diferencia debe ser positiva."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La diferencia común ($d$) se obtiene restando un término cualquiera menos su antecesor: $a_{n} - a_{n-1}$. En este caso, $20 - 15 = 5$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v2",
       "statement": "Una fábrica produce 120 piezas el primer día y aumenta su producción en 8 piezas cada día consecuente. ¿Cuál es el término general ($a_n$) que describe la producción diaria?",
-      "context": "Producción industrial con incremento constante.\n**Expected_Success:** 0.82",
+      "context": "Producción industrial con incremento constante.",
       "options": [
         {
           "letter": "A",
@@ -100,22 +100,22 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v3",
       "statement": "En un auditorio de la CDMX, la primera fila tiene 24 asientos y cada fila posterior tiene 3 asientos más que la anterior. ¿Cuántos asientos hay en la fila número 15?",
-      "context": "Organización de asientos en un auditorio.\n**Expected_Success:** 0.80",
+      "context": "Organización de asientos en un auditorio.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "45",
           "is_correct": false,
           "feedback": "Incorrecto. Has multiplicado 3 por 15 sin sumar la base inicial correctamente."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "69",
           "is_correct": false,
           "feedback": "Incorrecto. Valor cercano pero cálculo erróneo del término n-1."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "66",
           "is_correct": true,
           "feedback": "Correcto. a_15 = 24 + (15-1)3 = 24 + (14)(3) = 24 + 42 = 66."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. Has usado n en lugar de n-1."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Se aplica la fórmula del n-ésimo término: $a_n = a_1 + (n-1)d$. Sustituyendo los valores: $24 + 14 \\times 3 = 66$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -145,22 +145,22 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v4",
       "statement": "¿Cuál de las siguientes sucesiones NO es aritmética?",
-      "context": "Identificación de patrones numéricos.\n**Expected_Success:** 0.88",
+      "context": "Identificación de patrones numéricos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "10, 7, 4, 1, ...",
           "is_correct": false,
           "feedback": "Incorrecto. Es aritmética con d = -3."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "-5, -2, 1, 4, ...",
           "is_correct": false,
           "feedback": "Incorrecto. Es aritmética con d = 3."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "2, 4, 8, 16, ...",
           "is_correct": true,
           "feedback": "Correcto. Esta es una sucesión geométrica donde se multiplica por 2, no se suma una constante."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Es aritmética con d = 1/2."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Una sucesión aritmética requiere que la diferencia entre términos consecutivos sea constante. En la opción C, $4-2=2$ pero $8-4=4$, por lo tanto no es aritmética.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -190,7 +190,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v5",
       "statement": "Un atleta en Guadalajara aumenta su tiempo de entrenamiento 4 minutos cada día. Si el décimo día entrenó durante 75 minutos, ¿cuántos minutos entrenó el primer día?",
-      "context": "Entrenamiento deportivo con incremento de tiempo.\n**Expected_Success:** 0.75",
+      "context": "Entrenamiento deportivo con incremento de tiempo.",
       "options": [
         {
           "letter": "A",
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v6",
       "statement": "Calcula la suma de los primeros 10 términos de la sucesión aritmética: 8, 11, 14, 17...",
-      "context": "Suma de términos en una progresión de ahorro.\n**Expected_Success:** 0.72",
+      "context": "Suma de términos en una progresión de ahorro.",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v7",
       "statement": "Si en una sucesión aritmética el tercer término es 13 y el octavo término es 38, ¿cuál es el valor de la diferencia común ($d$)?",
-      "context": "Interpolar términos en una secuencia de construcción.\n**Expected_Success:** 0.68",
+      "context": "Interpolar términos en una secuencia de construcción.",
       "options": [
         {
           "letter": "A",
@@ -298,7 +298,7 @@
           "letter": "C",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa la resta de los índices."
+          "feedback": "Entre el tercero y el octavo hay cinco posiciones de diferencia, no seis, así que d = (38 - 13)/(8 - 3) = 25/5 = 5 y no 6."
         },
         {
           "letter": "D",
@@ -325,16 +325,16 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v8",
       "statement": "Una computadora de $18,000 pesos se deprecia linealmente $1,200 pesos cada año. ¿En qué año su valor será de $6,000 pesos? (Considera el año 1 como el valor inicial después de la primera depreciación).",
-      "context": "Depreciación lineal de equipo.\n**Expected_Success:** 0.70",
+      "context": "Depreciación lineal de equipo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Año 9",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el planteamiento de la resta."
+          "feedback": "Faltaría un año de depreciación: en el año 9 el valor es 18000 - 1200(9) = 7200, todavía por encima de 6000. Se llega a 6000 en el año 10."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Año 10",
           "is_correct": true,
           "feedback": "Correcto. Valor inicial (a_0) = 18000. a_n = 18000 - 1200n. 6000 = 18000 - 1200n => 1200n = 12000 => n = 10."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El valor sería mayor a 6000."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Modelamos como $a_n = 18000 - 1200n$. Igualamos a 6000 y resolvemos para $n$: $1200n = 12000 \\rightarrow n = 10$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v9",
       "statement": "En una campaña de salud, se entregan 50 folletos el primer día, 62 el segundo, 74 el tercero, y así sucesivamente. ¿Cuántos folletos se entregarán en total durante los primeros 12 días?",
-      "context": "Distribución de folletos informativos.\n**Expected_Success:** 0.74",
+      "context": "Distribución de folletos informativos.",
       "options": [
         {
           "letter": "A",
@@ -379,25 +379,25 @@
           "feedback": "Incorrecto. Este es el valor del día 12 solamente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1,392",
           "is_correct": true,
           "feedback": "Correcto. a_12 = 50 + 11(12) = 182. S_12 = (12/2)(50 + 182) = 6(232) = 1392."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1,152",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo de la suma."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "2,184",
           "is_correct": false,
           "feedback": "Incorrecto. No dividiste entre 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Primero calculamos $a_{12} = 182$ usando $a_n = a_1 + (n-1)d$. Luego usamos $S_{12} = \\frac{12(a_1 + a_{12})}{2} = 6(50 + 182) = 1392$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -415,34 +415,34 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v10",
       "statement": "¿Cuál es el término número 21 de la sucesión: -15, -11, -7, -3, ...?",
-      "context": "Secuencia de números negativos.\n**Expected_Success:** 0.65",
+      "context": "Secuencia de números negativos.",
       "options": [
         {
           "letter": "A",
           "text": "69",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el signo de la diferencia común."
+          "feedback": "69 correspondería a multiplicar por 21 en lugar de por 20. Como el primer término ya ocupa la posición 1, el a₂₁ es -15 + (21 - 1)·4 = -15 + 80 = 65."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "65",
           "is_correct": true,
           "feedback": "Correcto. a_1 = -15, d = 4. a_21 = -15 + (20)(4) = -15 + 80 = 65."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "99",
           "is_correct": false,
           "feedback": "Incorrecto. Cálculo erróneo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-95",
           "is_correct": false,
           "feedback": "Incorrecto. La sucesión es creciente hacia los positivos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Identificamos $a_1 = -15$ y $d = 4$. Aplicamos $a_{21} = -15 + (21-1) \\times 4 = 65$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v11",
       "statement": "Calcula la suma de todos los números múltiplos de 7 comprendidos entre el 1 y el 100.",
-      "context": "Suma de múltiplos de un número.\n**Expected_Success:** 0.55",
+      "context": "Suma de múltiplos de un número.",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v12",
       "statement": "En una sucesión aritmética finita de 15 términos, la suma del tercer término y el decimotercer término es 50. ¿Cuál es el valor de la suma del primer término y el decimoquinto término ($a_1 + a_{15}$)?",
-      "context": "Propiedades de la suma de términos simétricos.\n**Expected_Success:** 0.50",
+      "context": "Propiedades de la suma de términos simétricos.",
       "options": [
         {
           "letter": "A",
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. La suma de extremos no se divide así."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "50",
           "is_correct": true,
           "feedback": "Correcto. En una sucesión aritmética, la suma de términos equidistantes de los extremos es constante: a_1 + a_n = a_k + a_{n-k+1}."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "100",
           "is_correct": false,
           "feedback": "Incorrecto. No hay razón para duplicar el valor."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Depende de la diferencia común d",
           "is_correct": false,
           "feedback": "Incorrecto. Esta propiedad es independiente del valor de d."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Propiedad fundamental: La suma de dos términos equidistantes de los extremos es constante. Como $3 + 13 = 1 + 15$, entonces $a_3 + a_{13} = a_1 + a_{15} = 50$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -550,13 +550,13 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v13",
       "statement": "El cuarto término de una sucesión aritmética es 10 y el sexto término es 16. ¿Cuál es el vigésimo término de esta sucesión?",
-      "context": "Resolución de sistemas lineales mediante sucesiones.\n**Expected_Success:** 0.52",
+      "context": "Resolución de sistemas lineales mediante sucesiones.",
       "options": [
         {
           "letter": "A",
           "text": "55",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el cálculo de la diferencia."
+          "feedback": "55 resulta de tomar a₁ = 0. En realidad d = (16 - 10)/(6 - 4) = 3 y a₁ = 10 - 3·3 = 1, de modo que a₂₀ = 1 + 19·3 = 58."
         },
         {
           "letter": "B",
@@ -595,7 +595,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v14",
       "statement": "Dada la sucesión $100, 93, 86, 79, ...$ ¿Cuál es el primer término que resulta ser negativo?",
-      "context": "Análisis de sucesiones decrecientes.\n**Expected_Success:** 0.48",
+      "context": "Análisis de sucesiones decrecientes.",
       "options": [
         {
           "letter": "A",
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Verifica si este término pertenece realmente a la sucesión."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "-5",
           "is_correct": true,
           "feedback": "Correcto. a_n = 100 + (n-1)(-7) < 0 => 100 - 7n + 7 < 0 => 107 < 7n => n > 15.28. Para n=16: a_16 = 100 + (15)(-7) = 100 - 105 = -5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "-7",
           "is_correct": false,
           "feedback": "Incorrecto. Este sería un término posterior o anterior dependiendo del cálculo."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-2",
           "is_correct": false,
           "feedback": "Incorrecto. Valor no alcanzado por la diferencia de 7."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Planteamos la desigualdad $a_n < 0 \\rightarrow 100 + (n-1)(-7) < 0$. Resolviendo $107 < 7n \\rightarrow n > 15.28$. El primer entero es $n=16$, cuyo valor es $-5$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -640,16 +640,16 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v15",
       "statement": "¿Cuántos términos de la sucesión aritmética $5, 7, 9, ...$ deben sumarse para que el resultado sea 480?",
-      "context": "Suma de una serie con límites definidos.\n**Expected_Success:** 0.45",
+      "context": "Suma de una serie con límites definidos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. S_15 es menor a 480."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "20",
           "is_correct": true,
           "feedback": "Correcto. S_n = (n/2)(2a_1 + (n-1)d) => 480 = (n/2)(10 + (n-1)2) => 480 = (n/2)(2n + 8) => 480 = n^2 + 4n. n^2 + 4n - 480 = 0. Resolviendo: (n+24)(n-20)=0. n=20."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Valor aproximado pero no exacto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usamos $S_n = \\frac{n}{2}[2a_1 + (n-1)d]$. Sustituimos: $480 = \\frac{n}{2}[10 + (n-1)2] \\rightarrow 480 = n^2 + 4n \\rightarrow n^2 + 4n - 480 = 0$. La solución positiva es $n=20$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v16",
       "statement": "Las medidas de los tres ángulos internos de un triángulo están en progresión aritmética. Si el ángulo más pequeño mide 40°, ¿cuánto mide el ángulo más grande?",
-      "context": "Geometría plana relacionada con sucesiones.\n**Expected_Success:** 0.53",
+      "context": "Geometría plana relacionada con sucesiones.",
       "options": [
         {
           "letter": "A",
@@ -730,7 +730,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v17",
       "statement": "Una inversión de $10,000 pesos genera un interés simple mensual constante. Si al cabo de 6 meses el capital total es de $11,500 y al cabo de 12 meses es de $13,000, ¿cuál es la expresión para el capital total $C$ después de $n$ meses?",
-      "context": "Aplicación avanzada en finanzas (interés simple).\n**Expected_Success:** 0.35",
+      "context": "Aplicación avanzada en finanzas (interés simple).",
       "options": [
         {
           "letter": "A",
@@ -775,7 +775,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v18",
       "statement": "Se desean interpolar 4 medios aritméticos entre los números 5 y 25. ¿Cuál es el valor del tercer medio aritmético interpolado?",
-      "context": "Interpolación de múltiples medios aritméticos.\n**Expected_Success:** 0.38",
+      "context": "Interpolación de múltiples medios aritméticos.",
       "options": [
         {
           "letter": "A",
@@ -784,25 +784,25 @@
           "feedback": "Incorrecto. Este es el segundo medio."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "17",
           "is_correct": true,
           "feedback": "Correcto. n = 4 + 2 = 6 términos. a_1=5, a_6=25. d = (25-5)/(6-1) = 20/5 = 4. Sucesión: 5, 9, 13, 17, 21, 25. El tercer medio es el cuarto término: 17."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "15",
           "is_correct": false,
           "feedback": "Incorrecto. No consideras correctamente el número total de términos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "21",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el cuarto medio."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Interpolar 4 medios significa que habrá 6 términos en total. $a_1=5$ y $a_6=25$. $d = (25-5)/5 = 4$. Los medios son $9, 13, 17, 21$. El tercero es $17$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v19",
       "statement": "Si la suma de los primeros $n$ términos de una sucesión está dada por $S_n = 3n^2 + 2n$, ¿cuál es el valor del término $a_{10}$?",
-      "context": "Desafío teórico sobre sumatorias.\n**Expected_Success:** 0.30",
+      "context": "Desafío teórico sobre sumatorias.",
       "options": [
         {
           "letter": "A",
@@ -829,16 +829,16 @@
           "feedback": "Incorrecto. Este es el valor de S_10, no de a_10."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "59",
           "is_correct": true,
           "feedback": "Correcto. a_10 = S_10 - S_9. S_10 = 3(100) + 2(10) = 320. S_9 = 3(81) + 2(9) = 243 + 18 = 261. a_10 = 320 - 261 = 59."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "65",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el cálculo de S_9."
+          "feedback": "65 saldría de restar mal: S₁₀ = 320 y S₉ = 243 + 18 = 261, así que a₁₀ = 320 - 261 = 59."
         },
         {
           "letter": "D",
@@ -847,7 +847,7 @@
           "feedback": "Incorrecto. Error menor en la resta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para cualquier sucesión, $a_n = S_n - S_{n-1}$. Calculamos $S_{10} = 320$ y $S_9 = 261$. La diferencia es $a_{10} = 59$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -865,34 +865,34 @@
     {
       "id": "MX-MAT-11-2026-W31-sucesiones-aritmeticas-001-MASTERY-bundle-v20",
       "statement": "En una sucesión aritmética, se sabe que $a_1 + a_2 + a_3 = 15$ y $a_4 + a_5 + a_6 = 42$. ¿Cuál es el valor del primer término $a_1$?",
-      "context": "Generalización de patrones aritméticos complejos.\n**Expected_Success:** 0.28",
+      "context": "Generalización de patrones aritméticos complejos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. 3a_1 + 3d = 15 => a_1 + d = 5. (a_1+3d) + (a_1+4d) + (a_1+5d) = 42 => 3a_1 + 12d = 42 => a_1 + 4d = 14. Restando ecuaciones: 3d = 9 => d = 3. Sustituyendo: a_1 + 3 = 5 => a_1 = 2."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "5",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor de a_1 + d."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el valor de la diferencia d."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
-          "feedback": "Incorrecto. Revisa el sistema de ecuaciones."
+          "feedback": "El sistema da a₁ + d = 5 y a₁ + 4d = 14; restando, 3d = 9 y d = 3, luego a₁ = 5 - 3 = 2. El 1 corresponde a la diferencia d menos uno, no al primer término."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Planteamos el sistema: 1) $3a_1 + 3d = 15$; 2) $3a_1 + 12d = 42$. Resolviendo por eliminación obtenemos $d = 3$ y $a_1 = 2$.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The route was long, ___ the views from the top were unforgettable.",
+      "context": "The connector that contrasts two ideas of equal weight.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "but",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! But contrasts two complete statements that are both true and equally important."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Because gives a reason, and the views are not the cause of the long route."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "so",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "So gives a result, and the views did not follow from the length of the route."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "and",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "And simply adds, whereas the sentence sets the two ideas against each other."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "But and although do the same job with a different weight. But gives both ideas equal emphasis, while although makes the second one less important.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ it was raining heavily, the match went ahead.",
+      "context": "The connector that makes the second idea less important than the first.",
       "options": [
         {
-          "letter": "A",
-          "text": "itinerary",
+          "letter": "B",
+          "text": "Although",
           "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "feedback": "Correct! Although introduces the concession and makes it less important than the main clause."
         },
         {
-          "letter": "B",
-          "text": "baggage",
+          "letter": "A",
+          "text": "Because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Because gives a reason, and the rain is not what caused the match to go ahead."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "However needs a full clause after it, and a bare clause after it is not a correct use in this position."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "So",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "So introduces a result, and the sentence gives no result of the rain."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "Although, though, even though and while all introduce a concession. They signal that the second idea is true but less important than the first.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "She studied for hours, ___ she passed with the highest mark.",
+      "context": "The connector that gives a result.",
       "options": [
         {
-          "letter": "A",
-          "text": "destination",
+          "letter": "C",
+          "text": "so",
           "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "feedback": "Correct! So introduces the result that follows from what came before."
+        },
+        {
+          "letter": "A",
+          "text": "but",
+          "is_correct": false,
+          "feedback": "But would contrast the two clauses, and the second is a result of the first rather than an opposite idea."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "or",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Or introduces a choice or an alternative, and there is no choice being offered."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Because gives a reason and would need to introduce the first clause instead."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "So, therefore and as a result all signal consequence. The first clause is the cause and the second is what followed from it.\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The exam was difficult. ___, most students passed.",
+      "context": "The contrastive adverb used with a full stop or a comma.",
       "options": [
         {
-          "letter": "A",
-          "text": "luggage",
+          "letter": "D",
+          "text": "However",
           "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "feedback": "Correct! However is a connector word and needs punctuation around it when it stands between two sentences."
+        },
+        {
+          "letter": "A",
+          "text": "Although",
+          "is_correct": false,
+          "feedback": "Although introduces a subordinate clause, and there is no second clause to attach it to here."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "Therefore",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Therefore signals a result, but the second statement is the opposite of what the first suggests."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative that would happen instead, which is not the relationship here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "However, therefore and otherwise are adverbs rather than conjunctions. They are followed by a comma or a full stop and then a new statement.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ we left early, we missed the last bus.",
+      "context": "The connector that gives a reason at the start of a sentence.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "Because",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! Because introduces the reason and takes a full clause after it."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Although introduces a concession, and leaving early is the reason rather than a contrast."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Unless",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Unless introduces a condition and needs a main clause, which this sentence does not have."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative outcome and cannot stand as the only clause in a sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Because, since and as introduce a reason. Since and as are lighter than because and are common in speech and in informal writing.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "We can travel by bus ___ by plane.",
+      "context": "The connector that presents two options of equal value.",
       "options": [
         {
-          "letter": "A",
-          "text": "customs",
+          "letter": "B",
+          "text": "or",
           "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "feedback": "Correct! Or presents the second of two alternatives."
         },
         {
-          "letter": "B",
-          "text": "security",
+          "letter": "A",
+          "text": "but",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "But contrasts, and these two options are not opposed to each other."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "and",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "And would suggest both are used together, and the sentence offers a choice."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "so",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "So introduces a result, and no result is being reported."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Or presents alternatives, and either is the word that introduces the first of them. Either and or work as a pair in formal writing.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -279,37 +279,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ he had studied for weeks, he still made several mistakes.",
+      "context": "The connector that signals a surprising contrast.",
       "options": [
         {
-          "letter": "A",
-          "text": "boarding pass",
+          "letter": "C",
+          "text": "Even though",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct! Even though highlights the contrast and suggests the result was unexpected."
+        },
+        {
+          "letter": "A",
+          "text": "Even so",
+          "is_correct": false,
+          "feedback": "Even so is an adverb that needs a full stop before it, and it cannot take a clause in this position."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "Because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Because would make the studying the cause of the mistakes, which reverses the logic."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "Unless",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Unless introduces a condition, and no conditional structure exists in the sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Even though and despite are the strongest contrast connectors. The stronger they are, the more unexpected the following result sounds.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ the cost of the trip, the students decided to go by bus.",
+      "context": "The preposition form of contrast, which needs a noun phrase.",
       "options": [
         {
-          "letter": "A",
-          "text": "sightseeing",
+          "letter": "D",
+          "text": "Despite",
           "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "feedback": "Correct! Despite is a preposition and is followed by a noun phrase, not by a clause."
+        },
+        {
+          "letter": "A",
+          "text": "Despite of",
+          "is_correct": false,
+          "feedback": "Of cannot follow despite, and that is one of the classic errors in this structure."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Although is a conjunction and needs a clause, and the sentence has a noun phrase instead."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "However is an adverb and cannot be followed by a noun phrase directly."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "Despite and although do the same job in different grammatical ways. Despite takes a noun phrase, and although takes a clause.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The second test was much harder ___ the first one.",
+      "context": "The contrast conjunction used in a fixed phrase with a comparative.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "than",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! Than introduces the second element of a comparison and contrasts the two things directly."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "then",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Then refers to time, and the sentence is comparing two tests rather than their order."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "that",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "That introduces a clause or a noun, and it cannot follow a comparative."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "as",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "As with a comparative marks equality, and the sentence states a clear difference."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Than compares two different things, while as and like compare two things that are presented as similar or equal.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,37 +414,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "He arrived late, ___ he still got a good grade.",
+      "context": "The connector that introduces an unexpected result.",
       "options": [
         {
-          "letter": "A",
-          "text": "delay",
+          "letter": "B",
+          "text": "yet",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct! Yet signals that the second clause was not the expected outcome."
         },
         {
-          "letter": "B",
-          "text": "cancellation",
+          "letter": "A",
+          "text": "so",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "So would give a logical result, and a good grade does not follow from arriving late."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "because",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Because introduces a reason, and the sentence is not explaining why the grade was good."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "or",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Or introduces an alternative, and there is no choice in the sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "Yet, still and nevertheless all point at an unexpected result. They are the classic alternatives to but, and they need a comma or a full stop around them.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -459,37 +459,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "This restaurant is ___ cheap as the one near the market.",
+      "context": "The connector that compares two things as similar.",
       "options": [
         {
-          "letter": "A",
-          "text": "check-in",
+          "letter": "C",
+          "text": "as",
           "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "feedback": "Correct! As plus adjective plus as marks equality between two things."
+        },
+        {
+          "letter": "A",
+          "text": "than",
+          "is_correct": false,
+          "feedback": "Than marks a difference, and the sentence presents the two prices as equal."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "so",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "So introduces a result, and no result is being reported."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "enough",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Enough has a different structure entirely, and it does not express comparison."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "As plus adjective plus as and as plus adverb plus as both mark equality. The two halves must be parallel in their grammatical form.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "I thought the meeting was on Monday. ___, it has been moved to Thursday.",
+      "context": "The connector used to correct something somebody has just said.",
       "options": [
         {
-          "letter": "A",
-          "text": "layover",
+          "letter": "D",
+          "text": "Actually",
           "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "feedback": "Correct! Actually introduces a correction of what the listener believed."
+        },
+        {
+          "letter": "A",
+          "text": "Anyway",
+          "is_correct": false,
+          "feedback": "Anyway changes the subject rather than correcting what was said before."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative outcome, and the correction is not a conditional consequence."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Instead",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Instead signals a substitution, and the sentence is correcting a date rather than replacing an action."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Actually and in fact both correct an assumption the listener was making. They are useful in speaking and in informal argument.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The plan is expensive. ___, it may save money in the long run.",
+      "context": "The connector that adds a limiting point to an argument.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "However",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! However introduces a point that limits the first one without contradicting it."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative that would happen instead, and no such alternative is given."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "Instead",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Instead signals a replacement, and the second statement adds to the first rather than replacing it."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "Therefore",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Therefore would draw a conclusion, and the sentence is qualifying rather than concluding."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "A limiting connector concedes a point and then adds a qualification. It is weaker than a contradiction and stronger than a simple addition.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you book early, you will not get a cheaper fare.",
+      "context": "The conjunction that introduces a negative condition.",
       "options": [
         {
-          "letter": "A",
-          "text": "guidebook",
+          "letter": "B",
+          "text": "Unless",
           "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "feedback": "Correct! Unless plus a positive form means if plus not, which is what the sentence needs."
         },
         {
-          "letter": "B",
-          "text": "map",
+          "letter": "A",
+          "text": "If",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "If plus a positive clause would reverse the meaning, because the fare is cheaper when you book early."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "Until",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Until refers to time and needs a main clause about a duration or a point in time."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Though",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Though introduces a concession, and the sentence is stating a condition."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Unless is the standard conditional negative in English. If you do not book early, you will not get a cheaper fare means exactly the same thing.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -639,40 +639,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ the delays, the team arrived in time for the final.",
+      "context": "The connector that says a thing is true in spite of a difficulty.",
       "options": [
         {
-          "letter": "A",
-          "text": "backpack",
+          "letter": "C",
+          "text": "Despite",
           "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "feedback": "Correct! Despite is a preposition and takes the noun phrase the delays directly."
+        },
+        {
+          "letter": "A",
+          "text": "Despite of",
+          "is_correct": false,
+          "feedback": "Of cannot follow despite, and the phrase despite of is always wrong."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "In spite of",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "In spite of is a correct phrase but is a three-word alternative, and the single word is the direct choice here."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Although",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Although needs a clause, and the sentence provides a noun phrase instead."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Despite, in spite of and notwithstanding all take a noun phrase. Note that despite never takes of after it.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "___ you study regularly, your results will improve quickly.",
+      "context": "The connector that introduces a comparison of two similar situations.",
       "options": [
         {
-          "letter": "A",
-          "text": "overseas",
+          "letter": "D",
+          "text": "If",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct! If plus present introduces a real condition, and the result is a probable future one."
+        },
+        {
+          "letter": "A",
+          "text": "Whether",
+          "is_correct": false,
+          "feedback": "Whether introduces an indirect question or an alternative, and it cannot govern a result clause."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "Unless",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Unless plus a positive form would mean if you do not study, which is the opposite of the intended meaning."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "As",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "As can introduce a reason, and studying is being presented as a condition with a result."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "If introduces the first conditional when the condition is real and the result is likely. That combination is the standard exam pattern.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -729,40 +729,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The film received good reviews. ___, I found it rather slow.",
+      "context": "The connector that changes the direction of an argument.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "Nevertheless",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! Nevertheless contrasts a second statement that runs against the first."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "Therefore",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Therefore draws a conclusion, and the second statement goes against the first rather than following it."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Furthermore",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Furthermore adds supporting information, and the second statement is opposite to the first."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "Accordingly",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Accordingly signals that something was done in response, and there is no such action in the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Nevertheless, however and yet all express a contrast between two statements. Nevertheless is the most formal of the three.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -774,40 +774,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The course is expensive. ___, it includes all the materials you need.",
+      "context": "The connector that adds extra information to an argument.",
       "options": [
         {
-          "letter": "A",
-          "text": "insurance",
+          "letter": "B",
+          "text": "Moreover",
           "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "feedback": "Correct! Moreover adds a further point in favour of the same point the sentence is making."
         },
         {
-          "letter": "B",
-          "text": "warranty",
+          "letter": "A",
+          "text": "Nevertheless",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nevertheless contradicts the first statement, and the second point supports the overall argument instead."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative outcome, and no alternative is being described."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "However qualifies or contradicts the first point, and the second point adds to it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Moreover, furthermore, in addition and also all add a supporting point. They are the connectors of a developing argument rather than a contrast.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -819,40 +819,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The roads were closed and the trains were cancelled. ___, we had to drive the long way.",
+      "context": "The connector used to state a conclusion from what has just been said.",
       "options": [
         {
-          "letter": "A",
-          "text": "vaccination",
+          "letter": "C",
+          "text": "Therefore",
           "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "feedback": "Correct! Therefore draws a conclusion that follows logically from the two facts before it."
+        },
+        {
+          "letter": "A",
+          "text": "Otherwise",
+          "is_correct": false,
+          "feedback": "Otherwise introduces an alternative, and the sentence is stating what did happen."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "However",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "However would contrast the conclusion with the facts, and the conclusion agrees with them."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Instead",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Instead signals a substitution for something mentioned before, and there is nothing being replaced."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "Therefore, consequently and as a result all conclude an argument. The first clause gives the reason and the last gives what followed from it.\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,
@@ -864,40 +864,40 @@
     },
     {
       "id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Many students work while studying. ___, my cousin combines a part-time job with a full course.",
+      "context": "The connector that introduces a specific example of a general point.",
       "options": [
         {
-          "letter": "A",
-          "text": "jet lag",
+          "letter": "D",
+          "text": "For example",
           "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "feedback": "Correct! For example introduces a particular case that illustrates the general statement before it."
+        },
+        {
+          "letter": "A",
+          "text": "Therefore",
+          "is_correct": false,
+          "feedback": "Therefore would draw a conclusion from the general statement, and the second clause is an illustration rather than a conclusion."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Otherwise",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Otherwise introduces an alternative, and there is no alternative situation being described."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Similarly",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Similarly would add a second example, and the connector is already introducing the first one."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "For example, for instance and such as all introduce an illustration. The general point comes first, and the specific case follows it.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W18-connectors-contrast-001-MASTERY-bundle",
       "periodo": 18,

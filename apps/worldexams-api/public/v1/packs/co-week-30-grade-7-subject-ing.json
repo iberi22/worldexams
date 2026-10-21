@@ -19,27 +19,27 @@
           "feedback": "Incorrect. You can count carrots."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sugar",
           "is_correct": true,
           "feedback": "Correct! Sugar is a substance and is uncountable."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Banana",
           "is_correct": false,
           "feedback": "Incorrect. You can count bananas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Egg",
           "is_correct": false,
           "feedback": "Incorrect. You can count eggs."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student identifies basic noun countability categories.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -80,7 +80,7 @@
           "letter": "D",
           "text": "More cheap",
           "is_correct": false,
-          "feedback": "Incorrect form."
+          "feedback": "'Cheap' is a short adjective, so the superlative is built with '-est', not with 'more' as it would be for a long adjective."
         }
       ],
       "correct_answer": "B",
@@ -105,13 +105,13 @@
       "context": "Using quantifiers for a small number.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "a little",
           "is_correct": false,
           "feedback": "Incorrect. Books are countable."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "a few",
           "is_correct": true,
           "feedback": "Correct! \"A few\" is for a small number of countable items."
@@ -129,9 +129,9 @@
           "feedback": "Incorrect. \"Many\" would make the bag heavy."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student understands the correct quantifier based on countability and contextual logic.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -177,7 +177,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student understands the structural requirements for the \"going to\" future.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Long adjectives don't take -er."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "more expensive",
           "is_correct": true,
           "feedback": "Correct! Comparative form for a long adjective."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "the most expensive",
           "is_correct": false,
           "feedback": "Incorrect. Use comparative for two things."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Missing the second \"as\"."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies comparative rules for long adjectives.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W30-final-review-p3-006-v1",
       "statement": "Which item did they buy the most of?",
-      "context": "A description of a family's grocery shopping.\n\"We bought many oranges and a few pineapples. We also bought some rice and a bottle of oil. We didn't buy any meat because we already had some at home.\"",
+      "context": "A description of a family's grocery shopping.\n\n\"We bought many oranges and a few pineapples. We also bought some rice and a bottle of oil. We didn't buy any meat because we already had some at home.\"",
       "options": [
         {
           "letter": "A",
@@ -269,7 +269,7 @@
       ],
       "correct_answer": "A",
       "explanation": "The student applies reading strategies to compare quantities expressed with different quantifiers.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. You wouldn't promise to forget."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "won't",
           "is_correct": true,
           "feedback": "Correct! \"Won't\" is the negative future used for a promise not to do something."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "am not",
           "is_correct": false,
           "feedback": "Incorrect. Missing \"going to\"."
@@ -313,9 +313,9 @@
           "feedback": "Incorrect. Not the standard tense for a specific future promise."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the future auxiliary \"will\" (negative form) to express a promise.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -335,19 +335,19 @@
       "context": "Analyzing comparative and superlative forms of irregular adjectives.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Pizza is the better food in the world.",
           "is_correct": false,
           "feedback": "Incorrect. Needs the superlative \"best\"."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Fruits are more good for your health than candy.",
           "is_correct": false,
           "feedback": "Incorrect. Comparative of \"good\" is \"better\"."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Vegetables are better for your health than candy.",
           "is_correct": true,
           "feedback": "Correct! \"Better\" is the correct comparative of \"good\"."
@@ -359,7 +359,7 @@
           "feedback": "Incorrect. \"Bestest\" is not a word; \"best\" is already superlative."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "The student analyzes the correct use of irregular comparative and superlative forms.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -378,7 +378,7 @@
     {
       "id": "CO-ING-7-2026-W30-final-review-p3-009-v1",
       "statement": "Whose plan is the most certain and pre-arranged?",
-      "context": "Comparing three plans based on certainty.\n\"Mateo: I think I'll go to the park. / Ana: I am going to the park at 4 PM. / Luis: I might go to the park later.\"",
+      "context": "Comparing three plans based on certainty.\n\n\"Mateo: I think I'll go to the park. / Ana: I am going to the park at 4 PM. / Luis: I might go to the park later.\"",
       "options": [
         {
           "letter": "A",
@@ -387,27 +387,27 @@
           "feedback": "Incorrect. \"I think I'll\" is a spontaneous/uncertain future."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Ana's",
           "is_correct": true,
           "feedback": "Correct! \"I am going\" (present continuous for future) or \"I am going to go\" shows a firm plan with a specific time."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Luis's",
           "is_correct": false,
           "feedback": "Incorrect. \"Might\" shows low certainty."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "All are equally certain.",
           "is_correct": false,
           "feedback": "Incorrect. The different structures show different levels of commitment."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes the nuances of future structures to determine the level of certainty or arrangement.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W30-final-review-p3-010-v1",
       "statement": "Which evaluation best captures the essence of the text?",
-      "context": "Evaluating an argument about healthy living.\n\"Living a healthy life is easier than most people think. It's not about being the best athlete, but about being better than you were yesterday. Small steps, like eating more fruit, are better than no steps at all.\"",
+      "context": "Evaluating an argument about healthy living.\n\n\"Living a healthy life is easier than most people think. It's not about being the best athlete, but about being better than you were yesterday. Small steps, like eating more fruit, are better than no steps at all.\"",
       "options": [
         {
           "letter": "A",

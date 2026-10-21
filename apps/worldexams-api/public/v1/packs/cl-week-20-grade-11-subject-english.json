@@ -13,13 +13,13 @@
       "context": "Review of global issues (W01).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Weather",
           "is_correct": false,
           "feedback": "Incorrect. Weather is short-term."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Climate change",
           "is_correct": true,
           "feedback": "Correct. Refers to long-term global shifts."
@@ -37,9 +37,9 @@
           "feedback": "Incorrect. A forecast is a prediction."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Climate change' is the term for the broad, long-term modifications of global climate.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -58,13 +58,13 @@
       "context": "Review of technology (W02).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "will automate",
           "is_correct": false,
           "feedback": "Incorrect. Active voice."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "will have been automated",
           "is_correct": true,
           "feedback": "Correct. Future perfect passive for a completed state."
@@ -82,7 +82,7 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The future perfect passive indicates that the automation process will be a finished reality by 2040.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Review of health (W03).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "didn't start",
           "is_correct": false,
           "feedback": "Incorrect. Second conditional."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "hadn't started",
           "is_correct": true,
           "feedback": "Correct. Mixed conditional (past action, present result)."
@@ -127,9 +127,9 @@
           "feedback": "Incorrect. Present perfect."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The mixed conditional connects a past hypothetical action with its present consequence.\n\n---",
-      "difficulty": "5",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -196,28 +196,28 @@
           "letter": "A",
           "text": "optional",
           "is_correct": false,
-          "feedback": "Incorrect. Modern markets make it necessary."
-        },
-        {
-          "letter": "B",
-          "text": "essential",
-          "is_correct": true,
-          "feedback": "Correct. Essential means absolutely necessary."
+          "feedback": "Optional means it can be skipped, which contradicts the claim that it is needed to survive professionally."
         },
         {
           "letter": "C",
+          "text": "essential",
+          "is_correct": true,
+          "feedback": "Essential means absolutely necessary, which is how the text presents lifelong learning."
+        },
+        {
+          "letter": "B",
           "text": "redundant",
           "is_correct": false,
-          "feedback": "Incorrect. Unnecessary."
+          "feedback": "Redundant means unnecessary, the opposite of what the text says."
         },
         {
           "letter": "D",
           "text": "academic",
           "is_correct": false,
-          "feedback": "Incorrect. It refers to learning in all areas of life."
+          "feedback": "Academic refers only to formal study, while lifelong learning covers work, technology and daily life."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Essential' captures the necessity described in the text for continuous learning.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -264,7 +264,7 @@
       ],
       "correct_answer": "B",
       "explanation": "'Renewable' is the term for energy sources that do not run out.\n\n---",
-      "difficulty": "3",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -309,7 +309,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The present continuous passive describes the current and ongoing effect of these factors on the economy.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -328,33 +328,33 @@
       "context": "Review of travel (W08).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "track",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "To 'track' would mean to record or follow it, but the sentence is about reducing the impact that is left behind."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "footprint",
           "is_correct": true,
-          "feedback": "Correct. Footprint refers to the impact left behind."
+          "feedback": "A 'footprint' is the mark an activity leaves on the environment, and the sentence is about minimising it."
         },
         {
           "letter": "C",
           "text": "shadow",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Shadow' means the dark shape something casts, which is not an environmental impact."
         },
         {
           "letter": "D",
           "text": "path",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Path' is a route taken, not the residue an activity leaves behind."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Environmental footprint' is the standard term for the measure of human impact on nature.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -373,33 +373,33 @@
       "context": "Review of art (W09).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "I had seen",
           "is_correct": false,
-          "feedback": "Incorrect. After 'Never', we need inversion."
+          "feedback": "The subject 'I' must come after the auxiliary, so 'I had seen' cannot follow the negative 'Never' at the start."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "had I seen",
           "is_correct": true,
-          "feedback": "Correct. Inversion after the negative adverbial 'Never'."
+          "feedback": "A negative fronted adverbial like 'Never' triggers subject-auxiliary inversion, giving 'had I seen'."
         },
         {
           "letter": "C",
           "text": "I saw",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'I saw' is the simple past and leaves the subject in place, so no inversion happens."
         },
         {
           "letter": "D",
           "text": "saw I",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Saw I' misplaces the auxiliary after the subject; inversion needs the auxiliary first."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Inversion (verb before subject) is required when a sentence starts with a negative adverbial like 'Never'.\n\n---",
-      "difficulty": "4",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -418,13 +418,13 @@
       "context": "Review of social trends (W10).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "connection",
           "is_correct": true,
           "feedback": "Correct. Positive side of technology."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "wealth",
           "is_correct": false,
           "feedback": "Incorrect. Unrelated to the social point."
@@ -442,7 +442,7 @@
           "feedback": "Incorrect. Unrelated to the paradox described."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Connection' is the social benefit that contrasts with the 'isolation' mentioned in the paradox.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -463,33 +463,33 @@
       "context": "Review of dream jobs (W11).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "employee",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "An employee works for someone else and takes no business risk, which is the opposite of the definition."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "entrepreneur",
           "is_correct": true,
-          "feedback": "Correct. Starts and manages their own business."
+          "feedback": "An entrepreneur starts a business and takes the financial risk, matching the definition."
         },
         {
           "letter": "C",
           "text": "consumer",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "A consumer buys goods or services and does not start or run a company."
         },
         {
           "letter": "D",
           "text": "intern",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "An intern is a temporary trainee gaining work experience, not a business owner."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Entrepreneur' is the specific term for someone who launches a business venture.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -511,30 +511,30 @@
           "letter": "A",
           "text": "ought confess",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
-        },
-        {
-          "letter": "B",
-          "text": "ought to have confessed",
-          "is_correct": true,
-          "feedback": "Correct. Past moral obligation that wasn't met."
+          "feedback": "The modal 'ought' needs 'to' before the infinitive, so 'ought confess' is ungrammatical."
         },
         {
           "letter": "C",
+          "text": "ought to have confessed",
+          "is_correct": true,
+          "feedback": "'Ought to have' plus past participle expresses an obligation in the past that was not fulfilled, which is the case here."
+        },
+        {
+          "letter": "B",
           "text": "should confess",
           "is_correct": false,
-          "feedback": "Incorrect. Present/future obligation."
+          "feedback": "'Should confess' is a present or future obligation, but the confession is already in the past."
         },
         {
           "letter": "D",
           "text": "must confess",
           "is_correct": false,
-          "feedback": "Incorrect. Present/future."
+          "feedback": "'Must confess' also states a present obligation; the speaker is already regretting the past."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "'Ought to have + past participle' expresses a moral obligation in the past.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -556,30 +556,30 @@
           "letter": "A",
           "text": "gossip",
           "is_correct": false,
-          "feedback": "Incorrect."
-        },
-        {
-          "letter": "B",
-          "text": "peer review",
-          "is_correct": true,
-          "feedback": "Correct. Professional evaluation system."
-        },
-        {
-          "letter": "C",
-          "text": "censorship",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Gossip is informal talk and is not a formal quality-control system."
         },
         {
           "letter": "D",
+          "text": "peer review",
+          "is_correct": true,
+          "feedback": "Peer review is the professional evaluation by other researchers that guarantees the validity of results."
+        },
+        {
+          "letter": "B",
+          "text": "censorship",
+          "is_correct": false,
+          "feedback": "Censorship means blocking information, not checking its quality."
+        },
+        {
+          "letter": "C",
           "text": "promotion",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Promotion is advertising, and the sentence is about verifying methods."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Peer review' is the critical quality control process in the scientific community.\n\n---",
-      "difficulty": "5",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -624,7 +624,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The past perfect continuous emphasizes the length of the struggle leading up to the turning point.\n\n---",
-      "difficulty": "4",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -649,27 +649,27 @@
           "feedback": "Incorrect. Opposite of resilience."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Resilience",
           "is_correct": true,
           "feedback": "Correct. Definition provided."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Apathy",
           "is_correct": false,
           "feedback": "Incorrect. Lack of interest."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Greed",
           "is_correct": false,
           "feedback": "Incorrect. Selfish desire."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Resilience' is the recognized term for psychological and emotional strength in the face of adversity.\n\n---",
-      "difficulty": "6",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -691,30 +691,30 @@
           "letter": "A",
           "text": "Sympathy",
           "is_correct": false,
-          "feedback": "Incorrect. Sympathy is feeling for; empathy is feeling with."
-        },
-        {
-          "letter": "B",
-          "text": "Empathy",
-          "is_correct": true,
-          "feedback": "Correct. Core communication skill."
-        },
-        {
-          "letter": "C",
-          "text": "Apathy",
-          "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Sympathy is feeling for someone who is suffering; empathy is understanding and sharing their feelings."
         },
         {
           "letter": "D",
+          "text": "Empathy",
+          "is_correct": true,
+          "feedback": "Empathy is the ability to understand and share another's feelings, which is the definition given."
+        },
+        {
+          "letter": "B",
+          "text": "Apathy",
+          "is_correct": false,
+          "feedback": "Apathy is the absence of feeling, the opposite of empathy."
+        },
+        {
+          "letter": "C",
           "text": "Hostility",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Hostility is active dislike, not the capacity to share feelings."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "'Empathy' is fundamental for effective and compassionate human communication.\n\n---",
-      "difficulty": "3",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -736,30 +736,30 @@
           "letter": "A",
           "text": "used to",
           "is_correct": false,
-          "feedback": "Incorrect. Past habit."
+          "feedback": "'Used to' describes a habit in the past that no longer holds, but the city is in the middle of adjusting now."
         },
         {
           "letter": "B",
           "text": "is getting used to",
           "is_correct": true,
-          "feedback": "Correct. Process of becoming accustomed."
+          "feedback": "'Is getting used to' is the structure for a process of becoming accustomed, which matches 'is getting'."
         },
         {
           "letter": "C",
           "text": "uses to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'Uses to' is not a verb form in English; the past habit is 'used to'."
         },
         {
           "letter": "D",
           "text": "get used to",
           "is_correct": false,
-          "feedback": "Incorrect grammar."
+          "feedback": "'Get used to' would need a 'to'-infinitive after it and cannot fill this progressive position."
         }
       ],
       "correct_answer": "B",
       "explanation": "'Be getting used to' describes the current process of adaptation to a new situation.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -778,33 +778,33 @@
       "context": "Review of digital citizenship (W18).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "path",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Path' means a route, not the record of what you do online."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "footprint",
           "is_correct": true,
-          "feedback": "Correct. Standard term."
+          "feedback": "'A digital footprint' is the standard term for the record of your online activity."
         },
         {
           "letter": "C",
           "text": "shadow",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "'Shadow' means a dark image cast by an object, not an online record."
         },
         {
           "letter": "D",
           "text": "ID",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "An 'ID' identifies a person or account but does not record activity."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "'Digital footprint' is the metaphorical term for the data trail left by internet users.\n\n---",
-      "difficulty": "5",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -849,7 +849,7 @@
       ],
       "correct_answer": "B",
       "explanation": "In reported speech, we backshift tenses: 'My book has been...' becomes '...said that his book had been...'.\n\n---",
-      "difficulty": "4",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -868,13 +868,13 @@
       "context": "Summary of Period 1 themes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "interconnectedness",
           "is_correct": true,
           "feedback": "Correct. The state of being connected with each other."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "isolation",
           "is_correct": false,
           "feedback": "Incorrect. Themes showed how everything is linked."
@@ -892,9 +892,9 @@
           "feedback": "Incorrect. These issues are highly relevant."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "'Interconnectedness' captures the recurring theme of how different global and personal factors affect one another.",
-      "difficulty": "6",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

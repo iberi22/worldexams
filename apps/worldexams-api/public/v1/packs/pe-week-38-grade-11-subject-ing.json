@@ -9,37 +9,37 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening is appropriate for a formal letter of complaint?",
+      "context": "A student must write a formal letter of complaint.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "Dear Sir or Madam,",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Dear Sir or Madam' is the standard formal salutation when the recipient is unknown."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "Dear Mate,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Dear Mate' is a familiar form of address used among peers."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "Hey,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Hey' is far too informal for a complaint to an organisation."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Hi there,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Hi there' is conversational and belongs to an informal message."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "A formal letter opens with a full salutation and a conventional form of address appropriate to an unknown recipient.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -54,36 +54,36 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which closing is appropriate for a formal letter?",
+      "context": "A student must close a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "See you soon,",
+          "is_correct": false,
+          "feedback": "Wrong. 'See you soon' is a friendly phrase that does not close a formal letter."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Yours faithfully,",
+          "is_correct": true,
+          "feedback": "Correct. 'Yours faithfully' is the standard neutral formal closing used when the recipient's name is not addressed in the salutation."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "Love,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Love' is an affectionate closing used between people who know each other."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "Bye for now,",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Bye for now' is a casual sign-off used with friends."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "The closing of a formal letter matches its opening: yours faithfully when the salutation did not name the recipient, and yours sincerely when it did.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
@@ -99,40 +99,40 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that reports information correctly in a formal register.",
+      "context": "A student must report information in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "Just letting you know they moved the booking to March.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Just letting you know' is conversational and 'they' leaves the agent vague."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "I'm writing to let you know the booking's been moved to the 12th of March.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The contraction, 'let you know' and the ordinal date are all informal."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am writing to inform you that the booking has been moved to 12 March.",
+          "is_correct": true,
+          "feedback": "Correct. 'I am writing to inform you that' is the standard formal formula, and the full date is written out."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "The booking, you will be aware, has been moved.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'You will be aware' presumes the reader's knowledge and gives no date."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Formal letters avoid contractions and conversational formulas, and they state dates and agents explicitly.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that makes the request most politely in a formal register.",
+      "context": "A student must make a polite request in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "Just confirm the arrangement by Friday, will you.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Just' and 'will you' are both informal and the request is not softened."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "You need to confirm the arrangement by Friday, apparently.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Apparently' adds an irrelevant qualifier and 'need to' makes the demand abrupt."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "Confirm the arrangement by Friday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The bare imperative gives an order and does not soften anything."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I would be grateful if you could confirm the arrangement by Friday.",
+          "is_correct": true,
+          "feedback": "Correct. 'I would be grateful if you could' is a conventional formal structure that softens the request."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "A formal request is softened with a conditional structure or with a modal verb such as would, rather than with a bare imperative.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that expresses formal dissatisfaction without overstating it.",
+      "context": "A student must express dissatisfaction formally.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "I am writing to express my dissatisfaction with the delay in responding to my previous letter.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. 'I am writing to express my dissatisfaction' is the standard formal formula and names the issue precisely."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "Look, the delay is rubbish.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Look' and 'rubbish' belong to casual speech, not to a formal letter."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Honestly the delay is pretty poor and I'm not happy.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Honestly', 'pretty poor' and 'not happy' are all informal."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "This is unacceptable and somebody must sort it out.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is shouted rather than formal, and 'somebody' leaves the responsibility unassigned."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Formal correspondence states dissatisfaction with a set formula and precise reference rather than with emotional shorthand.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which order of sections is standard for a formal letter?",
+      "context": "A student must structure a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "Salutation, anecdote, closing request, body with detail, formal sign-off.",
+          "is_correct": false,
+          "feedback": "Wrong. The anecdote and the closing request are placed before the body that should support them."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Salutation, opening purpose, body with detail, closing request, formal sign-off.",
+          "is_correct": true,
+          "feedback": "Correct. This is the conventional order, moving from identification of purpose to detail and then to the request."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Closing request, salutation, body with detail, opening purpose, formal sign-off.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The letter cannot begin with a request before the reader has been addressed or told its purpose."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "Body with detail, salutation, opening purpose, formal sign-off, closing request.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sign-off cannot come before the closing request, and the salutation must open the letter."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "A formal letter follows a fixed order, and the salutation and sign-off frame a body that develops from purpose to detail.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "When is 'Yours sincerely' the correct closing rather than 'Yours faithfully'?",
+      "context": "A student is checking the difference between the two formal closings.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "When the letter is a complaint rather than a request.",
+          "is_correct": false,
+          "feedback": "Wrong. The choice depends on the salutation, not on the purpose of the letter."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "When the recipient's name is unknown, as in 'Dear Sir or Madam'.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. An unnamed recipient is answered with 'Yours faithfully', which is the opposite of this."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "When the salutation named the recipient directly, as in 'Dear Dr Ramos'.",
+          "is_correct": true,
+          "feedback": "Correct. A named recipient in the salutation is answered with 'Yours sincerely'."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "When the letter is addressed to more than one person.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The number of recipients is not what determines the closing."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "The two closings are chosen by whether the salutation named the recipient, which is a rule writers are expected to know precisely.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revision removes the informality from the request?",
+      "context": "A student is revising a formal letter that is too informal.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "Can you maybe send the replacement over whenever?",
+          "is_correct": false,
+          "feedback": "Wrong. 'Maybe' and 'whenever' make the request vague and conversational."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Send the replacement by courier when you get a chance.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The bare imperative gives an instruction with no softening at all."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "Could you chuck me the replacement by courier, cheers.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Chuck me' and 'cheers' are both informal and out of place in a formal letter."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I would appreciate it if you could send the replacement by courier.",
+          "is_correct": true,
+          "feedback": "Correct. 'I would appreciate it if you could' is a formal conditional request and the wording throughout is appropriate."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Formality in a request depends on the frame around the verb as much as on the verb itself, since even send becomes informal as an order.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that refers to an earlier letter correctly and formally.",
+      "context": "A student must refer to an earlier document in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "I am writing in response to your letter of 3 May regarding the same matter.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. 'In response to your letter of' plus the date is the standard formal formula for referring to earlier correspondence."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "I am writing about the letter you sent me last week, the one about the matter.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The trailing 'the one about the matter' is a conversational addition rather than a formal reference."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "You wrote me a letter before about this and I am replying now.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'You wrote me a letter before' is informal and lacks a date."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "As per your last letter thing, I am writing back about that.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'As per' and 'thing' are informal and the reference is imprecise."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "A formal letter references earlier correspondence by date using a set formula, since precision about records matters in official communication.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence states contact details correctly for a formal letter?",
+      "context": "A student must include contact details correctly in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "Ring me any time on 01 234 5678 if you want.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Ring me' and 'if you want' are informal and the second channel is omitted."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "You can reach me on 01 234 5678 or at my address above at any time before the nineteenth.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence gives both channels, refers to the address already provided and states the availability clearly."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Call me on 01 234 5678 whenever you can, thanks.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Whenever you can, thanks' is conversational and does not state when the writer is available."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "My number is 01 234 5678, but do not call me after six.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The restriction on the time of day is unstated and 'do not call me' is inappropriate in a formal letter."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "Formal correspondence states contact channels precisely and neutrally, without emotional qualification.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that offers an apology appropriate to a formal letter.",
+      "context": "A student must apologise appropriately in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "Apologies for the delay, whatever.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Whatever' dismisses the apology in the same sentence that offers it."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "Sorry for the late reply, my bad.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'My bad' and 'sorry for' are informal and the apology is not properly framed."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I am sorry for the delay in answering, which should not have occurred.",
+          "is_correct": true,
+          "feedback": "Correct. 'I am sorry for' plus a clear statement of what was delayed is a formal and complete apology."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "Apologies, but honestly the delay was not really my fault.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The second clause withdraws the apology, which defeats its purpose entirely."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "A formal apology names what is being apologised for and does not retract the apology in the same sentence.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which justification best explains the use of 'please do not hesitate to contact me' in a formal letter?",
+      "context": "A teacher asks a student to justify a formality choice in a letter.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "It warns the reader that no further contact will be accepted.",
+          "is_correct": false,
+          "feedback": "Wrong. The phrase does the opposite of warning; it opens the door to contact."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "It shortens the letter, since a short phrase replaces a full sentence.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. It does not replace a sentence but adds a courtesy the sentence did not contain."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "It insists that the reader should make contact, which puts pressure on them.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The phrase offers rather than insists; there is no pressure in it."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It offers further help in a conventionally polite form, so the invitation carries no awkwardness.",
+          "is_correct": true,
+          "feedback": "Correct. The formula removes the social awkwardness of asking for further help, which is its communicative purpose."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A formal courtesy formula is justified by the social function it performs, not by any effect on the length of the letter.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which word in this sentence is unnecessary in formal English? 'We are writing in order to inform you that the meeting has been rescheduled.'",
+      "context": "A student is checking a formal letter for an unnecessary word.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "The word 'order', since 'writing to inform you' already expresses the purpose.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. 'In order to' duplicates the purpose already expressed by 'to inform you'."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "The word 'that', since a that-clause cannot follow 'inform you'.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A that-clause is the normal complement of 'inform you'."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "The word 'been', since the meeting has not been rescheduled at all.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The passive participle is required after 'has'."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "The word 'we', since formal letters must never name their own writer.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Naming the writer is entirely normal in a formal letter."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Formal writing still benefits from removing duplicated markers, and 'in order to' is a frequent redundancy after a purpose infinitive.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which distinction between a letter of complaint and a letter of enquiry is accurate?",
+      "context": "A student is comparing two types of formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "A complaint asks for information, while an enquiry states a problem and expects nothing further.",
+          "is_correct": false,
+          "feedback": "Wrong. The two purposes are reversed in this option."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A complaint states a problem and usually implies what remedy is wanted, while an enquiry asks for information without stating a problem.",
+          "is_correct": true,
+          "feedback": "Correct. This states the distinct purpose of each type and what each type does or does not assume."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "An enquiry must open with 'Dear Sir or Madam', while a complaint must name the recipient.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The salutation depends on whether the recipient is named, not on the type of letter."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "Both types require the writer to state a fault, since a formal letter must contain a grievance.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A formal letter may contain no grievance at all, as in a simple enquiry."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "The choice of letter type determines what the writer is asking for, and the content must match that purpose.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revision corrects the register problem in 'Kindly do the needful and revert back at your earliest convenience'?",
+      "context": "A student is correcting a register error in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Please do the needful soon, thanks very much.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Do the needful' is a regional idiom and 'thanks very much' is informal here."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "Please just get it sorted and let me know soon, please.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Just get it sorted' and 'let me know' are informal."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Please carry out the necessary action and respond as soon as possible.",
+          "is_correct": true,
+          "feedback": "Correct. 'Carry out the necessary action' and 'as soon as possible' are formal and unambiguous."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Kindly do whatever is needed and reply back soon.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Kindly' and 'revert back' are retained, so the register problem is not addressed."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Register errors in formal correspondence are corrected by replacing idiomatic and colloquial items with standard formal wording.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which description best explains what belongs in the body of a formal complaint?",
+      "context": "A student is deciding how much detail a formal letter should contain.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "An emotional description of how the problem made the writer feel, in place of the facts.",
+          "is_correct": false,
+          "feedback": "Wrong. Emotion may be present but cannot replace the factual account in a formal complaint."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "A brief statement of the complaint with no supporting facts, since formality discourages detail.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Formality does not discourage detail; it makes detail more necessary, since the claim must be verifiable."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "A full account of every problem the writer has ever had with the organisation.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Including unrelated past problems would obscure the specific complaint being made."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A precise account of the facts, the date and reference of earlier contact, and the outcome the writer seeks.",
+          "is_correct": true,
+          "feedback": "Correct. This gives the three components a complaint body requires: facts, record and requested remedy."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "The body of a formal letter is organised by what the reader needs in order to act on the request, not by what the writer feels.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is an appropriate opening sentence for the body of a formal letter of enquiry?",
+      "context": "A student must begin the body of a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "I am writing to ask about the arrangements for the residential course in July.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. The sentence names the purpose of the letter and the specific matter being asked about."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "I am writing about the course, because I am writing about the course.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence repeats 'about the course' and never states what the writer wants."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "Writing to ask, the course in July, arrangements.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The word order is scrambled and the sentence does not form a coherent clause."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "I am writing to ask about the course. It is in July.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The first sentence states the topic without a purpose, and the second is a bare note."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "The opening sentence of a formal letter body names the purpose and the matter, so the reader knows why the letter exists.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence acknowledges an error on the writer's own part appropriately?",
+      "context": "A student must acknowledge a problem in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "Sorry about the slow reply, my bad.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Sorry about' and 'my bad' are informal and belong to speech rather than a formal letter."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "I should have replied sooner, and I am sorry for the delay this caused.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence owns the delay, uses a formal modal and apologises for the consequence."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "I did not reply soon, which is fine given the circumstances.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Which is fine' dismisses the delay and accepts no responsibility for it."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "The reply was late, apparently through no fault of mine.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Apparently through no fault of mine' shifts blame rather than acknowledging the error."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Acknowledging an error in a formal letter means owning it and apologising for its effect, without shifting blame.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which element is missing from this letter, which otherwise reads correctly? 'Dear Dr Ramos, I am writing to confirm my attendance on 4 March. Yours sincerely,'",
+      "context": "A student is checking a formal letter for a missing courtesy element.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "A date at the top of the letter, which is required by convention.",
+          "is_correct": false,
+          "feedback": "Wrong. A date is conventional but its absence is not the defect the question is targeting."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "A subject line, which is required in every formal letter.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A subject line is a feature of email headings, not a requirement of a formal letter."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "An expression of thanks or an offer of further help before the sign-off.",
+          "is_correct": true,
+          "feedback": "Correct. Formal convention expects a courtesy before the sign-off, either thanks or an offer of further assistance."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The writer's own signature, which must appear on the page in all cases.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A handwritten signature is not required on every letter, and it is not the missing element here."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A formal letter normally closes the body with a courtesy or an offer of further help before the sign-off.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is least necessary in a short formal letter?",
+      "context": "A student is deciding whether to keep a sentence in a formal letter.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "Yours sincerely,",
+          "is_correct": false,
+          "feedback": "Wrong. The sign-off is a required element of a formal letter."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Thank you for your help with this matter.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The expression of thanks is a normal courtesy in a formal letter."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "I am writing to confirm the arrangement for 12 March.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence states the purpose of the letter and cannot be removed."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "As stated in my letter of 3 May, the arrangement is now confirmed for 12 March.",
+          "is_correct": true,
+          "feedback": "Correct. The sentence restates earlier correspondence, and the same information is already in the second sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "In a short letter, a reference that duplicates information already in the letter can be cut without losing anything the reader needs.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W38-writing-formal-letters-001-MASTERY-bundle",
       "periodo": 38,
       "protocol_version": "5.2",

@@ -13,19 +13,19 @@
       "context": "Un estudiante de David está clasificando los gastos de su viaje escolar en diferentes conjuntos numéricos para un proyecto de contabilidad básica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Números Naturales ($\\mathbb{N}$)",
           "is_correct": false,
           "feedback": "Los números naturales son enteros positivos (1, 2, 3...). La raíz de 2 no es un número entero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Números Racionales ($\\mathbb{Q}$)",
           "is_correct": false,
           "feedback": "Un número racional puede expresarse como fracción a/b. La raíz de 2 tiene infinitos decimales no periódicos."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Números Irracionales ($\\mathbb{I}$)",
           "is_correct": true,
           "feedback": "Correcto. Los números que no pueden expresarse como el cociente de dos enteros y tienen decimales infinitos no periódicos son irracionales."
@@ -37,7 +37,7 @@
           "feedback": "Los números enteros incluyen positivos, negativos y el cero, sin parte decimal."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Identificación y clasificación de números reales en sus subconjuntos fundamentales (naturales, enteros, racionales e irracionales) basándose en sus propiedades decimales.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,31 +103,31 @@
       "context": "Un agrimensor en Chiriquí compara las altitudes de dos puntos de control respecto al nivel del mar utilizando números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$A > B$",
           "is_correct": true,
           "feedback": "Correcto. En los números negativos, el que tiene menor valor absoluto está más a la derecha en la recta numérica y, por tanto, es mayor."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$A < B$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque 5.7 es mayor que 5.4, en el sentido negativo -5.7 está más alejado del cero hacia la izquierda."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$A = B$",
           "is_correct": false,
           "feedback": "Incorrecto. Los valores decimales son distintos, por lo que los números no son iguales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "No se pueden comparar",
           "is_correct": false,
           "feedback": "Incorrecto. El conjunto de los números reales es un conjunto totalmente ordenado."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Comprensión de la propiedad de orden en el conjunto de los números reales, específicamente el comportamiento de los números negativos en la recta numérica.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -199,25 +199,25 @@
           "feedback": "Incorrecto. Este resultado ignora el signo negativo inicial del saldo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-\\$70.00$",
           "is_correct": true,
           "feedback": "Correcto. Operando: -150 + 200 = 50; luego 50 - 120 = -70. El saldo final es negativo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\$50.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Solo se realizó la primera operación correctamente pero no la segunda."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$-\\$50.00$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en los signos al sumar el crédito al saldo negativo inicial."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación de operaciones básicas con números reales (enteros con signo) en un contexto financiero cotidiano.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -244,25 +244,25 @@
           "feedback": "Incorrecto. Probablemente se sumaron todos los valores absolutos sin restar el último término."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "9.6",
           "is_correct": true,
           "feedback": "Correcto. Calculando: 8.5 + 3.2 - 2.1 = 11.7 - 2.1 = 9.6."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "3.2",
           "is_correct": false,
           "feedback": "Incorrecto. Error en el cálculo aritmético básico tras obtener los valores absolutos."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "-7.4",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto de un número siempre es no negativo; el resultado de la operación debe ser coherente con esto."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Comprensión y aplicación del concepto de valor absoluto en operaciones combinadas con números decimales.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Para un diseño arquitectónico en la Ciudad de Panamá, se requiere calcular el inverso multiplicativo de un factor de escala.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$5/2$",
           "is_correct": false,
           "feedback": "Este es el valor de 2.5 expresado como fracción, no su inverso."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2/5$",
           "is_correct": true,
           "feedback": "Correcto. El inverso de 2.5 (o 5/2) es 1 / (5/2) = 2/5."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Este valor no multiplicado por 2.5 da como resultado la unidad."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Aplicación de la propiedad del elemento inverso (multiplicativo) en el conjunto de los números reales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Un topógrafo debe calcular la distancia entre dos puntos en un plano coordenado utilizando la propiedad distributiva para simplificar cálculos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$9x$",
           "is_correct": true,
           "feedback": "Correcto. 3.5(2x) - 3.5(4) + 2x + 14 = 7x - 14 + 2x + 14 = 9x."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$9x - 28$",
           "is_correct": false,
           "feedback": "Incorrecto. Al distribuir el 3.5 sobre el -4 se obtiene -14, que se cancela con el +14 de la segunda parte."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Error en la multiplicación de los coeficientes decimales y enteros."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Uso de las propiedades distributiva y asociativa para la simplificación de expresiones algebraicas en el campo de los números reales.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,19 +418,19 @@
       "context": "Un científico en el Instituto Smithsonian de Investigaciones Tropicales analiza la densidad de los números reales en una escala microscópica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Entre dos números enteros siempre hay otro número entero",
           "is_correct": false,
           "feedback": "Incorrecto. Por ejemplo, entre 1 y 2 no hay ningún otro entero."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Los números irracionales son más densos que los racionales",
           "is_correct": false,
           "feedback": "Incorrecto. Ambos subconjuntos son densos en los reales, pero no se define una \"mayor densidad\" de esta forma."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Entre cualquier par de números reales distintos, siempre existe otro número real",
           "is_correct": true,
           "feedback": "Correcto. Esta es la definición de densidad: siempre se puede encontrar un número (por ejemplo, el promedio) entre otros dos."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. En cualquier intervalo real [a, b] con a < b, hay infinitos números."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Comprensión teórica de la propiedad de densidad del conjunto de los números reales y su distinción de conjuntos discretos como los enteros.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incorrecto. Esta es la diferencia entre los valores de pi, no entre el costo total calculado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$0.0001$ balboas",
           "is_correct": true,
           "feedback": "Correcto. Costo con aproximación: 10 x 3.1416 = 31.4160. Error: |31.4160 - 31.4159| = 0.0001."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$0.001$ balboas",
           "is_correct": false,
           "feedback": "Incorrecto. Error de posición decimal en el cálculo de la resta."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$0$ balboas",
           "is_correct": false,
           "feedback": "Incorrecto. Al usar una aproximación finita de un número irracional, siempre existe un margen de error."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cálculo de errores absolutos en aproximaciones de números reales irracionales aplicados a modelos económicos.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -520,19 +520,19 @@
           "feedback": "Incorrecto. Si x=6, |6-5|=1 pero 5-6=-1; la igualdad no se cumple."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x \\leq 5$",
           "is_correct": true,
           "feedback": "Correcto. Por definición, |a| = -a si a <= 0. Aquí a = x-5, por lo que |x-5| = -(x-5) = 5-x cuando x-5 <= 0 => x <= 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Para todos los números reales",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto siempre es positivo o cero, mientras que 5-x puede ser negativo si x > 5."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Análisis y resolución de ecuaciones con valor absoluto basadas en la definición formal de la función.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "Un ingeniero civil en David calcula la resistencia de materiales usando sumas de fracciones y números decimales periódicos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$0.999...$",
           "is_correct": false,
           "feedback": "Si bien es numéricamente equivalente a 1, la pregunta pide la forma racional usual."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1$",
           "is_correct": true,
           "feedback": "Correcto. 0.666... = 2/3. Entonces 2/3 + 1/3 = 3/3 = 1."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Este es un valor truncado que no representa la suma exacta de los términos infinitos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Conversión de decimales periódicos a fracciones y ejecución de operaciones exactas en el conjunto de los números racionales.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "Incorrecto. 2.718 + 3.141 = 5.859, que es mayor que 5."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$\\pi - e > 0.4$",
           "is_correct": true,
           "feedback": "Correcto. 3.141 - 2.718 = 0.423, que es mayor que 0.4."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$e \\cdot \\pi > 10$",
           "is_correct": false,
           "feedback": "Incorrecto. 2.718 x 3.141 approx 8.53, que es menor que 10."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Como e < pi y ambos son positivos, sus cuadrados mantienen el mismo orden."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Análisis de desigualdades y operaciones con constantes irracionales fundamentales de los números reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "Este intervalo representa la unión (A U B), no la intersección."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$[0, 4]$",
           "is_correct": true,
           "feedback": "Correcto. Los números que pertenecen a ambos conjuntos van desde el 0 (incluido en ambos) hasta el 4 (incluido en ambos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$(0, 4)$",
           "is_correct": false,
           "feedback": "Incorrecto. Excluye los extremos 0 y 4, los cuales sí pertenecen a ambos conjuntos originales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$[0, 6)$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor 5, por ejemplo, está en B pero no en A."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Operaciones con conjuntos de números reales representados como intervalos (intersección).\n\n---",
       "difficulty": "8",
       "images": [],
@@ -688,19 +688,19 @@
       "context": "Se plantea un dilema sobre la naturaleza de los números reales en una competencia académica nacional.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "La suma de dos números racionales siempre es un número racional",
           "is_correct": false,
           "feedback": "Verdadero. El conjunto de los racionales es cerrado bajo la suma."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "El producto de un número racional no nulo por uno irracional siempre es irracional",
           "is_correct": false,
           "feedback": "Verdadero. Si fuera racional, el irracional podría despejarse como cociente de racionales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "La suma de dos números irracionales siempre es un número irracional",
           "is_correct": true,
           "feedback": "Falso. Por ejemplo, sqrt(2) + (-sqrt(2)) = 0, y 0 es un número racional."
@@ -712,7 +712,7 @@
           "feedback": "Verdadero. Esto se debe a la densidad de los racionales en los reales."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Evaluación de la comprensión de las propiedades de cierre y composición de los subconjuntos de los números reales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un economista en el Ministerio de Economía y Finanzas (MEF) evalúa el impacto de la inflación acumulada usando una progresión de números reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$1.06$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto representaría un interés simple (1 + 0.02 * 3), ignorando el efecto acumulativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$1.061208$",
           "is_correct": true,
           "feedback": "Correcto. El factor es (1 + 0.02)^3 = 1.02^3 = 1.061208."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error de cálculo al elevar la potencia del número real decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Modelado de crecimiento compuesto utilizando potencias de números reales en contextos financieros de la vida real.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -784,13 +784,13 @@
           "feedback": "Incorrecto. La condición inicial pide b > 0. Además, 0.5 != 0."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Cuando $a = b$",
           "is_correct": true,
           "feedback": "Correcto. Si a=b, entonces (a+a)/2 = a y sqrt(a*a) = a. Ambos valores coinciden."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Cuando $a$ es el doble de $b$",
           "is_correct": false,
           "feedback": "Incorrecto. Por ejemplo, si a=4, b=2: 3 != sqrt(8)."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. La igualdad es un caso degenerado de la desigualdad de las medias."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Análisis de desigualdades fundamentales entre medidas de tendencia central en el campo de los números reales positivos.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -835,19 +835,19 @@
           "feedback": "Incompleto. Solo considera los valores negativos de x."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$[-4, -2] \\cup [2, 4]$",
           "is_correct": true,
           "feedback": "Correcto. Desglosando: -1 <= |x| - 3 <= 1 => 2 <= |x| <= 4. Esto implica que x esta en [2, 4] o x esta en [-4, -2]."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$(-\\infty, -4] \\cup [4, \\infty)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta solución corresponde a una desigualdad de sentido contrario."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Resolución de inecuaciones anidadas con valor absoluto, aplicando propiedades de intervalos simétricos en la recta real.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Incorrecto. La raíz de un número negativo no es real."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$x \\in [0, 3]$; valor máximo 3",
           "is_correct": false,
           "feedback": "Incompleto. También se incluyen los valores negativos de x entre -3 y 0."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\in [-3, 3]$; valor máximo 3",
           "is_correct": true,
           "feedback": "Correcto. El radicando debe ser no negativo: 9 - x^2 >= 0. El máximo ocurre cuando x=0, resultando sqrt(9) = 3."
@@ -892,7 +892,7 @@
           "feedback": "Incorrecto. El intervalo debe incluir los extremos y el valor máximo se calcula erróneamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "Determinación del dominio de una función irracional y análisis de valores extremos en el conjunto de los números reales.\n\n[//]: # (QUALITY_REVIEW)\n| Criterio | Puntuación |\n| --- | --- |\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

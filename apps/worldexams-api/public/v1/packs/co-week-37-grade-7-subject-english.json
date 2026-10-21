@@ -19,13 +19,13 @@
           "feedback": "Incorrect. These are general activities."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Reduce, Reuse, Recycle",
           "is_correct": true,
           "feedback": "Correct! These are the three pillars of environmental waste management."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Rain, River, Rock",
           "is_correct": false,
           "feedback": "Incorrect. These are natural elements."
@@ -37,9 +37,9 @@
           "feedback": "Incorrect. These are adjectives."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies the core terminology used in environmental sustainability.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -65,13 +65,13 @@
           "feedback": "Incorrect. These are usually composted, not recycled in the standard sense."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Glass bottles",
           "is_correct": true,
           "feedback": "Correct! Glass is a highly recyclable material."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Dirty napkins",
           "is_correct": false,
           "feedback": "Incorrect. Contaminated paper cannot be recycled."
@@ -83,7 +83,7 @@
           "feedback": "Incorrect. Wood is biodegradable but not typically part of standard recycling bins."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student identifies recyclable versus non-recyclable materials.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -111,13 +111,13 @@
           "feedback": "Incorrect. Reducing means using less of it."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "reusing",
           "is_correct": true,
           "feedback": "Correct! Using an item again for a new purpose is \"reusing\"."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "recycling",
           "is_correct": false,
           "feedback": "Incorrect. Recycling involves breaking down the material to make something new."
@@ -129,9 +129,9 @@
           "feedback": "Incorrect. You are keeping it."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student understands the specific distinction between reusing and other waste management actions.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -177,7 +177,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student understands the concept and vocabulary of renewable energy.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -203,13 +203,13 @@
           "feedback": "Incorrect. Color doesn't affect the amount of trash."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "packaging",
           "is_correct": true,
           "feedback": "Correct! Excess wrapping and boxes (packaging) create more waste."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "quality",
           "is_correct": false,
           "feedback": "Incorrect. Low quality leads to more waste as things break faster."
@@ -221,7 +221,7 @@
           "feedback": "Incorrect. Not related to trash."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "The student applies the concept of \"reduce\" to consumer choices.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W37-sustainability-recycling-006-v1",
       "statement": "How are the students practicing \"Reduce\" in the project?",
-      "context": "A description of a \"Zero Waste\" project.\n\"The school started a Zero Waste project. Students bring their own water bottles and use digital notebooks. They also have a compost bin for fruit remains.\"",
+      "context": "A description of a \"Zero Waste\" project.\n\n\"The school started a Zero Waste project. Students bring their own water bottles and use digital notebooks. They also have a compost bin for fruit remains.\"",
       "options": [
         {
           "letter": "A",
@@ -269,7 +269,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student applies reading comprehension to categorize a specific action within the \"3 Rs\" framework.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -289,33 +289,33 @@
       "context": "Describing a sustainable home.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "shouldn't",
           "is_correct": false,
-          "feedback": "Incorrect. This would be bad advice for sustainability."
+          "feedback": "'Shouldn't use' would advise against solar panels, which is the opposite of what a sustainable home should do."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "can",
           "is_correct": true,
-          "feedback": "Correct! Shows a possibility that aligns with sustainability goals."
+          "feedback": "'Can use' states a possibility, which is exactly what a sustainable home has: solar panels producing its own electricity."
         },
         {
           "letter": "C",
           "text": "mustn't",
           "is_correct": false,
-          "feedback": "Incorrect. Prohibition."
+          "feedback": "'Mustn't use' forbids solar panels, the opposite of the sustainability goal described."
         },
         {
           "letter": "D",
           "text": "isn't",
           "is_correct": false,
-          "feedback": "Incorrect. Grammatically wrong."
+          "feedback": "'Isn't' is not a modal verb, so it cannot precede the base form 'use' in this structure."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "The student applies knowledge of sustainable practices using the appropriate modal verb for possibility.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -332,7 +332,7 @@
     {
       "id": "CO-ING-7-2026-W37-sustainability-recycling-008-v1",
       "statement": "What are the multiple benefits of recycling paper mentioned in the text?",
-      "context": "Analyzing the impact of recycling.\n\"Recycling one ton of paper saves about 17 trees and thousands of liters of water. It also requires less energy than making new paper from wood.\"",
+      "context": "Analyzing the impact of recycling.\n\n\"Recycling one ton of paper saves about 17 trees and thousands of liters of water. It also requires less energy than making new paper from wood.\"",
       "options": [
         {
           "letter": "A",
@@ -347,19 +347,19 @@
           "feedback": "Incorrect. The text doesn't mention speed."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "It conserves natural resources (trees, water) and reduces energy consumption.",
           "is_correct": true,
           "feedback": "Correct! The text mentions saving trees, water, and energy."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "It is more expensive than making new paper.",
           "is_correct": false,
           "feedback": "Incorrect. Not mentioned."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "The student analyzes a text to identify and summarize multiple advantages of a sustainable practice.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -387,27 +387,27 @@
           "feedback": "Incorrect. Coal is a fossil fuel."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Solar, Wind, Hydroelectric",
           "is_correct": true,
           "feedback": "Correct! All three come from naturally replenishing sources (sun, wind, water)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Oil, Gas, Solar",
           "is_correct": false,
           "feedback": "Incorrect. Oil and Gas are fossil fuels."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Wind, Nuclear, Gas",
           "is_correct": false,
           "feedback": "Incorrect. Gas is not renewable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "The student analyzes and categorizes energy sources based on their sustainability.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,31 +424,31 @@
     {
       "id": "CO-ING-7-2026-W37-sustainability-recycling-010-v1",
       "statement": "According to this definition, which action is sustainable?",
-      "context": "Evaluating the definition of sustainability.\n\"Sustainability means meeting our own needs without compromising the ability of future generations to meet their own needs.\"",
+      "context": "Evaluating the definition of sustainability.\n\n\"Sustainability means meeting our own needs without compromising the ability of future generations to meet their own needs.\"",
       "options": [
         {
           "letter": "A",
           "text": "Using all the available water today because we are thirsty.",
           "is_correct": false,
-          "feedback": "Incorrect. This compromises the future."
+          "feedback": "Using all the water today leaves nothing for future generations, which is what the definition rules out."
         },
         {
           "letter": "B",
           "text": "Cutting down all the forests to build many houses quickly.",
           "is_correct": false,
-          "feedback": "Incorrect. This compromises the future."
+          "feedback": "Cutting down the forests destroys a resource that future generations need to survive."
         },
         {
           "letter": "C",
           "text": "Using resources carefully so that there is enough for people in 50 years.",
           "is_correct": true,
-          "feedback": "Correct! This balances current needs with future needs."
+          "feedback": "Using resources carefully so that there is enough for people in 50 years is exactly what the definition asks for: meeting present needs without compromising future ones."
         },
         {
           "letter": "D",
           "text": "Ignoring the environment because technology will solve everything.",
           "is_correct": false,
-          "feedback": "Incorrect. This is risky and doesn't meet the definition of careful resource management."
+          "feedback": "Ignoring the environment relies on hope rather than on careful management, so it does not meet the definition."
         }
       ],
       "correct_answer": "C",

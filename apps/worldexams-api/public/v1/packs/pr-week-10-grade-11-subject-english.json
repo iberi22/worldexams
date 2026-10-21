@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses 'can' for ability correctly?",
+      "context": "Modal verbs for ability, San Juan, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "She can speak three languages.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. 'Can' expresses ability and is followed directly by the base form of the verb, with no ending."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "She cans speak three languages.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The modal 'can' never takes -s, because it is not a main verb with its own subject."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "She can speaking three languages.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After a modal, the base form is required; the gerund is used with 'to be' in the indicative."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "She can speaks three languages.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'can', the verb takes the base form 'speak', not the third-person form 'speaks'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Los verbos modales no cambian de forma: no llevan -s, ni terminacion de pasado, ni infinitivo. Siempre van seguidos de la forma base del verbo principal y forman el mismo esquema con cualquier sujeto.\n\n---",
       "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'He ____ (not / be) able to come to the rehearsal.'",
+      "context": "Modal verbs with to be able to, Ponce, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "don't able to",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Do' does not combine with 'to be', and the long form of 'can' requires 'to be' plus 'able'."
         },
         {
           "letter": "B",
-          "text": "baggage",
+          "text": "isn't able",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'to' is missing before 'able' and before the infinitive, and this structure requires it."
         },
         {
           "letter": "C",
-          "text": "destination",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "isn't able to",
+          "is_correct": true,
+          "feedback": "Correct. 'Be able to' is the long form of 'can', and it is made negative by putting 'not' after 'to be'."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "not is able to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The correct order is 'to be' plus 'not' plus 'able to', not 'not' before the verb 'to be'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "C",
+      "explanation": "'Can' y 'be able to' significan lo mismo, pero la forma larga es mas formal y admite tiempos que 'can' no tiene. En negacion y en preguntas la estructura es 'to be' mas 'not' mas 'able to' mas infinitivo.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -99,40 +99,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence asks for permission correctly?",
+      "context": "Modal verbs for permission, Carolina, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "May I coming in?",
+          "is_correct": false,
+          "feedback": "Incorrect. A modal must be followed by the base form, so the gerund 'coming' is wrong."
         },
         {
           "letter": "B",
-          "text": "departure",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "May I come in?",
+          "is_correct": true,
+          "feedback": "Correct. 'May I' is the most formal and polite way to ask permission to come in or sit down."
         },
         {
           "letter": "C",
-          "text": "arrival",
+          "text": "May I comes in?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The main verb stays in the base form 'come', not the third-person form 'comes'."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "I may to come in?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The sentence structure is inverted, with the modal before the subject and no 'to' after it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "B",
+      "explanation": "'May' es el modal mas formal para pedir permiso y se usa casi siempre con I o we. 'Can' tambien pide permiso, pero con un tono menos formal, y esa distincion aparece a menudo en los examenes de la unidad.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -144,40 +144,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence gives permission?",
+      "context": "Modal verbs for permission, Bayamon, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "You cans leave early today.",
+          "is_correct": false,
+          "feedback": "Incorrect. Modal verbs do not take -s, because they are not marked for grammatical person."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "You can leaving early today.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'can', only the base form of the verb is possible, not the gerund."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "You can leaves early today.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After any modal, the base form 'leave' is used instead of 'leaves'."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "You can leave early today.",
+          "is_correct": true,
+          "feedback": "Correct. Affirmative 'can' grants permission and is the natural choice in the classroom."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Los verbos modales son invariables en todas las formas: can, may, must, should y shall no cambian segun el sujeto ni el tiempo. Ese rasgo es la diferencia mas visible entre un modal y un verbo auxiliar como 'do' o 'have'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -189,40 +189,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence is the most polite request?",
+      "context": "Modal verbs for requests, Arecibo, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
-          "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "text": "Open the window.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a direct command, not a polite request."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "You open the window.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The word order is not that of a request, so it sounds like a statement about the listener."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "Can you opening the window?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'can', the verb takes the base form 'open', not the gerund 'opening'."
         },
         {
           "letter": "D",
-          "text": "tourist",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Could you open the window, please?",
+          "is_correct": true,
+          "feedback": "Correct. 'Could' is the most polite way to make a request in English, and 'please' adds to the politeness."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "D",
+      "explanation": "Para pedir con cortesia se usa 'could', 'would you' o 'can you' seguido de un verbo principal infinitivo. La adicion de 'please' aumenta la cortesia, y el gerundio despues de un modal es siempre un error de esta unidad.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -234,40 +234,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'You ____ wear a uniform at the school; it is a rule.'",
+      "context": "Modal verbs with to have to, Humacao, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "must to",
+          "is_correct": false,
+          "feedback": "Incorrect. The modal 'must' is not followed by 'to', because a modal is followed directly by the base form."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "have to",
+          "is_correct": true,
+          "feedback": "Correct. 'Have to' expresses an external obligation that comes from a rule or regulation, not from the speaker."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "should to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Should' expresses a recommendation, and it cannot take 'to' between the modal and the main verb."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "can to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Can' expresses ability or permission, not obligation, and it cannot be followed by 'to' either."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "La diferencia entre 'must' y 'have to' es un punto fino que los examenes suelen explorar. 'Must' expresa obligacion del hablante, mientras que 'have to' expresa una obligacion impuesta por una regla externa, como el reglamento de un centro.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -279,37 +279,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence expresses past ability?",
+      "context": "Modal verbs for ability with different forms, Aguadilla, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
+          "text": "She could swim when she was five.",
           "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "feedback": "Correct. 'Could' is the past form of 'can' and expresses an ability someone had in the past."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "She can swim when she was five.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Can' describes a present ability and does not fit with 'when she was five'."
         },
         {
           "letter": "C",
-          "text": "receipt",
+          "text": "She can swimming when she was five.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A modal is never followed by a gerund, whatever the tense."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "She could swim when she is five.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Is' describes the present and contradicts the time marker 'was' in the sentence."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "'Can' tiene una sola forma pasada, 'could', que no expresa una capacidad perdida sino una que se tenia. Esa caracteristica lo diferencia de otros modales, donde el pasado suele implicar cambio de estado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -324,37 +324,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct question: '____ I use your dictionary?'",
+      "context": "Modal verbs for permission with can, Guayanilla, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Do' is a present simple auxiliary and does not express a request for permission."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Must",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Must' expresses obligation, so the sentence would impose something instead of making a request."
         },
         {
           "letter": "C",
-          "text": "hiking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "May",
+          "is_correct": true,
+          "feedback": "Correct. 'May I' is the formal structure for asking permission to use something that belongs to someone else."
         },
         {
           "letter": "D",
-          "text": "camping",
+          "text": "Am",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Am' is the first-person form of 'to be' and is not used to ask permission."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "C",
+      "explanation": "Las dos estructuras para pedir permiso son 'may I' y 'can I'. La primera es la mas cuidada y aparece en situaciones formales, y la segunda es la habitual en el dia a dia entre compañeros de clase.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -369,37 +369,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which question is correct?",
+      "context": "Modal verbs for ability questions, Trujillo Alto, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
-          "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "text": "Can she plays the saxophone?",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'can', the third person does not take -s, so the correct form is 'play'."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Does she can play the saxophone?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Can' is already a modal, so it cannot have the auxiliary 'does' before it."
         },
         {
           "letter": "C",
-          "text": "award",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Can she play the saxophone?",
+          "is_correct": true,
+          "feedback": "Correct. 'Can' opens the question and the main verb stays in the base form 'play'."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Is she can play the saxophone?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. A modal cannot be combined with 'to be' as an auxiliary in the same sentence."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Una pregunta con modal no lleva ningun auxiliar adicional. El propio 'can', 'may', 'must' o 'should' abre la frase y el verbo principal va en forma base. Anadir 'do', 'does' o 'to be' produce siempre una estructura incorrecta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -414,40 +414,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What is the difference between 'must' and 'have to'?",
+      "context": "Modal verbs for obligation, Barceloneta, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
+          "text": "'Must' shows the speaker's obligation and 'have to' an external rule.",
           "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "feedback": "Correct. Both express obligation, but 'must' comes from the speaker and 'have to' from an external rule."
         },
         {
           "letter": "B",
-          "text": "cancellation",
+          "text": "'Must' is past and 'have to' is present.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. Both are present forms; the past of 'must' is 'had to', and the past of 'have to' is also 'had to'."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "'Must' is more polite than 'have to'.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The politeness relationship is the reverse: 'have to' sounds softer because the obligation does not come from the speaker."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "'Must' can be negated with 'not' in every context.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. In the sense of strong obligation, 'must not' does not allow negation, and in the sense of prohibition it means precisely 'prohibido'."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "explanation": "La obligacion tiene dos fuentes: la propia y la externa. 'Must' expresa la primera y 'have to' la segunda. Esa distincion tambien explica por que 'must not' significa 'prohibido' mientras que 'don't have to' significa 'no hace falta'.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -459,37 +459,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence offers permission correctly?",
+      "context": "Modal verbs for permission, Maunabo, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "You may using my car this weekend.",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'may' the verb goes in the base form 'use', not the gerund 'using'."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "You may uses my car this weekend.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The modal 'may' does not change with the subject, and the main verb stays in the base form."
         },
         {
           "letter": "C",
-          "text": "booking",
+          "text": "You may to use my car this weekend.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. No 'to' is added between the modal and the main verb, because the modal already marks the infinitive."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "You may use my car this weekend.",
+          "is_correct": true,
+          "feedback": "Correct. Affirmative 'May' grants permission in a formal and courteous way."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "D",
+      "explanation": "El modal ya contiene la idea de infinitivo, de modo que el verbo principal va directamente en forma base sin 'to'. Anadir 'to' entre el modal y el verbo es uno de los errores mas frecuentes de esta unidad entre estudiantes hispanohablantes.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -504,37 +504,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'Would you mind ____ the window? The room is hot.'",
+      "context": "Modal verbs for requests, Yauco, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "to open",
+          "is_correct": false,
+          "feedback": "Incorrect. The prompt asks for a single form, and the gerund structure is the one used to request an action."
         },
         {
           "letter": "B",
-          "text": "stopover",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "opening",
+          "is_correct": true,
+          "feedback": "Correct. With 'would you mind' followed by a gerund, you ask permission for an action, and here the action is opening the window."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "open",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The gerund and the infinitive are the only two forms allowed after 'would you mind'."
         },
         {
           "letter": "D",
-          "text": "transit",
+          "text": "opened",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The participle does not appear in either of the two 'would you mind' structures."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "'Would you mind' admite gerundio para pedir permiso sobre una accion e infinitivo para una peticion de estilo mas formal. Ambas formas son aceptables, pero el ejercicio pide una unica respuesta.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -549,40 +549,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the correct negative: 'He ____ (not / be) able to drive yet; he is only sixteen.'",
+      "context": "Modal verbs for ability in the negative, Cayey, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
-          "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "text": "don't",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Don't' is the present simple auxiliary and does not negate ability."
         },
         {
           "letter": "B",
-          "text": "coin",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "can't",
+          "is_correct": true,
+          "feedback": "Correct. 'Can't' is the contracted form of 'cannot' and is the most natural negation for ability."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "doesn't can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Can' is a modal and does not take auxiliaries like 'does' in front of it."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "isn't able",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The 'to' before the infinitive is missing, and it is mandatory in 'be able to'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "B",
+      "explanation": "'Cannot' se contracted como 'can't' en la lengua escrita y hablada. Es la unica negacion posible para la capacidad con 'can', y por eso cualquier auxiliar adicional convierte la frase en incorrecta.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -594,37 +594,37 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What does 'You must not use the phone during the exam' mean?",
+      "context": "Modal verbs for obligation and prohibition, San Sebastian, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "It is not necessary.",
+          "is_correct": false,
+          "feedback": "Incorrect. To express that something is not necessary, use 'don't have to', not 'must not'."
         },
         {
           "letter": "B",
-          "text": "map",
+          "text": "It is optional.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. An optional action is expressed with 'can' or 'may', never with 'must not'."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "It is not possible.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Must not' is about permission and obligation, whereas impossibility is expressed with 'cannot'."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It is prohibited.",
+          "is_correct": true,
+          "feedback": "Correct. 'Must not' expresses prohibition and means the action is not allowed under any circumstances."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "La diferencia entre 'must not' y 'don't have to' es de las mas importantes de la unidad. 'Must not' prohibe de forma absoluta, mientras que 'don't have to' indica que algo no es obligatorio y por tanto queda libre.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -639,40 +639,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Question: 'May I sit here?' Answer: '____'",
+      "context": "Modal verbs for permission in short answers, Camuy, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "Yes, you can.",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Can' also grants permission, but the answer to a question with 'may' is formed with 'may'."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "Yes, you must.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Must' expresses obligation and is not the answer to a permission question."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Yes, you may.",
+          "is_correct": true,
+          "feedback": "Correct. The short answer repeats the modal 'may' from the question, which is the expected form."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Yes, you do.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Do' is the present simple auxiliary and does not fit a question with a modal."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "En una respuesta corta se repite el mismo modal que aparece en la pregunta. Si la pregunta usa 'may', la respuesta usa 'may', y si usa 'can', la respuesta usa 'can'. Los modales no se sustituyen entre si.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -684,37 +684,127 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: 'She has ____ swim since she was a child.'",
+      "context": "Modal verbs for ability with be able to, Luquillo, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
+          "text": "been able to",
           "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "feedback": "Correct. 'Has been able to' is the present perfect structure with 'be able to', and it expresses an ability that is still retained."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "be able to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Has' requires the participle 'been' before 'able to' to work as present perfect."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. 'Can' has no present perfect form, so it cannot be combined with 'has' or 'since'."
         },
         {
           "letter": "D",
-          "text": "national",
+          "text": "being able to",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The gerund does not form the present perfect with 'has', which always requires the past participle."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "explanation": "'Be able to' tiene la ventaja de que se conjuga en todos los tiempos, incluido el presente perfecto. 'Can' solo tiene presente y pasado, de modo que para expressing una capacidad que se mantiene desde el pasado se necesita la forma larga.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v17",
+      "statement": "Which sentence is the most formal request?",
+      "context": "Modal verbs for requests, Toa Baja, grado 11, W10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Would you be so kind as to open the door?",
+          "is_correct": true,
+          "feedback": "Correct. It is the most formal request structure in English, with 'would' and an elaborate politeness formula."
+        },
+        {
+          "letter": "B",
+          "text": "Open the door, please.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is correct and polite in everyday use, but it is not the most formal of the options given."
+        },
+        {
+          "letter": "C",
+          "text": "Can you open the door?",
+          "is_correct": false,
+          "feedback": "Incorrect. It is a normal polite request between peers, not the most formal option."
+        },
+        {
+          "letter": "D",
+          "text": "You open the door now.",
+          "is_correct": false,
+          "feedback": "Incorrect. It is an order, not a request, so it does not fit this exercise."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "El grado de cortesia se construye con 'would' mas la estructura 'be so kind as to'. Es la formula mas formal disponible y aparece con frecuencia en situaciones de servicio o en la correspondencia oficial.\n\n---",
+      "difficulty": "3",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.8,
+      "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
+      "periodo": 10,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "ingles",
+      "grade": 11,
+      "country": "pr"
+    },
+    {
+      "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v18",
+      "statement": "Which sentence is NOT correct?",
+      "context": "Modal verbs for ability and permission, Naguabo, grado 11, W10.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He can play the guitar very well.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'can' expresses ability with the base form of the verb."
+        },
+        {
+          "letter": "B",
+          "text": "He is able to play the guitar very well.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'be able to' is the long form of that same ability."
+        },
+        {
+          "letter": "C",
+          "text": "He could play the guitar when he was a child.",
+          "is_correct": false,
+          "feedback": "This sentence is correct, because 'could' expresses the ability someone had in the past."
+        },
+        {
+          "letter": "D",
+          "text": "He cans play the guitar very well.",
+          "is_correct": true,
+          "feedback": "Correct. This is the incorrect sentence: modals do not take -s, so the form 'cans' cannot exist."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Los verbos modales son la unica clase de verbos del ingles que no tienen forma de tercera persona singular. Esa caracteristica es tan marcada que anadir una -s a 'can' es siempre un error, sin excepcion.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -728,131 +818,41 @@
       "country": "pr"
     },
     {
-      "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "budget",
-          "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "expense",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "cost",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "price",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
-      "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
-        },
-        {
-          "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "C",
-          "text": "guarantee",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        },
-        {
-          "letter": "D",
-          "text": "policy",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
-        }
-      ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
-      "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
-      "periodo": 10,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "ingles",
-      "grade": 11,
-      "country": "pr"
-    },
-    {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence asks for permission in a polite and correct way?",
+      "context": "Modal verbs for permission with nouns, Hatillo, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "Do you mind if I opening the window?",
+          "is_correct": false,
+          "feedback": "Incorrect. After 'if' the clause goes in the present simple, not the gerund."
         },
         {
           "letter": "B",
-          "text": "medication",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Do you mind if I open the window?",
+          "is_correct": true,
+          "feedback": "Correct. 'Do you mind if' followed by the present simple is one of the most common structures for asking permission."
         },
         {
           "letter": "C",
-          "text": "prescription",
+          "text": "Do you mind if I opened the window?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. With 'if' the present simple is used, because the condition is presented as something possible, not past."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "Do you mind me open the window?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. The structure takes 'if' plus a full clause, not a bare infinitive after 'me'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "B",
+      "explanation": "'Do you mind if' se construye con presente simple en la clausula de if, porque se trata de una condicion posible en el presente o en el futuro inmediato. El gerundio y el pasado simple producen estructuras incorrectas.\n\n---",
+      "difficulty": "2",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,
@@ -864,40 +864,40 @@
     },
     {
       "id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Complete the sentence: '____ you able to help me with this project?'",
+      "context": "Modal verbs for ability with questions, Yabucoa, grado 11, W10.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "Do",
+          "is_correct": false,
+          "feedback": "Incorrect. 'Do' does not combine with 'to be' plus 'able', because that form is built on the verb 'to be', not an action verb."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Can",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "'Can' does not fit in this sentence, because the word 'able' already appears in the prompt and cannot be duplicated."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Are",
+          "is_correct": true,
+          "feedback": "Correct. 'Are you able to' is the question form of 'be able to', and the infinitive 'to help' completes the structure."
         },
         {
           "letter": "D",
-          "text": "insomnia",
+          "text": "Are you able helping me with this project?",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Incorrect. After 'able' you need the preposition 'to' before the infinitive 'help'."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "C",
+      "explanation": "En una pregunta, 'can you' y 'are you able to' significan lo mismo, pero no pueden aparecer juntas porque la palabra 'able' ya esta incluida en una de las dos. Elegir una u otra depende de la estructura que se da en el enunciado.\n\n---",
+      "difficulty": "3",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PR-ING-11-2026-W10-modal-verbs-ability-permission-001-MASTERY-bundle",
       "periodo": 10,

@@ -10,7 +10,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v1",
       "statement": "¿Cuál es el nombre de la corriente cultural y filosófica que puso al ser humano como centro del universo durante el Renacimiento?",
-      "context": "El Renacimiento surge en Italia en el siglo XIV y se extiende por Europa en los siglos XV y XVI, marcando el paso de la Edad Media a la Edad Moderna.\n**Expected_Success:** 0.88",
+      "context": "El Renacimiento surge en Italia en el siglo XIV y se extiende por Europa en los siglos XV y XVI, marcando el paso de la Edad Media a la Edad Moderna.",
       "options": [
         {
           "letter": "A",
@@ -56,7 +56,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v2",
       "statement": "¿Qué tipo de estrofa de origen italiano, compuesta por 14 versos endecasílabos divididos en dos cuartetos y dos tercetos, se convirtió en la forma predilecta del Renacimiento?",
-      "context": "La lírica renacentista española fue profundamente renovada por Garcilaso de la Vega, quien introdujo formas métricas italianas.\n**Expected_Success:** 0.85",
+      "context": "La lírica renacentista española fue profundamente renovada por Garcilaso de la Vega, quien introdujo formas métricas italianas.",
       "options": [
         {
           "letter": "A",
@@ -65,13 +65,13 @@
           "feedback": "La lira es una estrofa de cinco versos que combina heptasílabos y endecasílabos."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Soneto",
           "is_correct": true,
           "feedback": "El soneto es la estructura poética más característica del Renacimiento europeo."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Octava real",
           "is_correct": false,
           "feedback": "La octava real tiene ocho versos y se usaba principalmente en poemas épicos."
@@ -83,7 +83,7 @@
           "feedback": "Esta estrofa es medieval, famosa por su uso en las Coplas de Jorge Manrique."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La adopción del soneto permitió a los poetas renacentistas expresar sentimientos amorosos y reflexiones filosóficas con una estructura armónica y equilibrada.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -102,7 +102,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v3",
       "statement": "¿A qué se refiere el concepto de \"antropocentrismo\" en la literatura y el arte renacentista?",
-      "context": "Los autores renacentistas no buscaban la originalidad absoluta, sino que seguían el principio de la imitación de los modelos clásicos.\n**Expected_Success:** 0.80",
+      "context": "Los autores renacentistas no buscaban la originalidad absoluta, sino que seguían el principio de la imitación de los modelos clásicos.",
       "options": [
         {
           "letter": "A",
@@ -148,22 +148,22 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v4",
       "statement": "¿Cuál es la idea principal que transmite el poema de Garcilaso de la Vega cuando invita a una joven a disfrutar de su juventud antes de que llegue la \"nieve\" de la vejez?",
-      "context": "El tópico literario del \"Carpe diem\" (\"Aprovecha el día\") fue uno de los más recurrentes en la poesía renacentista.\n**Expected_Success:** 0.75",
+      "context": "El tópico literario del \"Carpe diem\" (\"Aprovecha el día\") fue uno de los más recurrentes en la poesía renacentista.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Que la nieve es muy peligrosa para la salud de las mujeres jóvenes.",
           "is_correct": false,
           "feedback": "La \"nieve\" es una metáfora de las canas y el paso del tiempo, no un fenómeno meteorológico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Que la belleza física es eterna si se tiene una buena educación humanista.",
           "is_correct": false,
           "feedback": "El poema enfatiza precisamente la fugacidad de la belleza física."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Que se debe disfrutar del presente y de la juventud, ya que el tiempo pasa de forma inevitable.",
           "is_correct": true,
           "feedback": "Es la esencia del tópico latino \"Carpe diem\", invitando al goce antes del marchitamiento."
@@ -175,7 +175,7 @@
           "feedback": "El tópico es universal y se centra en la naturaleza humana, no en la clase social."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El tópico del \"Carpe diem\" refleja la valoración del mundo terrenal propia del Renacimiento, frente al desprecio de la vida material común en la Edad Media.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -194,7 +194,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v5",
       "statement": "Si en un poema renacentista se describe un prado perfecto donde los pastores hablan de sus penas de amor, ¿qué función cumple la naturaleza en ese relato?",
-      "context": "El \"Locus amoenus\" es un tópico que describe una naturaleza idealizada: prados verdes, aguas cristalinas, brisa suave y cantos de pájaros.\n**Expected_Success:** 0.72",
+      "context": "El \"Locus amoenus\" es un tópico que describe una naturaleza idealizada: prados verdes, aguas cristalinas, brisa suave y cantos de pájaros.",
       "options": [
         {
           "letter": "A",
@@ -203,13 +203,13 @@
           "feedback": "La naturaleza en la literatura no busca ser un registro económico."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Advertir sobre los peligros de los animales salvajes en el campo.",
           "is_correct": false,
           "feedback": "En el locus amoenus, la naturaleza es pacífica y segura."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Servir como un escenario armonioso que refleja o contrasta con los sentimientos del poeta.",
           "is_correct": true,
           "feedback": "La naturaleza idealizada es el marco perfecto para la introspección amorosa."
@@ -221,7 +221,7 @@
           "feedback": "Es un recurso estético literario, no una promoción publicitaria."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La naturaleza renacentista es una construcción mental (naturaleza artificiosa) que representa el orden y la armonía divina y humana.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -240,22 +240,22 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v6",
       "statement": "¿Por qué los poetas místicos utilizaban a menudo el lenguaje del amor terrenal y erótico para hablar de su relación con Dios?",
-      "context": "La literatura mística, con autores como San Juan de la Cruz y Santa Teresa de Jesús, busca expresar la unión del alma con Dios.\n**Expected_Success:** 0.68",
+      "context": "La literatura mística, con autores como San Juan de la Cruz y Santa Teresa de Jesús, busca expresar la unión del alma con Dios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Porque no conocían palabras religiosas para expresarse.",
           "is_correct": false,
           "feedback": "Eran personas profundamente cultas en teología."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Porque querían ocultar que sus poemas eran religiosos para evitar la censura.",
           "is_correct": false,
           "feedback": "Al contrario, su objetivo era compartir su experiencia de fe suprema."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Porque el amor humano era la experiencia más intensa y comprensible para explicar la unión espiritual.",
           "is_correct": true,
           "feedback": "Utilizan la metáfora de la unión entre amantes para simbolizar la unión del alma con la divinidad."
@@ -267,7 +267,7 @@
           "feedback": "Los temas sagrados seguían siendo fundamentales, pero se renovaron estilísticamente."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "La poesía mística utiliza la \"vía unitiva\" para describir un estado inefable (que no se puede explicar con palabras corrientes), recurriendo a los símbolos del Cantar de los Cantares.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -286,7 +286,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v7",
       "statement": "¿En qué sentido el \"Lazarillo de Tormes\" es una respuesta crítica a la idealización propia del Renacimiento (como los libros de caballería o pastores)?",
-      "context": "El \"Lazarillo de Tormes\" (1554) inauguró la novela picaresca, presentando un antihéroe que lucha por sobrevivir en un mundo hostil.\n**Expected_Success:** 0.60",
+      "context": "El \"Lazarillo de Tormes\" (1554) inauguró la novela picaresca, presentando un antihéroe que lucha por sobrevivir en un mundo hostil.",
       "options": [
         {
           "letter": "A",
@@ -295,25 +295,25 @@
           "feedback": "La picaresca es realista y carece de elementos mágicos."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Al mostrar de forma cruda la pobreza, el hambre y la hipocresía social de la época.",
           "is_correct": true,
           "feedback": "Frente a los pastores ideales, Lázaro muestra la realidad marginal de España."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Al utilizar un lenguaje tan culto que nadie podía entender la historia.",
           "is_correct": false,
           "feedback": "El estilo es sencillo y llano, adecuado a la condición del protagonista."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Al defender que todos los mendigos son personas malvadas por naturaleza.",
           "is_correct": false,
           "feedback": "La obra critica más al sistema y a los amos que al propio Lázaro."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La novela picaresca es el \"reverso\" del idealismo renacentista, aportando una visión realista y satírica de la sociedad que influirá profundamente en la literatura posterior.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -332,7 +332,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v8",
       "statement": "¿Cómo se refleja el ideal del \"Cortesano\" en la vida y obra de poetas como Garcilaso de la Vega?",
-      "context": "El concepto de \"Cortesano\" definido por Castiglione establecía que el hombre renacentista debía ser hábil tanto en las armas como en las letras.\n**Expected_Success:** 0.55",
+      "context": "El concepto de \"Cortesano\" definido por Castiglione establecía que el hombre renacentista debía ser hábil tanto en las armas como en las letras.",
       "options": [
         {
           "letter": "A",
@@ -347,19 +347,19 @@
           "feedback": "Garcilaso fue un soldado activo que murió en combate."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Combinando su carrera militar con una profunda formación cultural y poética.",
           "is_correct": true,
           "feedback": "Encarna el equilibrio entre la acción (marte) y el pensamiento (minerva)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Trabajando como campesino para entender la vida de los pastores de sus poemas.",
           "is_correct": false,
           "feedback": "Era un noble que seguía los códigos de la corte, no un campesino real."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El equilibrio renacentista busca el desarrollo integral del ser humano, donde la fuerza física y la sensibilidad artística no son excluyentes.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -378,7 +378,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v9",
       "statement": "¿Qué tópico literario de origen clásico (Horacio) utiliza Fray Luis de León para defender la sencillez de la vida en la naturaleza?",
-      "context": "Fray Luis de León, en su oda \"A la vida retirada\", celebra la paz del campo frente al ruido y las ambiciones de la corte.\n**Expected_Success:** 0.52",
+      "context": "Fray Luis de León, en su oda \"A la vida retirada\", celebra la paz del campo frente al ruido y las ambiciones de la corte.",
       "options": [
         {
           "letter": "A",
@@ -387,13 +387,13 @@
           "feedback": "\"Recuerda que vas a morir\", más común en el Barroco."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Beatus ille",
           "is_correct": true,
           "feedback": "\"Dichoso aquel...\", que exalta la vida sencilla alejada de las preocupaciones urbanas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Ubi sunt",
           "is_correct": false,
           "feedback": "\"¿Dónde están?\", pregunta sobre el destino de los que ya murieron."
@@ -405,7 +405,7 @@
           "feedback": "\"Amor después de la muerte\", propio de la lírica amorosa extrema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El \"Beatus ille\" conecta con la búsqueda humanista de la paz interior y la armonía espiritual a través del contacto con la creación.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -424,7 +424,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v10",
       "statement": "¿Cuál fue el argumento principal de Nebrija para proponer la fijación de las reglas de la lengua castellana en ese momento histórico?",
-      "context": "Durante el Renacimiento, el español se consolidó como lengua literaria con la publicación de la primera \"Gramática de la lengua castellana\" de Nebrija (1492).\n**Expected_Success:** 0.45",
+      "context": "Durante el Renacimiento, el español se consolidó como lengua literaria con la publicación de la primera \"Gramática de la lengua castellana\" de Nebrija (1492).",
       "options": [
         {
           "letter": "A",
@@ -470,16 +470,16 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v11",
       "statement": "¿Cómo cambió el espíritu del Renacimiento español desde el reinado de Carlos I (apertura) al de Felipe II (cerrazón y defensa de la fe)?",
-      "context": "La Reforma Protestante y la Contrarreforma Católica marcaron la segunda mitad del siglo XVI en España, influyendo en la literatura religiosa.\n**Expected_Success:** 0.40",
+      "context": "La Reforma Protestante y la Contrarreforma Católica marcaron la segunda mitad del siglo XVI en España, influyendo en la literatura religiosa.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Se volvió más alegre y centrado en la mitología griega.",
           "is_correct": false,
           "feedback": "Esto ocurrió más bien en la primera mitad del siglo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se volvió más introspectivo, religioso y austero, centrándose en temas espirituales y morales.",
           "is_correct": true,
           "feedback": "La influencia de la Contrarreforma hizo que la literatura se alejara de lo puramente pagano."
@@ -497,7 +497,7 @@
           "feedback": "Al contrario, la censura de la Inquisición se volvió más estricta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El Renacimiento español tuvo una fase inicial vitalista e italianizante y una segunda fase (Prerrenacimiento o Manierismo) más grave y preocupada por la ortodoxia católica.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -516,7 +516,7 @@
     {
       "id": "CO-LEN-8-2026-W04-literatura-renacimiento-001-MASTERY-bundle-v12",
       "statement": "¿Qué objetivo estético buscaba la \"naturalidad\" renacentista frente al estilo recargado de la literatura medieval o del posterior Barroco?",
-      "context": "La \"naturalidad\" en el estilo era el ideal renacentista. Juan de Valdés decía: \"Escribo como hablo, solamente tengo cuidado de usar palabras que signifiquen bien lo que quiero decir\".\n**Expected_Success:** 0.38",
+      "context": "La \"naturalidad\" en el estilo era el ideal renacentista. Juan de Valdés decía: \"Escribo como hablo, solamente tengo cuidado de usar palabras que signifiquen bien lo que quiero decir\".",
       "options": [
         {
           "letter": "A",
@@ -531,19 +531,19 @@
           "feedback": "Se usaban metáforas, pero buscaban ser claras y armoniosas."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "Lograr la elegancia mediante la sencillez, la claridad y el equilibrio, evitando la afectación exagerada.",
           "is_correct": true,
           "feedback": "La belleza renacentista reside en la armonía y la proporción, sin artificios innecesarios."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Escribir de forma descuidada para que el pueblo analfabeto pudiera entender.",
           "is_correct": false,
           "feedback": "Era un ideal para la literatura culta, buscando la perfección sin que se notara el artificio (Sprezzatura)."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "El ideal de claridad y sencillez del Renacimiento responde a la búsqueda de la verdad y la belleza eterna, sin las complicaciones retóricas de otras épocas.\n\n---",
       "difficulty": "10",
       "images": [],

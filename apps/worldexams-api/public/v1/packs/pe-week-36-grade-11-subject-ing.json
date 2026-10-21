@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence correctly begins a narrative with an action?",
+      "context": "A student is asked to write a short narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "Ana pushed the gate open and ran the last hundred metres to the bus.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct. The sentence begins with a verb and moves the character forward, which is what opens a narrative."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "Ana pushed the gate open, and then Ana ran, and then Ana arrived.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence repeats 'Ana' three times, which destroys any sense of movement."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "A girl ran, and she ran, and the bus was there.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence repeats 'ran' with no new information and stalls the action."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "Ana is a girl who runs to the bus every morning.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is a description of a habitual routine, not an unfolding event."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "A narrative opens with an action in the past simple, using sentence structure to move the reader forward.\n\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
@@ -54,40 +54,40 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that maintains correct tense throughout the narrative.",
+      "context": "A student is asked to write a short narrative about a journey.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "The bus was late, so the driver waits while the passengers find their seats.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Waits' and 'find' shift to the present and break the past frame of the narrative."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The bus was late, so the driver waited while the passengers found their seats.",
+          "is_correct": true,
+          "feedback": "Correct. All clauses use the past simple, which is the consistent tense for a sequence of completed events."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "The bus was late, so the driver waited while the passengers are finding their seats.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Are finding' shifts the final clause to the present continuous mid-narrative."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "The bus is late, so the driver was waiting while the passengers found their seats.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Is late' is present and inconsistent with the past simple around it."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "A short past narrative keeps its tenses consistent, since a shift to the present pulls the reader out of the sequence.\n\n---",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Understand",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
@@ -99,41 +99,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that best creates tension at the point where the character loses the keys.",
+      "context": "A student is building tension in a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "Patricio put his hand in his pocket and found something to take with him.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Something' is vague and communicates no sense of loss or discovery."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "Patricio put his hand in his pocket and found his keys.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Naming the keys removes the problem entirely and dissolves the tension."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Patricio put his hand in his pocket and found nothing but an old bus ticket.",
+          "is_correct": true,
+          "feedback": "Correct. Naming the bus ticket precisely shows what was there and leaves the reader to share the character's alarm."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "Patricio put his hand in his pocket and found one thing that was not what he wanted.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence is hedged and does not identify what was found."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Tension comes from a specific detail that the reader recognises as wrong, not from stating the problem outright.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -144,41 +144,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that correctly orders events using a time connector.",
+      "context": "A student is setting the sequence of a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "After the storm passed they walked the length of the flooded street to see damage.",
+          "is_correct": false,
+          "feedback": "Wrong. The sentence lacks the comma that normally follows 'after' plus a clause, and it ends abruptly."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "After they walked the length of the flooded street, the storm passed to see the damage.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The connector is attached to the wrong clause, so the order of events is reversed."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "After the storm passes, they walk the length of the flooded street to see the damage.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Passes' and 'walk' are present tense, so the sequence is not anchored in the past."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "After the storm passed, they walked the length of the flooded street to see the damage.",
+          "is_correct": true,
+          "feedback": "Correct. 'After' introduces the earlier event and the main clause carries the later one, in a consistent past tense."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Connectors such as after, before and when require the earlier event in the subordinate clause and the later one in the main clause.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -189,40 +189,40 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that reports speech correctly without altering the speaker's words.",
+      "context": "A student is writing dialogue inside a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "The teacher said that the results would be published on Friday.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct. Quotation marks preserve the speaker's exact words and the present tense is natural within direct speech."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "The teacher told that the results would be published on Friday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Told' requires an indirect object, as in told us, and cannot stand alone here."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "The teacher announced, 'The results will be published on Friday.'",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Said that' backshifts and adds a complementiser, so the original wording is not preserved exactly."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "The teacher said the results would be published on Friday.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Said that' backshifts the tense, which changes the wording the reader hears."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
+      "explanation": "Direct speech with quotation marks preserves the original words, while reported speech changes the tense and sometimes the pronouns.\n\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Apply",
       "expected_success": 0.8,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
@@ -234,41 +234,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the ending that most effectively closes the story of a delayed bus.",
+      "context": "A student is ending a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "The bus eventually arrived, which was the end of the story for the bus.",
+          "is_correct": false,
+          "feedback": "Wrong. The phrase 'the end of the story for the bus' is an intrusive comment on the narration itself."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The bus arrived at last, and Patricio was the only one still waiting.",
+          "is_correct": true,
+          "feedback": "Correct. The final detail leaves one character behind the others, which gives the ending a lingering effect."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "The end of the story is that the bus came at last.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sentence names the ending rather than presenting the final moment of the action."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The bus arrived at last, and it was late, and everyone was annoyed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The ending repeats 'bus' and 'late' and states the obvious without adding anything."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "An effective ending presents the last action concretely; a weak one comments on or announces the ending.\n\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -279,41 +279,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sequence keeps the cause before its effect?",
+      "context": "A student is checking the logical order of a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "The lifts stopped, the power failed, and the staff on the tenth floor began to walk down.",
+          "is_correct": false,
+          "feedback": "Wrong. The lifts cannot stop before the power that supplies them has failed."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "The staff on the tenth floor began to walk down, the lifts stopped, and the power failed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The sequence runs backwards, since the response appears before the events that produced it."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The power failed, the lifts stopped, and the staff on the tenth floor began to walk down.",
+          "is_correct": true,
+          "feedback": "Correct. The power failure causes the lifts to stop, which in turn leaves the staff walking, so the chain runs in order."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "The staff walked down, the power failed, and then the lifts stopped.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The staff walk before the failure that would explain their walking."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "correct_answer": "C",
+      "explanation": "Narrative sequences normally follow cause and effect, so reversing the chain makes the events appear unmotivated.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -324,41 +324,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revision adds narrative momentum to the sentence?",
+      "context": "A student is improving a narrative paragraph.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "He runs, he stumbles, he catches the rail, and he keeps going.",
+          "is_correct": false,
+          "feedback": "Wrong. Present tense changes the time frame, and the repeated pronouns read mechanically."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "He was running and he was stumbling and he caught the rail and he kept going.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Was running' and 'was stumbling' form a continuous chain that leaves no sense of completed action."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "He ran and then he stumbled and then he caught the rail and then he kept going.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'And then' repeated five times slows the sentence down and defeats the purpose."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "He ran, stumbled, caught the rail and kept going without stopping.",
+          "is_correct": true,
+          "feedback": "Correct. The verbs in sequence carry the action forward without pausing, which creates momentum."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "Momentum in a narrative comes from chaining actions in the past simple with minimal connective tissue.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -369,41 +369,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The child saw the storm arrive and counted the seconds between the thunder and the rain. Which point of view is used?",
+      "context": "A student is checking the point of view in a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "First person or third person focused on the child, because only what the child perceives is reported.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct. Everything reported is what the child perceives and counts, so the narration stays with that viewpoint."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Second person, because the reader is asked to experience the scene directly.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The reader is not addressed directly, so this is not second person."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "An omniscient narrator, because the weather is described from outside.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Nothing is reported that the child could not observe, so there is no external narration."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "An objective narrator, because the child's thoughts are not described.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The counting shows a specific mental activity, which rules out a purely objective report."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "Point of view is determined by what the narration is able to report: only what one character perceives, or more than that character knows.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.8,
+      "bloom": "Analyze",
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -414,41 +414,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that uses a participle clause correctly.",
+      "context": "A student is writing a narrative about a misunderstanding.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "Turning the corner, Marta was seeing her friend waiting at the bus stop.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Was seeing' is not a passive form, so the clause is not grammatical here."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Turning the corner, Marta saw her friend waiting at the bus stop.",
+          "is_correct": true,
+          "feedback": "Correct. 'Turning the corner' is a participle phrase that modifies the subject and correctly shares its reference."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "Turning, Marta saw her friend waiting at the bus stop.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Turning' without an object leaves the participle phrase incomplete."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "Turning corner, Marta saw her friend waiting at the bus stop.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The noun after 'turning' is required to complete the phrase."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "B",
+      "explanation": "A participle phrase must carry its own subject and object and must refer to the same person as the main clause.\n\n---",
       "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -459,41 +459,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence that avoids informal wording.",
+      "context": "A student is writing a narrative in a formal register.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "The meeting got called off, so the guys found out by email the next day.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Got called off', 'guys' and 'found out' are all informal in this register."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "The meeting was off, so they let the applicants know by email the next day.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The meeting was off' is informal and 'let them know' is conversational."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The meeting had been cancelled, so the applicants were informed by email on the following day.",
+          "is_correct": true,
+          "feedback": "Correct. 'Cancelled', 'applicants' and 'informed' are all appropriate for a formal account of events."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The meeting was off, so the people were told the next day by email.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'The meeting was off' is informal and the reordering obscures who was informed."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "Formal narrative avoids contracted and conversational vocabulary while keeping the sequence of events clear.\n\n---",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.75,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -504,41 +504,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the adverbial correctly places an action in the past sequence.",
+      "context": "A student is building a narrative with a time signal.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "Later three days the letter finally arrived, and nothing had changed.",
+          "is_correct": false,
+          "feedback": "Wrong. Moving 'later' after the numeral breaks the phrase, and the second clause must remain past simple."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "Three days later the letter finally arrived, and nothing has changed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Has changed' moves the final clause to the present and is inconsistent with the past narrative."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "Later the letter finally arrived three days, and nothing has changed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Separating 'later' from 'three days' destroys the time phrase, and 'has changed' breaks the past frame."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Three days later the letter finally arrived, and nothing had changed.",
+          "is_correct": true,
+          "feedback": "Correct. The time phrase opens the main clause and the second clause stays in the past simple, which is consistent."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A past narrative keeps every clause in the past, so an adverbial is added without disturbing the tense of the surrounding clauses.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Apply",
-      "expected_success": 0.8,
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -549,41 +549,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which revision fixes the inconsistency in the original sentence 'He arrived at the station, and he waited at the platform for an hour'?",
+      "context": "A student is revising a narrative to remove an inconsistency.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "He arrived at the station and waited at the platform for an hour.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct. Removing 'he' before the second verb is the natural fix, since repeating the subject is unnecessary between coordinated clauses."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "He had arrived at the station and he waits at the platform for an hour.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Had arrived' places the arrival even earlier than the waiting and 'waits' is present."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "He arrives at the station, and he waited at the platform for an hour.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Arrives' in the present is inconsistent with 'waited' in the past."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "He arrived at the station, and he is waiting at the platform for an hour.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Is waiting' introduces a present continuous that contradicts a completed hour of waiting."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
+      "explanation": "A repeated subject between two coordinated clauses in the same tense can normally be dropped, and tense consistency is the real requirement.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -594,41 +594,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which opening places the reader in the scene immediately?",
+      "context": "A student is choosing how to open a story.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "The following account describes an unusual journey that its writer later found memorable.",
+          "is_correct": false,
+          "feedback": "Wrong. The opening announces the account rather than placing the reader in it."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Water ran along the platform and gathered around her shoes before she had stepped off the bus.",
+          "is_correct": true,
+          "feedback": "Correct. The opening places the reader in a specific moment with concrete sensory detail and no framing."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "There are many stations on that line and some of them are very old.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The opening is a general comment about the line and involves no character or scene."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "It was raining that day, which is something that often happens in that part of the country.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The generalisation about the weather removes the reader from the particular moment."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "An in medias res opening begins inside the action, whereas a framing opening distances the reader from the scene.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -639,41 +639,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best describes the effect of the flashback in a story?",
+      "context": "A student is analysing a narrative's structure.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "It removes the need to narrate the present, since the earlier event covers everything.",
+          "is_correct": false,
+          "feedback": "Wrong. The present sequence still has to be narrated; the flashback does not replace it."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "It proves that the present sequence could not have happened without the earlier event.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A flashback may explain a reaction, but it does not prove that the present event was impossible."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It interrupts the present sequence to show an earlier event that explains the character's present reaction.",
+          "is_correct": true,
+          "feedback": "Correct. This describes the explanatory function of a flashback, which is to supply the cause of a present reaction."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "It slows the story down without adding any information about the character.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A well-placed flashback adds information about motive, which is what this structure is for."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "A structural device is best evaluated by the information it contributes to the reader's understanding.\n\n---",
       "difficulty": "7",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.8,
+      "expected_success": 0.7,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -684,41 +684,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which justification best explains the use of one-word sentences at the height of a story's tension?",
+      "context": "A teacher asks a student to justify a narrative choice.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "One-word sentences are required by the examiner for any narrative task.",
+          "is_correct": false,
+          "feedback": "Wrong. No examination rule requires any particular sentence length."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "One-word sentences allow more detail to be included in the same paragraph.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Short sentences use fewer words, so they leave less room for detail rather than more."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "One-word sentences are always easier to read and are therefore the best default choice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Very short sentences are not easier to read, and there is no rule making them a default."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Short sentences slow the reader's eye down to a stop, which sharpens the pause the moment requires.",
+          "is_correct": true,
+          "feedback": "Correct. This ties the technique to the intended effect on the reader at that specific moment."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "D",
+      "explanation": "A justification of technique must connect the device to the intended effect rather than appeal to a general preference.\n\n---",
       "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.8,
+      "bloom": "Evaluate",
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -729,41 +729,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence best signals that a narrator is unreliable?",
+      "context": "A student is assessing an unreliable narrator in a narrative.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The market was the largest in the region, and everyone knows it, though the town had barely a hundred stalls.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct. The contradiction between the boast and the stated size, reinforced by the aside, marks the claim as untrustworthy."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The market was large, according to the town's own description of itself.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Attributing the claim to the town distances the narrator from it, which is a reliable move."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The market was, without question, the finest in the whole of the south, which is the sort of claim that markets make about themselves.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The narrator explicitly flags the boast as the kind of claim markets make, which undermines rather than supports it."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "I counted the stalls myself: there were four, and I counted them twice.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Counting the stalls twice is exactly what a reliable narrator would do."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "An unreliable narrator is signalled by self-contradiction, unwarranted certainty or a clash between claim and evidence.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -774,41 +774,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which statement best explains the difference between a summary and a retelling of a story?",
+      "context": "A student is comparing a summary with a retelling.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "A retelling shortens the story, while a summary always tells it in full.",
+          "is_correct": false,
+          "feedback": "Wrong. It reverses the two: a retelling normally tells the whole story and a summary shortens it."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "A retelling keeps the original sequence of events, while a summary may reorder them as long as the main outcome is preserved.",
+          "is_correct": true,
+          "feedback": "Correct. This distinguishes sequence preservation from the compression that allows reordering, which is the real difference."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "A retelling includes dialogue, while a summary never may.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. Both forms may include dialogue, in different amounts."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "A retelling changes the ending, while a summary must keep it unchanged.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. A retelling does not change the ending; it reports the ending it was given."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "Distinguishing two forms of retelling depends on whether the original sequence is preserved or the content is compressed and reorganised.\n\n---",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -819,41 +819,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Choose the sentence in which the interruption is correctly expressed.",
+      "context": "A student is writing a narrative and needs an interruption for realism.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "She is halfway across the yard when a car called from the gate.",
+          "is_correct": false,
+          "feedback": "Wrong. 'Is halfway' presents the background in the present and is inconsistent with 'called'."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "She was halfway across the yard when a car is calling from the gate.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Is calling' shifts the interruption to the present and breaks the past frame."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She was halfway across the yard when a car called from the gate.",
+          "is_correct": true,
+          "feedback": "Correct. The past continuous background and the past simple interruption form the standard pattern."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "She was halfway across the yard while a car has called from the gate.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Has called' is the present perfect, which cannot interrupt a past continuous clause in this way."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "An interruption in a past narrative requires a past continuous background clause and a past simple interrupting clause.\n\n---",
+      "difficulty": "7",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "bloom": "Apply",
+      "expected_success": 0.65,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",
@@ -864,41 +864,41 @@
     },
     {
       "id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which sentence uses the tense correctly with 'since'?",
+      "context": "A student is checking a narrative for an inaccurate verb tense after a time expression.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "She had worked at the depot since she arrived in the city.",
+          "is_correct": false,
+          "feedback": "Wrong. The past perfect needs a past reference point of its own, which 'since she arrived' does not supply."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "She worked at the depot since she arrived in the city.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. The past simple would place the whole period in the past, and 'since' then reads incorrectly."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "She is working at the depot since she arrived in the city.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Wrong. 'Since' cannot be used with the present continuous in this way."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "She has worked at the depot since she arrived in the city.",
+          "is_correct": true,
+          "feedback": "Correct. 'Since' with a past reference point takes the present perfect, which links the past start to the present."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Since marks a period running from the past up to now, so the present perfect is the tense that matches it.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.8,
+      "expected_success": 0.6,
       "bundle_id": "PE-ING-11-2026-W36-writing-narrative-001-MASTERY-bundle",
       "periodo": 36,
       "protocol_version": "5.2",

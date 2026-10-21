@@ -10,16 +10,16 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v1",
       "statement": "Una población de bacterias se duplica cada hora. Si inicialmente hay 100 bacterias, la secuencia es: 100, 200, 400, 800... ¿Cuál es el valor de la razón común ($r$) de esta sucesión?",
-      "context": "Crecimiento poblacional simple de bacterias.\n**Expected_Success:** 0.88",
+      "context": "Crecimiento poblacional simple de bacterias.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "100",
           "is_correct": false,
           "feedback": "Incorrecto. Este es el primer término, no la razón."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "2",
           "is_correct": true,
           "feedback": "Correcto. La razón se obtiene dividiendo un término entre el anterior: 200/100 = 2."
@@ -37,7 +37,7 @@
           "feedback": "Incorrecto. Este es el segundo término."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En una sucesión geométrica, la razón común ($r$) es el factor constante por el que se multiplica cada término para obtener el siguiente: $r = a_n / a_{n-1}$. Aquí, $200 / 100 = 2$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -55,7 +55,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v2",
       "statement": "¿Cuál de las siguientes sucesiones es una progresión geométrica?",
-      "context": "Identificación de tipos de sucesiones.\n**Expected_Success:** 0.85",
+      "context": "Identificación de tipos de sucesiones.",
       "options": [
         {
           "letter": "A",
@@ -64,13 +64,13 @@
           "feedback": "Incorrecto. Esta es una progresión aritmética (suma 5)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3, 9, 27, 81...",
           "is_correct": true,
           "feedback": "Correcto. Cada término se multiplica por 3 (razón común r=3)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1, 4, 9, 16...",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la sucesión de cuadrados perfectos, no es geométrica."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. Es una progresión aritmética descendente (resta 2)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Una sucesión es geométrica si el cociente entre términos consecutivos es constante. En B: $9/3 = 3$, $27/9 = 3$, $81/27 = 3$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -100,7 +100,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v3",
       "statement": "Una moneda de colección vale $500 pesos y su valor aumenta un 10% cada año (se multiplica por 1.1). ¿Cuál será su valor al inicio del cuarto año?",
-      "context": "Valor de una moneda de colección.\n**Expected_Success:** 0.80",
+      "context": "Valor de una moneda de colección.",
       "options": [
         {
           "letter": "A",
@@ -145,16 +145,16 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v4",
       "statement": "Una pelota rebota hasta los 2/3 de la altura desde la cual cae. Si se deja caer desde 27 metros, ¿cuál es la altura alcanzada en el segundo rebote?",
-      "context": "Rebotes de una pelota.\n**Expected_Success:** 0.82",
+      "context": "Rebotes de una pelota.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "18 m",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la altura del primer rebote."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "12 m",
           "is_correct": true,
           "feedback": "Correcto. Primer rebote: 27 * (2/3) = 18. Segundo rebote: 18 * (2/3) = 12."
@@ -172,7 +172,7 @@
           "feedback": "Incorrecto. Has calculado el tercer rebote."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "El primer término después de la caída es $a_1 = 18$ (primer rebote). La razón es $r = 2/3$. El segundo rebote es $a_2 = a_1 \\cdot r = 18 \\cdot (2/3) = 12$.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -190,16 +190,16 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v5",
       "statement": "Dada la sucesión geométrica $2, -6, 18, -54...$, ¿cuál es la expresión del término general $a_n$?",
-      "context": "Término general de una sucesión.\n**Expected_Success:** 0.75",
+      "context": "Término general de una sucesión.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$a_n = 2(3)^{n-1}$",
           "is_correct": false,
           "feedback": "Incorrecto. La razón debe ser negativa porque los signos alternan."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$a_n = 2(-3)^{n-1}$",
           "is_correct": true,
           "feedback": "Correcto. a_1 = 2, r = -6/2 = -3. La fórmula es a_1 * r^(n-1)."
@@ -217,7 +217,7 @@
           "feedback": "Incorrecto. El exponente debe ser n-1 para que el primer término (n=1) sea 2."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificamos $a_1 = 2$ y $r = -3$. La fórmula estándar es $a_n = a_1 \\cdot r^{n-1}$, resultando en $a_n = 2(-3)^{n-1}$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -235,7 +235,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v6",
       "statement": "Calcula la suma de los primeros 6 términos de la sucesión: 1, 2, 4, 8...",
-      "context": "Suma de términos finitos.\n**Expected_Success:** 0.72",
+      "context": "Suma de términos finitos.",
       "options": [
         {
           "letter": "A",
@@ -280,7 +280,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v7",
       "statement": "En una sucesión geométrica de términos positivos, el segundo término es 6 y el cuarto es 54. ¿Cuál es el valor de la razón común ($r$)?",
-      "context": "Cálculo de la razón a partir de términos no consecutivos.\n**Expected_Success:** 0.65",
+      "context": "Cálculo de la razón a partir de términos no consecutivos.",
       "options": [
         {
           "letter": "A",
@@ -289,13 +289,13 @@
           "feedback": "Incorrecto. 9 es el cociente entre a_4 y a_2, que equivale a r^2."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "3",
           "is_correct": true,
           "feedback": "Correcto. a_4 = a_2 * r^2 => 54 = 6 * r^2 => r^2 = 9 => r = 3 (términos positivos)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. Revisa la división de 54/6."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. Cálculo sin fundamento matemático."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Relacionamos los términos: $a_4 = a_2 \\cdot r^{(4-2)}$. Entonces $54 = 6 \\cdot r^2 \\rightarrow 9 = r^2 \\rightarrow r = 3$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -325,7 +325,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v8",
       "statement": "Una tienda en Monterrey aplica un descuento del 20% sobre el precio ya rebajado cada mes. Si un artículo cuesta inicialmente $1,000, ¿cuál es la razón común ($r$) de la sucesión de precios?",
-      "context": "Descuentos sucesivos.\n**Expected_Success:** 0.70",
+      "context": "Descuentos sucesivos.",
       "options": [
         {
           "letter": "A",
@@ -334,13 +334,13 @@
           "feedback": "Incorrecto. 0.20 es la fracción que se resta, no el factor multiplicativo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "0.80",
           "is_correct": true,
           "feedback": "Correcto. Si se descuenta el 20%, el precio nuevo es el 80% del anterior (1 - 0.20 = 0.80)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1.20",
           "is_correct": false,
           "feedback": "Incorrecto. Esto indicaría un aumento del 20%."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. Error de posición decimal."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Un descuento del 20% equivale a multiplicar por $(1 - 0.20)$, lo cual da una razón de $0.80$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -370,7 +370,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v9",
       "statement": "¿Cuál es la suma de la serie geométrica infinita $16, 8, 4, 2...$?",
-      "context": "Suma infinita de una serie geométrica.\n**Expected_Success:** 0.68",
+      "context": "Suma infinita de una serie geométrica.",
       "options": [
         {
           "letter": "A",
@@ -379,13 +379,13 @@
           "feedback": "Incorrecto. Valor cercano pero no es el límite infinito."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "32",
           "is_correct": true,
           "feedback": "Correcto. S_inf = a_1 / (1 - r). a_1 = 16, r = 0.5. S_inf = 16 / (1 - 0.5) = 16 / 0.5 = 32."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "24",
           "is_correct": false,
           "feedback": "Incorrecto. Error en la aplicación de la fórmula."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Como |r| < 1, la serie sí converge."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Para una serie geométrica infinita donde $|r| < 1$, la suma es $S = \\frac{a_1}{1 - r}$. Sustituyendo: $\\frac{16}{1 - 0.5} = \\frac{16}{0.5} = 32$.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -415,7 +415,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v10",
       "statement": "En la sucesión geométrica $1/3, x, 3, 9...$ ¿Cuál es el valor de $x$?",
-      "context": "Términos faltantes en una secuencia.\n**Expected_Success:** 0.74",
+      "context": "Términos faltantes en una secuencia.",
       "options": [
         {
           "letter": "A",
@@ -460,7 +460,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v11",
       "statement": "Una persona invierte $10,000 pesos en una cuenta que paga el 5% de interés anual compuesto. ¿Cuál es el valor de la inversión después de 10 años? (Usa $(1.05)^{10} \\approx 1.628$)",
-      "context": "Problema de interés compuesto.\n**Expected_Success:** 0.55",
+      "context": "Problema de interés compuesto.",
       "options": [
         {
           "letter": "A",
@@ -505,7 +505,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v12",
       "statement": "Interpolar dos medios geométricos entre 3 y 192. ¿Cuáles son los dos números?",
-      "context": "Medios geométricos.\n**Expected_Success:** 0.50",
+      "context": "Medios geométricos.",
       "options": [
         {
           "letter": "A",
@@ -550,16 +550,16 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v13",
       "statement": "El número decimal periódico $0.777...$ puede verse como una suma infinita: $0.7 + 0.07 + 0.007...$ ¿Cuál es su valor en forma de fracción?",
-      "context": "Conversión de número decimal periódico a fracción.\n**Expected_Success:** 0.45",
+      "context": "Conversión de número decimal periódico a fracción.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "7/10",
           "is_correct": false,
           "feedback": "Incorrecto. Esto es solo 0.7."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "7/9",
           "is_correct": true,
           "feedback": "Correcto. a_1 = 0.7, r = 0.1. S_inf = 0.7 / (1 - 0.1) = 0.7 / 0.9 = 7/9."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Valor muy pequeño."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Es una serie geométrica con $a_1 = 7/10$ y $r = 1/10$. La suma es $\\frac{7/10}{1 - 1/10} = \\frac{7/10}{9/10} = 7/9$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -595,34 +595,34 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v14",
       "statement": "Si $\\log(x), \\log(x^2), \\log(x^4)...$ es una sucesión, ¿cuál de las siguientes afirmaciones es correcta?",
-      "context": "Términos de una sucesión con logaritmos.\n**Expected_Success:** 0.40",
+      "context": "Términos de una sucesión con logaritmos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Es una sucesión aritmética con diferencia $d = \\log(x)$.",
           "is_correct": false,
-          "feedback": "Incorrecto. La diferencia entre términos no es constante."
+          "feedback": "Una progresión aritmética exige diferencias constantes, pero aquí los términos $\\log x, 2\\log x, 4\\log x$ se multiplican por $2$ en cada paso, no se suman una cantidad fija."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Es una sucesión geométrica con razón $r = 2$.",
           "is_correct": true,
-          "feedback": "Correcto. Al aplicar propiedades de logaritmos, los términos son $\\log(x), 2\\log(x), 4\\log(x)...$ El cociente entre ellos es constante e igual a 2."
+          "feedback": "Con $\\log(x^a) = a\\log x$ los términos son $\\log x, 2\\log x, 4\\log x, 8\\log x$, y el cociente entre consecutivos es siempre $2$."
         },
         {
           "letter": "C",
           "text": "Es una sucesión aritmética con diferencia $d = 2$.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "La diferencia entre términos es $\\log x, 2\\log x, 4\\log x$, que no es constante; además el enunciado describe un cociente, no una diferencia."
         },
         {
           "letter": "D",
           "text": "No es una progresión conocida.",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Sí es una progresión conocida: como cada término es el anterior multiplicado por $2$, es una progresión geométrica de razón $2$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Usando $\\log(a^b) = b \\cdot \\log(a)$, los términos son $\\log(x), 2\\log(x), 4\\log(x), 8\\log(x)...$ El cociente es constante e igual a 2.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -640,31 +640,31 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v15",
       "statement": "Calcula la suma infinita de la serie: $1 - 1/3 + 1/9 - 1/27...$",
-      "context": "Suma de una serie alternada.\n**Expected_Success:** 0.48",
+      "context": "Suma de una serie alternada.",
       "options": [
         {
           "letter": "A",
           "text": "2/3",
           "is_correct": false,
-          "feedback": "Incorrecto. Has usado r=1/3 positivo."
+          "feedback": "El $2/3$ sale de tomar $r = 1/3$ positivo, pero los signos de la serie alternan, así que la razón es negativa."
         },
         {
           "letter": "B",
           "text": "3/4",
           "is_correct": true,
-          "feedback": "Correcto. a_1 = 1, r = -1/3. S_inf = 1 / (1 - (-1/3)) = 1 / (4/3) = 3/4."
+          "feedback": "Con $a_1 = 1$ y $r = -1/3$: $S = \\frac{a_1}{1-r} = \\frac{1}{1 + 1/3} = \\frac{1}{4/3} = 3/4$."
         },
         {
           "letter": "C",
           "text": "3/2",
           "is_correct": false,
-          "feedback": "Incorrecto. Error en la operación del denominador."
+          "feedback": "El $3/2$ invierte la fórmula, olvidando que $S = \\frac{a_1}{1-r}$ con $1 - (-1/3) = 4/3$."
         },
         {
           "letter": "D",
           "text": "1.5",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El $1.5$ se obtiene usando $r = -1/2$ en lugar de $r = -1/3$, que es la razón de esta serie."
         }
       ],
       "correct_answer": "B",
@@ -685,7 +685,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v16",
       "statement": "Una maquinaria de $200,000 pesos pierde el 15% de su valor cada año. ¿Cuál es la expresión para su valor $V$ después de $n$ años?",
-      "context": "Problema de depreciación acelerada.\n**Expected_Success:** 0.52",
+      "context": "Problema de depreciación acelerada.",
       "options": [
         {
           "letter": "A",
@@ -694,13 +694,13 @@
           "feedback": "Incorrecto. Esto es depreciación lineal (aritmética)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$V = 200,000(0.85)^n$",
           "is_correct": true,
           "feedback": "Correcto. Si pierde 15%, conserva el 85% (razón r=0.85)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$V = 200,000(0.15)^n$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto diría que el valor cae al 15% en el primer año."
@@ -712,7 +712,7 @@
           "feedback": "Incorrecto. Esto indicaría que el valor aumenta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La pérdida porcentual constante se modela con una progresión geométrica. La razón es $(1 - 0.15) = 0.85$.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -730,34 +730,34 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v17",
       "statement": "En una sucesión geométrica de 5 términos, el tercer término es 4. ¿Cuál es el producto de los 5 términos de la sucesión?",
-      "context": "Producto de los términos de una sucesión.\n**Expected_Success:** 0.32",
+      "context": "Producto de los términos de una sucesión.",
       "options": [
         {
           "letter": "A",
           "text": "20",
           "is_correct": false,
-          "feedback": "Incorrecto. Has multiplicado el término por el número de términos."
-        },
-        {
-          "letter": "B",
-          "text": "1024",
-          "is_correct": true,
-          "feedback": "Correcto. El producto de una PG de n términos es (a_1 * a_n)^(n/2). También se cumple que a_3^5 = 4^5 = 1024 debido a la simetría."
-        },
-        {
-          "letter": "C",
-          "text": "256",
-          "is_correct": false,
-          "feedback": "Incorrecto. Has calculado 4^4."
+          "feedback": "El 20 es $4 \\times 5$, es decir el término central multiplicado por el número de términos, lo que no es la regla del producto."
         },
         {
           "letter": "D",
+          "text": "1024",
+          "is_correct": true,
+          "feedback": "En una progresión de $5$ términos el central cumple $a_c^5 = a_1 a_2 a_3 a_4 a_5$, así que el producto es $4^5 = 1024$."
+        },
+        {
+          "letter": "B",
+          "text": "256",
+          "is_correct": false,
+          "feedback": "El 256 es $4^4$, pero hay $5$ términos y el central aparece elevado a $5$ en el producto total."
+        },
+        {
+          "letter": "C",
           "text": "512",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "El 512 es $4^{4.5}$; el producto de $5$ términos con central $a_c$ es $a_c^{n}$ con $n = 5$, no $4.5$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "En una PG, el término central $a_c$ cumple que el producto de $n$ términos es $a_c^n$ (si $n$ es impar). Aquí $4^5 = 1024$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -775,34 +775,34 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v18",
       "statement": "Si $x-2, x+2, x+10$ son los tres primeros términos de una progresión geométrica, ¿cuál es el valor de $x$?",
-      "context": "Sucesiones geométricas con variables.\n**Expected_Success:** 0.28",
+      "context": "Sucesiones geométricas con variables.",
       "options": [
         {
           "letter": "A",
           "text": "4",
           "is_correct": false,
-          "feedback": "Incorrecto. Al sustituir daría 2, 6, 14 (no es PG)."
-        },
-        {
-          "letter": "B",
-          "text": "6",
-          "is_correct": true,
-          "feedback": "Correcto. (x+2)/(x-2) = (x+10)/(x+2) => (x+2)^2 = (x-2)(x+10) => x^2+4x+4 = x^2+8x-20 => 4x = 24 => x=6."
-        },
-        {
-          "letter": "C",
-          "text": "2",
-          "is_correct": false,
-          "feedback": "Incorrecto. El primer término sería 0."
+          "feedback": "Con $x = 4$ los términos serían $2, 6, 14$, y $6^2 = 36 \\neq 2 \\times 14 = 28$, así que no forman progresión geométrica."
         },
         {
           "letter": "D",
+          "text": "6",
+          "is_correct": true,
+          "feedback": "En una PG el término medio cumple $b^2 = ac$: $(x+2)^2 = (x-2)(x+10)$, que al desarrollar y simplificar da $x = 6$."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "is_correct": false,
+          "feedback": "Con $x = 2$ el primer término sería $0$, y una progresión geométrica con razón $r$ exige $b = 0 \\cdot r = 0$, lo que no se cumple."
+        },
+        {
+          "letter": "C",
           "text": "10",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Con $x = 10$ los términos serían $8, 12, 20$, y $12^2 = 144 \\neq 8 \\times 20 = 160$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La propiedad de la PG dice que $b^2 = a \\cdot c$. Resolvemos $(x+2)^2 = (x-2)(x+10)$, lo que nos lleva a una ecuación lineal simple $x=6$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -820,7 +820,7 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v19",
       "statement": "En un cuadrado de área 1, se sombrea la mitad. En la mitad no sombreada, se sombrea nuevamente la mitad, y así sucesivamente. ¿A qué valor tiende el área total sombreada después de infinitos pasos?",
-      "context": "Fracciones de área (Fractales).\n**Expected_Success:** 0.35",
+      "context": "Fracciones de área (Fractales).",
       "options": [
         {
           "letter": "A",
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. Este es solo el primer paso."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "1",
           "is_correct": true,
           "feedback": "Correcto. La suma es 1/2 + 1/4 + 1/8... que es una serie geométrica con a_1=1/2 y r=1/2. S = (1/2)/(1-1/2) = 1."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "2",
           "is_correct": false,
           "feedback": "Incorrecto. El área total del cuadrado es 1, no puede excederla."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Infinito",
           "is_correct": false,
           "feedback": "Incorrecto. La serie converge."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Es la suma de $1/2^n$. Representa la división sucesiva del área total. Matemáticamente: $S = \\frac{0.5}{1 - 0.5} = 1$.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -865,34 +865,34 @@
     {
       "id": "MX-MAT-11-2026-W32-sucesiones-geometricas-001-MASTERY-bundle-v20",
       "statement": "Si $a, b, c$ forman una progresión aritmética de diferencia 2, y $a, b, c+1$ forman una progresión geométrica, ¿cuál es el valor de $a$?",
-      "context": "Relación entre sucesiones aritméticas y geométricas.\n**Expected_Success:** 0.30",
+      "context": "Relación entre sucesiones aritméticas y geométricas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "4",
           "is_correct": true,
-          "feedback": "Correcto. Los términos de la PA son $a, a+2, a+4$. Los de la PG son $a, a+2, a+5$. Por la propiedad del término medio: $(a+2)^2 = a(a+5)$, lo que simplifica a $a=4$."
+          "feedback": "La PA da $a, a+2, a+4$ y la PG usa $a, a+2, a+5$; por $b^2 = ac$: $(a+2)^2 = a(a+5)$, es decir $a^2 + 4a + 4 = a^2 + 5a$, de donde $a = 4$."
+        },
+        {
+          "letter": "A",
+          "text": "8",
+          "is_correct": false,
+          "feedback": "Con $a = 8$ la PG exigiría $(8+2)^2 = 8 \\times 13$, es decir $100 = 104$, que es falso."
         },
         {
           "letter": "B",
-          "text": "8",
-          "is_correct": false,
-          "feedback": "Incorrecto."
-        },
-        {
-          "letter": "C",
           "text": "2",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Con $a = 2$ la condición $(2+2)^2 = 2 \\times 7$ da $16 = 14$, que es falsa."
         },
         {
           "letter": "D",
           "text": "6",
           "is_correct": false,
-          "feedback": "Incorrecto."
+          "feedback": "Con $a = 6$ la condición $(6+2)^2 = 6 \\times 11$ da $64 = 66$, que es falsa."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "PA: $a, a+2, a+4$. PG: $a, a+2, (a+4)+1$. Por propiedad de PG: $(a+2)^2 = a(a+5)$. $a^2+4a+4 = a^2+5a \\rightarrow a=4$.\n\n---",
       "difficulty": "10",
       "images": [],

@@ -39,7 +39,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student identifies basic countable nouns among uncountable substances.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -131,7 +131,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student understands the use of \"some\" as a quantifier for uncountable nouns in a social context.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -177,7 +177,7 @@
       ],
       "correct_answer": "C",
       "explanation": "The student distinguishes between nouns that can take a plural form and those that cannot.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -200,25 +200,25 @@
           "letter": "A",
           "text": "a / an / some",
           "is_correct": false,
-          "feedback": "Incorrect. Bread is uncountable."
+          "feedback": "Bread is uncountable, so 'a bread' is not possible; it needs 'some bread'."
         },
         {
           "letter": "B",
           "text": "some / an / some",
           "is_correct": true,
-          "feedback": "Correct! Some bread (uncountable), an egg (singular countable), some milk (uncountable)."
+          "feedback": "Correct. 'Some' fits the uncountable bread, 'an' fits the singular countable egg, and 'some' fits the uncountable milk."
         },
         {
           "letter": "C",
           "text": "some / a / a",
           "is_correct": false,
-          "feedback": "Incorrect. Egg starts with a vowel and milk is uncountable."
+          "feedback": "'A' cannot go before 'egg' here because the singular countable egg needs 'an', and milk is uncountable so it cannot take 'a'."
         },
         {
           "letter": "D",
           "text": "a / some / some",
           "is_correct": false,
-          "feedback": "Incorrect. Bread is uncountable."
+          "feedback": "Bread is uncountable, so the first blank cannot be 'a'; it has to be 'some'."
         }
       ],
       "correct_answer": "B",
@@ -240,7 +240,7 @@
     {
       "id": "CO-ING-7-2026-W22-countable-uncountable-006-v1",
       "statement": "Which item in the recipe is a plural countable noun?",
-      "context": "A recipe instruction.\n\"To make the juice, you need three lemons, some sugar, and a liter of water.\"",
+      "context": "A recipe instruction.\n\n\"To make the juice, you need three lemons, some sugar, and a liter of water.\"",
       "options": [
         {
           "letter": "A",
@@ -269,7 +269,7 @@
       ],
       "correct_answer": "A",
       "explanation": "The student applies grammatical categorization to specific words within a functional text.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -315,7 +315,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student applies the versatility of the quantifier \"some\" for different noun types.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -338,25 +338,25 @@
           "letter": "A",
           "text": "A piece of bread.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A piece of' is the standard way to count bread, so the structure is correct."
         },
         {
           "letter": "B",
           "text": "A glass of water.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A glass of' is the standard container word used to count water, so the structure is correct."
         },
         {
           "letter": "C",
           "text": "A milk.",
           "is_correct": true,
-          "feedback": "Incorrect! You cannot use \"a\" with an uncountable noun like milk without a container word."
+          "feedback": "Correct. 'Milk' is uncountable, so 'a milk' is wrong; English needs a container word such as 'a glass of milk'."
         },
         {
           "letter": "D",
           "text": "A bottle of milk.",
           "is_correct": false,
-          "feedback": "Correct structure."
+          "feedback": "'A bottle of' is the standard container word used to count milk, so the structure is correct."
         }
       ],
       "correct_answer": "C",
@@ -378,7 +378,7 @@
     {
       "id": "CO-ING-7-2026-W22-countable-uncountable-009-v1",
       "statement": "Identify the pair of uncountable nouns mentioned in the dialogue.",
-      "context": "A dialogue at a restaurant.\nCustomer: \"I'd like some soup and a salad, please.\"\nWaiter: \"Certainly. Would you like some juice or a soda with that?\"",
+      "context": "A dialogue at a restaurant.\n\nCustomer: \"I'd like some soup and a salad, please.\"\n\nWaiter: \"Certainly. Would you like some juice or a soda with that?\"",
       "options": [
         {
           "letter": "A",
@@ -407,7 +407,7 @@
       ],
       "correct_answer": "B",
       "explanation": "The student analyzes a text to identify and categorize nouns based on their countability in context.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -424,7 +424,7 @@
     {
       "id": "CO-ING-7-2026-W22-countable-uncountable-010-v1",
       "statement": "Which items on this list are abstract uncountable nouns?",
-      "context": "Evaluating a shopping list for a party.\n\"Shopping List: 10 sodas, 5 pizzas, some music, some happiness, and a lot of fun.\"",
+      "context": "Evaluating a shopping list for a party.\n\n\"Shopping List: 10 sodas, 5 pizzas, some music, some happiness, and a lot of fun.\"",
       "options": [
         {
           "letter": "A",

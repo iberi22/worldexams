@@ -13,33 +13,33 @@
       "context": "Describing two simultaneous actions in a historical battle.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Carrying",
           "is_correct": true,
           "feedback": "Correct! Present participle clause (-ing) shows two actions happening at the same time by the same subject."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Carried",
           "is_correct": false,
           "feedback": "Incorrect. Past participle has a passive meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having carried",
           "is_correct": false,
           "feedback": "Incorrect. This would mean they carried it before they advanced."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To carry",
           "is_correct": false,
           "feedback": "Incorrect. Infinitives don't function as participle clauses here."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Las oraciones de participio de presente (*-ing*) se usan para describir dos acciones que el mismo sujeto realiza de manera simultánea.\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -85,7 +85,7 @@
       ],
       "correct_answer": "B",
       "explanation": "El participio pasado (*signed*) funciona aquí como una oración de relativo reducida (\"which was signed\").\n\n---",
-      "difficulty": "3",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
@@ -151,33 +151,33 @@
       "context": "Explaining a reason for a past event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "Realizing",
           "is_correct": true,
           "feedback": "Correct! Present participle can show a cause or reason."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Realized",
           "is_correct": false,
           "feedback": "Incorrect. Passive meaning."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having realized",
           "is_correct": false,
           "feedback": "Incorrect. While possible, \"Realizing\" fits the immediate cause better."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "To realize",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive would make the explorers arrive already having realised something, and it cannot express the reason as a cause."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Una oración de participio de presente puede usarse para explicar la razón de la acción principal. Equivale a decir \"Because they realized...\".\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Understand",
@@ -218,12 +218,12 @@
           "letter": "D",
           "text": "to describe",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive after a noun needs a subject of its own, so the documents would have to be doing the describing."
         }
       ],
       "correct_answer": "B",
       "explanation": "El participio de presente se usa frecuentemente para sustituir oraciones de relativo activas.\n\n---",
-      "difficulty": "5",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
@@ -246,16 +246,16 @@
           "letter": "A",
           "text": "Locating",
           "is_correct": false,
-          "feedback": "Incorrect. Active meaning."
+          "feedback": "Incorrect. \"Locating\" is active, so it would make the town the one doing the placing of itself at the foot of the mountains."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Located",
           "is_correct": true,
           "feedback": "Correct! Past participle shows the passive state or situation."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Having located",
           "is_correct": false,
           "feedback": "Incorrect. Active meaning."
@@ -264,10 +264,10 @@
           "letter": "D",
           "text": "Being located",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The -ing form marks an action in progress, and the sentence describes a finished situation, not one still happening."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Usamos el participio pasado al inicio de la oración para describir una circunstancia o estado pasivo del sujeto principal.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -295,13 +295,13 @@
           "feedback": "Incorrect. This implies the paintings were walking."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Walking through the museum, I saw many beautiful paintings.",
           "is_correct": true,
           "feedback": "Correct! The subject \"I\" is the one who was walking."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Walked through the museum, I saw many paintings.",
           "is_correct": false,
           "feedback": "Incorrect. Passive meaning for \"walked\"."
@@ -310,12 +310,12 @@
           "letter": "D",
           "text": "Having walking through the museum, I saw many paintings.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Having\" must be followed by a past participle, so the correct form of \"walked\" would be needed after it."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El sujeto de la oración principal debe ser el mismo que realiza la acción expresada por el participio.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -338,7 +338,7 @@
           "letter": "A",
           "text": "He submitted it while he was finishing it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. \"Having finished\" places the completion of the report before the submission, not at the same time as it."
         },
         {
           "letter": "B",
@@ -350,18 +350,18 @@
           "letter": "C",
           "text": "He finished it because he submitted it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The clause gives the reason for submitting, while \"having finished\" gives the moment of the first action."
         },
         {
           "letter": "D",
           "text": "He submitted it to help him finish it.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. That would make the submission come first, and the sentence presents the report as already finished before it was sent."
         }
       ],
       "correct_answer": "B",
       "explanation": "El participio de perfecto (*Having finished*) indica prioridad temporal entre dos acciones pasadas.\n\n---",
-      "difficulty": "7",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -381,13 +381,13 @@
       "context": "Negative participle clauses.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Having not",
           "is_correct": false,
           "feedback": "Incorrect word order."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Not having",
           "is_correct": true,
           "feedback": "Correct! Negative participle clauses start with \"Not\" followed by the participle."
@@ -396,16 +396,16 @@
           "letter": "C",
           "text": "Don't having",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The negative here belongs to the participle clause, which takes \"not\", and the auxiliary \"do\" never appears in that structure."
         },
         {
           "letter": "D",
           "text": "Not had",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. A participle clause needs the -ing form, so after \"not\" the sentence needs \"having\", and \"not had\" is a plain verb form."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Para formar la versión negativa de una oración de participio, colocamos *not* delante del participio.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -430,30 +430,30 @@
           "letter": "A",
           "text": "Growing up",
           "is_correct": false,
-          "feedback": "Incorrect. Correct use."
-        },
-        {
-          "letter": "B",
-          "text": "Built",
-          "is_correct": false,
-          "feedback": "Incorrect. Correct use."
+          "feedback": "Incorrect. This is a correct present participle clause describing when the city changed, so it is not the error."
         },
         {
           "letter": "C",
-          "text": "Having been",
+          "text": "Built",
           "is_correct": false,
-          "feedback": "Incorrect. Correct use."
+          "feedback": "Incorrect. This is a correct past participle clause about the location of the factories, so it is not the error."
         },
         {
           "letter": "D",
+          "text": "Having been",
+          "is_correct": false,
+          "feedback": "Incorrect. This is a correct perfect participle clause, and the fault of the sentence lies in the word that follows it."
+        },
+        {
+          "letter": "B",
           "text": "becoming",
           "is_correct": true,
           "feedback": "Correct! This should be a finite verb (became) because it is the main verb of the sentence."
         }
       ],
-      "correct_answer": "D",
+      "correct_answer": "B",
       "explanation": "Una oración de participio no puede funcionar como el verbo principal de una oración independiente.\n\n---",
-      "difficulty": "9",
+      "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -473,19 +473,19 @@
       "context": "Choosing the best way to report an event.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "The king was defeated and then he went into exile.",
           "is_correct": false,
           "feedback": "Incorrect. Too simple."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "When the king was defeated, he went into exile.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The two full clauses joined by \"when\" are wordier, and a participle clause is the formal compressed form."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Defeated in battle, the king went into exile.",
           "is_correct": true,
           "feedback": "Correct! Uses a past participle clause for conciseness."
@@ -494,10 +494,10 @@
           "letter": "D",
           "text": "The king, who was defeated, went into exile.",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. A relative clause still needs a full subject and verb, so it is no more formal than a participle clause."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "El uso de oraciones de participio es una característica del lenguaje académico e histórico formal.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -522,7 +522,7 @@
           "letter": "A",
           "text": "asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. The past participle has no passive meaning here, so the messenger would be doing the asking rather than asking while he travelled."
         },
         {
           "letter": "B",
@@ -534,13 +534,13 @@
           "letter": "C",
           "text": "to have asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. An infinitive cannot open the second clause of a sentence whose main verb is already in the past."
         },
         {
           "letter": "D",
           "text": "having asked",
           "is_correct": false,
-          "feedback": "Incorrect."
+          "feedback": "Incorrect. That would place the asking before the journey and after the understanding, and so it would destroy the simultaneity."
         }
       ],
       "correct_answer": "B",

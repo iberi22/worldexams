@@ -64,25 +64,25 @@
           "feedback": "Incorrecto. Este símbolo excluye el valor exacto de 50 balboas de la solución."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$C \\leq 50$",
           "is_correct": true,
           "feedback": "Correcto. El símbolo representa \"menor o igual que\", incluyendo el límite superior del presupuesto."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$C > 50$",
           "is_correct": false,
           "feedback": "Incorrecto. Este símbolo representa la condición opuesta (mayor que cincuenta)."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$C \\geq 50$",
           "is_correct": false,
           "feedback": "Incorrecto. Este símbolo representaría un presupuesto mínimo de cincuenta balboas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uso de símbolos de desigualdad para modelar restricciones de la vida real mediante inecuaciones.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -103,13 +103,13 @@
       "context": "Durante una clase de matemáticas en la Ciudad de Panamá, se explica la propiedad del valor absoluto de un número real.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$-15.5$",
           "is_correct": false,
           "feedback": "Incorrecto. El valor absoluto representa una distancia y por lo tanto nunca es negativo."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$15.5$",
           "is_correct": true,
           "feedback": "Correcto. El valor absoluto es la magnitud numérica del dato prescindiendo de su signo algebraico."
@@ -127,7 +127,7 @@
           "feedback": "Incorrecto. El concepto de valor absoluto no guarda relación directa con la operación de radicación."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Definición básica y cálculo del valor absoluto de un número real decimal.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -238,13 +238,13 @@
       "context": "Un ingeniero establece el rango de tolerancia para la presión en una tubería usando valor absoluto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\leq 3$",
           "is_correct": false,
           "feedback": "Incompleto. Se omitieron todos los valores negativos cuyo valor absoluto también es menor a tres."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$-3 \\leq x \\leq 3$",
           "is_correct": true,
           "feedback": "Correcto. Por definición el valor absoluto menor que una constante define un intervalo cerrado central."
@@ -262,7 +262,7 @@
           "feedback": "Incorrecto. La respuesta debe eliminar la notación de valor absoluto para ser una solución."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de inecuaciones fundamentales con valor absoluto (menor o igual).\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Un analista de calidad en Chitré verifica que el peso de un producto esté dentro del margen.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x \\geq 7/3$",
           "is_correct": false,
           "feedback": "Incorrecto. Se restó la constante en lugar de sumarla al miembro de la derecha."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\geq 5$",
           "is_correct": true,
           "feedback": "Correcto. Trasponiendo: 3x >= 15, por lo tanto x es mayor o igual que cinco."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El signo original incluye la posibilidad de igualdad, la cual se omitió aquí."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Resolución de inecuaciones lineales de dos pasos con coeficientes positivos.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -334,25 +334,25 @@
           "feedback": "Incorrecto. Este intervalo correspondería al caso en que el valor absoluto fuera menor a cinco."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x < -5$ o $x > 5$",
           "is_correct": true,
           "feedback": "Correcto. Indica que el número se encuentra alejado del origen más de cinco unidades en cualquier sentido."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 5$ únicamente",
           "is_correct": false,
           "feedback": "Incompleto. Se olvidaron los números negativos cuya magnitud también supera el valor de cinco."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = \\pm 5$",
           "is_correct": false,
           "feedback": "Incorrecto. El resultado de la inecuación no son puntos aislados sino intervalos de la recta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de inecuaciones fundamentales con valor absoluto (mayor que).\n\n---",
       "difficulty": "5",
       "images": [],
@@ -469,25 +469,25 @@
           "feedback": "Incompleto. Falta considerar la restricción inferior impuesta por la definición de distancia."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$-1 < x < 5$",
           "is_correct": true,
           "feedback": "Correcto. -6 < 2x-4 < 6 implica -2 < 2x < 10, por lo tanto el rango es de menos uno a cinco."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x < -1$ o $x > 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Este conjunto de soluciones correspondería al caso de mayor que seis."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$1 < x < 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signos al resolver la parte negativa de la desigualdad absoluta."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de inecuaciones de valor absoluto de la forma |ax + b| < c.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Este intervalo representa los valores que no cumplen la condición de alejamiento."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x \\leq 1$ o $x \\geq 5$",
           "is_correct": true,
           "feedback": "Correcto. Resolviendo los dos casos de la desigualdad se obtienen estos dos semi-intervalos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$1 \\leq x \\leq 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Confusión entre las reglas de resolución para menor que y mayor que en valor absoluto."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x < 1$ o $x > 5$",
           "is_correct": false,
           "feedback": "Incorrecto. Se omitieron los puntos extremos que sí satisfacen la igualdad del signo original."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Análisis y resolución de inecuaciones de valor absoluto de la forma |ax + b| >= c.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -553,19 +553,19 @@
       "context": "Un administrador en la Zona Libre de Colón calcula el rango de ganancias para productos.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$x \\geq -12$",
           "is_correct": true,
           "feedback": "Correcto. 2x-2-3x-6 <= 4 resulta en -x-8 <= 4, por lo que -x <= 12 y x >= -12."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\leq -12$",
           "is_correct": false,
           "feedback": "Incorrecto. Se olvidó invertir el signo de desigualdad al tratar con el coeficiente negativo de x."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\leq 12$",
           "is_correct": false,
           "feedback": "Incorrecto. Error cometido en el signo de la constante final tras realizar los despejes."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. Se cometió un error en la reducción de los términos numéricos independientes."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Resolución de inecuaciones lineales complejas con paréntesis y coeficientes negativos.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -598,19 +598,19 @@
       "context": "Un científico analiza el nivel de oxígeno y encuentra una restricción absoluta inusual.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x < 2$",
           "is_correct": false,
           "feedback": "Incorrecto. No es posible resolver la inecuación ignorando el signo de la constante negativa."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$2 < x < 6$",
           "is_correct": false,
           "feedback": "Incorrecto. Ningún valor absoluto puede resultar en un número inferior a cero."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "Conjunto vacío",
           "is_correct": true,
           "feedback": "Correcto. Por definición un valor absoluto es siempre no negativo y no puede ser menor a -2."
@@ -622,7 +622,7 @@
           "feedback": "Incorrecto. Esta respuesta sería válida si la desigualdad fuera de tipo \"mayor que\"."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Identificación de inecuaciones inconsistentes basadas en las propiedades del valor absoluto.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -649,13 +649,13 @@
           "feedback": "Incompleto. No considera la restricción del límite inferior ni la exclusión del valor nulo."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$-1/2 < x < 1/2$ (con $x \\neq 0$)",
           "is_correct": true,
           "feedback": "Correcto. Equivale a decir que el valor absoluto de x es menor que un medio pero sin ser cero."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x > 1/2$ o $x < -1/2$",
           "is_correct": false,
           "feedback": "Incorrecto. Se confundió la regla de inversión al trabajar con los recíprocos de la variable."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. El conjunto de soluciones es infinito dentro del rango especificado."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de inecuaciones racionales simples involucrando conceptos de valor absoluto.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -688,31 +688,31 @@
       "context": "Un experto en seguridad analiza los límites permitidos por una función de distancia absoluta entre usuarios.",
       "options": [
         {
-          "letter": "A",
+          "letter": "D",
           "text": "$x \\geq 1$",
           "is_correct": true,
           "feedback": "Correcto. Elevando al cuadrado: (x-5)^2 <= (x+3)^2, lo que reduce a -10x+25 <= 6x+9, resultando x >= 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x \\leq 1$",
           "is_correct": false,
           "feedback": "Incorrecto. Estos valores representan puntos que se encuentran más cercanos al valor -3 que al 5."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 1$ únicamente",
           "is_correct": false,
           "feedback": "Incorrecto. Al ser una inecuación la solución es un intervalo de puntos, no un dato aislado."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x > 0$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque incluye parte de la solución, el límite exacto del conjunto comienza en la unidad."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "explanation": "Resolución de inecuaciones con valor absoluto en ambos miembros mediante análisis de distancias.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -739,25 +739,25 @@
           "feedback": "Incompleto. Representa solo una de las dos condiciones que deben cumplirse simultáneamente."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x \\geq -4$",
           "is_correct": true,
           "feedback": "Correcto. Ambas partes de la inecuación doble resultan en x >= -4 (o mayor que), siendo esta la solución común."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x \\leq -4$",
           "is_correct": false,
           "feedback": "Incorrecto. Error en los procesos de trasposición de términos en las desigualdades parciales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Conjunto vacío",
           "is_correct": false,
           "feedback": "Incorrecto. Existe un rango de valores que satisface ambas condiciones de forma concurrente."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de sistemas de inecuaciones lineales concatenadas o dobles.\n\n---",
       "difficulty": "8",
       "images": [],

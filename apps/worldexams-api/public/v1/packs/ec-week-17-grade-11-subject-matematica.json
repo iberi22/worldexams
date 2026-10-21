@@ -19,25 +19,25 @@
           "feedback": "Incorrecto. El signo del segundo término debe ser negativo."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\int u \\, dv = uv - \\int v \\, du$",
           "is_correct": true,
           "feedback": "Correcto. Esta fórmula se deriva de la regla del producto para derivadas."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\int u \\, dv = u'v - uv'$",
           "is_correct": false,
           "feedback": "Incorrecto. Confundió con la regla del cociente para derivadas."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\int u \\, dv = \\frac{u}{v} - \\int \\frac{du}{dv}$",
           "is_correct": false,
           "feedback": "Incorrecto. Estructura de fórmula totalmente errónea."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La integración por partes es una técnica basada en la inversión de la regla del producto, permitiendo resolver integrales donde el integrando es un producto de dos funciones de distinta naturaleza.\n\n---",
       "difficulty": "3",
       "images": [],
@@ -58,13 +58,13 @@
       "context": "Elección de variables en integración por partes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Funciones Arcos (Trigonométricas inversas).",
           "is_correct": false,
           "feedback": "Incorrecto. Eso es la \"I\"."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Funciones Algebráicas (Polinomios).",
           "is_correct": true,
           "feedback": "Correcto. Los polinomios suelen elegirse como $u$ para que su grado disminuya al derivar."
@@ -82,7 +82,7 @@
           "feedback": "Incorrecto. No es una categoría estándar en la regla LIATE."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "La regla LIATE (Logarítmicas, Inversas, Algebráicas, Trigonométricas, Exponenciales) ayuda a jerarquizar qué función es más conveniente derivar ($u$) y cuál integrar ($dv$).\n\n---",
       "difficulty": "3",
       "images": [],
@@ -109,25 +109,25 @@
           "feedback": "Incorrecto. Olvidó el término negativo resultante de la fórmula."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x e^x - e^x + C$",
           "is_correct": true,
           "feedback": "Correcto. $u=x, dv=e^x dx \\Rightarrow du=dx, v=e^x$. Entonces $uv - \\int v du = x e^x - \\int e^x dx = x e^x - e^x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{1}{2}x^2 e^x + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Trató de integrar ambos términos por separado, lo cual es inválido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$e^x(x + 1) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Error de signo en la factorización final."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Aplicación básica de la integración por partes donde un factor polinómico se reduce a una constante tras la primera derivación.\n\n---",
       "difficulty": "4",
       "images": [],
@@ -283,13 +283,13 @@
       "context": "Integral por sustitución trigonométrica.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$x = 3 \\tan(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Esto se usaría para $9 + x^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x = 3 \\sin(\\theta)$",
           "is_correct": true,
           "feedback": "Correcto. Aprovecha la identidad $1 - \\sin^2 = \\cos^2$, lo cual elimina la raíz cuadrada."
@@ -307,7 +307,7 @@
           "feedback": "Incorrecto. El coeficiente debe ser la raíz cuadrada de la constante 9."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Selección del cambio de variable trigonométrico correcto basado en la estructura del radical presente en el integrando.\n\n---",
       "difficulty": "5",
       "images": [],
@@ -328,13 +328,13 @@
       "context": "Un sensor de flujo en una central hidroeléctrica en los Andes ecuatorianos mide una tasa dada por $f(x) = \\frac{x+1}{x^2-1}$ para $x > 1$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\ln(x^2 - 1) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó simplificar la expresión racional primero."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\ln|x - 1| + C$",
           "is_correct": true,
           "feedback": "Correcto. $\\frac{x+1}{(x-1)(x+1)} = \\frac{1}{x-1}$. La integral es $\\ln|x-1|$."
@@ -352,7 +352,7 @@
           "feedback": "Incorrecto. El factor $(x+1)$ se cancela, quedando el denominador $(x-1)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Importancia de la simplificación algebraica previa a la aplicación de métodos de integración complejos para evitar trabajo innecesario.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -373,13 +373,13 @@
       "context": "Integración por partes aplicada dos veces (proceso cíclico o de reducción).",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "El grado aumenta a $x^4$.",
           "is_correct": false,
           "feedback": "Incorrecto. La derivación reduce el grado de los polinomios."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Se convierte en una constante, permitiendo una integración inmediata.",
           "is_correct": true,
           "feedback": "Correcto. Primera derivada: $2x$. Segunda derivada: $2$. Esto simplifica el integrando final."
@@ -397,7 +397,7 @@
           "feedback": "Incorrecto. Los polinomios no se transforman en logaritmos al derivar."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Comprensión del proceso de reducción de orden en la integración por partes para integrandos con factores polinómicos de grado superior.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -418,13 +418,13 @@
       "context": "Identificación del método correcto.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Sustitución simple con $u = x^2 + 4$.",
           "is_correct": true,
           "feedback": "Correcto. Como el numerador es (casi) la derivada del denominador, es el método más rápido."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Sustitución trigonométrica con $x = 2 \\tan(\\theta)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque funciona, es mucho más largo que la sustitución simple."
@@ -442,7 +442,7 @@
           "feedback": "Incorrecto. No es una técnica eficiente para esta estructura de cociente."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "explanation": "Jerarquización de métodos: siempre se debe buscar una sustitución simple antes de recurrir a técnicas más avanzadas.\n\n---",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Incorrecto. Es mejor para potencias pares."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Separar un factor $\\sin(x)$ y convertir el resto usando $\\sin^2(x) = 1 - \\cos^2(x)$.",
           "is_correct": true,
           "feedback": "Correcto. Esto permite usar la sustitución $u = \\cos x$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Integración por partes con $u = \\sin^2(x)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Proceso más tedioso que la sustitución trigonométrica."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Usar sustitución trigonométrica con $x = \\arcsin(u)$.",
           "is_correct": false,
           "feedback": "Incorrecto. Método circular que no simplifica el problema."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Uso de identidades pitagóricas para preparar integrandos trigonométricos de potencia impar para una sustitución simple.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -559,13 +559,13 @@
           "feedback": "Incorrecto. La circularidad es precisamente lo que permite resolverla."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Se despeja la integral de la ecuación resultante como si fuera una incógnita algebraica.",
           "is_correct": true,
           "feedback": "Correcto. Si $I = \\text{bloque} - I$, entonces $2I = \\text{bloque} \\Rightarrow I = \\text{bloque}/2$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Se utiliza una tabla de integrales directamente.",
           "is_correct": false,
           "feedback": "Incorrecto. El objetivo es conocer el procedimiento analítico."
@@ -577,7 +577,7 @@
           "feedback": "Incorrecto. No simplifica este tipo de integral de una variable."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "Resolución de integrales \"recurrentes\" mediante el despeje algebraico del término integral tras aplicaciones sucesivas de integración por partes.\n\n---",
       "difficulty": "7",
       "images": [],
@@ -604,25 +604,25 @@
           "feedback": "Incorrecto. Falta considerar la repetición del factor $(x-1)$."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{A}{x-1} + \\frac{B}{(x-1)^2} + \\frac{C}{x+2}$",
           "is_correct": true,
           "feedback": "Correcto. Por cada potencia del factor repetido se debe incluir un término en la suma."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\frac{Ax+B}{(x-1)^2} + \\frac{C}{x+2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Aunque es posible, la forma estándar para integración usa solo constantes en el numerador para factores lineales."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{A}{(x-1)^2} + \\frac{B}{x+2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Se pierde información del término de primer grado $(x-1)$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Reglas de descomposición para factores del denominador que aparecen con multiplicidad mayor a uno.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -643,13 +643,13 @@
       "context": "Un modelo de crecimiento de peces en una laguna en Esmeraldas sigue una tasa $R(t) = \\frac{100}{\\sqrt{t^2+1}}$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$t = \\sin(\\theta)$",
           "is_correct": false,
           "feedback": "Incorrecto. Para $1-t^2$."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$t = \\tan(\\theta)$",
           "is_correct": true,
           "feedback": "Correcto. Usa la identidad $1 + \\tan^2 = \\sec^2$ para eliminar la raíz."
@@ -667,7 +667,7 @@
           "feedback": "Incorrecto. Para $t^2-1$."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Identificación de sustituciones basadas en identidades trigonométricas fundamentales para resolver integrandos con formas irracionales.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -694,25 +694,25 @@
           "feedback": "Incorrecto. No conocemos la integral de arcotangente de forma inmediata."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$u = \\arctan(x), dv = x dx$",
           "is_correct": true,
           "feedback": "Correcto. La derivada de arcotangente es algebraica ($1/(1+x^2)$), lo que simplifica la segunda integral."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$u = x \\arctan(x), dv = dx$",
           "is_correct": false,
           "feedback": "Incorrecto. La derivada de $u$ se vuelve demasiado compleja."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Se debe usar fracciones parciales directamente.",
           "is_correct": false,
           "feedback": "Incorrecto. No es una función racional."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Priorización de funciones trascendentes inversas como $u$ en la integración por partes para transformar el problema en una integral de funciones algebraicas.\n\n---",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Integración de una función racional con denominador cuadrático irreducible.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\ln(x^2 + 2x + 5) + C$",
           "is_correct": false,
           "feedback": "Incorrecto. El numerador no es la derivada del denominador."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{1}{2} \\arctan\\left(\\frac{x+1}{2}\\right) + C$",
           "is_correct": true,
           "feedback": "Correcto. $x^2+2x+5 = (x+1)^2 + 4$. La integral de $\\frac{1}{u^2+a^2}$ es $\\frac{1}{a}\\arctan(u/a)$."
@@ -757,7 +757,7 @@
           "feedback": "Incorrecto. Error en la forma de la antiderivada de funciones cuadráticas positivas."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uso de la técnica de completar el cuadrado para transformar integrandos cuadráticos en formas estándar de arcotangente.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Sustitución trigonométrica con cambio de límites (o retorno a variable original). Al resolver $\\int \\frac{1}{x^2\\sqrt{x^2+4}} \\, dx$ con $x=2\\tan\\theta$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$\\frac{x}{2}$",
           "is_correct": false,
           "feedback": "Incorrecto. Esta es la tangente."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\frac{x}{\\sqrt{x^2+4}}$",
           "is_correct": true,
           "feedback": "Correcto. Como $\\tan\\theta = x/2$, el cateto opuesto es $x$ y el adyacente es 2. La hipotenusa es $\\sqrt{x^2+4}$. Luego $\\sin\\theta = \\text{opuesto}/\\text{hipotenusa}$."
@@ -802,7 +802,7 @@
           "feedback": "Incorrecto. Este es el coseno."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Uso de triángulos rectángulos para retornar a la variable original $x$ tras aplicar sustituciones trigonométricas.\n\n---",
       "difficulty": "9",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "Incorrecto. No se integra el numerador y denominador por separado."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$\\frac{x^3}{3} + \\frac{x^2}{2} + x + \\ln|x-1| + C$",
           "is_correct": true,
           "feedback": "Correcto. Por división larga: $x^2+x+1 + \\frac{1}{x-1}$. Al integrar da el resultado."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x^2 + x + 1 + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Olvidó el residuo de la división."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$\\frac{x^3}{3} + \\ln|x-1| + C$",
           "is_correct": false,
           "feedback": "Incorrecto. Omitió términos intermedios de la división polinómica."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Necesidad de realizar la división de polinomios cuando el grado del numerador es mayor o igual al del denominador antes de integrar.\n\n---",
       "difficulty": "10",
       "images": [],
@@ -874,25 +874,25 @@
           "feedback": "Incorrecto. Falta el factor $x$ en el numerador."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "Sustitución trigonométrica $x = \\tan\\theta$ seguido de identidades de reducción.",
           "is_correct": true,
           "feedback": "Correcto. Transforma la integral en $\\int \\cos^2\\theta \\, d\\theta$, que es fácil de resolver."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Fracciones parciales directas.",
           "is_correct": false,
           "feedback": "Incorrecto. El factor es cuadrático irreducible y ya está en su forma más simple."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "Integración por partes eligiendo $u = (x^2+1)^{-2}$.",
           "is_correct": false,
           "feedback": "Incorrecto. Conduce a una integral más complicada."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Resolución de potencias de factores cuadráticos irreducibles en el denominador mediante el uso de sustituciones trigonométricas avanzadas.",
       "difficulty": "10",
       "images": [],

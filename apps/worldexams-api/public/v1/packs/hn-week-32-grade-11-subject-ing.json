@@ -9,40 +9,40 @@
   "questions": [
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v1",
-      "statement": "What is the English word for: \"A place where you live or stay on holiday.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says families began storing rainwater 'before anyone suggested it'. What can be inferred?",
+      "context": "A text reports that families built water tanks on their roofs years before the official programme was announced.",
       "options": [
         {
           "letter": "A",
-          "text": "accommodation",
+          "text": "The need was obvious to the residents before the official programme existed.",
           "is_correct": true,
-          "feedback": "Correct! 'accommodation' matches the definition."
+          "feedback": "Correct! The timing of the tanks shows the residents recognised the problem on their own."
         },
         {
           "letter": "B",
-          "text": "transportation",
+          "text": "The residents had been told what to do by the committee.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The phrase says the opposite: nobody had suggested it at the time."
         },
         {
           "letter": "C",
-          "text": "entertainment",
+          "text": "The programme failed because nobody used the tanks.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says the practice spread, which contradicts a failure."
         },
         {
           "letter": "D",
-          "text": "currency",
+          "text": "The committee was created after the tanks were bought.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The tanks predate the committee, which the wording makes explicit."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'accommodation' is used to describe a place where you live or stay on holiday. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "explanation": "An inference combines what the text states with a reasonable conclusion. The timing shows the problem was perceived before any official action.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -54,40 +54,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v2",
-      "statement": "What is the English word for: \"A detailed plan or route of a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The writer calls the old wells 'the bones of the valley'. This phrase suggests that the wells are:",
+      "context": "A text describes ancient wells as 'the bones of the valley' in a passage about the region's water history.",
       "options": [
         {
           "letter": "A",
-          "text": "itinerary",
-          "is_correct": true,
-          "feedback": "Correct! 'itinerary' matches the definition."
+          "text": "dangerous and should be closed immediately.",
+          "is_correct": false,
+          "feedback": "The image does not convey danger; the wells are described as essential."
         },
         {
           "letter": "B",
-          "text": "baggage",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "old and fundamental to the life of the place.",
+          "is_correct": true,
+          "feedback": "Correct! The image of bones conveys age and a supporting role, which is exactly the suggestion."
         },
         {
           "letter": "C",
-          "text": "destination",
+          "text": "recently built by the committee.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The wells are ancient, so the image contradicts the idea that they are recent."
         },
         {
           "letter": "D",
-          "text": "passport",
+          "text": "the only source of income in the valley.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The image suggests importance for survival, not for income."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'itinerary' is used to describe a detailed plan or route of a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "B",
+      "explanation": "A metaphor expresses an idea rather than a fact. This image compares something hidden and essential to the structure that supports a body.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Remember",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -99,40 +99,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v3",
-      "statement": "What is the English word for: \"The place to which someone or something is going or being sent.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says the water committee 'wrote down the figures before deciding anything'. What does this show about the group?",
+      "context": "A text describes how a local water committee reached its decisions during the dry months.",
       "options": [
         {
           "letter": "A",
-          "text": "destination",
-          "is_correct": true,
-          "feedback": "Correct! 'destination' matches the definition."
+          "text": "It ignored the opinions of the residents.",
+          "is_correct": false,
+          "feedback": "The text describes the opposite, since the rules were agreed with the residents."
         },
         {
           "letter": "B",
-          "text": "departure",
+          "text": "It changed the figures whenever it was convenient.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nothing in the text suggests that any figure was altered."
         },
         {
           "letter": "C",
-          "text": "arrival",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It based its decisions on evidence.",
+          "is_correct": true,
+          "feedback": "Correct! Recording the figures first shows that the decisions rested on evidence rather than on preference."
         },
         {
           "letter": "D",
-          "text": "journey",
+          "text": "It preferred intuition to measurement.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The practice described is measurement, not intuition."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'destination' is used to describe the place to which someone or something is going or being sent. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "3",
+      "correct_answer": "C",
+      "explanation": "Recording the figures before deciding shows a deliberate method. The order of the two actions is what carries the meaning, and that is what the reader has to infer.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -144,40 +144,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v4",
-      "statement": "What is the English word for: \"Suitcases or other bags in which to pack personal belongings for traveling.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The author writes that the youngest families 'kept the buckets under the beds'. What is the likely reason?",
+      "context": "A text describes poor families in a water-short town hiding their water containers inside the house.",
       "options": [
         {
           "letter": "A",
-          "text": "luggage",
-          "is_correct": true,
-          "feedback": "Correct! 'luggage' matches the definition."
+          "text": "To decorate the room for visitors.",
+          "is_correct": false,
+          "feedback": "The text describes a problem of supply, not decoration."
         },
         {
           "letter": "B",
-          "text": "ticket",
+          "text": "To keep the buckets out of reach of children at play.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Keeping buckets out of reach would be about safety, and the text stresses the shortage."
         },
         {
           "letter": "C",
-          "text": "flight",
+          "text": "To store the buckets during a flood in the street.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No flood is mentioned anywhere in the account."
         },
         {
           "letter": "D",
-          "text": "reservation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "To protect a small supply from evaporation or theft.",
+          "is_correct": true,
+          "feedback": "Correct! In a shortage, hiding the stored water protects it, which is the most likely reason."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'luggage' is used to describe suitcases or other bags in which to pack personal belongings for traveling. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "4",
+      "correct_answer": "D",
+      "explanation": "Purpose has to be inferred from context. A text that presents a shortage makes the reason for hiding water understandable to the reader.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -189,40 +189,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v5",
-      "statement": "What is the English word for: \"A traveler on a public or private conveyance other than the driver, pilot, or crew.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which inference is NOT supported by the text about the committee?",
+      "context": "A text describes a local committee of residents that meets regularly to review water agreements.",
       "options": [
         {
           "letter": "A",
-          "text": "passenger",
+          "text": "It was created by the national government.",
           "is_correct": true,
-          "feedback": "Correct! 'passenger' matches the definition."
+          "feedback": "Correct! The text presents the committee as a local body and never attributes its creation to the national government."
         },
         {
           "letter": "B",
-          "text": "pedestrian",
+          "text": "It meets on a fixed schedule.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The fixed schedule is stated in the text."
         },
         {
           "letter": "C",
-          "text": "commuter",
+          "text": "It reviews the agreements with the community.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The reviews of agreements are exactly what the meetings are for."
         },
         {
           "letter": "D",
-          "text": "tourist",
+          "text": "It is made up of residents of the town.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Membership by residents is described when the committee is introduced."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'passenger' is used to describe a traveler on a public or private conveyance other than the driver, pilot, or crew. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "5",
+      "explanation": "An unsupported inference is one the text never licenses. Local origin, a fixed schedule and community membership are all stated, while national creation is not.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -234,40 +234,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v6",
-      "statement": "What is the English word for: \"The place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says the programme 'failed in the villages without tanks'. What can be inferred?",
+      "context": "A text compares villages that installed storage tanks with villages that did not, and reports different results.",
       "options": [
         {
           "letter": "A",
-          "text": "customs",
-          "is_correct": true,
-          "feedback": "Correct! 'customs' matches the definition."
+          "text": "The residents of those villages did not want to save water.",
+          "is_correct": false,
+          "feedback": "The text does not blame the residents; it names the absence of tanks as the difference."
         },
         {
           "letter": "B",
-          "text": "security",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The infrastructure, not the people, was the decisive factor.",
+          "is_correct": true,
+          "feedback": "Correct! The contrast shows that the physical installations, not the attitudes of the people, decided the outcome."
         },
         {
           "letter": "C",
-          "text": "terminal",
+          "text": "Those villages had more water than the others.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text implies those villages suffered more, so they did not have more water."
         },
         {
           "letter": "D",
-          "text": "gate",
+          "text": "The committee refused to help the villages without tanks.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text describes a technical limitation, not a refusal to help."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'customs' is used to describe the place at a port, airport, or frontier where officials check incoming goods, travelers, or luggage. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The contrast between the two groups isolates the variable. When only the infrastructure differs, the conclusion points to the infrastructure.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -279,40 +279,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v7",
-      "statement": "What is the English word for: \"A document provided by an airline during check-in, giving a passenger permission to board the airplane.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The writer mentions 'the sound of the pump at dawn'. Why include this detail?",
+      "context": "A text uses a sensory image of the pump at dawn in a passage about daily life in a dry region.",
       "options": [
         {
           "letter": "A",
-          "text": "boarding pass",
-          "is_correct": true,
-          "feedback": "Correct! 'boarding pass' matches the definition."
+          "text": "To prove that the pump was broken that morning.",
+          "is_correct": false,
+          "feedback": "A sound at dawn shows activity, not a breakdown."
         },
         {
           "letter": "B",
-          "text": "visa",
+          "text": "To show that the villagers worked in a factory.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A village pump is part of daily life and has nothing to do with a factory."
         },
         {
           "letter": "C",
-          "text": "receipt",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "To make the routine and the value of the water vivid.",
+          "is_correct": true,
+          "feedback": "Correct! The image gives the reader a concrete sense of the routine and of what the water means to the people."
         },
         {
           "letter": "D",
-          "text": "brochure",
+          "text": "To indicate that the village had too much water.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The whole text is about scarcity, so the detail cannot signal abundance."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'boarding pass' is used to describe a document provided by an airline during check-in, giving a passenger permission to board the airplane. This is an important vocabulary word in English.\r\n---",
+      "correct_answer": "C",
+      "explanation": "Sensory details make a routine concrete for the reader. The detail is chosen because it carries the meaning of the passage.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -324,40 +324,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v8",
-      "statement": "What is the English word for: \"The activity of visiting places of interest in a particular location.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text states that prices of bottled water rose sharply. What can be inferred?",
+      "context": "A text describes an economic consequence of a water shortage affecting ordinary households.",
       "options": [
         {
           "letter": "A",
-          "text": "sightseeing",
-          "is_correct": true,
-          "feedback": "Correct! 'sightseeing' matches the definition."
+          "text": "The government stopped the sale of bottled water.",
+          "is_correct": false,
+          "feedback": "The text says nothing about a prohibition on bottled water."
         },
         {
           "letter": "B",
-          "text": "shopping",
+          "text": "Everyone in the region bought a pump.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Buying a pump is mentioned as an option, not as something everyone did."
         },
         {
           "letter": "C",
-          "text": "hiking",
+          "text": "The wells recovered during that year.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The wells yielded less water during that period, so they did not recover."
         },
         {
           "letter": "D",
-          "text": "camping",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Households felt the shortage in their budgets as well.",
+          "is_correct": true,
+          "feedback": "Correct! The price rise shows that the shortage also reached the economy of the households."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'sightseeing' is used to describe the activity of visiting places of interest in a particular location. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "D",
+      "explanation": "A rise in prices is presented as a consequence of the shortage, and it affects the households the text is describing.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -369,40 +369,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v9",
-      "statement": "What is the English word for: \"A thing that is kept as a reminder of a person, place, or event.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The author says the rules were 'simple enough to be remembered and strict enough to be respected'. This shows that the rules were:",
+      "context": "A text evaluates a set of community agreements and explains why they were designed in that particular way.",
       "options": [
         {
           "letter": "A",
-          "text": "souvenir",
+          "text": "Well designed for the community that has to follow them.",
           "is_correct": true,
-          "feedback": "Correct! 'souvenir' matches the definition."
+          "feedback": "Correct! The two qualities described, easy to remember and strict enough to be obeyed, show careful design."
         },
         {
           "letter": "B",
-          "text": "gift",
+          "text": "Too complicated for the people who wrote them.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says the rules were simple, not complicated."
         },
         {
           "letter": "C",
-          "text": "award",
+          "text": "Ignored by everyone after the first month.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says they were respected, which is the opposite of being ignored."
         },
         {
           "letter": "D",
-          "text": "prize",
+          "text": "Imposed without the agreement of the residents.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The rules were agreed in a public meeting, so they were not imposed without consent."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'souvenir' is used to describe a thing that is kept as a reminder of a person, place, or event. This is an important vocabulary word in English.\r\n---",
+      "explanation": "A writer's own comment about a solution is the strongest evidence of how effective it considered that solution to be.\n---",
       "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -414,40 +414,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v10",
-      "statement": "What is the English word for: \"A period of time by which something is late or postponed.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which inference can be drawn about the people who left the region?",
+      "context": "A text notes that several families of a dry village left the area during the worst years of the shortage.",
       "options": [
         {
           "letter": "A",
-          "text": "delay",
-          "is_correct": true,
-          "feedback": "Correct! 'delay' matches the definition."
+          "text": "They moved away to find better schools.",
+          "is_correct": false,
+          "feedback": "The text says nothing about schools as a motive."
         },
         {
           "letter": "B",
-          "text": "cancellation",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The lack of water was one of the reasons they moved away.",
+          "is_correct": true,
+          "feedback": "Correct! The departures coincide with the worst years of the shortage, so the water is a reasonable cause."
         },
         {
           "letter": "C",
-          "text": "departure",
+          "text": "They were forced to leave by the national government.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No government action is mentioned, and the text presents the shortage as the cause."
         },
         {
           "letter": "D",
-          "text": "arrival",
+          "text": "They left because the wells produced too much water.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The wells produced less water, not more."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'delay' is used to describe a period of time by which something is late or postponed. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "6",
+      "correct_answer": "B",
+      "explanation": "The timing of the migration coincides with the shortage, so the shortage is a reasonable explanation the text licenses.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -459,40 +459,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v11",
-      "statement": "What is the English word for: \"The act of reporting one's presence and registering, typically at an airport or hotel.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says a technician 'spent a whole day on the pump'. What does this suggest?",
+      "context": "A text reports the time a technician needed to restore a water pump in a village.",
       "options": [
         {
           "letter": "A",
-          "text": "check-in",
-          "is_correct": true,
-          "feedback": "Correct! 'check-in' matches the definition."
+          "text": "The technician was careless with his time.",
+          "is_correct": false,
+          "feedback": "The text reports a fact about the job, not an attitude of the technician."
         },
         {
           "letter": "B",
-          "text": "check-out",
+          "text": "The pump was working perfectly well.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A working pump would not need a day of attention."
         },
         {
           "letter": "C",
-          "text": "booking",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The repair was slow and the water system fragile.",
+          "is_correct": true,
+          "feedback": "Correct! A whole day on one repair suggests a fragile system and a slow recovery."
         },
         {
           "letter": "D",
-          "text": "reservation",
+          "text": "The village had more than one pump.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text mentions a single pump, so there is no evidence of others."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'check-in' is used to describe the act of reporting one's presence and registering, typically at an airport or hotel. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A long task signals difficulty. The reader is expected to connect the hours spent with a system that is old and easily breaks down.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -504,40 +504,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v12",
-      "statement": "What is the English word for: \"A period of rest or waiting before a further stage in a journey.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which inference about rainfall is best supported by the text?",
+      "context": "A text compares rainfall records across several decades in a dry region.",
       "options": [
         {
           "letter": "A",
-          "text": "layover",
-          "is_correct": true,
-          "feedback": "Correct! 'layover' matches the definition."
+          "text": "It increased steadily during the period described.",
+          "is_correct": false,
+          "feedback": "A decline, not an increase, is what the records show."
         },
         {
           "letter": "B",
-          "text": "stopover",
+          "text": "It never changed at all in the region.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text is concerned precisely with a change over the years."
         },
         {
           "letter": "C",
-          "text": "transfer",
+          "text": "It is measured only in the capital city.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The measurements concern the region, not one city."
         },
         {
           "letter": "D",
-          "text": "transit",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "It became less reliable over the recorded years.",
+          "is_correct": true,
+          "feedback": "Correct! The comparison across decades shows that rainfall became less dependable."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'layover' is used to describe a period of rest or waiting before a further stage in a journey. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "A pattern reported over many years is the evidence from which a trend can be inferred. The text points to a decline in reliability.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
+      "bloom": "Analyze",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -549,40 +549,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v13",
-      "statement": "What is the English word for: \"A system of money in general use in a particular country.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The writer says the tank 'looks like a small house on the roof'. This comparison is meant to:",
+      "context": "A text describes a water tank installed on a roof in a village.",
       "options": [
         {
           "letter": "A",
-          "text": "currency",
+          "text": "Help the reader picture a structure much bigger than expected.",
           "is_correct": true,
-          "feedback": "Correct! 'currency' matches the definition."
+          "feedback": "Correct! The comparison with a building gives a sense of size, which a measurement would not convey as quickly."
         },
         {
           "letter": "B",
-          "text": "coin",
+          "text": "Show that tanks are made of wood.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The material of the tank is not what the comparison conveys."
         },
         {
           "letter": "C",
-          "text": "banknote",
+          "text": "Warn that roofs are dangerous to build on.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text warns about the shortage, not about the safety of roofs."
         },
         {
           "letter": "D",
-          "text": "cash",
+          "text": "Compare the tank with a school building.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The comparison is with a house, not with a school."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'currency' is used to describe a system of money in general use in a particular country. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "explanation": "A simile gives the reader a mental image. The comparison with a small house shows the size of the object without giving measurements.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -594,40 +594,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v14",
-      "statement": "What is the English word for: \"A book of information about a place designed for the use of visitors or tourists.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says a family 'sold a goat to buy a tank'. What can be inferred?",
+      "context": "A text describes the sacrifices a household made to obtain a water storage tank.",
       "options": [
         {
           "letter": "A",
-          "text": "guidebook",
-          "is_correct": true,
-          "feedback": "Correct! 'guidebook' matches the definition."
+          "text": "The family had plenty of money to spare.",
+          "is_correct": false,
+          "feedback": "The sale of an animal is the opposite of having money to spare."
         },
         {
           "letter": "B",
-          "text": "map",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The tank was a serious financial sacrifice for them.",
+          "is_correct": true,
+          "feedback": "Correct! Selling livestock to buy a tank shows a real sacrifice, not spare money."
         },
         {
           "letter": "C",
-          "text": "dictionary",
+          "text": "The tank was given away by the committee.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text says the family bought the tank, not that it was given away."
         },
         {
           "letter": "D",
-          "text": "encyclopedia",
+          "text": "The family had no livestock after that year.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text does not say they lost every animal, only the one they sold."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'guidebook' is used to describe a book of information about a place designed for the use of visitors or tourists. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "B",
+      "explanation": "Selling a productive animal is presented as a cost. That detail lets the reader judge how much the solution mattered to the family.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -639,37 +639,37 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v15",
-      "statement": "What is the English word for: \"A bag with shoulder straps that allow it to be carried on one's back.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which inference about education is best supported by the text?",
+      "context": "A text reports that long walks to fetch water reduced the time children could spend in class.",
       "options": [
         {
           "letter": "A",
-          "text": "backpack",
-          "is_correct": true,
-          "feedback": "Correct! 'backpack' matches the definition."
+          "text": "The schools were better funded than before.",
+          "is_correct": false,
+          "feedback": "The text says nothing about school funding."
         },
         {
           "letter": "B",
-          "text": "suitcase",
+          "text": "The region stopped teaching children altogether.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Children kept attending, but less often, so schooling was not stopped."
         },
         {
           "letter": "C",
-          "text": "briefcase",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The shortage interrupted the schooling of many children.",
+          "is_correct": true,
+          "feedback": "Correct! Fewer hours at school because of the walk to fetch water is a direct consequence described in the text."
         },
         {
           "letter": "D",
-          "text": "handbag",
+          "text": "Attendance improved with the arrival of the tanks.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text presents the shortage as a barrier to schooling, not as an improvement."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'backpack' is used to describe a bag with shoulder straps that allow it to be carried on one's back. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "7",
+      "correct_answer": "C",
+      "explanation": "A consequence described in the text is an inference the reader can draw without leaving the information given.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
@@ -684,40 +684,40 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v16",
-      "statement": "What is the English word for: \"In or to a foreign country, especially one across the sea.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The author says the new rules were 'copied from an older village'. This implies:",
+      "context": "A text reports that a town adopted agreements that another community had already been using.",
       "options": [
         {
           "letter": "A",
-          "text": "overseas",
-          "is_correct": true,
-          "feedback": "Correct! 'overseas' matches the definition."
+          "text": "The older village had solved the same problem successfully.",
+          "is_correct": false,
+          "feedback": "Adopting proven rules is a deliberate choice, not an inability to design any."
         },
         {
           "letter": "B",
-          "text": "domestic",
+          "text": "The older village had no water at all.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The older village used the rules precisely because it had water to manage."
         },
         {
           "letter": "C",
-          "text": "local",
+          "text": "The new rules were written by a foreign organisation.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The origin given is another village, not a foreign body."
         },
         {
           "letter": "D",
-          "text": "national",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The community could not design its own arrangements.",
+          "is_correct": true,
+          "feedback": "Correct! A set of rules that another village kept successfully was worth copying, which the wording implies."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'overseas' is used to describe in or to a foreign country, especially one across the sea. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "8",
+      "correct_answer": "D",
+      "explanation": "Copying a workable solution is evidence that it worked. The reader is invited to treat the older village as a successful precedent.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
-      "bloom": "Analyze",
+      "bloom": "Evaluate",
       "expected_success": 0.8,
       "bundle_id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle",
       "periodo": 32,
@@ -729,37 +729,37 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v17",
-      "statement": "What is the English word for: \"An estimate of income and expenditure for a set period of time.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "What can be inferred from the fact that the text lists the names of several committee members?",
+      "context": "A text about local water management names several of the people who served on the committee.",
       "options": [
         {
           "letter": "A",
-          "text": "budget",
+          "text": "The committee was a real group of identifiable residents.",
           "is_correct": true,
-          "feedback": "Correct! 'budget' matches the definition."
+          "feedback": "Correct! Naming real residents shows that the committee existed as a group of people."
         },
         {
           "letter": "B",
-          "text": "expense",
+          "text": "The committee met only once in fifty years.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "Nothing in the sentence suggests that the committee met only once."
         },
         {
           "letter": "C",
-          "text": "cost",
+          "text": "The members were appointed without election.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text does not say how the members were chosen."
         },
         {
           "letter": "D",
-          "text": "price",
+          "text": "The text is a fictional story about imaginary people.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The specific names indicate a documented account, not a fictional one."
         }
       ],
       "correct_answer": "A",
-      "explanation": "The word 'budget' is used to describe an estimate of income and expenditure for a set period of time. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "explanation": "Named individuals in an informational text indicate that the account is documented rather than invented. The detail anchors the story in reality.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -774,37 +774,37 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v18",
-      "statement": "What is the English word for: \"A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The text says the programme cost 'less than one tank in the capital'. This comparison is used to:",
+      "context": "A text argues in favour of a low-cost local water programme by comparing its price to a single structure elsewhere.",
       "options": [
         {
           "letter": "A",
-          "text": "insurance",
-          "is_correct": true,
-          "feedback": "Correct! 'insurance' matches the definition."
+          "text": "Show that the capital ignored the problem.",
+          "is_correct": false,
+          "feedback": "The text is not criticising the capital; the comparison is only about scale."
         },
         {
           "letter": "B",
-          "text": "warranty",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Show that the measures were cheap and affordable.",
+          "is_correct": true,
+          "feedback": "Correct! Comparing the cost to a familiar item shows the programme is cheap enough to be affordable."
         },
         {
           "letter": "C",
-          "text": "guarantee",
+          "text": "Show that the programme failed for lack of money.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "A low cost is presented as an advantage, not as the cause of failure."
         },
         {
           "letter": "D",
-          "text": "policy",
+          "text": "Show that the committee was dishonest.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No dishonesty is suggested anywhere in the text."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'insurance' is used to describe a practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "10",
+      "correct_answer": "B",
+      "explanation": "A comparison with something familiar makes an abstract figure understandable. Here the effect is to show that the programme is affordable.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -819,37 +819,37 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v19",
-      "statement": "What is the English word for: \"Treatment with a vaccine to produce immunity against a disease.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "Which inference about the future is best supported by the text?",
+      "context": "A text describes a water programme that succeeded in a village and states the condition for its continuation.",
       "options": [
         {
           "letter": "A",
-          "text": "vaccination",
-          "is_correct": true,
-          "feedback": "Correct! 'vaccination' matches the definition."
+          "text": "The region will never face another shortage.",
+          "is_correct": false,
+          "feedback": "The text presents a risk, so it cannot promise that no shortage will return."
         },
         {
           "letter": "B",
-          "text": "medication",
+          "text": "The wells will be replaced by new ones next year.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "No replacement of the wells is announced in the text."
         },
         {
           "letter": "C",
-          "text": "prescription",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "The measures can work if the community keeps following them.",
+          "is_correct": true,
+          "feedback": "Correct! The text ties the success of the measures to the community's continued cooperation."
         },
         {
           "letter": "D",
-          "text": "infection",
+          "text": "The committee will be dissolved once the tanks are full.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The text presents the committee as permanent while the rules are in force."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'vaccination' is used to describe treatment with a vaccine to produce immunity against a disease. This is an important vocabulary word in English.\r\n---",
-      "difficulty": "9",
+      "correct_answer": "C",
+      "explanation": "A text that states a condition for success licenses an inference about the future that keeps that condition, and no more.\n---",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
@@ -864,37 +864,37 @@
     },
     {
       "id": "HN-ING-11-2026-W32-reading-inference-001-MASTERY-bundle-v20",
-      "statement": "What is the English word for: \"Extreme tiredness and other physical effects felt by a person after a long flight across several time zones.\"",
-      "context": "Choose the correct English word for the given definition.",
+      "statement": "The writer places the story of the old well at the end of the text. This choice suggests the author wants to:",
+      "context": "A text about a water programme ends with a brief recollection of a well that has been in use for generations.",
       "options": [
         {
           "letter": "A",
-          "text": "jet lag",
-          "is_correct": true,
-          "feedback": "Correct! 'jet lag' matches the definition."
+          "text": "Introduce the topic of the text for the first time.",
+          "is_correct": false,
+          "feedback": "A closing paragraph cannot introduce a topic for the first time."
         },
         {
           "letter": "B",
-          "text": "fatigue",
+          "text": "Present evidence that the programme failed.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The closing image is positive, so it does not present failure."
         },
         {
           "letter": "C",
-          "text": "exhaustion",
+          "text": "Add a completely unrelated anecdote.",
           "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "feedback": "The well is directly related to the water supply, so the anecdote is not unrelated."
         },
         {
           "letter": "D",
-          "text": "insomnia",
-          "is_correct": false,
-          "feedback": "Incorrect. Try again."
+          "text": "Close with an image that links the past to the present.",
+          "is_correct": true,
+          "feedback": "Correct! Ending with an old well links the historical depth of the practice to the present programme."
         }
       ],
-      "correct_answer": "A",
-      "explanation": "The word 'jet lag' is used to describe extreme tiredness and other physical effects felt by a person after a long flight across several time zones. This is an important vocabulary word in English.",
-      "difficulty": "10",
+      "correct_answer": "D",
+      "explanation": "Position is part of the message. A closing image that returns to the past pulls the argument together and gives it a lasting tone.\n---",
+      "difficulty": "5",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",

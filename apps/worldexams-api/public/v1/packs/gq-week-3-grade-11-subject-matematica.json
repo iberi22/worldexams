@@ -58,19 +58,19 @@
       "context": "Un profesor en la UNGE (Universidad Nacional de Guinea Ecuatorial) explica las restricciones de las bases de los logaritmos reales.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$b$ puede ser cualquier numero real y $a > 0$.",
           "is_correct": false,
           "feedback": "La base b no puede ser cualquier real (no puede ser negativa ni 1)."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$b > 0$ y $a$ puede ser cualquier numero real.",
           "is_correct": false,
           "feedback": "El argumento a debe ser estrictamente positivo en el campo de los reales."
         },
         {
-          "letter": "C",
+          "letter": "A",
           "text": "$b > 0, b \\neq 1$ y $a > 0$.",
           "is_correct": true,
           "feedback": "¡Correcto! La base debe ser positiva y distinta de 1, y el argumento debe ser positivo."
@@ -82,7 +82,7 @@
           "feedback": "Aunque 10 es una base comun, no es la unica posible, y el argumento puede estar entre 0 y 1."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "explanation": "Para que un logaritmo este definido en los numeros reales, la base debe ser un numero positivo distinto de 1 (para evitar indeterminaciones o resultados constantes) y el argumento debe ser siempre positivo, ya que no existe potencia real de una base positiva que de un resultado negativo o cero.",
       "difficulty": "4",
       "images": [],
@@ -148,19 +148,19 @@
       "context": "Un estudiante de Ebebiyin repasa las propiedades que permiten simplificar el producto de numeros grandes.",
       "options": [
         {
-          "letter": "A",
+          "letter": "C",
           "text": "$\\log_b(M \\cdot N) = \\log_b(M) + \\log_b(N)$",
           "is_correct": true,
           "feedback": "¡Correcto! El logaritmo convierte una multiplicacion en una suma de logaritmos."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$\\log_b(M \\cdot N) = \\log_b(M) \\cdot \\log_b(N)$",
           "is_correct": false,
           "feedback": "Esta propiedad es incorrecta; el logaritmo de un producto no es el producto de logaritmos."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\log_b(M + N) = \\log_b(M) + \\log_b(N)$",
           "is_correct": false,
           "feedback": "No existe una propiedad general para el logaritmo de una suma."
@@ -172,7 +172,7 @@
           "feedback": "Esta es la propiedad para el logaritmo de un cociente (division)."
         }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "explanation": "Una de las grandes ventajas de los logaritmos es que simplifican las operaciones: transforman productos en sumas, cocientes en restas y potencias en multiplicaciones. La suma de logaritmos de la misma base equivale al logaritmo del producto de sus argumentos.",
       "difficulty": "4",
       "images": [],
@@ -244,13 +244,13 @@
           "feedback": "El pH es el logaritmo negativo, por lo que el signo debe cambiar."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "$5$",
           "is_correct": true,
           "feedback": "¡Correcto! $-\\log_{10}(10^{-5}) = -(-5) = 5$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$10$",
           "is_correct": false,
           "feedback": "El valor del logaritmo es el exponente, no la base."
@@ -262,7 +262,7 @@
           "feedback": "Error en el calculo del logaritmo de una potencia de 10."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "El logaritmo de una potencia de la base es igual al exponente: $\\log_{10}(10^n) = n$. Aqui, $\\log_{10}(10^{-5}) = -5$. Al multiplicar por el signo negativo de la formula del pH, obtenemos $5$.",
       "difficulty": "6",
       "images": [],
@@ -295,19 +295,19 @@
           "feedback": "El resultado del logaritmo debe ser un numero relacionado con el exponente total."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$15$",
           "is_correct": true,
           "feedback": "¡Correcto! $8 = 2^3$, por lo que $8^5 = (2^3)^5 = 2^{15}$. $\\log_2(2^{15}) = 15$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$40$",
           "is_correct": false,
           "feedback": "Error al multiplicar la base 8 por el exponente 5."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Podemos resolverlo de dos formas: 1) Bajar el exponente: $5 \\cdot \\log_2(8) = 5 \\cdot 3 = 15$. 2) Igualar bases: $\\log_2((2^3)^5) = \\log_2(2^{15}) = 15$. Ambas propiedades son fundamentales para simplificar calculos.",
       "difficulty": "6",
       "images": [],
@@ -379,25 +379,25 @@
           "feedback": "El logaritmo no es una operacion de division simple."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "5",
           "is_correct": true,
           "feedback": "¡Correcto! Por definicion, $x^2 = 25$, lo que implica que x = 5 (la base debe ser positiva)."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "50",
           "is_correct": false,
           "feedback": "Error al interpretar la relacion entre base y exponente."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "1",
           "is_correct": false,
           "feedback": "La base de un logaritmo no puede ser 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Para hallar una base desconocida, aplicamos la definicion de logaritmo y resolvemos la ecuacion resultante. En este caso, buscamos un numero que elevado al cuadrado de 25.",
       "difficulty": "6",
       "images": [],
@@ -514,25 +514,25 @@
           "feedback": "Si x = 1, el argumento (x-2) seria -1, y el logaritmo de un numero negativo no existe en los reales."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = 3$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log_3(3 \\cdot 1) = \\log_3(3) = 1$."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = 0$",
           "is_correct": false,
           "feedback": "El logaritmo de 0 no esta definido."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = -1$",
           "is_correct": false,
           "feedback": "Los argumentos de los logaritmos deben ser positivos."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Usamos la propiedad del producto: $\\log_3(x(x-2)) = 1$. Aplicando la definicion: $x^2 - 2x = 3^1$. Esto nos da la ecuacion cuadratica $x^2 - 2x - 3 = 0$. Las soluciones son $3$ y $-1$. Sin embargo, $-1$ se descarta porque haria negativos los argumentos originales.",
       "difficulty": "8",
       "images": [],
@@ -553,13 +553,13 @@
       "context": "En un taller de matematicas en Bata, se pide expandir la expresion $\\log\\left(\\frac{a^2 \\cdot b}{\\sqrt{c}}\\right)$.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$2\\log(a) + \\log(b) - \\log(c)$",
           "is_correct": false,
           "feedback": "Se ha olvidado el factor 1/2 que corresponde a la raiz cuadrada de c."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$2\\log(a) + \\log(b) - \\frac{1}{2}\\log(c)$",
           "is_correct": true,
           "feedback": "¡Correcto! Se aplica suma para el producto, resta para el cociente, y los exponentes (2 y 1/2) bajan multiplicando."
@@ -577,7 +577,7 @@
           "feedback": "Error al transformar las operaciones; los logaritmos deben sumarse o restarse."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Este ejercicio combina tres propiedades: 1) Logaritmo de un cociente (resta), 2) Logaritmo de un producto (suma) y 3) Logaritmo de una potencia (el exponente multiplica al logaritmo). Recordando que $\\sqrt{c} = c^{1/2}$, obtenemos la expresion final.",
       "difficulty": "8",
       "images": [],
@@ -604,13 +604,13 @@
           "feedback": "La escala es logaritmica, por lo que un aumento de 2 unidades en magnitud implica un aumento mucho mayor en energia."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "100 veces mas energia.",
           "is_correct": false,
           "feedback": "Esto seria cierto si la magnitud fuera directamente el logaritmo decimal, pero hay un factor 2/3."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "1000 veces mas energia.",
           "is_correct": true,
           "feedback": "¡Correcto! La diferencia de 2 unidades en M equivale a un factor de $10^{(3/2) \\cdot 2} = 10^3 = 1000$ en la energia."
@@ -622,7 +622,7 @@
           "feedback": "Un aumento de 10 veces corresponde a un cambio menor en la escala de Richter."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "explanation": "La escala de Richter es logaritmica. Un cambio en la magnitud $M$ se traduce en un cambio exponencial en la energia $E$. Al despejar la relacion, se observa que por cada 2 unidades de magnitud, la energia aumenta en un factor de $10^3 = 1000$.",
       "difficulty": "8",
       "images": [],
@@ -649,25 +649,25 @@
           "feedback": "La funcion exponencial y el logaritmo natural se cancelan, no se combinan asi."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$5x$",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser funciones inversas, $e$ elevado al logaritmo natural de un argumento es igual al propio argumento."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$\\ln(5x)$",
           "is_correct": false,
           "feedback": "Esta seria la operacion inversa de la pedida."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$5$",
           "is_correct": false,
           "feedback": "Se ha eliminado incorrectamente la variable x."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "La funcion exponencial de base $e$ y el logaritmo natural ($\\ln$) son funciones inversas. Aplicar una despues de la otra sobre el mismo valor devuelve el valor original. Es una de las identidades mas importantes en el calculo.",
       "difficulty": "8",
       "images": [],
@@ -700,19 +700,19 @@
           "feedback": "Error al aplicar las propiedades de los logaritmos."
         },
         {
-          "letter": "C",
+          "letter": "D",
           "text": "$x = 10$",
           "is_correct": true,
           "feedback": "¡Correcto! $\\log(x/2) = \\log(5) \\rightarrow x/2 = 5 \\rightarrow x = 10$."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 2.5$",
           "is_correct": false,
           "feedback": "Error en el despeje final de la fraccion."
         }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "explanation": "Aplicamos la propiedad del logaritmo de un cociente: $\\log(A) - \\log(B) = \\log(A/B)$. Luego igualamos los argumentos de los logaritmos y resolvemos la ecuacion lineal simple resultante.",
       "difficulty": "8",
       "images": [],
@@ -733,13 +733,13 @@
       "context": "Un estudiante avanzado investiga la relacion entre las graficas de las funciones exponenciales y logaritmicas.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "Son paralelas entre si.",
           "is_correct": false,
           "feedback": "No son paralelas; sus comportamientos de crecimiento son muy diferentes."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "Son simetricas respecto a la recta $y = x$.",
           "is_correct": true,
           "feedback": "¡Correcto! Al ser funciones inversas, su representacion grafica es un reflejo una de la otra sobre la diagonal principal."
@@ -757,7 +757,7 @@
           "feedback": "Son inversas funcionales, no inversos multiplicativos (reciprocos)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "En matematicas, las funciones inversas deshacen la operacion de la otra. Graficamente, si el punto $(x, y)$ pertenece a la funcion exponencial, el punto $(y, x)$ pertenecera a la funcion logaritmica. Esta inversion de coordenadas produce una simetria perfecta respecto a la recta $y = x$.",
       "difficulty": "10",
       "images": [],
@@ -778,13 +778,13 @@
       "context": "Se plantea un problema de simplificacion extrema para un concurso de talentos matematicos en Malabo.",
       "options": [
         {
-          "letter": "A",
+          "letter": "B",
           "text": "$b$",
           "is_correct": false,
           "feedback": "Esto solo seria cierto si log(x) fuera 1."
         },
         {
-          "letter": "B",
+          "letter": "A",
           "text": "$x$",
           "is_correct": true,
           "feedback": "¡Correcto! La potenciacion y el logaritmo de la misma base se cancelan por ser operaciones inversas."
@@ -802,7 +802,7 @@
           "feedback": "El resultado solo es 1 si x fuera 1."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "explanation": "Esta es la identidad fundamental de los logaritmos. Dado que el logaritmo es el exponente al que se eleva la base para obtener $x$, si elevamos la base precisamente a ese exponente, el resultado debe ser necesariamente $x$.",
       "difficulty": "10",
       "images": [],
@@ -829,25 +829,25 @@
           "feedback": "$5^4 = 625$, que es mucho mayor que 20."
         },
         {
-          "letter": "B",
+          "letter": "D",
           "text": "$x = \\frac{\\log(20)}{\\log(5)}$",
           "is_correct": true,
           "feedback": "¡Correcto! Aplicando logaritmos en ambos lados y despejando x obtenemos este cociente."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "$x = \\log(4)$",
           "is_correct": false,
           "feedback": "El logaritmo de 4 no es la solucion, ya que la base es 5."
         },
         {
-          "letter": "D",
+          "letter": "C",
           "text": "$x = 20 - 5$",
           "is_correct": false,
           "feedback": "Las ecuaciones exponenciales no se resuelven mediante restas simples."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "explanation": "Cuando la incognita esta en el exponente y no podemos igualar bases de forma sencilla, aplicamos logaritmos (comunes o naturales) en ambos miembros de la ecuacion. La propiedad de la potencia nos permite bajar la $x$ multiplicando: $x \\cdot \\log(5) = \\log(20)$. Luego, despejamos $x$.",
       "difficulty": "10",
       "images": [],
@@ -874,13 +874,13 @@
           "feedback": "Esto solo ocurre cuando la base b es mayor que 1."
         },
         {
-          "letter": "B",
+          "letter": "C",
           "text": "Es siempre decreciente.",
           "is_correct": true,
           "feedback": "¡Correcto! Al igual que las exponenciales con base menor a 1, los logaritmos correspondientes decrecen."
         },
         {
-          "letter": "C",
+          "letter": "B",
           "text": "Es constante.",
           "is_correct": false,
           "feedback": "La funcion logaritmica siempre varia con x."
@@ -892,7 +892,7 @@
           "feedback": "Las funciones logaritmicas basicas son monotonas (siempre crecen o siempre decrecen)."
         }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "explanation": "La base del logaritmo determina la direccion del crecimiento. Si $b > 1$, la funcion crece lentamente. Si $0 < b < 1$, a medida que $x$ aumenta, el valor del logaritmo disminuye (se hace mas negativo), por lo que la funcion es estrictamente decreciente.\n\n[//]: # (QUALITY_REVIEW)\n| Dimension | Puntaje |\n|-----------|---------|\n| Técnico | 30/30 |\n| Curricular | 40/40 |\n| Contexto | 20/20 |\n| Redacción | 10/10 |\n| **Total** | **100/100** |",
       "difficulty": "10",
       "images": [],

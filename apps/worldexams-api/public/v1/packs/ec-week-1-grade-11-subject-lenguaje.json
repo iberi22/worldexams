@@ -8,88 +8,43 @@
   },
   "questions": [
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v1",
-      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Quito, Ana lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
-      "context": "Ana, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Quito, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v1",
+      "statement": "El Grupo de Guayaquil fue un colectivo de escritores que renovó la narrativa ecuatoriana en el siglo XX. ¿En qué década se consolidó este grupo?",
+      "context": "Un estudiante de BGU de un colegio de Guayaquil prepara una línea de tiempo del Grupo de Guayaquil para el proyecto de Lengua y Literatura.",
       "options": [
         {
           "letter": "A",
-          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "text": "En la década de 1880, durante el auge del romanticismo tardío en la Costa.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "En los años 1880 no existía aún la narrativa social guayaquileña; el grupo pertenece al siglo XX."
         },
         {
           "letter": "B",
-          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "text": "En la década de 1930, con obras de denuncia social publicadas entre 1929 y 1934.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto: el núcleo del grupo se agrupa hacia 1930, en torno a la narrativa indigenista y de denuncia."
         },
         {
           "letter": "C",
-          "text": "Ana, porque está interpretando de forma activa cada uno de los versos.",
+          "text": "En la década de 1960, con la generación del boom latinoamericano.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El boom de los años sesenta es un fenómeno posterior y distinto al Grupo de Guayaquil."
         },
         {
           "letter": "D",
-          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "text": "En la década de 1910, como parte del modernismo hispanoamericano.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El modernismo de 1910 aproximadamente no se identifica con la narrativa realista de Guayaquil."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Remember",
-      "expected_success": 0.9,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v2",
-      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Guayaquil, el locutor anuncia un fuerte descenso de temperatura. Luis escucha la noticia en el auto de Mateo.",
-      "context": "Luis, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Guayaquil, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Guayaquil.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
+      "explanation": "El Grupo de Guayaquil se consolida hacia 1930 y publica sus obras clave entre 1929 y 1934. Sus miembros —Joaquín Gallegos Lara, Pedro Jorge Vera, Demetrio Aguilera Malta, José de la Cuadra y Jorge Icaza— desplazaron el tema aristocrático hacia la vida del pueblo montubio, indígena y afroecuatoriano.",
       "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Remember",
-      "expected_success": 0.88,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -98,88 +53,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v3",
-      "statement": "En Cuenca, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Patricia que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
-      "context": "Patricia, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Cuenca, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v2",
+      "statement": "¿Quién escribió \"Huasipungo\" (1934), novela que denuncia el abuso del hacendado contra los indígenas?",
+      "context": "Una estudiante de un colegio de Quito busca en la biblioteca del plantel la novela más famosa de la narrativa indigenista ecuatoriana.",
       "options": [
         {
           "letter": "A",
-          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "text": "Demetrio Aguilera Malta",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Aguilera Malta escribió \"Don Goyo\" (1930), no \"Huasipungo\"."
         },
         {
           "letter": "B",
-          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Cuenca.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "José de la Cuadra",
+          "is_correct": false,
+          "feedback": "A José de la Cuadra le corresponde \"Los Sangurimas\" (1934)."
         },
         {
           "letter": "C",
-          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
+          "text": "Pedro Jorge Vera",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Pedro Jorge Vera es autor de \"Los que se van\" (1929) junto con Joaquín Gallegos Lara."
         },
         {
           "letter": "D",
-          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
-      "difficulty": "3",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.86,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v4",
-      "statement": "Fernando asiste a una conferencia de prensa en el municipio de Ambato. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
-      "context": "Fernando, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Ambato, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El canal oral-acústico de Ambato, el cual se ve interferido por un ruido externo que degrada la señal física.",
+          "text": "Jorge Icaza",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto: Jorge Icaza publicó \"Huasipungo\" en 1934, la obra más representativa del indigenismo ecuatoriano."
         }
       ],
       "correct_answer": "D",
-      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "explanation": "\"Huasipungo\" (1934), de Jorge Icaza, retrata el despojo de las tierras que los hacendados asignaban a los indígenas a cambio de trabajo servil. La novela convirtió a Icaza en la figura central del indigenismo narrativo ecuatoriano.",
       "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.84,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bloom": "Remember",
+      "expected_success": 0.85,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -188,88 +98,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v5",
-      "statement": "En Manta, María envía un correo electrónico de reclamo a una empresa proveedora de internet. Camila, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
-      "context": "María, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Manta, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v3",
+      "statement": "¿Cuál obra es de Demetrio Aguilera Malta y representa la vida del montubio de la costa ecuatoriana?",
+      "context": "Un curso de tercero de bachillerato en Cuenca estudia las obras del Grupo de Guayaquil y debe emparejar autor y obra en un organizador gráfico.",
       "options": [
         {
           "letter": "A",
-          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "\"Don Goyo\" (1930)",
+          "is_correct": true,
+          "feedback": "Correcto: \"Don Goyo\" (1930) es la novela de Aguilera Malta sobre el montubio y el río que se lo lleva."
         },
         {
           "letter": "B",
-          "text": "La retroalimentación, ya que es la respuesta que el receptor Camila devuelve al emisor.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "\"Los Sangurimas\" (1934)",
+          "is_correct": false,
+          "feedback": "\"Los Sangurimas\" es la novela familiar de José de la Cuadra, no de Aguilera Malta."
         },
         {
           "letter": "C",
-          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Manta.",
+          "text": "\"El asfalto\" (1934)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "\"El asfalto\" (1934) es una novela urbana de Joaquín Gallegos Lara."
         },
         {
           "letter": "D",
-          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "text": "\"Huasipungo\" (1934)",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "\"Huasipungo\" pertenece a Jorge Icaza y se centra en el mundo indígena de la Sierra."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Understand",
-      "expected_success": 0.82,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v6",
-      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Loja, José lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
-      "context": "José, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Loja, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "José, porque está interpretando de forma activa cada uno de los versos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
-      "difficulty": "6",
+      "correct_answer": "A",
+      "explanation": "\"Don Goyo\" personifica al montubio costeño y a la fuerza del río, en una narrativa donde la naturaleza y la comunidad marginal son protagonistas. Con esta obra, Aguilera Malta abrió la puerta del realismo social ecuatoriano en 1930.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
       "bloom": "Understand",
       "expected_success": 0.8,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -278,178 +143,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v7",
-      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Riobamba, el locutor anuncia un fuerte descenso de temperatura. Mateo escucha la noticia en el auto de Alejandro.",
-      "context": "Mateo, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Riobamba, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v4",
+      "statement": "En el contexto de la hacienda serrana ecuatoriana, ¿qué era el huasipungo?",
+      "context": "En un colegio de Ambato, un docente pide a sus estudiantes definir el término \"huasipungo\" antes de leer fragmentos de la novela de Icaza.",
       "options": [
         {
           "letter": "A",
-          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "text": "Un impuesto en dinero que los hacendados pagaban al Estado.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El huasipungo no era un tributo estatal; era una porción de tierra entregada al indígena."
         },
         {
           "letter": "B",
-          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "text": "Una escuela rural fundada por misioneros en la Sierra central.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No se trata de una institución educativa, sino de una institución de la hacienda tradicional."
         },
         {
           "letter": "C",
-          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Un lote de tierra que el hacendado asignaba al indígena a cambio de trabajo servil.",
+          "is_correct": true,
+          "feedback": "Correcto: el huasipungo era la parcela de subsistencia que ataba al indígena a la hacienda mediante trabajo no remunerado."
         },
         {
           "letter": "D",
-          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Riobamba.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.78,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v8",
-      "statement": "En Ibarra, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Sebastián que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
-      "context": "Sebastián, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Ibarra, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
+          "text": "Un mercado comunitario donde los otavaleños vendían sus tejidos.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Ibarra.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "B",
-      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
-      "difficulty": "6",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.76,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v9",
-      "statement": "Valentina asiste a una conferencia de prensa en el municipio de Portoviejo. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
-      "context": "Valentina, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Portoviejo, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El canal oral-acústico de Portoviejo, el cual se ve interferido por un ruido externo que degrada la señal física.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
-      "difficulty": "5",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.74,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v10",
-      "statement": "En Machala, Camila envía un correo electrónico de reclamo a una empresa proveedora de internet. Elena, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
-      "context": "Camila, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Machala, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "La retroalimentación, ya que es la respuesta que el receptor Elena devuelve al emisor.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Machala.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El mercado comunitario no define al huasipungo; la relación era de dependencia laboral, no de intercambio comercial."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
-      "difficulty": "6",
+      "explanation": "El huasipungo era el eje del sistema de hacienda: tierra marginal a cambio de días de trabajo gratuito. Comprender esta institución permite leer la denuncia de Icaza y las migraaciones campo-ciudad que transformaron Quito y Guayaquil durante el siglo XX.",
+      "difficulty": "4",
       "images": [],
       "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.72,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bloom": "Understand",
+      "expected_success": 0.8,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -458,43 +188,133 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v11",
-      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Mejía en Esmeraldas, Santiago lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
-      "context": "Santiago, estudiante de 11° de Bachillerato en el Colegio Nacional Mejía de Esmeraldas, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v5",
+      "statement": "¿Qué rasgo del realismo social ecuatoriano se aplica mejor a este fragmento?",
+      "context": "Un estudiante de un colegio de Riobamba analiza un fragmento de ejemplo que imita el estilo del indigenismo: \"El patrón llegó con el capitanillo y les quitó la mitad de la chacra. Nessas tierras son nuestras de siempre, murmuró el viejo, mientras los hijos callaban\".",
       "options": [
         {
           "letter": "A",
-          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "text": "La exaltación del yo sensible frente a una naturaleza sublime.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Ese rasgo pertenece al romanticismo, no a la narrativa de denuncia social."
         },
         {
           "letter": "B",
-          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
+          "text": "La denuncia del despojo de tierras dentro del sistema de hacienda.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto: el fragmento muestra el abuso del patrón y la impotencia del indígena, núcleo temático del indigenismo."
         },
         {
           "letter": "C",
-          "text": "Santiago, porque está interpretando de forma activa cada uno de los versos.",
+          "text": "El uso del mito como explicación fantástica del origen de la comunidad.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay elemento mítico; la situación es de conflicto socioeconómico realista."
         },
         {
           "letter": "D",
-          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "text": "La descripción decorativa del paisaje andino con fines esteticistas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El paisaje no es decorativo; funciona como escenario de la explotación."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
-      "difficulty": "7",
+      "explanation": "El realismo social subordina la descripción a la denuncia: tierras, trabajo y poder. Al aplicar esta clave de lectura, el estudiante reconoce que el conflicto por la chacra reproduce el mecanismo histórico del huasipungo descrito en \"Huasipungo\" (1934).",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v6",
+      "statement": "Según la estética del Grupo de Guayaquil, ¿qué tratamiento del lenguaje deben aplicar en la adaptación radial?",
+      "context": "Para una radionovela escolar en Guayaquil, un grupo de estudiantes adapta una escena de \"Los que se van\" (1929) y discute cómo deben hablar los personajes montubios.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Un español normativo y castizo, sin marcas regionales, para que suene culto.",
+          "is_correct": false,
+          "feedback": "La norma culta peninsular contradice la poética dialogal y popular del grupo."
+        },
+        {
+          "letter": "B",
+          "text": "Un registro juvenil urbano con tecnicismos informáticos.",
+          "is_correct": false,
+          "feedback": "Ese registro pertenece a otros contextos; no corresponde a la oralidad montubia ni indígena de 1930."
+        },
+        {
+          "letter": "C",
+          "text": "Un lenguaje poético modernista con adjetivación abundante y sensorial.",
+          "is_correct": false,
+          "feedback": "El modernismo sensorial es anterior y ajeno al proyecto realista del grupo."
+        },
+        {
+          "letter": "D",
+          "text": "Un lenguaje popular y dialogal que reproduzca la oralidad del pueblo.",
+          "is_correct": true,
+          "feedback": "Correcto: el Grupo de Guayaquil incorporó el habla montubia e indígena al diálogo narrativo para dar voz a los excluidos."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "La renovación lingüística del grupo —heredera de \"Los que se van\" (1929)— hizo del diálogo popular un recurso de verosimilitud y de dignificación cultural. En radio, esa decisión se traduce en léxico, entonación y sintaxis de la oralidad montubia.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v7",
+      "statement": "¿Qué par de autor y obra aplica correctamente los datos de la narrativa social ecuatoriana?",
+      "context": "Un estudiante de un colegio de Portoviejo ordena fichas de lectura con autor, obra y año del Grupo de Guayaquil para una feria de ciencias sociales.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Jorge Icaza — \"Don Goyo\"",
+          "is_correct": false,
+          "feedback": "\"Don Goyo\" es de Demetrio Aguilera Malta; Icaza escribió \"Huasipungo\"."
+        },
+        {
+          "letter": "B",
+          "text": "José de la Cuadra — \"El asfalto\"",
+          "is_correct": false,
+          "feedback": "\"El asfalto\" (1934) corresponde a Joaquín Gallegos Lara."
+        },
+        {
+          "letter": "C",
+          "text": "Joaquín Gallegos Lara — \"Los que se van\" (1929)",
+          "is_correct": true,
+          "feedback": "Correcto: Gallegos Lara coescribió con Pedro Jorge Vera \"Los que se van\" (1929), obra fundacional del ciclo."
+        },
+        {
+          "letter": "D",
+          "text": "Pedro Jorge Vera — \"Huasipungo\"",
+          "is_correct": false,
+          "feedback": "\"Huasipungo\" es de Jorge Icaza; Vera es coautor de \"Los que se van\"."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Los que se van\" (1929), de Gallegos Lara y Pedro Jorge Vera, anticipa el ciclo con sus cuentos sobre el montubio y los migrantes. Dominar estas correspondencias autor-obra es la base para leer el conjunto de la narrativa social.",
+      "difficulty": "6",
       "images": [],
       "tags": [],
       "bloom": "Apply",
       "expected_success": 0.7,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -503,133 +323,178 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v12",
-      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Santo Domingo, el locutor anuncia un fuerte descenso de temperatura. Alejandro escucha la noticia en el auto de Carlos.",
-      "context": "Alejandro, estudiante de 11° de Bachillerato en el Colegio Nacional Vicente Rocafuerte de Santo Domingo, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v8",
+      "statement": "El micro-texto ilustra un proceso social clave para el realismo social ecuatoriano. ¿Cuál?",
+      "context": "En un colegio de Quito, la docente presenta un micro-texto de ejemplo: \"Basta, cacique, de que nos tengan maniatados como animales. Aquí en la ciudad vamos a ser hombres, aunque el asfalto nos queme los pies\".",
       "options": [
         {
           "letter": "A",
-          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "La migración campo-ciudad de sectores indígenas y montubios.",
+          "is_correct": true,
+          "feedback": "Correcto: el fragmento expresa el éxodo rural hacia la ciudad, fenómeno que la narrativa de los años treinta registró."
         },
         {
           "letter": "B",
-          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
+          "text": "La industrialización del cacao en la costa norte.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No se alude a procesos industriales cacaoteros; se alude al abandono del campo."
         },
         {
           "letter": "C",
-          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Santo Domingo.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La fundación de universidades en la Sierra austral.",
+          "is_correct": false,
+          "feedback": "El texto no menciona educación superior; menciona huida y trabajo urbano."
         },
         {
           "letter": "D",
-          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "text": "El auge de la literatura de salon en los clubes quiteños.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
-      "difficulty": "8",
-      "images": [],
-      "tags": [],
-      "bloom": "Apply",
-      "expected_success": 0.68,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v13",
-      "statement": "En Quito, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Gabriela que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
-      "context": "Gabriela, estudiante de 11° de Bachillerato en el Colegio Benigno Malo de Quito, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Quito.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "D",
-          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
-      "difficulty": "7",
-      "images": [],
-      "tags": [],
-      "bloom": "Analyze",
-      "expected_success": 0.66,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v14",
-      "statement": "David asiste a una conferencia de prensa en el municipio de Guayaquil. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
-      "context": "David, estudiante de 11° de Bachillerato en el Colegio Nacional Bolívar de Guayaquil, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El canal oral-acústico de Guayaquil, el cual se ve interferido por un ruido externo que degrada la señal física.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "B",
-          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La literatura de salón es un fenómeno ajeno al sujeto social del fragmento."
         }
       ],
       "correct_answer": "A",
-      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
+      "explanation": "La migración campo-ciudad redefinió Quito y Guayaquil y dio materia narrativa a \"El asfalto\" (1934) y al ciclo posterior. Leer este proceso en los textos permite conectar literatura e historia social del Ecuador.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v9",
+      "statement": "¿Qué función social cumple hoy leer \"Huasipungo\" en la escuela ecuatoriana?",
+      "context": "Un club de lectura de un colegio de Cuenca compara la portada de \"Huasipungo\" con un reportaje actual sobre comunidades de la Amazonía.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sirve solo como documento arqueológico sin relación con el presente.",
+          "is_correct": false,
+          "feedback": "Reducirla a reliquia ignora su vigencia para pensar desigualdades actuales."
+        },
+        {
+          "letter": "B",
+          "text": "Enseña fórmulas de escritura romántica para imitarlas.",
+          "is_correct": false,
+          "feedback": "La novela no es romántica ni modelo de imitación esteticista."
+        },
+        {
+          "letter": "C",
+          "text": "Ofrece claves históricas para interpretar persistencias de desigualdad y discriminación.",
+          "is_correct": true,
+          "feedback": "Correcto: la novela funciona como espejo crítico de relaciones de poder que aún dejan huellas en el Ecuador actual."
+        },
+        {
+          "letter": "D",
+          "text": "Pretende que los estudiantes memoricen fechas de publicación.",
+          "is_correct": false,
+          "feedback": "La memorización cronológica no es la función formativa central de la obra."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La lectura escolar de la literatura de denuncia forma pensamiento crítico: el estudiante compara el sistema de hacienda con presentes de exclusión. Así, \"Huasipungo\" (1934) pasa de dato bibliográfico a herramienta de interpretación social.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.75,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v10",
+      "statement": "¿Cuál fragmento de ejemplo aplica como propio de la estética indigenista del Grupo de Guayaquil?",
+      "context": "Un estudiante de un colegio de Manta aplica criterios del realismo social para clasificar fragmentos en una tabla de dos columnas: \"propio del indigenismo\" y \"ajeno al indigenismo\".",
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Oh, luna de mármol, vierte sobre mi lira tu plata melancólica\".",
+          "is_correct": false,
+          "feedback": "Ese lirismo evadido corresponde a tradiciones modernistas o románticas, no al realismo social."
+        },
+        {
+          "letter": "B",
+          "text": "\"El río crecido se llevó la casa de don Nicasio y él solo alcanzó a salvar el machete y a los guaguas\".",
+          "is_correct": true,
+          "feedback": "Correcto: sujeto popular, catástrofe real y lenguaje llano coinciden con la poética de \"Don Goyo\" (1930)."
+        },
+        {
+          "letter": "C",
+          "text": "\"El marqués contempló el jardín geométrico mientras su criado le leía un tratado de retórica\".",
+          "is_correct": false,
+          "feedback": "El ambiente aristocrático y erudito es el que el grupo vino a desplazar."
+        },
+        {
+          "letter": "D",
+          "text": "\"Las naves cromadas surcaron Andrómeda buscando el planeta prometido\".",
+          "is_correct": false,
+          "feedback": "La ciencia ficción interestelar no pertenece al proyecto realista de los años treinta."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "El criterio de clasificación más sólido es la presencia del pueblo como sujeto: montubios, indígenas y afroecuatorianos en situaciones reales. El fragmento del río remite directamente al universo de la narrativa de Aguilera Malta.",
+      "difficulty": "6",
+      "images": [],
+      "tags": [],
+      "bloom": "Apply",
+      "expected_success": 0.7,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v11",
+      "statement": "¿Qué análisis caracteriza mejor la singularidad de \"Los Sangurimas\" dentro del ciclo?",
+      "context": "En un debate escolar en Guayaquil, dos grupos analizan por qué \"Los Sangurimas\" (1934) de José de la Cuadra se considera una obra de transición entre el realismo social y un narrar más mítico.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es una novela folletinesca de amores imposibles en la alta sociedad porteña.",
+          "is_correct": false,
+          "feedback": "No pertenece al folletín aristocrático; su materia es la estirpe rural."
+        },
+        {
+          "letter": "B",
+          "text": "Es un panfleto político sin valores narrativos.",
+          "is_correct": false,
+          "feedback": "Reducirla a panfleto niega su complejidad épica y lingüística."
+        },
+        {
+          "letter": "C",
+          "text": "Combina la estirpe y el paisaje con una fuerza casi mítica, sin abandonar el mundo popular.",
+          "is_correct": true,
+          "feedback": "Correcto: De la Cuadra analiza la saga familiar montubia con un aliento épico y mítico enraizado en la oralidad."
+        },
+        {
+          "letter": "D",
+          "text": "Imita el flujo de conciencia europeo sin referente ecuatoriano.",
+          "is_correct": false,
+          "feedback": "La novela sí tiene referente: la Manabí profunda y su leyenda interna."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "\"Los Sangurimas\" analiza la leyenda de una dinastía: \"mientras haya un Sangurima, habrá pelea\". El vínculo sangre-tierra-palabra muestra que el realismo social ecuatoriano no fue solo denuncia documental, también épica cultural.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.64,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -638,43 +503,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v15",
-      "statement": "En Cuenca, Elena envía un correo electrónico de reclamo a una empresa proveedora de internet. Estefanía, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
-      "context": "Elena, estudiante de 11° de Bachillerato en el Unidad Educativa Santo Domingo de Cuenca, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v12",
+      "statement": "¿Qué estructura de contraste analiza mejor el proyecto narrativo de \"El asfalto\"?",
+      "context": "Una estudiante de un colegio de Loja analiza el contraste entre el campo explotado y la ciudad que promete y defrauda en \"El asfalto\" (1934) de Joaquín Gallegos Lara.",
       "options": [
         {
           "letter": "A",
-          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "El campo de la exclusión frente a una ciudad que reproduce la explotación en clave obrera.",
+          "is_correct": true,
+          "feedback": "Correcto: Gallegos Lara muestra que la migración no rompe el cerco del poder: el asfalto también oprime."
         },
         {
           "letter": "B",
-          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "text": "La naturaleza virgen frente al progreso técnico celebrados sin críticas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La novela no celebra el progreso; lo desnuda como nueva forma de sometimiento."
         },
         {
           "letter": "C",
-          "text": "La retroalimentación, ya que es la respuesta que el receptor Estefanía devuelve al emisor.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La vida urbana culta frente a la ignorancia rural resuelta por la caridad.",
+          "is_correct": false,
+          "feedback": "Ese esquema tutelar contradice la tesis de denuncia de la obra."
         },
         {
           "letter": "D",
-          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Cuenca.",
+          "text": "El campo idealizado frente a la ciudad decadente y moralmente culpable.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay idealización bucólica: ambos espacios se analizan como estructuras de clase."
         }
       ],
-      "correct_answer": "C",
-      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
-      "difficulty": "7",
+      "correct_answer": "A",
+      "explanation": "\"El asfalto\" (1934) traslada la mirada del hacendado serrano al patrón urbano y a la fábrica. Analizar el contraste campo-ciudad revela que el realismo social interpretó la migración como movilidad sin movilidad social.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
-      "expected_success": 0.62,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -683,43 +548,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v16",
-      "statement": "En la biblioteca de la Unidad Educativa Colegio Nacional Manta en Ambato, Diana lee en silencio un libro de poemas de Medardo Ángel Silva. ¿Quién cumple el rol de emisor en este acto de lectura?",
-      "context": "Diana, estudiante de 11° de Bachillerato en el Colegio Nacional Manta de Ambato, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v13",
+      "statement": "¿Qué función analítica cumple esa hibridez lingüística en la novela?",
+      "context": "Un grupo de tercero de bachillerato de un colegio de Otavalo analiza cómo la voz narrativa de \"Huasipungo\" integra el quechua y la sintaxis del hablante indígena.",
       "options": [
         {
           "letter": "A",
-          "text": "El rector de la institución, al ser quien inauguró las instalaciones de la biblioteca.",
+          "text": "Decorar la narración con exotismos folclóricos para el lector citadino.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El recurso no es decorativo: estructura el punto de vista subalterno."
         },
         {
           "letter": "B",
-          "text": "El escritor Medardo Ángel Silva, quien codificó los poemas en el texto impreso.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "Corregir gramaticalmente a los personajes para elevarlos.",
+          "is_correct": false,
+          "feedback": "La novela no enmienda el habla; la asume como voz legítima."
         },
         {
           "letter": "C",
-          "text": "Diana, porque está interpretando de forma activa cada uno de los versos.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "Construir la interioridad indígena desde su propia manera de nombrar el mundo.",
+          "is_correct": true,
+          "feedback": "Correcto: la interferencia del quechua y la sintaxis popular permiten representar la conciencia del oprimido desde dentro."
         },
         {
           "letter": "D",
-          "text": "El bibliotecario del colegio, ya que facilitó el acceso físico al libro de poemas.",
+          "text": "Demostrar la superioridad del español normativo sobre las lenguas nativas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "La apuesta de Icaza es inversa: validar lingüísticamente al sujeto excluido."
         }
       ],
-      "correct_answer": "B",
-      "explanation": "El emisor es el creador del mensaje (en este caso, el autor de la obra literaria), independientemente de si la lectura ocurre tiempo después de su redacción.\n\n---",
+      "correct_answer": "C",
+      "explanation": "El análisis del lenguaje en \"Huasipungo\" muestra que la forma es contenido: la sintaxis truncada y el léxico quechuizado expresan cosmovisión y resistencia. La crítica stylistic se convierte aquí en crítica social.",
       "difficulty": "8",
       "images": [],
       "tags": [],
       "bloom": "Analyze",
       "expected_success": 0.6,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -728,133 +593,43 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v17",
-      "statement": "Durante una transmisión radial sobre el clima de la Sierra ecuatoriana en Manta, el locutor anuncia un fuerte descenso de temperatura. Carlos escucha la noticia en el auto de Luis.",
-      "context": "Carlos, estudiante de 11° de Bachillerato en el Colegio Nacional Bernardo Valdivieso de Manta, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v14",
+      "statement": "Al analizar el título \"Los que se van\", ¿qué proceso estructural se identifica en los cuentos?",
+      "context": "En una feria escolar en Quito, estudiantes contrastan el cuento \"Los que se van\" (1929) con noticias actuales sobre zonas rurales donde quedan pocos jóvenes.",
       "options": [
         {
           "letter": "A",
-          "text": "El emisor, ya que la radio es el sujeto que genera de forma autónoma la información climática.",
+          "text": "El éxodo de las élites hacendadas hacia el exterior.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "Los que se van no son las élites; son los sectores populares que abandonan el campo."
         },
         {
           "letter": "B",
-          "text": "La retroalimentación, puesto que permite al conductor opinar sobre el estado de la temperatura.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "text": "El desmembramiento de comunidades montubias por la emigración hacia las ciudades y las fincas bananeras.",
+          "is_correct": true,
+          "feedback": "Correcto: el título nombra la sangría demográfica que vacía los pueblos, analizada desde los que quedan."
         },
         {
           "letter": "C",
-          "text": "El canal de comunicación, debido a que constituye el medio de transmisión por el que viaja el mensaje por las calles de Manta.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "text": "La partida de misiones religiosas de la Amazonía.",
+          "is_correct": false,
+          "feedback": "El referente no es misionero; es el campesinado y sus rutas de migración."
         },
         {
           "letter": "D",
-          "text": "El código, porque es el idioma español andino empleado para estructurar la noticia.",
+          "text": "El retorno de migrantes ecuatorianos desde Europa.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        }
-      ],
-      "correct_answer": "C",
-      "explanation": "El canal es el soporte o medio físico-técnico que transmite la señal lingüística desde el emisor al receptor.\n\n---",
-      "difficulty": "9",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.58,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v18",
-      "statement": "En Loja, un oficial de tránsito levanta la mano derecha con la palma abierta hacia adelante para indicarle a Rafael que detenga su vehículo en la avenida principal. ¿De qué tipo es el código utilizado por el oficial?",
-      "context": "Rafael, estudiante de 11° de Bachillerato en el Colegio Nacional Nueve de Octubre de Loja, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "Un código lingüístico oral, puesto que involucra la producción de sonidos en el espacio público.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "Un canal artificial sonoro, ya que altera la velocidad de los automotores mediante vibración.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "C",
-          "text": "Un contexto sociocultural andino, que impide la interpretación por parte de conductores de la Costa.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "Un código no lingüístico visual, basado en un lenguaje corporal de señas con un significado establecido para los conductores de Loja.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        }
-      ],
-      "correct_answer": "D",
-      "explanation": "Los códigos no lingüísticos se valen de sistemas de signos visuales, acústicos o gestuales sin hacer uso directo de la palabra hablada o escrita.\n\n---",
-      "difficulty": "10",
-      "images": [],
-      "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.56,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
-      "periodo": 1,
-      "protocol_version": "5.2",
-      "cefr_level": null,
-      "subject": "lengua",
-      "grade": 11,
-      "country": "ec"
-    },
-    {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v19",
-      "statement": "Andrés asiste a una conferencia de prensa en el municipio de Riobamba. El ruido ensordecedor de una perforadora de asfalto en el exterior impide escuchar las últimas palabras del alcalde. ¿Qué elemento de la comunicación está sufriendo una anomalía?",
-      "context": "Andrés, estudiante de 11° de Bachillerato en el Colegio Nacional Maldonado de Riobamba, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
-      "options": [
-        {
-          "letter": "A",
-          "text": "El referente social, que cambia de forma espontánea de la gestión municipal a la obra pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "B",
-          "text": "El canal oral-acústico de Riobamba, el cual se ve interferido por un ruido externo que degrada la señal física.",
-          "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
-        },
-        {
-          "letter": "C",
-          "text": "La codificación lógica del alcalde, quien olvida los temas principales de la agenda pública.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
-        },
-        {
-          "letter": "D",
-          "text": "El código castellano, que experimenta una fragmentación gramatical irreversible en ese instante.",
-          "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "En 1929 no existía ese flujo; el relato mira la emigración interna."
         }
       ],
       "correct_answer": "B",
-      "explanation": "El ruido es toda perturbación física o técnica que altera el correcto funcionamiento del canal, impidiendo la óptima percepción del mensaje por el receptor.\n\n---",
-      "difficulty": "9",
+      "explanation": "Gallegos Lara y Pedro Jorge Vera analizaron la movilidad interna como herida social: familia partida, tierra abandonada, memoria en riesgo. Ese análisis conecta la obra de 1929 con diagnósticos demográficos actuales de la ruralidad ecuatoriana.",
+      "difficulty": "8",
       "images": [],
       "tags": [],
-      "bloom": "Evaluate",
-      "expected_success": 0.54,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
@@ -863,43 +638,268 @@
       "country": "ec"
     },
     {
-      "id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle-v20",
-      "statement": "En Ibarra, Estefanía envía un correo electrónico de reclamo a una empresa proveedora de internet. María, el agente de soporte, responde confirmando la recepción e indicando el día de la inspección técnica.",
-      "context": "Estefanía, estudiante de 11° de Bachillerato en el Colegio Nacional Olmedo de Ibarra, analiza las situaciones comunicativas cotidianas de su comunidad para un proyecto escolar.",
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v15",
+      "statement": "¿Qué recurso analiza mejor la crítica social del micro-texto?",
+      "context": "Un estudiante de un colegio de Sangolquí analiza un micro-texto de ejemplo: \"En la casa grande se cocinaba tres veces al día; en el callejón de adobe, el olor del tostado ajeno era la receta de los niños\".",
       "options": [
         {
           "letter": "A",
-          "text": "El canal secundario, dado que se trata de una plataforma alternativa de carácter comercial.",
+          "text": "La hipérbole fantástica sobre gigantes de adobe.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay elementos fantásticos; la oposición es realista."
         },
         {
           "letter": "B",
-          "text": "La contextualización, porque describe la ubicación geográfica exacta donde se requiere la inspección.",
+          "text": "La metáfora cósmica que universaliza el hambre.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "El texto es concreto y local, no cósmico ni abstracto."
         },
         {
           "letter": "C",
-          "text": "La retroalimentación, ya que es la respuesta que el receptor María devuelve al emisor.",
+          "text": "El contraste metonímico entre la cocina de la casa grande y el callejón, que espacializa la desigualdad.",
           "is_correct": true,
-          "feedback": "Correcto. Esta opción explica con precisión científica y lingüística el fenómeno consultado, coherente con las normas del BGU."
+          "feedback": "Correcto: el par casa grande/callejón analiza la explotación mostrándola en el espacio cotidiano."
         },
         {
           "letter": "D",
-          "text": "El ruido semántico, porque genera demoras en el proceso de solución del problema de internet en Ibarra.",
+          "text": "El símil épico que compara el hambre con batallas antiguas.",
           "is_correct": false,
-          "feedback": "Incorrecto. Esta alternativa confunde el concepto o utiliza distractores no aplicables al contexto o regla descrita."
+          "feedback": "No hay comparaciones bélicas; la fuerza del texto está en la yuxtaposición de espacios."
         }
       ],
       "correct_answer": "C",
-      "explanation": "La retroalimentación o feedback es el proceso de respuesta mediante el cual el receptor confirma la recepción y comprensión del mensaje original.\n\n---",
+      "explanation": "La metonimia espacial —la casa y el callejón— es una técnica analítica central del realismo social: mostrar relaciones de producción en objetos y lugares. Este recurso aparece tanto en la hacienda de Icaza como en el barrio de Gallegos Lara.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.65,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v16",
+      "statement": "¿Qué análisis corresponde a esa discusión sobre la representación del indígena en el ciclo?",
+      "context": "Dos cursos de BGU de un colegio de Machala analizan las críticas que recibió el indigenismo por representar al indígena solo como víctima.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Que las novelas son espejos exactos de la realidad sin mediación literaria.",
+          "is_correct": false,
+          "feedback": "Ninguna obra es espejo neutro; toda representación construye su objeto."
+        },
+        {
+          "letter": "B",
+          "text": "Que el problema de lectura no existe porque la literatura no representa a nadie.",
+          "is_correct": false,
+          "feedback": "Negar la dimensión representativa desconoce el efecto social del relato."
+        },
+        {
+          "letter": "C",
+          "text": "Que la mirada de los escritores, generalmente urbanos, filtró y limitó la voz indígena, aunque visibilizó su causa.",
+          "is_correct": true,
+          "feedback": "Correcto: el análisis maduro reconoce el valor de denuncia y, a la vez, la mediación de una voz intelectual sobre el sujeto representado."
+        },
+        {
+          "letter": "D",
+          "text": "Que la calidad lingüística invalida cualquier mensaje de denuncia.",
+          "is_correct": false,
+          "feedback": "Forma y contenido no se anulan; el ciclo es valorado estéticamente además de socialmente."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Analizar el indigenismo exige una doble mirada: visibilizó la explotación del huasipungo e inauguró una epopeya del pueblo, pero lo hizo desde autores mestizos y letrados. Ese tensión es objeto clásico de la crítica literaria ecuatoriana.",
+      "difficulty": "8",
+      "images": [],
+      "tags": [],
+      "bloom": "Analyze",
+      "expected_success": 0.6,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v17",
+      "statement": "¿Cuál evaluación es más sólida frente a esa afirmación?",
+      "context": "En un panel estudiantil en Quito, un vocero afirma: \"La literatura debe servir ante todo para denunciar injusticias\". Los estudiantes evalúan esa tesis a la luz del Grupo de Guayaquil.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es totalmente errónea: la denuncia nunca puede ser literaria.",
+          "is_correct": false,
+          "feedback": "El canon ecuatoriano desmiente esa postura: las novelas de denuncia son parte mayor de la literatura nacional."
+        },
+        {
+          "letter": "B",
+          "text": "Tiene razón histórica, pero confunde un función posible de la literatura con su única función legítima.",
+          "is_correct": true,
+          "feedback": "Correcto: el ciclo social justifica la denuncia como función, pero generalizarla excluye otras dimensiones estéticas y humanas del hecho literario."
+        },
+        {
+          "letter": "C",
+          "text": "Es perfecta: toda obra que no denuncia carece de valor artístico.",
+          "is_correct": false,
+          "feedback": "Ese criterio reduciría a cero la validez de lírica, ciencia ficción o teatro del absurdo."
+        },
+        {
+          "letter": "D",
+          "text": "Es irrelevante: las funciones de la literatura no se pueden debatir.",
+          "is_correct": false,
+          "feedback": "La pregunta por el para qué de la literatura es debatible y central en teoría literaria."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Evaluar la tesis exige distinguir entre un proyecto histórico (el realismo social de los treinta) y una prescripción universal. El Grupo de Guayaquil demuestra que la denuncia puede lograr alto valor estético, pero no que toda literatura deba denunciar.",
       "difficulty": "10",
       "images": [],
       "tags": [],
       "bloom": "Evaluate",
-      "expected_success": 0.52,
-      "bundle_id": "EC-LEN-11-2026-W01-comunicacion-elementos-001-MASTERY-bundle",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v18",
+      "statement": "¿Cuál evaluación critica es más defendible?",
+      "context": "Una docente de Cuenca propone el juicio: \"Huasipungo perdió vigencia porque el huasipungo como institución fue abolido\". Los estudiantes evalúan el argumento con datos literarios e históricos.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "El juicio es correcto: abolida la institución, la novela pasó a ser irrelevante.",
+          "is_correct": false,
+          "feedback": "Confunde vigencia documental con vigencia estética y formativa de la obra."
+        },
+        {
+          "letter": "B",
+          "text": "El juicio es falso: la institución sigue vigente en la práctica según los estudios actuales.",
+          "is_correct": false,
+          "feedback": "También falla: el huasipungo formal fue abolido por reformas agrarias del siglo XX."
+        },
+        {
+          "letter": "C",
+          "text": "El juicio es reduccionista: la novela conserva vigencia como denuncia de desigualdades transformadas, no desaparecidas.",
+          "is_correct": true,
+          "feedback": "Correcto: evaluar una obra solo por su referente jurídico ignora su potencia simbólica y su lectura analógica de presentes de exclusión."
+        },
+        {
+          "letter": "D",
+          "text": "El juicio es intraducible: la vigencia de una novela no puede evaluarse.",
+          "is_correct": false,
+          "feedback": "La recepción histórica demuestra que la vigencia sí se argumenta con criterios."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "La abolición del huasipungo (proceso agrario de mediados del siglo XX) cerró una forma jurídica, no las asimetrías que la novela simboliza. Una evaluación madura pondera contexto histórico y capacidad alegórica del texto.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.55,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v19",
+      "statement": "¿Cuál evaluación es más sólida ante esa propuesta?",
+      "context": "El consejo estudiantil de un colegio de Guayaquil evalúa una propuesta de currículo que eliminaría la narrativa social de 1930 para dejar solo literatura contemporánea.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es insostenible: la literatura contemporánea ecuatoriana se comprende mejor como diálogo y reacción frente al ciclo del treinta.",
+          "is_correct": true,
+          "feedback": "Correcto: suprimir el canon social rompe la genealogía; autores actuales releen migración, racismo y ciudad desde aquel matrices."
+        },
+        {
+          "letter": "B",
+          "text": "Es acertada: lo antiguo debe desaparecer de toda programación escolar.",
+          "is_correct": false,
+          "feedback": "El criterio cronológico no es un criterio de valor ni de necesidad formativa."
+        },
+        {
+          "letter": "C",
+          "text": "Es neutra: da igual incluirla o no, porque es contenido accesorio.",
+          "is_correct": false,
+          "feedback": "La narrativa social es estructural en la historia literaria nacional, no accesoria."
+        },
+        {
+          "letter": "D",
+          "text": "Es imposible: la ley prohíbe modificar lecturas escolares.",
+          "is_correct": false,
+          "feedback": "Los currículos son revisables por diseño institucional; no hay tal prohibición absoluta."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Evaluar un programa de lectura implica pensar continuidades: la pregunta por quiénes narran y por qué pueblos aparece hoy en la narrativa ecuatoriana reciente. El ciclo del treinta es la matriz con la que las nuevas voces negocian.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
+      "periodo": 1,
+      "protocol_version": "5.2",
+      "cefr_level": null,
+      "subject": "lengua",
+      "grade": 11,
+      "country": "ec"
+    },
+    {
+      "id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle-v20",
+      "statement": "¿Cuál es la evaluación más rigurosa de esa tesis?",
+      "context": "En un concurso de ensayo en Loja, un estudiante sostiene: \"Sin el lenguaje popular del Grupo de Guayaquil no se explica la novela ecuatoriana posterior\". El jurado evalúa la tesis.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Es inválida: el lenguaje popular existía ya en toda la novela hispanoamericana del siglo XIX.",
+          "is_correct": false,
+          "feedback": "El registro popular puntual del Grupo introdujo una convención nueva en el sistema literario ecuatoriano."
+        },
+        {
+          "letter": "B",
+          "text": "Es válida sin matices: el grupo agotó todas las posibilidades del habla popular.",
+          "is_correct": false,
+          "feedback": "La sobreafirmación borra las reelaboraciones, ironías y críticas del habla que hicieron autores posteriores."
+        },
+        {
+          "letter": "C",
+          "text": "Es neutra: el estilo no influye en la historia de una literatura nacional.",
+          "is_correct": false,
+          "feedback": "Las decisiones lingüísticas son un factor decisivo de renovación literaria."
+        },
+        {
+          "letter": "D",
+          "text": "Es plausible y defendible: el grupo legitimó la oralidad como material narrativo, condición que la novela posterior explota, parodia o discute.",
+          "is_correct": true,
+          "feedback": "Correcto: reconoce la ruptura del treinta y admite los modos críticos o lúdicos con que la narrativa posterior retoma esa herencia."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Una evaluación rigurosa calibra alcances: el Grupo de Guayaquil institucionalizó el habla popular en la novela ecuatoriana, y esa apertura habilitó tanto continuaciones como subversiones ulteriores. La tesis se sostiene con esa formulación matizada.",
+      "difficulty": "10",
+      "images": [],
+      "tags": [],
+      "bloom": "Evaluate",
+      "expected_success": 0.5,
+      "bundle_id": "EC-LEN-11-2026-W01-realismo-social-literatura-ecuatoriana-001-MASTERY-bundle",
       "periodo": 1,
       "protocol_version": "5.2",
       "cefr_level": null,
