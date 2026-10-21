@@ -154,19 +154,23 @@
 
           {#if historySessions.length === 0}
             <p class="text-xs text-white/50 py-8 text-center">
-              Aún no tienes evaluaciones registradas. Completa la Batería Psicométrica para ver tu curva de evolución.
+              Aún no tienes evaluaciones registradas. Completa la Evaluación para ver cómo cambias respecto a ti mismo.
             </p>
           {:else}
             <div class="space-y-2 max-h-72 overflow-y-auto pr-1">
-              {#each historySessions as sess}
+              {#each historySessions as sess, i}
+                {@const prev = historySessions[i + 1]}
+                {@const diff = prev ? sess.profile.overallIQProxy.standardScore - prev.profile.overallIQProxy.standardScore : null}
                 <div class="p-3 bg-white/5 border border-white/10 rounded-xl flex items-center justify-between">
                   <div>
                     <span class="text-xs font-bold text-white block">{sess.dateStr}</span>
                     <span class="text-[10px] text-emerald-400 font-mono font-semibold">
-                      Razonamiento abstracto: {sess.profile.overallIQProxy.standardScore} ({sess.profile.overallIQProxy.levelDescription})
+                      Razonamiento abstracto: {sess.profile.overallIQProxy.standardScore} pts
                     </span>
                   </div>
-                  <span class="text-[10px] text-white/40 font-mono">Percentil {sess.profile.overallIQProxy.percentile}%</span>
+                  <span class="text-[10px] text-white/40 font-mono">
+                    {diff === null ? 'Punto de partida' : `${diff > 0 ? '+' : ''}${diff} vs. anterior`}
+                  </span>
                 </div>
               {/each}
             </div>
@@ -177,7 +181,7 @@
       <NeuroWorkshopGenerator />
     {:else if activeTab === 'orientacion'}
       {#if latestProfile}
-        <NeuroCounselorReport profile={latestProfile} />
+        <NeuroCounselorReport profile={latestProfile} previousProfile={historySessions[1]?.profile ?? null} />
       {:else}
         <p class="p-6 bg-black/60 border border-white/15 rounded-3xl text-xs text-white/50 text-center">
           El informe de orientación se genera a partir de una Evaluación completada en este dispositivo.

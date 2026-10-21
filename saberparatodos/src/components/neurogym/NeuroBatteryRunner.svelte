@@ -15,7 +15,7 @@
     type RawCognitiveScores
   } from '../../lib/neurogym/scoring-cognitive';
   import { neuroAudio } from '../../lib/neurogym/audio-synthesizer';
-  import { saveNeuroSession } from '../../lib/neurogym/neuro-storage';
+  import { getNeuroSessionsHistory, saveNeuroSession } from '../../lib/neurogym/neuro-storage';
 
   interface Props {
     /** Se llama tras guardar el perfil en el dispositivo. */
@@ -33,6 +33,7 @@
   let currentPhase = $state<'intro' | 'raven' | 'stroop' | 'reaction' | 'results'>('intro');
   let currentTrialIndex = $state(0);
   let finalProfile = $state<FullCognitiveProfile | null>(null);
+  let previousProfile = $state<FullCognitiveProfile | null>(null);
 
   // Accumulated Raw Data
   let rawData = $state<RawCognitiveScores>({
@@ -141,7 +142,15 @@
       finalProfile = computeCognitiveProfile(rawData);
       currentPhase = 'results';
       const profile = finalProfile;
-      saveNeuroSession(profile)
+      // Leer la evaluación anterior antes de guardar la nueva, para comparar contigo mismo.
+      getNeuroSessionsHistory(1)
+        .then((h) => {
+          previousProfile = h[0]?.profile ?? null;
+        })
+        .catch(() => {
+          previousProfile = null;
+        })
+        .then(() => saveNeuroSession(profile))
         .then(() => onBatteryFinished?.(profile))
         .catch(() => onBatteryFinished?.(profile));
     }
@@ -150,6 +159,7 @@
   function handleReset() {
     currentPhase = 'intro';
     finalProfile = null;
+    previousProfile = null;
   }
 </script>
 
@@ -217,6 +227,6 @@
       <ReactionMotorPad onCompleteTrial={handleReactionTrial} />
     </div>
   {:else if currentPhase === 'results' && finalProfile}
-    <NeuroScoreCard profile={finalProfile} onReset={handleReset} measuredDomains={MEASURED_DOMAINS} />
+    <NeuroScoreCard profile={finalProfile} onReset={handleReset} measuredDomains={MEASURED_DOMAINS} {previousProfile} />
   {/if}
 </div>

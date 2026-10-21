@@ -3,42 +3,60 @@
 
   interface Props {
     profile: FullCognitiveProfile;
+    /** Evaluación anterior del mismo dispositivo: el informe compara al estudiante consigo mismo. */
+    previousProfile?: FullCognitiveProfile | null;
     studentAlias?: string;
   }
 
-  let { profile, studentAlias = 'Estudiante-042' }: Props = $props();
+  let { profile, previousProfile = null, studentAlias = 'Estudiante-042' }: Props = $props();
 
   let counselorNotes = $state('');
   let isExported = $state(false);
 
-  function exportClinicalPDF() {
-    const reportText = `INFORME PSICOPEDAGÓGICO DE ORIENTACIÓN COGNITIVA
+  type DomainKey = 'overallIQProxy' | 'workingMemory' | 'processingSpeed' | 'motorAgility' | 'analyticalFlexibility';
+  const DOMAINS: { key: DomainKey; label: string }[] = [
+    { key: 'overallIQProxy', label: 'Razonamiento abstracto (matrices)' },
+    { key: 'workingMemory', label: 'Memoria de trabajo' },
+    { key: 'processingSpeed', label: 'Velocidad de procesamiento' },
+    { key: 'motorAgility', label: 'Agilidad motora y control' },
+    { key: 'analyticalFlexibility', label: 'Flexibilidad' }
+  ];
+
+  function progressLine(key: DomainKey, label: string): string {
+    const now = profile[key].standardScore;
+    if (!previousProfile) return `- ${label}: ${now} pts (primera evaluación, punto de partida)`;
+    const d = now - previousProfile[key].standardScore;
+    const change = d === 0 ? 'sin cambio' : `${d > 0 ? '+' : ''}${d} pts`;
+    return `- ${label}: ${now} pts (${change} frente a su evaluación anterior)`;
+  }
+
+  function exportReport() {
+    const reportText = `INFORME DE PROGRESO Y APOYO ESCOLAR
 =====================================================
-Sujeto / Nodo: ${studentAlias}
-Fecha de Evaluación: ${new Date(profile.timestamp).toLocaleDateString('es-CO')}
-Herramienta: WorldExams NeuroGym (Baremación Psicométrica Estandarizada)
+Estudiante: ${studentAlias}
+Fecha de la evaluación: ${new Date(profile.timestamp).toLocaleDateString('es-CO')}
+Herramienta: WorldExams NeuroGym (ejercicios de atención, memoria de trabajo y velocidad de procesamiento)
 
-1. ÍNDICES GENERALES
--------------------
-- Razonamiento Abstracto (matrices): ${profile.overallIQProxy.standardScore} (${profile.overallIQProxy.levelDescription}, Percentil ${profile.overallIQProxy.percentile}%)
-- Memoria de Trabajo (Span): ${profile.workingMemory.standardScore} (${profile.workingMemory.levelDescription})
-- Velocidad de Procesamiento (PSI): ${profile.processingSpeed.standardScore} (${profile.processingSpeed.levelDescription})
-- Agilidad Motora & Control: ${profile.motorAgility.standardScore} (${profile.motorAgility.levelDescription})
-- Flexibilidad Analítica: ${profile.analyticalFlexibility.standardScore} (${profile.analyticalFlexibility.levelDescription})
+Nota: estos puntos solo sirven para comparar al estudiante consigo mismo en el tiempo.
+No se comparan con otras personas y no constituyen un diagnóstico.
 
-2. OBSERVACIONES CLÍNICAS Y DE APRENDIZAJE
+1. PROGRESO RESPECTO A SU PROPIO HISTORIAL
 ------------------------------------------
-- Fortalezas Clave: ${profile.strengths.join(', ')}
-- Áreas de Oportunidad: ${profile.growthAreas.join(', ')}
+${DOMAINS.map((d) => progressLine(d.key, d.label)).join('\n')}
 
-3. ESTRATEGIAS DE APOYO ESCOLAR RECOMENDADAS
---------------------------------------------
-- Fraccionar tareas de alta carga en memoria de trabajo en pasos secuenciales.
-- Aplicar técnicas de discriminación visual para optimizar tiempos de respuesta.
-- Incorporar pausas activas motrices de 2 minutos para reducir fatiga inhibitoria.
+2. OBSERVACIONES DE APRENDIZAJE
+-------------------------------
+- Áreas más fuertes en esta evaluación: ${profile.strengths.join(', ') || 'Sin datos suficientes'}
+- Áreas para seguir practicando: ${profile.growthAreas.join(', ') || 'Sin datos suficientes'}
 
-4. NOTAS DEL PSICORIENTADOR / DOCENTE
---------------------------------------
+3. ESTRATEGIAS DE APOYO ESCOLAR SUGERIDAS
+-----------------------------------------
+- Fraccionar tareas con mucha información en pasos secuenciales.
+- Practicar ejercicios cortos de búsqueda visual y respuesta rápida.
+- Incorporar pausas activas de 2 minutos entre bloques de trabajo.
+
+4. NOTAS DEL ORIENTADOR / DOCENTE
+---------------------------------
 ${counselorNotes || 'Sin notas adicionales registradas.'}
 `;
 
@@ -46,7 +64,7 @@ ${counselorNotes || 'Sin notas adicionales registradas.'}
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `Informe_Orientacion_${studentAlias}_${Date.now()}.txt`;
+    a.download = `Informe_Progreso_${studentAlias}_${Date.now()}.txt`;
     a.click();
     URL.revokeObjectURL(url);
     isExported = true;
@@ -56,14 +74,14 @@ ${counselorNotes || 'Sin notas adicionales registradas.'}
 
 <div class="max-w-3xl mx-auto p-6 bg-black/70 border border-white/20 rounded-3xl space-y-6 shadow-2xl">
   <div class="border-b border-white/10 pb-4">
-    <span class="text-xs uppercase tracking-widest text-purple-400 font-mono font-bold">Gabinete de Psicorientación</span>
-    <h2 class="text-2xl font-black text-white mt-1">Informe Psicométrico y de Apoyo Escolar</h2>
-    <p class="text-xs text-white/60">Documento técnico para psicólogos escolares, tutores y directores de grupo.</p>
+    <span class="text-xs uppercase tracking-widest text-purple-400 font-mono font-bold">Orientación escolar</span>
+    <h2 class="text-2xl font-black text-white mt-1">Informe de progreso y apoyo escolar</h2>
+    <p class="text-xs text-white/60">Resumen para orientadores y docentes: compara al estudiante con su propio historial, sin percentiles ni diagnósticos.</p>
   </div>
 
   <div class="grid grid-cols-2 gap-3 p-4 bg-white/5 border border-white/10 rounded-2xl text-xs">
     <div>
-      <span class="text-white/40 block">Identificador Soberano:</span>
+      <span class="text-white/40 block">Estudiante:</span>
       <strong class="text-emerald-400 font-mono">{studentAlias}</strong>
     </div>
     <div>
@@ -73,7 +91,7 @@ ${counselorNotes || 'Sin notas adicionales registradas.'}
   </div>
 
   <div>
-    <label class="text-[10px] uppercase tracking-wider text-white/50 block mb-1">Notas y Dictamen de Orientación</label>
+    <label class="text-[10px] uppercase tracking-wider text-white/50 block mb-1">Notas de orientación</label>
     <textarea
       bind:value={counselorNotes}
       rows="4"
@@ -84,9 +102,9 @@ ${counselorNotes || 'Sin notas adicionales registradas.'}
 
   <button
     type="button"
-    onclick={exportClinicalPDF}
+    onclick={exportReport}
     class="w-full py-3 bg-purple-600 hover:bg-purple-700 text-white font-black uppercase tracking-wider text-xs rounded-xl transition-all cursor-pointer shadow-[0_0_20px_rgba(168,85,247,0.4)]"
   >
-    {isExported ? '✓ Informe Exportado' : '📄 Descargar Dictamen de Orientación'}
+    {isExported ? '✓ Informe Exportado' : '📄 Descargar informe de progreso'}
   </button>
 </div>
