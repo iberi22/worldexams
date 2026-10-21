@@ -70,11 +70,19 @@ describe('startRanked error mapping', () => {
     vi.restoreAllMocks();
   });
 
-  it('maps HTTP 503 to POOL_INSUFFICIENT', async () => {
-    (fetch as ReturnType<typeof vi.fn>).mockResolvedValue(jsonResponse({}, 503));
+  it('maps HTTP 503 with error POOL_INSUFFICIENT to POOL_INSUFFICIENT', async () => {
+    (fetch as ReturnType<typeof vi.fn>).mockResolvedValue(jsonResponse({ error: 'POOL_INSUFFICIENT' }, 503));
 
     await expect(startRanked('nico')).rejects.toMatchObject({
       code: 'POOL_INSUFFICIENT'
+    });
+  });
+
+  it('maps any other HTTP 503 to UNAVAILABLE', async () => {
+    (fetch as ReturnType<typeof vi.fn>).mockResolvedValue(jsonResponse({ error: 'RANKED_UNAVAILABLE' }, 503));
+
+    await expect(startRanked('nico')).rejects.toMatchObject({
+      code: 'UNAVAILABLE'
     });
   });
 
