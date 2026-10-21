@@ -82,6 +82,17 @@ describe("stats helpers", () => {
     expect(sanitizePath("")).toBe("/");
   });
 
+  it("collapses secret and token-like segments", () => {
+    expect(sanitizePath("/informes/bot/abc123")).toBe("/informes/bot/:token");
+    expect(sanitizePath("/Informes/Bot/x/y?z=1")).toBe("/informes/bot/:token");
+    expect(sanitizePath("/informes/bot/")).toBe("/informes/bot/");
+    expect(sanitizePath("/r/a1B2c3D4e5F6g7H8/x")).toBe("/r/:token/x");
+    expect(sanitizePath("/c/123e4567-e89b-12d3-a456-426614174000")).toBe("/c/:token");
+    // Ordinary slugs stay readable.
+    expect(sanitizePath("/pruebas-saber-gratis")).toBe("/pruebas-saber-gratis");
+    expect(sanitizePath("/preguntas/colombia/matematicas")).toBe("/preguntas/colombia/matematicas");
+  });
+
   it("splits 90 days into 30-day windows", () => {
     const end = Date.parse("2026-10-20T15:00:00Z");
     const w = splitWindows(end - 90 * 86400000, end);
@@ -166,6 +177,33 @@ describe("GET /v1/stats/traffic", () => {
     // 90 days => 3 windows, every block filtered by host.
     expect(query.match(/requestHost_in/g)).toHaveLength(18);
     expect(query).toContain("w2_referrers");
+  });
+
+  it("never publishes a per-student report token and drops paths/referrers under 3 loads", async () => {
+    const secret = "abcdef0123456789secretToken";
+    const account = {
+      ...sampleAccount(),
+      w0_paths: [
+        ...sampleAccount().w0_paths,
+        { count: 9, sum: { visits: 9 }, dimensions: { requestPath: `/informes/bot/${secret}` } },
+        { count: 1, sum: { visits: 1 }, dimensions: { requestPath: "/informes/bot/abc" } },
+        { count: 2, sum: { visits: 2 }, dimensions: { requestPath: "/rara" } },
+      ],
+      w0_referrers: [
+        ...sampleAccount().w0_referrers,
+        { count: 2, sum: { visits: 2 }, dimensions: { refererHost: "private-intranet.example" } },
+      ],
+    };
+    const res = await handleTrafficStats(req(), env, { fetch: vi.fn(async () => graphqlOk(account)) as any, cache: null, now: () => NOW });
+    const body: any = await res.json();
+    const text = JSON.stringify(body);
+    expect(text).not.toContain(secret);
+    expect(text).not.toContain("/informes/bot/abc");
+    expect(text).not.toContain("/rara");
+    expect(text).not.toContain("private-intranet.example");
+    expect(body.topPaths).toContainEqual({ path: "/informes/bot/:token", pageLoads: 10 });
+    expect(body.topPaths.every((p: any) => p.pageLoads >= 3)).toBe(true);
+    expect(body.topReferrers.every((r: any) => r.pageLoads >= 3)).toBe(true);
   });
 
   it("returns 503 STATS_NOT_CONFIGURED without token or account id", async () => {
